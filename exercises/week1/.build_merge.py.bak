@@ -1,0 +1,405 @@
+import nbformat as nbf
+from nbformat.v4 import new_markdown_cell, new_code_cell
+from nbclient import NotebookClient
+
+# ---------- load existing notebook ----------
+nb = nbf.read("1.3_toolbox_shakedown.ipynb", as_version=4)
+
+wrapup_idx = None
+for i, c in enumerate(nb.cells):
+    if c.cell_type == "markdown" and c.source.strip().startswith("## Wrap-up"):
+        wrapup_idx = i
+        break
+if wrapup_idx is None:
+    wrapup_idx = len(nb.cells)
+
+new_cells = []
+
+# ============================================================
+# Section intro
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""---
+
+# Marvel network — Exercises 1.4 & 1.6
+
+Course data: the week-1 snapshot from the [course data page](https://sunelehmann.com/socialgraphs2026-web/data/) — the frozen 2026-08-26 crawl of Wikipedia's *Category:Marvel Comics superheroes*. 303 characters, edge $A\\to B$ wherever $A$'s article links to $B$'s.
+
+Data files live in `data/week1_nodes.tsv` and `data/week1_edges.tsv`, loaded exactly as the course page instructs (every node added first, so the 17 isolates survive)."""
+))
+
+new_cells.append(new_markdown_cell("## Setup"))
+new_cells.append(new_code_cell(
+"""import pandas as pd
+import networkx as nx
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.rcParams["figure.dpi"] = 100
+RNG = np.random.default_rng(42)"""
+))
+
+# ============================================================
+# 1.6 Part 1 — load
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""## 1.6 Part 1 — Load the network
+
+Confirm $n=303$, $m=1{,}784$ directed edges. Collapse to undirected pairs and reconcile with $m=1{,}434$, $\\langle k\\rangle \\approx 9.5$."""
+))
+new_cells.append(new_code_cell(
+"""nodes = pd.read_csv("data/week1_nodes.tsv", sep="\\t", comment="#", quoting=3)  # QUOTE_NONE
+edges = pd.read_csv("data/week1_edges.tsv", sep="\\t", comment="#", names=["source", "target"])
+
+G = nx.DiGraph()
+G.add_nodes_from(nodes.node_id)
+G.add_edges_from(edges.itertuples(index=False))
+
+n = G.number_of_nodes()
+m_directed = G.number_of_edges()
+print(f"n = {n} nodes, m = {m_directed} directed edges")
+assert n == 303 and m_directed == 1784
+print("Matches the course page: n=303, 1,784 directed links. \\u2713")
+
+id_to_name = dict(zip(nodes.node_id, nodes.name))"""
+))
+new_cells.append(new_code_cell(
+"""G_undirected = G.to_undirected()
+m_undirected = G_undirected.number_of_edges()
+avg_k_undirected = 2 * m_undirected / n
+print(f"undirected pairs m = {m_undirected}, <k> = {avg_k_undirected:.2f}")
+assert m_undirected == 1434
+print("Matches the course page: m=1,434, <k>\\u22489.5. \\u2713")
+
+reciprocated_pairs = sum(1 for u, v in G.edges() if G.has_edge(v, u)) // 2
+print(f"\\nreciprocated pairs (link both ways): {reciprocated_pairs}")
+print(f"check: {m_directed} - {reciprocated_pairs} = {m_directed - reciprocated_pairs} "
+      f"== m_undirected? {m_directed - reciprocated_pairs == m_undirected}")"""
+))
+new_cells.append(new_markdown_cell(
+"""**Why the two edge counts differ, in one sentence:** the 350 pairs of characters who link to each other in *both* directions each contribute 2 directed edges but only 1 undirected edge, so those 700 directed edges collapse into 350 undirected ones — shrinking the total from 1,784 down to exactly 1,784 − 350 = 1,434."""
+))
+
+# ============================================================
+# Network plot (new)
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""## Plotting the network
+
+The force-directed layout, undirected, node size $\\propto$ degree, the five biggest hubs labeled. The 17 isolates have no edges to pull them anywhere, so they drift loose wherever the layout happens to put them — that's expected, not a bug."""
+))
+new_cells.append(new_code_cell(
+"""degrees_u = dict(G_undirected.degree())
+top5_hub_ids = [nid for nid, _ in sorted(degrees_u.items(), key=lambda kv: kv[1], reverse=True)[:5]]
+
+pos = nx.spring_layout(G_undirected, seed=42, k=0.18)
+node_sizes = [15 + degrees_u[nid] * 6 for nid in G_undirected.nodes()]
+node_colors = ["crimson" if nid in top5_hub_ids else "steelblue" for nid in G_undirected.nodes()]
+
+plt.figure(figsize=(12, 12))
+nx.draw_networkx_edges(G_undirected, pos, alpha=0.12, width=0.5)
+nx.draw_networkx_nodes(G_undirected, pos, node_size=node_sizes, node_color=node_colors, alpha=0.85)
+nx.draw_networkx_labels(
+    G_undirected, pos,
+    labels={nid: id_to_name[nid] for nid in top5_hub_ids},
+    font_size=11, font_weight="bold",
+)
+plt.title("Marvel character network (undirected) \\u2014 node size \\u221d degree, top-5 hubs labeled")
+plt.axis("off")
+plt.tight_layout()
+plt.show()"""
+))
+
+# ============================================================
+# 1.6 Part 2 — degree distributions
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""## 1.6 Part 2 — In-degree and out-degree distributions
+
+Linear and log–log axes, plotted against $k+1$ so the 17 zero-degree isolates survive the log axis."""
+))
+new_cells.append(new_code_cell(
+"""in_degree = dict(G.in_degree())
+out_degree = dict(G.out_degree())
+
+def degree_distribution(degree_dict, n):
+    \"\"\"u = k+1. Returns (u, P(u)); P(u) = (# nodes with that degree)/n. Keeps only u with P>0.\"\"\"
+    u_values = np.array([k + 1 for k in degree_dict.values()])
+    u_max = u_values.max()
+    counts = np.bincount(u_values, minlength=u_max + 1)
+    u_all = np.arange(1, u_max + 1)
+    P_all = counts[1:] / n
+    mask = P_all > 0
+    return u_all[mask], P_all[mask]
+
+u_in, P_in = degree_distribution(in_degree, n)
+u_out, P_out = degree_distribution(out_degree, n)
+
+fig, axes = plt.subplots(2, 2, figsize=(11, 8))
+
+axes[0, 0].bar(u_in, P_in, width=0.9, color="tab:red")
+axes[0, 0].set_title("In-degree \\u2014 linear axes"); axes[0, 0].set_xlabel("in-degree + 1"); axes[0, 0].set_ylabel("P(k)")
+
+axes[0, 1].scatter(u_in, P_in, s=15, color="tab:red")
+axes[0, 1].set_xscale("log"); axes[0, 1].set_yscale("log")
+axes[0, 1].set_title("In-degree \\u2014 log\\u2013log axes"); axes[0, 1].set_xlabel("in-degree + 1 (log)"); axes[0, 1].set_ylabel("P(k) (log)")
+
+axes[1, 0].bar(u_out, P_out, width=0.9, color="tab:blue")
+axes[1, 0].set_title("Out-degree \\u2014 linear axes"); axes[1, 0].set_xlabel("out-degree + 1"); axes[1, 0].set_ylabel("P(k)")
+
+axes[1, 1].scatter(u_out, P_out, s=15, color="tab:blue")
+axes[1, 1].set_xscale("log"); axes[1, 1].set_yscale("log")
+axes[1, 1].set_title("Out-degree \\u2014 log\\u2013log axes"); axes[1, 1].set_xlabel("out-degree + 1 (log)"); axes[1, 1].set_ylabel("P(k) (log)")
+
+plt.tight_layout()
+plt.show()"""
+))
+new_cells.append(new_code_cell(
+"""top5_in = sorted(in_degree.items(), key=lambda kv: kv[1], reverse=True)[:5]
+top5_out = sorted(out_degree.items(), key=lambda kv: kv[1], reverse=True)[:5]
+
+print("Top 5 by in-degree ('famous' \\u2014 most linked-to):")
+for node_id, k in top5_in:
+    print(f"  {id_to_name[node_id]:<32} in-degree = {k}")
+
+print("\\nTop 5 by out-degree ('a list' \\u2014 links out the most):")
+for node_id, k in top5_out:
+    print(f"  {id_to_name[node_id]:<32} out-degree = {k}")
+
+assert top5_in[0] == ("Spider-Man", 106)
+assert top5_out[0] == ("Betsy_Braddock", 28)
+print("\\nMatches the course page exactly: Spider-Man in-degree=106, Betsy Braddock out-degree=28. \\u2713")"""
+))
+
+# ---- 1.4 Q1 ----
+new_cells.append(new_markdown_cell(
+"""### 1.4 — Q1. Why does only the in-degree look like a power law?
+
+*"Which of the two has a ceiling, and which can keep growing? So what does a node's in-degree mean in this network, and what does its out-degree mean?"*
+
+**Answer.** An in-link is *conferred*: it's created by someone else's decision, on a different page entirely, that Spider-Man is worth mentioning. Nothing bounds how many of the other 302 articles can independently make that choice — so in-degree can, in principle, keep climbing with every new editor who links in, and empirically it does: Spider-Man sits at 106, with Hulk (64), Wolverine (60), Doctor Strange (50), Deadpool (33) trailing behind him — a classic heavy tail.
+
+An out-link is *authored*: someone has to sit down and physically write `[[Page name]]` into Betsy Braddock's own article. That's bounded by how long one article is and how much its editors were willing to cross-reference — a hard ceiling on effort, not fame. That's exactly why out-degree tops out four times lower, at 28.
+
+So in this network: **in-degree ≈ how famous/notable a character is across the whole encyclopedia** (an externally-conferred, unbounded popularity signal), while **out-degree ≈ how thorough this one specific article is** (a bounded, self-authored property of a single page, closer to "editorial effort" than "fame")."""
+))
+
+# ============================================================
+# 1.6 Part 3 — binning
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""## 1.6 Part 3 — Binning
+
+Width-1 bins for $u=1,\\dots,7$, then doubling bins $[8,16),[16,32),[32,64),[64,128)$. Each bin's count divided by its width; each bin drawn at the **geometric mean** of the integers it covers."""
+))
+new_cells.append(new_code_cell(
+"""def bin_edges(u_max):
+    edges = [(u, u + 1) for u in range(1, 8)]  # [1,2), ..., [7,8)
+    lo = 8
+    while lo <= u_max:
+        edges.append((lo, lo * 2))
+        lo *= 2
+    return edges
+
+def binned_distribution(degree_dict, n):
+    u_values = np.array([k + 1 for k in degree_dict.values()])
+    u_max = int(u_values.max())
+    counts = np.bincount(u_values, minlength=u_max + 1)
+    xs, ys = [], []
+    for lo, hi in bin_edges(u_max):
+        hi_clipped = min(hi, u_max + 1)
+        integers_in_bin = np.arange(lo, hi_clipped)
+        if len(integers_in_bin) == 0:
+            continue
+        count_in_bin = counts[lo:hi_clipped].sum()
+        width = hi - lo
+        density = (count_in_bin / n) / width
+        gmean = np.sqrt(integers_in_bin.min() * integers_in_bin.max())
+        xs.append(gmean)
+        ys.append(density)
+    return np.array(xs), np.array(ys)
+
+u_in_binned, P_in_binned = binned_distribution(in_degree, n)
+u_out_binned, P_out_binned = binned_distribution(out_degree, n)
+
+fig, axes = plt.subplots(1, 2, figsize=(11, 4.5))
+
+axes[0].scatter(u_in, P_in, s=15, color="tab:red", alpha=0.5, label="raw")
+axes[0].plot(u_in_binned, P_in_binned, "o-", color="darkred", label="binned")
+axes[0].set_xscale("log"); axes[0].set_yscale("log")
+axes[0].set_title("In-degree: raw vs. binned"); axes[0].set_xlabel("in-degree + 1 (log)"); axes[0].set_ylabel("P(k) (log)")
+axes[0].legend()
+
+axes[1].scatter(u_out, P_out, s=15, color="tab:blue", alpha=0.5, label="raw")
+axes[1].plot(u_out_binned, P_out_binned, "o-", color="darkblue", label="binned")
+axes[1].set_xscale("log"); axes[1].set_yscale("log")
+axes[1].set_title("Out-degree: raw vs. binned"); axes[1].set_xlabel("out-degree + 1 (log)"); axes[1].set_ylabel("P(k) (log)")
+axes[1].legend()
+
+plt.tight_layout()
+plt.show()"""
+))
+new_cells.append(new_code_cell(
+"""for u in range(1, 8):
+    if u in u_in:
+        raw_val = P_in[u_in == u][0]
+        bin_val = P_in_binned[np.isclose(u_in_binned, u)][0]
+        assert np.isclose(raw_val, bin_val), f"u={u}: raw {raw_val} != binned {bin_val}"
+print("All width-1 bins (u=1..7) match the raw in-degree distribution exactly. \\u2713")
+
+print("\\nRaw in-degree, u > 15 (this is the 'it looks like it stopped' region):")
+for u, p in zip(u_in, P_in):
+    if u > 15:
+        print(f"  u={u:4d}   P={p:.6f}   ({round(p*n)} node(s))")
+
+print("\\nBinned in-degree tail:")
+for x, y in zip(u_in_binned, P_in_binned):
+    if x > 7:
+        print(f"  x={x:7.2f}   P={y:.6f}")"""
+))
+
+# ---- 1.4 Q2 ----
+new_cells.append(new_markdown_cell(
+"""### 1.4 — Q2. Binning extends the power law — where did the extra range come from?
+
+*"Was it hiding, or did the binning invent it?"*
+
+**Answer: it was hiding.** Look at the printed raw tail above (u > 15): past that point every value is realized by exactly 0 or 1 character — there's no smooth decay left to see, just an isolated dot at u=21, nothing at u=22–25, a dot at u=26, and so on, with the zeros invisible on a log axis anyway. A raw scatter like that *looks* like it stops, simply because with only 303 samples the tail is statistically starved, not because the underlying trend actually stops.
+
+The width-1 bins (u=1..7) coincide **exactly** with the raw points — we asserted that above — so binning changes nothing where the data is dense. It only starts averaging once the data thins out, pooling those scattered single 0/1 counts over windows that double in width. That's why it's *revealing* real signal rather than inventing it: nothing is added to the data, it's just grouped so the trend can be seen through the sampling noise instead of getting lost in it."""
+))
+
+# ---- 1.4 Q3 ----
+new_cells.append(new_markdown_cell(
+"""### 1.4 — Q3. What can go wrong with binning?
+
+*"Name at least two ways a careless binning could manufacture a power law that is not there — or destroy one that is."*
+
+**Answer — at least two failure modes:**
+
+1. **Forgetting to divide by bin width.** A doubling bin like $[64,128)$ covers 64 integers; if you plot the raw *count* (or raw probability) inside it instead of the *density* (count/width), that bin looks 64× too populated purely because it's wide, not because the network has more characters there. This can manufacture a fake flattening or even an upward bump in the tail — a "shoulder" that isn't real, only there because the bin was left un-normalized.
+2. **Binning where the data is already dense.** At low $k$ every value has plenty of nodes, so width-1 bins already give a smooth, reliable curve; averaging that region into wider bins anyway throws away real resolution for no statistical benefit, and can blur a genuinely-curved (non-power-law) low end into looking artificially straight — manufacturing straightness that a finer look wouldn't support.
+3. **Where a wide bin's dot gets placed.** The arithmetic midpoint of $[8,16)$ is 12, but the geometric mean is $\\approx$10.95 — noticeably to the left, because a log axis compresses large numbers. Plotting at the arithmetic midpoint systematically shifts every wide bin to the right of where it belongs, which can bend an actually-straight line into a curve, or (just as easily) make a genuinely curved relationship look deceptively straight.
+4. **Fitting a slope to binned data.** No — you should never fit a power-law exponent to a binned plot. The bin edges and widths are choices *you* made, not properties of the data, so any slope you fit is partly measuring your binning scheme rather than the network. (The course page's own answer: the real tool for this is the cumulative distribution, no binning needed — that's week 2.)
+
+**The subtle one — integers vs. log-spaced edges.** `np.logspace` produces fractional edges like 1, 1.3, 1.8, 2.4, 3.2…, but degrees are integers. Between 1.8 and 2.4 there's no integer at all — that bin is empty by construction and silently vanishes (or plots as a fake gap) on a log axis, while a neighboring bin might straddle two consecutive integers and look twice as populated as it should, purely as an artifact of where the fractional edges happened to fall. The very first bin risks starting below the smallest real value (or excluding it); the very last bin is worse — the single largest degree (Spider-Man's, here) can sit exactly on the top edge, and depending on the library's half-open convention it either gets silently dropped from the histogram entirely, or gets merged into the second-to-last bin and makes it look artificially heavier. This is exactly why the scheme used above deliberately picks integer bin edges (powers of two) after the width-1 region: every bin is guaranteed to hold a known, non-empty set of integers, so none of these artifacts can happen."""
+))
+
+# ============================================================
+# Undirected degree distribution (new, to support 1.4 Q4)
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""## The undirected degree distribution
+
+Needed to answer 1.4's last question: pool in- and out-neighbors together (each counted once, whichever way the link points) and look at both ends of the resulting distribution."""
+))
+new_cells.append(new_code_cell(
+"""undirected_degree = dict(G_undirected.degree())
+u_und, P_und = degree_distribution(undirected_degree, n)
+
+plt.figure(figsize=(6, 4.5))
+plt.scatter(u_und, P_und, s=15, color="tab:purple")
+plt.xscale("log"); plt.yscale("log")
+plt.title("Undirected degree \\u2014 log\\u2013log axes")
+plt.xlabel("undirected degree + 1 (log)"); plt.ylabel("P(k) (log)")
+plt.tight_layout()
+plt.show()
+
+# Low end: can an obscure character with 0 in-links still have undirected degree > 0?
+zero_in_but_out_positive = [nid for nid in G.nodes if in_degree[nid] == 0 and out_degree[nid] > 0]
+true_isolates = [nid for nid in G.nodes if in_degree[nid] == 0 and out_degree[nid] == 0]
+print(f"characters with 0 in-links but >0 out-links (undirected degree still > 0): {len(zero_in_but_out_positive)}")
+print(f"true isolates (0 in AND 0 out -> undirected degree really is 0): {len(true_isolates)}")
+assert len(true_isolates) == 17
+
+# High end: does Spider-Man's undirected degree add anything beyond his in-degree?
+print(f"\\nSpider-Man: in-degree={in_degree['Spider-Man']}, out-degree={out_degree['Spider-Man']}, "
+      f"undirected degree={undirected_degree['Spider-Man']}")"""
+))
+
+# ---- 1.4 Q4 ----
+new_cells.append(new_markdown_cell(
+"""### 1.4 — Q4. The undirected distribution is the least useful — why?
+
+*"Can an obscure character with zero in-links have an undirected degree of zero? What does the tail really show you?"*
+
+**Low end — no, not necessarily.** The code above finds 41 characters with zero in-links that still have a positive out-degree (they were never mentioned by anyone else, but their own article links out to a few characters). Their undirected degree is *not* zero — it equals their out-degree. Only the 17 true isolates (zero in **and** zero out) actually sit at undirected degree zero. So "undirected degree = 0" unambiguously means "no connection at all," but small non-zero values are a mix: some are obscure-but-linked-to characters, some are obscure-but-link-writing characters, and the undirected number alone can't tell you which.
+
+**High end — it can quietly hide which mechanism produced it.** Spider-Man has in-degree 106 and out-degree 9, and his undirected degree is *also exactly 106* — every single one of his 9 out-links happens to point at someone who already links to him, so authoring those 9 edges added zero new neighbors. His entire undirected-degree tail position is really just his in-degree tail position relabeled; the "authored" component is invisible in it, even though it's mixed into the definition. In general, undirected degree $\\approx$ in-degree + out-degree $-$ (overlap), so the tail is some fame-driven signal and some authorship-driven signal smeared together into one number, with no way to tell from that number alone how much of each went into it.
+
+**Why a network scientist looks at them separately.** In-degree and out-degree are generated by two genuinely different mechanisms — external validation (being linked to) versus individual authorship (writing links) — that answer two different questions ("who's famous?" vs. "who wrote the most cross-references?"). Summing them into one undirected number doesn't just lose precision, it actively conflates two different processes into a single curve, which is exactly why the course page calls the undirected view "the least useful of the three.\""""
+))
+
+# ============================================================
+# 1.6 Part 4 — exponential vs power law
+# ============================================================
+new_cells.append(new_markdown_cell(
+"""## 1.6 Part 4 — Two mathematical specimens vs. the real thing
+
+10,000 samples from an exponential and 10,000 from a power law, on all four axis combinations, then the real in-degree distribution laid over the same log–log axes."""
+))
+new_cells.append(new_code_cell(
+"""alpha, x_min = 2.5, 1.0
+U = RNG.random(10_000)
+power_samples = x_min * (1 - U) ** (-1 / (alpha - 1))
+exp_samples = RNG.exponential(scale=5.0, size=10_000) + 1
+
+def hist_density(samples, bins):
+    counts, edges = np.histogram(samples, bins=bins)
+    widths = np.diff(edges)
+    centers = np.sqrt(edges[:-1] * edges[1:])
+    density = counts / counts.sum() / widths
+    mask = counts > 0
+    return centers[mask], density[mask]
+
+log_bins = np.logspace(0, np.log10(max(power_samples.max(), exp_samples.max())), 40)
+lin_bins = np.linspace(0, max(power_samples.max(), exp_samples.max()), 60)
+
+fig, axes = plt.subplots(2, 2, figsize=(11, 8))
+specs = [(False, False, "linear x / linear y"), (True, False, "log x / linear y"),
+         (False, True, "linear x / log y"), (True, True, "log x / log y")]
+for ax, (xlog, ylog, title) in zip(axes.flat, specs):
+    bins = log_bins if xlog else lin_bins
+    xp, yp = hist_density(power_samples, bins)
+    xe, ye = hist_density(exp_samples, bins)
+    ax.plot(xp, yp, "o", ms=3, color="tab:purple", label="power law")
+    ax.plot(xe, ye, "o", ms=3, color="tab:green", label="exponential")
+    if xlog: ax.set_xscale("log")
+    if ylog: ax.set_yscale("log")
+    ax.set_title(title); ax.legend()
+
+plt.tight_layout()
+plt.show()
+print("log x / linear y straightens the EXPONENTIAL; log x / log y straightens the POWER LAW.")"""
+))
+new_cells.append(new_code_cell(
+"""xp, yp = hist_density(power_samples, log_bins)
+xe, ye = hist_density(exp_samples, log_bins)
+
+fig, ax = plt.subplots(figsize=(7, 5.5))
+ax.plot(xp, yp, "o", ms=4, color="tab:purple", alpha=0.6, label="power law (synthetic)")
+ax.plot(xe, ye, "o", ms=4, color="tab:green", alpha=0.6, label="exponential (synthetic)")
+ax.plot(u_in_binned, P_in_binned, "o-", ms=6, color="darkred", label="real Marvel in-degree (binned)")
+ax.set_xscale("log"); ax.set_yscale("log")
+ax.set_xlabel("x (in-degree + 1, log)"); ax.set_ylabel("density (log)")
+ax.set_title("Real in-degree vs. two mathematical specimens")
+ax.legend()
+plt.tight_layout()
+plt.show()"""
+))
+new_cells.append(new_markdown_cell(
+"""**Which does it resemble — and how sure are you?** Over most of its range the real in-degree curve tracks the power law's straight-line slope far more closely than the exponential's, which visibly bends over and dies out well before Spider-Man's neighborhood — and in the very tail the exponential specimen has essentially *no* density left where the real data (and the power law) still do. That said, with only $n=303$ nodes and one realization of the network, this is an eyeball comparison, not a statistical test: a lognormal could plausibly produce a similarly straightish binned tail over a range this short. The course page's own closing note applies: the rigorous way to settle "is it a power law?" is the cumulative distribution function, no binning required — that's week 2's tool.
+
+*(Write your own one-sentence confidence call here once you've looked at the plot yourself — that judgment call is yours.)*"""
+))
+
+# ---------- splice in and re-execute ----------
+nb["cells"][wrapup_idx:wrapup_idx] = new_cells
+
+client = NotebookClient(nb, timeout=240, kernel_name="python3")
+client.execute()
+
+with open("1.3_toolbox_shakedown.ipynb", "w") as f:
+    nbf.write(nb, f)
+
+print("DONE. total cells now:", len(nb["cells"]))

@@ -1,0 +1,308 @@
+import nbformat as nbf
+from nbformat.v4 import new_notebook, new_markdown_cell, new_code_cell
+from nbclient import NotebookClient
+
+cells = []
+
+# ============ Title ============
+cells.append(new_markdown_cell(
+"""# Exercise 1.6 — The distribution, as code
+
+Course: 02805 Social Graphs and Interactions (Fall 2026) — Week 1, "Your toolbox" / "Degree distributions"
+
+Rebuilds the two Week 1 explorables (the adjacency-matrix-style Marvel walkthrough and the real-degrees / two-distributions explorables) as real code, on the actual week-1 Marvel dataset from the [course data page](https://sunelehmann.com/socialgraphs2026-web/data/).
+
+Data files (`data/week1_nodes.tsv`, `data/week1_edges.tsv`) were downloaded from the course data page exactly as described there — the frozen 2026-08-26 snapshot of Wikipedia's *Category:Marvel Comics superheroes*, 303 characters, edges wherever one character's article links to another's."""
+))
+
+# ============ Setup ============
+cells.append(new_markdown_cell("## Setup"))
+cells.append(new_code_cell(
+"""import pandas as pd
+import networkx as nx
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.rcParams["figure.dpi"] = 100
+RNG = np.random.default_rng(42)"""
+))
+
+# ============ Part 1 ============
+cells.append(new_markdown_cell(
+"""## Part 1 — Load the network
+
+Load `week1_nodes.tsv` / `week1_edges.tsv` exactly as the course data page instructs: add **every node first**, so the 17 isolated characters (no link in either direction) survive, then add the edges as a directed graph."""
+))
+cells.append(new_code_cell(
+"""nodes = pd.read_csv("data/week1_nodes.tsv", sep="\\t", comment="#", quoting=3)  # QUOTE_NONE
+edges = pd.read_csv("data/week1_edges.tsv", sep="\\t", comment="#", names=["source", "target"])
+
+G = nx.DiGraph()
+G.add_nodes_from(nodes.node_id)
+G.add_edges_from(edges.itertuples(index=False))
+
+n = G.number_of_nodes()
+m_directed = G.number_of_edges()
+print(f"n = {n} nodes, m = {m_directed} directed edges")
+
+assert n == 303, f"expected 303 nodes, got {n}"
+assert m_directed == 1784, f"expected 1784 directed edges, got {m_directed}"
+print("Matches the course page: n=303, 1,784 directed links. ✓")"""
+))
+cells.append(new_code_cell(
+"""# Collapse to the undirected view: two characters are "connected" if either links the other.
+G_undirected = G.to_undirected()
+m_undirected = G_undirected.number_of_edges()
+avg_k_undirected = 2 * m_undirected / n
+
+print(f"undirected pairs m = {m_undirected}")
+print(f"undirected average degree <k> = 2m/n = {avg_k_undirected:.2f}")
+
+assert m_undirected == 1434, f"expected 1434 undirected pairs, got {m_undirected}"
+assert abs(avg_k_undirected - 9.5) < 0.1
+print("Matches the course page: m=1,434 pairs, <k> ≈ 9.5. ✓")
+
+# Why do the two edge counts differ? Count reciprocated pairs directly, don't just assert the arithmetic.
+reciprocated_directed_edges = sum(1 for u, v in G.edges() if G.has_edge(v, u))
+reciprocated_pairs = reciprocated_directed_edges // 2
+print(f"\\nreciprocated pairs (A links B AND B links A): {reciprocated_pairs}")
+print(f"check: {m_directed} directed edges - {reciprocated_pairs} reciprocated pairs "
+      f"= {m_directed - reciprocated_pairs} = m_undirected? {m_directed - reciprocated_pairs == m_undirected}")"""
+))
+cells.append(new_markdown_cell(
+"""**Why the two counts differ, in one sentence:** every one of the 350 pairs of characters that link to each other in *both* directions contributes 2 directed edges but only 1 undirected edge, so those 700 directed edges collapse into 350 undirected ones, shrinking the total from 1,784 down to exactly 1,784 − 350 = 1,434 — matching the course page's own aside that "350 of them link both ways.\""""
+))
+
+# ============ Part 2 ============
+cells.append(new_markdown_cell(
+"""## Part 2 — In-degree and out-degree distributions
+
+Reproduce the *real-degrees* explorable: in-degree and out-degree, each on linear and log–log axes, plotted against $k+1$ so the 17 zero-degree isolates survive the log axis (an axis of raw $k$ can't show a 0)."""
+))
+cells.append(new_code_cell(
+"""in_degree = dict(G.in_degree())
+out_degree = dict(G.out_degree())
+
+def degree_distribution(degree_dict, n):
+    \"\"\"u = k+1. Returns arrays (u, P(u)) with P(u) = (# nodes with that degree) / n,
+    keeping only u-values that actually occur (a log axis can't plot P=0 anyway).\"\"\"
+    u_values = np.array([k + 1 for k in degree_dict.values()])
+    u_max = u_values.max()
+    counts = np.bincount(u_values, minlength=u_max + 1)
+    u_all = np.arange(1, u_max + 1)
+    P_all = counts[1:] / n
+    mask = P_all > 0
+    return u_all[mask], P_all[mask]
+
+u_in, P_in = degree_distribution(in_degree, n)
+u_out, P_out = degree_distribution(out_degree, n)
+
+fig, axes = plt.subplots(2, 2, figsize=(11, 8))
+
+axes[0, 0].bar(u_in, P_in, width=0.9, color="tab:red")
+axes[0, 0].set_title("In-degree — linear axes")
+axes[0, 0].set_xlabel("in-degree + 1")
+axes[0, 0].set_ylabel("P(k)")
+
+axes[0, 1].scatter(u_in, P_in, s=15, color="tab:red")
+axes[0, 1].set_xscale("log"); axes[0, 1].set_yscale("log")
+axes[0, 1].set_title("In-degree — log–log axes")
+axes[0, 1].set_xlabel("in-degree + 1 (log)")
+axes[0, 1].set_ylabel("P(k) (log)")
+
+axes[1, 0].bar(u_out, P_out, width=0.9, color="tab:blue")
+axes[1, 0].set_title("Out-degree — linear axes")
+axes[1, 0].set_xlabel("out-degree + 1")
+axes[1, 0].set_ylabel("P(k)")
+
+axes[1, 1].scatter(u_out, P_out, s=15, color="tab:blue")
+axes[1, 1].set_xscale("log"); axes[1, 1].set_yscale("log")
+axes[1, 1].set_title("Out-degree — log–log axes")
+axes[1, 1].set_xlabel("out-degree + 1 (log)")
+axes[1, 1].set_ylabel("P(k) (log)")
+
+plt.tight_layout()
+plt.show()"""
+))
+cells.append(new_code_cell(
+"""id_to_name = dict(zip(nodes.node_id, nodes.name))
+
+top5_in = sorted(in_degree.items(), key=lambda kv: kv[1], reverse=True)[:5]
+top5_out = sorted(out_degree.items(), key=lambda kv: kv[1], reverse=True)[:5]
+
+print("Top 5 by in-degree (most-linked-to — 'famous'):")
+for node_id, k in top5_in:
+    print(f"  {id_to_name[node_id]:<32} in-degree = {k}")
+
+print("\\nTop 5 by out-degree (links out the most — 'a list'):")
+for node_id, k in top5_out:
+    print(f"  {id_to_name[node_id]:<32} out-degree = {k}")
+
+assert top5_in[0] == ("Spider-Man", 106), "Spider-Man should top in-degree at 106 per the course page"
+assert top5_out[0] == ("Betsy_Braddock", 28), "Betsy Braddock should top out-degree at 28 per the course page"
+print("\\nMatches the course page exactly: Spider-Man in-degree=106, Betsy Braddock out-degree=28. ✓")"""
+))
+cells.append(new_markdown_cell(
+"""Only the in-degree tail stretches out into power-law-looking territory (all the way to Spider-Man at 106); the out-degree tail dies out almost four times earlier, at Betsy Braddock's 28. That is because in-links are *conferred* — some other article's editors decide independently that this character is worth mentioning, so nothing stops that count from growing without bound as more and more pages point at the same famous hub. Out-links are *authored* — one person has to sit down and write each one into a single article, so an out-degree is capped by how much any one page's editors were willing to write. In this network, in-degree is closer to "how famous is this character across the whole encyclopedia", while out-degree is closer to "how thorough is this one article.\""""
+))
+
+# ============ Part 3 ============
+cells.append(new_markdown_cell(
+"""## Part 3 — Binning
+
+Implement the exact scheme from the course page's Goodies note: working in $u = k+1$, width-1 bins for $u = 1, \\dots, 7$, then doubling bins $[8,16), [16,32), [32,64), [64,128)$. Each bin's count is divided by the bin's *width* (so what's plotted is a probability density, not a raw count), and each bin is drawn at the **geometric mean** of the integers it actually covers — not the arithmetic midpoint."""
+))
+cells.append(new_code_cell(
+"""def bin_edges(u_max):
+    \"\"\"width-1 bins for u=1..7, then doubling bins, as far as u_max requires.\"\"\"
+    edges = [(u, u + 1) for u in range(1, 8)]  # [1,2), [2,3), ..., [7,8)
+    lo = 8
+    while lo <= u_max:
+        edges.append((lo, lo * 2))
+        lo *= 2
+    return edges
+
+def binned_distribution(degree_dict, n):
+    u_values = np.array([k + 1 for k in degree_dict.values()])
+    u_max = int(u_values.max())
+    counts = np.bincount(u_values, minlength=u_max + 1)
+    xs, ys = [], []
+    for lo, hi in bin_edges(u_max):
+        hi_clipped = min(hi, u_max + 1)          # don't reach past the data
+        integers_in_bin = np.arange(lo, hi_clipped)
+        if len(integers_in_bin) == 0:
+            continue
+        count_in_bin = counts[lo:hi_clipped].sum()
+        width = hi - lo                            # nominal bin width, e.g. 8 for [8,16)
+        density = (count_in_bin / n) / width
+        gmean = np.sqrt(integers_in_bin.min() * integers_in_bin.max())
+        xs.append(gmean)
+        ys.append(density)
+    return np.array(xs), np.array(ys)
+
+u_in_binned, P_in_binned = binned_distribution(in_degree, n)
+u_out_binned, P_out_binned = binned_distribution(out_degree, n)
+
+fig, axes = plt.subplots(1, 2, figsize=(11, 4.5))
+
+axes[0].scatter(u_in, P_in, s=15, color="tab:red", alpha=0.5, label="raw")
+axes[0].plot(u_in_binned, P_in_binned, "o-", color="darkred", label="binned")
+axes[0].set_xscale("log"); axes[0].set_yscale("log")
+axes[0].set_title("In-degree: raw vs. binned")
+axes[0].set_xlabel("in-degree + 1 (log)"); axes[0].set_ylabel("P(k) (log)")
+axes[0].legend()
+
+axes[1].scatter(u_out, P_out, s=15, color="tab:blue", alpha=0.5, label="raw")
+axes[1].plot(u_out_binned, P_out_binned, "o-", color="darkblue", label="binned")
+axes[1].set_xscale("log"); axes[1].set_yscale("log")
+axes[1].set_title("Out-degree: raw vs. binned")
+axes[1].set_xlabel("out-degree + 1 (log)"); axes[1].set_ylabel("P(k) (log)")
+axes[1].legend()
+
+plt.tight_layout()
+plt.show()"""
+))
+cells.append(new_code_cell(
+"""# The width-1 bins (u = 1..7) must coincide EXACTLY with the raw points -- nothing to average
+# where every value already has its own bin.
+for u in range(1, 8):
+    if u in u_in:
+        raw_val = P_in[u_in == u][0]
+        bin_val = P_in_binned[np.isclose(u_in_binned, u)][0]
+        assert np.isclose(raw_val, bin_val), f"u={u}: raw {raw_val} != binned {bin_val}"
+
+print("All width-1 bins (u=1..7) match the raw in-degree distribution exactly. ✓")
+print("\\nBinned in-degree points (x = geometric mean, y = density):")
+for x, y in zip(u_in_binned, P_in_binned):
+    print(f"  x={x:7.2f}   P={y:.6f}")"""
+))
+cells.append(new_markdown_cell(
+"""Notice the last doubling bin for in-degree, $[64,128)$: only Spider-Man's article ($u=107$) lives up there, so that whole bin holds a single character, and its density is tiny simply because it's being divided by a nominal width of 64 — a reminder that a binned dot far in the tail rests on very little data, even though it looks like a solid point on the plot."""
+))
+
+# ============ Part 4 ============
+cells.append(new_markdown_cell(
+"""## Part 4 — Two mathematical specimens vs. the real thing
+
+Reproduce the *two-distributions* explorable: 10,000 samples from an exponential distribution and 10,000 from a power law, on all four linear/log axis combinations — then lay the real in-degree distribution over the same log–log axes and see which specimen it resembles."""
+))
+cells.append(new_code_cell(
+"""# Power law via inverse-transform sampling: p(x) ∝ x^-alpha for x >= x_min.
+alpha, x_min = 2.5, 1.0
+U = RNG.random(10_000)
+power_samples = x_min * (1 - U) ** (-1 / (alpha - 1))
+
+# Exponential, shifted by +1 to sit on the same u = k+1 footing as the real data (keeps x >= 1).
+exp_samples = RNG.exponential(scale=5.0, size=10_000) + 1
+
+def hist_density(samples, bins):
+    counts, edges = np.histogram(samples, bins=bins)
+    widths = np.diff(edges)
+    centers = np.sqrt(edges[:-1] * edges[1:])   # geometric-mean bin centers, log-axis-appropriate
+    density = counts / counts.sum() / widths
+    mask = counts > 0
+    return centers[mask], density[mask]
+
+log_bins = np.logspace(0, np.log10(max(power_samples.max(), exp_samples.max())), 40)
+
+fig, axes = plt.subplots(2, 2, figsize=(11, 8))
+specs = [
+    (False, False, "linear-linear"), (True, False, "log-linear"),
+    (False, True, "linear-log"), (True, True, "log-log"),
+]
+for ax, (xlog, ylog, title) in zip(axes.flat, specs):
+    lin_bins = np.linspace(0, max(power_samples.max(), exp_samples.max()), 60)
+    bins = log_bins if xlog else lin_bins
+    xp, yp = hist_density(power_samples, bins)
+    xe, ye = hist_density(exp_samples, bins)
+    ax.plot(xp, yp, "o", ms=3, color="tab:purple", label="power law")
+    ax.plot(xe, ye, "o", ms=3, color="tab:green", label="exponential")
+    if xlog: ax.set_xscale("log")
+    if ylog: ax.set_yscale("log")
+    ax.set_title(title)
+    ax.legend()
+
+plt.tight_layout()
+plt.show()
+print("Only the log-log panel makes the power law fall on a straight line;")
+print("the exponential never straightens on log-log -- it curves away in the tail.")"""
+))
+cells.append(new_code_cell(
+"""# Now overlay the REAL in-degree distribution (binned) on the same log-log axes as the two specimens.
+xp, yp = hist_density(power_samples, log_bins)
+xe, ye = hist_density(exp_samples, log_bins)
+
+fig, ax = plt.subplots(figsize=(7, 5.5))
+ax.plot(xp, yp, "o", ms=4, color="tab:purple", alpha=0.6, label="power law (synthetic)")
+ax.plot(xe, ye, "o", ms=4, color="tab:green", alpha=0.6, label="exponential (synthetic)")
+ax.plot(u_in_binned, P_in_binned, "o-", ms=6, color="darkred", label="real Marvel in-degree (binned)")
+ax.set_xscale("log"); ax.set_yscale("log")
+ax.set_xlabel("x  (in-degree + 1, log)"); ax.set_ylabel("density (log)")
+ax.set_title("Real in-degree vs. two mathematical specimens")
+ax.legend()
+plt.tight_layout()
+plt.show()"""
+))
+cells.append(new_markdown_cell(
+"""**Which does it resemble?** Over most of its range the real in-degree curve tracks the power-law specimen's straight-line slope on log–log axes far more closely than the exponential's, which visibly bends over and drops off long before Spider-Man's neighborhood. That said — with only $n=303$ nodes and a single realization of the network, this eyeball comparison isn't a statistical test; a lognormal could plausibly produce a similarly straightish binned tail over this short a range too. The course page's own closing note applies here: the real way to settle "is it a power law?" rigorously is the cumulative distribution function, no binning required — that's week 2's tool, not this week's.
+
+*(Your own read of "how sure are you" belongs here — write a sentence or two once you've looked at the plot yourself.)*"""
+))
+cells.append(new_markdown_cell("---\n\n*Notebook built and executed for Exercise 1.6. Data: course data page, week-1 snapshot (frozen 2026-08-26).*"))
+
+# ============ Build & execute ============
+nb = new_notebook()
+nb["cells"] = cells
+nb["metadata"] = {
+    "kernelspec": {"display_name": "Python 3", "language": "python", "name": "python3"},
+    "language_info": {"name": "python", "version": "3"},
+}
+
+client = NotebookClient(nb, timeout=180, kernel_name="python3")
+client.execute()
+
+out_path = "1.6_marvel_distribution_as_code.ipynb"
+with open(out_path, "w") as f:
+    nbf.write(nb, f)
+
+print("DONE:", out_path)
