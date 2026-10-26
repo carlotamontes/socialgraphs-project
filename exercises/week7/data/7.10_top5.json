@@ -1,0 +1,370 @@
+{
+ "adamantium skeleton and claws": {
+  "sparse": [
+   [
+    "Wolverine (character)",
+    0.164
+   ],
+   [
+    "Wolverine (Ultimate Marvel character)",
+    0.082
+   ],
+   [
+    "Coldblood",
+    0.033
+   ],
+   [
+    "White Tiger (Heroes for Hire)",
+    0.033
+   ],
+   [
+    "Black Cat (Marvel Comics)",
+    0.028
+   ]
+  ],
+  "dense": [
+   [
+    "Wolverine (character)",
+    0.616
+   ],
+   [
+    "Solo (Marvel Comics)",
+    0.453
+   ],
+   [
+    "Wolverine (Ultimate Marvel character)",
+    0.396
+   ],
+   [
+    "Black Cat (Marvel Comics)",
+    0.39
+   ],
+   [
+    "Misty Knight",
+    0.377
+   ]
+  ]
+ },
+ "symbiote that bonds with a host": {
+  "sparse": [
+   [
+    "Mania (character)",
+    0.352
+   ],
+   [
+    "Venom (character)",
+    0.297
+   ],
+   [
+    "Eddie Brock",
+    0.231
+   ],
+   [
+    "Hybrid (Scott Washington)",
+    0.174
+   ],
+   [
+    "She-Venom (Patricia Robertson)",
+    0.052
+   ]
+  ],
+  "dense": [
+   [
+    "Mania (character)",
+    0.607
+   ],
+   [
+    "Eddie Brock",
+    0.597
+   ],
+   [
+    "Venom (character)",
+    0.573
+   ],
+   [
+    "Hybrid (Scott Washington)",
+    0.428
+   ],
+   [
+    "Silk (character)",
+    0.34
+   ]
+  ]
+ },
+ "Sorcerer Supreme": {
+  "sparse": [
+   [
+    "Doctor Strange",
+    0.218
+   ],
+   [
+    "Moonglow (comics)",
+    0.182
+   ],
+   [
+    "Jericho Drumm",
+    0.115
+   ],
+   [
+    "Alice Nugent",
+    0.105
+   ],
+   [
+    "Hyperion (character)",
+    0.097
+   ]
+  ],
+  "dense": [
+   [
+    "Doctor Strange",
+    0.599
+   ],
+   [
+    "Doom 2099",
+    0.485
+   ],
+   [
+    "Jericho Drumm",
+    0.458
+   ],
+   [
+    "Moon Knight",
+    0.452
+   ],
+   [
+    "Alice Nugent",
+    0.444
+   ]
+  ]
+ },
+ "a sorcerer who protects the world from magical threats": {
+  "sparse": [
+   [
+    "Doctor Strange",
+    0.117
+   ],
+   [
+    "Jericho Drumm",
+    0.045
+   ],
+   [
+    "Arabian Knight (character)",
+    0.038
+   ],
+   [
+    "Doctor Druid",
+    0.037
+   ],
+   [
+    "Moonglow (comics)",
+    0.033
+   ]
+  ],
+  "dense": [
+   [
+    "Doctor Strange",
+    0.454
+   ],
+   [
+    "Moon Knight",
+    0.42
+   ],
+   [
+    "Justice (New Universe)",
+    0.409
+   ],
+   [
+    "Straw Man (comics)",
+    0.388
+   ],
+   [
+    "Storm (Marvel Comics)",
+    0.384
+   ]
+  ]
+ },
+ "a teenage girl who can turn into a giant": {
+  "sparse": [
+   [
+    "Spider-Girl",
+    0.185
+   ],
+   [
+    "Mayday Parker",
+    0.113
+   ],
+   [
+    "Thor Girl",
+    0.105
+   ],
+   [
+    "Bill Foster (character)",
+    0.056
+   ],
+   [
+    "Hank Pym",
+    0.045
+   ]
+  ],
+  "dense": [
+   [
+    "Jean Grey",
+    0.453
+   ],
+   [
+    "She-Hulk",
+    0.413
+   ],
+   [
+    "Emma Frost",
+    0.394
+   ],
+   [
+    "Spider-Girl",
+    0.391
+   ],
+   [
+    "Gwenpool",
+    0.384
+   ]
+  ]
+ },
+ "a mercenary with a healing factor who breaks the fourth wall": {
+  "sparse": [
+   [
+    "Agent X (Marvel Comics)",
+    0.093
+   ],
+   [
+    "Deadpool",
+    0.055
+   ],
+   [
+    "Wolverine (Ultimate Marvel character)",
+    0.052
+   ],
+   [
+    "Wolverine (character)",
+    0.043
+   ],
+   [
+    "Hellfire (J. T. Slade)",
+    0.04
+   ]
+  ],
+  "dense": [
+   [
+    "Red Guardian",
+    0.408
+   ],
+   [
+    "Hercules (Marvel Comics)",
+    0.395
+   ],
+   [
+    "Agent X (Marvel Comics)",
+    0.376
+   ],
+   [
+    "Blackwulf",
+    0.374
+   ],
+   [
+    "Black Panther (character)",
+    0.363
+   ]
+  ]
+ },
+ "the king of an African nation who wears a cat suit": {
+  "sparse": [
+   [
+    "Black Cat (Marvel Comics)",
+    0.316
+   ],
+   [
+    "Storm (Marvel Comics)",
+    0.069
+   ],
+   [
+    "Black Panther (character)",
+    0.067
+   ],
+   [
+    "Silk (character)",
+    0.052
+   ],
+   [
+    "Isaiah Bradley",
+    0.05
+   ]
+  ],
+  "dense": [
+   [
+    "Black Panther (character)",
+    0.436
+   ],
+   [
+    "Black Cat (Marvel Comics)",
+    0.402
+   ],
+   [
+    "White Tiger (comics)",
+    0.395
+   ],
+   [
+    "Emma Frost",
+    0.358
+   ],
+   [
+    "Shuri (character)",
+    0.343
+   ]
+  ]
+ },
+ "a monster created when a scientist was exposed to gamma radiation": {
+  "sparse": [
+   [
+    "Frankenstein's Monster (Marvel Comics)",
+    0.146
+   ],
+   [
+    "Hulk",
+    0.093
+   ],
+   [
+    "Abomination (character)",
+    0.064
+   ],
+   [
+    "Hulk 2099",
+    0.062
+   ],
+   [
+    "Radioactive Man (comics)",
+    0.054
+   ]
+  ],
+  "dense": [
+   [
+    "Hulk",
+    0.526
+   ],
+   [
+    "Gargoyle (comics)",
+    0.501
+   ],
+   [
+    "Radioactive Man (comics)",
+    0.473
+   ],
+   [
+    "Gremlin (comics)",
+    0.452
+   ],
+   [
+    "Frankenstein's Monster (Marvel Comics)",
+    0.452
+   ]
+  ]
+ }
+}
