@@ -1,0 +1,205 @@
+%% =====================================================================
+%%  02805 Social Graphs and Interactions -- Final project paper
+%%  Built on the official PNAS Overleaf template (pnas-new.cls).
+%%
+%%  HOW TO USE
+%%  1. In Overleaf open the course template and click "Open as Template":
+%%     https://www.overleaf.com/latex/templates/template-for-preparing-your-research-report-submission-to-pnas-using-overleaf/fzcbzjvpvnxn
+%%  2. Upload THIS main.tex and references.bib (overwrite main.tex).
+%%  3. Make a folder "figures/" and put your figure PDFs/PNGs in it.
+%%
+%%  HARD RULES (week 8 page)
+%%   - Max 6 pages INCLUDING figures and references.
+%%   - Sections: Abstract (~150 words), Significance Statement,
+%%     Introduction, Results, Discussion, Methods, References,
+%%     specific Author Contributions.
+%%   - Dataset must contain both a network and text.
+%%   - Hand in PDF on DTU Learn by Fri 27 Nov 2026, 23:59.
+%%
+%%  Placeholders are marked with \todo{...}, which prints in red.
+%%  Before hand-in, search for "\todo" and make sure none remain.
+%% =====================================================================
+
+% "lineno" prints line numbers: handy for group feedback on drafts.
+% Remove it for the version you hand in.
+\documentclass[9pt,twocolumn,twoside,lineno]{pnas-new}
+
+\templatetype{pnasresearcharticle}
+
+% ---- Extra packages and helpers --------------------------------------
+\usepackage{xcolor}
+\usepackage{booktabs}   % nice tables (\toprule, \midrule, \bottomrule)
+\newcommand{\todo}[1]{\textcolor{red}{[TODO: #1]}}
+\graphicspath{{figures/}}
+
+% ---- Title and authors -----------------------------------------------
+% The title states the finding or the question, not the method.
+\title{\todo{Title that states the question or the main finding}}
+
+\author[a]{Carlota \todo{Surname}}
+\author[a]{\todo{Group member 2}}
+\author[a]{\todo{Group member 3}}
+
+\affil[a]{Department of Applied Mathematics and Computer Science (DTU Compute), Technical University of Denmark, 2800 Kgs.\ Lyngby, Denmark}
+
+\leadauthor{\todo{Lead author surname}}
+
+% ---- Significance statement ------------------------------------------
+% 2-3 sentences for a reader OUTSIDE the field (max ~120 words).
+% Why should anyone care? No jargon, no method names.
+\significancestatement{\todo{Two or three plain-language sentences: what question we asked, what we found, and why it matters to someone outside network science.}}
+
+% ---- Author contributions --------------------------------------------
+% Must be SPECIFIC. "All members contributed equally" is NOT accepted.
+% Name who collected the data, built each analysis, did hand labelling,
+% made each figure and wrote which sections.
+\authorcontributions{\todo{e.g.\ C.X.\ designed the data collection and collected the network data; A.B.\ built the null model and the community analysis; D.E.\ built the text pipeline and hand-labelled the validation sample; C.X.\ and A.B.\ made Figs.~1--2; D.E.\ made Fig.~3; C.X.\ wrote the Introduction and Methods, A.B.\ the Results, D.E.\ the Discussion; all authors edited the paper.}}
+\authordeclaration{The authors declare no competing interests.}
+\correspondingauthor{\textsuperscript{1}To whom correspondence should be addressed. E-mail: \todo{sXXXXXX@dtu.dk}}
+
+% 3-5 keywords separated by |
+\keywords{\todo{Keyword 1} $|$ \todo{Keyword 2} $|$ network science $|$ text analysis}
+
+% ---- Abstract (WRITE THIS LAST) --------------------------------------
+% ~150 words, one paragraph. Must contain:
+%   (1) the question, (2) the data (source + size),
+%   (3) the main result WITH A NUMBER, (4) the check behind it,
+%   (5) what it means.
+% The one-sentence finding here must match the Results and Discussion.
+\begin{abstract}
+\todo{Question in one sentence.} \todo{Data: what, from where, how many nodes, edges and documents.} \todo{Main result with a number, e.g.\ ``X is 2.3 times higher than in a degree-preserving null (95\% interval 1.8--2.9)''.} \todo{The check that makes us believe it.} \todo{What it means, and its main limitation.}
+\end{abstract}
+
+\dates{This manuscript was compiled on \today}
+\doi{02805 Social Graphs and Interactions, DTU, Fall 2026}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{firststyle}
+\ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
+
+%% =====================================================================
+\section*{Introduction}
+%% =====================================================================
+% Rough budget: ~500 words. Four moves, in this order:
+%  1. The question, and why it matters.
+%  2. What is already known: CITE the work you build on
+%     (graded under "References and literature").
+%  3. The gap: what is still unknown, to you AND to the domain's experts.
+%  4. One-sentence preview of the answer.
+
+\dropcap{\todo{F}}irst paragraph: \todo{the question and why it matters.}
+
+\todo{What is already known, with citations, e.g.\ prior work on the topic \cite{wagner2015man,ribeiro2020auditing}. Cite the methods you rely on as you introduce them \cite{coscia2025atlas}.}
+
+\todo{The gap: what this prior work does not answer.}
+
+\todo{Here we \ldots\ We find that \ldots\ (one-sentence preview, consistent with the abstract).}
+
+%% =====================================================================
+\section*{Results}
+%% =====================================================================
+% Rough budget: ~1200 words + figures. The FIGURES carry the Results.
+%  - "Three good figures beat eight."
+%  - Each figure answers part of the question and shows the CHECK beside
+%    the claim (effect vs.\ its null, a second method, or hand labels).
+%  - A 1000-node network drawing is decoration; effect-vs-null is a result.
+%  - Use subsections whose titles are FINDINGS, not method names.
+
+\subsection*{\todo{Finding 1 stated as a sentence (network half)}}
+\todo{What we measured, what it captures and what it misses, the result with a number, and how it compares with the null (Fig.~\ref{fig:main}).}
+
+\begin{figure*}[t]
+\centering
+% \includegraphics[width=0.95\linewidth]{fig1_main}
+\fbox{\parbox[c][5cm][c]{0.9\linewidth}{\centering\todo{Main figure: the effect next to its null / check}}}
+\caption{\textbf{\todo{One-line takeaway of the figure.}} (A) \todo{What is plotted, axes and units.} (B) \todo{The comparison: the null model or second method, e.g.\ shaded band = 95\% range over 1000 degree-preserving rewirings.} \todo{What the reader should see.}}
+\label{fig:main}
+\end{figure*}
+
+\subsection*{\todo{Finding 2 stated as a sentence (text half)}}
+\todo{Text measurement, its validation against hand labels or a second method (Fig.~\ref{fig:text}), and the result with a number.}
+
+\begin{figure}[t]
+\centering
+% \includegraphics[width=\linewidth]{fig2_text}
+\fbox{\parbox[c][4cm][c]{0.9\linewidth}{\centering\todo{Figure 2: text result}}}
+\caption{\textbf{\todo{Takeaway.}} \todo{What is plotted, the comparison, and what to see.}}
+\label{fig:text}
+\end{figure}
+
+\subsection*{\todo{Finding 3: how the network and text halves connect}}
+\todo{The result that only exists because the network and the text are combined. This is what makes the project more than two mini-projects.}
+
+\begin{figure}[t]
+\centering
+% \includegraphics[width=\linewidth]{fig3_combined}
+\fbox{\parbox[c][4cm][c]{0.9\linewidth}{\centering\todo{Figure 3: network $\times$ text}}}
+\caption{\textbf{\todo{Takeaway.}} \todo{What is plotted, the comparison, and what to see.}}
+\label{fig:combined}
+\end{figure}
+
+% Optional: a compact table of the data or of the effect sizes against nulls.
+\begin{table}[t]
+\centering
+\caption{\todo{Dataset summary, or effect sizes against their nulls.}}
+\label{tab:data}
+\begin{tabular}{lrr}
+\toprule
+ & \todo{Group A} & \todo{Group B} \\
+\midrule
+Nodes & -- & -- \\
+Edges & -- & -- \\
+Documents (texts) & -- & -- \\
+Tokens & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+%% =====================================================================
+\section*{Discussion}
+%% =====================================================================
+% Rough budget: ~400 words.
+%  - What the result DOES mean, and what it does NOT mean.
+%  - At least one limitation you found YOURSELF, not a generic one.
+%  - Relate the result back to the prior work cited in the Introduction.
+%  - A negative result with a convincing check is a fine result.
+
+\todo{Main finding restated in one sentence, the same as in the abstract.}
+
+\todo{What it does not mean, e.g.\ correlation vs.\ causation, or which population the sample represents.}
+
+\todo{Limitation we found ourselves, and how large it could be.}
+
+\todo{Back to the literature, and what the next study would be.}
+
+%% =====================================================================
+\section*{Materials and Methods}
+%% =====================================================================
+% Rough budget: ~700 words. Enough for a reader to REDO the work.
+
+\subsection*{Data collection}
+\todo{Source and API, collection date(s), query and seed list, pauses and rate limits, and what was dropped and why. ``Keep what you collected and when.''}
+
+\subsection*{Network construction}
+\todo{What a node is, what an edge is, directed or weighted or projected, filtering thresholds, and final size (Table~\ref{tab:data}).}
+
+\subsection*{Text processing}
+\todo{Tokenisation, stop words, lemmatisation, language filter, and the dictionary, model or method used for each text measure.}
+
+\subsection*{Measurements}
+\todo{For each measure: what it is, what it captures, and what it misses.}
+
+\subsection*{Validation and null models}
+\todo{For each claim, its check and the result of that check: null model (e.g.\ degree-preserving rewiring \cite{maslov2002specificity}, number of realisations), second method, and hand-labelled sample (size, who labelled, agreement).}
+
+\subsection*{Code and data availability}
+\todo{Link to the group repository / website with code and the processed data.}
+
+%% ---- References -------------------------------------------------------
+% Cite what you used: data sources, tools (NetworkX, etc.), methods and
+% prior work. Real, relevant and correctly cited (graded).
+\bibliography{references}
+
+\end{document}

@@ -1,0 +1,6 @@
+timestamp_utc,source,description,n_records,notes
+2026-11-11T12:24:57+00:00,Wikidata SPARQL,"P106=Q169470 (physicist), born 1920-1980, has enwiki, subclasses=False",6539,6616 raw rows
+2026-11-11T12:25:03+00:00,Wikidata SPARQL,"P106=Q593644 (chemist), born 1920-1980, has enwiki, subclasses=False",3535,3584 raw rows
+2026-11-11T12:38:05+00:00,Wikipedia API,wikitext (prop=revisions) for scientists' pages,9857,9857 requested this run
+2026-11-11T12:40:31+00:00,Wikipedia API,redirects pointing to scientists' pages (prop=redirects),11993,
+2026-11-11T15:04:42+00:00,Wikipedia API,wikitext (prop=revisions) for scientists' pages,9857,0 requested this run
