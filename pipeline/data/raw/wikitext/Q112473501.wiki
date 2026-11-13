@@ -1,0 +1,73 @@
+{{Short description|Cosmologist}}
+{{Use dmy dates|date=July 2026}}
+
+'''Julien Lesgourgues''' (born 1972) is a [[cosmologist]] and [[theoretical physicist]].<ref name="falling_walls">{{cite web|language=en |title=Julien Lesgourgues |url=https://falling-walls.com/foundation/people/julien-lesgourgues |website=Falling Walls Foundation}}<!-- auto-translated from Italian by Module:CS1 translator --></ref><ref name="APS">{{cite web|language=en |publisher=American Physical Society |title=Julien Lesgourgues |url=https://physics.aps.org/authors/julien_lesgourgues |website=Physics (APS)}}<!-- auto-translated from Italian by Module:CS1 translator --></ref> He is a professor in theoretical physics at the Institute for Theoretical Particle Physics and Cosmology (TTK) at [[RWTH Aachen University]].<ref name="rwth_profile">{{cite web |title=Research Group Prof. Lesgourgues |publisher=Institute for Theoretical Particle Physics and Cosmology, RWTH Aachen University |url=https://www.particle-theory.rwth-aachen.de/cms/particle-theory/das-institut/groupmembers-ttk/professoren/~gufe/lesgourgues-julien/?lidx=1&allou=1 |access-date=12 June 2026}}</ref> He is known for his work on the [[cosmic microwave background]] (CMB), the [[large-scale structure of the universe|large-scale structure]] (LSS) of the Universe and the properties of [[neutrino]]s.<ref name="neutrino_cosmology_book">{{cite book |last1=Lesgourgues |first1=Julien |last2=Mangano |first2=Gianpiero |last3=Miele |first3=Gennaro |last4=Pastor |first4=Sergio |title=Neutrino Cosmology |year=2013 |publisher=Cambridge University Press |isbn=978-1-107-01395-7}}</ref> During his career, he has been part of the [[Planck (spacecraft)|Planck]] and [[Euclid (spacecraft)|Euclid]] collaborations.<ref name="planck2018">{{cite journal |author=Planck Collaboration |display-authors=etal |title=Planck 2018 results. VI. Cosmological parameters |journal=Astronomy & Astrophysics |volume=641 |page=A6 |year=2020 |arxiv=1807.06209 |doi=10.1051/0004-6361/201833910 |bibcode=2020A&A...641A...6P }}</ref><ref name="euclid2018">{{cite journal |last1=Amendola |first1=Luca |display-authors=etal |title=Cosmology and Fundamental Physics with the Euclid Satellite |journal=Living Reviews in Relativity |volume=21 |article-number=2 |year=2018 |issue=1 |arxiv=1606.00180 |doi=10.1007/s41114-017-0010-3 |pmid=29674941 |pmc=5897888 |bibcode=2018LRR....21....2A }}</ref> He is the main author of [[List of cosmological computation software#CLASS|CLASS]]
+(Cosmic Linear Anisotropy Solving System),<ref name="class1">{{cite arXiv |last=Lesgourgues |first=Julien |title=The Cosmic Linear Anisotropy Solving System (CLASS) I: Overview |year=2011 |class=astro-ph.IM |eprint=1104.2932}}</ref><ref name="class2">{{cite journal |last1=Blas |first1=Diego |last2=Lesgourgues |first2=Julien |last3=Tram |first3=Thomas |title=The Cosmic Linear Anisotropy Solving System (CLASS). Part II: Approximation schemes |journal=Journal of Cosmology and Astroparticle Physics |volume=2011 |issue=7 |page=034 |year=2011 |arxiv=1104.2933 |doi=10.1088/1475-7516/2011/07/034 |bibcode=2011JCAP...07..034B }}</ref> one of the two currently most used [[List of cosmological computation software#Cosmological Boltzmann codes|Einstein-Boltzmann solver]]s,<ref name="bellini2018">{{cite journal |last1=Bellini |first1=E. |last2=Barreira |first2=A. |last3=Frusciante |first3=N. |display-authors=etal |title=Comparison of Einstein-Boltzmann solvers for testing general relativity |journal=Physical Review D |volume=97 |issue=2 |article-number=023520 |year=2018 |arxiv=1709.09135 |doi=10.1103/PhysRevD.97.023520 |bibcode=2018PhRvD..97b3520B }}</ref> a type of software package used for computing CMB and LSS observables. He is currently a PI of a project funded by the [[European Research Council]] (ERC) dedicated to solving the [[Hubble tension]] of modern cosmology.<ref name="rwth_pressrelease2025">{{cite press release |title=Removing the Dead End from the Field of Cosmology |publisher=RWTH Aachen University |date=November 2025 |url=https://www.rwth-aachen.de/cms/root/wir/aktuell/pressemitteilungen/november-2025/~bqoqpg/die-kosmologie-aus-der-sackgasse-fuehren/?lidx=1}}</ref>
+{{Infobox scientist
+| name = Julien Lesgourgues
+| birth_date = 1972
+| birth_place = [[Bayonne]], [[France]]
+| field = [[Cosmology]], [[Theoretical physics]]
+| education = {{plainlist|
+* [[University of Tours]] ([[PhD]])}}
+| thesis_title = Inflationary models and CMB anisotropies
+| thesis_year = 1998
+| doctoral_advisor = David Polarski
+| workplaces = {{plainlist|
+* [[University of Tours]]
+* [[SISSA]]
+* [[Laboratoire d'Annecy-le-Vieux de physique des particules|LAPTh]]
+* [[CERN]]
+* [[EPFL]]
+* [[RWTH Aachen University]]}}
+| known_for = {{plainlist|
+* [[Cosmic microwave background]]
+* [[Large-scale structure of the universe]]
+* [[Cosmic neutrino background]]
+* [[Planck (spacecraft)|Planck]]
+* [[Euclid (spacecraft)|Euclid]]
+* [[List of cosmological computation software#CLASS|CLASS]]
+* [[Hubble tension]]}}
+| awards = CNRS Bronze Medal (2006)<br />Gruber Cosmology Prize (2018) (shared)
+}}
+
+== Early life and education ==
+Lesgourgues was born in 1972 in [[Bayonne]], in the French Basque Country. He received an engineering degree from the [[École Polytechnique]] in Paris in 1994 and a doctorate in theoretical physics from the [[University of Tours]] in 1998.<ref name="falling_walls" /><ref name="APS" />
+
+== Career and research ==
+Lesgourgues held postdoctoral positions in [[SISSA]] (Trieste) and at [[CERN]] (Geneva), and in 2000 became a permanent researcher of the French National Centre for Scientific Research ([[CNRS]]) at [[Laboratoire d'Annecy-le-Vieux de physique des particules|LAPTh]], the theoretical physics laboratory in Annecy-le-Vieux. Between 2008 and 2015, he was on leave from the CNRS, with a position in the theory division at CERN and at the [[École Polytechnique Fédérale de Lausanne]] (EPFL). In 2015, he joined RWTH Aachen University as a full professor.<ref name="falling_walls" /><ref name="APS" /><ref name="rwth_profile" />
+
+In 2011, Lesgourgues released the C-based Einstein-Boltzmann solver CLASS for the computation of the evolution of cosmological perturbations.<ref name="class1" /><ref name="class2" /> This code is able to predict theoretical observables at background and perturbation levels, such as the CMB anisotropy spectra and the matter power spectrum.<ref name="bellini2018">{{cite journal |last1=Bellini |first1=E. |last2=Barreira |first2=A. |last3=Frusciante |first3=N. |display-authors=etal |title=Comparison of Einstein-Boltzmann solvers for testing general relativity |journal=Physical Review D |volume=97 |issue=2 |article-number=023520 |year=2018 |arxiv=1709.09135 |doi=10.1103/PhysRevD.97.023520 |bibcode=2018PhRvD..97b3520B }}</ref> The project was developed as an independent code to compute cosmological predictions, providing a cross-check against the existing [[List of cosmological computation software#CAMB|CAMB]] code.<ref name="class3">{{cite arXiv |last=Lesgourgues |first=Julien |title=The Cosmic Linear Anisotropy Solving System (CLASS). Part III: Comparison with CAMB for ΛCDM |year=2011 |class=astro-ph.CO |eprint=1104.2934}}</ref><ref name="camb2000">{{cite journal |last1=Lewis |first1=A. |last2=Challinor |first2=A. |last3=Lasenby |first3=A. |title=Efficient Computation of CMB anisotropies in closed FRW models |journal=The Astrophysical Journal |volume=538 |issue=2 |pages=473–476 |year=2000 |arxiv=astro-ph/9911177 |doi=10.1086/309179}}</ref> Lesgourgues also helped develop MontePython: a [[Markov Chain Monte Carlo]] code for cosmological parameter inference.<ref name="audren2013">{{cite journal |last1=Audren |first1=Benjamin |last2=Lesgourgues |first2=Julien |last3=Benabed |first3=Karim |last4=Prunet |first4=Simon |title=Conservative constraints on early cosmology: an illustration of the Monte Python cosmological parameter inference code |journal=Journal of Cosmology and Astroparticle Physics |volume=2013 |issue=2 |page=001 |year=2013 |arxiv=1210.7183 |doi=10.1088/1475-7516/2013/02/001}}</ref>
+
+A large part of Lesgourgues's work concerns the implications of neutrino physics for cosmological observations.<ref name="lesgourgues_pastor2006">{{cite journal |last1=Lesgourgues |first1=Julien |last2=Pastor |first2=Sergio |title=Massive neutrinos and cosmology |journal=Physics Reports |volume=429 |issue=6 |pages=307–379 |year=2006 |arxiv=astro-ph/0603494 |doi=10.1016/j.physrep.2006.04.001 |bibcode=2006PhR...429..307L }}</ref> He contributed to examining the consequences of the Planck measurements<ref name="lesgourgues_pastor2014">{{cite journal |last1=Lesgourgues |first1=Julien |last2=Pastor |first2=Sergio |title=Neutrino cosmology and Planck |journal=New Journal of Physics |volume=16 |issue=6 |article-number=065002 |year=2014 |arxiv=1404.1740 |doi=10.1088/1367-2630/16/6/065002 |bibcode=2014NJPh...16f5002L }}</ref> and co-wrote the textbook ''Neutrino Cosmology''.<ref name="neutrino_cosmology_book" /> Lesgourgues is also an active member of large cosmological collaborations, such as the Planck and Euclid collaborations.<ref name="planck2018" /><ref name="euclid2018" />
+
+In November 2025, the European Research Council selected RedH0T ("Red teaming the H0 Tension") for a Synergy Grant aimed at addressing the Hubble tension: the persistent discrepancy between values of the [[Hubble constant]] using different cosmological datasets.<ref name="erc2025">{{cite web |author=European Research Council (ERC) |title=ERC Synergy Grants 2025: List of proposals for funding |date=6 November 2025 |url=https://erc.europa.eu/system/files/2025-11/erc-2025-syg-results-all-domains.pdf }}</ref> The project aims to re-analyse measurements of the Hubble parameter using independent teams, to establish whether the tension is caused by measurement systematics or by new physics not included in the standard cosmological model.<ref name="ub2025">{{cite web |title=An international team led by the UB will study the validity of the current cosmological model |publisher=University of Barcelona |date=November 2025 |url=https://web.ub.edu/en/web/actualitat/w/synergy-grant-tensio-hubble}}</ref><ref name="jhu2025">{{cite web |title=International team co-led by Adam Riess to investigate the validity of the cosmological model |publisher=Department of Physics & Astronomy, Johns Hopkins University |date=6 November 2025 |url=https://physics-astronomy.jhu.edu/2025/11/06/international-team-co-led-by-adam-riess-to-investigate-the-validity-of-the-cosmological-model/}}</ref> Lesgourgues' co-investigators are [[Adam Riess]], [[Licia Verde]] and Frédéric Courbin. Lesgourgues is responsible for the CMB analyses and for the comparison of cosmological models.<ref name="ub2025" /><ref name="jhu2025" />
+
+{{Asof|July 2026}} Lesgourgues has an [[h-index|''h''-index]] of 114 on [[Google Scholar]].<ref name="GScholar">{{cite web | title=Julien Lesgourgues | website=Google Scholar | date=8 July 2026 | url=https://scholar.google.com/citations?user=9qIA33IAAAAJ | archive-url=https://web.archive.org/web/20260708194029/https://scholar.google.com/citations?user=9qIA33IAAAAJ | archive-date=8 July 2026 | url-status=live | access-date=8 July 2026}}</ref>
+
+== Service and outreach ==
+Lesgourgues is a member of the editorial board of the ''Journal of Cosmology and Astroparticle Physics''.<ref name="jcap_editorial">{{cite journal |title=Editorial Board |journal=Journal of Cosmology and Astroparticle Physics |publisher=SISSA Medialab |url=https://iopscience.iop.org/journal/1475-7516/page/editorial-board |access-date=11 June 2026}}</ref> He was chair of the organising committee at the COSMO19 conference, held at RWTH Aachen University in September 2019.<ref name="cosmo19">{{cite web |title=COSMO19: Committees |publisher=Indico, CERN |url=https://indico.cern.ch/event/782784/ |access-date=11 June 2026}}</ref> In 2014, he gave a talk at TEDxCERN, "Taking the Fingerprints of the Universe", on the composition of the universe.<ref name="tedx_symmetry">{{cite news |title=TEDx goes to CERN |work=Symmetry |date=October 2014}}</ref>
+
+== Honours and awards ==
+Lesgourgues received the CNRS Bronze Medal in 2006 and a teaching prize of the RWTH Aachen physics department in 2017.<ref name="cnrs_bronze">{{cite web |author=CNRS |title=Médailles de bronze |year=2005 |url=http://www.inp.cnrs.fr/sites/institut_inp/files/download-file/2005bronze_web_2_3.pdf }}</ref><ref name="rwth_teaching2017">{{cite web |author=RWTH Aachen |title=Teaching Award in Physics 2017 |year=2017 |url=https://www.particle-theory.rwth-aachen.de/cms/particle-theory/das-institut/aktuelle-meldungen/~nael/lehrpreis-physik/?lidx=1 |archive-url=https://web.archive.org/web/20260624134433/https://www.particle-theory.rwth-aachen.de/cms/particle-theory/das-institut/aktuelle-meldungen/~nael/lehrpreis-physik/?lidx=1 |archive-date=24 June 2026 |url-status=usurped}}</ref> As a member of the Planck team, he is a co-holder of the 2018 Gruber Cosmology Prize, which was awarded to the collaboration as a whole, together with the instrument principal investigators Jean-Loup Puget and Nazzareno Mandolesi, for mapping the temperature and polarization of the cosmic microwave background.<ref name="gruber_press2018">{{cite press release |title=2018 Gruber Cosmology Prize Press Release |publisher=The Gruber Foundation |date=10 May 2018 |url=https://gruber.yale.edu/press/2018-gruber-cosmology-prize-press-release}}</ref><ref name="gruber_planckteam">{{cite web |author=Gruber Foundation |title=Planck Team |year=2026 |url=https://gruber.yale.edu/recipient/planck-team}}</ref> In 2025, he and his three RedH0T co-investigators were selected for an ERC Synergy Grant.<ref name="erc2025" />
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://inspirehep.net/authors/1000508 Julien Lesgourgues author profile on INSPIRE-HEP]
+* [https://lesgourg.github.io Tools for cosmology: the Cosmological Linear Anisotropy Solving System (CLASS)] — lecture slides, self-published
+* [https://github.com/lesgourg/class_public lesgourg/class_public] — CLASS code repository on GitHub
+* [https://www.youtube.com/watch?v=s1Xszc2Xfdc Taking the fingerprints of the universe | Julien Lesgourgues | TEDxCERN] on YouTube
+* [https://www.youtube.com/watch?v=tLPSuDnBGVM Julien Lesgourgues lecture/talk] on YouTube
+
+{{Authority control}}
+{{DEFAULTSORT:Lesgourgues, Julien}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:People from Bayonne]]
+[[Category:École polytechnique alumni]]
+[[Category:University of Tours alumni]]
+[[Category:Academic staff of RWTH Aachen University]]
+[[Category:French theoretical physicists]]
+[[Category:French cosmologists]]

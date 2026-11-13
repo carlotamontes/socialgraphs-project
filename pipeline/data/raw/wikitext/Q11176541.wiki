@@ -1,0 +1,79 @@
+{{Short description|German-American electrical engineer (born 1966)}}
+{{Infobox scientist
+| name              = Gerhard Klimeck
+| image             = Klimeck worldmap 600.jpeg
+| image_size        = 
+| caption           = 
+| birth_date        = 15 March 1966<ref>{{Cite web |url=http://en.netlog.com/gerhardklimeck |title=Netlog |access-date=2013-10-24 |archive-url=https://web.archive.org/web/20131029194917/http://en.netlog.com/gerhardklimeck |archive-date=2013-10-29 |url-status=dead }}</ref>
+| birth_place       = [[Essen]], [[West Germany]]
+| field             = [[Electrical engineering]]<br>[[Electron transport]]<br>[[Quantum mechanics]]
+| workplaces        = [[Purdue University]]<br>[[University of Texas at Dallas]]<br>[[California Institute of Technology]]
+| education         = [[Ruhr University Bochum]]<br>[[Purdue University]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Nanoelectronics]], [[nanoHUB]]
+| awards            = 
+| footnotes         = 
+}}
+
+'''Gerhard Klimeck''' is a [[German-American]] scientist and author in the field of [[nanotechnology]].<ref name=":0">{{cite web |title=Gerhard Klimeck - IEEE Xplore |url=https://ieeexplore.ieee.org/author/37085374302 |website=[[IEEE]] |publisher=IEEE Xplore |access-date=7 November 2020}}</ref> He is a professor of Electrical and Computer Engineering at [[Purdue University School of Electrical and Computer Engineering]].
+
+As the director of [[nanoHUB]], he conducts the technical developments and strategies of nanoHUB, which annually serves million users worldwide with online simulations, tutorials, and seminars.<ref name=":1">{{cite web |title=nanoHUB.org - Usage:Overview |url=https://nanohub.org/usage |website=nanoHUB |access-date=26 March 2019 |ref=usage}}</ref>
+
+==Education==
+Klimeck received his PhD. in 1994 from [[Purdue University]] where he studied [[electron transport]] through [[quantum dots]], resonant [[Tunnel diode|tunneling diodes]] and 2-D [[Free electron model|electron gases]]. His German electrical engineering degree (Dipl.-Ing.) in 1990 from [[Ruhr University Bochum]] was concerned with the study of [[laser]] [[noise]] propagation.<ref name="College of Engineering">{{cite web | title=Gerhard Klimeck \\ Group Leader \\ The Nanoelectronic Modeling Group \\ Purdue University | website=College of Engineering | url=https://engineering.purdue.edu/gekcogrp/research-group/GerhardKlimeck/vita.php | language=af | access-date=12 January 2022}}</ref>
+
+==Career==
+[[File:Secretary Blinken and Secretary of Commerce Raimondo at a Purdue University Semiconductor Lab (52356461523).jpg|thumb|Klimeck in 2022]]
+Klimeck's research interest is in the modeling of [[Nanoelectronics#Nanoelectronic devices|nanoelectronic devices]], [[Computer cluster|parallel cluster computing]], [[genetic algorithm]]s, and [[Parallel computing|parallel]] [[image processing]]. He has been driving the development of the Nanoelectronic Modeling Tool NEMO since 1994. Klimeck  was the technical group supervisor of the High Performance Computing Group and a principal scientist at the [[NASA]] Jet Propulsion Laboratory.<ref name=":2">{{cite web |title=Nanoelectronic Modeling(NEMO):Moving from commercial grade 1-D simulation to prototype 3-D simulation |url=http://www.pe.titech.ac.jp/rcqee/pupup3_klimeck.html |website=www.pe.titech.ac.jp |publisher=Tokyo Institute of Technology |access-date=7 November 2020}}</ref> Previously, he was a member of technical staff at the Central Research Lab of [[Texas Instruments]] where he served as manager and principal architect of the Nanoelectronic Modeling (NEMO 1-D) program. At NASA Jet Propulsion Laboratory and Purdue University, Klimeck developed the Nanoelectronic Modeling Tool (NEMO 3-D) for multi-million atom simulations.<ref>{{cite journal |last1=Klimeck |first1=Gerhard |title=Nanoelectronic Modeling (NEMO): Moving from commercial grade 1-D simulation to prototype 3-D simulation |journal=Aps March Meeting Abstracts |date=1 March 2001 |pages=X25.007 |bibcode=2001APS..MARX25007K |url=https://ui.adsabs.harvard.edu/abs/2001APS..MARX25007K/abstract |access-date=7 November 2020}}</ref>
+
+===Patents===
+*[https://patents.google.com/patent/US6490193B1/en?oq=U.S.+Pat.+No.+6%2c490%2c193 U.S. 6490193]: Forming and storing data in a [[Memory cell (computing)|memory cell]]
+*[https://patents.google.com/patent/US6667490B2/en?oq=U.S.+6667490 U.S. 6667490]: Method and system for generating a memory cell
+*[https://patents.google.com/patent/US8309989B2/en U.S. Patent 2012/0043,607]: Tunneling Field-Effect Transistor with Low Leakage Current
+*[https://patents.google.com/patent/US9858365B2/en?oq=U.S.+patent+No.+9%2c858%2c365 U.S. patent No. 9,858,365:] “Physical modeling of electronic devices/systems”, Ganesh Hegde, Yaohua Tan, Tillmann Kubis, Michael Povolotskyi, Gerhard Klimeck (2017)
+*[https://patents.google.com/patent/US10680088B2/en?oq=U.S.+patent+10680088 U.S. patent 10680088], “Tunnel Effect Transistor Having Anisotropic Effective Mass Channel”, Hesameddin Ilatikhameneh, Tarek Ameen, Bozidar Novakovic, Rajib Rahman, Gerhard Klimeck, 2020/6/9
+*[https://patents.google.com/patent/US11093667B2/en?oq=U.S.+patent+US11093667B2 U.S. patent US11093667B2], “Method and system for realistic and efficient simulation of light emitting diodes having multi-quantum-wells”, Gerhard Klimeck, Tillmann Kubis, Junzhe Geng. (2022)
+
+===Books===
+*''Computational Electronics: Semiclassical and Quantum Device Modeling and Simulation'' (with [[Dragica Vasileska]] and S. M. Goodnick, 2010) [[CRC Press]], {{ISBN|1420064835}}<ref name=":3">{{cite book |title=Computational electronics: Semiclassical and quantum device modeling and simulation |url=https://www.researchgate.net/publication/327303440 |access-date=7 November 2020}}</ref>
+
+===Honors and awards===
+*Klimeck won 9 [[NASA Tech Briefs]] from 2004 to 2007<ref name=award>{{cite web |title=Gerhard Klimeck \\ Purdue University |url=https://engineering.purdue.edu/gekcogrp/research-group/GerhardKlimeck/honors.php |website=engineering.purdue.edu |access-date=7 November 2020}}</ref>
+*2008, [[Purdue]] Engineering Team Award "For his role in the creation of nanoHUB and its impact on the cyberinfrastructure for the national nanotechnology initiative leading a cultural change in research and education." shared with [[Mark S. Lundstrom]] and Michael McLennan <ref name=award />
+*2011, Elected Fellow Institute of Physics “For the development, application, and dissemination of atomistic quantum simulation tools for nanoelectronic devices.”<ref>{{Cite web |title=Professor Gerhard Klimeck elected Fellow of American Physical Society. |url=https://engineering.purdue.edu/ECE/News/2011/professor-gerhard-klimeck-elected-fellow-of-american-physical-society |access-date=2022-08-02 |website=Elmore Family School of Electrical and Computer Engineering - Purdue University |language=en}}</ref>
+*2011, [[Gordon Bell Prize]] Competition Finalist<ref name=":4">{{cite news |title=Nanoelectric Simulation Team Finalists for Gordon Bell Prize |url=https://www.olcf.ornl.gov/2011/11/11/nanoelectric-simulation-team-finalists-for-gordon-bell-prize/ |access-date=7 November 2020 |work=Oak Ridge Leadership Computing Facility}}</ref>
+*2011, Elected Fellow of the American Physical Society, citation: “For the development, application, and dissemination of atomistic quantum simulation tools for nanoelectronic devices.”<ref>{{Cite web |title=APS Fellow Archive |url=http://www.aps.org/programs/honors/fellowships/archive-all.cfm |access-date=2022-08-02 |website=www.aps.org |language=en}}</ref>
+*2012, Elected Fellow of the IEEE, citation: “for his contributions to atomistic quantum simulation tools for nanoelectronic devices”<ref>{{Cite web |title=IEEE Fellows evaluated by NTC Fellow Evaluation Committee |url=https://ieeenano.org/about/ieee-fellows-of-the-nanotechnology-council |access-date=2022-08-02 |website=IEEE Nanotechnology Council |language=en-US}}</ref>
+*Klimeck and physicist Michelle Simmons of the University of New South Wales "devised a way to make a single-atom transistor", which ranked #29 top invention of 2013 by [[Discover Magazine]]<ref name=":5">{{cite news |last1=Keats |first1=Jonathon |title=29. Single-Atom Transistor Created |url=http://discovermagazine.com/2013/jan-feb/29-single-atom-transistor-created#.UPWvgkJ5nzI |access-date=7 November 2020 |work=Discover Magazine |language=en}}</ref><ref>{{cite journal |last1=Fuechsle |first1=Martin |last2=Miwa |first2=Jill A. |last3=Mahapatra |first3=Suddhasatta |last4=Ryu |first4=Hoon |last5=Lee |first5=Sunhee |last6=Warschkow |first6=Oliver |last7=Hollenberg |first7=Lloyd C. L. |last8=Klimeck |first8=Gerhard |last9=Simmons |first9=Michelle Y. |title=A single-atom transistor |journal=Nature Nanotechnology |date=April 2012 |volume=7 |issue=4 |pages=242–246 |doi=10.1038/nnano.2012.21 |pmid=22343383 |bibcode=2012NatNa...7..242F |s2cid=14952278 |url=https://www.nature.com/articles/nnano.2012.21 |access-date=7 November 2020 |language=en |issn=1748-3395|url-access=subscription }}</ref>
+*2019, Humboldt Foundation Research Prize. Professor Klimeck is a leading expert in the modeling of nanoelectronics devices. He is well known internationally for building and defining the state-of-the-art in atomistic modeling theory and simulation tools for today's most advanced transistor devices. He also guides the technical developments and strategies of the site nanoHUB.org, which annually serves over 1.5 million users worldwide with online simulations, tutorials, and seminars. In Germany, he continues his research on atomic-scale semiconductor devices to explore new concepts in hybrid nanostructures.<ref>{{Cite web |title=Humboldt Research Award |url=https://service.humboldt-foundation.de/pls/web/pub_auswahlergebnisse.main?p_lang=de&p_bereich=&p_pattern=&p_humboldt_nation=&p_address_country=&p_address_region=&p_address_city=&p_address_uni=&p_host_country=&p_host_region=&p_host_city=&p_host_uni=&p_fgb1=&p_fgb2=&p_fgb3=&p_order_by=N&p_button_search=&p_page=18 |access-date=2022-08-02 |website=service.humboldt-foundation.de}}</ref>
+*2020, R&D 100 award winner in Software and Services category.  “Making simulation and data pervasive”, “nanoHUB: Democratizing Learning and Research”.  Award winners: Gerhard Klimeck, Alejandro Strachan, Lynn Zentner, Michael Zentner.<ref>{{Cite web |title=nanoHUB: Making simulation and data pervasive |url=https://www.rdworldonline.com/rd-100-2020-winner/nanohub-making-simulation-and-data-pervasive/ |access-date=2022-08-02 |website=Research & Development World |language=en-US}}</ref>
+*2020, Elected Fellow of American Association for the Advancement of Science (AAAS), ”For the quantum mechanical modeling theory and simulation tools to design today's nanotransistors and for leadership of the global nanotechnology community as Director of nanoHUB.”<ref>{{Cite web |title=AAAS Announces Leading Scientists Elected as 2020 Fellows {{!}} American Association for the Advancement of Science |url=https://www.aaas.org/news/aaas-announces-leading-scientists-elected-2020-fellows |access-date=2022-08-02 |website=www.aaas.org |language=en}}</ref>
+
+==Selected works==
+*''Learning and research in the cloud''<ref>{{cite journal |last1=Madhavan |first1=Krishna |last2=Zentner |first2=Michael |last3=Klimeck |first3=Gerhard |title=Learning and research in the cloud |journal=Nature Nanotechnology |date=November 2013 |volume=8 |issue=11 |pages=786–789 |doi=10.1038/nnano.2013.231 |pmid=24202528 |bibcode=2013NatNa...8..786M |url=http://www.nature.com/nnano/journal/v8/n11/pdf/nnano.2013.231.pdf |access-date=7 November 2020 |language=en |issn=1748-3395}}</ref>
+*''A single-atom transistor''<ref>{{cite book |title=A Single-Atom Transistor |url=https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1853&context=nanopub |access-date=7 November 2020}}</ref>
+*''Ohm's Law Survives to the Atomic Scale''<ref>{{cite book |title=Ohm's Law Survives to the Atomic Scale |url=https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1852&context=nanopub |access-date=7 November 2020}}</ref>
+*''nanoHUB.org: Advancing Education and Research in Nanotechnology''<ref>{{cite journal |last1=Klimeck |first1=Gerhard |last2=McLennan |first2=Michael |last3=Brophy |first3=Sean |last4=Adams |first4=George |last5=Lundstrom |first5=Mark |title=NanoHUB.org: Advancing Education and Research in Nanotechnology |journal=Computing in Science & Engineering |date=1 October 2008 |volume=10 |issue=5 |page=17 |doi=10.1109/MCSE.2008.120 |bibcode=2008CSE....10e..17K |s2cid=2020684 |url=https://docs.lib.purdue.edu/nanodocs/80/ |access-date=7 November 2020|url-access=subscription }}</ref>
+*''Development of a Nanoelectronic 3-D (NEMO 3-D) Simulator for Multimillion Atom Simulations and Its Application to Alloyed Quantum Dots (INVITED)''<ref>{{cite journal |last1=Klimeck |first1=Gerhard |last2=Oyafuso |first2=Fabiano |last3=Boykin |first3=Timothy |last4=Bowen |first4=R. |last5=Allmen |first5=Paul von |title=Development of a Nanoelectronic 3-D (NEMO 3-D) Simulator for Multimillion Atom Simulations and Its Application to Alloyed Quantum Dots |journal=Other Nanotechnology Publications |date=1 January 2002 |url=https://docs.lib.purdue.edu/nanodocs/149/ |access-date=7 November 2020}}</ref><ref>{{cite book |title=Development of a Nanoelectronic 3-D (NEMO 3-D) Simulator for Multimillion Atom Simulations and Its Application to Alloyed Quantum Dots |edition=2002 |url=https://engineering.purdue.edu/gekcogrp/publications/pubs_src/J_2002_1_freePU.pdf |access-date=7 November 2020}}</ref> 
+*''Quantum Device Simulation with a Generalized Tunneling Formula''<ref>{{cite journal |title=Quantum device simulation with a generalized tunneling formula |bibcode=1995ApPhL..67.2539K |url=https://engineering.purdue.edu/gekcogrp/publications/pubs_src/DOC146_ApplPhysLett_67_2539.pdf |access-date=7 November 2020|last1=Klimeck |first1=Gerhard |last2=Lake |first2=Roger |last3=Bowen |first3=R. Chris |last4=Frensley |first4=William R. |last5=Moise |first5=Ted S. |journal=Applied Physics Letters |year=1995 |volume=67 |issue=17 |page=2539 |doi=10.1063/1.114451 }}</ref>
+*''Conductance Spectroscopy in Coupled Quantum Dots''<ref>{{cite journal |title=Conductance spectroscopy in coupled quantum dots |bibcode=1994PhRvB..50.2316K |url=https://engineering.purdue.edu/gekcogrp/publications/pubs_src/DOC150_PhysRevB.50.2316.pdf |access-date=7 November 2020|last1=Klimeck |first1=Gerhard |last2=Chen |first2=Guanlong |last3=Datta |first3=Supriyo |journal=Physical Review B |year=1994 |volume=50 |issue=4 |pages=2316–2324 |doi=10.1103/PhysRevB.50.2316 |pmid=9976449 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://engineering.purdue.edu/ECE/People/profile?resource_id=3010 Profile of Gerhard Klimeck] at [[Purdue University School of Electrical and Computer Engineering]]
+* {{Google scholar id|t_ziGRgAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Klimeck, Gerhard}}
+[[Category:Living people]]
+[[Category:German electrical engineers]]
+[[Category:21st-century German physicists]]
+[[Category:Purdue University alumni]]
+[[Category:Purdue University faculty]]
+[[Category:1966 births]]
+[[Category:Engineers from Essen]]
+[[Category:Fellows of the American Physical Society]]

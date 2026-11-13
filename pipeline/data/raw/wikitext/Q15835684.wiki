@@ -1,0 +1,113 @@
+{{short description|American physical chemist (born 1929)}}
+{{BLP sources|date=April 2024}}
+{{use mdy dates|date=February 2025}}
+{{Infobox scientist
+| name              = Morton Panish
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date and age|1929|04|08}}
+| birth_place       = Brooklyn, New York
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names       = 
+| citizenship       = American
+| nationality       = 
+| fields            = [[Physical chemistry]]
+| workplaces        = [[Oak Ridge National Laboratory]], [[Avco]], [[Bell Labs]]<ref name=KyotoProfile>{{cite web|title=Morton B. Panish: Profile|url=http://www.inamori-f.or.jp/laureates/k17_a_morton/prf_e.html|work=Kyoto Prize|publisher=Inamori Foundation|access-date=7 April 2014|archive-url=https://web.archive.org/web/20140409080613/http://www.inamori-f.or.jp/laureates/k17_a_morton/prf_e.html|archive-date=9 April 2014}}</ref>
+| patrons           = 
+| education         = [[Michigan State University]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 1954
+| doctoral_advisor  = Max Rogers<ref name=commemorative>{{cite web|title=Morton B. Panish: Commemorative lecture|url=http://www.inamori-f.or.jp/laureates/k17_a_morton/img/lct_e.pdf|work=Kyoto Prize|publisher=Inamori Foundation|access-date=7 April 2014|archive-url=https://web.archive.org/web/20140417011359/http://www.inamori-f.or.jp/laureates/k17_a_morton/img/lct_e.pdf|archive-date=17 April 2014}}</ref> 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Semiconductor lasers]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[C&C Prize]], [[IEEE Morris N. Liebmann Memorial Award]]; member of the [[National Academy of Sciences]] and [[National Academy of Engineering]]<ref name=KyotoProfile/>
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|www.example.com}} -->
+| footnotes         = 
+| spouse            = Evelyn Wally Chaim (20 August 1951)<ref name=familytree>{{cite web|last=Panish|first=Morton|title=Morton Panish (b. April 08, 1929)|url=http://familytreemaker.genealogy.com/users/p/a/n/Morton-Panish/WEBSITE-0001/UHP-0001.html|work=The Families of Mort and Evelyn Panish|publisher=Ancestry.com|access-date=7 April 2014}}</ref> 
+| children          = Steven Chaim Panish, Paul William Panish, Deborah Faye Panish<ref name=familytree/>
+}}
+
+'''Morton B. Panish''' (born April 8, 1929) is an American [[Physical chemistry|physical chemist]] who developed a room-temperature [[continuous wave]] [[Laser diode|semiconductor laser]] in 1970 with [[Izuo Hayashi]]. Panish and Hayashi shared the [[Kyoto Prize in Advanced Technology]] for this achievement in 2001.
+
+Panish was elected to the [[National Academy of Engineering]] in 1986 and to the [[National Academy of Sciences]] in 1987.
+
+==Early life and education==
+Morton Panish was born in [[Brooklyn]] on April 8, 1929 to Isidore Panish and Fanny Panish (née Glasser).<ref name=familytree/><ref name=KyotoProfile/> When Panish was 12, the book ''Microbe Hunters'' by [[Paul de Kruif]] sparked his interest in science. He graduated from [[Erasmus Hall High School]] in 1947, attended [[Brooklyn College]] for two years and then transferred to the [[University of Denver]], from which he graduated in 1950. Panish met his future wife, Evelyn Chaim, in Denver. They married during his first year in graduate school.
+
+Panish enrolled in graduate school at [[Michigan State University]], majoring in physical chemistry and minoring in organic chemistry. His master's thesis involved a "series of measurements of the electric dipole behavior of some organic compounds."<ref name="commemorative" /> His advisor Max Rogers, a former student of [[Linus Pauling]], supervised Panish's Ph.D. work on [[interhalogen]] compounds.<ref name="commemorative" />
+
+== Career ==
+
+=== Early career ===
+From 1954 to 1957 Panish studied the [[chemical thermodynamics]] of [[molten salt]]s at the [[Oak Ridge National Laboratory]] in Tennessee. In 1957, Panish began working for the Research and Advanced Development Division of [[Avco|Avco Corporation]] in Massachusetts. The primary contract of this division was to develop vehicles for the reentry of [[thermonuclear weapon]]s into the atmosphere for the [[United States Air Force]]. Panish was unwilling to do this work, and instead conducted basic research on chemical thermodynamics of refractory compounds. In 1964, Panish left Avco Corporation because the government terminated the funding for basic research.<ref name="KyotoProfile" /><ref name="commemorative" />
+
+In June 1964, Panish began researching III-V [[semiconductor]]s at [[Bell Labs]] in the Solid State Electronics Research Laboratory, a group headed by physicist John Galt.<ref name="commemorative" />
+
+=== Development of the continuous wave semiconductor laser ===
+{{Technical|date=December 2024|section}}
+In 1966, Galt assigned Panish and [[Izuo Hayashi]] to investigate a problem involving [[laser diode]]s.<ref name="Coleman">{{cite journal|last=Coleman|first=J J|title=The development of the semiconductor laser diode after the first demonstration in 1962|journal=Semiconductor Science and Technology|date=September 1, 2012|volume=27|issue=9|article-number=090207|doi=10.1088/0268-1242/27/9/090207|bibcode=2012SeScT..27i0207C|s2cid=95751174 }}</ref> These early lasers could only run continuously at very low temperatures. At room temperature, they could only operate for a fraction of a second. For the lasers to have practical applications, they would need to operate continuously at room temperature.<ref name="commemorative" />
+
+A theoretical solution to the problem was proposed by [[Herbert Kroemer]] in 1963 &ndash: a double [[heterojunction]] laser. However, Kroemer failed to suggest that a suitable combination of III-V semiconductors would be needed to provide interfaces between the III-V compounds. The combination of such materials used for the first CW lasers was GaAs (Gallium Arsenide) and Aluminum Gallium Arsenide, which have the same lattice parameter. The idea was to place a material like GaAs, with a smaller [[band gap]], between two layers of a material such as [[Aluminium gallium arsenide|aluminum gallium arsenide]] (a solid solution of AlAs and GaAs) that had a larger band gap; this confined the [[charge carrier]]s and the optical field (the light) to this layer, reducing the current needed for lasing.<ref name="City">{{cite book|last=Hecht|first=Jeff|title=City of light: the story of fiber optics|year=2004|publisher=Oxford Univ. Press|location=Oxford [u.a.]|isbn=978-0-19-516255-4|pages=152&ndash;157|edition=Rev. and expanded }}</ref>{{rp|151}} Panish and Izuo Hayashi independently developed the single heterostructure laser first and then the double heterostructure laser.
+
+In 1970, [[Zhores Alferov]] published the announcement of the first room temperature continuously operating double heterostructure laser, one month before Hayashi and Panish published similar results. The two developments were obtained independently. Panish experimented with making wafers using a new form of liquid-phase [[epitaxy]] while Hayashi tested the laser properties. Panish and Hayashi observed what they thought might be CW operation in several wafers in the weeks before their final demonstration. That had to await a laser that lived long enough for a complete plot of the lasing spectrum to be achieved. Over the [[Memorial Day]] weekend in 1970, while Panish was at home, Hayashi tried a diode and it emitted a continuous-wave beam with just over 24 degrees Celsius and he was able to plot the complete spectrum with the very slow equipment available at the time.
+
+Room-temperature lasers were soon duplicated at [[RCA Corporation|RCA]] Laboratories, [[Standard Telecommunication Laboratories]] and Nippon Electric Corporation ([[NEC]]). Over the next few years, the lasers became longer-lasting and more reliable. At Bell Labs, the job of creating a practical device was given to Barney DeLoach. But in January 1973, they told him to cease this work. As he recalled, their view was, "We've already got air, we've already got copper. Who needs a new medium?"<ref name=City/>{{rp|157}}
+
+The continuous wave semiconductor laser led to the light sources in [[fiber-optic communication]], [[laser printer]]s, [[barcode reader]]s and [[optical disc drive]]s, but it was mostly Japanese entrepreneurs, not AT&T, that ended up profiting from these technologies.<ref name=burning>{{cite book|last=Johnstone|first=Bob|title=We were burning: Japanese entrepreneurs and the forging of the electronic age.|year=2000|publisher=BasicBooks|location=New York|isbn=978-0-465-09118-8}}</ref>{{rp|252}}<ref name=KyotoCitation>{{cite web|title=Morton B. Panish: CItation|url=http://www.inamori-f.or.jp/laureates/k17_a_morton/ctn_e.html|work=Kyoto Prize|publisher=Inamori Foundation|access-date=April 7, 2014|archive-url=https://web.archive.org/web/20140408213419/http://www.inamori-f.or.jp/laureates/k17_a_morton/ctn_e.html|archive-date=April 8, 2014}}</ref> The Japanese success was enhanced by Panish's ex-partner Izuo Hayashi, who had returned to Japan.
+
+After the work on double heterostructure lasers, Panish continued to demonstrate variants of laser structures with other collaborators through the late 1970s, but the major focus of his work for the remainder of his career was to exploit the new opportunities presented by the use of Molecular Beam Epitaxy to produce lattice matched semiconductor heterostructures in III-V systems other than GaAs-AlGaAs for other devices (detectors, quantum well physics and devices, ultra fast hererostructure transistors) and for the study of the physics of small layered structures. He worked on this issue until 1992.
+
+==Awards and honors==
+{{BLP unreferenced section|date=April 2024}}
+*1979 Electronics Division Award of the Electrochemical Society
+*1986 Solid State Medalist of the Electrochemical Society
+*1987 C & C Prize (Japan)
+*1990 International Crystal Growth Award
+*1991 Morris N. Liebmann Memorial Award of the IEEE
+*1994 John Bardeen Award of the Metallurgical Society
+*2001 [[Kyoto Prize in Advanced Technology]]
+
+==Works==
+The following are some of the major works by Panish:<ref name=KyotoProfile/>
+
+*{{cite journal|last1=Hayashi|first1=I.|last2=Panish |first2=M. |last3=Foy |first3=P.|title=A low-threshold room-temperature injection laser|journal=IEEE Journal of Quantum Electronics|date=April 1969|volume=5|issue=4|pages=211–212|doi=10.1109/JQE.1969.1075759|bibcode=1969IJQE....5..211H}}
+*{{cite journal|last=Panish|first=M. B.|title=Double heterostructure injection lasers with room-Temperature thresholds as low as 2300 A/cm²|journal=Applied Physics Letters|year=1970|volume=16|issue=8|pages=326–327|doi=10.1063/1.1653213|bibcode=1970ApPhL..16..326P}} 
+*{{cite journal|last1=Hayashi|first1=I.|last2=Panish |first2=M. |last3=Foy |first3=P.|title=Junction lasers which operate continuously at room temperature|journal=Applied Physics Letters|year=1970|volume=17|issue=3|page=109|doi=10.1063/1.1653326|bibcode=1970ApPhL..17..109H}} 
+*{{cite journal|last1=Hayashi|first1=I.|last2=Panish |first2=M. |last3=Reinhart |first3=F. K.|title=GaAs AlxGa1−xAs Double Heterostructure Injection Lasers|journal=Journal of Applied Physics|year=1971|volume=42|issue=5|page=1929|doi=10.1063/1.1660469|bibcode=1971JAP....42.1929H}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.ieeeghn.org/wiki/index.php/File:Morton_B._Panish_2616.jpg Photograph of Panish] (IEEE)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Panish, Morton B.}}
+[[Category:American physical chemists]]
+[[Category:1929 births]]
+[[Category:Living people]]
+[[Category:Brooklyn College alumni]]
+[[Category:Scientists at Bell Labs]]
+[[Category:University of Denver alumni]]
+[[Category:Michigan State University alumni]]
+[[Category:Erasmus Hall High School alumni]]
+[[Category:Scientists from New York (state)]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Kyoto laureates in Advanced Technology]]

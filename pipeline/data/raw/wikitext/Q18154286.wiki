@@ -1,0 +1,100 @@
+{{Short description|American mathematician, physicist and computer scientist}}
+{{Infobox scientist
+| name              = David H. Wolpert
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| fields            = [[Mathematics]]<br />[[Computer science]]
+| workplaces        = [[Santa Fe Institute]]
+| education         = [[Princeton University]]<br />[[University of California, Santa Barbara]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Anthony Zee]]
+| doctoral_students = 
+| known_for         = 
+| awards            = 
+| spouse            = <!--(or | spouses = )-->
+}}
+
+'''David Hilton Wolpert''' is an American physicist and [[computer scientist]]. He is a professor at [[Santa Fe Institute]]. He is the author of three books, three patents, over one hundred refereed papers, and has received two awards. His name is particularly associated with a theorem in computer science known as "[[No free lunch in search and optimization|no free lunch]]".
+
+==Career==
+
+David Wolpert took a B.A. in physics at [[Princeton University]] (1984), then attended the [[University of California, Santa Barbara]], where he took the degrees of M.A. (1987) and Ph.D. (1989).
+
+Between 1989 and 1997 he pursued a research career at [[Los Alamos National Laboratory]], [[IBM]], TXN Inc. and Santa Fe Institute.
+
+From 1997 to 2011 he worked as senior computer scientist at [[NASA]] Ames Research Center, and became visiting scholar at the [[Max Planck Institute]]. He spent the year 2010-11 as Ulam Scholar at the Center for Nonlinear Studies at Los Alamos.<ref>{{Cite web |url=https://www.cnls.lanl.gov/External/Ulam.php |title=CNLS Ulam Scholar |access-date=2014-09-22 |archive-url=https://web.archive.org/web/20141026092733/http://cnls.lanl.gov/External/Ulam.php |archive-date=2014-10-26 }}</ref>
+
+He joined the faculty of Santa Fe Institute in 2011 and became a professor there in September 2013.<ref>[http://www.santafe.edu/about/people/profile/David%20Wolpert ''David Wolpert''], [[Santa Fe Institute]]</ref> His research interests have included [[statistics]], [[game theory]], [[machine learning]] applications, [[information theory]], [[optimization]] methods and [[complex systems theory]].
+
+=="No free lunch"==
+
+One of Wolpert's most discussed achievements is known as [[No free lunch in search and optimization]].<ref>Wolpert, D.H., Macready, W.G. (1995), ''No Free Lunch Theorems for Search'', Technical Report SFI-TR-95-02-010 (Santa Fe Institute).</ref><ref>{{cite journal | author = Wolpert D.H., Macready W.G. | year = 1997 | title = No Free Lunch Theorems for Optimization | url = http://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf | journal = IEEE Transactions on Evolutionary Computation | volume = 1 | page = 67 | doi=10.1109/4235.585893| s2cid = 5553697 }}</ref><ref>Wolpert, David (1996), ''The Lack of A Priori Distinctions between Learning Algorithms'', Neural Computation, pp. 1341–1390.</ref><ref>David H. Wolpert, [https://www.santafe.edu/research/results/working-papers/what-the-no-free-lunch-theorems-really-mean-how-to ''What the No Free Lunch Theorems Really Mean; How to Improve Search Algorithms''], SFI Working Paper 2012-10-017, Santa Fe Institute 2012</ref> By this theorem, all algorithms for search and optimization perform equally well averaged over all problems in the class with which they are designed to deal. However, in a machine learning context, the theorem makes an implicit artificial assumption regarding the lack of overlap between training and test data that is rarely true in practice.<ref>{{cite arXiv|last=Baxter|first=Jonathan|date=1999|title=Some Observations Concerning Off-Training-Set (OTS) Error|class=cs.LG |eprint=1912.05915}}</ref> More generally, the theorem holds only under certain conditions that are not often encountered precisely in real life,<ref>Streeter, M. (2003) ''Two Broad Classes of Functions for Which a No Free Lunch Result Does Not Hold'', Genetic and Evolutionary Computation – GECCO 2003, pp. 1418–1430.</ref><ref>{{cite journal | author = Igel C., Toussaint M. | year = 2004 | title = A No-Free-Lunch Theorem for Non-Uniform Distributions of Target Functions | journal = Journal of Mathematical Modelling and Algorithms | volume = 3 | issue = 4| pages = 313–322 | doi=10.1023/b:jmma.0000049381.24625.f7| s2cid = 195292166 }}</ref><ref>English, T. (2004), [http://BoundedTheoretics.com/CEC04.pdf ''No More Lunch: Analysis of Sequential Search''] {{Webarchive|url=https://web.archive.org/web/20150501100619/http://boundedtheoretics.com/CEC04.pdf |date=2015-05-01 }}, Proceedings of the 2004 IEEE Congress on Evolutionary Computation, pp. 227–234.</ref> although it has been claimed that the conditions can be met approximately.<ref>{{cite journal | author = Droste S., Jansen T., Wegener I. | year = 2002 | title = Optimization with randomized search heuristics: the (A)NFL theorem, realistic scenarios, and difficult functions | journal = Theoretical Computer Science | volume = 287 | issue = 1| pages = 131–144 | doi=10.1016/s0304-3975(02)00094-4| hdl = 2003/5394 | hdl-access = free }}</ref> The theorem lies within the domain of computer science, but a weaker version known as the "folkloric [[no free lunch theorem]]" has been drawn upon by [[William A. Dembski]] in support of [[intelligent design]].<ref>Dembski, W. A. (2002) ''No Free Lunch'', Rowman & Littlefield, {{ISBN|0-7425-1297-5}}</ref> This use of the theorem has been rejected by Wolpert himself<ref>Wolpert, D. (2003), [http://www.talkreason.org/articles/jello.cfm ''William Dembski's treatment of the No Free Lunch theorems is written in jello''] {{Webarchive|url=https://web.archive.org/web/20140419145257/http://www.talkreason.org/articles/jello.cfm |date=2014-04-19 }}, [[Talk Reason]]</ref> and others.<ref>Perakh, M. (2003), [http://www.talkreason.org/articles/orr.cfm ''The No Free Lunch Theorems and Their Application to Evolutionary Algorithms''], [[Talk Reason]].</ref><ref>Richard Wein (2002), [http://www.talkorigins.org/design/faqs/nfl/ ''Not a Free Lunch But a Box of Chocolates (Sect. 5.3)''], The TalkOrigins Archive</ref>
+
+==Limitation on knowledge==
+
+Wolpert has formalized an argument to show that it is in principle impossible for any intellect to know everything about the universe of which it forms a part, in other words disproving "[[Laplace's demon]]".<ref>{{cite journal| author=David H. Wolpert| title=''Physical limits of inference''| journal=Physica D| volume=237| issue=9| year=2008| pages=1257–1281| doi=10.1016/j.physd.2008.03.040| arxiv=0708.1362| bibcode=2008PhyD..237.1257W| s2cid=2033616}} [http://ti.arc.nasa.gov/m/pub-archive/1476h/1476%20%28Wolpert%29.pdf full text]</ref> This has been seen as an extension of the limitative theorems of the twentieth century such as those of [[Uncertainty principle|Heisenberg]] and [[Gödel's incompleteness theorems|Gödel]].<ref>Graham P. Collins, [http://www.scientificamerican.com/article/limits-on-human-comprehension/?page=1 ''Within Any Possible Universe, No Intellect Can Ever Know It All''], [[Scientific American]], 16 February 2009</ref> In 2018 Wolpert published a proof revealing the fundamental limits of scientific knowledge.<ref>{{Cite news|url=https://phys.org/news/2018-05-proof-reveals-fundamental-limits-scientific.html|title=New proof reveals fundamental limits of scientific knowledge|access-date=2018-10-04}}</ref>
+
+==Machine learning==
+Wolpert made many contributions to the early work on [[machine learning]]. These include a [[Bayesian probability|Bayesian]] estimator of the [[entropy (information theory)|entropy]] of a [[Probability distribution|distribution]] based on samples of the distribution,<ref>{{cite journal| author=David H. Wolpert and David Wolf| title=''Estimating Functions of Probability Distributions from a Finite Set of Samples''| journal=Physical Review E| volume=52| issue=6| year=1995| pages=6841–6854| doi=10.1103/physreve.52.6841| bibcode=1995PhRvE..52.6841W| pmid=9964199| s2cid=9795679}}</ref><ref>{{cite journal| author=David H. Wolpert and Simon DeDeo| title=''Estimating Functions of Distributions Defined over Spaces of Unknown Size''| journal=Entropy| volume=15| issue=12| year=2013| pages=4668–4699| doi=10.3390/e15114668| arxiv=1311.4548| bibcode=2013Entrp..15.4668W| s2cid=2737117| doi-access=free}}</ref> disproving formal claims that the "evidence procedure" is equivalent to hierarchical Bayes,<ref>{{cite journal| author=David H. Wolpert and Charles E. Strauss| title=''What Bayes has to say about the evidence procedure''| journal=Maximum Entropy and Bayesian Methods 1993|  year=1996}}</ref> a Bayesian alternative to the [[chi-squared test]],<ref>{{cite journal| author=David H. Wolpert | title=''Determining Whether Two Data Sets are from the Same Distribution''| journal=Maximum Entropy and Bayesian Methods 1995| year=1996}}</ref> a proof that there is no [[Prior probability|prior]] for which the [[Bootstrapping (statistics)|bootstrap procedure]] is Bayes-optimal,<ref>{{cite journal| author=David H. Wolpert | title=''The Bootstrap is Inconsistent with Probability Theory''| journal=Maximum Entropy and Bayesian Methods 1995| year=1996}}</ref> and Bayesian extensions of the bias-plus-variance decomposition.<ref>{{cite journal| author=David H. Wolpert | title=''On Bias plus Variance''| journal=Neural Computation| volume=9| issue=6| pages=1211–1243| year=1997| doi=10.1162/neco.1997.9.6.1211| s2cid=15418441}}</ref> Most prominently, he introduced "[[Ensemble learning#Stacking|stacked generalization]]",<ref>{{cite journal| author=David H. Wolpert | title=''Stacked Generalization''| journal=Neural Networks| volume=5| issue=2| year=1992 | pages=241–259| doi=10.1016/s0893-6080(05)80023-1}}</ref> a more sophisticated version of [[cross-validation (statistics)|cross-validation]] that uses held-in / held-out [[Partition function (mathematics)|partitions]] of a data set to combine learning algorithms rather than just choose one of them. This work was developed further by Breiman, Smyth, Clarke and many others, and in particular the top two winners of 2009 Netflix competition made use of stacked generalization (rebranded as "blending").<ref>{{cite journal| author=Joseph Sill |display-authors=etal | title=''Feature-Weighted Linear Stacking''| arxiv=0708.1362 | doi=10.1016/j.physd.2008.03.040| volume=237| issue=9| year=2008| journal=Physica D: Nonlinear Phenomena| pages=1257–1281| bibcode=2008PhyD..237.1257W|s2cid=2033616 }}</ref>
+
+==Academic memberships==
+
+*Fellow of [[IEEE]]
+*Member of FQXi
+*Research Associate of Infometrics Institute, [[American University]]
+*Associate Editor (as of January 2017)
+**[[Advances in Complex Systems]]
+**''IEEE Transactions on Evolutionary Computation''
+**''ACM Transactions on Autonomous and Adaptive Systems''
+*Member of editorial board (as of January 2017)
+**''[[Journal of Artificial Intelligence Research]]''
+**''Theory in Biosciences''
+**''Journal of Economic Interaction and Coordination''
+**''Reviews of Behavioral Economics''
+**''Entropy''
+**''Cancer Convergence''
+*Member on one [[National Science Foundation|NSF]] panel
+
+==Awards==
+
+*Princeton University Physics Department Kusaka Prize
+*Best Paper Award for IEEE Transactions on Evolutionary Computation, Vols .1 & 2
+*Superior Accomplishment Award for NASA Code IC for 1999
+
+==Publications (books only)==
+*Wolpert, D.H., Kempes, C., Stadler, P. F., Grochow, J.A. (eds.), ''[https://www.sfipress.org/books/energetics-of-computing-in-life-and-machines The Energetics of Computing in Life and Machines]'', Santa Fe Institute Press, 2019. {{ISBN|1947864076}}
+*Wolpert, D.H. (ed.), ''The Mathematics of Generalization'', Addison-Wesley, 1994. {{ISBN|0201409852}}
+*Wolpert, D.H. ''An Incompleteness Theorem for Calculating the Future'', SFI Economics Program, Santa Fe Institute, 1996.
+*Tumer, K. and Wolpert, D.H. (ed.), ''Collectives And The Design Of Complex Systems'', Springer, 2004. {{ISBN|0387401652}}
+*Guy, T.V., Karny M., Wolpert D.H. (eds.), ''Decision making with imperfect decision makers'', Springer, 2012. {{ISBN|3642246478}}
+*Wolpert, D.H. ''Theory of Collective Intelligence'', NASA Technical Reports Server, 2003. {{ISBN|1289283427}}
+
+==References==
+{{reflist}}
+
+== External links ==
+
+* {{official website|https://davidwolpert.weebly.com/professional.html}}
+* [https://santafe.edu/people/profile/david-wolpert SFI profile]
+
+{{authority control}}
+
+{{DEFAULTSORT:Wolpert, David}}
+
+[[category:20th-century American mathematicians]]
+[[category:21st-century American mathematicians]]
+[[category:American computer scientists]]
+[[category:living people]]
+[[category:Princeton University alumni]]
+[[category:Santa Fe Institute people]]
+[[category:University of California, Santa Barbara alumni]]
+[[category:year of birth missing (living people)]]

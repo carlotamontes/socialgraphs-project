@@ -1,0 +1,60 @@
+{{short description|Greek computer scientist}}
+{{Use dmy dates|cs1-dates=ly|date=May 2025}}
+{{CS1 config|mode=cs2}}
+{{Infobox person
+| name               = Lydia E. Kavraki<br/>Λύδια Καβράκη
+| image              = 
+| caption            = 
+| birth_name         = <!-- if different -->
+| birth_date         = 
+| birth_place        = [[Heraklion]], [[Crete]], Greece
+| death_date         = 
+| death_place        = 
+| other_names        = 
+| occupation         = Noah Harding Professor of Computer Science - Rice University, Greek-American computer scientist
+| years_active       = 
+| spouse             = 
+| partner            = 
+| children           = 
+| website            = 
+}}
+'''Lydia E. Kavraki''' ({{langx|el|Λύδια Καβράκη}}) is a [[Greeks|Greek]]-[[Americans|American]] [[computer scientist]], an honorary doctorate of the University of Crete and the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at [[Rice University]]. She is also the director of the Ken Kennedy Institute at [[Rice University]]. She is known for her work on [[robotics]]/[[AI]] and [[bioinformatics]]/[[computational biology]] and in particular for the [[probabilistic roadmap]] method for robot motion planning and biomolecular configuration analysis.<ref name="biosketch">[http://www.cs.rice.edu/~kavraki/short_bio.html Short Biographical Sketch of Lydia E. Kavraki], Rice University, retrieved 2019-11-1.</ref>
+
+==Biography==
+Kavraki was born in [[Heraklion]]<ref>[https://ethw.org/Oral-History:Lydia_Kavraki Oral History Interview] with Selma Šabanović, College Station, Texas 2015</ref>  and did her undergraduate studies at the [[University of Crete]].<ref name="biosketch"/> She then moved to [[Stanford University]] for her graduate studies, earning a Ph.D. in 1995 under the supervision of [[Jean-Claude Latombe]].<ref name="biosketch"/><ref>{{mathgenealogy|name=Lydia E. Kavraki|id=71507}}.</ref>
+
+==Awards and honors==
+In 2000, Kavraki won the [[Grace Murray Hopper Award]] for her work on probabilistic roadmaps.<ref>[http://awards.acm.org/citation.cfm?id=1932414&srt=all&aw=145&ao=GMHOPPER&yr=2000 Award citation for Grace Murray Hopper Award] {{Webarchive|url=https://web.archive.org/web/20120402211927/http://awards.acm.org/citation.cfm?id=1932414&srt=all&aw=145&ao=GMHOPPER&yr=2000 |date=2012-04-02 }}, ACM, retrieved 2011-11-20.</ref><ref>{{citation|title=Kavraki awarded ACM Grace Murray Hopper Award|journal=OwlBytes|date=Fall 2001|pages=1, 8|url=http://www.cs.rice.edu/News/OwlBytes01.pdf}}</ref> In 2002, ''[[Popular Science]]'' magazine listed her in their "Brilliant 10" awards,<ref>{{citation|journal=[[Popular Science]]|title= PopSci's Brilliant 10|first=J. R.|last=Minkel|date=October 14, 2002|url=http://www.popsci.com/scitech/article/2002-10/popscis-brilliant-10}}.</ref> and in the same year ''[[MIT Technology Review]]'' listed her in their annual list of 35 innovators under the age of 35.
+<ref>{{citation|journal=[[Technology Review]]|title=TR35: Technology Review's annual list of 35 innovators under 35|url=http://www.technologyreview.com/tr35/profile.aspx?TRID=264|year=2002}}.</ref> In 2010, she was elected as a Fellow of the [[Association for Computing Machinery]] "for contributions to robotic motion planning and its application to computational biology."<ref>[http://www.acm.org/press-room/news-releases/2010/fellows-2010 ACM Names 41 Fellows from World's Leading Institutions] {{webarchive|url=https://web.archive.org/web/20120428113630/http://www.acm.org/press-room/news-releases/2010/fellows-2010 |date=2012-04-28 }}, ACM, December 7, 2010, retrieved 2011-11-20.</ref><ref>[http://engineering.rice.edu/NewsContent.aspx?id=3127 Kavraki] elected [[List of Fellows of the Association for Computing Machinery|ACM Fellow]], Rice University, December 13, 2010, retrieved 2011-11-20. {{Webarchive|url=https://web.archive.org/web/20111007034352/http://engineering.rice.edu/NewsContent.aspx?id=3127 |date=2011-10-07 }}</ref> She is also a fellow of the [[Association for the Advancement of Artificial Intelligence]],<ref name="biosketch"/><ref>[http://www.aaai.org/Awards/fellows-current.php Current AAAI Fellows], AAAI, retrieved 2011-11-20.</ref> a fellow of [[IEEE]],<ref>{{citation |title=Kavraki elected IEEE fellow |url=https://news.rice.edu/2012/01/25/kavraki-elected-ieee-fellow/ |website=news.rice.edu}}</ref> a fellow of AIMBE <ref>{{citation |title=Lydia E. Kavraki, Ph.D. COF-0490 - AIMBE |url=https://aimbe.org/college-of-fellows/cof-0490/ |website=aimbe.org |language=en}}</ref> and a fellow of the [[American Association for the Advancement of Science]].<ref>{{citation|title=AAAS Members Elected as Fellows|journal=[[Science (journal)|Science]]|volume=338|issue=6111|date=November 30, 2012|pages=1168–1171|doi=10.1126/science.338.6111.1166 |doi-access=free}}.</ref> In 2015, she was the winner of the ABIE Award for Technical Leadership from the [[Anita Borg Institute]].<ref>{{citation|url=https://anitaborg.org/profiles/abie-award-winners/lydia-e-kavraki/|title=Lydia E. Kavraki - Technical Leadership ABIE Award|date=2015-09-01|work=AnitaB.org|archive-url=https://web.archive.org/web/20170807235620/https://anitaborg.org/profiles/abie-award-winners/lydia-e-kavraki/|archive-date=2017-08-07|language=en-US|url-status=dead}}</ref> In 2017, Kavraki was honored with the ACM Athena Lecturer award from the [[Association for Computing Machinery]], which celebrates women researchers who have made fundamental contributions to the field of Computer Science.<ref>{{citation |title=Lydia E. Kavraki named 2017-2018 ACM Athena Lecturer |url=http://www.acm.org/articles/bulletins/2017/april/athena-2017-kavraki |website=www.acm.org |language=en}}</ref> In 2020, she was awarded the ACM IEEE Allen Newell Award.<ref>{{citation |title=Lydia Kavraki ACM IEEE Allen Newell Award |url=https://awards.acm.org/award_winners/kavraki_3691391 |website=www.acm.org |language=en}}</ref> In 2025, she was elected to the National Academy of Engineering.<ref>{{citation |title=Rice's Lydia Kavraki elected to National Academy of Engineering |url=https://news.rice.edu/news/2025/rices-lydia-kavraki-elected-national-academy-engineering}}</ref><ref>{{citation |title=National Academy of Engineering Elects 128 Members and 22 International Members |url=https://www.nae.edu/331605/NAENewClass2025 |access-date=2025-02-17 |website=NAE Website |language=en}}</ref>
+
+Kavraki is  a member of the [[National Academy of Medicine]] (formerly Institute of Medicine (IoM)),<ref>{{citation |title=IOM Elects 70 New Members, 10 Foreign Associates : Health and Medicine Division |url=http://nationalacademies.org/hmd/Global/News%20Announcements/2012-New-Members.aspx |website=nationalacademies.org }}</ref> the [[Academy of Athens (modern)|Academy of Athens]],<ref>{{citation |title=Kavraki inducted to the Academy of Athens |work= Rice Engineering|publisher= Rice University |url=https://engineering.rice.edu/news/kavraki-inducted-academy-athens}}</ref> the [[Academy of Medicine, Engineering and Science of Texas]] (TAMEST), the [[Academia Europaea]],<ref>{{citation|url=https://www.ae-info.org/ae/Member/Kavraki_Lydia|title=Kavraki, Lydia|work=Member profiles|publisher=Academia Europaea|access-date=2020-10-08}}</ref> the [[American Academy of Arts and Sciences]],<ref>{{citation|url=https://www.amacad.org/new-members-2023|title=New members|year=2023|publisher= American Academy of Arts and Sciences|access-date=2023-04-21}}</ref> and the [[National Academy of Sciences]].<ref>{{citation|url=https://www.nasonline.org/news/2025-nas-election/|access-date=2025-05-01|title=National Academy of Sciences Elects Members and International Members|date=April 29, 2025|publisher=National Academy of Sciences}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{Hopper winners}}
+
+{{DEFAULTSORT:Kavraki, Lydia E.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Greek computer scientists]]
+[[Category:Greek emigrants to the United States]]
+[[Category:American computer scientists]]
+[[Category:American women computer scientists]]
+[[Category:Greek women computer scientists]]
+[[Category:University of Crete alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Rice University faculty]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Members of Academia Europaea]]
+[[Category:Researchers in geometric algorithms]]
+[[Category:Women systems scientists]]
+[[Category:Scientists from Heraklion]]
+[[Category:American women academics]]
+[[Category:21st-century American women]]
+[[Category:Members of the National Academy of Medicine]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]

@@ -1,0 +1,52 @@
+{{Short description|Spanish engineering professor}}
+
+{{Infobox scientist
+| name              = Juan C. Simo
+| birth_date        = 1952
+| birth_place       = Spain
+| death_date        = {{death date and age|1994|09|26|1952}}
+| death_place       = [[Madrid]], Spain<ref>{{Cite journal |last=Taylor |first=Robert L. |date=1995-05-15 |title=Obituary: Juan Carlos Simo (1952–1994) |url=https://onlinelibrary.wiley.com/doi/10.1002/nme.1620380902 |journal=International Journal for Numerical Methods in Engineering |language=en |volume=38 |issue=9 |pages=1429–1430 |doi=10.1002/nme.1620380902 |issn=0029-5981|url-access=subscription }}</ref>
+| known_for         = Contributions to finite element theory and computational mechanics
+| fields            = {{Indented plainlist|
+* [[Computational mechanics]]
+* [[Finite element method]]
+}}
+| workplaces        = {{Indented plainlist|
+* [[Stanford]] (1985–1994)
+}}
+| education         = [[University of California, Berkeley]] ([[PhD]], 1982)
+}}
+
+'''Juan Carlos Simo''' (1952 – September 26, 1994) was a professor of [[mechanical engineering]] at [[Stanford]] who worked in the field of computational mechanics. His work focused on engineering analysis, particularly in the area of finite element analysis of inelastic solids and structures.<ref name="theoryToComputation">{{cite book |title=Mechanics: From Theory to Computation: Essays in Honor of Juan-Carlos Simo |date=17 October 2012 |publisher=Springer |isbn=978-1461270591}}</ref>
+
+==Career==
+Simo studied the mathematical formulation of mechanical models and the development and analysis of numerical methods for simulating them. He co-authored a textbook with [[Thomas J.R. Hughes]] on [[Plasticity_(physics)|computational inelasticity]].<ref>{{cite book |last1=Anand |first1=L. |authorlink=Lallit Anand |last2=Govindjee |first2=S. |title=Continuum Mechanics of Solids |date=2020 |publisher=Oxford University Press |isbn=978-0198864721 }}</ref> With his graduate students, he published works demonstrating convergence for algorithms used in the field.   
+
+Simo's work was advanced nonlinear mechanical theories for beams and shells.<ref>{{cite book |last1=Antman |first1=S. |author-link1=Stuart S. Antman |title=Nonlinear problems of elasticity |series=Applied Mathematical Sciences |date=2005 |volume=107 |publisher=Springer New York |doi=10.1007/0-387-27649-1 |isbn=978-0-387-20880-0 |url=https://doi.org/10.1007/0-387-27649-1}}</ref> His work on the subject emerged in the wake of [[Clifford A. Truesdell|Clifford Truesdell's]] reformation of mechanics, which paved the way for generalized models of these classical theories, such as [[Paul Naghdi]]'s treatment of shells and [[Stuart Antman]]'s special Cosserat rod. However, these models were not suitable for finite element methods because they were posed over solution spaces lacking a vectorial structure. Simo's approach, shaped by his interest in [[differential geometry]] and his collaborations with mathematicians like [[Jerrold Marsden]], overcame these limitations and represented an advancement in applying finite element methods to these complex nonlinear systems.{{Cn|date=March 2025}}
+
+Simo also made contributions to the mathematical foundations of [[finite element analysis]]. His investigation of the [[patch test (finite elements)|patch test]] illuminated the mathematical basis for the procedure<ref>{{cite book|last1=Zienkiewicz |first1=O. C.|author-link1=Olgierd Zienkiewicz|first2=R. L. |last2=Taylor |first3=J. Z. |last3=Zhu |title=The Finite Element Method: Its Basis and Fundamentals|publisher=[[Butterworth-Heinemann]]|date=May 2005|edition=6|isbn=0-7506-6320-0}}</ref> and his perspective on [[mixed finite element method|mixed finite element methods]] contributed to their use as a [[calculus of variations|variational technique]].<ref>{{cite book |first1=G. |last1=Strang |author-link1=Gilbert Strang |first2=G. |last2=Fix |author-link2=George Fix |title=An Analysis of The Finite Element Method |url=https://archive.org/details/analysisoffinite0000stra |url-access=registration |publisher=Prentice Hall |year=1973 |isbn=978-0-13-032946-2}}</ref>
+
+Throughout the course of his career, he published about 80 papers and three books.<ref name="stanfordSimo" />
+
+==Death==
+Simo died in 1994 at the age of 42.<ref name="stanfordSimo" />
+
+==Awards and honors==
+Simo received the [[Presidential Young Investigator Award]] in 1987,<ref>{{cite web |title=NSF 92-55 Directory of Awards, Engineering Directorate |url=https://www.nsf.gov/pubs/stis1992/nsf9255/nsf9255.txt}}</ref><ref>{{Cite news |date=1987-01-10 |title=Six Stanford researchers honored |url=https://www.newspapers.com/article/the-peninsula-times-tribune-six-stanford/170722077/ |access-date=2025-04-20 |work=The Peninsula Times Tribune |pages=2}}</ref> was promoted to associate professor with tenure in 1990, and became a full professor in 1993.{{Cn|date=March 2025}} Shortly after, he was appointed Chairman of the Applied Mechanics Division.<ref name="stanfordSimo">{{cite web |title=Simo |url=https://mechanics.stanford.edu/simo |access-date=4 April 2024}}</ref> In 1994, Juan was honored with the [[Humboldt Research Award]] from the Alexander von Humboldt Foundation.
+
+In 2010, the annual Juan C. Simo Thesis award was established by the Mechanics and Computation Division at Stanford to commemorate the life and contributions of Simo.<ref name="stanfordSimo" />
+
+The Spanish Society on Numerical Methods in Engineering (SEMNI) also presents a yearly award named in honor of Simo, which recognizes "young researchers in the field of numerical methods and their applications."<ref>{{Cite web |date=2017-01-04 |title=Dr. Pavel Ryzhakov wins the Juan Carlos Simó Prize 2017 |url=https://www.cimne.com/vnews/10093/dr-pavel-ryzhakov-wins-the-juan-carlos-simo-prize-2017 |access-date=2025-04-20 |website=www.cimne.com}}</ref><ref>{{Cite web |title=Premios y distinciones – SEMNI |url=https://semni.org/premios/ |access-date=2025-04-20 |language=es |quote=Premio SEMNI Juan Carlos Simó al joven investigador}}</ref>
+
+==Books==
+*Juan C. Simo and [[Thomas J.R. Hughes]], ''Computational Inelasticity''. [[Springer Publishing|Springer]] (1998).<ref>{{cite book|last1=Simo|first1=J.C.|last2=Hughes|first2=T.J.R.|author-link2=Thomas J.R. Hughes |title=Computational Inelasticity |series=Interdisciplinary Applied Mathematics |year=1998|volume=7 |doi=10.1007/b98904 |isbn=0-387-97520-9 |url=https://link.springer.com/book/10.1007/b98904}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Stanford University Department of Mechanical Engineering faculty]]
+{{DEFAULTSORT:Carlos Simo, Juan}}
+[[Category:1952 births]]
+[[Category:1994 deaths]]
+[[Category:20th-century American mechanical engineers]]
+[[Category:20th-century Spanish engineers]]

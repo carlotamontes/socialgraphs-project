@@ -1,0 +1,103 @@
+{{short description|German physicist}}
+{{Infobox scientist
+| name              = Olaf Dreyer
+| native_name       = 
+| image             = OlafDreyer1.JPG
+| caption           = Dreyer at Harvard University
+| birth_date        = 1969
+| birth_place       = [[Hamburg]], Germany
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| fields            = Theoretical physics, [[quantum gravity]]
+| education         = [[Pennsylvania State University]] (PhD 2001)
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| known_for         = "internal relativity"
+}}
+'''Olaf Dreyer''' (born 1969, [[Hamburg]]) is a German [[theoretical physicist]] whose research interests include [[quantum gravity]] and the [[quantum measurement problem]]. Dreyer received his Ph.D. in quantum gravity in 2001 from the [[Pennsylvania State University]]<ref>{{cite web
+ | url = http://www.houghtonmifflinbooks.com/booksellers/press_release/smolin/#physicists
+ | title = Press release for "The Trouble with Physics" published by Houghton Mifflin Company: Hot Young Physicists
+ | access-date = 22 January 2011
+}}</ref> under the direction of [[Abhay Ashtekar]].<ref>{{cite web
+ | last = Baez | first = John
+ | title = This Week's Finds in Mathematical Physics (Week 189)
+ | year = 2002
+ | url = http://math.ucr.edu/home/baez/week189.html
+ | access-date = 22 January 2011
+}}</ref> Subsequently, he has held a postdoctoral fellowship at the [[Perimeter Institute for Theoretical Physics]] in [[Waterloo, Ontario]], a Marie Curie Fellowship at [[Imperial College]], London, and a postdoctoral fellowship at the [[MIT Center for Theoretical Physics|Center for Theoretical Physics]], [[Massachusetts Institute of Technology]].
+
+In 2002 Dreyer proposed<ref>{{citation
+ | title = Quasinormal Modes, the Area Spectrum, and Black Hole Entropy
+ | last = Dreyer | first = Olaf
+ | journal = Phys. Rev. Lett.
+ | volume = 90
+ | issue = 8 | article-number = 081301
+ | year = 2003
+ | doi = 10.1103/PhysRevLett.90.081301
+ | id = 
+| pmid=12633415
+| arxiv=gr-qc/0211076v1
+| bibcode=2003PhRvL..90h1301D
+}}</ref> a connection between the [[Immirzi parameter|Barbero-Immirzi parameter]] in [[loop quantum gravity]] and the asymptotic behaviour of [[black hole]] quasinormal modes (in numerical general relativity), building on previous insights due to Shahar Hod.<ref>{{citation
+ | title = Bohr's Correspondence Principle and The Area Spectrum of Quantum Black Holes
+ | last = Hod | first = Shahar
+ | journal = Phys. Rev. Lett.
+ | volume = 81
+ | issue = 20 | pages = 4293–4296
+ | year = 1998
+ | doi = 10.1103/PhysRevLett.81.4293
+ | id = 
+| arxiv=gr-qc/9812002v2
+| bibcode=1998PhRvL..81.4293H
+}}</ref>  Subsequently, [[Lubos Motl]] proved that the exact asymptotic behaviour of the quasinormal modes of the Schwarzschild black hole was as predicted numerically.<ref>{{citation
+ | title = An analytical computation of asymptotic Schwarzschild quasinormal frequencies
+ | last = Motl | first = Lubos
+ | journal = Adv. Theor. Math. Phys. 
+ | volume = 6 
+ | issue = 6 | year = 2003
+ | pages = 1135–1162
+ | id = 
+| arxiv=gr-qc/0212096v3
+|bibcode = 2002gr.qc....12096M | doi = 10.4310/ATMP.2002.v6.n6.a3 }}</ref>
+
+Dreyer has developed an approach to quantum gravity known as "internal relativity".<ref>{{citation
+ | title = Knowing the mind of God: Seven theories of everything
+ | last = Marshall | first = Michael
+ | date = 4 March 2010
+ | journal = New Scientist
+ | url = https://www.newscientist.com/article/dn18612-knowing-the-mind-of-god-seven-theories-of-everything.html
+}}</ref>
+
+==Notes==
+{{reflist}}
+
+== External links ==
+* {{cite web
+ |url         = http://www.rle.mit.edu/xqit/dreyer-abstract.html
+ |title       = xQIT:: Center for Extreme Quantum Information Theory at MIT]
+ |access-date  = 22 January 2011
+ |archive-url  = https://web.archive.org/web/20100714071946/http://www.rle.mit.edu/xqit/dreyer-abstract.html
+ |archive-date = 14 July 2010
+}}
+* {{citation
+ | title = It's all relative
+ | last = Becker | first = Kate
+ | year = 2007
+ | publisher = The Foundational Questions Institute
+ | url = http://fqxi.org/community/articles
+ | access-date = 22 January 2011
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dreyer, Olaf}}
+[[Category:Living people]]
+[[Category:21st-century German physicists]]
+[[Category:Academic staff of the University of Waterloo]]
+[[Category:1969 births]]
+[[Category:MIT Center for Theoretical Physics people]]
+
+
+{{Germany-scientist-stub}}

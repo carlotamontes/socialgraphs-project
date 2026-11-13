@@ -1,0 +1,59 @@
+{{Short description|French computational physicist (1931–2019)}}
+{{Infobox scientist
+| name                      = Loup Verlet
+| birth_name             = Jean-Loup Gaston Emmanuel Verlet
+| image                     = 
+| caption                   = 
+| birth_date               = {{Birth date|1931|5|24|mf=y}}
+| birth_place             = [[Paris, France]]
+| death_date             = {{Death date and age|2019|6|13|1931|5|24|mf=y}}
+| death_place           = [[Gometz-le-Châtel]], France<ref>{{Cite web |title=matchID - Moteur de recherche des décès |url=https://deces.matchid.io/id/4Z4zBdjwPqrM |access-date=2026-09-20 |website=deces.matchid.io}}</ref>
+| fields                      = 
+| known_for              = [[Verlet integration]]<br>[[Verlet list]]
+| workplaces             = 
+| education               = [[University of Paris]]
+| doctoral_advisor    = [[Maurice Lévy (physicist)|Maurice Lévy]]
+| doctoral_students  = [[Jean-Pierre Hansen]]<ref>{{Cite journal |last=Levesque |first=Dominique |date=2015-09-17 |title=Jean-Pierre Hansen Orsay 1965–1970 |url=https://www.tandfonline.com/doi/full/10.1080/00268976.2015.1018360 |journal=Molecular Physics |language=en |volume=113 |issue=17-18 |pages=2376–2377 |doi=10.1080/00268976.2015.1018360 |issn=0026-8976|url-access=subscription }}</ref>
+| thesis_title             = Contribution à l'étude du modèle optique du noyau
+| thesis_url               = https://doi.org/10.1051/anphys/195913040643
+| thesis_year            = 1957
+| awards                   = 
+| footnotes                = 
+}}
+'''Loup Verlet''' ({{IPA|fr|lu vɛʁˈlɛ}}; 24 May 1931 – 13 June 2019<ref name="CECAM">{{Cite web |url=https://www.cecam.org/news-details/loup-verlet |title=Loup Verlet (1931-2019) |website=Centre Européen de Calcul Atomique et Moléculaire |language=en-US |access-date=2019-10-14}}</ref>) was a French computational physicist who pioneered the computer simulation of molecular dynamics models. In a famous 1967 paper he used what is now known as [[Verlet integration]] (a method for the numerical integration of equations of motion) and the [[Verlet list]] (a data structure that keeps track of each molecule's immediate neighbors in order to speed computer calculations of molecule-to-molecule interactions).
+
+== Education and career ==
+Verlet received his PhD in 1957; his PhD work was initially conducted in the group of [[Victor Frederick Weisskopf|Victor Weisskopf]] at the [[Massachusetts Institute of Technology]] and concluded under the guidance of [[Maurice Lévy (physicist)|Maurice Lévy]] at the [[École normale supérieure (Paris)|École normale supérieure]] in Paris.<ref name="CECAM"/> From 1957 to 1993 he worked mostly on the physics of the liquid state.
+
+He also wrote about the history of science.  In his book "La Malle de Newton" (1993) he argued that [[Isaac Newton]] was an important transition figure between the medieval, mainly religious, world of ideas and the modern scientific way of analyzing physical problems. Newton had a foot in both worlds, as shown by the fact that his writings are not only concerned with mathematics and physics, but also theology and alchemy, a combination that might seem bizarre by modern standards. The publication of Newton's [[Philosophiae Naturalis Principia Mathematica|Principia]] in 1687 and the [[Glorious Revolution]] of 1688 (with the king's powers limited by an elected Parliament) were the key events that brought the old era to a close and ushered in the modern one.
+
+His last book was 'Chimères et Paradoxes' (Ed. Cerf, 2007), an extended essay that touches on the philosophy of science as well as the history of science.  Among other things, it considers how three great thinkers ([[René Descartes|Descartes]], [[Isaac Newton|Newton]] and [[Sigmund Freud|Freud]]) changed our world view.
+
+== Bibliography ==
+=== Books ===
+* {{Cite book |last=Verlet |first=Loup |url=https://www.google.com/books/edition/M%C3%A9canique_statistique/U1I5HQAACAAJ |title=Mécanique statistique |date=1961 |publisher=Office national des universités et écoles françaises |language=fr}}
+* {{Cite book |last=Verlet |first=Loup |title=La malle de Newton |date=1993 |publisher=Gallimard |isbn=978-2-07-073058-2 |series=Bibliothèque des sciences humaines |language=fr |location=Paris}}
+* {{Cite book |last=Verlet |first=Loup |title=Chimères et paradoxes: comment penser le monde où nous vivons? |date=2007 |publisher=Éditions du Cerf |isbn=978-2-204-08207-5 |series=Passages |language=fr |location=Paris}}
+=== Selected publications ===
+* {{Cite journal |last=Verlet |first=Loup |date=1967 |title=Computer "Experiments" on Classical Fluids. I. Thermodynamical Properties of Lennard-Jones Molecules |url=https://link.aps.org/doi/10.1103/PhysRev.159.98 |journal=Physical Review |language=en |volume=159 |issue=1 |pages=98–103 |doi=10.1103/PhysRev.159.98 |issn=0031-899X}}
+* {{Cite journal |last=Verlet |first=Loup |date=1968 |title=Computer "Experiments" on Classical Fluids. II. Equilibrium Correlation Functions |url=https://link.aps.org/doi/10.1103/PhysRev.165.201 |journal=Physical Review |language=en |volume=165 |issue=1 |pages=201–214 |doi=10.1103/PhysRev.165.201 |issn=0031-899X|url-access=subscription }}
+* {{Cite journal |last=Levesque |first=Dominique |last2=Verlet |first2=Loup |date=1970 |title=Computer "Experiments" on Classical Fluids. III. Time-Dependent Self-Correlation Functions |url=https://link.aps.org/doi/10.1103/PhysRevA.2.2514 |journal=Physical Review A |language=en |volume=2 |issue=6 |pages=2514–2528 |doi=10.1103/PhysRevA.2.2514 |issn=0556-2791|url-access=subscription }}
+* {{Cite journal |last=Levesque |first=D. |last2=Verlet |first2=L. |last3=Kürkijarvi |first3=Juhani |date=1973 |title=Computer "Experiments" on Classical Fluids. IV. Transport Properties and Time-Correlation Functions of the Lennard-Jones Liquid near Its Triple Point |url=https://link.aps.org/doi/10.1103/PhysRevA.7.1690 |journal=Physical Review A |language=en |volume=7 |issue=5 |pages=1690–1700 |doi=10.1103/PhysRevA.7.1690 |issn=0556-2791|url-access=subscription }}
+* {{Cite journal |last=Hansen |first=Jean-Pierre |last2=Verlet |first2=Loup |date=1969 |title=Phase Transitions of the Lennard-Jones System |url=https://link.aps.org/doi/10.1103/PhysRev.184.151 |journal=Physical Review |language=en |volume=184 |issue=1 |pages=151–161 |doi=10.1103/PhysRev.184.151 |issn=0031-899X|url-access=subscription }}
+* {{Cite journal |last=Verlet |first=Loup |last2=Weis |first2=Jean-Jacques |date=1972 |title=Equilibrium Theory of Simple Liquids |url=https://link.aps.org/doi/10.1103/PhysRevA.5.939 |journal=Physical Review A |language=en |volume=5 |issue=2 |pages=939–952 |doi=10.1103/PhysRevA.5.939 |issn=0556-2791|url-access=subscription }}
+* {{Cite journal |last=Levesque |first=D. |last2=Verlet |first2=L. |date=1993 |title=Molecular dynamics and time reversibility |url=http://link.springer.com/10.1007/BF01048022 |journal=Journal of Statistical Physics |language=en |volume=72 |issue=3-4 |pages=519–537 |doi=10.1007/BF01048022 |issn=0022-4715|url-access=subscription }}.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Verlet, Loup}}
+[[Category:1931 births]]
+[[Category:2019 deaths]]
+[[Category:Physics educators]]
+[[Category:20th-century French physicists]]
+[[Category:Computational physicists]]
+[[Category:University of Paris alumni]]
+[[Category:Scientists from Paris]]
+[[Category:Research directors of the French National Centre for Scientific Research]]

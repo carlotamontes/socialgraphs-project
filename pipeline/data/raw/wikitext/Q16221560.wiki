@@ -1,0 +1,163 @@
+
+{{Short description|Swiss ecologist}}
+
+'''Antoine Guisan''' is a Swiss [[ecologist]] and professor at the [[University of Lausanne]] whose research focuses on biodiversity conservation, species distribution modelling, and global change biology.<ref>{{cite journal
+ |last1=Guisan
+ |first1=Antoine
+ |last2=Thuiller
+ |first2=Wilfried
+ |year=2005
+ |title=Predicting species distribution: offering more than simple habitat models
+ |journal=Ecology Letters
+ |volume=8
+ |issue=9
+ |pages=993–1009
+ |doi=10.1111/j.1461-0248.2005.00792.x
+}}</ref>
+
+==Education==
+Guisan obtained his BSc from the [[University of Geneva]] in 1990. He continued with a MSc in 1992, and from 1993 to 1996 he worked on his PhD, both at the same university. He also obtained a Postgraduate Master in Statistics from the [[University of Neuchâtel]] in 1996.<ref name="unil">{{cite web
+ |title=Antoine Guisan – Academic Profile
+ |url=https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=861627&LanCode=8
+ |publisher=University of Lausanne
+ |access-date=7 March 2026
+}}</ref>
+
+==Career==
+In 1997, he worked as a postdoctoral researcher at [[Stanford University]] in the Center for Conservation Biology and later held a similar position at the Conservatoire et Jardin Botaniques. From 1998 to 2001, he worked at the Swiss Center for Faunal Cartography and later became an assistant professor at the [[University of Lausanne]], specializing in plant biogeography and [[spatial ecology]].<ref name="unil" /> He became an associate professor in 2007 at the same institution, specializing in [[plant ecology]].<ref name="unil" /> He was promoted to full professor jointly between the Faculty of Biology & Medicine and the Faculty of Geosciences & Environment at the University of Lausanne in 2017.<ref name="unil" />
+
+He is a member of the [[International Association for Vegetation Science]], the International Association of Landscape Ecology, the Swiss Botanical Society, and the International Society for Ecological Modelling.<ref name="unil" />
+
+His publications have been widely cited in the fields of spatial ecology and biodiversity modelling, and several of his papers are among the most frequently cited works in species distribution modelling.<ref>{{cite journal
+ |last1=Guisan
+ |first1=Antoine
+ |last2=Edwards
+ |first2=Thomas C.
+ |last3=Hastie
+ |first3=Trevor
+ |year=2002
+ |title=Generalized linear and generalized additive models in studies of species distributions: Setting the scene
+ |journal=Ecological Modelling
+ |volume=157
+ |issue=2–3
+ |pages=89–100
+ |doi=10.1016/S0304-3800(02)00204-1
+}}</ref>
+
+==Research==
+Antoine Guisan's research focuses on spatial ecology and eco-geographical modelling, with a particular emphasis on predictive habitat distribution modelling.<ref name="unil" /> His work examines ecological patterns and processes at the levels of species, habitats or ecological communities, and biodiversity. These modelling approaches are widely used in landscape ecology, conservation biology, and environmental science.<ref name="Guisan2000">{{cite journal |last=Guisan |first=Antoine |year=2000 |title=Predictive habitat distribution models in ecology |journal=Ecological Modelling |volume=135 |issue=2–3 |pages=147–186 |doi=10.1016/S0304-3800(00)00354-9}}</ref>
+
+His research includes modelling the impacts of climate change on plant species distributions and biodiversity, supporting conservation and management of rare and endangered species, evaluating the invasive potential of non-native plants and niche conservatism between native and colonized ranges, and analysing landscape patterns and [[habitat fragmentation]].<ref name="unil" /> He has also contributed to the development of dynamic models simulating species spread across landscapes and to long-term monitoring plots used to test ecological predictions under global environmental change.<ref>{{cite book
+ |last1=Broennimann
+ |first1=Olivier
+ |last2=Collart
+ |first2=Flavien
+ |last3=Guisan
+ |first3=Antoine
+ |year=2026
+ |chapter=The ecospat R Package: A Collection of Pre-, Core-, and Post-Modeling Tools to Investigate Species Niches and Distributions
+ |editor-last=Rocchini
+ |editor-first=Duccio
+ |title=R Coding for Ecology
+ |series=Use R!
+ |publisher=Springer
+ |pages=67–98
+ |doi=10.1007/978-3-031-99665-8_3
+}}</ref>
+
+==Selected publications==
+* {{cite journal |last1=Elith |first1=Jane |last2=Graham |first2=Catherine H. |last3=Anderson |first3=Robert P. |last4=Dudík |first4=Miroslav |last5=Ferrier |first5=Simon |last6=Guisan |first6=Antoine |year=2006 |title=Novel methods improve prediction of species’ distributions from occurrence data |journal=Ecography |volume=29 |issue=2 |pages=129–151 |doi=10.1111/j.2006.0906-7590.04596.x}}
+* {{cite book
+ |last1=Guisan
+ |first1=Antoine
+ |last2=Thuiller
+ |first2=Wilfried
+ |last3=Zimmermann
+ |first3=Niklaus E.
+ |year=2017
+ |title=Habitat Suitability and Distribution Models: With Applications in R
+ |publisher=Cambridge University Press
+ |location=Cambridge
+ |doi=10.1017/9781139028271
+ |isbn=978-0-521-76513-8
+}}
+* {{cite journal |last=Guisan |first=Antoine |last2=Zimmermann |first2=Niklaus E. |year=2000 |title=Predictive habitat distribution models in ecology |journal=Ecological Modelling |volume=135 |issue=2–3 |pages=147–186 |doi=10.1016/S0304-3800(00)00354-9}}
+* {{cite journal
+ |last1=Rey
+ |first1=Pierre-Louis
+ |last2=Adde
+ |first2=Antoine
+ |last3=Külling
+ |first3=Nathan
+ |last4=Lehmann
+ |first4=Anthony
+ |last5=Guisan
+ |first5=Antoine
+ |year=2026
+ |title=Advancing species-based predictions of Nature's contributions to people
+ |journal=Trends in Ecology & Evolution
+ |doi=10.1016/j.tree.2025.12.003
+}}
+
+==Professional service==
+According to his ORCID record, he has served on numerous scientific committees and advisory boards related to biodiversity, ecology and environmental policy.<ref>{{cite web |title=ORCID record for Antoine Guisan |url=https://orcid.org/0000-0002-3998-4815 |website=ORCID |access-date=9 March 2026}}</ref>
+
+===Institutional and scientific committees===
+* 2022–present – Co-chair, Global Mountain Biodiversity Assessment (SCNAT / University of Lausanne / [[University of Bern]])
+* 2022–present – Committee member, Master in Environmental Sciences (ENVSCI), University of Lausanne
+* 2021–present – Advisory Scientific Committee for Ecological Transition, University of Lausanne
+* 2021–present – Biodiversity Observatory, University of Lausanne
+* 2021–present – Executive Board, CLIMACT programme (UNIL–EPFL)
+* 2018–present – Scientific Committee, Interdisciplinary Center for Mountain Research (CIRM), University of Lausanne
+* 2018–present – Teaching Committee, Department of Ecology and Evolution, University of Lausanne
+* 2017–present – Committee member, Master in Behaviour, Evolution and Conservation (BEC), University of Lausanne
+* 2013–present – Swiss representative, International Biogeography Society
+* 2002–present – Scientific board member, Swiss Biodiversity Forum (Swiss Academy of Sciences)
+
+===University governance===
+* 2014–2024 – President, Environmental Commission, University of Lausanne
+* 2018–2020 – Research Commission, University of Lausanne
+* 2014–2018 – Equality Committee, Faculty of Geosciences and Environment (FGSE), University of Lausanne
+* 2012–2018 – Pro-Femme Commission, University of Lausanne
+* 2009–2018 – Sustainability Commission (Agenda 21), University of Lausanne
+* 2002–2013 – Environmental Commission, University of Lausanne
+
+===International scientific organisations===
+* 2015–2018 – Lead Author (Chapter 5) and contributor (Chapter 3), European and Central Asia Assessment, Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)
+* 2015–2016 – Member, Task Force on Data Fitness for Modelling, [[Global Biodiversity Information Facility]] (GBIF)
+* 2011–2018 – Member, Scientific Advisory Board, ARC Centre of Excellence in Environmental Decisions, [[University of Queensland]]
+* 2003–2006 – Member, Swiss Forum for Conservation Biology (SWIFCOB)
+* 2002–2004 – President, Section V (Biology of Organisms), Swiss Academy of Sciences
+* 2002–2004 – Member, Executive Board, Swiss Academy of Sciences
+
+==Awards and honours==
+* 2025 – Jürg Tschopp Basic Life Sciences Award, University of Lausanne
+* 2024 – Research.com ranking of ''Best Ecology and Evolution Scientists'' (#179 globally)
+* 2022 – Distinguished Fellow Award, International Biogeography Society
+* 2022 – Research.com Top 1000 Scientists in Ecology & Evolution (#6 in Switzerland, #153 worldwide)
+* 2021 – Reuters list of the 1,000 most influential climate scientists (#119)
+* 2015 – Thomson Reuters ''World’s Most Influential Scientific Minds''
+* 2015 – Thomson Reuters recognition in ''Australia’s Leaders in Research and Innovation''
+* 2015–2016 – Essential Science Indicators: 2nd and 3rd most cited scientist in Ecology/Environment
+* 2014–2025 – Highly Cited Researcher in Ecology/Environment (Thomson Reuters / Clarivate)
+* 2013 – ''Lab Times'' ranking: 6th most cited scientist in Plant Science
+* 2010 – ''ScienceWatch'' ranking: 9th most cited scientist in Climate Change
+* 2008 – ''ScienceWatch'' ranking: 12th most cited paper in Ecology/Environment
+* 2007 – Contributor to the Nobel Peace Prize awarded to the Intergovernmental Panel on Climate Change (IPCC)
+* 2003 – Essential Science Indicators “Hot Paper” in Ecology/Environment
+==References==
+{{Scholia|author}}
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Guisan, Antoine}}
+[[Category:Living people]]
+[[Category:20th-century births]]
+[[Category:Swiss ecologists]]
+[[Category:University of Geneva alumni]]
+[[Category:University of Neuchâtel alumni]]
+[[Category:Academic staff of the University of Lausanne]]
+[[Category:Year of birth missing (living people)]]
+
+{{Switzerland-biologist-stub}}

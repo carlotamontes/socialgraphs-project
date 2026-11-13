@@ -1,0 +1,65 @@
+{{Infobox scientist
+| name              = Christian Soize
+| image             = 
+| caption           = 
+| birth_date        = {{birth date and age|1948|10|10}}
+| birth_place       = [[Paris]], France
+| death_date        = 
+| death_place       = 
+| field             = {{ubl| [[Computational mechanics]] | [[Uncertainty Quantification]] }}
+| workplaces        = [[Gustave Eiffel University]]
+| education         = [[Pierre and Marie Curie University]]
+| doctoral_advisor  = [[Paul Krée]]
+| doctoral_students = 
+| known_for         = [[Computational mechanics]]<br/> [[Uncertainty Quantification]]
+| awards            = {{ubl
+ | [[Alfred M. Freudenthal Medal]] {{small|(2022)}}
+ | [[IACM Computational Mechanics Award]] {{small|(2018)}}
+ | Officier dans l'[[Ordre des Palmes académiques]] {{small|(2016)}}
+ | Chevalier dans l'[[Ordre national du Mérite]] {{small|(2015)}}
+ | Chevalier dans l'[[Ordre des Palmes académiques]] {{small|(1995)}}
+ | [[Prix Madame-Victor-Noury]] {{small|(1995)}}
+ }}
+| religion          = 
+| footnotes         = 
+}}
+
+'''Christian Soize''' (October 10, 1948) is a French engineer and applied mathematician known for his contributions in [[computational mechanics]] and [[uncertainty quantification]]. He is an emeritus Professor at the [[Laboratoire Modélisation et Simulation Multi Echelle]] at [[Gustave Eiffel University]].
+
+==Contributions==
+Soize is an expert in [[uncertainty quantification]] and [[computational mechanics]], known for the development of several numerical methods and probabilistic methodologies to deal with uncertainties in [[computational science and engineering]], standing out for two pioneering methods: the [[nonparametric probabilistic approach]],<ref>{{Cite journal|last=Soize|first=C.|date=2000-07-01|title=A nonparametric model of random uncertainties for reduced matrix models in structural dynamics|url=https://hal-upec-upem.archives-ouvertes.fr/hal-00686293/file/publi-2000-PEM-15_277-294-soize-preprint.pdf|journal=Probabilistic Engineering Mechanics|language=en|volume=15|issue=3|pages=277–294|doi=10.1016/S0266-8920(99)00028-4|issn=0266-8920}}</ref> to take into account model uncertainties in computational physical models, and, more recently, the [[probabilistic learning on manifolds]] (PLoM)<ref>{{Cite journal|last1=Soize|first1=C.|last2=Ghanem|first2=R.|date=2016-09-15|title=Data-driven probability concentration and sampling on manifold|url=https://www.sciencedirect.com/science/article/pii/S0021999116301899|journal=Journal of Computational Physics|language=en|volume=321|pages=242–258|doi=10.1016/j.jcp.2016.05.044|issn=0021-9991|arxiv=1603.02657|bibcode=2016JCoPh.321..242S |s2cid=7543400 }}</ref> for statistical learning within small reduced datasets.
+
+==Awards and honors==
+Soize is the recipient of several academic awards, including: [[Alfred M. Freudenthal Medal]],<ref>{{Cite web|last=|title=2022 Alfred M. Freudenthal Medal goes to Soize|url=https://www.asce.org/publications-and-news/civil-engineering-source/article/2022/05/19/2022-alfred-m-freudenthal-medal-goes-to-soize|access-date=2025-01-28|website=asce.org|language=en-US}}</ref> [[IACM Computational Mechanics Award]],<ref>{{Cite web|last=|title=The IACM Computational Mechanics Award|url=https://iacm.info/iacm-awards/award-computational-mechanics/|url-status=live|access-date=2021-07-26|website=IACM.info|language=en-US|archive-url=https://web.archive.org/web/20190324120649/https://iacm.info/iacm-awards/award-computational-mechanics/ |archive-date=2019-03-24 }}</ref> Officier dans l'[[Ordre des Palmes académiques]],<ref>{{Cite web|last=|title=Christian SOIZE annuaire Université Gustave Eiffel|url=https://pagespro.univ-gustave-eiffel.fr/christian-soize|access-date=2025-01-29|website=univ-gustave-eiffel.fr|language=fr}}</ref> Chevalier dans l'[[Ordre national du Mérite]],<ref>{{Cite web|title=Ordre national du Mérite - Nominations, promotions et élévations du 20-11-2015|url=http://www.france-phaleristique.com/onm_promo_20-11-15.htm|url-status=live|access-date=2021-07-26|website=www.france-phaleristique.com|language=fr|archive-url=https://web.archive.org/web/20160712043145/http://france-phaleristique.com/onm_promo_20-11-15.htm |archive-date=2016-07-12 }}</ref> [[European Association of Structural Dynamics]] (EASD) Senior Research Prize,<ref>{{Cite web|last=|title=Awards - EASD|url=http://www.easd.uth.gr/index.php?option=com_content&view=article&id=13&Itemid=8&lang=en|access-date=2025-01-28|website=www.easd.uth.gr|language=en-US}}</ref> Fellow of the [[Acoustical Society of America]],<ref>{{Cite web|last=|title=Fellows of the Society
+|url=https://acousticalsociety.org/fellows-of-the-society|access-date=2025-01-28|website=acousticalsociety.org|language=en-US}}</ref> [[International Association for Structural Safety and Reliability]] (IASSAR) Research Award,<ref>{{Cite web|last=|title=Awards - IASSAR|url=http://www.iassar.net/Data/List/Awards|access-date=2025-01-29|website=www.iassar.net|language=en-US}}</ref> Chevalier dans l'[[Ordre des Palmes académiques]],<ref>{{Cite web|last=|title=Christian SOIZE annuaire Université Gustave Eiffel|url=https://pagespro.univ-gustave-eiffel.fr/christian-soize|access-date=2025-01-29|website=univ-gustave-eiffel.fr|language=fr}}</ref> and the [[Prix Madame-Victor-Noury]].<ref>{{Cite web|last=|title=Prix Madame-Victor-Noury|url=https://fr.wikipedia.org/wiki/Prix_Madame-Victor-Noury|access-date=2025-01-29|website=fr.wikipedia.org|language=fr}}</ref>{{Circular reference|date=February 2025}}
+
+==Books==
+* C. Soize, Uncertainty Quantification. An Accelerated Course with Advanced Applications in Computational Engineering, Springer, 2017
+* R. Ohayon and C. Soize, Advanced Computational Vibroacoustics - Reduced-Order Models and Uncertainty Quantification, Cambridge University Press, 2014
+* C. Soize, Stochastic Models of Uncertainties in Computational Mechanics, American Society of Civil Engineers (ASCE), 2012
+* C. Soize, Dynamique des structures, Eléments de base et concepts fondamentaux, Ellipse, 2001
+* R. Ohayon and C. Soize, Structural Acoustics and Vibration, Academic Press, 1998
+* C. Soize, The Fokker-Planck Equation for Stochastic Dynamical Systems and its Explicit Steady State Solutions, World Scientific Publishing Co Pte Ltd, 1994
+* C. Soize, Méthodes mathématiques en analyse du signal, Masson, 1993
+* P. Krée and C. Soize, Mathematics of Random Phenomena, D. Reidel Publishing Company, 1986
+* P. Krée et C. Soize, Mécanique aléatoire, Dunod, 1983.
+
+== References ==
+{{reflist}}
+
+==External links==
+*[https://pagespro.univ-gustave-eiffel.fr/christian-soize C. Soize Faculty Page]
+*[https://scholar.google.com/citations?user=Red7zyUAAAAJ&hl=en Google Scholar page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Soize, Christian}}
+[[Category:21st-century French mathematicians]]
+[[Category:Fellows of the Acoustical Society of America]]
+[[Category:Officiers of the Ordre des Palmes Académiques]]
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:20th-century French mathematicians]]
+[[Category:French applied mathematicians]]
+[[Category:Knights of the Ordre national du Mérite]]
+[[Category:Scientists from Paris]]

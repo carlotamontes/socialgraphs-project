@@ -1,0 +1,86 @@
+{{short description|Italian mathematician and physicist}}
+{| class="wikitable floatright" style="font-size: 0.9em;"
+|+ [[Minor planet]]s discovered: 3<ref name="MPC-Discoverers" />
+|-
+| [[19528 Delloro]] || 4 April 1999 || {{MPC|19528}}
+|-
+| [[29869 Chiarabarbara]] || 4 April 1999 || {{MPC|29869}}
+|-
+| {{mp|(59421) 1999 GV|3}} || 5 April 1999 || {{MPC|59421}}
+|-
+! colspan=3 style="font-size: smaller; text-align: left; font-weight: normal; padding: 4px 18px;" | all co-discovered with [[Andrea Boattini|A. Boattini]]
+|}
+
+'''Germano D'Abramo''' (born 25 May 1973) is an Italian [[mathematician]], [[physicist]] and discoverer of [[minor planet]]s.<ref name="springer-Dabramo" />
+ 
+== Career ==
+
+In the late 1990s, he has been a collaborator of the [[Spaceguard Foundation]] which observes and studies [[near-Earth objects]] (NEOs), modelling NEO-populations and maintaining the foundation's online observation platform, the ''Spaceguard Central Node''.<ref name="springer-Dabramo" /> He is credited by the [[Minor Planet Center]] with the co-discovery of three minor planets he made in collaboration with astronomer [[Andrea Boattini]] at [[Pistoia Mountains Astronomical Observatory]] in April 1999.<ref name="MPC-Discoverers" />
+
+At the beginning of 2006, he discovered a classical [[Recursion|recursive]] probabilistic solution of [[Turing]]'s [[halting problem]], published in ''Chaos, Solitons & Fractals''.<ref name="Turing" /> Since 2008, he is also involved in theoretical research on the status of and the challenge to the [[second law of thermodynamics]]. He works at the IASF research facility (''Istituto di Astrofisica Spaziale e Fisica Cosmica'') of the [[National Institute for Astrophysics]] in Rome.{{citation needed|date=June 2016}}
+
+== Awards and honors ==
+
+The outer main-belt asteroid [[16154 Dabramo]] is named in his honour.<ref name="springer-Dabramo" /><ref name="jpldata-Dabramo" />
+
+== See also ==
+* {{section link|List of minor planet discoverers|G. D'Abramo}}
+
+== References ==
+<references>
+
+<ref name="springer-Dabramo">{{cite book
+  |title      = Dictionary of Minor Planet Names – (16154) Dabramo
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = [[Springer Berlin Heidelberg]]
+  |page       = 833
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi       = 10.1007/978-3-540-29925-7_9252 |chapter       = (16154) Dabramo }}</ref>
+
+<ref name="Turing">{{Cite journal
+  |last1      = D'Abramo|first1 = Germano
+  |title      = Asymptotic behavior and halting probability of Turing Machines
+  |journal    = Chaos, Solitons & Fractals
+  |volume     = 37
+  |pages      = 210–214
+  |date       = 2005
+  |issue = 1
+ |arxiv      = math.HO/0512390
+  |doi        = 10.1016/j.chaos.2006.08.022|bibcode = 2008CSF....37..210D |s2cid = 5624196
+ }}</ref>
+
+<ref name="MPC-Discoverers">{{cite web
+  |title      = Minor Planet Discoverers (by number)
+  |work       = Minor Planet Center
+  |url        = http://www.minorplanetcenter.net/iau/lists/MPDiscsNum.html
+  |date       = 23 May 2016
+  |accessdate = 16 June 2016}}</ref>
+
+<ref name="jpldata-Dabramo">{{cite web
+  |type       = 2016-02-09 last obs.
+  |title      = JPL Small-Body Database Browser: 16154 Dabramo (2000 AW2)
+  |url        = http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2016154
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 16 June 2016}}</ref>
+
+</references> <!-- end of reflist-->
+
+== External links ==
+* [http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PHY&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_logic=OR&obj_logic=OR&author=D%27Abramo%2C+G.&object=&start_mon=&start_year=1999&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1 List of publications] (through [[NASA]] ADS abstract)
+* [https://web.archive.org/web/20061013103958/http://www.iasf-roma.inaf.it/ Istituto di Astrofisica Spaziale e Fisica Cosmica]
+* [http://www.inaf.it Istituto Nazionale di Astrofisica]
+
+{{Use dmy dates|date=April 2018}}
+
+{{authority control}}
+
+{{DEFAULTSORT:D'Abramo, Germano}}
+[[Category:1973 births]]
+[[Category:20th-century Italian mathematicians]]
+[[Category:21st-century Italian mathematicians]]
+[[Category:Discoverers of asteroids]]
+[[Category:20th-century Italian physicists]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:21st-century Italian physicists]]

@@ -1,0 +1,120 @@
+{{Short description|American chemist and physicist (1935–2021)}}
+{{other people||James Anderson (disambiguation)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = James B. Anderson
+| image = James_B_Anderson.jpg
+| image_size = 
+| caption = 
+| pen_name = 
+| birth_date = November 16, 1935
+| birth_place = [[Cleveland, Ohio]]
+| death_date = January 14, 2021 (age 85)
+| death_place = [[State College, Pennsylvania]]
+| occupation = Chemist and Physicist
+| period = 
+| subject = 
+| movement = 
+| influences = 
+| influenced = 
+| signature = 
+| website = {{URL|http://www.personal.psu.edu/jba/}}
+}}
+'''James Bernhard Anderson''' (November 16, 1935 – January 14, 2021) was an American chemist and physicist. From 1995 to 2014 he was Evan Pugh Professor of [[Chemistry]] and [[Physics]] at the [[Pennsylvania State University]].<ref>[http://personal.psu.edu/jba/ The Anderson Group] {{Webarchive|url=https://web.archive.org/web/20180927163022/http://www.personal.psu.edu/jba/ |date=2018-09-27 }} at Pennsylvania State University. Accessed on 2020-10-20.</ref> He specialized in [[Quantum Chemistry]] by [[Monte Carlo methods]], [[molecular dynamics]] of reactive collisions, kinetics and mechanisms of gas phase reactions, and rare-event theory.<ref>{{cite web |title=Penn State chemistry community grieves loss of Professor Emeritus James Anderson {{!}} Penn State University |url=https://www.psu.edu/news/eberly-college-science/story/penn-state-chemistry-community-grieves-loss-professor-emeritus-james |website=www.psu.edu |date=27 January 2021}}</ref>
+
+== Life ==
+James Anderson was born in 1935 in [[Cleveland, Ohio]] to American-born parents of Swedish descent, Bertil and Lorraine Anderson. He was raised in [[Morgantown, West Virginia]] and spent his childhood summers on the island of [[Put-in-Bay, Ohio]].
+
+Anderson earned a [[Bachelor of Science|B.S.]] in [[chemical engineering]] from the [[Pennsylvania State University]], an [[Master of Science|M.S.]] from the [[University of Illinois]], and an [[Master of Arts|M.A.]] and [[Ph.D.]] from [[Princeton University]].
+ 
+Anderson married his wife Nancy Anderson (née Trotter) in 1958.  They have three children and six grandchildren.
+
+He died on January 14, 2021, in [[State College, Pennsylvania]].<ref>{{Cite web|title=James Anderson Obituary (1935–2021) – Centre Daily Times|url=https://www.legacy.com/amp/obituaries/centredaily/197535513|access-date=2021-01-21|website=www.legacy.com|language=en}}</ref>
+
+== Career ==
+Anderson began his professional career as an engineer in petrochemical research and development with [[Shell Chemicals|Shell Chemical Company]] from 1958 to 1960 in [[Deer Park, Texas]].  He began his academic career as a professor of [[chemical engineering]] at [[Princeton University]] in 1964 and continued as a professor of [[engineering]] at [[Yale University]] in 1968 before moving to the [[Pennsylvania State University]] in 1974.  From 1995 until his retirement in 2014, he was Evan Pugh Professor of [[Chemistry]] and [[Physics]] at the Pennsylvania State University.  Anderson also served as a visiting professor at [[Cambridge University]], the [[University of Milan]], the [[University of Kaiserslautern]], the [[University of Göttingen]], [[Free University of Berlin]], and [[RWTH Aachen University]].
+
+== Research ==
+Anderson made key contributions in several areas of [[chemistry]] and [[physics]]. The main areas of impact are: [[reaction kinetics]] and [[molecular dynamics]], the 'rare-event' approach to chemical reactions, [[Quantum Monte Carlo]] (QMC) methods, Monte Carlo simulation of radiative processes, and direct Monte Carlo simulation of reaction systems.
+
+Anderson's first contributions were experimental and theoretical in the area of nozzle-source [[molecular beams]] (supersonic beams) and the free jet fuels and skimmers for generating such beams. This research contributed to success in generating molecular beams of high energy and narrow velocity distributions.
+
+Anderson's experiments with supersonic beams for the reaction HI + HI → H<sub>2</sub> + I<sub>2</sub> led him to early studies using classical trajectory methods.  He carried out the first calculations of the F-H-H system with a study of the energy requirements for the reaction H + HF → H<sub>2</sub> + F and followed this work with calculations for F +  H<sub>2</sub> → HF + H, a reaction basic to the understanding of [[molecular dynamics]].
+ 
+Trajectory calculations for the HI + HI reaction, a rare event, led to his work on predicting rare events in [[molecular dynamics]] by sampling trajectories crossing a surface in phase space.  Initially called "variational theory of reaction rate" by [[James C. Keck]] (1960),<ref>{{cite journal | last1 = Keck | first1 = J. C. | year = 1960 | title = Variational Theory of Chemical Reaction Rates Applied to Three-Body Recombinations | doi = 10.1063/1.1730846 | journal = J. Chem. Phys. | volume = 32 | issue = 4 | page = 1035 | bibcode = 1960JChPh..32.1035K }}</ref> it has since 1973 often been called "the reactive flux method."  Anderson extended Keck's original method and defended it against a number of critics. The earliest applications were to three- and four-body reactions, but it has been extended to reactions in [[Solution (chemistry)|solution]], to [[condensed matter]], to [[protein folding]], and most recently to [[enzyme catalyzed reaction|enzyme-catalyzed reactions]].
+
+Anderson pioneered the development of the [[quantum Monte Carlo]] (QMC) method of simulating the [[Schrödinger equation]].  His 1975–76 papers were the first to describe applications of [[random walk]] methods to [[polyatomic]] systems and many-electron systems.  Today, QMC methods are often the methods of choice for high accuracy for a range of systems: small and large [[molecules]], molecules in [[Solution (chemistry)|solution]], [[Fermi gas|electron gas]], [[Cluster (physics)|clusters]], [[solid]] materials, vibrating molecules, and many others.
+ 
+Anderson succeeded in bringing the power of modern computers to the direct simulation of reacting systems.  His extension of an earlier method for rarefied gas dynamics by Graeme Bird (1963)<ref>{{cite journal | last1 = Bird | first1 = G.A. | year = 1963 | title = Approach to Transitional Equilibrium in a Rigid Sphere Gas | doi = 10.1063/1.1710976 | journal = Phys. Fluids | volume = 6 | issue = 10 | page = 1518 | bibcode = 1963PhFl....6.1518B }}</ref> eliminates the use of [[differential equations]] and treats [[reaction kinetics]] on a probabilistic basis collision-by-collision.  It is the method of choice for many low-density systems with coupled relaxation and reaction, and with non-equilibrium distributions.  It has been applied to the complete simulation of detonations as well as to the prediction of ultra-fast detonations.
+
+==Awards and honors==
+* [[Bausch & Lomb]] Award
+* Evan Pugh Medal (Silver), The [[Pennsylvania State University]]
+* Evan Pugh Medal (Gold), The [[Pennsylvania State University]]
+* [[National Science Foundation]] Graduate Fellowship
+* [[Fellow of the American Physical Society]] (1988)
+* Fellow of the [[American Association for the Advancement of Science]]
+* Faculty Scholar Medal, The [[Pennsylvania State University]]
+* Senior Research Award, [[Alexander von Humboldt Foundation]], [[Bonn, Germany]]
+
+==Selected publications==
+See [http://personal.psu.edu/jba/publications/ The Anderson Group] {{Webarchive|url=https://web.archive.org/web/20180927162204/http://www.personal.psu.edu/jba/publications/ |date=2018-09-27 }} webpage for a full list of publications.
+
+=== Molecular Beams and Free Jets (Supersonic Beams) ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | last2 = Fenn | first2 = J. B. | year = 1965 | title = Velocity Distributions in Molecular Beams from Nozzle Sources | doi = 10.1063/1.1761320 | journal = Phys. Fluids | volume = 8 | issue = 5 | pages = 780–787 | bibcode = 1965PhFl....8..780A }}
+* {{cite journal | last1 = Abuaf | first1 = N. | last2 = Anderson | first2 = J. B. | last3 = Andres | first3 = R. P. | last4 = Fenn | first4 = J. B. | last5 = Marsden | first5 = D. G. H. | year = 1967 | title = Molecular Beams with Energies Above One Electron Volt | journal = Science | volume = 155 | issue = 3765 | pages = 997–999 | doi = 10.1126/science.155.3765.997 | pmid=17830486| bibcode = 1967Sci...155..997A | s2cid = 32104868 }}
+* {{cite journal | last1 = Anderson | first1 = J. B. | last2 = Davidovits | first2 = P. | year = 1975 | title = Isotope Separation in a Seeded Beam | journal = Science | volume = 187 | issue = 4177 | pages = 642–644 | doi = 10.1126/science.187.4177.642 | pmid=17810060| bibcode = 1975Sci...187..642A | s2cid = 28655608 }}
+
+=== Classical Trajectory Calculations ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1970 | title = Energy Requirements for Chemical Reaction: H + HF → H<sub>2</sub> + F | doi = 10.1063/1.1673576 | journal = J. Chem. Phys. | volume = 52 | issue = 7 | pages = 3849–50 | bibcode = 1970JChPh..52.3849A }}
+* {{cite journal | last1 = Jaffe | first1 = R. L. | last2 = Anderson | first2 = J. B. | year = 1971 | title = Classical Trajectory Analysis of the Reaction F + H<sub>2</sub> → HF + H | doi = 10.1063/1.1675156 | journal = J. Chem. Phys. | volume = 54 | issue = 5 | pages = 2224–2236 | bibcode = 1971JChPh..54.2224J }}
+
+=== Rare Event Theory (Combined Phase-Space Trajectory Method) ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1973 | title = Statistical Theories of Chemical Reactions. Distributions in the Transition Region | doi = 10.1063/1.1679032 | journal = J. Chem. Phys. | volume = 58 | issue = 10 | page = 4684 | bibcode = 1973JChPh..58.4684A }}
+* {{cite journal | last1 = Jaffe | first1 = R. L. | last2 = Henry | first2 = J. M. | last3 = Anderson | first3 = J. B. | year = 1973 | title = Variational Theory of Reaction Rates: Application to F + H<sub>2</sub> ⇔ HF + H | doi = 10.1063/1.1680158 | journal = J. Chem. Phys. | volume = 59 | issue = 3 | page = 1128 }}
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1975 | title = A Test of the Validity of the Combined Phase-Space/Trajectory Method | doi = 10.1063/1.430721 | journal = J. Chem. Phys. | volume = 62 | issue = 6 | page = 2446 | bibcode = 1975JChPh..62.2446A }}
+* {{cite journal | last1 = Jaffe | first1 = R. L. | last2 = Henry | first2 = J. M. | last3 = Anderson | first3 = J. B. | year = 1976 | title = Molecular Dynamics of the Hydrogen Iodide and Hydrogen-Iodine Exchange Reactions | doi = 10.1021/ja00421a016 | journal = J. Am. Chem. Soc. | volume = 98 | issue = 5 | pages = 1140–1155 | bibcode = 1976JAChS..98.1140J }}
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1995 | title = Predicting Rare Events in Molecular Dynamics | journal = Advances in Chemical Physics | volume = 91 | page = 381 }}
+
+=== [[Quantum Monte Carlo]] ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1975 | title = A Random-Walk Simulation of the Schrödinger Equation: H<sub>3</sub><sup>+</sup> | doi = 10.1063/1.431514 | journal = J. Chem. Phys. | volume = 63 | issue = 4 | page = 1499 | bibcode = 1975JChPh..63.1499A }}
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1976 | title = Quantum Chemistry by Random Walk: H <sup>2</sup>P, H<sub>3</sub><sup>+</sup> D<sub>3h</sub> <sup>1</sup>A<sub>1</sub>, H<sub>2</sub> <sup>3</sup>Σ<sub>u</sub><sup>+</sup>, Be <sup>1</sup>S | doi = 10.1063/1.432868 | journal = J. Chem. Phys. | volume = 65 | issue = 10 | pages = 4121–4127 | bibcode = 1976JChPh..65.4121A | doi-access = free }}
+* {{cite journal | last1 = Anderson | first1 = J. B. | year = 1979 | title = Quantum Chemistry by Random Walk: H<sub>4</sub> Square | doi = 10.1002/qua.560150111 | journal = International Journal of Quantum Chemistry | volume = 15 | pages = 109–120 }}
+* {{cite journal | last1 = Garmer | first1 = D. R. | last2 = Anderson | first2 = J. B. | year = 1988 | title = Potential Energies for the Reaction F + H<sub>2</sub> → HF + H by the Random Walk Method | doi = 10.1063/1.454960 | journal = J. Chem. Phys. | volume = 89 | issue = 5 | page = 3050 | bibcode = 1988JChPh..89.3050G }}
+* {{cite journal | last1 = Diedrich | first1 = D. L. | last2 = Anderson | first2 = J. B. | year = 1992 | title = An Accurate Monte Carlo Calculation of the Barrier Height for the Reaction H + H<sub>2</sub> → H<sub>2</sub> + H | doi = 10.1126/science.258.5083.786 | journal = Science | volume = 258 | issue = 5083 | pages = 786–788 | pmid = 17777031 | s2cid = 31105184 }}
+* {{cite journal | last1 = Sokolova | first1 = S. | last2 = Lüechow | first2 = A. | last3 = Anderson | first3 = J. B. | year = 2000 | title = Energetics of Carbon Clusters C<sub>20</sub> from All-Electron Quantum Monte Carlo Calculations | doi = 10.1016/S0009-2614(00)00554-6 | journal = Chem. Phys. Lett. | volume = 323 | issue = 3–4 | pages = 229–233 | bibcode=2000CPL...323..229S}}
+* J. B. Anderson, (Book) ''Quantum Monte Carlo: Origins, Development, Applications'', Oxford University Press, 2007. {{ISBN|0195310101}}.
+
+=== Simulation of Radiative Processes ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | last2 = Maya | first2 = J. | last3 = Grossman | first3 = M. W. | last4 = Lagushenko | first4 = R. | last5 = Waymouth | first5 = J. F. | year = 1985 | title = Monte Carlo Treatment of Resonance Radiation Imprisonment in Fluorescent Lamps | doi = 10.1103/PhysRevA.31.2968 | journal = Phys. Rev. A | volume = 31 | issue = 5 | pages = 2968–2975 | pmid = 9895851 | bibcode = 1985PhRvA..31.2968A }}
+
+=== Direct Simulation of Chemical Reactions ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | last2 = Long | first2 = L. N. | year = 2003 | title = Direct Monte Carlo Simulation of Chemical Reaction Systems: Prediction of Ultrafast Detonations | doi = 10.1063/1.1537242 | journal = J. Chem. Phys. | volume = 118 | issue = 7 | pages = 3102–3110 | bibcode = 2003JChPh.118.3102A }}
+
+=== Simulations of Enzyme-Catalyzed Reactions ===
+
+* {{cite journal | last1 = Anderson | first1 = J. B. | last2 = Anderson | first2 = L. E. | last3 = Kussmann | first3 = J. | year = 2010 | title = Monte Carlo Simulations of Single and Multistep Enzyme-Catalyzed Reaction Sequences: Effects of Diffusion, Cell Size, Enzyme Fluctuations, Co-localization, and Segregation | doi = 10.1063/1.3459111 | journal = Journal of Chemical Physics | volume = 133 | issue = 3 | page = 034104 | pmid = 20649305 | bibcode = 2010JChPh.133c4104A }}
+* {{cite journal | last1 = Nangia | first1 = S. | last2 = Anderson | first2 = J. B. | year = 2011 | title = Temperature effects on enzyme-catalyzed reactions within a cell: Monte Carlo simulations for coupled reaction and diffusion | doi = 10.1016/j.cplett.2012.11.079 | journal = Chemical Physics Letters | volume = 556| pages = 372–375}}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Anderson, James B.}}
+[[Category:1935 births]]
+[[Category:2021 deaths]]
+[[Category:Scientists from Cleveland]]
+[[Category:21st-century American physicists]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:21st-century American chemists]]
+[[Category:American quantum physicists]]
+[[Category:Monte Carlo methods]]
+[[Category:Fellows of the American Academy of Microbiology]]

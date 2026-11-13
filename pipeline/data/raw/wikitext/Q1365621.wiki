@@ -1,0 +1,74 @@
+{{Short description|American physicist and mathematician (born 1955)}}
+{{Infobox scientist
+| name              = James P. Crutchfield
+| image             = JPC_TentRocksHeadShot2011.sm.jpg
+| image_size        = 
+| caption           = Jim at Tent Rocks, New Mexico
+| birth_date        = {{birth date and age|1955|6|30}}
+| birth_place       = [[San Francisco, California]], U.S.
+| death_date        = 
+| death_place       = 
+| ethnicity         = 
+| field             = Physics<br/>Mathematics<br/>Biology<br/>Computation
+| workplaces        = [[University of California, Davis]]<br/>[[Santa Fe Institute]]<br/>[https://artscilab.com Art and Science Laboratory]
+| education         = [[University of California, Santa Cruz]] (BS) <br/>[[University of California, Santa Cruz]] (PhD)
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+| doctoral_students = 
+}}
+'''James P. Crutchfield''' (born 1955) is an American mathematician and physicist. He received his B.A. summa cum laude in physics and mathematics from the [[University of California, Santa Cruz]], in 1979 and his Ph.D. in physics there in 1983. Currently, he is a Distinguished Professor Emeritus of Physics and Astronomy at the [[University of California, Davis]], where he directs the Complexity Sciences Center—a research and graduate program in complex systems.
+
+Prior to this, he was Research Professor at the [[Santa Fe Institute]] for many years, where he ran the Dynamics of Learning Group and SFI's Network Dynamics Program funded by Intel Research. From 1985 to 1997, he was a Research Physicist in the [https://physics.berkeley.edu Physics Department] at the [[University of California, Berkeley]]. He has been a Visiting Research Professor in the Sloan Center for Theoretical Neurobiology, University of California, San Francisco; in the Physics Department, [[California Institute of Technology]], Pasadena, California, and in the Institute for Advanced Study, [[University of Amsterdam]], Netherlands; and a Postdoctoral Fellow of the [[Miller Institute for Basic Research in Science]] at UCB; a UCB Physics Department IBM Postdoctoral Fellow in condensed matter physics; a Distinguished Visiting Research Professor of the [[Beckman Institute for Advanced Science and Technology|Beckman Institute]] at the [[University of Illinois, Urbana-Champaign]]; and a Bernard Osher Fellow at the [[San Francisco Exploratorium]].
+
+==Research==
+
+Over the last three decades, Crutchfield has worked in the areas of [[nonlinear dynamics]], [[solid-state physics]], [[astrophysics]], [[fluid mechanics]], [[critical phenomena]] and [[phase transitions]], chaos, and [[pattern formation]]. His current research interests center on [[computational mechanics]],<ref>{{cite book |author1-link=James Ladyman |last1=Ladyman |first1=James |last2=Wiesner |first2=Karoline |title=What Is a Complex System? |date=2020 |publisher=Yale University Press |isbn=978-0-300-25110-4 |page=111 |url=https://books.google.com/books?id=jm3wDwAAQBAJ |access-date=March 29, 2022}}</ref> the physics of complexity, [[statistical inference]] for nonlinear processes, [[genetic algorithms]], [[evolutionary theory]], [[machine learning]], [[quantum dynamics]], machine learning and distributed intelligence, and animal behavior and marine bioacoustics. He published over 250 papers in these areas.<ref>{{cite web|title=Google Scholar Listing for James Crutchfield|url=https://scholar.google.com/citations?user=D37XAbIAAAAJ&hl=en&oi=sra}}</ref>
+
+In August 2021, using a specially-design underwater acoustic recording and playback system, Crutchfield instigated a 20-minute-long acoustic exchange with 35-year-old female humpback whale [https://happywhale.com/individual/15200 Twain] in southeast Alaska<ref>{{cite news |last1=Crutchfield |first1=James
+|last2=Jurgens |first2=Alexandra
+|title=Twainspotting: Identity Revealed During a Simple, but Extended Conversation with a Humpback Whale |url=https://doi.org/10.1101/2023.02.12.528197  |publisher=bioRxiv.org |date=February 12, 2023}}</ref>. In August 2023, Crutchfield and his graduate student Alex Jurgens augmented the underwater acoustic system to record the full three-dimensional sound field of whale vocalizations, adapting the theory of [[ambisonics]] for underwater recording and playback<ref>{{cite news |last1=Crutchfield |first1=James
+|last2=Dunn |first2=David
+|last3=Jurgens |first3=Alexandra
+|title=Whales in Space: Experiencing Aquatic Animals in Their Natural Place with the Hydroambiphone |url=http://doi.org/10.1101/2023.12.27.573441  |publisher=bioRxiv.org |date=November 22, 2025}}</ref>. The resulting spatial audio recordings are available on compact disk<ref>{{cite news |last1=Crutchfield |first1=James
+|last2=Dunn |first2=David
+|last3=Jurgens |first3=Alexandra
+|title=Whales in Space: Surround Audio Recordings of the Vocalizations of Humpback Whales in the Inside Passage of Southeast Alaska |url=https://florilegia.bandcamp.com/album/whales-in-space  |publisher=florilegia.bandcamp.com |date=October 20, 2025}}</ref>.
+
+In 2022, Crutchfield and his graduate student Kyle Ray described a way--momentum computing--to bring the heat production of conventional digital circuits below the theoretical limit of [[Landauer's principle]] by encoding information not as pulses of charge but in the momentum of moving particles.<ref>{{cite news |last1=Ball |first1=Philip |title='Momentum Computing' Pushes Technology's Thermodynamic Limits |url=https://www.scientificamerican.com/article/momentum-computing-pushes-technologys-thermodynamic-limits/ |access-date=March 29, 2022 |work=Scientific American |publisher=Springer Nature |date=March 29, 2022}}</ref>.
+
+For more than a decade Crutchfield and his close colleagues have run the summer workshop [https://csc.ucdavis.edu/IE%20Meetings.html Information Engines at the Frontiers of Nonequilibrium Thermodynamics] at the [https://telluridescience.org Telluride Science and Innovation Center] in Telluride, Colorado.
+
+==Life==
+
+While a graduate student, Crutchfield and students from the [[University of California, Santa Cruz]] (including [[Doyne Farmer]]) built a series of computers that were capable of calculating the motion of a moving roulette ball, predicting which numbers could be excluded from the outcome. Equipped with hidden electronic equipment of the early days of "mobile" computing, trials in [[Las Vegas Strip|Las Vegas]] showed success. However, because of technical limitation and the infamous [[gambler's ruin]], the success was only partial and it was not feasible to use to make large profits. A book written about this project ([https://books.google.com/books?id=Q9aOedEfOMMC The Eudaemonic Pie / Newton's Casino: The Bizarre True Story of How a Band of Physicists and Computer Wizards Took on Las Vegas]) describes Crutchfield in his early years as "hacker-in-residence": "Crutchfield surfs, snorkels, and backpacks. But what he really cares about in life are computers...".
+
+==Selected publications== 
+*{{cite journal | last1=Packard | first1=N. H. |author-link=Norman Packard| last2=Crutchfield | first2=J. P. | last3=Farmer | first3=J. D. |author-link3=Doyne Farmer| last4=Shaw | first4=R. S. |author-link4=Robert Shaw (physicist)| title=Geometry from a Time Series | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=45 | issue=9 | date=1980-09-01 | issn=0031-9007 | doi=10.1103/physrevlett.45.712 | pages=712–716| bibcode=1980PhRvL..45..712P }}
+*[[Melanie Mitchell]], Peter Hraber ([[Santa Fe Institute]]), James P. Crutchfield (University of California, Berkeley), "Revisiting the Edge of Chaos: Evolving Cellular Automata to Perform Computations", ''SFI Working Paper'', 93–03–014, {{arXiv|adap-org/9303003v1}}
+*{{cite journal | last1=Crutchfield | first1=J. P. | last2=Mitchell | first2=M. | title=The evolution of emergent computation. | journal=Proceedings of the National Academy of Sciences | volume=92 | issue=23 | date=1995-11-07 | issn=0027-8424 | doi=10.1073/pnas.92.23.10742 | pages=10742–10746| pmid=11607588 | pmc=40688 | bibcode=1995PNAS...9210742C | doi-access=free }}
+*{{cite journal | last1=van Nimwegen | first1=E. |author-link=Erik van Nimwegen| last2=Crutchfield | first2=J. P. | last3=Huynen | first3=M. | title=Neutral evolution of mutational robustness | journal=Proceedings of the National Academy of Sciences | volume=96 | issue=17 | date=1999-08-17 | issn=0027-8424 | doi=10.1073/pnas.96.17.9716 | pages=9716–9720| pmid=10449760 | pmc=22276 | arxiv=adap-org/9903006 | bibcode=1999PNAS...96.9716V | doi-access=free }}
+
+==See also==
+* ''[[Chaos: Making a New Science]]''
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crutchfield, James P.}}
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:University of California, Santa Cruz alumni]]
+[[Category:University of California, Davis faculty]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:American science writers]]
+[[Category:1955 births]]
+[[Category:Santa Fe Institute people]]
+[[Category:Researchers of artificial life]]

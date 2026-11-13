@@ -1,0 +1,103 @@
+{{short description|American physicist}}
+{{Redirect|Mermin|the founder of Circus Smirkus|Rob Mermin}}
+{{Infobox scientist
+| name              = N. David Mermin
+| image             = Mermin_Stockholm_2009.jpg
+| caption           = Mermin in 2019
+| birth_date        = {{birth-date and age|30 March 1935}}
+| birth_place       = [[New Haven]], [[Connecticut]], U.S.
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Physicist]]
+| workplaces        = [[Cornell University]]<br>[[University of California, San Diego]]<br>[[University of Birmingham]]
+| education         = [[Harvard University]]
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = [[Susan Coppersmith]]<br>[[Anupam Garg]]<br>[[Tin-Lun Ho]]<br>[[Daniel S. Rokhsar]]<br>[[Sandra Troian]]
+| notable_students  = 
+| known_for         = ''[[Ashcroft and Mermin]]''<br />[[Mermin–Wagner theorem|Hohenberg–Mermin–Wagner theorem]]<br>[[Mermin–Ho relation]]<br>[[Lindhard theory|Lindhard–Mermin dielectric function]]<br>[[Boojum (superfluidity)|Coining the term 'boojum']]<br>[[Quantum pseudo-telepathy#The Mermin-Peres magic square game|Mermin–Peres magic square]]<br>[[Mermin's device]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{plainlist|
+*[[Lilienfeld Prize]] (1989)
+*[[Klopsteg Memorial Award]] (1994)
+*[[Majorana Prize]] (2010)
+*[[The VIZE 97 Prize|Vision 97 Award]] (2017)<ref>His acceptance speech can be read at {{cite arXiv|first=N. David|last=Mermin|title=Mysl, smysl, svet|date=2017-10-14|eprint=1710.05229|class=physics.hist-ph}}</ref>}}
+| signature         = <!--(filename only)-->
+| footnotes         = 
+| ethnicity         = 
+| religion          = 
+}}
+
+'''Nathaniel David Mermin''' ({{IPAc-en|ˈ|m|ɜr|m|ɪ|n}}; born 30 March 1935) is a [[physicist]] who is interested in [[solid-state physics]] and foundations of [[quantum mechanics]].<ref name=nas-2019/> He has written over 125 technical articles as well as 3 books and many articles pitched a broad physics-literate audience.<ref name="bibliography"/> Two of his papers are featured in the 50-year retrospective of the prestigious [[Physical Review Letters]],<ref>{{Cite news|url=https://journals.aps.org/prl/50years/milestones|title=Letters from the Past - A PRL Retrospective|date=2014-02-12|work=[[Physical Review Letters]]|access-date=2017-10-09|language=en-US}}</ref> one on solid-state physics<ref>{{Cite journal |last=Mermin |first=N. D. |last2=Wagner |first2=H. |date=November 28, 1966 |title=Absence of Ferromagnetism or Antiferromagnetism in One- or Two-Dimensional Isotropic Heisenberg Models |url=https://link.aps.org/doi/10.1103/PhysRevLett.17.1133 |journal=Physical Review Letters |language=en |volume=17 |issue=22 |pages=1133–1136 |doi=10.1103/PhysRevLett.17.1133 |issn=0031-9007}}</ref> and one on [[quantum information science]].<ref>{{Cite journal |last=Bennett |first=Charles H. |last2=Brassard |first2=Gilles |last3=Mermin |first3=N. David |date=February 3, 1992 |title=Quantum cryptography without Bell’s theorem |url=https://link.aps.org/doi/10.1103/PhysRevLett.68.557 |journal=Physical Review Letters |language=en |volume=68 |issue=5 |pages=557–559 |doi=10.1103/PhysRevLett.68.557 |issn=0031-9007}}</ref>
+
+==Education and career==
+Mermin was born in 1935 in [[New Haven, Connecticut]]. He obtained a bachelor's degree in mathematics from [[Harvard University]] in 1956, graduating ''summa cum laude.'' He remained at Harvard for his graduate studies, earning a PhD in physics in 1961.<ref name="cv">{{cite web|url=https://mermin.lassp.cornell.edu/vitae+publ.pdf |title=Curriculum Vitae |last=Mermin |first=N. David |website=[[Cornell University]] |access-date=2019-08-11 |year=2018}}</ref> After holding postdoctoral positions at the [[University of Birmingham]] and the [[University of California, San Diego]], he joined the [[Cornell University]] faculty in 1964.<ref name="cv"/>   He became a Cornell professor emeritus in 2006.
+
+Early in his career, Mermin worked in [[statistical physics]] and [[condensed-matter physics]], including the study of matter at low temperatures, the behavior of [[electron gas]]es, the classification of [[quasicrystal]]s, and [[quantum chemistry]]. His later research contributions included work in quantum information science and the foundations of quantum mechanics.<ref name="bibliography"/>
+
+Mermin was the first to note how the three-particle [[GHZ state]] demonstrates that no [[local hidden-variable theory]] can explain quantum correlations,<ref>{{Cite journal|last1=Caves|first1=Carlton M.|author-link=Carlton M. Caves|last2=Fuchs|first2=Christopher A.|author-link2=Christopher A. Fuchs |last3=Schack|first3=Rüdiger|date=2002-08-20|title=Unknown quantum states: The quantum de Finetti representation|journal=[[Journal of Mathematical Physics]]|volume=43|issue=9|pages=4537–4559|arxiv=quant-ph/0104088|doi=10.1063/1.1494475|issn=0022-2488|quote=Mermin was the first to point out the interesting properties of this three-system state, following the lead of D. M. Greenberger, M. Horne, and A. Zeilinger, “Going beyond Bell’s Theorem,” in Bell’s Theorem, Quantum Theory and Conceptions of the Universe, edited by M. Kafatos (Kluwer, Dordrecht, 1989), p. 69, where a similar four-system state was proposed.|bibcode=2002JMP....43.4537C|s2cid=17416262}}</ref><ref>{{Cite journal|last=Mermin|first=N. David|date=1990-08-01|title=Quantum mysteries revisited|journal=[[American Journal of Physics]]|volume=58|issue=8|pages=731–734|doi=10.1119/1.16503|issn=0002-9505|bibcode=1990AmJPh..58..731M|s2cid=119911419}}</ref> and together with [[Asher Peres]], he introduced the [[Quantum pseudo-telepathy#The Mermin-Peres magic square game|"magic square"]] proof, another demonstration that attempting to "complete" quantum mechanics with hidden variables does not work.<ref>{{cite journal|first=N. David|last=Mermin|title=Hidden variables and the two theorems of John Bell|journal=[[Reviews of Modern Physics]]|volume=65|issue=3|pages=803&ndash;815|year=1993|doi=10.1103/RevModPhys.65.803|arxiv=1802.10119|bibcode=1993RvMP...65..803M|s2cid=119546199}}</ref> [[Richard Feynman]] described [[Mermin's device|another paper by Mermin]] in this area as "one of the most beautiful papers in physics".<ref>{{Cite book |last=Feynman |first=Richard P. |date = 2008 | title=Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman | pages = 366–368 | location =  | publisher=Basic Books |isbn=9780786722426 |language=en | url=https://books.google.com/books?id=8m44DgAAQBAJ | access-date = 2025-12-09}}</ref> In collaboration with [[Charles H. Bennett (computer scientist)|Charles Bennett]] and [[Gilles Brassard]], he made a significant early contribution to [[quantum cryptography]].<ref>{{cite journal|last1=Bennett |first1=Charles H. |author-link1=Charles H. Bennett (computer scientist) |last2=Brassard |first2=Gilles |author-link2=Gilles Brassard |last3=Mermin |first3=N. David |title=Quantum cryptography without Bell's theorem |journal=[[Physical Review Letters]] |volume=68 |number=5 |year=1992 |doi=10.1103/PhysRevLett.68.557 |pages=557–559 |pmid=10045931 |bibcode=1992PhRvL..68..557B }}</ref> Starting in 2012, he has advocated the [[interpretation of quantum mechanics]] known as Quantum Bayesianism, or [[Quantum Bayesianism|QBism]].<ref>{{Cite journal|last=Mermin|first=N. David|date=2012-07-01|title=Commentary: Quantum mechanics: Fixing the shifty split|journal=[[Physics Today]]|volume=65|issue=7|pages=8–10|doi=10.1063/pt.3.1618|issn=0031-9228|bibcode=2012PhT....65g...8M|doi-access=free}}<br/>{{Cite journal|last=Mermin|first=N. David|date=2014-03-27|title=Physics: QBism puts the scientist back into science|journal=[[Nature (journal)|Nature]]|language=en|volume=507|issue=7493|pages=421–423|doi=10.1038/507421a|pmid=24678539|doi-access=free}}<br/>{{Cite journal|last=Mermin |first=N. David |title=Making better sense of quantum mechanics |journal=[[Reports on Progress in Physics]] |volume=82 |number=1 |year=2019 |pages=012002 |doi=10.1088/1361-6633/aae2c6 |pmid=30232960 |arxiv=1809.01639|bibcode=2019RPPh...82a2002M |s2cid=52299438 }}</ref>
+
+== Honors ==
+
+Mermin was elected a Fellow of the [[American Physical Society]] in 1969,<ref>{{cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=M |title=APS Fellows |website=[[American Physical Society]] |access-date=2019-08-11}}</ref> and he was elected a member of the [[National Academy of Sciences]] in 1991.<ref name=nas-2019>{{cite web|url=https://www.nasonline.org/directory-entry/n-david-mermin-yxnvej/ |title=N. David Mermin |website=[[National Academy of Sciences]] |access-date=2019-08-11}}</ref> He was also elected a member of the [[American Philosophical Society]] in 2015.<ref name="cv" />
+
+In 2003, the journal ''[[Foundations of Physics]]'' published a tribute to Mermin in the form of three issues, 10, 11, and 12 of volume 33, dedicated to Mermin and containing articles written by his colleagues. It included a foreward by [[Daniel Greenberger]] and [[Abner Shimony]]<ref>{{cite journal |last1=Greenberger |first1=Daniel |last2=Shimony |first2=Abner |date=October 2003 |title=The Presence of David Mermin |journal=Foundations of Physics |volume=33 |issue=10 |pages=1419–1422 |doi=10.1023/A:1026033228750 |url=https://link.springer.com/article/10.1023/A:1026033228750}}</ref> and contained a bibliography of Mermin's writing that included three books, 125 technical articles, 18 pedagogical articles, 21 general articles, 34 book reviews, and 24 "Reference Frame" articles from ''[[Physics Today]]''.<ref name="bibliography">{{Cite journal|date=2003-12-01|title=Publications of N. David Mermin|journal=[[Foundations of Physics]]|language=en|volume=33|issue=12|pages=1797–1809|doi=10.1023/A:1026233805919|bibcode=2003FoPh...33.1797. |s2cid=189839377|issn=0015-9018}}</ref>
+
+==Word and phrase coinages==
+Inspired by [[Lewis Carroll]]'s comic poem ''[[The Hunting of the Snark]],'' Mermin introduced the term ''boojum'' into the vocabulary of condensed-matter physics.<ref>{{Cite web|url=https://news.cornell.edu/stories/2005/09/boojums-help-turn-physicist-david-mermin-offbeat-science-writer|title=Boojums help turn physicist and pianist David Mermin into offbeat science writer|last=Kwan|first=Alex|date=2005-09-15|website=[[Cornell Chronicle]]|language=en|access-date=2017-10-11}}</ref>
+
+In his book ''It's About Time'' (2005), one of several expository pieces on [[special relativity]], he suggests that the English [[foot (length)|foot]] (0.3048&nbsp;meters) be slightly modified to approximately 0.2998&nbsp;m. This adaptation of a [[physical unit]] is one of several ploys that Mermin uses to draw students into spacetime geometry. In the book, Mermin writes:
+
+{{quote|Henceforth, by 1 foot we shall mean the distance light travels in a [[nanosecond]]. A foot, if you will, is a light nanosecond (and a nanosecond, even more nicely, can be viewed as a light foot). ... If it offends you to redefine the foot ... then you may define 0.299792458 meters to be 1 phoot, and think "phoot" (conveniently evocative of the Greek φωτος, "light") whenever you read "foot".<ref>''It's About Time'', page 22</ref>}}
+
+Though it is often misattributed to Richard Feynman, Mermin coined the phrase "shut up and calculate!" to characterize the views of many physicists regarding the [[interpretation of quantum mechanics]].<ref>{{cite journal |journal=[[Physics Today]] |volume=57 |issue=5 |pages=10–11 |title=Could Feynman Have Said This? |author=N. David Mermin |doi=10.1063/1.1768652|bibcode = 2004PhT....57e..10M |year=2004 |doi-access=free }}</ref>
+
+==Books==
+* 1968: ''Space and Time in Special Relativity'', [[McGraw Hill]] {{ISBN|0-88133-420-0}}
+* 1976: (with [[Neil Ashcroft]]) ''[[Ashcroft and Mermin|Solid State Physics]]'', [[Holt, Rinehart and Winston]] {{ISBN|0-03-083993-9}}<ref>Reviews and commentary:
+* {{Cite journal|last=Smoluchowski |first=R. |title=Solid State Physics |journal=[[Physics Today]] |volume=30 |number=1 |pages=61–65 |year=1977 |doi=10.1063/1.3037370|bibcode=1977PhT....30R..61A |doi-access=free }}
+* {{Cite journal|last=Ehrenreich |first=H. |title=Solid State: A New Exposition |journal=[[Science (journal)|Science]]|volume=197 |number=4306 |pages=753 |year=1977 |doi=10.1126/science.197.4305.753 |pmid=17790767 |bibcode=1977Sci...197..753A}}
+* {{Cite journal|last=Rodriguez |first=Sergio |title=Solid State Physics |journal=[[American Journal of Physics]] |volume=46 |number=1 |pages=116–117 |year=1978 |doi=10.1119/1.11117|bibcode=1978AmJPh..46..116A }}
+* {{Cite journal|last=Matthews |first=Jermey N. A. |title=A look back at the birth of Ashcroft and Mermin |date=2013-07-26 |journal=[[Physics Today]] |issue=7 |article-number=18388 |doi=10.1063/PT.4.2517 |bibcode=2013PhT..2013g8388M }}</ref>
+* 1990: ''Boojums All the Way Through'', [[Cambridge University Press]] {{ISBN|0-521-38880-5}}<ref>Review of ''Boojums'':
+* {{cite journal|last=Rigden |first=John S. |title=Boojums All The Way Through: Communicating Science in a Prosaic Age |journal=[[American Journal of Physics]] |volume=58 |pages=1115–1116 |number=11 |year=1990 |doi=10.1119/1.16234|bibcode=1990AmJPh..58.1115M }}</ref>
+* 2005: ''It's About Time: Understanding Einstein's Relativity'', [[Princeton University Press]] {{ISBN|978-0-691-12201-4}}<ref>Reviews of ''It's About Time'':
+* {{cite journal|last=Dowrick |first=Nigel |title=It's About Time: Understanding Einstein's Relativity |journal=[[Physics Today]] |volume=59 |number=6 |date=2006-06-01 |doi=10.1063/1.2218559 |pages=61–62|bibcode=2006PhT....59f..61M |doi-access=free }}
+* {{cite web |last=Colley |first=Kara Shane |title=It's About Time: Understanding Einstein's Relativity |website=[[MAA Reviews]] |date=2006-01-02 |url=https://www.maa.org/press/maa-reviews/its-about-time-understanding-einsteins-relativity |access-date=2019-05-26 |archive-date=2019-05-26 |archive-url=https://web.archive.org/web/20190526221310/https://www.maa.org/press/maa-reviews/its-about-time-understanding-einsteins-relativity |url-status=dead }}</ref>
+* 2007: ''Quantum Computer Science'', [[Cambridge University Press]] {{ISBN|978-0-521-87658-2}}<ref>Reviews of ''Quantum Computer Science'':
+* {{Cite journal|last=Terhal |first=Barbara |author-link=Barbara Terhal |title=Quantum Computer Science: An Introduction; Quantum Information: An Overview |journal=[[Physics Today]] |date=2008-03-01 |volume=61 |number=3 |pages=54–55 |doi=10.1063/1.2897953|bibcode=2008PhT....61c..54M |doi-access=free }}
+* {{Cite web|url=https://www.iacr.org/books/2012_ca_Mermin_QuantumComputerScience.pdf |title=Review of the book ''Quantum Computer Science'' by N. David Mermin, Cambridge University Press, 2007 |website=[[International Association for Cryptologic Research]] |year=2012 |last=Kohring |first=G. A. |access-date=2019-08-21}}
+* {{Cite web|url=http://www.fxpal.com/publications/review-of-quantum-computer-science-an-introduction-by-n-david-mermin.pdf |title=Review of N. David Mermin's ''Quantum Computer Science: An Introduction'' |last=Rieffel |first=Eleanor |author-link=Eleanor Rieffel |website=[[FX Palo Alto Laboratory]] |access-date=2019-08-21}}</ref>
+* 2016: ''Why Quark Rhymes with Pork: and Other Scientific Diversions'', [[Cambridge University Press]] {{ISBN|978-1-107-02430-4}}<ref>Review of ''Why Quark Rhymes with Pork'':
+* {{cite journal|last=Hossenfelder |first=Sabine |author-link=Sabine Hossenfelder |title=Why Quark Rhymes with Pork: and Other Scientific Diversions |journal=[[Physics Today]] |volume=69 |number=11 |pages=57–58 |doi=10.1063/PT.3.3367 |year=2016|bibcode=2016PhT....69k..57H |doi-access=free }}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal|last1=Greenberger |first1=Daniel |author-link1=Daniel Greenberger |last2=Shimony |first2=Abner |author-link2=Abner Shimony |year=2003 |title=The Presence of David Mermin |journal=[[Foundations of Physics]] |volume=33 |number=10 |doi=10.1023/A:1026033228750 |pages=1419–1422|bibcode=2003FoPh...33.1419G |s2cid=118831799 }}
+* {{cite journal|last=Shimony |first=Abner |author-link=Abner Shimony |year=2003 |title=Four Poems dedicated to David Mermin |journal=[[Foundations of Physics]] |volume=33 |number=11 |doi=10.1023/A:1026069319123 |pages=1699–1700|bibcode=2003FoPh...33.1699S |s2cid=115707714 }}
+* {{Cite journal|title=Autobiographical Notes of a Physicist |last=Mermin |first=N. David |journal=Physics in Perspective |date=2024 |volume=26 |issue=1 |page=3 |doi=10.1007/s00016-024-00310-z |arxiv=2401.04711 |bibcode=2024PhP....26....3M }}
+
+==External links==
+{{Wikiquote}}
+* [http://mermin.lassp.cornell.edu Mermin's homepage]
+* {{Google scholar id|id=BqqUJzIAAAAJ}}
+
+{{The VIZE 97 Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mermin, David}}
+[[Category:Living people]]
+[[Category:1935 births]]
+[[Category:Harvard University alumni]]
+[[Category:Cornell University faculty]]
+[[Category:Cornell Laboratory of Atomic and Solid State Physics]]
+[[Category:21st-century American physicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Physical Society]]

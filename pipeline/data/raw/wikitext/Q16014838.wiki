@@ -1,0 +1,37 @@
+{{Short description|American theoretical biologist (1941–2000)}}
+{{Infobox scientist
+| name =Michael Conrad
+| birth_date =1941
+| death_date=2000
+| workplaces =Wayne State University
+| fields =
+{{plainlist |
+*Theoretical biology
+*Computer science
+}}
+}}
+
+'''Michael Earl Conrad''' (1941–2000) was an American theoretical biologist.<ref>[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=910460 Obituary in ''IEEE Transactions on Evolutionary Computation'' 5(1), 2001.]</ref> He was a professor of computer science at [[Wayne State University]].<ref>[http://alumni.stanford.edu/get/page/magazine/article/?article_id=39403 Obituary in ''Stanford Magazine'']</ref> His book ''Adaptability'' (1983) has been very influential in [[theoretical biology]].<ref>[[Robert Rosen (theoretical biologist)|Robert Rosen]] 1986. [Review.] ''Bulletin of Mathematical Biology'' 48(5/6): 701–703.</ref>  
+
+Conrad was the first to publish theory on the evolution of [[evolvability]], beginning in 1972,<ref name="Conrad:1972:Importance">{{cite journal |  title=The importance of molecular hierarchy in information processing |   author=Conrad, Michael |  editor=C.H. Waddington | journal=Towards a Theoretical Biology |   volume=4 |   pages=222 |   year=1972 |   publisher=Edinburgh University Press Edinburgh}}</ref> with the idea that mutations which smoothed the [[adaptive landscape]] would increase the chance that other adaptive mutations could be continually produced, and would thereby hitchhike along with those mutations, thus "bootstrapping the adaptive landscape"<ref>{{cite journal | author = Conrad, Michael | year = 1979 | title = Bootstrapping on the adaptive landscape | journal = BioSystems | volume = 11 | issue = 2–3 | pages = 167–182 | doi=10.1016/0303-2647(79)90009-1| pmid = 497367 | hdl = 2027.42/23514 | hdl-access = free }}</ref> to produce the "self-facilitation of evolution".<ref name=Conrad:and:Volkenstein:1981>{{cite journal | author = Conrad, Michael and Volkenstein, MV | year = 1981 | title = Replaceability of amino acids and the self-facilitation of evolution | journal = Journal of Theoretical Biology | volume = 92 |   number=3 | pages = 293–299 |   publisher=Elsevier | doi=10.1016/0022-5193(81)90293-9| pmid = 7329083 | bibcode = 1981JThBi..92..293C }}</ref>
+
+== Career ==
+
+Conrad received his A.B. in Biology at [[Harvard University]] in 1964.  He entered [[Stanford University Medical School]] but was persuaded by faculty there to pursue a Ph.D. in Biophysics with Professor [[Howard H. Pattee]], which he obtained in 1969.  
+
+Conrad continued with postdoctoral research at the Center for Theoretical Studies at the University of Miami, and the Department of Mathematics at the University of California at Berkeley working with [[Hans-Joachim Bremermann|Hans Bremermann]].  Not finding theoretical biology positions in the United States, Conrad took an Assistant Professorship at the new Institute for Information Processing at the [[University of Tubingen]] in 1973, and a temporary position with the Logic of Computers group in the Department of Computer Science and Communication at the [[University of Michigan at Ann Arbor]].  
+
+Conrad finally obtained a tenure-track position in the Computer Science department of [[Wayne State University]] in 1979, where he remained for the rest of his career.<ref name="Pattee2002">{{cite journal |last1=Pattee |first1=Howard |title=The origins of Michael Conrad's research programs (1964–1979) |journal=BioSystems |date=2002 |volume=64 |issue=1–3 |pages=5–11|doi=10.1016/S0303-2647(01)00169-1 |pmid=11755483 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Conrad, Michael}}
+[[Category:American theoretical biologists]]
+[[Category:1941 births]]
+[[Category:2000 deaths]]
+[[Category:Harvard College alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Wayne State University faculty]]

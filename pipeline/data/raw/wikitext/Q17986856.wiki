@@ -1,0 +1,283 @@
+{{short description|Italian theoretical physicist}}
+{{Infobox scientist
+| name              = Augusto Sagnotti
+| image             = Cern Sagnotti.jpg
+| image_size        = 200 px
+| caption           = (2014)
+| birth_date        = 1955
+| birth_place       = [[Rome]], Italy
+| death_date        = 
+| death_place       = 
+| fields            = [[Theoretical physics]]
+| workplaces        = [[Scuola Normale Superiore]]
+| education         = University of Rome "La Sapienza", California Institute of Technology
+| doctoral_advisor  = [[John H. Schwarz]]
+| doctoral_students = 
+| known_for         = Ultraviolet divergences of Einstein gravity, orientifolds, higher spins
+| awards            = 
+}}
+
+'''Augusto Sagnotti''' (born 1955) is an [[Italians|Italian]] [[theoretical physics|theoretical physicist]] at [[Scuola Normale Superiore di Pisa|Scuola Normale]] (since 2005).
+
+==Biography==
+Sagnotti earned a [[Laurea]] in Electrical Engineering from the [[Sapienza University of Rome|University of Rome "La Sapienza"]] in 1978 (advisors: Bruno Crosignani and Paolo Di Porto); and a Ph.D. in Theoretical Physics from [[Caltech]] in 1983 (advisor: John H. Schwarz). He was Post-Doctoral Fellow at Caltech (1983–84) and Miller Research Fellow at U.C. Berkeley (1984–86).<ref name=":0">{{Cite web |title=Augusto Sagnotti {{!}} ScuolaNormaleSuperiore |url=https://www.sns.it/it/persona/augusto-sagnotti |access-date=2025-06-09 |website=www.sns.it}}</ref>
+
+Sagnotti was Junior Faculty at the [[University of Rome "Tor Vergata"]] from 1986 to 1994, then Associate Professor (1994–99) and Professor (2000-2005).<ref name=":0" /> His research activity has been devoted to the [[Quantization (physics)|quantization]] of the [[gravitational field]], to [[String Theory]], to [[Conformal Field Theory]] and to [[AdS/CFT correspondence#Higher spin gauge theories|Higher-Spin Gauge Fields]].<ref name=":0" />
+
+Sagnotti's main contribution to physics is perhaps the analysis of the [[One-loop Feynman diagram|2-loop divergences]] in Einstein's theory of [[General Relativity]].<ref>
+{{cite journal
+
+ |last1=Goroff |first=M. H.
+ |last2=Sagnotti |first2=A.
+ |year=1985
+ |title=Quantum gravity at two loops
+ |journal=[[Physics Letters B]]
+ |volume=160 |issue=1–3 |pages=81
+ |bibcode=1985PhLB..160...81G
+ |doi=10.1016/0370-2693(85)91470-4
+}}</ref><ref>
+{{cite journal
+ |last1=Goroff |first=M. H.
+ |last2=Sagnotti |first2=A.
+ |year=1986
+ |title=The ultraviolet behavior of Einstein gravity
+ |journal=[[Nuclear Physics B]]
+ |volume=266 |issue=3–4 |pages=709
+ |bibcode=1986NuPhB.266..709G
+ |doi=10.1016/0550-3213(86)90193-8
+}}</ref>  Moreover, he was the first to propose, in 1987, that the [[type I string theory]] can be obtained as an [[orientifold]] of [[type IIB string]] theory,<ref>
+{{cite book
+ |last1=Sagnotti |first1=A.
+ |year=1988
+ |chapter=Open strings and their symmetry groups
+ |editor1-last='t Hooft |editor1-first=G.
+ |editor2-last=Jaffe |editor2-first=A.
+ |editor3-last=Mack |editor3-first=G.
+ |editor4-last=Mitter |editor4-first=P. K.
+ |editor5-last=Stora |editor5-first=R.
+ |title=Nonperturbative Quantum Field Theory
+ |publisher=[[Plenum Publishing Corporation]]
+ |pages=521–528
+ |arxiv=hep-th/0208020
+ |bibcode = 2002hep.th....8020S }}</ref> with 32 half-[[D9-brane]]s added in the vacuum to cancel various [[anomaly (physics)|anomalies]]<ref>
+{{Cite journal
+ |last1=Sagnotti |first1=A.
+ |year=1992
+ |title=A note on the Green&ndash;Schwarz mechanism in open-string theories
+ |journal=[[Physics Letters B]]
+ |volume=294 |issue=2 |pages=196–203
+ |arxiv=hep-th/9210127
+ |bibcode=1992PhLB..294..196S
+ |doi=10.1016/0370-2693(92)90682-T
+ |s2cid=14528538
+ }}</ref><ref>
+{{Cite journal
+ |last1=Angelantonj |first1=C.
+ |last2=Sagnotti |first2=A.
+ |year=2002
+ |title=Open strings
+ |journal=[[Physics Reports]]
+ |volume=371 |issue=376 |pages=1–150
+ |arxiv=hep-th/0204089
+ |bibcode=2002PhR...371....1A
+ |doi=10.1016/S0370-1573(02)00273-9
+ |s2cid=119334893
+ }}</ref> and offered the elucidation of the key properties of orientifold constructions and of Conformal Field Theory on non-orientable surfaces.<ref>
+{{cite journal
+ |last1=Pradisi |first=G.
+ |last2=Sagnotti |first2=A.
+ |year=1989
+ |title=Open string orbifolds
+ |journal=[[Physics Letters B]]
+ |volume=216 |issue=1–2 |pages=59
+ |bibcode=1989PhLB..216...59P
+ |doi=10.1016/0370-2693(89)91369-5
+}}</ref><ref>
+{{cite journal
+ |last1=Bianchi |first=M.
+ |last2=Sagnotti |first2=A.
+ |year=1990
+ |title=On the systematics of open string theories
+ |journal=[[Physics Letters B]]
+ |volume=247 |issue=4 |pages=517
+ |bibcode=1990PhLB..247..517B
+ |doi=10.1016/0370-2693(90)91894-H
+}}</ref><ref>
+{{cite journal
+ |last1=Bianchi|first=M.
+ |last2=Pradisi |first2=G.
+ |last3=Sagnotti |first3=A.
+ |year=1992
+ |title=Toroidal compactification and symmetry breaking in open string theories
+ |journal=[[Nuclear Physics B]]
+ |volume=376 |issue=2|pages=362
+ |bibcode=1992NuPhB.376..365B
+ |doi=10.1016/0550-3213(92)90129-Y
+}}</ref><ref>
+{{Cite journal
+ |last1=Fioravanti |first1=D.
+ |last2=Pradisi |first2=G.
+ |last3=Sagnotti |first3=A.
+ |year=1994
+ |title=Sewing constraints and non-orientable open strings
+ |journal=[[Physics Letters B]]
+ |volume=321 |issue=4 |pages=349–354
+ |arxiv=hep-th/9311183
+ |bibcode=1994PhLB..321..349F
+ |doi=10.1016/0370-2693(94)90255-0
+ |s2cid=15330492
+ }}</ref><ref>
+{{Cite journal
+ |last1=Pradisi |first1=Gianfranco
+ |last2=Sagnotti |first2=Augusto
+ |last3=Stanev |first3=Yassen S.
+ |year=1996
+ |title=Completeness conditions for boundary operators in 2D conformal field theory
+ |journal=[[Physics Letters B]]
+ |volume=381 |issue= 1–3|pages=97–104
+ |arxiv=hep-th/9603097
+ |bibcode=1996PhLB..381...97P
+ |doi=10.1016/0370-2693(96)00578-3
+ |s2cid=119096336
+ }}</ref> He also discovered the [[Type 0 string theory|10D "0B' string"]], including both [[strings theory|open and closed strings]], non supersymmetric but free of [[tachyon]]s.<ref>
+{{cite arXiv
+ |last1=Sagnotti |first1=A.
+ |year=1995
+ |title=Some properties of open-string theories
+ |eprint=hep-th/9509080
+}}</ref><ref>
+{{Cite journal
+ |last1=Sagnotti |first1=A.
+ |year=1997
+ |title=Surprises in open-string perturbation theory
+ |journal=[[Nuclear Physics B: Proceedings Supplements]]
+ |volume=56 |issue=3 |pages=332–343
+ |arxiv=hep-th/9702093
+ |bibcode=1997NuPhS..56..332S
+ |doi=10.1016/S0920-5632(97)00344-7
+ |s2cid=13867997
+ }}</ref> He has worked extensively on higher spins, arriving at a geometric formulation of their free field equations in terms of higher-spin curvatures.<ref>
+{{cite journal
+ |last1=Francia |first=D.
+ |last2=Sagnotti |first2=A.
+ |year=2002
+ |title=Free geometric equations for higher spins
+ |journal=[[Physics Letters B]]
+ |volume=543 |issue=3–4|pages=303
+ |bibcode=2002PhLB..543..303F
+ |doi=10.1016/S0370-2693(02)02449-8
+ |arxiv = hep-th/0207002 |s2cid=14912668
+ }}</ref>
+
+More recently, Sagnotti has been working on the proposal of a possible link between "[[Supersymmetry breaking|brane supersymmetry breaking]]",<ref>
+{{Cite journal
+ |last1=Sugimoto |first1=S.
+ |year=1999
+ |title=Anomaly cancellations in the type I D9-D{{overline|9}} system and the ''USp''(32) string theory
+ |journal=[[Progress of Theoretical Physics]]
+ |volume=102 |issue=3 |pages=685–699
+ |arxiv=hep-th/9905159
+ |bibcode=1999PThPh.102..685S
+ |doi=10.1143/PTP.102.685
+ |s2cid=14476861
+ }}</ref><ref>
+{{Cite journal
+ |last1=Antoniadis |first1=I.
+ |last2=Dudas |first2=E.
+ |last3=Sagnotti |first3=A.
+ |year=1999
+ |title=Brane supersymmetry breaking
+ |journal=[[Physics Letters B]]
+ |volume=464 |issue= 1–2|pages=38–45
+ |arxiv=hep-th/9908023
+ |bibcode=1999PhLB..464...38A
+ |doi=10.1016/S0370-2693(99)01023-0
+ |s2cid=16185036
+ }}</ref><ref>
+{{Cite journal
+ |last1=Angelantonj |first1=C.
+ |year=2000
+ |title=Comments on open-string orbifolds with a non-vanishing ''B''<sub>''ab''</sub>
+ |journal=[[Nuclear Physics B]]
+ |volume=566 |issue=1–2
+ |pages=126–150
+ |arxiv=hep-th/9908064
+ |bibcode=2000NuPhB.566..126A
+ |doi=10.1016/S0550-3213(99)00662-8
+ |s2cid=15795436
+ }}</ref><ref>
+{{Cite journal
+ |last1=Aldazabal |first1=G.
+ |last2=Uranga |first2=A. M.
+ |year=1999
+ |title=Tachyon-free non-supersymmetric type IIB orientifolds via brane-antibrane systems
+ |journal=[[Journal of High Energy Physics]]
+ |volume=1999 |issue=10 |pages=24
+ |arxiv=hep-th/9908072
+ |bibcode=1999JHEP...10..024A
+ |doi=10.1088/1126-6708/1999/10/024
+ |s2cid=15612821
+ }}</ref> and the onset of the [[inflationary phase]], and on the exploration of some of its possible imprints on the [[Cosmic microwave background|CMB]],<ref>
+{{Cite journal
+ |last1=Kitazawa |first1=N.
+ |last2=Sagnotti |first2=A.
+ |year=2014
+ |title=Pre-inflationary clues from string theory?
+ |journal=[[Journal of Cosmology and Astroparticle Physics]]
+ |volume=2014 |issue=4 |pages=17
+ |arxiv=1402.1418
+ |bibcode=2014JCAP...04..017K
+ |doi=10.1088/1475-7516/2014/04/017
+ |s2cid=119232246
+ }}</ref> in particular, the proposal that the low value of the CMB quadrupole<ref>
+{{Cite web
+ |last=Hu |first=W.
+ |date=
+ |title=Quadrupole types and polarization patterns
+ |url=http://background.uchicago.edu/~whu/intermediate/polarization/polar4.html
+ |publisher=[[University of Chicago]]
+ |accessdate=2014-07-25
+}}</ref> and a first peak for l ~5<ref>
+{{Cite web
+ |last=Abdalla |first=F. B.
+ |date=
+ |title=Observational cosmology: The CMB
+ |url=http://zuserver2.star.ucl.ac.uk/~hiranya/PHAS3136/PHAS3136/PHAS3136_files/Cosmo6_101112_cmbpower.pdf
+ |website =
+ |publisher=[[University College London]]
+ |accessdate=2014-07-26
+}}</ref> be a manifestation of the onset of the inflationary phase.
+
+Sagnotti also suggested to his student Kirill Zatrimaylov that elongated mass distributions far away from galactic planes could contribute to explain the flatness of galaxy rotation curves that is normally attributed to dark matter. This proposal was developed in Zatrimaylov's PhD thesis: the rotation curves of several galaxies appear compatible with string-like filaments passing through their centers, as opposed to spherical halos.<ref>{{Cite journal |last1=Zatrimaylov |first1=Kirill |date=2021 |title=On Filaments, Prolate Halos and Rotation Curves |journal=[[Journal of Cosmology and Astroparticle Physics]] |volume=2021 |issue=04 |arxiv=2010.06573 |bibcode=2021JCAP...04..056Z |doi=10.1088/1475-7516/2021/04/056 |s2cid=234880978}}</ref><ref>{{cite thesis |degree=PhD |first=Kirill |last=Zatrimaylov |title=Dark Matter, Rotation Curves, and the Morphology of Galaxies |publisher=Scuola Normale Superiore di Pisa |year=2021 |url=https://hdl.handle.net/11384/106084 |website=sns.it |archive-url=https://web.archive.org/web/20250912131323/https://ricerca.sns.it/handle/11384/106084 |archive-date=12 September 2025|url-status=live}}</ref>
+
+== Awards and honors ==
+Sagnotti received the [[Carosio Prize]] from the University of Rome “La Sapienza” in 1979, a [[Miller Fellowship]] from U.C. Berkeley in 1984, shared with Massimo Bianchi the 1994 [[SIGRAV Prize]] of the [[Italian Society for General Relativity and Gravitation]],<ref>{{Cite web |title=I Premi SIGRAV |url=http://sigrav.na.infn.it/attivita/premi-sigrav/?lang=en |archive-url=https://web.archive.org/web/20190212070453/http://sigrav.na.infn.it/attivita/premi-sigrav/?lang=en |archive-date=February 12, 2019 |access-date=March 18, 2021}}</ref> and received the [[Margherita Hack Prize for Science]] in 2014 for his work on the quantization of gravity  and a [[Humboldt Research Award]] in 2018.<ref>{{Cite news |date=9 January 2019 |title=Von Humboldt Foundation Prizes awarded to Professor Ferrara and Professor Sagnotti |work=Normale News |url=https://normalenews.sns.it/von-humboldt-foundation-prizes-awarded-to-professor-ferrara-and-professor-sagnotti |access-date=18 March 2021}}</ref> He was also [[Andrejewski Lecturer]] at Humboldt Universitat in Berlin in 1999, and gave the "Roberto Petronzio Lecture" at the [[University of Rome Tor Vergata]] in 2024. He received the 2026 [[Pomeranchuk Prize]] from the Institute for Theoretical and Experimental Physics (ITEP) in Moscow.<ref>[http://www.itep.ru/science/pomeranshuk/laureaty-2026a.php] {{dead link|date=November 2026}}</ref>
+
+== Books ==
+* ''String Theory'', eds. C. Procesi and A. Sagnotti (Academic Press, 1988)
+* ''String Theory, Quantum Gravity and the Unification of the Fundamental Interactions'', eds. M. Bianchi, F. Fucito, V. Marinari and A. Sagnotti (World Scientific, 1992)
+* ''Classical and Quantum Statistical Physics'', by C. Heissenberg and A. Sagnotti (Cambridge Univ. Press, 2022)
+
+== References ==
+{{reflist}}
+
+==External links==
+*[https://inspirehep.net/author/profile/A.Sagnotti.1 Scientific publications of Augusto Sagnotti] on [[INSPIRE-HEP]]
+
+{{Portal bar|Biography|Physics|Science}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sagnotti, Augusto}}
+[[Category:Living people]]
+[[Category:20th-century Italian physicists]]
+[[Category:Academic staff of the University of Rome Tor Vergata]]
+[[Category:Academic staff of the Scuola Normale Superiore]]
+[[Category:1955 births]]
+[[Category:Italian string theorists]]
+[[Category:String theorists]]
+[[Category:Quantum gravity physicists]]
+[[Category:Italian theoretical physicists]]
+[[Category:People associated with CERN]]
+[[Category:21st-century Italian physicists]]
+[[Category:California Institute of Technology fellows]]

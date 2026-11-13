@@ -1,0 +1,70 @@
+{{Short description|Iranian-American mechanical engineer}}
+
+{{Infobox scientist
+| name              = Massoud Kaviany
+| image             = 
+| image_size        = 
+| alt               = 
+| birth_date        = 1948
+| birth_place       = Tehran, Iran
+| citizenship       = United States
+| fields            = [[Mechanical engineering]], [[Applied physics]]
+| workplaces        = [[University of Michigan]]
+| education         = [[University of Illinois Chicago]] (B.S., M.S.)<br />[[University of California, Berkeley]] (Ph.D.)
+| doctoral_advisor  = R. A. Seban
+| academic_advisors = J. P. Hartnett
+| known_for         = Heat transfer physics; heat transfer in porous media
+| website           = [https://me.engin.umich.edu/people/faculty/massoud-kaviany/ Faculty page]
+| spouse            = Mitra Kaviany (m. 1985)
+| children          = Saara Kaviany, Parisa Kaviany
+}}
+'''Massoud Kaviany''' is an Iranian-American mechanical engineer who has worked on heat transfer fundamentals, heat transfer physics, and multiscale energy-transport phenomena. He is a professor in the Department of Mechanical Engineering and the Applied Physics Program at the [[University of Michigan]].<ref name="UMichME">{{cite web |title=Massoud Kaviany |url=https://me.engin.umich.edu/people/faculty/massoud-kaviany/ |access-date=20 November 2025 |publisher=University of Michigan}}</ref>
+
+== Early life and education ==
+Kaviany was born in 1948 in Tehran, Iran, and moved to the United States in 1968. He earned a B.S. (1973) and M.S. (1974) in energy engineering from the [[University of Illinois Chicago]].<ref name="UMichME" /> He completed his Ph.D. in mechanical engineering at the [[University of California, Berkeley]] in 1979 under the supervision of R. A. Seban.<ref name="UMichME" />
+
+== Career ==
+Kaviany worked as a staff scientist at [[Lawrence Berkeley National Laboratory]] from 1979 to 1980.<ref>{{Cite web |title=Massoud Kaviany |url=https://ieeexplore.ieee.org/author/37318498900 |access-date=2026-03-07 |website=ieeexplore.ieee.org}}</ref> In 1981, he joined the University of Wisconsin–Milwaukee as an assistant professor, becoming associate professor in 1985.<ref name=":2">{{Cite web |title=Massoud Kaviany |url=https://engineering.purdue.edu/ME/People/HawkinsLecture/Hawkins_2005.pdf |website=engineering.purdue.edu}}</ref> He moved to the [[University of Michigan]] in 1986, where he became full professor in 1992.<ref name="UMichME" /><ref>{{Cite web |title=Massoud Kaviany {{!}} U-M LSA Applied Physics Program |url=https://lsa.umich.edu/appliedphysics/people/faculty/kaviany.html |access-date=2025-12-17 |website=lsa.umich.edu |language=en}}</ref>
+
+== Research ==
+=== Phonon transport ===
+Kaviany's work on [[lattice vibrations]] addresses [[phonon scattering]], mean free paths, and thermal conductivity in crystalline and amorphous solids, with applications to thermoelectric materials.<ref>{{Cite web |title=Essentials of Heat Transfer |url=https://assets.cambridge.org/97811070/12400/frontmatter/9781107012400_frontmatter.pdf |website=assets.cambridge.org}}</ref> He advanced a "[[phonovoltaic]]" concept, a [[p–n junction]] capable of converting hot optical phonons into electrical power, and introduced "phonocatalysis," in which atomic-scale vibrations drive molecular dissociation at surfaces.<ref>{{Cite journal |last=Melnick |first=Corey |last2=Kaviany |first2=Massoud |date=2016 |title=Phonovoltaic. I. Harvesting hot optical phonons in a nanoscale p -n junction |url=https://ui.adsabs.harvard.edu/abs/2016PhRvB..93i4302M/abstract |journal=Physical Review B |language=en |volume=93 |issue=9 |doi=10.1103/PhysRevB.93.094302 |issn=0163-1829}}</ref><ref name=":1" />
+
+His group also carried measurements of thermal conductivity in metal–organic frameworks, supported by classical molecular-dynamics simulation.<ref>{{Cite journal |last=Huang |first=B. L. |last2=McGaughey |first2=A. J. H. |last3=Kaviany |first3=M. |date=2007-02-01 |title=Thermal conductivity of metal-organic framework 5 (MOF-5): Part I. Molecular dynamics simulations |url=https://www.sciencedirect.com/science/article/pii/S0017931006005473 |journal=International Journal of Heat and Mass Transfer |volume=50 |issue=3 |pages=393–404 |doi=10.1016/j.ijheatmasstransfer.2006.10.002 |issn=0017-9310|url-access=subscription }}</ref>
+
+=== Electron transport and energy conversion ===
+Kaviany has conducted parallel investigations into electronic transport, electron–phonon coupling, and nanoscale heat transfer, particularly for thermoelectric devices and micro–thermoelectric coolers. Contributions include a melting-induced thermal-conductivity switch, analysis of interflake thermal conductance of graphene, and the concept of heterobarrier phonon recycling.<ref>{{Cite journal |last=Kim |first=Kwangnam |last2=Kaviany |first2=Massoud |date=2016-10-17 |title=Thermal conductivity switch: Optimal semiconductor/metal melting transition |url=https://link.aps.org/doi/10.1103/PhysRevB.94.155203 |journal=Physical Review B |language=en |volume=94 |issue=15 |doi=10.1103/PhysRevB.94.155203 |issn=2469-9950|url-access=subscription }}</ref>
+
+=== Fluid–particle transport and phase change ===
+His work has informed water management in fuel-cell electrolyte layers, boiling and critical heat flux, and the enhancement of thermal conductance using porous coatings.<ref>{{Citation |last=Kaviany |first=Massoud |title=Fluid Streams in Two-Phase Systems |date=2001 |work=Principles of Convective Heat Transfer |pages=135–178 |editor-last=Kaviany |editor-first=Massoud  |place=New York, NY |publisher=Springer |language=en |doi=10.1007/978-1-4757-3488-1_3 |isbn=}}</ref><ref>{{Citation |last=Kaviany |first=Massoud |title=Solid-Fluid Systems with Large Specific Interfacial Area |date=2001 |work=Principles of Convective Heat Transfer |pages=349–415 |editor-last=Kaviany |editor-first=Massoud  |place=New York, NY |publisher=Springer |language=en |doi=10.1007/978-1-4757-3488-1_5 |isbn=}}</ref><ref>{{Cite journal |last=Huang |first=Bao-Ling |last2=Kaviany |first2=Massoud |date=2008 |title=Ab initio and molecular dynamics predictions for electron and phonon transport in bismuth telluride |url=https://link.aps.org/doi/10.1103/PhysRevB.77.125209 |journal=Physical Review B |language=en |volume=77 |issue=12 |article-number=125209 |doi=10.1103/PhysRevB.77.125209 |issn=1098-0121|url-access=subscription }}</ref><ref name=":0">{{Cite web |last=Discuss |first=D_o_S |date=2007-06-21 |title=Asetek signs research agreement with Professor Massoud Kaviany |url=https://www.techpowerup.com/33420/asetek-signs-research-agreement-with-professor-massoud-kaviany |access-date=2025-11-21 |website=TechPowerUp |language=en}}</ref>
+
+== Books ==
+* ''Principles of Heat Transfer in Porous Media'' (Springer, 1991; 2nd ed., 1995)<ref>{{cite book |last=Kaviany |first=Massoud |url=https://link.springer.com/book/10.1007/978-1-4757-3488-1 |title=Principles of Heat Transfer in Porous Media |publisher=Springer |year=1995 |isbn=978-1-4757-3488-1}}</ref>
+* ''Principles of Convective Heat Transfer'' (Springer, 1994; 2nd ed., 2001)
+* ''Principles of Heat Transfer'' (Wiley, 2001), later republished as ''Essentials of Heat Transfer'' (Cambridge University Press, 2011)
+* ''Heat Transfer Physics'' (Cambridge University Press, 2008; 2nd ed., 2014)<ref name=":1">{{cite book |last=Kaviany |first=Massoud |title=Heat Transfer Physics |publisher=Cambridge University Press |year=2014}}</ref>
+
+== Honors and awards ==
+
+* Life Time Fellow, [[American Society of Mechanical Engineers]] (ASME) (1992)<ref name=":2" /><ref name="ASMEGold">{{cite web |title=Kaviany Receives ASME Gold Medal |url=https://me.engin.umich.edu/news-events/news/kaviany-receives-asme-gold-medal/ |access-date=20 November 2025 |publisher=University of Michigan}}</ref>
+* Shared the ASME Heat Transfer Memorial Award (Science) (2002)<ref>{{Cite web |title=Heat Transfer Memorial Award |url=https://www.asme.org/About-ASME/Honors-Awards/Achievement-Awards/Heat-Transfer-Memorial-Award |access-date=2025-12-17 |website=www.asme.org |language=en}}</ref>
+* ASME James Harry Potter Gold Medal (2010)<ref>{{Cite web |title=James Harry Potter Gold Medal |url=https://www.asme.org/About-ASME/Honors-Awards/Achievement-Awards/James-Harry-Potter-Gold-Medal |access-date=2025-12-17 |website=www.asme.org |language=en}}</ref>
+* ASME Heat Transfer Division 75th Anniversary Medal (2013)<ref>{{Cite web |title=THERMAL AND FLUIDS ENGINEERING CONFERENCE |url=https://www.astfe.org/conferences/tfec2018/TFEC2018_Conference_program.pdf |website=ASTFE}}</ref>
+* Fellow, [[American Physical Society]] (2011)
+* Fellow, American Society of Thermal and Fluids Engineers (2020)<ref>{{Cite web |title=American Society of Thermal and Fluids Engineers (ASTFE) |url=https://www.astfe.org/fellowship/#:~:text=He%20received%20the%20Francois%20Naftali,Theoretical%20and%20Computational%20Fluid%20Dynamics. |access-date=2025-12-17 |website=www.astfe.org}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Kaviany, Massoud}}
+[[Category:American mechanical engineers]]
+[[Category:American physicists]]
+[[Category:Heat transfer]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:University of Illinois Chicago alumni]]
+[[Category:University of Michigan faculty]]
+[[Category:Scientists from Tehran]]
+[[Category:American people of Iranian descent]]
+[[Category:1948 births]]
+[[Category:Living people]]

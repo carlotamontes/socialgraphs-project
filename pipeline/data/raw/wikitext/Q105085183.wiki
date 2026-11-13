@@ -1,0 +1,190 @@
+{{Short description|Italian physicist}}
+{{Use dmy dates|date=July 2024}}
+{{Infobox academic
+| honorific_prefix  = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name              = Stefano Fantoni
+| honorific_suffix  = 
+| image             = Stefano fantoni 2019.jpg
+| image_size        = 
+| alt               = 
+| caption           = Stefano Fantoni in 2019
+| native_name       = 
+| native_name_lang  = 
+| birth_name        = <!-- use only if different from full/othernames -->
+| birth_date        = {{birth date and age|1945|06|04|df=y}}
+| birth_place       = [[Taranto]], Italy
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| death_cause       = 
+| citizenship       = 
+| other_names       = 
+| occupation        = 
+| years_active      = 
+| known_for         = Fantoni-Rosati (FR) cluster expansion <br /> [[Hypernetted-chain equation|Hyper Netted Chain]] (FHNC) integral equations <br /> Correlated Basis Function (CBF) theory <br /> Auxiliary Field [[Diffusion Monte Carlo]] (AFDMC) method
+| title             = 
+| boards            = <!--board or similar positions extraneous to main occupation-->
+| spouse            = {{marriage|Daniela Belli|1969}}
+| awards            = [[Kalinga Prize]] (2001) <br /> Premio Piazzano<ref name="Premio Piazzano" /> <br /> [[Pirelli Internetional Award]] <br /> Premio Capo d’Orlando<ref name="Capo d'Orlando Prize" /> <br /> [[Eugene Feenberg Memorial Medal]]
+| website           = 
+| education         = [[University of Pisa]] (graduation 1968) <br /> [[Scuola Normale Superiore di Pisa]] (PhD 1970)
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| school_tradition  = 
+| doctoral_advisor  = 
+| academic_advisors = [[:it:Luigi Arialdo Radicati di Brozolo|Luigi Arialdo Radicati di Brozolo]] <br /> Sergio Rosati
+| influences        = <!--must be referenced from a third-party source-->
+| era               = 
+| discipline        = Physicist
+| sub_discipline    = [[Quantum mechanics|Quantum]] [[Many-body problem|many-body]] physics <br /> Strongly Interacting Fermi Systems <br /> [[Nuclear matter]] <br /> [[Neutron]] matter
+| institutions      = <!--full-time positions only, not student positions-->
+| doctoral_students = <!--only those with WP articles-->
+| notable_students  = 
+| main_interests    = 
+| notable_works     = 
+| notable_ideas     = 
+| influenced        = <!--must be referenced from a third-party source-->
+| signature         = 
+| signature_alt     = 
+| signature_size    = 
+| footnotes         = 
+}}
+
+'''Stefano Fantoni''' (born 4 June 1945) is an Italian theoretical physicist<ref>{{Cite book |last=Boronat |first=Jordi |url=https://www.google.com/books/edition/Recent_Progress_in_Many_body_Theories/g15hDQAAQBAJ?hl=en&gbpv=1&dq=%22stefano+fantoni%22+physicist&pg=PA12&printsec=frontcover |title=Recent Progress in Many-body Theories: Proceedings of the 14th International Conference, Barcelona, Spain, 16-20 July 2007 |date=2008 |publisher=World Scientific |isbn=978-981-277-988-5 |pages=12 |language=en}}</ref>, now retired from the [[International School for Advanced Studies]] in Trieste (SISSA), still working in the fields of [[nuclear physics]] and low temperature physics. {{Citation needed|date=February 2026}}
+
+He may be best known for his work done with Kevin Schmidt on [[Quantum Monte Carlo]] methods for nuclear systems, and particularly the development of the Auxiliary Field [[Diffusion Monte Carlo]] (AFDMC) method, heavily used in [[Nuclear matter|nuclear]] and [[neutron]] matter calculations. {{Citation needed|date=February 2026}}
+
+== Early life and education ==
+
+Stefano Fantoni was born in [[Taranto]] on 4 June 1945. He attended the high school in [[Livorno]],  graduated in physics in 1968 from   [[University of Pisa]], and received his PhD degree in 1970 from the [[Scuola Normale Superiore di Pisa|Scuola Normale Superiore]]. {{Citation needed|date=February 2026}}
+
+Stefano Fantoni married in 1969 and has two children and two grandchildren. {{Citation needed|date=February 2026}}
+
+== Career and research activity ==
+
+He first worked as an assistant lecturer at the [[University of Pisa]] from November 1970 and then as associate professor since 1972. In 1986 he became full professor and three-month later he was given the chair of Nuclear Physics at the [[University of Salento|University of Lecce]]. 
+From 1991 to 2000 he acted as Director of the Interdisciplinary Laboratory of the [[International School for Advanced Studies]], SISSA in [[Trieste]]. 
+In 2004 he was elected and nominated as [[International School for Advanced Studies|SISSA]] Director, duty that he has covered until November 2010. {{Citation needed|date=February 2026}} 
+
+=== Research ===
+Fantoni's research activity has been mainly devoted to quantum liquids of interest of [[Nuclear physics|nuclear]] and [[Condensed matter physics|condensed matter]] phenomena typical of low temperature physics. He started doing research during his graduation thesis in light nuclei with his first article in 1970 on <sup>6</sup>Li.<ref>{{cite journal |last1=Fantoni |first1=S. |last2=Rosati |first2=S. |date=August 1970 |title= Alpha-deuteron model of <sup>6</sup>Li|url= |journal=Nuclear Physics A |volume=251 |issue=2 |pages=317–322 |doi=10.1016/0375-9474(70)90282-4 |access-date=}}</ref> 
+He is today among the three topmost scientists of Italian nationality<ref>{{Cite web|title=Top Italian Scientists|url=https://topitalianscientists.org/top-italian-scientists|access-date=4 February 2021|website=topitalianscientists.org|language=en}}</ref> in the field of theoretical Nuclear physics.
+
+The common denominator of his research was to go beyond the [[Mean-field theory|mean-field]] models in solving the so-called [[Many-body problem|many-body]] theory that occurs in quantum [[Boson|Bose]] or/and [[Fermion|Fermi]] systems, characterized by the presence of strong correlations among their components. In this context he gave four main contributions: (i) the development cluster expansion techniques, known in the literature as the Fantoni-Rosati (FR) cluster expansion, (ii) the derivation of the Fermi [[Hypernetted-chain equation|Hyper Netted Chain]] (FHNC) equations, to sum up series of cluster terms (iii) the development of Correlated Basis Function theory (CBF) and, more recently, (iv) the development of a new numerical simulation [[Monte Carlo method]] for nuclear systems, known as Auxiliary Field [[Diffusion Monte Carlo]] (AFDMC).
+
+Fantoni founded four research groups one in [[Pisa]], a second one in [[Lecce]] and a third one in [[Urbana, Illinois|Urbana]], Illinois, all in the field of nuclear physics and a fourth one in Trieste in Condensed matter physics.
+He also coordinated a research group made of few Italian and foreign universities and research laboratories in the field of [[nuclear astrophysics]].
+
+=== Italian representative of nuclear physics ===
+He has been the Italian representative of nuclear physics in several international bodies dealing with future perspectives in nuclear physics and electron scattering off nuclei at intermediate energies.   His research group at the [[International School for Advanced Studies|SISSA]] Interdisciplinary Laboratory has developed a new communication model based on the existing interconnections and inter-relations among communicating agents,. The SISSA model has been designed to overcome some of the deficiencies of the traditional top-down model in which communication simply flows from those who know to those who do not know.  In connections with this kind of research Stefano Fantoni founded in 2005 the first PhD school in Science and Society supported by both SISSA and the [[University of Milan]].
+Fantoni has been co-editor of the series Tessere (Cuen editing company, [[Naples]]) (1994–1998); publisher of the e-journal JCOM<ref name="JCOM">{{Cite web|title=JCOM Journal Of Science Communication|url=https://jcom.sissa.it/|website=jcom.sissa.it|access-date=6 February 2021|language=en}}</ref> from its foundation in 2004 and author of various articles in newspapers and books and of a dozen research articles on science communication.
+
+== International experience ==
+
+Stefano Fantoni spent several stays abroad as visiting professor: in 1977 at the [[Niels Bohr Institute]] of [[University of Copenhagen|Copenhagen]]  in 1979 at the Institute fur Physik in Koln; from 1980 to 1982 and in 1984 at the Department of Physics, [[University of Illinois at Urbana–Champaign]] in 1990 at the [[Thomas Jefferson National Accelerator Facility|Jefferson Laboratory]] (CEBAF) in Newport News, Virginia, [[nuclear matter|r]]; in 2000 at the Theory Center Seattle<ref>{{Cite web|title=University of Washington, Department of Physics, Institute for Nuclear Physics|url=https://phys.washington.edu/research/research-groups/institute-nuclear-theory|access-date=6 February 2021|website=phys.washington.edu|language=en}}</ref> (Washington).
+
+He has also been a consultant of the [[National Science Foundation]] and of the [[European Commission]] in the framework of INTAS program; Italian delegate to the OECD Committee Megaforum Science in Nuclear Physics in 1997 and 1998; member of the Program Advisory Committee for the [[Thomas Jefferson National Accelerator Facility|Jefferson Laboratory]] at Newport News in Virginia from 1989 to 1993, when the accelerator was still under construction and the center began to outline its strategic lines of experimental research; member and then chairman of the Program Advisory Committee of [[Laboratori Nazionali di Legnaro|INFN laboratories in Legnaro]] ([[Padua]]) in the period 1991–1996; member of the board of directors of the European Center for Theoretical Studies in Nuclear Physics and related areas (ECT*<ref name="ECT*">{{Cite web|title=European Center for Theoretical Studies in Nuclear Physics and Releted Areas|url=https://www.ectstar.eu/|access-date=4 February 2021|website=www.ectstar.eu|language=en}}</ref>) in 1993, when it was founded in Villazzano (Trento), until 1995; during the period 2003/2009 he was member of the International Advisory Committee of the Institute for Advanced Studies, Collegium Budapest.
+
+== Evaluation and management experience ==
+
+Stefano Fantoni was the founder of the [[Elba]] International Physics Center (EIPC) which he directed from 1985 to 1992. During this period EIPC acted as the Italian counterpart of the [[Aspen Center for Physics]] in Colorado, organizing conferences and workshops funded by local administration and some international research centers.
+In the period 1992–1993 Stefano Fantoni took part, as Italian member, together with the Danish nobelist [[Ben Roy Mottelson|Ben Mottelson]] and the French scientist [[Oriol Bohigas]], in the Committee nominated to establish the European Centre for Theoretical Physics, ECT*.<ref name="ECT*" /> The center is still in operation in the fields of nuclear physics, astrophysics and condensed matter. From 1991 to 2000 he directed the Interdisciplinary Laboratory of SISSA, a laboratory having the mission of developing and promoting new research areas. He founded the Neuroscience sector. In 1994 he founded the School in Science Communication which he directed until 2004.
+
+He was also president of FEST, the Trieste Festival of Scientific books and journals in the years 2007 and 2008. 
+Stefano Fantoni has been the Director of [[International School for Advanced Studies|SISSA]] from 2004 to 2010 and member of [[Conferenza dei Rettori delle Università Italiane|CRUI]], the association of the Rectors of the Italian universities, in the same period. His period as director has been characterized  by the  design and construction of the new [[International School for Advanced Studies|SISSA]] location, a building of almost 25000mq, 150000mq able to host the whole educational and research activity of [[International School for Advanced Studies|SISSA]]. 
+He has been nominated as the president of the International Foundation for the Development of Freedom of Science (FIT)<ref name="FIT">{{Cite web|title=Fondazione Internazionale Trieste {{!}} per il Progresso e la Libertà delle Scienze|url=https://www.fondazioneinternazionale.org/|access-date=28 January 2021|language=it-IT}}</ref> in [[Trieste]] in 2008. In the same year he was nominated from the regional administration of [[Friuli-Venezia Giulia]] as delegate to the commission Coordination of universities and research institutions of the [[Friuli-Venezia Giulia]].
+He has also been nominated as the president of the Trieste section of [[Alliance française|Alliance Francaise]] in 2009. 
+Fantoni was a member of the national committee for the evaluation of the basic research projects (FIRB committee) from 2007 to 2010 and member of the national committee to evaluate scientific museums and projects on popularization of science from 1995 to 1997 and from 2009 to 2010.
+He has been the first president of [[ANVUR]] (the Italian agency for the evaluation of the university and of the research) (2011–2016). 
+He has been the Champion of EuroScience Open Forum ([[EuroScience|ESOF]])<ref>{{Cite web |last=Saracino |first=Zeno |date=2020-10-15 |title=Porto Vecchio, stronghold of science? Interview with Stefano Fantoni |url=https://www.triesteallnews.it/2020/10/porto-vecchio-stronghold-of-science-interview-with-stefano-fantoni/ |access-date=2026-02-08 |website=TRIESTE.news |language=it-IT}}</ref>, in occasion of the nomination of [[Trieste]] as European City of Science for the year 2020. He is at on the board of the EuroScience committee.
+
+=== Director of SISSA ===
+
+{{S-start}}
+{{Succession box
+ | title  = Director of the [[International School for Advanced Studies]]
+ | years  = 2004–2010
+ | before = [[:it:Edoardo Boncinelli|Edoardo Boncinelli]]
+ | after  = Guido Martinelli
+}}
+{{S-end}}
+
+=== President of ANVUR ===
+
+{{S-start}}
+{{Succession box
+ | title  = President of [[ANVUR]]
+ | years  = 2011–2016
+ | before = –
+ | after  = Paolo Miccoli
+}}
+{{S-end}}
+
+=== President of FIT ===
+
+{{S-start}}
+{{Succession box
+ | title  = President of FIT<ref name="FIT" />
+ | years  = 2008–2011 & 2016–2026
+ | before = [[Paolo Budinich]]
+ | after  = [[Marina Cobal]]
+}}
+{{S-end}}
+
+=== Champion of ESOF 2020 ===
+
+{{S-start}}
+{{Succession box
+ | title  = Champion of [[EuroScience|ESOF]]
+ | years  = 2018–2020
+ | before = Anne Cambon-Thomsen
+ | after  = [[Corinne Hofman]]
+ | after2 = [[Ferry Breedveld]]
+}}
+{{S-end}}
+
+== Prizes and awards ==
+
+For his contributions to theoretical nuclear physics and for the development of FHNC theory he has awarded the prestigious international recognition [[Eugene Feenberg Memorial Medal]] 2007. For his work in science communication, he received the 2001 [[Kalinga Prize]], awarded by [[UNESCO]]. He also received the Award Piazzano in 2002,<ref name="Premio Piazzano">{{Cite web|title=Premio Giornalistico "Piero Piazzano"|url=https://www.premiopiazzano.com/#pages/edizioni/2002.html|website=www.premiopiazzano.com|access-date=6 February 2021|language=it-IT}}</ref> to have founded and directed the Master in Science communication; in 2006, the [[Pirelli Internetional Award|Pirelli Internet-ional prize]] for the multimedia initiative Ulysses in the net of science; in 2007, the Capo d’Orlando prize<ref name="Capo d'Orlando Prize">{{Cite web|title=Capo d'Orlando Prize|url=https://www.premiocapodorlando.it/en/home/|website=www.premiocapodorlando.it|access-date=6 February 2021|language=en}}</ref> for his activities in science communication.
+
+== Selected works ==
+
+*{{cite journal |last1=Fantoni |first1=S. |last2=Rosati |first2=S. |date=1974 |title= Jastrow correlations and an irreducible cluster expansion for infinite boson or fermion systems|url= |journal=Il Nuovo Cimento A |volume=20 |issue=1 |pages=179–193 |doi= |access-date=}}
+*{{cite journal |last1=Fantoni |first1=S. |last2=Rosati |first2=S. |date=1975 |title= The hypernetted-chain approximation for a fermion system|url= |journal=Il Nuovo Cimento A |volume=25 |issue=4 |pages=593–615 |doi= |access-date=}}
+*{{cite journal |last1=Fantoni |first1=S. |last2=Friman |first2=B.L. |last3=Pandharipande |first3=V.R. |date=1981 |title= The imaginary part of the nucleon optical potential in nuclear matter|url= |journal=Physics Letters B|volume=104 |issue=2 |pages=89–91 |doi= |access-date=}}
+*{{cite journal |last1=Manousakis |first1=E. |last2=Fantoni |first2=S. |last3=Pandharipande |first3=V.R. |last4=Usmani |first4=Q.N.|date=1983 |title= Comparative study of three-nucleon potentials in nuclear matter|url= |journal=Physical Review B|volume=28 |issue=7 |pages=3770 |doi= |access-date=}}
+*{{cite journal |last1=Fantoni |first1=S. |last2=Pandharipande |first2=V.R. |date=1984 |title= Momentum distribution of nucleons in nuclear matter|url= |journal=Nuclear Physics A |volume=427 |issue=3 |pages=473–492 |doi= |access-date=}}
+*{{cite journal |last1=Benhar |first1=O. |last2=Fabrocini |first2=A. |last3=Fantoni |first3=S. |date=1989 |title= The nucleon spectral function in nuclear matter|url= |journal=Nuclear Physics A|volume=505 |issue=2 |pages=267–299 |doi= |access-date=}}
+*{{cite journal |last1=Wang |first1=X.Q. |last2=Fantoni |first2=S. |last3=Tosatti |first3=E. |last4=Yu |first4=Lu |last5=Viviani |first5=M. |date=1990 |title= Correlated-basis-function method for fermions on a lattice: The one-dimensional Hubbard model|url= |journal=Physical Review B|volume=41 |issue=16 |pages=11479 |doi= |access-date=}}
+*{{cite journal |last1=Pederiva |first1=F. |last2=Ferrante |first2=A. |last3=Fantoni |first3=S. |last4=Reatto |first4=L.|date=1994 |title= Quantum theory of solid-liquid coexistence and interface in He 4|url= |journal=Physical Review Letters|volume=72 |issue=16 |pages=2589 |doi= |access-date=}}
+*{{cite journal |last1=Pederiva |first1=F. |last2=Chester |first2=G.V. |last3=Fantoni |first3=S. |last4=Reatto |first4=L.|date=1997 |title= Variational study of vacancies in solid 4 He with shadow wave functions|url= |journal=Physical Review B|volume=56 |issue=10 |pages=5909 |doi= |access-date=}}
+*{{cite journal |last1=Smerzi |first1=A. |last2=Fantoni |first2=S. |last3=Giovanazzi |first3=S. |last4=Shenoy |first4=S.R.|date=1997 |title= Quantum coherent atomic tunneling between two trapped Bose-Einstein condensates|url= |journal=Physical Review Letters|volume=79 |issue=25 |pages=4950 |doi= |access-date=}}
+*{{cite journal |last1=Ciftja |first1=O. |last2=Fantoni |first2=S. |date=1998 |title= Fermi-hypernetted-chain study of unprojected wave functions to describe the half-filled state of the fractional quantum Hall effect|url= |journal=Physical Review B |volume=58 |issue=12 |pages=7898 |doi= |access-date=}}
+*{{cite journal |last1=Schmidt |first1=K.E. |last2=Fantoni |first2=S. |date=1999 |title= A quantum Monte Carlo method for nucleon systems|url= |journal=Physics Letters B |volume=446 |issue=2 |pages=99–103 |doi= |access-date=}}
+*{{cite journal |last1=Wang |first1=X.Q. |last2=Fantoni |first2=S. |last3=Tosatti |first3=E. |last4=Yu |first4=Lu |last5=Viviani |first5=M. |date=2003 |title= Structure, rotational dynamics, and superfluidity of small OCS-doped He clusters|url= |journal=Physical Review Letters|volume=90 |issue=14 |pages=143401 |doi= |access-date=}}
+*{{cite journal |last1=Gandolfi |first1=F. |last2=Pederiva |first2=F. |last3=Fantoni |first3=S. |last4=Schmidt |first4=K.E. |date=2007 |title= Quantum Monte Carlo calculations of symmetric nuclear matter|url= |journal=Physical Review Letters|volume=98 |issue=10 |pages=102503 |doi= |access-date=}}
+*{{cite journal |last1=Gandolfi |first1=S. |last2=Illarionov |first2=A.Y. |last3=Fantoni |first3=S. |last4=Pederiva |first4=F. |last5=Schmidt |first5=K.E.|date=2008 |title= Equation of State of Superfluid Neutron Matter and the Calculation of the S 0 1 Pairing Gap|url= |journal=Physical Review Letters|volume=101 |issue=13 |pages=132501 |doi= |access-date=}}
+*{{cite journal |last1=Lovato |first1=A. |last2=Benhar |first2=O. |last3=Fantoni |first3=S. |last4=Illarionov |first4=A.Y. |last5=Schmidt |first5=K.E.|date=2011 |title= Density-dependent nucleon-nucleon interaction from three-nucleon forces|url= |journal=Physical Review C|volume=83 |issue=5 |pages=054003 |doi= |access-date=}}
+*{{cite journal |last1=Lovato |first1=A. |last2=Benhar |first2=O. |last3=Fantoni |first3=S. |last4=Schmidt |first4=K.E.|date=2012 |title= Comparative study of three-nucleon potentials in nuclear matter|url= |journal=Physical Review C|volume=85 |issue=2 |pages=024003 |doi= |access-date=}}
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* {{cite book |last1=Benhar | first1=O. |last2=Fantoni |first2=S. |author-link= |date=2020 |title=Nuclear Matter Theory |url= |location= |publisher=CRC Press |page= |isbn=978-0-8153-8666-7}}
+* {{cite book |last1=Fantoni | first1=S. |last2=Krotscheck |first2=E. |last3=Fabrocini |first3=A. |author-link= |date=2002 |title=Introduction to Modern Methods of Quantum Many-Body Theory and Their Applications |url= |location= |publisher=Imperial College Pr |page= |isbn=978-9-8123-8069-2}}
+* {{cite book |last1=Fantoni | first1=S. |last2=Rosati |first2=S. |author-link= |date=1991 |title=Condensed Matter Theories |url= |location= |publisher=Plenum Pub Corp |page= |isbn=978-0-3064-3839-4}}
+
+== External links ==
+* [https://www.sns.it/ Scuola Normale Superiore di Pisa (SNS)]
+* [https://www.sissa.it/ International School for Advanced Studies (SISSA)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fantoni, Stefano}}
+[[Category:20th-century Italian physicists]]
+[[Category:Living people]]
+[[Category:1945 births]]
+[[Category:People from Taranto]]
+[[Category:Kalinga Prize recipients]]
+[[Category:21st-century Italian physicists]]

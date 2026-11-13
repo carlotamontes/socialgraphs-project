@@ -1,0 +1,100 @@
+{{Short description|American geneticist and biophysicist (born 1979)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = William J. Greenleaf
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = William James Greenleaf
+| birth_date        = {{birth date and age |1979|12|24}}
+| birth_place       = [[Rochester, Minnesota]], U.S.
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Genomics]], [[Epigenomics]], [[Biophysics]]
+| workplaces        = [[Stanford University]]
+| patrons           = 
+| education         = {{plainlist|
+* [[Harvard University]] (A.B.)
+* [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge]] (Dip. Comp. Sci.)
+* [[Stanford University]] (Ph.D.)}}
+| alma_mater        = 
+| thesis_title      = High-resolution, single-molecule measurements of transcription and RNA folding
+| thesis_url        = https://searchworks.stanford.edu/view/7203495
+| thesis_year       = 2008
+| doctoral_advisor  = [[Steven Block]]
+| academic_advisors = [[Xiaoliang Sunney Xie|X. Sunney Xie]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[ATAC-seq]]
+| awards            = [[National Institutes of Health Director's Pioneer Award|NIH Director's Pioneer Award]], [[Damon Runyon Cancer Research Foundation|Damon Runyon Fellowship]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = [https://greenleaf.stanford.edu/ Greenleaf Lab]
+| footnotes         = 
+}}
+
+'''William J. Greenleaf''' (born December 24, 1979) is an American molecular biologist, biophysicist, and inventor who is a professor of [[genetics]] at the [[Stanford University School of Medicine]]. His research focuses on [[high-throughput sequencing]] and [[optical microscopy]] methods for studying [[gene regulation]] and [[chromatin structure]]. Greenleaf is a co-inventor of [[ATAC-seq]], a widely-used [[epigenomics|epigenomic]] method developed in his lab.<ref name="atac">{{cite journal|url=https://www.nature.com/articles/nmeth.2688 | title=Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position|access-date=October 26, 2025 |journal=Nature Methods |vauthors=Buenrostro JD, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ|volume=10|pages=1213–1218 |date=October 6, 2013}}</ref><ref name="patent">{{cite patent|country=US|url=https://patents.google.com/patent/US10619207B2|number=US10619207B2 |title=Transposition into native chromatin for personal epigenomics|status=patent|assign1=The Board of Trustees of the Leland Stanford Junior University|gdate=April 14, 2020}}</ref><ref name="illumina">{{cite web| title=ATAC-Seq (assay for transposase-accessible chromatin with sequencing) |url=https://www.illumina.com/techniques/multiomics/epigenetics/atac-seq-chromatin-accessibility.html|access-date=October 26, 2025|website=Illumina}}</ref><ref name="active motif">{{cite web |title=Complete Guide to Understanding and Using ATAC-Seq |url=https://www.activemotif.com/blog-atac-seq|access-date=October 26, 2025|website=Active Motif}}</ref>
+
+== Biography ==
+Greenleaf grew up in [[Rochester, Minnesota]].<ref name="sts">{{cite web|url=https://www.societyforscience.org/regeneron-sts/science-talent-search-1998/|title=Science Talent Search 1998|access-date=October 26, 2025|website=Society for Science}}</ref> He attended [[Mayo High School]] and worked summers as a research assistant at the [[Mayo Clinic]], winning 6th place in the 1998 [[Westinghouse Science Talent Search]] for his project on [[sonoporation|ultrasound-mediated gene transfection]].<ref name="sts" /><ref name="cv" /><ref>{{cite journal |vauthors=Greenleaf WJ, Bolander ME, Sarkar G, Goldring MB, Greenleaf JF |date=May 1998 |title=Artificial Cavitation Nuclei Significantly Enhance Acoustically Induced Cell Transfection |url=https://www.sciencedirect.com/science/article/abs/pii/S0301562998000039 |journal=Ultrasound in Medicine & Biology |volume=24 |issue=4 |publisher= |pages=587–595 |doi=10.1016/S0301-5629(98)00003-9 |access-date=October 26, 2025|url-access=subscription }}</ref> He graduated ''[[cum laude]]'' with an A.B. in Physics from [[Harvard University]] in 2002, followed by a stint as a [[Gates Cambridge Scholarship|Gates Cambridge Scholar]] at [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge]], from which he received a [[Cambridge Diploma in Computer Science|Dip. Comp. Sci.]] in 2003.<ref name="stanford">{{cite web |title=William Greenleaf|url=https://med.stanford.edu/profiles/william-greenleaf|access-date=October 26, 2025|website=Stanford Medicine CAP Profiles}}</ref> Greenleaf then entered the [[Applied Physics]] [[Ph.D.]] program at [[Stanford University]], where he joined the laboratory of [[Steven Block]] and was funded by the [[National Science Foundation|NSF]] [[NSF Graduate Research Fellowship Program|GRFP]].<ref name="cv">{{cite web|title=Curriculum Vitae - William James Greenleaf|url=https://cap.stanford.edu/profiles/viewCV?facultyId=24604&name=William_Greenleaf|access-date=October 26, 2025}}</ref>
+
+Greenleaf was [[Lead author|first or co-first author]] of [[Academic publishing#Scholarly paper|publications]] in ''[[Nature (journal)|Nature]]'', ''[[Science (journal)|Science]]'', and ''[[Cell (journal)|Cell]]'' resulting from his Ph.D. work on [[single-molecule experiment|single-molecule]] [[biophysics]], an achievement his advisor Block called a "perfect trifecta," or "quadfecta" if one were to include Greenleaf's additional co-first author publication in ''[[Physical Review Letters]]''.<ref>{{cite web|url=https://www.the-scientist.com/william-greenleaf-born-for-biophysics-35384|title=William Greenleaf: Born for Biophysics|author=Anna Azvolinsky|website=The Scientist|date=May 31, 2015|access-date=October 26, 2025}}</ref> Greenleaf received his Ph.D. in Applied Physics from Stanford in January 2008.<ref name="stanford" /> From 2008 to 2011, he worked on methods development for [[massively parallel sequencing|massively parallel sequencing-by-synthesis]] as a [[postdoctoral fellow]] in [[Xiaoliang Sunney Xie|X. Sunney Xie]]'s lab at Harvard University.<ref name="stanford" /> In 2011, Greenleaf returned to Stanford as an [[assistant professor]] in the Department of Genetics, establishing his own laboratory within the [[interdisciplinarity|interdisciplinary]] [[Beckman Center for Molecular and Genetic Medicine]].<ref name="stanford" /><ref name="cv" /> He was awarded [[academic tenure|tenure]] by Stanford in 2017.<ref name="stanford" />
+
+== Research ==
+During his Ph.D., Greenleaf worked on [[single-molecule experiment|single-molecule]] methods for measuring the [[force]]s involved in [[gene]] [[transcription (biology)|transcription]] and [[protein folding]]. With colleagues in the Block lab, he developed an [[optical tweezers|optical trapping]] system that enabled [[angstrom|ångström]]-[[Resolution (structural biology)|resolution]] measurement of [[RNA polymerase]] "stepping" along [[DNA]].<ref>{{cite journal|journal=Nature|title=Direct observation of base-pair stepping by RNA polymerase|url=https://www.nature.com/articles/nature04268 |vauthors=Abbondanzieri EA, Greenleaf WJ, Shaevitz JW, Landick R, Block SM|access-date=October 26, 2025|volume=438|date=November 13, 2005|pages=460–465}}</ref> Using this system, he developed a method for [[DNA sequencing]] based on the observation that, when the [[concentration]] of a given [[nucleotide base]] is [[limiting reagent|limiting]], RNA polymerase pauses for longer amounts of time at sequence positions corresponding to that base.<ref>{{cite journal|title=Single-molecule, motion-based DNA sequencing using RNA polymerase|vauthors=Greenleaf WJ, Block SM|url=https://www.science.org/doi/10.1126/science.1130105|access-date=October 26, 2025|journal=Science|date=August 11, 2006|volume=313|issue=5788|pages=801|doi=10.1126/science.1130105|url-access=subscription|pmc=1865524}}</ref>
+
+Greenleaf's lab at Stanford has focused on [[high-throughput sequencing]] and [[optical microscopy]] methods for studying [[gene regulation]] and [[chromatin structure]].<ref name="stanford" /> In 2013, Greenleaf's lab, in collaboration with the lab of [[Howard Y. Chang]], introduced [[ATAC-seq]], a method for assaying chromatin accessibility genome-wide.<ref name="atac" /><ref name="patent" /> ATAC-seq is based on the principle that, in an ''[[in vitro]]'' [[transposase|transposition]] reaction, [[euchromatin|active (open) chromatin]] is strongly enriched relative to [[heterochromatin|inactive chromatin]] for transposition by a hyperactive [[transposase]].<ref name="illumina" /><ref name="active motif" /> Additionally, the genomic positions of [[nucleosomes]] and bound [[transcription factors]] can be inferred from ATAC-seq based on localized "footprints" depleted for transposition relative to surrounding DNA.<ref name="illumina" /><ref name="active motif" /> Since 2019, a collaboration between Greenleaf's lab and the lab of [[Sergiu P. Pașca]] has used ATAC-seq to study chromatin dynamics in human [[cerebral organoid|brain organoids]].<ref>{{cite journal|title=Chromatin accessibility dynamics in a model of human forebrain development |vauthors=Trevino AE, Sinnott-Armstrong N, Andersen J, Yoon SJ, Huber N, Pritchard JK, Chang HY, Greenleaf WJ, Pașca SP|url=https://www.science.org/doi/10.1126/science.aay1645|access-date=October 26, 2025|journal=Science|date=January 24, 2020|volume=367|issue=6476|doi=10.1126/science.aay1645|pmc=7313757}}</ref>
+
+Other work in Greenleaf's lab has centered on single-molecule measurements of [[macromolecule|biomacromolecular]] interactions. The lab attracted attention for disassembling and [[repurposing]] [[Illumina, Inc.|Illumina]] [[DNA sequencers]],<ref>{{cite web|url=https://www.nature.com/articles/d41586-018-05769-8|title=The hackers teaching old DNA sequencers new tricks|date=July 24, 2018|author=Jeffrey M. Perkel|website=Nature|access-date=October 26, 2025}}</ref> an effort that enabled large-scale analyses of [[FLAG-tag|FLAG]] [[epitope]] binding by anti-FLAG [[antibodies]],<ref>{{cite journal|journal=Molecular Cell|title=Large-Scale, Quantitative Protein Assays on a High-Throughput DNA Sequencing Chip|date=March 7, 2019|vauthors=Layton CJ, McMahon PL, Greenleaf WJ|access-date=October 26, 2025|doi=10.1016/j.molcel.2019.02.019|url=https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30130-3|pmc=7001660}}</ref> target [[RNA]] binding by [[Argonaute]] proteins,<ref>{{cite journal|title=High-Throughput Analysis Reveals Rules for Target RNA Binding and Cleavage by AGO2|journal=Molecular Cell|url=https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30445-9|vauthors=Becker WJ, Ober-Reynolds B, Jouraleva K, Jolly SM, Zamore PD, Greenleaf WJ|access-date=October 26, 2025|volume=75|issue=4|doi=10.1016/j.molcel.2019.06.012|pages=741–755|date=August 22, 2019|pmc=6823844}}</ref> and target [[DNA]] binding by [[Cas9|CRISPR-associated]] proteins.<ref>{{cite journal|url=https://www.pnas.org/doi/full/10.1073/pnas.1700557114|title=High-throughput biochemical profiling reveals sequence determinants of dCas9 off-target binding and unbinding|vauthors=Boyle EA, Andreasson JL, Chircus LM, Sternberg SH, Wu MJ, Guegler CK, Doudna JA, Greenleaf WJ|access-date=October 26, 2025|doi=10.1073/pnas.1700557114|volume=114|issue=21|pages=5461–5466|journal=PNAS|pmc=5448226}}</ref> In 2024, Greenleaf's lab published a study in ''[[Nature (journal)|Nature]]'' describing the development of [[thermodynamic modelling|thermodynamic and kinetic models]] to quantitatively predict transcription factor binding [[microstate (statistical mechanics)|microstates]] and relate those microstates to [[gene expression]].<ref name="doughty">{{cite journal|title=Single-molecule states link transcription factor binding to gene expression|journal=Nature|url=https://www.nature.com/articles/s41586-024-08219-w|vauthors=Doughty BR, Hinks MM, Schaepe JM, Marinov GK, Thurm AR, Rios-Martinez C, Parks BE, Tan Y, Marklund E, Dubocanin D, Bintu L, Greenleaf WJ|issue=636|pages=745–754|doi=10.1038/s41586-024-08219-w|date=November 20, 2024|url-access=subscription}}</ref>
+
+== Biotechnology startups ==
+Greenleaf has held several roles with [[biotech]] [[startup company|startups]]. In 2013, Greenleaf co-founded Epinomics, a Stanford biotech [[corporate spin-off|spinout]], with Chang and two former Stanford students. Epinomics raised venture capital from [[Lightspeed Venture Partners|Lightspeed]] and [[Founders Fund]] and was acquired by [[10x Genomics]] in 2018.<ref>{{cite web|url=https://www.prnewswire.com/news-releases/10x-genomics-acquires-epinomics-300703456.html|title=10x Genomics Acquires Epinomics|access-date=October 26, 2025|website=PR Newswire}}</ref> In 2019, Greenleaf co-founded Protillion Biosciences, a spinout commercializing [[proteomics]] technology developed in his lab. Protillion announced its [[Series A round|Series A]] fundraise, led by [[ARCH Venture Partners]] and [[Illumina, Inc.|Illumina Ventures]], in December 2022.<ref>{{cite web|url=https://www.protillion.com/protillion-raises-18m-series-a|access-date=October 26, 2025|title=Protillion Biosciences Raises $18 Million Financing Led by ARCH Venture Partners and Illumina Ventures|date=December 19, 2022}}</ref> As of 2026, Greenleaf served as a scientific advisor to [[Guardant Health]] and [[Ultima Genomics]].<ref name="doughty" /><ref>{{cite web|url=https://finance.yahoo.com/news/guardant-health-presents-data-demonstrating-202000753.html|title=Guardant Health Presents Data Demonstrating Strong Performance of Shield Multi-Cancer Detection Test Across 10 Tumor Types|date=April 29, 2025|website=Yahoo Finance}}</ref>
+
+== Awards and recognition ==
+Greenleaf was named an [[ARCS Foundation|ARCS]] Scholar in 2006, a [[Damon Runyon Cancer Research Foundation|Damon Runyon]] Fellow in 2009, a Rita Allen Scholar in 2011, a [[Baxter International|Baxter Foundation]] Faculty Fellow in 2014, and the [[Edgar Bright Wilson|E. Bright Wilson]] Prize winner in 2017.<ref name="stanford" /><ref name="cv" /> He was a [[Chan Zuckerberg Initiative]] Fellow from 2017-2023 and has been an [[Arc Institute]] Innovation Investigator since 2023.<ref name="stanford" /><ref name="cv" /><ref>{{cite web|url=https://arcinstitute.org/programs/innovation-investigators|access-date=October 26, 2025|title=Arc Innovation Investigator & Ignite Awards|website=Arc Institute}}</ref>
+
+Greenleaf was one of eight recipients of the 2023 [[Director of the National Institutes of Health|NIH Director's]] [[National Institutes of Health Director's Pioneer Award|Pioneer Award]], presented annually to approximately ten U.S. scientists with "outstanding records of [[creativity]]" who "develop pioneering approaches to major challenges in biomedical, social science, and behavioral research."<ref name="stanford" /><ref name="cv" /><ref>{{cite web|url=https://commonfund.nih.gov/pioneer/fundedresearch|title=NIH Director's Pioneer Award|access-date=October 26, 2025|website=National Institutes of Health}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Google Scholar id|2YLKXzwAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Greenleaf, William}}
+[[Category:Living people]]
+[[Category:Stanford University School of Medicine faculty]]
+[[Category:American geneticists]]
+[[Category:21st-century American physicists]]
+[[Category:21st-century American biologists]]
+[[Category:People from Rochester, Minnesota]]
+[[Category:Harvard College alumni]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Stanford University School of Humanities and Sciences alumni]]
+[[Category:1979 births]]

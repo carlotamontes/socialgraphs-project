@@ -1,0 +1,84 @@
+{{Short description|Danish chemist (born 1944)}}
+{{Infobox scientist
+| name              = Poul Jørgensen
+| birth_date        = {{birth date and age|1944|3|2|df=y}}
+| birth_place       = [[Silkeborg]], Denmark
+| fields            = [[Chemistry]] ([[Theoretical chemistry]])
+| workplaces        = [[Aarhus University]]
+| doctoral_advisor  = [[Jan Linderberg]]
+}}
+
+'''Poul Jørgensen''' (born 2 March 1944) is professor of chemistry at the Department of Chemistry, [[Aarhus University]] (AU), Denmark and director of the qLEAP Center for Theoretical Chemistry at AU,<ref>{{cite web|url=http://qleap.au.dk/profile/|title=qLEAP Center for Theoretical Chemistry|publisher=au.dk|access-date=2014-02-28|archive-date=2017-07-10|archive-url=https://web.archive.org/web/20170710005614/http://qleap.au.dk/profile/|url-status=dead}}</ref> which was established in April 2012. 
+Jørgensen has made seminal contributions to the field of [[electronic structure]] theory. He is also one of the main authors of the [[DALTON]] program and a member of the [[International Academy of Quantum Molecular Science]].
+
+==Research==
+Jørgensen's list of peer-reviewed publications contains numerous self-contained articles which, in many cases, have become central sources within the field of electronic structure theory. His areas of research have been diverse and include work on: 
+
+{{div col|colwidth=35em}} 
+*multi-configurational self-consistent field ([[MCSCF]]) methods<ref>{{Cite journal|last1=Dalgaard|first1=E.|last2=Jørgensen|first2=P.|title=Optimization of orbitals for multiconfigurational reference states|journal=J. Chem. Phys.|volume=69|issue=8|page= 3833 |year=1978|doi=10.1063/1.437049|bibcode=1978JChPh..69.3833D}}</ref> 
+*Lagrangian techniques for molecular property calculations and analytic derivatives<ref>{{Cite book|last1=Helgaker|first1=T.|last2=Jørgensen|first2=P.|last3=Olsen|first3=J.|title=Molecular Electronic-Structure Theory|year=2000|publisher=Wiley & Sons Ltd.|location=West Sussex, England}}</ref> 
+*time-independent and time-dependent linear and non-linear response function theory<ref>{{Cite journal|last1=Olsen|first1=J.|last2=Jørgensen|first2=P.|title=Linear and non-linear response functions for an exact state and for a MCSCF state|journal=J. Chem. Phys.|volume=82|issue=7|page= 3235 |year=1985|doi=10.1063/1.448223|bibcode=1985JChPh..82.3235O|s2cid=54752543}}</ref><ref>{{Cite journal|last1=Christiansen|first1=O.|last2=Jørgensen|first2=P.|last3=Hättig|first3=C.|title=Response functions from Fourier component variational perturbation theory applied to a time-averaged quasienergy|journal=Int. J. Quantum Chem.|volume=68|page=1 |year=1998|doi=10.1002/(SICI)1097-461X(1998)68:1<1::AID-QUA1>3.0.CO;2-Z}}</ref> 
+*[[coupled cluster]] perturbation theory<ref>{{Cite journal|last1=Koch|first1=H.|last2=Christiansen|first2=O.|last3=Jørgensen|first3=P.|last4=Sanchez de Merás|first4=A. M.|last5=Helgaker|first5=T.|title=The CC3 model: An iterative coupled cluster approach including connected triples|journal=J. Chem. Phys.|volume=106|issue=5|page= 1808 |year=1997|doi=10.1063/1.473322|hdl=10550/13038|bibcode=1997JChPh.106.1808K|hdl-access=free}}</ref> 
+*calculation of magnetic molecular properties using gauge invariant methods<ref>{{Cite journal|last1=Helgaker|first1=T.|last2=Jørgensen|first2=P.|title=An electronic Hamiltonian for origin independent calculation of magnetic properties|journal=J. Chem. Phys.|volume=95|issue=4|page= 2595 |year=1991 |doi=10.1063/1.460912|bibcode=1991JChPh..95.2595H}}</ref> 
+*showing and explaining the divergence of [[Møller–Plesset perturbation theory]]<ref>{{Cite journal|last1=Olsen|first1=J.|last2=Christiansen|first2=O.|last3=Koch|first3=H.|last4=Jørgensen|first4=P.|title=Surprising cases of divergent behaviour in Møller–Plesset perturbation theory|journal=J. Chem. Phys.|volume=105|issue=12|page= 5082 |year=1996 |doi=10.1063/1.472352|bibcode=1996JChPh.105.5082O}}</ref> 
+*benchmarking the accuracy of electronic structure models<ref>{{Cite journal|last1=Helgaker|first1=T.|last2=Gauss|first2=J.|last3=Jørgensen|first3=P.|last4=Olsen|first4=J.|title=The prediction of molecular equilibrium structures by the standard electronic wave functions.|journal=J. Chem. Phys.|volume=106|issue=15|page= 6430 |year=1997|doi=10.1063/1.473634|bibcode=1997JChPh.106.6430H|s2cid=55789895|doi-access=free}}</ref> 
+*basis set extrapolation for accurate calculations of energies<ref>{{Cite journal|last1=Halkier|first1=A.|last2=Helgaker|first2=T.|last3=Jørgensen|first3=P.|last4=Klopper|first4=W.|last5=Koch|first5=H.|last6=Olsen|first6=J.|last7=Wilson|first7=A. K.|title=Basis-set convergence in correlated calculations on Ne, N2, and H2O|journal=Chem. Phys. Lett.|volume=286|issue=3–4|page=243 |year=1998 |doi=10.1016/S0009-2614(98)00111-0|bibcode=1998CPL...286..243H}}</ref> 
+*linear-scaling coupled cluster algorithms<ref>{{Cite journal|last1=Ziolkowski|first1=M.|last2=Jansík|first2=B.|last3=Kjærgaard|first3=T.|last4=Jørgensen|first4=P.|title=Linear scaling coupled cluster method with correlation energy based error control|journal=J. Chem. Phys.|volume=133|issue=1|page= 014107 |year=2010 |doi=10.1063/1.3456535|pmid=20614959|bibcode=2010JChPh.133a4107Z}}</ref> 
+*optimization algorithms for [[Hartree–Fock]] and [[Kohn–Sham]] theory<ref>{{Cite journal|last1=Høst|first1=S.|last2=Olsen|first2=J.|last3=Jansík|first3=B.|last4=Thøgersen|first4=L.|last5=Jørgensen|first5=P.|last6=Helgaker|first6=T.|title=The augmented Roothaan-Hall method for optimizing Hartree-Fock and Kohn-Sham density matrices.|journal=J. Chem. Phys.|volume=129|issue=12|page= 124106 |year=2008|doi=10.1063/1.2974099|pmid=19045005|bibcode=2008JChPh.129l4106H}}</ref> 
+*localization of [[Hartree–Fock]] orbitals.<ref>{{Cite journal|last1=Høyvik|first1=I.-M.|last2=Jansík|first2=B.|last3=Jørgensen|first3=P.|title=Trust Region Minimization of Orbital Localization Functions|journal=J. Chem. Theory Comput.|volume=8|issue=9|pages=3137–46|year=2012 |doi=10.1021/ct300473g|pmid=26605725}}</ref>
+{{div col end}}
+
+==Selected published works==
+Jørgensen has written more than 350 publications in peer-reviewed international journals, in addition to four books (3 co-authored and 1 edited),
+
+* {{cite book|title=Molecular Electronic-Structure Theory|last1=Helgaker|first1=Trygve|last2=Jørgensen|first2=Poul|last3=Olsen|first3=Jeppe|publisher=Wiley & Sons Ltd.|location=West Sussex, England|year=2000|isbn=0471967556}}
+* {{cite book|title=Geometrical Derivatives of Energy Surfaces and Molecular Properties|editor1-last=Jørgensen|editor1-first=Poul|editor2-last=Simons|editor2-first=Jack|publisher=D. Reidel Publishing Company|location= Dordrecht, Netherlands|series=NATO ASI series|year=1986|isbn=9027721769}}
+* {{cite book|title=Problems in Quantum Chemistry|last1=Jørgensen|first1=Poul|last2=Oddershede|first2=Jens|publisher=Addison Wesley|location=Massachusetts, USA|year=1982|isbn=0201054868}}
+* {{cite book|title=Second Quantization Based Methods in Quantum Chemistry|url=https://archive.org/details/secondquantizati0000jrge|url-access=registration|last1=Jørgensen|first1=Poul|last2=Simons|first2=Jack|publisher=Academic Press|location=New York, USA|year=1981|isbn=0124121969}}
+
+He had more than 19,000 citations and a h-index of 68 (according to ISI [[Web of Knowledge]] database).{{citation needed|date=February 2014}}
+
+He has also organized the "Sostrup Summer School - Quantum Chemistry and Molecular Properties" alongside [[Trygve Helgaker]] and Jeppe Olsen biannually since 1990.
+
+==Academic career==
+{{prose|section|date=March 2021}}
+Jørgensen's career has been outlined in a Special Issue of Advances in Quantum Chemistry<ref>{{Cite journal|last1=Oddershede|first1=J.|title=Poul Jørgensen and His Science|journal=Adv. Quantum Chem.|volume=50|page= xxi |year=2005|doi=10.1016/S0065-3276(05)50019-4|series=Advances in Quantum Chemistry|isbn=9780120348503|doi-access=free}}</ref>
+
+*1972–73 PostDoc with Professor Yngve Öhrn in Florida
+*1974 PostDoc with Professor Jack Simons in Utah 
+*1974–75 PostDoc with Professor V. McKoy in Pasadena
+*1976 Associate Professor of Chemistry, Aarhus University
+*2001 Professor of Chemistry, Aarhus University
+*2010 Advanced Research Professor of Chemistry, Aarhus University
+
+===Directorships===
+*2004–07: Director of "Centre for Theoretical Chemistry", funded by the Danish Natural Science Research Council
+*2006–11: Director of "The Lundbeck Foundation Centre for Theoretical Chemistry" funded by the Lundbeck Foundation
+*2012–17: Director of "The qLEAP Centre for Theoretical Chemistry" funded by the European Research Council
+
+==Awards==
+*Appointed "Knight of the [[Order of the Dannebrog]]" by the Queen of Denmark in 2010 for his outstanding contributions to science.{{citation needed|date=February 2014}}
+*Elected member of the International Academy of Quantum Molecular Science (2012).<ref>{{cite web |author=Lærke Bjerg Gade |url=http://chem.au.dk/en/currently/single/artikel/dr-phil-poul-joergensen-valgt-til-medlem-i-international-academy-of-quantum-molecular-science/ |title=Professor, Dr. Phil., Poul Jørgensen was elected member of the International Academy of Quantum Molecular Science |publisher=Institut for Kemi, Aarhus University |date=2012-07-19 |access-date=2014-03-01 |archive-date=2014-03-08 |archive-url=https://web.archive.org/web/20140308055928/http://chem.au.dk/en/currently/single/artikel/dr-phil-poul-joergensen-valgt-til-medlem-i-international-academy-of-quantum-molecular-science/ |url-status=dead }}</ref>
+*Awards for extraordinary scientific accomplishment by the International Conference of Computation Methods in Science and Engineering (ICCMSE) (2006).<ref name=pure>{{cite web|url=http://pure.au.dk/portal/en/persons/poul-joergensen(f8e8ca78-f7f6-460a-8e7a-0744a6373d76)/cv.html?id=68843980 |title=Poul Jørgensen |publisher=Department of Chemistry, [[Aarhus University]] |date=1944-03-02 |access-date=2014-03-01}}</ref>
+*Honoured by Thomson Scientific and the Danish Library Association as the most cited author in chemistry in Denmark during the period 1990–2004.<ref name=pure/>
+*Rigmor and Carl Holst-Knudsens Videnskabspris, Aarhus University (1986).<ref name=pure/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.iaqms.org/members/jorgensenpoul.php His International Academy of Quantum Molecular Science page]
+* {{Cite journal|last1=Oddershede|first1=J.|title=Poul Jørgensen and His Science|journal=Advances in Quantum Chemistry|volume=50|page=xxi-xxix|year=2005|doi=10.1016/S0065-3276(05)50019-4|isbn=9780120348503|doi-access=free}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jorgensen, Poul}}
+[[Category:Living people]]
+[[Category:1944 births]]
+[[Category:Danish chemists]]
+[[Category:Theoretical chemists]]
+[[Category:Knights of the Order of the Dannebrog]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:Academic staff of Aarhus University]]
+[[Category:Computational chemists]]
+[[Category:People from Silkeborg]]

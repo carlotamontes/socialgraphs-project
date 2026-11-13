@@ -1,0 +1,78 @@
+{{for|the American Navy officer|Claude C. Bloch}}
+
+{{Short description|French theoretical nuclear physicist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Claude Bloch<!-- defaults to article title when left blank -->
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date|1921|3|18}}<!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = Paris, France
+| death_date        = {{death date and age|1971|12|29|1921|3|18}}<!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = Theoretical physics
+| workplaces        = [[French Alternative Energies and Atomic Energy Commission|CEA]]
+| patrons           = 
+| education         = [[École polytechnique]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Bogoliubov_transformation#Single_bosonic_mode_example|Bloch–Messiah decomposition]]
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = [[Jacqueline Bloch]]
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Claude Bloch''' (18 March 1923 – 29 December 1971) was a French theoretical nuclear physicist that worked on [[quantum field theory]], [[nuclear physics]], and the [[many-body problem]]. With [[Albert Messiah]], he developed what is now known as the [[Bogoliubov_transformation#Single_bosonic_mode_example|Bloch–Messiah decomposition]] of [[quantum optics]] in 1962.<ref>{{Cite journal |last1=Bloch |first1=Claude |last2=Messiah |first2=Albert |date=1962 |title=The canonical form of an antisymmetric tensor and its application to the theory of superconductivity |url=https://linkinghub.elsevier.com/retrieve/pii/0029558262903772 |journal=Nuclear Physics |language=en |volume=39 |pages=95–106 |doi=10.1016/0029-5582(62)90377-2 |bibcode=1962NucPh..39...95B |url-access=subscription }}</ref><ref>{{Cite journal |last=Braunstein |first=Samuel L. |date=2005-05-31 |title=Squeezing as an irreducible resource |url=https://link.aps.org/doi/10.1103/PhysRevA.71.055801 |journal=Physical Review A |publisher=American Physical Society |volume=71 |issue=5 |article-number=055801 |doi=10.1103/PhysRevA.71.055801 |arxiv=quant-ph/9904002 |bibcode=2005PhRvA..71e5801B }}</ref><ref>{{Cite journal |last1=Houde |first1=Martin |last2=McCutcheon |first2=Will |last3=Quesada |first3=Nicolás |date=2024-10-01 |title=Matrix decompositions in quantum optics: Takagi/Autonne, Bloch–Messiah/Euler, Iwasawa, and Williamson |url=https://cdnsciencepub.com/doi/10.1139/cjp-2024-0070 |journal=Canadian Journal of Physics |language=en |volume=102 |issue=10 |pages=497–507 |doi=10.1139/cjp-2024-0070 |arxiv=2403.04596 |bibcode=2024CaJPh.102..497H |issn=0008-4204}}</ref>
+
+Bloch was born on 18 March 1923 in [[Paris]], [[France]]. He was admitted to the [[École Polytechnique]] in 1942 and graduated first in his class. He entered the [[Corps des Mines]] in 1946. He studied at the [[Bohr Institute]] in [[Copenhagen]] from 1948-1951 where he worked on the problems in the non-local theory of quantum fields. He worked at the [[California Institute of Technology]] in 1952-1953 where he worked on the statistical theory of the nucleus. Upon returning to France in 1953, he joined the [[Commissariat à l'Energie Atomique]] (CEA), where he stayed until his death in 1971. While at the CEA, he directed the theoretical physics department at Centre d'Études Nucléaires de Saclay, Gif-sur-Yvette.
+
+His daughter, [[Jacqueline Bloch]] is also a physicist.<ref>{{Cite web |title=Jacqueline Bloch, magician of light |url=https://news.cnrs.fr/articles/jacqueline-bloch-magician-of-light |access-date=2026-09-17 |website=CNRS News |language=en}}</ref>
+
+==References==
+<references />
+
+==External links==
+*Biography: {{cite journal | doi=10.1016/B978-0-444-10742-8.50006-2 | title=Claude Bloch – Scientific Works – Oeuvre Scientifique| journal=Claude Bloch | pages=IX–XVI| year=1975 | isbn=9780444107428 | last1=Bloch | first1=Claude | last2=Balian | first2=Roger | doi-access= }}
+{{Authority control}}
+
+{{DEFAULTSORT:Bloch, Claude}}
+[[Category:1923 births]]
+[[Category:1971 deaths]]
+[[Category:French nuclear physicists]]
+[[Category:Scientists from Paris]]
+[[Category:École polytechnique alumni]]
+[[Category:Corps des mines]]
+[[Category:University of Copenhagen alumni]]
+[[Category:20th-century French engineers]]
+[[Category:20th-century French physicists]]

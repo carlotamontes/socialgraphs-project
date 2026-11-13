@@ -1,0 +1,71 @@
+{{Short description|British computer scientist}}
+{{About||the British theoretical physicist|Michael Duff (physicist)|other people called Michael Duff|Michael Duff (disambiguation){{!}}Michael Duff}}
+{{Infobox scientist
+| image             = Michael J B Duff.jpg
+| image_size        = 
+| caption           = Duff in 2014
+| name              = Michael J. B. Duff
+| birth_name        = 
+| birth_date        = {{Birth date|df=yes|1933|1|17}}
+| death_date        = {{Death date and age|df=yes|2021|12|29|1933|2|17}}
+| residence         = 
+| citizenship       = British
+| field             = [[Physics]], [[computer science]]
+| education         = [[University College London]]
+| workplaces        = [[University College London]]
+| known_for         = 
+| awards            = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences        = 
+| influenced        = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+}}
+'''Michael J. B. Duff'''  FIEE FIAPR (17 January 1933 - 29 December 2021)<ref name="IAPR" /> was a British [[physicist]] and [[computer scientist]] known for his pioneering work in early [[computer vision]] systems and [[Digital image processing|image-processing]] hardware architectures. He was a Professor of Applied Physics at [[University College London]] (UCL), where he led research in image processing and developed early [[parallel computing]] systems for visual data analysis.
+
+== Career ==
+As a research student in the UCL Department of Physics from 1953 to 1956, Duff worked on designing a fast recycling high pressure [[cloud chamber]].<ref name=Fox>{{cite news |last1=Fox |first1=Bill |title=A History of the UCL Physics and Astronomy Department from 1826 - 1975 |url=https://www.ucl.ac.uk/mathematical-physical-sciences/physics-astronomy/about-department-physics-and-astronomy/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975 |access-date=9 June 2026 |work=UCL Mathematical and Physical Sciences}}</ref> He then spent two years at [[EMI]]'s infra-red group before returning to UCL as a research assistant in the Automatic Methods Group developing 'Digiscat' to measure the scattering of particle tracks in [[nuclear emulsion]]s, [[Bubble chamber|bubble]] and [[spark chamber]] photographs.<ref name=Fox/> He became a lecturer in 1962, working in computer vision and image processing,<ref name=Fox/> and later led the UCL Image Processing Group. distinguished British physicist and computer scientist. He was one of the early academic lecturers who travelled to Nigeria under the VISTA scheme around 1965 to teach at the University of Ibadan. <ref name="BMVA"> British Machine Vision Association (BMVA). "[https://www.bmva.org/fellowship/2000-duff.html Distinguished Fellows: Michael J. B. Duff.]"</ref>
+
+In 1967, he developed the UCPR1 image-processing computer, an early system designed for automated visual data processing.<ref name="BMVA"/> Between 1971 and 1975 he oversaw [[Science and Engineering Research Council|Science Research Council]]-funded research into parallel processing networks, collaborating with scientists at the Laboratorio di Cibernetica (the Institute of Cybernetics of the [[National Research Council (Italy)|Italian National Research Council]]) in [[Naples]], the [[University of Maryland]] in the US, and the [[University of Sao Paulo]] in Brazil.<ref name=Fox/> Further grants in 1976 and 1978 supported the development of multiprocessor vision systems known as the CLIP (Contextual Linked Image Processing) architectures, including CLIP0 through CLIP7.<ref name=Fox/> These systems explored parallel processing approaches to computer vision; CLIP4 was later produced commercially.<ref name="BMVA"/>
+
+Duff, appointed Professor of Applied Physics in 1985, received the [[British Computer Society]] Technical Award in the same year for contributions to computer vision systems.<ref name="BMVA"/> He was made a Fellow of the [[Institution of Electrical Engineers]] (FIEE) in 1981 and a Fellow of the [[International Association for Pattern Recognition]] (FIAPR) in 1994.
+
+In 2026, he was posthumously awarded the [https://iapr.org/awards/iapr-prizes-and-awards/distinguished-service-award/ IAPR Distinguished Service Award]. His wife Susan received one the same year for her management of the IAPR Secretariat and for her 10yrs work as newsletter layout editor.
+
+== Professional activities ==
+Duff contributed to the development of British and international [[pattern recognition]] communities. He was organising secretary of the national Pattern Recognition Group, formed in 1967, which met regularly at UCL.<ref name=Fox/> The group became the British Pattern Recognition Association in 1976 and in 1990 merged with the [[Alvey Programme|Alvey]] Vision Club to become the British Machine Vision Association (BMVA).<ref name="BMVA"/><ref name="Davies">{{cite news |last1=Davies |first1=Roy |title=Editorial: Promise, Progress, Prizes and People |url=https://bmva-archive.org.uk/bmva-news/2011-06.pdf |access-date=9 June 2026 |work=BMVA News |date=June 2011}}</ref> In 2000, he was named the first Distinguished Fellow of the BMVA.<ref name="BMVA"/>
+
+He served as Secretary of the International Association for Pattern Recognition (IAPR) for four years and was President of the IAPR from 1990 to 1992.<ref name="IAPR"> Cantoni, Virgionio (2022) International Association for Pattern Recognition (IAPR). "[https://iapr.org/docs/newsletter-2022-01.pdf In Memoriam: Michael J. B. Duff.]" IAPR Newsletter, January 2022.</ref> He was editor-in-chief of the IAPR newsletter from 1999 to 2002.<ref name=IAPR2018>{{cite news |title=List of IAPR Newsletter Editors |url=https://iapr.org/docs/newsletters/2018-Vol-40-No-3.pdf |access-date=9 June 2026 |work=IAPR Newsletter |date=July 2018}}</ref><ref name=History>{{cite web |title=History of the International Association for Pattern Recognition from its founding in 1973 to 2008 |url=https://iapr.org/docs/IAPR-History.pdf |website=IAPR |access-date=9 June 2026}}</ref> His wife Susan managed the IAPR secretariat from 1992 to 2004.<ref name=IAPR2018/><ref name=History/>
+
+== Publications ==
+Duff authored numerous works about image processing systems and related matters,<ref name="Researchgate">{{cite web |title=Michael J. B. Duff’s research while affiliated with University College London and other places |url=https://www.researchgate.net/scientific-contributions/Michael-J-B-Duff-5367986 |website=Researchgate |access-date=9 June 2026}}</ref> including a book:
+* {{Cite book|first1=Michael |last1=Duff|title=Computing Structures for Image Processing|date=1983|publisher=Academic Press}}
+Selected other works include:
+* M.J.B. Duff, B.M. Jones, L.J. Townsend, "[https://www.sciencedirect.com/science/article/pii/0029554X67902327 Parallel processing pattern recognition system UCPR1]", in ''Nuclear Instruments and Methods'', Volume 52, Issue 2, 1967, Pages 284-288, https://doi.org/10.1016/0029-554X(67)90232-7
+* M. J. B. Duff, "[https://www.computer.org/csdl/proceedings-article/afips/1978/50861055/12OmNBhpS9o Review of the CLIP image processing system]," in ''Managing Requirements Knowledge, International Workshop on'', ANAHEIM, 1978, pp. 1055, doi: 10.1109/AFIPS.1978.166.
+* Duff, M.J.B. (1981). "[https://link.springer.com/chapter/10.1007/978-1-4684-3893-2_1 The Elements of Digital Picture Processing]", in: Onoe, M., Preston, K., Rosenfeld, A. (eds) ''Real-Time Parallel Computing''. Springer, Boston, MA. https://doi.org/10.1007/978-1-4684-3893-2_1
+* Wood, A. M., Duff, M. J. B. (Ed.), & Levialdi, S. (Ed.) (1981). "The Interaction between Hardware, Software, and Algorithms", in ''Languages and Architectures for Image Processing'' (pp. 1-11). Academic Press.
+* Taylor, CJ., Kittler, J. (Ed.), & Duff, MJB. (Ed.) (1985). "Serial architectures for image processing". In ''Image Processing System Architecture'' (pp. 39-48). Research Studies Press.
+* M J B Duff, "[https://academic.oup.com/itnow/article-abstract/27/4/26/8139207 The Clip parallel processor]", ''The Computer Bulletin'', Volume 27, Issue 4, December 1985, Pages 26–27, https://doi.org/10.1093/combul/27.4.26
+* Duff, M.J.B. (2001). "[https://link.springer.com/chapter/10.1007/3-540-44942-6_35 Thirty Years of Parallel Image Processing]", in: Palma, J.M.L.M., Dongarra, J., Hernández, V. (eds) ''Vector and Parallel Processing — VECPAR 2000. VECPAR 2000. Lecture Notes in Computer Science'', vol 1981. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-44942-6_35
+
+== Personal life ==
+Married Susan (nee Jones) in 1963. Daughter Charlotte and son Robert. Four grandchildren - Harry, Sam, Rachel and Sophie.
+
+== References ==
+{{reflist}}
+
+==External links ==
+* [https://charlotteduff.co.uk/michael-j-b-duff/ Professor Michael J. B. Duff] (page on CharlotteDuff.co.uk)
+
+[[Category:British computer scientists]]
+{{DEFAULTSORT:Duff, Michael J. B.}}
+[[Category:1933 births]]
+[[Category:2021 deaths]]
+[[Category:Physicists of University College London]]
+[[Category:British physicists]]
+[[Category:Alumni of University College London]]

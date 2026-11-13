@@ -1,0 +1,73 @@
+{{short description|American physicist and computer scientist (1927-2020)}}
+{{Infobox scientist
+|name             = Arianna W. Rosenbluth
+|image            = Arianna W Rosenbluth.jpg
+|caption          = Rosenbluth in 2013
+|birth_name       = Arianna Wright
+|birth_date       = {{birth date |1927|09|15}}
+|death_date       = {{death date and age |2020|12|28|1927|09|15}}
+|birth_place      = [[Houston]], [[Texas]], U.S.
+|death_place      = [[Pasadena, California]], U.S.
+|field            = [[Physics]], [[computer science]]
+|education        = [[Lamar High School (Houston)|Lamar High School, Houston]]
+|alma_mater       = [[Rice University|Rice Institute]]<br>[[Radcliffe College]]<br>[[Harvard University]]
+|doctoral_advisor = [[John Hasbrouck Van Vleck]]
+|workplaces       = [[Stanford University]]<br>[[Los Alamos National Laboratory]]
+|known_for        = [[Metropolis algorithm]]
+|spouse           = {{marriage|[[Marshall Rosenbluth]]|1951|1978|end=div}}
+|footnotes        = 
+}}
+
+'''Arianna Wright Rosenbluth''' (September 15, 1927 – December 28, 2020) was an American [[physicist]] who contributed to the development of the [[Metropolis–Hastings algorithm]]. She wrote the first full implementation of the [[Markov chain Monte Carlo]] method.
+
+==Early life and education==
+Arianna Rosenbluth was born in [[Houston, Texas]], on September 15, 1927. She attended university at the [[Rice University|Rice Institute]], now Rice University, where she received a [[Bachelor of Science]] in 1946.<ref name="magnets">{{cite book |last1=Iaizzi |first1=Adam |title=Magnetic Field Effects in Low-Dimensional Quantum Magnets |series=Springer Theses |date=28 November 2018 |publisher=Springer Cham |isbn=978-3-030-01803-0 |page=10 |doi=10.1007/978-3-030-01803-0 |bibcode=2018mfel.book.....I |edition=1 |url=https://doi.org/10.1007/978-3-030-01803-0 |access-date=18 March 2023}}</ref> During her college days, she fenced competitively and won both the Texas women's championship in foil as well as the Houston men's championship.<ref>Holmes, Ann, "Whirling Arcs of Steel!" The Houston Chronicle, July 21, 1946.</ref> She qualified for the Olympics, but was unable to compete because the [[1944 Summer Olympics]] were cancelled due to World War II and she could not afford to travel to the 1948 games in London.<ref>{{Cite news|last=Hafner|first=Katie|date=2021-02-09|title=Arianna Rosenbluth Dies at 93; Pioneering Figure in Data Science|language=en-US|work=The New York Times|url=https://www.nytimes.com/2021/02/09/science/arianna-wright-dead.html|access-date=2021-02-10|issn=0362-4331}}</ref>
+
+Rosenbluth obtained her [[Master of Arts]] from [[Radcliffe College]] in 1947<ref>{{cite web|title=Harvard Physics PhD Theses, 1873–1953|url=https://www.physics.harvard.edu/uploads/files/thesesPDF/PhD1873-1953.pdf|access-date=2017-06-27|archive-url=https://web.archive.org/web/20160913192218/https://www.physics.harvard.edu/uploads/files/thesesPDF/PhD1873-1953.pdf|archive-date=2016-09-13|url-status=dead}}</ref> before beginning her [[PhD]] in [[physics]] at [[Harvard University]] under the supervision of [[Nobel Laureate]] [[John Hasbrouck Van Vleck]].<ref name="magnets" /> At the time Van Vleck also supervised the future [[Nobel Laureate]] [[Philip Warren Anderson|P.W. Anderson]] and the philosopher of science [[Thomas Kuhn]].<ref>{{cite web|title=Philip W. Anderson – Session I|url=https://www.aip.org/history-programs/niels-bohr-library/oral-histories/23362-1|website=American Institute of Physics Oral History Interviews|date=9 December 2014|publisher=Oral History Interviews}}</ref>  She completed her thesis, entitled Some Aspects of Paramagnetic Relaxation, in 1949 at the age of 22.<ref name="ut_archive">{{cite news|title=University of Texas Marshall Nicholas Rosenbluth February 5, 1927–September 28, 2003|url=http://server16.websitehostserver.net/~patandme/UTPhysicsHistoryDW/MarshallNRosenbluth.html|archive-url=https://web.archive.org/web/20170812142140/http://server16.websitehostserver.net/~patandme/UTPhysicsHistoryDW/MarshallNRosenbluth.html|accessdate=27 June 2017|archive-date=2017-08-12}}</ref> 
+
+==Career==
+After completing her thesis Rosenbluth won an [[United States Atomic Energy Commission|Atomic Energy Commission]] postdoctoral fellowship to [[Stanford University]] which she attended before moving to a staff position at [[Los Alamos National Laboratory]] where her research focused on atomic bomb development and statistical mechanics.
+
+Along with [[Marshall Rosenbluth]] she verified analytic calculations for the [[Ivy Mike]] test using the [[SEAC (computer)|SEAC]] at the National Bureau of Standards.<ref name="Rosenbluth2003">{{cite journal |title=Genesis of the Monte Carlo Algorithm for Statistical Mechanics|author=M.N. Rosenbluth |journal=[[AIP Conference Proceedings]] | volume=690 | pages=22–30 | year=2003 | doi=10.1063/1.1632112
+|bibcode=2003AIPC..690...22R }}</ref><ref name="marshall-oral-history">{{cite web |title=Marshall Rosenbluth - Session I |url=https://www.aip.org/history-programs/niels-bohr-library/oral-histories/28636-1 |website=www.aip.org |access-date=31 December 2020 |language=en |date=27 March 2015}}</ref>  Once the [[MANIAC I]] had been completed at Los Alamos she collaborated with [[Nicholas Metropolis]], [[Marshall N. Rosenbluth]], [[Augusta H. Teller]], and [[Edward Teller]] to develop the first [[Markov chain Monte Carlo]] algorithm, in particular the prototypical [[Metropolis–Hastings algorithm]], in the seminal paper [[Equation of State Calculations by Fast Computing Machines]].<ref name=metropolis>{{cite journal
+ |first1=N. |last1=Metropolis |authorlink1=Nicholas Metropolis
+ |first2=A.W. |last2=Rosenbluth |authorlink2= Arianna W. Rosenbluth
+ |first3=M.N. |last3=Rosenbluth |authorlink3=Marshall N. Rosenbluth
+ |first4=A.H. |last4=Teller | authorlink4=Augusta H. Teller
+ |first5=E. |last5=Teller |authorlink5=Edward Teller
+ |title=Equation of State Calculations by Fast Computing Machines
+ |journal=[[Journal of Chemical Physics]]
+ |volume=21 |issue=6 |pages=1087&ndash;1092 |year=1953
+ |doi=10.1063/1.1699114
+ |bibcode = 1953JChPh..21.1087M |title-link=Equation of State Calculations by Fast Computing Machines |osti=4390578 |s2cid=1046577 }}</ref>  In close collaboration with her husband Marshall, she developed the implementation of the algorithm for the MANIAC I hardware, making her the first person to ever implement the Markov chain Monte Carlo method.<ref name="Rosenbluth2003" /><ref name="marshall-oral-history"/><ref name="Gubernatis 2005 p=057303">{{cite journal | last=Gubernatis | first=J. E. | title=Marshall Rosenbluth and the Metropolis algorithm | journal=Physics of Plasmas | publisher=AIP Publishing | volume=12 | issue=5 | year=2005 | issn=1070-664X | doi=10.1063/1.1887186 | article-number=057303| bibcode=2005PhPl...12e7303G | url=https://zenodo.org/record/1231899 }}</ref>
+
+Over the next few years Rosenbluth and Marshall applied the method to novel studies of statistical mechanical systems, including three-dimensional hard spheres and two-dimensional Lennard-Jones molecules and two and three-dimensional molecular chains.<ref>{{cite journal|last1=Rosenbluth|first1=Marshall|last2=Rosenbluth|first2=Arianna|title=Further Results on Monte Carlo Equations of State|url=https://archive.org/details/sim_journal-of-chemical-physics_1954-05_22_5/page/880|journal=The Journal of Chemical Physics|volume=22|issue=5|pages=881–884|year=1954|doi=10.1063/1.1740207|bibcode=1954JChPh..22..881R}}</ref><ref>{{cite journal|last1=Rosenbluth|first1=Marshall|last2=Rosenbluth|first2=Arianna|title=Monte Carlo Calculation of the Average Extension of Molecular Chains|journal=The Journal of Chemical Physics|volume=23|issue=2|pages=356–359|year=1955|doi=10.1063/1.1741967|bibcode=1955JChPh..23..356R|doi-access=free}}</ref>
+
+After the birth of her first child, Rosenbluth left research to focus on raising her family.
+
+==Personal life==
+While at Stanford University she met [[Marshall Rosenbluth]] and the two married on January 26, 1951.<ref name="ut_archive" />  They had four children before divorcing in 1978. In 1956, she moved from Los Alamos to [[San Diego, California]], where Marshall began to work at General Atomic.<ref>{{Cite web |last=Laboratory |first=Los Alamos National |title=Innovative physicist built foundation for modern computer science {{!}} LANL |url=https://www.lanl.gov/media/news/0319-arianna-rosenbluth |access-date=2025-01-25 |website=Los Alamos National Laboratory |language=en}}</ref> Eventually, she moved to [[Princeton, New Jersey]], before finally settling in the greater [[Los Angeles, California|Los Angeles]] area. She kept her married name after the divorce. 
+
+Rosenbluth died from complications of [[COVID-19]] in the greater Los Angeles area on December 28, 2020, during the [[COVID-19 pandemic in California]]. She was 93.<ref>{{cite web|url=https://www.nytimes.com/2021/02/09/science/arianna-wright-dead.html|title=Arianna Rosenbluth Dies at 93; Pioneering Figure in Data Science|first=Katie|last=Hafner|date=February 9, 2021|work=[[The New York Times]]|access-date=February 13, 2021}}</ref> 
+
+She is survived by four children and many grandchildren and great-grand children. The family encourages donations to the [[ASPCA]], which was said to be one of Rosenbluth's favourite charities.<ref>{{cite web|url=https://imstat.org/2021/02/23/obituary-arianna-rosenbluth-1927-2020/ |title=Obituary: Arianna Rosenbluth 1927–2020 |last=Betancourt |first=Michael |date=February 23, 2021 |access-date=October 22, 2026}}</ref>
+ 
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rosenbluth, Arianna W}}
+[[Category:1927 births]]
+[[Category:2020 deaths]]
+[[Category:American nuclear physicists]]
+[[Category:Monte Carlo methodologists]]
+[[Category:American computational physicists]]
+[[Category:American women computer scientists]]
+[[Category:American computer scientists]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Radcliffe College alumni]]
+[[Category:Rice University alumni]]
+[[Category:American women nuclear physicists]]
+[[Category:Deaths from the COVID-19 pandemic in California]]

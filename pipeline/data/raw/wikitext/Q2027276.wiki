@@ -1,0 +1,136 @@
+<!--{{under construction}}!-->{{Infobox scientist
+| name              = Yurii Shirokov
+| birth_date        = June 21, 1921
+| death_date        = July 5, 1980
+| fields            = [[Nuclear Physics]]<br />[[Quantum Mechanics]]
+| education         = [[Moscow State University]] (1948)
+}}
+
+'''Yurii Shirokov''', (Широков, Юрий Михайлович 21.6.1921—5.7.1980) was a writer, physicist, and professor. He graduated from [[Moscow State University]] (Moscow) in 1948. He worked in the same university, then in the [[Steklov Mathematical Institute]] (Moscow). He wrote more than 100 scientific papers
+<ref name="bib">
+Широков Юрий Михайлович at "Biography" (in Russian),
+http://www.biografija.ru/show_bio.aspx?id=137184
+</ref>
+and several monographs, among which the textbook ''Nuclear Physics'' is particularly relevant.
+.<ref name="Nuclear">{{cite book
+|author=Yu.M.Shirokov
+|author2=N.P.Yudin
+ |title= Nuclear Physics
+|isbn= 978-0-8285-2451-3
+|year=1983
+|publisher= (Imported Pubn)
+}}</ref>
+
+==Algebra of generalized functions==
+
+Yu.Shirokov had constructed the Algebra of [[Generalized function]]s.<ref name="Algebra">
+{{cite journal
+|author=Yu.M.Shirokov
+|title = Algebra of one-dimensional generalized functions
+|journal=[[Theoretical and Mathematical Physics]]
+|year=1979
+|volume=39
+|issue=3
+|pages=471–477
+|bibcode = 1979TMP....39..471S |doi = 10.1007/BF01017992 |s2cid = 189852974
+}}</ref><ref name="3d">
+{{cite journal
+|author=Yu.M.Shirokov
+|title=Algebra of three-dimensional generalized functions
+|journal=[[Theoretical and Mathematical Physics]]
+|publisher=Springer New York
+|issn= 1573-9333 
+|volume=40
+|issue=3
+|year=1979
+|doi=10.1007/BF01032064
+|pages=790–794
+|bibcode = 1979TMP....40..790S |s2cid=120384030
+}}</ref> Then it was applied to various systems
+.<ref name="goriaga">{{cite journal
+|author=O.G.Goryaga
+|author2=Yu. M. Shirokov	
+ |title=Energy levels of an oscillator with singular concentrated potential
+|journal=[[Theoretical and Mathematical Physics]]
+|year=1981
+|volume=46
+|pages=321–324
+|issue=3
+|bibcode=1981TMP....46..210G	
+ |doi=10.1007/BF01032729	
+ |s2cid=123477107	
+ }}</ref><ref name="tala">{{cite journal
+|author=S.V.Talalov
+|author2=Yu.M.Shirokov
+ |title=Interaction of a charged particle with an external electromagnetic field in the presence of a strongly singular potential
+|journal=[[Theoretical and Mathematical Physics]]
+|publisher=Springer New York
+|issn= 1573-9333 
+|volume=46
+|issue=3
+|year=1981
+|doi=10.1007/BF01032728
+|pages=207–210
+|bibcode = 1981TMP....46..207T |s2cid=122195076
+ }}</ref><ref name="tolok">{{cite journal
+|author=G. K. Tolokonnikov
+|title=Differential rings used in Shirokov algebras
+|journal=[[Theoretical and Mathematical Physics]]
+|volume=53
+|issue= 1
+|year=1982
+|doi=10.1007/BF01014789
+|pages=952–954
+|bibcode = 1982TMP....53..952T |s2cid=123078052
+}}</ref>
+
+==Classical and quantum mechanics==
+Shirokov was, perhaps, not the first to mention that [[quantum mechanics]] has many classical limits. The [[Planck constant]] <math>~\hbar~</math> appears in many relations, and there are many options to keep some of parameters (or even to vary them all) as <math>~\hbar \rightarrow 0~</math>. The most known limiting cases of quantum mechanics are [[classical waves]] and [[Newtonian mechanics]]. Shirokov has systematised the construction of classical limits of [[quantum mechanics]], see
+.<ref name="hbar">{{cite journal
+|author=Yu.M.Shirokov
+|title=Perturbation theory with respect to Planck's constant
+|journal=[[Theoretical and Mathematical Physics]]
+|publisher	=Springer New York
+|issn= 1573-9333 
+|volume=31
+|issue=3
+|year=1977
+|doi=10.1007/BF01030565
+|pages=488–492
+|bibcode = 1977TMP....31..488S |s2cid=122765235
+}}</ref>
+
+== Development of Shirokov's ideas ==
+The most important ideas about the quantum mechanics and the [[theoretical physics]] in general formulated by 
+Shirokov are not yet developed.<ref name="obituary">{{cite journal
+|doi=10.1070/PU1981v024n06ABEH004852
+|author=N N Bogolyubov
+|author2=S N Vernov, V S Vladimirov, [[Anatoly Logunov|A A Logunov]], M K Polivanov, V E Troitskiĭ, D V Shirokov
+|title=Yuriĭ Mikhaĭlovich Shirokov (Obituary)
+|journal=[[Sov. Phys. Uspekhi]]
+|year=1981
+|volume=24
+|issue=6
+|pages=526–527
+|url=http://www.turpion.org/php/paper.phtml?journal_id=pu&paper_id=4852
+|bibcode=1981SvPhU..24..526B
+|url-access=subscription
+|archive-date=2008-02-13
+|access-date=2008-01-04
+|archive-url=https://web.archive.org/web/20080213214908/http://www.turpion.org/php/paper.phtml?journal_id=pu&paper_id=4852
+|url-status=dead
+}}</ref> In particular, the field theory in terms of wave packets (i.e., without divergent terms and without divergent series) is not yet constructed.
+
+==References==
+<references/>
+
+{{wikisource|Algebra of generalized functions (Shirokov)}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Shirokov, Yurii}}
+[[Category:1921 births]]
+[[Category:1980 deaths]]
+[[Category:Moscow State University alumni]]
+[[Category:Academic staff of Moscow State University]]
+[[Category:Soviet physicists]]

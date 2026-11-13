@@ -1,0 +1,108 @@
+{{Short description|American mathematician (born 1959)}}
+{{Use American English|date=October 2025}}
+{{Use mdy dates|date=October 2025}}
+{{Infobox scientist
+| image             = Steven Strogatz in 2025.jpg
+| name              = Steven H. Strogatz
+| caption           = Steven H. Strogatz in 2025
+| birth_date        = {{birth date and age|1959|8|13}}
+| birth_place       = [[Torrington, Connecticut]], U.S.
+| field             = [[Mathematics]]<br />[[Complex system]]s<br />[[Network science|Networks]]<br />[[Applied mathematics]]<br />[[Chaos theory]]<ref name="googlescholar">{{GoogleScholar|FxyRWlcAAAAJ}}</ref>
+| workplaces        = [[Massachusetts Institute of Technology]]<br/ >[[Cornell University]]<br />[[University of Cambridge]]<br />[[Princeton University]]<br />[[Harvard University]]<br />[[Boston University]]
+| education         = [[Princeton University]] ([[Bachelor of Arts|BA]])<br />[[Trinity College, Cambridge]]<br />[[Harvard University]] ([[PhD]])
+| doctoral_advisor  = [[Richard Ernest Kronauer]]<br />[[Charles Czeisler]]<ref name="mathgene">{{MathGenealogy|id=25479}}</ref>
+| doctoral_students = [[Duncan J. Watts]]<br>[[Lauren M. Childs]]<ref name="mathgene"/>
+| known_for         = [[Watts–Strogatz model]]
+| thesis_title      = The Mathematical Structure of the Human Sleep-Wake Cycle
+| thesis_url        = https://www.proquest.com/docview/303479865
+| thesis_year       = 1986
+| awards            = [[Member of the National Academy of Sciences]]<br />Fellow of the [[American Academy of Arts and Sciences]]<br />[[Lewis Thomas Prize]]
+| footnotes         = 
+| spouse            = Carole Schiffman
+| children          = Leah Strogatz, Joanna Strogatz
+| website           = {{URL|http://www.stevenstrogatz.com}}<br />{{URL|https://math.cornell.edu/steven-strogatz}}
+}}
+'''Steven Henry Strogatz''' ({{IPAc-en|ˈ|s|t|r|oʊ|ɡ|æ|t|s}}; born August 13, 1959) is an American [[mathematician]] and author, and the Susan and Barton Winokur distinguished professor for the public understanding of science and mathematics at [[Cornell University]].<ref>[http://www.stevenstrogatz.com/ Strogatz personal web page]</ref><ref>[https://math.cornell.edu/steven-strogatz Strogatz at Cornell]</ref>
+He is known for his work on [[nonlinear]] systems, including contributions to the study of synchronization in [[dynamical system]]s, and his research in a variety of areas of applied mathematics, including [[mathematical biology]] and [[complex network]] theory. With [[Duncan Watts]], he developed the [[Watts–Strogatz model]] to explain how nodes in a [[small-world network]] have in average a [[six degrees of separation|small number of degrees of separation]].
+
+Strogatz is the co-host of ''[[Quanta Magazine]]'''s ''The Joy of Why'' podcast.<ref>{{cite web|title=The Joy of Why |url=https://www.quantamagazine.org/tag/the-joy-of-why/ |website=Quanta Magazine |access-date=4 January 2023}}</ref> He previously hosted ''The Joy of x'' podcast.<ref>{{Cite web|title=Quanta Magazine|url=https://www.quantamagazine.org/tag/the-joy-of-x|access-date=2021-03-27|website=www.quantamagazine.org}}</ref><ref>{{Cite web|title=Why I'm Hosting The Joy of x Podcast|url=https://www.quantamagazine.org/steven-strogatz-talks-science-and-math-on-the-joy-of-x-podcast-20200115/|access-date=2021-03-27|website=Quanta Magazine|date=15 January 2020|language=en}}</ref> His published books include ''Nonlinear Dynamics and Chaos'', ''Sync'', ''The Joy of x'', ''The Calculus of Friendship'', and ''Infinite Powers''.
+
+==Education==
+Strogatz attended high school at [[Loomis Chaffee]] from 1972 to 1976. He then attended [[Princeton University]], graduating ''[[summa cum laude]]'' with a [[Bachelor of Arts|B.A.]] in mathematics. Strogatz completed his senior thesis, titled "The Mathematics of Supercoiled DNA: An Essay in Geometric Biology", under the supervision of [[Frederick J. Almgren Jr.|Frederick J. Almgren, Jr]].<ref name=":0">{{Cite book|last=Strogatz|first=Steven|url=https://catalog.princeton.edu/catalog/3706734|title=The mathematics of supercoiled DNA : an essay in geometric biology|date=1980|publisher=Princeton, NJ: Department of Mathematics|language=en}}</ref> Strogatz then studied as a [[Marshall Scholar]] at [[Trinity College, Cambridge]], from 1980 to 1982. He received a [[PhD|Ph.D]]. in applied mathematics from [[Harvard University]] in 1986 for his research on the dynamics of the human sleep-wake cycle. He completed his postdoc under [[Nancy Kopell]] at [[Boston University]].<ref name="strogatzphd">{{cite journal | last=Strogatz | first=Steven H. | title=Open Peer Commentary: The Mathematical Structure of the Human Sleep- Wake Cycle (Lecture Notes in Biomathematics, Vol. 69) by Steven H. Strogatz (1986), Springer-Verlag, Berlin | journal=Journal of Biological Rhythms | volume=2 | issue=4 | date=1987 | issn=0748-7304 | doi=10.1177/074873048700200405 |pmid=2979668 |s2cid=85106859 | doi-access=free | pages=317–329 | url=https://journals.sagepub.com/doi/pdf/10.1177/074873048700200405 | access-date=2025-11-15}}</ref>
+
+==Career==
+After spending three years as a [[National Science Foundation]] postdoctoral fellow at Harvard and [[Boston University]], Strogatz joined the faculty of the department of mathematics at [[MIT]] in 1989. His research on dynamical systems was recognized with a [[Presidential Young Investigator Award]] from the National Science Foundation in 1990. In 1994 he moved to [[Cornell]] where he is a professor of mathematics. From 2007 to 2023 he was the Jacob Gould Schurman professor of applied mathematics,<ref>[https://news.cornell.edu/stories/2007/07/four-faculty-members-named-schurman-professors Cornell news article about Schurman Professors]</ref> and in 2023 he was named the inaugural holder of the Susan and Barton Winokur distinguished professorship for the public understanding of science and mathematics.<ref>[https://news.cornell.edu/stories/2023/05/5m-gift-establishes-outreach-professorship Cornell news article about Winokur Professorship]</ref> From 2004 to 2010, he was also on the external faculty of the [[Santa Fe Institute]].
+
+==Research==
+Early in his career, Strogatz worked on a variety of problems in mathematical biology, including the geometry of supercoiled DNA,<ref>{{Cite journal |doi = 10.1073/pnas.78.3.1461|pmid = 6940168|pmc = 319150|title = Structure of chromatin and the linking number of DNA|journal = Proceedings of the National Academy of Sciences|volume = 78|issue = 3|pages = 1461–1465|year = 1981|last1 = Worcel|first1 = A.|last2 = Strogatz|first2 = S.|last3 = Riley|first3 = D.|bibcode = 1981PNAS...78.1461W|doi-access = free}}</ref> the topology of three-dimensional chemical waves,<ref>{{Cite news | url=https://www.nytimes.com/1985/01/08/science/strange-scroll-like-wave-is-linked-to-biological-processes.html |title = Strange, Scroll-Like Wave is Linked to Biological Processes|newspaper = The New York Times|date = 1985-01-08|last1 = Sullivan|first1 = Walter}}</ref> and the collective behavior of biological oscillators, such as swarms of synchronously flashing fireflies.<ref>{{Cite news | url=https://www.nytimes.com/1991/08/13/science/a-mystery-of-nature-mangroves-full-of-fireflies-blinking-in-unison.html | title=A Mystery of Nature: Mangroves Full of Fireflies Blinking in Unison| newspaper=The New York Times| date=1991-08-13| last1=Sullivan| first1=Walter}}</ref> In the 1990s, his work focused on nonlinear dynamics and chaos applied to physics, engineering, and biology. Several of these projects dealt with coupled oscillators, such as lasers, superconducting Josephson junctions, and crickets that chirp in unison.<ref>{{cite journal |last1=Nadis |first1=Steve |title=All together now |journal=Nature |date=February 2003 |volume=421 |issue=6925 |pages=780–782 |doi=10.1038/421780a |pmid=12594475 |s2cid=2249987 |doi-access=free }}</ref> His more recent work examines complex systems and their consequences in everyday life, such as the role of crowd [[synchronization]] in the wobbling of London's [[Millennium Bridge, London|Millennium Bridge]] on its opening day,<ref>{{Cite news | url=https://www.nytimes.com/2005/11/08/science/08find.html | title=All Together Now: Synchrony Explains Swaying| newspaper=The New York Times| date=2005-11-08| last1=Chang| first1=Kenneth}}</ref> and the dynamics of structural balance in social systems.<ref>[https://www.youtube.com/watch?v=P60sWUxluyk 2011 Simons Lectures - Steven Strogatz, Social networks that balance themselves]</ref><ref>{{cite journal |last1=Marvel |first1=Seth A. |last2=Kleinberg |first2=Jon |last3=Kleinberg |first3=Robert D. |last4=Strogatz |first4=Steven H. |title=Continuous-time model of structural balance |journal=Proceedings of the National Academy of Sciences of the United States of America |date=1 February 2011 |volume=108 |issue=5 |pages=1771–1776 |doi=10.1073/pnas.1013213108 |pmid=21199953 |pmc=3033300 |doi-access=free }}</ref>
+
+Perhaps his best-known research contribution is his 1998 [[Nature (journal)|Nature]] paper with [[Duncan Watts]], entitled "Collective dynamics of [[small-world network]]s".<ref>{{Cite journal | last1 = Watts | first1 = D. J. | author-link1 = Duncan J. Watts | last2 = Strogatz | first2 = S. H. | author-link2 = Steven Strogatz | title = Collective dynamics of 'small-world' networks | journal = Nature | volume = 393 | issue = 6684 | pages = 440–442 | doi = 10.1038/30918 | year = 1998 | url = https://static.squarespace.com/static/5436e695e4b07f1e91b30155/t/54452561e4b08d9eb2170909/1413817697054/collective-dynamics-of-small-world-networks.pdf | pmid = 9623998 | bibcode = 1998Natur.393..440W | s2cid = 4429113 }}</ref> This paper is widely regarded as a foundational contribution to the interdisciplinary field of [[complex networks]], whose applications range from [[graph theory]] and [[statistical physics]] to [[sociology]], [[business]], [[epidemiology]], and [[neuroscience]]. As one measure of its importance, it was the most highly cited article about networks between 1998 and 2008, and the sixth most highly cited paper in all of physics.<ref>{{Cite web |url=http://sciencewatch.com/inter/aut/2008/08-dec/08decWattsET/ |title=ScienceWatch December 2008 |access-date=2008-12-02 |archive-date=2012-04-14 |archive-url=https://web.archive.org/web/20120414155201/http://sciencewatch.com/inter/aut/2008/08-dec/08decWattsET/ |url-status=dead }}</ref> It has now been cited more than 60,000 times, according to Google Scholar; as of 17 October 2014, it was the 63rd most highly cited research article of all time.<ref>{{Cite journal|last1=Van Noorden|first1=Richard|last2=Maher|first2=Brendan|last3=Nuzzo|first3=Regina|author3-link= Regina Nuzzo |date=2014-10-30|title=The top 100 papers|journal=Nature News|language=en|volume=514|issue=7524|pages=550–3|doi=10.1038/514550a|pmid=25355343|bibcode=2014Natur.514..550V|doi-access=free}}</ref><ref>{{Cite web|url=http://www.nature.com/polopoly_fs/7.21246!/file/GoogleScholartop100articlesonly.xlsx|title=Excel spreadsheet of Google Scholar's 100 top-cited research articles. Extracted on 17 October 2014}}{{unreliable source?|date=July 2020}}</ref>
+
+==Writing and outreach==
+Strogatz's writing for the general public includes four books and frequent newspaper articles. His book ''Sync''<ref name="sync">{{Cite book
+ | last = Strogatz
+ | first = Steven
+ | year = 2003
+ | title = Sync : The Emerging Science of Spontaneous Order
+ | publisher = Hyperion
+ | isbn = 978-0-7868-6844-5
+ | oclc = 50511177
+ | url = https://archive.org/details/syncemergingscie00stro
+ }}</ref> was chosen as the Best Book of 2003 by [[Discover Magazine]].<ref>[http://discovermagazine.com/2003/dec/reviews-best-of-2003/article_view?b_start:int=1 Discover's Best Books 2003]</ref> His 2009 book ''The Calculus of Friendship''<ref name="friendship">{{Cite book
+ | last = Strogatz
+ | first = Steven H
+ | year = 2009
+ | title = The Calculus of Friendship : What a Teacher and a Student Learned About Life While Corresponding About Math
+ | location = Princeton
+ | publisher = Princeton University Press
+ | isbn = 978-0-691-13493-2
+ | oclc = 276274618
+ | url = https://archive.org/details/calculusoffriend00stro
+ }}</ref> was called "a genuine tearjerker"<ref>[http://www.bookslut.com/nonfiction/2009_09_015101.php Bookslut book review for ''The Calculus of Friendship'']</ref> and "part biography, part autobiography and part off-the-beaten-path guide to calculus."<ref>[http://www.americanscientist.org/bookshelf/pub/a-growing-affinity American Scientist book review for ''The Calculus of Friendship'']</ref> His 2012 book, ''The Joy of x'',<ref name="joy">{{Cite book
+ | last = Strogatz
+ | first = Steven H
+ | year = 2012
+ | title = The Joy of x : A Guided Tour of Math, from One to Infinity
+ | publisher = Eamon Dolan/Houghton Mifflin Harcourt
+ | isbn = 978-0547517650
+}}</ref> won the 2014 [[Euler Book Prize]].<ref>[http://www.maa.org/programs/maa-awards/writing-awards/euler-book-prize Euler Book Prize], [[Mathematical Association of America]], retrieved 2015-08-03.</ref> Strogatz's most recent book, ''Infinite Powers'',<ref>{{Cite web|url=https://www.hmhbooks.com/shop/books/Infinite-Powers/9781328879981|title=Infinite Powers: How Calculus Reveals the Secrets of the Universe {{!}} HMH Books|website=www.hmhbooks.com|language=en|access-date=2019-04-30}}</ref> was shortlisted for the Royal Society Insight Investment Science Book Prize<ref>{{cite web |title=Shortlist for Royal Society Science Book Prize 2019 |url=https://royalsociety.org/news/2019/08/insight-investment-book-prize-shortlist/}}</ref> and was a New York Times Best Seller.<ref>{{cite news |title=New York Times Best Sellers, Science, May 2019 |url=https://www.nytimes.com/books/best-sellers/2019/05/01/science/|newspaper=The New York Times}}</ref> Published in 2019, it "evocatively conveys how calculus illuminates the patterns of the Universe, large and small," according to a review in ''Nature''.<ref>{{Cite journal|last=Ananthaswamy|first=Anil|date=2019-04-02|title=From counting with stones to artificial intelligence: the story of calculus|journal=Nature|language=EN|volume=568|issue=7750|pages=32|doi=10.1038/d41586-019-01038-4|bibcode=2019Natur.568...32A|doi-access=free}}</ref>
+
+Strogatz has written three series of ''[[New York Times]]'' columns on mathematics. His 2010 series, "The Elements of Math"<ref>{{Cite web |url=https://archive.nytimes.com/opinionator.blogs.nytimes.com/category/steven-strogatz/index.html |title=The Elements of Math - NYTimes.com |date=9 May 2010 }}</ref> was described by Harvard Business Review as "a model for how mathematics needs to be popularized" and as a "must read for entrepreneurs and executives who grasp that mathematics is now the ''[[lingua franca]]'' of serious business analysis."<ref>[http://blogs.hbr.org/schrage/2010/04/sorry-paul-too-bad-tom.html Harvard Business Review blog by Michael Schrage]</ref> Strogatz's second New York Times series, "Me, Myself and Math", appeared in the fall of 2012.<ref>{{Cite web |url=http://opinionator.blogs.nytimes.com/category/me-myself-and-math/ |title=Me, Myself and Math - Opinionator - NYTimes.com |access-date=2015-02-15 |archive-url=https://web.archive.org/web/20150215232608/http://opinionator.blogs.nytimes.com/category/me-myself-and-math/ |archive-date=2015-02-15 |url-status=dead }}</ref> 
+His most recent ''New York Times'' series, "Math, Revealed", appeared in June 2025.<ref>{{Cite web |url=https://www.nytimes.com/series/math-revealed |title=Math, Revealed - NYTimes.com |work=The New York Times }}</ref> 
+
+==Awards==
+Strogatz is a member of the [[National Academy of Sciences]]<ref>{{cite web |title=Members Elected in 2024 to National Academy of Sciences |url=https://www.nasonline.org/news-and-multimedia/news/2024-nas-election.html |archive-url=https://web.archive.org/web/20240430193331/https://www.nasonline.org/news-and-multimedia/news/2024-nas-election.html |url-status=dead |archive-date=April 30, 2024 |access-date=3 May 2024}}</ref> and a fellow of the [[Society for Industrial and Applied Mathematics]],<ref>[http://fellows.siam.org/index.php?sort=year&value=2009#Steven_H._Strogatz SIAM Fellows Class of 2009]</ref> the [[American Academy of Arts and Sciences]],<ref>{{Cite web |url=http://www.amacad.org/news/alphalist2012.pdf |title=AAAS Fellows elected 2012 |access-date=2012-04-18 |archive-date=2012-05-22 |archive-url=https://web.archive.org/web/20120522142114/http://www.amacad.org/news/alphalist2012.pdf |url-status=dead }}</ref> the [[American Physical Society]],<ref>[http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2014&unit_id=GSNP&institution=Cornell+University 2014 Fellows of American Physical Society]</ref> and the [[American Mathematical Society]].<ref>{{citation|url=http://www.ams.org/profession/ams-fellows/new-fellows|title=2016 Class of the Fellows of the AMS|publisher=[[American Mathematical Society]]|access-date=2015-11-16}}.</ref>
+
+Strogatz has been lauded for his ability as a teacher and communicator. In 1991 he was honored with the E. M. Baker Memorial Award for Excellence in Undergraduate Teaching, MIT's only institute-wide teaching award selected and awarded solely by students. He has also won several teaching awards at Cornell, including Cornell's highest undergraduate teaching prize, the Stephen H. Weiss Presidential Fellowship (2016).<ref>[https://news.cornell.edu/stories/2017/02/new-weiss-fellows-and-teaching-award-recipients-honored Weiss Presidential Fellowship]</ref>  At the national level, Strogatz received the [[Joint Policy Board for Mathematics|JPBM]] Communications Award in 2007.<ref>[http://www.ams.org/notices/200705/comm-jpbm-web.pdf JPBM award announcement]</ref> Presented annually, this award recognizes outstanding achievement in communicating about mathematics to nonmathematicians. The JPBM represents the [[American Mathematical Society]], the [[American Statistical Association]], the [[Mathematical Association of America]], and the [[Society for Industrial and Applied Mathematics]]. In 2013 he received the AAAS Public Engagement with Science Award<ref>[http://www.eurekalert.org/pub_releases/2014-02/aaft-ssr020514.php AAAS Public Engagement with Science Award]</ref> for "his exceptional commitment to and passion for conveying the beauty and importance of mathematics to the general public."
+
+Strogatz was selected to be the 2009 Rouse Ball lecturer at Cambridge<ref>{{Cite web |url=http://www.dpmms.cam.ac.uk/seminars/Specials/RouseBall2009.html |title=Rouse Ball Lecture |access-date=2012-05-05 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304024742/https://www.dpmms.cam.ac.uk/seminars/Specials/RouseBall2009.html |url-status=dead }}</ref> and an MIT Mathematics 2011 Simons lecturer.<ref>{{cite web |url=http://www-math.mit.edu/news/simons/ |title=MIT Mathematics &#124; Simons |access-date=2014-08-14 |url-status=dead |archive-url=https://web.archive.org/web/20140203022306/http://www-math.mit.edu/news/simons/ |archive-date=2014-02-03 }}</ref>
+
+In 2014 he was awarded the Euler Book Prize by [[The Mathematical Association of America]] for "The Joy of x".<ref>[http://www.newswise.com/articles/euler-book-prize-goes-to-strogatz-s-joy-of-x Euler Book Prize]</ref> The award citation<ref>[http://www.maa.org/sites/default/files/pdf/awards/jmm14PB.pdf Citation for Euler Book Prize, pp. 22-23]</ref> describes the book as "a masterpiece of expository writing" and remarks that it is "directed to the millions of readers who claim they never really understood what the mathematics they studied was all about, for whom math was a series of techniques to be mastered for no apparent reason." Along with [[Ian Stewart (mathematician)|Ian Stewart]], Strogatz was awarded the 2015 [[Lewis Thomas Prize]] for Writing about Science.<ref>[http://newswire.rockefeller.edu/2015/03/13/lewis-thomas-prize-to-honor-mathematicians-steven-strogatz-and-ian-stewart/ Lewis Thomas Prize] {{webarchive|url=https://web.archive.org/web/20150320064409/http://newswire.rockefeller.edu/2015/03/13/lewis-thomas-prize-to-honor-mathematicians-steven-strogatz-and-ian-stewart/ |date=2015-03-20 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.edge.org/3rd_culture/bios/strogatz.html Profile] ''[[Edge – the third culture|Edge]]''
+{{Authority control}}
+
+{{DEFAULTSORT:Strogatz, Steven}}
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:Complex systems scientists]]
+[[Category:Chaos theorists]]
+[[Category:Cornell University faculty]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Princeton University alumni]]
+[[Category:Harvard John A. Paulson School of Engineering and Applied Sciences alumni]]
+[[Category:Marshall Scholars]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Mathematics popularizers]]
+[[Category:Fellows of the Society for Industrial and Applied Mathematics]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Loomis Chaffee School alumni]]
+[[Category:Dynamical systems theorists]]
+[[Category:American network scientists]]

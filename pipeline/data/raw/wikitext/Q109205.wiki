@@ -1,0 +1,85 @@
+{{Short description|German chemist (1949–2019)}}
+{{Infobox scientist
+| name              = Walter Thiel
+| image             = WalterThiel.jpg
+| image_size        =
+| caption           = 
+| birth_name        = 
+| birth_date        = {{birth date|1949|3|7|mf=y}}<ref name="JPCACV"/>
+| birth_place       = [[Treysa]], [[Hesse]], [[Germany]]<ref name="JPCACV"/>
+| death_date        = {{death date and age|2019|8|23|1949|3|7}}
+| death_place       = 
+| citizenship       = 
+| ethnicity         = 
+| fields            = [[Theoretical chemistry]]<ref name="KoFoTheory"/>
+| workplaces        = [[University of Zurich]]<ref name="JPCACV"/><br />[[Max Planck Institute for Coal Research]]<ref name="JPCACV"/>
+| education         = [[University of Marburg]]<ref name="JPCACV"/>
+| doctoral_advisor  = Armin Schweig<ref name="KoFoTheory"/>
+| thesis_title      = 
+| thesis_year       = 1973<ref name="JPCACV"/>
+| thesis_url        = 
+| academic_advisors = [[Michael J. S. Dewar]]<ref name="KoFoTheory"/>
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Semi-empirical quantum chemistry methods]]<br />[[MNDO]]
+| influences        = 
+| influenced        = 
+| spouse            = 
+| awards            = [[Schrödinger Medal]] (2002)<ref name="KoFoTheory"/><br />[[Liebig Medal]] (2012)<ref name="KoFoTheory"/>
+| signature         = 
+| children          =  
+}}
+'''Walter Thiel''' (7 March 1949 in [[Treysa]], [[Hesse]] – 23 August 2019)<ref name="JPCACV"/> was a [[Germans|German]] theoretical [[chemist]].<ref name="KoFoTheory"/> He was the president of the [[World Association of Theoretical and Computational Chemists]] (WATOC) from 2011.<ref name="WATOChistory"/>
+
+== Academic career ==
+Thiel studied [[chemistry]] at the [[University of Marburg]] (West Germany) from 1966 to 1971, where he subsequently obtained his doctorate with [[Armin Schweig]] in 1973.<ref name="JPCACV"/><ref name="KoFoTheory"/> After a post-doctoral stint at the [[University of Texas at Austin]] with [[Michael J. S. Dewar|M. J. S. Dewar]] (1973–1975),<ref name="JPCACV"/><ref name="KoFoTheory"/> he obtained his [[habilitation]] from the [[University of Marburg]] in 1981.<ref name="JPCACV"/><ref name="KoFoTheory"/> He was appointed Professor of Theoretical Chemistry at the [[University of Wuppertal]] (West Germany) in 1983 and Professor of Chemistry at the [[University of Zurich]] ([[Switzerland]]) in 1992.<ref name="JPCACV"/><ref name="KoFoTheory"/> In 1987 he was a visiting professor at the [[University of California at Berkeley]].<ref name="JPCACV"/><ref name="KoFoTheory"/> Since 1999, he was a director at the [[Max Planck Institute for Coal Research]] in [[Mülheim an der Ruhr]] (Germany) and an honorary professor at the neighboring [[University of Düsseldorf]] (Germany) since 2001.<ref name="JPCACV"/><ref name="KoFoTheory"/>
+
+== Fellowships and awards ==
+*1975 Liebig Fellowship of the Fonds der Chemischen Industrie<ref name="KoFoTheory"/>
+*1982 Heisenberg Fellowship of the [[Deutsche Forschungsgemeinschaft]]<ref name="KoFoTheory"/>
+*1988 Award of the [[Alfried Krupp von Bohlen und Halbach]] Foundation<ref name="KoFoTheory"/>
+*2002 Schrödinger medal of the [[World Association of Theoretically Oriented Chemists]] (WATOC)<ref name="KoFoTheory"/>
+*2007 Member of the [[Deutsche Akademie der Naturforscher Leopoldina]]<ref name="KoFoTheory"/>
+*2007 Member of the [[International Academy of Quantum Molecular Science]]<ref name="KoFoTheory"/>
+
+== Research ==
+Thiel's research interests included the broad areas of [[theoretical chemistry]], in particular [[quantum chemistry]], and [[computational chemistry]], with a focus on large molecules, [[spectroscopy]], and [[catalysis]].<ref name="KoFoTheory"/> His group was involved in the development of new theoretical methods, in particular for the treatment of large molecules, and applied theoretical calculations to concrete chemical problems, usually in close collaboration with experimentalists.<ref name="KoFoTheory"/>
+
+Selected methodological contributions
+*Development and implementation of [[Semiempirical quantum chemistry method|semi-empirical quantum-chemical methods]]: Development of [[MNDO]]-type approaches (orthogonalization-corrected OM''x'' methods, MNDO/d for transition metals); computation of [[NMR]]-chemical shifts; semi-empirical [[multireference configuration interaction]] (MRCI) methods.<ref name="KoFoTheory"/> Semi-empirical method developments are implemented in the MNDO program.<ref name="KoFoTheory"/>
+*Development of combined [[quantum mechanics]]/[[molecular mechanics]] ([[QM/MM]]) methods: Coupling approaches, boundary method, QM/MM structure optimization. Developments in this area are implemented within the [[ChemShell]]<ref name="chemshell"/> package.<ref name="KoFoTheory"/>
+
+Selected application areas
+*Highly accurate correlated QM calculations for smaller molecules; theoretical rovibrational spectroscopy.<ref name="KoFoTheory"/>
+*[[transition metal|Transition-metal]] chemistry, [[homogeneous catalysis]] (typically applying [[density-functional theory]] methods).<ref name="KoFoTheory"/>
+*Mechanisms of enzymatic reactions (using QM/MM methods).<ref name="KoFoTheory"/>
+
+== References ==
+<references>
+<ref name="KoFoTheory">{{cite web |url=http://www.kofo.mpg.de/de/forschung/theoretische-chemie |title=Theoretische Chemie |date=2015 |website=Max-Planck-Institut für Kohlenforschung |access-date=22 March 2015 |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402095326/http://www.kofo.mpg.de/de/forschung/theoretische-chemie |url-status=dead }}</ref>
+<ref name="chemshell">{{cite web |url=http://www.chemshell.org/ |title=ChemShell |date=2015 |access-date=22 March 2015}}</ref>
+<ref name="JPCACV">{{cite journal |author=<!--Staff writer(s); no by-line.--> |date=2009 |title=Curriculum Vitae of Walter Thiel |journal=J. Phys. Chem. A |volume=113  |issue=43 |pages=11466 |doi=10.1021/jp9086909 |bibcode=2009JPCA..11311466.|doi-access= }}</ref>
+<ref name="WATOChistory">{{cite web |url=http://watoc.net/watoc.history.html|title=WATOC - History|date=2015 |website=World Association of Theoretical and Computational Chemists 	 |access-date=22 March 2015}}</ref>
+</references>
+
+== External links ==
+*[http://www.kofo.mpg.de/de/forschung/theoretische-chemie Homepage of the Thiel group at the MPI for Coal Research] {{Webarchive|url=https://web.archive.org/web/20150402095326/http://www.kofo.mpg.de/de/forschung/theoretische-chemie |date=2015-04-02 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thiel, Walter}}
+[[Category:1949 births]]
+[[Category:2019 deaths]]
+[[Category:People from Schwalmstadt]]
+[[Category:21st-century German chemists]]
+[[Category:Theoretical chemists]]
+[[Category:Marburg University alumni]]
+[[Category:University of Texas at Austin College of Natural Sciences alumni]]
+[[Category:Academic staff of the University of Wuppertal]]
+[[Category:Academic staff of the University of Zurich]]
+[[Category:Max Planck Society people]]
+[[Category:Schrödinger Medal recipients]]
+[[Category:German computational chemists]]
+[[Category:20th-century German chemists]]
+[[Category:Presidents of the World Association of Theoretical and Computational Chemists]]
+[[Category:Max Planck Institute directors]]

@@ -1,0 +1,39 @@
+{{Short description|German Physicist}}
+{{BLP sources|date=February 2024}}
+
+'''Hans-Christian Hege''' (German: [hans kʁɪsti̯aːn ˈheːɡə]) is a German physicist and computer scientist who has done fundamental work in the field of [[data visualization]].
+
+==Career==
+Hans-Christian Hege studied from 1977 to 1984 as a scholarship holder of the [[Studienstiftung|German Academic Scholarship Foundation]], majoring in physics and minoring in mathematics and philosophy at the [[Free University of Berlin]].<ref name="CV-archived">{{cite web|title=CV in tabular form|url=http://www.zib.de/hege/?page_id=14|website=Hans-Christian Hege - CV in tabular form|access-date=17 December 2025|archive-url=https://web.archive.org/web/20190413142916/http://www.zib.de/hege/?page_id=14|archive-date=13 April 2019|url-status=dead}}</ref> From 1984 to 1989 he was a research assistant at the local Institute for Theory of Elementary Particles and worked in the field of quantum field theory, in particular on the computer simulation of lattice gauge theories.<ref name="CV-archived" /> In 1986, together with the computer scientists Rolf Herken, Wolfgang Krüger and Robert Hödicke and three investors, he founded the software company [[Mental Images]], where he worked as a senior scientist in software development until 1989.<ref>{{cite web |title=Hans-Christian Hege: Visualization of Unsharp Data – Roads to Sharp Formulations|url=https://www.tuwien.at/tu-wien/aktuelles/veranstaltungskalender/news/idx-2093 |website=TU Wien}}</ref>
+
+From 1989 to 2020, Hege worked as a scientist at the [[Zuse Institute Berlin]] (ZIB), initially in the fields of [[high-performance computing]] and [[computational physics]].<ref name="CV-archived" /> In 1991, he founded a department for parallel computing and visualization (today: Visual and Data-Centric Computing), which he developed into an internationally visible research center for visual data analysis.<ref name="profile">{{cite web |title=Hege, Hans-Christian |url=https://www.zib.de/members/hege |website=Zuse Institute Berlin (ZIB) |language=en}}</ref> An important focus was the development of the visualization program [[Amira (software)|Amira]]. The Amira software and its sister product [[Avizo (software)|Avizo]] are now distributed worldwide by [[Thermo Fisher Scientific|Thermo Fisher Scientific Inc.]]<ref>{{cite web |title=Amira-Avizo Software Use Case Gallery |url=https://www.thermofisher.com/de/de/home/electron-microscopy/products/software-em-3d-vis/amira-software.html |website= Thermo Fisher Scientific Inc.}}</ref><ref>{{cite web |title=Avizo Software for Materials Science Image Analysis |url=https://www.thermofisher.com/de/de/home/electron-microscopy/products/software-em-3d-vis/avizo-software.html |website=Thermo Fisher Scientific Inc.}}</ref> and are used in many different research fields.<ref>{{cite web |title=Amira-Avizo Software Use Case Gallery |url=https://cases.amira-avizo.com |website=Amira-Avizo Software}}</ref>
+
+Hege is a co-founder of other companies with business areas in the field of computer-based visualization (1999: Indeed - Visual Concepts GmbH, now part of Visage Imaging GmbH; 2005: Lenné3D GmbH).<ref name="CV-archived" />
+
+He is a founding member of the [[German Research Foundation|DFG]] research cluster MATHEON,<ref>{{cite web |title=Hon.-Prof. Hans-Christian Hege |url=https://www.matheon.de/user/userDetails?userID=115 |website=MATHEON Research Center}}</ref><ref>{{cite web |title=Visualization of Features in Uncertain Data |url=https://www.zib.de/projects/visualization-features-uncertain-data |website=ZIB |language=en}}</ref> the ECMath research network of the [[Einstein Foundation Berlin]]<ref>{{cite web |title=innovationArea |url=https://www.ecmath.de/research/innovationArea?innovationAreaID=1 |website=ECMath}}</ref> and the Cluster of Excellence MATH+.<ref>{{cite web |title=Emerging Field 2 – "Digital Shapes" – |url=https://mathplus.de/research-2/emerging-fields/ef2-digital-shapes/ |website=MATH+}}</ref>
+
+He regularly gave lectures on scientific visualization to doctoral students in computer science at the [[Pompeu Fabra University]] in Barcelona as well as to students of digital film design at the German Film School / Academy of Digital Media Production (where he was appointed honorary professor in 2003), the Babelsberg Film School and the Media Design University in Berlin.<ref name="CV-archived" /> He is also co-editor of the book series ''Mathematics and Visualization'' and the film series VideoMath<ref>{{cite web |title=VideoMath Festival at ICM '98 {{!}} Mathematical Association of America |url=https://maa.org/press/maa-reviews/videomath-festival-at-icm-98 |website=Maa.org}}</ref><ref>{{cite web |title=Book Reviews A. Bultheel |url=https://people.cs.kuleuven.be/~adhemar.bultheel/WWW/BMS/r297.php |website=KU Leuven}}</ref> published by the scientific publisher [[Springer Publishing|Springer]] as well as several monographs on the subject of scientific visualization.
+
+In 2016 he was appointed a Fellow of [[Eurographics]].<ref>{{cite web |title=New Fellows 2016 |url=https://www.eg.org/wp/fellows/new-fellows-2016/ |website=Eurographics}}</ref> Hege received several Best Paper Awards and honorary mentions, as well as awards for outstanding visualizations and computer animations.<ref name="Awards-archived">{{cite web |title=Awards and Distinctions|url=http://www.zib.de/hege/?page_id=19 |website=Hans-Christian Hege - Awards and Distinctions |access-date=19 December 2025 |archive-url=https://web.archive.org/web/20190413142931/http://www.zib.de/hege/?page_id=19 |archive-date=13 April 2019 |url-status=dead}}</ref> Furthermore, he received the 2024 Lifetime Achievement Award of the IEEE Visualization and Graphics Technical Community for a lifetime of fundamental technical contributions to visualization and visualization software.<ref>{{cite web |title=Hans-Christian Hege receives IEEE VGTC Lifetime Achievement Award 2024 |url=https://www.zib.de/news/hans-christian-hege-receives-ieee-vgtc-lifetime-achievement-award-2024 |website=ZIB}}</ref><ref>{{cite web| title=2024 VGTC Visualization Lifetime Achievement Award| url=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10766347 | website=IEEE Computer Society | publisher=IEEE Computer Society, IEEE VGTC | access-date=19 December 2025| format=PDF}}</ref>
+
+==Edited books==
+*(with Konrad Polthier) Visualization and Mathematics – Experiments, Simulations and Environments, Springer, 1997
+*(with Konrad Polthier) Mathematical Visualization – Algorithms, Applications and Numerics, Springer, 1998
+*(with Konrad Polthier) Visualization and Mathematics III, Springer, 2003
+*(with Raghu Machiraju) Volume Graphics 2007, AK Peters, Wellesley, MA, USA, 2007
+*(with David Laidlaw, Renato Pajarola and Oliver Staadt) Volume and Point-Based Graphics 2008, Eurographics Association, Aire-la-Ville, Switzerland, 2008
+*(with Konrad Polthier and Gerik Scheuermann) Topology-Based Methods in Visualization II, Springer, 2009
+*(with Lars Linsen, Hans Hagen and Bernd Hamann) Visualization in Medicine and Life Sciences II, Springer, 2012
+*(with Lars Linsen and Bernd Hamann) Visualization in Medicine and Life Sciences III, Springer, 2016
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+== External links ==
+*{{GoogleScholar|KutvIS8AAAAJ}}
+
+[[Category:German computer scientists]]
+[[Category:21st-century German physicists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

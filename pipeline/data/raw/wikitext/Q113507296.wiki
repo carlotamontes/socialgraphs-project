@@ -1,0 +1,53 @@
+{{Short description|German physicist (born 1927)}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox person|
+| name               = Vladimir Antonovich Kovalevsky
+| other_names        = Wladimir Kovalevski
+| image              = 
+| title              = Prof. Dr.
+| native_name        = Владимир Антонович Ковалевский
+| native_name_lang   = ua
+| birth_date         = {{birth date and age|1927|9|5|df=y}}
+| birth_place        = [[Kharkiv]], [[Ukrainian SSR]]
+| death_date         = 
+| death_place        = 
+| occupation         = physicist, mathematician, computer scientist
+| spouse             = 
+| children           = 
+| awards             = Recipient Gold medal Allunion Exhibition of National Economy, Moscow, 1964. 
+State Prize, Central Committee of Communist Party of Ukraine, Kiev, 1978.
+| honours            = Listed as a noteworthy mathematician by Marquis Who's Who.
+| website            = http://www.kovalevsky.de
+}}
+
+'''Vladimir Antonovich Kovalevsky''' (born 5 September 1927) is a Ukrainian-born German physicist. His research interests include [[digital geometry]], [[digital topology]], [[computer vision]], [[Digital image processing|image processing]] and [[pattern recognition]].
+
+== Scientific activity ==
+Vladimir A. Kovalevsky received his diploma in physics from [[National University of Kharkiv|Kharkiv University]] (Ukraine) in 1950,<ref>{{cite web |last= |date= |year= |title=About the author |url=http://www.kovalevsky.de/FlyerTab4.htm |url-status= |archive-url= |archive-date= |access-date=2022-08-10 |publisher= |pages= |language=en |format= |quote= |periodical=}}</ref> his first doctoral degree in technical sciences from the Central Institute of [[Metrology]] ([[Saint Petersburg|Leningrad]]) in 1957 and his second doctoral degree in computer science from the Institute of [[Cybernetics in the Soviet Union|Cybernetics]] of the [[Academy of Sciences of the Ukrainian SSR|Academy of Sciences of Ukraine]] ([[Kyiv|Kiev]]) in 1968. From 1961 to 1983 he served as Head of Department of  Pattern Recognition at that Institute. In 1983 he moved to the [[East Germany|GDR]]. He worked as teaching professor or as scientific collaborator on universities in Germany<ref>{{Cite web |title=SRH Hochschule Berlin |url=https://www.researchgate.net/profile/Vladimir-Kovalevsky-2 |website=www.researchgate.net}}</ref> (Zentralinstitut für Kybernetik at the [[Akademie der Wissenschaften der DDR|ADW]], [[Berliner Hochschule für Technik|Berlin University of Applied Sciences and Technology]], [[University of Rostock]],<ref>{{Cite web |title=Scispace - V. Kovalevsky |url=https://typeset.io/authors/vladimir-kovalevsky-4jdkn8a18p |website=Typeset}}</ref><ref>{{Cite web |title=University of Rostock |url=https://cpr.uni-rostock.de/resolve/id/cpr_person_00001514 |access-date=2022-09-15 |language=de}}</ref> [[TU Dresden|Technische Universität Dresden]]<ref>{{Cite web |title=TU Dresden, lectures 2007 |url=https://www.inf.tu-dresden.de/index.php?node_id=1812&ln=en |website=TU Dresden |access-date=28 August 2022 |archive-date=1 July 2007 |archive-url=https://web.archive.org/web/20070701142432/http://www.inf.tu-dresden.de/index.php?node_id=1812&ln=en |url-status=dead }}</ref>), USA ([[University of Pennsylvania]], [[Drexel University]]), Mexico ([[National Autonomous University of Mexico]]), New Zealand ([[University of Auckland]], [[Manukau Institute of Technology]]) and Korea ([[Jeonbuk National University|Chonbuk National University]]). 
+
+Over a period of nearly 40 years, Vladimir A. Kovalevsky made many fundamental and pioneering contributions to nearly every area of the above-mentioned fields. The research on [[digital image analysis]] (specifically on [[digital geometry]] and [[digital topology]]) is an important insertion to image processing and image analysis. He developed the statistically founded correlation method of recognizing optical patterns and the department “Pattern Recognition” at the Institute of Cybernetics, Kiew, has constructed in 1968 the optical character reading machine “Chars” implementing this method. The machine could read typed pages with high security.<ref>{{Cite web |last=Schlesinger |first=Michail |date=2007 |title=Ключевые моменты становления киевской школы распознавания изображений |url=http://www.irtc.org.ua/image/pages/mis_about_kyiv_school |access-date=2022-09-15 |website=www.irtc.org.ua |language=ru |archive-date=15 April 2022 |archive-url=https://web.archive.org/web/20220415103516/http://irtc.org.ua/image/pages/mis_about_kyiv_school |url-status=dead }}</ref><ref>{{citation |title=Image Pattern Recognition |date=1980 |publisher=Springer Verlag |language= |isbn=0-387-90440-9 |surname1=Vladimir Kovalevsky}}</ref>
+
+He suggested 1989 using topological knowledge, especially those of abstract cell complexes, in image processing. This has improved the definitions and the processing of boundaries and edges in two- and three-dimensional digital images. Vladimir A. Kovalevsky invented new efficient algorithms for edge detection in color images which can detect edges between subsets of different colors but the same lightness. He suggested efficient algorithms for tracing and encoding boundaries and also new definitions and recognition algorithms for recognizing digital straight segments.<ref>{{Cite book |last=Kovalevskiĭ |first=V. A. |title=Image processing with cellular topology |date=2021 |isbn=978-981-16-5772-6 |location=Singapore |oclc=1306277103}}</ref>  Kovalevsky developed as programmer many projects implementing these algorithms.<ref>{{Cite web |last=Miszalok |first=Volkmar |title=Lecture: Computer Vision, Chapter 1: Digital Topology |url=http://www.miszalok.de/Lectures/L08_ComputerVision/DigitalTopology/DigitalTopology_d.htm |access-date=2022-09-15 |website=www.miszalok.de}}</ref><ref>{{Cite journal |title=Axiomatic Digital Topology |year=2006 |doi=10.1007/s10851-006-7453-6 |arxiv=1010.0649 |last1=Kovalevsky |first1=Vladimir |journal=Journal of Mathematical Imaging and Vision |volume=26 |issue=1–2 |pages=41–58 |bibcode=2006JMIV...26...41K |s2cid=459012 }}</ref> The results of his research are described in his monographs.
+
+== Publications ==
+* Image Pattern Recognition. Springer, 1980, ISBN 978-1-4612-6033-2
+* Finite Topology as Applied to Image Analysis. In: Computer Vision, Graphics and Image Processing, vol. 46 (1989) pp. 141–161
+* Geometry of Locally Finite Spaces. Verlag Dr. Baerbel Kovalevski, Berlin, 2008, ISBN 978-3-9812252-0-4
+* Modern Algorithms for Image Processing. Apress, 2019, ISBN 978-1-4842-4236-0
+* Image Processing with Cellular Topology. Springer, 2021, ISBN 978-981-16-5771-9
+
+== References ==
+<references />
+
+== External links ==
+* {{google scholar id}}
+* [https://dblp.org/pid/34/4790.html V. Kovalevsky at dblp computer science bibliography]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kovalevski, Vladimir A.}}
+[[Category:1927 births]]
+[[Category:Living people]]
+[[Category:20th-century German physicists]]
+[[Category:20th-century Ukrainian physicists]]
+[[Category:German topologists]]

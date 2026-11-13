@@ -1,0 +1,152 @@
+{{Short description|Japanese-American electrical engineer (1928–2025)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Akira Ishimaru
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Akira Ishimaru.jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date|1928|03|16}}
+| birth_place       = [[Fukuoka]], Japan
+| death_date        = {{death date and age|2025|11|10|1928|03|16}}
+| death_place       = [[Newcastle, Washington]], U.S.
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = {{plainlist|
+*[[Electrical engineering]]
+*[[Wave]] physics
+}}
+| workplaces        = {{plainlist|
+*University of Washington
+*[[Bell Labs]]
+*[[Jet Propulsion Laboratory]]
+*Electrotechnical Laboratory
+}}
+| patrons           = 
+| education         = {{plainlist|
+*[[University of Tokyo]]
+*[[University of Washington]]
+}}
+| thesis_title      = Radiation pattern synthesis with sources located on a conical surface
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1958
+| doctoral_advisor  = Gedaliah Held
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Wave [[scattering]] in [[Randomness|random]] media
+| influences        = 
+| influenced        = 
+| awards            = {{plainlist|
+*[[IEEE Centennial Medal]] (1984)
+*[[National Academy of Engineering]] membership (1996)
+*[[IEEE Heinrich Hertz Medal]] (1999) 
+*IEEE Third Millennium Medal (2000)
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Akira Ishimaru''' ({{langx|ja|石丸 昭}};<ref>[https://cir.nii.ac.jp/crid/1582261551850069760 石丸 昭 CiNii search]</ref> March 16, 1928 – November 10, 2025) was a Japanese-American electrical engineer and professor emeritus at Department of Electrical and Computer Engineering at [[University of Washington]]. He was best known for his contributions to the theory of wave [[scattering]] in [[Randomness|random]] media.
+
+==Life and career==
+Akira Ishimaru was born in [[Fukuoka]], [[Japanese Empire|Japan]], on March 16, 1928. He received his bachelor's degree from [[University of Tokyo]] and Ph.D. degree in electrical engineering from [[University of Washington]], respectively in 1951 and 1958.<ref name="wave-random"/> During his doctoral studies, he was supervised by Gedaliah Held.<ref name="uw-ece"/> From 1951 to 1952, he worked at Electrotechnical Laboratory in [[Tanashi, Tokyo]]. In 1956, he was employed at [[Bell Labs]]. In 1958, he joined the faculty of the Department of Electrical Engineering of the University of Washington, where he was also an adjunct professor of [[applied mathematics]]. He became a professor emeritus at the institution in 1999.<ref name="emeritus-uw"/>
+
+In 1996, Ishimaru was elected as a member of [[National Academy of Engineering]] "for his contributions to the theory and application of wave propagation and scattering in random media."<ref name="nae"/> Ishimaru was also the recipient of [[IEEE Centennial Medal]] (1984),<ref name="hard-wall"/> [[IEEE Heinrich Hertz Medal]] (1999) and IEEE Third Millennium Medal (2000). He was a fellow of [[IEEE]], [[Optica (society)|the Optical Society of America]], the [[Acoustical Society of America]], and the [[Institute of Physics]]. He was the editor of ''[[Radio Science]]'' from 1979 to 1983, as well as the founding editor of the journal ''Waves in Random Media'', later known as ''[[Waves in Random and Complex Media]]''.<ref name="hard-wall"/>
+
+Ishimaru died in [[Newcastle, Washington]], on November 10, 2025, at the age of 97.<ref>{{cite web |title=Akira Ishimaru |url=https://obituaries.seattletimes.com/obituary/akira-ishimaru-1093341364 |website=[[The Seattle Times]] |access-date=November 21, 2025}}</ref>
+
+==Research==
+Ishimaru's research mainly focused on wave propagation and scattering in random and [[Turbulence|turbulent]] media; his research contributed to advances in [[microwave]] [[remote sensing]], [[Medical ultrasound|ultrasound imaging]], [[laser surgery]], [[radar]] systems and [[astronomy]], as well as [[Wireless communication|Wireless]] and [[optical communication]]s.<ref name="ursi-uw"/> His other research interests [[object detection]] and imaging in cluttered environments, [[inverse problem]]s, wave propagation and scattering in the atmosphere and the terrain, acoustic scattering in the ocean and [[Diffuser (optics)|optical diffusion]] in tissues.<ref name="hard-wall"/>Multiple scattering of waves is an important topic for several branches of physics including microwaves, optics, terahertz, acoustic waves and electron waves. Akira  Ishimaru is credited with the first observation of photon localization as exhibited in backscattering enhancement.  This is significant as the first optical demonstration of weak Anderson localization and is also noted as a major discovery in the Decade of Optics.   This discovery was followed by a large number of publications on coherent backscattering in many engineering and science journals.  Later he further demonstrated enhanced backscattering in random rough surfaces.
+
+Ishimaru also authored two textbooks on advanced electromagnetics: ''Wave Propagation and Scattering in Random Media'' (1978) and ''Electromagnetic Wave Propagation, Radiation, and Scattering'' (1991).<ref name="ursi-uw"/>
+
+==Selected publications==
+;Books
+*Ishimaru, A. (2017). ''Electromagnetic Wave Propagation, Radiation, and Scattering: From Fundamentals to Applications'', 2nd ed, IEEE.
+*Ishimaru, A. (1997). ''Wave Propagation and Scattering in Random Media'', IEEE.
+
+;Journal articles
+* {{cite journal |last1=Ishimaru |first1=A. |title=Theory of unequally-spaced arrays |journal=[[IEEE Transactions on Antennas and Propagation|IRE Transactions on Antennas and Propagation]] |date=1962 |volume=10 |issue=6 |pages=691–702|doi=10.1109/TAP.1962.1137952 |bibcode=1962ITAP...10..691I }}
+* {{cite journal |last1=Reynolds |first1=L. |last2=Johnson |first2=C. |last3=Ishimaru |first3=A. |title=Diffuse reflectance from a finite blood medium: applications to the modeling of fiber optic catheters |journal=[[Applied Optics]] |date=1976 |volume=15 |issue=9 |pages=2059–2067|doi=10.1364/AO.15.002059 |pmid=20165338 |bibcode=1976ApOpt..15.2059R }}
+* {{cite journal |last1=Ishimaru |first1=A. |title=Theory and application of wave propagation and scattering in random media |journal=[[Proceedings of the IEEE]] |date=1977 |volume=65 |issue=7 |pages=1030–1061|doi=10.1109/PROC.1977.10612 |s2cid=21797465 }}
+* {{cite journal |last1=Ishimaru |first1=A. |title=Diffusion of a pulse in densely distributed scatterers |journal=[[Journal of the Optical Society of America]] |date=1978 |volume=68 |issue=8 |pages=1045–1050|doi=10.1364/JOSA.68.001045 |bibcode=1978JOSA...68.1045I }}
+* {{cite journal |last1=Kuga |first1=Y. |last2=Ishimaru |first2=A. |title=Retroreflectance from a dense distribution of spherical particles |journal=[[Journal of the Optical Society of America A]] |date=1984 |volume=1 |issue=8 |pages=831–835 |doi=10.1364/JOSAA.1.000831 |bibcode=1984JOSAA...1..831K }}
+* {{cite journal |last1=Tsang |first1=L. |last2=Ishimaru |first2=A. |title=Backscattering enhancement of random discrete scatterers |journal=[[Journal of the Optical Society of America A]] |date=1984 |volume=1 |issue=8 |pages=836–839|doi=10.1364/JOSAA.1.000836 |bibcode=1984JOSAA...1..836T }}
+*{{cite journal |last1=Jackson |first1=D. R. |last2=Winebrenner |first2=D. P. |last3=Ishimaru |first3=A. |title=Application of the composite roughness model to high-frequency bottom backscattering |journal=[[Journal of the Acoustical Society of America]] |date=1986 |volume=79 |issue=5 |page=1940 |doi=10.1121/1.393669 |bibcode=1986ASAJ...79.1410J }}
+* {{cite journal |last1=Ishimaru |first1=A. |title=Diffusion of light in turbid material |journal=[[Applied Optics]] |date=1989 |volume=28 |issue=12 |pages=2210–2215 |doi=10.1364/AO.28.002210 |pmid=20555501 |bibcode=1989ApOpt..28.2210I |s2cid=26198292 }}
+
+==See also==
+*[[List of textbooks in electromagnetism]]
+
+==References==
+{{Reflist|
+
+<ref name="emeritus-uw">{{cite journal |title=Emeritus Faculty |journal=UW EE Currents Newsletter |date=September 1998 |volume=1 |issue=1}}</ref>
+
+<ref name="hard-wall">{{cite journal |last1=Zhang |first1=Ce |last2=Kuga |first2=Yasuo |last3=Ishimaru |first3=Akira |title=Hard-Wall Radar Imaging: Localization of Objects Shadowed by Metallic Walls With MIMO Radar |journal=[[IEEE Transactions on Antennas and Propagation]] |date=2018 |volume=66 |issue=8 |pages=4240–4251 |doi=10.1109/TAP.2018.2835569|bibcode=2018ITAP...66.4240Z |s2cid=51920642 |doi-access=free }}</ref>
+
+<ref name="nae">{{cite web |title=Member: Dr. Akira Ishimaru |url=https://www.nae.edu/28266/Dr-Akira-Ishimaru |website=nae.org |access-date=July 3, 2022}}</ref>
+
+<ref name="ursi-uw">{{cite web |title=ECE Professor Emeritus Akira Ishimaru elected lifetime fellow of URSI |url=https://www.ece.uw.edu/spotlight/ishimaru-ursi/ |website=ece.uw.edu |access-date=July 3, 2022 |date=December 9, 2019}}</ref>
+
+<ref name="uw-ece">{{cite web |title=Alumni: Akira Ishimaru |url=https://vannevar.ece.uw.edu/people/alumni/profiles/ishimaru_akira.html |website=ece.uw.edu |access-date=July 3, 2022}}</ref>
+
+<ref name="wave-random">{{cite journal |last1=Ishimaru |first1=A. |title=Theory and application of wave propagation and scattering in random media |journal=[[Proceedings of the IEEE]] |date=1977 |volume=65 |issue=7 |pages=1030–1061 |doi=10.1109/PROC.1977.10612|s2cid=21797465 }}</ref>
+
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ishimaru, Akira}}
+[[Category:1928 births]]
+[[Category:2025 deaths]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:People from Fukuoka]]
+[[Category:University of Tokyo alumni]]
+[[Category:University of Washington College of Engineering alumni]]
+[[Category:University of Washington faculty]]
+[[Category:Fellows of the IEEE]]
+[[Category:American electrical engineers]]
+[[Category:Electrical engineering academics]]
+[[Category:Japanese emigrants to the United States]]
+[[Category:American academics of Japanese descent]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Fellows of the Acoustical Society of America]]
+[[Category:IEEE Centennial Medal laureates]]
+[[Category:Scientists at Bell Labs]]
+[[Category:Japanese electrical engineers]]
+[[Category:Optical engineers]]
+[[Category:Microwave engineers]]
+[[Category:American telecommunications engineers]]
+[[Category:Japanese telecommunications engineers]]
+[[Category:American acoustical engineers]]
+[[Category:Japanese acoustical engineers]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:20th-century Japanese engineers]]
+[[Category:21st-century Japanese engineers]]
+[[Category:American textbook writers]]

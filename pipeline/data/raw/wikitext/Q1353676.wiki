@@ -1,0 +1,90 @@
+{{Short description|American theoretical physicist (born 1947)}}
+{{distinguish|Eric Weinberg}}
+{{Infobox scientist
+|name              = Erick James Weinberg
+|image             = 
+|birth_date        = {{Birth date and age|1947|8|29}}
+|birth_place       = [[Ossining (town), New York|Ossining, New York]], US<ref>{{Cite web |url=http://www.aip.org/history/acap/biographies/bio.jsp?weinberge |title=Biography on APS |access-date=2012-07-14 |archive-url=https://web.archive.org/web/20160326055853/https://www.aip.org/history/acap/biographies/bio.jsp?weinberge |archive-date=2016-03-26 |url-status=dead }}</ref>
+|field             = [[Theoretical physics]]
+|workplaces        = [[Columbia University]]
+|education         = [[Manhattan College]]<br>[[Harvard University]]
+|doctoral_advisor  = [[Sidney Coleman]]
+|doctoral_students = 
+|known_for         = [[Coleman–Weinberg potential]] <br/>[[Lee–Weinberg–Yi metric]]
+}}
+
+'''Erick J. Weinberg''' (born August 29, 1947) is a [[theoretical physics|theoretical physicist]] and professor of physics at [[Columbia University]].
+
+Weinberg received his undergraduate degree from [[Manhattan College]] in 1968. He obtained his [[Ph.D.]] from [[Harvard University]] in 1973<ref>[http://www.columbia.edu/cu/physics/fac-bios/Weinberg/faculty.html Faculty biography at Columbia]</ref> under the supervision of [[Sidney Coleman]], with whom he discovered the [[Coleman–Weinberg potential|Coleman–Weinberg mechanism]] for [[spontaneous symmetry breaking]] in [[quantum field theory]]. Weinberg works on various branches in high-energy theory, including [[black holes]], [[vortex|vortices]], [[Chern–Simons theory]], [[magnetic monopoles]] in gauge theories and [[cosmic inflation]]. He also serves as the Editor of [[Physical Review D]], as well as a [[visiting scholar]] of the  [[Korea Institute for Advanced Study]] (KIAS).<ref>[http://prd.aps.org/staff Phys Rev D staff listing]</ref>
+
+==Academic career==
+After receiving his doctorate, Weinberg went to the [[Institute for Advanced Study]] in [[Princeton, New Jersey]] as a [[postdoctoral researcher]]. In 1975, he became an assistant professor of physics at Columbia University. He was promoted to full professor in 1987. From 2002 to 2006, Weinberg served as the chair of Columbia University's physics department. Weinberg is still actively researching Bogomol'nyi–Prasad–Sommerfield (BPS) monopoles and [[vacuum decay]].
+
+==Notable works==
+Weinberg has worked on various branches in theoretical high energy physics, including the theory of [[spontaneous symmetry breaking]], [[inflation]], the theory of supersymmetric [[solitons]], and the theory of [[vacuum decay]] via the nucleation of quantum/thermal bubbles.
+
+===Coleman–Weinberg potential===
+Spontaneous symmetry breaking occurs in a theory when the state with the lowest energy does not have as many symmetries as the theory itself, therefore one sees degenerate vacua connected by the quotient between the symmetry of the theory and the symmetry of the state, and the particle spectrum is classified by the symmetry group of the lowest energy state (vacuum). In the case that the quotient can be parametrized by the continuous parameter(s), the local fluctuations of these parameters can be regarded as bosonic excitations (if the symmetry is bosonic), usually called [[Goldstone boson]], which has profound implications. When coupled to gauge fields, these bosons mix into the longitudinal polarizations of the gauge fields and give masses to the fields, this is how [[Higgs mechanism]] works.
+
+Usually, the way to realize spontaneous symmetry breaking is to introduce a scalar field that has a tachyonic mass parameter, classically, then the classical vacuum is the solution that stays at the bottom of the potential, with the leading quantum contribution from the uncertainty principle, the vacuum can be viewed as a Gaussian [[wave packet]] around the lowest point of the potential.
+
+The possibility that pointed out by [[Sidney Coleman]] and E. Weinberg is, even at the classical level one tunes the mass of the scalar field to be zero, quantum correction is able to modify the effective potential, turning the point that enjoys the whole symmetry of the theory from a local minimum to a maximum, and generate new minima (vacuum) at configurations with less symmetry. Therefore spontaneous symmetry breaking can have a pure quantum origin.
+
+Another important point about the mechanism is, the potential remains flat with the quantum correction, if we introduce an appropriate counter-term to cancel the mass renormalization, with the minimum/maximum transition induced by a log-like term,
+
+:<math>V(\phi) = \frac{\lambda}{4!}\phi^{4}+\frac{\lambda^2\phi^4}{256\pi^2}\left(\ln{\frac{\phi^2}{M^2}}-\frac{25}{6}\right).</math>
+
+Therefore it gives a natural arena for the idea of [[slow-roll inflation]] introduced by Linde, Albrecht and Steinhardt, which is still playing the dominant role among the theories of early universe.
+
+===Dimensional transmutation===
+
+In the original paper by Coleman and Weinberg, as well as in the thesis of Weinberg, Coleman and Weinberg discussed the renormalization of the couplings in various theories, and introduced the concept of "dimensional transmutation"—the running of coupling constants renders some coupling determined by an arbitrary energy scale, therefore although classically one starts from a theory in which there are several arbitrary dimensionless constants, one ends up with a theory with an arbitrary dimensionful parameter.
+
+===The graceful exit problem of old inflation===
+
+In a paper with [[Alan Guth]],<ref>{{cite journal |doi=10.1016/0550-3213(83)90307-3 |title=Could the universe have recovered from a slow first-order phase transition? |journal=Nuclear Physics B |volume=212 |issue=2 |pages=321–64 |year=1983 |last1=Guth |first1=Alan H. |last2=Weinberg |first2=Erick J. |bibcode=1983NuPhB.212..321G }}</ref> Erick Weinberg discussed the possibility of ending the inflation with thermalization of vacuum bubbles in a [[cosmological phase transition]].
+
+The original proposal of inflation is, the exponentially growing phase ends via the nucleation of Coleman–De Luccia bubbles with a low vacuum energy, these bubbles collide and thermalize, leaving a homogeneous universe with high temperature. However, as the exponential growth of the near-de Sitter universe dilutes the bubbles nucleated, it is not obvious that the bubbles will really coalesse, in fact Guth and Weinberg proved the following statements:
+
+*"If the nucleation rate is sufficiently slow compared to the expansion rate, then the probability of any certain point in the universe to lie within an infinite volume bubble cluster will vanish, in another word, bubbles don't percolate the whole universe if the nucleation rate is small"
+*"In any pre-chosen coordinate system, any typical bubble will dominate its own cluster. In other words, for any bubble, the probability for the cluster it belongs to extend beyond this bubble by a large coordinate distance is suppressed when the nucleation rate is small"
+
+The second statement suggests in a fixed coordinate any chosen bubble would be the largest in its own cluster, but this is a coordinate-dependent statement, after choosing the bubble, one can always find another coordinate in which there are bigger bubbles in the same cluster.
+
+According to these statements, if the nucleation rate of bubbles is small, we will end up with bubbles that form clusters and will not collide with each other, with the heat release from vacuum decay stored in the domain-walls, quite different from what the hot Big-Bang starts from.
+
+This problem called "graceful exit problem", discussed independently later by [[Stephen Hawking]], Ian G. Moss and John M. Stewart,<ref>{{cite journal |doi=10.1103/PhysRevD.26.2681 |title=Bubble collisions in the very early universe |journal=Physical Review D |volume=26 |issue=10 |pages=2681 |year=1982 |last1=Hawking |first1=S. W. |last2=Moss |first2=I. G. |last3=Stewart |first3=J. M. |bibcode=1982PhRvD..26.2681H }}</ref> then solved by the proposal of new inflation by [[Andrei Linde]],<ref>{{cite journal |doi=10.1016/0370-2693(82)91219-9 |title=A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems |journal=Physics Letters B |volume=108 |issue=6 |pages=389–93 |year=1982 |last1=Linde |first1=A.D. |bibcode=1982PhLB..108..389L }}</ref> [[Andreas Albrecht (cosmologist)|Andreas Abrecht]] and [[Paul Steinhardt]],<ref>{{cite journal |doi=10.1103/PhysRevLett.48.1220 |title=Cosmology for Grand Unified Theories with Radiatively Induced Symmetry Breaking |journal=Physical Review Letters |volume=48 |issue=17 |pages=1220 |year=1982 |last1=Albrecht |first1=Andreas |last2=Steinhardt |first2=Paul J. |bibcode=1982PhRvL..48.1220A }}</ref> which makes use of Coleman–Weinberg mechanism to generate the inflation potential that satisfies slow-roll conditions.
+
+===Lee–Weinberg–Yi metric===<!--'Lee–Weinberg–Yi metric' redirects here-->
+
+The existence of magnetic monopoles has long been an interesting and profound possibility. Such solitons could potentially explain the quantization of electric charge, as pointed out by [[Paul Dirac]]; they can arise as the classical solutions in gauge theories, like the [['t Hooft–Polyakov monopole]];  and the inability to detect them is one of the motivations of proposing a period of [[inflation]] before the hot Big Bang phase.
+
+The dynamics of magnetic monopole solutions is especially simple when the theory is at [[Bogomol'nyi–Prasad–Sommerfield bound]]—when it can be extended to include fermionic sectors to form a supersymmetric theory. In these cases, the multi-monopole solutions can be explicitly obtained, the monopoles in a system are basically free because the interaction mediated by Higgs field is cancelled by the gauge interaction. in the case of a maximally broken gauge group into <math>U(1)^k</math>, the multi-monopole solution can be viewed as weakly interacting particles, each carrying a <math>U(1)</math> phase factor, therefore when considering the low energy processes the total number of degrees of freedom for n monopoles is 4n, in 4-dimensional spacetime—3 for spatial position and one for the phase factor. The dynamics can be reduced to the motion inside a 4n dimensional space with a nontrivial metric from the interactions among the monopoles, so called "moduli space approximation".
+
+Erick Weinberg, with Kimyeong Lee and Piljin Yi, did a calculation for the moduli space metric in the case of well-separated monopoles, with an arbitrary large compact gauge group <math>\mathcal{G}</math> maximally broken into products of U(1)'s, and argued that in some certain cases the metric can be exact—valid for crowded monopole system. This calculation is known as Lee–Weinberg–Yi metric.
+
+==Selected articles and book==
+*"Classical Solutions in Quantum Field Theory" (2012) {{Deprecated archive|url=https://archive.today/20121223022208/http://www.cup.cam.ac.uk/aus/catalogue/catalogue.asp?isbn=9781139574617&ss=exc}}
+*{{cite journal |doi=10.1103/PhysRevD.7.1888 |title=Radiative Corrections as the Origin of Spontaneous Symmetry Breaking |journal=Physical Review D |volume=7 |issue=6 |pages=1888 |year=1973 |last1=Coleman |first1=Sidney |last2=Weinberg |first2=Erick |bibcode=1973PhRvD...7.1888C |arxiv=hep-th/0507214 |s2cid=6898114 }}
+*{{cite journal |doi=10.1016/0550-3213(83)90307-3 |title=Could the universe have recovered from a slow first-order phase transition? |journal=Nuclear Physics B |volume=212 |issue=2 |pages=321–64 |year=1983 |last1=Guth |first1=Alan H. |last2=Weinberg |first2=Erick J. |bibcode=1983NuPhB.212..321G }}
+*{{cite journal |doi=10.1103/PhysRevLett.64.2234 |pmid=10041622 |title=Self-dual Chern-Simons vortices |journal=Physical Review Letters |volume=64 |issue=19 |pages=2234–2237 |year=1990 |last1=Jackiw |first1=R. |last2=Weinberg |first2=Erick J. |bibcode=1990PhRvL..64.2234J }}
+*{{cite journal |doi=10.1103/PhysRevD.54.1633 |title=Moduli space of many BPS monopoles for arbitrary gauge groups |journal=Physical Review D |volume=54 |issue=2 |pages=1633–1643 |year=1996 |last1=Lee |first1=Kimyeong |last2=Weinberg |first2=Erick J. |last3=Yi |first3=Piljin |pmid=10020838 |bibcode=1996PhRvD..54.1633L |arxiv=hep-th/9602167 |s2cid=18211585 }}
+*{{cite journal |doi=10.1016/j.physrep.2006.11.002 |title=Magnetic monopole dynamics, supersymmetry, and duality |journal=Physics Reports |volume=438 |issue=2–4 |pages=65–236 |year=2007 |last1=Weinberg |first1=Erick J. |last2=Yi |first2=Piljin |bibcode=2007PhR...438...65W |arxiv=hep-th/0609055 |s2cid=119508631 }}
+
+==References==
+<references />
+
+==External links==
+*[http://www.columbia.edu/cu/physics/fac-bios/Weinberg/faculty.html Personal homepage]
+*[http://www.kias.re.kr/sub02/sub02_01_01.jsp?empid=NTAwMTA= Webpage at KIAS] {{Webarchive|url=https://web.archive.org/web/20160304031654/http://www.kias.re.kr/sub02/sub02_01_01.jsp?empid=NTAwMTA= |date=2016-03-04 }}
+* {{INSPIRE-HEP author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weinberg, Erick J.}}
+[[Category:Living people]]
+[[Category:American theoretical physicists]]
+[[Category:Manhattan University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Columbia University faculty]]
+[[Category:1947 births]]

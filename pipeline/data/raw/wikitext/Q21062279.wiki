@@ -1,0 +1,63 @@
+{{Short description|American physicist (1921–2023)}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox scientist
+| name              = Harris Mayer
+| alt               = 
+| birth_name        = Harris Louis Mayer<ref>{{cite web |title=Harris Louis Mayer |url=https://www.ancestry.co.uk/discoveryui-content/view/193242589:2238?tid=&pid=&queryId=8afa7ac330f8019abde1038eef6f096d&_phsrc=Dqh4616&_phstart=successSource |publisher=U.S., World War II Draft Cards Young Men, 1940–1947 |access-date=1 February 2023 |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207224504/https://www.ancestry.co.uk/cs/offers/join?sub=281474977005568&dbid=2238&url=https%3A%2F%2Fwww.ancestry.co.uk%2Fdiscoveryui-content%2Fview%2F193242589%3A2238%3Ftid%3D%26pid%3D%26queryId%3D8afa7ac330f8019abde1038eef6f096d%26_phsrc%3DDqh4616%26_phstart%3DsuccessSource&gsfn=&gsln=&h=193242589 |url-status=live }}</ref>
+| birth_date        = {{birth date|1921|2|15}}
+| birth_place       = [[New York (state)|New York]], U.S.
+| death_date        = {{death date and age|2023|9|17|1921|2|15}}
+| death_place       = 
+| field             = [[Physics]], [[mathematics]]
+}}
+
+'''Harris Louis Mayer''' (February 15, 1921 – September 17, 2023) was an American physicist known for his collaboration with [[Edward Teller]] and [[John von Neumann]].<ref name="TellerSchoolery2009">{{cite book|first1=Edward|last1=Teller|first2=Judith|last2=Schoolery|title=Memoirs: A Twentieth Century Journey in Science and Politics|url=https://books.google.com/books?id=n82xMo-BI8QC&pg=PA192|date=9 September 2009|publisher=Basic Books|isbn=978-0-7867-5170-9|page=192}}</ref><ref name="Dyson2012">{{cite book|author=George Dyson|title=Turing's Cathedral: The Origins of the Digital Universe|url=https://books.google.com/books?id=dMK3P6B3WgcC&pg=PT13|date=1 March 2012|publisher=Penguin Books Limited|isbn=978-0-7181-9450-5|page=13}}</ref><ref name="Cora Neumann">{{cite news|last1=Neumann|first1=Cora|title=In a secret U.S. city, scientists build Jewish ties amid isolation|url=http://www.jweekly.com/article/full/7219/in-a-secret-u-s-city-scientists-build-jewish-ties-amid-isolation/|newspaper=J|date=December 12, 1997|accessdate=22 August 2016|archive-date=May 12, 2016|archive-url=https://web.archive.org/web/20160512030051/http://www.jweekly.com/article/full/7219/in-a-secret-u-s-city-scientists-build-jewish-ties-amid-isolation/|url-status=live}}</ref> He worked on the [[Manhattan Project]].<ref name="HaighPriestley2016">{{cite book|author1=Thomas Haigh|author2=Mark Priestley|author3=Crispin Rope|title=ENIAC in Action: Making and Remaking the Modern Computer|url=https://books.google.com/books?id=_oqBCwAAQBAJ&pg=PA201|date=5 February 2016|publisher=MIT Press|isbn=978-0-262-03398-5|pages=201–2}}</ref> Mayer also worked on [[Project Orion (nuclear propulsion)|Project Orion]]. His work had to do with [[Opacity (optics)|opacity]], mostly in the context of atmospheric opacity to nuclear radiation.
+
+== Early work ==
+In late 1945, Harris Mayer was a student of [[Maria Goeppert-Mayer]] (wife of chemist [[Joseph Edward Mayer]] and neither of whom had any relation to Harris). Edward Teller invited Maria Goeppert-Mayer and two of her students ([[Boris Jacobsohn]] and Harris Mayer) to the [[Los Alamos National Laboratory]].<ref name="Teller2009">Teller, Edward, and Judith Schoolery. ''Memoirs: A Twentieth Century Journey in Science and Politics''. Basic Books, 2009. p 98-100, 178-203</ref> Mayer's early work at the lab had to do with the development of the [[thermonuclear bomb]]. The bomb was not a part of the main mission of the Los Alamos Lab, but volunteers among the scientists became involved. Mayer wrote a history of the lab in this era where he describes his contribution as the calculations of the equations of state and [[radiative transfer]] opacities.<ref>Mayer, Harris, 'People of the Hill - The Early Days", ''[[Los Alamos Science]]'', Number 28, 2003, page 2-31 accessed August 22, 2016 at http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-03-3837 {{Webarchive|url=https://web.archive.org/web/20161223223727/http://permalink.lanl.gov/object/tr?what=info%3Alanl-repo%2Flareport%2FLA-UR-03-3837 |date=December 23, 2016 }}</ref>
+
+=== Problem of opacity ===
+The problem of opacity in the bomb was based on a concern that low opacity will allow radiation to escape rapidly giving the bomb less energy and a slower buildup of pressure during the explosion. This, "low opacity" would mean a more efficient bomb. While this did not greatly matter in [[fission bomb]]s, it was very important in connection with hydrogen bombs where the transfer of energy between the fission and fusion devises is important. Teller presented the idea that the absorption of radiation was different at high and low frequencies, at high frequencies all frequencies are absorbed, but at lower frequencies absorption occurs more specifically at specific lines and allows more energy transfer, and Mayer carried out many of the related calculations.<ref name="Teller2009"/> Opacity is generally calculated based on average opacities using Planck or Rosseland opacity functions. However, these averages generalize many one-electron transitions that can take place in a large number of atomic bound electron configurations. Harris' work was the first to calculate opacity including the full effects of line absorption.<ref name="LibbyBibber2010">{{cite book|author1=Stephen B. Libby|author2=Karl A. Van Bibber|title=Edward Teller Centennial Symposium: Modern Physics and the Scientific Legacy of Edward Teller : Livermore, CA, USA, 28 May 2008|url=https://books.google.com/books?id=9i9bgMLVjWsC&pg=PA96|year=2010|publisher=World Scientific|isbn=978-981-283-800-1|pages=96–103}}</ref>
+
+Edward Teller wrote in 1955 that Mayer worked with another student, John Reitz, and that they were supervised by Teller and by Frank Hoyt, a professor at the [[University of Chicago]]. Teller emphasizes how the efforts of Teller and others during World War II were sustained by these scientists joining the lab at Los Alamos. The calculations of Mayer and Reitz were carried to conclusion by another student, [[Marshall Rosenbluth]].<ref>Teller, Edward, "The Work of Many People",  ''Science'', New Series, Vol. 121, No. 3139 (Feb. 25, 1955), pp. 267-275, page 271</ref> Mayer was granted a PhD based on this work once it was declassified after the war. A bonus of Harris' participation was that his father was a distributor of liquor, and had access to more alcohol than was generally available due to rations during World War II.<ref name="Teller2009"/>
+
+The best-known and most widely used model of absorption bands in atmospheric opacity is due to the work of [[Richard M. Goody]] in 1952, and the model was initially known as the Goody random model. It was later discovered that Mayer's work at Los Alamos, which was published in 1947, had made similar calculations. Many sources therefore now call the model the Mayer-Goody model or the Mayer-Goody statistical model.<ref>Timofeyev, Yu M., and Aleksander Vladimirovich Vasilʹev. ''Theoretical fundamentals of atmospheric optics''. Cambridge Int Science Publishing, 2008. p294</ref> Mayer, however, stated that he believed the model should most properly be credited to Teller.<ref name="Teller2009"/> Arthur N. Cox developed a method for computing stellar opacity that was also influential and was based primarily on Mayer's 1947 work, which Mayer initially called the "Mayer Independent Electron" method for calculations at high temperatures and the "Ionic" method at lower temperatures.<ref>Michels, Thomas E. Kaskel, Ira, Meyer Sheila, "Stellar Opacity Program Manual STOP, Preliminary Report", Goddard Space Flight Center, Greenbelt, Maryland, February 1968 p 5</ref><ref>Cox's early work cited by Michels et al is: Cox, Arthur N. "Stellar absorption coefficients and opacities." In Aller, L. H. and McLaughlin, D. B. Stellar Structure-Stars and Stellar Systems, vol. 8, University of Chicago Press, Chicago and London, 1965, p. 195.</ref>
+
+Mayer also participated in field experiments for post-war nuclear tests on [[Parry Island (Pacific)|Parry Island]].<ref name="MarinerPiehler2009">{{cite book|author1=Rosemary B. Mariner|author2=G. Kurt Piehler|title=The Atomic Bomb and American Society: New Perspectives|url=https://books.google.com/books?id=xWNIWtNVynMC&pg=PA266|year=2009|publisher=Univ. of Tennessee Press|isbn=978-1-57233-648-3|pages=266–8}}</ref>
+
+== Orion Project and later work ==
+In 1958, Mayer was hired as a consultant on the Orion Project. His contribution included working with [[Freeman Dyson]] and Rosenbluth to help estimate the opacity of the propellant and its effect on the propellant's potential power.<ref>Dyson, George. ''Project Orion: The True Story of the Atomic Spaceship''. Macmillan, 2002. p 123</ref>
+
+Later in his career, Mayer studied how [[space tether]]s could be used for propulsion in space similar to [[gravity assist]]s but with objects without a significant gravitational pull.<ref>Cosmo, Mario L., and E. C. Lorenzini, eds. "[https://ntrs.nasa.gov/search.jsp?R=19980018321 Tethers in space handbook] {{Webarchive|url=https://web.archive.org/web/20220228050510/https://ntrs.nasa.gov/search.jsp?R=19980018321 |date=February 28, 2022 }}."  NASA/CR-97-206807 (1997), p 171. Accessed August 23, 2016 from the  ''NASA Technical Reports Server''.</ref>
+
+== Death ==
+Harris Mayer died on September 17, 2023, at the age of 102.<ref>{{Cite news |last=Clark |first=Carol A. |date=2023-10-01 |title=Obituary: Harris Louis Mayer Feb. 15, 1921 – Sept. 17, 2023 |work=Los Alamos Daily Post |url=https://ladailypost.com/obituary-harris-louis-mayer-feb-15-1921-sept-17-2023/}}</ref>
+
+== Documentaries ==
+* Mayer was interviewed in the documentary [[To Mars By A-Bomb (film)|''To Mars by A-Bomb: The Secret History of Project Orion'']]
+
+== Key works ==
+* Mayer, Harris, "Methods of Opacity Calculations" Los Alamos Scientific, Laboratory Report, LA 647 (October 1947)
+* Penzo, P. A., and Mayer, H. L., "Tethers and Asteroids for [[Artificial gravity|Artificial Gravity]] Assist in the Solar System." ''Journal of Spacecraft and Rockets''. Vol. 23, No. 1 (Jan.-Feb. 1986).
+
+==Citations==
+{{Reflist}}
+
+==References==
+* {{Cite book |last=Dyson |first=George |title=Project Orion: The True Story of the Atomic Spaceship |publisher=Henry Holt and Co. |date=2003 |isbn=0805072845 |oclc=51918543}}
+*{{Cite book|last=Dyson|first=George|title=Turing's Cathedral: The Origins of the Digital Universe|publisher=Pantheon Books|date=2012|isbn=9780375422775|oclc=745979775|url-access=registration|url=https://archive.org/details/turingscathedral0000dyso}}
+*{{Cite book|last=Ford|first=Kenneth W. |title=Building the H Bomb: A Personal History|publisher=World Scientific|date=2015}}
+*{{Cite book|last=Libby|first=Leona Marshall|title=The Uranium People|publisher=Crane, Russak|date=1979|isbn=0844813001|oclc=4665032|url-access=registration|url=https://archive.org/details/uraniumpeople0000libb}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mayer, Harris}}
+[[Category:1921 births]]
+[[Category:2023 deaths]]
+[[Category:American physicists]]
+[[Category:Manhattan Project people]]
+[[Category:American men centenarians]]
+[[Category:Columbia University alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:New York University alumni]]
+[[Category:Scientists from New York City]]

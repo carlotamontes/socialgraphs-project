@@ -1,0 +1,131 @@
+{{short description|American computer scientist}}
+{{Use mdy dates|date=February 2019}}
+{{Infobox academic
+| name          = Herbet Leo Gelernter
+| birth_date    = {{Birth date|1929|12|17}}
+| death_date    = {{Death date and age|2015|05|28|1929|12|17}}
+| occupation    = Professor
+| discipline    = [[Computer Science]]
+| institutions  = [[Stony Brook University]]
+| education     = [[University of Rochester]]
+| notable_works = Geometry Theorem Prover
+}}
+'''Herbert Leo Gelernter''' (December 17, 1929 – May 28, 2015)<ref name="Science 2009, p. 76">American Men and Women of Science, 21st edition, vol. 3, Thomson/ Gale, 2009, p. 76</ref><ref>Milestones in Computer Science and Information Technology, Edwin D. Reilly, Greenwood Press, 2003, p. 318</ref><ref name=":0">{{Cite web |title=In Memoriam - Professor Emeritus |url=https://www.cs.stonybrook.edu/people/faculty/HerbertGelernter |access-date=2024-11-08 |website=Stony Brook University}}</ref> was a professor in the Computer Science Department of [[Stony Brook University]].<ref name="Stony Brook University">{{cite web
+|url=http://www.cs.sunysb.edu/people/faculty/HerbertGelernter.html
+|title=Stony Brook University
+|accessdate = November 26, 2011
+}}</ref>
+
+==Short biography==
+Having taken his B.S. in 1951 from [[Brooklyn College]],<ref name="Science 2009, p. 76"/> Gelernter received his Ph.D. at the [[University of Rochester]] in 1957.<ref name="Stony Brook University"/><ref>[https://books.google.com/books?id=TGUIIAAACAAJ ''The two-nucleon interaction at high energies and the Lévy potential''  University of Rochester. Dept. of Physics., (1957)- 260 pages] retrieved 18:03(GMT) October 26, 2011</ref>
+
+Gelernter's extended visit to the [[CERN|European Organization for Nuclear Research (CERN)]] in 1960/61, while he was developing a prototype of his 'vidicon' (a system which dispensed with film, and used a television-camera tube to record a spark-chamber event and store it as digitized data on magnetic tape) stimulated the development of a data-handling system for [[spark chamber]]s in early 1961.<ref name="cernstu">{{cite web
+|url=https://cds.cern.ch/record/178683/files/CERN-CHS-20.pdf
+|title=The development of techniques for the analysis of track-chamber pictures at CERN
+|publisher=[[CERN]] - Studies in CERN History
+|first=John
+|last=Krige
+|date=April 1987
+|accessdate=2019-07-12
+}}</ref>
+
+During his time at IBM, he wrote some of the first artificial intelligence software<ref>{{Cite journal
+|last1=Gelernter
+|first1=H. L.
+|last2=Rochester
+|first2=N.
+|date=October 1958
+|title=Intelligent Behavior in Problem-Solving Machines
+|url=https://ieeexplore.ieee.org/document/5392646
+|journal=IBM Journal of Research and Development
+|volume=2
+|issue=4
+|pages=336–345
+|doi=10.1147/rd.24.0336
+|s2cid=28472029
+|issn=0018-8646
+|url-access=subscription
+}}</ref>—his "geometry theorem machine"<ref>{{Cite conference
+|last1=Gelernter
+|first1=H.
+|last2=Hansen
+|first2=J. R.
+|last3=Loveland
+|first3=D. W.
+|title=Empirical explorations of the geometry theorem machine
+|book-title=Papers Presented at the May 3–5, 1960, Western Joint IRE-AIEE-ACM Computer Conference
+|date=1960-05-03
+|conference=IRE-AIEE-ACM '60 (Western)
+|location=New York, NY, USA
+|publisher=Association for Computing Machinery
+|pages=143–149
+|url=https://doi.org/10.1145/1460361.1460381
+|doi=10.1145/1460361.1460381
+|isbn=978-1-4503-7869-7
+|s2cid=18265039
+|url-access=subscription
+}}</ref><ref>{{Cite journal
+|last=H
+|first=Gelernter
+|date=1963
+|title=Realization of A Geometry-Theorem Proving Machine
+|url=https://cir.nii.ac.jp/crid/1571417124017545472
+|journal=Computers and Thought
+|pages=134–152
+}}</ref> was the first advanced AI program, and the third AI program ever.<ref>{{Cite web
+|url=https://www.nationalreview.com/2015/06/herbert-gelernter-and-american-science-josh-gelernter/
+|title = Herbert Gelernter and American Science
+|website=[[National Review]]
+|date=June 6, 2015
+}}</ref> It is a logical AI system that can prove theorems in planar geometry about parallel lines, congruence, and equality and inequality of segments and angles. Like [[Logic Theorist]], it uses heuristics.
+
+He implemented, with [[Nathaniel Rochester (computer scientist)|Nathaniel Rochester]], a computer language for list processing within [[FORTRAN]].<ref>{{Cite journal
+|last1=Gelernter
+|first1=H.
+|last2=Hansen
+|first2=J. R.
+|last3=Gerberich
+|first3=C. L.
+|date=1960-04-01
+|title=A Fortran-Compiled List-Processing Language
+|journal=Journal of the ACM
+|volume=7
+|issue=2
+|pages=87–101
+|doi=10.1145/321021.321022
+|s2cid=47551654
+|issn=0004-5411
+|doi-access=free
+}}</ref> The work for this was done with [[Carl Gerberich]] at [[IBM]], to this end producing the ''Fortran list processing language'' (FLPL).<ref>[http://www-formal.stanford.edu/jmc/history/lisp/node2.html LISP prehistory John McCarthy  Jul 26th 22:37 PDT 1996] retrieved 17:48(GMT) October 26, 2011  [see also: [[Lisp (programming language)]] and [[John McCarthy (computer scientist)|John McCarthy]]</ref>
+
+At Stony Brook University, Gelernter led the development of SYNCHEM, an expert system that searched for synthetic routes to organic molecules. It used a knowledge base of graph transforms, rules, and heuristics representing organic reactions grouped by functional group. <ref>{{Cite web |last2=Gelernter |first1=Tito |last1=Autrey |first2=Herbert |title=Parallel Heuristic Search |url=https://aaai.org/papers/0004-ss93-04-004-parallel-heuristic-search/ |access-date=2025-04-12 |website=AAAI |language=en-US}}</ref>
+
+In 1952, Gelernter married Ruth, a daughter of rabbi Theodore Norton Lewis.<ref>Who's Who in Religion, vol. 1, Marquis Who's Who, 1975, p. 343</ref><ref>{{Cite news
+|url=https://www.nytimes.com/1951/10/31/archives/ruth-lewis-betrothed-graduate-student-at-michigan-fiancee-of.html
+|title=RUTH LEWIS BETROTHED; Graduate Student at Michigan Fiancee of Herbert Gelernter
+|newspaper=The New York Times
+|date=October 31, 1951
+}}</ref> His sons are the geneticist and Yale professor Joel Gelernter and the computer scientist and social commentator [[David Gelernter]], also a Yale professor.<ref>For a remembrance see "A Life That Made Sense," by David Gelernter, The Weekly Standard, September 7, 2015, at 5.</ref> His daughter Judith is a research scientist in the Information Technology Laboratory at the [[National Institute of Standards and Technology]].{{citation needed|date=February 2021}}
+
+Gelernter died on May 28, 2015.<ref name=":0" />
+
+==See also==
+*[[List of Jewish American computer scientists]]
+*[[History of artificial intelligence]]
+*[[Timeline of artificial intelligence]]
+
+== References ==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gelernter, Herbert}}
+<!--- Categories --->
+[[Category:American computer scientists]]
+[[Category:American artificial intelligence researchers]]
+[[Category:2015 deaths]]
+[[Category:Stony Brook University faculty]]
+[[Category:People associated with CERN]]
+[[Category:1929 births]]
+[[Category:Jewish American scientists]]

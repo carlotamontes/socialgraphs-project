@@ -1,0 +1,107 @@
+{{Short description|American chemist (born 1948)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Joel M. Bowman
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Bowman pic2.png
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = 
+| birth_date        = Jan. 16, 1948
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = 
+| workplaces        = [[Emory University]]
+| patrons           = 
+| education         =[[University of Massachusetts, Amherst]]<br/>[[University of California, Berkeley]]<br/>[[California Institute of Technology]]
+| alma_mater        = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Aron Kuppermann]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Joel Mark Bowman''' is an American physical chemist and educator. He is an emeritus professor at [[Emory University]].<ref name="highlights05">{{citation|title=Selected Academic Highlights|publisher=Emory University|date=Fall 2005|url=http://www.emory.edu/PROVOST/IPR/documents/selectedacademichighlights/2005_highlights_fall.pdf|access-date=2009-04-14|archive-url=https://web.archive.org/web/20091128042922/http://www.emory.edu/PROVOST/IPR/documents/selectedacademichighlights/2005_highlights_fall.pdf|archive-date=2009-11-28|url-status=dead}}.</ref>
+
+==Education and career==
+
+Bowman spent his early years in [[Boston, Massachusetts]], attending school in [[Dorchester, Boston|Dorchester]] and then moving to [[Brookline, Massachusetts|Brookline]]. He first attended [[University of Massachusetts Amherst|University of Massachusetts-Amherst]] and then transferred to the [[University of California, Berkeley]], where he received a bachelor’s degree in 1969. He went to [[California Institute of Technology]] for graduate school, and was advised by [[Donald Truhlar]] (as he was leaving for the [[University of Minnesota]]) to choose [[Aron Kuppermann|Aaron Kuppermann]] as his advisor. Completing his Ph.D. in 1974, he began his career at [[Illinois Institute of Technology]] in [[Chicago]], where he began collaborating with Al Wagner at [[Argonne National Laboratory]]. He held a faculty appointment at Argonne from 1978 to 1991. In 1982-1983 he spent a sabbatical at the [[James Franck Institute]] of the [[University of Chicago]], and worked as a consultant at [[Bell Labs|Bell Laboratories]] in 1984. Bowman moved to Emory University in 1986, where he has spent the rest of his career to date.<ref>{{Cite journal |date=2013-08-15 |title=Autobiography of Joel M. Bowman |url=https://pubs.acs.org/doi/10.1021/jp405529p |journal=The Journal of Physical Chemistry A |language=en |volume=117 |issue=32 |pages=6907–6909 |doi=10.1021/jp405529p |pmid=23947907 |bibcode=2013JPCA..117.6907. |issn=1089-5639|url-access=subscription }}</ref>
+
+==Research interests==
+Bowman's research interests are in basic theories of chemical reactivity.<ref name="highlights05"/> He is well known for his contributions in simulating [[Potential energy surface|potential energy surfaces]] for polyatomic molecules and clusters. Approximately fifty potential energy surfaces for molecules and clusters have been simulated employing his permutationally invariant polynomial method.<ref name=":0">{{Cite journal |last1=Qu |first1=Chen |last2=Yu |first2=Qi |last3=Bowman |first3=Joel M. |date=2018-04-20 |title=Permutationally Invariant Potential Energy Surfaces |url=https://www.annualreviews.org/doi/10.1146/annurev-physchem-050317-021139 |journal=Annual Review of Physical Chemistry |language=en |volume=69 |issue=1 |pages=151–175 |doi=10.1146/annurev-physchem-050317-021139 |pmid=29401038 |bibcode=2018ARPC...69..151Q |issn=0066-426X|url-access=subscription }}</ref> 
+
+=== Permutationally invariant polynomial (PIP) method ===
+[[File:Pc690151.f1.gif|thumb|Linear least-squares polynomial fits of indicated order n and r-value in the variables r and y to a Morse potential.<ref name=":0" />]]
+
+Simulating potential energy surfaces (PESs) for reactive and non-reactive systems is of broad utility in theoretical and computational chemistry. Development of global PESs, or surfaces spanning a broad range of nuclear coordinates, is particularly necessary for certain applications, including [[molecular dynamics]] and [[Monte Carlo method|Monte Carlo]] simulations and [[Scattering|quantum reactive scattering]] calculations.
+
+Rather than utilizing all of the internuclear distances, theoretical chemists often analytical equations for PESs by using a set of internal coordinates. For systems containing more than four atoms, the count of internuclear distances deviates from the equation 3''N''−6 (which represents the degrees of freedom in a three-dimensional space for a nonlinear molecule with ''N'' atoms).<ref>{{Cite journal |last1=Chen |first1=Jun |last2=Xu |first2=Xin |last3=Xu |first3=Xin |last4=Zhang |first4=Dong H. |date=2013-06-14 |title=Communication: An accurate global potential energy surface for the OH + CO → H + CO2 reaction using neural networks |url=http://dx.doi.org/10.1063/1.4811109 |journal=The Journal of Chemical Physics |volume=138 |issue=22 |doi=10.1063/1.4811109 |pmid=23781775 |issn=0021-9606}}</ref><ref>{{Cite journal |last1=Jiang |first1=Bin |last2=Guo |first2=Hua |date=2013-08-06 |title=Permutation invariant polynomial neural network approach to fitting potential energy surfaces |url=http://dx.doi.org/10.1063/1.4817187 |journal=The Journal of Chemical Physics |volume=139 |issue=5 |doi=10.1063/1.4817187 |pmid=23927248 |bibcode=2013JChPh.139e4112J |issn=0021-9606|url-access=subscription }}</ref> As an example, Collins and his team developed a method employing different sets of 3''N''−6 internal coordinates, which they applied to analyze the H +  CH<sub>4</sub> reaction. They addressed permutational symmetry by replicating data for permutations of the H atoms.<ref>{{Cite journal |last1=Thompson |first1=Keiran C. |last2=Jordan |first2=Meredith J. T. |last3=Collins |first3=Michael A. |date=1998-05-22 |title=Polyatomic molecular potential energy surfaces by interpolation in local internal coordinates |url=http://dx.doi.org/10.1063/1.476259 |journal=The Journal of Chemical Physics |volume=108 |issue=20 |pages=8302–8316 |doi=10.1063/1.476259 |bibcode=1998JChPh.108.8302T |issn=0021-9606|url-access=subscription }}</ref> In contrast to this approach, the PIP method uses the linear least-square method to accurately match tens of thousands of electronic energies for both reactive and non-reactive systems mathematically.
+
+==== Methodology ====
+Generally, the functions used in fitting potential energy surfaces to experimental and/or electronic structure theory data are based on the choice of coordinates. Most of the chosen coordinates are bond stretches, valence and dihedral angles, or other curvilinear coordinates such as the [[Jacobi coordinates]] or polyspherical coordinates.{{cn|date=May 2024}} There are advantages to each of these choices.<ref name=":0" /> In the PIP approach, the N(N − 1)/2 internuclear distances are utilized. This number of variables is equal to 3N −6 (or 3N − 5 = 1 for [[Diatomic molecule|diatomic molecules]]) for N = 3, 4 and differs for N ≥ 5. Thus, N = 5 is an important boundary that affects the choice of coordinates. An advantage of employing this variable set is its inherent closure under all permutations of atoms. This implies that regardless of the order in which atoms are permuted, the resulting set of variables remains unchanged. However, the main focus pertains to permutations involving identical atoms, as the PES must be invariant under such transformations.<ref name=":0" />
+
+[[File:Pc690151.f4 thmb.gif|thumb|Potential energy curve of the internal rotation of CH<sub>3</sub>OH from a full-dimensional, permutationally invariant potential energy surface<ref name=":0"/>]]
+
+PIP utilizing Morse variables of the form <math>y_{ij}=exp(-r_{ij}/a)</math>, where <math>r_{ij}</math> is the distance between atoms <math>i</math> and <math>j</math> and <math>a</math> is a range parameter) offers a method for mathematically characterizing high-dimensional PESs. By fixing the range parameter in the Morse variable, the PES can be determined through linear least-squares fitting of computed electronic energies for the system at various structural arrangements. The adoption of a permutationally invariant fitting basis, whether in the form of all internuclear distances or transformed variables like Morse variables, facilitates the attainment of accurate fits for molecules and clusters.<ref>{{Cite journal |last1=Mancini |first1=John S. |last2=Bowman |first2=Joel M. |date=2014-09-04 |title=A New Many-Body Potential Energy Surface for HCl Clusters and Its Application to Anharmonic Spectroscopy and Vibration–Vibration Energy Transfer in the HCl Trimer |url=https://pubs.acs.org/doi/10.1021/jp412264t |journal=The Journal of Physical Chemistry A |language=en |volume=118 |issue=35 |pages=7367–7374 |doi=10.1021/jp412264t |pmid=24444294 |bibcode=2014JPCA..118.7367M |issn=1089-5639|url-access=subscription }}</ref>
+
+==Publications, honors and awards==
+Bowman, who is the [[Samuel Candler Dobbs]] Professor Emeritus of Theoretical Chemistry at Emory University, is the author or co-author of more than 700 publications. He is an elected member of the [[International Academy of Quantum Molecular Science]]s. He received the [[Dudley R. Herschbach|Herschbach Medal]], which is the highest award given by the Conference on Molecular Collision Dynamics.<ref>{{Cite web |last=Esciencecommons |date=2013-08-22 |title=Joel Bowman's view from the top of theoretical chemistry |url=https://esciencecommons.blogspot.com/2013/08/joel-bowmans-view-from-top-of.html |access-date=2024-04-07 |website=eScienceCommons}}</ref><ref>{{Cite web |title=About – 28th Dynamics of Molecular Collisions Conference |url=https://sites.mst.edu/28th-dmc/about/ |access-date=2024-11-13 |website=sites.mst.edu |language=en-US}}</ref> He is an honorary fellow of the Chinese Chemical Society{{cn|date=November 2024}} and an elected [[fellow]] of the [[American Physical Society]]<ref>[http://www.aps.org/membership/units/listings/upload/Div-AtomicMolecular.pdf APS Membership listing, Division of Atomic, Molecular & Optical Physics, 2008] {{Webarchive|url=https://web.archive.org/web/20081121135355/http://www.aps.org./membership/units/listings/upload/Div-AtomicMolecular.pdf |date=2008-11-21 }}.</ref> and of the [[American Association for the Advancement of Science]].<ref name="highlights05"/> In 2013, a [[Festschrift]] issue of the [[The Journal of Physical Chemistry A|''Journal of Physical Chemistry A'']] was published in his honor.<ref>{{Cite journal |title=Joel M. Bowman Festschrift Special Issue |url=https://pubs.acs.org/toc/jpcafh/117/32 |journal=[[Journal of Physical Chemistry A]] |volume=117 |issue=32 |pages=6905–7642}}</ref>. He is also the recipient of the Alexander von Humboldt Research Award.
+
+==Selected publications==
+*{{citation|title=Beyond Platonic Molecules (An Invited "Perspective")|first=J. M.|last=Bowman|journal=Science|volume=290|year=2000|doi=10.1126/science.290.5492.724|issue=5492|pages=724–725 |pmid=11184203 |s2cid=93762491 }}.
+*{{citation|title=The roaming atom: Straying from the reaction path in formaldehyde decomposition|first1=D.|last1=Townsend|first2=S. A.|last2=Lahankar|first3=S. K.|last3=Lee|first4=S. D.|last4=Chambreau|first5=A. G.|last5=Suits|first6=X.|last6=Zhang|first7=J.|last7=Rheinecker|first8=L. B.|last8=Harding|first9=J. M.|last9=Bowman|journal=Science|volume=306|year=2004|doi=10.1126/science.1104386|pmid=15498970|issue=5699|pages=1158–61|bibcode=2004Sci...306.1158T|s2cid=31464376 }}.
+*{{citation|title=Quantum deconstruction of the infrared spectrum of CH<sub>5</sub><sup>+</sup>|first1=X.|last1=Huang|first2=A. B.|last2=McCoy|first3=J. M.|last3=Bowman|first4=L. M.|last4=Johnson|first5=C.|last5=Savage|first6=F.|last6=Dong|first7=D. J.|last7=Nesbitt|journal=Science|volume=311|year=2006|doi=10.1126/science.1121166|pmid=16400143|issue=5757|pages=60–3|bibcode=2006Sci...311...60H|s2cid=26158108 |url=https://zenodo.org/record/1230864}}.
+*{{citation|title=Signatures of H<sub>2</sub>CO Photodissociation from two electronic states|first1=H. M.|last1=Yin|first2=S. H.|last2=Kable|first3=X.|last3=Zhang|first4=J. M.|last4=Bowman|journal=Science|volume=311|year=2006|doi=10.1126/science.1123397|pmid=16527976|issue=5766|pages=1443–6|bibcode=2006Sci...311.1443Y|s2cid=37885013 }}.
+* [https://doi.org/10.1142/12305 Vibrational Dynamics of Molecules], World Scientific Publishing, 2022.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://scholarblogs.emory.edu/bowman/ Bowman's home page at Emory]
+
+{{authority control}}
+
+{{Improve categories|date=July 2023}}
+
+{{DEFAULTSORT:Bowman, Joel}}
+[[Category:Living people]]
+[[Category:21st-century American chemists]]
+[[Category:Emory University faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:1948 births]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:California Institute of Technology alumni]]

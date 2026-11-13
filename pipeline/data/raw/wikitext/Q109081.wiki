@@ -1,0 +1,58 @@
+{{Short description|German chemist (born 1941)}}
+{{Infobox scientist
+| image =  Johann_Gasteiger.jpg
+| name = Johann Gasteiger
+| birth_date = {{Birth date|1941|10|27|df=y}}
+| birth_place = [[Dachau, Bavaria|Dachau]], [[Germany]]
+| death_date = 
+| death_place = 
+| field = [[Chemist]]
+| workplaces =  [[University of Erlangen-Nuremberg]]<br>[[Technical University of Munich]]
+| education = [[ETH Zurich]]<br>[[University of Zurich]]<br>[[LMU Munich]]
+| doctoral_advisor = [[Rolf Huisgen]]
+| known_for = [[Cheminformatics]] <br> [[Artificial neural network|Neural networks in Chemistry]]
+| awards = <!--Please insert-->
+| religion = <!--Please insert-->
+}}
+
+'''Johann Gasteiger''' (27 October 1941 in [[Dachau, Bavaria|Dachau]]) is a  [[German people|German]] [[Chemist]] and a [[Cheminformatics|Chemoinformatician]] on which he wrote and edited various books.<ref>{{cite book|editor-last1=Gasteiger|editor-first1=Johann|title=Handbook of chemoinformatics : from data to knowledge|date=2003|publisher=Wiley-VCH|location=Weinheim|isbn=3-527-30680-3}}</ref><ref>{{cite book |editor-last1=Gasteiger |editor-first1=Johann |editor-last2=Engel |editor-first2=Thomas |title=Chemoinformatics : a textbook |date=2003 |publisher=Wiley-VCH |location=Weinheim |isbn=3-527-30681-1 |edition=1. reprint. |url-access=registration |url=https://archive.org/details/isbn_9783527306817_0}}</ref>
+
+== Life ==
+Johann Gasteiger studied [[Chemistry]] at [[LMU Munich]], [[ETH Zurich]] and [[University of Zurich]]. He obtained his PhD in [[Organic Chemistry]] at LMU Munich in 1971 with Professor [[Rolf Huisgen]]. After [[Postdoc]] at the [[University of California, Berkeley]] until 1972, he was an assistant professor at [[Technical University of Munich]] and received his [[Habilitation]] in 1979 under the mentorship of Professor [[Ivar Karl Ugi|Ivar Ugi]]. From 1994 until 2007 he was a professor at [[University of Erlangen–Nuremberg]] in the "Computer-Chemie-Centrum", which he cofounded. In 1997, Johann Gasteiger founded the company Molecular Networks, which distributes software developed at the Computer-Chemie-Centrum.
+
+Johann Gasteiger is one of the pioneers of [[Cheminformatics]]. His main research interest is the development of software for [[drug design]] (for example via [[Quantitative structure–activity relationship|QSAR]], the simulation of [[chemical reaction]]s, for [[Retrosynthetic analysis|synthesis planning]] in [[organic chemistry]], [[machine learning]] for  [[spectroscopy]], and the application of [[Artificial neural network|neural networks]] and [[genetic algorithm]]s in chemistry.
+
+== Career ==
+
+In 1979, Johann Gasteiger and [[Mario Marsili]] published a method for the iterative calculation of atomic partial charges in molecules.<ref>{{cite journal|last1=Gasteiger|first1=Johann|last2=Marsili|first2=Mario|title=A new model for calculating atomic charges in molecules|journal=Tetrahedron Letters|date=January 1978|volume=19|issue=34|pages=3181–3184|doi=10.1016/S0040-4039(01)94977-9}}</ref> This work is his most-cited publication.<ref name="wendywarr">Wendy Warr, "In Honor of Johnny Gasteiger", ''honorary lecture at the 2. German Conference on Chemoinformatics'', Goslar, 14 November 2006.</ref> 
+Between 1987 and 1991 Johann Gasteiger was a project manager for the development of the ChemInform RX database.
+Since 1985, the 3D structure generator [[CORINA]] is developed in his group.<ref>{{cite journal|last1=Gasteiger|first1=J.|last2=Rudolph|first2=C.|last3=Sadowski|first3=J.|title=Automatic generation of 3D-atomic coordinates for organic molecules|journal=[[Tetrahedron Computer Methodology]]|date=January 1990|volume=3|issue=6|pages=537–547|doi=10.1016/0898-5529(90)90156-3}}</ref>
+
+Johann Gasteiger has pioneered the use of [[Artificial neural network|neural networks]] in chemistry.<ref>{{cite journal|last1=Zupan|first1=J.|last2=Gasteiger|first2=J.|title=Neural networks: A new method for solving chemical problems or just a passing phase?|journal=Analytica Chimica Acta|date=July 1991|volume=248|issue=1|pages=1–30|doi=10.1016/S0003-2670(00)80865-X}}</ref><ref>{{cite book|last1=Zupan|first1=Jure|last2=Gasteiger|first2=Johann|title=Neural networks for chemists|url=https://archive.org/details/neuralnetworksin02edzupa|url-access=registration|date=1999|publisher=Wiley-VCH|location=Weinheim|isbn=3-527-29779-0|edition=2nd}}</ref> It is mainly his contribution that neural networks are one of standard methods in [[Cheminformatics]] today.
+
+== Awards ==
+* 1991 ''Gmelin-Beilstein Denkmünze'' of the [[Society of German Chemists]] for contributions to [[Computational Chemistry]]
+* 1997 ''[[Herman Skolnik Award]]'' of the ''Division of Chemical Information'' of the [[American Chemical Society]]
+* 2005 Mike Lynch Award of the Chemical Structure Association
+* 2006 [[American Chemical Society|ACS]] Award for Computers in Chemical and Pharmaceutical Research
+* 2006 The 2nd [[German Conference on Chemoinformatics]] (also the 20th [[CIC-Workshop]] of the [[Fachgruppe Chemie-Information-Computer]] of the [[GDCh]]) was dedicated to Johann Gasteiger.
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [http://www2.chemie.uni-erlangen.de website at University of Erlangen–Nuremberg]
+* [http://www.molecular-networks.com website of Molecular Networks GmbH]
+* {{Google scholar id|h3zmZhMAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gasteiger, Johann}}
+[[Category:1941 births]]
+[[Category:20th-century German chemists]]
+[[Category:German organic chemists]]
+[[Category:LMU Munich alumni]]
+[[Category:Academic staff of the Technical University of Munich]]
+[[Category:Living people]]
+[[Category:21st-century German chemists]]
+[[Category:ETH Zurich alumni]]

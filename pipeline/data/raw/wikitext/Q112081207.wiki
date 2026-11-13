@@ -1,0 +1,47 @@
+
+{{Short description|British physicist (1934–2016)}}
+{{Infobox scientist
+| name = Richard Watts-Tobin
+| birth_name = Richard John Watts-Tobin
+| birth_date = {{birth date|1934|3|17}}
+| death_date = {{death date and age|2016|4|26|1934|3|17}}
+| fields = [[Theoretical physics]]
+| workplaces = [[MRC Laboratory of Molecular Biology]], [[Lancaster University]]
+| known_for = Co-author of the [[Frameshift mutation experiment|1961 paper]] on the [[genetic code]]; contributions to [[time-dependent Ginzburg–Landau theory]]
+}}
+
+'''Richard John Watts-Tobin'''  (17 March 1934 – 26 April 2016)<ref name="Westminster">{{cite web |title=Watts-Tobin, Richard John, 1934–2016 |url=https://collections.westminster.org.uk/index.php/watts-tobin-richard-john-1934-2016 |publisher=Westminster School Archive |access-date=2026-04-15}}</ref> was a British physicist known for his contributions to the theory of superconductivity and for his co-authorship of a landmark 1961 paper on the [[genetic code]] with [[Francis Crick]] and [[Sydney Brenner]].
+
+==Scientific contributions==
+Early in his career, Watts-Tobin was a co-author of the influential 1961 ''Nature'' paper “[[Frameshift mutation experiment|General nature of the genetic code for proteins]]”, which provided key experimental evidence that the genetic code is based on triplets of nucleotides.<ref name="Crick1961">{{cite journal |last1=Crick |first1=F. H. C. |last2=Barnett |first2=L. |last3=Brenner |first3=S. |last4=Watts-Tobin |first4=R. J. |title=General nature of the genetic code for proteins |journal=Nature |year=1961 |volume=192 |issue=4809 |pages=1227–1232 | doi=10.1038/1921227a0 |pmid=13882203 }}</ref><ref name="SelwynObit" /> The work used genetic experiments in [[Escherichia virus T4|T4 bacteriophages]] to demonstrate that mutations affecting the reading frame supported a triplet coding system.<ref name="Cobb2021">{{cite journal |last=Cobb |first=Matthew |title=A breakthrough from 60 years ago: "General nature of the genetic code for proteins" (1961) |journal=Natural Sciences |year=2021 |volume=1 |article-number=e10018 |doi=10.1002/ntls.10018|doi-access=free }}</ref><ref>{{cite web |last=Nirenberg |first=Marshall W. |title=The genetic code |url=https://www.nobelprize.org/uploads/2018/06/nirenberg-lecture.pdf |publisher=Nobel Foundation |date=1968-12-12 |access-date=2026-04-18}}</ref> The paper has been described by [[Charles Yanofsky]] as a "landmark" study<ref name="Yanofsky2007">{{cite journal |last=Yanofsky |first=Charles |title=Establishing the triplet nature of the genetic code |journal=Cell |year=2007 |volume=128 |issue=5 |pages=815–818 |doi=10.1016/j.cell.2007.02.029 |pmid=17350564}}</ref> and by [[Robin Holliday]] as "a masterpiece of genetic analysis".<ref name="Holliday2003">{{cite journal |last=Holliday |first=Robin |title=The early years of molecular biology: personal recollections |journal=Notes and Records of the Royal Society of London |year=2003 |volume=57 |issue=2 |pages=195–208 |url=https://www.jstor.org/stable/3557696}}</ref>
+
+Watts-Tobin also co-authored a subsequent 1967 study that extended the genetic analysis of T4 mutations to strains with as many as six [[Frameshift mutation|frameshifts]].<ref>{{cite journal |last1=Barnett |first1=L. |last2=Brenner |first2=S. |last3=Crick |first3=F. H. C. |last4=Shulman |first4=R. G. |last5=Watts-Tobin |first5=R. J. |title=Phase-shift and other mutants in the first part of the rII B cistron of bacteriophage T4 |journal=Philosophical Transactions of the Royal Society B |year=1967 |volume=252 |issue=780 |pages=487–560 |doi=10.1098/rstb.1967.0030}}</ref><ref name="Holliday2003" />
+
+Although trained as a mathematician and physicist, Watts-Tobin worked at the [[MRC Laboratory of Molecular Biology|Medical Research Council Laboratory of Molecular Biology]] during this period, contributing to experiments on mutagenesis and genetic coding alongside Brenner and Crick.<ref name="Cobb2021" />
+
+Later in his career, Watts-Tobin returned to his focus on physics, and embarked on studies of [[theoretical condensed matter physics]], particularly [[superconductivity]]. His work included studies of thermodynamic properties of [[type II superconductor]]s using extensions of [[BCS theory]],<ref>{{cite journal |last1=Watts-Tobin |first1=R. |last2=Kramer |first2=L. |last3=Pesch |first3=W. |title=Density of states, entropy, and specific heat for dirty type II superconductors at arbitrary temperature |journal=Journal of Low Temperature Physics |year=1974 |volume=17 |issue=1–2 |pages=71–86 |doi=10.1007/BF00654545}}</ref> as well as nonequilibrium phenomena in current-carrying superconducting systems. In this context, he contributed, with Lorenz Kramer, to the development of a generalized form of the [[Ginzburg–Landau theory|Ginzburg–Landau]] framework, often referred to as the [[time-dependent Ginzburg–Landau theory]], extending it to account for finite inelastic scattering processes and nonequilibrium effects in superconductors.<ref name="Kramer1978">{{cite journal |last1=Kramer |first1=L. |last2=Watts-Tobin |first2=R. J. |title=Theory of dissipative current-carrying states in superconducting filaments |journal=Physical Review Letters |year=1978 |volume=40 |issue=16 |pages=1041–1044 |doi=10.1103/PhysRevLett.40.1041}}</ref><ref name="WattsTobin1981">{{cite journal |last1=Watts-Tobin |first1=R. J. |last2=Krähenbühl |first2=Y. |last3=Kramer |first3=L. |title=Nonequilibrium theory of dirty, current-carrying superconductors: phase-slip oscillators in narrow filaments near Tc |journal=Journal of Low Temperature Physics |year=1981 |volume=42 |issue=5–6 |pages=459–501 |doi=10.1007/BF00117427}}</ref><ref>{{cite book |last=Tidecks |first=Reinhard |title=Current-Induced Nonequilibrium Phenomena in Quasi-One-Dimensional Superconductors |series=Springer Tracts in Modern Physics |publisher=Springer |location=Berlin, Heidelberg |year=1990 |doi=10.1007/BFb0048849}}</ref> This generalized framework is used in theoretical and computational studies of superconducting dynamics.<ref name="Zolochevskii2014">{{cite journal |last=Zolochevskii |first=I. V. |title=Resistive states in wide superconducting films induced by dc and ac currents (Review) |journal=Low Temperature Physics |year=2014 |volume=40 |pages=867–892 |doi=10.1063/1.4900695}}</ref><ref>{{cite journal |last1=Presotto |first1=Alice |last2=Sardella |first2=Edson |last3=Malvezzi |first3=André Luiz |last4=Zadorosny |first4=Rafael |title=Dynamical regimes of kinematic vortices in the resistive state of a mesoscopic superconducting bridge |journal=Journal of Physics: Condensed Matter |year=2020 |volume=32 |pages=435702 |doi=10.1088/1361-648X/aba5a3|arxiv=1910.04893 }}</ref>
+
+==Academic career==
+Watts-Tobin studied mathematics at [[Trinity College, Cambridge]], where he completed a PhD in 1961.<ref name="Westminster" />
+
+After completing his PhD, Watts-Tobin became a Research Fellow at [[Selwyn College]]. He later held a Fellowship and College Lectureship in Mathematics at [[Churchill College]] before moving to [[Lancaster University]] in 1967, where he served as a lecturer and later senior lecturer in theoretical physics, continuing to publish research until his retirement in 1996.<ref name="SelwynObit">{{cite web |title=Obituaries: R. J. Watts-Tobin |url=https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202015.pdf |publisher=Selwyn College, Cambridge |year=2015 |access-date=2026-04-15}}</ref> His research focused on the theory of superconductors, and he was noted for his undergraduate teaching.<ref name="InMemoriam">{{cite web |title=In memoriam |url=https://www.lancaster.ac.uk/alumni/in-memoriam/ |publisher=Lancaster University |access-date=2026-04-15}}</ref>
+
+==Personal life==
+Watts-Tobin was the son of [[Ethel Watts (accountant)|Ethel Watts]], one of the first women to qualify as a chartered accountant in the United Kingdom.<ref>{{cite ODNB |last=Crawford |first=Elizabeth |title=Watts [married name Watts-Tobin], Ethel (1895–1963) |year=2020 |url=https://www.oxforddnb.com/view/10.1093/odnb/9780198614128.001.0001/odnb-9780198614128-e-111904 |access-date=2026-04-15}}</ref> His father, Oscar Tobin, was a medical doctor.
+
+Watts-Tobin married the physician and Olympic fencer [[Mary Watts-Tobin]] in 1963.<ref>{{cite web |title=Mary Watts-Tobin |url=https://www.olympedia.org/athletes/20687 |publisher=Olympedia |access-date=2026-04-15}}</ref>
+
+Watts-Tobin was an active member of [[Furness College, Lancaster|Furness College]] at Lancaster University and took a particular interest in college life.<ref name="InMemoriam" />
+
+He died on 26 April 2016 after a long illness.<ref name="InMemoriam" />
+
+==References==
+{{Reflist}}
+{{Authority control}}
+{{DEFAULTSORT:Watts-Tobin, Richard}}
+[[Category:1934 births]]
+[[Category:2016 deaths]]
+[[Category:British physicists]]
+[[Category:Condensed matter physicists]]
+[[Category:Academics of Lancaster University]]
+[[Category:Alumni of Trinity College, Cambridge]]

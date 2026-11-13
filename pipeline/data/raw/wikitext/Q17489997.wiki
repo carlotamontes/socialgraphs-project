@@ -1,0 +1,57 @@
+{{Short description|Brazilian mathematician (1947–2023)}}
+{{Use dmy dates|date=September 2023}}
+{{infobox scientist/Wikidata | fetchwikidata = ALL
+| birth_name  = Jefferson Antonio Galves
+| birth_date  = {{Birth date|1947|06|18|df=y}}
+| birth_place = [[São Paulo]], Brazil
+| death_date  = {{Death date and age|2023|09|05|1947|06|18|df=y}}
+| death_place = [[Campinas]], São Paulo, Brazil
+| education   = [[University of São Paulo]]|suppressfields=doctoral_students
+}}
+'''Jefferson Antonio Galves''' (18 June 1947 – 5 September 2023) was a Brazilian mathematician, professor of the [[Institute of Mathematics and Statistics]] of the [[University of São Paulo]] (USP) and member of the [[Brazilian Academy of Sciences]]. His field of studies was related to [[statistical model]]s, in particular models that have stochasticity and variable range of memory.  Galves was also the leader of [[NeuroMat]], a research center established in 2013 at USP that is dedicated to integrating [[mathematical model]]ing and [[theoretical neuroscience]].
+
+== Personal life ==
+Jefferson Antonio Galves<ref name="cv" /> was born in [[São Paulo (city)|São Paulo]], Brazil,<ref name="inpe_obit" /> on 18 June 1947.<ref name="usp_obit" /> He was married to Charlotte Galves, and had two daughters and a son.<ref name="revisitapesquisa" /> He died in [[Campinas]], [[São Paulo (state)|São Paulo]], on 5 September 2023, at the age of 76.<ref name="inpe_obit" /><ref name="usp_obit" /><ref name="fapesp_obit" />
+
+== Education and career ==
+Galves studied for a Bachelors degree in Mathematics at USP in 1964–1968, followed by a Masters in Statistics in 1969–1972, also at USP, with advisor [[Carlos Alberto Barbosa Dantas]]. He studied for his PhD in Statistics at USP in 1972–1978, with the thesis ''Construção de um processo forte de Markov'' again advised by Carlos Dantas.<ref>{{Cite thesis |last=Galves |first=Jefferson Antonio |title=Construção de um processo forte de Markov |date=1972-06-30 |degree=Mestrado em Estatística |publisher=Universidade de São Paulo |url=https://teses.usp.br/teses/disponiveis/45/45133/tde-20230303-180425/ |place=São Paulo |doi=10.11606/d.45.1972.tde-20230303-180425|doi-access=free }}</ref><ref name="cv" /> this included studying for a specialised degree, ''Diplôme d'Estudes Approfondies'', at [[Pierre and Marie Curie University]] in 1973–1974, with [[Jacques Neveu]]<ref name="inpe_obit" /><ref name="cv" /> (with which he later established a cooperation program with USP and the University of Rome).<ref name="uol" /> He received [[habilitation]] from USP in 1988. He was a government employee in 1969–1970, before becoming a [[public servant]] in 1970, converting to a Professor of the Statistic Department of the Institute of Mathematics and Statistics<ref>{{Cite web |title=Docentes - Instituto de Matemática e Estatística |url=https://www.ime.usp.br/galves/ |archive-url=https://web.archive.org/web/20200412170245/https://www.ime.usp.br/galves/ |archive-date=2020-04-12 |access-date=2025-09-29 |website=www.ime.usp.br |language=pt-br}}</ref> in 1990.<ref name="cv" />
+
+He worked in the field of probability and statistics,<ref name="usp_obit" /> on statistical models and stochastic systems, particularly Markov Particle Systems.<ref name="inpe_obit" /> He was a senior professor at the [[Institute of Mathematics and Statistics, University of São Paulo]],<ref name="usp_obit" /> where he coordinated [[NeuroMat]] (Research, Innovation, and Dissemination Center for Neuromathematics) and the Support Center for Research in Mathematics, Computing, Language and Brain (MaCLinC).<ref name="inpe_obit" />
+
+=== Awards, titles and recognition ===
+He was a member of the [[Brazilian Academy of Sciences]]<ref name="inpe_obit" /> since March 5th, 1997.<ref name="cv" /> In October 10th, 2007 he received the Great Cross of the [[National Order of Scientific Merit]].<ref name="jornaldaciencia" /><ref name="inpe_obit" /><ref name="sbq" /><ref name="usp_order" /> The 26th Brazilian School of Probability in 2023 was held in his honour.<ref name="inpe_obit" /><ref name="xxvi" /> June 26th, 2024: the building where IME-USP's ''Núcleo de Apoio à Pesquisa em Modelagem Estocástica e Complexidade'' (NUMEC) held its activities was named as "Antonio Galves" building.<ref>{{Cite web |date=2024-06-20 |title=Descerramento de Placa de Denominação do Prédio "Antonio Galves" |url=https://www.ime.usp.br/convite-descerramento-placa-predio-antonio-galves/ |access-date=2025-07-03 |website=IME-USP |language=pt-BR|url-status=live |archive-url=https://web.archive.org/web/20250703182230/https://www.ime.usp.br/convite-descerramento-placa-predio-antonio-galves/ |archive-date=2025-07-03}}</ref>
+
+== Galves–Löcherbach model ==
+{{Main|Galves–Löcherbach model}}
+
+Galves and [[Eva Löcherbach]] proposed the Galves–Löcherbach model<ref name="fapesp_obit" /><ref name="revisitapesquisa" /> in 2013. This is a model with intrinsic stochasticity for biological neural nets, in which the probability of a future spike depends on the evolution of the complete system since the last spike. This model of spiking neurons was developed by mathematicians Antonio Galves and Eva Löcherbach. In 2013 they called it a model of a "system with interacting stochastic chains with memory of variable length".<ref name="galves2013" />
+
+[[File:GalvesLocherbach - Low resolution.gif|thumb|center|3D Vizualization of the Galves–Löcherbach model]]
+
+==References==
+{{Reflist|refs=
+<ref name="galves2013">{{Cite Q|Q56592766}}</ref>
+<ref name="inpe_obit">{{cite web |title=Matemático Antonio Galves morre aos 76 anos |url=https://impa.br/noticias/matematico-antonio-galves-morre-aos-76-anos/ |website=IMPA – Instituto de Matemática Pura e Aplicada |language=pt-BR}}</ref>
+<ref name="jornaldaciencia">{{cite web|url=http://www.jornaldaciencia.org.br/Detalhe.php?id=44822 |archive-url=https://archive.today/20140728004738/http://www.jornaldaciencia.org.br/Detalhe.php?id=44822 |url-status=dead |archive-date=28 July 2014 |title=Lula homenageia personalidades e instituição de C&T |date=27 February 2007 |publisher=Jornal da Ciência |accessdate=25 May 2016 }}</ref>
+<ref name="usp_obit">{{cite web |title=Referência na área de Probabilidade, matemático Antonio Galves morre aos 76 anos |url=https://jornal.usp.br/universidade/referencia-na-area-de-probabilidade-matematico-antonio-galves-morre-aos-76-anos/ |website=Jornal da USP |access-date=9 September 2023 |language=pt-BR |date=6 September 2023|url-status= live|archive-url= https://web.archive.org/web/20240226190622/https://jornal.usp.br/universidade/referencia-na-area-de-probabilidade-matematico-antonio-galves-morre-aos-76-anos/|archive-date=2024-02-26}}</ref>
+<ref name="xxvi">{{cite web |title=XXVI EBP in honor of Professor Antonio Galves |url=https://impa.br/eventos-do-impa/2023-2/xxvi-escola-brasileira-de-probabilidade-ebp/ |website=IMPA – Instituto de Matemática Pura e Aplicada |access-date=9 September 2023 |language=pt-BR}}</ref>
+<ref name="cv">{{cite web |title=Curriculum Lattes (CV) |url=http://lattes.cnpq.br/5430021088108855 |website=CNPQ |access-date=9 September 2023}}</ref>
+<ref name="sbq">{{cite web |title=Boletim Eletrônico da SBQ – No. 349 |url=https://www.sbq.org.br/publicacoes/beletronico/bienio0204/boletim349.htm |website=www.sbq.org.br |access-date=9 September 2023}}</ref>
+<ref name="usp_order">{{cite news |title=Docentes da USP são agraciados com a Ordem Nacional do Mérito Científico |url=https://jornal.usp.br/institucional/press-release/docentes-da-usp-sao-agraciados-com-a-ordem-nacional-do-merito-cientifico/ |access-date=9 September 2023 |work=Jornal da USP |date=30 November 1999 |language=pt-BR|url-status=live |archive-url=https://web.archive.org/web/20230505032852/https://jornal.usp.br/institucional/press-release/docentes-da-usp-sao-agraciados-com-a-ordem-nacional-do-merito-cientifico/ |archive-date=2023-05-05 }}</ref>
+<ref name="uol">{{cite news |title=Jefferson Antonio Galves (1947–2023) – Mortes: Referência na probabilidade, fez avanços na neurociência |url=https://www1.folha.uol.com.br/cotidiano/2023/09/mortes-referencia-na-probabilidade-fez-avancos-na-neurociencia.shtml |work=Folha de S.Paulo |date=9 September 2023 |language=pt-BR}}</ref>
+<ref name="fapesp_obit">{{cite web |title=Morre aos 76 anos o matemático Antonio Galves |url=https://fapesp.br/16291/morre-aos-76-anos-o-matematico-antonio-galves |website=fapesp.br |access-date=11 September 2023 |language=pt-BR|url-status=live |archive-url=https://web.archive.org/web/20250119020025/https://fapesp.br/16291/morre-aos-76-anos-o-matematico-antonio-galves |archive-date=2025-01-19 }}</ref>
+<ref name="revisitapesquisa">{{cite web |title=Antonio Galves contribuiu para avanços na física, linguística e neurociência |url=https://revistapesquisa.fapesp.br/antonio-galves-contribuiu-para-avancos-na-fisica-linguistica-e-neurociencia/ |website=revistapesquisa.fapesp.br |access-date=21 September 2023 |language=pt-br|url-status= live|archive-url=https://web.archive.org/web/20250613190313/https://revistapesquisa.fapesp.br/antonio-galves-contribuiu-para-avancos-na-fisica-linguistica-e-neurociencia/ |archive-date=2025-06-13 }}</ref>
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Galves, Antonio}}
+[[Category:1947 births]]
+[[Category:2023 deaths]]
+[[Category:Academic staff of the University of São Paulo]]
+[[Category:Brazilian physicists]]
+[[Category:Commanders of the National Order of Scientific Merit (Brazil)]]
+[[Category:Members of the Brazilian Academy of Sciences]]
+[[Category:Academics from São Paulo]]
+[[Category:University of São Paulo alumni]]
+[[Category:Professors of the Institute of Mathematics and Statistics, University of São Paulo]]

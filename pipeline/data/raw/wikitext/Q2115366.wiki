@@ -1,0 +1,54 @@
+{{Short description|American-Israeli research physicist (1942–2021)}}
+{{Infobox scientist
+| name              = Stephen Wiesner
+| image             = Steve8.jpg
+| caption           = Wiesner in 1988
+| birth_name        =
+| birth_date        = 1942
+| birth_place       = US
+| death_date        = {{death date and age|2021|08|12|1942}}
+| death_place       = Jerusalem
+| citizenship       = US, Israel
+| workplaces        = 
+| patrons           = 
+| education         = [[Brandeis University]]
+| alma_mater        = [[Columbia University]]
+| thesis_title       = Experimental test of the rotational invariance of the weak interaction
+| thesis_url         = https://clio.columbia.edu/catalog/1611004?counter=1
+| thesis_year        = 1972
+| notable_works     = Conjugate Coding, 1983 (published)
+| known_for         = {{hlist| [[Quantum information theory]] | [[superdense coding]] |[[quantum money]] | quantum multiplexing }}
+| fields            = [[quantum information]]
+| awards            = [[Rank Prize]] (2006)  [[Micius Quantum Prize]] (2019) 
+| parents           = [[Jerome Wiesner]], Laya Wiesner
+}}
+
+'''Stephen J. Wiesner''' (1942 – August 12, 2021)<ref name=death>{{Cite web|url=https://www.scottaaronson.com/blog/?p=5730|title=Shtetl-Optimized » Blog Archive » Stephen Wiesner (1942-2021)}}</ref> was an American-Israeli research physicist, inventor and construction laborer. As a graduate student at [[Columbia University]] in New York in the late 1960s and early 1970s, he discovered several of the most important ideas in [[quantum information theory]], including [[quantum money]]<ref>{{cite web|last=Satell|first=Greg|title=The Very Strange—And Fascinating—Ideas behind IBM's Quantum Computer|work= Forbes|date= July 10, 2016|url= https://www.forbes.com/sites/gregsatell/2016/07/10/the-very-strange-and-fascinating-ideas-behind-ibms-quantum-computer/}}</ref> (which led to [[quantum key distribution]]), quantum multiplexing<ref>S.J. Wiesner, "Conjugate Coding", SIGACT News 15:1, pp.&nbsp;78–88, 1983.</ref> (the earliest example of [[oblivious transfer]]) and [[superdense coding]]<ref>{{cite journal |first1=C. |last1=Bennett |first2=S. J. |last2=Wiesner |title=Communication via one- and two-particle operators on Einstein–Podolsky–Rosen states |journal=Phys. Rev. Lett. |volume=69 |pages=2881–2884 |year=1992 |issue=20 |doi=10.1103/PhysRevLett.69.2881 |pmid=10046665 }}</ref> (the first and most basic example of entanglement-assisted communication). Although this work remained unpublished for over a decade, it circulated widely enough in manuscript form to stimulate the emergence of [[quantum information science]] in the 1980s and 1990s. 
+
+Stephen Wiesner is the son of [[Jerome Wiesner]]<ref>[https://books.google.com/books?id=mkO1PGlMzS0C&pg=PT281 How the Hippies Saved Physics: Science, Counterculture, and the Quantum Revival], by David Kaiser</ref> and Laya Wiesner. He received his undergraduate degree from [[Brandeis University]]. In the 1970s, after leaving academia, he worked in many different Silicon Valley startups while also working on weekends at a fruits and vegetable distribution co-op. During this time he became interested in Judaism and in finding solutions for solar energy, clean energy and space migration. 
+
+After moving to Israel, in addition to his religious study, Wiesner worked part time in construction and as a surveyor. He continued to work constantly on inventions, ideas and prototypes, mostly related to clean energy, sustainability and space travel.<ref>{{cite book |last1=Scott |first1=Aaronson |title=Quantum Computing Since Democritus |date=2013 |publisher=Cambridge University Press |isbn=978-0521199568 |page=127 |url=https://books.google.com/books?id=jRGfhSoFx0oC&pg=PA127 |access-date=8 August 2018}}</ref><ref name=death/> He remained affiliated with the Quantum Foundations & Information Group at [[Tel Aviv University]].<ref>{{cite web |url=https://www.jpost.com/israel-news/grapevine-total-separation-625657 |title=Grapevine: Total separation |author=Greer Fay Cashman |work=Jerusalem Post |date=2020-04-23 |access-date=2021-08-14}}</ref><ref>{{cite web |url=https://www.tau.ac.il/~quantum/people.html |title=People@Quantum |work=tau.ac.il |access-date=2021-08-14}}</ref>
+
+In 2006 he shared the [[Rank Prize]] in Optoelectronics with [[Charles H. Bennett (physicist)|Charles H. Bennett]] and [[Gilles Brassard]] for quantum cryptography. In 2019, he received one of six [[Micius Quantum Prize]]s, along with Bennett, Brassard, [[Artur Ekert]], [[Anton Zeilinger]] and [[Pan Jianwei]], for quantum communication.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* ''[[The Code Book]]'', [[Simon Singh]], (Doubleday, 1999), pp.&nbsp;331–338.
+* ''Jerry Wiesner: scientist, statesman, humanist: memories and memoirs'', Jerome Bert Wiesner and Walter A. Rosenblith,  (MIT Press, 2003), p.&nbsp;591.
+* [https://arxiv.org/abs/quant-ph/0604072 ''Brief History of Quantum Cryptography: A Personal Perspective'', Gilles Bassard, October 17, 2005.]
+* {{cite web |url=https://web.mit.edu/physics/news/physicsatmit/physicsatmit_13_farhiharrow.pdf |title=Quantum, Quantum, Quantum: Cloning, Money, and Monogamy |author=Edward Farhi, Aram Harrow |work=MIT Physics Annual Report |date=2013 |pages=59–66 |archive-url=https://web.archive.org/web/20141209050119/https://web.mit.edu/physics/news/physicsatmit/physicsatmit_13_farhiharrow.pdf |archive-date=2014-12-09}}
+
+{{DEFAULTSORT:Wiesner, Stephen}}
+[[Category:American physicists]]
+[[Category:Israeli physicists]]
+[[Category:1942 births]]
+[[Category:2021 deaths]]
+[[Category:Jewish American physicists]]
+[[Category:Brandeis University alumni]]
+[[Category:Columbia University alumni]]
+
+
+{{Israel-scientist-stub}}
+{{US-physicist-stub}}

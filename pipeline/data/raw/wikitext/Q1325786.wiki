@@ -1,0 +1,65 @@
+{{short description|Canadian physicist (1934–2023)}}
+{{Infobox scientist
+| name              = W. Murray Wonham
+| honorific_suffix  = {{post-nominals|country=CAN|FRSC|size=100%}}
+| image             = Wonham.jpg
+| image_size        = 140
+| caption           = Wonham in 2015
+| birth_name        = Walter Murray Wonham
+| birth_date        = 1934
+| birth_place       = [[Montreal, Quebec]], Canada
+| death_date        = {{Death date and given age|2023|05|14|88}}
+| death_place       = [[Toronto, Ontario]], Canada
+| field             = [[Control theory]]
+| known_for         = Linear Multivariable Control,<ref>{{cite book|url=https://www.springer.com/gp/book/9780387960715|title=Linear Multivariable Control: A Geometric Approach|first=W. M.|last=Wonham|date=December 23, 1985|publisher=Springer-Verlag|via=www.springer.com}}</ref> Supervisory control theory, Internal Model Principle, Pole Assignment Theorem<ref>{{cite web|url=https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19670016690.pdf |title=Data |publisher=ntrs.nasa.gov |date= February 1967|access-date=2019-12-23|last1=Wonham |first1=W. M. }}</ref>
+| workplaces        = [[University of Toronto]]
+| education         = [[McGill University]] ([[Bachelor of Engineering|BEng]]) <br/>[[University of Cambridge]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[John Flavell Coales|John Coales]]
+| academic_advisors = 
+| awards            = [[IEEE Control Systems Award]] <small>(1987)</small> <br/>[[Brouwer Medal]] <small>(1990)</small><br/>[[Giorgio Quazza Medal]] <small>(2020)</small>
+| website           = https://www.control.utoronto.ca/~wonham/
+}}
+
+'''Walter Murray Wonham''' {{post-nominals|country=CAN|FRSC}} (1934 – May 14, 2023) was a Canadian [[control theorist]] and professor at the [[University of Toronto]]. He focused on multi-variable geometric control theory, stochastic control and stochastic filters, and the control of discrete event systems from the standpoint of mathematical logic and formal languages.
+
+==Education==
+Wonham attended a boys' school and preferred individual to team sports, taking up sailing and tennis. He obtained his bachelor's degree in engineering physics from [[McGill University]] in 1956 and a doctorate in stochastic control from the [[University of Cambridge]] in 1961.<ref name="pastfuture">{{cite web|url=https://www.ece.utoronto.ca/news/wonham-past-future/|title=University Professor Emeritus W. Murray Wonham – Past & Future &#124; Electrical & Computer Engineering|website=www.ece.utoronto.ca}}</ref>
+
+==Career==
+In the 1960s, he worked at [[Purdue University]]'s Control and Information Systems Laboratory, [[Martin Marietta]]'s Research Institute for Advanced Studies (RIAS) in [[Baltimore]], [[Brown University]]'s Department of Applied Mathematics, and in the Office for Control Theory and Applications of [[NASA]]'s Electronics for Research Center, where he developed a geometric theory of multivariable control with [[A. Stephen Morse]].<ref name="pastfuture"/> In 1968, Wonham proved a [[separation principle in stochastic control|separation theorem for controls]] in a more general cost functional class with many technical assumptions and restrictions.<ref name="Wonham">{{cite journal |author=Murray Wonham |title=On the separation theorem of stochastic control |journal=SIAM J. Control |volume=6 |issue=2 |pages=312–326 |year=1968|doi=10.1137/0306023 }}</ref> 
+
+Wonham returned to Canada in 1970, after fifteen years away, and joined the University of Toronto as an associate professor in the Faculty of Electrical Engineering. Being with the university's Control Theory Group as a full professor since 1972, he served as Dean of Engineering and Applied Sciences at the University of Toronto between 1992 and 1996. He was made university professor in 1996 and appointed University Professor Emeritus upon his retirement in 2000.<ref name="pastfuture"/>
+
+Wonham and his student Bruce Francis first articulated the [[Internal model (motor control)|internal model principle]] in 1976, which is a [[good regulator]] restricted to the [[ordinary differential equations]] subset of [[control theory]].<ref>B. A. Francis and W. M. Wonham, "[https://www.researchgate.net/profile/Walter_Wonham/publication/223996193_The_internal_model_principle_of_control_theory/links/5488b5610cf289302e30b828.pdf The internal model principle of control theory]", ''Automatica'' '''12''' (1976) 457–465.</ref>  As an explicit formulation of the Conant and Ashby good regulator theorem,<ref>Roger C. Conant and W. Ross Ashby, "[http://pespmc1.vub.ac.be/Books/Conant_Ashby.pdf Every good regulator of a system must be a model of that system]", ''International Journal of Systems Science'' vol '''1''' (1970), 89–97.</ref> it stands in contrast to classical control where the classical feedback loop fails to explicitly model the controlled system (although the classical controller may contain an implicit model). In 1987, Wonham and Peter Ramadge introduced [[supervisory control theory]] as a method for automatically synthesizing supervisors that restrict the behavior of a plant such that as much as possible of the given specifications are fulfilled.<ref>{{cite journal |author-first1=Peter J. |author-last1=Ramadge |author-first2=Walter M. |author-last2=Wonham |title=Supervisory Control of a Class of Discrete Event Processes |journal=SIAM Journal on Control and Optimization |volume=25 |number=1 |pages=206–230 |date=January 1987 |doi=10.1137/0325013}}</ref>
+
+Wonham authored and co-authored about seventy-five research papers, as well as the book ''Linear Multivariable Control: A Geometric Approach''. He was a Fellow of the [[Royal Society of Canada]] and the [[Institute of Electrical and Electronics Engineers]] (IEEE).<ref>{{cite web|url=https://en.wikipedia.org/w/index.php?title=List_of_fellows_of_IEEE_Control_Systems_Society&oldid=932027726|title=List of fellows of IEEE Control Systems Society|date=December 22, 2019|via=Wikipedia}}</ref> He was an Honorary Professor of the Beijing University of Aeronautics and Astronautics and a Foreign Member of the (U.S.) [[National Academy of Engineering]].<ref>[https://ieeexplore.ieee.org/author/37301337100 Biography on IEEE Xplore Digital Library]</ref>
+
+==Death==
+
+Wonham died on May 14, 2023, at the age of 88.<ref>{{Cite web |url=https://www.legacy.com/ca/obituaries/theglobeandmail/name/walter-wonham-obituary?id=52051408 |title=Walter Murray Wonham |work=The Globe and Mail |via=Legacy.com |access-date=June 11, 2023}}</ref>
+
+==Selected works==
+* [https://www.springer.com/gp/book/9781468400687 Linear multivariable control: a geometric approach]. Springer 1979
+* [https://www.springer.com/gp/book/9783319204956 Supervisor Localization: A Top-Down Approach to Distributed Control of Discrete-Event Systems]. Springer 2016
+* [https://www.springer.com/gp/book/9783319774510 Supervisory Control of Discrete-Event Systems]. Springer 2019
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.control.utoronto.ca/DES/wonham.html Official personal webpage hosted by University of Toronto] {{Webarchive|url=https://web.archive.org/web/20191222232255/https://www.control.utoronto.ca/DES/wonham.html |date=2019-12-22 }}
+* [https://www.ece.utoronto.ca/news/wonham-past-future/ University Professor Emeritus W. Murray Wonham – Past & Future]
+* [https://www.genealogy.math.ndsu.nodak.edu/id.php?id=164675 Mathematics Genealogy Project profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wonham, W. Murray}}
+[[Category:1934 births]]
+[[Category:2023 deaths]]
+[[Category:Control theorists]]
+[[Category:McGill Faculty of Engineering alumni]]
+[[Category:Academic staff of the University of Toronto]]
+[[Category:Canadian mathematicians]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Martin Marietta people]]

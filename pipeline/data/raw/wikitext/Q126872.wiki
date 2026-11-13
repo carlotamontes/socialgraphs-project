@@ -1,0 +1,60 @@
+{{Short description|German chemist (born 1946)}}
+
+'''Jürgen Gmehling''' (born 13 January 1946 in [[Duisburg]]) is a retired<ref>{{Cite web|url=http://www.presse.uni-oldenburg.de/mit/2011/181.html|title = Pressedienst 17. Mai 2011: Chemiker Jürgen Gmehling im Ruhestand -- Universität Oldenburg}}</ref> German [[professor]] of technical and industrial [[chemistry]] at the [[Carl von Ossietzky University of Oldenburg]].
+
+==Biography==
+His career started with an apprenticeship as a laboratory assistant at the Duisburg copper works<ref>{{cite web|url=http://www.ddbst.com/juergen-gmehling.html|title=Biography from DDBST company web site|access-date=2017-06-27}}</ref>  before he studied [[chemical engineering]] at the engineering school in [[Essen]] and then chemistry in [[Dortmund]] and [[Clausthal]]. He received his [[diploma]] from the [[Technical University of Dortmund|University of Dortmund]] in 1970 and his PhD (Dr. rer. nat., [[inorganic chemistry]]) in 1973. After this he worked as a scientific coworker in Dortmund before he became a private lecturer and, after his [[habilitation]], an assistant professor.
+
+Gmehling was appointed a full professor for technical chemistry at the [[University of Oldenburg]] in 1989 and retired in 2011.
+
+==Fields of research==
+Gmehling's main focus is the [[process development]]. This includes the development of software for process synthesis and [[process simulation]] as well as measurement, collection, and estimation of thermophysical properties of pure components and component mixtures. The following list summarizes fields of his scientific work but is in no way complete.
+
+===Measurements===
+* Phase equilibrium data ([[vapor-liquid equilibria]],<ref name="Horstmann Fischer Gmehling pp. 1499–1503">{{cite journal | last1=Horstmann | first1=Sven | last2=Fischer | first2=Kai | last3=Gmehling | first3=Jürgen | title=Isothermal Vapor−Liquid Equilibrium and Excess Enthalpy Data for the Binary Systems Water + Sulfolane and Methanol + N-Methyl-2-pyrrolidone | journal=Journal of Chemical & Engineering Data | publisher=American Chemical Society (ACS) | volume=49 | issue=6 | date=19 May 2004 | issn=0021-9568 | doi=10.1021/je034254m | pages=1499–1503}}</ref> liquid-liquid equilibria, solid–liquid equilibria,<ref name="Joh Kreutz Gmehling pp. 886–889">{{cite journal | last1=Joh | first1=Ralph | last2=Kreutz | first2=Jens | last3=Gmehling | first3=Jürgen | title=Measurement and Prediction of Ternary Solid−Liquid Equilibria | journal=Journal of Chemical & Engineering Data | publisher=American Chemical Society (ACS) | volume=42 | issue=5 | date=1 September 1997 | issn=0021-9568 | doi=10.1021/je970051k | pages=886–889}}</ref> gas solubilities, heats of mixing, activity coefficients<ref name="Gruber Topphoff Gmehling pp. 935–940">{{cite journal | last1=Gruber | first1=Detlef | last2=Topphoff | first2=Magnus | last3=Gmehling | first3=Jürgen | title=Measurement of Activity Coefficients at Infinite Dilution Using Gas−Liquid Chromatography. 9. Results for Various Solutes with the Stationary Phases 2-Pyrrolidone and N-Methylformamide | journal=Journal of Chemical & Engineering Data | publisher=American Chemical Society (ACS) | volume=43 | issue=6 | date=5 September 1998 | issn=0021-9568 | doi=10.1021/je9801213 | pages=935–940}}</ref> and more)
+
+===Data collection===
+Gmehling began in the 1970s with the systematic evaluation of the scientific literature, aiming to build a data bank for vapor-liquid equilibria. These data were needed for the development of a new method for the prediction of activity coefficients named [[UNIFAC]]. This data bank is still named the [[Dortmund Data Bank]].<ref name="Gmehling Weidlich 1985 pp. 447–449">{{cite journal | last1=Gmehling | first1=Jürgen | last2=Weidlich | first2=Ulrich | title=Die Dortmunder Datenbank - Basis für die Weiterentwicklung der UNIFAC-Methode | journal=Chemie Ingenieur Technik | publisher=Wiley | volume=57 | issue=5 | year=1985 | issn=0009-286X | doi=10.1002/cite.330570512 | pages=447–449}}</ref>
+
+===Development of estimation and correlation models===
+Gmehling developed with colleagues models for the estimation of several thermodynamic and thermophysical properties:
+* Activity coefficient models like [[UNIFAC]]<ref name="Fredenslund Gmehling Michelsen Rasmussen 1977 pp. 450–462">{{cite journal | last1=Fredenslund | first1=Aage | last2=Gmehling | first2=Jurgen | last3=Michelsen | first3=Michael L. | last4=Rasmussen | first4=Peter | last5=Prausnitz | first5=John M. | title=Computerized Design of Multicomponent Distillation Columns Using the UNIFAC Group Contribution Method for Calculation of Activity Coefficients | journal=Industrial & Engineering Chemistry Process Design and Development | publisher=American Chemical Society (ACS) | volume=16 | issue=4 | year=1977 | issn=0196-4305 | doi=10.1021/i260064a004 | pages=450–462}}</ref><ref name="Weidlich Gmehling 1987 pp. 1372–1381">{{cite journal | last1=Weidlich | first1=Ulrich | last2=Gmehling | first2=Juergen | title=A modified UNIFAC model. 1. Prediction of VLE, hE, and .gamma..infin. | journal=Industrial & Engineering Chemistry Research | publisher=American Chemical Society (ACS) | volume=26 | issue=7 | year=1987 | issn=0888-5885 | doi=10.1021/ie00067a018 | pages=1372–1381}}</ref> (see also [[group contribution method]]) and extensions. For the further development of these widely used methods Gmehling founded an [[UNIFAC Consortium|industry consortium]] where many international companies are participating.
+* Equations of state (EOS)<ref name="Holderbaum Gmehling 1991 pp. 251–265">{{cite journal | last1=Holderbaum | first1=T. | last2=Gmehling | first2=J. | title=PSRK: A Group Contribution Equation of State Based on UNIFAC | journal=Fluid Phase Equilibria | publisher=Elsevier BV | volume=70 | issue=2–3 | year=1991 | issn=0378-3812 | doi=10.1016/0378-3812(91)85038-v | pages=251–265}}</ref> including mixing rules for applying EOS to mixtures (see [[PSRK]]).
+
+===Software development===
+The following implementation of his methods are also developments:
+* an expert system<ref name="Möllmann Gmehling 1997 pp. 324–328">{{cite journal | last1=Möllmann | first1=Christian | last2=Gmehling | first2=Jürgen | title=Auswahl selektiver Zusatzstoffe für die Rektifikation durch kombinierten Zugriff auf experimentelle und vorausberechnete Gleichgewichtsdaten | journal=Chemie Ingenieur Technik | publisher=Wiley | volume=69 | issue=3 | year=1997 | issn=0009-286X | doi=10.1002/cite.330690309 | pages=324–328}}</ref> for the entrainer selection for the azeotropic and extractive distillation
+
+== Awards ==
+[[Image:RossiniLectureshipAwardJürgenGmehling.jpg|thumb|Rossini Lectureship Award; left: J.-P. E. Grolier; right: J. Gmehling]]
+Gmehling has received some awards:
+* Arnold-Eucken Price in 1982 <ref>{{cite web |url=http://www.ddbst.com/juergen-gmehling.html|title=Biography from DDBST company web site|access-date=2017-06-27}}</ref>
+* The Rosini Lectureship Award in 2008 <ref>{{cite web |url=http://www.iactweb.org/Awards/awardhistory.htm|title=Rossini Lectureship Award|access-date=2017-06-27}}</ref>
+* The Gmelin-Beilstein-Denkmünze (Silver Medal) in 2010<ref>{{cite web |url=http://www.gmehling.chemie.uni-oldenburg.de/47168.html|title=University web page|access-date=2017-06-27}}</ref>
+* The Emil Kirschbaum Medal in 2013 <ref>{{cite web|url=http://processnet.org/Emil+Kirschbaum_Medaille-p-343.html|title=ProcessNet web page|access-date=2017-06-27}}</ref>
+
+==Publications==
+Gmehling has published scientific articles and  books.
+
+===Selection of scientific articles===
+{{reflist}}
+
+==External links==
+* [http://www.uni-oldenburg.de/tchemie Chair at the University of Oldenburg]
+* [http://www.uni-oldenburg.de/tchemie/7112.html Prof. Jürgen Gmehling]
+* [http://www.ddbst.de DDBST GmbH]
+* [http://www.ltp-oldenburg.de LTP GmbH]
+* [http://www.unifac.org UNIFAC consortium]
+* [http://www.iupac.org/publications/ci/2007/2905/iw2_gmehling.html ''Chemistry International'' article about Rossini Lectureship Award (accessed 2008-08-31)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gmehling, Jurgen}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:21st-century German chemists]]
+[[Category:People from Duisburg]]
+[[Category:Technical University of Dortmund alumni]]
+[[Category:Academic staff of the University of Oldenburg]]
+[[Category:Thermodynamicists]]
+[[Category:20th-century German chemists]]

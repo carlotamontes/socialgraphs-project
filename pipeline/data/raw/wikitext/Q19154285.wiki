@@ -1,0 +1,175 @@
+{{short description|Czech physicist}}
+{{Use mdy dates|date=September 2015}}
+{{Infobox scientist
+|name             = Jiří Horáček
+|image            = Prof. Jiri Horacek.jpg
+|caption          = 
+|birth_date       = {{Birth date and age|1945|2|2}}
+|birth_place      = Nová Paka, Czech Republic
+|field            = [[Theoretical physics]]
+|workplaces       = [[Charles University in Prague]]<br />[[Tohoku University]]
+|doctoral_advisor = Jozef Kvasnica
+|known_for        = [[Method of continued fractions]]
+}}
+
+[[Academic ranks in the Czech Republic and in Slovakia|Prof. RNDr.]] '''Jiří Horáček''', DrSc. (* February 2, 1945 in [[Nová Paka]]) is a Czech [[Theoretical physics|theoretical physicist]], professor at [[Charles University in Prague]], where he works at the Institute of Theoretical Physics, which is a part of the Faculty of Mathematics and Physics. He was the director of the Institute in 2003–2011. 
+He works in the field of theoretical [[atomic physics|atomic]] and [[molecular physics]] with a special focus on numerical solutions to [[integral equation|integral]] and [[differential equation]]s of [[scattering theory]] and on numerical [[analytic continuation]] methods localizing the [[pole (complex analysis)|poles]] of scattering quantities related to [[Fano resonance|resonances]].
+
+== Life ==
+Jiří Horáček spent his early life in [[Nová Paka]]. His mother Marta Horáčková (née Pátá) was a music teacher. In early 
+youth he started playing violin. His teacher was a famous music virtuoso Josef Muzika. 
+Although Jiří Horáček later pursued a different subject, violin has always been an important part of his life and he performs 
+regularly with a music group Four and a Half or with friends. Every year he performs in [[Czech Christmas Mass]].
+
+In 1963 he started studying [[physics]] at Charles University in Prague. He graduated in theoretical physics, defending his diploma thesis on electron-atom collisions<ref>Jiří Horáček, ''Theory of electron collisions with atoms'',
+1968, diploma thesis, Charles University in Prague (in Czech)</ref>
+under the supervision of Jozef Kvasnica. After one year of compulsory military service in [[Czechoslovak People's Army]] 
+he began his doctoral studies at the Department of Theoretical Physics, Faculty of Mathematics and Physics, Charles University in Prague.
+He defended his doctoral thesis in 1972<ref>Jiří Horáček, ''New form of phase equation'',
+1972, RNDr doctoral thesis, Charles University in Prague (in Czech)</ref>
+and his candidate thesis (the then equivalent of PhD) in 1975.<ref>Jiří Horáček, ''Contribution to the theory of three particle scattering'',
+1975, candidate thesis, Charles University in Prague</ref>
+It was during this time that he met his future wife, physician Eva Plchová, whom he married in 1974. They have two daughters Jitka (1975) and Olga (1978).
+After finishing his doctoral studies he got an assistant position at the Department. In 1979–1981 he completed a postdoc fellowship at [[Tohoku University]] in [[Sendai]], Japan, working with Professor Tatuya Sasakawa on the theory of collisional 
+processes in nuclear and atomic physics. During his stay in Japan Jiří Horáček also devoted a lot of time to [[karate]]; he has a [[Black belt (martial arts)|black belt]] (1st [[Dan (rank)|dan]]) in Shotokan Karate-Do. After returning to [[Czechoslovakia]] he also practiced karate in the Slavoj [[Hloubětín]] sports club.
+
+After the [[Velvet Revolution]] in 1989 opportunity opened up for him to travel as a visiting professor to the [[University of Southern California]] in Los Angeles and to the [[Technical University of Munich]]. In 1997 Jiří Horáček was awarded a full professorship at Charles University in Prague. In 2003–2011 he was the head of the Institute of Theoretical Physics.
+
+== Scientific work ==
+The main topic of Jiří Horáček's scientific work is the application of 
+[[quantum mechanics|quantum]] [[scattering theory]] to nuclear, atomic, and molecular physics. His work mainly focused on the development of efficient methods facilitating numerical solutions of integral equations appearing in the scattering theory, particularly the [[Lippmann-Schwinger equation]]. His application of the [[method of continued fractions]] developed together with Tatuya Sasakawa during Jiří's fellowship at Tohoku University is still used in nuclear, atomic, and molecular physics.<ref>Ribeiro E.M.S, Machado L.E., Lee M.-T., Brescansin L.M. "Application of the method of continued fractions to electron 
+scattering by polyatomic molecules", Computer Physics Communications 136 (2001) 117–125</ref> 
+In 1991 he modified the method together with [[Lorenz S. Cederbaum]] and Hans-Dieter Meyer from [[Heidelberg University]] and they developed the Schwinger-Lanczos method,<ref>H.-D. Meyer, J. Horáček, L.S. Cederbaum, "Schwinger and anomaly-free Kohn variational principles and a generalized Lanczos algorithm for nonsymmetric operators", Physical Review A 43 (1991) 3587–3596.</ref>
+which Jiří applied to calculations of electron-molecule collisions and ion-atom collisions together with his students and with Professor Wolfgang Domcke from the [[Technical University of Munich]]. They calculated the scattering cross-sections for the processes of vibrational excitation, dissociative attachment, and associative detachment in slow electron collisions with various diatomic molecules. Additionally, Jiří Horáček developed methods of calculating scattering phase shifts, resonance parameters, low-energy expansions in the scattering theory, and solutions of the inverse scattering problem.
+
+== Awards ==
+In 1986 he was awarded the Czech Literature Fund<ref>[http://www.nclf.cz/ Czech literature fund] (in Czech)</ref> prize for his scientific work and in 2011 he won an honorary medal from the Faculty of Mathematics and Physics, Charles University in Prague for his long-standing scientific and pedagogical work.<ref>* {{cite web | url = http://abicko.avcr.cz/miranda2/m2/aktuality/pdfka/Pametni_medaile.pdf | title = Academic Bulletin of the Czech Academy of Sciences (in Czech) | access-date = February 9, 2015}}
+</ref>
+
+== Selected publications ==
+Jiří Horáček authored almost 100 publications in the fields of [[theoretical physics]] and [[numerical mathematics]], including:
+* {{Citation
+ | last1 = Horáček
+ | first1 = J.
+ | last2 = Sasakawa
+ | first2 = T.
+ | title = Method of continued fractions with applications to atomic physics
+ | journal = Phys. Rev. A
+ | volume = 28
+ | pages = 2151–2156
+ | year = 1983
+ | issue = 4
+ | doi = 10.1103/PhysRevA.28.2151
+ | bibcode = 1983PhRvA..28.2151H }}
+* {{Citation
+ | last1 = Horáček
+ | first1 = J.
+ | last2 = Sasakawa
+ | first2 = T.
+ | title = Method of continued fractions with applications to atomic physics. II
+ | journal = Phys. Rev. A
+ | volume = 30
+ | pages = 2274–2277
+ | year = 1984
+ | issue = 5
+ | doi = 10.1103/PhysRevA.30.2274
+ | bibcode = 1984PhRvA..30.2274H }}
+* {{Citation
+ | last1 = Horáček
+ | first1 = J.
+ | last2 = Sasakawa
+ | first2 = T.
+ | title = Method of continued fractions for on- and off-shell t matrix of local and nonlocal potentials
+ | journal = Phys. Rev. C
+ | volume = 32
+ | pages = 70–75
+ | year = 1985
+ | issue = 1
+ | doi = 10.1103/PhysRevC.32.70
+ | pmid = 9952803
+ | bibcode = 1985PhRvC..32...70H }}
+* {{Citation
+ | last1 = Meyer
+ | first1 = H.-D.
+ | last2 = Horáček
+ | first2 = J.
+ | last3 = Cederbaum
+ | first3 = L.S.
+ | title = Schwinger and anomaly-free Kohn variational principles and a generalized Lanczos algorithm for nonsymmetric operators
+ | journal = Phys. Rev. A
+ | volume = 43
+ | pages = 3587–3596
+ | year = 1991
+ | issue = 7
+ | doi = 10.1103/PhysRevA.43.3587
+ | pmid = 9905446
+ | bibcode = 1991PhRvA..43.3587M }}
+* {{Citation
+ | last = Horáček
+ | first = J.
+ | title = Dissociative electron attachment and vibrational excitation of H<sub>2</sub> by low-energy electrons: Calculations based on an improved nonlocal resonance model
+ | journal = Phys. Rev. A
+ | volume = 70
+ | article-number = 052712
+ | year = 2004
+ | issue = 5
+ | doi = 10.1103/PhysRevA.70.052712
+ | bibcode = 2004PhRvA..70e2712H |display-authors=etal}}
+* {{Citation
+ | last = Horáček
+ | first = J.
+ | title = Dissociative electron attachment and vibrational excitation of H<sub>2</sub> by low-energy electrons: Calculations based on an improved nonlocal resonance model. II. Vibrational excitation
+ | journal = Phys. Rev. A
+ | volume = 73
+ | article-number = 022701
+ | year = 2006
+ | issue = 2
+ | doi = 10.1103/PhysRevA.73.022701
+ | bibcode = 2006PhRvA..73b2701H |display-authors=etal}}
+
+He has also coauthored the book
+* {{cite book
+ | last1 = Kukulin
+ | first1 = V. I.
+ | last2 = Krasnopol'sky
+ | first2 = V. M.
+ | last3 = Horáček
+ | first3 = J.
+ | title = Theory of Resonances, Principles and Applications
+ | publisher = Springer-Science+Business Media, B.V
+ | series = Reidel Texts in the Mathematical Sciences
+ | year = 1989
+ | isbn =  978-90-481-8432-3
+}}
+and two chapters in
+* {{cite book
+ | editor-last1 = Čársky
+ | editor-first1 = P.
+ | editor-last2 = Čurík
+ | editor-first2 = R.
+ | title = Low-Energy Electron Scattering from Molecules, Biomolecules and Surfaces (CRC 2012)
+ | publisher = CRC Press
+ | place = Boca Raton
+ | year = 2012
+}}
+
+== Biography ==
+* Michael Třeštík, editor: Kdo je kdo v České republice na přelomu 20. století. AGENTURA KDO JE KDO, Praha 1998, str. 198.
+
+==References==
+{{Reflist}}
+
+=== External links ===
+{{cite web | url = http://utf.mff.cuni.cz/info/lide/horacek.html | title = Jiří Horáček on official web pages of Charles University (in Czech) | access-date = February 9, 2015}}
+
+{{cite web | url = http://utf.mff.cuni.cz/en/index.html | title = The web page of Institute of Theoretical Physics | access-date = February 9, 2015}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Horacek, Jiri}}
+[[Category:1945 births]]
+[[Category:People from Nová Paka]]
+[[Category:Living people]]
+[[Category:Czech physicists]]
+[[Category:Charles University alumni]]
+[[Category:Theoretical physicists]]

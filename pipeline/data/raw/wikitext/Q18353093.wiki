@@ -1,0 +1,109 @@
+{{short description|American aerospace engineer, computer scientist, physicist}}
+{{Infobox scientist
+| name        = Elaine Surick Oran
+| image       = 20131016 Elaine Oran 10a.jpg
+| caption     = Oran in 2013
+| birth_date  = {{birth date and age|1946|04|16}}
+| birth_place = [[Rome, Georgia]], U.S.
+| death_date  = 
+| death_place = 
+| field       = [[Computational physics]], Explosions, Propulsion, Turbulence, Astrophysics
+| workplaces  = [[Texas A&M University]]<br/>[[University of Maryland, College Park]]<br/> [[U.S. Naval Research Laboratory]]
+| education   = [[Bryn Mawr College]]<br/> [[Yale University]]
+| awards      = [[Fluid Dynamics Prize (APS)]], 2013
+| spouse      = Daniel Oran
+}}
+
+{{external media | width = 210px | float = right | headerimage= | video1 = Dr. Elaine S. Oran: [https://www.youtube.com/watch?v=D83b6CeKIMM WITI Hall of Fame 2002 Induction Video], Women In Technology International}}
+
+'''Elaine Surick Oran''' (born April 16, 1946) is an [[Americans|American]] physical scientist and is considered a world authority on numerical methods for large-scale simulation of physical systems.<ref name=NRL2006 /> She has pioneered computational technology to solve complex reactive flow problems, unifying concepts from science, mathematics, engineering, and computer science in a new methodology.<ref name=Rank2007 /> An incredibly diverse range of phenomena can be modeled and better understood using her techniques for numerical simulation of fluid flows, ranging from the tightly grouped movements of fish in Earth's oceans to the explosions of far-flung supernovae in space.<ref name=Spector2007 /> Her work has contributed significantly to the advancement of the engineering profession.<ref name=Spector2007 />
+
+== Education ==
+Elaine Surick is the daughter of Herman E. Surick and the stepdaughter of Doris Luterman-Surick. She is married to Daniel Oran.<ref name=DorisLutermanSurick>{{cite web|title=Obituary, Doris M. (Manstein) Luterman-Surick|url=http://www.legacy.com/obituaries/philly/obituary.aspx?n=doris-m-luterman-surick-manstein&pid=123406269|website=Philly.com|access-date=19 October 2014}}</ref>
+
+Elaine Surick attended school in [[Philadelphia, Pennsylvania]].<ref name=Leeds2010 /> [[Bryn Mawr College]] awarded her a bachelor's degree in both physics and chemistry (1966). She then attended [[Yale University]], where she received a master's degree from the department of physics (1968) and a Ph.D. from the department of engineering and applied sciences (1972).<ref name=Spector2007 />
+
+== U.S. Naval Research Lab ==
+Elaine Oran joined the Plasma Physics Division at [[United States Naval Research Laboratory]] (NRL) in 1972.<ref name=Viterbi /><ref name=Spector2007 /> In 1978, she joined the Laboratory for Computational Physics.<ref name=Viterbi>{{cite web|title=Elaine Oran|url=http://viterbi.usc.edu/news/events/keynote/laufer/elaine-oran.htm|publisher=U.Sc. Viterbi School of Engineering|access-date=3 December 2014|archive-url=https://web.archive.org/web/20141126050819/http://viterbi.usc.edu/news/events/keynote/laufer/elaine-oran.htm|archive-date=26 November 2014|url-status=dead}}</ref> She worked to start the Center for Reactive Flow and Dynamical Systems, and became its head.<ref name=Leeds2010 /> In 1988, she became the senior scientist for reactive flow physics.<ref name=Viterbi /><ref name=Leeds2010 />
+
+She has done significant theoretical and computational research on complex dynamic systems' fluid and molecular properties. Her team has created many numerical algorithms and computerized models for accurate numerical simulation of reactive flows. Because reactive flows occur in a broad range of important phenomena, Oran's work has enabled other investigators to examine and describe many previously unexplained reactive flow dynamics.<ref name=NRL2006 />
+
+Reactive flows can involve gases, liquids, solids, or combinations thereof. As these move through space and over time, they may change chemically.<ref name=Rank2007 /> Reactive flow problems often involve multiple processes interacting simultaneously. Identifying the boundary conditions where states of matter react and how they interact is important in modeling reactive flows. Physical processes involved in reactive flows include species reactions, diffusive transport, radiative transport, convection, and wave-like properties, some or all of which may be modeled to address a particular problem. Modelling of complex reactive flows has applications in a wide variety of areas including [[aerodynamics]], [[fluid dynamics|hydrodynamics]], [[microfluidics]], [[chemical kinetics]], [[chemical process modeling]] (involving [[Advection|advective]] and [[Diffusion|diffusive]] transport processes as well as chemical kinetics) and [[combustion]]-related [[flame]] and [[detonation]] phenomena.<ref name=OranBoris>{{cite book|last1=Oran|first1=Elaine S.|author2-link=Jay P. Boris|last2=Boris|first2=Jay P.|title=Numerical simulation of reactive flow|date=2005|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-521-02236-1|edition=2nd}}</ref>
+
+Reactive flow modeling can be applied to solar and stellar astrophysics to study [[nova]]e, star formation, and [[cosmology]]. It can model mixing in Earth's atmosphere, rarefied gas flow during atmospheric reentry, torpedo launches in the Earth's oceans, the spread of fires in cities and forests, and the behavior of car engines and chemical lasers.<ref name=Spector2007 /><ref name=OranBoris />
+
+Oran has applied simulation methods to various issues at the Naval Research Lab. She has helped to design biosensors, propulsion systems for rockets and jets, and space and planetary exploration vehicles. She has studied the fundamental physics of combustion processes, applying flow models to flames, detonations, and the conditions underlying the transition to denotation. Her work has supported the safe storage of hydrogen fuels and other energetic materials.<ref name=NRL2006 />
+
+== Aerospace engineering ==
+She is currently a professor at [[Texas A&M University]]. She worked at the department of [[aerospace engineering]] at the [[University of Maryland]] as a Glenn L. Martin Institute Professor of Engineering from 2013 to 2019. She continues to serve as an emeritus scientist at the U.S. Naval Research Laboratory and is an adjunct professor at the [[University of Michigan]] and a visiting professor at [[Leeds University]].<ref name=Welcome2014>{{cite news|title=Aerospace Department Welcomes New Faculty Member Elaine Oran|url=http://www.aero.umd.edu/news/news_story.php?id=7648|access-date=19 October 2014|agency=Department of Aerospace Engineering|publisher=University of Maryland}}</ref> She is also a senior visiting professor in the Institute for Advanced Study at [[Hong Kong University of Science and Technology]] and a distinguished visiting professor at [[Tsinghua University]].
+
+== Publications ==
+{{Library resources box|by=yes|viaf=19741866}}
+
+She has published extensively in journals and has written a textbook, ''Numerical Simulation of Reactive Flow'' (1987, 2005), which is reported to be the most frequently used textbook on the topic.<ref name=NRL2006 />
+
+== Awards and honors ==
+Among many other awards and honors, Elaine Oran is an Honorary Fellow of the [[American Institute of Aeronautics and Astronautics]] (AIAA), "the highest distinction conferred by AIAA, … granted to preeminent individuals who have had long and highly contributory careers in aerospace, and embody the highest possible standards in aeronautics and astronautics."<ref name=Welcome2014 /> She is a Fellow of the [[American Academy of Arts and Sciences]], [[National Academy of Engineering]] and an inaugural Fellow of [[The Combustion Institute]].<ref name=OranFellowAAAS /><ref name=NAEMembership /><ref name=OranFellowCI />
+
+Other awards, honors, and honorary memberships include, but are not limited to, the following:
+
+=== Awards ===
+* [[Hoyt C. Hottel]] Keynote lecture at the [[The Combustion Institute|International Combustion Symposium]], 2014<ref name=Combustion2014>{{cite web|last1=Koning|first1=Patti|title=35th International Combustion Symposium a Resounding Success|work=Combustion Research Facility |url=http://crf.sandia.gov/35th-international-combustion-symposium-a-resounding-success/|date=September 22, 2014|access-date=20 February 2015}}</ref>
+* [[Fluid Dynamics Prize (APS)]], 2013, from the [[American Physical Society]] (APS)<ref name=APS2013>{{cite news|title=Oran Receives APS 2013 Fluid Dynamics Prize|url=http://www.aero.umd.edu/news/news_story.php?id=7748|access-date=18 October 2014|agency=Department of Aerospace Engineering|publisher=University of Maryland|date=November 18, 2013}}</ref>
+* [[Presidential Rank Award]] for Distinguished Senior Professionals, from the United States Government, for exceptional long-term accomplishments, 2007<ref name=Rank2007>{{cite news|title=Dr. Elaine Oran Receives Presidential Rank Award for Distinguished Senior Professional|url=http://www.nrl.navy.mil/media/news-releases/2008/dr-elaine-oran-receives-presidential-rank-award-for-distinguished-senior-professional|archive-url=https://web.archive.org/web/20130129220107/http://www.nrl.navy.mil/media/news-releases/2008/dr-elaine-oran-receives-presidential-rank-award-for-distinguished-senior-professional|url-status=dead|archive-date=January 29, 2013|access-date=19 October 2014|work=NRL News Release|agency=Naval Research Laboratory (NRL)|date=3 April 2008}}</ref><ref name=Leeds2010 />
+* [[Society of Women Engineers]] Achievement Award, 2006<ref name=NRL2006>{{cite news|title=Dr. Elaine Oran Receives Society of Women Engineers Achievement Award|url=http://www.nrl.navy.mil/media/news-releases/2006/dr-elaine-oran-receives-society-of-women-engineers-achievement-award|archive-url=https://web.archive.org/web/20130129221327/http://www.nrl.navy.mil/media/news-releases/2006/dr-elaine-oran-receives-society-of-women-engineers-achievement-award|url-status=dead|archive-date=January 29, 2013|access-date=19 October 2014|work=NRL News Release|agency=Naval Research Laboratory (NRL)|date=22 December 2006}}</ref>
+* Dryden Lectureship in Research Award from [[American Institute of Aeronautics and Astronautics]], 2002<ref name=DrydenAward>{{cite web|title=Dryden Lectureship in Research Award Recipients|url=https://www.aiaa.org/HonorsAndAwardsRecipientsList.aspx?awardId=088aca62-9ae5-415c-90f6-07b20d2dee62|website=American Institute of Aeronautics and Astronautics|access-date=20 February 2015|archive-url=https://web.archive.org/web/20180328102345/https://www.aiaa.org/HonorsAndAwardsRecipientsList.aspx?awardId=088aca62-9ae5-415c-90f6-07b20d2dee62|archive-date=28 March 2018|url-status=dead}}</ref>
+* [[Women in Technology International]] (WITI) [[List of Women in Technology International Hall of Fame inductees|Hall of Fame]], 2002<ref name=WITI>{{cite web|title=Dr. Elaine Oran|url=http://www.witi.com/center/witimuseum/halloffame/171515/Dr.-Elaine-Oran-Senior-Scientist-U.S.-Naval-Research-Lab/|website=WITI Hall of Fame|publisher=witi|access-date=15 October 2014}}</ref><ref name=Fame2002>{{cite news|title=S&T Briefs: Hall of Fame I|url=http://www.brynmawr.edu/sandt/2002_july/briefs.html|access-date=18 October 2014|work=Science and Technology|publisher=Bryn Mawr College|date=July 2002|archive-url=https://web.archive.org/web/20150923221243/http://www.brynmawr.edu/sandt/2002_july/briefs.html|archive-date=23 September 2015|url-status=dead}}</ref>
+* [[Combustion Institute]]'s [[Zeldovich]] Gold Medal, 2000,<ref name=USNAV2000>{{cite news|title=Dr. Elaine Oran Receives Ya B. Zeldovich Gold Medal|url=http://www.nrl.navy.mil/media/news-releases/2000/dr-elaine-oran-receives-ya-b-zeldovich-gold-medal|archive-url=https://archive.today/20150220192550/http://www.nrl.navy.mil/media/news-releases/2000/dr-elaine-oran-receives-ya-b-zeldovich-gold-medal|url-status=dead|archive-date=February 20, 2015|access-date=20 February 2015|agency=U.S. Naval Research Laboratory|date=2000-09-21}}</ref><ref name=Spector2007>{{cite news|last1=Spector|first1=Barbara|title=Using Computers to Explore the Universe|url=http://www.brynmawr.edu/sandt/2007_february/computers.shtml|access-date=18 October 2014|work=Science and Technology|publisher=Bryn Mawr College|date=February 2007|archive-url=https://web.archive.org/web/20150527042229/http://www.brynmawr.edu/sandt/2007_february/computers.shtml|archive-date=27 May 2015|url-status=dead}}</ref> for "outstanding contributions to the theory of combustion and detonations."<ref name=Aerospace />
+* [[Oppenheim Prize]], 1999, given by the Institute for the Dynamics of Energetic and Reactive Systems, for "outstanding contributions to the theory of the dynamics of explosions and reactive systems."<ref name=Aerospace />
+* [[Arthur S. Flemming Award]], 1979<ref name=Flemming>{{cite web|title=Flemming Award Recipients 1948-2006|url=http://tspppa.gwu.edu/flemming-award-recipients-1948-2006|website=George Washington University|access-date=19 February 2015}}</ref>
+
+=== Honorary degrees ===
+* [[List of Honorary Graduates of the University of Leeds|Doctor of Science, honoris causa (DSc) from the University of Leeds]], conferred 15 July 2010<ref name=Leeds2010>{{cite web|title=Elaine Oran |url=http://www.leeds.ac.uk/info/30310/honorary_graduates/302/elaine_oran |website=University of Leeds |access-date=15 October 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141022193223/http://www.leeds.ac.uk/info/30310/honorary_graduates/302/elaine_oran |archive-date=22 October 2014 }}</ref><ref name=LeedsDegree>{{cite news|title=Elaine Surick Oran '66 to Receive Honorary Doctorate|url=http://alumnews.blogs.brynmawr.edu/2010/03/26/elaine-surick-oran-%E2%80%9966/|access-date=18 October 2014|agency=Bryn Mawr College|date=March 26, 2010}}</ref>
+* Docteur Honoris Causa from the [[École Centrale de Lyon]], 2006<ref name=Aerospace /><ref name=Centrale2006>{{cite news|title=Official opening of Centrale Lyon 150th anniversary |url=http://en.ec-lyon.fr/30990578/1/fiche___pagelibre/ |access-date=18 October 2014 |agency=Ecole Centrale Lyon |date=2006 |url-status=dead |archive-url=https://web.archive.org/web/20141022205556/http://en.ec-lyon.fr/30990578/1/fiche___pagelibre/ |archive-date=22 October 2014 }}</ref>
+* Docteur Honoris Causa, Institut National des Sciences Appliquées Rouen, conferred on 3 April 2015.<ref name="Oran DSc INSARouen2015">{{cite web |title=Oran Recognized with Honorary Doctorate from the Institut National des Sciences Appliquées Rouen |url=https://eng.umd.edu/news/story/oran-recognized-with-honorary-doctorate-from-the-institut-national-des-sciences-appliqueacutees-rouen |access-date=25 March 2015 |publisher=University of Maryland |ref=21}}</ref>
+
+=== Memberships ===
+* Elected an [[List of international fellows of the Royal Academy of Engineering|international fellow]] of the [[Royal Academy of Engineering]], 2024<ref name="NF24">{{cite web |title=Royal Academy of Engineering welcomes 71 new Fellows |url=https://raeng.org.uk/news/royal-academy-of-engineering-welcomes-71-new-fellows |access-date=18 September 2024}}</ref>
+* Fellow, American Academy of Arts and Sciences, 2018 <ref name="OranFellowAAAS">{{cite web |title=Elaine Oran Elected to American Academy of Arts and Sciences |url=https://aero.umd.edu/node/272 |publisher=University of Maryland |ref=24}}</ref> 
+* Fellow, The Combustion Institute, 2018 <ref name="OranFellowCI">{{cite web |title=Fellows of the combustion institute |work=The Combustion Institute &#124; Promoting and disseminating combustion science research |date=20 June 2017 |url=https://www.combustioninstitute.org/resources/awards/fellows-of-the-combustion-institute/ |publisher=International Combustion Institute |ref=23 |access-date=7 September 2018 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608051502/https://www.combustioninstitute.org/resources/awards/fellows-of-the-combustion-institute/ |url-status=dead }}</ref>
+* Member, Committee on Human Rights, National Academies of Science, Engineering and Medicine <ref name="CHROran">{{cite web |title=CHR Members |url=http://www7.nationalacademies.org/humanrights/chr_043881.htm |publisher=National Academies of Sciences, Engineering and Medicine |ref=22}}</ref>
+* Fellow of the [[American Society of Mechanical Engineers]] (ASME), 2012<ref name=Aerospace />
+* Advisory Board, Acta Mechanica Sinica, 2011–Present <ref name=Aerospace />
+* Honorary Fellow of the [[American Institute of Aeronautics and Astronautics]] (AIAA), 2011<ref name=Aerospace>{{cite web|title=Oran, Elaine S.|url=http://www.aero.umd.edu/faculty/oran|website=Department of Aerospace Engineering|access-date=19 October 2014}}</ref>
+* Fellow of the [[Society for Industrial and Applied Mathematics]] (SIAM),<ref name=APS2013 /> 2009 (charter member)<ref name=Aerospace />
+* Member of the [[National Academy of Engineering]], 2003,<ref name=Aerospace /><ref name=NAEMembership>{{cite web|title=NAE Members: Dr. Elaine S. Oran|url=http://www.nae.edu/30182.aspx|publisher=National Academy of Engineering|access-date=19 October 2014}}</ref> "the highest honor to which any aerospace engineer can aspire."<ref name=Welcome2014 />
+* Fellowship in the [[American Physical Society]] (APS), 1993, "for innovations using cutting edge computers to model and explain important physical mechanisms involving fluid dynamics, chemistry, and nonequilibrium material properties in complex reacting flows ranging from laboratory to astrophysical systems."<ref name=APS2014>{{cite news|title=APS Fellowship|url=http://www.aps.org/units/dcomp/fellowship/index.cfm?year=|access-date=18 October 2014|work=APS Physics|agency=Division of Computational Physics|publisher=American Physical Society|date=2014}}</ref>
+* Fellow of the [[American Institute of Aeronautics and Astronautics]] (AIAA), 1990<ref name=Aerospace />
+* [[Society of Women Engineers]]<ref name=Aerospace />
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+
+* [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/46954 Oral history interview transcript with Elaine Oran on 18 June 2021, American Institute of Physics, Niels Bohr Library & Archives]
+{{Authority control}}
+
+{{DEFAULTSORT:Oran, Elaine Surick}}
+[[Category:Living people]]
+[[Category:American women computer scientists]]
+[[Category:American computer scientists]]
+[[Category:21st-century American physicists]]
+[[Category:University of Maryland, College Park alumni]]
+[[Category:Bryn Mawr College alumni]]
+[[Category:Yale University alumni]]
+[[Category:Fellows of the American Society of Mechanical Engineers]]
+[[Category:Fellows of the Society for Industrial and Applied Mathematics]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:University of Michigan faculty]]
+[[Category:Fellows of the American Institute of Aeronautics and Astronautics]]
+[[Category:Fellows of the Combustion Institute]]
+[[Category:1946 births]]
+[[Category:American women academics]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Female fellows of the Royal Academy of Engineering]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Texas A&M University faculty]]
+[[Category:Achievement Award Recipients of the Society of Women Engineers]]
+[[Category:21st-century American women physicists]]

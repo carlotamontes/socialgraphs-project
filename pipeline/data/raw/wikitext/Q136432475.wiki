@@ -1,0 +1,70 @@
+{{Other people|Philip Green}}
+{{Infobox scientist
+| honorific_prefix  =
+| name              = Philip Palmer Green
+| honorific_suffix  =
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = Theoretical and computational biology
+| workplaces        = 
+| patrons           = 
+| education         = Berkeley
+| alma_mater        = 
+| thesis_title      = C*-algebra 
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1976
+| doctoral_advisor  = Marc Rieffel
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Developing important algorithms and procedures used in gene mapping and DNA sequencing
+| influences        = 
+| influenced        = 
+| awards            = Gairdner Award
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Philip Palmer Green''' is a [[Mathematical and theoretical biology|theoretical]] and [[Computational biology|computational]] biologist noted for developing important algorithms and procedures used in [[gene mapping]] and [[DNA sequencing]]. He earned his doctorate from [[University of California, Berkeley|Berkeley]] in mathematics in 1976 with a dissertation on [[C*-algebra]] under the direction of [[Marc Rieffel]], but transitioned from pure mathematics into applied work in [[biology]] and [[bioinformatics]]. Green has obtained numerous important results, including in developing [[Phred base calling|Phred]],<ref>{{cite journal | url = http://genome.cshlp.org/content/8/3/175.long | pmid = 9521921 | volume=8 | issue=3 | title=Base-calling of automated sequencer traces using phred. I. Accuracy assessment | date=March 1998 | journal=Genome Res. | pages=175–85  | last1 = Ewing | first1 = B | last2 = Hillier | first2 = L | last3 = Wendl | first3 = MC | last4 = Green | first4 = P}}</ref> a widely used DNA trace analyzer,<ref>Koboldt, D. C. and Miller, R. D. (2011) ''Identification of Polymorphic Markers for Genetic Mapping'', chapter 2 in "Genomics: Essential Methods", John Wiley and Sons.</ref><ref>Highsmith, W. E. (2006) ''Electrophoretic Methods for Mutation Detection and DNA Sequencing'', chapter 9 in "Molecular Diagnostics for the Clinical Laboratorian", Humana Press</ref> in [[Gene mapping|mapping techniques]],<ref>[[Eric Lander|Lander, E.S.]] and Green, P. (1987) Construction of multilocus genetic-linkage maps in humans. [[Proceedings of the National Academy of Sciences of the United States of America|PNAS]] 84(8), 2363–2367.</ref> and in [[genetic analysis]].<ref>{{cite journal | last1 = Ewing | first1 = B. | last2 = Green | first2 = P. | year = 2000 | title = Analysis of expressed sequence tags indicates 35,000 human genes | url = | journal = Nature Genetics | volume = 25 | issue = 2| pages = 232–234 }}</ref><ref>{{cite journal | last1 = Green | first1 = P. | display-authors = etal | year = 1993 | title = Ancient conserved regions in new gene-sequences and the protein databases | url = | journal = [[Science (journal)|Science]] | volume = 259 | issue = 5102| pages = 1711–1716 }}</ref> Green was elected to the [[National Academy of Sciences]] in 2001 and won the [[Gairdner Foundation International Award|Gairdner Award]] in 2002.<ref>{{cite journal | year = 2004 | title = Biography of Phil Green | url = http://www.pnas.org/content/101/39/13991.full.pdf | format = PDF | journal = [[Proceedings of the National Academy of Sciences of the United States of America|PNAS]] | volume = 101 | issue = 39| pages = 13991–13993 }}</ref>
+
+==See also==
+*[[Phred base calling]]
+
+== References ==
+<references />
+
+==External links==
+*{{MathGenealogy|id=32435}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Green, Philip Palmer}}
+[[Category:Living people]]
+[[Category:21st-century American biologists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:American bioinformaticians]]
+[[Category:Year of birth missing (living people)]]

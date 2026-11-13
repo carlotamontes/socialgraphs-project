@@ -1,0 +1,71 @@
+{{short description|British theoretical physicist}}
+{{Multiple issues|
+{{BLP sources|date=October 2023}}
+{{No footnotes|date=October 2023}}
+}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = David Sherrington
+| honorific_suffix  = {{Post-nominals|country=GBR|size=100%|FRS|FInstP}}
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = {{Birth year and age|1941}}
+| birth_place       = [[Blackpool]], England, UK
+| death_date        = 
+| death_place       = 
+| ethnicity         = 
+| field             = Physics
+| workplaces        = [[Oxford University]]<br />[[Imperial College London]]
+| education         = [[University of Manchester]]
+| doctoral_advisor  = [[Sam Edwards (physicist)]]
+| doctoral_students = [[Paul Goldbart]]<br />[[Mark Newman]]
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+}}
+
+'''David Sherrington''' {{postnominals|size=100%|FRS|FInstP}} is a British [[physics|theoretical physicist]] and Wykeham Professor of Physics Emeritus at the [[Oxford University|University of Oxford]].  He is known for his work in condensed matter and statistical physics, and particularly for the invention of the Sherrington-Kirkpatrick model, an exactly solvable mean-field model of a spin glass.
+
+==Career==
+{{unreferencedsect|date=October 2026}}
+David Sherrington was born in [[Blackpool]], England in 1941 and grew up in [[Yorkshire]]. He received an undergraduate degree in physics in 1962 and a PhD in theoretical physics in 1966, both from the [[University of Manchester]].  After a brief period as a lecturer at Manchester, he took a position at [[Imperial College London]] as a lecturer in physics, rising subsequently to the rank of reader and later professor.  In 1989, he moved to Oxford University as a Fellow of [[New College, Oxford|New College]] and to Oxford's Department of Theoretical Physics (now the [[Rudolf Peierls Centre for Theoretical Physics]]) as the sixth [[Wykeham Professor#Physics|Wykeham Professor of Physics]] and head of the department.  He retired as head of the department in 2004 and from the professorship in 2008.  Sherrington was Editor-in-Chief of the review journal ''[[Advances in Physics]]'' from 1984 to 2021, and was a founding editor of Communications on Physics as well as editor of the Oxford Monographs in Physics book series starting in 1995.
+
+Among other honours, Sherrington is a [[Fellow of the Royal Society]] and a Fellow of the [[Institute of Physics]], the [[American Physical Society]], and the European Academy of Sciences.  He was recipient of the [[Royal Society Bakerian Medal|Bakerian Medal]] of the Royal Society in 2001, the [[Dirac Medal (IOP)|Dirac Medal and Prize]] from the Institute of Physics in 2007 and the Blaise Pascal Medal from the European Academy in 2010.
+
+==Research==
+{{unreferencedsect|date=October 2026}}
+Sherrington's contributions to theoretical physics are in the areas of [[condensed matter physics]], [[statistical physics]] and [[complex system]]s, particularly focusing on [[Spin glass|glassy systems]], [[Artificial neural network|neural networks]] and [[Mathematical optimization|optimization problems]].  Perhaps his best known contribution is the 1975 invention, with [[Scott Kirkpatrick]], of the [[Sherrington–Kirkpatrick model]] of a spin glass.  The [[Sherrington-Kirkpatrick model]] is an [[Ising model|Ising]] [[spin glass]] model in which every spin interacts with every other, with interaction strengths having signs that are chosen independently at random.  The importance of the model stems from the fact that it was subsequently shown, in work by [[Giorgio Parisi]], to be exactly solvable for its thermal equilibrium properties.  The solution, which was based on the [[Replica trick|replica method]], reveals a phase transition in the model to a glassy phase that displays a loss of ergodicity.  Sherrington has made numerous subsequent contributions to replica theory and the theory of [[spin glasses]], and is also notable for his work on complex systems including the [[El Farol Bar problem#Minority game|minority game]] (a model of market competition) and early work on the application of statistical mechanics to [[network theory]].
+
+==See also==
+* [[Spin glass]]
+* [[Artificial neural network]]
+
+===Articles===
+*{{cite journal|author=D. Sherrington|author2=S. Kirkpatrick |year=1975|title=Solvable model of a spin-glass |journal=[[Physical Review Letters]]|volume=35|issue=26|pages=1792–1976|doi=10.1103/PhysRevLett.35.1792|bibcode=1975PhRvL..35.1792S }}
+*{{cite journal|author=A. Cavagna|author2=J. P. Garrahan |author3=I. Giardina |author4=D. Sherrington |year=1999|title=Thermal model for adaptive competition in a market |journal=[[Physical Review Letters]]|volume=83|issue=21|pages=4429–4432|doi=10.1103/PhysRevLett.83.4429|arxiv=cond-mat/9903415|bibcode=1999PhRvL..83.4429C |s2cid=119093471 }}
+*{{cite journal|author=J. R. Banavar|author2=D. Sherrington |author3=N. Sourlas |year=1987|title=Graph bipartitioning and statistical-mechanics |journal=[[Journal of Physics A]]|volume=20|issue=1|pages=L1–L8|doi=10.1088/0305-4470/20/1/001|bibcode=1987JPhA...20L...1B }}
+
+==References ==
+{{reflist}}
+
+{{FRS 1994}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sherrington, David}}
+[[Category:British theoretical physicists]]
+[[Category:20th-century English physicists]]
+[[Category:21st-century English physicists]]
+[[Category:1941 births]]
+[[Category:Complex systems scientists]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Wykeham Professors of Physics]]
+[[Category:Living people]]
+[[Category:British fellows of the Royal Society]]
+[[Category:People from Blackpool]]

@@ -1,0 +1,55 @@
+{{Short description|Dutch mathematical physicist}}
+{{Infobox scientist
+| name              = Hans Maassen
+| birth_date        = {{Birth year and age|1951}}
+| fields            = Mathematical physics, Quantum probability, Quantum information
+| workplaces        = Radboud University Nijmegen, University of Amsterdam
+| education         = University of Groningen
+| known_for         = Entropic uncertainty principle, quantum Markov chains
+| doctoral_advisor  = [[Nicolaas Marinus Hugenholtz]], [[John T. Lewis]]
+| website           = [https://www.math.ru.nl/~maassen/ Maassen’s homepage]
+}}
+
+'''Hans Maassen''' (born 1951) is a Dutch mathematical physicist and emeritus professor specialized in [[quantum probability]] and [[quantum information theory]]. He is best known as co-author of the Maassen–Uffink entropic uncertainty relation, a fundamental inequality in quantum mechanics.<ref name="maassenuffink1988">{{cite journal |last1=Maassen |first1=Hans |last2=Uffink |first2=Jos |title=Generalized Entropic Uncertainty Relations |journal=Physical Review Letters |volume=60 |issue=12 |year=1988 |pages=1103–1106 |doi=10.1103/PhysRevLett.60.1103|url=https://pure.uva.nl/ws/files/2210736/46650_28y.pdf }}</ref> He is an emeritus professor at the [[Radboud University Nijmegen]] and holds a joint appointment at the [[University of Amsterdam]].<ref name="uva2013">{{cite web |title=Hans Maassen, professor of Quantum Probability and Quantum Information |url=https://www.uva.nl/shared-content/uva/en/news/professor-appointments/2013/07/hans-maassen-professor-of-quantum-probability-and-quantum-information.html |website=University of Amsterdam |date=16 July 2013 |access-date=6 May 2025}}</ref>
+
+== Academic career ==
+Maassen received his Ph.D. in 1982 from the [[University of Groningen]] with a dissertation on quantum Langevin equations and the approach to equilibrium.<ref name="thesis">Maassen, H. (1982). ''On a class of quantum Langevin equations and the question of approach to equilibrium''. Doctoral dissertation, Rijksuniversiteit Groningen.</ref>
+
+He joined Radboud University Nijmegen in 1986 and has been an associate professor in probability and statistics since 1999. In 2013, he was appointed full professor of Quantum Probability and Quantum Information at the University of Amsterdam.<ref name="uva2013">{{cite web |title=Hans Maassen, professor of Quantum Probability and Quantum Information |url=https://www.uva.nl/shared-content/uva/en/news/professor-appointments/2013/07/hans-maassen-professor-of-quantum-probability-and-quantum-information.html |website=University of Amsterdam |date=16 July 2013 |access-date=6 May 2025}}</ref>
+
+== Research ==
+Maassen's research centers on quantum probability, a non-commutative generalization of classical probability theory. His work explores quantum systems through the lens of extended probability calculus, where observables do not necessarily commute.
+
+He is widely recognized for co-authoring a foundational paper on the [[entropic uncertainty principle]] with Jos Uffink in 1988, a fundamental inequality in all of quantum physics.<ref name="maassenuffink1988">{{cite journal |last1=Maassen |first1=Hans |last2=Uffink |first2=Jos |title=Generalized Entropic Uncertainty Relations |journal=Physical Review Letters |volume=60 |issue=12 |year=1988 |pages=1103–1106 |doi=10.1103/PhysRevLett.60.1103|url=https://pure.uva.nl/ws/files/2210736/46650_28y.pdf }}</ref>
+
+Other areas of his research include:
+* Quantum Markov chains and their ergodic theory<ref name="kummerer1998">{{cite journal |last1=Kümmerer |first1=Burkhard |last2=Maassen |first2=Hans |title=Elements of Quantum Probability |journal=Quantum Probability Communications |volume=10 |year=1998 |pages=73–100 |publisher=World Scientific}}</ref>
+* Entanglement and symmetries in quantum systems
+* Feedback control in quantum systems
+* Applications of quantum probability in optics and information theory
+* Development of an integral kernel approach to quantum stochastic calculus (‘Maassen kernels’)<ref>{{cite journal |last=Parthasarathy |first=K. R. |title=Maassen Kernels and Self-Similar Quantum Fields |journal=Astérisque |year=1996 |issue=236 |pages=227–247 |url=https://www.numdam.org/article/AST_1996__236__227_0.pdf}}</ref>
+
+He has collaborated extensively with mathematicians including [[John T. Lewis]], [[Burkhard Kümmerer]] and [[Madalin Guta]], and maintains ongoing interdisciplinary collaborations with physicists and computer scientists.
+
+== External links ==
+* [https://www.math.ru.nl/~maassen/ Hans Maassen's homepage at Radboud University]
+* [https://www.uva.nl/en/profile/m/a/j.d.m.maassen/j.d.m.maassen.html University of Amsterdam profile]
+* [https://www.math.ru.nl/~maassen/papers/EntrUncert.pdf PDF of 1988 entropic uncertainty paper]
+
+== See also ==
+* [[Quantum probability]]
+* [[Entropic uncertainty principle]]
+* [[Mutually unbiased bases]]
+* [[Quantum information theory]]
+
+== References ==
+<references/>
+
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Dutch physicists]]
+[[Category:Mathematical physicists]]
+[[Category:Quantum physicists]]
+[[Category:Academic staff of the University of Amsterdam]]
+[[Category:Academic staff of Radboud University Nijmegen]]
+[[Category:University of Groningen alumni]]

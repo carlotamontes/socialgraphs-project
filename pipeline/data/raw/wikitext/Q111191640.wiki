@@ -1,0 +1,84 @@
+{{Short description|American experimental physicist}}
+{{multiple issues|
+{{COI|date=February 2026}}
+{{orphan|date=February 2026}}
+}}
+{{Infobox scientist
+| name              = Steven K. Lamoreaux
+| image             = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| citizenship       = American
+| fields            = [[Atomic, molecular, and optical physics]]<br />[[Dark matter]]<br />[[Precision measurement]]
+| workplaces        = [[Yale University]]<br />[[Los Alamos National Laboratory]]<br />[[University of Washington]]<br />[[Institut Laue–Langevin]]
+| education         = [[University of Washington]] (B.S., Ph.D. 1986)<br />[[University of Oregon]] (M.S.)
+| doctoral_advisor  = E. Norval Fortson
+| known_for         = Precision measurement of the [[Casimir effect]]<br />[[Neutron electric dipole moment]]
+| awards            = Francis M. Pipkin Award (1999, inaugural)<br />Henderson Prize (1987)<br />Los Alamos Laboratory Fellow
+| website           = {{URL|lamoreauxgroup.yale.edu}}
+}}
+
+'''Steven K. Lamoreaux''' is an American [[experimental physics|experimental physicist]] and the Eugene Higgins Professor of Physics at [[Yale University]].<ref name="higgins">{{cite web |title=Steven Lamoreaux named Eugene Higgins Professor of Physics |url=https://news.yale.edu/2024/11/03/steven-lamoreaux-named-eugene-higgins-professor-physics |website=Yale News |date=3 November 2024}}</ref> His research centers on precision measurements, atomic physics, and experimental searches for [[dark matter]]. He is known for high-precision measurement of the [[Casimir effect|Casimir force]] and for leading the HAYSTAC dark matter experiment.
+
+== Education and early career ==
+Lamoreaux received his B.S. in 1981 from the [[University of Washington]] and his M.S. from the [[University of Oregon]] in 1982. He earned his Ph.D. in 1986 from the University of Washington under E. Norval Fortson, developing precision experimental techniques using optically pumped mercury to test [[Lorentz covariance|spatial isotropy]] and [[T-symmetry|time reversal symmetry]].<ref name="wright">{{cite web |title=Steve Lamoreaux |url=https://wlab.yale.edu/profile/steve-lamoreaux |website=Yale Wright Laboratory}}</ref><ref name="yale-profile">{{cite web |title=Steve Lamoreaux |url=https://physics.yale.edu/people/steve-lamoreaux |website=Yale Department of Physics}}</ref> His dissertation received the Henderson Prize for outstanding dissertation from the University of Washington in 1987.
+
+Following his doctorate, Lamoreaux was a postdoctoral researcher at the [[Institut Laue–Langevin]] in Grenoble, France, where he worked on a US–UK ultracold [[neutron electric dipole moment]] experiment led by Norman Ramsey.<ref name="yale-profile" /><ref name="smith1990">{{cite journal |last1=Smith |first1=K. F. |display-authors=etal |title=A search for the electric dipole moment of the neutron |journal=[[Physics Letters B]] |volume=234 |issue=1–2 |pages=191–196 |year=1990 |doi=10.1016/0370-2693(90)92027-G |bibcode=1990PhLB..234..191S}}</ref> He returned to the University of Washington as a Research Associate Professor, where he conducted research on [[ultracold neutrons]], precision [[laser spectroscopy]], and proposed a new technique to measure the neutron electric dipole moment that is currently under development at the [[Spallation Neutron Source]] at [[Oak Ridge National Laboratory]].<ref name="yale-profile" />
+
+== Los Alamos National Laboratory ==
+Lamoreaux joined [[Los Alamos National Laboratory]] in November 1996, where he became a Laboratory Fellow. At Los Alamos, he led the Dynamic Materials (Weapons Physics) Team, which developed techniques for the [[Stockpile Stewardship Program|Stockpile Stewardship]] program. He also conducted research in [[quantum key distribution|quantum cryptography]], [[quantum computing]], and [[ultracold neutrons|ultracold neutron physics]].<ref name="wright" /><ref name="yale-profile" />
+
+== Yale University ==
+Lamoreaux joined the faculty at [[Yale University]] in 2006. In November 2024, he was appointed the Eugene Higgins Professor of Physics.<ref name="higgins" />
+
+== Research ==
+Lamoreaux operates small-scale tabletop precision measurement experiments designed to test fundamental physical laws.<ref>{{cite web |title=Steve Lamoreaux Research Lab |url=https://lamoreauxgroup.yale.edu/ |website=Yale University}}</ref>
+
+=== Casimir effect ===
+In 1997, Lamoreaux published high-precision measurement of the [[Casimir effect]], the attractive force between uncharged conducting surfaces arising from quantum vacuum fluctuations of the [[electromagnetic field]]. Using a torsion pendulum apparatus, he measured the force between a spherical lens and a flat plate at separations ranging from 0.6 to 6 micrometers, obtaining results within five percent of theoretical predictions.<ref name="casimir1997">{{cite journal |last=Lamoreaux |first=S. K. |title=Demonstration of the Casimir Force in the 0.6 to 6 μm Range |journal=[[Physical Review Letters]] |volume=78 |issue=1 |pages=5–8 |year=1997 |doi=10.1103/PhysRevLett.78.5 |bibcode=1997PhRvL..78....5L}}</ref> The result was widely reported, including in ''[[The New York Times]]''.<ref name="yale-profile" />
+
+Lamoreaux and collaborators subsequently made observations of the thermal Casimir force, confirming the temperature-dependent contribution to the Casimir effect predicted at large separations.<ref name="thermal">{{cite journal |last1=Sushkov |first1=A. O. |last2=Kim |first2=W. J. |last3=Dalvit |first3=D. A. R. |last4=Lamoreaux |first4=S. K. |title=Observation of the thermal Casimir force |journal=[[Nature Physics]] |volume=7 |issue=3 |pages=230–233 |year=2011 |doi=10.1038/nphys1909 |bibcode=2011NatPh...7..230S|arxiv=1011.5219 }}</ref>
+
+=== Dark matter and axions ===
+Lamoreaux is the Principal Investigator of the Haloscope At Yale Sensitive To Axion CDM (HAYSTAC) experiment. The HAYSTAC collaboration—comprising [[Yale University]], the [[University of California, Berkeley]], the [[University of Colorado Boulder]], and [[Johns Hopkins University]]—searches for galactic cold dark matter in the form of [[axion]]s. The experiment relies on resonant microwave cavities operating at cryogenic temperatures to detect potential axion-to-photon conversion.<ref name="higgins" /><ref name="haystac-phase1">{{cite journal |last1=Zhong |first1=L. |display-authors=etal |title=Results from phase 1 of the HAYSTAC microwave cavity axion experiment |journal=[[Physical Review D]] |volume=97 |issue=9 |article-number=092001 |year=2018 |doi=10.1103/PhysRevD.97.092001 |arxiv=1803.03690 |bibcode=2018PhRvD..97i2001Z}}</ref>
+
+HAYSTAC was among the first experiments, along with [[LIGO]], to use [[squeezed coherent state|squeezed quantum states]] to improve detector sensitivity beyond the [[standard quantum limit]] of linear amplifiers.<ref name="haystac-squeezed">{{cite journal |last1=Backes |first1=K. M. |display-authors=etal |title=A quantum enhanced search for dark matter axions |journal=[[Nature (journal)|Nature]] |volume=590 |pages=238–242 |year=2021 |doi=10.1038/s41586-021-03226-7 |arxiv=2008.01853 |bibcode=2021Natur.590..238B}}</ref>
+
+=== Ultracold neutrons ===
+Lamoreaux proposed a technique to measure the permanent [[electric dipole moment]] of the neutron, a measurement that would test [[CP violation|time-reversal symmetry violation]] beyond the [[Standard Model]]. This technique is currently under development at the [[Spallation Neutron Source|Oak Ridge Spallation Neutron Source]].<ref name="wright" /><ref name="golub1994">{{cite journal |last1=Golub |first1=R. |last2=Lamoreaux |first2=S. K. |title=Neutron electric-dipole moment, ultracold neutrons and polarized 3He |journal=[[Physics Reports]] |volume=237 |issue=1 |pages=1–62 |year=1994 |doi=10.1016/0370-1573(94)90084-1 |bibcode=1994PhR...237....1G}}</ref>
+
+=== Tests of fundamental symmetries ===
+Using mercury and cesium atomic magnetometers, Lamoreaux and collaborators set stringent limits on possible violations of local [[Lorentz covariance|Lorentz invariance]].<ref name="lorentz">{{cite journal |last1=Berglund |first1=C. J. |last2=Hunter |first2=L. R. |last3=Krause |first3=D. |last4=Prigge |first4=E. O. |last5=Ronfeldt |first5=M. S. |last6=Lamoreaux |first6=S. K. |title=New Limits on Local Lorentz Invariance from Hg and Cs Magnetometers |journal=[[Physical Review Letters]] |volume=75 |issue=10 |pages=1879–1882 |year=1995 |doi=10.1103/PhysRevLett.75.1879 |bibcode=1995PhRvL..75.1879B |pmid=10060417}}</ref>
+
+== Selected publications ==
+* {{cite book |last1=Golub |first1=R. |last2=Lamoreaux |first2=S. K. |year=2023 |title=The Historical and Physical Foundations of Quantum Mechanics |publisher=Oxford University Press}}
+* {{cite journal |last1=Graham |first1=P. W. |last2=Irastorza |first2=I. G. |last3=Lamoreaux |first3=S. K. |last4=Lindner |first4=A. |last5=van Bibber |first5=K. A. |year=2015 |title=Experimental searches for the axion and axion-like particles |journal=Annual Review of Nuclear and Particle Science |volume=65 |issue=1 |pages=485–514 |doi=10.1146/annurev-nucl-102014-022120|arxiv=1602.00039 }}
+* {{cite journal |last=Lamoreaux |first=S. K. |year=2005 |title=The Casimir force: background, experiments, and applications |journal=Reports on Progress in Physics |volume=68 |issue=1 |pages=201–236 |doi=10.1088/0034-4885/68/1/R04}}
+
+== Awards and honors ==
+* Henderson Prize, [[University of Washington]], 1987 (outstanding dissertation)
+* [[Francis M. Pipkin Award]], [[American Physical Society]], 1999 (inaugural recipient)<ref name="ydn-pipkin">{{cite web |title=Physicists are given awards for research |url=https://yaledailynews.com/blog/2006/10/31/physicists-are-given-awards-for-research/ |website=Yale Daily News |date=31 October 2006}}</ref>
+* Three [[Los Alamos National Laboratory]] Distinguished Performance Awards
+* Los Alamos Laboratory Fellow
+* Honorary M.A., [[Yale University]], 2007<ref name="yale-profile" />
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://physics.yale.edu/people/steve-lamoreaux Yale Physics faculty page]
+* [https://lamoreauxgroup.yale.edu/ Research group website]
+* {{Google Scholar id|VoIPb1YAAAAJ}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lamoreaux, Steven K.}}
+[[Category:Living people]]
+[[Category:American physicists]]
+[[Category:Experimental physicists]]
+[[Category:Yale University faculty]]
+[[Category:University of Washington alumni]]
+[[Category:University of Oregon alumni]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Year of birth missing (living people)]]

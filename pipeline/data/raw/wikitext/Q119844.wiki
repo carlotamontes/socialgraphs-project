@@ -1,0 +1,55 @@
+{{Short description|German electronics engineer (1923–2022)}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox scientist
+|birth_name = Hermann Karl Gummel
+| birth_date = {{birth date|1923|7|5|df=y}}
+| birth_place = [[Hanover]], [[Province of Hanover|Hanover]], [[Free State of Prussia|Prussia]], [[Weimar Republic|Germany]]
+| death_date = {{Death date and age|2022|09|05|1923|7|5|df=y}}
+| death_place = [[New Jersey]], United States
+| fields = Semiconductor devices
+| education  = [[Philipps University]]<br />[[Syracuse University]]
+| doctoral_advisor = [[Melvin Lax]]
+| workplaces = Bell Laboratories
+| known_for = [[Gummel–Poon model]]
+| awards = [[David Sarnoff Award]]<small> (1983)</small><br />[[National Academy of Engineering]]<small> (1985)</small><br />[[Phil Kaufman Award]] <small> (1994)</small>
+}}
+
+'''Hermann K. Gummel''' (6 July 1923 – 5 September 2022) was a German physicist and pioneer in the [[semiconductor|semiconductor industry]].<ref name=CEDAobit>{{cite web |title=Hermann K. Gummel Obituary |publisher=IEEE Council on Electronic Design Automation |url=https://ieee-ceda.org/post/hermann-k-gummel-obituary |accessdate=16 September 2022 |archive-date=25 September 2022 |archive-url=https://web.archive.org/web/20220925155938/https://ieee-ceda.org/post/hermann-k-gummel-obituary |url-status=dead }}</ref><ref name=newsobit>{{Citation|last = Nagel|first = Laurence W.|author-link = Laurence Nigel|title = In Memory of Hermann K. Gummel|journal = [[IEEE Electron Devices Society Newsletter]]|volume = 30| issue = 1|pages = 49–50|date = January 2023|language = English|url = https://eds.ieee.org/images/files/newsletters/Newsletter_Jan23.pdf }}.</ref>
+
+The son of Hans and Charlotte Gummel, he was the middle of their three children, Bärbel and Achi being respectively his older sister and his younger brother.<ref name=newsobit /> Grown up in very turbulent times in Nazi Germany, after graduating from high school, he was enlisted as a radio operator for the Germany Army in [[World War II]].<ref name=newsobit /> As a soldier, he was wounded by [[Shrapnel shell|shrapnel]] and taken prisoner during the [[D Day]].<ref name=newsobit /> After being brought to Scotland as a war prisoner, the compassionate care of the doctors and medical staff avoided his leg amputation:<ref name=newsobit /> he was always grateful for this, though he suffered pain in his leg for the rest of his life.<ref name=newsobit />
+
+Gummel received his ''[[Diplom]]'' degree in physics from [[University of Marburg|Philipps University]] ([[Marburg, Germany]]) in 1952. He received his M.S. (1952) and Ph.D. (1957) degrees in theoretical semiconductor physics from [[Syracuse University]].<ref>{{cite journal |title=Contributors to this issue |journal=Bell System Technical Journal |date=January 1961 |volume=40 |page=349 |doi=10.1002/j.1538-7305.1961.tb03989.x |url=https://ieeexplore.ieee.org/document/6773672 |accessdate=2022-09-11}} Author biography for the article "Margin considerations for an Esaki diode-resistor or gate" in the same issue.</ref> In Marburg met and fall in love with Erika Reich, who eventually become his wife.<ref name=newsobit />
+Gummel joined [[Bell Laboratories]] in 1956; his doctoral advisor, [[Melvin Lax]], had moved from Syracuse University to Bell the previous year.<ref>{{cite book |title=Biographical Memoirs Vol. 87 |publisher=National Academy of Sciences |chapter=Melvin Lax |last1=Birman |first1=Joseph L. |last2=Cummins |first2=Herman Z. |authorlink2=Herman Z. Cummins |year=2005 |pages=3–25 |url=http://www.nap.edu/html/biomems/mlax.pdf}}</ref>
+
+At Bell, Gummel made important contributions to the design and simulation of the semiconductor devices used throughout modern electronics. Among the most important of his contributions are the [[Gummel–Poon model]] which made accurate simulation of [[Bipolar junction transistor|bipolar transistors]] possible and which was central to the development of the [[SPICE]] program; Gummel's method, used to solve the equations for the detailed behavior of individual bipolar transistors; and the [[Gummel plot]], used to characterize bipolar transistors. Gummel also created one of the first personal workstations, based on [[Hewlett-Packard|HP]] minicomputers and [[Tektronix, Inc.#'Non test' products|Tektronix terminals]] and used for [[Very-large-scale integration|VLSI]] design and layout, and MOTIS, the first MOS timing simulator and the basis of "fast SPICE" programs.<ref>{{cite web |url=http://www.eecs.berkeley.edu/~newton/Presentations/Kaufman/HKGPresent.html |title=Presentation of the 1994 Phil Kaufman Award to Dr. Hermann K. Gummel |date=6 November 1994 |last=Newton |first=A. Richard |authorlink=A. Richard Newton |archive-url=https://web.archive.org/web/20121005143413/http://www.eecs.berkeley.edu/~newton/Presentations/Kaufman/HKGPresent.html |archive-date=5 October 2012 |url-status=live}}</ref>
+
+In 1983, Gummel received the [[IEEE David Sarnoff Award|David Sarnoff Award]] "for contributions and leadership in device analysis and development of computer-aided design tools for semiconductor devices and circuits".<ref>{{cite web |title=IEEE David Sarnoff Award Recipients |url=http://www.ieee.org/documents/sarnoff_rl.pdf |archive-url=https://web.archive.org/web/20100619233621/http://ieee.org/documents/sarnoff_rl.pdf |url-status=dead |archive-date=19 June 2010 |publisher=[[Institute of Electrical and Electronics Engineers|IEEE]] |access-date=5 August 2011}}</ref> In 1985, Gummel was elected to the [[United States National Academy of Engineering]] for "contributions and leadership in the analysis and computer-aided design of semiconductor devices and circuits.".<ref>{{cite web |title=Dr. Hermann K. Gummel |publisher=National Academy of Engineering |url=http://www.nae.edu/MembersSection/Directory20412/28226.aspx |access-date=5 August 2011}}</ref> In 1994, he was the first recipient of [[Phil Kaufman Award]].<ref>{{cite web|url=http://www.edac.org/htmfiles/KaufmanAward/HermannGummel.htm |title=Hermann K. Gummel: 1994 Phil Kaufman Award Honoree |publisher=Electronic Design Automation Companies (EDAC) |date=9 November 1994 |url-status=dead |archive-url=https://web.archive.org/web/20110726201127/http://www.edac.org/htmfiles/KaufmanAward/HermannGummel.htm |archive-date=26 July 2011 }}</ref>
+
+Gummel died on 5 September 2022, at the age of 99.<ref name=CEDAobit /><ref name=newsobit />
+
+==See also==
+*[[Gummel plot]]
+*[[Gummel–Poon model]]
+
+==Selected bibliography==
+* {{cite journal |first1=Hermann |last1=Gummel |first2=Melvin |last2=Lax |title=Thermal capture of electrons in silicon |journal=Annals of Physics |volume=2 |pages=28–56 |year=1957|issue=1 |bibcode = 1957AnPhy...2...28G |doi = 10.1016/0003-4916(57)90034-9 }}
+* {{cite journal |first1=H. K. |last1=Gummel |first2=H. C. |last2=Poon |title=An integral charge control model of bipolar transistors |journal=Bell Syst. Tech. J. |volume=49 |pages=827–852 |date=May 1970 |doi=10.1002/j.1538-7305.1970.tb01803.x |issue=5}}
+* {{cite journal |last1=Gummel |first1=H. K. |first2=Basant R. |last2=Chawla |first3=Paul |last3=Kozak |title=MOTIS-An MOS Timing Simulator |journal=IEEE Transactions on Circuits and Systems |volume=CAS-22 |issue=12 |pages=901–910 |date=December 1975|doi=10.1109/TCS.1975.1084003}}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gummel, Hermann}}
+[[Category:1923 births]]
+[[Category:2022 deaths]]
+[[Category:Syracuse University alumni]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Scientists at Bell Labs]]
+[[Category:German electronics engineers]]
+[[Category:Electronic design automation people]]
+[[Category:Engineers from Hanover]]
+[[Category:German expatriates in the United States]]
+
+{{Germany-engineer-stub}}

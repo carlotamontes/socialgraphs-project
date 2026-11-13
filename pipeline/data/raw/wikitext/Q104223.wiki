@@ -1,0 +1,135 @@
+{{short description|20th- and 21st-century German physicist and neurobiologist}}
+{{Infobox academic
+| honorific_prefix  = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name              = Winfried Denk
+| honorific_suffix  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name        = <!-- use only if different from full/othernames -->
+| birth_date        = {{birth date and age|1957|11|12}}
+| birth_place       = [[Munich]], [[Germany]]
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| death_cause       = 
+| region            = 
+| citizenship       = 
+| other_names       = 
+| occupation        = Physicist
+| years_active      = 
+| known_for         = [[Serial block-face scanning electron microscopy]]<br>[[Two-photon excitation microscopy]]
+| home_town         = 
+| title             = 
+| boards            = <!--board or similar positions extraneous to main occupation-->
+| spouse            = 
+| partner           = 
+| children          = 
+| parents           = 
+| relatives         = 
+| awards            = [[Michael and Kate Bárány Award]] {{small|(1998)}}<br>[[Gottfried Wilhelm Leibniz Prize|Leibniz Prize]] {{small|(2003)}}<br>[[W. Alden Spencer Award]] {{small|(2006)}}<br>[[Kavli Prize]] {{small|(2012)}}<br>[[Rosenstiel Award]] {{small|(2013)}}<br>[[The Brain Prize]] {{small|(2015)}}
+| website           = 
+| education         = 
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| school_tradition  = 
+| doctoral_advisor  = 
+| academic_advisors = [[Watt W. Webb]]
+| influences        = <!--must be referenced from a third party source-->
+| era               = 
+| discipline        = <!--major academic discipline – e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist-->
+| sub_discipline    = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| institutions      = <!--full-time positions only, not student positions-->
+| doctoral_students = <!--only those with WP articles-->
+| notable_students  = <!--only those with WP articles-->
+| main_interests    = 
+| notable_works     = 
+| notable_ideas     = 
+| influenced        = <!--must be referenced from a third party source-->
+| signature         = 
+| signature_alt     = 
+| signature_size    = 
+| footnotes         = 
+}}
+
+'''Winfried Denk''' (born November 12, 1957, in Munich) is a German physicist. He built the first [[Two-photon excitation microscopy|two-photon microscope]] while he was a graduate student (and briefly a postdoc) in [[Watt W. Webb]]'s lab at [[Cornell University]], in 1989.
+
+==Early life and education==
+Denk was born in Munich, Germany. As a child he spent most of his playtime learning to use the tools and building materials in his father's workshop. In school, it became apparent that Denk’s ‘talents were unevenly spread across subjects, math and physics being favored’.<ref>{{cite web|url=http://kavliprize.org/prizes-and-laureates/laureates/winfried-denk |title=Kavli biosketch|date=20 March 2014|publisher=The Kavli Prize |access-date=2020-06-27}}</ref> Fixing and constructing electronic devices was his main hobby throughout high school.
+
+After high school, Denk completed the mandatory 15-month stint in the German army and spent the next 3 years at [[LMU Munich]]. In 1981, he moved to [[Zurich]] to study at [[ETH Zurich]]. During this time, he also worked in the lab of Dieter Pohl, at the [[IBM Research|IBM laboratory]]. There he built one of the first [[Super-resolution microscopy|super-resolution microscopes]] and developed a passion for scanning microscopy. He did his master's thesis in the lab of [[Kurt Wüthrich]], under the direct guidance of [[Gerhard Wagner (physicist)|Gerhard Wagner]]. But he felt that NMR spectroscopy was not for him because it did not involve enough opportunities to create new experimental gadgets.
+
+In 1984, Denk joined the lab of [[Watt W. Webb]] at Cornell. While Webb himself was extremely interested in methods – both fluorescence-correlation and photo bleaching-recovery spectroscopy had been invented in his lab – he gave students and postdocs a lot of freedom. Denk enjoyed his time at Cornell but was almost fired after he went to Greece for six weeks to study monk seals. Given a second chance, he started a project aimed at measuring the motion of sensory hair-bundles in the inner ear. One of the attractions of this endeavor was that it required a stay in San Francisco, in order to learn from [[A. James Hudspeth|Jim Hudspeth]] and his group about hair-cells in general and specifically how to prepare them for the planned measurements.
+
+Denk returned to Cornell and invented a method sensitive enough to measure the thermal movement of hair-bundles. He went on to show that hair cells can sense their own [[Brownian motion]].<ref>{{Cite journal|last1=Denk|first1=W.|last2=Webb|first2=W. W.|last3=Hudspeth|first3=A. J.|date=1989-07-01|title=Mechanical properties of sensory hair bundles are reflected in their Brownian motion measured with a laser differential interferometer.|journal=Proceedings of the National Academy of Sciences|language=en|volume=86|issue=14|pages=5371–5375|doi=10.1073/pnas.86.14.5371|pmid=2787510|pmc=297624|bibcode=1989PNAS...86.5371D|issn=0027-8424|doi-access=free}}</ref>
+
+Central to Denk's early career was his intuition that two-photon (2p) imaging might damage the sample less than one-photon confocal imaging.<ref name=":0">{{Cite journal|last1=Denk|first1=W|last2=Strickler|first2=J.|last3=Webb|first3=W.|date=1990-04-06|title=Two-photon laser scanning fluorescence microscopy|url=https://www.science.org/doi/10.1126/science.2321027|journal=Science|language=en|volume=248|issue=4951|pages=73–76|doi=10.1126/science.2321027|pmid=2321027|bibcode=1990Sci...248...73D|issn=0036-8075|url-access=subscription}}</ref> He predicted this in spite of the fact that peak light intensity for 2p is almost one million times higher than for the confocal microscope. Equally important was his insight that infrared 2p excitation would allow scattered fluorescence to contribute to images even deep in turbid samples, improving the optical access and resolution of 2p imaging over what was possible using confocal imaging.<ref name=":1">{{Cite journal|last=Denk|first=W.|date=1994-07-05|title=Two-photon scanning photochemical microscopy: mapping ligand-gated ion channel distributions.|journal=Proceedings of the National Academy of Sciences|language=en|volume=91|issue=14|pages=6629–6633|doi=10.1073/pnas.91.14.6629|issn=0027-8424|pmc=44256|pmid=7517555|bibcode=1994PNAS...91.6629D|doi-access=free}}</ref>
+
+Nowhere has this proven more valuable than when imaging neurons in living brain tissue. Two-photon microscopy remains the only technique that allows the recording of activity in living brains with high spatial resolution. 2p excitation can also be used to map cells' receptor distributions by releasing substances from their chemical "cages".<ref name=":1" />
+
+Denk later demonstrated that 2p can be utilized to record activity in the visually stimulated retina.<ref>{{Cite journal|last1=Denk|first1=W.|last2=Detwiler|first2=P. B.|date=1999-06-08|title=Optical recording of light-evoked calcium signals in the functionally intact retina|journal=Proceedings of the National Academy of Sciences|language=en|volume=96|issue=12|pages=7035–7040|doi=10.1073/pnas.96.12.7035|pmid=10359834|pmc=22046|bibcode=1999PNAS...96.7035D|issn=0027-8424|doi-access=free}}</ref> He also showed that it can be combined with adaptive optics to improve resolution, and with amplified pulses to push the depth limit to 1mm in brain tissue.<ref>{{Cite journal|last1=Rueckel|first1=M.|last2=Mack-Bucher|first2=J. A.|last3=Denk|first3=W.|date=2006-11-14|title=Adaptive wavefront correction in two-photon microscopy using coherence-gated wavefront sensing|journal=Proceedings of the National Academy of Sciences|language=en|volume=103|issue=46|pages=17137–17142|doi=10.1073/pnas.0604791103|pmid=17088565|pmc=1634839|bibcode=2006PNAS..10317137R|issn=0027-8424|doi-access=free}}</ref><ref name=":2">{{Cite journal|last1=Helmchen|first1=Fritjof|last2=Denk|first2=Winfried|date=2005|title=Deep tissue two-photon microscopy|url=http://www.nature.com/articles/nmeth818|journal=Nature Methods|language=en|volume=2|issue=12|pages=932–940|doi=10.1038/nmeth818|pmid=16299478|s2cid=3339971|issn=1548-7091|url-access=subscription}}</ref> Today, two-photon excitation microscopy is also used in the fields of physiology, embryology and tissue engineering, as well as in cancer research.
+
+The sparsity of data on connectivity between neurons had been a major limitation in circuit neuroscience. Denk’s 2004 paper<ref name=":3">{{Cite journal|last1=Denk|first1=Winfried|last2=Horstmann|first2=Heinz|date=2004-10-19|title=Serial Block-Face Scanning Electron Microscopy to Reconstruct Three-Dimensional Tissue Nanostructure|url= |journal=PLOS Biology|volume=2|issue=11|pages=e329|doi=10.1371/journal.pbio.0020329|pmid=15514700|pmc=524270|issn=1545-7885 |doi-access=free }}</ref> describing automated [[Serial Block-Face Scanning Electron Microscopy|serial blockface microscopy]] rekindled the dormant science of comprehensive neural circuit mapping ([[connectomics]]), pioneered by Sydney Brenner.<ref>{{Cite journal|date=1986-11-12|title=The structure of the nervous system of the nematode Caenorhabditis elegans|url=https://royalsocietypublishing.org/doi/10.1098/rstb.1986.0056|journal=Philosophical Transactions of the Royal Society of London. B, Biological Sciences|language=en|volume=314|issue=1165|pages=1–340|doi=10.1098/rstb.1986.0056|pmid=22462104|issn=0080-4622|last1=White|first1=J. G.|last2=Southgate|first2=E.|last3=Thomson|first3=J. N.|last4=Brenner|first4=S.|bibcode=1986RSPTB.314....1W|url-access=subscription}}</ref>
+
+Denk was Director at the [[Max Planck Institute for Biological Intelligence]] (formerly [[Max Planck Institute of Neurobiology]]<ref>{{cite web |title=New Max Planck Institute for Biological Intelligence |url=https://idw-online.de/en/news788973 |access-date=2022-04-20}}</ref>) and retired in 2025.<ref>{{cite web |title=Former Directors (MPIN, MPIO, MPIV, MPI-BI) |url=https://www.bi.mpg.de/formers |access-date=2026-01-28}}</ref> He continues working to improve techniques for circuit-mapping in the rodent brain.<ref>{{Cite journal|last1=Mikula|first1=Shawn|last2=Denk|first2=Winfried|date=2015|title=High-resolution whole-brain staining for electron microscopic circuit reconstruction|url=http://www.nature.com/articles/nmeth.3361|journal=Nature Methods|language=en|volume=12|issue=6|pages=541–546|doi=10.1038/nmeth.3361|pmid=25867849|s2cid=8524835|issn=1548-7091|url-access=subscription}}</ref> His most recent work involves precisely determining the positions, orientations, and identities of proteins and bound ligands in cryo-preserved cells.<ref>{{Cite bioRxiv |last1=Rickgauer|first1=J. Peter|last2=Choi|first2=Heejun|last3=Lippincott-Schwartz|first3=Jennifer|last4=Denk|first4=Winfried|date=2020-04-24|title=Label-free single-instance protein detection in vitrified cells|biorxiv=10.1101/2020.04.22.053868}}</ref><ref>{{Cite journal|last1=Rickgauer|first1=J Peter|last2=Grigorieff|first2=Nikolaus|last3=Denk|first3=Winfried|date=2017-05-03|title=Single-protein detection in crowded molecular environments in cryo-EM images|journal=eLife|language=en|volume=6|article-number=e25648|doi=10.7554/eLife.25648|issn=2050-084X|pmc=5453696|pmid=28467302 |doi-access=free }}</ref>
+
+==Notable papers==
+Denk, Stricker & Webb1990, Science. Two-photon laser scanning fluorescence microscopy<ref name=":0" />
+
+Denk 1994, Proc Natl Acad Sci USA. Two-photon scanning photochemical microscopy: mapping ligand-gated ion channel distribution<ref name=":1" />
+
+Yuste & Denk 1995, Nature. Dendritic spines as basic functional units of neuronal integration<ref>{{Cite journal|last1=Yuste|first1=Rafael|last2=Denk|first2=Winfried|date=1995|title=Dendritic spines as basic functional units of neuronal integration|url=http://dx.doi.org/10.1038/375682a0|journal=Nature|volume=375|issue=6533|pages=682–684|doi=10.1038/375682a0|pmid=7791901|bibcode=1995Natur.375..682Y|s2cid=4271356|issn=0028-0836|url-access=subscription}}</ref>
+
+Svoboda, Tank & Denk 1996, Science. Direct measurement of coupling between dendritic spines and shafts.<ref>{{Cite journal|last1=Svoboda|first1=K.|author1-link=Karel Svoboda (scientist)|last2=Tank|first2=D. W.|last3=Denk|first3=W.|date=1996-05-03|title=Direct Measurement of Coupling Between Dendritic Spines and Shafts|url=http://dx.doi.org/10.1126/science.272.5262.716|journal=Science|volume=272|issue=5262|pages=716–719|doi=10.1126/science.272.5262.716|pmid=8614831|bibcode=1996Sci...272..716S|s2cid=23080041|issn=0036-8075|url-access=subscription}}</ref>
+
+Euler, Detwiler & Denk 2002, Nature. Directionally selective calcium signals in dendrites of starburst amacrine cells.<ref>{{Cite journal|last1=Euler|first1=Thomas|last2=Detwiler|first2=Peter B.|last3=Denk|first3=Winfried|date=2002|title=Directionally selective calcium signals in dendrites of starburst amacrine cells|url=http://dx.doi.org/10.1038/nature00931|journal=Nature|volume=418|issue=6900|pages=845–852|doi=10.1038/nature00931|pmid=12192402|bibcode=2002Natur.418..845E|s2cid=1879454|issn=0028-0836|url-access=subscription}}</ref>
+
+Denk & Horstmann 2004, PLoS Biology. Serial Block-Face Scanning Electron Microscopy to Reconstruct Three-Dimensional Tissue Nanostructure<ref name=":3" />
+
+Helmchen & Denk 2005, Nature Methods. Deep tissue two-photon microscopy<ref name=":2" />
+
+Briggman et al. 2011, Nature. Wiring specificity in the direction-selectivity circuit of the retina<ref>{{Cite journal|last1=Briggman|first1=Kevin L.|last2=Helmstaedter|first2=Moritz|last3=Denk|first3=Winfried|date=2011|title=Wiring specificity in the direction-selectivity circuit of the retina|url=http://dx.doi.org/10.1038/nature09818|journal=Nature|volume=471|issue=7337|pages=183–188|doi=10.1038/nature09818|pmid=21390125|bibcode=2011Natur.471..183B|s2cid=4425160|issn=0028-0836|url-access=subscription}}</ref>
+
+Helmstaedter et al. 2013, Nature. Connectomic reconstruction of the inner plexiform layer in the mouse retina<ref>{{Cite journal|last1=Helmstaedter|first1=Moritz|last2=Briggman|first2=Kevin L.|last3=Turaga|first3=Srinivas C.|last4=Jain|first4=Viren|last5=Seung|first5=H. Sebastian|last6=Denk|first6=Winfried|date=2013-08-07|title=Connectomic reconstruction of the inner plexiform layer in the mouse retina|url=http://dx.doi.org/10.1038/nature12346|journal=Nature|volume=500|issue=7461|pages=168–174|doi=10.1038/nature12346|pmid=23925239|bibcode=2013Natur.500..168H|s2cid=3119909|issn=0028-0836|url-access=subscription}}</ref>
+
+==Recognition==
+* 1998 Young Investigator Award of the Biophysical Society
+* 2000 Rank Prize for Opto-Electronics <ref>{{cite web|url=http://rankprize.org/index.php/prizes/optoelectronics |title=Prizes awarded by the Optoelectronics Fund|publisher=The Rank Prize Funds |access-date=2020-06-27}}</ref>
+* 2003 [[Gottfried Wilhelm Leibniz Prize|Leibniz Prize]] of the DFG (German Research Council)
+* 2006 [[W. Alden Spencer Award]], Columbia University, New York
+* 2012 [[Kavli Prize]] in Neuroscience, Norwegian Academy of Science and Letters <ref>{{cite web|url=http://www.kavliprize.org/prizes-and-laureates/prizes/2012-kavli-prize-laureates-neuroscience |title=2012 Kavli Prize Laureates in Neuroscience|publisher=The Kavli Foundation |date= 2012-05-31|access-date=2017-07-21}}</ref>
+* 2013 Elected International member American [[National Academy of Sciences]] (NAS)<ref>{{Cite web | url=https://www.nasonline.org/directory-entry/winfried-denk-mg7hbd/ | title=Winfried Denk}}</ref>
+* 2013 [[Rosenstiel Award]]<ref>{{cite web|url=https://www.brandeis.edu/rosenstiel/rosenstiel-award/past.html |title=Rosenstiel Award Past Winners|publisher=Rosenstiel Basic Medical Sciences Research Center |access-date=2020-06-27}}</ref>
+* 2015 [[Grete Lundbeck European Brain Research Prize|Brain Prize]] (Grete Lundbeck European Brain Research Foundation)<ref>{{cite web |url=http://www.thebrainprize.org/flx/prize_winners/previous_prize_winners/prize_winners_2015/ |title=The Brain Prize – Prize Winners 2015 |publisher=The Lundbeck Foundation, The Brain Prize |access-date=2017-07-21 |archive-date=2019-01-05 |archive-url=https://web.archive.org/web/20190105201140/http://www.thebrainprize.org/flx/prize_winners/previous_prize_winners/prize_winners_2015/ |url-status=dead }}</ref>
+* 2015 International Prize for Translational Neuroscience of the Gertrud Reemtsma Foundation <ref>{{cite web|url=https://gertrud-reemtsma-stiftung.sf.mpg.de/prize/ |title=International Prize for Translational Neuroscience|publisher=Gertrud Reemtsma Foundation |access-date=2017-07-21}}</ref>
+
+==Service==
+* 2014 Member of the [[European Molecular Biology Organization]] (EMBO)
+* 2015 Member of the [[German National Academy of Sciences Leopoldina]]<ref>{{cite web|url=https://www.leopoldina.org/en/members/list-of-members/list-of-members/member/Member/show/winfried-denk/ |title=List of Members: Winfried Denk|publisher=Leopoldina |access-date=2020-06-27}}</ref>
+* 2016 Member of the [[Bavarian Academy of Sciences and Humanities]]<ref>{{cite web|url=https://www.badw.de/data/footer-navigation/personentreffer.html?tx_badwdb_badwperson%5Bper_id%5D=4215&tx_badwdb_badwperson%5BpartialType%5D=BADWPersonDetailsPartial&tx_badwdb_badwperson%5Baction%5D=show&tx_badwdb_badwperson%5Bcontroller%5D=BADWPerson |title=Prof. Dr. Winfried Denk|publisher=Bayerische Akademie der Wissenschaften |access-date=2020-06-27}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://www.bi.mpg.de/denk Homepage of the department Electrons - Photons - Neurons]
+* {{cite web|title=ELSC-ICNC Seminar: Winfried Denk|date=December 2, 2011|publisher=ELSC Video|website=YouTube|url=https://www.youtube.com/watch?v=YjSMI-5tZY0}}
+* {{cite web|title=Winfried Denk {{!}} Max Birnstiel Lecture|date=February 23, 2017|publisher=Research Institute of Molecular Pathology|website=YouTube|url=https://www.youtube.com/watch?v=bQOgnVL9SSg}}
+
+{{Kavli Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Denk, Winfried}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Gottfried Wilhelm Leibniz Prize winners]]
+[[Category:Cornell University alumni]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:International members of the National Academy of Sciences]]
+[[Category:Kavli Prize laureates in Neuroscience]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+[[Category:Max Planck Institute directors]]

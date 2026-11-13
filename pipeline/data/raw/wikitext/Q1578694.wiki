@@ -1,0 +1,146 @@
+{{Short description|American chess player (1929–2017)}}
+{{Use mdy dates|date=November 2024}}
+{{Infobox academic
+| honorific_prefix = 
+| birth_date       = {{Birth date|1929|1|27}}
+| birth_place      = [[Berlin]], Germany
+| death_date       = {{nowrap|{{Death date and age|2017|1|13|1929|1|27}}}}
+| death_place      = {{nowrap|[[Riviera Beach, Florida]], U.S.}}
+| education        = [[George Washington University]]<br>[[Carnegie Mellon University]]
+| thesis_title     = Chess as Problem Solving: The Development of a Tactics Analyzer
+| thesis_url       = https://archive.org/details/DTIC_AD0784881/
+| thesis_year      = 1974
+| doctoral_advisor = [[Allen Newell]]
+| discipline       = [[Computer science]]
+| institutions     = [[Carnegie Mellon University]]
+| notable_works    = [[HiTech]]<br>[[B* search]]
+| module           = {{Infobox chess player
+| child = yes
+| name = Hans Berliner
+| image = 
+| caption = 
+| country = [[United States]]<br />[[Germany]]
+| title = [[International Correspondence Chess Grandmaster|ICCF Grandmaster]] (1968)
+| ICCF_world_champion = 1965–1968
+| ICCF_rating = [https://www.iccf.com/player?id=510006&tab=3 2726] (October 2003)
+| ICCF_peak_rating = 2763 (July 1992)
+}}
+}}
+'''Hans Jack Berliner''' (January 27, 1929 &ndash; January 13, 2017) was an American [[chess player]] and computer scientist. He was the World [[Correspondence Chess]] Champion, from 1965–1968. He was a [[International Correspondence Chess Grandmaster|Grandmaster of Correspondence Chess]]. Berliner was a Professor of Computer Science at [[Carnegie Mellon University]]. He directed the construction of the chess computer [[HiTech]], and was also a published chess writer.
+
+==Early life==
+Berliner was born in Berlin<ref name="Berliner 1999 176">{{Harvtxt|Berliner|1999|p=176}}</ref> to a Jewish family.<ref>{{Cite magazine |url=https://www.cs.cmu.edu/link/iconoclast |author=Jason Togyer |title=The Iconoclast |magazine=The Link |publisher=Carnegie Mellon School of Computer Science |date=7 May 2012}}</ref> One of his classmates at school was future Estonian President [[Lennart Meri]], whose father was serving as Estonia's ambassador to Germany.<ref>[https://ekspress.delfi.ee/ee30/berliini-poisid-leidsime-ameerikast-lennart-meri-lapsepolve-mangukaaslase?id=87794937 Berliini poisid: Leidsime Ameerikast Lennart Meri lapsepõlve mängukaaslase], [[Eesti Ekspress]] (retrieved 31 January 2020)</ref>
+In 1937, Berliner's family moved to the United States to escape [[Nazi]] persecution, taking up residence in Washington, D.C. He learned chess at age 13, and "it quickly became his main preoccupation."<ref name="Berliner 1999 176"/>
+
+Berliner is mentioned in "How I Started To Write", an essay by [[Carlos Fuentes]], where he is described as "an extremely brilliant boy", with "a brilliant mathematical mind". "I shall always remember his face, dark and trembling, his aquiline nose and deep-set, bright eyes with their great sadness, the sensitivity of his hands..."<ref>''The Art of the Personal Essay'', edited by Phillip Lopate, 1995, pp. 435–36</ref>
+
+==Chess career==
+In 1949, he became a master, won the [[District of Columbia]] Championship (the first of five wins of that tournament) and the Southern States Championship, and tied for second place with [[Larry Evans (chess grandmaster)|Larry Evans]] at the New York State Championship. He also won the 1953 New York State Championship (the first win by a non-New Yorker), the 1956 Eastern States Open directed by [[Norman Tweed Whitaker]] in [[Washington, D.C.]], ahead of [[William Lombardy]], [[Nicolas Rossolimo]], [[Bobby Fischer]]  (at age 13) and [[Arthur Feuerstein]], and the 1957 Champion of Champions tournament.<ref name="The chess games of Hans Berliner">[http://www.chessgames.com/perl/chessplayer?pid=24290 The chess games of Hans Berliner<!-- Bot generated title -->]</ref><ref>{{Harvtxt|Berliner|1999|p=176}}, and {{Harvtxt|Brady|1973|pp=16–17}}</ref>
+ 
+Berliner played for his country's Olympiad team at [[10th Chess Olympiad|Helsinki 1952]], drawing his only game on the second reserve board.<ref>{{Harvtxt|Főldeák|1979|pp=201–02}}</ref> Berliner played four times in the [[US Chess Championship]]. In 1954 at New York, he scored 6½/13 to tie 8–9th places; [[Arthur Bisguier]] won. The last three times Berliner played in the U.S. Championship, Fischer won the tournament. In 1957–58 at New York, Berliner had his best result, 5th place with 7/13. In 1960–61 at New York, he scored 4½/11, tying for 8th–10th place. Finally in 1962–63 at New York, he scored 5/11 for a tied 7th–8th place.<ref name="The chess games of Hans Berliner"/>
+
+===Correspondence chess===
+Berliner is remembered most for his feats in correspondence play, in which games played by mail can take months or even years to complete.  He won the 5th [[World Correspondence Chess Championship]], beginning the final game on April 1, 1965, and finishing three years later.<ref>McClain, Dylan, Hans Berliner, 87, Master Chess Player and Programmer, New York Times, January 17, 2017, p.A15</ref> He won with the score of 14/16 (twelve wins, four draws), a margin of victory of three points, thrice that of any other winner in these championships.<ref name="Berliner 1999 176"/>
+
+Berliner played the [[Two Knights Defense]] to defeat [[Yakov Estrin]] in that tournament. Berliner's opening novelty in that variation is still considered critical.<ref>{{Harvtxt|Burgess|Nunn|Emms|2004|pp=309–15}}, and {{Harvtxt|Evans|1970|pp=217–21}}</ref>
+
+As of March 31, 2005, Berliner still had by far the highest [[International Correspondence Chess Federation]] (ICCF) [[Elo rating|rating]] of any player in the United States, at 2726, 84 points above the second-highest rated player.<ref>{{Citation |title=Top 50 ICCF-US Players as of 3/31/2005 |journal=[[Chess Life]] |issue=May |pages=37 |year=2005}}</ref> Berliner's 2726 rating placed him third on the ICCF's world list, behind [[Joop van Oosterom]] (2777) and [[Ulf Andersson]] (2737).<ref>{{cite web |title=ICCF Ratings |author=Nol van't Riet |url=https://kszgk.com/iccf/?page_id=990 |website=Celebrating 60 years of the ICCF |access-date=April 18, 2022}}</ref>
+
+==Computer chess research==
+Berliner started a new career in 1969, enrolling in the doctoral program at [[Carnegie Mellon University]] to study [[computer science]], under the supervision of [[Allen Newell]].  
+
+While a graduate student, Berliner was the subject of a detailed study of chess perception and short-term-memory recall in experiments inspired by the earlier work of [[Adriaan de Groot|de Groot]], and conducted by Chase and [[Herbert A. Simon|Simon]]. The analysis of Berliner (compared with a Class A player and a novice) formed a basis for their contribution to the theory of [[Chunking (psychology)#As the learning of long-term memory structures|chunking]] in Psychology.<ref>{{Cite journal |last1=Chase |first1=William G. |last2=Simon |first2=Herbert A. |date=1973-01-01 |title=Perception in chess |journal=Cognitive Psychology |language=en |volume=4 |issue=1 |pages=55–81 |doi=10.1016/0010-0285(73)90004-2 |issn=0010-0285|url=https://iiif.library.cmu.edu/file/Simon_box00005_fld00354_bdl0001_doc0001/Simon_box00005_fld00354_bdl0001_doc0001.pdf}}</ref>
+
+Berliner's 1974 thesis was titled: "Chess as Problem Solving: The Development of a Tactics Analyzer".<ref>{{cite magazine |title=Hans Berliner, 1929-2017 |author=Alex Dunne |magazine=Chess Life |date=May 2017 |pages=43–45 |url=http://uscf1-nyc1.aodhosting.com/CL-AND-CR-ALL/CL-ALL/2017/2017_05.pdf}}</ref> His subsequent research at Carnegie Mellon eventually led to the creation of [[HiTech]]. At first it performed well, but only until it ran into transitions, i.e., points in the game when the balance between the players changed. This led Berliner to conclude that HiTech was weak in board evaluation.{{citation needed|date=April 2022}} He decided that to explore the problem, he should write an evaluation function for another game: [[backgammon]]. The result was BKG, written in the late 1970s on a DEC [[PDP-10]]. Early versions of BKG played badly even against poor players, but Berliner noticed that its critical mistakes were always at transitions. He applied principles of [[fuzzy logic]] to smooth out the transition between phases,{{citation needed|date=April 2022}} and by July 1979, BKG 9.8 was strong enough to play against the ruling world champion [[Luigi Villa]]. It won the match 7–1, becoming the first computer program to defeat a world champion in any game. Berliner states that the victory was largely a matter of luck, as the computer received more favorable dice rolls.<ref name="berliner-acm">Berliner, Hans, et al. "Backgammon program beats world champ", ''ACM SIGART Bulletin'', Issue 69. January 1980. pp. 6–9.</ref><ref>{{cite magazine |title=Computer Backgammon |author=Hans J. Berliner |magazine=Scientific American |volume=242 |number=6 |date=June 1980 |pages=64–72 |url=https://bkgm.com/articles/Berliner/ComputerBackgammon/}}</ref>
+ 
+He also developed the [[B* search algorithm]] for game tree searching.
+
+HiTech was the first computer chess system to reach the 2400 (senior master) [[U.S. Chess Federation#Ratings|USCF rating]] level.<ref>{{cite journal |title=HITECH Becomes First Computer Senior Master |author=Hans Berliner |journal=AI Magazine |volume=9 |number=3 |date=Fall 1988 |pages=85–87 |url=https://ojs.aaai.org//index.php/aimagazine/article/view/946}}</ref> It won the Pennsylvania State Chess Championship several times.  Students who worked with Berliner on the project included [[Carl Ebeling]] and [[Murray Campbell]].
+
+Berliner was elected a Founding Fellow of the [[Association for the Advancement of Artificial Intelligence]] in 1990.<ref>{{Cite web |title=Elected AAAI Fellows |url=https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/ |access-date=2024-01-01 |website=AAAI |language=en-US}}</ref>
+
+==Writing and retirement==
+Berliner retired from Carnegie Mellon in 1998.
+
+In 1998 he self-published a booklet, ''From the Deathbed of 4. Ng5 in the Two Knights Defense'', analyzing the opening of his game with Estrin, as well as attempted improvements upon it by subsequent commentators.
+
+In 1999 he published a book explaining his opening repertoire, ''The System''.  He claimed that the move [[b:Chess Opening Theory/1. d4|1.d4]] gives White a large, and possibly decisive, advantage.
+
+He died on January 13, 2017, in Riviera Beach, Florida, fourteen days away from his 88th birthday.<ref>{{Cite news |url=https://www.nytimes.com/2017/01/16/business/hans-berliner-master-chess-player-and-programmer-dies-at-87.html?partner=IFTTT&_r=0 |title=Hans Berliner, Master Chess Player and Programmer, Dies at 87 |newspaper=The New York Times |date=17 January 2017 |last1=McClain |first1=Dylan Loeb}}</ref>
+
+== Books==
+* {{Citation |last=Berliner |first=Hans |title=The System: A World Champion's Approach to Chess |year=1999 |publisher=[[Gambit Publications]] |isbn=1-901983-10-2 |ref=none}}
+* Berliner, Hans and Messere, Ken (1971), ''The Fifth Correspondence World Championship'', British Chess Magazine Quarterly No. 14 (no ISBN)
+
+==Notable games==
+{{algebraic notation|pos=secleft}}
+{{Chess diagram
+|floatright
+|
+|rd|  |  |kd|  |  |  |rd
+|pd|  |pd|  |  |pd|pd|pd
+|  |  |  |bd|  |  |  |
+|  |bl|  |nd|  |  |  |
+|  |  |  |pl|  |  |bd|qd
+|  |  |  |  |  |pd|nl|
+|pl|pl|  |pl|  |  |pl|pl
+|rl|nl|bl|ql|  |rl|kl|
+|Position after 13...exf3
+|reverse=true
+}} 
+Yakov Estrin–Hans Berliner, 5th CC World Ch Final 1965; [[Two Knights Defense]], Ulvestad Variation (''[[Encyclopaedia of Chess Openings|ECO]]'' C57)
+:'''1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5 8. Ne4 Qh4 9. Ng3 Bg4''' 9...Ne6 10.Bxb5+ Bd7 11.Bxd7+ Kxd7 12.Qf3 Nef4 13.d4!{{chesspunc|+/−}}; 9...Bb7 10.cxd4 0-0-0 11.d3 Nf4 12.Bxf4 exf4 13.Qh5 Bb4+ 14.Kd1 Qe7 (Jovcic–Karaklajic, Jugoslavia 1960) 15.Ne2{{chesspunc|!}}+/− ([[Svetozar Gligorić|Gligorić]]) '''10. f3 e4''' 10...Nf5 11.Bxb5+ Kd8 12.0-0 Bc5+ 13.d4 exd4 14.Ne4!+/− (Kopylov) '''11. cxd4 Bd6 12. Bxb5+ Kd8 13. 0-0 exf3''' (see diagram) '''14. Rxf3''' 14.Qb3! fxg2 (14...Nb4!! 15.Rxf3 c6!! 16.Be2! Bxf3 17.gxf3 Bxg3 18.hxg3 Qxg3+ {{chesspunc|{{=}}/+}}, Berliner) 15.Rf2 Be6 16.Qf3 Rb8 17.Bc4 Qxd4 18.d3!+/− ([[Yakov Estrin|Estrin]]) '''14... Rb8 15. Be2''' 15.a4!+/− Jovcic–Koshnitsky, corr. 1969 (Gligorić) '''15... Bxf3 16. Bxf3 Qxd4+ 17. Kh1 Bxg3 18. hxg3 Rb6 19. d3 Ne3 20. Bxe3 Qxe3 21. Bg4 h5 22. Bh3 g5 23. Nd2 g4 24. Nc4 Qxg3 25. Nxb6 gxh3 26. Qf3 hxg2+ 27. Qxg2 Qxg2+ 28. Kxg2 cxb6 29. Rf1 Ke7 30. Re1+ Kd6 31. Rf1 Rc8 32. Rxf7 Rc7 33. Rf2 Ke5 34. a4 Kd4 35. a5 Kxd3 36. Rf3+ Kc2 37. b4 b5 38. a6 Rc4 39. Rf7 Rxb4 40. Rb7 Rg4+ 41. Kf3 b4 42. Rxa7 b3 {{chessAN|0–1}}'''<ref>{{cite web |url=http://www.chessgames.com/perl/chessgame?gid=1224863 |title=Estrin vs. Berliner, 1965 |website=[[Chessgames.com]]}}</ref>
+{{clear left}}
+
+==See also==
+* [[Chess piece relative value]] – gives Berliner's system
+* [[First-move advantage in chess#White wins with 1.d4]] – discusses Berliner's book ''The System''
+* [[Murray Campbell]]
+
+==References==
+{{Reflist|30em}}
+
+'''Bibliography'''
+* {{Citation |first=Hans |last=Berliner |title=The B* Tree Search Algorithm. A Best-First Proof Procedure. |journal=[[Artificial Intelligence (journal)|Artificial Intelligence]] |volume=12 |issue=1 |pages=23–40 |year=1979 |doi=10.1016/0004-3702(79)90003-1 |url=https://apps.dtic.mil/sti/pdfs/ADA059391.pdf |access-date=2018-04-29 |archive-date=2017-09-27 |archive-url=https://web.archive.org/web/20170927022753/http://www.dtic.mil/get-tr-doc/pdf?AD=ADA059391 |url-status=live }}
+* {{Citation |last=Berliner |first=Hans |title=The System: A World Champion's Approach to Chess |year=1999 |publisher=[[Gambit Publications]] |isbn=1-901983-10-2}}
+*{{Citation |last=Brady |first=Frank |authorlink=Frank Brady (journalist) |title=Profile of a Prodigy |year=1973 |edition=2nd |publisher=David McKay}}
+* {{Citation |last1=Burgess |first1=Graham |authorlink=Graham Burgess |last2=Nunn |first2=John |authorlink2=John Nunn |last3=Emms |first3=John |authorlink3=John Emms (chess player) |title=The Mammoth Book of the World's Greatest Chess Games |year=2004 |publisher=[[Carroll & Graf]] |isbn=0-7867-1411-5 |url-access=registration |url=https://archive.org/details/mammothbookofwor0000burg}}
+*{{Citation |last=Evans |first=Larry |authorlink=Larry Evans (chess grandmaster) |title=Modern Chess Brilliancies |year=1970 |publisher=Fireside |isbn=0-671-22420-4}}
+*{{Citation |last=Főldeák |first=Árpád |title=Chess Olympiads 1927&ndash;1968 |year=1979 |publisher=Dover Publications |isbn=0-486-23733-8}}
+
+==External links==
+* {{ICCF| 510006|Hans Jack Berliner}}
+* {{Chessgames player|24290|Hans Jack Berliner}}
+* {{webarchive |url=https://web.archive.org/web/20110811172833/http://archive.computerhistory.org/projects/chess/related_materials/oral-history/hans_berliner.oral_history.2005.102630824/berliner.oral_history_transcript.2005.103630824.pdf |title=Oral History of Hans Berliner at ComputerHistory.org}}
+* [https://en.chessbase.com/post/hans-berliner-chess-master-and-programmer-dies-at-87 Hans Berliner, chess master and programmer, dies at 87]
+{{s-start}}
+{{succession box
+| before= {{flagicon|Soviet Union}} [[Vladimir Zagorovsky]]
+| title = [[World Correspondence Chess Champion]]
+| years = 1965–1968
+| after = {{flagicon|Germany}} [[Horst Rittner]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Berliner, Hans}}
+[[Category:1929 births]]
+[[Category:2017 deaths]]
+[[Category:American chess writers]]
+[[Category:Correspondence chess grandmasters]]
+[[Category:World Correspondence Chess Champions]]
+[[Category:Chess Olympiad competitors]]
+[[Category:Computer chess people]]
+[[Category:Jewish chess players]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Chess players from Berlin]]
+[[Category:Writers from Washington, D.C.]]
+[[Category:Jewish emigrants from Nazi Germany to the United States]]
+[[Category:Emigrants from Nazi Germany to the United States]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:20th-century American chess players]]
+[[Category:Chess players from Washington, D.C.]]
+[[Category:Artificial intelligence researchers]]
+[[Category:American male non-fiction writers]]

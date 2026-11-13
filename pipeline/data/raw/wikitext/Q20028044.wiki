@@ -1,0 +1,72 @@
+{{Short description|American physicist (born 1952)}}
+{{Infobox scientist
+| name             = James P. Eisenstein
+| image            = 
+| birth_date       = {{birth date and age|1952|05|15}}
+| birth_place      = [[St. Louis, Missouri]]
+| field            = [[Physics]]
+| workplaces       = [[Bell Laboratories]] <br> [[California Institute of Technology]]
+| education        = [[Oberlin College]]<br/>[[University of California, Berkeley]]
+| doctoral_advisor = 
+| known_for        = [[Bose–Einstein condensation of quasiparticles#Excitons|Bose–Einstein condensate of excitons]]
+| awards           = [[Oliver E. Buckley Condensed Matter Prize]] {{small|(2007)}}<br/> [[Wolf Prize in Physics]] {{small|(2025)}}
+}}
+
+'''James P. Eisenstein''' (born May 15, 1952) is an American physicist. He is currently the Frank J. Roshek Professor of Physics and Applied Physics, Emeritus, at the [[California Institute of Technology]].<ref name=":1">{{Cite web |title=James Eisenstein |url=https://pma.caltech.edu/people/james-p-jim-eisenstein |access-date=2024-10-02 |website=Division of Physics, Math, and Astronomy |publisher=[[California Institute of Technology]] |language=en |quote=James Eisenstein: Frank J. Roshek Professor of Physics and Applied Physics, Emeritus}}</ref> He received a share of the 2025 [[Wolf Prize in Physics]] for his experimental research on strongly interacting two-dimensional electron systems. He co-discovered the 5/2 filling factor state of the [[fractional quantum Hall effect]] and demonstrated the [[Bose–Einstein condensation of quasiparticles|Bose–Einstein condensation]] of [[exciton]]s in two dimensions.
+
+==Academic career==
+Eisenstein received his AB degree from [[Oberlin College]] in 1974 and a PhD in physics from the [[University of California, Berkeley]] in 1980.  Following a few years as an assistant professor of physics at [[Williams College]], Eisenstein became a member of the technical staff at [[Bell Laboratories]] at Murray Hill, New Jersey in 1983. In 1996 Eisenstein accepted a professorship in physics at the [[California Institute of Technology]] in Pasadena, California.  In 2005, he became the Frank J. Roshek Professor of Physics and Applied Physics at Caltech.<ref name=":1" /><ref>{{Cite web |last=Zierler |first=David |date=July 2, 2020 |title=James Eisenstein |url=https://heritageproject.caltech.edu/interviews-updates/james-eisenstein |access-date=2024-10-02 |website=Caltech Heritage Project|publisher=[[California Institute of Technology]] |language=en}}</ref> Eisenstein assumed emeritus status in 2018 and suspended his experimental research program in 2021.
+
+He has served on various National Research Council committees including the Solid State Sciences Committee and the Board on Physics and Astronomy.  He was an associate editor of the ''[[Annual Review of Condensed Matter Physics]]'' from 2014 to 2017.
+==Research==
+
+Following doctoral research on the hydrodynamic properties of superfluid [[Helium-3|3-He]],<ref>{{Cite web|last=Eisenstein |first=James P. |date=1980 |title=Flow Properties of Liquid Helium-3 below 5 millidegrees |url=https://search.library.berkeley.edu/discovery/search?query=title,exact,Flow%20properties%20of%20liquid%20%C2%A9He%20below%205%20millidegrees.,AND&tab=Default_UCLibrarySearch&search_scope=DN_and_CI&vid=01UCS_BER:UCB&mode=advanced&offset=0 }}</ref> at Bell Labs Eisenstein switched his focus to the experimental properties of two-dimensional electron systems in semiconductor heterostructures.  At very low temperatures and high magnetic fields, such systems exhibit a host of exotic phenomena, notably the integer and fractional [[quantum Hall effects]].
+
+The even-denominator [[Fractional quantum Hall effect|fractional quantum Hall state]], at filling ''v''=5/2, is believed to possess quasiparticles with non-abelian braiding statistics,<ref>{{cite journal|title=Nonabelions in the fractional quantum hall effect|journal=Nuclear Physics B|volume=360|issue=2–3|pages=362|doi = 10.1016/0550-3213(91)90407-O|year=1991|last1=Moore|first1=Gregory|last2=Read|first2=Nicholas|bibcode=1991NuPhB.360..362M|doi-access=free}}</ref> a property key to proposed topological quantum computer architectures.<ref>{{cite journal |title=Fault-tolerant quantum computation by anyons |journal=Annals of Physics |volume=303 |pages=2–30 |year=1997 |last1=Kitaev |first1=A. Yu. |author-link1=Alexei Kitaev |doi=10.1016/S0003-4916(02)00018-0|arxiv=quant-ph/9707021 }}</ref> Eisenstein co-discovered this state at filling factor 5/2, where the resistance depended on the direction, reminiscent of a [[liquid crystal]].<ref name=":0" /> This discovery allowed him to study of the correlated motion of [[Exciton|excitons]] in 2D, demonstrating their ability to form [[Bose–Einstein condensation of quasiparticles|Bose–Einstein condensates]].<ref name=":0" /> For these experiments, he shared the 2025 [[Wolf Prize in Physics]] with [[Jainendra K. Jain]] and [[Moty Heiblum]].<ref name=":0" />
+
+The stripe and bubble phases<ref>{{cite journal|title= The Ground State of a Two-Dimensional Electron Liquid in a Weak Magnetic Field |journal=Physical Review B |volume=54 |pages=1853–1871|year=1996 |doi=10.1103/PhysRevB.54.1853 |last1=Koulakov|first1=A.A.|last2=Fogler|first2=M.M.|last3=Shklovskii|first3=B.I.|issue=3 |pmid=9986033 |arxiv=cond-mat/9601110|bibcode=1996PhRvB..54.1853F }}</ref><ref>{{cite journal |year=1996 |journal=Physical Review B |volume=54 |pages=5006–5015 |title=Exact results for interacting electrons in high Landau levels |last1=Moessner |first1= R. |last2=Chalker |first2=J.T. |issue=7 |doi=10.1103/PhysRevB.54.5006|arxiv=cond-mat/9606177 |bibcode=1996PhRvB..54.5006M }}</ref> reveal that in the quantum regime point-like electrons can organize themselves into configurations<ref>{{cite journal |title=Nematic Fermi Fluids in Condensed Matter Physics |journal= Annual Review of Condensed Matter Physics|volume=1 |pages=153–178 |year=2010 |last1=Fradkin |first1=Eduardo |last2=Kivelson |first2=Steven A. |last3=Lawler |first3=Michael J.|last4=Eisenstein |first4=James P. |last5=Mackenzie |first5=Andrew P. |doi=10.1146/annurev-conmatphys-070909-103925|arxiv=0910.4166 |bibcode= 2010ARCMP...1..153F}}</ref> which resemble classical liquid crystals comprising complex asymmetric molecules.
+
+Exciton condensation was originally theorized, in the 1960's, to occur in bulk [[semimetals]] in the absence of a magnetic field.<ref>{{cite journal |title=Bose-Einstein Condensation of Excitons |year=1962 |journal=Physical Review |last1=Blatt |first1=John M. |last2=Boer |first2=K.W. |last3=Brandt |first3=Werner |volume=126 |issue=5 |pages=1691–1692 |doi=10.1103/PhysRev.126.1691|bibcode=1962PhRv..126.1691B }}</ref><ref>{{cite journal |title=Possible instability of the semimetallic state toward Coulomb interaction |last1=Keldysh |first1=L.V. |last2=Kopaev |first2=Yu.V. |year=1964 |journal=Soviet Physics Solid State |volume=6 |pages=41–46 |doi=10.1142/9789811279461_0006|isbn=978-981-12-7945-4 }}</ref><ref>{{cite journal |journal=Physical Review |year=1967 |title=Excitonic Insulator |last1=Jerome |first1=D. |last2=Rice |first2=T.M. |last3=Kohn |first3=Walter |volume=158 |issue=2 |pages=462–475 |doi=10.1103/PhysRev.158.462|bibcode=1967PhRv..158..462J }}
+</ref> Surprisingly, the phenomenon was first detected in closely-spaced double layer 2D electron systems at high magnetic field.  In effect, at low temperature electrons in one layer can bind onto the vacancies between electrons in the other layer. The condensed phase has numerous exotic properties.<ref>{{cite journal | last1=Eisenstein | first1=J. P. | title=Exciton Condensation in Bilayer Quantum Hall Systems | journal= Annual Review of Condensed Matter Physics| volume=5 | year=2014 | doi=10.1146/annurev-conmatphys-031113-133832 | pages=159–181| arxiv=1306.0584 | bibcode=2014ARCMP...5..159E }}</ref>
+
+==Awards and honors==
+
+* 1992	Fellow of the American Physical Society<ref>{{cite web |title=APS Fellows Archive |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=1992&unit_id=&institution= |publisher=APS}}</ref>
+* 1993	Distinguished Member of the Technical Staff, Bell Laboratories
+* 2003	Morris Loeb Lecturer, Harvard University<ref>{{Cite web |last=Eisenstein |first=James |date=2002 |title=Loeb and Lee Lectures, Harvard University |url=https://www.physics.harvard.edu/loeb-lee}}</ref>
+* 2005 	Election to the U.S. [[National Academy of Sciences]]<ref>{{Cite web |title=James P. Eisenstein |url=https://www.nasonline.org/directory-entry/james-p-eisenstein-p4wyvx/ |access-date=2024-10-02 |website=www.nasonline.org}}</ref>
+* 2007  [[Oliver E. Buckley Prize]] of the [[American Physical Society]], shared with [[Steven M. Girvin]] and [[Allan H. MacDonald]]. Citation reads "for fundamental experimental and theoretical research on correlated many-electron states in low dimensional systems."<ref name="prizerecipient">{{cite web |title=2007 Oliver E. Buckley Condensed Matter Prize Recipient |url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=James%20P.%20Eisenstein&year=2007 |url-status=dead |archive-url=https://web.archive.org/web/20091011041512/http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=James%20P%2E%20Eisenstein&year=2007 |archive-date=2009-10-11 |access-date=2024-10-02 |website=Prize Recipient |publisher=[[American Physical Society]] }}</ref>
+* 2025  [[Wolf Prize in Physics]], along with [[Mordehai Heiblum]] and [[Jainendra K. Jain]] for “advancing our understanding of the surprising properties of two-dimensional electron systems in strong magnetic fields.<ref name=":0">[https://wolffund.org.il/james-p-eisenstein/ Wolf Prize in Physics 2025]</ref>
+
+==Publications==
+
+*{{cite journal | last1=Willett | first1=R. | last2=Eisenstein | first2=J. P. | last3=Störmer | first3=H. L. | last4=Tsui | first4=D. C. | last5=Gossard | first5=A. C. | last6=English | first6=J. H. | title=Observation of an even-denominator quantum number in the fractional quantum Hall effect | journal=Physical Review Letters | volume=59 | issue=15 | date=1987-10-12 | issn=0031-9007 | doi=10.1103/physrevlett.59.1776 | pages=1776–1779| pmid=10035326 | bibcode=1987PhRvL..59.1776W | url=https://authors.library.caltech.edu/32092/1/WILprl87.pdf }}
+*{{cite journal | last1=Lilly | first1=M. P. | last2=Cooper | first2=K. B. | last3=Eisenstein | first3=J. P. | last4=Pfeiffer | first4=L. N. | last5=West | first5=K. W. | title=Evidence for an Anisotropic State of Two-Dimensional Electrons in High Landau Levels | journal=Physical Review Letters | volume=82 | issue=2 | date=1999-01-11 | issn=0031-9007 | doi=10.1103/physrevlett.82.394 | pages=394–397| arxiv=cond-mat/9808227 | bibcode=1999PhRvL..82..394L | s2cid=17531735 | url=https://authors.library.caltech.edu/6569/1/LILprl99a.pdf }}
+*{{cite journal | last1=Eisenstein | first1=J. P. | last2=MacDonald | first2=A. H. | title=Bose–Einstein condensation of excitons in bilayer electron systems | journal=Nature | volume=432 | issue=7018 | year=2004 | issn=0028-0836 | doi=10.1038/nature03081 | pages=691–694| pmid=15592403 | arxiv=cond-mat/0404113 | bibcode=2004Natur.432..691E | s2cid=1538354 }}
+*{{cite journal | last1=Eisenstein | first1=J. P. | title=Exciton Condensation in Bilayer Quantum Hall Systems | journal= Annual Review of Condensed Matter Physics| volume=5 | year=2014 | doi=10.1146/annurev-conmatphys-031113-133832 | pages=159–181| arxiv=1306.0584 | bibcode=2014ARCMP...5..159E }}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.its.caltech.edu/~je/l Caltech faculty page]{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=James&last_nm=Eisenstein&year=2007 Oliver Buckley Prize page]
+*[http://www.aip.org/history/acap/biographies/bio.jsp?eisensteinj  Array of Contemporary American Physicists]
+
+{{Wolf Prize in Physics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Eisenstein, James P.}}
+[[Category:21st-century American physicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Living people]]
+[[Category:Scientists at Bell Labs]]
+[[Category:Scientists from St. Louis]]
+[[Category:Physicists from Missouri]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:1952 births]]
+[[Category:Oliver E. Buckley Condensed Matter Prize winners]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Wolf Prize in Physics laureates]]

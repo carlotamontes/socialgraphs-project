@@ -1,0 +1,72 @@
+{{Short description|American, Argentina physicist }}
+
+{{Infobox scientist
+| name              = Hernán A. Makse
+| image             = Hernan H. Makse.png
+| caption           = Hernán A. Makse
+| birth_date        = {{birth year and age|1966}}
+| birth_place       = Buenos Aires, Argentina
+| citizenship       = American. Argentine.
+| fields            = [[Statistical physics]], [[complex networks]], [[data science]], [[AI]]
+| workplaces        = [[City College of New York]]; [[CUNY Graduate Center]]
+| education         = [[Boston University]] (PhD)
+| doctoral_advisor  = [[H._Eugene_Stanley|H. Eugene Stanley]]
+| known_for         = Research on influencers, networks, symmetry fibrations, jammed matter.
+| awards            = Corresponding member of the [[Brazilian Academy of Sciences]] (2023); Fellow of the [[American Physical Society]] (2012); [[Mayor's Award for Excellence in Science and Technology|New York City Mayor's Young Investigator Award for Excellence in Science and Technology]] (2005)
+| website           = {{URL|https://hmakse.ccny.cuny.edu/}}
+}}
+
+'''Hernán A. Makse''' is an Argentine-American physicist. He is a Distinguished Professor of Physics at the [[City College of New York|City College of New York (CUNY)]] and he is affiliated with the  [https://levich.ccny.cuny.edu/ Benjamin Levich Institute], where he leads the Complex Networks and Data Science Lab.<ref>{{cite web|title=Hernan Makse|url=https://hmakse.ccny.cuny.edu/|publisher=|access-date=2026-02-21|website=Personal website}}</ref>
+
+He is known for contributions to [[Sphere packing|granular matter and packings]], [[Complex system|complex systems]], [[Complex network|complex networks]], [[Biological network|biological networks]], and [[artificial intelligence]], spanning from condensed matter physics to the study of cities, social media, influential spreaders, brain networks, and large language models.
+
+== Education and career ==
+Makse earned a Ph.D. in physics from [[Boston University]] under the supervision of Prof. [[H. Eugene Stanley|H. E. Stanley.]]<ref>{{cite web |title=Ph.D. thesis Boston University Archive |url=https://open.bu.edu/search?query=Hernan%20makse |access-date=5 March 2026 |website=OpenBU (Boston University)}}</ref> He held a postdoctoral positions at the [[Cavendish Laboratory]] at the [[University of Cambridge]] and the [[Collège de France]] in Paris (with [[Pierre-Gilles de Gennes]]). He was also a Postdoctoral Fellow at [[SLB|Schlumberger]] in Ridgefield, Connecticut, in the laboratory of David Linton Johnson, before joining the [[City College of New York|City College of New York (CUNY)]], where he is a Distinguished Professor of Physics.<ref>{{cite web |title=Hernan Makse |url=https://www.ccny.cuny.edu/profiles/hernan-makse |access-date=5 March 2026 |website=The City College of New York |date=19 January 2020 }}</ref>
+
+He is also a professor in the CUNY Neuroscience Collaborative (Biology/Psychology PhD programs) at the CUNY Graduate Center,<ref>{{cite web |title=Faculty |url=https://www.gc.cuny.edu/neuroscience/faculty#section-18126 |access-date=5 March 2026 |website=The Graduate Center, CUNY}}</ref> and serves as an Affiliate Attending Imaging Scientist at [[Memorial Sloan Kettering Cancer Center]](Radiology/Neuroradiology) applying machine learning to cancer screening and brain imaging.<ref>{{cite web |title=People (Synapse) |url=https://synapse.mskcc.org/synapse/people?page=M |access-date=5 March 2026 |website=Memorial Sloan Kettering Cancer Center}}</ref>
+
+== Research ==
+Early in his career, Makse and collaborators developed statistical-physics approaches to granular materials,<ref>{{cite journal |last1=Edwards |first1=S. F. |last2=Oakeshott |first2=R. B. S. |date=15 June 1989 |title=Theory of powders |journal=Physica A: Statistical Mechanics and Its Applications |volume=157 |issue=3 |pages=1080–1090 |doi=10.1016/0378-4371(89)90034-4 |bibcode=1989PhyA..157.1080E }}</ref> stratification in granular mixtures, and [[Jamming (physics)|jamming]] of [[Random close pack|random packings]].<sup><ref>{{cite journal |last1=Song |first1=Chaoming |last2=Wang |first2=Ping |last3=Makse |first3=Hernán A. |year=2008 |title=A phase diagram for jammed matter |journal=Nature |volume=453 |issue=7195 |pages=629–632 |doi=10.1038/nature06981 |pmid=18509438 |arxiv=0808.2196 |bibcode=2008Natur.453..629S }}</ref></sup> In network science, he was among the authors who reported [[self-similarity]]<ref>{{cite journal |last1=Song |first1=Chaoming |last2=Havlin |first2=Shlomo |last3=Makse |first3=Hernán A. |date=27 January 2005 |title=Self-similarity of complex networks |journal=Nature |volume=433 |issue=7024 |pages=392–395 |doi=10.1038/nature03248 |pmid=15674285|arxiv=cond-mat/0503078 |bibcode=2005Natur.433..392S }}</ref> and [[Fractal dimension on networks|fractality]] in real-world networks and developed the Collective Influence algorithm<ref>{{cite journal |last1=Morone |first1=Flaviano |last2=Makse |first2=Hernán A. |year=2015 |title=Influence maximization in complex networks through optimal percolation |journal=Nature |volume=524 |issue=7563 |pages=65–68 |doi=10.1038/nature14604 |pmid=26131931 |arxiv=1506.08326 |bibcode=2015Natur.524...65M }}</ref> and [[Degeneracy (graph theory)|k-core]] decomposition to identify key spreaders in networks.<ref>{{cite journal |last1=Kitsak |first1=Maksim |last2=Gallos |first2=Lazaros K. |last3=Havlin |first3=Shlomo |last4=Liljeros |first4=Fredrik |last5=Muchnik |first5=Lev |last6=Stanley |first6=H. Eugene |last7=Makse |first7=Hernán A. |year=2010 |title=Identification of influential spreaders in complex networks |journal=Nature Physics |volume=6 |issue=11 |pages=888–893 |doi=10.1038/nphys1746 |arxiv=1001.5285 |bibcode=2010NatPh...6..888K }}</ref> Building on these tools, Makse and collaborators carried out empirical studies of influencers in social media and networks.<ref>{{cite journal |last1=Bovet |first1=Alexandre |last2=Makse |first2=Hernán A. |year=2019 |title=Influence of fake news in Twitter during the 2016 US presidential election |journal=Nature Communications |volume=10 |issue=1 |article-number=7 |doi=10.1038/s41467-018-07761-2  |doi-access=free|pmid=30602729 |pmc=6315042 |arxiv=1803.08491 |bibcode=2019NatCo..10....7B }}</ref>
+
+In biological networks, Makse and collaborators developed the [[Fibrations of graphs#Synchronization and symmetry in dynamical systems and biology|symmetry-fibration framework]] (see [[Fibration]]) to describe structural building blocks and cluster synchronization across systems ranging from gene regulation to neural connectomes. These methods build on the categorical notion of fibration introduced by [[Alexander Grothendieck|Grothendieck]]<ref>{{cite journal |last=Grothendieck |first=A. |year=1959 |title=Technique de descente et théorèmes d'existence en géométrie algébrique. I. Généralités. Descente par morphismes fidèlement plats |journal=Séminaire Bourbaki |volume=5 |pages=299–327}}</ref> and later adapted to [[fibrations of graphs]] by Paolo Boldi and [[Sebastiano Vigna]].<ref>{{cite web |title=Paolo Boldi's Homepage |url=https://boldi.di.unimi.it/ |access-date=2026-02-27 |publisher=Università degli Studi di Milano}}</ref><ref>{{cite web |title=The Graph–Fibrations Home Page |url=https://vigna.di.unimi.it/fibrations/ |access-date=2026-02-27 |publisher=Sebastiano Vigna}}</ref><ref>{{cite journal |last1=Boldi |first1=Paolo |last2=Vigna |first2=Sebastiano |year=2002 |title=Fibrations of graphs |journal=Discrete Mathematics |volume=243 |issue=1–3 |pages=21–66 |doi=10.1016/S0012-365X(00)00455-6}}</ref> Related work connected symmetry fibrations to machine learning and geometric deep learning,<ref>{{cite arXiv |eprint=2104.13478 |class=cs.LG |first1=Michael M. |last1=Bronstein |first2=Joan |last2=Bruna |title=Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges |last3=Cohen |first3=Taco |last4=Veličković |first4=Petar |year=2021}}</ref> including local-symmetry perspectives for graph neural networks and deep neural networks.<ref>{{cite journal |last1=Velarde |first1=Osvaldo M. |last2=Parra |first2=Lucas C. |last3=Boldi |first3=Paolo |last4=Makse |first4=Hernán A. |year=2026 |title=The role of fibration symmetries in geometric deep learning |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=123 |issue=4 |article-number=e2416552123 |doi=10.1073/pnas.2416552123 |pmid=41564124 |pmc=12849690 |bibcode=2026PNAS..12316552V }}</ref>
+
+== Awards and honors ==
+
+* '''2003''' – Received an [[National Science Foundation CAREER Award|NSF CAREER Award]] for research on the statistical mechanics of particulate systems far from equilibrium.<ref>{{cite web |title=Award Search: Award 0239504 |url=https://www.nsf.gov/awardsearch/show-award?AWD_ID=0239504 |access-date=6 March 2026 |website=U.S. National Science Foundation (NSF)}}</ref>
+* '''2005''' – Received the [[Mayor's Award for Excellence in Science and Technology|New York City Mayor's Young Investigator Award]] for Excellence in Science and Technology (New York Academy of Sciences).<ref>{{cite web |title=Department of Physics Newsletter, Volume 6 (Fall 2006) |url=https://www.ccny.cuny.edu/sites/default/files/2023-05/physicsVol6Newsletter.pdf |access-date=5 March 2026 |website=The City College of New York |publisher=Department of Physics, CCNY }}</ref><ref>{{cite web |date=April 2006 |title=CUNY OAA Research Newsletter (April 2006), Volume 2, Issue 2 |url=https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/research/news-events/Newsletter_April-2006.pdf |access-date=5 March 2026 |website=The City University of New York |publisher=Office of Academic Affairs (OAA) }}</ref>
+* '''2007''' – Received a [https://cdi.mecon.gob.ar/bases/docelec/va1029.pdf César Milstein SubProgram Subsidio] (Secretaría de Ciencia y Técnica, Programa RAÍCES, Argentina).
+
+* '''2012''' – Elected a [[Fellow of the American Physical Society]].<ref>{{cite web |title=APS Fellows archive – Search results for "Hernan Makse" (2012) |url=https://www.aps.org/funding-recognition/aps-fellowship?q=Hernan%20Makse&y=2012&af=true |access-date=5 March 2026 |website=American Physical Society}}</ref>
+
+* '''2023''' – Elected a corresponding member of the [[Brazilian Academy of Sciences]].<ref>{{cite web|title=Cuny Forum|url=https://www1.cuny.edu/mu/forum/2023/05/30/brazilian-academy-of-sciences-elects-ccny-distinguished-professor-hernan-makse-member/|publisher=The City College of New York|access-date=2026-02-21}}</ref>
+
+== Books ==
+
+* {{cite book |last1=Makse |first1=Hernán A. |title=Symmetries of Living and Artificial Intelligence Systems: Fibrations and Synchronization in Networks |last2=Boldi |first2=Paolo |last3=Sorrentino |first3=Francesco |last4=Stewart |first4=Ian |publisher=Cambridge University Press |year=2026 |arxiv=2502.18713 }}
+
+* {{cite book |last1=Makse |first1=Hernán A. |url=https://link.springer.com/book/10.1007/978-3-031-78058-5 |title=The Science of Influencers and Superspreaders: Using Networks and Artificial Intelligence to Understand Fake News, Pandemics, Markets, and the Brain |last2=Zava |first2=Marta |publisher=Springer Cham |year=2025 |isbn=978-3-031-78058-5 |doi=10.1007/978-3-031-78058-5 |access-date=2026-02-22}}
+
+== Selected publications ==
+* {{cite journal |last1=Makse |first1=Hernán A. |last2=Havlin |first2=Shlomo |last3=Stanley |first3=H. Eugene |year=1995 |title=Modelling urban growth patterns |journal=Nature |volume=377 |issue=6550 |pages=608–612 |doi=10.1038/377608a0 |bibcode=1995Natur.377..608M }}
+* {{cite journal |last1=Makse |first1=Hernán A. |last2=Havlin |first2=Shlomo |last3=King |first3=Peter R. |last4=Stanley |first4=H. Eugene |year=1997 |title=Spontaneous stratification in granular mixtures |journal=Nature |volume=386 |issue=6623 |pages=379–382 |arxiv=cond-mat/9809432 |doi=10.1038/386379a0 |bibcode=1997Natur.386..379M }}
+* {{cite journal |last1=Makse |first1=Hernán A. |last2=Kurchan |first2=Jorge |year=2002 |title=Testing the thermodynamic approach to granular matter with a numerical model of a decisive experiment |journal=Nature |volume=415 |issue=6872 |pages=614–617 |doi=10.1038/415614a |pmid=11832938 |bibcode=2002Natur.415..614M }}
+* {{cite journal |last1=Song |first1=Chaoming |last2=Havlin |first2=Shlomo |last3=Makse |first3=Hernán A. |year=2005 |title=Self-similarity of complex networks |journal=Nature |volume=433 |issue=7024 |pages=392–395 |arxiv=cond-mat/0503078 |doi=10.1038/nature03248 |pmid=15674285 |bibcode=2005Natur.433..392S }}
+* {{cite journal |last1=Song |first1=Chaoming |last2=Wang |first2=Ping |last3=Makse |first3=Hernán A. |year=2008 |title=A phase diagram for jammed matter |journal=Nature |volume=453 |issue=7195 |pages=629–632 |arxiv=0808.2196 |doi=10.1038/nature06981 |pmid=18509438 |bibcode=2008Natur.453..629S }}
+* {{cite journal |last1=Kitsak |first1=Maksim |last2=Gallos |first2=Lazaros K. |last3=Havlin |first3=Shlomo |last4=Liljeros |first4=Fredrik |last5=Muchnik |first5=Lev |last6=Stanley |first6=H. Eugene |last7=Makse |first7=Hernán A. |year=2010 |title=Identification of influential spreaders in complex networks |journal=Nature Physics |volume=6 |issue=11 |pages=888–893 |arxiv=1001.5285 |doi=10.1038/nphys1746 |bibcode=2010NatPh...6..888K }}
+* {{cite journal |last1=Morone |first1=Flaviano |last2=Makse |first2=Hernán A. |year=2015 |title=Influence maximization in complex networks through optimal percolation |journal=Nature |volume=524 |issue=7563 |pages=65–68 |arxiv=1506.08326 |doi=10.1038/nature14604 |pmid=26131931 |bibcode=2015Natur.524...65M }}
+* {{cite journal |last1=Morone |first1=Flaviano |last2=Makse |first2=Hernán A. |year=2019 |title=Symmetry group factorization reveals the structure-function relation in the neural connectome of ''Caenorhabditis elegans'' |journal=Nature Communications |volume=10 |issue=1 |page=4961 |arxiv=1908.10923 |doi=10.1038/s41467-019-12675-8  |doi-access=free|pmc=6823386 |pmid=31672985 |bibcode=2019NatCo..10.4961M }}
+
+== References ==
+<references />
+
+== External links ==
+
+* [https://scholar.google.com/citations?user=Xa30RAUAAAAJ Hernán A. Makse] on Google Scholar
+
+{{DEFAULTSORT:Makse, Hernán A.}}
+
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:Fellows of the American Physical Society]]

@@ -1,0 +1,152 @@
+{{short description|Canadian-American applied mathematician and computer scientist}}
+{{Infobox scientist
+| name = Charlotte Froese Fischer
+|image=EDSAC (16).jpg
+|caption=Fischer at EDSAC
+| birth_name=Charlotte Froese
+| birth_date = {{birth date|1929|9|21}}
+| birth_place = Stara Mykolaivka, [[Donetsk Oblast|Donetsk]], [[Ukraine]]
+| death_date = {{death date and age|2024|2|8|1929|9|21}}
+| death_place = [[Maryland]], U.S.
+| education  = [[University of British Columbia]]<br>[[University of Cambridge]]
+| doctoral_advisor = [[Douglas Hartree]]
+| workplaces = [[University of British Columbia]]<br>[[Harvard College Observatory]]<br>[[Vanderbilt University]]<br>[[National Institute of Standards and Technology]]
+| awards = [[Sloan Research Fellowship]]<br>[[List of American Physical Society Fellows|Fellow of the American Physical Society]]<br>Member, [[Royal Physiographic Society in Lund]]<br>Fulbright Senior Research Award<br>Foreign Member, [[Lithuanian Academy of Sciences]] <br> Honorary Doctorate, [[Malmö University]] <br> [[Fellow of the Royal Society of Canada]]<br>Honorary Doctorate, [[University of Western Ontario]]
+| spouse={{marriage|[[Patrick C. Fischer]]|1967|2011|end=d.}}
+}}
+
+'''Charlotte Froese Fischer''' (September 21, 1929 – February 8, 2024) was a [[Canadian-American]] [[applied mathematics|applied mathematician]], [[computer scientist]] and [[physicist]] noted for the development and implementation of the [[Multi-configurational self-consistent field|Multi-Configurational Hartree–Fock]] (MCHF) approach to atomic-structure calculations and its application to the description of atomic structure and spectra.<ref name="globe">{{cite web|title=Scientist Charlotte Froese Fischer was considered the 'first lady of computational atomic structure theory'|url=https://www.theglobeandmail.com/canada/article-scientist-charlotte-froese-fischer-was-considered-canadas-first-lady/|last=Falk|first=Dan|publisher=The Globe and Mail|date=March 28, 2024|access-date=April 16, 2024}}</ref>
+
+The experimental discovery of the negative ion of calcium<ref>{{citation 
+| journal = Physical Review Letters 
+| last1=Pegg |first1= D. J.
+| last2= Thompson | first2= J. S.
+| last3=Compton | first3= R. N.
+| last4=Alton | first4= G. D. 
+| title=Evidence for a stable negative ion of calcium
+| volume = 59 
+| issue=20 | pages = 2267–2270 
+| year= 1987 |doi = 10.1103/PhysRevLett.59.2267 | pmid=10035499 | bibcode=1987PhRvL..59.2267P }}</ref> was motivated by her theoretical prediction of its existence.<ref>{{citation 
+| journal = Physical Review Letters 
+| last1=Froese Fischer |first1=Charlotte 
+| last2= Lagowski | first2= Jolanta B.
+| last3=Vosko | first3= S.H. 
+| title=Ground States of Ca<sup>−</sup> and Sc<sup>−</sup> from Two Theoretical Points of View 
+| volume = 59 
+| issue=20 | pages = 2263–2266 
+| year= 1987 |bibcode = 1987PhRvL..59.2263F |doi = 10.1103/PhysRevLett.59.2263 | pmid=10035498 }}</ref> This was the first known [[anion]] of a [[Alkaline earth metal|Group 2 element]].<ref>{{citation 
+| journal = Reviews of Modern Physics 
+| last1=Buckman |first1=Stephen J. 
+| last2= Clark | first2= Charles W.
+| title=Atomic negative-ion resonances 
+| volume = 66 
+| issue=2 | pages = 539–655
+| year= 1994 |doi = 10.1103/RevModPhys.66.539 | bibcode=1994RvMP...66..539B }}</ref><ref>{{citation 
+| journal = Journal of Physical and Chemical Reference Data 
+| last1=Andersen |first1=T. 
+| last2= Haugen | first2= H. K.
+| last3= Hotop | first3= H.
+| title=Binding Energies in Atomic Negative Ions: III 
+| volume = 28 
+| issue=6 | pages = 1511–1533
+| year= 1999 |doi = 10.1063/1.556047| bibcode=1999JPCRD..28.1511A }}</ref> Its discovery was cited in Froese Fischer's election to [[List of American Physical Society Fellows|Fellow of the American Physical Society]].
+
+==Early life==
+Charlotte Froese was born on September 21, 1929, in the village of Stara Mykolaivka (formerly Pravdivka, and Nikolayevka<ref>{{cite book 
+| last1=Huebert | first1= Helmut T. 
+| last2= Schroeder | first2 = William 
+| title = Mennonite Historical Atlas 
+| year=1996 
+| publisher= Springfield Publishers 
+| isbn =978-0920643044}}</ref>), in the [[Donetsk Oblast|Donetsk]] region, in the present-day [[Ukraine]], to parents of [[Mennonite]] descent. Her parents immigrated to Germany in 1929 on the train to cross the border. After a few months in a [[refugee camp]], her family was allowed to immigrate to Canada, where they eventually established themselves in [[Chilliwack, British Columbia]].
+
+==Education and research==
+She obtained both a B.A. degree, with honors, in Mathematics and Chemistry and an M.A. degree in Applied Mathematics from the [[University of British Columbia]] in 1952 and 1954, respectively. She then obtained her Ph.D. in Applied Mathematics and Computing at [[University of Cambridge|Cambridge University]] in 1957, pursuing coursework in quantum theory with [[Paul Dirac]]. She worked under the supervision of [[Douglas Hartree]], whom she assisted in programming the [[Electronic Delay Storage Automatic Calculator]] (EDSAC) for atomic-structure calculations.
+
+She served on the mathematics faculty of the University of British Columbia from 1957 till 1968, where she introduced numerical analysis and computer courses into the curriculum and was instrumental in the formation of the Computer Science Department. Froese Fischer spent 1963-64 at the [[Harvard College Observatory]], where she extended her research on atomic-structure calculations. While at [[Harvard]], she was the first woman scientist to be awarded an [[Alfred P. Sloan]] Fellowship. In 1991 she became a Fellow of the American Physical Society, in part for her contribution to the discovery of negative calcium. In 1995 she was elected a member of the [[Royal Physiographic Society in Lund]], in 2004 a foreign member of the Lithuanian Academy of Sciences, and in 2015 she was awarded an Honorary Doctorate in Technology from [[Malmö University]], Sweden.
+
+==Contributions==
+Froese Fischer was the author of over 300 research articles on computational atomic theory, many of which have had far-reaching impact in the area of atomic-structure calculations. The early version of her MCHF program, published in the first volume of [[Computer Physics Communications]] received two Citation Classics Awards in 1987. She authored an influential monograph on [[Hartree–Fock method|Hartree-Fock approaches]] to the first-principles calculation of atomic structure,<ref>{{cite book |last= Froese-Fischer |first= Charlotte |date= 1977 |title= The Hartree-Fock method for atoms : a numerical approach  |location= New York |publisher= [[Wiley (publisher)|Wiley Interscience]] |isbn= 047125990X}}</ref> and coauthored a substantial successor work.<ref>{{cite book |last1= Froese-Fischer |first1= Charlotte |last2= Brage |first2= Tomas |last3= Jönsson |first3= Per |date= 1997 |title= Computational atomic structure: an MCHF approach  |location= Bristol and Philadelphia |publisher= [[IOP Publishing|Institute of Physics Publishing]] |isbn= 0750303743}}</ref> One of her largest efforts in the field is the calculation of the complete lower spectra of the [[beryllium]]-like to [[argon]]-like [[Isoelectronicity|isoelectronic]] sequences, amounting to the publication of data covering 400 journal pages and a total of over 150 ions.<ref>{{Cite journal 
+| last1 = Froese Fischer | first1 = C. 
+| last2 = Tachiev | first2 = G. 
+| journal = [[Atomic Data and Nuclear Data Tables]] 
+| volume = 87 | issue = 1 
+| pages =  1–184 
+| title = Breit-Pauli energy levels, lifetimes, and transition probabilities for the beryllium-like to neon-like sequences 
+| year = 2004 
+| doi = 10.1016/j.adt.2004.02.001 
+| bibcode = 2004ADNDT..87....1F }}.</ref><ref>{{citation 
+| last1 = Froese Fischer | first1 = C. 
+| last2 = Tachiev | first2 = G. 
+| last3 = Irimia | first3 = A. 
+| journal =  [[Atomic Data and Nuclear Data Tables]] 
+| volume = 92| issue = 5 
+| pages = 607–812 
+| title = Relativistic energy levels, lifetimes, and transition probabilities of the sodium-like to argon-like sequences 
+| year = 2006 
+| doi = 10.1016/j.adt.2006.03.001 
+|bibcode = 2006ADNDT..92..607F }}.</ref> She also authored a scientific biography of her Ph.D. thesis advisor, Douglas Hartree.<ref>{{cite book |last= Froese-Fischer |first= Charlotte |date= 2003 |title= Douglas Rayner Hartree: His Life In Science And Computing  |location= Singapore |publisher= [[World Scientific]] |isbn= 9814485209}}</ref> Froese Fischer is the highest cited author in computational atomic physics, with over 22,000 citations on her work.<ref>{{Cite web |date=2024-08-29 |title=Charlotte Froese Fischer |url=https://physicstoday.aip.org/obituaries/charlotte-froese-fischer |access-date=2026-10-25 |website=PHYSICS TODAY |language=en |doi=10.1063/pt.mncd.rqhi}}</ref>
+
+Froese Fischer was a research professor of computer science at [[Vanderbilt University]] and a Guest Scientist in the Atomic Spectroscopy Group at [[NIST]]. An autobiographical account of her own life up to the year 2000 was published in [[Molecular Physics (journal)|Molecular Physics]],<ref>{{citation 
+| last = Froese Fischer | first = Charlotte
+| journal =  [[Molecular Physics (journal)|Molecular Physics]] 
+| volume = 98| issue = 16 
+| pages = 1043–1050 
+| title = Reminiscences at the End of the Century 
+| year = 2000 
+| doi = 10.1080/00268970050080393 
+ | bibcode = 2000MolPh..98.1043F
+| s2cid = 121650151
+}}</ref> and a biographical review of her scientific work up to 2019 has been published in ''[[Atoms (journal)|Atoms]]''.<ref>{{citation 
+| last = Hibbert | first = Alan
+| journal =  [[Atoms (journal)|Atoms]]
+| volume = 7 | issue = 4 
+| pages = 107 
+| title = Charlotte Froese Fischer—Her Work and Her Impact 
+| year = 2019 
+| doi = 10.3390/atoms7040107 
+ | bibcode = 2019Atoms...7..107H
+| doi-access = free}}</ref> She died on February 8, 2024 at her home in Maryland.<ref name="globe" />
+
+== Personal life ==
+Froese Fischer was married to [[Patrick C. Fischer]], himself a noted computer scientist and professor at Vanderbilt,<ref>{{citation|journal=[[Los Angeles Times]]|date=September 3, 2011|title=Patrick Fischer, 1935–2011: Professor was targeted by the Unabomber}}</ref> from 1967 until his death in 2011. Together, they are survived by their daughter, environmental economist [[Carolyn Fischer]].<ref name="globe"/><ref>{{cite web |title=Vanderbilt emerita professor Charlotte Froese Fischer was a pioneer in computer science and physics |url=https://engineering.vanderbilt.edu/2024/09/20/vanderbilt-emerita-professor-charlotte-froese-fischer-was-a-pioneer-in-computer-science-and-physics |website=Vanderbilt University |access-date=13 May 2025 |archive-url=https://web.archive.org/web/20241007090453/https://engineering.vanderbilt.edu/2024/09/20/vanderbilt-emerita-professor-charlotte-froese-fischer-was-a-pioneer-in-computer-science-and-physics/ |archive-date=7 October 2024 |url-status=live}}</ref>
+
+==References==
+<references/>
+
+==External links==
+*[https://web.archive.org/web/20100423200057/http://www.vuse.vanderbilt.edu/~cff/cff.html Personal web page, includes all her scientific work: results, publications, software, etc...]
+*[https://web.archive.org/web/20100702090751/http://www.vuse.vanderbilt.edu/~cff/Reminiscence_CFF.pdf Reminiscences at the end of the century: Biography of herself and a short biography of Douglas Hartree]
+*[https://web.archive.org/web/20061006114244/http://physics.nist.gov/Divisions/Div842/Gp1/Staff/fischer.html Page of Charlotte Froese Fischer on the NIST website]
+*{{MathGenealogy|id=24919}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Froese Fischer, Charlotte}}
+[[Category:1929 births]]
+[[Category:2024 deaths]]
+[[Category:Canadian women mathematicians]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of the Royal Physiographic Society in Lund]]
+[[Category:Canadian women computer scientists]]
+[[Category:Canadian computer scientists]]
+[[Category:Canadian women physicists]]
+[[Category:Canadian women chemists]]
+[[Category:Canadian Mennonites]]
+[[Category:20th-century American women scientists]]
+[[Category:Theoretical chemists]]
+[[Category:Academics from British Columbia]]
+[[Category:University of British Columbia Faculty of Science alumni]]
+[[Category:Academic staff of the University of British Columbia Faculty of Science]]
+[[Category:Harvard University faculty]]
+[[Category:Vanderbilt University faculty]]
+[[Category:Canadian expatriate academics in the United States]]
+[[Category:Place of birth missing]]
+[[Category:American computational chemists]]
+[[Category:Sloan Research Fellows]]
+[[Category:People from Chilliwack]]
+[[Category:Harvard College Observatory people]]
+[[Category:American women academics]]
+[[Category:20th-century Canadian women scientists]]
+[[Category:20th-century women physicists]]
+[[Category:National Institute of Standards and Technology people]]

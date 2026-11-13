@@ -1,0 +1,109 @@
+{{Short description|American physicist}}
+{{Use mdy dates|date=November 2017}}
+{{Infobox scientist
+| name              = Robert J. Schoelkopf
+| image             = Rob for wiki july 2015.jpg
+| caption           = Schoelkopf in 2014
+| fields            = Condensed matter
+| awards            = {{plainlist|
+*Fritz London Memorial Prize
+*Max Planck Research Award
+*John Stewart Bell Prize
+*[[Joseph F. Keithley Award|Joseph F. Keithley Award For Advances in Measurement Science]]
+}}
+| thesis_url        = https://www.proquest.com/docview/304166973/
+| thesis_year       = 1995
+| doctoral_advisor  = [[Thomas G. Phillips]]
+| known_for         = {{plainlist|
+*The new field of “circuit quantum electrodynamics”
+*Invention of the [[transmon]] and the 3D transmon qubit
+*Invention of the Radio-Frequency Single-Electron Transistor
+}}
+| birth_name        = Robert John Schoelkopf III
+| birth_date        = 1964
+| birth_place       = [[Manhattan, New York City]]
+| doctoral_students = [[Jerry M. Chow]]
+| education         = {{plainlist|
+*[[Princeton University]] ([[Bachelor of Arts|AB]])
+*[[California Institute of Technology]] ([[PhD]])
+}}
+| thesis_title      = Studies of noise in Josephson-effect mixers and their potential for submillimeter heterodyne detection
+| workplaces        = [[Yale University]]
+| notable_students  = [[Andreas Wallraff]]<br>[[Jay Gambetta]]
+}}
+
+'''Robert John Schoelkopf III'''<ref>{{Cite web |title=Studies of noise in Josephson-effect mixers and their potential for submillimeter heterodyne detection |url=https://www.proquest.com/docview/304166973/ |access-date=2025-10-07 |website=ProQuest}}</ref> (born January 24, 1964) is an American [[physicist]], most noted for his work on [[quantum computing]] as one of the inventors of [[Superconducting quantum computing|superconducting qubits]].<ref name=first/> Schoelkopf's main research areas are quantum transport, single-electron devices, and charge dynamics in [[nanostructures]]. His research utilizes  quantum-effect and single-electron devices, both for fundamental physical studies and for applications. Techniques often include high-speed, high-sensitivity measurements performed on nanostructures at low temperatures.<ref name="ap" /> Schoelkopf serves as director of the Yale Center for Microelectronic Materials and Structures and as associate director of the Yale Institute for Nanoscience and Quantum Engineering. Since 2014, Schoelkopf is also the Director of the Yale Quantum Institute. He is Professor of Physics and [[Sterling Professor]] of Applied Physics at Yale University.<ref>{{cite web |url=https://appliedphysics.yale.edu/robert-j-schoelkopf |website=Yale Department of Applied Physics |access-date=17 April 2024 |title=Robert J. Schoelkopf &#124; Department of Applied Physics }}</ref> The title of Sterling Professor is the highest honor bestowed upon Yale faculty.
+
+==Biography==
+Schoelkopf was born in [[Manhattan, New York City]], the son of art dealer and [[Hudson River School]] expert Robert J. Schoelkopf II.<!--Robert J. Schoelkopf I is https://www.findagrave.com/memorial/75153548--><ref>{{Cite news|url=https://www.nytimes.com/1991/04/06/obituaries/robert-schoelkopf-art-dealer-was-63.html|title=Robert Schoelkopf; Art Dealer Was 63|date=1991-04-06|work=The New York Times|access-date=2019-06-06|language=en-US|issn=0362-4331}}</ref>  Schoelkopf received his A.B. in physics from [[Princeton University]], cum laude, in 1986, and his Ph.D. from [[Caltech]] in 1995.<ref name="cv">[https://rsl.yale.edu/sites/default/files/files/2019_RJ%20Schoelkopf_CV%20JANUARY(1).pdf Schoelkopf Lab, "Robert J. Schoelkopf Curriculum Vitae]</ref> From 1986 to 1988 he was an electrical/cryogenic engineer in the Laboratory for High-Energy Astrophysics at [[NASA|NASA’s]] [[Goddard Space Flight Center]], where he developed low-temperature radiation detectors and cryogenic instrumentation for future space missions. He came to Yale as a postdoctoral researcher in the group of Daniel Prober in 1995.
+
+Moving to [[Yale University]], he was from 1995 to 1998 a lecturer and associate research scientist, advancing to assistant professor in 1998, and professor of applied physics and physics in 2003. He was later awarded the titles Sterling Professor of Applied Physics and Physics and William A. Norton Professor of Applied Physics and Physics.<ref name="ap">{{Cite web|url=https://appliedphysics.yale.edu/robert-j-schoelkopf|title=Robert J. Schoelkopf {{!}} Department of Applied Physics|website=appliedphysics.yale.edu|language=en|access-date=2019-06-06}}</ref><ref name="cv" />
+
+Schoelkopf was a visiting professor at the University of New South Wales in Australia in 2008. He has been an invited lecturer at universities and professional organizations throughout the United States and in Canada and Europe. Schoelkopf was a semi-finalist for ''[[Discover (magazine)|Discover]]'' magazine's Technological Innovation of the Year in 1999. His other honors include NASA's Technical Innovator Award. He is a fellow of the American Association for the Advancement of Science and the American Physical Society.
+
+He became the William A. Norton Professor at Yale in 2013 and the Sterling Professor of Applied Physics and Physics.
+
+Schoelkopf was elected to the [[National Academy of Sciences]] in 2015.<ref>{{Cite web|url=https://news.yale.edu/2015/04/30/four-yale-affiliates-elected-national-academy-sciences|title=Four Yale affiliates elected to National Academy of Sciences|last=Kim|first=Samuel|date=2015-04-30|website=YaleNews|language=en|access-date=2019-06-06}}</ref>  His other honors include Fellow in the [[American Physical Society]] and Fellow of the [[American Association for the Advancement of Science]].
+
+== Research ==
+Robert Schoelkopf focuses his research on the development of superconducting devices for [[quantum information processing]], which might eventually lead to revolutionary advances in computing.<br />
+In 2007, a team of scientists led by Schoelkopf and [[Steven Girvin]] made a major breakthrough in quantum computing when it engineered a superconducting communication "bus" to store and transfer information between distant quantum bits, or [[qubits]], on a chip. Their work is the first step to making the fundamentals of quantum computing useful. In 2009, their team demonstrated the first electronic quantum processor which could perform a quantum computation.
+
+Schoelkopf's techniques emphasize high-speed, high-sensitivity measurements performed on nanostructures at low temperatures. Together with his former supervisor Daniel Prober and his laboratory team, Schoelkopf invented the Radio-Frequency Single-Electron Transistor, an electrometer capable of measuring sub-electron charges on nano-second timescales. This new transistor allowed them to study electrical transport at the single-charge level in various systems. They also developed new types of sensors and detectors that employ these capabilities.
+
+Schoelkopf's current research focus, together with [[Michel Devoret]] and [[Steven Girvin]] of the Yale Department of Applied Physics, is to further develop superconducting circuits that might one day lead to a practical quantum computer. Other projects are directed at developing "hybrid" quantum systems based on integrating [[cold atom]]s, molecules, or electrons with solid-state circuits.
+
+=== Schoelkopf's law ===
+{{Main|Quantum computing scaling laws}}
+
+Schoelkopf's law'states that in [[quantum computing]], [[quantum decoherence|decoherence time]] has improved by roughly a factor of 10 every three years, making it an analogue of [[Moore's law]].<ref name=first>{{cite news |title=Yale Professors Race Google and IBM to the First Quantum Computer |url=https://www.nytimes.com/2017/11/13/technology/quantum-computing-research.html |newspaper=[[New York Times]] |date=November 13, 2017 }}</ref><ref>"Superconducting Qubits Are Getting Serious", Matthias Steffen, December 5, 2011, Physics 4, 103</ref><ref>Phys. Rev. Lett. 107, 240501 (2011)</ref>
+
+== Honors and awards ==
+{{BLP sources section|date=February 2018}}
+	
+* [[Comstock Prize in Physics]] (2024)
+* Connecticut Medal of Science (2017)
+* Member of the [[National Academy of Sciences]] (2015)
+* [[Fritz London Memorial Prize]]  (together with Michel Devoret and John Martinis, 2014)
+* Max Planck Research Award (together with Jörg Wrachtrup, 2014)<ref>{{Cite web|url=https://www.mpg.de/8304907/max-planck-research-award-2014|title = Robert J. Schoelkopf and Jörg Wrachtrup to receive the Max Planck Research Award}}</ref>
+* [[John Stewart Bell Prize]] (together with Michel Devoret, 2013)
+* Yale Science and Engineering Association Award for Advancement of Basic and Applied Science (2010)
+* [[Joseph F. Keithley Award|Joseph F. Keithley Award For Advances in Measurement Science]] (2009)<ref>{{Cite web|url=http://www.aps.org/units/gims/awards/recipient.cfm?first_nm=Robert&last_nm=Schoelkopf&year=2009|title = Home - Unit - GIMS}}</ref>
+* Fellow of American Association for the Advancement of Science (2007)
+* Fellow of American Physical Society (2005)
+* Member of Defense Science Study Group (2004–2005)
+* Yale University Junior Faculty Fellowship (2002–2003)
+* David and Lucille Packard Foundation Fellow (2000–2005)
+
+== Patents ==
+{{US patent|5696372|“High Efficiency Near-Field Electromagnetic Probe Having a Bow-Tie Antenna Structure,” R.D. Grober, R.J. Schoelkopf, and D.E. Prober.}}
+
+== Selection of papers ==
+# {{cite journal | last1=Devoret | first1=M. H. | last2=Schoelkopf | first2=R. J. | title=Superconducting Circuits for Quantum Information: An Outlook | journal=Science | publisher=American Association for the Advancement of Science (AAAS) | volume=339 | issue=6124 | date=8 March 2013 | issn=0036-8075 | doi=10.1126/science.1231930 | pages=1169–1174| pmid=23471399 | bibcode=2013Sci...339.1169D | s2cid=10123022 }}
+# {{cite journal | last1=Reed | first1=M. D. | last2=DiCarlo | first2=L. | last3=Nigg | first3=S. E. | last4=Sun | first4=L. | last5=Frunzio | first5=L. | last6=Girvin | first6=S. M. | last7=Schoelkopf | first7=R. J. | title=Realization of three-qubit quantum error correction with superconducting circuits | journal=Nature | publisher=Springer Science and Business Media LLC | volume=482 | issue=7385 | year=2012 | issn=0028-0836 | doi=10.1038/nature10786 | pages=382–385| pmid=22297844 | arxiv=1109.4948 | bibcode=2012Natur.482..382R | s2cid=2610639 }}
+# {{cite journal | last1=DiCarlo | first1=L. | last2=Chow | first2=J. M. | last3=Gambetta | first3=J. M. | last4=Bishop | first4=Lev S. | last5=Johnson | first5=B. R. | last6=Schuster | first6=D. I. | last7=Majer | first7=J. | last8=Blais | first8=A. | last9=Frunzio | first9=L. | last10=Girvin | first10=S. M. | last11=Schoelkopf | first11=R. J. | title=Demonstration of two-qubit algorithms with a superconducting quantum processor | journal=Nature | publisher=Springer Science and Business Media LLC | volume=460 | issue=7252 | date=28 June 2009 | issn=0028-0836 | doi=10.1038/nature08121 | pages=240–244| pmid=19561592 | arxiv=0903.2030 | bibcode=2009Natur.460..240D | s2cid=4395714 }}
+# {{cite journal | last1=Schoelkopf | first1=R. J. | last2=Girvin | first2=S. M. | title=Wiring up quantum systems | journal=Nature | publisher=Springer Science and Business Media LLC | volume=451 | issue=7179 | year=2008 | issn=0028-0836 | doi=10.1038/451664a | pages=664–669| pmid=18256662 | bibcode=2008Natur.451..664S | s2cid=205035812 }}
+# {{cite journal | last1=Wallraff | first1=A. | last2=Schuster | first2=D. I. | last3=Blais | first3=A. | last4=Frunzio | first4=L. | last5=Huang | first5=R.- S. | last6=Majer | first6=J. | last7=Kumar | first7=S. | last8=Girvin | first8=S. M. | last9=Schoelkopf | first9=R. J. | title=Strong coupling of a single photon to a superconducting qubit using circuit quantum electrodynamics | journal=Nature | publisher=Springer Science and Business Media LLC | volume=431 | issue=7005 | year=2004 | issn=0028-0836 | doi=10.1038/nature02851 | pages=162–167| pmid=15356625 | arxiv=cond-mat/0407325 | bibcode=2004Natur.431..162W | s2cid=55812008 }}
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Scholia|author}}
+* [https://rsl.yale.edu/ Research website]
+* [https://physics.yale.edu/people/robert-schoelkopf Department of Physics]
+* [https://appliedphysics.yale.edu/robert-j-schoelkopf Department of Applied Physics]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schoelkopf, Robert}}
+[[Category:21st-century American physicists]]
+[[Category:Princeton University alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Yale University faculty]]
+[[Category:Yale Sterling Professors]]
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:American quantum physicists]]
+[[Category:American quantum information scientists]]
+[[Category:Fellows of the American Physical Society]]

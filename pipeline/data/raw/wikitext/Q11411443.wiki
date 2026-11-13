@@ -1,0 +1,47 @@
+{{short description|Japanese physicist and professor}}
+{{family name hatnote|[[Furusawa]]|lang=Japanese}}
+{{Infobox scientist
+| name             = Akira Furusawa
+| field            = [[Physics]]
+| awards           = 
+| education        = {{unbulleted list|[[University of Tokyo]] ([[PhD]], 1991)}}
+| workplaces       = [[University of Tokyo]] (2000-present)
+| thesis_title     = 
+| thesis_url       = 
+| thesis_year      = 
+| doctoral_advisor = 
+| website          = 
+}}
+{{Nihongo|'''Akira Furusawa'''|古澤 明|''Furusawa Akira''|born 1961|lead=yes}} is a Japanese physicist known for his contributions to [[quantum teleportation]]. He is a professor of physics in [[University of Tokyo]] and specializes in [[nonlinear optics]], [[quantum optics]], and [[quantum information science]].<ref name="nobel">{{cite web | title=Nobel Prize Dialogue - Akira Furusawa | website=The Nobel Prize | url=https://www.nobelprize.org/events/nobel-prize-dialogue/tokyo-2025/panelist-ja/%E5%8F%A4%E6%BE%A4%E3%80%80%E6%98%8E-akira-furusawa/ | access-date=2025-09-30}}</ref>
+
+== Education and career ==
+
+Furusawa was born in 1961 in the [[Saitama Prefecture]] of Japan and attended Saitama Prefectural Urawa High School.<ref name="kodansha">{{cite web | script-title=ja:古澤 明 AKIRA FURUSAWA | website=[[Kodansha]] | url=https://gendai.media/list/author/akirafurusawa | language=ja | access-date=2025-09-30}}</ref><ref>{{cite web | script-title=ja:東京大学見学会（1,2年次） | website=Saitama Prefectural Urawa High School| date=2016-09-14 | url=https://urawa-h.spec.ed.jp/blogs/blog_entries/view/340/9b76f5e49e4e90109b04a89bbb36448e | language=ja | access-date=2025-09-30}}</ref>
+
+He received his undergraduate degree in Engineering Physics from University of Tokyo in 1984 and a master's degree from the same institution in 1986. In the same year, he began working for [[Nikon]].<ref name="a2007">{{citation | script-title=ja:量子情報科学を駆ける”トップアスリート” 光の状態を自在に操り、量子コンピューターの基礎に貢献します。 | date=2007 | doi=10.1241/jstnews.4.9_14 | language=ja | pages=14–15}}</ref> He obtained his PhD from University of Tokyo in 1991.<ref name="nobel"/>
+
+He was an assistant researcher at [[H. Jeff Kimble|Jeff Kimble]]'s lab in [[California Institute of Technology]] from 1996 to 1998, where he made advancements in [[quantum teleportation]] research.<ref name="nobel"/>
+
+In 2000, he left Nikon and became an assistant professor in University of Tokyo's Engineering Physics department.<ref name="a2007"/> In 2007, he became a full professor.<ref name="nobel"/>
+
+In 2013, his research group perfected existing quantum teleportation techniques and reduced noise in communications.<ref>{{cite web | script-title=ja:完全な量子テレポーテーションに成功
+ | website=[[EE Times|EE Times Japan]] | date=2013-08-30 | url=https://eetimes.itmedia.co.jp/ee/articles/1308/19/news028.html | language=ja | access-date=2025-09-30}}</ref>
+
+As of 2024, Furusawa is working on building an optical [[Quantum computing|quantum computer]]. It is generally believed that several different hardware-based technology platforms are possible candidates for building a quantum computer. Though some of these technologies, particularly superconductors and semiconductors, have a head start, Furusawa believes that light has advantages that will eventually lead to an optical quantum computer winning against other approaches.<ref name="nature">{{cite web | title=Quantum computers move into the light | website=Nature | date=2024-02-28 | url=https://www.nature.com/articles/d42473-023-00436-7 | access-date=2025-09-30}}</ref>  A significant part of Furusawa's recent work has focused on generating large-scale [[cluster state]]s, which are a major substrate for photonics-based universal quantum computing.<ref>{{Cite web |title=General-Purpose Optical Quantum Computer Comes to Japan - IEEE Spectrum |url=https://spectrum.ieee.org/optical-quantum-computer |access-date=2025-10-07 |website=spectrum.ieee.org |language=en}}</ref><ref>{{Cite web |date=2019-10-18 |title=Prototype Large-Scale Quantum Processor Made Entirely of Light |url=https://scitechdaily.com/prototype-large-scale-quantum-processor-made-entirely-of-light/ |access-date=2025-10-07 |website=SciTechDaily |language=en-US}}</ref>
+
+== Awards and recognitions ==
+
+He was awarded the purple ribbon of Japan's [[Medals of Honor (Japan)|Medals of Honor]] in 2017 for his contributions to Quantum Computing.<ref>{{cite web | script-title=ja:紫綬褒章に伊集院静さんら　秋の褒章772人・20団体 | website=[[The Nikkei]] | date=2016-11-02 | url=https://www.nikkei.com/article/DGXLZO09062450R01C16A1CR8000/ | language=ja | access-date=2025-09-30}}</ref>
+
+== Publications ==
+Furusawa published several books on quantum mechanics.<ref name="kodansha"/>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Furusawa, Akira}}
+[[Category:1961 births]]
+[[Category:University of Tokyo alumni]]
+[[Category:Living people]]
+[[Category:Quantum information scientists]]
+[[Category:21st-century Japanese physicists]]

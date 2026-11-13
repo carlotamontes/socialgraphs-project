@@ -1,0 +1,90 @@
+{{Short description|German botanist (1925–2015)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = 
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = de
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{Birth date|1925|12|16|df=y}}
+| birth_place       = {{Interlanguage link|Steeg (Kürten)|de|Steeg (Kürten)|lt=Steeg}}, [[Prussia]], [[Weimar Republic]]
+| death_date        = {{death date and age |2015|04|16|1925|12|16|df=y}} <!-- (death date then birth date)-->
+| death_place       = Steeg, [[North Rhine-Westphalia]], Germany
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[phytogeography]], [[ecology]], [[botany]]
+| workplaces        = [[University of Hohenheim|University of Stuttgart-Hohenheim]], [[University of Hawaii]], [[University of North Carolina]], [[University of Osnabrück]]
+| patrons           = 
+| education         = [[University of Cologne]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1953 <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  =  
+| known_for         = Climate diagrams
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = Lieth
+| author_abbrev_zoo = 
+| spouse            = Magdalena Roth 
+| partner           = <!--(or | partners = )-->
+| children          = 4
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Friedrich Heinrich Helmut Lieth''' ({{Birth date|1925|12|16|df=y}}{{Spaced en dash space}}{{Death date|2015|4|16|df=y}}) was a German [[Ecology|ecologist]], [[Botany|botanist]] and [[Phytogeography|phytogeographer]].<ref name="Biog">{{cite journal |first=Marina |last=Mochtchenko |url=http://www.tropecol.com/pdf/open/PDF_45_1/45101.pdf |archive-url=https://web.archive.org/web/20160106212414/http://www.tropecol.com/pdf/open/PDF_45_1/45101.pdf |url-status=usurped |archive-date=January 6, 2016 |title=Prof. Dr. em. Helmut Lieth: The man and his life for global ecology |journal=[[Tropical Ecology]] |volume=45 |date=2004 |pages=1&ndash;2}}</ref><ref name="DNB">{{DNB-Portal|105031402}}</ref>
+
+==Biography==
+Lieth received his doctorate in Biology from the [[University of Cologne]] in 1953 and became a private lecturer at the [[University of Hohenheim|University of Stuttgart-Hohenheim]] in 1960. He was then a visiting professor in [[Venezuela]], [[Colombia]], and in 1966 at the [[University of Hawaiʻi at Mānoa|University of Hawaii]]. He was professor at the [[University of North Carolina at Chapel Hill]] from 1967 to 1977. From then until 1992 he was a professor at the [[University of Osnabrück]] where he held the chair of ecology.<ref name="CV">{{cite web |url=http://www.usf.uos.de/~hlieth |archive-url=https://web.archive.org/web/20050406042840/http://www.usf.uos.de/~hlieth |title=USF + AppSysSc: Homepage of Helmut Lieth |archivedate=6 April 2005}}</ref>
+
+Helmut Lieth married Magdalena Roth in 1952.<ref name="CV" /> The couple had a daughter (Dr. Margot Lieth) and three sons (Prof. Dr. Johann Heinrich Lieth, Dr. Erich Lieth and Armin Lieth); he also had a daughter (Masha) from a second marriage to Marina Mochtchenko.
+
+==Research==
+Lieth became widely known through the ''climate diagram world atlas'' published together with [[Heinrich Walter]] between 1960 and 1967. The descriptive form of climate display (the Walter-Lieth climate diagram ) conceived here received the highest international recognition.
+
+His work on use of geospatial mapping (Lieth 1974, 1975) resulted in many computer-generated maps and was the pioneering work that is today commonly referred to as Graphical Information Systems (GIS).
+
+==Selected works==
+* {{cite book |first1=Heinrich |last1=Walter |authorlink1=Heinrich Walter |first2=Helmut |last2=Rehder |first3=Elisabeth |last3=Harnickell |first4=Helmut |last4=Lieth |title=Klimadiagramm-Weltatlas |language=de| trans-title=Climate diagram world atlas |location=Jena |publisher=[[Gustav Fischer Verlag]] |date=1967 |oclc=174864785}} with around 8,000 climate stations (around 9,000 diagrams), 33 main maps, 22 secondary maps; published in 3 issues
+* {{cite book |title=Phenology and Seasonality Modeling |editor-first=H. |editor-last=Lieth | date=1974 |edition=1}} [{{Google books|id=_ajtCAAAQBAJ|plainurl=yes}} e-book published: 9 March 2013] {{isbn|9783642518638}}
+** {{citation |last=Lieth |first=H. |date=1974 |contribution=Purposes of a Phenology Book  |editor1-last=Lieth |editor1-first=H. |title=Phenology and Seasonality Modeling <!-- |journal=Ecological Studies (Analysis and Synthesis)-->|series=Ecological Studies |volume=8 |pages=3–19 |publisher=Springer |location=Berlin, Heidelberg |doi=10.1007/978-3-642-51863-8_1|isbn=978-3-642-51865-2 }}
+* {{cite book |title=Primary Productivity of the Biosphere |editor1-first=Helmut |editor1-last=Lieth |editor2-first=Robert Harding|editor2-last=Whittaker|publisher=Springer-Verlag |edition=1 |date=1975 |isbn=9783540070832}} republished 2011, 2012
+** {{citation |last=Lieth |first=H. |date=1975 | contribution=Modeling the Primary Productivity of the World. |editor1-last=Lieth |editor1-first=H. |editor2-last=Whittaker |editor2-first=R.H.  |title=Primary Productivity of the Biosphere <!--|journal=Ecological Studies (Analysis and Synthesis) |volume=14 -->|series=Ecological Studies |volume=14 |pages=237–263 |publisher=Springer |location=Berlin, Heidelberg |doi=10.1007/978-3-642-80913-2_12|isbn=978-3-642-80915-6 }}
+*{{cite journal |first1=Maja |last1=Schlüter |first2=Andre G. |last2=Savitsky |first3=Daene C. |last3=McKinney |first4=Helmut |last4=Lieth
+|title=Optimizing long-term water allocation in the Amudarya River delta: a water management model for ecological impact assessment
+|journal=Environmental Modelling & Software |volume=20 |issue=5 |date=2005 |pages=529&ndash;545 |doi=10.1016/j.envsoft.2004.03.005|bibcode=2005EnvMS..20..529S }}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lieth, Friedrich Heinrich Helmut}}
+[[Category:German ecologists]]
+[[Category:Academic staff of Osnabrück University]]
+[[Category:University of Hawaiʻi at Mānoa faculty]]
+[[Category:Botanists active in Europe]]
+[[Category:Botanists active in North America]]
+[[Category:1925 births]]
+[[Category:2015 deaths]]
+[[Category:20th-century German botanists]]

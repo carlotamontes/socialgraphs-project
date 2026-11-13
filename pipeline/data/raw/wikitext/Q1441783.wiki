@@ -1,0 +1,33 @@
+'''John William Negele''' (born 18 April 1944 in [[Cleveland, Ohio]]) is an American theoretical nuclear physicist.
+
+Negele studied electrical engineering at [[Purdue University]] with a bachelor's degree in 1965. He received his PhD in theoretical physics from [[Cornell University]] in 1969, under the supervision of [[Hans Bethe]], with the dissertation ''The Structure of Finite Nuclei in the Local Density Approximation''.<ref>{{MathGenealogy|id=127154|title=John William Negele}}</ref> He was a [[postdoc]] at the [[Niels Bohr Institute]] of the University of Copenhagen. From 1970, he was at [[Massachusetts Institute of Technology|MIT]], first as a visiting assistant professor, and then from 1979 as a professor<ref name=NegeleWebsite>{{cite web|title=John W. Negele, Physics Professor|website=MIT Department of Physics|url=https://web.mit.edu/physics/people/faculty/negele_john.html}}</ref> (becoming, in 1991, "W.A. Coolidge Professor"). He was the director of the Center for Theoretical Physics at MIT from 1989 to 1998 and is the director of the Atomic Science Institute at MIT (Laboratory of Nuclear Science, LNS).
+
+Negele's research deals with many-body theory in nuclear physics (including local density approximation,<ref>{{cite journal|author=Negele, J. W.|title=Structure of finite nuclei in the local-density approximation|journal=Physical Review C|volume=1|issue=4|year=1970|pages=1260–1321|doi=10.1103/PhysRevC.1.1260|bibcode=1970PhRvC...1.1260N}}</ref><ref>{{cite book|chapter=''Validity of local density approximation'' by J. W. Negele|editor=Ripka, G.|editor2=Porneuf, M.|location=New York|title=''In:'' Nuclear Self-consistent Fields: Proceedings of the International Conference Organized by and Held at the International Center for Theoretical Physics, Trieste, February 24-28, 1975<!--|publisher=North Holland-->|publisher=IAEA|postscript=; 439 pages|year=1975}}</ref> time-dependent Hartree-Fock (TDHF) methods, and [[Functional integration|path integral]] methods) and also with [[Many-body problem|many-body theory]] in spin systems. He originated the first [[density functional theory]] of finite nuclei starting from realistic (experimentally justified) nucleon-nucleon interactions. In doing so, he and his colleagues calculated the [[Binding energy|binding energies]] of [[Atomic nucleus|nuclei]], single-particle excitation energies, charge distributions, and nuclear matter properties in [[Neutron star|neutron stars]]. Since the 1980s, he has dealt with [[lattice QCD]]. He was also involved in the design of special computer clusters for such calculations.<ref>One such computer cluster used for lattice QCD calculations is the AliCE Linux cluster at the [[Bergische Universität Wuppertal]], headed by Klaus Schilling (Professor in Wuppertal). [http://www.presse-archiv.uni-wuppertal.de/archiv/mitteilungen/2000/alice.html Press release University of Wuppertal, '' Living Next Door to Alice '' 2000] (in German)</ref>
+
+He was a [[Guggenheim Fellow]] for the academic year 1982–1983<ref>{{cite web|title=John W. Negele|publisher=John Simon Guggenheim Memorial Foundation|url=https://www.gf.org/fellows/all-fellows/john-w-negele/}}</ref> and received the [[Humboldt Research Award]]. He was elected a Fellow of the [[American Physical Society]] (APS) in 1978 and a Fellow of the American Association for the Advancement of Science in 1987.<ref>{{cite journal|title=AAAS Members Elected as Fellows, 18 February 1987|date=3 April 1987|journal=Science|volume=236|issue=4797|page=96|doi=10.1126/science.236.4797.96|bibcode=1987Sci...236...96.|doi-access=free}}</ref> In 2014, he received the [[Herman Feshbach Prize in Theoretical Nuclear Physics]] for "lifetime contributions to nuclear many-body theory including identifying mechanisms for saturation and relating the [[Skyrmion|Skyrme interaction]] to fundamental nuclear forces; and for initiating and leading efforts to understand the nucleon using lattice QCD."<ref name=APS>{{cite web|url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Negele&first_nm=John&year=2014|title=2014 Herman Feshbach Prize in Theoretical Nuclear Physics Recipient, John W. Negele|publisher=American Physical Society}}</ref>
+
+He served as the first chair of the APS committee Computational Physics.<ref name=APS/>
+
+==Selected publications==
+* {{cite book |last1=Negele |first1=J. W. |last2=Orland |first2=H. |year=1988 |title=Quantum many-particle systems |location=Redwood City, CA |publisher=Adisson Wesley |isbn=978-0805368055}}
+* {{cite arXiv |eprint=nucl-th/9502035 |title=Nuclear Theory White Paper 1995 |year=1995 |last1=Bertsch |first1=G. |last2=Mueller |first2=B. |last3=Negele |first3=J. |last4=Friar |first4=J. |last5=Pandharipande |first5=V.}}
+* {{cite book |last=Negele |first=J. W. |chapter=Understanding hadron structure using lattice QCD |chapter-url=https://books.google.com/books?id=PfzAAQAAQBAJ&pg=209 |editor=Molinari, A. |editor2=Ricci, R. A. |title=Unfolding the Matter of Nuclei |year=1998 |series=Proceedings of the International School of Physics "Enrico Fermi" |volume=138 |pages=209–250 |publisher=IOS Press |arxiv=hep-lat/9804017 |isbn=90-5199-465-6 |lccn=98-75485}}
+* {{cite journal |doi=10.1016/S0920-5632(99)85010-5 |arxiv=hep-lat/9810053 |title=Instantons, the QCD vacuum, and hadronic physics |journal=Nuclear Physics B: Proceedings Supplements |volume=73 |issue=1–3 |pages=92–104 |year=1999 |last1=Negele |first1=J.W. |bibcode=1999NuPhS..73...92N|s2cid=118981211 }}
+* {{cite journal |doi=10.1016/S0375-9474(01)01465-8 |title=Understanding hadron structure using lattice QCD |journal=Nuclear Physics A |volume=699 |issue=1–2 |pages=18–25 |year=2002 |last1=Negele |first1=J.W. |bibcode=2002NuPhA.699...18N |arxiv=hep-lat/0107010|s2cid=15118037 }}
+
+==References==
+<references/>
+
+{{authority control}}
+
+{{DEFAULTSORT:Negele, John W.}}
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American nuclear physicists]]
+[[Category:Purdue University College of Engineering alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:MIT Center for Theoretical Physics faculty]]

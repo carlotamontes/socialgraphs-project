@@ -1,0 +1,57 @@
+{{Short description|American physicist (1929–2018)}}
+{{Infobox scientist
+| name              = Norman J. Zabusky
+| image             = Norman Zabusky with images and space-time diagrams.jpg
+| image_size        = 
+| caption           = Zabusky with images and space-time diagrams (2005)
+| birth_date        = {{Birth date|1929|1|4}}
+| birth_place       = [[Brooklyn, New York]]
+| death_date        = {{death date and age|2018|2|5|1929|1|4}}<ref>{{Cite web|url=https://dsweb.siam.org/The-Magazine/Article/norman-j-zabusky-a-nonlinear-odyssey-8|title=Norman J. Zabusky: A Nonlinear Odyssey|website=Dynamical Systems}}</ref>
+| death_place       = [[Beer Sheva, Israel]]
+| field             = Fluid dynamics and Waves; Computational fluid dynamics
+| workplaces        = [[Weizmann Institute of Science]],<br />[[Rutgers University]], New Jersey, USA, Emeritus
+| education         = [[City College of New York]]<br />[[Massachusetts Institute of Technology]]<br />[[California Institute of Technology]]
+| doctoral_advisor  = [[Milton S. Plesset]] and Leverett Davis
+| doctoral_students = 
+| known_for         = Theory and simulation  of [[soliton]]s; visiometrics
+| awards            = 2003: Otto Laporte Award of the American Physical Society, Division of Fluid Dynamics, "For pioneering and enduring contributions in nonlinear and vortex physics and computational fluid dynamics, including: the soliton; contour dynamics and V-states for 2D flows; vortex projectiles for accelerated inhomogeneous flows; and visiometrics for reduced modeling.”<ref>{{Cite web|url=https://engage.aps.org/dfd/home|title=Home - Unit - DFD|website=engage.aps.org}}</ref><br />
+1986:  [[The Franklin Institute Awards|Potts Medal]] of the Franklin Institute for the discovery  of the
+soliton.<ref>{{Cite web|url=https://www.fi.edu/laureates/norman-j-zabusky|title=Norman J. Zabusky|date=January 15, 2014|website=The Franklin Institute}}</ref>
+| religion          = 
+| footnotes         = 
+}}
+
+'''Norman J. Zabusky''' was an American physicist, who is noted for the discovery of the [[soliton]] in the  [[Korteweg–de Vries equation]], in work completed with [[Martin David Kruskal|Martin Kruskal]].  This result early in his career was followed by an extensive body of work in computational fluid dynamics, which led him in the latter years of his career to an examination of the importance of visualization in this field.  In fact, he coined the term ''visiometrics'' to describe the process of using computer-aided visualization to guide one towards quantitative results.
+
+==Biography==
+He was born in [[Brooklyn, New York City]] on January 4, 1929, to Hyman and Anna (née Braun) Zabusky. After graduating from [[Brooklyn Technical High School]], he attended the [[City College of New York]], where he received a bachelor's degree in electrical engineering in 1951. Following that he went to the [[Massachusetts Institute of Technology]], receiving his master's degree in electrical engineering in 1953.  After two years, Zabusky decided to leave engineering and pursued a Ph.D. in theoretical physics at the [[California Institute of Technology]], which he received in 1959 with a thesis in the area of stability of flowing  magnetized plasmas.
+
+In 1965, Zabusky and Kruskal pioneered the use of computer simulations to gain analytical insights into non-linear equations, and in the process, discovered the [[soliton]] solutions to 
+the [[Korteweg–de Vries equation]].<ref>N. J. Zabusky and M. D. Kruskal, Phys. Rev. Lett. 15 (1965) 240.
+DOI:https://doi.org/10.1103/PhysRevLett.15.240</ref>  
+The study of non-linear equations was enhanced by this discovery, opening up the door to analytical work on the integrability of the KdV equation and the equations of the KP hierarchy.  But perhaps more important was the methodology. The use of computer simulations led Zabusky to an appreciation of the importance of appropriate visualization and quantification  as a tool in analyzing fluid dynamical and wave systems. In 1990, he and Francois Bitz introduced the term ''visiometrics''.<ref>F. Bitz, N. J. Zabusky, Comput. Phys., November‐December 1990, p. 603.</ref>
+
+Zabusky worked at [[Bell Laboratories]] from 1961 to 1976, after which he joined the faculty of the [[University of Pittsburgh]] as a Professor of Mathematics.  He organized the NATO Advanced Study Institute School of Nonlinear Mathematics and Physics,<ref>{{Cite book|url=https://www.springer.com/us/book/9783642885068|title=Topics in Nonlinear Physics: Proceedings of the Physics Session, International School of Nonlinear Mathematics and Physics. A NATO Advanced Study Institute Max-Planck-Institute for Physics and Astrophysics (Munich, 1966)|editor-first=N. J.|editor-last=Zabusky|date=June 16, 1968|publisher=Springer-Verlag|via=www.springer.com}}</ref> held in 1966
+at the Max-Planck Institute of Physics in Munich, 
+and in 1971, he received
+a Guggenheim Fellowship for his work in computational physics, which took him to Oxford University and the Weizmann Institute of Science during the following academic year.<ref>{{Cite web|url=https://www.gf.org/fellows/all-fellows/norman-j-zabusky/|title=John Simon Guggenheim Foundation &#124; Norman J. Zabusky}}</ref>
+
+In 1988, he left Pittsburgh to become the State of New Jersey Professor of Computational Fluid Dynamics in the [[Rutgers University]] in the Department of Mechanical and Aerospace Engineering. After receiving the Jacobs Chair in Applied Physics (2000–2005) at Rutgers University he became interested in science and art and organized the 4th international Science and Art Symposium ''ScArt4''.<ref>{{Cite web|url=http://www.aps.org/publications/apsnews/200411/science-art.cfm|title=Science and Art Flow Together in Upcoming Conference|website=www.aps.org}}</ref> He retired from Rutgers as Emeritus Professor in 2006 and then was a visitor at the  Dept. of Physics of Complex Systems at the [[Weizmann Institute of Science]].
+
+During his career, Zabusky was active in supporting [[refusenik]] scientists in the [[U.S.S.R.]], and served on the Advisory Board of the [[Committee of Concerned Scientists]].<ref>{{cite web |url=http://concernedscientists.org/leadership/ |title=Who We Are |website=concernedscientists.org |access-date=7 February 2018}}</ref>  In 1983, while in the Soviet Union in conjunction with an invitation to an international scientific conference, he was expelled from the country for meeting with dissident Jewish scientists.<ref>{{Cite news|url=https://www.nytimes.com/1983/11/05/world/soviet-expels-us-professor-who-talked-with-dissidents.html|title=SOVIET EXPELS U.S. PROFESSOR WHO TALKED WITH DISSIDENTS|newspaper=The New York Times |date=November 5, 1983}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zabusky, Norman}}
+[[Category:1929 births]]
+[[Category:2018 deaths]]
+[[Category:Rutgers University faculty]]
+[[Category:Computational fluid dynamicists]]
+[[Category:Howard N. Potts Medal recipients]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Scientists from Brooklyn]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Deaths in Beersheba]]

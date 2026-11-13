@@ -1,0 +1,271 @@
+{{Short description|German physicist}}
+{{Use dmy dates|date=July 2022}}
+{{Infobox scientist
+| name              = Günter Schmahl
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| caption           = 
+| birth_date        = {{birth date |1936|03|26}}
+| birth_place       = [[Wilhelmshaven]], [[Germany]]
+| death_date        = {{death date and age |2018|08|14 |1936|03|26}}
+| death_place       = [[Göttingen]], [[Germany]]
+| fields            = [[Physics]]
+| workplaces        = [[University of Göttingen]]
+| alma_mater        =
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Soft X-ray microscopy]]
+| awards            = [[Lower Saxony State Prize]] (1985)<br>Röntgen Award (1995)<br>Compton Award (2005)
+| spouse            = Helga Schmahl
+}}
+'''Günter Schmahl''' (26 March 1936 – 14 August 2018)<ref name="faz:todesanz" /><ref name="www-xrm2018:mem" /> was a German physicist, professor at the [[University of Göttingen]] and a pioneer of [[X-ray microscopy]].
+
+The main focus of Schmahl's work, and his most important achievement, was the development of full-field [[Soft x-ray microscopy|soft X-ray microscopy]]. He was one of the first to recognize the potential of this method and to identify and follow the technological approach of using [[zone plate]]s as lenses in such a microscope.<ref name="www-roentgenmuseum1992" /><ref group="P" name="schmahl1969" /><ref group="P" name="niemann1974" /> Schmahl and his collaborators further developed the technique until it was ready for application in two- and three-dimensional imaging of biological samples.<ref name="www-welt1995" /><ref group="P" name="schmahl1988depatent" /><ref group="P" name="schmahl1989uspatent" /><ref group="P" name="schmahl1995" /><ref group="P" name="weiss2000" />
+
+Schmahl founded the Institute for X-ray Physics at the University of Göttingen and headed it until his retirement in 2002.<ref name="www-irp" /> He was also one of the founders and the first organizer of the [[International Conference on X-Ray Microscopy]], which has been held every three years since 1983 and biennially since 2008.<ref name="www-xrm2018:hist" />
+
+== Honors and awards ==
+
+* 1985: [[Lower Saxony State Prize]], category Science<ref name="www-ndspreis" />
+* 1992: Röntgen Medal of the city of [[Remscheid]]<ref name="www-roentgenmuseum1992" />
+* 1995: Röntgen Award of the Department of Physics and Crystallography at the [[University of Würzburg]]<ref name="physbl1995vol51no12" />
+* Since 1996: Member of the [[Göttingen Academy of Sciences and Humanities]]<ref name="www-adwgoe" />
+* 2005: [[Advanced Photon Source]] Compton Award, [[Argonne National Laboratory]], Argonne, Illinois (together with [[Janos Kirz]])<ref name="www-compton" />
+
+== Selected publications ==
+
+<references group="P">
+<ref name="schmahl1969">
+{{cite journal
+ |first1=G.
+ |last1=Schmahl
+ |first2=D.
+ |last2=Rudolph
+ |title=Lichtstarke Zonenplatten als abbildende Systeme für weiche Röntgenstrahlen
+ |language=German
+ |trans-title=High power zone plates as image forming systems for soft X rays
+ |journal=Optik (Jena)
+ |volume=29
+ |date=1969
+ |pages=577
+ |bibcode=1969Optik..29..577S
+}}
+</ref>
+<ref name="niemann1974">
+{{cite journal
+ |first1=B.
+ |last1=Niemann
+ |first2=D.
+ |last2=Rudolph
+ |first3=G.
+ |last3=Schmahl
+ |title=Soft-x-ray imaging zone plates with large zone numbers for microscopic and spectroscopic applications
+ |journal=Optics Communications
+ |volume=12
+ |date=1974
+ |issue=2
+ |pages=160–163
+ |doi=10.1016/0030-4018(74)90381-2
+|bibcode=1974OptCo..12..160N
+ }}
+</ref>
+<ref name="schmahl1995">
+{{cite journal
+ |first1=G.
+ |last1=Schmahl
+ |first2=D.
+ |last2=Rudolph
+ |first3=P.
+ |last3=Guttmann
+ |first4=G.
+ |last4=Schneider
+ |first5=J.
+ |last5=Thieme
+ |first6=B.
+ |last6=Niemann
+ |title=Phase contrast studies of biological specimens with the x-ray microscope at BESSY
+ |journal=Review of Scientific Instruments
+ |volume=66
+ |date=1995
+ |pages=1282–1286
+ |doi=10.1063/1.1145955
+}}
+</ref>
+<ref name="schmahl1988depatent">
+{{cite patent
+  |country=DE
+  |number=3642457
+  |title = Röntgen-Mikroskop
+  |fdate=12 December 1986
+  |pubdate=30 June 1988
+  |inventor=G. Schmahl, D. Rudolph
+  |assign1=Carl-Zeiss-Stiftung
+}}
+</ref>
+<ref name="schmahl1989uspatent">
+{{cite patent
+  |country=US
+  |number=4870674
+  |title=X-ray microscope
+  |fdate=9 December 1987
+  |pubdate=26 September 1989
+  |inventor=G. Schmahl, D. Rudolph
+  |assign1=Carl-Zeiss-Stiftung
+  |url=http://www.google.com/patents/US4870674
+}}
+</ref>
+<ref name="weiss2000">
+{{cite journal
+ |first1=D.
+ |last1=Weiß
+ |first2=G.
+ |last2=Schneider
+ |first3=B.
+ |last3=Niemann
+ |first4=P.
+ |last4=Guttmann
+ |first5=D.
+ |last5=Rudolph
+ |first6=G.
+ |last6=Schmahl
+ |title=Computed tomography of cryogenic biological specimens based on X-ray microscopic images
+ |journal=Ultramicroscopy
+ |volume=84
+ |date=2000
+ |issue=3–4
+ |pages=185–197
+ |doi=10.1016/S0304-3991(00)00034-6
+|pmid=10945329
+ }}
+</ref>
+</references>
+
+== References ==
+
+<references>
+<ref name="faz:todesanz">
+{{cite news
+ |title=Prof. Dr. Günter Schmahl: Traueranzeige
+ |trans-title=Death notice
+ |work=[[Frankfurter Allgemeine Zeitung]]
+ |date=18 August 2018
+ |url=https://lebenswege.faz.net/traueranzeige/prof-dr-gunter-schmahl/54051783
+ |accessdate=17 May 2020
+ |language=German
+}}
+</ref>
+<ref name="www-irp">
+{{cite web
+ |title=Institute for X-Ray Physics – Prof. Dr. Günter Schmahl, 1936-2018
+ |url=http://www.uni-goettingen.de/en/540412.html
+ |archive-url=https://web.archive.org/web/20180819042721/http://www.uni-goettingen.de/en/540412.html
+ |archive-date=19 August 2018
+ |publisher=[[University of Göttingen]]
+ |accessdate=17 May 2020
+}}
+</ref>
+<ref name="www-ndspreis">
+{{cite web
+ |publisher=State of [[Lower Saxony]]
+ |url=https://niedersachsen.de/land_leute/menschen/sehr_geehrte_niedersachsen/der-niedersaechsische-staatspreis-20065.html
+ |title=Der Niedersächsische Staatspreis
+ |language=German
+ |trans-title=State Award of Lower Saxony
+ |accessdate=17 May 2020
+}}
+</ref>
+<ref name="www-adwgoe">
+{{cite web
+ |publisher=[[Akademie der Wissenschaften zu Göttingen]]
+ |url=https://adw-goe.de/mitglieder/personendetails/person/guenter-schmahl/
+ |archive-url=https://web.archive.org/web/20180315133838/https://adw-goe.de/mitglieder/personendetails/person/guenter-schmahl/
+ |archive-date=15 March 2018
+ |title=Prof. Dr. Günter Schmahl
+ |accessdate=17 May 2020
+ |language=German
+}}
+</ref>
+<ref name="www-compton">
+{{cite web
+ |publisher=[[Argonne National Laboratory]]
+ |url=http://www.aps.anl.gov/News/APS_News/2005/20050301.htm
+ |archive-url=https://web.archive.org/web/20170108070340/http://aps.anl.gov/News/APS_News/2005/20050301.htm
+ |archive-date=8 January 2017
+ |title=Schmahl, Kirz Received Compton Award for Contributions to X-ray Microscopy
+ |year=2005
+ |accessdate=17 May 2020
+}}
+</ref>
+<ref name="www-roentgenmuseum1992">
+{{cite web
+ |publisher=Deutsches Röntgen-Museum
+ |url=https://roentgenmuseum.de/wp-content/uploads/2019/04/R%C3%B6ntgenplakette2019web-1.pdf
+ |title=The Roentgen Medal – Laureates 1951–2019
+ |accessdate=17 May 2020
+}}
+</ref>
+<ref name="www-welt1995">
+{{cite news
+ |url=http://www.welt.de/print-welt/article663696/Vom-Roentgenbild-einer-Hand-zum-Blick-in-lebende-Zellen.html
+ |title=Vom Röntgenbild einer Hand zum Blick in lebende Zellen
+ |language=German
+ |trans-title=From an X-ray image of a hand to a view into living cells
+ |first=Norbert
+ |last=Lossau
+ |work=[[Die Welt]]
+ |date=7 November 1995
+ |accessdate=17 May 2020
+ }}
+</ref>
+<ref name="www-xrm2018:hist">
+{{cite web
+ |url=https://xrm2018.usask.ca/about/the-conference/history.php
+ |title=XRM Conference Series History
+ |publisher=14th International Conference on X-ray Microscopy
+ |website=xrm2018.com
+ |accessdate=17 May 2020
+}}
+</ref>
+<ref name="www-xrm2018:mem">
+{{cite web
+ |url=https://xrm2018.usask.ca/program/memorial-to-schmahl.php
+ |title=Memorial to Günter Schmahl
+ |publisher=14th International Conference on X-ray Microscopy
+ |website=xrm2018.com
+ |accessdate=17 May 2020
+}}
+</ref>
+<ref name="physbl1995vol51no12">
+{{cite journal
+ |doi=10.1002/phbl.19950511203
+ |volume=51
+ |issue=12
+ |pages=1149
+ |title=Röntgenpreis 1995 an Günter Schmahl
+ |journal=[[Physikalische Blätter]]
+ |date=1995
+ |language=German
+ |trans-title=Röntgen Award 1995 [goes] to Günter Schmahl
+|doi-access=free
+ }}
+</ref>
+
+</references>
+
+==External links==
+*[https://doi.org/10.26015/adwdocs-1748 Obituary] by Tim Salditt in the yearbook of the [[Göttingen Academy of Sciences and Humanities]]. 
+
+{{Authority control}}
+{{DEFAULTSORT:Schmahl, Gunter}}
+[[Category:1936 births]]
+[[Category:2018 deaths]]
+[[Category:Academic staff of the University of Göttingen]]
+[[Category:21st-century German physicists]]
+[[Category:20th-century German physicists]]
+[[Category:Optical engineers]]
+[[Category:Members of the Göttingen Academy of Sciences and Humanities]]
+[[Category:Lower Saxony State Prize recipients]]

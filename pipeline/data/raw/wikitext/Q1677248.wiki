@@ -1,0 +1,196 @@
+{{Short description|American planetary scientist (born 1953)}}
+{{Infobox scientist
+|name              = Jack Wisdom
+|image             = <!--(filename only)-->
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date and age|1953|1|28}}
+|birth_place       = [[Lubbock, Texas]]
+|death_date        = 
+|death_place       = 
+|fields            = [[Planetary Science]]
+|workplaces        = [[Massachusetts Institute of Technology]]
+|education         = [[California Institute of Technology|Caltech]]&thinsp;<small>(Ph.D., 1981)</small><br />[[Rice University]] <small>(B.S., 1976)</small>
+|doctoral_advisor  = [[Peter Goldreich]]<ref>{{MathGenealogy|id=84647}}</ref>
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|signature         =  <!--(filename only)-->
+|footnotes         = 
+}}
+
+'''Jack Wisdom''' (born 1953) is an American planetary scientist and Professor of [[Planetary Science]]s at the [[Massachusetts Institute of Technology]].  
+
+== History ==
+He received his B.S. from [[Rice University]] in 1976 and his Ph.D. from [[California Institute of Technology]] in 1981. His research interests are the [[dynamics (mechanics)|dynamics]] of the [[Solar System]].
+
+Wisdom pioneered the study of chaos in the solar system. His 1981 dissertation demonstrated for the first time the theoretical reason for the clearing of the [[Kirkwood gaps]] in the asteroid belt.<ref name="Wisdom1982">{{cite journal
+ | author= Jack Wisdom
+ | title= The origin of the Kirkwood gaps - A mapping for asteroidal motion near the 3/1 commensurability
+ | journal= [[Astronomical Journal]]
+ | date= 1982
+ | volume= 87
+ | pages= 577–593
+ | bibcode=1982AJ.....87..577W
+ | doi= 10.1086/113132
+}}</ref><ref name="Wisdom1983">{{cite journal
+ | author= Jack Wisdom
+ | title= Chaotic behavior and the origin of the 3/1 Kirkwood gap
+ | journal= [[Icarus (journal)|Icarus]]
+ | date= 1983
+ | volume= 56
+ | issue= 1
+ | pages= 51–74
+ | bibcode=1983Icar...56...51W
+ | doi= 10.1016/0019-1035(83)90127-6
+ }}</ref><ref name="BrouwerCitation">[http://dda.harvard.edu/brouwer_award/brouw2001.html 2001 Brouwer Award Citation], [[American Astronomical Society|AAS]] [[Division on Dynamical Astronomy|DDA]]</ref>  His work has also brought to light the [[chaos theory|chaotic]] rotation of [[Hyperion (moon)|Hyperion]],<ref name="WPM84">{{cite journal
+ |author1=Jack Wisdom |author2=S.J. Peale |author3=F. Mignard | title= The chaotic rotation of Hyperion
+ | journal= [[Icarus (journal)|Icarus]]
+ | date= 1984
+ | volume= 58
+ | issue= 2
+ | pages= 137–152
+ | bibcode=1984Icar...58..137W
+ | doi= 10.1016/0019-1035(84)90032-0
+}}</ref> [[chaos theory|chaos]] in the orbital evolution of [[Pluto]],<ref name="SW88">{{cite journal
+ |author1=Gerald Sussman |author2=Jack Wisdom | title= Numerical evidence that the motion of Pluto is chaotic
+ | journal= [[Science (journal)|Science]]
+ | date= 1988
+ | volume= 241
+ | pages= 433–437
+ | bibcode=1988Sci...241..433S
+ | doi= 10.1126/science.241.4864.433
+ | pmid= 17792606
+ | issue= 4864
+| url= https://dspace.mit.edu/bitstream/1721.1/6038/2/AIM-1039.pdf
+ |hdl=1721.1/6038 |s2cid=1398095 | hdl-access= free
+ }}</ref> and the chaotic obliquity of [[Mars]]<ref name="TW93">
+{{cite journal
+ |author1=Jihad Touma |author2=Jack Wisdom | title= The Chaotic Obliquity of Mars
+ | journal= [[Science (journal)|Science]]
+ | date= 1993
+ | volume= 259
+ | pages= 1294–1297
+ | bibcode=1993Sci...259.1294T
+ | doi= 10.1126/science.259.5099.1294
+ | pmid= 17732249
+ | issue= 5099
+|s2cid=42933021 | hdl= 1721.1/129962
+ | hdl-access= free
+ }}</ref> which has important implications for the past Martian climate.
+
+Work with colleague [[Gerald Sussman]] using a specially-built computer demonstrated that the solar system as a whole is chaotic on a timescale of about four million years,<ref name="SW92">
+{{cite journal
+ |author1=Gerald Sussman |author2=Jack Wisdom | title= Chaotic Evolution of the Solar System
+ | journal= [[Science (journal)|Science]]
+ | date= 1992
+ | volume= 257
+ | pages= 56–62
+ | bibcode=1992Sci...257...56S
+ | doi= 10.1126/science.257.5066.56
+ | pmid= 17800710
+ | issue= 5066
+| url=http://www.dtic.mil/get-tr-doc/pdf?AD=ADA260055| archive-url=https://web.archive.org/web/20170924134339/http://www.dtic.mil/get-tr-doc/pdf?AD=ADA260055| url-status=dead| archive-date=September 24, 2017|hdl=1721.1/5961 |s2cid=12209977 | hdl-access= free
+ }}</ref> confirming results from [[Jacques Laskar]].<ref name="L89">
+{{cite journal
+ | author= Jacques Laskar
+ | title= A numerical experiment on the chaotic behaviour of the solar system
+ | journal= [[Nature (journal)|Nature]]
+ | date= 1989
+ | volume= 338
+ | issue= 6212
+ | pages= 237–8
+ | bibcode=1989Natur.338..237L
+ | doi= 10.1038/338237a0
+| s2cid= 4321705
+ }}</ref> This work was responsible for "shattering the long-held view of the clockwork motion of the planets."<ref name="BrouwerCitation"/>
+
+More recently, Wisdom's work has shed light on the complex evolution of the [[Moon]]<ref name="TW92">
+{{cite journal
+ |author1=Jihad Touma |author2=Jack Wisdom | title= Resonances in the Early Evolution of the Earth-Moon System
+ | journal= [[Astronomical Journal]]
+ | date= 1992
+ | volume= 115
+ | issue= 4
+ | pages= 1653–1663
+ | bibcode=1998AJ....115.1653T
+ | doi= 10.1086/300312
+| doi-access= free
+ }}</ref><ref name="W06">
+{{cite journal
+ | author= Jack Wisdom
+ | title= Dynamics of the Lunar Spin Axis
+ | journal= [[Astronomical Journal]]
+ | date= 2006
+ | volume= 131
+ | issue= 3
+ | pages= 1864–1871
+ | bibcode=2006AJ....131.1864W
+ | doi= 10.1086/499581
+| doi-access= free
+ }}</ref> and the tidal heating and dynamics of [[Enceladus]].<ref name="MW07">
+{{cite journal
+ |author1=Jennifer Meyer |author2=Jack Wisdom | title= Tidal Heating in Enceladus
+ | journal= [[Icarus (journal)|Icarus]]
+ | date= 2007
+ | volume= 188
+ | issue= 2
+ | pages= 535–539
+ | bibcode=2007Icar..188..535M
+ | doi= 10.1016/j.icarus.2007.03.001
+}}</ref><ref name="MW08">
+{{cite journal
+ |author1=Jennifer Meyer |author2=Jack Wisdom | title= Tidal Evolution of Mimas, Enceladus, and Dione
+ | journal= [[Icarus (journal)|Icarus]]
+ | date= 2008
+ | volume= 193
+ | issue= 1
+ | pages= 213–223
+ | bibcode=2008Icar..193..213M
+ | doi= 10.1016/j.icarus.2007.09.008
+}}</ref>
+	
+In addition, Wisdom is credited with developing "numerous analytical and numerical techniques" that are fundamental to modern [[celestial mechanics]],<ref name="BrouwerCitation"/> most notably the [[Symplectic integrator|symplectic map]] for the [[n-body problem]] (developed together with [[Matthew J. Holman]]),<ref name="WH91">{{cite journal
+ |author1=Jack Wisdom |author2=Matthew Holman | title= Symplectic maps for the n-body problem
+ | journal= [[Astronomical Journal]]
+ | date= 1991
+ | volume= 102
+ | pages= 1528–1538
+ | bibcode=1991AJ....102.1528W
+ | doi= 10.1086/115978
+| doi-access= 
+ }}</ref> which "now forms the core of nearly every solar system dynamics integration scheme in use today."<ref name="BrouwerCitation"/>
+
+Jack Wisdom is co-author of ''[[Structure and Interpretation of Classical Mechanics]]''.  His 2003 paper in ''[[Science (journal)|Science]]''<ref name="Wisdom2003">{{cite journal | author=Wisdom, Jack |title = Swimming in spacetime: motion by cyclic changes in body shape| journal=Science| volume=299| date=2003| pages=1865–1869| doi=10.1126/science.1081406 |pmid = 12610230 | issue=5614|bibcode = 2003Sci...299.1865W |s2cid = 8571181| doi-access=free}}</ref> on a new [[geometric phase]] effect which Wisdom calls "spacetime swimming" has attracted considerable attention, although it is not yet clear whether this effect has practical utility or even can be used to devise new tests of relativistic gravitation theories.
+
+== Awards and honors ==
+* [[H. C. Urey Prize]] of the [[American Astronomical Society]] (1986)
+* [[Helen B. Warner Prize for Astronomy]] of the AAS (1987)<ref>{{Citation | last1 = Andersen | first1 = P. H. | title = Jack Wisdom received the 1987 Warner Prize of the American Astronomical Society. | year = 1988 | journal = Physics Today | volume = 41 | issue = 11 | pages = 99–104| bibcode = 1988PhT....41k.102A | doi = 10.1063/1.2811630 }}</ref>
+* The asteroid [[3402 Wisdom]] was named in his honor (1988)
+* [[MacArthur Fellowship]] from the [[MacArthur Foundation]] (1994)
+* [[Brouwer Award (Division on Dynamical Astronomy)|Brouwer Award]] of the [[Division on Dynamical Astronomy]] of the [[American Astronomical Society]] (2001)
+* Elected a Legacy Fellow of the [[American Astronomical Society]] in 2020.<ref> {{cite web|url=https://aas.org/grants-and-prizes/aas-fellows|title=AAS Fellows|publisher=AAS|accessdate=1 October 2020}} </ref>
+
+==External links==
+*[https://web.archive.org/web/20070225102534/http://swiss.csail.mit.edu/users/wisdom/ Wisdom's academic home page]
+*[https://web.archive.org/web/20070311051004/http://www.astro.cf.ac.uk/~spxcv/science.html Spacetime swimming] from Chris Van Den Broeck (Astronomy, [[University of Wales]])
+
+==References==
+{{reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wisdom, Jack}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:MacArthur Fellows]]
+[[Category:American planetary scientists]]
+[[Category:Rice University alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:MIT School of Science faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Astronomical Society]]

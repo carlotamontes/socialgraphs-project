@@ -1,0 +1,267 @@
+{{Short description|British evolutionary biologist (1936–2000)}}
+{{Use British English|date=July 2012}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox scientist
+| birth_name        = William Donald Hamilton
+| name              = W. D. Hamilton
+| image             = W D Hamilton.jpg
+| birth_date        = {{Birth date|1936|8|1|df=y}}
+| birth_place       = [[Cairo]], [[Kingdom of Egypt|Egypt]]
+| death_date        = {{death date and age|2000|3|7|1936|8|1|df=y}}
+| death_place       = [[Fitzrovia]], [[London]], [[United Kingdom]]
+| fields            = [[Evolutionary biology]]
+| parents           = [[A. M. Hamilton|Archibald Milne Hamilton]] and Bettina Matraves Hamilton née Collier
+| workplaces        = [[Imperial College London]], [[University of Michigan]], [[University of Oxford]]
+| education        = [[St. John's College, Cambridge]]<br/>[[London School of Economics]]<br/>[[University College London]]
+| doctoral_advisor  = 
+| academic_advisors = [[John Hajnal]]<br />[[Cedric Smith (statistician)|Cedric Smith]]
+| doctoral_students = [[Laurence Hurst]]<br />[[Olivia Judson]]
+| notable_students  = 
+| known_for         = [[Kin selection]], [[Hamilton's rule]]
+| awards            = {{no wrap|[[Newcomb Cleveland Prize]] (1981)<br />[[Linnean Medal]] (1989)<br />[[Kyoto Prize]] (1993)<br />[[Crafoord Prize]] (1993)<br />[[Sewall Wright Award]] (1998)}}
+| signature         = <!--(filename only)-->
+| spouse            = Christine Friess
+| children          = Three daughters
+}}
+
+'''William Donald Hamilton''' (1 August 1936 –  7 March 2000) was a British [[evolutionary biologist]], recognised as one of the most significant [[evolution]]ary theorists of the 20th century.<ref>"[http://www.edge.org/3rd_culture/hamilton/hamilton_index.html Obituary by Richard Dawkins] {{Webarchive|url=https://web.archive.org/web/20160304172329/http://edge.org/3rd_culture/hamilton/hamilton_index.html |date=4 March 2016 }}", ''The Independent'', 10 March 2000. See also his eulogy by [[Richard Dawkins]] reprinted in his book ''[[A Devil's Chaplain]]'' (2003).</ref><ref>[https://web.archive.org/web/20100206153637/http://www.bbc.co.uk/iplayer/console/b00qc2hn BBC Radio 4 – ''Great Lives'' – 2 Feb 2010]</ref> Hamilton became known for his [[Theoretical biology|theoretical]] work expounding a rigorous [[Genetics|genetic]] basis for the existence of [[altruism (biology)|altruism]], an insight that was a key part of the development of the [[gene-centered view of evolution]]. He is considered one of the forerunners of [[sociobiology]]. Hamilton published important work on [[sex ratio]]s and the [[evolution of sex]]. From 1984 to his death in 2000, he was a [[Royal Society]] Research Professor at [[Oxford University]].
+
+[[Richard Dawkins]] has written that Hamilton was "the greatest Darwinian of my lifetime".<ref>{{cite book|last=Dawkins|first=Richard|year=2022|orig-year=2021|title=Flights of Fancy: Defying Gravity by Design and Evolution|title-link=Flights of Fancy: Defying Gravity by Design and Evolution|place=London|publisher=[[Bloomsbury Publishing|Head of Zeus]]|page=210|isbn=978-1838937850}}</ref>
+
+==Early life==
+Hamilton was born in 1936 in [[Cairo]], [[Egypt]], the second of seven children.<ref name=":0">{{Cite web |date=2025-03-02 |title=Bettina Matraves Collier |url=https://www.earlymedwomen.auckland.ac.nz/2025/03/02/bettina-matraves-collier/ |access-date=2025-05-09 |website=The Early Medical Women of New Zealand |language=en-NZ}}</ref> His parents were from [[New Zealand]]; his father [[A.M. Hamilton]] was an engineer, and his mother Bettina Matraves Hamilton (nee Collier) was a [[physician]].<ref name=":0" /> Two sisters qualified in medicine: Mary Bliss, who developed the alternating pressure mattress for the prevention of bedsores, and Janet who became a general practitioner. Another sister Margaret became a pasture scientist and brother an engineer.<ref name=":0" />
+
+The Hamilton family settled in [[Kent]]. During the [[Second World War]], Hamilton was evacuated to [[Edinburgh]]. He became interested in natural history at an early age and spent his spare time collecting [[butterflies]] and other insects. In 1946, he discovered [[E.B. Ford]]'s [[New Naturalist]] book ''Butterflies'', which introduced him to the principles of evolution by [[natural selection]], [[genetics]], and [[population genetics]].
+
+He was educated at [[Tonbridge School]], where he was in Smythe House. As a 12-year-old, he was seriously injured while playing with [[explosives]] that his father had, which were left over from making [[hand grenade]]s for the [[British Home Guard|Home Guard]] during [[World War II]]. Hamilton had to have a [[thoracotomy]] and parts of fingers on his right hand amputated in [[King's College Hospital]] to save his life. He was left with scarring and needed six months to recover.<ref name=":0" />
+
+Before going to the [[University of Cambridge]], he travelled in France and completed two years of [[national service]]. As an [[undergraduate]] at [[St. John's College, Cambridge|St. John's College]] in Biology, he was uninspired by the "many biologists [who] hardly seemed to believe in evolution".
+
+==Hamilton's rule==
+{{Main|Kin selection|Social Bonding and Nurture Kinship#Evolutionary biology theory of social behavior}}
+Hamilton enrolled in an [[Master of Science|MSc]] course in demography at the [[London School of Economics]] (LSE), under Norman Carrier, who helped secure grants for his studies. Later, when his work became more mathematical and genetical, he had his supervision transferred to [[John Hajnal]] of the LSE and [[Cedric Smith (statistician)|Cedric Smith]] of [[University College London]] (UCL).
+
+Both [[Ronald Fisher]] and [[J.&nbsp;B.&nbsp;S. Haldane]] had seen a problem in how organisms could increase the fitness of their own genes by aiding their close relatives, but not recognised its significance or properly formulated it. Hamilton worked through several examples, and eventually realised that the number that kept falling out of his calculations was [[Sewall Wright]]'s [[coefficient of relationship]]. This became Hamilton's rule: in each behaviour-evoking situation, the individual assesses his neighbour's fitness against his own according to the coefficients of relationship appropriate to the situation.  Algebraically, the rule posits that a costly action should be performed if:
+<div style="text-align: center;"> <math>C < r \times B </math> </div>
+
+where ''C'' is the cost in fitness to the actor, ''r'' the genetic relatedness between the actor and the recipient, and ''B'' is the fitness benefit to the recipient. Fitness costs and benefits are measured in [[fecundity]]. ''r'' is a number between 0 and 1. His two 1964 papers entitled ''[[The Genetical Evolution of Social Behaviour]]'' are now widely referenced.<ref>{{citation | author=Aaen-Stockdale, C. | title=Selfish Memes: An Update of Richard Dawkins' Bibliometric Analysis of Key Papers in Sociobiology | journal=Publications | year=2017 | volume=5 | issue=2 | pages=12 | doi=10.3390/publications5020012| doi-access=free | hdl=11250/2443958 | hdl-access=free }}</ref>
+
+The proof and discussion of its consequences, however, involved detailed mathematics, and two reviewers passed over the paper. The third, [[John Maynard Smith]], did not completely understand it either, but recognised its significance. Having his work passed over later led to friction between Hamilton and Maynard Smith, as Hamilton thought Maynard Smith had held his work back to claim credit for the idea (during the review period Maynard Smith published a paper that referred briefly to similar ideas). The Hamilton paper was printed in the  ''[[Journal of Theoretical Biology]]'' and, when first published, was largely ignored. Recognition of its significance gradually increased to the point that it is now routinely cited in biology books.
+
+Much of the discussion relates to the evolution of [[eusociality]] in insects of the order [[Hymenoptera]] ([[ants]], [[bees]] and [[wasps]]) based on their unusual [[haplodiploid sex-determination system]]. This system means that females are more closely related to their sisters than to their own (potential) offspring. Thus, Hamilton reasoned, a "costly action" would be better spent in helping to raise their sisters, rather than reproducing themselves.
+
+The supergenes notion (sometimes called the ''[[Green-beard effect]]'') - that organisms may evolve genes that are able to identify identical copies in others and preferentially direct social behaviours towards them - was theoretically clarified by Hamilton in 1987.<ref>Hamilton, William D. 1987. Discriminating nepotism: expectable, common and overlooked. In Kin recognition in animals, edited by D. J. C. Fletcher and C. D. Michener. New York: Wiley.</ref>
+
+==Spiteful behaviour==
+{{Main|Hamiltonian spite}}
+
+In his 1970 paper ''[[Selfish and Spiteful Behaviour in an Evolutionary Model]]'' Hamilton considers the question of whether harm inflicted upon an organism must inevitably be a byproduct of [[Adaptation|adaptations]] for survival.  What of possible cases where an organism is deliberately harming others without apparent benefit to the self?  Such behaviour Hamilton calls spiteful.  It can be explained as the increase in the chance of an organism's genetic alleles to be passed to the next generations by harming those that are less closely related than relationship by chance.
+
+Spite, however, is unlikely ever to be elaborated into any complex forms of adaptation.  Targets of aggression are likely to act in revenge, and the majority of pairs of individuals (assuming a panmictic species) exhibit a roughly average level of genetic relatedness, making the selection of targets of spite problematic.
+
+==Extraordinary sex ratios==
+Between 1964 and 1977, Hamilton was a lecturer at [[Imperial College London]] (including [[Silwood Park]], where a building is named in his honour).<ref>{{Cite web|url=https://www.theguardian.com/news/2000/mar/09/guardianobituaries3|title=WD Hamilton|website=[[TheGuardian.com]]|date=9 March 2000}}</ref> Whilst there he published a paper in ''[[Science (journal)|Science]]'' on "extraordinary sex ratios". Fisher (1930) had proposed a model as to why "ordinary" [[sex ratio]]s were nearly always 1:1 (but see Edwards 1998), and likewise extraordinary sex ratios, particularly in wasps, needed explanations. Hamilton had been introduced to the idea and formulated its solution in 1960 when he had been assigned to help Fisher's pupil [[A.W.F. Edwards]] test the Fisherian sex ratio hypothesis. Hamilton combined his extensive knowledge of [[natural history]] with deep insight into the problem, opening up a whole new area of research.
+
+The paper introduced the concept of the "unbeatable strategy", which [[John Maynard Smith]] and [[George R. Price]] were to develop into the [[evolutionarily stable strategy]] (ESS), a concept in [[game theory]] not limited to evolutionary biology. Price had originally come to Hamilton after deriving the [[Price equation]], and thus rederiving Hamilton's rule. Maynard Smith later peer reviewed one of Price's papers, and drew inspiration from it. The paper was not published but Maynard Smith offered to make Price a co-author of his ESS paper, which helped to improve relations between the men. Price died in 1975, and Hamilton and Maynard Smith were among the few present at the funeral.<ref name="AndrewBrown2000">{{cite book | last= Brown| first= Andrew| title= The Darwin Wars: The Scientific Battle for the Soul of Man| year = 2000| publisher= Touchstone| location= London |isbn= 978-0-684-85145-7}}</ref>
+
+Hamilton was a visiting professor at [[Harvard University]] and later spent nine months with the [[Royal Society]]'s and the [[Royal Geographical Society]]'s Xavantina-Cachimbo Expedition as a visiting professor at the [[University of São Paulo]]. From 1978 Hamilton was Professor of [[Evolutionary Biology]] at the [[University of Michigan]]. Simultaneously, he was elected a Foreign Honorary Member of [[American Academy of Arts and Sciences]].<ref name="William Donald Hamilton">{{Cite web|title=William Donald Hamilton|url=https://www.amacad.org/person/william-donald-hamilton|access-date=2021-12-02|website=American Academy of Arts & Sciences|language=en}}</ref> His arrival sparked protests and [[sit-ins]] from students who did not like his association with [[sociobiology]]. There he worked with the [[Political science|political scientist]] [[Robert Axelrod (political scientist)|Robert Axelrod]] on the [[prisoner's dilemma]], and was a member of the BACH group with original members [[Arthur Burks]], [[Robert Axelrod (political scientist)|Robert Axelrod]], [[Michael D. Cohen (academic)|Michael Cohen]], and [[John Henry Holland|John Holland]].<ref>{{Cite web|url=https://lsa.umich.edu/cscs/about-us/history.html|title=History}}</ref> 
+
+Hamilton was regarded as a poor lecturer. This shortcoming would not affect the recognition of his work, however, as it was popularised by [[Richard Dawkins]] in the book ''[[The Selfish Gene]]'' published in 1976.
+
+==Chasing the Red Queen==
+Hamilton was an early proponent of the [[Red Queen's Hypothesis|Red Queen]] theory of the [[evolution of sex]]<ref>[http://www.indiana.edu/~curtweb/Research/Red_Queen%20hyp.html The Red Queen Hypothesis] at Indiana University. Quote: "W.&nbsp;D. Hamilton and John Jaenike were among the earliest pioneers of the idea."</ref> (separate from the other theory of the same name previously proposed by [[Leigh Van Valen]]). This was named for a character in [[Lewis Carroll]]'s ''[[Through the Looking-Glass]]'', who is continuously running but never actually travels any distance:
+
+:"Well, in our country," said Alice, still panting a little, "you'd generally get to somewhere else—if you ran very fast for a long time, as we've been doing."
+:"A slow sort of country!" said the Queen. "Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!" [https://web.archive.org/web/20110111040829/http://etext.lib.virginia.edu/etcbin/toccer-new2?id=CarGlas.sgm&images=images%2Fmodeng&data=%2Ftexts%2Fenglish%2Fmodeng%2Fparsed&tag=public&part=2&division=div1 (Carroll, pp. 46)]
+
+This theory hypothesizes that sex evolved because new and unfamiliar combinations of genes could be presented to [[parasitism|parasites]], preventing the parasite from preying on that organism: species with sex were able to continuously "run away" from their parasites. Likewise, parasites were able to evolve mechanisms to get around the organism's new set of genes, thus perpetuating an endless race.
+
+==Return to Britain==
+In 1980, he was elected a [[Fellow of the Royal Society]], and in 1984, he was invited by [[Richard Southwood]] to be the Royal Society Research Professor in the Department of Zoology at [[Oxford University|Oxford]], and a fellow of [[New College, Oxford|New College]], where he remained until his death.
+
+His collected papers, entitled ''Narrow Roads of Gene Land'', began to be published in 1996.  The first volume was entitled ''Evolution of Social Behaviour''.
+
+In 1998, Hamilton co-authored the paper "Spora and [[Gaia hypothesis|Gaia]]" with [[Tim Lenton]], proposing that marine algae's tendency to release [[dimethyl sulfide]], which in turn acts as a chemical precursor for [[cloud condensation nuclei]], is an [[Adaptation|adaptive]] trait, as the algae can use the clouds to disperse themselves around the world.<ref>{{cite journal | first1=W.D. | last1=Hamilton | first2=T.M. | last2=Lenton | title=Spora and Gaia: how microbes fly with their clouds | journal=Ethology Ecology & Evolution | volume=10 | pages=1–16 | date=1998 | issue=1 | url=http://ejour-fup.unifi.it/index.php/eee/article/viewFile/787/733 | format=PDF | doi=10.1080/08927014.1998.9522867 | bibcode=1998EtEcE..10....1H | url-status=dead | archive-url=https://web.archive.org/web/20110723055017/http://ejour-fup.unifi.it/index.php/eee/article/viewFile/787/733 | archive-date=2011-07-23 | url-access=subscription }}</ref>
+
+==Social evolution==
+The field of [[Sociocultural evolution|social evolution]], of which [[Hamilton's Rule]] has central importance, is broadly defined as being the study of the evolution of social behaviours, i.e. those that impact on the fitness of individuals other than the actor. Social behaviours can be categorized according to the fitness consequences they entail for the actor and recipient. A behaviour that increases the direct fitness of the actor is mutually beneficial if the recipient also benefits, and selfish if the recipient suffers a loss. A behaviour that reduces the fitness of the actor is altruistic if the recipient benefits, and spiteful if the recipient suffers a loss. This classification was first proposed by Hamilton in 1964.{{Citation needed|date=February 2008}}
+
+Hamilton also proposed the coevolution theory of [[autumn leaf color]] as an example of evolutionary [[signalling theory]].<ref name="Coevolution">{{cite journal |date=July 2001 |title=Autumn tree colours as a handicap signal |journal=Proc. R. Soc. B |volume=268 |pages=1489–1493 |doi=10.1098/rspb.2001.1672 |pmid=11454293  |last1=Hamilton |first1=WD |last2=Brown |first2=SP |issue=1475 |issn=0962-8452 |pmc=1088768}}</ref>
+
+== Origin of HIV ==
+{{Main|Oral polio vaccine AIDS hypothesis}}
+During the 1990s, Hamilton became interested in the [[OPV AIDS hypothesis|now-discredited hypothesis]] that the origin of [[HIV virus|HIV]] lay in [[Hilary Koprowski]]'s oral [[polio vaccine]] trials in Africa during the 1950s. Hamilton's letter on the topic to ''[[Science (journal)|Science]]'' journal was rejected in 1996. Despite this, he spoke to the BBC supporting the hypothesis,<ref>{{cite web |url=https://news.bbc.co.uk/2/hi/health/431167.stm |title='Scientists started Aids epidemic' |date=1 September 1999 |website=BBC News |access-date=1 September 2020}}</ref> and wrote the foreword of Edward Hooper's 1999 book ''The River''. To look for evidence of the hypothesis, Hamilton went on a 2000 field trip to the [[Democratic Republic of the Congo]] to assess natural levels of [[simian immunodeficiency virus]] in primates.<ref name=pol>{{cite journal |url=https://documents.uow.edu.au/~bmartin/pubs/05pls.html |title=The Politics of a Scientific Meeting: the Origin-of-AIDS Debate at the Royal Society |journal=[[Politics and the Life Sciences]] |volume=20 |issue=20 |date=September 2001 |access-date=1 September 2020}}</ref><ref name="the-star">{{cite news |last1=Allen |first1=Kate |title=He nearly died pursuing HIV's origins. Then this Canadian scientist set his sights on the COVID lab leak theory. Here's what he found |url=https://www.thestar.com/news/canada/he-nearly-died-pursuing-hiv-s-origins-then-this-canadian-scientist-set-his-sights-on/article_62ff5dd2-12b3-5db9-a912-0724bd2669ee.html |access-date=15 September 2023 |work=[[Toronto Star]] |date=29 April 2023}}</ref>
+
+==Death==
+Hamilton returned to London from Africa on 29 January 2000. He was admitted to [[University College Hospital]], London, on 30 January 2000. He was transferred to [[Middlesex Hospital]] on 5 February 2000 and died there on 7 March 2000. An inquest was held on 10 May 2000 at Westminster [[Coroner's Court]] to inquire into rumours about the cause of his death. The coroner concluded that his death was due to "multi-organ failure due to upper gastrointestinal haemorrhage due to a [[duodenum|duodenal]] [[diverticulum]] and [[Artery|arterial]] bleed through a [[Peptic ulcer|mucosal ulcer]]". Following reports attributing his death to complications arising from [[malaria]], the [[BBC]] Editorial Complaints Unit's investigation established that he had contracted malaria during his final African expedition. However, the pathologist had suggested the possibility that the ulceration and consequent haemorrhage had resulted from a pill (which might have been taken because of malarial symptoms) lodging in the diverticulum; but, even if this suggestion were correct, the link between malaria and the observed causes of death would be entirely indirect.<ref>{{cite web|url=https://www.bbc.co.uk/complaints/content/ecu/ecu_greatlives_wdhamilton|archive-url=https://web.archive.org/web/20110219081930/http://www.bbc.co.uk/complaints/content/ecu/ecu_greatlives_wdhamilton|url-status=dead|archive-date=19 February 2011|title=ECU Ruling: Great Lives, BBC Radio 4, 2 February 2010|publisher=BBC|access-date=24 June 2011}}</ref>
+
+A secular memorial service (he was an [[agnostic]]<ref name="Segerstrale2013">{{cite book|author=Ullica Segerstrale|title=Nature's Oracle: The Life and Work of W.D.Hamilton|url=https://books.google.com/books?id=TRxjFR4KQEEC&pg=PA383|date=28 February 2013|publisher=OUP Oxford|isbn=978-0-19-164277-7|pages=383–}}</ref>) was held at the chapel of [[New College, Oxford]] on 1 July 2000, organised by Richard Dawkins. He was buried near [[Wytham|Wytham Woods]]. He, however, had written an essay on ''My intended burial and why'' in which he wrote:<ref>{{cite journal | last1 = Hamilton | first1 = W. D. | year = 2000 | title = My intended burial and why | url = http://ejour-fup.cilea.it/index.php/eee/article/viewFile/859/805 | journal = Ethology Ecology and Evolution | volume = 12 | issue =  2| pages = 111–122 | doi = 10.1080/08927014.2000.9522807 | bibcode = 2000EtEcE..12..111H | s2cid = 84908650 }}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+{{cquote|I will leave a sum in my last will for my body to be carried to Brazil and to these forests. It will be laid out in a manner secure against the possums and the vultures just as we make our chickens secure; and this great ''[[Coprophanaeus]]'' beetle will bury me. They will enter, will bury, will live on my flesh; and in the shape of their children and mine, I will escape death. No worm for me nor sordid fly, I will buzz in the dusk like a huge bumble bee. I will be many, buzz even as a swarm of motorbikes, be borne, body by flying body out into the Brazilian wilderness beneath the stars, lofted under those beautiful and un-fused [[elytron|elytra]] which we will all hold over our backs. So finally I too will shine like a violet ground beetle under a stone.}}
+
+The second volume of his collected papers, ''Evolution of Sex'', was published in 2002, and the third and final volume, ''Last Words'', in 2005.
+
+In 1966, he married Christine Friess; the couple had three daughters, Helen, Ruth, and Rowena.<ref name="frs"/> They separated amicably 26 years later.{{citation needed|date=February 2023}} From 1994, Hamilton found companionship with Maria Luisa Bozzi, an Italian science journalist and author.<ref name="frs"/>
+
+==Awards==
+* 1978 Foreign Honorary Member of [[American Academy of Arts and Sciences]]<ref name="William Donald Hamilton"/>
+* 1980 Fellow of the [[Royal Society]] of London<ref name="frs">{{Cite journal | last1 = Grafen | first1 = A. | author-link = Alan Grafen| doi = 10.1098/rsbm.2004.0009 | title = William Donald Hamilton. 1 August 1936 -- 7 March 2000 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 50 | pages = 109–132| year = 2004 | s2cid = 56905497 | url = http://users.ox.ac.uk/~grafen/cv/WDH_memoir.pdf| doi-access = free }}</ref>
+* 1982 [[Newcomb Cleveland Prize]] of the [[American Association for the Advancement of Science]]
+* 1988 [[Darwin Medal]] of the [[Royal Society]] of London
+* 1989 Scientific Medal of the [[Linnean Society]]
+* 1991 [[Frink Medal]] of Zoological Society of London
+* 1992/3 Wander Prize of the [[University of Bern]]
+* 1993 [[Crafoord Prize]] of the [[Royal Swedish Academy of Sciences]]<ref name="Crafoord Prize 1993">{{cite web | title=William D Hamilton | website=Crafoord Prize | date=2022-08-22 | url=https://www.crafoordprize.se/prize-laureate/william-d-hamilton/ | access-date=2024-02-24}}</ref>
+* 1993 [[Kyoto Prize]] of the [[Inamori Foundation]]
+* 1995 Fyssen Prize of the [[Fyssen Foundation]]
+* 1997 [[Academician#Finland|Honorary title of Academician of Science in Finland]]
+*1999 Member of the [[American Philosophical Society]]<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=William+D.+Hamilton&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|access-date=2021-12-02|website=search.amphilsoc.org}}</ref>
+
+==Biographies==
+* [[Alan Grafen]] has written a biographical memoir for the Royal Society.<ref name="frs"/>
+* A biographical book has also been published by [[Ullica Segerstråle]] : [http://global.oup.com/academic/product/natures-oracle-9780198607274?q=Nature%27s%20oracle&lang=en&cc=us Segerstråle, U. 2013. ''Nature's oracle: the life and work of W. D. Hamilton.'' Oxford University Press]. {{isbn|978-0-19-860728-1}}
+
+==Works==
+
+===Collected papers===
+Hamilton started to publish his collected papers in 1996, along the lines of Fisher's collected papers, with short essays giving each paper context. He died after the preparation of the second volume, so the essays for the third volume come from his coauthors.
+
+* Hamilton W.D. (1996) ''[https://global.oup.com/academic/product/narrow-roads-of-gene-land-the-collected-papers-of-wd-hamilton-9780716745303?lang=en&cc=gb Narrow Roads of Gene Land vol. 1: Evolution of Social Behaviour]'' Oxford University Press, Oxford. {{ISBN|978-0-7167-4530-3}}
+* Hamilton W.D. (2002) ''[https://global.oup.com/academic/product/narrow-roads-of-gene-land-9780198503361?lang=en&cc=gb Narrow Roads of Gene Land vol. 2: Evolution of Sex]'' Oxford University Press, Oxford. {{ISBN|978-0-19-850336-1}}
+* Hamilton W.D. (2005) ''[https://global.oup.com/academic/product/narrow-roads-of-gene-land---the-collected-papers-of-w-d-hamilton-9780198566908?q=9780198566908&cc=gb&lang=en Narrow Roads of Gene Land, vol. 3: Last Words]'' (with essays by coauthors, ed. M. Ridley). Oxford University Press, Oxford. {{ISBN|978-0-19-856690-8}}
+
+===Significant papers===
+* {{Cite journal 
+| last1 = Hamilton | first1 = W. 
+| title = The genetical evolution of social behaviour. I 
+| journal = Journal of Theoretical Biology 
+| volume = 7 
+| issue = 1 
+| pages = 1–16 
+| year = 1964 
+| pmid = 5875341
+ | doi=10.1016/0022-5193(64)90038-4
+| bibcode = 1964JThBi...7....1H 
+}}
+* {{Cite journal 
+| last1 = Hamilton | first1 = W. 
+| title = The genetical evolution of social behaviour. II 
+| journal = Journal of Theoretical Biology 
+| volume = 7 
+| issue = 1 
+| pages = 17–52 
+| year = 1964 
+| pmid = 5875340
+ | doi=10.1016/0022-5193(64)90039-6
+| bibcode = 1964JThBi...7...17H 
+}}
+* {{Cite journal 
+| last1 = Hamilton | first1 = W. 
+| title = The moulding of senescence by natural selection 
+| journal = Journal of Theoretical Biology 
+| volume = 12 
+| issue = 1 
+| pages = 12–45 
+| year = 1966 
+| pmid = 6015424
+ | doi=10.1016/0022-5193(66)90184-6
+| bibcode = 1966JThBi..12...12H 
+}}
+* {{Cite journal 
+| last1 = Hamilton | first1 = W. 
+| title = Extraordinary sex ratios. A sex-ratio theory for sex linkage and inbreeding has new implications in cytogenetics and entomology 
+| journal = Science 
+| volume = 156 
+| issue = 774 
+| pages = 477–488 
+| year = 1967 
+| pmid = 6021675
+ | doi=10.1126/science.156.3774.477
+ | bibcode = 1967Sci...156..477H
+}}
+* {{Cite journal 
+| last1 = Hamilton | first1 = W. 
+| title = Geometry for the selfish herd 
+| journal = Journal of Theoretical Biology 
+| volume = 31 
+| issue = 2 
+| pages = 295–311 
+| year = 1971 
+| pmid = 5104951
+ | doi=10.1016/0022-5193(71)90189-5
+| bibcode = 1971JThBi..31..295H 
+}}
+* Hamilton W. D. (1975). [http://www.majorityrights.com/docs/Hamilton75.pdf Innate social aptitudes of man: an approach from evolutionary genetics.] in R. Fox (ed.), ''Biosocial Anthropology, Malaby Press, London'', 133–53.
+*  {{Cite journal 
+| last1 = Axelrod | first1 = R. 
+| last2 = Hamilton | first2 = W. 
+| title = The evolution of cooperation 
+| journal = Science 
+| volume = 211 
+| issue = 4489 
+| pages = 1390–1396 
+| year = 1981 
+| pmid = 7466396
+ | doi=10.1126/science.7466396
+| bibcode = 1981Sci...211.1390A 
+}} with [[Robert Axelrod (political scientist)|Robert Axelrod]]
+* {{Cite journal | last1 = Hamilton | first1 = W. | last2 = Zuk | first2 = M. | doi = 10.1126/science.7123238 | title = Heritable true fitness and bright birds: A role for parasites? | journal = Science | volume = 218 | issue = 4570 | pages = 384–387 | year = 1982 | pmid =  7123238| bibcode = 1982Sci...218..384H | s2cid = 17658568 }}
+* {{cite journal | first1=W.D. | last1=Hamilton | first2=T.M. | last2=Lenton | title=Spora and Gaia: how microbes fly with their clouds | journal=Ethology Ecology & Evolution | volume=10 | pages=1–16 | date=1998 | issue=1 | url=http://ejour-fup.unifi.it/index.php/eee/article/viewFile/787/733 | format=PDF | doi=10.1080/08927014.1998.9522867 | bibcode=1998EtEcE..10....1H | url-status=dead | archive-url=https://web.archive.org/web/20110723055017/http://ejour-fup.unifi.it/index.php/eee/article/viewFile/787/733 | archive-date=2011-07-23 | url-access=subscription }}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [[A. W. F. Edwards|Edwards, A.&nbsp;W.&nbsp;F.]] (1998) Notes and Comments.  {{Cite journal 
+| last1 = Edwards | first1 = A. W. F. 
+| title = Natural Selection and the Sex Ratio: Fisher's Sources 
+| doi = 10.1086/286141 
+| journal = The American Naturalist 
+| volume = 151 
+| issue = 6 
+| pages = 564–569 
+| year = 1998 
+| pmid = 18811377 
+| bibcode = 1998ANat..151..564E 
+| s2cid = 40540426 
+}}
+* [[Ronald Fisher|Fisher R.&nbsp;A.]] (1930). ''[[The Genetical Theory of Natural Selection]]''.  Clarendon Press, Oxford.
+* [[E.B. Ford|Ford, E.&nbsp;B.]] (1945) New Naturalist&nbsp;1: Butterflies. Collins: London.
+* {{cite journal | last1 = Maynard Smith | first1 = J. | author-link = John Maynard Smith | author-link2 = George R. Price | last2 = Price | first2 = G.R. | year = 1973 | title = The logic of animal conflict | journal = [[Nature (journal)|Nature]] | volume = 246 | issue = 5427 | pages = 15–18 | doi = 10.1038/246015a0 | bibcode = 1973Natur.246...15S | s2cid = 4224989 }}
+* [[Richard Dawkins|Dawkins R.]] (1989) [[The Selfish Gene]], 2nd ed. Oxford University Press.
+* Madsen E. A., Tunney R. Fieldman, G. [[Henry Plotkin|Plotkin H.&nbsp;C.]], [[Robin Dunbar]], and J.&nbsp;M. Richardson and D. McFarland. (2006) "Kinship and altruism: a cross-cultural experimental study". ''British Journal of Psychology'': http://www.ingentaconnect.com/content/bpsoc/bjp/pre-prints/218320
+
+==External links==
+{{Wikiquote}}
+*[https://web.archive.org/web/20080318185801/http://www.unifr.ch/biol/ecology/hamilton/hamilton.html Obituaries and reminiscences]
+*[http://www.royalsoc.ac.uk/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqSearch=RefNo=='EC/1980/12'&dsqDb=Catalog Royal Society citation]{{Dead link|date=July 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[https://web.archive.org/web/20040404173032/http://www.mamiraua.org.br/4-2-1.html Centro Itinerante de Educação Ambiental e Científica Bill Hamilton (The Bill Hamilton Itinerant Centre for Environmental and Scientific Education) (in Portuguese)]
+*[http://www.serpentfd.org/a/hamilton1964.html Non-mathematical excerpts from Hamilton 1964] {{Webarchive|url=https://web.archive.org/web/20160304123630/http://www.serpentfd.org/a/hamilton1964.html |date=4 March 2016 }}
+*[http://www.froes.dds.nl/HAMILTON.htm "If you have a simple idea, state it simply" a 1996 interview with Hamilton]
+*[http://www.lrb.co.uk/v25/n03/andrew-berry/reasons-for-being-nice-and-having-sex London Review of Books book review]
+*[https://web.archive.org/web/20040716054729/http://www.iiasa.ac.at/Publications/Documents/IR-02-019.pdf W.&nbsp;D. Hamilton's work in game theory]
+
+{{Evolutionary psychologists}}
+{{FRS 1980}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hamilton, W. D.}}
+[[Category:1936 births]]
+[[Category:2000 deaths]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Alumni of the University of London]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Alumni of University College London]]
+[[Category:20th-century British zoologists]]
+[[Category:Evolutionary game theorists]]
+[[Category:Evolutionary psychologists]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Kyoto laureates in Basic Sciences]]
+[[Category:People educated at Tonbridge School]]
+[[Category:British population geneticists]]
+[[Category:Recipients of the National Order of Scientific Merit (Brazil)]]
+[[Category:Academic staff of the University of São Paulo]]
+[[Category:University of Michigan faculty]]
+[[Category:Scientists from Cairo]]
+[[Category:British people of New Zealand descent]]
+[[Category:International members of the American Philosophical Society]]
+[[Category:British fellows of the Royal Society]]

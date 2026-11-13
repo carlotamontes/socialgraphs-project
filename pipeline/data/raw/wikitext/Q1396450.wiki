@@ -1,0 +1,85 @@
+{{Short description|French  physicist and mathematician (1930–2022)}}
+{{Infobox person
+| name               = {{#statements:P2561|from=Q1396450}}
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = {{#statements:P569|from=Q1396450}}
+| birth_place        = {{#statements:P19|from=Q1396450}}
+| death_date         = {{#statements:P570|from=Q1396450}} (aged 91)
+| death_place        = {{#statements:P20|from=Q1396450}}
+| education          = [[École normale supérieure (Paris)|École Normale Supérieure]]
+| occupation         = 
+| years_active       = 
+| known_for          = [[de Casteljau algorithm]]<br> [[Bézier curve]] <br> [[Bézier surface]] <br>[[Computer-aided manufacturing]] <br> [[Blossom (functional)]]
+| notable_works      = 
+}}
+'''Paul de Casteljau''' (19 November 1930 – 24 March 2022) was a French physicist and mathematician. In 1959, while working at [[Citroën]], he developed an [[algorithm]] for evaluating  calculations on a certain family of curves, which would later be formalized and popularized by engineer [[Pierre Bézier]], leading to the curves widely known as [[Bézier curve]]s.
+
+He studied at [[École normale supérieure (Paris)|École Normale Supérieure]], and worked at Citroën from 1958 until his retirement in 1992. When he arrived there, "Specialists admitted that all electrical, electronic and mechanical problems had more or less been solved. All—except for one single formality which made up for 5%, but certainly not for 20% of the problem; in other words, how to express component parts by equations."<ref>{{Cite journal |last=de Casteljau |first=Paul de Faget |date=1999 |title=De Casteljau's autobiography: My time at Citroën |url=https://www.kth.se/social/files/563ba89cf2765408238612b9/04_extra_deCasteljau_en.pdf |journal=Computer Aided Geometric Design |volume=16 |issue=7 |pages=583–586|doi=10.1016/S0167-8396(99)00024-2 }}</ref> 
+A short autobiographic sketch goes back to the early 1990s,<ref>
+Appendix B in: Andreas Müller, "Neuere Gedanken des Monsieur Paul de Faget de Casteljau", 1995; [https://www.researchgate.net/profile/Andreas-Mueller-31/publication/350064042_Neuere_Gedanken_des_Monsieur_Paul_de_Faget_de_Casteljau/links/604f42e8299bf13c4f08f551/Neuere-Gedanken-des-Monsieur-Paul-de-Faget-de-Casteljau.pdf pdf; 42MB]
+</ref> a longer autobiography talks about his education and life at Citroën until his retirement.
+<ref>
+{{Cite journal |title= Paul de Casteljau: The story of my adventure |date=May 2024 |journal=Computer Aided Geometric Design |volume=110 |issue=102278 |pages=1–44|doi=10.1016/j.cagd.2024.102278|last1=Mueller |first1=Andreas |doi-access=free }}
+</ref>
+He continued publishing in retirement, which led to three monographs and ten academic papers, most of his publications written in French.<ref name=":0">
+{{Cite journal |title=A tour d'horizon of de Casteljau's work |date=September 2024 |journal=Computer Aided Geometric Design |volume=113 |issue=102366 |pages=1–56|doi=10.1016/j.cagd.2024.102366|last1=Mueller |first1=Andreas |doi-access=free |arxiv=2408.13125 }}
+</ref>
+
+== De Casteljau curves ==
+{{main|De Casteljau's algorithm}}De Casteljau's algorithm is widely used, with some modifications, as it is the most robust and numerically stable method for evaluating polynomials. Other methods, such as [[Horner's method]] and [[Forward difference|forward differencing]], are faster for calculating single points but are less robust. De Casteljau's algorithm is still very fast for subdividing a De Casteljau curve or Bézier curve into two curve segments at an arbitrary parametric location.<ref>
+{{Cite journal |title=On de Casteljau's algorithm |date=August 1999 |journal=Computer Aided Geometric Design |volume=16 |issue=7 |pages=587–605 |doi=10.1016/S0167-8396(99)00023-0|last1=Boehm |first1=Wolfgang|last2=Mueller |first2=Andreas }}
+</ref>
+
+== Further contributions ==
+Noteworthy are his contributions beyond geometric modeling, which only became known internationally posthumously
+<ref name=":0"/>
+* a generalization of the [[Euclidean algorithm]] to several variables, with numerous applications in [[number theory]]
+* a generalization of the [[golden ratio]] for use with [[regular polygons]] and thus for solving polynomial equations
+* a generalization of the [[9-point circle]] to the 14-point [[strophoid]]
+* a representation of the relativistic [[Lorentz transformation]] as a [[quaternion]]
+* a view of [[geometric optics]] that complements the [[Abbe sine condition]]
+
+== Awards ==
+Paul de Casteljau received the 1987 Seymour Cray Prize from the [[French National Centre for Scientific Research|French National Center for Scientific Research]], the 1993 John Gregory Memorial Award, and the 2012 Bézier Award from the Solid Modeling Association (SMA). The SMA's announcement highlights de Casteljau's eponymous algorithm:
+:''Paul de Casteljau's contributions are less widely known than should be the case because he was not able to publish them until equivalent ideas had been reinvented independently by others, sometimes in a rather different form but now recognisably related. Because he was not permitted to publish his early work, we now call polynomials with a Bernstein basis "Bézier polynomials", although Bézier himself did not use control points but their first difference vectors as the coefficients. We also call the multilinear polynomials "blossoming", following Lyle Ramshaw who in turn credited de Casteljau with the underlying "polar approach" to the mathematical theory of splines. We do call the algorithm for the stable evaluation of the Bernstein-Bézier form for polynomials "de Casteljau algorithm" although it is Carl de Boor's more general result applying it to B-splines which is now widely used in CAD/CAM systems.<ref>[http://www.solidmodeling.org/bezier_award/Paul%20de%20Faget%20de%20Casteljau.htm "SMA 2012 Bézier Award Announcement"] {{webarchive|url=https://web.archive.org/web/20140325210843/http://solidmodeling.org/bezier_award/Paul%20de%20Faget%20de%20Casteljau.htm |date=2014-03-25 }}</ref>''
+ 
+The SMA also quotes Pierre Bézier on de Casteljau's contributions:
+:''There is no doubt that Citroën was the first company in France that paid attention to CAD, as early as 1958. Paul de Casteljau, a highly gifted mathematician, devised a system based on the use of Bernstein polynomials. ... the system devised by de Casteljau was oriented towards translating already existing shapes into patches, defined in terms of numerical data. ... Due to Citroën's policy, the results obtained by de Casteljau were not published until 1974, and this excellent mathematician was deprived of part of the well deserved fame that his discoveries and inventions should have earned him.<ref>Pierre Bézier, The first years of CAD/CAM and the UNISURF
+CAD System," pp 13-26 in Fundamental Developments of Computer-
+Aided Geometric Modeling, ed L. Piegl, 1993</ref>''
+
+== Publications ==
+
+*{{in lang|fr}} Paul De Casteljau, ''Outillage Méthodes Calcul'', INPI Enveloppe Soleau No. 40.040, 1959, Citroen Internal Document P2108
+*{{in lang|fr}} Paul De Casteljau, ''Courbes et Surfaces à Pôles'', 1963, Citroen Internal Document P_4147
+*{{in lang|fr}} ''Mathématiques et CAO. Vol. 2 '': Formes à pôles, Hermes, 1986
+* ''Shape Mathematics and CAD'', KoganPage, London 1986
+*{{in lang|fr}} ''Les quaternions'': Hermès, 1987, ISBN 978-2866011031
+*{{in lang|fr}} ''Le Lissage'': Hermès, 1990
+* ''POLynomials, POLar Forms, and InterPOLation'', September 1992, In Lychee / Schumaker: Mathematical methods in computer aided geometric design II, Addison-Wesley 1992, pp.&nbsp;57–68
+* ''Polar Forms as Curve and Surface Modeling as used by Citroën'', In: Piegl (ed.) Fundamental Developments of Computer-Aided Geometric Modeling, Academic Press, 1993
+*{{in lang|fr}} ''Splines Focales'', In Laurent / Le Méhauté / Schumaker: Curves and Surfaces in Geometric Design, AK Peters 1994, pp.&nbsp;91–103
+*{{in lang|fr}} ''Courbes et Profils Esthétiques contre Fonctions Orthogonales (Histoire Vécue)'', In: Dæhlen, Lyche, Schumaker (eds.) Mathematical Methods for Curves and Surfaces, S.&nbsp;73-82,1995
+*{{in lang|fr}} ''La Tolérance d'Usinage chez Citroën dans les Années (19)60'', In: Le Méhauté, Rabut, Schumaker (eds.), Curves and Surfaces with Applications in CAGD, S.&nbsp;69-76, 1997
+* {{Cite journal |title= Intersection Methods of Convergence |date=1998 |journal=Computing [Suppl]|volume=13 |pages=77–80|doi=10.1007/978-3-7091-6444-0_7|last1=De Faget De Casteljau |first1=Paul }}
+*{{in lang|fr}} ''Intersections et Convergence'', In: Laurent, Sablonnière, Schumaker (eds.), Curve and Surface Design: Saint-Malo 1999
+*{{in lang|fr}} ''In mémoriam Henri de Faget de Casteljau: Son autre passe-temps, la géométrie à travers l'hexagone de Pascal'', Procès-verbaux et Mémoires de l'Académie des Sciences, Belles Lettres et Arts de Besançon et de Franche-Comté, Band 193 (1998-1999), S.&nbsp;91-114, 1999
+* {{Cite journal |title=De Casteljau's autobiography: My time at Citroën |date=August 1999 |journal=Computer Aided Geometric Design |volume=16 |issue=7 |pages=583–586 |doi=10.1016/S0167-8396(99)00024-2|last1=De Faget De Casteljau |first1=Paul }}
+*{{in lang|fr}} ''Au dela du Nombre d'Or'', Revue Internationale de CFAO et d'Informatique Graphique, S.&nbsp;19-31, 2001
+*{{in lang|fr}} ''Fantastique strophoïde rectangle'', Revue Internationale de CFAO et d'Informatique Graphique, S.&nbsp;357-370, 2001
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Casteljau, Paul de}}
+[[Category:French engineers]]
+[[Category:French mathematicians]]
+[[Category:French physicists]]
+[[Category:1930 births]]
+[[Category:2022 deaths]]
+[[Category:Scientists from Besançon]]

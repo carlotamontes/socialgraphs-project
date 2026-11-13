@@ -1,0 +1,207 @@
+{{Short description|American astrophysicist}}
+{{use dmy dates|date=May 2021}}
+{{Infobox scientist
+| name              = Joseph Hooton Taylor Jr.
+| image             = 2008JosephTaylor.jpg
+| image_size        = 220
+| caption           = Taylor in 2008
+| birth_date        = {{Birth date and age|1941|03|29}}
+| birth_place       = [[Philadelphia]], [[Pennsylvania]], U.S.
+| citizenship       = American
+| field             = [[Physics]]
+| workplaces        = [[Princeton University]]<br />[[University of Massachusetts Amherst]]<br />[[Five College Radio Astronomy Observatory]]
+| education         = [[Haverford College]]<br />[[Harvard University]]
+| doctoral_advisor  = 
+| doctoral_students = [[Russell Alan Hulse]], [[Victoria Kaspi]], [[Ingrid Stairs]]
+| known_for         = [[Pulsar]]s, [[WSJT-X]]
+| influences        = 
+| influenced        = 
+| awards            = [[Dannie Heineman Prize for Astrophysics]] {{small|(1980)}}<br/>[[Henry Draper Medal]] {{small|(1985)}}<br/>[[Magellanic Premium]] {{small|(1990)}}<br/>[[John J. Carty Award for the Advancement of Science|John J. Carty Award]] {{small|(1991)}}<br/>[[Wolf Prize in Physics]] {{small|(1992)}}<br/>[[Nobel Prize in Physics]] {{small|(1993)}}
+| footnotes         = 
+}}
+
+'''Joseph Hooton Taylor Jr.''' (born March 29, 1941) is an American [[astrophysicist]]. He shared the 1993 [[Nobel Prize]] in physics with [[Russell Alan Hulse]] "for the discovery of a [[PSR B1913+16|new type]] of [[pulsar]], a discovery that has opened up new possibilities for the study of [[gravitation]]".<ref>{{cite web| title = The Nobel Prize in Physics 1993| publisher = [[Nobel Foundation]]| url = http://nobelprize.org/nobel_prizes/physics/laureates/1993/index.html| access-date = 9 October 2008| archive-url = https://web.archive.org/web/20131014091534/http://www.nobelprize.org/nobel_prizes/physics/laureates/1993/index.html| archive-date = 14 October 2013| url-status = live }}</ref> This was the first indirect detection of [[gravitational wave]]s, later directly detected by [[Barry Barish]], [[Kip Thorne]] and [[Rainer Weiss]].<ref name=N17>{{cite web | title = The Nobel Prize in Physics 2017 | publisher = [[Nobel Foundation]] | url = https://www.nobelprize.org/prizes/physics/2017/summary/ | access-date = 3 October 2017 | archive-url = https://web.archive.org/web/20240405024446/https://www.nobelprize.org/prizes/physics/2017/summary/ | archive-date = 5 April 2024 | url-status = live }}</ref>
+
+==Early life and education==
+Taylor was born in [[Philadelphia]] to Joseph Hooton Taylor Sr. and Sylvia Evans Taylor, both of whom had [[Quakers|Quaker]] roots for many generations, and grew up in [[Cinnaminson Township, New Jersey]]. He attended the [[Moorestown Friends School]] in [[Moorestown Township, New Jersey]], where he excelled in math.<ref>{{cite web| title = The Nobel Prize in Physics 1993| publisher = [[Nobel Foundation]]| url = http://nobelprize.org/nobel_prizes/physics/laureates/1993/index.html| access-date = 9 October 2008| archive-url = https://web.archive.org/web/20131014091534/http://www.nobelprize.org/nobel_prizes/physics/laureates/1993/index.html| archive-date = 14 October 2013| url-status = live }}</ref><ref name=Nobel-biographical-1993/><ref name=Princeton-Alumni-Weekly/>
+
+He received a [[Bachelor of Arts|B.A.]] in [[physics]] at [[Haverford College]] in 1963, and a [[Doctor of Philosophy|Ph.D.]] in [[astronomy]] at [[Harvard University]] in 1968. After a brief research position at Harvard, Taylor went to the [[University of Massachusetts Amherst]], eventually becoming [[Professor]] of Astronomy and Associate Director of the [[Five College Radio Astronomy Observatory]].
+
+Taylor's thesis work was on [[occultation|lunar occultation]] measurements. About the time he completed his Ph.D., [[Jocelyn Bell]] (who is also a Quaker) discovered the first radio pulsars with a telescope near [[Cambridge]], [[England]].
+
+==Career==
+Taylor immediately went to the [[National Radio Astronomy Observatory]]'s telescopes in [[Green Bank, West Virginia]], and participated in the discovery of the first pulsars discovered outside Cambridge. Since then, he has worked on all aspects of pulsar astrophysics.
+
+In 1974, Hulse and Taylor discovered the first [[pulsar]] in a [[Binary star|binary]] system, named [[PSR B1913+16]] after its position in the sky, during a survey for pulsars at the [[Arecibo Observatory]] in [[Puerto Rico]]. Although it was not understood at the time, this was also the first of what are now called ''recycled'' pulsars: [[Neutron star]]s that have been spun-up to fast spin rates by the transfer of mass onto their surfaces from a companion star.
+
+The orbit of this binary system is slowly shrinking as it loses energy because of emission of [[gravitational radiation]], causing its orbital period to speed up slightly. The rate of shrinkage can be precisely predicted from Einstein's [[General Theory of Relativity]], and over a thirty-year period Taylor and his colleagues have made measurements that match this prediction to much better than one percent accuracy. This was the first confirmation of the existence of gravitational radiation. There are now scores of binary pulsars known, and independent measurements have confirmed Taylor's results.
+
+Taylor has used this first [[binary star|binary]] [[pulsar]] to make high-precision tests of [[general relativity]]. Working with his colleague [[Joel Weisberg]], Taylor has used observations of this pulsar to demonstrate the existence of [[gravitational radiation]] in the amount and with the properties first predicted by [[Albert Einstein]]. He and [[Russell Alan Hulse|Hulse]] shared the [[Nobel Prize in Physics]] (1993) for the discovery of this object. In 1980, he moved to [[Princeton University]], where he was the [[James Smith McDonnell|James S. McDonnell]] Distinguished University Professor in Physics, having also served for six years as [[dean (education)|Dean]] of [[Faculty (teaching staff)|Faculty]]. He retired in 2006.
+
+==Amateur radio==
+Joe Taylor first obtained his [[amateur radio license]] as a teenager, which led him to the field of radio astronomy. Taylor is well known in the field of [[amateur radio]] weak signal communication and has been assigned the [[call sign]] K1JT by the [[Federal Communications Commission|FCC]]. He had previously held the callsigns K2ITP, WA1LXQ, W1HFV, and VK2BJX (the latter in [[Australia]]).<ref name=moonbounce/>
+
+His amateur radio accomplishments have included mounting an 'expedition' in April 2010 to use the [[Arecibo Radio Telescope]] to conduct [[EME (communications)|moonbounce]] with amateurs around the world using voice, [[Morse code]], and digital communications.<ref name=moonbounce/>
+
+He has been active in developing several computer programs and communications protocols, including [[WSPR (amateur radio software)|WSPR]] and [[WSJT (amateur radio software)|WSJT]] ("Weak Signal/Joe Taylor"), a software package and protocol suite that utilizes computer-generated messages in conjunction with radio [[transceiver]]s to communicate over long distances with other amateur radio operators.
+
+WSJT is useful for passing short messages via non-traditional radio communications methods, such as [[EME (communications)|moonbounce]] and [[meteor scatter]] and other low [[signal-to-noise ratio]] paths. It is also useful for extremely long-distance contacts using [[QRP operation|very low power]] transmissions.
+
+Taylor is also the co-creator of the [[FT8]] mode.
+
+==Honors and awards==
+* [[Dannie Heineman Prize for Astrophysics|Heineman Prize]] of the [[American Astronomical Society]] (1980)(inaugural)
+* Fellow of the [[American Academy of Arts and Sciences]] (1982)<ref name=AAAS>{{cite book |title=Book of Members, 1780–2010 |chapter=Chapter&nbsp;T |publisher=[[American Academy of Arts and Sciences]] |chapter-url=http://www.amacad.org/publications/BookofMembers/ChapterT.pdf |access-date=April 15, 2011}}</ref>
+* [[Henry Draper Medal]] of the [[United States National Academy of Sciences|National Academy of Sciences]] (1985)<ref name=Draper/>
+* [[Tomalla Foundation|Tomalla Foundation Prize]] (1987)
+* [[Magellanic Premium]] (1990)
+* [[Albert Einstein Medal]] (1991)
+* [[John J. Carty Award for the Advancement of Science]] of the National Academy of Sciences (1991) (physics)<ref name=Carty/>
+* [[Wolf Prize in Physics]] (1992)
+* Member of the [[American Philosophical Society]] (1992)<ref>{{Cite web |title=APS Member History |url=https://search.amphilsoc.org/memhist/search?creator=Joseph+Hooton+Taylor&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced |access-date=2022-03-31 |website=search.amphilsoc.org}}</ref>
+* [[Nobel Prize in Physics]] (1993)
+* Golden Plate Award of the [[Academy of Achievement|American Academy of Achievement]] (1995)<ref name=golden-plate-1995/>
+* [[Karl Schwarzschild Medal]] (1997)
+* Asteroid [[81859 Joetaylor]], discovered by [[Lincoln Near-Earth Asteroid Research|LINEAR]] in 2000, was named on the occasion of his retirement as a professor at [[Princeton University]] in 2006.<ref name=MPC-object/> The official {{MoMP|81859|naming citation}} was published by the [[Minor Planet Center]] on 9&nbsp;November 2006 ({{small|[[Minor Planet Circulars|M.P.C.]] 57952}}).<ref name=MPC-Circulars-Archive/>
+
+Taylor was among the first group of [[MacArthur Fellowship|MacArthur Fellows]]. He has served on many boards, committees, and panels, co-chairing the Decadal Panel of that produced the report [[Astronomy and Astrophysics Decadal Survey#New Worlds, New Horizons in Astronomy and Astrophysics, 2010|''Astronomy and Astrophysics in the New Millennium'']] that established the [[United States]]'s national priorities in astronomy and astrophysics for the period 2000–2010. He was a guest of honor in the 2009 International Physics Olympiad.
+
+==See also==
+* [[Harold E. Taylor]], brother – physicist
+
+==References==
+{{reflist|25em|refs=
+
+<ref name=Carty>
+{{cite web
+ |title=John J. Carty Award for the Advancement of Science
+ |publisher=U.S. [[National Academy of Sciences]]
+ |url=http://www.nasonline.org/site/PageServer?pagename=AWARDS_carty
+ |access-date=February 24, 2011 |url-status=dead
+ |archive-url=https://web.archive.org/web/20101229180532/http://www.nasonline.org/site/PageServer?pagename=AWARDS_carty
+ |archive-date=29 December 2010
+}}
+</ref>
+
+<ref name=Draper>
+{{cite web
+ |title=Henry Draper Medal
+ |publisher=U.S. [[National Academy of Sciences]]
+ |url=http://www.nasonline.org/about-nas/awards/henry-draper-medal.html
+ |access-date=February 24, 2011 |url-status=dead
+ |archive-url=https://web.archive.org/web/20130126003930/http://www.nasonline.org/about-nas/awards/henry-draper-medal.html
+ |archive-date=January 26, 2013
+}}
+</ref>
+
+<ref name=golden-plate-1995>
+{{cite web
+ |title=Golden Plate Awardees of the American Academy of Achievement
+ |year=1995
+ |website=www.achievement.org
+ |publisher=[[American Academy of Achievement]]
+ |url=https://achievement.org/our-history/golden-plate-awards/#science-exploration
+}}
+</ref>
+
+<ref name=moonbounce>{{cite web
+ |first1=J.H.
+ |last1=Taylor
+ |display-authors=etal
+ |date=22 November 2010
+ |title=Moonbounce at Arecibo
+ |publisher=[[Princeton University]]
+ |department=Department of Physics
+ |url=http://physics.princeton.edu/pulsar/K1JT/Moonbounce_at_Arecibo.pdf
+ |access-date=18 January 2011
+ |archive-date=17 July 2016
+ |archive-url=https://web.archive.org/web/20160717063550/http://physics.princeton.edu/pulsar/K1JT/Moonbounce_at_Arecibo.pdf
+ |url-status=dead
+ }}</ref>
+
+<ref name=MPC-object>
+{{cite web
+  |title       = (81859) Joetaylor
+  |work        = Minor Planet Center
+  |url         = http://www.minorplanetcenter.net/db_search/show_object?object_id=81859
+  |access-date = 15 January 2020
+}}
+</ref>
+
+<ref name=MPC-Circulars-Archive>
+{{cite web
+  |title       = MPC/MPO/MPS Archive
+  |work        = Minor Planet Center
+  |url         = https://www.minorplanetcenter.net/iau/ECS/MPCArchive/MPCArchive_TBL.html
+  |access-date = 15 January 2020
+}}
+</ref>
+
+<ref name=Nobel-biographical-1993>
+{{cite web
+ |title=Joseph H. Taylor Jr.
+ |series=biographical
+ |website=NobelPrize.org
+ |url=https://www.nobelprize.org/prizes/physics/1993/taylor/biographical/
+}}
+</ref>
+
+<ref name=Princeton-Alumni-Weekly>
+{{cite periodical
+ |last=Seife |first=Charles
+ |date=11 October 1995
+ |title=Spin doctor: Nobel physicist Joseph Taylor takes the 'pulse' of dying stars
+ |periodical=Princeton Alumni Weekly
+ |url=http://www.princeton.edu/~paw/archive_old/PAW95-96/02_9596/1011feat.html
+ |access-date=26 October 2007
+ |quote=Born in Philadelphia in 1941, he grew up on a peach farm in Cinnaminson, New Jersey, that has been in his family for more than two centuries – "a plot of green," he recalls, in the industrial belt along the Delaware River north of Camden. ... As a high school student at Moorestown (N.J.) Friends, Taylor excelled in mathematics, a subject he pursued at Haverford College before switching to physics.
+}}
+</ref>
+
+}} <!-- end of reflist-->
+
+==External links==
+* {{cite web
+ |title=Joseph Taylor
+ |series=Research
+ |department=Department of Physics
+ |publisher=[[Princeton University]]
+ |place=Princeton, New Jersey
+ |url=https://phy.princeton.edu/people/joseph-taylor
+}}
+* {{cite web
+ |year=1993
+ |title=Nobel Physics laureates
+ |website=nobel.se
+ |url=http://www.nobel.se/physics/laureates/1993/
+}}
+* {{Nobelprize}} including the Nobel Lecture, 8&nbsp;December 1993 ''Binary Pulsars and Relativistic Gravity''
+
+{{Wolf Prize in Physics}}
+{{Nobel Prize in Physics Laureates 1976-2000}}
+{{1993 Nobel Prize winners}}
+{{relativity}}
+{{Authority control}}
+
+{{DEFAULTSORT:Taylor, Joseph Hooton}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:People from Cinnaminson Township, New Jersey]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Albert Einstein Medal recipients]]
+[[Category:American astronomers]]
+[[Category:American Nobel laureates]]
+[[Category:American Quakers]]
+[[Category:Haverford College alumni]]
+[[Category:University of Massachusetts Amherst faculty]]
+[[Category:MacArthur Fellows]]
+[[Category:Moorestown Friends School alumni]]
+[[Category:Nobel laureates in Physics]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:Amateur radio people]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Winners of the Dannie Heineman Prize for Astrophysics]]
+[[Category:Harvard University alumni]]
+[[Category:American relativity theorists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of the American Philosophical Society]]

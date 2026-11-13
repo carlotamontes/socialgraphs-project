@@ -1,0 +1,56 @@
+{{short description|German physicist}}
+{{Infobox scientist
+| name              = Hans Jürgen Briegel
+| image             = Hans_j_briegel.jpg
+| birth_date        = {{Birth date and age|1962|8|9|df=yes}}
+| birth_place       = [[Ochsenhausen]], [[Germany]]
+| field             = [[Physicist]]
+| workplaces        = [[University of Innsbruck]]
+| education         = [[LMU Munich]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Quantum computation]], [[Quantum information]], [[Quantum biology]]
+| societies         = 
+| awards            = 
+| religion          = 
+| footnotes         = 
+}}
+
+'''Hans Jürgen Briegel''', known as '''Hans J. Briegel''' (born 9 August 1962 in Ochsenhausen)<ref name="cv">{{Cite web|title=Biography Hans J. Briegel|url=https://www.uibk.ac.at/th-physik/staff/briegel/briegel_hans.pdf|publisher=University of Innsbruck|access-date=2 February 2022}}</ref> is a German theoretical physicist. He is Full Professor at the [[University of Innsbruck]] and conducts research in the field of [[quantum physics]] and [[quantum information]].<ref>{{Cite web|title=Website Hans J. Briegel|url=https://www.uibk.ac.at/th-physik/staff/briegel/|publisher=University of Innsbruck|access-date=2 February 2022}}</ref>
+
+==Biography==
+Briegel studied physics and philosophy at [[LMU Munich]] (1983-1990, terms 1986–1987 at the [[University of Edinburgh]]).<ref name="cv" /> In 1990 he graduated with a diploma, and in 1994 he completed the PhD program (thesis title: The Jaynes-Cummings Model with Dissipation and its Application for the Dynamics of Microscopic Masers and Lasers).<ref>{{Cite web|title=Online Catalogue of the University Library LMU Munich|url=https://opac.ub.uni-muenchen.de/TouchPoint/perma.do?q=+0%3D%221311941%22+IN+%5B2%5D&v=sunrise&l=de|publisher=LMU Munich|access-date=2 February 2022}}</ref> He worked as Research Associate at the [[Texas A&M University]] and as Postdoctoral Fellow at [[Harvard University]] and the University of Innsbruck.<ref name="cv" /> During that time he was also visiting scientist at [[Harvard-Smithsonian Center for Astrophysics]]. In 1997, he became Research Associate at LMU Munich and after his habilitation in 2002 (Quantum Information and Computer), he became Associate Professor (German: Privatdozent). In 2003, he was offered a Chair in Theoretical Physics at [[Heinrich Heine University Düsseldorf]], which he declined. In the same year, he accepted the post as Full Professor at the University of Innsbruck and as a Scientific Director at the [[Institute for Quantum Optics and Quantum Information]] at the Austrian Academy of Sciences.<ref>{{Cite web|title=Institute for Quantum Optics and Quantum Information|url=http://iqoqi.at/en|publisher=IQOQI|access-date=30 July 2014}}</ref>
+Among other institutions, he has lectured and researched as visiting professor at the [[University of Bristol]], UK, and the [[Tsinghua University]], Beijing, China.<ref>{{Cite web|title=Enge Kooperation mit Bristol|date=22 March 2012 |url=https://iqoqi.at/de/aktuelles/news/50-archive/17-year-2012/234-enge-kooperation-mit-bristol|publisher=IQOQI|access-date=2 February 2022}}</ref> In 2023, he was awarded the [[Wittgenstein Award]].<ref>[https://www.fwf.ac.at/entdecken/auszeichnungen/fwf-wittgenstein-preise/2023-hans-j-briegel "Hans J. Briegel | 2023"]. fwf.ac.at (in German). Retrieved 26 June 2025.</ref>
+
+Hans J. Briegel is married and has two children.
+
+==Research==
+Briegel has developed fundamental concepts in the field of [[quantum information]], [[quantum computing]] and [[quantum communication]]. In 2001, together with [[Robert Raussendorf]], he introduced the concept of a [[one-way quantum computer]] or measurement-based quantum computer model, which presented a new paradigm for building a quantum computer.<ref>{{cite journal|last1=Raussendorf|first1=Robert|last2=Briegel|first2=Hans J.|title=A One-Way Quantum Computer|journal=Physical Review Letters|publisher=APS|volume=86|issue=22|pages=5188–5191 |doi=10.1103/PhysRevLett.86.5188|bibcode=2001PhRvL..86.5188R|pmid=11384453|date=May 2001}}</ref> According to Thomson Reuter's analysis, the publication of this work is the second most-often cited publication in the field of quantum computing research in the first decade of the 21st century.<ref>{{Cite web|title=Hans Briegel on the Advances and Applications of Quantum Computers|url=http://archive.sciencewatch.com/ana/st/quantum/10augSTQuanBrie/|publisher=Science Watch|access-date=30 July 2014}}</ref> Together with his work in cluster and graph states, it led to a completely new understanding of [[quantum entanglement|entanglement]] as a resource for [[quantum information processing]]. The concept of the quantum repeater, presented by Hans Briegel and his colleagues in 1998,<ref>{{cite journal|last1=Briegel|first1=Hans J.|last2=Dür|first2=Wolfgang|last3=Cirac|first3=Ignacio|last4=Zoller|first4=Peter|title=Quantum repeaters: The role of imperfect local operations in quantum communication|journal=Physical Review Letters|publisher=APS|volume=81|issue=26|pages=5932–5935|doi=10.1103/PhysRevLett.81.5932|bibcode=1998PhRvL..81.5932B|year=1998|arxiv=quant-ph/9803056}}</ref> plays an important role in quantum communication.
+
+In recent years Briegel has explored topics bordering on other scientific fields: He has investigated whether entanglement states also exist in biological systems, for example in the [[magnetic compass]] of migratory birds.<ref>{{cite journal|last1=Cai|first1=Jianming|last2=Guerreschi|first2=Gian G.|last3=Briegel|first3=Hans J.|title=Quantum control and entanglement in a chemical compass|journal=Physical Review Letters|volume=104|issue=22|pages=220502(4)|doi=10.1103/PhysRevLett.104.220502|bibcode=2010PhRvL.104v0502C|pmid=20867156|arxiv=0906.2383|year=2010|s2cid=18572873}}</ref> Briegel has also published work relating to the topic of [[Agency (philosophy)|agency]] and [[free will]];<ref>{{cite journal|last=Briegel|first=Hans J.|title=On creative machines and the physical origins of freedom|journal=Scientific Reports|publisher=Nature|volume=2|pages=522|doi=10.1038/srep00522|doi-access=free|bibcode=2012NatSR...2E.522B|pmid=22822427|pmc=3400932|year=2012}}</ref> he opposes the notion that the laws of nature don't permit free will. He developed a theoretical model that he calls “projective simulation”,<ref>{{cite journal|last1=Briegel|first1=Hans J.| last2=De Las Cuevas|first2=Gemma|title= Projective simulation for artificial intelligence|journal=Scientific Reports|volume=2|pages=400|doi=10.1038/srep00400|doi-access=free|bibcode=2012NatSR...2E.400B|pmid=22590690|pmc=3351754|arxiv=1104.3787|year=2012}}</ref> which allows for a rudimentary form of creative behavior for [[artificial agent]]s.
+
+==See also==
+*[[One-way quantum computer]]
+*[[Quantum biology]]
+*[[Quantum machine learning]]
+
+==References==
+<references/>
+
+==External links==
+*{{GoogleScholar|CtRLfr4AAAAJ}}
+*[https://www.uibk.ac.at/th-physik/staff/briegel/ Homepage Hans Jürgen Briegel]
+*[https://www.uibk.ac.at/th-physik/qic-group/ Homepage of Briegel's working group]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Briegel, Hans Jurgen}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:People from Ochsenhausen]]
+[[Category:LMU Munich alumni]]
+[[Category:20th-century German physicists]]
+[[Category:German quantum physicists]]
+[[Category:Academic staff of the University of Innsbruck]]
+[[Category:Members of the Austrian Academy of Sciences]]
+[[Category:21st-century German physicists]]

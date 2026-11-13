@@ -1,0 +1,569 @@
+{{Short description|Dutch mathematician}}
+{{Infobox scientist
+|name              = Bram van Leer
+|image             = Bram van Leer - Aerospace UM.jpg
+|image_size        = 
+|caption           = Prof. van Leer at Aerospace Engineering building FXB at University of Michigan
+|birth_date        = {{Birth date|1942|11|26}}<ref>https://de-indische-verhalentafel.online/deverhalentafel/johan-van-leer-vertelt/</ref>
+|birth_place       = [[Dutch East Indies|Netherlands East-Indies]]
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = 
+|ethnicity         = 
+|field             = [[Computational Fluid Dynamics|CFD]]<br> [[Fluid dynamics]]<br> [[Numerical Analysis]]
+|workplaces        = [[University of Michigan]]
+|education         = [[Leiden University]]
+|doctoral_advisor  = [[Hendrik C. van de Hulst]]
+|known_for         = [[MUSCL scheme]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|religion          = 
+|footnotes         = 
+|signature         = 
+}}
+
+'''Bram van Leer''' is Arthur B. Modine Emeritus Professor of [[aerospace engineering]] at the [[University of Michigan]], in [[Ann Arbor]]. He specializes in ''[[computational fluid dynamics]] (CFD)'', ''fluid dynamics'', and ''numerical analysis.'' His most influential work lies in CFD, a field he helped modernize from 1970 onwards. An appraisal of his early work has been given by C. Hirsch (1979)<ref>{{cite journal |doi=10.1006/jcph.1997.5757|title=Introduction to "Towards the Ultimate Conservative Difference Scheme. V. A Second-Order Sequel to Godunov's Method"|journal=Journal of Computational Physics|volume=135|issue=2|pages=227–228|year=1997|last1=Hirsch|first1=Ch.| bibcode=1997JCoPh.135..227H }}</ref>
+
+An [[astrophysicist]] by education, van Leer made lasting contributions to CFD in his five-part article series “Towards the Ultimate Conservative Difference Scheme (1972-1979),” where he extended Godunov's finite-volume scheme to the second order (MUSCL). Also in the series, he developed non-oscillatory interpolation using limiters, an approximate Riemann solver, and discontinuous-Galerkin schemes for unsteady advection. Since joining the University of Michigan's Aerospace Engineering Department (1986), he has worked on convergence acceleration by local preconditioning and multigrid relaxation for Euler and Navier-Stokes problems, unsteady adaptive grids, space-environment modeling, atmospheric flow modeling, extended hydrodynamics for rarefied flows, and discontinuous-Galerkin methods. He retired in 2012, forced to give up research because of progressive blindness.
+
+Throughout his career, van Leer's work has had interdisciplinary characteristic. Starting from astrophysics, he first made an impact on weapons research, followed by aeronautics, then space-weather modeling, atmospheric modeling, surface-water modeling and automotive engine modeling, to name the most important fields.
+
+== Personal interests ==
+
+[[File:Van Leer with piano.jpg|thumb|van Leer at the piano at Pierpont Commons, University of Michigan]]
+
+Van Leer is also an accomplished musician, playing the piano at the age of 5 and composing at 7. His musical education includes two years at the Royal Conservatory for Music of The Hague, Netherlands. As a pianist he was featured in the Winter '96 issue of Michigan Engineering (Engineering and the Arts). As a [[carillonist]], he has played the [[carillon]] of [[Burton Memorial Tower]] on many football Saturdays. He was the world's first and only CJ (carillon-jockey) based on the North Campus carillon, live streaming from the [[Lurie Tower]].
+
+In 1993 he gave a full-hour recital on the carillon of the City Hall in Leiden, the town of his [[alma mater]]. Van Leer enjoys improvising in the Dutch carillon-playing style; one of his improvisations is included on a 1998 CD featuring both University of Michigan's carillons. His carillon composition "Lament"<ref>{{OCLC|123548104}}</ref> was published in the UM School of Music's carillon music series on the occasion of the annual [[Academic conference|congress]] of [[The Guild of Carillonneurs in North America]], Ann Arbor, June 2002. A flute composition by van Leer was performed twice in 1997 by University of Michigan Professor Leone Buyse.
+
+==Research work==
+
+Bram van Leer was a doctoral student in astrophysics at [[Leiden Observatory]] (1966–1970) when he got interested in Computational Fluid Dynamics (CFD) for the sake of solving cosmic flow problems. His first major result in CFD<ref name="thesis">{{cite thesis|last=van Leer|first=B.|type=Ph.D.|date=1970|title=A Choice of Difference Schemes for Ideal Compressible Flow|publisher=Sterrewacht, Leiden, The Netherlands.}}</ref> was the formulation of the upwind numerical flux function for a hyperbolic system of conservation laws:
+<math> F^\hbox{up} = \frac{1}{2} (F_j + F_{j+1} ) - \frac{1}{2}|A|_{j+\frac{1}{2}} (u_{j+1} - u_j).</math>
+
+Here the matrix <math>|A|</math> appears for the first time in CFD, defined as the matrix that has the same eigenvectors as the flux Jacobian <math>A</math>, but the corresponding eigenvalues are the moduli of those of <math>A</math>. The subscript <math>j+\frac{1}{2}</math> indicates a representative or average value on the interval <math>(x_j,x_{j+1})</math>; it was no less than 10 years later before [[Philip L. Roe]] first presented his much used averaging formulas.
+
+Next, van Leer succeeded in circumventing Godunov's barrier theorem (i.e., a monotonicity preserving advection scheme cannot be better than first-order accurate) by limiting the second-order term in the Lax-Wendroff scheme as a function of the non-smoothness of the numerical solution itself. This is a non-linear technique even for a linear equation. Having discovered this basic principle, he planned a series of three articles titled "Towards the ultimate conservative difference scheme", which advanced from scalar non-conservative but non-oscillatory (part I<ref>{{cite book|doi=10.1007/BFb0118673 |publisher=Springer |chapter=Towards the ultimate conservative difference scheme I. The quest of monotonicity |title=Proceedings of the Third International Conference on Numerical Methods in Fluid Mechanics |series=Lecture Notes in Physics |date=1973 |last1=Van Leer |first1=Bram |volume=18 |pages=163–168 |isbn=978-3-540-06170-0 }}</ref>) via scalar conservative non-oscillatory (part II<ref>{{cite journal |doi=10.1016/0021-9991(74)90019-9|title=Towards the ultimate conservative difference scheme. II. Monotonicity and conservation combined in a second-order scheme|journal=Journal of Computational Physics|volume=14|issue=4|pages=361–370|year=1974|last1=Van Leer|first1=Bram|bibcode=1974JCoPh..14..361V}}</ref>) to conservative non-oscillatory Euler (part III<ref>{{cite journal |doi=10.1016/0021-9991(77)90094-8|title=Towards the ultimate conservative difference scheme III. Upstream-centered finite-difference schemes for ideal compressible flow|journal=Journal of Computational Physics|volume=23|issue=3|pages=263–275|year=1977|last1=Van Leer|first1=Bram|bibcode=1977JCoPh..23..263V}}</ref>). The finite-difference schemes for the Euler equations turned out to be unattractive because of their many terms; a switch to the finite-volume formulation completely cleared this up and led to Part IV<ref>{{cite journal |doi=10.1016/0021-9991(77)90095-X|title=Towards the ultimate conservative difference scheme. IV. A new approach to numerical convection|journal=Journal of Computational Physics|volume=23|issue=3|pages=276–299|year=1977|last1=Van Leer|first1=Bram| bibcode=1977JCoPh..23..276V }}</ref> (finite-volume scalar) and, finally, Part V<ref>{{cite journal |doi=10.1016/0021-9991(79)90145-1|title=Towards the ultimate conservative difference scheme. V. A second-order sequel to Godunov's method|journal=Journal of Computational Physics|volume=32|pages=101–136|year=1979|last1=Van Leer|first1=Bram| issue=1 |bibcode=1979JCoPh..32..101V}}</ref> (finite-volume Lagrange and Euler) titled, "A second-order sequel to Godunov's method", which is his most cited article (approaching 6000 citations on November 1, 2017). This paper<ref>{{cite journal |doi=10.1006/jcph.1997.5704|title=Towards the Ultimate Conservative Difference Scheme|journal=Journal of Computational Physics|volume=135|issue=2|pages=229–248|year=1997|last1=Van Leer|first1=Bram| bibcode=1997JCoPh.135..229V }}</ref> was reprinted in 1997 in the 30th anniversary issue of Journal [[Computational physics|Computational Physics]] with an introduction by Charles Hirsch.
+
+The series contains several original techniques that have found their way into the CFD community. In Part II two limiters are presented, later called by van Leer "double minmod" (after Osher's "minmod" limiter) and its smoothed version "harmonic"; the latter limiter is sometimes referred to in the literature as "van Leer's limiter." Part IV, "A new approach to numerical convection," describes a group of 6 second- and third-order schemes that includes two discontinuous-Galerkin schemes with exact time integration. Van Leer was not the only one to break Godunov's barrier using nonlinear limiting; similar techniques were developed independently around the same time by Boris<ref name="BorisBookFCT1">{{Citation
+|author1-link=Jay P. Boris
+|last1=Boris
+|first1=Jay P.
+|last2=Book
+|first2=David L.
+|title=Flux-corrected transport. I. SHASTA, A fluid transport algorithm that works
+|journal=Journal of Computational Physics
+|volume=11
+|issue=1
+|pages=38–69
+|date=1973|bibcode = 1973JCoPh..11...38B |doi = 10.1016/0021-9991(73)90147-2 }}</ref> and by V.P. Kolgan, a Russian researcher unknown in the West. In 2011, van Leer devoted an article to Kolgan's contributions <ref name="HistoricOversight">{{Citation
+|last=van Leer
+|first=B.
+|title=A historical oversight: Vladimir P. Kolgan and his high-resolution scheme
+|journal=Journal of Computational Physics
+|volume=230
+|issue=7
+|pages=2378–2383
+|date=2011|bibcode = 2011JCoPh.230.2378V |doi = 10.1016/j.jcp.2010.12.032 }}</ref> and had Kolgan's 1972 TsAGI report reprinted in translation in the ''[[Journal of Computational Physics]]''.
+
+After the publication of the series (1972–1979), van Leer spent two years at ICASE (NASA LaRC), where he was engaged by NASA engineers interested in his numerical expertise. This led to van Leer's differentiable flux-vector splitting<ref name="ICNMFMAachen1982">{{Citation
+|last=van leer
+|first=B.
+|chapter=Flux-vector Splitting for the Euler Equations
+|series=Lecture Notes in Physics|title= International Conference on Numerical Methods in Fluid Dynamics
+|volume=170
+|pages=507–512
+|date=1982}}
+</ref> and the development of the block-structured codes CFL2D and CFL3D <ref name="ThomasAndersonVanLeer">{{Citation
+|last1=Anderson
+|first1=W.K.
+|last2=Thomas
+|first2=J.L.
+|last3=van Leer
+|first3=B.
+|title=A comparison of finite-volume flux-vector splittings for the Euler equations
+|journal=AIAA Paper
+|date=1985}}
+</ref><ref name="ThomasWaltersVanLeer">{{Citation
+|last1=Thomas
+|first1=J.L.
+|last2=Walters
+|first2=R.W.
+|last3=Van Leer
+|first3=B.
+|last4=Anderson
+|first4=W.K.
+|title=Implicit flux-split schemes for the Euler-equations
+|date=1985
+|journal=AIAA Paper
+|volume=85
+|page=1680
+}}
+</ref> which still are heavily used. Other contributions from these years are the review of upwind methods with Harten and Lax,<ref name="HLL">{{Citation
+|first1=A.
+|last1=Harten
+|first2=P.D.
+|last2=Lax
+|first3=B.
+|last3=van Leer
+|title=Upstream Differencing and Godunov-type Schemes for Hyperbolic Conservation Laws
+|journal=SIAM Rev.
+|volume=25
+|date=1983
+|pages=35–61
+|doi=10.1137/1025002
+}}
+</ref> the AMS workshop paper <ref name="LaJolla1983">
+{{cite book
+|last1=van Leer
+|first1=Bram
+|year=1985
+|chapter=Upwind-difference methods for aerodynamic problems governed by the Euler equations
+|editor1-last=Engquist
+|editor1-first= Bjorn E.
+|editor2-last=Osher
+|editor2-first=Stanley
+|editor3-last=Somerville
+|editor3-first=Richard C. J
+|title=Large-Scale Computations in Fluid Mechanics, Part 2
+|series=Lectures in Applied Mathematics
+|pages=327–336
+}}
+</ref> detailing the differences and resemblances between upwind fluxes and Jameson's flux formula, and the conference paper with Mulder<ref name="SIAM1985">{{Citation
+|first1=W.A.
+|last1=Mulder
+|first2=B.
+|last2=van Leer
+|title=Experiments with Implicit Upwind Methods for the Euler Equations
+|journal=J. Comput. Phys.
+|volume=59
+|issue=2
+|date=1985
+|pages=232–246
+|bibcode = 1985JCoPh..59..232M |doi = 10.1016/0021-9991(85)90144-5 }}
+</ref> on upwind relaxation methods; the latter includes the concept of Switched Evolution-Relaxation (SER) for automatically choosing the time step in an implicit marching scheme.
+
+After permanently moving to the U.S., van Leer's first influential paper was “A comparison of numerical flux formulas for the Euler and Navier-Stokes equations,<ref name="1987_Honolulu">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Thomas
+|first2=J. L.
+|last3=Roe
+|first3=P. L.
+|last4=Newsome
+|first4=R. W.
+|title=A comparison of numerical flux formulas for the Euler and Navier-Stokes equations
+|journal=AIAA Paper CP-874
+|pages=36–41
+|date=1987
+}}</ref>” which analyzes numerical flux functions and their suitability for resolving boundary layers in Navier-Stokes calculations. In 1988, he embarked on a very large project, to achieve steady Euler solutions in O(N) operations by a purely explicit methodology. There were three crucial components to this strategy:
+1. Optimally smoothing multistage single-grid schemes for advections
+2. Local preconditioning of the Euler equations
+3. Semi-coarsened multigrid relaxation
+
+The first subject was developed in collaboration with his doctoral student, C.H. Tai.<ref name="1989_Buffalo">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Tai
+|first2=C.-H.
+|last3=Powell
+|first3=K. G.
+|title=Design of Optimally Smoothing Multi-Stage Schemes for the Euler Equations
+|journal=AIAA Paper 89-1933-CP
+|date=1989
+}}</ref> The second subject was needed to make the Euler equations look as much scalar as possible. The preconditioning was developed with doctoral student W. -T. Lee.<ref name="1991_Lee">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Lee
+|first2=W. T.
+|last3=Roe
+|first3=P. L.
+|title=Characteristic Time-Stepping or Local Preconditioning for the Euler Equations
+|journal=AIAA 10th Computational Fluid Dynamics Conference, AIAA Paper CP-91-1552
+|pages=260–282
+|date=1991
+|bibcode=1991cfd..conf..260V
+}}</ref> In order to apply this to the discrete scheme, crucial modification had to be made to the original discretization. It turned out that applying the preconditioning to an Euler discretization required a reformulation of the numerical flux function for the sake of preserving accuracy at low Mach numbers. Combining the optimal single grid schemes with the preconditioned Euler discretization was achieved by doctoral student J. F. Lynn.<ref name="1995_SanDiego">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Lynn
+|first2=J.
+|title=A semi-coarsened multi-grid-solver for the Euler equations with local preconditioning
+|journal=12th AIAA Computational Fluid Dynamics Conference, AIAA Paper 95-1667-CP
+|pages=242–252
+|date=1995
+}}</ref> The same strategy for the Navier-Stokes discretization was pursued by D. Lee.<ref name="1991_AIAA">{{Citation
+|last1=Lee
+|first1=D.
+|last2=van Leer
+|first2=B.
+|last3=Lynn
+|first3=J.
+|title=A Local Navier-Stokes Preconditioner for all Mach and Cell Reynolds Numbers
+|journal=13th AIAA CFD Conference, AIAA-97-2024
+|date=1997
+}}</ref>
+
+The third component, semi-coarsened multigrid relaxation, was developed by van Leer's former student W. A. Mulder (Mulder 1989). This technique is needed to damp certain combinations of high- and low-frequency modes when the grid is aligned with the flow.
+
+In 1994, van Leer teamed up with Darmofal, a post-doctoral fellow at the University of Michigan at the time, to finish the project. The goal of the project was first reached by Darmofal and Siu (Darmofal, and Siu 1999), and later was done more efficiently by van Leer and Nishikawa.<ref name="2003_JCP">{{Citation
+|last1=Nishikawa
+|first1=H.
+|last2=van Leer
+|first2=B.
+|title=Optimal Multigrid Convergence by Hyperbolic/Elliptic Splitting
+|journal= Journal of Computational Physics
+|volume=190
+|issue=1
+|pages=52–63
+|date=2003
+|doi=10.1016/s0021-9991(03)00253-5
+|bibcode = 2003JCoPh.190...52N |hdl=2027.42/77269
+|hdl-access=free
+}}</ref>
+
+While the multi-grid project was going on, van Leer worked on two more subjects: multi-dimensional Riemann solvers,<ref name="1993_Levy">{{Citation
+|last1=Levy
+|first1=D. W.
+|last2=Powell
+|first2=K. G.
+|last3=van Leer
+|first3=B.
+|title=Use of a Rotated Riemann Solver for the Two-Dimensional Euler Equations
+|journal=Journal of Computational Physics
+|volume=106
+|issue=2
+|pages=201–214
+|date=1993
+|doi=10.1016/s0021-9991(83)71103-4
+|hdl=2027.42/30757
+|hdl-access=free
+}},</ref><ref name="1993_Rumsey">{{Citation
+|last1=Rumsey
+|first1=C. L.
+|last2=van Leer
+|first2=B.
+|last3=Roe
+|first3=P. L.
+|title=A multidimensional flux function with applications to the Euler and Navier-Stokes equations
+|journal=Journal of Computational Physics
+|volume=105 | issue = 2
+|pages=306–323
+|date=1993
+|doi=10.1006/jcph.1993.1077
+|bibcode = 1993JCoPh.105..306R |url=https://deepblue.lib.umich.edu/bitstream/2027.42/30879/1/0000543.pdf
+|hdl=2027.42/30879
+|hdl-access=free
+}}</ref> and time-dependent adaptive Cartesian grid.<ref name="1991_Chiang">{{Citation
+|last1=Chiang
+|first1=Y.-L.
+|last2=van Leer
+|first2=B.
+|title=Simulation of Unsteady Inviscid Flow on an Adaptively Refined Cartesian Grid
+|journal=AIAA Paper 92-0443
+|date=1992
+}}</ref> After conclusion of the multigrid project, van Leer continued to work on local preconditioning of the Navier-Stokes equations together with C. Depcik.<ref name="2003_Orlando">{{Citation
+|last1=Depcik
+|first1=C.
+|last2=van Leer
+|first2=B.
+|title=16th AIAA Computational Fluid Dynamics Conference
+|chapter=In Search of an Optimal Local Navier-Stokes Preconditioner
+|volume=
+|page=
+|date=2003
+|doi=10.2514/6.2003-3703
+|hdl=2027.42/76328
+|isbn=978-1-62410-086-4
+|hdl-access=free
+}}</ref> A 1-D preconditioning was derived that is optimal for all Mach and Reynolds numbers. There is, however, a narrow domain in the (M, Re)-plane where the preconditioned equations admit a growing mode. In practice, such a mode, if it were to arise, should be damped by the time-marching scheme, e.g., an implicit scheme.
+
+In the last decade of his career, van Leer occupied himself with extended hydrodynamics and discontinuous-Galerkin method. The goal of the first project was to describe rarefied flow up to and including intermediate Knudsen numbers (Kn~1) by a hyperbolic-relaxation system. This works well for subsonic flows and weak shock waves, but stronger shock waves acquire the wrong internal structure.<ref name="2005_Suzuki">{{Citation
+|last1=Suzuki
+|first1=Y.
+|last2=van Leer
+|first2=B.
+|title=Application of the 10-Moment Model to MEMS Flows
+|journal=AIAA Paper 2005-1398
+|date=2005
+}}</ref><ref name="2009_Suzuki">{{Citation
+|last1=Suzuki
+|first1=Y.
+|last2=Khieu
+|first2=H. L.
+|last3=van Leer
+|first3=B.
+|title=CFD by First-Order PDE's
+|journal=Continuum Mechanics and Thermodynamics
+|volume=21
+|issue=6
+|pages=445–465
+|date=June 2009
+|doi=10.1007/s00161-009-0124-2
+|bibcode = 2009CMT....21..445S |s2cid=119604527
+}}</ref> For low speed flow, van Leer's doctoral student H. L. Khieu tested the accuracy of the hyperbolic-relaxation formulation was tested by comparing simulations with the numerical results of a full-kinetic solver based on [[Boltzmann equation]].<ref name="2011_Khieu">{{Citation
+|last1=Khieu
+|first1=L.
+|last2=van Leer
+|first2=B.
+|chapter=Solid-boundary treatment for moment equations
+|title=20th AIAA Computational Fluid Dynamics Conference
+|volume=3
+|date=2011
+|doi=10.2514/6.2011-3404
+|hdl=2027.42/90685
+|isbn=978-1-62410-148-9
+|hdl-access=free
+}}</ref> Recent research has demonstrated that a system of second order PDEs derived from the hyperbolic relaxation systems can be entirely successful; for details see Myong Over-reach 2014.
+
+The second project was the development of discontinuous Galerkin (DG) methods for diffusion operators. It started with the discovery of the recovery method for representing the 1D diffusion operator.
+
+Starting in 2004, the recovery-based DG (RDG)<ref name="2005_vanLeer">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Nomura
+|first2=S.
+|title=Discontinuous Galerkin for Diffusion
+|journal=AlAA Paper 2005-5108
+|date=2005
+}}</ref> has been shown an accuracy of the order 3p+1 or 3p+2 for even or odd polynomial-space degree p. This result holds for Cartesian grids in 1-, 2-, or 3-dimensions, for linear and non-linear diffusion equations that may or may not contain shear terms.<ref name="2007_Miami">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Lo
+|first2=M.
+|last3=van Raalte
+|first3=M.
+|title=A Discontinuous Galerkin Method for Diffusion-Based on Recovery
+|journal=18th AlAA Computational Fluid Dynamics Conference, AIAA Paper 2007-4083
+|date=2007
+}}</ref><ref name="2009_Orlando">{{Citation
+|last1=van Leer
+|first1=B.
+|last2=Lo.
+|first2=M.
+|title=Unification of discontinuous Galerkin methods for advection and diffusion
+|journal=19th AIAA Computational Fluid Dynamics Conference, AIAA-2009-0400
+|date=2009
+}}</ref><ref name="2009_SanAntonio">{{Citation
+|last1=Lo
+|first1=M.
+|last2=van Leer
+|first2=B.
+|title=Analysis and Implementation of the Recovery-based Discontinuous Galerkin Method for Diffusion
+|journal=AIAA Paper Nr. 2009-3786
+|date=2009
+}}</ref><ref>{{Citation
+|last1=Lo
+|first1=M.
+|last2=van Leer
+|first2=B.
+|title=Recovery-Based Discontinuous Galerkin for Navier Stokes Viscous Terms
+|journal=AIAA Paper 2011-3406
+|date=2011
+}}</ref> On unstructured grids, the RDG was predicted to achieve the order of accuracy of 2p+2; this research unfortunately was not completed before van Leer retired.
+
+Van Leer's early work, especially the series “Towards the ultimate conservative difference scheme” motivated by the needs of astrophysical modeling, has influenced a wide range of other disciplines; such interdisciplinary knowledge transfer is not self-evident. Exporting scientific ideas from one discipline to another is best done through personal contact. For instance, Van Leer's presence at NASA [[Langley Research Center]] from 1979 to 1981 and then in the summers of '81 to '83 led to the development of NASA's CFL2D code and ultimately CFL3D. The transition of ideas between disciplines through publications is a much slower process, as most researchers do not read journals based in fields other than their own expertise.
+
+A case in point is the way Van Leer's ideas, contained in the series "Towards the Ultimate Conservative Difference Scheme," made their way into Atmospheric General Circulation Modeling (GCM).   Although published in the Journal of Computational Physics, which in its early years published key atmospheric research articles, it seems to have gone unnoticed by the GCM community. Thus, the second-order DG advection Scheme III from Towards IV was rediscovered by G.L. Russel and J.A. Lerner in 1981,<ref>Russel G.L. and J.A. Lerner, A new finite-differencing scheme for the tracer transport equation, J Appl Meteorol., 20, 1483-1498, 1981.</ref> while the third-order DG advection scheme VI was rediscovered by M.J. Prather in 1986.<ref>Michael J. Prather, Numerical Advection by Conservation of Second-Order Moments, Journal of Geophysical Research, vol 91, 6671-6681, May 20, 1986.</ref> But Monotonicity-preserving limiters were not included in these works.
+
+It was not until the atmospheric scientist R.B. Rood<ref>Richard B. Rood, Numerical Advection Algorithms and their role in atmospheric transport and chemistry models, Feb 1987.</ref> from NASA's [[Goddard Space Flight Center]] published a comprehensive review of publications on advection schemes in 1987 that Van Leer's articles were unlocked to the GCM community. The first application of a monotonicity preserving advection scheme to atmospheric transport was due to D.J. Allen, A.R. Douglass, R.B. Rood, and P.D. Guthrie in 1991.<ref>D.J Allen, A.R. Douglass, Richard B. Rood and Paul D. Guthrie, Application of a Monotonic Upstream-biased Transport Scheme to Three-Dimensional Constituent Transport Calculations, NASA/Goddard Space Flight Center, March 1991.</ref> Subsequently, in 1997, [[Shian-Jiann Lin]] and Rood,<ref>S.J. Lin and Richard B. Rood, An explicit flux-form semi-Lagrangian shallow-water model on the sphere, Goddard Space Flight Center and University of Maryland Baltimore County, Q.J.R. Meteorol. Soc. (1997), 123, pp. 2477-2498.</ref> both at NASA Goddard, published a predictor-corrector version of the second-order Godunov method for use in atmospheric dynamics and implemented it in a shallow-water model. Finally, Lin, now at the Princeton [[Geophysical Fluid Dynamics Laboratory]] (GFDL),  put these ideas into a full non-hydrostatic atmospheric description with Eulerian horizontal and Lagrangian vertical discretizations,<ref>Shian-Jiann Lin, A "Vertically Lagrangian" Finite-Volume Dynamical Core for Global Models, NOAA/Geophysical Fluid Dynamics Laboratory, Princeton University, New Jersey, Oct 2004.</ref> named FV3 (Finite-Volume Cubed-Sphere Dynamical Core). This dynamical core has found its way into the main national weather- and climate-prediction codes. Specifically, FV3 has been chosen as the dynamical core for the Next Generation Global Prediction System project (NGGPS), the latest NCAR Community Climate System Model CESM4, the NOAA-GFDL CM4.0 model, and NASA's GEOS5 model.
+
+In addition to the above narrative, we list some subjects and papers related to van Leer's interdisciplinary research efforts:
+* Cosmic gas dynamics - van Albada, van Leer, and Roberts<ref name="van Albada1982">{{Citation
+|last1=van Albada
+|first1=G.D.
+|last2=van Leer
+|first2=B.
+|last3=Roberts
+|first3=W.W. Jr.
+|title=A Comparative Study of Computational Methods in Cosmic Gas Dynamics
+|journal=Astronomy and Astrophysics
+|volume=108
+|issue=1
+|pages=76–84
+|date=1982
+|bibcode = 1982A&A...108...76V }}</ref>
+* Space Environment Modeling - Clauer et al.<ref name="Clauer2000">{{Citation
+|last1=Clauer
+|first1=C.R.
+|last2=Gombosi
+|first2=T.I.
+|last3=Dezeeuw
+|first3=D.L.
+|last4=Ridley
+|first4=A.J.
+|last5=Powell
+|first5=K.G.
+|last6=van Leer
+|first6=B.
+|last7=Stout
+|first7=Q.F.
+|last8=Groth
+|first8=C.P.T.
+|last9=Holzer
+|first9=T.E.
+|title=High Performance Computer Methods Applied to Predictive Space Weather Simulations
+|journal=IEEE Transactions on Plasma Science
+|volume=28
+|issue=6
+|pages=1931–1937
+|date=2000
+|doi=10.1109/27.902221
+|bibcode = 2000ITPS...28.1931C |citeseerx=10.1.1.77.7344
+}}</ref>
+* Atmospheric Modeling - Ullrich, Jablonowski, van Leer<ref name="Ullrich2010">{{Citation
+|last1=Ullrich
+|first1=P.A.
+|last2=Jablonowski
+|first2=C.
+|last3=van Leer
+|first3=B.
+|title=High-order finite-volume methods for the shallow-water equations on the sphere
+|journal=Journal of Computational Physics
+|date=2010
+|volume=229
+|issue=17
+|page=6104
+|doi=10.1016/j.jcp.2010.04.044
+|bibcode=2010JCoPh.229.6104U
+}}</ref>
+* Automotive Engine modeling - Depcik, van Leer, Assanis<ref name="Depcik2005">{{Citation
+|last1=Depcik
+|first1=C.
+|last2=van Leer
+|first2=B.
+|last3=Assanis
+|first3=D.
+|title=The Numerical Simulation of Variable-Property Reacting-Gas Dynamics: New Insights and Validation
+|journal=Numerical Heat Transfer, Part A: Applications
+|volume=47
+|issue=1
+|pages=27–56
+|date=2005
+|doi=10.1080/10407780490520823
+|bibcode = 2004NHTA...47...27D |s2cid=121671123
+}}</ref>
+
+Three significant review papers by van Leer are:
+* The Development of Numerical Fluid Mechanics and Aerodynamics since the 1960s: US and Canada<ref name="vanLeer2009_US_Canada">
+{{cite book
+|last1=van Leer
+|first1=Bram
+|year=1985
+|chapter=The Development of Numerical Fluid Mechanics and Aerodynamics since the 1960s: US and Canada
+|editor1-last=Hirschel
+|editor1-first= Ernst Heinrich
+|editor2-last=Karuse
+|editor2-first=Egon
+|title=100 Volumes of 'Notes on Numerical Fluid Mechanics
+|publisher=Springer
+|pages=159–185
+}}
+</ref>
+* Introduction to Computational Fluid Dynamics<ref name="Intro to CFD">
+{{cite book
+|last1=van Leer
+|first1=Bram
+|year=2010
+|chapter=Part 7: Introduction to Computational Fluid Dynamics
+|editor1-last=Richard
+|editor1-first=Blockley
+|editor2-last=Shyy
+|editor2-first=Wei
+|title=Encyclopedia of Aerospace Engineering
+|volume=2
+|publisher=Wiley
+|pages=1–14
+}}
+</ref>
+
+* B. van Leer, "Upwind and high-resolution methods for compressible flow: from donor cell to residual-distribution schemes," Communications in Computational Physics, Vol.1, pp.&nbsp;192–205, 2006.
+
+In 2010, van Leer received AIAA Fluid Dynamics award for his lifetime achievement. On this occasion, van Leer presented a plenary lecture titled, “History of CFD Part II,” which covers the period from 1970 to 1995. Below is the poster van Leer and his doctoral student Lo designed for this occasion.
+
+[[File:van Leer and Lo's Poster on CFD History.jpg|thumb|upright=3|center|The tableau is an allegory on the genesis of modern CFD in the period 1970–1985, specifically: the development of high-resolution methods (non-oscillatory methods of greater-than-first-order accuracy), and their ultimate adoption by the aerospace community.
+We see an exotic landscape dominated by a great pyramid. Three men are trying to reach its top by different means: Jay Boris (hammer en chisel), Bram van Leer (rope) and Vladimir Kolgan (ladder); the latter's untimely death in 1978 made him an unknown even in Russia. Note that the pyramid is also a giant capital Greek delta, symbol of the finite difference that pervades the equations of CFD. Keeper of the gate is John von Neumann, the father of CFD.
+From the prehistory of CFD are the busts, on the far left, of Richard Courant, Kurt Friedrichs and Hans Lewy, whose initials we know so well. On the far right we find, on beach chairs, Peter Lax and Sergei Godunov, giants of numerical analysis from the generation following Von Neumann. They relax while a younger generation struggles to raise the state of the art in CFD.
+In the foreground, going from left to right, we first encounter Bob MacCormack who, in the late 1960s, adapted the second-order Lax-Wendroff method to aeronautical uses, but was not able to tame its numerical oscillations. Next, Phil Roe, perhaps contemplating his approximate Riemann solver or Superbee limiter. Past the gate, Stan Osher and Ami Harten (died 1994), likely discussing TVD or ENO techniques. The latter three, together with van Leer, were most influential in getting high-resolution methods accepted in aerospace engineering; much of the technology transition took place at ICASE, NASA LaRC.
+Last but not least, in the airplane, Antony Jameson, who went his own way, developing a suite of highly efficient CFD codes for steady aeronautics.]]
+
+== Education and training==
+Source:  ''https://aero.engin.umich.edu/people/bram-van-leer/''
+* 1963 – Candidate Astronomy, Leiden State University
+* 1966 – Doctorandus Astrophysics, Leiden State University
+* 1970 – Ph.D. Astrophysics, Leiden State University, 1970
+* 1970–72 – Miller Fellow Astrophysics, University of California Berkeley
+
+== Professional experience ==
+Source:  ''https://aero.engin.umich.edu/people/bram-van-leer/''
+* 2012–Present – Arthur B. Modine Professor Emeritus, University of Michigan
+* 2007–2012 – Arthur B. Modine Professor of Engineering, University of Michigan
+* 1986–2007 – Professor of Aerospace Engineering, University of Michigan
+* 1982–86 – Research Leader, [[Delft University of Technology]]
+* 1979–81 – Visiting Scientist, NASA Langley (ICASE)
+* 1978–82 – Research Leader, Leiden Observatory
+* 1970–72 – Miller Fellow Astrophysics, University of California Berkeley
+* 1966–77 – Research Associate, Leiden Observatory
+
+==Honors and awards==
+Source:  ''https://aero.engin.umich.edu/people/bram-van-leer/''
+* 2010 – AIAA Fluid dynamics Award
+* 2007 – Arthur B. Modine Professor of Aerospace Engineering
+* 2005–2009 – Senior Fellow of the University of Michigan
+* 2005 – Dept. of Aerospace Engineering Service Award, Univ. of Michigan
+* 2003 – Computational Mechanics Award, Japan Society of Mechanical Engineers
+* 1996 – College of Engineering Research Excellence Award, Univ. of Michigan
+* 1995 – AIAA Fellow
+* 1992 – Public Service Group Achievement Award, NASA Langley
+* 1992 – Dept. of Aerospace Engineering Research Award, Univ. of Michigan
+* 1990 – Group Achievement Award, NASA Langley
+* 1990 – Honorary Doctorate, Free University Brussels
+* 1978 – C. J. Kok Prize, Leiden University
+
+== Recent publications ==
+The following articles all relate to the discontinuous Galerkin method for diffusion equations:
+* B. van Leer and S. Nomura, "Discontinuous Galerkin for diffusion," AIAA Paper 2005–5108, 2005.
+* B. van Leer, M. Lo and M. van Raalte, "A Discontinuous Galerkin Method for diffusion based on recovery," AIAA paper 2007–4083, 2007.
+* M. van Raalte and B. van Leer, "Bilinear forms for the recovery-based discontinuous Galerkin method for diffusion," Communications in Computational Physics Vol. 5, pp.&nbsp;683–693, 2009.
+* B. van Leer and M. Lo, "Unification of Discontinuous Galerkin methods for advection and diffusion," AIAA paper 2009–0400, 2009.
+* M. Lo and B. van Leer, "Analysis and implementation of the Recovery-based Discontinuous Galerkin method for diffusion," AIAA Paper 2009–3786, 2009.
+* Lo, M.; van Leer, B., "Recovery-Based Discontinuous Galerkin for Navier Stokes Viscous Terms", AIAA Paper 2011–3406, 2011.
+
+== See also ==
+*[[Finite volume method]]
+*[[Flux limiter]]
+*[[Discontinuous Galerkin method]]
+*[[Advection–diffusion equation]]
+*[[Riemann solver]]
+*[[MUSCL scheme]]
+*[[Upwind differencing scheme]]
+*[[Godunov's theorem]]
+*[[Sergei K. Godunov]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://aero.engin.umich.edu/people/bram-van-leer/ University of Michigan Aerospace Engineering Department Web Page]
+*{{MathGenealogy|id=112330}}
+*[https://www.researchgate.net/profile/Bram_Van_Leer/ Researchgate]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Leer, Bram van}}
+[[Category:1940s births]]
+[[Category:Living people]]
+[[Category:20th-century Dutch mathematicians]]
+[[Category:20th-century Dutch physicists]]
+[[Category:21st-century Dutch physicists]]
+[[Category:Composers for carillon]]
+[[Category:Computational fluid dynamicists]]
+[[Category:Leiden University alumni]]
+[[Category:Numerical analysts]]
+[[Category:University of Michigan faculty]]
+[[Category:Year of birth missing (living people)]]
+[[Category:University of California, Berkeley Miller Fellows]]

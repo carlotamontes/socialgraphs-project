@@ -1,0 +1,84 @@
+{{Short description|American physicist (born 1936)}}
+{{Use American English|date=October 2026}}
+{{Infobox scientist
+| name = David Wayne Allan
+| image = David W. Allan, cropped.jpg
+| caption = Allan in August 2014
+| alt = 
+| birth_date = {{Birth date and age|1936|09|25}}
+| birth_place = [[Mapleton, Utah]], United States
+| field = physics
+| workplaces = [[National Institute of Standards and Technology]]
+| known_for = [[Allan variance]]
+| awards = {{unbulleted list|[[I. I. Rabi Award]], 1984{{r|ieee}}|[[Time Lord Award]], 2011{{r|itsf}}|[[IEEE Joseph F. Keithley Award in Instrumentation and Measurement|IEEE Keithley Award]], 2018{{r|ieee2}}}}
+| website = {{url|allanstime.com}}, {{url|https://itsabouttimebook.com}}
+}}
+
+''' David Wayne Allan''' (born September 25, 1936) is an American [[atomic clock]] physicist and author of the [[Allan variance]] (AVAR), also known as the two-sample variance, a measure of [[frequency]] stability in clocks, [[oscillator]]s and other applications.{{r|itsf}} He worked for the [[National Bureau of Standards]] in Colorado.{{r|nist}}
+
+In 1981 Allan developed the [[Modified Allan variance]] (MVAR) and then developed the Time variance (TVAR) in the late 1980s. AVAR, MVAR, and TVAR were made IEEE standards in 1988, and are used widely in the time and frequency, navigation, and telecom communities, respectively.{{r|avar}}
+
+Allan was born in [[Mapleton, Utah]], on September 25, 1936 and attended [[Springville High School (Utah)|Springville High School]]. He studied physics at [[Brigham Young University]] (B.S. 1960) and the [[University of Colorado Boulder]] (M.S. 1965).{{r|gale}} From 1960 to 1992, he was a physicist in the Time and Frequency Division of the [[National Institute of Standards and Technology]] (then the National Bureau of Standards) in [[Boulder, Colorado|Boulder]], and from 1979-1992 served as chief of the Time and Frequency Coordination Group.{{r|gale}} In 1981, he was a consultant for the [[United Nations Development Programme]] in New Delhi, and a guest scientist in the People's Republic of China in 1982.{{r|gale}}
+
+He retired from government work in 1992 and resides in [[Fountain Green, Utah]]{{r|gale}}, where he and his wife live in a self-designed, furnace-less solar home.{{r|solar}} He consulted for Hewlett Packard from 1993 to 1997. While there, he contributed to "The Science of Timekeeping,{{r|scienceOfTimeKeeping}} which documents his contributions to the nation as a timekeeper- generating time from an ensemble of atomic clocks and from the nation's primary frequency standard at NIST/NBS.
+
+Allan is a member of [[the Church of Jesus Christ of Latter-day Saints]].{{r|lds}} He has been married since 1959.{{r|gale}}
+
+==Awards==
+Allan received the Silver Medal of the Department of Commerce in 1968 and an IR-100 award of the Industrial Research magazine in 1976.{{r|gale}}{{r|ir100}} He received the [[Rabi Award]] of the [[IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society]] in 1984.{{r|ieee}} In 1999 he was named an [[honorary fellow]] of the [[Institute of Navigation]].{{r|lds}} 
+
+The IEEE has published over a hundred peer-reviewed papers of Allan's,{{r|peer1}}{{r|peer2}} and in 2016, the IEEE celebrated the 50th anniversary of the publication of Allan’s master’s thesis that gave birth to the Allan variance.{{r|50Anniversary}} He was given an achievement award with the citation: “For seminal work… time determination, time prediction, time dissemination, and timekeeping through contributions to atomic frequency standards, space-based navigation, time and frequency stability analysis, time-scale algorithms, and timekeeping devices.”
+
+In 2018 he received the [[IEEE Joseph F. Keithley Award in Instrumentation and Measurement|Joseph F. Keithley Award in Instrumentation and Measurement]] of the [[Institute of Electrical and Electronics Engineers]], and in the citation it reads "Leadership in time determination and precise timing instruments."{{r|ieee2}}
+
+Due to his long career the IEEE completed an oral history and interview{{r|oralHistory}}, and in 2021, the IEEE made him an IEEE fellow{{r|fellow}}.
+
+==References==
+{{Reflist|refs=
+
+<ref name=gale>Katherine H. Nemeh (editor) (2014). [https://link.gale.com/apps/doc/CX3833102006/GPS?u=wikipedia&sid=GPS&xid=02125119 ''American Men & Women of Science: A Biographical Directory of Today’s Leaders in Physical, Biological and Related Sciences''], 32nd edition, volume 1. Detroit: Gale Cengage Learning. {{isbn|9781414496498}}. {{subscription required}}. </ref>
+
+<ref name=ieee>[https://web.archive.org/web/20161005074259/http://www.ieee-uffc.org/frequency-control/awards-rabi.asp IEEE UFFC - Frequency Control - Awards - Rabi Award]. Institute of Electrical and Electronics Engineers. Archived 5 October 2016.</ref>
+
+<ref name=ieee2>[https://web.archive.org/web/20191209172459/https://www.ieee.org/about/awards/bios/keithley-recipients.html IEEE Joseph F. Keithley Award in Instrumentation and Measurement Recipients]. Institute of Electrical and Electronics Engineers. Accessed October 2020</ref>
+
+<ref name=itsf>{{cite web|url=http://www.telecom-sync.com/index.php/time-lord-award/2011-david-allan|title=2011 - David Allan|publisher=International Timing & Sync Forum|accessdate=5 October 2014|archive-date=22 May 2019|archive-url=https://web.archive.org/web/20190522174610/http://www.telecom-sync.com/index.php/time-lord-award/2011-david-allan|url-status=dead}}</ref>
+
+<ref name=lds>{{cite web|url=https://www.churchofjesuschrist.org/study/ensign/2000/01/portraits/in-the-spotlight?lang=eng|title=In the Spotlight.|author=|date=|publisher=|accessdate=27 July 2025}}</ref>
+
+<ref name=scienceOfTimeKeeping>{{cite web|url=http://www.leapsecond.com/hpan/an1289.pdf|title=The Science of Timekeeping|author=|date=|publisher=|accessdate=20 July 2024}}</ref>
+
+<ref name=50Anniversary>{{cite journal|last1=Levine |first1=Judah |last2=Tavella |first2=Patrizia |last3=Santarelli |first3=Giorgio |title=Introduction to the Special Issue on Celebrating the 50th Anniversary of the Allan Variance|journal=IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control |date=2016|volume=63 |issue=4 |pages=511–512 |doi=10.1109/TUFFC.2016.2545823 |pmid=27504513 |bibcode=2016ITUFF..63..511. }}</ref>
+
+<ref name=oralHistory>{{cite web|url=https://ethw.org/Oral-History:David_W._Allan|title=Oral-History:David W. Allan|author=|date=25 March 2024|publisher=|accessdate=}}</ref>
+
+<ref name=avar>{{cite web|url=https://tf.nist.gov/general/pdf/2834.pdf|title=A Historical Perspective on the Development of the Allan Variances and Their Strengths and Weaknesses|author=|date=|publisher=Institute of Electrical and Electronics Engineers.|accessdate =27 July 2025}}</ref>
+
+<ref name=fellow>{{cite journal|title=IEEE Fellows - Class of 2021 [Society Briefs]|author=Gary G. Yen|journal=IEEE Computational Intelligence Magazine |date=2021|volume=16 |issue=2 |pages=6–10 |publisher=Institute of Electrical and Electronics Engineers.|doi=10.1109/MCI.2021.3061852 }}</ref>
+
+<ref name=ir100>{{cite web|url=https://nflh.libraryhost.com/repositories/2/archival_objects/1035|title=Industrial Research's IR 100 awards, 1963-1977. |author=|date=|publisher=Industrial Research.|accessdate=27 July 2025}}</ref>
+
+<ref name=solar>{{cite web|url=http://www.allanstime.com/SolarHome/index.html|title=David Allan's Solar Home|author=David W. Allan|date=|publisher=Retrieved July 2025|accessdate=27 July 2025}}</ref>
+
+<ref name=peer1>{{cite web|url=https://tf.nist.gov/tf-cgi/showpubs.pl|title=NIST Time and Frequency Publication Search Results|author=|date=|publisher=NIST Time and Frequency Division.|accessdate=27 July 2025}}</ref>
+
+<ref name=peer2>{{cite web|url=http://www.allanstime.com/Publications/DWA/online.htm|title=D.W.A. Publications Available for On-line Viewing.|author=David W. Allan|date=|publisher=|accessdate=27 July 2025}}</ref>
+
+<ref name=nist>{{cite web|url=https://nistdigitalarchives.contentdm.oclc.org/digital/collection/p16009coll3/id/174/|title=	
+NIST Gallery of Distinguished Alumni|author=|date=|publisher=Digital Collections of the National Institute of Standards and Technology.|accessdate=27 July 2025}}</ref>
+
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Allan, David Wayne}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:Latter Day Saints from Colorado]]
+[[Category:Brigham Young University alumni]]
+[[Category:University of Colorado Boulder alumni]]
+[[Category:People from Mapleton, Utah]]
+[[Category:People from Fountain Green, Utah]]
+[[Category:Latter Day Saints from Utah]]
+[[Category:National Institute of Standards and Technology people]]

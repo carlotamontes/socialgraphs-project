@@ -1,0 +1,149 @@
+{{Short description|American plasma physicist (1965–2024)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Bill Dorland
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Bill Dorland.png
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = William Douglass Dorland
+| birth_date        = {{birth year|1965}}
+| birth_place       = 
+| death_date        = {{death date and age |2024|09|22|1965}}
+| death_place       = 
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Computational physics|Computational]] [[plasma (physics)|plasma physics]]
+| workplaces        = {{plainlist|
+*University of Texas at Austin
+*[[Imperial College]]
+*[[University of Maryland, College Park]]
+}}
+| patrons           = 
+| education         = {{plainlist|
+*[[University of Texas at Austin]]
+*[[Princeton University]]
+}}
+| thesis_title      = Gyrofluid models of plasma turbulence
+| thesis_url        = https://w3.pppl.gov/~hammett/papers/1993/dorland-thesis.pdf
+| thesis_year       = 1993
+| doctoral_advisor  = [[Greg Hammett]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| awards            = {{plainlist|
+*[[Ernest Orlando Lawrence Award]] (2009)
+*[[James Clerk Maxwell Prize for Plasma Physics]] (2024)
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = {{URL|sites.google.com/view/bdorland/home}}
+| footnotes         = 
+}}
+
+'''William Douglass Dorland''' (1965 — September 22, 2024) was an American computational [[plasma (physics)|plasma physicist]], who was a professor at Department of Physics at [[University of Maryland, College Park]]. Best known for his contributions to the theory and computation of plasma [[turbulence]] and magnetized plasmas, he received the [[James Clerk Maxwell Prize for Plasma Physics]] in 2024 alongside his doctoral advisor, [[Greg Hammett]].<ref name="aip-2024"/>
+
+==Biography==
+
+Completing his undergraduate studies at the [[University of Texas at Austin]] in 1988, Dorland received his master’s degree in [[Public relations|public affairs]] and doctoral degree in [[Astrophysics|astrophysical sciences]] from [[Princeton University]] in 1993. Following a post-doctoral appointment at the Institute for Fusion Studies at University of Texas, he joined University of Maryland in 1998. Having held appointments in [[Imperial College]], [[University of Vienna]] and [[University of Oxford]], he served as the associate laboratory director for Computational Science at the [[Princeton Plasma Physics Laboratory]] from 2020 to 2023.<ref name="pppl"/> He has also served as the University of Maryland Honors College,<ref name="phys-umd"/> as well as the co-editor of the journal, ''[[Journal of Plasma Physics]]''.<ref name="cambridge"/>
+
+Dorland was elected as a Fellow of the [[American Physical Society]]'s Plasma Physics in 2005<ref name="cmns-umd"/> and held University of Maryland's Richard A. Ferrell Distinguished Faculty Fellowship in 2008.<ref name="phys-umd2"/> He received [[Ernest Orlando Lawrence Award]] in 2009 and in 2024, was awarded [[James Clerk Maxwell Prize for Plasma Physics]] "for studies of resonant and non-resonant energetic particle transport in magnetized plasmas, innovative diagnostic methods, and the experimental discovery of detrimental fast-ion driven instabilities," alongside his doctoral advisor G. W. Hammett.<ref name="cmns-umd"/><ref name="aip-2024"/>
+
+Diagnosed with [[chordoma]] in 2004, Dorland served as an [[Patient advocacy|advocate]] for the chordoma patient community and was one of the founders of the Chordoma Foundation. He died from the complications of the disease on September 22, 2024, shortly after receiving the James Clerk Maxwell Prize.<ref name="cambridge"/> He was survived by his wife, University of Maryland geology professor Sarah C. Penniston-Dorland, and her daughter.<ref name="phys-umd"/>
+
+==Selected publications==
+;Journal articles
+* {{cite journal | first1=R. E. |last1=Waltz | first2=G. M. |last2=Staebler | first3=W. |last3=Dorland | first4=G. W. |last4=Hammett | first5=M. |last5=Kotschenreuther | first6=J. A. |last6=Konings |title=A gyro-Landau-fluid transport model  |journal=[[Physics of Plasmas]] |date=1997 |volume=4 |pages= 2482–2496 |doi=10.1063/1.872228}}
+* {{cite journal |first1=A. M. |last1=Dimits
+|first2=G. |last2=Bateman
+|first3=M. A. |last3=Beer
+|first4=B. I. |last4=Cohen
+|first5=W. |last5=Dorland
+|first6=G. W. |last6=Hammett
+|first7=C. |last7=Kim
+|first8=J. E. |last8=Kinsey
+|first9=M. |last9=Kotschenreuther
+|first10=A. H. |last10=Kritz
+|first11=L. L. |last11=Lao
+|first12=J. |last12=Mandrekas
+|first13=W. M. |last13=Nevins
+|first14=S. E. |last14=Parker
+|first15=A. J. |last15=Redd
+|first16=D. E. |last16=Shumaker
+|first17=R. |last17=Sydora
+|first18=J. |last18=Weiland
+|title=Comparisons and physics basis of tokamak transport models and turbulence simulations  |journal=Physics of Plasmas |date=2000 |volume=7 |pages= 969–983 |doi=10.1063/1.873896}}
+* {{cite journal |first1=F. |last1=Jenko |first2=W. |last2=Dorland |first3=M. |last3=Kotschenreuther |first4=B. N. |last4=Rogers |title=Electron temperature gradient driven turbulence |journal=Physics of Plasmas |date=2000 |volume=7 |pages=1904–1910 |doi=10.1063/1.874014}}
+* {{cite journal |last1=Dorland |first1=W. |last2=Jenko |first2=F. |last3=Kotschenreuther |first3=M. |last4=Rogers |first4=B. N. |title=Electron temperature gradient turbulence |journal=[[Physical Review Letters]] |date=2000 |volume=85 |issue=5579 |doi=10.1103/PhysRevLett.85.5579}}
+* {{cite journal 
+| first1=A. A. |last1=Schekochihin
+| first2=S. C. |last2=Cowley
+| first3=W. |last3=Dorland
+| first4=G. W. |last4=Hammett
+| first5=G. G. |last5=Howes
+| first6=E. |last6=Quataert
+| first7=T. |last7=Tatsuno
+|title=Astrophysical gyrokinetics: Kinetic and fluid turbulent cascades in magnetized weakly collisional plasmas |journal=[[The Astrophysical Journal]] Supplement Series |date=2009 |volume=182 |issue=1 |pages=310 |doi=10.1088/0067-0049/182/1/310|arxiv=0704.0044 }}
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="aip-2024">{{cite journal |last1=Mauel |first1=Michael E. |title=Announcement: The 2024 James Clerk Maxwell Prize for Plasma Physics |journal=[[Physics of Plasmas]] |date=2014 |volume=32 |pages=060203 |doi=10.1063/5.0280640}}</ref>
+
+<ref name="cambridge">{{cite web |last1=Schekochihin |first1=Alex |title=Bill Dorland (1965-2024) |url=https://www.cambridge.org/core/journals/journal-of-plasma-physics/announcements/in-memoriam/bill-dorland-1965-2024 |website=cambridge.org |publisher=Journal of Plasma Physics |access-date=May 31, 2026}}</ref>
+
+<ref name="cmns-umd">{{cite web |last1=Suplee |first1=Anne |title=Physics Professor William Dorland Selected for APS Maxwell Prize |url=https://cmns.umd.edu/news-events/news/william-dorland-aps-maxwell-prize |website=cmns.umd.edu |publisher=[[University of Maryland, College Park]] |access-date=May 31, 2026 |date=September 16, 2024}}</ref>
+
+<ref name="pppl">{{cite web |last1=Jackson DeVoe |first1=Jeanne |title=Renowned computational physicist is named associate director of computational science |url=https://www.pppl.gov/news/2020/renowned-computational-physicist-named-associate-director-computational-science |website=pppl.gov |publisher=[[Princeton Plasma Physics Laboratory]] |access-date=May 31, 2026 |date=August 17, 2020}}</ref>
+
+<ref name="phys-umd">{{cite web |title=William Douglass Dorland, 1965-2024 |url=https://umdphysics.umd.edu/about-us/news/department-news/1982-dorland.html |website=umdphysics.umd.edu |publisher=[[University of Maryland, College Park]] |access-date=May 31, 2026 |date=September 24, 2024}}</ref>
+
+<ref name="phys-umd2">{{cite web |title=Dorland Awarded the 2008 Richard A. Ferrell Distinguished Faculty Fellowship |url=https://www.umdphysics.umd.edu/about-us/news/department-news/262-dorland-1.html |website=umdphysics.umd.edu |publisher=[[University of Maryland, College Park]] |access-date=May 31, 2026 |date= November 21, 2008}}</ref>
+
+}}
+
+==External links==
+* {{official website|sites.google.com/view/bdorland/home}}
+{{DEFAULTSORT:Dorland, Bill}}
+
+{{James Clerk Maxwell Prize for Plasma Physics recipients}}
+{{authority control}}
+
+[[Category:1965 births]]
+[[Category:2024 deaths]]
+[[Category:American computational physicists]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American plasma physicists]]
+[[Category:American astrophysicists]]
+[[Category:Princeton University alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Academics of Imperial College London]]
+[[Category:Princeton Plasma Physics Laboratory people]]
+[[Category:Deaths from spinal cancer in the United States]]
+[[Category:Deaths from bone cancer in Maryland]]
+[[Category:American expatriates in the United Kingdom]]
+[[Category:Physicists from Maryland]]

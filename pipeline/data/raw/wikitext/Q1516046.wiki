@@ -1,0 +1,92 @@
+{{Short description|British physicist (1931–1980)}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox scientist
+| name              = John Hubbard
+| image             = <!--(filename only)-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date|1931|10|27|df=y}}
+| birth_place       = [[London, UK]]
+| death_date        = {{Death date and age|1980|11|27|1931|10|27|df=y}}
+| death_place       = [[San Jose, California]]
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Theoretical condensed matter physics]]
+| workplaces        = {{Unbulleted indent list|
+* [[Atomic Energy Research Establishment]]
+* [[IBM San Jose Research Laboratory]]
+}}
+| education         = [[Imperial College London]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 1958
+| doctoral_advisor  = [[Stanley Raimes]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{Unbulleted indent list|
+* [[Hubbard model]]
+* [[Slave boson|Hubbard operator]]
+* [[Hubbard–Stratonovich transformation]]
+}}
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|www.example.com}} -->
+| footnotes         = 
+| spouse            = 
+}}
+'''John Hubbard''' ({{Birth date|1931|10|27}} – {{Death date|1980|11|27}}) was a British [[physicist]] working in the areas of [[solid state physics | solid-state]] and [[condensed matter physics]]. He is best known for the [[Hubbard model]] for interacting electrons and the [[Hubbard–Stratonovich transformation]], both of which have found many applications beyond his original work.
+
+==Early life and education==
+John Hubbard was born on {{Birth date|1931|10|27}} to Charles and Marion Hubbard.<ref name=mg>{{Citation | last = Ghiron  | first = Margaret | contribution = John Hubbard: The Hubbard model 50 years on | title = 50th Anniversary of the Hubbard Model [Special Symposium] | date = June 18, 2013 | publisher = Hubbard Theory Consortium | place = London, UK | contribution-url = https://intranet.royalholloway.ac.uk/physics/documents/pdf/research/cmpc2013talks/cmpc2013ghiron.pdf}}</ref> He spent most of his childhood in [[Teddington, London]], and lived with his parents through his university education.
+
+Hubbard attended [[Hampton Grammar School]] and then entered [[Imperial College London]]. He received his Bachelor of Science in 1955, and his PhD in 1958 under the supervision of Stanley Raimes in the Department of Mathematics.<ref name=obit>{{cite journal|author=Castro, George|author2=Blume, Martin|title=Obituary: John Hubbard|journal=Physics Today|date=April 1981|volume=34|issue=4|pages=89–91|doi=10.1063/1.2914539|bibcode=1981PhT....34d..89C|doi-access=free}}</ref>  For his thesis he worked on the “dielectric approach” to treating the [[Coulomb interaction]] between electrons in metals.<ref name=Rice>{{Cite book| doi = 10.1007/BFb0012538 | title = Disordered Systems and Localization| series = Lecture Notes in Physics| publisher = Springer | location = Berlin / Heidelberg| chapter = Commemoration of John Hubbard (1931–1980)| year = 1981 | author = Rice, T. M. | volume = 149 | pages = 1–2| isbn = 978-3-540-11163-4| url = http://theor.jinr.ru/~kuzemsky/rice.pdf}}</ref>
+
+Immediately thereafter he was hired to work at the [[Atomic Energy Research Establishment]], [[Harwell, Oxfordshire|Harwell]] by [[Brian Flowers]], who was at the time head of the Theoretical Physics Division.<ref name=physics-world>{{cite journal|last=Quintanilla|first=Jorge|author2=Chris Hooley|title=The strong-correlations puzzle|journal=Physics World|date=June 2009|volume=22 |issue=6 |pages=32–37 |doi=10.1088/2058-7058/22/06/38 |bibcode=2009PhyW...22f..32Q |url=https://kar.kent.ac.uk/25620/|accessdate=10 December 2017|url-access=subscription}}</ref>
+
+==Career==
+===Harwell===
+At Harwell, Hubbard’s first work was a series of three papers studying correlations in an [[Fermi gas | electron gas]] via diagrammatic [[Perturbation theory (quantum mechanics) | perturbation theory]].<ref>{{cite journal |last1=Hubbard |first1=John |title=The description of collective motions in terms of many-body perturbation theory |journal=Proc. R. Soc. Lond. A |date=1957 |volume=240 |issue=1223 |pages=539–560 |doi=10.1098/rspa.1957.0106|bibcode=1957RSPSA.240..539H }}</ref> Initially, Hubbard had been reluctant to write up his approach, explaining to Brian Flowers that other researchers had already addressed the same problem, via different although consistent methods.<ref name=physics-world/> Nonetheless at Flowers’ urging Hubbard published, and [[John Robert Schrieffer | J.&nbsp;R.&nbsp;Schrieffer]] has described the result as a “classic piece of work”.
+
+Hubbard soon became the head of the Solid State Theory Group, in which capacity he spent most of his career. His main research was on the electronic and magnetic structure of metals, but he also made more applied contributions including to gaseous plasmas and isotope separation.<ref name=obit/>
+
+One of the interests of the theory group was interpreting [[neutron scattering]] data, available at Harwell as a byproduct of the [[Atomic Energy Research Establishment#Early reactors | multiple nuclear reactors]].<ref>{{cite journal |last1=Cockcroft |first1=John Douglas |title=The scientific work of the Atomic Energy Research Establishment |journal=Proc. R. Soc. Lond. B |date=1952 |volume=139 |issue=896 |pages=300–313 |doi=10.1098/rspb.1952.0014 |pmid=14920411 |bibcode=1952RSPSB.139..300C }}</ref> Hubbard noticed that the data for [[transition metals]] could be interpreted in terms of the [[Quantum Heisenberg model | Heisenberg model]], in which electrons are localized.<ref name=cc>{{cite journal |last1=Hubbard |first1=John |title=Citation Classic – Electron Correlations in Narrow Energy Bands |journal=Current Contents/Physical Chemical & Earth Sciences |date=1980 |issue=22 |page=84 |url=https://garfield.library.upenn.edu/classics1980/A1980JS76400001.pdf}}</ref> He realized that the localization behavior might be caused by [[Electronic correlation | correlations between electrons]], and published a paper in 1963 introducing a simple model capturing these effects.<ref>{{cite journal |last1=Hubbard |first1=John |title=Electron correlations in narrow energy bands |journal=Proc. R. Soc. Lond. A |date=1963 |volume=276 |issue=1365 |pages=238–257 |doi=10.1098/rspa.1963.0204 |bibcode=1963RSPSA.276..238H }}</ref> The same model was independently published by [[Martin Gutzwiller]] and Junjiro Kanamori in the same year, but is known today as the [[Hubbard model]].
+
+Over the next four years, Hubbard continued to study the model, resulting in five further papers where he derived important results such as the existence of a transition between a [[Mott insulator]] and [[Electrical conductor | conductor]].<ref>{{cite journal |last1=Hubbard |first1=John |title=Electron correlations in narrow energy bands III. An improved solution |journal=Proc. R. Soc. Lond. A |date=1964 |volume=281 |issue=1386 |pages=401–419 |doi=10.1098/rspa.1964.0190 |bibcode=1964RSPSA.281..401H }}</ref> [[Walter Kohn]] described his contributions here as "the basis of much of our present thinking about the electronic structure of large classes of magnetic metals and insulators",<ref name=obit/> and others have emphasized the importance of the techniques and insight Hubbard applied to the problem.<ref name=Rice/><ref name=physics-world/>
+
+Over the next fifteen years, his interests shifted slightly, although he continued to prefer to study one topic over several years, often resulting in a series of articles. For instance, beginning in 1967 he wrote five papers on approximate [[band structure]] calculation,<ref>{{cite journal |last1=Hubbard |first1=John |title=The approximate calculation of electronic band structure |journal=Proc. Phys. Soc. |date=1967 |volume=92 |issue=4 |pages=921–937 |doi=10.1088/0370-1328/92/4/313 |bibcode=1967PPS....92..921H }}</ref> and in the early 1970s much of his research was on [[critical phenomena]],<ref>{{cite journal |last1=Hubbard |first1=John |title=The critical correlation function of the Ising model in a magnetic field and on the co-existence curve |journal=J. Phys. C |date=1974 |volume=7 |issue=11 |pages=L216–L219 |doi=10.1088/0022-3719/7/11/005 |bibcode=1974JPhC....7L.216H }}</ref> following [[Kenneth G. Wilson | Ken Wilson]]’s seminal work.
+
+While at Harwell he visited a number of American institutions, including a sabbatical at [[University of California, Berkeley | Berkeley]] (1958–1959), two summers at [[Brookhaven National Laboratory | Brookhaven]] (1963 and 1969), and a semester at [[Brown University]] (Fall 1970).<ref name=obit/> It was at Berkeley that he published a paper popularizing a method first derived by [[Ruslan Stratonovich]] for computing the [[Partition function (statistical mechanics) | partition function]] of many-body systems, now called the [[Hubbard–Stratonovich transformation]].<ref>{{cite journal |last1=Hubbard |first1=John |title=Calculation of Partition Functions |journal=Phys. Rev. Lett. |date=1959 |volume=3 |number=2 |pages=77–78 |doi=10.1103/PhysRevLett.3.77 |bibcode=1959PhRvL...3...77H }}</ref>
+
+===IBM===
+Beginning in the late 1960s, Harwell confronted a decreasing need for [[nuclear power]] research, for which it had been originally designed, as the technology became more mature. Under the leadership of [[Walter Marshall, Baron Marshall of Goring | Walter Marshall]], it began to take on a new role as a contract research organization for British industry, entailing a shift in personnel, especially away from basic atomic science research.<ref>{{cite journal |last1=Marshall |first1=Walter |title=Physics research at Harwell |journal=Physics in Technology |date=1975 |volume=6 |issue=3 |pages=103–108 |doi=10.1088/0305-4624/6/3/I03}}</ref>
+
+Following this major reform, Hubbard left Harwell in 1976 and joined the [[IBM Research Laboratory]] in [[San Jose, California]]. His major success in these years was his development in 1978 of a first-principles theory on the magnetism of iron and other metallic [[Ferromagnetism | ferromagnets]].<ref>{{cite journal |last1=Hubbard |first1=John |title=The magnetism of iron and nickel |date=1981 |journal=J. Appl. Phys. |volume=52 |issue=3 |pages=1654–1657 |doi=10.1063/1.329670}}</ref> This was a problem which had concerned him for much of his career; indeed, his 1963 work on the Hubbard model was initially aimed at resolving it, even if it did not end up providing a solution.<ref name=cc/>
+
+As at Harwell, he also made time for some more applied work, including on phase conjugate optics and neutral-to-ionic phase transitions.<ref name=obit/>
+
+==Personal life== 
+Hubbard met his wife, Joan, at Harwell where they both worked. They married in August 1958 and had three children: Charles ({{born in| 1961}}), Catherine ({{born in | 1964}}), and Margaret ({{born in| 1967}}).<ref name=mg/> He died after a brief illness on {{Death date|1980|11|27}} in San Jose, survived by his wife and children.<ref name=obit/>
+
+He was described by coworkers as having a shy personality, as well as being a careful and exacting scientist and helpful collaborator.<ref name=physics-world/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://theor.jinr.ru/~kuzemsky/hubbio2.html Biography] by A. L. Kuzemsky, 2006. 
+* [http://www.rhul.ac.uk/physics/documents/pdf/research/cmpc2013talks/cmpc2013thouless.pdf '''John Hubbard''' 1931–1980] by [[David J. Thouless|David Thouless]], 18 June 2013
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hubbard, John}}
+[[Category:1931 births]]
+[[Category:1980 deaths]]
+[[Category:Alumni of Imperial College London]]
+[[Category:IBM employees]]
+[[Category:20th-century British physicists]]

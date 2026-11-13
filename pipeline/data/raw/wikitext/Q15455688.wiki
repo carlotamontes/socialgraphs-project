@@ -1,0 +1,68 @@
+{{Short description|Russian-Soviet mathematical physicist}}
+{{Infobox scientist
+| name              = Leon Takhtajan
+| image             = <!-- Leon_Takhtajan.jpg -->
+| caption           = 
+| birth_date        = {{birth date and age|1950|10|01|df=y}}
+| birth_place       = [[Yerevan]], [[Soviet Union]]
+| death_date        = 
+| death_place       = 
+| fields            = [[Mathematical physics]]
+| workplaces        = [[Steklov Institute]]<br>[[Stony Brook University]]
+| education         = [[Steklov Institute]]
+| doctoral_advisor  = [[Ludvig Faddeev]]
+| academic_advisors =
+| doctoral_students = 
+| notable_students  = 
+| awards            = 
+| known_for         = algebraic [[Bethe ansatz]]<br>FRT construction
+|relatives = [[Armen Takhtajan]] (father)
+}}
+
+'''Leon Armenovich Takhtajan''' ({{langx|hy|Լևոն Թախտաջյան}}; {{langx|ru|Леон Арменович Тахтаджян}}, born 1 October 1950, [[Yerevan]]) is a Russian (and formerly Soviet) mathematical physicist of Armenian descent, currently a professor of mathematics at the [[Stony Brook University]], Stony Brook, NY, and a leading researcher at the Euler International Mathematical Institute, [[Saint Petersburg]], [[Russia]].<ref name="TakhtajanSUNY">[http://www.math.sunysb.edu/~leontak/ homepage of Leon A. Takhtajan at SUNY]</ref>
+
+== Biography ==
+Leon Armenovich Takhtajan was born in [[Yerevan]], [[Soviet Union]], in 1950, son of the Armenian Russian [[Botany|botanist]] [[Armen Takhtajan]].
+
+=== Education ===
+Takhtajan received in 1975 his Ph.D. (Russian candidate degree) from the [[Steklov Institute]] (Leningrad Department) under [[Ludvig Faddeev]] with thesis ''Complete Integrability of the Equation <math>u_{tt}-u_{xx}+\sin (u)=0</math>''.<ref>{{MathGenealogy|id=55068}}</ref>{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=October 2023}} He was then employed at the Steklov Institute (Leningrad Department) and in 1982 received his D.S. degree ([[Doctor of Science|doctor of science]], 2nd degree in Russia) with thesis ''Completely integrable models of field theory and statistical mechanics''.
+
+=== Career ===
+Since 1992 he has been a professor at [[Stony Brook University]] where he was the chair of the mathematics department in 2009–2013.
+
+== Research ==
+His research is on integrable systems of mathematical physics (such as the theory of solitons) and applications of [[Quantum field theory|quantum field theories]] and models of string theory to [[algebraic geometry]] and [[complex analysis]]. It includes quantum field theories on algebraic curves and associated reciprocity laws, two-dimensional [[quantum gravity]] and Weil–Petersson geometry of [[moduli space]]s, the [[Kähler manifold|Kähler geometry]] of universal [[Teichmüller space]], and trace formulas. His major contributions are in the theory of classical and quantum integrable systems, quantum groups and Weil–Petersson geometry of moduli spaces. Together with Ludvig Faddeev and [[Evgeny Sklyanin]] he formulated the algebraic [[Bethe ansatz]] and [[quantum inverse scattering method]]. Together with Ludvig Faddeev and [[Nicolai Reshetikhin]] he proposed a method of quantization of [[Lie group]]s and algebras called the FRT construction.<ref name="TakhtajanSUNY" />{{Citation needed|date=October 2023}} In 1983 he was an invited speaker at the [[International Congress of Mathematicians]] in [[Warsaw]], Poland and gave a talk titled ''Integrable models in classical and quantum field theory''.<ref>{{Cite book |title=Proceedings of the International Congress of Mathematicians, August 16-24 1983, Warszawa. Vol. 1-2 |date=1984 |publisher=PWN [Państ. Wydaw. Naukowe] |isbn=978-83-01-05523-3 |editor-last=Ciesielski |editor-first=Zbigniew |location=Warszawa |editor-last2=Olech |editor-first2=Czesław}}</ref>
+
+==Selected publications==
+===Articles===
+* {{cite journal|title=Quantum inverse problem method I|journal=Theoretical and Mathematical Physics|volume=40|issue=2|year=1980|pages=688|doi=10.1007/BF01018718|bibcode=1979TMP....40..688S|last1=Sklyanin|first1=E. K.|last2=Takhtadzhyan|first2=L. A.|last3=Faddeev|first3=L. D.|s2cid=120710212}}
+* {{cite journal|doi=10.1070/RM1979v034n05ABEH003909|title=The quantum method of the inverse problem and the XYZ Heisenberg model|journal=Russian Mathematical Surveys|volume=34|issue=5|pages=11|year=1979|bibcode = 1979RuMaS..34...11T |last1=Takhtadzhan|first1=L. A.|last2=Faddeev|first2=Lyudvig D.|s2cid=250867355 |url=https://iopscience.iop.org/article/10.1070/RM1979v034n05ABEH003909|url-access=subscription}}
+* ''Решетихин Н. Ю., Тахтаджян Л. А., Фаддеев Л. Д.'' [http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=aa&paperid=7&option_lang=rus Квантование групп Ли и алгебр Ли] — Алгебра и анализ, 1:1 (1989), Eng. translation:
+** {{Cite journal|journal=Leningrad Mathematical Journal|title=Quantization of Lie Groups and Lie Algebras|year=1990|volume=1|issue=1|pages=193–225|mr=1015339|last1=Faddeev|first1=L. D.|last2=Reshetikhin|first2=N. Yu.|last3=Takhtajan|first3=L. A.}}
+**{{cite book|contribution=Quantization of Lie Groups and Lie Algebras|url=https://books.google.com/books?id=ZbniBQAAQBAJ&pg=PA129|last1=Faddeev|first1=L. D.|last2=Reshetikhin|first2=N. Yu.|last3=Takhtajan|first3=L. A.|isbn=9781483268026|mr=0992450|title=Algebraic Analysis: Papers Dedicated to Professor Mikioi Sato on the Occasion of His Sixtieth Birthday|publisher=Academic Press|year=1988}}
+**{{cite book|contribution=Quantization of Lie Groups and Lie Algebras|bibcode=1990ybei.book..299F|last1=Faddeev|first1=L. D.|last2=Reshetikhin|first2=N. Yu.|last3=Takhtajan|first3=L. A.|doi=10.1142/9789812798336_0016|title=Yang-Baxter Equation in Integrable Systems|publisher=World Scientific|year=1990|editor-first=Michio|editor-last=Jimbo|series=Advanced Series in Mathematical Physics|volume=10|pages=299–309 |isbn=978-981-02-0120-3 }}
+* {{cite journal|doi=10.1007/BF02103278|title=On foundation of the generalized Nambu mechanics|journal=Communications in Mathematical Physics|volume=160|issue=2|year=1994|pages=295–315|arxiv = hep-th/9301111 |bibcode = 1994CMaPh.160..295T |url=https://projecteuclid.org/euclid.cmp/1104269612|last1=Takhtajan|first1=Leon|s2cid=119137896}}
+* {{cite journal|doi=10.1070/SM1988v060n02ABEH003170|title=On uniformization of Riemann surfaces and the Weil–Petersson metric on Teichmüller and Schottky spaces|journal=Mathematics of the USSR-Sbornik|volume=60|issue=2|year=1988|pages=297|bibcode = 1988SbMat..60..297Z |last1=Zograf|first1=P. G.|last2=Takhtadzhyan|first2=L. A.}}
+
+===Books===
+* {{cite book|title=Hamiltonian methods in the theory of solitons|publisher=Springer Verlag|orig-year=First published 1987|edition=2nd |year=2007|url=https://books.google.com/books?id=HM5AkayXxC4C|isbn=9783540699699|last1=Faddeev|first1=Ludwig|last2=Takhtajan|first2=Leon}}<ref name="Dodd1988">{{cite journal|last1=Dodd|first1=Roger|title=Book Review: ''Hamiltonian methods in the theory of solitons''|journal=Bulletin of the American Mathematical Society|volume=19|issue=2|year=1988|pages=565–569|issn=0273-0979|doi=10.1090/S0273-0979-1988-15744-8|doi-access=free}}</ref>
+* {{cite book|title=Weil–Petersson Metric on the Universal Teichmuller Space|publisher=Memoirs of the Amer. Math. Soc.|volume=183|year=2006|url=https://www.ams.org/bookstore-getitem/item=MEMO-183-861|mr=2251887}}
+* {{cite book|title=Quantum mechanics for mathematicians|publisher=American Mathematical Society|year=2008|url=https://www.ams.org/bookstore-getitem/item=GSM-95|mr=2433906}}<ref>{{cite web|author=Berg, Michael|date=September 22, 2008|title=Review of ''Quantum Mechanics for Mathematicians'' by Leon A. Takhtajan|website=MAA Reviews, Mathematical Association of America|url=https://www.maa.org/press/maa-reviews/quantum-mechanics-for-mathematicians}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.mathnet.ru/php/person.phtml?personid=22041&option_lang=eng mathnet.ru]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Takhtajan, Leon}}
+[[Category:1950 births]]
+[[Category:Russian mathematical physicists]]
+[[Category:Russian mathematicians]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Living people]]
+[[Category:American people of Armenian descent]]
+[[Category:Stony Brook University faculty]]

@@ -1,0 +1,76 @@
+{{Short description|German theoretical physicist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| birth_date        = {{birth date and age|1951|06|25}}
+| birth_place       = [[Berlin]], [[Germany]]
+| name              = Matthias Scheffler
+| image             = Photo MS Oct 2021.jpg
+| caption           = [https://www.youtube.com/watch?v=apDkNYuBqXk Scheffler talking at FAIR-DI in October, 2021)]
+| education         = [[Technische Universität Berlin]]
+| doctoral_advisor  = Kyozaburo Kambe<ref>{{Cite book |last1=James |first1=Jeremiah |url=https://www.degruyter.com/view/title/121246 |title=One Hundred Years at the Intersection of Chemistry and Physics: The Fritz Haber Institute of the Max Planck Society 1911-2011 |last2=Steinhauser |first2=Thomas |last3=Hoffmann |first3=Dieter |last4=Friedrich |first4=Bretislav |date=2011-10-17 |publisher=De Gruyter |isbn=978-3-11-023954-6 |doi=10.1515/9783110239546.183}}</ref>
+| academic_advisors = 
+| thesis_title      = Winkelaufgelöste Photoemission von adsorbierten Schichten
+| thesis_url        = https://d-nb.info/790982404
+| thesis_year       = 1978
+| workplaces        = [[Physikalisch-Technische Bundesanstalt]]<br>[[Fritz Haber Institute of the Max Planck Society]]<br>[[University of California, Santa Barbara]]
+| website           = [https://nomad-laboratory.de/. NOMAD Laboratory]
+}}
+
+'''Matthias Scheffler''' (born June 25, 1951, in [[Berlin]]) is a German theoretical physicist whose research focuses on [[Condensed matter physics|condensed matter theory]], [[materials science]], and [[artificial intelligence]]. He is particularly known for his contributions to [[Density functional theory|density-functional theory]] and many-electron [[quantum mechanics]] and for his development of [[Multi-scale approaches|multiscale approaches]]. In the latter, he combines electronic-structure theory with [[thermodynamics]] and [[statistical mechanics]], and also employs [[Numerical analysis|numerical methods]] from engineering. As summarized by his appeal "Get Real!" he introduced environmental factors (e. g. [[partial pressure]]s, deposition rates, and [[temperature]]) into ''[[ab initio]]'' calculations.<ref>{{Cite journal|last1=Freund|first1=Hans-Joachim|last2=Meijer|first2=Gerard|last3=Scheffler|first3=Matthias|last4=Schlögl|first4=Robert|last5=Wolf|first5=Martin|date=2011-10-17|title=CO Oxidation as a Prototypical Reaction for Heterogeneous Processes|url=https://onlinelibrary.wiley.com/doi/10.1002/anie.201101378|journal=Angewandte Chemie International Edition|language=en|volume=50|issue=43|pages=10064–10094|doi=10.1002/anie.201101378|pmid=21960461|url-access=subscription}}</ref> In recent years, he has increasingly focused on data-centric scientific concepts and methods (the 4th paradigm of materials science)<ref name=":0">{{Citation|last1=Draxl|first1=Claudia|chapter=Big Data-Driven Materials Science and Its FAIR Data Infrastructure|date=2020|chapter-url=https://link.springer.com/10.1007/978-3-319-44677-6_104|title=Handbook of Materials Modeling|pages=49–73|editor-last=Andreoni|editor-first=Wanda|editor-link=Wanda Andreoni|place=Cham|publisher=Springer International Publishing|language=en|doi=10.1007/978-3-319-44677-6_104|isbn=978-3-319-44676-9|access-date=2021-10-29|last2=Scheffler|first2=Matthias|arxiv=1904.05859|s2cid=242594698|editor2-last=Yip|editor2-first=Sidney}}</ref><ref>{{Cite book|last1=Hey|first1=Tony|last2=Tansley|first2=Stewart|last3=Tolle|first3=Kristin|title=The Fourth Paradigm: Data-Intensive Scientific Discovery|url=https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/|publisher=Microsoft Research|date=October 2009|isbn=978-0-9825442-0-4|language=en-US}}</ref> and on the goal that materials-science data must become "'''F'''indable and '''A'''rtificial '''I'''ntelligence '''R'''eady".
+
+== Academic career ==
+Scheffler studied physics at [[Technische Universität Berlin|Technische Universität (TU) Berlin]]. He carried out his [[Doctor of Philosophy|doctoral work]] in the field of theoretical [[solid-state physics]] at the [[Fritz Haber Institute of the Max Planck Society]] (FHI) and received his [[Doctor of Philosophy|Ph.D.]] from the [[TU Berlin]] in 1978. He then moved to the [[Physikalisch-Technische Bundesanstalt]] in Braunschweig, where he was employed as a [[research associate]] from 1978 to 1987. From 1979 to 1980, he was also a visiting scientist at the [[Thomas J. Watson Research Center|IBM T.J. Watson Research Center]], [[Yorktown Heights, New York|Yorktown Heights]], USA. He received his [[habilitation]] in 1984 from the TU Berlin.
+
+In 1988, he was appointed as a scientific member of the [[Max Planck Society]] and founding director of the Theory Department of the [[Fritz Haber Institute of the Max Planck Society]] in Berlin. The following year he received an [[Honorary degree|honorary professorship]] at the [[TU Berlin]]. This was followed by further [[Honorary degree|honorary professorships]] at [[Freie Universität Berlin]] (2006), [[Humboldt University of Berlin|Humboldt-Universität zu Berlin]] (2016), and in Hokkaido, Japan (2016). He is also ''Distinguished Visiting Professor of Computational Materials Science and Engineering'' at the [[University of California, Santa Barbara]] since 2005. 
+
+In 2014 Scheffler established The NOMAD Laboratory as part of the NOMAD European Center of Excellence. Initially hosted by the Fritz Haber Institute of the Max Planck Society in Berlin, it transitioned to the [https://www.bifold.berlin/ Berlin Institute for the Foundations of Learning and Data (BIFOLD)] at Technische Universität Berlin in 2026, where Scheffler continues to direct it. Scheffler is also a [https://www.bifold.berlin/people/prof-dr-matthias-scheffler.html BIFOLD Fellow].
+
+
+
+== Research focus ==
+Since the beginning of his career, Scheffler has been working on fundamental aspects of the chemical and physical properties of [[surface]]s, [[Interface (physics)|interfaces]], [[Cluster (physics)|clusters]], and [[nanostructure]]s. Current research activities include studies of [[heterogeneous catalysis]], [[thermal conductivity]], [[Electrical resistivity and conductivity|electrical conductivity]], [[thermoelectric materials]], defects in [[semiconductor]]s, inorganic/organic [[hybrid material]]s, and [[biophysics]]. These are studies that combine [[quantum mechanics]], ''[[ab initio calculations]]'' of the electron structure and [[molecular dynamics]] with methods from [[thermodynamics]], [[statistical mechanics]], and [[engineering]]. In this way, the understanding of [[Mesoscopic physics|meso]]- and [[Macroscopic scale|macroscopic]] phenomena can be developed or deepened under realistic conditions (''T, p''). Scheffler is also working on the development of theoretical models for the calculation of [[excited state]]s and [[Electronic correlation|electron correlations]]. The software package [[FHI-aims]] developed for this purpose by Scheffler, together with Volker Blum and many others, was specifically designed for large-scale calculations on high-performance computers.<ref>{{Cite web|date=2021-10-29|title=Website of FHI-aims|url=https://fhi-aims.org/}}</ref> Scheffler has investigated many different classes of materials with high application relevance (e.g. [[compound semiconductors]], [[metal]]s, [[oxide]]s, [[two-dimensional materials]], [[organic materials]], [[surface]]s), as well as successfully developing a wide range of phenomena with direct practical relevance (e.g. [[crystal structure]] and [[Crystal growth|growth]], electronic material properties, [[metastability]] of [[Impurity|impurities]] in [[semiconductor]]s, [[Electrical conductor|electrical]] and [[thermal conductivity]], [[heterogeneous catalysis]]).
+
+More than 116 of his former employees now hold professorships or alike positions. Scheffler is one of the most highly cited scientists in his field.<ref>{{Cite web |date=2025-04-10 |title=Google scholar website of Matthias Scheffler |url=https://scholar.google.com/citations?user=ebybQUsAAAAJ&hl=de}}</ref>
+
+== Data science and development of the NOMAD database ==
+Since 2003, Scheffler and his group have been developing [[artificial intelligence]] methods and are increasingly engaged in [[scientific data]]-sharing activities. Worldwide, vast amounts of [[Data|scientific data]] are generated on [[material]]s, but only a fraction of it is actually used and published. Often, data are not adequately characterized and described, and most data are not considered further because they are not useful for the ongoing, focused research project. However, they may contain valuable information for other topics ("recycle the waste!").<ref name=":0" /> For [[computational materials science]], Scheffler, together with [[Claudia Draxl]], designed and set up a [[database]] where research data can be stored in a well-documented manner and where the research data are also available to other researchers.
+
+With the detailed description and availability of data, [[artificial intelligence]] methods can be applied and materials with novel and advantageous properties can be identified.<ref>{{Cite web|date=2025-04-10|title=AI guided workflows for efficiently screening the materials space|url=https://www.cosharescience.com/articles/cs.202403.129 }}</ref> The previously often very lengthy value creation process in the development of new materials, from basic research to market-ready product, can thus be significantly shortened.
+
+== Awards and honors ==
+* 2001: Max Planck Research Award jointly awarded by the [[Alexander von Humboldt Foundation]] and the [[Max Planck Society]]<ref>{{Cite web|date=2001-11-28|title=Mit ausländischen Partnern an die Spitze|url=https://www.innovations-report.de/sonderthemen/veranstaltungsnachrichten/bericht-61378/|access-date=2021-10-29|website=Innovations Report|language=de-DE}}</ref>
+* 2003: [[Medard W. Welch Award]] of the [[American Vacuum Society|AVS]] (association for science and technology of materials, interfaces and processing)<ref>{{Cite web|date=2021-10-29|title=Medard W. Welch Award|url=https://avs.org/awards/professional-awards/medard-w-welch-award/}}</ref>
+* 2004: [[Max Born Medal and Prize]] jointly awarded by the British [[Institute of Physics|Institute of Physics (IOP)]] and the [[German Physical Society|German Physical Society (DPG)]]<ref>{{Cite web|date=2021-10-29|title=Max Born Prize and Medal|url=https://www.dpg-physik.de/auszeichnungen/dpg-preise-mit-anderen-organisationen/max-born-preis-und-medaille/preistraeger|language=de}}</ref>
+* 2007: [[Honorary Doctorate|Honorary doctorate]] from the [[Lund University]], [[Sweden]]<ref>{{Cite web|date=2021-10-29|title=Honorary doctors of Lund University|url=https://www.science.lu.se/research/honorary-doctors}}</ref>
+* 2010: Rudolf Jaeckel Prize of the German Vacuum Society (DVG)<ref>{{Cite web|title=Rudolf-Jaeckel-Preis - DVG-Home|url=https://www.physik.uni-kl.de/dvg/index.php/dvgpreise/rudolf-jaeckel-preis|access-date=2021-10-29|website=www.physik.uni-kl.de|language=de}}</ref>
+* Since 1998: Fellow of the [[American Physical Society]]<ref>{{Cite web|title=APS Fellow Archive|url=http://www.aps.org/programs/honors/fellowships/archive-all.cfm|access-date=2021-10-29|website=www.aps.org|language=en}}</ref>
+* Since 2002: Member of the [[Berlin-Brandenburg Academy of Sciences and Humanities]]<ref>{{Cite web|title=Matthias Scheffler – Berlin-Brandenburgische Akademie der Wissenschaften|url=https://www.bbaw.de/die-akademie/bbaw-mitglieder/mitglied-matthias-scheffler|access-date=2021-10-29|website=www.bbaw.de}}</ref>
+* Since 2017: Member of the [[German National Academy of Sciences Leopoldina]]<ref>{{Cite web|title=Mitglieder|url=https://www.leopoldina.org/mitgliederverzeichnis/mitglieder/member/Member/show/matthias-scheffler/|access-date=2021-10-29|website=Nationale Akademie der Wissenschaften Leopoldina|language=de-DE}}</ref>
+* 2023: Daniel C. Tsui Lecture, IOP CAS, Beijing
+* 2024: MBA Award of the Japan Society of Vacuum and Surface Science
+* 2025: Zhongguancun Award for International Cooperation of the City of Beijing
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://nomad-laboratory.de/. NOMAD Laboratory]
+*[https://scholar.google.com/citations?user=ebybQUsAAAAJ&hl=de Publications by Matthias Scheffler at google scholar]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Scheffler, Matthias}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:German theoretical physicists]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Max Planck Society people]]
+[[Category:Technische Universität Berlin alumni]]
+[[Category:German materials scientists]]
+[[Category:University of California, Santa Barbara faculty]]
+[[Category:Condensed matter physicists]]
+[[Category:Scientists from Berlin]]
+[[Category:20th-century German physicists]]
+[[Category:21st-century German physicists]]
+[[Category:Max Planck Institute directors]]

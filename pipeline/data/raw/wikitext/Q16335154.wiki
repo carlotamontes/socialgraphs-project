@@ -1,0 +1,944 @@
+{{Short description|Spanish biologist}}
+{{Infobox scientist
+| name              = Alfonso Valencia
+| birth_name        = 
+| native_name_lang  = 
+| image             = ISMBECCB13-012.jpg
+| image_size        = 
+| alt               = Alfonso Valencia speaking at ISMB/ECCB 2013
+| caption           = Alfonso Valencia speaking at [[Intelligent Systems for Molecular Biology|ISMB/ECCB]] 2013.
+| birth_date        = 
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} 
+                           (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- 
+                      {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Computational biology]]
+* [[Bioinformatics]] 
+* [[Cancer]] [[genomics]] 
+* [[Text mining]] 
+* [[Protein]] [[evolution]]<ref name="googlescholar"/>}}
+| workplaces        = {{Plainlist|
+* [[Spanish National Bioinformatics Institute]]
+* [[Spanish National Center for Biotechnology (CNB)]]
+* [[European Molecular Biology Laboratory|European Molecular Biology Laboratory (EMBL)]]
+* [[Spanish National Cancer Research Centre]]
+* [[Barcelona Supercomputing Center]]}} 
+| education         = {{Plainlist|
+* [[Complutense University of Madrid]]
+* [[Autonomous University of Madrid]] (PhD)}}
+| thesis_title      =
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = [[Chris Sander (scientist)|Chris Sander]]<ref name=atpase/><ref name=ras/><ref name=sanderagain/>
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[BioCreative]]<ref name="biocreative">{{Cite journal 
+| last1 = Hirschman | first1 = L. 
+| last2 = Yeh | first2 = A. 
+| last3 = Blaschke | first3 = C. 
+| last4 = Valencia | first4 = A. 
+| title = Overview of BioCreAtIvE: Critical assessment of information extraction for biology 
+| doi = 10.1186/1471-2105-6-S1-S1 
+| journal = BMC Bioinformatics 
+| volume = 6 
+| pages = S1 
+| year = 2005 
+| issue = Suppl 1 
+| pmid = 15960821 
+| pmc =1869002 
+| doi-access = free 
+}}</ref><ref name=biocreative2/><ref name=biocreative3/><ref name=biocreative4/>
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist| 
+* [[European Molecular Biology Organization|EMBO member]]
+* [[International Society for Computational Biology|ISCB]] Fellow (2010)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = 
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+'''Alfonso Valencia''' is a Spanish biologist, ICREA Professor, current director of the Life Sciences department at [[Barcelona Supercomputing Center]],<ref>{{cite news|title=El fichaje de Alfonso Valencia refuerza Barcelona como capital bioinformática|url=http://www.lavanguardia.com/ciencia/20170307/42589325095/alfonso-valencia-fichaje-barcelona-bioinformatica.html?platform=hootsuite|agency=La Vanguardia|date=2017-03-07}}</ref> of [[Spanish National Bioinformatics Institute]] (INB-ISCIII), and coordinator of the data pillar of the Spanish Personalised Medicine initiative, IMPaCT. From 2015 to 2018, he was President of the [[International Society for Computational Biology]].<ref name="past-president">{{cite web|title=Past Officers and Directors|url=https://www.iscb.org/cms_addon/leadership/past.php|website=www.iscb.org|access-date=12 April 2018|language=en-gb|archive-date=10 August 2020|archive-url=https://web.archive.org/web/20200810120300/https://www.iscb.org/cms_addon/leadership/past.php|url-status=dead}}</ref> 
+
+His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution, disease networks and more recently modelling cellular systems (digital twins). He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of the ELIXIR infrastructure, founder of the Spanish and International Bioinformatics networks and former president of ISCB, the international professional association of Bioinformaticians. He is Executive Editor of the main journal in the field (Bioinformatics OUP). 
+
+His research is focused on the study of biomedical systems with [[computational biology]] and bioinformatics approaches.<ref name="googlescholar">{{GoogleScholar|4iB725QAAAAJ}}</ref>
+
+==Education==
+Valencia studied biology at the [[Complutense University of Madrid]], training in [[population genetics]] and [[biophysics]].<ref name="president-elect">{{cite web|url=http://www.cnio.es/es/news/docs/Alfonso_Valencia_ISCB_16082013_en.pdf|title=Alfonso Valencia, President-Elect of the ISCB|archive-url=https://web.archive.org/web/20140110150120/http://www.cnio.es/es/news/docs/Alfonso_Valencia_ISCB_16082013_en.pdf|archive-date=2014-01-10}}.</ref> In 1987 he was a visiting scientist at the American Red Cross Laboratory.<ref name=ismb-keynote>{{cite web|title=Keynote-Details|url=https://www.iscb.org/archive/conferences/iscb/ismbeccb2011-program/804-keynote-details.html#alfonso|work=ISMB/ECCB 2011|publisher=International Society for Computational Biology|access-date=7 January 2014}}</ref>  He received his PhD in [[molecular biology]] in 1988 from the [[Autonomous University of Madrid]].<ref name="cnio">{{cite web|url=http://www.cnio.es/ing/grupos/plantillas/curriculum.asp?pag=1002|title=Alfonso Valencia - cnio.es|work=Centro Nacional de Investigaciones Oncológicas|archive-url=https://web.archive.org/web/20140720070524/http://www.cnio.es/ing/grupos/plantillas/curriculum.asp?pag=1002|archive-date=2014-07-20}}</ref> From 1989 to 1994 he was a [[postdoctoral research|Postdoctoral Fellow]] in the laboratory of [[Chris Sander (scientist)|Chris Sander]] at the [[European Molecular Biology Laboratory]] (EMBL) in [[Heidelberg]], studying the evolution of protein function using [[Protein sequencing|sequence]]- and [[Protein structure|structure]]-based approaches.<ref name=ismb-keynote /><ref name=embrace>{{cite web|title=Alfonso Valencia - EMBRACE|url=http://www.embracegrid.info/partners/alfonso-valencia|access-date=10 January 2014|archive-url=https://web.archive.org/web/20140110152455/http://www.embracegrid.info/partners/alfonso-valencia|archive-date=2014-01-10}}</ref>
+
+The 1994 paper "Correlated mutations and residue contacts in proteins",<ref>U Göbel 1, C Sander, R Schneider, A Valencia<, [https://pubmed.ncbi.nlm.nih.gov/8208723/ Correlated mutations and residue contacts in proteins], ''Proteins''
+'''18'''(4):309-17. (1994) {{doi|10.1002/prot.340180402}}</ref> of which Valencia was senior author, established the idea that correlated mutations at corresponding locations in the DNA sequences in different organisms could indicate that those locations corresponded to amino-acid residues that were physically close to each other in the final protein, informing the prediction of [[contact map]]s.  This previously unconsidered source of side information for [[protein structure prediction]] became used with increasing effectiveness in the 2010s, leading ultimately to the success of [[DeepMind]]'s [[AlphaFold]] 2 algorithm in 2020.<ref>Cristina Sáez, [https://www.lavanguardia.com/ciencia/20201202/49848364758/alfonso-valencia-inteligencia-artificial-estructura-proteinas-deepmind.html El último avance fundamental de la biología se basa en la investigación de un científico español], ''[[La Vanguardia]]'', 2 December 2020</ref>
+
+==Research==
+In 1994 Valencia formed the Protein Design Group at the [[Spanish National Center for Biotechnology (CNB)]].<ref name=cnio /> He was leader of the Structural and Computational Biology Group at CNIO.<ref name="cnio" /> In 2006 he moved to the Spanish National Cancer Research Center (CNIO) as Director of the Structural Biology and Biocomputing programme.
+
+Since 2016 he is [[Catalan Institution for Research and Advanced Studies|ICREA]] Professor<ref>{{Cite web|url=https://www.icrea.cat/Web/ScientificStaff/alfonso-valencia-herrera-244256|title=ICREA|website=www.icrea.cat|language=en|access-date=2018-10-27}}</ref> and Director of the Life Sciences Department of the [[Barcelona Supercomputing Center|Barcelona Supercomputing Centre]] (BSC).<ref>{{Cite web|url=https://www.bsc.es/news/bsc-news/alfonso-valencia-appointed-director-the-life-sciences-department-within-bsc|title=Alfonso Valencia is appointed as Director of the Life Sciences Department within BSC {{!}} BSC-CNS|website=www.bsc.es|language=en|access-date=2018-10-27}}</ref><ref>{{Cite news|url=https://www.lavanguardia.com/ciencia/20170307/42589325095/alfonso-valencia-fichaje-barcelona-bioinformatica.html|title=El fichaje de Alfonso Valencia refuerza Barcelona como capital bioinformática|work=La Vanguardia|access-date=2018-10-27}}</ref>
+
+As computational biologist, the focus of his work is the mechanistic understanding of biological systems, including cancer and other diseases, with a combination of Bioinformatics, Network Biology and Machine Learning approaches. His group has developed systems in the areas of protein structure prediction, protein interactions and protein networks, [[systems biology]], text and data mining, with applications in epigenetic, cancer genomics <ref name="scb-group-overview">{{cite web|url=http://www.cnio.es/ing/grupos/plantillas/presentacion.asp?grupo=50004294|title=Structural Computational Biology Group: Overview - cnio.es|work=Centro Nacional de Investigaciones Oncológicas|access-date=10 January 2014|archive-date=27 December 2017|archive-url=https://web.archive.org/web/20171227082057/http://www.cnio.es/ing/grupos/plantillas/presentacion.asp?grupo=50004294}}</ref> and disease comorbidity. All these actives converge into the general topic of Personalised Medicine, with particular interest in the interface with Artificial intelligence and High Performance Computing.
+
+{{As of|2024}}, Valencia has published over 450 [[peer review]]ed papers,<ref name="googlescholar" /><ref name="epmc">{{EuropePMC|ORCID=0000-0002-8937-6789}}</ref><ref name="scopus">{{Scopus|id=16308427600}}</ref> which have been cited more than 92.000 times,<ref name="president-elect" /> in [[scientific journal]]s including ''[[Nature (journal)|Nature]]'',<ref name="encode">{{Cite journal 
+| author1 = ENCODE Project Consortium|author2=Birney E|author3=Stamatoyannopoulos JA |author4=Dutta A|author5=Guigó R|author6=Gingeras TR|author7=Margulies EH|author8=Weng Z|author9=Snyder M|author10=Dermitzakis ET |author-link2=Ewan Birney |author-link3=John Stamatoyannopoulos |author-link4=Anindya Dutta
+| doi = 10.1038/nature05874 
+| title = Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project 
+| journal = Nature 
+| volume = 447 
+| issue = 7146 
+| pages = 799–816 
+| year = 2007 
+| pmid = 17571346 
+| pmc =2212820 
+|bibcode = 2007Natur.447..799B |display-authors=etal}}</ref><ref name="wholegenome">{{Cite journal
+ | pmid = 21642962
+| pmc = 3322590
+| year = 2011
+| last1 = Puente
+| first1 = X. S.
+| title = Whole-genome sequencing identifies recurrent mutations in chronic lymphocytic leukaemia
+| journal = Nature
+| volume = 475
+| issue = 7354
+| pages = 101–5
+| last2 = Pinyol
+| first2 = M
+| last3 = Quesada
+| first3 = V
+| last4 = Conde
+| first4 = L
+| last5 = Ordóñez
+| first5 = G. R.
+| last6 = Villamor
+| first6 = N
+| last7 = Escaramis
+| first7 = G
+| last8 = Jares
+| first8 = P
+| last9 = Beà
+| first9 = S
+| last10 = González-Díaz
+| first10 = M
+| last11 = Bassaganyas
+| first11 = L
+| last12 = Baumann
+| first12 = T
+| last13 = Juan
+| first13 = M
+| last14 = López-Guerra
+| first14 = M
+| last15 = Colomer
+| first15 = D
+| last16 = Tubío
+| first16 = J. M.
+| last17 = López
+| first17 = C
+| last18 = Navarro
+| first18 = A
+| last19 = Tornador
+| first19 = C
+| last20 = Aymerich
+| first20 = M
+| last21 = Rozman
+| first21 = M
+| last22 = Hernández
+| first22 = J. M.
+| last23 = Puente
+| first23 = D. A.
+| last24 = Freije
+| first24 = J. M.
+| last25 = Velasco
+| first25 = G
+| last26 = Gutiérrez-Fernández
+| first26 = A
+| last27 = Costa
+| first27 = D
+| last28 = Carrió
+| first28 = A
+| last29 = Guijarro
+| first29 = S
+| last30 = Enjuanes
+| first30 = A
+| display-authors = 29
+| doi = 10.1038/nature10113
+}}</ref><ref name="cancer">{{Cite journal
+ | pmid = 20393554
+| pmc = 2902243
+| year = 2010
+| author1 = International Cancer Genome Consortium
+| title = International network of cancer genome projects
+| journal = Nature
+| volume = 464
+| issue = 7291
+| pages = 993–8
+| last2 = Hudson
+| first2 = T. J.
+| last3 = Anderson
+| first3 = W
+| last4 = Artez
+| first4 = A
+| last5 = Barker
+| first5 = A. D.
+| last6 = Bell
+| first6 = C
+| last7 = Bernabé
+| first7 = R. R.
+| last8 = Bhan
+| first8 = M. K.
+| last9 = Calvo
+| first9 = F
+| last10 = Eerola
+| first10 = I
+| last11 = Gerhard
+| first11 = D. S.
+| last12 = Guttmacher
+| first12 = A
+| last13 = Guyer
+| first13 = M
+| last14 = Hemsley
+| first14 = F. M.
+| last15 = Jennings
+| first15 = J. L.
+| last16 = Kerr
+| first16 = D
+| last17 = Klatt
+| first17 = P
+| last18 = Kolar
+| first18 = P
+| last19 = Kusada
+| first19 = J
+| last20 = Lane
+| first20 = D. P.
+| last21 = Laplace
+| first21 = F
+| last22 = Youyong
+| first22 = L
+| last23 = Nettekoven
+| first23 = G
+| last24 = Ozenberger
+| first24 = B
+| last25 = Peterson
+| first25 = J
+| last26 = Rao
+| first26 = T. S.
+| last27 = Remacle
+| first27 = J
+| last28 = Schafer
+| first28 = A. J.
+| last29 = Shibata
+| first29 = T
+| last30 = Stratton
+| first30 = M. R.
+| display-authors = 29
+| doi = 10.1038/nature08987
+|bibcode = 2010Natur.464..993T }}</ref> ''[[Proceedings of the National Academy of Sciences of the United States of America|PNAS]]'',<ref name="atpase">{{Cite journal
+ | pmid = 1323828
+| pmc = 49695
+| year = 1992
+| last1 = Bork
+| first1 = P
+| title = An ATPase domain common to prokaryotic cell cycle proteins, sugar kinases, actin, and hsp70 heat shock proteins
+| journal = Proceedings of the National Academy of Sciences of the United States of America
+| volume = 89
+| issue = 16
+| pages = 7290–4
+| last2 = Sander
+| first2 = C
+| last3 = Valencia
+| first3 = A
+|bibcode = 1992PNAS...89.7290B |doi = 10.1073/pnas.89.16.7290 | doi-access = free
+}}</ref> ''[[Nucleic Acids Research]]'',<ref name="intact">{{Cite journal
+ | doi = 10.1093/nar/gkh052
+| pmid = 14681455
+| pmc = 308786
+| title = IntAct: An open source molecular interaction database
+| journal = Nucleic Acids Research
+| volume = 32
+| issue = 90001
+| pages = D452–5
+| year = 2004
+| last1 = Hermjakob | first1 = H.
+| last2 =  Montecchi-Palazzi | first2 = L.
+|last3 = Lewington | first3 = C.
+| last4 = Mudali | first4  = S.
+|last5 =  Kerrien | first5 =S.
+|last6 = Orchard | first6 =  S.
+|last7 = Vingron | first7 = M.
+| last8 = Roechert | first8 = B.
+| last9= Roepstorff | first9 = P.
+| last10= Valencia | first10 = A.
+| author-link10 = Alfonso Valencia
+|last11 = Margalit | first11 = H.
+|last12 = Armstrong | first12 = J.
+| last13 = Bairoch | first13 = Amos 
+| author-link13 = Amos Bairoch
+|last14 =  Cesareni | first14 = G.
+|last15 =  Sherman | first15 = D.
+|last16 =  Apweiler | first16 = R.
+| author-link16 = Rolf Apweiler
+}}</ref><ref name="reductive">{{Cite journal
+ | pmid = 12522265
+| pmc = 141039
+| year = 2003
+| last1 = Van Ham
+| first1 = R. C.
+| title = Reductive genome evolution in Buchnera aphidicola
+| journal = Proceedings of the National Academy of Sciences
+| volume = 100
+| issue = 2
+| pages = 581–6
+| last2 = Kamerbeek
+| first2 = J
+| last3 = Palacios
+| first3 = C
+| last4 = Rausell
+| first4 = C
+| last5 = Abascal
+| first5 = F
+| last6 = Bastolla
+| first6 = U
+| last7 = Fernández
+| first7 = J. M.
+| last8 = Jiménez
+| first8 = L
+| last9 = Postigo
+| first9 = M
+| last10 = Silva
+| first10 = F. J.
+| last11 = Tamames
+| first11 = J
+| last12 = Viguera
+| first12 = E
+| last13 = Latorre
+| first13 = A
+| last14 = Valencia
+| first14 = A
+| last15 = Morán
+| first15 = F
+| last16 = Moya
+| first16 = A
+| doi = 10.1073/pnas.0235981100
+|bibcode = 2003PNAS..100..581V | doi-access = free
+}}</ref> the ''[[Journal of Molecular Biology]]'',<ref name="mutations">{{Cite journal
+ | pmid = 9281423
+| year = 1997
+| last1 = Pazos
+| first1 = F
+| title = Correlated mutations contain information about protein-protein interaction
+| journal = Journal of Molecular Biology
+| volume = 271
+| issue = 4
+| pages = 511–23
+| last2 = Helmer-Citterich
+| first2 = M
+| last3 = Ausiello
+| first3 = G
+| last4 = Valencia
+| first4 = A
+| doi = 10.1006/jmbi.1997.1198
+| citeseerx = 10.1.1.360.2386
+}}</ref><ref name="prediction">{{Cite journal
+ | pmid = 12079362
+| year = 2002
+| last1 = Jensen
+| first1 = L. J.
+| title = Prediction of human protein function from post-translational modifications and localization features
+| journal = Journal of Molecular Biology
+| volume = 319
+| issue = 5
+| pages = 1257–65
+| last2 = Gupta
+| first2 = R
+| last3 = Blom
+| first3 = N
+| last4 = Devos
+| first4 = D
+| last5 = Tamames
+| first5 = J
+| last6 = Kesmir
+| first6 = C
+| last7 = Nielsen
+| first7 = H
+| last8 = Staerfeldt
+| first8 = H. H.
+| last9 = Rapacki
+| first9 = K
+| last10 = Workman
+| first10 = C
+| last11 = Andersen
+| first11 = C. A.
+| last12 = Knudsen
+| first12 = S
+| last13 = Krogh
+| first13 = A
+| last14 = Valencia
+| first14 = A
+| last15 = Brunak
+| first15 = S
+| doi = 10.1016/S0022-2836(02)00379-0
+| citeseerx = 10.1.1.139.2639
+}}</ref><ref name="burkhardrost">{{Cite journal
+ | pmid = 10547297
+| year = 1999
+| last1 = Olmea
+| first1 = O
+| title = Effective use of sequence correlation and conservation in fold recognition
+| journal = Journal of Molecular Biology
+| volume = 293
+| issue = 5
+| pages = 1221–39
+| last2 = Rost
+| first2 = B
+| last3 = Valencia
+| first3 = A
+| s2cid = 16167106
+| doi = 10.1006/jmbi.1999.3208
+}}</ref> ''[[Bioinformatics (journal)|Bioinformatics]]'',<ref name="unsupervised">{{Cite journal
+ | pmid = 11238068
+| year = 2001
+| last1 = Herrero
+| first1 = J
+| title = A hierarchical unsupervised growing neural network for clustering gene expression patterns
+| journal = Bioinformatics
+| volume = 17
+| issue = 2
+| pages = 126–36
+| last2 = Valencia
+| first2 = A
+| last3 = Dopazo
+| first3 = J
+ | doi=10.1093/bioinformatics/17.2.126
+| doi-access = free
+}}</ref><ref name="impihop">{{Cite journal
+ | pmid = 16204114
+| year = 2005
+| last1 = Hoffmann
+| first1 = R
+| title = Implementing the iHOP concept for navigation of biomedical literature
+| journal = Bioinformatics
+| volume = 21
+| pages = ii252–8
+| last2 = Valencia
+| first2 = A
+| issue = Suppl 2
+| doi = 10.1093/bioinformatics/bti1142
+| doi-access = free
+}}</ref><ref name="bateman1">{{Cite journal
+ | pmid = 22399678
+| pmc = 3324521
+| year = 2012
+| last1 = Peng
+| first1 = Hanchuan
+| title = Bioimage informatics: A new category in Bioinformatics
+| journal = [[Bioinformatics (journal)|Bioinformatics]]
+| volume = 28
+| issue = 8
+| page = 1057
+| last2 = Bateman
+| first2 = Alex
+| author-link2 = Alex Bateman
+| last3 = Valencia
+| first3 = Alfonso
+| author-link3 = Alfonso Valencia
+| last4 = Wren
+| first4 = Jonathan D.
+| author-link4 = Jonathan Wren (biologist)
+| doi = 10.1093/bioinformatics/bts111
+}}</ref><ref name="bateman2">{{Cite journal
+ | pmid = 17032684
+| year = 2006
+| last1 = Bateman
+| first1 = Alex
+| author-link1 = Alex Bateman
+| title = Structural genomics meets computational biology
+| journal = Bioinformatics
+| volume = 22
+| issue = 19
+| page = 2319
+| last2 = Valencia
+| first2 = Alfonso
+| author-link2 = Alfonso Valencia
+| doi = 10.1093/bioinformatics/btl426
+| doi-access = free
+}}</ref> ''[[Genome Biology]]'',<ref name="biocreative2">{{Cite journal
+ | pmid = 18834487
+| pmc = 2559980
+| year = 2008
+| last1 = Krallinger
+| first1 = M
+| title = Evaluation of text-mining systems for biology: Overview of the Second Bio ''Creative'' community challenge
+| journal = Genome Biology
+| volume = 9
+| pages = S1
+| last2 = Morgan
+| first2 = A
+| last3 = Smith
+| first3 = L
+| last4 = Leitner
+| first4 = F
+| last5 = Tanabe
+| first5 = L
+| last6 = Wilbur
+| first6 = J
+| last7 = Hirschman
+| first7 = L
+| last8 = Valencia
+| first8 = A
+| issue = Suppl 2
+| doi = 10.1186/gb-2008-9-s2-s1
+| doi-access = free
+}}</ref><ref name="biocreative3">{{Cite journal
+ | pmid = 18834495
+| year = 2008
+| last1 = Krallinger
+| first1 = M
+| title = Overview of the protein-protein interaction annotation extraction task of Bio ''Creative'' II
+| journal = Genome Biology
+| volume = 9
+| pages = S4
+| last2 = Leitner
+| first2 = F
+| last3 = Rodriguez-Penagos
+| first3 = C
+| last4 = Valencia
+| first4 = A
+| issue = Suppl 2
+| doi = 10.1186/gb-2008-9-s2-s4
+| pmc = 2559988
+| doi-access = free
+}}</ref><ref>{{Cite journal
+ | pmid = 19226438
+| pmc = 2688272
+| year = 2009
+| last1 = Juncker
+| first1 = A. S.
+| title = Sequence-based feature prediction and annotation of proteins
+| journal = Genome Biology
+| volume = 10
+| issue = 2
+| page = 206
+| last2 = Jensen
+| first2 = L. J.
+| last3 = Pierleoni
+| first3 = A
+| last4 = Bernsel
+| first4 = A
+| last5 = Tress
+| first5 = M. L.
+| last6 = Bork
+| first6 = P
+| last7 = von Heijne
+| first7 = G
+| last8 = Valencia
+| first8 = A
+| last9 = Ouzounis
+| first9 = C. A.
+| last10 = Casadio
+| first10 = R
+| last11 = Brunak
+| first11 = S
+| doi = 10.1186/gb-2009-10-2-206
+| doi-access = free
+}}</ref><ref>{{Cite journal
+ | pmid = 19591646
+| pmc = 2718486
+| year = 2009
+| last1 = Baudot
+| first1 = A
+| title = Translational disease interpretation with molecular networks
+| journal = Genome Biology
+| volume = 10
+| issue = 6
+| page = 221
+| last2 = Gómez-López
+| first2 = G
+| last3 = Valencia
+| first3 = A
+| doi = 10.1186/gb-2009-10-6-221
+| doi-access = free
+}}</ref> ''[[PLOS Computational Biology]]'',<ref>{{Cite journal
+ | pmid = 23300415
+| pmc = 3531315
+| year = 2012
+| last1 = Vazquez
+| first1 = M
+| title = Chapter 14: Cancer genome analysis
+| journal = PLOS Computational Biology
+| volume = 8
+| issue = 12
+| article-number = e1002824
+| last2 = de la Torre
+| first2 = V
+| last3 = Valencia
+| first3 = A
+| doi = 10.1371/journal.pcbi.1002824
+|bibcode = 2012PLSCB...8E2824V | doi-access = free
+}}</ref> ''[[PLOS Biology]]'',<ref name="encodeusers">{{Cite journal 
+| editor = [[Peter Becker (biologist)|Becker PB]]
+| author = ENCODE Project Consortium
+| title = A User's Guide to the Encyclopedia of DNA Elements (ENCODE) 
+| doi = 10.1371/journal.pbio.1001046 
+| journal = [[PLOS Biology]] 
+| volume = 9 
+| issue = 4 
+| article-number = e1001046 
+| year = 2011 
+| pmid =  21526222
+| pmc = 3079585
+| doi-access = free
+}} {{open access}}</ref>  ''[[Nature Genetics]]'',<ref name="ihop">{{Cite journal
+ | pmid = 15226743
+| year = 2004
+| last1 = Hoffmann
+| first1 = R
+| title = A gene network for navigating the literature
+| journal = Nature Genetics
+| volume = 36
+| issue = 7
+| page = 664
+| last2 = Valencia
+| first2 = A
+| doi = 10.1038/ng0704-664
+| doi-access = free
+}}</ref><ref>{{Cite journal
+ | pmid = 22158541
+| year = 2011
+| last1 = Quesada
+| first1 = V
+| title = Exome sequencing identifies recurrent mutations of the splicing factor SF3B1 gene in chronic lymphocytic leukemia
+| journal = Nature Genetics
+| volume = 44
+| issue = 1
+| pages = 47–52
+| last2 = Conde
+| first2 = L
+| last3 = Villamor
+| first3 = N
+| last4 = Ordóñez
+| first4 = G. R.
+| last5 = Jares
+| first5 = P
+| last6 = Bassaganyas
+| first6 = L
+| last7 = Ramsay
+| first7 = A. J.
+| last8 = Beà
+| first8 = S
+| last9 = Pinyol
+| first9 = M
+| last10 = Martínez-Trillos
+| first10 = A
+| last11 = López-Guerra
+| first11 = M
+| last12 = Colomer
+| first12 = D
+| last13 = Navarro
+| first13 = A
+| last14 = Baumann
+| first14 = T
+| last15 = Aymerich
+| first15 = M
+| last16 = Rozman
+| first16 = M
+| last17 = Delgado
+| first17 = J
+| last18 = Giné
+| first18 = E
+| last19 = Hernández
+| first19 = J. M.
+| last20 = González-Díaz
+| first20 = M
+| last21 = Puente
+| first21 = D. A.
+| last22 = Velasco
+| first22 = G
+| last23 = Freije
+| first23 = J. M.
+| last24 = Tubío
+| first24 = J. M.
+| last25 = Royo
+| first25 = R
+| last26 = Gelpí
+| first26 = J. L.
+| last27 = Orozco
+| first27 = M
+| last28 = Pisano
+| first28 = D. G.
+| last29 = Zamora
+| first29 = J
+| last30 = Vázquez
+| first30 = M
+| display-authors = 29
+| doi = 10.1038/ng.1032
+| s2cid = 205343043
+| hdl = 10651/8189
+| hdl-access = free
+}}</ref> ''[[Nature Biotechnology]]'',<ref name="biocreative4">{{Cite journal
+ | pmid = 20829821
+| year = 2010
+| last1 = Leitner
+| first1 = F
+| title = The FEBS Letters/Bio ''Creative'' II.5 experiment: Making biological information accessible
+| journal = Nature Biotechnology
+| volume = 28
+| issue = 9
+| pages = 897–9
+| last2 = Chatr-Aryamontri
+| first2 = A
+| last3 = Mardis
+| first3 = S. A.
+| last4 = Ceol
+| first4 = A
+| last5 = Krallinger
+| first5 = M
+| last6 = Licata
+| first6 = L
+| last7 = Hirschman
+| first7 = L
+| last8 = Cesareni
+| first8 = G
+| last9 = Valencia
+| first9 = A
+| doi = 10.1038/nbt0910-897
+| s2cid = 5648695
+}}</ref><ref name="blueprint">{{Cite journal
+ | pmid = 22398613
+| year = 2012
+| last1 = Adams
+| first1 = D
+| title = BLUEPRINT to decode the epigenetic signature written in blood
+| journal = Nature Biotechnology
+| volume = 30
+| issue = 3
+| pages = 224–6
+| last2 = Altucci
+| first2 = L
+| last3 = Antonarakis
+| first3 = S. E.
+| last4 = Ballesteros
+| first4 = J
+| last5 = Beck
+| first5 = S
+| last6 = Bird
+| first6 = A
+| last7 = Bock
+| first7 = C
+| last8 = Boehm
+| first8 = B
+| last9 = Campo
+| first9 = E
+| last10 = Caricasole
+| first10 = A
+| last11 = Dahl
+| first11 = F
+| last12 = Dermitzakis
+| first12 = E. T.
+| last13 = Enver
+| first13 = T
+| last14 = Esteller
+| first14 = M
+| last15 = Estivill
+| first15 = X
+| last16 = Ferguson-Smith
+| first16 = A
+| last17 = Fitzgibbon
+| first17 = J
+| last18 = Flicek
+| first18 = P
+| last19 = Giehl
+| first19 = C
+| last20 = Graf
+| first20 = T
+| last21 = Grosveld
+| first21 = F
+| last22 = Guigo
+| first22 = R
+| last23 = Gut
+| first23 = I
+| last24 = Helin
+| first24 = K
+| last25 = Jarvius
+| first25 = J
+| last26 = Küppers
+| first26 = R
+| last27 = Lehrach
+| first27 = H
+| last28 = Lengauer
+| first28 = T
+| last29 = Lernmark
+| first29 = Åke
+| last30 = Leslie
+| first30 = D
+| doi = 10.1038/nbt.2153
+| display-authors = 29
+| hdl = 11858/00-001M-0000-000E-E88D-5
+| s2cid = 5116136
+| hdl-access = free
+}}</ref> ''[[Genome Research]]'',<ref name="gencode">{{Cite journal
+ | pmid = 22955987
+| pmc = 3431492
+| year = 2012
+| last1 = Harrow
+| first1 = J
+| title = GENCODE: The reference human genome annotation for the ENCODE Project
+| journal = Genome Research
+| volume = 22
+| issue = 9
+| pages = 1760–74
+| last2 = Frankish
+| first2 = A
+| last3 = Gonzalez
+| first3 = J. M.
+| last4 = Tapanari
+| first4 = E
+| last5 = Diekhans
+| first5 = M
+| last6 = Kokocinski
+| first6 = F
+| last7 = Aken
+| first7 = B. L.
+| last8 = Barrell
+| first8 = D
+| last9 = Zadissa
+| first9 = A
+| last10 = Searle
+| first10 = S
+| last11 = Barnes
+| first11 = I
+| last12 = Bignell
+| first12 = A
+| last13 = Boychenko
+| first13 = V
+| last14 = Hunt
+| first14 = T
+| last15 = Kay
+| first15 = M
+| last16 = Mukherjee
+| first16 = G
+| last17 = Rajan
+| first17 = J
+| last18 = Despacio-Reyes
+| first18 = G
+| last19 = Saunders
+| first19 = G
+| last20 = Steward
+| first20 = C
+| last21 = Harte
+| first21 = R
+| last22 = Lin
+| first22 = M
+| last23 = Howald
+| first23 = C
+| last24 = Tanzer
+| first24 = A
+| last25 = Derrien
+| first25 = T
+| last26 = Chrast
+| first26 = J
+| last27 = Walters
+| first27 = N
+| last28 = Balasubramanian
+| first28 = S
+| last29 = Pei
+| first29 = B
+| last30 = Tress
+| first30 = M
+| display-authors = 29
+| doi = 10.1101/gr.135350.111
+}}</ref> ''[[Biochemistry (journal)|Biochemistry]]'',<ref name="ras">{{Cite journal | doi = 10.1021/bi00233a001| pmid = 2029511| title = The ras protein family: Evolutionary tree and role of conserved amino acids| journal = Biochemistry| volume = 30| issue = 19| pages = 4637–4648| year = 1991| last1 = Valencia | first1 = A. | last2 = Chardin | first2 = P. | last3 = Wittinghofer | first3 = A. | last4 = Sander | first4 = C. | s2cid = 43450157}}</ref> ''[[Current Opinion (Elsevier)|Current Opinion in Structural Biology]]'',<ref>{{Cite journal
+ | pmid = 12127457
+| year = 2002
+| last1 = Valencia
+| first1 = A
+| title = Computational methods for the prediction of protein interactions
+| journal = Current Opinion in Structural Biology
+| volume = 12
+| issue = 3
+| pages = 368–73
+| last2 = Pazos
+| first2 = F
+ | doi=10.1016/s0959-440x(02)00333-0
+}}</ref> ''[[Nature Structural Biology]]'',<ref name="sanderagain">{{Cite journal
+ | pmid = 7749921
+| year = 1995
+| last1 = Casari
+| first1 = G
+| title = A method to predict functional residues in proteins
+| journal = Nature Structural Biology
+| volume = 2
+| issue = 2
+| pages = 171–8
+| last2 = Sander
+| first2 = C
+| last3 = Valencia
+| first3 = A
+ | doi=10.1038/nsb0295-171
+| s2cid = 9454891
+}}</ref> ''[[Trends (journals)|Trends in Genetics]]''<ref>{{Cite journal
+ | pmid = 11485799
+| year = 2001
+| last1 = Devos
+| first1 = D
+| title = Intrinsic errors in genome annotation
+| journal = Trends in Genetics
+| volume = 17
+| issue = 8
+| pages = 429–31
+| last2 = Valencia
+| first2 = A
+ | doi=10.1016/s0168-9525(01)02348-4
+}}</ref> and the [[Intelligent Systems for Molecular Biology]] conference.<ref name="autoxtract">{{Cite journal
+ | pmid = 10786287
+| year = 1999
+| last1 = Blaschke
+| first1 = C
+| title = Automatic extraction of biological information from scientific text: Protein-protein interactions
+| journal = Proceedings. International Conference on Intelligent Systems for Molecular Biology
+| pages = 60–7
+| last2 = Andrade
+| first2 = M. A.
+| last3 = Ouzounis
+| first3 = C
+| last4 = Valencia
+| first4 = A
+}}</ref>
+
+==Awards and honours==
+Valencia has been nominated Corresponding Member of the Academy of Medicine of Zaragoza, Spain, in 2024. He was also appointed Research Professor at the CNB in 2005.<ref name=cnio /> He was a founding member of the [[International Society for Computational Biology]] (ISCB) and was honoured as an ISCB Fellow in 2010.<ref name=iscb-fellows>{{cite web|title=ISCB Fellows|url=http://www.iscb.org/iscb-fellows|work=www.iscb.org|publisher=International Society for Computational Biology|archive-url=https://web.archive.org/web/20150328182241/http://www.iscb.org/iscb-fellows|archive-date=2015-03-28}}</ref> Valencia has also served as ISCB Vice President and in 2013 was appointed President-elect.<ref name=president-elect /> From 2015 to 2018, he was President of the ISCB, succeeding [[Burkhard Rost]]. Valencia is Doctor Honoris cause of the Danish DTU and elected [[:Category:Members of the European Molecular Biology Organization|member of the European Molecular Biology Organization (EMBO)]].<ref>{{cite web|url=http://www.embo.org/members/find-a-member|title=Find an EMBO member|publisher=European Molecular Biology Organization|access-date=2015-04-02|archive-date=2020-03-21|archive-url=https://web.archive.org/web/20200321182646/http://www.embo.org/members/find-a-member}}</ref>
+
+Valencia participates in several international consortia, such as Genecode / [[ENCODE]],<ref name=encode/><ref name=encodeusers/><ref name=gencode/> the [[International Cancer Genome Consortium]], the International Rare Diseases Research Consortium (IRDiRC), the [[International Human Epigenomics Consortium]].<ref name=blueprint/> Valencia is Director of the Spanish National Bioinformatics Institute a platform of the ISCIII, the Spanish node of the [[ELIXIR|European Life-sciences Infrastructure for Biological Information (ELIXIR)]].<ref name=president-elect/>
+
+He is currently [[Editor-in-chief|co-executive editor]] of the journal ''[[Bioinformatics (journal)|Bioinformatics]]'', and member of the Editorial boards of eLIFE, FEBS Letters, PeerJ and F1000 Prime.
+
+==References==
+{{reflist|2}}
+{{Scholia|author}}
+
+{{s-start}}
+{{s-bef|before=[[Burkhard Rost]]}}
+{{s-ttl|title=President of the<br/>[[International Society for Computational Biology]]
+|years=2015 – 2018}}
+{{s-aft | after = [[Thomas Lengauer]]}}
+{{s-end}}
+
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Valencia, Alfonso}}
+[[Category:Spanish bioinformaticians]]
+[[Category:Living people]]
+[[Category:Complutense University of Madrid alumni]]
+[[Category:Autonomous University of Madrid alumni]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:Members of the European Molecular Biology Organization]]

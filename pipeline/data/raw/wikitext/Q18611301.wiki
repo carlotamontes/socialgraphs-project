@@ -1,0 +1,72 @@
+{{short description|American researcher}}
+{{about|the American chemist|the French film editor|Yvonne Martin}}
+{{Infobox scientist
+| name             = Yvonne Connolly Martin
+| image            = 
+| birth_date       = {{birth date|mf=yes|1936|09|13}}
+| birth_place      = 
+| death_date       = 
+| death_place      = 
+| field            = Computational chemistry
+| workplaces       = [[Abbott Laboratories]]
+| education        = [[Carleton College]], [[Northwestern University]]
+| doctoral_advisor = 
+| awards           = 
+| spouse           = William Brady Martin
+}}
+
+'''Yvonne Connolly Martin''' (born September 13, 1936) is an American cheminformatics and computer-aided drug design expert who rose to the rank of Senior Volwiler Research Fellow at [[Abbott Laboratories]] (now [[AbbVie]]). Trained in chemistry at [[Northwestern University]], she became a leader in collaborative science aimed at discovering and developing bioactive molecules as therapeutic agents, with her contributions proceeding from application of methods to understand how descriptors of  molecular shapes and physicochemical properties relate to their biological activity.<ref name=QSAR>{{cite web | title=2005 SBS Accomplishment award to Martin | url=http://www.qsar.org/news/sbs.htm | access-date=27 January 2016 | website=The Cheminformatics and QSAR Society | date=14 October 2005 | archive-date=2 February 2016 | archive-url=https://web.archive.org/web/20160202222307/http://www.qsar.org/news/sbs.htm | url-status=dead }}</ref> She is the author of a seminal volume in cheminformatics, ''Quantitative Drug Design'' (2nd Ed., 2010), and has been the recipient of numerous awards in her field, including being named as a fellow of the [[American Association for the Advancement of Science]] (1985) and of the [[International Union of Pure and Applied Chemistry]] (2000), and receiving the Herman Skolnik Award (2009)<ref name=Grethe/> and the Award for Computers in Chemical and Pharmaceutical Research (2017)<ref name=cen2017>{{Cite journal|date=2017-01-02|title=ACS Award for Computers in Chemical & Pharmaceutical Research: Yvonne C. Martin|journal=C&EN Global Enterprise|language=en|volume=95|issue=1|pages=45–50|doi=10.1021/cen-09501-awards037|doi-access=free}}</ref> from the [[American Chemical Society]].
+
+== Early life and education ==
+
+Yvonne Connolly was born to Irene and Elvert Connolly in 1936.<ref name=Gardner/><ref name=Photo>{{cite web|title=Yvonne Connolly Martin '58 and her husband Bill find seats during Friday's Heywood Society Luncheon|url=https://apps.carleton.edu/reunion/2013/photos/gallery/?image_id=1026029|website=Carleton Alumni Network|access-date=27 January 2016}}</ref>
+
+Martin received a bachelor's degree in 1958 from [[Carleton College]], [[Northfield, Minnesota]]. She was the only woman to be a chemistry/zoology major in her year.<ref name=Gardner>{{cite web | last1 = Gardner | first1 = Catie | name-list-style = vanc | title = 2013 Alumni Association Award Recipients | url = https://apps.carleton.edu/alumni/council/awards/2013/|website=Carleton Alumni Network | access-date = 27 January 2016 }}</ref> From 1958 to 1960 she worked as a pharmacology assistant at Abbott Labs. She was awarded a predoctoral fellowship from the [[National Science Foundation]] for the years 1960–1963, attending [[Northwestern University]], [[Evanston, Illinois]].<ref name=Gardner/> She received her Ph.D. in physical biochemistry from Northwestern University in 1964.<ref name=Epelboin/>
+
+== Career ==
+{{external media | width = 210px | float = right | headerimage=  | video1 = [https://www.chemaxon.com/library/tautomers-a-rant/ "Tautomers: A Rant"],  Yvonne Martin,  2009, [[ChemAxon]] }}
+
+Martin's career has been almost exclusively with the division of Abbott Laboratories that was involved with preclinical drug discovery initiatives, a division that was spun off from that biomedical conglomerate to become the standalone pharmaceutical company, [[AbbVie]].<ref name="Grethe" /> Martin's career at Abbott and AbbVie extended over forty years, interrupted only a sabbatical year, 1967 to 1968, that she spent working with [[QSAR]] pioneer [[Corwin Hansch]] at [[Pomona College]],<ref name=Grethe/> after which she returned to Abbott Laboratories.<ref name=Gardner/> Martin formally retired as a senior research fellow in 2006, but has continued to be associated with Abbott Laboratories on a contract basis, working on topics in which she is interested.<ref name=Gardner/> She has also taught as a visiting professor at the [[University of Virginia]].<ref name=Gardner/>
+
+== Research interests ==
+
+Martin's work with Corwin Hansch led to her ongoing work in [[QSAR]],<ref name=Hansch>{{cite journal | last1 = Martin | first1 = Yvonne Connolly | name-list-style = vanc | title = Hansch analysis 50 years on | journal = Wiley Interdisciplinary Reviews: Computational Molecular Science|date=May 2012|volume=2|issue=3|pages=435–442|doi=10.1002/wcms.1096| s2cid = 96662838 |url=http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCMS1096.html |url-access=subscription}}</ref> using computers to develop both 2D and 3D models capturing the chemical and biological properties of molecules.  As an early proponent of [[computational chemistry]] and its use in [[drug design]], she developed [[combinatorial chemistry]] and [[molecular graphics]] techniques and was involved in the development of software packages for [[pharmacophore]] analysis such as DISCO<ref name=Merz>{{cite book|last1=Merz |first1=Kenneth M.|last2=Ringe|first2=Dagmar|last3=Reynolds|first3=Charles H. | name-list-style = vanc |title=Drug design : structure- and ligand-based approaches|date=2010|publisher=Cambridge University Press|location=Cambridge [U.K.] | isbn = 978-0-521-88723-6 |page=138|edition=1st|url=https://books.google.com/books?id=EOInhAYMae4C&pg=PA138 }}</ref><ref name="Güner">{{cite book|last1=Güner|first1=Osman F. | name-list-style = vanc |title=Pharmacophore perception, development, and use in drug design|date=1999|publisher=International University Line|location=LaJolla, CA | isbn = 978-0-9636817-6-8 | pages=16, 49–68 | url=https://books.google.com/books?id=NWa2aOKIRp8C&pg=PR16 }}</ref> and ALADDIN.<ref name=MMGS/><ref name="Van Drie">{{cite journal | vauthors = Van Drie JH, Weininger D, Martin YC | title = ALADDIN: an integrated tool for computer-assisted molecular design and pharmacophore recognition from geometric, steric, and substructure searching of three-dimensional molecular structures | journal = Journal of Computer-aided Molecular Design | volume = 3 | issue = 3 | pages = 225–51 | year = 1989 | pmid = 2573695 | doi = 10.1007/BF01533070 | s2cid = 206795998 }}</ref> Her work has directly affected modern day drug discovery and supported the computer design of novel compounds.<ref name=QSAR/><ref name=MMGS/>  Martin has particularly focused on identifying properties of molecules relevant to biological activity,<ref name=Gardner/> including their potency, binding affinity, and ADME properties.<ref name=QSAR/>  Her methods have been applied to the study of diseases including [[hypertension]], [[Parkinson's disease]], [[ulcers]], [[bacterial infections]], [[arthritis]], and [[angina]].<ref name=Gardner/>
+
+She has also significantly contributed to the development of compound collections and combinatorial libraries which investigators can use to develop and compare measures of molecular similarity and diversity. Her collection of MAO ([[monoamine oxidase]]) inhibitors has been widely used by researchers.<ref name=QSAR/>
+
+== Other activities ==
+
+In 1989 Martin helped to found the International Quantitative Structure Activity Relationship & Modeling Society (now called the [https://www.qsar.org/ QSAR, Chemoinformatics and Modeling Society]). She served as a board member and was chair of the organization from 2001 to 2005.<ref name=Gardner/><ref name=Grethe/>
+
+== Published works ==
+
+In addition to more than a hundred scholarly publications, she has written or edited six books.<ref name=Gardner/> These include her textbook on ''Quantitative Drug Design''.<ref>{{cite book|last1=Martin|first1=Yvonne Connolly | name-list-style = vanc |title=Quantitative drug design : a critical introduction|date=2010|publisher=CRC Press/Taylor & Francis|location=Boca Raton | isbn = 978-1-4200-7099-6 | edition = 2nd }}</ref>  Editorially, she has worked on ''Perspectives in Drug Design and Discovery'', ''QSAR: Annual Reports in Computational Chemistry'', ''Journal of Computer-Aided Drug Design'' and ''QSAR & Combinatorial Science''.<ref name=QSAR/> She has registered eight patents.<ref name=Gardner/> She is listed in the ''World directory of crystallographers : and of other scientists employing crystallographic methods''.<ref name=Epelboin>{{cite book|last1=Epelboin|first1=Yves | name-list-style = vanc |title=World directory of crystallographers and of other scientists employing crystallographic methods | date = 1995 | publisher = Kluwer Academic | location = Dordrecht | isbn = 978-0-7923-3180-3 | page = 235 | edition = 9th | url = https://books.google.com/books?id=bIHsCAAAQBAJ&pg=PA235 }}</ref>
+
+== Awards and honors ==
+* 2024, Alfred Burger Award in Medicinal Chemistry from the [[American Chemical Society]]<ref>{{cite web |last1=Notman |first1=Nina |title=2024 ACS National Award winners: Part III |url=https://cen.acs.org/people/awards/2024-ACS-National-Award-winners-Part-III/102/i1#:~:text=ALFRED%20BURGER%20AWARD%20IN%20MEDICINAL%20CHEMISTRY%3A%20YVONNE%20C.%20MARTIN |website=C&EN |access-date=24 March 2024}}</ref>
+* 2017, Award for Computers in Chemical and Pharmaceutical Research from the [[American Chemical Society]]<ref name=cen2017 />
+* 2013, Alumni Association Award from Carleton College<ref name=Gardner/>
+* 2009, Herman Skolnik Award from the [[American Chemical Society]]<ref name=Gardner/><ref name=Grethe>{{cite web | last1 = Goethe | first1 = Guenter | name-list-style = vanc | title = 2009 Herman Skolnik Award Winner Announced | url = http://www.acscinf.org/content/2009-herman-skolnik-award-winner-announced | website = American Chemical Society | access-date = 27 January 2016 | archive-date = 19 March 2016 | archive-url = https://web.archive.org/web/20160319083757/http://acscinf.org/content/2009-herman-skolnik-award-winner-announced | url-status = dead }}</ref><ref name=Stouch>{{cite journal|last1=Stouch|first1=Terry Richard | name-list-style = vanc |title=A well deserved honor: Yvonne Martin, 2009 recipient of the Herman Skolnik Award|journal=Journal of Computer-Aided Molecular Design|date=11 December 2009|volume=23|issue=12|pages=829–830|doi=10.1007/s10822-009-9311-2|pmid=20012465 |url=http://paperity.org/p/11458396/a-well-deserved-honor-yvonne-martin-2009-recipient-of-the-herman-skolnik-award|access-date=27 January 2016|bibcode=2009JCAMD..23..829S |doi-access=free}}</ref>
+* 2005, Society for Biomolecular Screening Accomplishment Award<ref name=QSAR/>
+* 2000, fellow, International Union of Pure and Applied Chemistry (IUPAC)<ref name=Gardner/>
+* 1985, fellow, American Association for the Advancement of Science (AAAS)<ref name=Gardner/>
+* Lifetime member of the Molecular Modeling and Graphics Society (MMGS)<ref name=Gardner/><ref name=MMGS>{{cite web|title=Honorary Members of the MGMS Community|url=http://www.mgms.org/membership.html|website=Molecular Graphics and Modelling Society|access-date=27 January 2016}}</ref>
+* American Crystallographic Association (ACA)
+
+== Personal life ==
+
+Martin is married to William Brady Martin, a professor of chemistry at [[Lake Forest College]] in Lake Forest, Illinois, and has two children.<ref name=Gardner/><ref name=Photo/>
+
+==References==
+{{reflist|33em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin, Yvonne Connolly}}
+[[Category:1936 births]]
+[[Category:American women biochemists]]
+[[Category:Living people]]
+[[Category:Carleton College alumni]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Northwestern University alumni]]
+[[Category:American computational chemists]]

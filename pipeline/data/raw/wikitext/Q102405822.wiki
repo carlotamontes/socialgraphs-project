@@ -1,0 +1,261 @@
+{{short description|American quantum physicist}}
+{{Infobox scientist
+| name              = Christopher A. Fuchs
+| image             = ChristopherAlanFuchs.jpg
+| image_size        = 250px
+| alt               = Christopher A. Fuchs
+| birth_date        = October 21, 1964
+| birth_place       = [[Cuero, Texas]], United States
+| fields            = [[Quantum information science]], [[Quantum foundations]]
+| education         = [[University of Texas at Austin]] (BS in Physics, BS in Mathematics)<br />[[University of New Mexico]] (PhD, Physics)
+| workplaces        = [[University of Massachusetts Boston]] (current)<br />[[Bell Labs]]<br />[[Perimeter Institute for Theoretical Physics]]<br />[[Raytheon BBN Technologies]]
+| doctoral_advisor  = [[Carlton M. Caves]]
+| thesis_title      = ''Distinguishability and Accessible Information in Quantum Theory''
+| thesis_year       = 1996
+| known_for         = [[QBism]]<br />Quantum information theory<br />[[Quantum foundations]]
+| awards            = International Quantum Communication Award (2010)<br />Fellow of the [[American Physical Society]] (2012)<br />Chancellor's Award for Distinguished Scholarship, [[University of Massachusetts Boston|UMass Boston]] (2021)
+}}
+
+'''Christopher Alan Fuchs''' (born in [[Cuero, Texas]]) is an American [[theoretical physicist]] whose work focuses on [[quantum information theory]] and the foundations of quantum mechanics. He is a [[ Distinguished Professor]] of Physics at the [[University of Massachusetts Boston]].<ref name="cv"/><ref name="QBGroup">{{cite web|website=University of Massachusetts Boston |language=en |title=Christopher A. Fuchs |url=https://www.umb.edu/directory/christopherfuchs}}</ref> Fuchs is known for technical work in quantum information theory and for co-developing [[QBism]],<ref>{{cite web|access-date=27 November 2025 |date=25 September 2024 |first=Dan |language=en |last=Falk |title=Could the "QBism" interpretation solve many of the paradoxes of quantum mechanics? |url=https://www.firstprinciples.org/article/could-the-qbism-interpretation-solve-many-of-the-paradoxes-of-quantum-mechanics |website=First Principles}}</ref><ref name=":1">{{cite web|access-date=27 November 2025 |date=4 June 2015 |first=Amanda |language=en |last=Gefter |title=A Private View of Quantum Reality |url=https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/ |website=Quanta Magazine}}</ref><ref name=":2">{{cite web|access-date=27 November 2025 |date=29 November 2023 |first=Bryan |language=en |last=Walsh |title=Christopher Fuchs is revolutionizing how we understand our quantum reality |url=https://www.vox.com/23977853/christopher-fuchs-quantum-physics-qbism-quantum-bayesianism-future-perfect-50-2023 |website=Vox}}</ref> an interpretation of [[quantum mechanics]] that radically departs from conventional approaches. In QBism, individual agents' actions and experiences are the central concerns of the theory, not what the universe is doing without the agent.
+
+Fuchs's current work includes research into symmetric informationally complete measurements ([[SIC-POVM]]s), which QBism uses to represent quantum states as probability distributions in a framework where the [[Born rule]] appears as a modification of the classical [[law of total probability]].
+
+He is a Fellow of the [[American Physical Society]].<ref name=":0" />
+
+== Education and career ==
+Fuchs was born in Cuero, Texas. He received two Bachelor of Science degrees, in physics and mathematics, both with high honors, from the [[University of Texas at Austin]] in 1987, where he studied under [[John Archibald Wheeler]].<ref name="cv" /><ref name=":4" /> In 1996<ref name="FuchsThesis1995">{{cite thesis |last=Fuchs |first=Christopher A. |title=Distinguishability and Accessible Information in Quantum Theory |date=1995 |type=PhD thesis |publisher=University of New Mexico |language=en |arxiv=quant-ph/9601020}}</ref> he completed his Ph.D. in physics at the [[University of New Mexico]] under the supervision of [[Carlton M. Caves]].<ref name="cv">{{cite web |title=Christopher Fuchs – Curriculum Vitae |url=https://cquic.unm.edu/people/christopher-fuchs/chris-fuchs-cv2024.pdf |publisher=Center for Quantum Information and Control, University of New Mexico}}</ref><ref name="Henderson2022" /> [[Michael Nielsen]] and [[Isaac Chuang]]'s textbook ''[[Quantum Computation and Quantum Information]]'' would later recommend Fuchs's PhD thesis as providing "a wealth of material on distance measures for quantum information".<ref>{{Cite book |last1=Nielsen |first1=Michael A. |author-link1=Michael Nielsen |title=Quantum Computation and Quantum Information |title-link=Quantum Computation and Quantum Information |last2=Chuang |first2=Isaac L. |author-link2=Isaac Chuang |date=2010 |publisher=Cambridge University Press |isbn=978-1-107-00217-3 |edition=10th anniversary |location=Cambridge |page=424}}</ref>
+
+After completing his doctorate, Fuchs held several postdoctoral positions, including the Lee A. DuBridge Prize Postdoctoral Fellowship at the [[California Institute of Technology]] (Caltech). He later worked as a member of the technical staff at [[Bell Laboratories]] in Murray Hill, New Jersey.<ref name="cv" /><ref>{{Cite journal |last=Fuchs |first=Christopher |date=November 2003 |title=Soul-searching at Caltech |url=https://iopscience.iop.org/article/10.1088/2058-7058/16/11/38 |journal=Physics World |volume=16 |issue=11 |pages=49 |doi=10.1088/2058-7058/16/11/38|url-access=subscription }}</ref><ref>{{Cite web |last=Preskill |first=John |author-link=John Preskill |date=2012-08-01 |title=Alesha |url=https://quantumfrontiers.com/2012/07/31/alesha/ |access-date=2025-12-13 |website=Quantum Frontiers |publisher=Institute for Quantum Information and Matter, Caltech |language=en}}</ref> From 2007 to 2013 Fuchs was a senior researcher at [[Perimeter Institute for Theoretical Physics]] in Waterloo, Canada, a center devoted to research in [[theoretical physics]], particularly in areas such as [[cosmology]] and quantum foundations.<ref>{{Cite magazine |last=Wells |first=Paul |date=27 September 2010 |title=Solving the universe |url=https://macleans.ca/uncategorized/solving-the-universe/ |access-date=December 13, 2025 |magazine=Maclean's Magazine |pages=17–24 |language=en |volume=123}}</ref><ref>{{Cite web |last=Siegfried |first=Tom |date=2012-03-23 |title=Bits of Reality |url=https://www.sciencenews.org/article/bits-reality |access-date=2025-12-13 |website=[[Science News]] |language=en-US}}</ref> From 2013 to 2014 he was a senior scientist at [[Raytheon BBN Technologies]] in Cambridge, Massachusetts.<ref name="cv" />
+
+Since 2015 he has been a professor of physics at the [[University of Massachusetts Boston]], where he leads a research group dedicated to quantum foundations and quantum information theory. The group works on the development and study of [[QBism]] and on the analysis of related mathematical structures, such as SIC-POVMs, used in probabilistic formulations of quantum mechanics.<ref name="cv" /><ref>{{cite web|date=2019 |website=SheQuantum |language=en |title=Professor Christopher Fuchs |url=https://shequantum.org/professor-christopher-fuchs/}}</ref><ref>{{cite web|first=Christopher A. |language=en |last=Fuchs |title=QBism Research Group |url=https://www.physics.umb.edu/Research/QBism/ |website=University of Massachusetts Boston}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+
+== Early contributions to quantum information ==
+In the field of [[quantum information theory]], Fuchs has worked on measures of fidelity and distinguishability for quantum states, bounds on accessible information, and relations between disturbance and information in quantum measurements. Some of these results appear in his doctoral thesis and in later work on quantum [[cryptography]] and quantum communication.<ref>{{cite journal|first1=Christopher A. |last1=Fuchs |first2=Asher |last2=Peres |author-link2=Asher Peres |title=Quantum-State Disturbance versus Information Gain: Uncertainty Relations for Quantum Information |journal=Physical Review A |volume=53 |number=4 |pages=2038–2045 |arxiv=quant-ph/9512023 |date=April 1, 1996 |doi=10.1103/PhysRevA.53.2038 |pmid=9913105 }}</ref><ref>{{cite journal|first1=Nicolas |last1=Gisin |first2=Grégoire |last2=Ribordy |first3=Wolfgang |last3=Tittel |first4=Hugo |last4=Zbinden |title=Quantum cryptography |arxiv=quant-ph/0101098 |doi=10.1103/RevModPhys.74.145 |journal=Reviews of Modern Physics |date=March 8, 2002 |volume=74 |article-number=145}}</ref><ref>{{Cite book |last=Wilde |first=Mark M. |author-link=Mark Wilde |title=Quantum Information Theory |date=2017 |publisher=Cambridge University Press |isbn=978-1-316-80997-6 |edition=2nd |pages=272, 286}}</ref>
+
+Fuchs and Jeroen van de Graaf introduced two-sided bounds connecting trace distance and fidelity, now called the [[Fuchs–van de Graaf inequalities]]. They are widely used in literature for converting error and fidelity bounds in the analysis of quantum protocols.<ref>{{cite journal |last1=Fuchs |first1=Christopher A. |last2=van de Graaf |first2=Jeroen |year=1999 |title=Cryptographic distinguishability measures for quantum-mechanical states |journal=IEEE Transactions on Information Theory |volume=45 |issue=4 |pages=1216–1227 |doi=10.1109/18.761271 |arxiv=quant-ph/9712042 }}</ref><ref>{{cite web |last=Watrous |first=John |author-link1=John Watrous (computer scientist)|title=The Theory of Quantum Information (book manuscript) |url=https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf |website=University of Waterloo}}</ref>
+
+He was one of the originators of the concept "nonlocality without entanglement".<ref>{{cite journal
+ | last1 = Bennett
+ | first1 = Charles H.
+ | last2 = DiVincenzo
+ | first2 = David P.
+ | last3 = Fuchs
+ | first3 = Christopher A.
+ | last4 = Mor
+ | first4 = Tal
+ | last5 = Rains
+ | first5 = Eric
+ | last6 = Shor
+ | first6 = Peter W.
+ | last7 = Smolin
+ | first7 = John A.
+ | last8 = Wootters
+ | first8 = William K.
+ | title = Quantum nonlocality without entanglement
+ | journal = Physical Review A
+ | volume = 59
+ | issue = 2
+ | pages = 1070–1091
+ | year = 1999
+ | doi = 10.1103/PhysRevA.59.1070
+| arxiv = quant-ph/9804053
+ }}</ref>
+This refers to sets of product quantum states that are perfectly distinguishable globally, but only imperfectly so with local measurements and classical communication ([[LOCC]]).  The same paper also implicitly introduces the notion of an "[[unextendible product basis]]," which was later instrumental in establishing that the [[Peres–Horodecki criterion]] for [[quantum entanglement|entanglement]] is necessary but not sufficient.<ref>{{cite book
+ | last1 = Bengtsson
+ | first1 = Ingemar
+ | last2 = Życzkowski
+ | first2 = Karol
+ | title = Geometry of Quantum States: An Introduction to Quantum Entanglement
+ | title-link = Geometry of Quantum States
+ | edition = 2nd
+ | publisher = Cambridge University Press
+ | year = 2017
+ | isbn = 978-1-107-65614-7
+ | doi = 10.1017/9781139207010
+}}</ref> Together with [[Charles H. Bennett (physicist)|Charles H. Bennett]] and [[John A. Smolin]], he questioned whether the classical capacity of a noisy quantum channel might be increased by entangled codings,<ref>{{cite book|first1=C. H. |last1=Bennett |first2=C. A. |last2=Fuchs |first3=J. A. |last3=Smolin |chapter=Entanglement-Enhanced Classical Communication on a Noisy Quantum Channel |title=Quantum Communication, Computing and Measurement |editor-first1=O. |editor-last1=Hirota |editor-first2=A. S. |editor-last2=Holevo |editor-first3=C. M. |editor-last3=Caves |publisher=Plenum Press |year=1997 |pages=79–88 |arxiv=quant-ph/9611006}}</ref><ref>{{cite journal|last1=Matsumoto |first1=Keiji |first2=Toshiyuki |last2=Shimono |first3=Andreas |last3=Winter |title=Remarks on additivity of the Holevo channel capacity and of the entanglement of formation |journal=Communications in Mathematical Physics |volume=246 |number=3 |year=2004 |pages=427–442 |doi=10.1007/s00220-003-0919-0|arxiv=quant-ph/0206148 }}</ref> a result eventually established in the positive by [[Matthew Hastings]].<ref>{{cite journal|first=M. B. |last=Hastings|title= A Counterexample to Additivity of Minimum Output Entropy|journal= Nature Physics |volume=5 |page=255 |year=2009|doi=10.1038/nphys1224|doi-access=free|arxiv=0809.3972}}</ref>
+
+Fuchs also collaborated in proving the [[no-broadcasting theorem]], a generalization of the [[no-cloning theorem]].<ref name="nobroadcasting2">{{cite journal|last1=Barnum|first1=Howard|last2=Caves|first2=Carlton M.|author-link2=Carlton M. Caves|last3=Fuchs|first3=Christopher A. |author-link3=Christopher A. Fuchs |last4=Jozsa|first4=Richard|author-link4=Richard Jozsa|last5=Schumacher|first5=Benjamin|author-link5=Benjamin Schumacher|date=1996-04-08|title=Noncommuting Mixed States Cannot Be Broadcast|journal=Physical Review Letters|volume=76|issue=15|pages=2818–2821|arxiv=quant-ph/9511010|doi=10.1103/physrevlett.76.2818 |bibcode=1996PhRvL..76.2818B }}</ref><ref>{{Cite journal |last1=Lemm |first1=Marius |last2=Wilde |first2=Mark M. |author-link2=Mark Wilde |date=2017-07-05 |title=Information-theoretic limitations on approximate quantum cloning and broadcasting |url=http://link.aps.org/doi/10.1103/PhysRevA.96.012304 |journal=Physical Review A |language=en |volume=96 |issue=1 |article-number=012304 |doi=10.1103/PhysRevA.96.012304|arxiv=1608.07569 }}</ref> Together with Carlton Caves and Rüdiger Schack, he developed a quantum version of [[de Finetti's theorem]].<ref>{{Cite book |last1=Brandão |first1=Fernando G. S. L. |author-link1=Fernando Brandão |last2=Harrow |first2=Aram W. |chapter=Quantum de finetti theorems under local measurements with applications |author-link2=Aram Harrow |date=June 2013 |title=Proceedings of the forty-fifth annual ACM symposium on Theory of Computing |language=en |publisher=ACM |pages=861–870 |arxiv=1210.6367 |doi=10.1145/2488608.2488718 |isbn=978-1-4503-2029-0}}</ref>
+
+In May 2000, when Fuchs was a postdoc at the [[Los Alamos National Laboratory]], his home and most of his family's possessions were destroyed in the [[Cerro Grande Fire]].<ref name=":3">{{cite book |last=Fuchs |first=Christopher A. |title=Coming of Age with Quantum Information: Notes on a Paulian Idea |publisher=Cambridge University Press |year=2011 |isbn=978-0-521-19926-1 |location=Cambridge}}</ref> Fuchs had been actively corresponding over email with many prominent figures in the then-nascent field of quantum information. In an example of what he called "backing up my hard drive", he posted an edited collection of this correspondence to the [[arXiv]] preprint server, with a foreword by [[N. David Mermin]]. Later, [[Linnaeus University|Växjö University Press]] printed a limited edition of this collection, and in 2011, [[Cambridge University Press]] printed it (with a new introduction) under the title ''Coming of Age with Quantum Information.''<ref>{{cite journal|first=Andreas |last=Trabesinger |title=Inside quantum information |journal=Nature Physics |volume=7 |date=June 2011 |issue=6 |pages=443–444 |doi=10.1038/nphys2020}}</ref><ref>{{cite journal|first=Daniel M. |last=Greenberger |title=Book Reviews |doi=10.1119/1.3602093 |journal=American Journal of Physics |volume=79 |number=10 |date=October 2011 |pages=1083–1084}}</ref><ref>{{Cite journal |last=Cavalcanti |first=Eric |date=2011 |title=Quantum Subversives |journal=American Scientist |language=en |volume=99 |issue=6 |pages=500–502 |doi=10.1511/2011.93.500}}</ref>
+
+== QBism ==
+{{main|QBism}}
+QBism is an interpretation of quantum mechanics that regards the theory as a tool for each agent to evaluate and update their expectations about the outcomes of their own actions on the world.<ref>{{Cite journal |last=Mermin |first=N. David |author-link=N. David Mermin |date=March 2014 |title=Physics: QBism puts the scientist back into science |journal=Nature |language=en |volume=507 |issue=7493 |pages=421–423 |doi=10.1038/507421a |pmid=24678539 }}</ref><ref name="dup-0-13">{{cite book|date=2023 |arxiv=2303.01446 |first=Christopher A. |language=en |last=Fuchs |chapter=QBism, Where Next? |title=Phenomenology and QBism: New Approaches to Quantum Mechanics |pages=78–143 |publisher=Routledge |doi=10.4324/9781003259008-4 |isbn=978-1-003-25900-8 |editor-first1=Philipp |editor-last1=Berghofer |editor-first2=Harald A. |editor-last2=Wiltsche}}</ref><ref>{{cite journal |last=Berghofer |first=Philipp |year=2024 |title=Quantum Reconstructions as Stepping Stones Toward ψ-Doxastic Interpretations? |journal=Foundations of Physics |language=en |volume=54 |arxiv=2410.22132 |bibcode=2024FoPh...54...46B |doi=10.1007/s10701-024-00778-2 |pmc=11222275 |pmid=38974192 |article-number=46 |number=46}}</ref> In this view, the quantum state is not understood as an objective property of a system, but as a mathematical expression of an agent's beliefs about that system. From this perspective, [[quantum mechanics]] does not describe a reality independent of the observer; instead, it provides a [[normative]] framework for decision-making. In QBism, measurement is conceived as an action carried out by an agent upon the external world, with the outcome identified as the experience that action elicits for that agent. The outcome is not regarded as the disclosure of a pre-existing, observer-independent value, but as the product of a particular interaction between the agent and the system.<ref>{{cite journal
+ | last1     = Fuchs
+ | first1    = Christopher A.
+ | last2     = Mermin
+ | first2    = N. David
+ | author-link2 = N. David Mermin
+ | last3     = Schack
+ | first3    = Rüdiger
+ | title     = An introduction to QBism with an application to the locality of quantum mechanics
+ | journal   = American Journal of Physics
+ | volume    = 82
+ | issue     = 8
+ | pages     = 749–754
+ | year      = 2014
+ | doi       = 10.1119/1.4874855
+ | arxiv     = 1311.5253
+ | bibcode = 2014AmJPh..82..749F
+ | language  = en
+}}</ref><ref>{{cite book|date=2019 |doi=10.3254/978-1-61499-937-9-133 |editor-last1=Rasel |editor-first1=E. M. |editor-last2=Schleich |editor-first2=W. P. |editor-link2=Wolfgang P. Schleich |editor-last3=Wölk |editor-first3=S. |first1=Christopher A. |first2=Blake C. |language=en |last1=Fuchs |last2=Stacey |pages=133–202 |series=Proceedings of the International School of Physics "Enrico Fermi" |publisher=IOS Press |chapter=QBism: Quantum Theory as a Hero's Handbook |volume=197 |title=Foundations of Quantum Theory |url=https://ebooks.iospress.nl/volumearticle/51082 |arxiv=1612.07308}}{{cbignore}}</ref><ref>{{Cite web |last=Crease |first=Robert P. |author-link=Robert P. Crease |date=2022-08-24 |title=When physicists and philosophers realize they share a noble truth |url=https://physicsworld.com/a/when-physicists-and-philosophers-realize-they-share-a-noble-truth/ |access-date=2025-12-13 |website=Physics World |language=en-GB}}</ref> Within QBism, probability is treated in a subjectivist, personalist sense, in the tradition of [[Bruno de Finetti|de Finetti]], with [[Dutch book theorems|Dutch-book]] coherence used as a criterion of rationality. Coherence justifies the standard rules of probability as normative constraints on an agent's gambling commitments, while quantum theory adds further normative structure tailored to a quantum world.<ref>{{cite journal
+ | last      = Stacey
+ | first     = Blake C.
+ | title     = Von Neumann Was Not a Quantum Bayesian
+ | journal   = Philosophical Transactions of the Royal Society A
+ | volume    = 374
+ | issue     = 2068
+ | article-number     = 20150235
+ | year      = 2016
+ | arxiv     = 1412.2409
+ | doi       = 10.1098/rsta.2015.0235
+ | pmid = 27091166
+ | bibcode = 2016RSPTA.37450235S
+ | language  = en
+}}</ref>
+
+From the QBist point of view, a formalism was developed that allows standard [[quantum state]]s to be replaced by the distributions associated with the outcomes of reference devices defined by informationally complete measurements.<ref>{{cite book
+ | arxiv        = 2109.08153
+ | chapter      = Letters for Andrei: QBism and the Unfinished Nature of Nature
+ | last1        = Fuchs
+ | first1       = Christopher A.
+ | year         = 2023
+ | pages        = 61–90
+ | doi          = 10.1007/978-3-031-12986-5_3
+ | title        = The Quantum-Like Revolution: A Festschrift for Andrei Khrennikov
+ | publisher    = Springer
+ | isbn         = 978-3-031-12986-5
+ | editor-first1 = Arkady | editor-last1 = Plotnitsky
+ | editor-first2 = Emmanuel | editor-last2 = Haven
+ }}</ref> Under this approach, quantum states are interpreted as expressions of belief. Within this framework, the [[Born rule]] is not interpreted as a law of nature that determines which outcomes occur, but as a normative rule: a constraint that an agent adopts in order to maintain internal coherence among their personal probability assignments. The rule links an agent's probability assignments for the outcomes of an informationally complete reference measurement with their assignments for the outcomes of any other possible measurement.<ref>{{cite journal
+ | arxiv        = 2206.15343
+ | title         = Quantum mechanics? It's all fun and games until someone loses an ''i''
+ | last1         = Fuchs
+ | first1        = Christopher A.
+ | last2         = Olshanii
+ | first2        = Maxim
+ | last3         = Weiss
+ | first3        = Matthew B.
+ | date          = 2021-12-01
+ | journal       = Asian Journal of Physics
+ | volume        = 30
+ | number        = 12
+ | pages         = 1701–1726
+ }}</ref><ref>{{cite journal
+ | last1   = DeBrota
+ | first1  = John B.
+ | last2   = Fuchs
+ | first2  = Christopher A.
+ | last3   = Schack
+ | first3  = Rüdiger
+ | title   = Respecting One's Fellow: QBism's Analysis of Wigner's Friend
+ | journal = Foundations of Physics
+ | volume  = 50
+ | issue   = 12
+ | pages   = 1859–1874
+ | year    = 2020
+ | doi     = 10.1007/s10701-020-00369-x
+ | arxiv = 2008.03572
+ | bibcode = 2020FoPh...50.1859D
+ }}</ref><ref name="DeBrota-2020">{{cite journal
+ | last1   = DeBrota
+ | first1  = John B.
+ | last2   = Fuchs
+ | first2  = Christopher A.
+ | last3   = Pienaar
+ | first3  = Jacques L.
+ | last4   = Stacey
+ | first4  = Blake C.
+ | title   = Born's rule as a quantum extension of Bayesian coherence
+ | journal = Physical Review A
+ | volume  = 104
+ | issue   = 2
+ | article-number   = 022207
+ | year    = 2021
+ | doi     = 10.1103/PhysRevA.104.022207
+ | arxiv = 2012.14397
+ | bibcode = 2021PhRvA.104b2207D
+ }}</ref>
+
+This constraint takes its simplest form when the reference measurement is a symmetric informationally complete measurement (SIC-POVM),<ref>{{cite journal |last1=DeBrota |first1=John B. |last2=Fuchs |first2=Christopher A. |last3=Stacey |first3=Blake C. |year=2020 |title=Symmetric informationally complete measurements identify the irreducible difference between classical and quantum systems |journal=Physical Review Research |language=en |volume=2 |issue=1 |article-number=013074 |arxiv=1805.08721 |bibcode=2020PhRvR...2a3074D |doi=10.1103/PhysRevResearch.2.013074}}</ref> a type of [[POVM]] first studied by Gerhard Zauner.<ref name="Zauner1999">{{cite thesis |last=Zauner |first=Gerhard |title=Quantendesigns. Grundzüge einer nichtkommutativen Designtheorie |date=1999 |type=PhD thesis |publisher=University of Vienna |url=https://arnold-neumaier.at/ms/zauner.pdf |language=de |trans-title=Quantum designs: foundations of a noncommutative design theory}}</ref> This makes SIC-POVMs of interest to the QBist program.<ref name="SEP">{{cite SEP|url-id=quantum-bayesian|title=Quantum-Bayesian and Pragmatist Views of Quantum Theory|date=February 22, 2022|first=Richard|last=Healey |author-link=Richard Healey (philosopher)}}</ref><ref name="Morphophoric">{{Cite journal |last1=Słomczyński |first1=Wojciech |last2=Szymusiak |first2=Anna |date=2020-09-30 |title=Morphophoric POVMs, generalised qplexes, and 2-designs |url=https://quantum-journal.org/papers/q-2020-09-30-338/ |journal=Quantum |language=en |volume=4 |article-number=338 |doi=10.22331/q-2020-09-30-338|arxiv=1911.12456 }}</ref><ref>{{Cite journal |last=Weiss |first=Matthew B. |date=May 8, 2025 |title=Characterizing quantum state-space with a single quantum measurement |journal=Physical Review A |language=en |volume=111 |issue=5 |article-number=052205 |doi=10.1103/PhysRevA.111.052205 |arxiv=2412.13505}}</ref>
+
+== Honors and awards ==
+
+* Fellow of the [[American Physical Society]] (2012), "for powerful theorems and lucid expositions" culminating in the vision of quantum theory known as QBism.<ref name=":0">{{cite web
+ |title=APS Fellow Archive – Christopher A. Fuchs
+ |url=https://www.aps.org/funding-recognition/winners?q=fuchs&af=false
+ |website=American Physical Society
+ }}</ref>
+* QCMC International Quantum Communication Award (2010)<ref>{{Cite web
+ |url=http://www.qcmc-conference.org/quantum-award.html
+ |title=International Quantum Communication Award
+ |website= International Conference on Quantum Communication, Measurement and Computing
+ |access-date=December 13, 2025
+}}</ref><ref>{{cite web|url=https://perimeterinstitute.ca/about-us/honours-and-awards |title=About Us: Honours and Awards |website=Perimeter Institute |access-date=December 13, 2025}}</ref><ref>{{cite journal|last1=Ralph |first1=Timothy |last2=Lam |first2=Ping Koy |doi=10.1063/1.3630136 |title=Preface: Quantum Communication, Measurement and Computing (QCMC) |journal=AIP Conference Proceedings |volume=1363 |page=1 |year=2011}}</ref>
+* The article "Unconditional Quantum Teleportation", co-authored with the group of [[H. Jeff Kimble|H. J. Kimble]],<ref>{{Cite journal |last1=Furusawa |first1=A. |last2=Sørensen |first2=J. L. |last3=Braunstein |first3=S. L. |last4=Fuchs |first4=C. A. |last5=Kimble |first5=H. J. |last6=Polzik |first6=E. S. |date=1998-10-23 |title=Unconditional Quantum Teleportation |url=https://www.science.org/doi/10.1126/science.282.5389.706 |journal=Science |language=en |volume=282 |issue=5389 |pages=706–709 |doi=10.1126/science.282.5389.706|pmid=9784123 |url-access=subscription }}</ref> was listed among the "Top Ten Breakthroughs of 1998" by the editors of ''[[Science (journal)|Science]]''.<ref>{{Cite journal |date=1998-12-18 |title=The Runners-Up: The News and Editorial Staffs |url=https://www.science.org/doi/10.1126/science.282.5397.2157 |journal=Science |language=en |volume=282 |issue=5397 |pages=2157–2161 |doi=10.1126/science.282.5397.2157|url-access=subscription }}</ref>
+* Chancellor's Award for Distinguished Scholarship, University of Massachusetts Boston, November 2021.<ref>{{cite web|url=https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/chancellors_distinguished_scholarship_award.pdf |title=Chancellor's Distinguished Scholarship Award Recipients |website=University of Massachusetts Boston |access-date=December 12, 2025}}</ref>
+* Named to [[Vox (website)|Vox]]'s ''Future Perfect 50'' in 2023, recognizing individuals whose work is helping shape the future.<ref>{{cite web
+ |last=Walsh
+ |first=Bryan
+ |title=Christopher Fuchs is revolutionizing how we understand our quantum reality
+ |url=https://www.vox.com/23977853/christopher-fuchs-quantum-physics-qbism-quantum-bayesianism-future-perfect-50-2023
+ |website=Vox
+ |date=November 29, 2023}}</ref>
+
+== Media coverage ==
+Christopher Fuchs's work on the foundations of quantum mechanics and quantum information theory has attracted sustained attention in both scientific and general-interest media. His research and interpretive views have been discussed in outlets such as ''[[The Wall Street Journal]]'',<ref>{{cite web|url=https://www.wsj.com/articles/through-two-doors-at-once-review-interfering-with-reality-1533299406 |title='Through Two Doors at Once' Review: Interfering with Reality |website=Wall Street Journal |date=August 3, 2018 |first=Andrew |last=Crumey |access-date=December 12, 2025}}</ref><ref>{{cite web|url=https://www.wsj.com/articles/do-dice-play-god-review-the-ins-and-outs-of-odds-11568387239 |title='Do Dice Play God?' Review: The Ins and Outs of Odds |website=Wall Street Journal |date=September 13, 2019 |first=Andrew |last=Crumey |access-date=December 12, 2025}}</ref> ''[[Aeon (magazine)|Aeon]]'',<ref>{{cite web|url=https://aeon.co/essays/materialism-alone-cannot-explain-the-riddle-of-consciousness |title=Minding Matter |first=Adam |last=Frank |author-link=Adam Frank |date=March 13, 2017 |access-date=December 12, 2025 |website=Aeon}}</ref> and [[National Public Radio]].<ref>{{cite web|url=https://www.npr.org/sections/13.7/2017/03/26/521478684/mind-matter-and-materialism |title=Mind, Matter and Materialism |website=NPR |first=Adam |last=Frank |date=March 26, 2017 |author-link=Adam Frank}}</ref> Extended profiles, interviews, and feature articles examining his contributions and their implications for the interpretation of quantum mechanics have appeared in ''[[Vox (website)|Vox]]'',<ref name=":2" /> ''[[Scientific American]]'',<ref>{{Cite journal |last=von Baeyer |first=Hans Christian |date=June 2013 |title=Quantum Weirdness? It's All in Your Mind |url=https://www.scientificamerican.com/article/quantum-weirdness-is-all-in-your-mind/ |journal=Scientific American |language=en |volume=308 |issue=6 |pages=46–51 |bibcode=2013SciAm.308f..46V |doi=10.1038/scientificamerican0613-46 |pmid=23729070|url-access=subscription }}</ref> ''[[Quanta Magazine|Quanta]]'',<ref name=":1" /> ''[[Discover (magazine)|Discover Magazine]]'',<ref name="Powell2019">{{Cite web |last=Powell |first=Corey S. |date=29 November 2019 |title=Quantum Physics Is No More Mysterious Than Crossing the Street: A Conversation with Chris Fuchs |url=https://www.discovermagazine.com/quantum-physics-is-no-more-mysterious-than-crossing-the-street-40970 |website=Discover Magazine |language=en}}</ref> ''[[Nautilus Quarterly|Nautilus]]'',<ref name="Henderson2022">{{Cite web |last=Henderson |first=Bob |date=23 February 2022 |title=My Quantum Leap: The theory of physics that showed me a new reality |url=https://nautil.us/my-quantum-leap-14132/ |website=Nautilus |language=en}}</ref><ref>{{cite web|last=Gefter |first=Amanda |title=Reality Exists Without Observers? Boooo! |url=https://nautil.us/reality-exists-without-observers-boooo-1252289/ |website=Nautilus |date=December 4, 2025 |access-date=December 12, 2025}}</ref> ''[[Science (journal)|Science]],''<ref name=":4">{{cite web|url=https://www.science.org/content/article/100-years-quantum-mechanics-redefining-reality-us-center |title=Putting the U in Quantum |first=Zack |last=Savitsky |date=December 4, 2025 |access-date=December 12, 2025 |website=Science}}</ref> the ''[[Frankfurter Allgemeine Sonntagszeitung]]'',<ref>{{Cite news |last=von Rauchhaupt |first=Ulf |date=9 February 2014 |title=So liegt denn alles im Auge des Betrachters |newspaper=Frankfurter Allgemeine Sonntagszeitung |page=62 |language=de |issue=6}}</ref> and other publications.<ref>Examples:
+*{{Cite journal
+ |last=Bachmann
+ |first=Klaus
+ |title=Jede Messung kreiert etwas Neues im Universum
+ |journal=GEOkompakt
+ |issue=69
+ |pages=80–83
+ |date=December 2021
+ |language=de
+}}
+*{{Cite web
+ |last=Kvellestad
+ |first=Anders
+ |title=Tumbling Down a Quantum Rabbit Hole
+ |url=http://www.mentschmagazine.com/home/2017/9/26/tumbling-down-a-quantum-rabbit-hole
+ |website=Mentsch Magazine
+ |date=29 September 2017
+ |language=en
+}}
+*{{Cite web
+ |last=Gelonesi
+ |first=Joe
+ |title=Why the Multiverse Is All about You
+ |url=http://www.abc.net.au/radionational/programs/philosopherszone/a-universe-alive-with-possibility/6802576
+ |website=ABC Radio National – The Philosopher's Zone
+ |date=25 September 2015
+ |language=en
+}}
+*{{Cite magazine |last=Poirier |first=Hervé |date=2012 |title=L'information relance la quantique |magazine=Science et Vie, Hors Série |pages=100–102 |language=fr |issue=260}}
+</ref>
+
+Fuchs and QBism were profiled in a 2014 episode of [[Morgan Freeman]]'s documentary series ''[[Through the Wormhole]].''<ref>{{cite AV media|title=QBism Through the Wormhole |others=Hosted and narrated by Morgan Freeman |via=YouTube |url=https://www.youtube.com/watch?v=LQvCTZgNRNw |year=2014}}</ref>
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+== External links ==
+* {{Google Scholar|id=fe9uXzkAAAAJ}}
+* [https://pirsa.org/speaker/chris-fuchs Lecture recordings] at [[Perimeter Institute Recorded Seminar Archive (PIRSA)|PIRSA]]
+
+{{DEFAULTSORT:Fuchs, Christopher A.}}
+[[Category:American quantum information scientists]]
+[[Category:American quantum physicists]]
+[[Category:American theoretical physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Living people]]
+[[Category:Philosophers of physics]]
+[[Category:Quantum physicists]]
+[[Category:Quantum information scientists]]
+[[Category:Scientists at Bell Labs]]
+[[Category:University of New Mexico alumni]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:University of Massachusetts Boston faculty]]
+[[Category:Year of birth missing (living people)]]

@@ -1,0 +1,257 @@
+{{Short description|British semiconductor laser physicist}}
+
+{{Infobox scientist
+| name              = George Horace Brooke Thompson
+| image             = 
+| birth_date        = 2nd March 1928<ref name="FreeBMD">{{cite web
+ |title=GRO Index of Births – George Horace Brooke Thompson
+ |url=https://www.freebmd2.org.uk/entry-information/hash?id=AoujndaGk%252Fx9xkReKmA7eA
+ |website=FreeBMD
+ |publisher=Free UK Genealogy
+ |access-date=12 August 2026
+}}</ref>
+| birth_place       = Beckenham, Kent
+| death_date        = 18th July 2025
+| death_place       = Harlow, Essex
+| resting_place     = [[Sawbridgeworth]], Hertfordshire
+| workplaces        = [[Standard Telecommunication Laboratories]] (STL), Bell-Northern Research (BNR), [[Nortel Networks]]
+| education         = [[Queen's College, Cambridge]]<ref>{{cite web
+ |title=Queens' College Record 1984
+ |url=https://history.queens.cam.ac.uk/sites/default/files/downloads/record-1984.pdf
+ |publisher=Queens' College, Cambridge
+ |date=1984
+ |format=PDF
+ |access-date=12 August 2026
+}}</ref>, [[University of Cambridge]], [[University of Oxford]]
+| known_for         = Gallium arsenide semiconductor lasers
+| awards            = J. J. Thomson Medal (1992)
+}}
+
+{{Use British English|date=August 2026}}
+{{Use dmy dates|date=August 2026}}
+
+'''George Horace Brooke Thompson''' (March 1928 – July 2025), known as '''Robin Thompson''', was a British physicist whose research focused on [[semiconductor laser]]s, [[optical waveguide]]s and optical devices.<ref name="Flyer">{{cite magazine
+ |title=George (Robin) Thompson (1928–2025)
+ |magazine=The Sawbridgeworth Flyer
+ |issue=117
+ |date=September 2025
+ |page=13
+ |url=https://stlqcc.org.uk/wp-content/uploads/2025/09/Robin_Sawbridgeworth_Flyer_2025-1.pdf
+ |access-date=8 August 2026}}</ref>
+
+His published work included semiconductor-laser filamentation, multilayer heterostructures, far-field emission and [[distributed-feedback laser]] modelling. In 1992 he received the J. J. Thomson Medal for Electronics for his work on semiconductor lasers and optical devices.<ref name="IET">{{Cite web |title=Recipients of the J J Thomson Medal for Electronics |url=https://www.theiet.org/media/10776/winners-of-the-j-j-thomson-medal.pdf |url-status=live |access-date=8 August 2026 |publisher=Institution of Engineering and Technology |page=2 |format=PDF}}</ref>
+
+Thompson was also the author of the 1980 monograph ''Physics of Semiconductor Laser Devices'', which was reviewed in ''[[Nature (journal)|Nature]]'', ''[[Physics Today]]'' and ''[[Electronics and Power]]''; reviewing it in the latter, D. H. Newman wrote that the book was "much more than a review" and said that specialist semiconductor-laser researchers would find "a wealth of knowledge and ideas" in it.<ref name="Book">{{cite book
+ |last=Thompson
+ |first=G. H. B.
+ |title=Physics of Semiconductor Laser Devices
+ |publisher=John Wiley & Sons
+ |location=Chichester and New York
+ |year=1980
+ |isbn=978-0-471-27685-2}}</ref><ref name="NatureReview">{{cite journal
+ |last=Smith
+ |first=S. D.
+ |title=Semiconductor lasers come of age
+ |journal=Nature
+ |volume=289
+ |page=830
+ |date=26 February 1981
+ |doi=10.1038/289830a0}}</ref><ref name="PhysicsTodayReview">{{cite journal
+ |last=Holonyak
+ |first=Nick
+ |title=Physics of Semiconductor Laser Devices
+ |journal=Physics Today
+ |date=1 April 1981
+ |doi=10.1063/1.2914519}}</ref><ref>
+{{cite journal
+ |last=Newman
+ |first=D. H.
+ |title=Physics of Semiconductor Laser Devices
+ |journal=Electronics and Power
+ |volume=26
+ |issue=11/12
+ |page=904
+ |date=November–December 1980
+ |url=https://ieeexplore.ieee.org/document/5197962
+ |access-date=13 August 2026
+}}</ref>
+
+==Education and early career==
+
+A local memorial published after Thompson's death states that he was born in March 1928 and studied at the universities of Cambridge and Oxford.<ref name="Flyer" />
+
+By 1955 Thompson was working at [[Standard Telecommunication Laboratories]] in Enfield. That year he published a paper in Nature concerning unusual wave-propagation characteristics in magnetised ferrites.<ref name="Nature1955">{{cite journal
+ |last=Thompson
+ |first=G. H. B.
+ |title=Unusual Waveguide Characteristics associated with the Apparent Negative Permeability obtainable in Ferrites
+ |journal=Nature
+ |volume=175
+ |pages=1135–1136
+ |date=25 June 1955
+ |doi=10.1038/1751135b0}}</ref> His subsequent work at the company's Harlow laboratories concentrated on semiconductor lasers and related optical devices. By 1994 his affiliation was given as BNR Europe Ltd, Harlow.<ref name="DFB1994">{{cite journal
+ |last1=Whiteaway
+ |first1=J. E. A.
+ |last2=Wright
+ |first2=A. P.
+ |last3=Garrett
+ |first3=B.
+ |last4=Thompson
+ |first4=G. H. B.
+ |last5=Carroll
+ |first5=J. E.
+ |last6=Zhang
+ |first6=L. M.
+ |last7=Tsang
+ |first7=C. F.
+ |last8=White
+ |first8=I. H.
+ |last9=Williams
+ |first9=K. A.
+ |title=Detailed large-signal dynamic modelling of DFB laser structures and comparison with experiment
+ |journal=Optical and Quantum Electronics
+ |volume=26
+ |pages=S817–S842
+ |date=July 1994
+ |doi=10.1007/BF00326664}}</ref>
+
+==Semiconductor-laser research==
+In 1972, Thompson published a theoretical treatment of self-focusing and filament formation in semiconductor lasers. The model related the phenomenon to variations in dielectric constant caused by changes in injected carrier density and predicted that filament width would contract as current increased.<ref name="Filamentation">{{cite journal
+ |last=Thompson
+ |first=G. H. B.
+ |title=A theory for filamentation in semiconductor lasers including the dependence of dielectric constant on injected carrier density
+ |journal=Opto-electronics
+ |volume=4
+ |pages=257–310
+ |date=August 1972
+ |doi=10.1007/BF02334396}}</ref>
+
+In work with P. A. Kirkby, Thompson developed a model relating the far-field emission pattern of a double-heterostructure laser to its waveguide parameters. Their experiments showed that the addition of a passive layer could reduce the measured half-power angular width of the emitted beam.<ref name="FarField">{{cite journal
+ |last1=Kirkby
+ |first1=P. A.
+ |last2=Thompson
+ |first2=G. H. B.
+ |title=The effect of double heterojunction waveguide parameters on the far field emission patterns of lasers
+ |journal=Opto-electronics
+ |volume=4
+ |pages=323–334
+ |date=August 1972
+ |doi=10.1007/BF02334398}}</ref> Thompson and Kirkby subsequently analysed four- and five-layer gallium-aluminium-arsenide/gallium-arsenide heterostructures in which optical distribution and carrier confinement could be optimised separately.<ref name="FiveLayerTheory">{{cite journal
+ |last1=Thompson
+ |first1=G. H. B.
+ |last2=Kirkby
+ |first2=P. A.
+ |title=(GaAl)As lasers with a heterostructure for optical confinement and additional heterojunctions for extreme carrier confinement
+ |journal=IEEE Journal of Quantum Electronics
+ |volume=9
+ |issue=2
+ |pages=311–318
+ |year=1973
+ |doi=10.1109/JQE.1973.1077458}}</ref>
+
+In 1975, Thompson, Kirkby and Whiteaway analysed optical scattering in double-heterostructure and five-layer lasers, examining imperfections at heterostructure interfaces as a possible source of excess optical loss.<ref name="Scattering">{{cite journal
+ |last1=Thompson
+ |first1=G. H. B.
+ |last2=Kirkby
+ |first2=P. A.
+ |last3=Whiteaway
+ |first3=J. E. A.
+ |title=The analysis of optical scattering in double-heterostructure and five-layer heterostructure (GaAl)As/GaAs injection lasers
+ |journal=IEEE Journal of Quantum Electronics
+ |volume=11
+ |issue=7
+ |pages=481–488
+ |date=July 1975
+ |doi=10.1109/JQE.1975.1068664}}</ref>
+
+Experimental work published in 1976 by Thompson, Henshall, Whiteaway and Kirkby described five-layer lasers that used inner heterojunctions for carrier confinement and outer heterojunctions for optical confinement.<ref name="FiveLayerExperiment">{{cite journal
+ |last1=Thompson
+ |first1=G. H. B.
+ |last2=Henshall
+ |first2=G. D.
+ |last3=Whiteaway
+ |first3=J. E. A.
+ |last4=Kirkby
+ |first4=P. A.
+ |title=Narrow-beam five-layer (GaAl)As/GaAs heterostructure lasers with low threshold and high peak power
+ |journal=Journal of Applied Physics
+ |volume=47
+ |pages=1501–1514
+ |year=1976
+ |doi=10.1063/1.322816}}</ref>
+
+Thompson's later work included research into the temperature sensitivity of long-wavelength semiconductor lasers.<ref name="OFC1981">{{cite conference
+ |last=Thompson
+ |first=G. H. B.
+ |title=Temperature sensitivity of long-wavelength lasers
+ |conference=Optical Fiber Communication Conference
+ |location=San Francisco
+ |date=27–29 April 1981
+ |at=paper TUA2
+ |publisher=Optica Publishing Group
+ |doi=10.1364/OFC.1981.TUA2}}</ref>
+
+In 1989, he co-authored an assessment of quarter-wave phase-shifted distributed-feedback laser structures.<ref name="DFB1989">{{cite journal
+ |last1=Whiteaway
+ |first1=J. E. A.
+ |last2=Thompson
+ |first2=G. H. B.
+ |last3=Collar
+ |first3=A. J.
+ |last4=Armistead
+ |first4=C. J.
+ |title=The design assessment of λ/4 phase-shifted DFB laser structures
+ |journal=IEEE Journal of Quantum Electronics
+ |volume=25
+ |issue=6
+ |pages=1261–1279
+ |date=June 1989
+ |doi=10.1109/3.29257}}</ref>
+
+A 1994 invited paper co-authored by Thompson described a multimode, large-signal model of distributed-feedback lasers. The model incorporated spatial hole burning, carrier transport, nonlinear gain and device parasitics, and its predictions were compared with experimental measurements.<ref name="DFB1994" />
+
+==Book and patents==
+''Physics of Semiconductor Laser Devices'' covered semiconductor materials, crystal growth and fabrication, heterostructures, optical waveguides, stripe lasers, dynamic behaviour and distributed-feedback structures.<ref name="Book" /><ref name="ETDE">{{cite web
+ |title=Physics of semiconductor laser devices
+ |website=ETDEWEB
+ |url=https://www.osti.gov/etdeweb/biblio/5506904
+ |access-date=8 August 2026}}</ref>
+
+Thompson was named as inventor on patent families concerning injection lasers, diffraction gratings and wavelength-selective optical devices. A British patent filed in 1970 described a heterostructure injection laser in which a non-planar junction restricted current injection to a limited region.<ref name="PatentLaser">{{cite web
+ |title=GB1273284A – Improvements in or relating to injection lasers
+ |website=Google Patents
+ |url=https://patents.google.com/patent/GB1273284A/en
+ |access-date=8 August 2026}}</ref>
+
+Later inventions included a diffraction grating with a 1988 priority date,<ref name="PatentGrating">{{cite web
+ |title=GB2222891B – Diffraction grating
+ |website=Google Patents
+ |url=https://patents.google.com/patent/GB2222891B/en
+ |access-date=8 August 2026}}</ref> and an optical multiplexer/demultiplexer employing tandem gratings for wavelength-division multiplexing, with a 1998 priority date.<ref name="PatentWDM">{{cite web
+ |title=US6243514B1 – Optical multiplexer/demultiplexer
+ |website=Google Patents
+ |url=https://patents.google.com/patent/US6243514B1/en
+ |access-date=8 August 2026}}</ref>
+
+==Recognition==
+
+In 1992, Thompson received the J. J. Thomson Medal for Electronics from the  [[Institution of Engineering and Technology]]. The official recipient list records that it was awarded for his extensive work on semiconductor lasers and optical devices.<ref name="IET" />
+
+==References==
+{{reflist}}
+
+== External links ==
+
+* {{Google Scholar ID|id=8-2deyEAAAAJ}}
+* [https://patents.justia.com/inventor/george-horace-brooke-thompson List of his patents]
+
+{{Authority control}}
+[[Category:1928 births]]
+[[Category:2025 deaths]]
+[[Category:20th-century English physicists]]
+[[Category:21st-century English physicists]]
+[[Category:Condensed matter physicists]]
+[[Category:Optical physicists]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:People from Beckenham]]
+[[Category:Nortel people]]

@@ -1,0 +1,75 @@
+{{short description|Greek physicist}}
+{{Infobox scientist
+|name              = Nancy Makri
+|image             = 
+|image_size        = 
+|caption           = 
+|other_names       = 
+|birth_date        = {{birth date and age|1962|9|5}}
+|birth_place       = [[Athens, Greece]]
+|death_date        = <!-- {{Death date and age|xxxx|mm|dd|1962|09|05}} -->
+|death_place       = 
+|nationality       = 
+|spouse            = [[Martin Gruebele]]
+|fields            = [[chemical physics]], [[theoretical chemistry]]<ref name=DGRACS/>
+|workplaces        = [[Harvard]], [[University of Illinois]]
+|education         = [[University of Athens]],<br>[[University of California at Berkeley]]
+|doctoral_advisor  = [[William H. Miller (chemistry)|William H. Miller]]
+|doctoral_students = 
+|known_for         = 
+|awards            = 
+}}
+
+'''Nancy Makri''' (born September 5, 1962)<ref name=American>{{cite book|last1=Kalte|first1=Pamela M.|last2=Nemeh|first2=Katherine H.|title=American Men & Women of Science: A Biographical Directory of Today's Leaders in Physical, Biological and Related Sciences|date=2005|publisher=Thompson/Gale|location=Detroit, MI|isbn=978-1414433004|volume=5|pages=158|edition=22nd}}</ref> is the Edward William and Jane Marr Gutgsell Endowed Professor of Chemistry and Physics at the [[University of Illinois Urbana–Champaign]],<ref name=UIllinois>{{cite web|title=Nancy Makri|url=http://www.chemistry.illinois.edu/faculty/Nancy_Makri.html|website=Chemistry at Illinois|publisher=University of Illinois at Urbana-Champaign|accessdate=15 April 2015}}</ref>  where she leads research into the theoretical understanding of condensed phase quantum dynamics.<ref name=MRG>{{cite web|title=The Makri Research Group|url=http://www.scs.illinois.edu/~makri/|website=University of Illinois at Urbana-Champaign|accessdate=15 April 2015}}</ref>   She studies theoretical quantum dynamics of polyatomic systems,<ref name=DGRACS/> and has developed methods for long-time numerical path integral simulations of [[Quantum dissipation|quantum dissipative systems]].<ref name=American/>
+
+==Early life and education==
+Nancy Makri was born in [[Athens, Greece]] on September 5, 1962.<ref name=CVMakri/>  She graduated  with a B.S. in chemistry from the [[University of Athens]] in 1985,<ref name=American/><ref name=DGRACS/> where she worked with [[Cleanthes A. Nicolaides]].<ref name=CVMakri/>  She then attended the [[University of California at Berkeley]] and received her Ph.D. in 1989<ref name=American/> under the direction of [[William H. Miller (chemistry)|William H. Miller]]. Her thesis title was ''Theoretical methods for the study of chemical dynamics''.<ref name=Dissertations>{{cite book|title=American Doctoral Dissertations, 1989-90|date=1991|publisher=Bell & Howell Information & Lea|isbn=978-9992393635|page=133}}</ref>  In 1992 she married physical chemist [[Martin Gruebele]].<ref name=American/><ref name=Provost>{{cite web|title=Gutgsell Endowed Professor: Nancy Makri|url=http://www.provost.illinois.edu/about/chairs/gutgsell/NancyMakri.html|website=Office of the Provost|publisher=University of Illinois at Urbana-Champaign|accessdate=15 April 2015|archive-url=https://web.archive.org/web/20160711200448/http://provost.illinois.edu/about/chairs/gutgsell/NancyMakri.html|archive-date=11 July 2016|url-status=dead}}</ref>
+
+==Career==
+
+Makri spent two years as a junior fellow at [[Harvard University]], from 1989-1991.<ref name=DGRACS>{{cite book|chapter=Makri, Nancy|title=Directory of graduate research|date=2001|publisher=American Chemical Society|location=Washington, D.C.|page=415}}</ref>  She joined the chemistry faculty of the [[University of Illinois Urbana–Champaign]] in 1992.  In 1996 she became associate professor with tenure, and in 1999, professor of chemistry and physics.<ref name=Provost/>  She directs a research group there focused on the theoretical understanding of condensed phase quantum dynamics<ref name=MRG/> and has co-authored over 100 scientific articles.<ref name=IAQMS>{{cite web|title=Nancy Makri|url=http://www.iaqms.org/members/makri.php|website=International Academy of Quantum Molecular Science (IAQMS)|accessdate=16 April 2015}}</ref> She is also an affiliate of the Beckman Institute for Science and Technology.<ref>{{cite web|title=Nancy Makri|url=http://www.scs.illinois.edu/~makri/New-Web-Site/Nancy.html|website=University of Illinois|accessdate=20 April 2015}}</ref>
+
+Makri works in the area of theoretical chemical physics. She has developed new theoretical approaches to simulating the dynamics of quantum mechanical phenomena.<ref name=Provost/>  Makri has developed novel methods for calculating numerically exact path integrals for the simulation of system dynamics in harmonic dissipative environments.<ref name=IAQMS/> Her simulation algorithms address the limitations of the [[Schrödinger equation]], which can only describe physical changes exactly in the quantum state of small molecules.<ref name=NovelDiscoveries>{{cite book|title=Novel Discoveries: Beckman Young Investigators, 1991-2009|chapter=Nancy Makri - 1993| page=25|date=2011|publisher=Arnold and Mabel Beckman Foundation|location=Irvine, CA}}</ref><ref name=IotaSigmaPi/> By identifying aspects of simulations which can be effectively simplified, Makri's group developed "the first fully quantum mechanical methodology for calculating the evolution of a quantum system in a dissipative environment by performing an iterative decomposition of [[Path integral formulation|Feynman’s path integral expression]]".<ref name=Packard/>  Such simplifications make it possible to calculate outcomes that otherwise would not be mathematically feasible.<ref name=IotaSigmaPi/> Her careful examinations of the [[Quantum dissipation|system-harmonic bath model]] have resulted in techniques for avoiding the Monte Carlo sign problem.<ref name=Benderskii>{{cite book|last1=Benderskii|first1=Victor A.|last2=Makarov|first2=Dmitrii E.|last3=Wight|first3=Charles A.|title=Chemical dynamics at low temperatures|date=1994|publisher=Wiley|location=New York, NY|isbn=978-0-471-58585-5|pages=59–61|url=https://books.google.com/books?id=Y4DDqPleJxcC&pg=PA60|accessdate=20 April 2015}}</ref><ref name=IAQMS/>
+
+The ability to model proton and electron transfer reactions has been successfully applied to biological systems such as the quantum simulation of electron transfer in bacterial photosynthesis,<ref name=Dewitt-Morette>{{cite book|last1=Dewitt-Morette|first1=Cécile|last2=Cartier|first2=Pierre|last3=Folacci|first3=Antoine|title=Functional Integration: Basics and Applications|date=September 30, 1997|publisher=Springer Science & Business Media|isbn=978-0306456176|url=https://books.google.com/books?id=GAzkBwAAQBAJ&pg=PA208|accessdate=16 April 2015}}</ref><ref name=Photosynthesis>{{cite journal|last1=Makri|first1=N|last2=Sim|first2=E|last3=Makarov|first3=D E|last4=Topaler|first4=M|title=Long-time quantum simulation of the primary charge separation in bacterial photosynthesis|journal=Proc. Natl. Acad. Sci. USA|date= April 30, 1996|volume=93|issue=9|pages=3926–3931|doi=10.1073/pnas.93.9.3926|pmid=8632991|bibcode=1996PNAS...93.3926M|pmc=39461|doi-access=free}}</ref> offering "a complete and unambiguous picture of the process".<ref name=Aartsma23>{{cite book|editor-last1=Aartsma|editor-first1=Thijs J.|editor-last2=Matysik|editor-first2=Jörg|title=Biophysical techniques in photosynthesis Volume II|chapter=Chapter 23 Equilibrium and Dynamical Path Integral Methods in Bacterial Photosynthesis|last=Makri|first=Nancy|date=2008|publisher=Springer|location=Dordrecht|isbn=978-1-4020-8249-8|pages=465–485|chapter-url=https://books.google.com/books?id=d6qpFulxzfwC&pg=PA478}}</ref><ref name=IotaSigmaPi/>  More recent work has focused on developing a methodology for forward-backward semiclassical dynamics using classical trajectory calculations. This approach has been used to model the activity of [[helium]] in both normal and [[Superfluidity|superfluid]] phases, examining Bose-statistical effects in relationship to [[phase transitions]].<ref name=Packard/><ref name=Nakayama>{{cite journal|last1=Nakayama|first1=A.|last2=Makri|first2=N.|title=Simulation of dynamical properties of normal and superfluid helium|journal=Proceedings of the National Academy of Sciences|date=7 March 2005|volume=102|issue=12|pages=4230–4234|doi=10.1073/pnas.0501127102|pmid=15753309|pmc=555495|bibcode=2005PNAS..102.4230N|doi-access=free}}</ref><ref name=IAQMS/>
+
+==Awards and honors==
+Makri has received a number of awards and honors, including the following:<ref name=UIllinois/><ref name=Provost/><ref name=CVMakri>{{cite web|last1=Makri|first1=Nancy|title=Curriculum Vitae|url=http://www.scs.illinois.edu/~makri/New-Web-Site/cv-for-public.doc|website=University of Illinois at Urbana-Champaign|accessdate=15 April 2015}}</ref>
+
+* Member, [[National Academy of Sciences]], USA, 2023
+* Theoretical Chemistry Award, [[American Chemical Society]], 2022
+* Member, [[American Academy of Arts and Sciences]], 2021
+* The Löwdin Lecturer, Uppsala University, Sweden, 2019
+* Member, [[International Academy of Quantum Molecular Science]], elected 2010
+* Arnold O. Beckman Research Award, University of Illinois Research Board, 2003
+* Fellow, [[American Physical Society]], 2001, "For developing novel real time path integral methods and decisively quantifying how condensed phase environments affect quantum barrier crossing and biological charge transfer."<ref name=APS2001>{{cite web|title=APS Council announces 2001 APS Fellows|url=http://www.aps.org/publications/apsnews/200203/upload/honors02.pdf|website=APS News|publisher=American Physical Society|date=2002|access-date=2015-04-16|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304074656/http://www.aps.org/publications/apsnews/200203/upload/honors02.pdf|url-status=dead}}</ref>
+* Academic Prize in Physical Sciences, Bodossaki Foundation, 2000<ref name=NHGRI>{{cite web|title=Greece Awards Top Prize for Young Researchers to NHGRI Bioinformatics Expert|url=http://www.genome.gov/10001435|accessdate=16 April 2015|website=National Human Genome Research Institute|date=2000}}</ref>
+* [[Agnes Fay Morgan Research Award]], 1999, "for her work with photosynthesis and the charge transfer reactions which occur in photosynthetic systems"<ref name=IotaSigmaPi>{{cite web|title=1999 IOTA SIGMA PI Agnes Fay Morgan Research Award|url=http://www.iotasigmapi.info/awards/agnesfaymorgan/1999.pdf|website=IOTA SIGMA PI|accessdate=16 April 2015}}</ref>
+* Fellow, [[American Association for the Advancement of Science]], 1998<ref name=AAASFellows>{{cite web|title=Fellows|url=http://membercentral.aaas.org/fellows?LastName=M&Section=All&Country=All&State=All&name=Makri|website=American Association for the Advancement of Science (AAAS)|accessdate=17 April 2015|archive-url=https://web.archive.org/web/20160714165646/http://membercentral.aaas.org/fellows?LastName=M&Section=All&Country=All&State=All&name=Makri|archive-date=14 July 2016|url-status=dead}}</ref>
+* Camille Dreyfus Teacher Scholar Award, 1997<ref name=Dreyfus>{{cite web|title=Camille Dreyfus Teacher-Scholar Awards Program|url=http://www.dreyfus.org/announcements/PAST-TC.pdf|website=Camille & Henry Dreyfus Foundation, Inc.|accessdate=17 April 2015|archive-url=https://web.archive.org/web/20160705210425/http://www.dreyfus.org/announcements/PAST-TC.pdf|archive-date=5 July 2016|url-status=dead}}</ref>
+* Annual Medal of the [[International Academy of Quantum Molecular Science]], 1995<ref name=American/>
+* Cottrell Scholar Award, [[Research Corporation]],1994<ref name=American/>
+* [[Sloan Fellowship|Sloan Research Fellowship]], 1994<ref name=American/>
+* David and Lucille Packard Fellowship for Science and Engineering, [[David and Lucile Packard Foundation|Packard Foundation]], 1993<ref name=Packard>{{cite web|title=Fellowship Directory Nancy Makri Year: 1993|url=http://www.packard.org/what-we-fund/conservation-and-science/science/packard-fellowships-for-science-and-engineering/fellowship-directory/makri-nancy/|website=David and Lucile Packard Foundation|accessdate=15 April 2015|archive-date=14 July 2016|archive-url=https://web.archive.org/web/20160714165428/http://www.packard.org/what-we-fund/conservation-and-science/science/packard-fellowships-for-science-and-engineering/fellowship-directory/makri-nancy/|url-status=dead}}</ref>
+* National Science Foundation Young Investigator Award, 1993<ref name=Grantome>{{cite journal|title=NSF Young Investigator: Theoretical Studies of Quantum Dynamics of Polyatomic Systems|url=http://grantome.com/grant/NSF/CHE-9357102|journal=Grantome|accessdate=16 April 2015|last1=Makri|first1=Nancy}}</ref><ref name=American/>
+* [[Beckman Young Investigators Award]], 1993<ref name=YoungInvestigator>{{cite web|title=Nancy Makri|url=http://www.beckman-foundation.org/beckman-young-investigators/nancy-makri?A=SearchResult&SearchID=3907347&ObjectID=4731926&ObjectType=35|website=Arnold and Mabel Beckman Foundation|accessdate=9 March 2017|archive-date=12 March 2017|archive-url=https://web.archive.org/web/20170312051746/http://www.beckman-foundation.org/beckman-young-investigators/nancy-makri?A=SearchResult&SearchID=3907347&ObjectID=4731926&ObjectType=35|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Makri, Nancy}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:20th-century Greek physicists]]
+[[Category:21st-century Greek physicists]]
+[[Category:20th-century Greek women scientists]]
+[[Category:Greek women physicists]]
+[[Category:National and Kapodistrian University of Athens alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:University of Illinois Urbana-Champaign faculty]]
+[[Category:Scientists from Athens]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:21st-century women physicists]]
+[[Category:20th-century women physicists]]

@@ -1,0 +1,71 @@
+{{Short description|Swiss mathematical physicist (born 1944)}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox scientist
+| name              = Jean-Pierre Eckmann
+| image             = File:Jean-Pierre Eckmann (cropped).jpg
+| caption           = Eckmann at [[Oberwolfach]], 2023
+| birth_date        = {{birth date and age|1944|1|27|df=y}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| field             = [[Mathematics]]
+| workplaces        = University of Geneva
+| education         = [[University of Geneva]]
+| doctoral_advisor  = [[Marcel Guenin]]
+| doctoral_students = {{ubl|[[Viviane Baladi]]|[[Pierre Collet (physicist)|Pierre Collet]]|[[Martin Hairer]]}}
+| known_for         = 
+| awards            = 
+| footnotes         = 
+}}
+
+'''Jean-Pierre Eckmann''' (born 27 January 1944) is a Swiss [[mathematical physicist]] in the department of [[theoretical physics]] at the [[University of Geneva]]<ref>[http://theory.physics.unige.ch/dpt/viewmembers.php Department member listing] {{Webarchive|url=https://web.archive.org/web/20160304034926/http://theory.physics.unige.ch/dpt/viewmembers.php |date=4 March 2016 }}, Theoretical Physics, University of Geneva, retrieved 2011-04-29.</ref> and a pioneer of [[chaos theory]] and [[social network|social network analysis]].<ref name="barabasi">{{citation|title=Bursts: the hidden pattern behind everything we do|first=Albert-László|last=Barabási|authorlink=Albert-László Barabási|publisher=Penguin|year=2010|isbn=978-0-525-95160-5|url=https://books.google.com/books?id=ZfqVp2cMODkC&pg=PT87|page=87}}.</ref>
+
+Eckmann is the son of mathematician [[Beno Eckmann]].<ref>[http://www.geni.com/people/Jean-Pierre-Eckmann/6000000005004900978 Profile for Jean-Pierre Eckmann on geni.com], retrieved 2011-04-30; [http://owpdb.mfo.de/detail?photo_id=11922 Photo of Jean-Pierre Eckmann as a child] with his parents, in the mathematical photo collection of the [[Mathematical Research Institute of Oberwolfach]], retrieved 2011-04-30.</ref> He completed his PhD in 1970 under the supervision of Marcel Guenin at the University of Geneva.<ref name="mg">{{mathgenealogy|id=29332}}</ref> He has been a member of the [[Academia Europaea]] since 2001.<ref>[http://www.ae-info.org/ae/User/Eckmann_Jean-Pierre Academy of Europe: Eckmann Jean-Pierre], retrieved 2011-04-29; {{citation|url=http://www.acadeuro.org/fileadmin/user_upload/files_prev_site/tree17.pdf |contribution=New members of the Academia Europaea admitted 2001 |page=13 |date=January 2002 |volume=17 |title=The Tree: Newsletter of Academia Europaea |url-status=dead |archive-url=https://web.archive.org/web/20110809082542/http://www.acadeuro.org/fileadmin/user_upload/files_prev_site/tree17.pdf |archive-date= 9 August 2011 }}.</ref> In 2012, he became a fellow of the [[American Mathematical Society]].<ref>[https://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2012-11-10.</ref> He is also a member of the [[Göttingen Academy of Sciences and Humanities]].<ref>{{Cite web|url=https://adw-goe.de/en/mitglieder/|title=Members: Göttingen Academy of Sciences and Humanities (AdW)|website=adw-goe.de|access-date=2018-09-04}}</ref>
+
+With [[Pierre Collet (physicist)|Pierre Collet]] and [[Oscar Lanford]], Eckmann was the first to find a rigorous mathematical argument for the [[Universality (dynamical systems)|universality]] of [[period-doubling bifurcation]]s in [[dynamical systems]], with scaling ratio given by the [[Feigenbaum constants]].<ref>{{citation|title=Metamagical themas: questing for the essence of mind and pattern|first=Douglas R.|last=Hofstadter|authorlink=Douglas Hofstadter|publisher=Basic Books|year=1996|isbn=978-0-465-04566-2|pages=382–383|url=https://books.google.com/books?id=o8jzWF7rD6oC&pg=PA382}}; {{citation|page=189|title=Does God play dice?: the new mathematics of chaos|first=Ian|last=Stewart|authorlink=Ian Stewart (mathematician)|edition=2nd|publisher=Wiley-Blackwell|year=2002|isbn=978-0-631-23251-3}}.</ref> In a highly cited 1985 review paper with [[David Ruelle]],<ref>{{citation
+ | last1 = Eckmann | first1 = J.-P.
+ | last2 = Ruelle | first2 = D. | author2-link = David Ruelle
+ | doi = 10.1103/RevModPhys.57.617
+ | mr = 800052
+ | issue = 3, part 1
+ | journal = Reviews of Modern Physics
+ | pages = 617–656
+ | title = Ergodic theory of chaos and strange attractors
+ | volume = 57
+ | year = 1985|bibcode = 1985RvMP...57..617E }}.</ref> he bridged the contributions of mathematicians and physicists to [[dynamical systems theory]] and [[ergodic theory]],<ref>Review of {{harvtxt|Eckmann|Ruelle|1985}} by Charles Tresser in ''[[Mathematical Reviews]]'', {{MR|800052}}.</ref> put the varied work on dimension-like notions in these fields on a firm mathematical footing,<ref>Review of {{harvtxt|Barreira|Pesin|Schmeling|1999}} by Boris Hasselblatt in ''[[Mathematical Reviews]]'', {{MR|1709302}}.</ref> and formulated the Eckmann–Ruelle conjecture on the dimension of hyperbolic ergodic measures, "one of the main problems in the interface of [[dimension theory]] and dynamical systems".<ref>{{citation|title=Dimension theory in dynamical systems: contemporary views and applications|series=Chicago lectures in mathematics|first=Yakov B.|last=Pesin|publisher=University of Chicago Press|year=1997|isbn=978-0-226-66221-3|page=270|url=https://books.google.com/books?id=8h1u9vsTfMkC&pg=PA270}}.</ref> A proof of the conjecture was finally published 14 years later, in 1999.<ref>{{citation
+ | last1 = Barreira | first1 = Luis
+ | last2 = Pesin | first2 = Yakov
+ | last3 = Schmeling | first3 = Jörg
+ | doi = 10.2307/121072
+ | mr = 1709302
+ | issue = 3
+ | journal = [[Annals of Mathematics]] | series = 2nd ser.
+ | pages = 755–783
+ | title = Dimension and product structure of hyperbolic measures
+ | volume = 149
+ | year = 1999| jstor = 121072
+ | arxiv = math/9905205| bibcode = 1999math......5205B
+ | s2cid = 5973689
+ }}.</ref> Eckmann has done additional mathematical work in very diverse fields such as [[statistical mechanics]], [[partial differential equations]], and [[graph theory]].
+
+His PhD students have included [[Viviane Baladi]], [[Pierre Collet (physicist)|Pierre Collet]], and [[Martin Hairer]].<ref name="mg"/>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://theory.physics.unige.ch/eckmann/ Website of Jean-Pierre Eckmann]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Eckmann, Jean-Pierre}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:Mathematical physicists]]
+[[Category:University of Geneva alumni]]
+[[Category:Academic staff of the University of Geneva]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Members of Academia Europaea]]
+
+{{Switzerland-scientist-stub}}
+{{Europe-mathematician-stub}}

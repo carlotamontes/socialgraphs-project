@@ -1,0 +1,115 @@
+{{Short description|Japanese chemist (1927–2018)}}
+{{Infobox scientist
+| name = Teruaki Mukaiyama
+| image = Mukaiyama, Teruaki.jpg
+| birth_date = {{birth date|1927|1|5}}
+| birth_place = [[Nagano Prefecture|Nagano]], Japan
+| death_date = {{death date and age|2018|11|17|1927|1|5}}
+| citizenship = Japan
+| field = [[Organic Chemistry]]
+| workplaces = {{Plainlist|
+*[[Gakushuin University]]
+*[[Tokyo Institute of Technology]]
+*[[University of Tokyo]]
+*[[Tokyo University of Science]]
+*[[Kitasato Institute]]
+}}
+| education = [[Tokyo Institute of Technology]]<br>
+[[University of Tokyo]] (Ph.D.)
+| doctoral_advisor = Toshio Hishino
+| notable_students = {{Plainlist|
+*[[Kensō Soai]]
+*[[Eiichi Nakamura (chemist)|Eiichi Nakamura]]
+*[[Isamu Shiina]]
+}}
+| known_for = {{Plainlist|
+* [[Mukaiyama aldol addition]]
+* [[Mukaiyama hydration]]
+* Mukaiyama reagents
+* [[Mukaiyama Taxol total synthesis|total synthesis of taxol]]
+* redox condensation}}
+}}
+{{nihongo|'''Teruaki Mukaiyama'''|向山 光昭|Mukaiyama Teruaki|extra=January 5, 1927 – November 17, 2018}} was a Japanese [[organic chemist]]. One of the most prolific chemists of the 20th century in the field of [[organic synthesis]], Mukaiyama helped establish the field of organic chemistry in Japan after World War II.<ref name="obit">
+{{cite journal|author1=Seebach, D.|title=Obituary: Teruaki Mukaiyama (1927–2018)|journal=Angew. Chem. Int. Ed.|year=2019|volume=58|issue=18|pages=5803–5804 |doi=10.1002/anie.201902440|pmid=30861285|doi-access=free}}</ref>
+
+==Education==
+Mukaiyama studied chemistry at the [[Tokyo Institute of Technology]], earning his BSc in synthetic organic chemistry in 1948. He became assistant professor at [[Gakushuin University]] in 1953, where he stayed until he received his Ph.D. in synthetic organic chemistry from the [[University of Tokyo]] in 1957.<ref name="achievements">{{cite journal|author1=Murakami, M.|title=Achievements of the Late Professor Teruaki Mukaiyama|year=2021|journal=The Chemical Record|volume=21|issue=1|pages=2–16|doi=10.1002/tcr.202000105|pmid=33305537|s2cid=228101971|doi-access=free}}</ref>
+
+==Research and career==
+===Early work===
+Mukaiyama became an assistant professor at the [[Tokyo Institute of Technology]] in 1958 and earned his full professorship in 1963. During this time, his main focus was on organophosphorus chemistry. While examining deoxygenation reactions involving [[phosphines]], Mukaiyama found that the [[mercury(II) acetate]] employed as a catalyst would react with phosphorus(III) compounds to produce [[acetic anhydride]]. This initial example expanded into the concept of the [[redox condensation]] reaction, in which a weak acid and weak base catalyze a condensation by means of a [[redox]] reaction – this would become a primary research focus for Mukaiyama for much of his career.<ref name="obit"/> In the original reaction, the phosphine served as the reducing agent by accepting oxygen, while the mercury(II) was the oxidation agent that accepted hydrogens, resulting in the condensation of [[carboxylic acids]] with the loss of a molecule of water.<ref>
+{{cite journal|author1=Mukaiyama, T|year=1976|title=Oxidation-Reduction Condensation|journal=Angew. Chem. Int. Ed.|volume=15|issue=2|pages=94–103|doi=10.1002/anie.197600941}}</ref>
+
+This framework was expanded to include the formation of a variety of other functional groups, including [[esters]] and [[amides]], but the most significant was the synthesis of phosphoric esters using DEAD and an alcohol in 1967.<ref>{{cite journal|author1=O. Mitsunobu|author2=M. Yamada|author3=T. Mukaiyama.|title=Preparation of Esters of Phosphoric Acid by the Reaction of Trivalent Phosphorus Compounds with Diethyl Azodicarboxylate in the Presence of Alcohols|journal=Bull. Chem. Soc. Jpn.|year=1967|volume=40|issue=4|pages=935–939|doi=10.1246/bcsj.40.935|doi-access=free}}</ref> The same year that paper was published, Mukaiyama's co-author and former student Oyo Mitsunobu attacked the products of the reaction with a [[carboxylic acid]] in the presence of [[triphenylphosphine]] to yield an [[ester]], creating what is now known as the [[Mitsunobu reaction]].<ref>
+{{cite journal |author1=Mitsunobu, O. |author2=Yamada, Y. | title = Preparation of Esters of Carboxylic and Phosphoric Acid via Quaternary Phosphonium Salts | journal = Bulletin of the Chemical Society of Japan | year = 1967 | volume = 40 | issue = 10 | pages = 2380–2382 | doi = 10.1246/bcsj.40.2380 | doi-access = free}}</ref>
+
+===Modifications to the aldol reaction===
+The [[aldol reaction]] is an essential tool for synthetic chemists. At its simplest, the aldol reaction involves two [[carbonyl]] compounds which join, forming a carbon-carbon bond. Depending on whether it is performed in acidic or basic conditions, the reaction proceeds by one of the carbonyls attacking the other, which has [[tautomer]]ized into either an enol or enolate. However, when both carbonyls are similar in [[pKa]] they may both function as either the [[nucleophile]] or the [[electrophile]], meaning the reaction may form either cross-products or self-products.
+
+While investigating sulfur-boron compounds in 1971, Mukaiyama reported that the reaction of [[ethenone|ketene]] with thioboronite produced a beta-hydroxyalkanethioate via a vinyloxyborane intermediate that would perform an aldol reaction with [[formaldehyde]] leftover from the synthesis of ketene.<ref name="Mukaiyama Inomata 1971 pp. 3215–3215">{{cite journal | last1=Mukaiyama | first1=Teruaki | last2=Inomata | first2=Katsuhiko | title=Reaction of Thioboronite. A Convenient Method for the Preparation of β-Hydroxyalkanethioates | journal=Bulletin of the Chemical Society of Japan | publisher=The Chemical Society of Japan | volume=44 | issue=11 | year=1971 | issn=0009-2673 | doi=10.1246/bcsj.44.3215 | pages=3215| doi-access=free }}</ref><ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Inomata, K.|author3=Muraki, M.|year=1972|title=Vinyloxyboranes as synthetic intermediates|journal= Journal of the American Chemical Society|volume=95|issue=3|pages=967–968|doi=10.1021/ja00784a079}}</ref> These vinyloxyboranes proved straightforward to synthesize directly from the desired ketones using [[DBBT]], which has a more [[electron-withdrawing]] [[triflate]] group in place of the sulfur.<ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Inou, T.|title=New cross-aldol reaction via vinyloxyboranes|year=1976|journal=[[Chemistry Letters]]|volume=5|issue=6|pages=559–562|doi=10.1246/cl.1976.559}}</ref> Boron enolates provide an alternative to metal enolates for performing cross-aldol reactions.
+
+As an extension of his earlier research with trivalent phosphorus as an oxygen acceptor, Mukaiyama began to examine the role of metallic catalysts for the [[dehydration reaction|dehydrative]] [[Friedel-Crafts alkylation]] and in particular [[titanium(IV) tetrachloride]]. In 1973, he reported that titanium(IV) chloride treated with [[zinc]] powder catalyzed a [[pinacol coupling]] of carbonyls in [[THF]] which formed an [[alkene]] after reflux with [[1,4-dioxane]].<ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Sato, T.|author3=Hanna, J.|title=Reductive coupling of carbonyl compounds to pinacols and olefins by using TiCl4 and Zn|year=1973|journal=[[Chem. Lett.]]|volume=2|issue=10|pages=1041–1044|doi=10.1246/cl.1973.1041|doi-access=free}}</ref> This is what is now known as the [[McMurry reaction]] - [[John E. McMurry|McMurry]] published a year later and cited both Mukaiyama and the group of Tyrlik in Poland in his paper, but Japan's position in the international organic chemistry community was not yet fully developed and the naming persists.<ref name="achievements"/>
+
+Mukaiyama again turned to titanium(IV) chloride while seeking an appropriate [[Lewis acid]] to activate aldehydes for reaction with [[silyl enol ethers]] in what became known as the [[Mukaiyama aldol reaction]].<ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Narasaka, K.|author3=Banno, K.|title=New aldol type reaction|journal=[[Chem. Lett.]]|year=1973|volume=2|issue=9|pages=1011–1014|doi=10.1246/cl.1973.1011|doi-access=free}}</ref> Published in 1973 as Mukaiyama was in the process of migrating to the [[University of Tokyo]], it is a cross-aldol reaction between a silyl enol ether (typically derived from a carbonyl of choice using the method of [[Gilbert Stork|Stork]]<ref>
+{{cite journal|author1=Stork, G.|author2=Hudrlik, P. F.|title=Isolation of ketone enolates as trialkylsilyl ethers|year=1968|journal=[[Journal of the American Chemical Society]]|volume=90|issue=16|pages=4462–4464|doi=10.1021/ja01018a051 |bibcode=1968JAChS..90.4462S }}</ref>) and an aldehyde of choice in the presence of a Lewis acid like titanium(IV) chloride. The reaction is a landmark case on how activating aldehydes can allow even electronically neutral and weakly nucleophilic compounds like silyl enol ethers to be used as reagents.
+
+A Lewis acid must be added to use silyl enol ethers but not boron enolates because boron has an empty orbital but silicon does not, allowing boron to act as an electron acceptor. Tin(II) goes a step further by having multiple empty orbitals, allowing it to coordinate [[chiral]] [[ligands]] and induce [[enantioselective|enantioselectivity]]. In 1982 Mukaiyama showed that tin(II) enolates formed from tin(II) triflate could produce aldol products that were over 95% [[stereospecific]].<ref>
+{{cite journal|author1=Mukaiyana, T.|author2=Stevens, R. W.|author3=Iwasawa, N.|year=1982|title=Stannous triflate: a new aldol reaction via divalent tin enolates|journal=[[Chem. Lett.]]|volume=11|issue=3|pages=353–356|doi=10.1246/cl.1982.353}}</ref> In a time when asymmetric reactions largely relied on [[chiral auxiliaries]] to be covalently bound to the reactants, tin(II) enolates formed from chiral diamine ligands derived from [[L-proline]] could achieve over 90% [[enantiomeric excess|ee]].<ref>
+{{cite journal|author1=Iwasawa, N.|author2=Mukaiyama, T.|title=Highly enantioselective aldol-type reaction of 3-acetylthiazolidine-2-thione with achiral aldehydes|year=1983|journal=[[Chem. Lett.]]|volume=12|issue=3|pages=297–298|doi=10.1246/cl.1983.297}}</ref>
+
+===Namesake reagent===
+In 1975, Mukaiyama reported that ''N''-methyl-2-chloropyridinium iodide (also called 2-chloro-1-methylpyridinium iodide) allowed for a [[dehydration reaction|dehydration condensation]] between a [[carboxylic acid]] and an [[alcohol (chemistry)|alcohol]] or similar functional groups to form an [[ester]] linkage.<ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Usui, M.|author3=Shimada, E.|author4=Saigo, K.|title=A convenient method for the synthesis of carboxylic esters|year=1975|journal=[[Chem. Lett.]]|volume=4|issue=10|pages=1045–1048|doi=10.1246/cl.1975.1045}}</ref> In the initial stage of the process, the carboxyl [[nucleophilic aromatic substitution|displaces]] the [[halogen]] atom on the reagent in the presence of a [[base (chemistry)|base]]. The resulting [[pyridyl]] ester is an activated [[electrophile]] and also serves as a good [[leaving group]] in a subsequent [[nucleophilic acyl substitution]] reaction with the alcohol reactant as [[nucleophile]]. Thus, the family of 2-halo-''N''-alkylpyridinium salts are named the '''Mukaiyama reagents'''. The reaction gives low yields if there are [[steric hindrance|sterically large]] groups adjacent to the site of the reaction, such as [[tertiary carbon]]s, but can be improved by using [[bromine]] as the halogen.<ref>
+{{cite journal|author1=Saigo, K.|author2=Masahiro, U.|author3=Kikuchi, K.|author4=Shimada, E.|author5=Mukaiyama, T.|title=New Method for the Preparation of Carboxylic Esters|journal=Bulletin of the Chemical Society of Japan|year=1977|volume=50|issue=7|pages=1863–1866|doi=10.1246/bcsj.50.1863|doi-access=free}}</ref> In the years since its discovery, a number of different onium salts of [[aza-]][[arenes]] have been used to catalyze a number of different dehydration reactions, including a [[lactone|macrolactonization]].<ref>{{cite journal|author1=Mukaiyama, T.|author2=Usui, M.|author3=Saigo, K.|title=The facile synthesis of lactones|year=1976|journal=[[Chem. Lett.]]|volume=5|issue=1|pages=49–50|doi=10.1246/cl.1976.49|doi-access=free}}</ref> In 1994, [[Isamu Shiina]] developed his [[Shiina macrolactonization|namesake macrolactonization]] in the Mukaiyama lab, making use of an [[aromatic]] [[carboxylic acid]] [[anhydride]] in the presence of a [[Lewis acid]] catalyst.<ref>{{cite journal|author1=Shiina, I. |author2=Mukaiyama, T. |journal= [[Chem. Lett.]]|year= 1994| pages=677–680|doi=10.1246/cl.1994.677|volume=23|issue=4|title=A Novel Method for the Preparation of Macrolides from ω-Hydroxycarboxylic Acids}}</ref>
+
+===Taxol synthesis===
+In the early 1990s, at least thirty separate groups were working on the total synthesis of the chemotherapy medicine [[paclitaxel]] (Taxol), culminating with the groups of [[Robert A. Holton]] and [[K. C. Nicolaou]] publishing nearly simultaneously in 1994.<ref>
+{{cite journal|author1=Nina Hall|title=Creating complexity – the beauty and logic of synthesis|journal=[[Chem. Commun.]]|year=2003|volume=6|issue=6|pages=661–664|doi=10.1039/b212248k|doi-access=free}}</ref> By then, Mukaiyama had retired from the [[University of Tokyo]] after reaching the mandatory age of 60 and set up an academic lab at the [[Tokyo University of Science]]. The [[Mukaiyama taxol total synthesis]] was published between the years of 1997 and 1999 after five years of research, making the Mukaiyama lab the sixth group to report results.
+
+This total synthesis is largely a [[linear synthesis]] which forms the four rings of taxol in the order C, B, A, D. It is differentiated from the others from its use of [[L-serine]] as a starting material and for being the only total synthesis not to use the [[Ojima lactam]] to create the amide tail. Instead, the tail is created from scratch by converting benzyloxyacetic acid into a [[silyl enol ether]], joining it with benzaldehyde with a [[Mukaiyama aldol addition]], and creating the amide from the alcohol via a [[Mitsunobu reaction]] followed by benzoylation.
+
+The synthesis also made use of three [[Swern oxidation]]s during the synthesis of the C ring. This reaction is typically performed at very low temperatures (< -50&nbsp;°C) to stabilize its activated [[DMSO]] intermediate and constantly evolves the strong-smelling [[Dimethyl sulfide|DMS]], making it very difficult to work with at large scales. The difficulties encountered during their total synthesis prompted Mukaiyama to pursue an alternative method, and in 2001 a room-temperature oxidation involving N-chlorosuccinimide and a catalytic amount of N-t-butylbenzenesulfenamide was developed.<ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Matsuo, J.|author3=Iida, D.|author4=Kitagawa, H.|year=2001|title=Catalytic Oxidation of Various Alcohols to the Corresponding Carbonyl Compounds with N-Chlorosuccinimide Using a Catalytic Amount of Sulfenamide|journal=[[Chem. Lett.]]|volume=30|issue=8|pages=846–847|doi=10.1246/cl.2001.846}}</ref> The more [[electronegative]] nitrogen adjacent to the sulfur in the [[sulfenamide]] increased the stability of the intermediate relative to that formed from the sulfur-carbon bond of DMSO and was inspired by his earlier work with sulfenamides while still at the Tokyo Institute of Technology.<ref name="achievements"/><ref>
+{{cite journal|author1=Mukaiyama, T.|author2=Kobayashi, S.|author3=Kumamoto, T.|year=1970|title=The sulfenylation of the active methylene compounds by the use of sulfenamides|journal=[[Tetrahedron Letters]]|volume=11|issue=59|pages=5115–5118|doi=10.1016/S0040-4039(00)96953-3}}</ref>
+
+===Legacy===
+Mukaiyama had a scientific career spanning over sixty years, during which he published over 900 papers. After its founding in 1972, Mukaiyama only published in the Japanese journal ''[[Chemistry Letters]]'', citing a belief that "the results of one's chemistry should be published in journals of one's country."<ref>
+Teruaki Mukaiyama (1990). "Challenges in Synthetic Organic Chemistry" ''Clarendon Press.'' '''2003''' {{ISBN|978-0198556442}}</ref> The combination of the high quality of his work and the over 600 papers that he published in ''Chemistry Letters'' played an important role in its spread to other nations.
+
+A total of 145 people earned their doctorates under Mukaiyama, with 54 eventually becoming professors in various institutions.<ref name="achievements"/>
+
+==Honors and awards==
+Mukaiyama has been recognized for his achievements in the form of seven honorary degrees and membership in the national academies of four nations. He is the namesake of the Mukaiyama Award, awarded by the Society of Synthetic Organic Chemistry, Japan since 2005.<ref>{{cite web|url=https://www.ssocj.jp/en/|title=Society of Synthetic Organic Chemistry, Japan|author=<!--Not stated-->}}</ref> His major awards include:
+
+{{div col|colwidth=35em}}
+* [[Chemical Society of Japan|Chemical Society of Japan Award]] in 1973
+* [[Imperial Prize of the Japan Academy|Imperial Prize]] and [[Japan Academy Prize (academics)|Academy Prize]] from the [[Japan Academy]] in 1983
+* Nicholaus Copernicus Medal from the [[Polish Academy of Sciences]] in 1986
+* [[Person of Cultural Merit]] from Japan in 1992
+* [[Chevalier de l’Ordre National du Mérite]] from France in 1994
+* [[List of American Chemical Society national awards|ACS Award for Creative work in Synthetic Organic Chemistry]] from the [[American Chemical Society]] in 1996
+* [[Order of Culture]] from Japan in 1997
+* [[Tetrahedron Prize|Tetrahedron Prize for Creativity in Organic Chemistry]] from [[Elsevier]] in 1998
+* [[List of Royal Society of Chemistry medals and awards|Sir Derek Barton Gold Medal]] from the [[Royal Society of Chemistry]] in 1998
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mukaiyama, Teruaki}}
+[[Category:1927 births]]
+[[Category:2018 deaths]]
+[[Category:People from Nagano (city)]]
+[[Category:Tokyo Institute of Technology alumni]]
+[[Category:University of Tokyo alumni]]
+[[Category:Academic staff of Tokyo Institute of Technology]]
+[[Category:Japanese organic chemists]]
+[[Category:20th-century Japanese chemists]]
+[[Category:21st-century Japanese chemists]]
+[[Category:Scientists from Nagano Prefecture]]

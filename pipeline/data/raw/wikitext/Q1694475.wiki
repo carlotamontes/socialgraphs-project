@@ -1,0 +1,123 @@
+{{short description|American mathematician}}
+{{Infobox scientist
+| name              = Michael Waterman
+| birth_name        = Michael Spencer Waterman
+| image             = Michael Waterman.jpg
+| image_size        = 150px
+| caption           = Michael Waterman in 2004
+| birth_date        = {{birth-date and age|June 28, 1942}}<ref>American Men and Women of Science, Thomson Gale 2005 {{ISBN needed}}</ref>
+| birth_place       = [[Coquille, Oregon]], US
+| field             = {{Plainlist|
+* [[Computational biology]]
+* [[Bioinformatics]]
+* [[Probability]]
+* [[Statistics]]
+* [[Computer science]]
+* [[Discrete mathematics]]
+* [[Combinatorics]]}}
+| workplaces        = {{Plainlist|
+* [[University of Southern California]]
+* [[University of Virginia]]
+* [[Los Alamos National Laboratory]]
+* [[Idaho State University]]}}
+| education         = {{Plainlist|
+* [[Oregon State University]]
+* [[Michigan State University]] (PhD)
+}}
+| doctoral_advisor  = John Rankin Kinney<ref name="msu1969">{{cite web
+ |title=Spring 1969 Commencement Program
+ |url=https://onthebanks.msu.edu/recordFiles/162-565-981/S201_1969.pdf
+ |publisher=Michigan State University
+ |page=31
+ |access-date=November 2, 2026
+}}</ref>
+| thesis_title      = Some Ergodic Properties of Multi-Dimensional F-Expansions
+| thesis_url        = https://www.proquest.com/docview/302449931
+| thesis_year       = 1969
+| notable_students  = {{Plainlist|
+* [[Pavel Pevzner]] (postdoc)
+* [[Martin Vingron]] (postdoc)
+* [[Tandy Warnow]] (postdoc)
+* [[Sophie Schbath]] (postdoc)
+}}
+| known_for         = {{Plainlist|
+* [[Smith-Waterman algorithm]]
+* [[DNA sequencing theory#Lander-Waterman theory|Lander-Waterman formula]]
+* [[De Bruijn sequence]] assembly}}
+| awards            = {{Plainlist|
+* [[Guggenheim Fellowship]] (1995)<ref name=usc-current>{{cite web
+ |title=Michael S Waterman
+ |url=https://dornsife.usc.edu/msw/
+ |website=USC Dornsife
+ |publisher=University of Southern California
+ |access-date=November 2, 2026
+}}</ref>
+* [[Gairdner Foundation International Award]] (2002)<ref name=usc-current/>
+* [[ISCB Fellow]] (2009)<ref name=fellows>{{cite web|archive-url=https://web.archive.org/web/20170320114530/https://www.iscb.org/iscb-fellows |archive-date=2017-03-20 |url=https://www.iscb.org/iscb-fellows |website=iscb.org |title=ISCB Fellows |publisher=[[International Society for Computational Biology]] |author=Anon |year=2017 }}</ref>
+* [[Dan David Prize]] (2015)<ref name=dan-david-prize>{{cite web
+ |title=2015 Dan David Winners Announced
+ |url=https://english.tau.ac.il/news/dan_david_prize_2015
+ |website=Tel Aviv University
+ |date=February 11, 2015
+ |access-date=November 2, 2026
+}}</ref>
+}}
+| website           = {{URL|https://dornsife.usc.edu/msw/}}
+}}
+
+'''Michael Spencer Waterman''' (born June 28, 1942) is a University Professor Emeritus at the [[University of Southern California|University of Southern California (USC)]], where he held the USC Associates Chair in Natural Sciences and was a professor of [[Biology|biological sciences]], [[computer science]], and [[mathematics]].<ref name="Michael_Waterman-1">{{Cite web |title=Michael S Waterman |url=https://dornsife.usc.edu/msw/ |access-date=2026-11-02 |website=Michael Waterman |language=en-US}}</ref><ref>{{Cite web |date=2012-02-10 |title=Ray Irani, Michael Waterman Elected to NAE |url=https://dornsife.usc.edu/news/stories/ray-irani-michael-waterman-elected-to-nae/ |access-date=2026-11-02 |website=USC Dornsife News |language=en-US}}</ref> His research has focused on the analysis of DNA, RNA, and protein sequences.<ref name="Michael_Waterman-1" /> He previously held positions at [[Los Alamos National Laboratory]] and [[Idaho State University]].<ref name="Michael_Waterman-1" />
+
+==Education and early life==
+Waterman grew up near [[Bandon, Oregon]],<ref name=getting/> and earned a bachelor's degree in Mathematics from [[Oregon State University]], followed by a [[PhD]] in [[statistics]] and [[probability]] from [[Michigan State University]] in 1969.<ref name="msu1969"/><ref name=phd>{{cite thesis |degree=PhD |first=Michael Smith|last=Waterman |title=Some Ergodic Properties of Multi-Dimensional F-Expansions |publisher=Michigan State University |date=1969 |oclc=25799203 |id={{ProQuest|302449931}}}} {{subscription required}}</ref>
+
+==Research and career==
+Waterman is one of the founders and current leaders in the area of [[computational biology]]. He focuses on applying mathematics, statistics, and computer science techniques to various problems in [[molecular biology]]. His work has contributed to some of the most widely used tools in the field. In particular, the [[Smith-Waterman algorithm]] (developed with [[Temple F. Smith]]) is the basis for many [[sequence alignment]] programs.<ref>{{Cite journal | last1 = Smith | first1 = T. | last2 = Waterman | first2 = M. S. | author-link2 = Michael Waterman| title = Identification of common molecular subsequences | doi = 10.1016/0022-2836(81)90087-5 | journal = [[Journal of Molecular Biology]] | volume = 147 | issue = 1 | pages = 195–197 | year = 1981 | pmid =  7265238}}</ref> In 1988, Waterman and [[Eric Lander]] published a landmark paper describing a mathematical model for fingerprint mapping.<ref>{{Cite journal
+| last1 = Lander | first1 = E. S.
+| author-link1 = Eric Lander
+| last2 = Waterman | first2 = M. S.
+| author-link2 = Michael Waterman
+| title = Genomic mapping by fingerprinting random clones: A mathematical analysis
+| journal = Genomics
+| volume = 2
+| issue = 3
+| pages = 231–239
+| year = 1988
+| pmid = 3294162
+| doi = 10.1016/0888-7543(88)90007-9
+}}</ref> This work formed one of the theoretical cornerstones for many of the later DNA mapping and sequencing projects, especially the [[Human Genome Project]]. A 1995 paper by Idury and Waterman introduced Eulerian-[[De Bruijn sequence]] assembly which is widely used in next-generation sequencing projects.<ref name="IduryWaterman1995">{{cite journal|last1=Idury|first1=Ramana M.|last2=Waterman|first2=Michael S.|title=A New Algorithm for DNA Sequence Assembly|journal=[[Journal of Computational Biology]]|volume=2|issue=2|year=1995|pages=291–306|issn=1066-5277|doi=10.1089/cmb.1995.2.291|pmid=7497130|url=http://dornsife.usc.edu/assets/sites/516/docs/papers/msw_papers/msw-128.pdf}}</ref>
+
+With [[Pavel A. Pevzner]] (a former [[postdoctoral researcher]] in his lab), he began the international conference [[Research in Computational Molecular Biology|Research in Computational Molecular Biology (RECOMB)]],<ref>{{cite web |url=http://recomb.org/ |title= The RECOMB conference series|website=recomb.org|author=Anon|year=2017}}</ref> and he is a founding editor of the ''[[Journal of Computational Biology]]''. Waterman also authored one of the earliest textbooks in the field: ''Introduction to Computational Biology''.<ref>{{cite book |author1=Waterman, Michael R. |author2=Waterman, M. S. |title=Introduction to computational biology: maps, sequences and genomes |publisher=Chapman & Hall |location=London |year=1995 |isbn=978-0-412-99391-6 }}</ref>
+
+==Awards and honors==
+With [[Cyrus Chothia]] and [[David Haussler]], Waterman was awarded the 2015 [[Dan David Prize]] for his contributions to the field of [[bioinformatics]].<ref name=dan-david-prize /> He was awarded an [[Honorary Doctorate]] from [[Tel Aviv University]]  in 2011,{{citation needed|date=March 2017}} an [[Honorary Doctorate]] from the [[University of Southern Denmark]] in 2013,{{citation needed|date=March 2017}} and an [[Honorary Doctorate]] from [[Oregon State University]] in 2024. 
+
+Waterman has been a member of the US [[American Academy of Arts and Sciences]]  since 1995,{{citation needed|date=March 2017}} a member of the US [[National Academy of Engineering]] since 2012,{{citation needed|date=March 2017}} a member of the  [[Chinese Academy of Sciences]] since 2013,{{citation needed|date=March 2017}} and a member of the US [[National Academy of Sciences]] since 2001.{{citation needed|date=March 2017}} He has been an academician of the  [[French Academy of Sciences]] since 2005.{{citation needed|date=March 2017}}
+
+Waterman was elected an [[ISCB Fellow]] in 2009 by the [[International Society for Computational Biology]]<ref name=fellows/> and was awarded their [[ISCB Senior Scientist Award]] in 2006.<ref>{{Cite journal |last=Maisel |first=Merry |date=2006-08-04 |title=ISCB Honors Michael S. Waterman and Mathieu Blanchette |journal=PLOS Computational Biology |language=en |publisher=Public Library of Science |volume=2 |issue=8 |article-number=e105 |doi=10.1371/journal.pcbi.0020105 |doi-access=free |issn=1553-7358 |pmc=1526462 |bibcode=2006PLSCB...2..105M }}</ref>
+
+==Personal life==
+Waterman has written a memoir, ''Getting Outside'',<ref name=getting>{{cite book|first=Michael|last=Waterman|year=2016|isbn=978-1-5309-2934-4|title=Getting Outside: A Far-Western Childhood|publisher=CreateSpace Independent Publishing Platform}}</ref> of a childhood spent on an isolated livestock ranch on the southern coast of Oregon in the mid-20th century.
+
+==References==
+{{reflist|35em}}
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Waterman, Michael}}
+[[Category:Living people]]
+[[Category:1942 births]]
+[[Category:People from Bandon, Oregon]]
+[[Category:American bioinformaticians]]
+[[Category:21st-century American biologists]]
+[[Category:University of Southern California faculty]]
+[[Category:Idaho State University faculty]]
+[[Category:Oregon State University alumni]]
+[[Category:Fellows of the Society for Industrial and Applied Mathematics]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Foreign members of the Chinese Academy of Sciences]]
+[[Category:People from Coquille, Oregon]]
+[[Category:20th-century American statisticians]]
+[[Category:21st-century American statisticians]]

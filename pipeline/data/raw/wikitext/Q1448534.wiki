@@ -1,0 +1,36 @@
+{{short description|German physicist}}
+
+{{Infobox scientist
+| birth_date        = {{Birth date|1972|11|25|df=y}}
+| birth_place       = [[Kösching]], [[Germany]]
+| field             = [[Physics]]
+| workplaces        = [[Technical University of Munich]]<br />[[Ecole Polytechnique Fédérale de Lausanne|EPFL]]<br />[[Swiss Light Source]]
+| education         = [[Saarland University]]<br />[[LMU Munich]]
+| awards            = [[Leibniz Prize]] (2011)
+| known_for         = [[Phase-contrast X-ray imaging#Grating-based imaging|Grating-based phase-contrast X-ray imaging]]<br />[[Phase-contrast X-ray imaging#Grating-based imaging|Dark-field imaging]]
+}}
+
+'''Franz Pfeiffer''' (born 25 November 1972 in Kösching, [[Germany]]) is a German [[physicist]] known for his contributions to the development of [[Phase-contrast X-ray imaging]] and its applications in biomedical research.
+
+== Research ==
+Pfeiffer contributed to the extension of known imaging modalities such as [[Differential interference contrast microscopy]] and [[Dark-field microscopy]] to the X-ray regime. In 2006, he demonstrated the feasibility of phase sensitive X-ray imaging with conventional, [[polychromatic]] [[X-ray generator|X-ray source]]s and a grating interferometer.<ref name="Pfeiffer2006">{{Cite journal|last2=Weitkamp|first2=T.|last3=Bunk|first3=O.|last4=David|first4=C.|year=2006|title=Phase retrieval and differential phase-contrast imaging with low-brilliance X-ray sources|journal=Nature Physics|volume=2|issue=4|pages=258–261|bibcode=2006NatPh...2..258P|doi=10.1038/nphys265|last1=Pfeiffer|first1=F.|url=https://www.dora.lib4ri.ch/psi/islandora/object/psi%3A16114|doi-access=free}}</ref> This enlarged the potential of X-ray phase imaging for clinical use as before the technique was only possible at [[Synchrotron|synchrotron facilities]]. Pfeiffer further introduced the extraction of a supplementary signal (so-called "dark-field signal") sensitive to porous microstructure of a sample based on X-ray scattering.<ref name="Pfeiffer2008">{{Cite journal|last2=Bech|first2=M.|last3=Bunk|first3=O.|last4=Kraft|first4=P.|last5=Eikenberry|first5=E. F.|last6=Brönnimann|first6=C.|last7=Grünzweig|first7=C.|last8=David|first8=C.|year=2008|title=Hard-X-ray dark-field imaging using a grating interferometer|journal=Nature Materials|volume=7|issue=2|pages=134–137|bibcode=2008NatMa...7..134P|doi=10.1038/nmat2096|pmid=18204454|last1=Pfeiffer|first1=F.}}</ref> His research group at the [[Technical University of Munich]] demonstrated a range of possible applications of the new modalities in medical and material research. 
+
+Further Pfeiffer is known for his research in X-ray [[Ptychography]],<ref>{{Cite journal|last1=Dierolf|first1=Martin|last2=Menzel|first2=Andreas|last3=Thibault|first3=Pierre|last4=Schneider|first4=Philipp|last5=Kewish|first5=Cameron M.|last6=Wepf|first6=Roger|last7=Bunk|first7=Oliver|last8=Pfeiffer|first8=Franz|date=2010-09-23|title=Ptychographic X-ray computed tomography at the nanoscale|journal=Nature|language=en|volume=467|issue=7314|pages=436–439|doi=10.1038/nature09419|pmid=20864997|issn=0028-0836|bibcode=2010Natur.467..436D|s2cid=2449015}}</ref> [[X-ray tensor tomography]],<ref>{{Cite journal|last1=Schaff|first1=Florian|last2=Bech|first2=Martin|last3=Zaslansky|first3=Paul|last4=Jud|first4=Christoph|last5=Liebi|first5=Marianne|last6=Guizar-Sicairos|first6=Manuel|last7=Pfeiffer|first7=Franz|date=2015-11-19|title=Six-dimensional real and reciprocal space small-angle X-ray scattering tomography|journal=Nature|language=en|volume=527|issue=7578|pages=353–356|doi=10.1038/nature16060|pmid=26581292|issn=0028-0836|bibcode=2015Natur.527..353S|s2cid=4463780|url=https://research.monash.edu/en/publications/e5ce341d-3082-418a-ac4c-6f31d0909673 }}</ref><ref>{{Cite journal|last1=Seyyedi|first1=Saeed|last2= Wieczorek|first2= Matthias|last3=Pfeffer|first3=Franz|last4=Lasser|first4=Tobias|date=2018-01-17|title=Incorporating a Noise Reduction Technique Into X-Ray Tensor Tomography|journal=IEEE Transactions on Computational Imaging|language=en|volume=4|issue=1|pages=137–146|doi=10.1109/TCI.2018.2794740|s2cid=46793582|issn= 2333-9403}}</ref> grating-based [[Neutron]] interferometric imaging<ref>{{Cite journal|last1=Pfeiffer|first1=F.|last2=Grünzweig|first2=C.|last3=Bunk|first3=O.|last4=Frei|first4=G.|last5=Lehmann|first5=E.|last6=David|first6=C.|date=2006-06-02|title=Neutron Phase Imaging and Tomography|journal=Physical Review Letters|volume=96|issue=21|article-number=215505|doi=10.1103/PhysRevLett.96.215505|pmid=16803249|url=https://www.dora.lib4ri.ch/psi/islandora/object/psi%3A16534|bibcode=2006PhRvL..96u5505P}}</ref> and [[Iterative reconstruction|iterative CT reconstruction algorithms]]. He is author and co-author of more than 250<ref>{{Cite web|url=http://www.e17.ph.tum.de/en/people/franz-pfeiffer/|title=Chair of Biomedical Physics: Franz Pfeiffer|website=www.e17.ph.tum.de|language=en|access-date=2017-05-27|archive-date=2019-12-27|archive-url=https://web.archive.org/web/20191227025243/http://www.e17.ph.tum.de/en/people/franz-pfeiffer/}}</ref> scientific publications and inventor in several patents. 
+
+In 2011, he was awarded the [[Gottfried Wilhelm Leibniz Prize|Leibniz Prize]] for his achievements in X-ray physics. 
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pfeiffer, Franz}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:Gottfried Wilhelm Leibniz Prize winners]]
+[[Category:21st-century German physicists]]
+[[Category:Academic staff of the Technical University of Munich]]
+[[Category:Members of German Academy of Science and Engineering Acatech]]
+
+
+{{Germany-physicist-stub}}

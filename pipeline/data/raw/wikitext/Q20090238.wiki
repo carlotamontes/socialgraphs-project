@@ -1,0 +1,90 @@
+{{Short description|Israeli physicist and mathematician (born 1976)}}
+{{Infobox person
+| name             = Baruch Barzel
+| image            = Barzel.jpg
+| caption          = Baruch Barzel
+| native_name      = ברוך ברזל
+| birth_date       = {{Birth date and age|1976|3|19|df=y}}
+<!-- Do not add flag icons to place of birth/death, per [[WP:FLAG]] -->
+| birth_place      = [[Jerusalem]]
+| death_date       =
+| death_place      = 
+| native_name_lang = he
+| other_names      = 
+| education        = [[Bar-Ilan University]] <small>(BS)</small>
+| citizenship      = Israel
+| occupation       = [[Physicist]] and [[Applied mathematician]]
+| years_active     = 
+| employer         = 
+| title            = 
+| boards           = 
+| known_for        = his research on [[complex systems|complex]] and <br /> [[stochastic systems]], <br /> 
+specifically on stochastic [[moment equations]] <br /> and [[universality (dynamical systems)|universality]] in network dynamics.
+Also a public lecturer in Israel, and presents a weekly corner on Jewish thought in [[Israeli Public Broadcasting Corporation]].
+| spouse           = 
+| children         =  
+}}
+'''Baruch Barzel''' ({{Langx|he|ברוך ברזל}}; March 19, 1976) is an Israeli physicist and applied mathematician at [[Bar-Ilan University]],<ref>{{cite web|url=http://u.cs.biu.ac.il/~barzelb/|title=Homepage}}</ref>
+a member of the Gonda Multidisciplinary Brain Research Center<ref>{{Cite web|title=Bar Ilan Brain sciences – Gonda multidisciplinary brain research center|url=https://gondabrain.biu.ac.il/en|access-date=2021-10-19|website=gondabrain.biu.ac.il}}</ref> and of the Bar-Ilan [[Data science|Data Science]] Institute.<ref>{{Cite web|title=The Data Science Institute at Bar-Ilan University – Understanding the world through data|url=https://dsi.biu.ac.il/|access-date=2021-10-19|language=en-US}}</ref> His main research areas are [[statistical physics]],<ref>{{Cite journal|last=B Barzel, O Biham, R Kupferman, A Lipshtat, A Zait|s2cid=8224296|date=2010|title=Dimensional reduction of the master equation for stochastic chemical networks: The reduced-multiplane method|journal=Physical Review E|volume=82|issue=2|article-number=021117|doi=10.1103/physreve.82.021117|pmid=20866785|bibcode=2010PhRvE..82b1117B}}</ref><ref>{{Cite journal|last=B Barzel, O Biham|date=2009|title=Stochastic analysis of dimerization systems|journal=Physical Review E|volume=80|issue=3|article-number=031117|doi=10.1103/physreve.80.031117|pmid=19905072|arxiv=0910.3365|bibcode=2009PhRvE..80c1117B|s2cid=8785965}}</ref> [[complex systems]],<ref>{{Cite journal|last=B Barzel, O Biham|date=2012|title=Stochastic analysis of complex reaction networks using binomial moment equations|journal=Physical Review E|volume=86|issue=3|article-number=031126|doi=10.1103/physreve.86.031126|pmid=23030885|bibcode=2012PhRvE..86c1126B}}</ref><ref>{{Cite journal|last=B Barzel, O Biham|date=2008|title=Calculation of switching times in the genetic toggle switch and other bistable systems|journal=Physical Review E|volume=78|issue=4|article-number=041919|doi=10.1103/physreve.78.041919|pmid=18999467|bibcode=2008PhRvE..78d1919B}}</ref> [[nonlinear dynamics]] and [[network science]].<ref>{{Cite journal|last=B. Barzel and A.-L. Barabási|date=2013|title=Universality in Network Dynamics|journal=Nature Physics|volume=9|issue=10|pages=673–681|doi=10.1038/nphys2741|pmid=24319492|pmc=3852675|bibcode=2013NatPh...9..673B}}</ref><ref name="B. Barzel and A.-L. Barabási 2013 720–725">{{Cite journal|last=B. Barzel and A.-L. Barabási|date=2013|title=Network link prediction by global silencing of indirect correlations|journal=Nature Biotechnology|volume=31|issue=8|pages=720–725|doi=10.1038/nbt.2601|pmid=23851447|pmc=3740009}}</ref><ref>{{Cite journal|last=B. Barzel Y.-Y. Liu and A.-L. Barabási|date=2015|title=Constructing minimal models for complex system dynamics|journal=Nature Communications|volume=6|page=7186|doi=10.1038/ncomms8186|pmid=25990707|bibcode=2015NatCo...6.7186B|doi-access=free}}</ref>
+ 
+In 2013 he introduced the concept of [[Universality (dynamical systems)|universality]] in the dynamics of [[complex network]]s, showing that complex systems from different domains condense into discrete forms, or [[universality class]]es, of dynamic behavior. In the following years, Barzel and colleagues developed a theoretical framework to predict the observed behavior of complex networked systems: their patterns of information flow;<ref>{{Cite journal|last=U. Harush and B. Barzel|date=2017|title=Dynamic patterns of information flow in complex networks|journal=Nature Communications|volume=8|issue=1|page=2181|bibcode=2017NatCo...8.2181H|doi=10.1038/s41467-017-01916-3|doi-access=free|pmc=5736766|pmid=29259160}}</ref> the timescales of their signal propagation;<ref>{{Cite journal|last=C. Hens, U. Harush, S. Haber, R. Cohen and B. Barzel|date=2019|title=Spatiotemporal signal propagation in complex networks|journal=Nature Physics|volume=15|issue=4|pages=403–412|doi=10.1038/s41567-018-0409-0|bibcode=2019NatPh..15..403H|s2cid=127226650|arxiv=1801.08854}}</ref> their resilience against failures and disruptions<ref>{{Cite journal|last=J. Gao, B. Barzel and A.-L. Barabási|date=2016|title=Universal resilience patterns in complex networks|journal=Nature|volume=530|issue=7590|pages=307–312|bibcode=2016Natur.530..307G|doi=10.1038/nature16948|pmid=26887493|s2cid=4409052}}</ref><ref>{{Cite journal|last=C. Meena, C. Hens, S. Acharyya, S. Haber, S. Boccaletti and B. Barzel|date=2023|title=Emergent stability in complex network dynamics|journal=Nature Physics|volume= 19|issue= 7|pages= 1033–1042|doi=10.1038/s41567-023-02020-8|arxiv=2007.04890|s2cid=234358850 }}</ref> and their recoverability.<ref>{{Cite journal|last=H. Sanhedrai, J. Gao, A. Bashan, M. Schwartz, S. Havlin and B. Barzel|date=2022|title=Reviving a failed network through microscopic interventions|journal=Nature Physics|volume=18|issue=3 |pages=338–349 |doi=10.1038/s41567-021-01474-y|arxiv=2011.14919 |bibcode=2022NatPh..18..338S |s2cid=246160989 }}</ref>
+
+During the COVID-19 Pandemic [https://www.barzellab.com/ Barzel's lab]  published the alternating quarantine strategy<ref name=":0">{{Cite journal|last=Meidan |display-authors=etal|date=2021|title=Alternating quarantine for sustainable epidemic mitigation|journal=Nature Communications|volume=12|issue=1|page=220|doi=10.1038/s41467-020-20324-8|doi-access=free|pmid=33431866|pmc=7801583}}</ref> to mitigate the spread of [[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]] alongside continuous socioeconomic activity. The strategy was implemented by several agencies in Israel<ref>{{Cite news|last1=שומפלבי|first1=אטילה|last2=לוקש|first2=אלכסנדרה|date=2020-06-02|title=בצל החשש לגל הדבקה נוסף: האם יונהג סגר במשמרות?|language=he|work=Ynet|url=https://www.ynet.co.il/health/article/HJCg113m3U|access-date=2021-10-19}}</ref><ref>{{Cite news|title=עבודה שבוע-שבוע ושחרור לפי גיל: האם כך תיראה היציאה מהסגר?|work=TheMarker|url=https://www.themarker.com/news/health/1.8734302|access-date=2021-10-19}}</ref> and around the world.<ref>{{Cite web|title=May 29, 2020: Leuze in the fast lane with "alternating quarantine"|url=https://www.leuze.com/en/US/translate-to-english-company/translate-to-english-press-pr/translate-to-english-2020-05-29-leuze-mit-alternating-quarantine-auf-der-ueberholspur/|access-date=2021-10-19|website=www.leuze.com|language=en-GB}}</ref>
+
+== Academic career ==
+Barzel completed his Ph.D. in physics at the [[Hebrew University of Jerusalem]]
+as a [http://hoffman-program.huji.ac.il/ Hoffman Fellow].<ref>{{cite web|url=http://hoffman-program.huji.ac.il/inner/29 |title=Hoffman fellowship alumni}}</ref>
+He then pursued his postdoctoral training at the [[Center for Complex Network Research]]<ref>{{cite web|url=http://www.barabasilab.com/|title=CCNR website}}</ref> at [[Northeastern University]]
+and at the [[Channing Division of Network Medicine]],<ref>{{cite web|url=http://brighamandwomens.org/research/depts/medicine/channing/default.aspx|title=Channing website}}</ref> [[Harvard Medical School]]. Barzel is a recipient of the Racah prize (2007) and the [[Krill prize]] of the [[Wolf Foundation]] (2019).<ref>{{Cite web|date=2019-12-17|title=Baruch Barzel|url=https://wolffund.org.il/2019/12/17/baruch-barzel-2/|access-date=2021-10-19|website=Wolf Foundation|language=en-US}}</ref> Barzel is also an active public lecturer on science and on Judaism, and presents a weekly corner on Jewish thought on [[Israeli Public Broadcasting Corporation]]
+.<ref>{{cite web|url=http://www.iba.org.il/program.aspx?scode=1549901|title=Kol Shishi radio show}}</ref>
+
+Dr. Barzel's research focuses on the dynamic behavior of complex networks, uncovering universal principles that govern the dynamics of diverse systems, such as disease spreading,<ref>{{Cite journal|last=Uzi Harush and Baruch Barzel|date=2017|title=Dynamic patterns of information flow in complex networks|journal=Nature Communications|volume=8|issue=1|page=2181|doi=10.1038/s41467-017-01916-3|doi-access=free|pmid=29259160|pmc=5736766|bibcode=2017NatCo...8.2181H}}</ref><ref name=":0" /><ref>{{Cite journal|last=Hacohen |display-authors=etal|date=2019|title=Digitizable therapeutics for decentralized mitigation of global pandemics|journal=Scientific Reports|volume=9|issue=1|page=14345|doi=10.1038/s41598-019-50553-x|doi-access=free|pmid=31586137|pmc=6778202|bibcode=2019NatSR...914345H}}</ref> gene regulatory<ref name="B. Barzel and A.-L. Barabási 2013 720–725"/><ref>{{Cite book|title=Handbook of systems biology: concepts and insights|publisher=Academic Press, Cambridge|year=2012|chapter=Chapter 9}}</ref> networks, protein interactions or [[population dynamics]].<ref>{{Cite journal|last=B. Barzel and O. Biham|date=2011|title=Binomial moment equations for stochastic reaction systems|journal=Physical Review Letters|volume=106|issue=15|article-number=150602|doi=10.1103/physrevlett.106.150602|pmid=21568538|bibcode=2011PhRvL.106o0602B|arxiv=1011.0012|s2cid=293255}}</ref>
+
+==Selected publications==
+
+*{{cite journal|last1=Barzel|first1=B.|last2=Biham|first2=O.|year=2011|title=Binomial Moment Equations for Stochastic Reaction Systems|journal=Physical Review Letters|volume=106|issue=15|article-number=150602|doi=10.1103/PhysRevLett.106.150602|pmid=21568538|arxiv=1011.0012|bibcode=2011PhRvL.106o0602B|s2cid=293255}}
+*{{cite journal|last1=Barzel|first1=B.|last2=Barabási|first2=A.-L.|year=2013|title=Universality in Network Dynamics|journal=Nature Physics|volume=9|issue=10|pages=673–681|doi=10.1038/nphys2741|pmid=24319492|pmc=3852675|bibcode=2013NatPh...9..673B}}
+*{{cite journal|last1=Barzel|first1=B.|last2=Barabási|first2=A.-L.|year=2013|title=Network link prediction by global silencing of indirect correlations|journal=Nature Biotechnology|volume=31|issue=8|pages=720–725|doi=10.1038/nbt.2601|pmid=23851447|pmc=3740009|s2cid=5470514}}
+*{{cite journal|last1=Barzel|first1=Y.-Y. Liu|last2=Barabási|first2=A.-L.|year=2015|title=Constructing minimal models for complex system dynamics|journal=Nature Communications|volume=6|page=7186|doi=10.1038/ncomms8186|pmid=25990707|bibcode=2015NatCo...6.7186B|doi-access=free}}
+*{{cite journal|last1=Yan|first1=G.|last2=Tsekenis|first2=G.|last3=Liu|first3=Y.-Y.|last4=Slotine|first4=J.J.|last5=Barabási|first5=A.-L.|year=2015|title=Spectrum of controlling and observing complex networks|journal=Nature Physics|volume=11|issue=9|pages=779–786|doi=10.1038/nphys3422|arxiv=1503.01160|bibcode=2015NatPh..11..779Y|s2cid=14168596}}
+*J. Gao, B. Barzel and A.-L. Barabási, "[http://www.nature.com/nature/journal/v536/n7615/full/nature18019.html Universal resilience patterns in complex networks]", ''Nature'' 530, 307 (2016)
+*U. Harush and B. Barzel, "[https://www.nature.com/articles/s41467-017-01916-3 Dynamic patterns of information flow in complex networks]", ''Nature Communications'' 8, 2181 (2017)
+*C. Hens, U. Harush, S. Haber, R. Cohen and B. Barzel, "[https://www.nature.com/articles/s41567-018-0409-0 Spatiotemporal signal propagation in complex networks]", ''Nature Physics'' (2019)
+*D. Meidan, N. Schulmann, R. Cohen, S. Haber, E. Yaniv, R. Sarid and B. Barzel, [https://www.nature.com/articles/s41467-020-20324-8 Alternating quarantine for sustainable epidemic mitigation]. ''Nature Communications'' '''12''', 220 (2021).
+*H. Sanhedrai, J. Gao, A. Bashan, M. Schwartz, S. Havlin and B. Barzel, [https://www.nature.com/articles/s41567-021-01474-y Reviving a failed network through microscopic interventions]. ''Nature Physics'' '''18''', 338 (2022).
+*C. Meena, C. Hens, S. Acharyya, S. Haber, S. Boccaletti and B. Barzel, [https://www.nature.com/articles/s41567-023-02020-8 Emergent stability in complex network dynamics]. ''Nature Physics'' (2023).
+
+== Public lectures and media coverage==
+
+*Universal resilience patterns in complex networks in [http://www.ynet.co.il/articles/0,7340,L-4782276,00.html Ynet] (Hebrew)
+*Bar-Ilan Nitzotzot meeting 2015 (Hebrew) "[https://www.youtube.com/watch?v=NOGt4xRfcRw Connecting the world in six steps]"
+*Interview on [https://video.wixstatic.com/video/ff174c_294aa40b7d134c758e340b5ca8f93ccc/480p/mp4/file.mp4 Channel 20], 2019 (Hebrew)
+*[https://www.youtube.com/watch?v=xZ3OmlbtaMU Network Earth], 2019
+*Universality in [[network dynamics]] in [http://www.2physics.com/2013/11/universality-in-network-dynamics.html 2Physics] 
+*Predicting the tipping point of complex systems in [https://themunicheye.com/Predicting-the-tipping-point-of-complex-systems-3322 The Munich eye] 
+*A new framework to predict spatiotemporal signal propagation in complex networks in [https://phys.org/news/2019-02-framework-spatiotemporal-propagation-complex-networks.html Phys.org]
+*Profile article on the Complex Network Dynamics lab in [https://www.makorrishon.co.il/scienceandtech/156885/ Makor Rishon] (Hebrew)
+*Krav Mada radio lecture series in [https://www.youtube.com/watch?v=PrAnVF3png4 Galei Zahal] (Hebrew)
+*Israeli experts propose radical post-corona exit strategy in [https://www.israel21c.org/israeli-experts-propose-radical-post-corona-exit-strategy/ Israel21]
+*An alternative quarantine strategy in [https://eleconomista.com.ar/actualidad/una-estrategia-cuarentena-alternativa-n33371 El Economista]
+*A well-calculated proposal: mathematical proposal to fight COVID-19 and get out of the economic blockade in [https://aulamagna.usfq.edu.ec/?p=11402 Aula Magna]
+More [http://www.barzellab.com here].
+
+== References ==
+{{reflist|2}}
+
+==External links==
+*[http://www.barzellab.com Professional Website]
+*[https://scholar.google.com/citations?user=e1L0DdsAAAAJ&hl=en Research Publications]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barzel, Baruch}}
+[[Category:Israeli physicists]]
+[[Category:Israeli mathematicians]]
+[[Category:Complex systems scientists]]
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Probability theorists]]
+[[Category:Academic staff of Bar-Ilan University]]

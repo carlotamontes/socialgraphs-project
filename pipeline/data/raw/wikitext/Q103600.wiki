@@ -1,0 +1,65 @@
+{{short description|German physicist}}
+{{Infobox scientist
+| name = Karl-Henning Rehren
+| image = Longo Fredenhagen Rehren (cropped).jpg
+| caption = Karl-Henning Rehren (right) with [[Klaus Fredenhagen]] (middle) and [[Roberto Longo (mathematician)|Roberto Longo]] (left), [[Oberwolfach]] 2002
+| birth_date = 1956
+| birth_place = [[Celle]], [[West Germany]]
+| field = [[Physics]]
+| known_for = [[Rehren duality]]
+| workplaces = {{Unbulleted list|[[Free University of Berlin]]|[[Utrecht University]]|[[University of Hamburg]]|[[Osnabrück University]]|[[University of Göttingen]]}}
+| education = {{Unbulleted list|[[University of Heidelberg]]|[[University of Freiburg]]}}
+| thesis_title =  Zur invarianten Quantisierung des relativistischen freien Strings
+| thesis_url = https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor=kid%3A1638815054
+| thesis_year = 1984
+| doctoral_advisor = Klaus Pohlmeyer
+}}
+
+'''Karl-Henning Rehren''' (born 1956 in [[Celle]]) is a German [[physicist]] who focuses on [[algebraic quantum field theory]].
+
+== Biography ==
+Rehren studied physics in [[Heidelberg]], [[Paris]] and [[Freiburg]]. In Freiburg he received his [[PhD]] (advisor Klaus Pohlmeyer) in 1984. Habilitation 1991 in Berlin. Since 1997 he teaches physics in [[Göttingen]].<ref>{{cite web|url=https://www.uni-goettingen.de/en/apl.+prof.+dr.+karl-henning+rehren/47080.html|title=Göttingen professor page of Kerl-Henning Rehren|website=University of Göttingen|access-date=February 16, 2021}}</ref>
+
+He became notable outside his field, especially among string theorists, in 1999 when he discovered the [[Algebraic holography]] (also called ''[[Rehren duality]]''), a relation between quantum field theories AdS<sub>d+1</sub> and [[conformal field theory|conformal quantum field theories]] on d-dimensional [[Minkowski spacetime]], which is similar in scope to the [[Holographic principle]]. This work has no direct relation to the more well known [[Juan Maldacena|Maldacena]] duality, but refers to the more general statement of the [[AdS/CFT correspondence]] by [[Edward Witten]]. It is generally accepted that the relation found by Rehren does not provide a proof for Witten's conjecture and is thus considered an independent result.
+
+== Selected publications ==
+* {{Cite book|last1=Fredenhagen|first1=Klaus|last2=Rehren|first2=Karl-Henning|last3=Seiler|first3=Erhard|title=Approaches to Fundamental Physics |chapter=Quantum Field Theory: Where We Are |series=Lecture Notes in Physics |year=2007|journal=Lect. Notes Phys. |volume=721 |pages=61–87|doi=10.1007/978-3-540-71117-9_4|arxiv=hep-th/0603155 |isbn=978-3540711179|s2cid=18249741 }}
+* {{Cite journal|last = Rehren|first = Karl-Henning|title = Algebraic holography|journal = Annales Henri Poincaré|volume = 1|pages = 607–623|year = 2000| issue=4 |doi = 10.1007/PL00001009|arxiv=hep-th/9905179| bibcode=2000AnHP....1..607R | s2cid=5966399 }}
+
+== See also ==
+{{Portal|Physics|Biography}}
+{{cols|colwidth=21em}}
+* [[AdS/CFT correspondence]]
+* [[Axiomatic quantum field theory]]
+* [[Conformal field theory]]
+* [[Local quantum physics]]
+* [[Quantum field theory]]
+* [[Rehren duality]]
+{{colend}}
+
+==References==
+<references/>
+
+== External links ==
+* {{MathGenealogy|id=108648|title=Karl-Henning Rehren}}.
+* {{zbMATH|id=rehren.karl-henning}}.
+* [http://inspirehep.net/author/K.H.Rehren.1/ Author page on INSPIRE-HEP]
+* {{cite web|url=https://www.uni-goettingen.de/en/apl.+prof.+dr.+karl-henning+rehren/47080.html|title=Göttingen professor page of Kerl-Henning Rehren|website=University of Göttingen|access-date=February 16, 2021}}
+* {{cite web|url=http://www.theorie.physik.uni-goettingen.de/~rehren/|title=Personal Homepage|website=University of Göttingen|date=7 April 2000 |access-date=February 16, 2021}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rehren, Karl-Henning}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:20th-century German physicists]]
+[[Category:Heidelberg University alumni]]
+[[Category:University of Paris alumni]]
+[[Category:University of Freiburg alumni]]
+[[Category:Academic staff of the University of Göttingen]]
+[[Category:People from Celle]]
+[[Category:21st-century German physicists]]
+
+
+{{Germany-scientist-stub}}
+{{Germany-physicist-stub}}

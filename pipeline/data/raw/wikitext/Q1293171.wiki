@@ -1,0 +1,108 @@
+{{Short description|American physicist}}
+{{for|American baseball player|Ed Ott}}
+{{Infobox scientist
+| name              = Edward Ott
+| image             = Photo of Edward Ott.jpg
+| birth_date        = {{birth date and age text|22 December 1941}}
+| birth_place       = [[New York City]], U.S.
+| death_date        = 
+| death_place       = 
+| fields            = {{plainlist|
+*[[Physics]]
+*[[Electrical engineering]]
+}}
+| workplaces        = {{plainlist|
+*[[University of Maryland, College Park]]
+*[[University of Cambridge]]
+*[[Cornell University]]
+}}
+| education         = {{Plainlist|
+* [[Cooper Union]]
+* Polytechnic Institute of Brooklyn
+}}
+| doctoral_advisor  = Jerry Shmoys
+| thesis_title      = Transition radiation and related transient phenomena
+| thesis_url        = https://www.proquest.com/dissertations-theses/transition-radiation-related-transient-phenomena/docview/288079468/se-2?accountid=210906
+| thesis_year       = 1967
+| academic_advisors =
+| doctoral_students = [[Thomas Antonsen]]
+| notable_students  = 
+| known_for         = Contributions to [[chaos theory]] ([[control of chaos]])
+| awards            = 
+| religion          = 
+| footnotes         = 
+}}
+
+'''Edward Ott''' (born 22 December 1941) is an American [[physicist]] and electrical engineer, who is a professor at [[University of Maryland, College Park]]. He is best known for his contributions to the development of [[chaos theory]].
+
+Ott was born and grew up in [[New York City]]. He attended [[Stuyvesant High School]], received his bachelor's degree in electrical engineering from The [[Cooper Union]], and his Ph.D. in electrophysics from The Polytechnic Institute of Brooklyn in 1967.<ref>{{cite web |title=Edward Ott |url=https://www.nasonline.org/directory-entry/edward-ott-boyxel/ |website=Member Search |access-date=17 October 2022}}</ref> Following receipt of his Ph.D., he was an NSF postdoctoral fellow in the [[DAMTP|Department of Applied Mathematics and Theoretical Physics of Cambridge University]]. He then joined the faculty of the department of electrical engineering at [[Cornell University]]. Since 1979 he has been a faculty member jointly in the department of physics and the department of electrical engineering at [[The University of Maryland]], with the current titles of distinguished university professor, and Yuen Sang and Yuen Kit So Professor. He was elected to the [[Member of the National Academy of Sciences|National Academy of Sciences]] in 2022.<ref>{{cite web |title=2022 National Academy of Sciences election |url=http://www.nasonline.org/news-and-multimedia/news/2022-nas-election.html |archive-url=https://web.archive.org/web/20220503174757/http://www.nasonline.org/news-and-multimedia/news/2022-nas-election.html |url-status=dead |archive-date=May 3, 2022 |website=National Academy of Sciences |access-date=6 May 2022}}</ref><ref>{{cite web |title=Three Professors Named to National Academy of Sciences |url=https://today.umd.edu/three-professors-named-to-national-academy-of-sciences |website=Maryland Today|date=6 May 2022 }}</ref>
+
+==Research areas==
+
+Prior to his work on chaos and complex systems, Professor Ott had done extensive research in the field of plasma physics. His work on chaos theory and complex systems covers many areas. Some examples are the following:
+* chaotic scattering (including the onset of chaotic scattering as a system parameter is varied and the characteristics of the accompanying fractal structure);
+* fast magnetic dynamos in chaotic flows (addressing the origin of magnetic fields in planets, stars and galaxies);
+* chaotic transport in Hamilton dynamical systems (in which an effective Markov model was introduced to study anomalous transport resulting from the complex scaling structure of proliferating KAM islands);
+* fractal basin boundaries (demonstrating how they come about and how they present a barrier to prediction);
+* communicating with chaos (in which it was shown that chaotic systems could be controlled to follow orbits whose time variation could be tailored to convey information);
+* transitions of the dynamics of chaotic systems with variation of a system parameter (notably his work on "blow-out bifurcations" for systems with chaos on an invariant manifold [e.g., as in synchronization of chaotic systems] and his work introducing the concept of "crises" in which there are abrupt structural changes in chaotic dynamics characterized by scaling behavior of chaotic transients characterized by critical exponents);
+* quantum chaos (e.g., his work on the effect of noise on the dynamical version of Anderson localization of the quantum evolution of classically chaotic kicked systems);
+* weather forecasting (particularly his work devising new ways of assimilating measured data for state estimation of large spatiotemporally chaotic systems); and
+* the dynamics of large networks of interacting units (e.g., the so-called Ott-Antonsen ansatz for analyzing systems of many interacting oscillators).
+
+In what is perhaps Ott's most well-known contribution, he and his colleagues [[Celso Grebogi]] and [[James A. Yorke]] introduced the concept of controlling chaos. In particular, they have shown that dynamics on a chaotic attractor can be controlled by using only small perturbations. The key idea in this work is that embedded within a chaotic attractor there are typically an infinite number of unstable periodic orbits, any one of which can be stabilized by a small control (the [[Control of chaos|O.G.Y. method]]), and that, by properly choosing which orbit to stabilize, enhanced performance can be achieved. As part of its 50th anniversary celebration, the journal, Physical Review Letters, selected this paper as one of its milestone publications.
+
+==Awards==
+* 2014.  Julius Edgar Lillienfeld Prize (from the American Physical Society) "For pioneering contributions in nonlinear dynamics and chaos theory that have been uniquely influential for physicists and scientists working in many fields."  
+* 2016.  Citation Laureate in Physics (with C. Grebogi and J. A. Yorke; from Thompson-Reuters)  "For their development of a control theory of chaotic systems ...."
+* 2017 Lewis Fry Richardson Medal (from the European Geosciences Union)  "... for pioneering contributions in the theory of chaos ...."
+* 2017 Jurgen Moser Lecture/Award (from the Society for Industrial and Applied Mathematics)  "... for his extensive and influential contributions to nonlinear dynamics, including seminal work on chaos theory and on the dynamics of physical systems."
+
+==Books==
+* Ott is the author  of "Chaos in Dynamical Systems" designed for use as a textbook for graduate physics courses and as a reference for researchers in the field.
+* He is also an editor of the book ''Coping with Chaos'' which is a collection of reprints that focuses on how scientists observe, quantify, and control chaos.
+
+==References==
+{{Reflist}}
+*{{cite journal | last1=Bleher | first1=Siegfried | last2=Grebogi | first2=Celso | last3=Ott | first3=Edward | title=Bifurcation to chaotic scattering | journal=Physica D: Nonlinear Phenomena | publisher=Elsevier BV | volume=46 | issue=1 | year=1990 | issn=0167-2789 | doi=10.1016/0167-2789(90)90114-5 | pages=87–121| bibcode=1990PhyD...46...87B }}
+*{{cite journal | last1=Finn | first1=John M. | last2=Ott | first2=Edward | title=Chaotic flows and fast magnetic dynamos | journal=Physics of Fluids | publisher=AIP Publishing | volume=31 | issue=10 | year=1988 | issn=0031-9171 | doi=10.1063/1.866956 | page=2992| bibcode=1988PhFl...31.2992F }}
+*{{cite journal | last1=Meiss | first1=James D. | last2=Ott | first2=Edward | title=Markov-Tree Model of Intrinsic Transport in Hamiltonian Systems | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=55 | issue=25 | date=1985-12-16 | issn=0031-9007 | doi=10.1103/physrevlett.55.2741 | pages=2741–2744| pmid=10032226 | bibcode=1985PhRvL..55.2741M }}
+*{{cite journal | last1=McDonald | first1=Steven W. | last2=Grebogi | first2=Celso | last3=Ott | first3=Edward | last4=Yorke | first4=James A. | title=Fractal basin boundaries | journal=Physica D: Nonlinear Phenomena | publisher=Elsevier BV | volume=17 | issue=2 | year=1985 | issn=0167-2789 | doi=10.1016/0167-2789(85)90001-6 | pages=125–153| bibcode=1985PhyD...17..125M }}
+*{{cite journal | last1=Hayes | first1=Scott | last2=Grebogi | first2=Celso | last3=Ott | first3=Edward | title=Communicating with chaos | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=70 | issue=20 | date=1993-05-17 | issn=0031-9007 | doi=10.1103/physrevlett.70.3031 | pages=3031–3034| pmid=10053758 | bibcode=1993PhRvL..70.3031H }}
+*{{cite journal | last1=Ott | first1=Edward | last2=Sommerer | first2=John C. | title=Blowout bifurcations: the occurrence of riddled basins and on-off intermittency | journal=Physics Letters A | publisher=Elsevier BV | volume=188 | issue=1 | year=1994 | issn=0375-9601 | doi=10.1016/0375-9601(94)90114-7 | pages=39–47| bibcode=1994PhLA..188...39O }}
+* {{cite journal | last1=Ott | first1=Edward | last2=Alexander | first2=J.C. | last3=Kan | first3=I. | last4=Sommerer | first4=J.C. | last5=Yorke | first5=J.A. | title=The transition to chaotic attractors with riddled basins | journal=Physica D: Nonlinear Phenomena | publisher=Elsevier BV | volume=76 | issue=4 | year=1994 | issn=0167-2789 | doi=10.1016/0167-2789(94)90047-7 | pages=384–410| bibcode=1994PhyD...76..384O }}
+*{{cite journal | last1=Grebogi | first1=Celso | last2=Ott | first2=Edward | last3=Yorke | first3=James A. | title=Crises, sudden changes in chaotic attractors, and transient chaos | journal=Physica D: Nonlinear Phenomena | publisher=Elsevier BV | volume=7 | issue=1–3 | year=1983 | issn=0167-2789 | doi=10.1016/0167-2789(83)90126-4 | pages=181–200| bibcode=1983PhyD....7..181G }}
+* {{cite journal | last1=Grebogi | first1=Celso | last2=Ott | first2=Edward | last3=Romeiras | first3=Filipe | last4=Yorke | first4=James A. | title=Critical exponents for crisis-induced intermittency | journal=Physical Review A | publisher=American Physical Society (APS) | volume=36 | issue=11 | date=1987-12-01 | issn=0556-2791 | doi=10.1103/physreva.36.5365 | pages=5365–5380| pmid=9898807 | bibcode=1987PhRvA..36.5365G }}
+*{{cite journal | last1=Ott | first1=E. | last2=Antonsen | first2=T. M. | last3=Hanson | first3=J. D. | title=Effect of Noise on Time-Dependent Quantum Chaos | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=53 | issue=23 | date=1984-12-03 | issn=0031-9007 | doi=10.1103/physrevlett.53.2187 | pages=2187–2190| bibcode=1984PhRvL..53.2187O }}
+* {{cite journal|first=E. |last=Ott |display-authors=etal|title=A Local Ensemble Kalman Filter for Atmospheric Data Assimilation|journal=Tellus A|volume=56|issue=5|pages=415–428|year=2004|doi=10.1111/j.1600-0870.2004.00076.x|doi-access=free}}
+*{{cite journal | last1=Ott | first1=Edward | last2=Antonsen | first2=Thomas M. | title=Low dimensional behavior of large systems of globally coupled oscillators | journal=Chaos: An Interdisciplinary Journal of Nonlinear Science | publisher=AIP Publishing | volume=18 | issue=3 | year=2008 | issn=1054-1500 | doi=10.1063/1.2930766 | page=037113| pmid=19045487 | arxiv=0806.0004 | bibcode=2008Chaos..18c7113O | s2cid=15760624 }}
+*{{cite journal | last1=Ott | first1=Edward | last2=Grebogi | first2=Celso | last3=Yorke | first3=James A. | title=Controlling chaos | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=64 | issue=11 | date=1990-03-12 | issn=0031-9007 | doi=10.1103/physrevlett.64.1196 | pages=1196–1199| pmid=10041332 | bibcode=1990PhRvL..64.1196O }}
+* {{cite journal | last1=Ott | first1=Edward | last2=Spano | first2=Mark | title=Controlling Chaos | journal=Physics Today | publisher=AIP Publishing | volume=48 | issue=5 | year=1995 | issn=0031-9228 | doi=10.1063/1.881461 | pages=34–40| bibcode=1995PhT....48e..34O }}
+*{{cite book|author=E. Ott|title=Chaos in Dynamical Systems|publisher=Cambridge University Press|edition=2|year=2002|isbn= 978-0521010849|url=http://catdir.loc.gov/catdir/samples/cam033/2001052863.pdf}}
+
+==External links==
+* [http://www.chaos.umd.edu/personnel/ott.html University of Maryland Webpage]
+
+{{chaos theory}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ott, Edward}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:20th-century American physicists]]
+[[Category:Chaos theorists]]
+[[Category:American systems scientists]]
+[[Category:American theoretical physicists]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Fellows of the Society for Industrial and Applied Mathematics]]
+[[Category:21st-century American physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:American electrical engineers]]
+[[Category:American plasma physicists]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:Complex systems scientists]]
+[[Category:Cooper Union alumni]]
+[[Category:Fellows of the IEEE]]
+[[Category:Radiophysicists]]

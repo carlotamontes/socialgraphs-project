@@ -1,0 +1,157 @@
+{{Short description|British mathematical physicist}}
+{{distinguish|David Bridges}}
+[[File:David C. Brydges Oberwolfach 2017.jpg|thumb|Brydges at [[Mathematisches Forschungsinstitut Oberwolfach|Oberwolfach]] in 2017]]
+'''David Chandos Brydges''' (born 1 July 1949 in [[Chester]], UK) is a [[mathematical physicist]].
+
+Brydges received in 1976 his Ph.D. from the [[University of Michigan]] with thesis advisor Paul Federbush and thesis '' A Linear Lower Bound for Generalized Yukawa Model Field Theories''.<ref>{{MathGenealogy|id=5257|title=David Chanos Brydges}}</ref> Brydges was a professor at the [[University of Virginia]] and is now a professor emeritus (formerly holding a Canada Research Chair) at the [[University of British Columbia]] in [[Vancouver]].
+
+Brydges is concerned with mathematical quantum field theory and statistical mechanics. His research deals with functional integral techniques (including [[supersymmetry]] techniques), cluster development techniques, [[renormalization group]] methods on problems of static mechanics, and probabilistic problems. In 1985 he and [[Thomas Spencer (mathematical physicist)|Thomas C. Spencer]] introduced "lace expansion" for the analysis of the [[self-avoiding walk]].<ref>{{cite book |isbn=978-3-540-31189-8 |title=The Lace Expansion and its Applications |last1=Slade |first1=Gordon |year=2006 |publisher=[[Springer (publisher)|Springer]] |series=[[Lecture Notes in Mathematics]] |volume=1879}}</ref>
+
+From 2003 to 2005, Brydges was president of [[International Association of Mathematical Physics]]. In 2007, he was elected a Fellow of the [[Royal Society of Canada]]. In 2010 he was, with [[Gordon Douglas Slade|Gordon Slade]], an Invited Speaker at the [[International Congress of Mathematicians]] in [[Hyderabad]].<ref>{{cite book |doi=10.1142/9789814324359_0143 |isbn=978-981-4324-30-4 |chapter=Renormalisation Group Analysis of Weakly Self-avoiding Walk in Dimensions Four and Higher |title=Proceedings of the International Congress of Mathematicians 2010 |pages=2232–2257 |year=2011 |last1=Brydges |first1=David |last2=Slade |first2=Gordon |publisher=[[World Scientific]]|arxiv=1003.4484 |s2cid=15183531 }}</ref> In 2024, he received the [[Henri Poincaré Prize]] from the [[International Association of Mathematical Physics]]<ref>{{Cite web |title=ICMP 2024 |url=https://icmp2024.org/program-by-session.html |access-date=2024-07-14 |website=icmp2024.org}}</ref> and the [[Dannie Heineman Prize for Mathematical Physics|Dannie Heineman Prize]]<ref>{{Cite journal |title=APS -2024 APS March Meeting - Event - Prize Talk: Dannie Heineman Prize for Mathematical PhysicsTitle: The Lace expansion and Random Walk Representation in Statistical Mechanics |url=https://meetings.aps.org/Meeting/MAR24/Session/Q09.1 |journal=Bulletin of the American Physical Society |publisher=American Physical Society}}</ref> [[Dannie Heineman Prize for Mathematical Physics|for Mathematical Physics]] from the [[American Physical Society]] and the [[American Institute of Physics]].
+
+==Selected publications==
+*{{cite journal
+ |last1=Brydges |first1=David
+ |last2=Fröhlich |first2=Jürg
+ |last3=Seiler |first3=Erhard
+ |year=1979
+ |title=On the construction of quantized gauge fields. I. General results
+ |journal=[[Annals of Physics]]
+ |volume=121 |issue=1 |pages=227
+ |bibcode=1979AnPhy.121..227B
+ |doi=10.1016/0003-4916(79)90098-8
+}}
+*{{cite journal
+ |last1=Brydges |first1=David C.
+ |last2=Fröhlich |first2=Jürg
+ |last3=Seiler |first3=Erhard
+ |year=1980
+ |title=Construction of quantised gauge fields: II. Convergence of the lattice approximation
+ |journal=[[Communications in Mathematical Physics]]
+ |volume=71 |issue=2 |pages=159
+ |bibcode=1980CMaPh..71..159B
+ |doi=10.1007/BF01197918
+ |s2cid=127953558
+ }}
+*{{cite journal
+ |last1=Brydges |first1=David C.
+ |last2=Fröhlich |first2=Jürg
+ |last3=Seiler |first3=Erhard
+ |year=1981
+ |title=On the construction of quantized gauge fields: III. The two-dimensional abelian higgs model without cutoffs
+ |journal=Communications in Mathematical Physics
+ |volume=79 |issue=3 |pages=353
+ |bibcode=1981CMaPh..79..353B
+ |doi=10.1007/BF01208500
+}}
+*{{cite journal
+ |last1=Brydges |first1=David C.
+ |year=1978
+ |title=A rigorous approach to Debye screening in dilute classical coulomb systems
+ |journal=Communications in Mathematical Physics
+ |volume=58 |issue=3 |pages=313–350
+ |bibcode=1978CMaPh..58..313B
+ |doi=10.1007/BF01614227
+|s2cid=122030703
+ |url=http://projecteuclid.org/euclid.cmp/1103901494
+ }}
+*{{cite journal
+ |last1=Brydges |first1=David
+ |last2=Federbush |first2=Paul
+ |year=1978
+ |title=A new form of the Mayer expansion in classical statistical mechanics
+ |journal=[[Journal of Mathematical Physics]]
+ |volume=19 |issue=10 |pages=2064
+ |bibcode=1978JMP....19.2064B
+ |doi=10.1063/1.523586
+}}
+*{{cite journal
+ |last1=Brydges |first1=David C.
+ |last2=Federbush |first2=Paul
+ |year=1980
+ |title=Debye screening
+ |journal=Communications in Mathematical Physics
+ |volume=73 |issue=3 |pages=197
+ |bibcode=1980CMaPh..73..197B
+ |doi=10.1007/BF01197700
+|hdl=2027.42/46519
+ |s2cid=189831842
+ |hdl-access=free
+ }}
+*{{cite book
+ |last1=Brydges |first1=David C.
+ |last2=Federbush |first2=Paul
+ |year=1981
+ |chapter=Debye Screening in Classical Coulomb Systems
+ |title=Rigorous Atomic and Molecular Physics
+ |pages=371–439
+ |doi=10.1007/978-1-4613-3350-0_9
+ |isbn=978-1-4613-3352-4
+}}
+*{{cite journal
+ |last1=Brydges |first1=David
+ |last2=Fröhlich |first2=Jürg
+ |last3=Spencer |first3=Thomas
+ |year=1982
+ |title=The random walk representation of classical spin systems and correlation inequalities
+ |journal=Communications in Mathematical Physics
+ |volume=83 |issue=1 |pages=123
+ |bibcode=1982CMaPh..83..123B
+ |doi=10.1007/BF01947075
+|s2cid=56021547
+ |url=http://projecteuclid.org/euclid.cmp/1103920749
+ |url-access=subscription
+ }}
+*{{cite book
+ |last=Brydges |first=David C.
+ |year=1986
+ |chapter=A short course on cluster expansions
+ |editor1-last=Osterwalder |editor1-first=K.
+ |editor2-last=Stora |editor2-first=R.
+ |title=Les Houches, Session XLIII, 1984
+ |chapter-url=http://www.math.ubc.ca/~db5d/Seminars/les_houches_84.pdf
+ |publisher=Elsevier Science Publishers B. V.
+}}
+*{{cite journal
+ |last1=Brydges |first1=David
+ |last2=Spencer |first2=Thomas
+ |year=1985
+ |title=Self-avoiding walk in 5 or more dimensions
+ |journal=Communications in Mathematical Physics
+ |volume=97 |issue=1–2 |pages=125
+ |bibcode=1985CMaPh..97..125B
+ |doi=10.1007/BF01206182
+|s2cid=189832287
+ |url=http://projecteuclid.org/euclid.cmp/1103941982
+ |url-access=subscription
+ }}
+*{{cite journal
+ |last1=Brydges |first1=David C.
+ |last2=Martin |first2=Ph. A
+ |year=1999
+ |title=Coulomb Systems at Low Density: A Review
+ |journal=[[Journal of Statistical Physics]]
+ |volume=96 |issue=5–6 |pages=1163
+ |arxiv=cond-mat/9904122
+ |bibcode=1999JSP....96.1163B
+ |doi=10.1023/A:1004600603161
+|s2cid=54979869
+ }}
+
+==References==
+<references/>
+
+==External links==
+* [http://www.math.ubc.ca/~db5d/ Homepage]
+
+{{authority control}}
+{{DEFAULTSORT:Brydges, David Chandos}}
+[[Category:British mathematical physicists]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:University of Virginia faculty]]
+[[Category:Academic staff of the University of British Columbia]]
+[[Category:British expatriate academics in Canada]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Presidents of the International Association of Mathematical Physics]]

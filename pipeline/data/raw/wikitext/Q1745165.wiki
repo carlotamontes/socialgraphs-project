@@ -1,0 +1,136 @@
+{{short description|German-American physicist and engineer (1925-2000)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Klaus Halbach
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Klaus-halbach.gif<!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = Halbach {{circa|1980s}}
+| birth_name        =
+| birth_date        = {{birth date|1925|2|3}}
+| birth_place       = [[Wuppertal]], [[Weimar Republic]]
+| death_date        = {{death date and age|2000|05|11|1925|2|3}}
+| death_place       = [[Berkeley, California]], U.S.
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Accelerator physics]], [[nuclear physics]]
+| workplaces        = {{plainlist|
+*[[University of Fribourg]]
+*[[Stanford University]]
+*[[Lawrence Berkeley National Laboratory]]
+}}
+| patrons           = 
+| education         = [[University of Basel]]
+| thesis_title      = Über eine neue Methode zur Messung von Relaxationszeiten und über den Spin von Cr<sup>53</sup>
+| thesis_url        = 
+| thesis_year       = 1954
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Halbach array]]
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Klaus Halbach''' (February 3, 1925 – May 11, 2000) was a German-born American applied physicist, engineer and inventor, who was a staff scientist at [[Lawrence Berkeley National Laboratory]]. He is best known for his contributions to [[Magnetic circuit|magnetic system]] designs for [[Particle accelerator|accelerators]] and [[nuclear physics|nuclear]] [[instrumentation]]. The [[Halbach array]] is named after him.
+
+==Biography==
+Klaus Halbach was born on {{birth date |1925|2|3}} in [[Wuppertal]], [[Weimar Republic]].<ref name="physics-today"/> After joining the [[Luftwaffe]] in 1943, he trained as a fighter plot, although he never saw combat. Relocating to [[Grenzach-Wyhlen]] following the [[bombing of Wuppertal in World War II]], he married Ruth Halbach in 1945. He was captured as a [[prisoner of war]] near [[Munich]] in the same year, and returned to Grenzach following his release.<ref name="art-of-magnet"/>
+
+He received a PhD degree in [[nuclear physics]] from the [[University of Basel]] in 1954, after which he has worked as an instructor at [[University of Fribourg]] for three years. His PhD studies concerned the newly-emerging area of [[nuclear magnetic resonance]]; his work brought him into contact with [[Felix Bloch]], who received 1952 [[Nobel Prize in Physics]] for his contributions to this field.<ref name="art-of-magnet"/> In 1957, he came to the United States under a [[Swiss National Science Foundation]] grant to work at [[Stanford University]] as a research associate under Bloch.<ref name="physics-today"/> Following his work at Stanford University, he briefly returned to University of Fribourg to start a [[plasma physics]] group. In 1960, he joined the fusion research group at [[Lawrence Berkeley National Laboratory]], where he spent the remainder of his professional career.<ref name="physics-today"/><ref name="lbl-sciencebeat"/>
+
+During his tenure, he has made contributions the design of the [[synchrotron]] Omnitron, which formed the basis of [[Bevalac]].<ref name="lbl-sciencebeat"/> Working on numerous accelerator designs, he is best known for his contributions to the design of [[Magnetic circuit|magnetic systems]] such as [[Wiggler (synchrotron)|wiggler]]s and [[undulator]]s.<ref name="physics-today"/><ref name="undulator-pioneer"/> Halbach and his colleague (and son-in-law) Ron Holsinger developed the widely-used POISSON package of [[simulation software]] for magnetic system design.<ref name="physics-today"/> He also contributed to the development of other accelerator design software, such as PANDIRA, used for certain magnet designs, and SUPERFISH, used for [[microwave cavity|microwave cavities]].<ref name="poisson-group"/> In the late 1970s, he proposed a [[permanent magnet]] array configuration for obtaining [[Multipole magnet|multipole magnetic fields]];<ref name="halbach-array1"/><ref name="halbach-array2"/> this configuration, known as [[Halbach array]], is widely used in different devices in addition to accelerators, such as [[permanent magnet motor]]s<ref name="halbach-array3"/> and [[magnetic resonance imaging|MRI]] machines.<ref name="halbach-array-mri"/> 
+
+Despite his official retirement from Lawrence Berkeley National Laboratory in 1991, he continued his research on magnet design and trained students in his field.<ref name="physics-today"/> In 1995, a symposium on magnet technology was held by Lawrence Berkeley National Laboratory in honor of his 70th birthday.<ref name="halbach-symposium"/> He died on May 11, 2000 in [[Berkeley, California]], due to complications from [[prostate cancer]]. He was survived by his wife Ruth Halbach, daughter, and three grandchildren.<ref name="physics-today"/><ref name="lbl-sciencebeat"/>
+
+==Selected publications==
+===Journal articles===
+* {{cite journal |last1=Halbach |first1=K. |title=Modulation-effect corrections for moments of magnetic resonance line shapes |journal=[[Physical Review]] |date=August 1960 |volume=119 |issue=4 |page=1230 |doi=10.1103/PhysRev.119.1230|bibcode=1960PhRv..119.1230H }}
+* {{cite journal |last1=Halbach |first1=K. |title=Matrix representation of Gaussian optics |journal=[[American Journal of Physics]] |date=February 1964 |volume=32 |issue=2 |pages=90–108 |doi=10.1119/1.1970159|bibcode=1964AmJPh..32...90H |url=https://escholarship.org/content/qt05c1r9z8/qt05c1r9z8.pdf }}
+* {{cite journal |last1=Halbach |first1=K. |title=Strong rare earth cobalt quadrupoles |journal=[[IEEE Transactions on Nuclear Science]] |date=June 1979 |volume=26 |issue=3 |pages=3882–3884 |doi=10.1109/TNS.1979.4330638|bibcode=1979ITNS...26.3882H |url=https://digital.library.unt.edu/ark:/67531/metadc1108238/ }}
+* {{cite journal |last1=Halbach |first1=K. |title=Design of permanent multipole magnets with oriented rare earth cobalt material |journal=[[Nuclear Instruments and Methods in Physics Research|Nuclear Instruments and Methods]] |date=February 1980 |volume=169 |issue=1 |pages=1–10 |doi=10.1016/0029-554X(80)90094-4|bibcode=1980NucIM.169....1H |url=https://escholarship.org/uc/item/20b829tr }}
+* {{cite journal |last1=Halbach |first1=K. |title=Physical and optical properties of rare earth cobalt magnets |journal=[[Nuclear Instruments and Methods in Physics Research]] |date=August 1981 |volume=187 |issue=1 |pages=109–117 |doi=10.1016/0029-554X(81)90477-8|bibcode=1981NIMPR.187..109H |url=https://digital.library.unt.edu/ark:/67531/metadc1052272/ }}
+* {{cite journal |last1=Halbach |first1=K. |title=Application of permanent magnets in accelerators and electron storage rings |journal=[[Journal of Applied Physics]] |date=April 1985 |volume=57 |pages=3605–3608 |doi=10.1063/1.335021}}
+
+===Reports===
+*{{cite report |author=K. Halbach |author-link= |date=February 1995 |title=The Art and Science of Magnet Design: Volume 2, Selected Notes of Klaus Halbach  |url=https://www.osti.gov/servlets/purl/41368 |publisher=[[University of California, Berkeley]] |page= |docket= |access-date=June 26, 2024 |quote=}}
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="art-of-magnet">{{cite report |author= |author-link= |date=February 1995 |title=The Art and Science of Magnet Design: Volume 1 |url=https://www.osti.gov/servlets/purl/41368 |publisher=[[University of California, Berkeley]] |page= |docket= |access-date=June 24, 2024 |quote=}}</ref>
+
+<ref name="halbach-array1">{{cite journal |last1=Halbach |first1=K. |title=Design of permanent multipole magnets with oriented rare earth cobalt material |journal=[[Nuclear Instruments and Methods in Physics Research|Nuclear Instruments and Methods]] |date=February 1980 |volume=169 |issue=1 |pages=1–10 |doi=10.1016/0029-554X(80)90094-4|bibcode=1980NucIM.169....1H |url=https://escholarship.org/uc/item/20b829tr }}</ref>
+
+<ref name="halbach-array2">{{cite conference |url=https://www.osti.gov/servlets/purl/32793 |title=Halbach array motor/generators: A novel generalized electric machine |first1=B. T. |last1=Merritt |first2=R. F. |last2=Post |first3=G. R. |last3=Dreifuerst |first4=D. A. |last4=Bender |date=February 3, 1995 |publisher= |book-title= |pages= |location=Berkeley, California |conference=Halbach Festschrift Symposium |id= |display-authors=3}}</ref>
+
+<ref name="halbach-array3">{{cite journal |last1=Zhu |first1=Z. Q. |last2=Howe |first2=D. |title=Halbach permanent magnet machines and applications: a review |journal=[[Proceedings of the Institution of Electrical Engineers|IEE Proceedings - Electric Power Applications]] |date=July 2001 |volume=148 |issue=4 |pages=299–308 |doi=10.1049/ip-epa:20010479|doi-broken-date=12 July 2025 }}</ref>
+
+<ref name="halbach-array-mri">{{cite journal |last1=Wald |first1=Lawrence L. |last2=McDaniel |first2=Patrick C. |last3=Witzel |first3=Thomas |last4=Stockmann |first4=Jason P. |title=Low-cost and portable MRI |journal=Journal of Magnetic Resonance Imaging |date=September 2020 |volume=52 |issue=3 |pages=686–696 |doi=10.1002/jmri.26942 |pmid=31605435 |display-authors=3|pmc=10644353 }}</ref>
+
+<ref name="halbach-symposium">{{cite journal |last1=Carr |first1=Roger |title=The Halbach symposium on magnet technology |journal=Synchrotron Radiation News |date=1995 |volume=8 |issue=2 |pages=7–8 |doi=10.1080/08940889508602793|bibcode=1995SRNew...8....7C }}</ref>
+
+<ref name="lbl-sciencebeat">{{cite web |last1=Yarris |first1=Lynn |title=Klaus Halbach, Revered Magnet and Accelerator Design Expert |url=https://www2.lbl.gov/Science-Articles/Archive/klaus-halbach.html |website=Sciencebeat |publisher=[[Lawrence Berkeley National Laboratory]] |access-date=June 24, 2024 |date=May 19, 2000}}</ref>
+
+<ref name="physics-today">{{cite journal |last1=Winick |first1=Herman |last2=Brown |first2=Karl |last3=Goldberg |first3=David |title=Obituary: Klaus Halbach |journal=[[Physics Today]] |date=2001 |volume=54 |issue=4 |pages=89–90 |url=https://pubs.aip.org/physicstoday/article/54/4/89/411861/Klaus-Halbach |doi=10.1063/1.1372126|bibcode=2001PhT....54d..89W |url-access=subscription }}</ref>
+
+<ref name="poisson-group">{{cite journal |last1=Warren |first1=J. L. |last2=Boicourt |first2=G. P. |last3=Menzel |first3=M. T. |last4=Rodenz |first4=G. W. |last5=Vasquez |first5=M. C. |title=Revision of and Documentation for the Standard Version of the Poisson Group Codes |journal=[[IEEE Transactions on Nuclear Science]] |date=1985 |volume=32 |issue=5 |pages=2870–2872 |doi=10.1109/TNS.1985.4334210 |bibcode=1985ITNS...32.2870W |url=https://digital.library.unt.edu/ark:/67531/metadc1088090/ |display-authors=3 |osti=5674241 }}</ref>
+
+<ref name="undulator-pioneer">{{cite journal |last1=Winick |first1=Herman |title=Klaus Halbach, Undulator Pioneer |journal=Synchrotron Radiation News |date=2015 |volume=28 |issue=4 |pages=26–27 |doi=10.1080/08940886.2015.1059234|bibcode=2015SRNew..28...26W }}</ref>
+
+}}
+{{DEFAULTSORT:Halbach, Klaus}}
+[[Category:1925 births]]
+[[Category:2000 deaths]]
+
+[[Category:20th-century American engineers]]
+[[Category:20th-century American inventors]]
+[[Category:20th-century American physicists]]
+[[Category:20th-century German engineers]]
+[[Category:20th-century German inventors]]
+[[Category:20th-century German physicists]]
+[[Category:Academic staff of the University of Fribourg]]
+[[Category:Accelerator physicists]]
+[[Category:American nuclear engineers]]
+[[Category:American nuclear physicists]]
+[[Category:American plasma physicists]]
+[[Category:Deaths from prostate cancer in California]]
+[[Category:Emigrants from West Germany to the United States]]
+[[Category:Engineers from California]]
+[[Category:Engineers from North Rhine-Westphalia]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:German expatriates in Switzerland]]
+[[Category:German nuclear physicists]]
+[[Category:German plasma physicists]]
+[[Category:German prisoners of war in World War II]]
+[[Category:Lawrence Berkeley National Laboratory people]]
+[[Category:Luftwaffe personnel of World War II]]
+[[Category:Magneticians]]
+[[Category:Scientists from Wuppertal]]
+[[Category:Stanford University postdoctoral scholars]]
+[[Category:University of Basel alumni]]

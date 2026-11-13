@@ -1,0 +1,89 @@
+{{Infobox scientist
+| caption          = 
+| name             = Evgeny Sklyanin
+| birth_date       = {{birth date and age|1955|05|24|df=y}}
+| birth_place      = [[Leningrad]], [[Soviet Union]]
+| field            = [[Mathematical Physics]]
+| workplaces       = [[Steklov Mathematical Institute]] <br> [[University of York]]
+| education        = [[Leningrad Polytechnical Institute]] (1978) <br>[[Steklov Mathematical Institute]] ([[Ph.D.]], 1980) <br> [[Steklov Mathematical Institute]] (DrSci (habilitation), 1989)
+| thesis_title     = Quantum Variant of the Inverse Scattering Method
+| thesis_year      = 1980
+| doctoral_advisor = [[Ludvig Dmitrievich Faddeev|Ludvig Faddeev]]
+| known_for        = [[Sklyanin bracket]], [[Sklyanin algebra]]
+| awards           = 
+| religion         = 
+| footnotes        = 
+}}
+'''Evgeny Konstantinovich Sklyanin''' ({{langx|ru|Евгений Константинович Склянин}}, born 24 May 1955 in [[Leningrad]], [[Soviet Union]]) is a [[mathematical physics|mathematical physicist]], currently a professor of mathematics at the [[University of York]].<ref name=":1">{{cite web|title=Evgeny Sklyanin|url=https://www.york.ac.uk/maths/staff/evgeny-sklyanin/|website=University of York|publisher=Department of Mathematics University of York|accessdate=25 November 2017}}</ref> His research is in the fields of [[integrable systems]] and [[quantum groups]]. His major contributions are in the theory of quantum integrable systems, separation of variables, special functions.
+
+==Biography==
+
+He graduated from the Department of Physics, Leningrad State University (USSR) in 1978 and earned PhD (Candidate) in 1980 and DrSci (Habilitation) degree in 1989, both at [[Steklov Mathematical Institute]], [[St. Petersburg]]. He then held various research positions at Steklov until 2001, when he moved to the [[University of York]].<ref name=":1"/>
+
+He provided, via particular examples, ideas that led to the discovery of [[quantum groups]] and [[Yangian]]s.<ref>{{cite journal
+| first   = E. K.
+| last    = Sklyanin
+| title   = Some algebraic structures connected with the Yang—Baxter equation
+| journal = Functional Analysis and Its Applications
+| year    = 1982
+| volume  = 16
+| issue   = 4
+| pages   = 263–270
+| doi     = 10.1007/BF01077848
+| s2cid   = 119877313
+}}</ref>
+He pioneered the investigation of [[Integrable system|quantum integrable systems]] with boundaries.<ref>{{cite journal
+| first   = E. K.
+| last    = Sklyanin
+| title   = Boundary conditions for integrable quantum systems
+| journal = Journal of Physics A: Mathematical and General
+| year    = 1988
+| volume  = 21
+| issue   = 10
+| pages   = 2375–2389
+| bibcode = 1988JPhA...21.2375S
+| doi     = 10.1088/0305-4470/21/10/015
+}}</ref>
+He developed the method of separation of variables in the theory of integrable systems.<ref>{{cite journal
+| first1  = E. K.
+| last1   = Sklyanin
+| first2  = L. A.
+| last2   = Takhtadzhyan
+| first3  = L. D.
+| last3   = Faddeev
+| title   = Quantum inverse problem method. I
+| journal = Theoretical and Mathematical Physics
+| year    = 1979
+| volume  = 40
+| issue   = 2
+| pages   = 688–706
+| bibcode = 1979TMP....40..688S
+| doi     = 10.1007/BF01018718
+| s2cid   = 120710212
+}}</ref>
+
+He was elected [[Fellow of the Royal Society]] in 2008.<ref name="rs">{{cite web|title=Evgeny Sklyanin|url=https://royalsociety.org/people/evgeny-sklyanin-12290/|website=Fellows Directory - The Royal Society|publisher=The Royal Society|accessdate=25 November 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://maths.york.ac.uk/www/eks2/}}
+*{{MathGenealogy|id=181363}}
+*[https://royalsociety.org/people/evgeny-sklyanin-12290/ Evgeny Sklyanin] at [[The Royal Society]]
+
+{{FRS 2008}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sklyanin, Evgeny}}
+[[Category:Mathematicians of the University of York]]
+[[Category:Mathematicians from Saint Petersburg]]
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:20th-century Russian mathematicians]]
+[[Category:21st-century Russian mathematicians]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Russian physicists]]
+
+
+{{Russia-mathematician-stub}}

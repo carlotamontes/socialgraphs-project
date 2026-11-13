@@ -1,0 +1,95 @@
+{{short description|Japanese applied physicist (born 1950)}}
+{{Infobox scientist
+| name              = Yoshihisa Yamamoto
+| image             = Photo Yoshihisa Yamamoto 2020.jpg
+| image_size        = 
+| alt               = 
+| birth_date        = {{birth-date and age|November 21, 1950}}
+| birth_place       = [[Tokyo]], Japan
+| death_date        = 
+| death_place       = 
+| residence         = 
+| nationality       = 
+| ethnicity         = 
+| fields            = 
+| workplaces        = 
+| education         = [[Tokyo Institute of Technology]]<br/>[[University of Tokyo]]
+| doctoral_advisors = Hisayoshi Yanai <br /> Takeshi Kamiya
+| academic_advisors = [[Yasuharu Suematsu]]
+| doctoral_students = [[Isaac Chuang]] (MIT) <br />[[Hui Cao]] (Yale) <br /> [[Debbie Leung]] (Waterloo) <br /> [[Kai-Mei Fu]] (Washington) <br /> [[Eleni Diamanti]] (Pierre-Marie Curie) <br /> [[Orly Alter]]
+| notable_students  = 
+| known_for         = Coherent optical communications;<ref name="Santori2002"/><ref name="Benson2000"/> [[Quantum dot|Quantum-dot single-photon sources]];<ref name="Inoue2002"/><ref name="Takesue2007"/> [[Quantum key distribution|Differential phase-shift quantum key distribution]];<ref name="Inoue2002"/><ref name="Takesue2007"/> [[Quantum dot|Optical control of quantum-dot spin qubits]];<ref name="Press2008"/><ref name="DeGreve2012"/> [[Exciton-polaritons|BEC of exciton-polaritons]];<ref name="Deng2002"/><ref name="Deng2010"/> Coherent Ising machines;<ref name="McMahon2016"/>
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = Willis Lamb Award (2022).<ref name="Yamamoto Willis Lamb"/> <br/> Okawa Prize (2011).<ref name="Yamamoto Okawa"/> <br/> [[Medals of Honor (Japan)|Medal of Honor with Purple Ribbon]] (2005).<ref name="Yamamoto Purple Ribbon"/>
+<br/> [[IEEE| IEEE LEOS Quantum Electronics Award]] (2000).<ref name="Yamamoto IEEE"/> <br/> Matsuo Science Prize (2000). <br/> [[Nishina Memorial Prize|Nishina Prize]] (1992).<ref name="Yamamoto Nishina"/><br/>[[Carl Zeiss Foundation|Carl Zeiss Award]] (1992).<ref name="Yamamoto Carl Zeiss" />
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         =
+}}
+
+{{nihongo|'''Yoshihisa Yamamoto'''|山本 喜久|Yamamoto Yoshihisa|}} is the director of Physics & Informatics Laboratories (PHI Labs), NTT Research, Inc. He is also Professor (Emeritus) at [[Stanford University]] and [[National Institute of Informatics]] (Tokyo).
+
+== Biography ==
+Yamamoto was born in [[Tokyo]] on November 21, 1950. In 1973 he received his B.S. degree from [[Tokyo Institute of Technology]]. He continued his studies at [[the University of Tokyo]] where he received his M.S. in 1975 and Ph.D. in 1978. From 1978 to 1992, he worked at NTT [[Basic research|Basic Research]] Laboratories in Tokyo. Since 1992, he has been a professor of applied physics and electrical engineering at [[Stanford University]] in the United States and currently a professor (emeritus). Since 2003, he also has been a professor at [[National Institute of Informatics]] in Tokyo and currently a professor (emeritus). In 2019, he became a founding director of NTT PHI Labs in Silicon Valley, California, the United States.
+
+== Work ==
+
+Yamamoto's scientific focuses in the 1980s were [[fiber-optic communication|coherent optical fiber communications]],<ref name="Santori2002"/> [[optical amplifier]] repeater systems,<ref name="Benson2000"/> photon number squeezing in semiconductor lasers, [[Quantum nondemolition measurement|quantum non-demolition (QND) measurements]] and other experimental and theoretical<ref name="Alter2001"/> [[quantum optics]] subjects. Some of Yamamoto's key works from this era are proposals for how to physically realize photon-number squeezing,<ref name="Yamamoto1986 Machida1987"/> QND measurement,<ref name="Imoto1985"/> and a gate model [[quantum computer]] using single atoms and photons.<ref name="qc1988"/> His most prominent work in the 1990s is in semiconductor [[cavity quantum electrodynamics]]<ref name="Yamamoto book"/> (especially involving microcavities and quantum wells) and quantum transport effects in mesoscopic devices.<ref name="Oliver1999"/>
+
+During the 2000s, his most important work was on the development of optically-active quantum dots as a platform for quantum information processing (both as [[single-photon source]]s <ref name="Santori2002"/><ref name="Benson2000"/> and as hosts for spin qubits.<ref name="Press2008"/><ref name="DeGreve2012"/>) Another important work was on [[Bose–Einstein condensation of polaritons|exciton-polariton condensation]] effects.<ref name="Deng2002"/><ref name="Deng2010"/> Yamamoto was also active in the development of security theory and realization of quantum key distribution protocols.<ref name="Inoue2002"/><ref name="Takesue2007"/> Landmark papers from this era include the demonstration of indistinguishable photons from a single quantum dot;<ref name="Santori2002"/> the proposal for [[biexciton]] cascade emission as a method for generating entangled photons from a single quantum dot <ref name="Benson2000"/> (this is the proposal underlying essentially all QD entangled-photon sources, such as those reviewed in <ref>{{cite journal|doi=10.1038/nphoton.2007.46 | volume=1 | issue=4 | title=Semiconductor quantum light sources | year=2007 | journal=Nature Photonics | pages=215–223 | author=Shields Andrew J| arxiv=0704.0403 | bibcode=2007NaPho...1..215S | s2cid=119664751 }}</ref>), and control of a single spin qubit in a quantum dot using optical pulses.<ref name="Press2008"/>
+
+During the 2010s, his work has continued on exploring quantum dots as a platform for building both quantum repeaters and quantum computers. One highlight was the co-first demonstration (with [[Ataç İmamoğlu]]'s group at [[ETH]]) of entanglement between a spin in a quantum dot and a photon emitted by it.<ref name="DeGreve2012"/> Work on [[exciton-polariton]]s continued. Since 2012, Yamamoto has studied the required number of physical qubits and expected computational time in a gate-model fault-tolerant quantum computer <ref name="Jones2012"/> and pioneered the development of a novel quantum/classical hybrid computer, called coherent Ising machine <ref name="McMahon2016"/> inspired by developments in digital coherent optical communications and degenerate [[optical parametric oscillator]]s.
+
+== Awards ==
+Yamamoto is a fellow of the [[Optical Society of America]] (now Optica), the [[American Physical Society]], and the [[Japan Society of Applied Physics]]. In 1985, Yamamoto received the Achievement Award of the Institute of Electronics, Information and Communication Engineers (IEICE) of Japan on his early work on coherent optical communications. In 1992, he received the  [[Nishina Memorial Prize|Nishina Prize]]<ref name="Yamamoto Nishina"/> and [[Carl Zeiss Foundation|the Carl Zeiss Award]]<ref name="Yamamoto Carl Zeiss"/> on his pioneering work on squeezed state generation in semiconductor lasers. In 2000, he received [[IEEE|the IEEE LEOS Quantum Electronics Award]]<ref name="Yamamoto IEEE"/> and the Matsuo Science Prize. In 2005, he received [[Medals of Honor (Japan)|the Medal of Honour with Purple Ribbon]] from the Government of Japan.<ref name="Yamamoto Purple Ribbon"/> In 2010, he was the Hermann Anton Haus Lecturer at MIT <ref name="Yamamoto MIT"/> and gave a lecture on exciton-polariton condensation. In 2011, he received the Okawa Prize <ref name="Yamamoto Okawa"/> on his pioneering work on single photon generation from a quantum dot. In 2022, he received the [[Willis Lamb]] Award <ref name="Yamamoto Willis Lamb"/> on his pioneering work on coherent Ising machines.
+
+== References ==
+<references>
+<ref name="Yamamoto Willis Lamb">{{cite web |last1=Willis Lamb Award |title=The 2022 Winners |url=http://lambaward.org/ |website=The Willis E. Lamb Award for Laser Science and Quantum Optics }}</ref>
+<ref name="Yamamoto Okawa">{{cite web |last1=The Okawa Prize |title=The 2010 Okawa Prize Winner |url=http://okawa-foundation.or.jp/en/activities/prize/list.html |website=The Okawa Foundation}}</ref>
+<ref name="Yamamoto MIT">{{cite web |last1=The Hermann Anton Haus Fund |title=Yoshihisa Yamamoto to deliver the 2010 Hermann Anton Haus Lecture |url=https://www.rle.mit.edu/yoshihisa-yamamoto-to-deliver-the-2010-hermann-anton-haus-lecture-lecture-series-honoring-haus-brings-eminent-visitors-to-mit/ |website=RLE News Articles |publisher=MIT}}</ref>
+<ref name="Santori2002">{{cite journal |last1=Santori |first1=C |last2=Fattal |first2=D |last3=Vučković |first3=J |last4=Solomon |first4=G S |last5=Yamamoto |first5=Y |title=Indistinguishable photons from a single-photon device |journal=Nature |date=2002 |volume=419 |issue=6907 |pages=594–7 |doi=10.1038/nature01086 |pmid=12374958|s2cid=205209539 }}</ref>
+<ref name="Yamamoto Nishina">Nishina Memorial Foundation: Recipients of Nishina Memorial Prizes. https://www.nishina-mf.or.jp/project_en/kinen_en/</ref>
+<ref name="Jones2012">{{cite journal |last1=Jones |first1=N C |last2=Van Meter |first2=R |last3=Fowler |first3=A G |last4=McMahon |first4=P L |last5=Kim |first5=J |last6=Ladd |first6=T |last7=Yamamoto |first7=Y |title=Layered architecture for quantum computing |journal=Phys. Rev. X |date=2012 |volume=2 |issue=3 |article-number=031007 |doi=10.1103/PhysRevX.2.031007|arxiv=1010.5022 |bibcode=2012PhRvX...2c1007J |s2cid=17197330 }}</ref>
+<ref name="Deng2010">{{cite journal |last1=Deng |first1=H |last2=Haug |first2=H |last3=Yamamoto |first3=Y |title=Exciton-polariton Bose-Einstein condensation |journal=Rev. Mod. Phys. |date=2010 |volume=82 |issue=2 |page=1489 |doi=10.1103/RevModPhys.82.1489|bibcode=2010RvMP...82.1489D }}</ref>
+<ref name="Press2008">{{cite journal |last1=Press |first1=D |last2=Ladd |first2=T D |last3=Zhang |first3=B |last4=Yamamoto |first4=Y |title=Complete quantum control of a single quantum dot spin using ultrafast optical pulses |journal=Nature |date=2008 |volume=456 |issue=7219 |pages=218–21 |doi=10.1038/nature07530|pmid=19005550 |bibcode=2008Natur.456..218P |s2cid=4388345 }}</ref>
+<ref name="DeGreve2012">{{cite journal |last1=De Greve |first1=K |last2=Yu |first2=L |last3=McMahon |first3=P L |last4=Pelc |first4=J S |last5=Natarajan |first5=C M |last6=Kim |first6=N Y |last7=Abe |first7=E |last8=Maier |first8=S |last9=Schneider |first9=C |last10=Kamp |first10=M |last11=Hofling |first11=S |last12=Hadfield |first12=R H |last13=Forchel |first13=A |last14=Fejer |first14=M M |last15=Yamamoto |first15=Y |title=Quantum-dot spin-photon entanglement via frequency downconversion to telecom wavelength |journal=Nature |date=2012 |volume=491 |issue=7424 |pages=421–5 |doi=10.1038/nature11577|pmid=23151585 |bibcode=2012Natur.491..421D |s2cid=4316913 }}</ref>
+<ref name="Benson2000">{{cite journal |last1=Benson |first1=O |last2=Santori |first2=C |last3=Pelton |first3=M |last4=Yamamoto |first4=Y |title=Regulated and entangled photons from a single quantum dot |journal=Phys. Rev. Lett. |date=2000 |volume=84 |issue=11 |pages=2513–6 |doi=10.1103/PhysRevLett.84.2513|pmid=11018923 |bibcode=2000PhRvL..84.2513B |hdl=11603/29243 |hdl-access=free }}</ref>
+<ref name="Alter2001">{{cite book |last1=Alter |first1=Orly |last2=Yamamoto |first2=Yoshihisa |title=Quantum Measurement of a Single System |date=2001 |publisher=Wiley |isbn=0-471-28308-8 |doi=10.1002/9783527617128}}</ref>
+<ref name="Inoue2002">{{cite journal |last1=Inoue |first1=K |last2=Waks |first2=E |last3=Yamamoto |first3=Y |title=Differential phase shift quantum key distribution |journal=Phys. Rev. Lett. |date=2002 |volume=89 |issue=3 |article-number=037902 |doi=10.1103/PhysRevLett.89.037902|pmid=12144419 |bibcode=2002PhRvL..89c7902I }}</ref>
+<ref name="Deng2002">{{cite journal |last1=Deng |first1=H |last2=Weihs |first2=G |last3=Santori |first3=C |last4=Bloch |first4=J |last5=Yamamoto |first5=Y |title=Condensation of semiconductor microcavity exciton polaritons |journal=Science |date=2002 |volume=298 |issue=5591 |pages=199–202 |doi=10.1126/science.1074464|pmid=12364801 |bibcode=2002Sci...298..199D |s2cid=21366048 }}</ref>
+<ref name="Yamamoto Purple Ribbon">{{cite web |last1=Orenstein |first1=David |title=Japanese emperor bestows Medal with Purple Ribbon on Professor Yamamoto |url=https://news.stanford.edu/news/2005/november30/purple-113005.html |website=Stanford News |access-date=2005-11-21}}</ref>
+<ref name="Yamamoto IEEE">IEEE LEOS Quantum Electronics Award. https://www.photonicssociety.org/awards/quantum-electronics-award/quantum-electronics-award-award-winners {{Webarchive|url=https://web.archive.org/web/20181005153858/https://www.photonicssociety.org/awards/quantum-electronics-award/quantum-electronics-award-award-winners |date=2018-10-05 }}</ref>
+<ref name="Yamamoto Carl Zeiss">Carl Zeiss Foundation: Recipients of Carl Zeiss Research Award. https://www.zeiss.com/corporate/int/innovation-and-technology/zeiss-research-award.html.</ref>
+<ref name="Yamamoto1986 Machida1987">{{cite journal |last1=Yamamoto |first1=Y |last2=Machida |first2=S |last3=Nilsson |first3=O |title=Amplitude squeezing in a pump-noise-suppressed laser oscillator |journal=Phys. Rev. A |date=1986 |volume=34 |issue=5 |pages=4025–4042 |doi=10.1103/PhysRevA.34.4025|pmid=9897747 |bibcode=1986PhRvA..34.4025Y }};{{cite journal |last1=Machida |first1=S |last2=Yamamoto |first2=Y |last3=Itaya |first3=Y |title=Observation of amplitude squeezing in a constant-current–driven semiconductor laser |journal=Phys. Rev. Lett. |date=1987 |volume=58 |issue=10 |pages=1000–1003 |pmid=10034306 |bibcode=1987PhRvL..58.1000M  |doi=10.1103/PhysRevLett.58.1000}}</ref>
+<ref name="Imoto1985">{{cite journal |last1=Imoto |first1=N |last2=Haus |first2=H. A |last3=Yamamoto |first3=Y |title=Quantum nondemolition measurement of the photon number via the optical Kerr effect |journal=Phys. Rev. A |date=1985 |volume=32 |issue=4 |pages=2287–2292
+|doi=10.1103/PhysRevA.32.2287|pmid=9896342 |bibcode=1985PhRvA..32.2287I }}; {{cite journal |last1=Drummond |first1=P. D. |last2=Shelby |first2=R. M. |last3=Friberg |first3=S. R. |last4=Yamamoto |first4=Y |title=Quantum solitons in optical fibres |journal=Nature |date=1993 |volume=365 |issue=6444 |pages=307–313|doi=10.1038/365307a0 |bibcode=1993Natur.365..307D |s2cid=4355425 }}</ref>
+<ref name="Yamamoto book">{{cite book |last1=Yamamoto |first1=Y |last2=Imamoglu |first2=A |title=Mesoscopic Quantum Optics |date=1999 |publisher=Wiley-Interscience |isbn=0-471-14874-1}}</ref>
+<ref name="Oliver1999">{{cite journal |last1=Oliver |first1=W D |last2=Kim |first2=J |last3=Liu |first3=R C |last4=Yamamoto |first4=Y |title=Hanbury Brown and Twiss-type experiment with electrons |journal=Science |date=1999 |volume=284 |issue=5412 |pages=299–301 |doi=10.1126/science.284.5412.299 |pmid=10195891|bibcode=1999Sci...284..299O }}</ref>
+<ref name="Takesue2007">{{cite journal |last1=Takesue |first1=H |last2=Nam |first2=S W |last3=Zhang |first3=Q |last4=Hadfield |first4=R H |last5=Honjo |first5=T |last6=Tamaki |first6=K |last7=Yamamoto |first7=Y |title=Quantum key distribution over a 40-dB channel loss using superconducting single-photon detectors |journal=Nature Photonics |date=2007 |volume=1 |issue=6 |page=343 |doi=10.1038/nphoton.2007.75|arxiv=0706.0397 |bibcode=2007NaPho...1..343T |s2cid=59491750 }}</ref>
+<ref name="McMahon2016">{{cite journal |last1=McMahon |first1=Peter L. |last2=Marandi |first2=Alireza |last3=Haribara |first3=Yoshitaka |last4=Hamerly |first4=Ryan |last5=Langrock |first5=Carsten |last6=Tamate |first6=Shuhei |last7=Inagaki |first7=Takahiro |last8=Takesue |first8=Hiroki |last9=Utsunomiya |first9=Shoko |last10=Aihara |first10=Kazuyuki |last11=Byer |first11=Robert L. |last12=Fejer |first12=M. M. |last13=Mabuchi |first13=Hideo |last14=Yamamoto |first14=Yoshihisa |title=A fully programmable 100-spin coherent Ising machine with all-to-all connections |journal=Science |date=2016 |volume=354 |issue=6312 |pages=614–617 |doi=10.1126/science.aah5178|pmid=27811274 |bibcode=2016Sci...354..614M |s2cid=7550332 |url=https://authors.library.caltech.edu/86951/2/McMahon-SM.pdf }}</ref>
+<ref name="qc1988">{{cite journal |last1=Igeta |first1=K |last2=Yamamoto |first2=Y |title=Quantum mechanical computers with single atom and photon fields| journal= International Quantum Electronics Conference |date=1988}}; {{cite journal |last1=Chuang |first1=I |last2=Yamamoto |first2=Y |title=Simple quantum computer| journal= Phys. Rev. A |date=1995 |volume=52 |issue=5 |pages= 3489–3496|doi=10.1103/PhysRevA.52.3489 |pmid=9912648 |arxiv=quant-ph/9505011 |bibcode=1995PhRvA..52.3489C |s2cid=30735516 }}</ref>
+</references>
+
+== External links ==
+* Yamamoto page at Stanford https://yoshihisayamamoto.sites.stanford.edu/ {{Webarchive|url=https://web.archive.org/web/20220331061739/https://yoshihisayamamoto.sites.stanford.edu/ |date=2022-03-31 }}
+* Yamamoto page at NTT Research, Inc. https://ntt-research.com/phi/
+
+{{Authority control}}
+
+{{DEFAULTSORT:Yamamoto, Yoshihisa}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Japanese expatriates in the United States]]
+[[Category:Japanese physicists]]
+[[Category:Scientists from Tokyo]]
+[[Category:Stanford University Department of Electrical Engineering faculty]]
+[[Category:Tokyo Institute of Technology alumni]]
+[[Category:University of Tokyo alumni]]
+[[Category:Academic staff of the University of Tokyo]]
+[[Category:Nippon Telegraph and Telephone]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Recipients of the Nishina Memorial Prize]]

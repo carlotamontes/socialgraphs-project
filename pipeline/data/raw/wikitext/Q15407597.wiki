@@ -1,0 +1,65 @@
+{{Short description|French physicist}}
+'''Patrick Flandrin''' ({{IPA|fr|patʁik flɑ̃dʁɛ̃}}; born 2 June 1955) is a French [[physicist]], research director at [[French National Centre for Scientific Research|CNRS]] researcher at {{lang|fr|[[École Normale Supérieure de Lyon]]|italic=no}}, and member of the [[French Academy of Sciences]].<ref>{{cite web|title=Académie des sciences|url=https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-F/patrick-flandrin.html|publication-date=}}</ref>
+
+== Biography ==
+After receiving the engineer degree from ICPI Lyon (now [[École Supérieure de Chimie Physique Électronique de Lyon|CPE Lyon]]) in 1978, Patrick Flandrin obtained the [[Doctor of Engineering|Doctor-Engineer]] degree in 1982 and "Doctorat d’État ès sciences physiques" in 1987, both from the [[Grenoble Institute of Technology|Institut National Polytechnique de Grenoble]].
+
+He joined the Centre National de la Recherche Scientifique (CNRS) in 1982, where he holds now a senior researcher position ("exceptional class research director").
+
+Affiliated with ICPI Lyon from 1982 to 1990—where he has been Head of the Signal Processing Laboratory from 1987 to 1990—, he moved in 1991 to the École normale supérieure de Lyon, where he created a "Signals, Systems, and Physics" group within the Physics laboratory.<ref>{{cite web|title=ENS Lyon|url=http://www.ens-lyon.fr/recherche/panorama-de-la-recherche/prix-et-distinctions/patrick-flandrin-physicien-laboratoire-de|publication-date=}}</ref>
+
+Among various responsibilities at the national level, he has been Director of the CNRS cooperative structure "GdR ISIS" from 2002 to 2005, and President of GRETSI (the French association for signal and image processing) from 2009 to 2019.
+
+Elected to the [[French Academy of Sciences]] in 2010, he served as its vice president in 2019–2020 and President in 2021–2022.
+
+== Scientific contributions ==
+Patrick Flandrin is a specialist of signal processing. Since his PhD in 1982, he has conducted research activities in three main directions.
+
+He first contributed to fundamental advances in time-frequency analysis, with the development of comprehensive approaches aimed at analyzing, decomposing, and processing nonstationary signals.<ref>W. Martin, P. Flandrin, « Wigner-Ville spectral analysis of non-stationary processes », ''IEEE Trans. on Acoust., Speech and Signal Proc.'', 1985, vol. 33, no. 6, <abbr>p.</abbr> 1461–1470</ref><ref>F. Auger, P. Flandrin, « Improving the readability of time-frequency and time-scale representations by the reassignment methods », ''IEEE Trans. on Signal Proc.'', 1995, vol. 43, no. 5, <abbr>p.</abbr> 1068–1089</ref><ref>P. Flandrin, Time-Frequency Time-Scale Analysis, Academic Press, 1999</ref>
+
+He also took an active part in the development of wavelet theory since its very beginning, with highly cited seminal contributions to the multiresolution analysis of scaling processes<ref>P. Flandrin, « Wavelet Analysis and Synthesis of Fractional Brownian Motion », ''IEEE Trans. on Info. Theory,'', 1992, 38(2), <abbr>p.</abbr> 910–917</ref><ref>P. Flandrin, « On the spectrum of fractional Brownian motions », ''IEEE Trans. on Info. Theory'', vol. 35, no. 1, <abbr>p.</abbr> 199-199</ref><ref>P. Abry, P. Flandrin, M.S. Taqqu, D. Veitch, Wavelets for the analysis, estimation and synthesis of scaling data in Self-Similar Network Traffic and Performance Evaluation (K. Park and W. Willinger, eds.), Wiley, 2000, <abbr>p.</abbr> 33–88</ref> that paved the way to numerous applications in domains as diverse as biomedical engineering or internet traffic modeling.<ref>P. Abry, R.G. Baraniuk, P. Flandrin, R. Riedi, D. Veitch, « Multiscale nature of network traffic », ''IEEE Signal Proc. Mag.'', 2002, vol. 19, no. 3, <abbr>p.</abbr> 28–46</ref>
+
+More recently, while revisiting a number of fundamental issues in nonstationary [[time series]] analysis by new, data-driven approaches,<ref>G. Rilling, P. Flandrin, P. Gonçalves, « On Empirical Mode Decomposition and its Algorithms », ''IEEE-EURASIP Workshop on Nonlinear Signal and Image Processing NSIP-03, Grado (I)'', 2003</ref><ref>P. Flandrin, G. Rilling, P. Gonçalves, « Empirical Mode Decomposition as a Filter Bank », ''IEEE Sig. Proc. Lett.'', 2004, vol. 11, no. 2, <abbr>p.</abbr> 112–114</ref> he moved to the study of specific complex systems involving human activities, with a shift towards network-based approaches.
+
+== Books ==
+
+* ''Temps-Fréquence'', Hermes (Paris), 1993 (1st ed.) and 1998 (2nd ed.)
+* ''Time-Frequency/Time-Scale Analysis'', Academic Press (San Diego), 1999
+* ''Explorations in Time-Frequency Analysis'', [[Cambridge University Press]] (Cambridge), 2018
+
+== Awards and honors ==
+●     1991: Philip Morris Scientific Prize in Mathematics
+
+●     2001: Michel Monpetit Prize from the French Academy of sciences
+
+●     2001: Wavelet Pioneer Award from the International Society for Optics and Photonics (SPIE)
+
+●     2002: Fellow of the [[Institute of Electrical and Electronics Engineers]] (IEEE)
+
+●     2009: Fellow of the European Association for Signal and Image Processing (EURASIP)
+
+●     2010: Meritorious Medal of ''École Normale Supérieure de Lyon''
+
+●     2010: Elected member of the French Academy of sciences
+
+●     2010: [[CNRS Silver Medal]]
+
+●     2011–2012: Distinguished Lecturer of the ''IEEE Signal Processing Society''
+
+●     2014: Chevalier of the [[Ordre des Palmes académiques|Palmes académiques]]
+
+●     2017: Technical Achievement Award of the ''IEEE Signal Processing Society''
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Flandrin, Patrick}}
+[[Category:Living people]]
+[[Category:1955 births]]
+[[Category:French physicists]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+[[Category:French National Centre for Scientific Research awards]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Grenoble Institute of Technology alumni]]

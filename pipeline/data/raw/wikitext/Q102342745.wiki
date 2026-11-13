@@ -1,0 +1,102 @@
+{{Short description|Spanish computer scientist}}
+{{For|the politician|Javier Esparza (politician)}}
+{{Infobox scientist
+| name              = Javier Esparza
+| native_name       = 
+| native_name_lang  = 
+| image             = Javier Esparza P1230309-1.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age|27 April 1964|df=yes}}
+| birth_place       = [[Pamplona]], Spain
+| other_names       = 
+| citizenship       = 
+| fields            = {{Plainlist|
+* [[Computer science]]
+* [[Concurrency (computer science)|Concurrency theory]]
+}}
+| workplaces        = {{Plainlist|
+* [[Technical University of Munich]]
+}}
+| patrons           = 
+| alma_mater        = 
+| awards            = {{Plainlist|
+* [[European Research Council|ERC Advanced Grant]], awarded 2018
+* Honorary Doctorate, [[Masaryk University]], awarded 2009
+* Member of [[Academia Europaea]], elected 2011
+* Fellow of the [[Association for Computing Machinery|ACM]], class of 2025
+}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://www7.in.tum.de/~esparza/}}
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+
+'''Francisco Javier Esparza Estaun''' (born 27 April 1964 in [[Pamplona]], Spain<ref name="cv">{{cite web|url=https://people.model.in.tum.de/~esparza/CV.pdf|title=Curriculum vitae|website=Technische Universität München|access-date=2021-04-29}}</ref>) is a Spanish [[computer scientist]]. He is a professor at the [[Technical University of Munich]].
+
+== Education ==
+
+Javier Esparza Estaun received his Master of Science degree in [[Theoretical physics|Theoretical Physics]] from the [[University of Zaragoza]] (1987). He earned his Doctoral degree (PhD) in Computer Science (1990, on free-choice Petri nets) from the same university.<ref name="phd-paper">{{cite book|url=https://link.springer.com/chapter/10.1007%2F3-540-53863-1_28|title=Esparza J., Silva M. (1991) On the analysis and synthesis of free choice systems. Lecture Notes in Computer Science, vol 483. Springer, Berlin, Heidelberg|year=1991 |pages=243–286 |doi=10.1007/3-540-53863-1_28|isbn=9783540463696 |access-date=2021-04-29}}</ref><ref name="phd-cit">{{cite web|url=https://scholar.google.com/scholar?q=Esparza%2C%20J.%3A%20Structure%20Theory%20of%20Free%20Choice%20nets.%20Ph.D.%20Thesis%2C%20University%20of%20Zaragoza%20%28June%201990%29|title=Citations in Google Scholar|website=Google Scholar|access-date=2021-04-29}}</ref> He habilitated 1994 at the [[University of Hildesheim]] on the subject of [[Petri net unfoldings]].<ref name="habil-paper">{{cite journal|journal=Science of Computer Programming|date=December 1994 |volume=23 |issue=2 |pages=151–195 |doi=10.1016/0167-6423(94)00019-0 |last1=Esparza |first1=Javier |title=Model checking using net unfoldings |s2cid=29311587 |doi-access=free }}</ref>
+
+== Career ==
+During his habilitation and in the period afterwards, Javier Esparza's focus was on [[Concurrency (computer science)|concurrency theory]] and the theory of Petri nets. He made important contributions to Petri net structure theory and to the unfolding approach, initially proposed by Kenneth L. McMillan,<ref>{{cite web |url=http://mcmil.net/wordpress/|title=Kenneth L. McMillan|website=Wordpress|access-date=2021-04-30}}</ref> and he is the co-author of two books on these subjects.<ref>{{citation
+ | author    = Jörg Desel and Javier Esparza
+ | title     = Free Choice Petri Nets
+ | series    = Cambridge Tracts in Theoretical Computer Science
+ | volume    = 40
+ | publisher = Cambridge University Press
+ | year      = 1995
+ | isbn      = 9-780-52101945-3
+}}</ref><ref>{{citation
+ | author    = Javier Esparza and Keijo Heljanko
+ | title     = Unfoldings–A Partial-Order Approach to Model Checking
+ | series    = EATCS Monographs in Theoretical Computer Science
+ | publisher = Springer
+ | year      = 2008
+ | isbn      = 978-3-540-77425-9
+}}</ref>
+
+After his habilitation, he was employed as an associate professor at the [[Technical University of Munich]] (1994–2001). He was then successively Chair of Theoretical Computer Science at the [[The University of Edinburgh|University of Edinburgh]] (2001–2003) and Chair of Software Reliability and Security at the [[University of Stuttgart|Universität Stuttgart]] (2003–2007). Since 2007, he holds the chair for Foundations of Software Reliability and Theoretical Computer Science, again at the Technical University of Munich.<ref name="cv"/>
+
+He has also made contributions to the automata-theoretic approach to software [[model checking]], to [[program analysis]], and to the verification of infinite-state systems. More recently, his work has focused on the verification of parametrised and stochastic systems. He has published over 250 peer-reviewed scientific papers<ref>{{cite web|url=https://dblp.uni-trier.de/pid/e/JEsparza.html|title=DBLP publication list for Javier Esparza|access-date=2021-04-26|website=DBLP computer science bibliography}}</ref> in the aforementioned fields, as well as a book on an algorithmic approach to automata theory (coauthored with Michael Blondin.)<ref>{{cite book
+    | last1 = Esparza
+	| first1 = Javier
+	| last2 = Blondin
+	| first2 = Michael
+	| date = October 17, 2023
+	| title = Automata Theory: An Algorithmic Approach
+	| url = https://mblondin.espaceweb.usherbrooke.ca/automata
+	| publisher = The MIT Press
+	| pages = 560
+	| isbn = 9780262048637
+}}</ref>
+Multiple software verification tools have been developed by his group, such as Moped<ref>{{cite web |url=http://www2.informatik.uni-stuttgart.de/fmi/szs/tools/moped/|title=Moped|website=Universität Stuttgart|access-date=2021-04-30}}</ref> and jMoped,<ref>{{cite journal|title=jMoped|doi=10.1007/978-3-540-31980-1_35|doi-access=free}}</ref> Rabinizer,<ref>{{cite book|url=https://link.springer.com/chapter/10.1007/978-3-642-33386-6_7|title=Rabinizer|doi=10.1007/978-3-642-33386-6_7|isbn=9783642333866 |access-date=2021-04-30}}</ref> Strix,<ref>{{cite web|url=https://strix.model.in.tum.de|title=Strix|website=Technische Universität München|access-date=2021-04-30}}</ref> and Peregrine.<ref>{{cite web|url=https://peregrine.model.in.tum.de|title=Peregrine|website=Technische Universität München|access-date=2021-04-30}}</ref>
+He received an Advanced Grant from the [[European Research Council]] in 2018<ref>{{cite web|url=https://erc.europa.eu/projects-figures/erc-funded-projects/results?items_per_page=20&search_api_views_fulltext=Attine%20ANT%20SymbiomeS&page=1|title=ERC funded projects|website=European Research Council|access-date=2021-04-26|archive-date=2021-04-26|archive-url=https://web.archive.org/web/20210426104056/https://erc.europa.eu/projects-figures/erc-funded-projects/results?items_per_page=20&search_api_views_fulltext=Attine%20ANT%20SymbiomeS&page=1|url-status=dead}}</ref> and has been Principal Investigator of more than 20 research projects, most of them collaborative in an international context.<ref name="cv"/> He has frequently been invited as a speaker at Computer Science conferences and has served as a Chair or a member of various professional Program, Steering and Selection Committees.<ref name="cv"/>
+
+== Awards and honours ==
+Javier Esparza has been awarded an honorary doctorate in Informatics from the [[Masaryk University]] of Brno, Czech Republic, in 2009,<ref>{{cite web|url=https://www.muni.cz/en/about-us/awards/336|title=Javier Esparza–Honorary Doctorates conferred by MU|website=Masaryk University|access-date=2021-04-26}}</ref> and he is an elected member of [[Academia Europaea]] since 2011.<ref>{{cite web|url=https://www.ae-info.org/ae/Member/Esparza_Javier|title=Javier Esparza|website=Academia Europaea|access-date=2021-04-26}}</ref> He received the [[International Conference on Concurrency Theory|CONCUR]] ''Test-of Time Award'' 2021 for his paper ''Reachability Analysis of Pushdown Automata: Application to Model-checking'' (co-authored with Ahmed Bouajjani and Oded Maler);<ref>{{cite web|url=https://qonfest2021.lacl.fr/test-of-time.php|title=Concur Test of Time Awards|website=Qonfest conference website|access-date=2021-04-26}}</ref> several best paper awards at conferences;<ref>{{cite web|url=https://paves.model.in.tum.de/2019/07/best-paper-award-petri-nets/|title=Best paper award Petri Nets|website=PaVeS website|date=July 2019 |access-date=2021-04-26}}</ref><ref>{{cite web|url=https://paves.model.in.tum.de/2021/08/best-paper-award-petri-nets-2/|title=Best paper award Petri Nets|website=PaVeS website|date=3 August 2021 |access-date=2023-05-20}}</ref><ref>{{cite web|url=https://paves.model.in.tum.de/2022/02/submission-best-paper-award-sand21/|title=Best paper award for Paves at SAND'22|website=PaVeS website|access-date=2023-05-20}}</ref> multiple times a ''Best Teaching'' prize at the Technical University of Munich;<ref>{{cite web|url=https://mpi.fs.tum.de/die-fachschaft/preise/teachinfaward/|title=TechInf Award (Informatik)|website=Fachschaft Mathematik, Physik, Informatik der TUM|access-date=2021-04-26}}</ref> and a ''Dissertation Prize'' of Universidad de Zaragoza (1990).<ref>{{cite web|url=https://www.ae-info.org/ae/Member/Esparza_Javier/CV|title=Javier Esparza - Curriculum Vitae|website=Academia Europaea|access-date=2021-04-26}}</ref> He was named as an [[ACM Fellow]], in the 2025 class of fellows, "for contributions to the theory of program verification and concurrent systems".<ref>{{cite web|url=https://www.acm.org/media-center/2026/january/fellows-2025|title=Excellence and Impact Recognized by World's Preeminent Computing Society: Association for Computing Machinery Selects 71 Professionals for Outstanding Achievements|publisher=ACM|date=21 January 2026|access-date=2026-01-09}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+
+* [https://www.cs.cit.tum.de/en/tcs/ Official page of Javier Esparza at the Technical University of Munich (Informatics 7 / Chair for Theoretical Computer Science)]
+* [https://scholar.google.com/citations?user=c9qgPSYAAAAJ Javier Esparza on Google Scholar] and [https://dblp.org/pid/e/JEsparza.html at DBLP]
+* [https://www.genealogy.math.ndsu.nodak.edu/id.php?id=128048 Javier Esparza in the Mathematics Genealogy]
+
+{{authority control}}
+
+{{DEFAULTSORT:Esparza, Javier}}
+[[Category:Living people]]
+[[Category:1964 births]]
+[[Category:People from Pamplona]]
+[[Category:University of Zaragoza alumni]]
+[[Category:Academic staff of the Technical University of Munich]]
+[[Category:Members of Academia Europaea]]
+[[Category:Spanish computer scientists]]
+[[Category:Formal methods people]]
+[[Category:Fellows of the Association for Computing Machinery]]

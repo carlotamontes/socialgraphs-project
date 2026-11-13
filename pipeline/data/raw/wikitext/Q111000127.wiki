@@ -1,0 +1,131 @@
+{{Short description|American electrical engineer}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Arthur David Yaghjian
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = 1943
+| birth_place       = Providence, Rhode Island, USA
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = {{plainlist|
+*[[electrical engineering]]
+*[[Antenna (radio)|electromagnetic/antenna theory]]
+}}
+| workplaces        = {{plainlist|
+*[[National Institute of Standards and Technology]]
+*[[Air Force Research Laboratory]]
+}}
+| patrons           = 
+| education         = [[Brown University]]
+| thesis_title       = Hybrid modes and the dielectric rod antenna
+| thesis_url        = https://www.proquest.com/dissertations-theses/hybrid-modes-dielectric-rod-antenna/docview/302514570/se-2?accountid=210906
+| thesis_year       = 1969
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| awards            = {{plainlist|
+[[IEEE Electromagnetics Award]] (2022)
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Arthur David Yaghjian''' (born January 1, 1943)<ref name="incremental"/> is an American electrical engineer who is best known for his contributions to [[electromagnetic theory]] and its applications.
+
+==Education and career==
+A native of [[Providence, Rhode Island]],<ref name="incremental"/> Yaghjian received B.S. (1964), M.S.(1966) and Ph.D.(1969) degrees in electrical engineering from [[Brown University]]. After working as an instructor at [[Tougaloo College]] and [[Hampton University]], he joined the electromagnetics division of the [[National Institute of Standards and Technology]] in 1971. In 1983, he became a research scientist at the electromagnetics directorate of the [[Air Force Research Laboratory]], where he worked until 1996. He held guest professorships at [[IIT Kharagpur]] (1987), [[Technical University of Denmark]] (1989) and [[University of Siena]] (2007).<ref name="ieee-aps-2"/> 
+
+Yaghjian's contributions include probe-compensated [[Electromagnetic radiation#Near and far fields|near-field]] [[antenna measurement]]s, theory of electromagnetic fields in [[metamaterial]]s, [[dyadic Green's function]]s and analysis of electrically small [[Antenna (radio)|antennas]].<ref name="ieee-aps-2"/><ref name="chew"/> 
+
+==Honors==
+Yaghjian is a Life Fellow of the [[Institute of Electrical and Electronics Engineers|IEEE]]. In 2020, he was awarded an honorary doctorate from the [[Technical University of Denmark]].<ref>{{cite web|url=https://electro.dtu.dk/news/nyhed?id=5a5435b5-9b0c-4df4-8aa9-bd513dfc8016|title=Arthur D. Yaghjian receives DTU Honorary Doctor Degree|date=April 26, 2021|publisher=Technical University of Denmark Department of Electrical and Photonics Engineering|access-date=2025-02-25}}</ref> Yaghjian received the 2021 IEEE APS Distinguished Achievement Award.<ref name="ieee-aps-2"/><ref name="ieee-aps"/> In 2022, he received the [[IEEE Electromagnetics Award]] "for contributions to fundamental electromagnetic theory and its applications to near-field antenna measurements."<ref name="ieee-electromagnetics"/> 
+
+==Selected publications==
+;Journal articles
+* {{cite journal |last1=Yaghjian |first1=A.D. |title=Electric dyadic Green's functions in the source region |journal=Proceedings of the IEEE |date=1980 |volume=68 |issue=2 |pages=248–263,1980|doi=10.1109/PROC.1980.11620 }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |title=Efficient computation of antenna coupling and fields within the near-field region |journal=IEEE Transactions on Antennas and Propagation |date=1982 |volume=30 |issue=1 |pages=113–128,1982|doi=10.1109/TAP.1982.1142752 |bibcode=1982ITAP...30..113Y }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |title=Approximate formulas for the far field and gain of open-ended rectangular waveguide |journal=IEEE Transactions on Antennas and Propagation |date=1984 |volume=32 |issue=4 |pages=378–384,1984|doi=10.1109/TAP.1984.1143332 |bibcode=1984ITAP...32..378Y }}
+* {{cite journal |last1=Yaghjian |first1=A.D.|last2= Wittmann |first2=R.C. |title=Efficient computation of antenna coupling and fields within the near-field region |journal=IEEE Transactions on Antennas and Propagation |date=1985 |volume=33 |issue=11 |pages=1175–1185,1985|doi=10.1109/TAP.1985.1143520 }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |title=An overview of near-field antenna measurements |journal=IEEE Transactions on Antennas and Propagation |date=1986 |volume=34 |issue=1 |pages=30–45, 1986 |doi=10.1109/TAP.1986.1143727 |bibcode=1986ITAP...34...30Y }}
+* {{cite journal |last1=Shore |first1=R.A. |last2=Yaghjian |first2=A.D. |title= Incremental diffraction coefficients for planar surfaces |journal=IEEE Transactions on Antennas and Propagation |date=1988 |volume=36 |issue=1 |pages=55–70, 1988|doi=10.1109/8.1075 |bibcode=1988ITAP...36...55S }}
+* {{cite journal |last1=Hansen |first1=T.B. |last2=Yaghjian |first2=A.D. |title=Planar near-field scanning in the time domain .1. Formulation |journal=IEEE Transactions on Antennas and Propagation |date=1994 |volume=42 |issue=9 |pages=1280–1291, 1994 |doi=10.1109/8.318649 |bibcode=1994ITAP...42.1280H }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |last2=Best |first2=S.R. |title=Impedance, bandwidth, and Q of antennas |journal=IEEE Transactions on Antennas and Propagation |date=2005 |volume=53 |issue=4 |pages=1298–1324, 2005|doi=10.1109/TAP.2005.844443 |bibcode=2005ITAP...53.1298Y }}
+* {{cite journal |last1=Shore |first1=R.A. |last2=Yaghjian |first2=A.D. |title= Traveling waves on two- and three-dimensional periodic arrays of lossless scatterers |journal=Radio Science |date=2007 |volume=42 |issue=6 |pages=RS6S21(1-40), 2007|doi=10.1029/2007RS003647 |bibcode=2007RaSc...42.6S21S }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |last2=Maci |first2=S. |title=Alternative derivation of electromagnetic cloaks and concentrators |journal=New Journal of Physics |date=2008 |volume=10 |issue=11 |page=115022, 2008 |doi=10.1088/1367-2630/10/11/115022 |arxiv=0710.2933 |bibcode=2008NJPh...10k5022Y }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |last2=O'Donnell |first2=T.H. |last3=Altshuler |first3=E.E. |last4=Best |first4=S.R. |title=Electrically small supergain end-fire arrays |journal=Radio Science |date=2008 |volume=43 |issue=3 |pages=1–13, 2008|doi=10.1029/2007RS003747 |arxiv=0708.1988 |bibcode=2008RaSc...43.3002Y }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |last2=Gustafsson |first2=M. |last3=Jonsson |first3=B.L.G. |title=Minimum Q for lossy and lossless electrically small dipole antennas |journal=Progress in Electromagnetics Research |date=2013 |volume=143 |issue=10 |pages=641–673, 2013|doi=10.2528/PIER13103107 |doi-access=free }}
+* {{cite journal |last1=Yaghjian |first1=A.D.  |title=Reflections on Maxwells Treatise |journal=Progress in Electromagnetics Research |date=2014 |volume=149 |pages=217–249, 2014|doi=10.2528/PIER14092503 |doi-access=free }}
+* {{cite journal |last1=Yaghjian |first1=A.D.  |title= Overcoming the Chu lower bound on antenna Q with highly dispersive lossy material|journal=IET Microwaves, Antennas & Propagation|date=2018 |volume=12|issue=4 |pages=459–466, 2018|doi=10.1049/iet-map.2017.0648 }}
+* {{cite journal |last1=Yaghjian |first1=A.D. |title=Stellar speckle and correlation derived from classical wave expansions for spherical antennas |journal=IEEE Transactions on Antennas and Propagation |date=2020 |volume=68 |issue=11 |pages=7423–7438, 2020|doi=10.1109/TAP.2020.2997995 |arxiv=1910.08113 |bibcode=2020ITAP...68.7423Y }}
+* {{cite journal |last1=Yaghjian |first1=A.D.  |title=Electromagnetic force and momentum in classical macroscopic dipolar media |journal=Progress in Electromagnetics Research B |date=2023 |volume=103 |pages=119–138, 2023|doi=10.2528/PIERB23071801 |arxiv=2210.12267 }}
+;Books
+* {{cite book |last1=Yaghjian |first1=Arthur D. |title=Relativistic Dynamics of a Charged Sphere: Updating the Lorentz-Abraham Model |date=2022 |publisher=Springer-Verlag Berlin Heidelberg |isbn=978-3-031-06066-3 |edition=3}}
+* {{cite book |last1=Hansen |first1=Thorkild B. |last2=Yaghjian |first2=Arthur D. |title=Plane-Wave Theory of Time-Domain Fields: Near-Field Scanning Applications |date=1999 |publisher=John Wiley & Sons |isbn=9780780334281}}
+;Patents
+*Apparatus for scanning and measuring the near-field radiation of an antenna (US4704614A)
+*Electrically small supergain endfire array antenna (US8134516B1)
+
+==References==
+{{Reflist|refs=
+<ref name="incremental">{{cite journal |last1=Shore |first1=R. A. |last2=Yaghjian |first2=A. D. |title=Incremental diffraction coefficients for planar surfaces |journal=IEEE Transactions on Antennas and Propagation |date=1988 |volume=36 |issue=1 |pages=55–70 |doi=10.1109/8.1075|bibcode=1988ITAP...36...55S }}</ref>
+
+<ref name="ieee-aps-2">{{cite journal |title=2021 Distinguished Achievement Award |journal=[[IEEE Transactions on Antennas and Propagation]] |date=2021 |volume=69 |issue=12 |page=8042 |doi=10.1109/TAP.2021.3130360|bibcode=2021ITAP...69.8042. }}</ref>
+
+<ref name="chew">{{cite conference |url= |title=What I Learn from Arthur Yaghjian, from Graduate School till Now! |last1= Chew |first1= Weng Cho |author-link1=Weng Cho Chew |last2= |first2= |author-link2= |date=2024 |publisher= |book-title= |pages= |location= |conference= IEEE INC-USNC-URSI Radio Science Meeting |id= |doi=10.23919/INC-USNC-URSI61303.2024.10632246}}</ref>
+
+<ref name="ieee-aps">{{cite web |title=IEEE AP-S Awards 2021 |url=https://www.ieeeaps.org/ieee-ap-s-awards-2021 |website=ieeeaps.org |date=2 February 2023 |access-date=November 28, 2024 |author1=Administrator }}</ref>
+
+<ref name="ieee-electromagnetics">{{cite web |title=IEEE Electromagnetics Award: Arthur D. Yaghjian |url=https://corporate-awards.ieee.org/recipient/arthur-yaghjian/ |website=ieee.org |access-date=November 28, 2024}}</ref>
+}}
+{{DEFAULTSORT:Yaghjian, Arthur D}}
+
+[[Category:Living people]]
+[[Category:1943 births]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:American engineering writers]]
+[[Category:American people of Armenian descent]]
+[[Category:American telecommunications engineers]]
+[[Category:Brown University School of Engineering alumni]]
+[[Category:Fellows of the IEEE]]
+[[Category:Hampton University faculty]]
+[[Category:American metamaterials scientists]]
+[[Category:American microwave engineers]]
+[[Category:National Institute of Standards and Technology people]]
+[[Category:Scientists from Massachusetts]]
+[[Category:Tougaloo College faculty]]
+[[Category:Writers from Massachusetts]]
+[[Category:Long stubs with short prose]]
+
+{{US-electrical-engineer-stub}}

@@ -1,0 +1,124 @@
+{{Short description|American physicist and electrical engineer}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Arthur Aaron Oliner
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = File:Arthur A. Oliner.jpeg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date|1921|3|5}}
+| birth_place       = [[Shanghai]], [[Republic of China (1912–1949)|China]]
+| death_date        = {{death date and age |2013|9|9|1921|3|5}}
+| death_place       = [[Lexington, Massachusetts]], U.S.
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = United States
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Microwave engineering]]
+| workplaces        = [[New York University Tandon School of Engineering|New York University]]-Polytechnic
+| patrons           = 
+| education         = {{plainlist|
+*[[Brooklyn College]]
+*[[Cornell University]]
+}}
+| thesis_title      = I. Phase-sensitive Detectors: II. An Investigation of an Air Speed Indicator
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1946
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{plainlist|
+*[[Leaky wave antenna]]s
+*[[waveguide|Guided waves]]
+}}
+| influences        = 
+| influenced        = 
+| awards            = [[IEEE Heinrich Hertz Medal]] (2000)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = Frieda Oliner
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Arthur Aaron Oliner''' (March 5, 1921 – September 9, 2013) was an American physicist and electrical engineer, who was professor emeritus at department of electrical and computer engineering at [[New York University Tandon School of Engineering|New York University]]-Polytechnic. Best known for his contributions to engineering electromagnetics and [[antenna (radio)|antenna]] theory,<ref name="nae-edu"/> he is regarded as a pioneer of [[leaky wave]] theory and [[leaky wave antenna]]s.<ref name="perspective"/><ref name="leaky-review"/>
+
+==Biography==
+Arthur Aaron Oliner was born on March 5, 1921, in [[Shanghai]], [[Republic of China (1912–1949)|China]]. He received an undergraduate degree from [[Brooklyn College]] and Ph.D. from [[Cornell University]] in 1941 and 1946 respectively, with both being in physics.<ref name="mtt"/> In 1946, he joined [[Weber Research Institute|Microwave Research Institute]] at [[New York University Tandon School of Engineering|New York University]]'s school of engineering, then known as the Polytechnic Institute of Brooklyn. In 1965, he went on to a [[sabbatical]] at [[École normale supérieure (Paris)|École normale supérieure]] in Paris, France, under a [[Guggenheim Fellowship]].<ref name="memoriam"/> Becoming a full professor in 1957, Oliner acted as the head of the institute's department of electrical engineering in between 1966 and 1974. In addition, he was the director of the Microwave Research Institute from 1967 until 1982. He retired from New York University in 1990.<ref name="remember"/><ref name="nyu-edu"/> He died on September 9, 2013, in [[Lexington, Massachusetts]].<ref name="perspective"/> He was survived by two children, three grandchildren, and one great-grandchild; his wife Frieda, died in 2013.<ref name="memoriam"/>
+
+Oliner was a Fellow of [[American Academy of Arts and Sciences|AAAS]] and a Life Fellow of [[Institute of Electrical and Electronics Engineers|IEEE]].<ref name="mtt"/> In 1991, he was elected to the [[National Academy of Engineering]] for his "contributions to the theory of [[waveguide|guided electromagnetic waves]] and antennas."<ref name="nae-edu"/> He was a recipient of the [[IEEE Heinrich Hertz Medal]] (2000) and Distinguished Educator Award of the Microwave Theory and Techniques Society, of which he was an Honorary Life Member.<ref name="perspective"/>
+
+During his career, Oliner was also employed as an engineering consultant for [[IBM]], [[Boeing]], [[Raytheon Technologies]], [[Hughes Aircraft Company]] and [[Rockwell International]].<ref name="nyu-edu"/> He was the founder of Merrimac Industries, and served on its board of directors from 1962 until its acquisition by [[Crane Co.|Crane Aerospace]] in 2010.<ref name="memoriam"/>
+
+==Research==
+Oliner's research work encompassed a wide array of topics in microwave field theory, including but not limited to equivalent [[Network analysis (electrical circuits)|networks]] and circuits, precision measurements, [[leaky wave|leaky]] and [[surface wave]]s on waveguides, [[traveling-wave antenna]]s, [[phased array]]s and periodic structures. He was also involved in the research of [[surface acoustic wave]]guides and [[Waveguide (optics)|integrated optics]].<ref name="mtt"/> His work with L. O. Goldstone pioneered the theory behind [[leaky wave antenna]]s. Following his retirement in 1990, he was also involved in the research of [[stripline]]s and [[microstrip]]s. In the early 2000s, Oliner also contributed to the understanding of [[plasmonics|plasmonic]] phenomena within a [[leaky wave]] context.<ref name="perspective"/>
+
+==Selected publications==
+;Journal articles
+*{{cite journal |last1=Goldstone |first1=L. |last2=Oliner |first2=A. |title=Leaky-wave antennas I: Rectangular waveguides |journal=[[IRE Transactions on Antennas and Propagation]] |date=1959 |volume=7 |issue=4 |pages=307–319 |doi=10.1109/TAP.1959.1144702|bibcode=1959ITAP....7..307G }}
+*{{cite journal |last1=Tamir |first1=T. |last2=Oliner |first2=A.A. |title=Guided complex waves. Part 1: Fields at an interface |journal=[[Proceedings of the Institution of Electrical Engineers]]|date=1963 |volume=110 |issue=2 |pages=310–324 |doi=10.1049/piee.1963.0044}}
+*{{cite journal |last1=Hessel |first1=A. |last2=Oliner |first2=A. A. |title=A new theory of Wood's anomalies on optical gratings |journal=[[Applied Optics]] |date=1965 |volume=4 |issue=10 |pages=1275–1297 |doi=10.1364/AO.4.001275|bibcode=1965ApOpt...4.1275H }}
+*{{cite journal |last1=Peng |first1=Song-Tsuen |last2=Oliner |first2=A.A. |title=Guidance and leakage properties of a class of open dielectric waveguides: Part I - Mathematical formulations |journal=[[IEEE Transactions on Microwave Theory and Techniques]] |date=1981 |volume=29 |issue=8 |pages=843–855 |doi=10.1109/TMTT.1981.1130465}}
+*{{cite journal |last1=Oliner |first1=A. A. |title=Leakage from higher modes on microstrip line with application to antennas |journal=[[Radio Science]] |date=1987 |volume=22 |issue=6 |pages=907–912 |doi=10.1029/RS022i006p00907|bibcode=1987RaSc...22..907O }}
+*{{cite journal |last1=Jackson |first1=D.R. |last2=Oliner |first2=A.A. |title=A leaky-wave analysis of the high-gain printed antenna configuration |journal=[[IEEE Transactions on Antennas and Propagation ]] |date=1988 |volume=36 |issue=7 |pages=905–910 |doi=10.1109/8.7194|bibcode=1988ITAP...36..905J }}
+
+;Books
+*{{cite book |editor1-last=Oliner |editor1-first=A. A. |title=Acoustic Surface Waves |date=1978 |publisher=[[Springer Science+Business Media|Springer-Verlag]] |isbn=978-3-662-30917-9}}
+*{{cite book |last1=Sarkar |first1=T. K. |author-link1=Tapan Sarkar |last2=Mailloux |first2=Robert |last3=Oliner |first3=Arthur A. |last4=Salazar-Palma |first4=Magdalena |author4-link=Magdalena Salazar Palma|last5=Sengupta |first5=Dipak L. |title=History of Wireless |date=2006 |publisher=[[Wiley-IEEE Press]] |isbn=978-0471718147}}
+
+==References==
+{{Reflist|refs=
+<ref name="leaky-review">{{cite journal |last1=Monticone |first1=Francesco |last2=Alù |first2=Andrea |title=Leaky-Wave Theory, Techniques, and Applications: From Microwaves to Visible Frequencies |journal=[[Proceedings of the IEEE]] |date=2015 |volume=103 |issue=5 |pages=793–821 |doi=10.1109/JPROC.2015.2399419|s2cid=34784306 |author-link2=Andrea Alù}}</ref>
+
+<ref name="memoriam">{{cite journal|title=Arthur Oliner [In Memoriam]|first=J.|last=Hausner|date=1 March 2014|journal=IEEE Microwave Magazine|volume=15|issue=2|pages=111–112|doi=10.1109/MMM.2013.2296394|doi-access=free}}</ref>
+
+<ref name="mtt">{{cite web |title=Arthur A. Oliner |url=https://mtt.org/profile/arthur-a-oliner/ |website=mtt.org |publisher=IEEE Microwave Theory and Techniques Society |access-date=January 29, 2022}}</ref>
+
+<ref name="nae-edu">{{cite web |title=Arthur A. Oliner |url=https://www.nae.edu/28794/Dr-Arthur-A-Oliner |website=nae.edu |publisher=[[National Academy of Engineering]] |access-date=January 29, 2022}}</ref>
+
+<ref name="nyu-edu">{{cite web |title=Arthur Oliner |url=https://engineering.nyu.edu/arthur-oliner |website=engineering.nyu.edu |access-date=January 29, 2021}}</ref>
+
+<ref name="perspective">{{cite book |last1=Jackson |first1=David R. |title=2014 IEEE MTT-S International Microwave Symposium (IMS2014) |chapter=Arthur A. Oliner and his contributions to the field of leaky waves: A personal perspective |date=2014 |pages=1–3 |doi=10.1109/MWSYM.2014.6848590|isbn=978-1-4799-3869-8 |s2cid=12813480 }}</ref>
+
+<ref name="remember">{{cite book |last1=Tamir |first1=Theodor |title=2014 IEEE MTT-S International Microwave Symposium (IMS2014) |chapter=Remembering Prof. Arthur A. Oliner |date=2014 |pages=1–2 |doi=10.1109/MWSYM.2014.6848673|isbn=978-1-4799-3869-8 |s2cid=1199147 }}</ref>
+}}
+
+{{DEFAULTSORT:Oliner, Arthur A}}
+[[Category:1921 births]]
+[[Category:2013 deaths]]
+[[Category:Polytechnic Institute of New York University faculty]]
+[[Category:Brooklyn College alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Fellows of the IEEE]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:American microwave engineers]]
+[[Category:American telecommunications engineers]]
+[[Category:American engineering writers]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:Scientists from Brooklyn]]
+[[Category:Scientists from Shanghai]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:Electrical engineering academics]]
+[[Category:IEEE award recipients]]
+[[Category:American textbook writers]]
+[[Category:Radiophysicists]]

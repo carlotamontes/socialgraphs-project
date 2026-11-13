@@ -1,0 +1,160 @@
+{{Short description|American computational physicist}}
+{{Use dmy dates|cs1-dates=ly|date=November 2022}}
+{{Use list-defined references|date=November 2022}}
+'''Harold Varner McIntosh''' (1929–2015) was an American computational physicist who worked for many years in Mexico. Beyond physics, his research interests included [[quantum chemistry]], [[programming language]] design, [[cellular automaton|cellular automata]], and [[flexagon]]s.{{r|pt}}
+
+==Early life and education==
+McIntosh was born on March 11, 1929, in Colorado, and was an undergraduate at the Colorado State College of Agriculture and Mechanic Arts (now [[Colorado State University]]), where he graduated in 1949 with a degree in physics. He went on to graduate study at [[Cornell University]], earning a master's degree in 1952. He began doctoral study at [[Brandeis University]], but stopped before completing the program.{{r|pt|jca}}
+
+Much later in his career, he completed a doctorate in quantum chemistry at [[Uppsala University]] in Sweden in 1972.{{r|pt}}
+
+==Career and later life==
+After leaving Brandeis, McIntosh worked at the [[Aberdeen Proving Ground]], and then in the [[Research Institute for Advanced Studies]] in [[Baltimore]]. In 1962 he moved to the [[University of Florida]] to work on quantum theory in the department of physics and astronomy there.{{r|pt}}
+
+In 1964, McIntosh moved to Mexico, where he would work for the rest of his career. He started in the center for research and advanced studies of the [[Instituto Politécnico Nacional]], which eventually became [[CINVESTAV]]; he worked there on the design of the CONVERT programming language. After another year as director of programming at the computer center of the [[National Autonomous University of Mexico]] (again working on programming language design) he returned in 1966 to the Instituto Politécnico Nacional as a professor in the School of Physics and Mathematics and coordinator for applied mathematics. Here, as well as the development of programming languages and software for scientific visualization, his interests returned to physics, including issues of [[Degeneracy (mathematics)|degeneracy]] in the solution of physical equations, and quantum two-body problems involving a [[magnetic monopole]] (the so-called MICZ Kepler system, in which the M stands for McIntosh).{{r|pt}}
+
+After nine years at the Instituto Politécnico Nacional, McIntosh moved in 1975 to the Institute of Sciences of the [[Meritorious Autonomous University of Puebla]], where he became the founding director of the Department of Microcomputer Applications. There, his interests shifted to [[cellular automaton|cellular automata]] for the final decades of his career.{{r|pt|jca}}
+
+He died in [[Puebla (city)|Puebla, Mexico]] on November 30, 2015.{{r|pt}}
+
+==Recognition==
+McIntosh was a member of the [[Mexican Academy of Sciences]].{{r|amc}} In 2008, a special issue of the ''Journal of Cellular Automata'' was published in his honor.{{r|jca}}
+
+==Selected publications==
+*{{citation
+ | last = McIntosh | first = Harold V.
+ | date = December 1959
+ | doi = 10.1119/1.1934944
+ | issue = 9
+ | journal = American Journal of Physics
+ | pages = 620–625
+ | title = On accidental degeneracy in classical and quantum mechanics
+ | volume = 27| bibcode = 1959AmJPh..27..620M
+ }}
+*{{citation
+ | last1 = Guzmán | first1 = Adolfo
+ | last2 = McIntosh | first2 = Harold V.
+ | date = August 1966
+ | doi = 10.1145/365758.365787
+ | issue = 8
+ | journal = Communications of the ACM
+ | pages = 604–615
+ | publisher = Association for Computing Machinery
+ | title = CONVERT
+ | volume = 9| doi-access = free
+ }}
+*{{citation
+ | last1 = McIntosh | first1 = Harold V.
+ | last2 = Cisneros | first2 = Arturo
+ | doi = 10.1063/1.1665227
+ | journal = Journal of Mathematical Physics
+ | mr = 272287
+ | pages = 896–916
+ | title = Degeneracy in the presence of a magnetic monopole
+ | volume = 11
+ | year = 1970| issue = 3
+ | bibcode = 1970JMP....11..896M
+ }}
+*{{citation
+ | last = McIntosh | first = Harold V.
+ | editor-last = Loebl | editor-first = Ernest M.
+ | contribution = Symmetry and degeneracy
+ | location = New York
+ | mr = 0471767
+ | pages = 75–144
+ | publisher = Academic Press
+ | title = Group theory and its applications, Vol. II
+ | year = 1971}}
+*{{citation
+ | last1 = Hehenberger | first1 = Michael
+ | last2 = McIntosh | first2 = Harold V.
+ | last3 = Brändas | first3 = Erkki
+ | date = November 1974
+ | doi = 10.1103/physreva.10.1494
+ | issue = 5
+ | journal = Physical Review A
+ | pages = 1494–1506
+ | title = Weyl's theory applied to the Stark effect in the hydrogen atom
+ | volume = 10| bibcode = 1974PhRvA..10.1494H
+ }}
+*{{citation
+ | last = McIntosh | first = Harold V.
+ | editor-last = Gutowitz | editor-first = Howard
+ | department = Cellular automata: theory and experiment, proceedings of the workshop held in Los Alamos, New Mexico, September 9–12, 1989
+ | doi = 10.1016/0167-2789(90)90177-Q
+ | issue = 1–3
+ | journal = Physica D
+ | mr = 1094872
+ | pages = 105–121
+ | title = Wolfram's class IV automata and a good Life
+ | volume = 45
+ | year = 1990| bibcode = 1990PhyD...45..105M
+ }}
+*{{citation
+ | last1 = Martínez
+ | first1 = Genaro Juárez
+ | last2 = Adamatzky
+ | first2 = Andrew
+ | author2-link = Andrew Adamatzky
+ | last3 = McIntosh
+ | first3 = Harold V.
+ | date = April 2006
+ | doi = 10.1016/j.chaos.2005.05.013
+ | issue = 1
+ | journal = Chaos, Solitons & Fractals
+ | pages = 100–111
+ | title = Phenomenology of glider collisions in cellular automaton Rule 54 and associated logical gates
+ | volume = 28
+ | bibcode = 2006CSF....28..100M
+ | url = http://eprints.uwe.ac.uk/10391/1/glidersRule54.pdf
+ | access-date = 2023-01-21 
+ | archive-date = 2019-04-28 
+ | archive-url = https://web.archive.org/web/20190428125920/http://eprints.uwe.ac.uk/10391/1/glidersRule54.pdf
+ | url-status = dead
+ }}
+*{{citation
+ | last = McIntosh | first = Harold V.
+ | publisher = Luniver Press
+ | title = One Dimensional Cellular Automata
+ | year = 2009}}
+
+==References==
+<references>
+
+<ref name=amc>{{citation|url=https://www.amc.mx/amc/membresia/MATEMATICAS2021.pdf|title=Mathematics section members|publisher=Mexican Academy of Sciences|year=2021|access-date=2022-11-27}}</ref>
+
+<ref name=jca>{{citation
+ | last = Martínez | first = Genaro J.
+ | journal = Journal of Cellular Automata
+ | pages = 265–269
+ | title = Prof. Harold V. McIntosh, March 11, 1929 – November 30, 2015
+ | url = https://www.oldcitypublishing.com/wp-content/uploads/2016/04/JCAv11n2-3p265-269McIntoshObit.pdf
+ | volume = 11}}</ref>
+
+<ref name=pt>{{citation
+ | date = December 2015
+ | doi = 10.1063/pt.5.6193
+ | journal = Physics Today
+ | title = Harold V. McIntosh| issue = 12
+ | article-number = 10526
+ | bibcode = 2015PhT..2015l0526.
+ }}</ref>
+
+</references>
+
+==External links==
+*[http://delta.cs.cinvestav.mx/~mcintosh/ Home page]
+
+{{Authority control|state=collapsed}}
+{{DEFAULTSORT:McIntosh, Harold V.}}
+[[Category:1929 births]]
+[[Category:2015 deaths]]
+[[Category:American physicists]]
+[[Category:Programming language designers]]
+[[Category:Cellular automatists]]
+[[Category:Colorado State University alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Uppsala University alumni]]
+[[Category:Academic staff of the Instituto Politécnico Nacional]]
+[[Category:Academic staff of the Meritorious Autonomous University of Puebla]]
+[[Category:Members of the Mexican Academy of Sciences]]

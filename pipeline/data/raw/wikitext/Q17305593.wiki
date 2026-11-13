@@ -1,0 +1,62 @@
+{{Short description|Danish chemist (born 1939)}}
+{{Infobox person
+| name         = Agnar Hoeskuldsson
+| image        = Agnar Hoeskuldsson 2010 (1).jpg
+| caption      = Agnar Hoeskuldsson
+| birth_name   =
+| birth_date   = 1939
+| birth_place  = [[Iceland]]
+| other_names  =
+| known_for    =
+| education    = PhD
+| employer     =
+| occupation   = Co-founder at SIME Diagnostics
+| parents      =
+| years_active =
+| title        =
+| height       =
+| term         =
+| predecessor  =
+| successor    =
+| party        =
+| boards       =
+| signature    =
+| website      =
+| footnotes    = 
+}}
+Dr. '''Agnar Höskuldsson''' (born 1939) is a Danish scientist who specializes in the field of [[chemometrics]]. He was formerly an associate professor at the [[Technical University of Denmark]].<ref>{{cite web|title=Linkedin Hoskuldsson |url=http://dk.linkedin.com/pub/prof-agnar-h%C3%B6skuldsson/51/552/4a4 |archive-url=https://archive.today/20140702125644/http://dk.linkedin.com/pub/prof-agnar-h%C3%B6skuldsson/51/552/4a4 |url-status=dead |archive-date=2 July 2014 |website=LinkedIn |access-date=30 June 2014 }}</ref> He was awarded the [[Herman Wold]] gold medal for his contribution to chemometrics in 1997 <ref>{{cite web|title=HErman Wold Gold Medal Winners|url=http://www.kemometri.se/index.php?option=com_content&task=blogcategory&id=17&Itemid=30|website=kemometri.se|access-date=30 June 2014|archive-url=https://web.archive.org/web/20140714165010/http://www.kemometri.se/index.php?option=com_content&task=blogcategory&id=17&Itemid=30|archive-date=14 July 2014|url-status=dead|df=dmy-all}}</ref> and over the span of his career he has published over 30 scientific papers and is credited with over 2000 scientific citations.<ref>{{cite web|title=Research Gate Hoskuldsson|url=https://www.researchgate.net/profile/Agnar_Hoeskuldsson|website=Research Gate|access-date=30 June 2014}}</ref>
+
+== Biography ==
+
+Originally from [[Iceland]], Höskuldsson moved to Denmark in 1960 to study [[applied mathematics]] at the [[University of Copenhagen]]. After completing his Master of Science in 1966 he joined [[Copenhagen Business School]] where he was awarded a PhD in [[applied production technology]].
+
+== Career ==
+
+In 1975 Höskuldsson started working at The Regional Computing Centre at [[Technical University of Denmark]] as a computer specialist in statistics and production technology. Then, in 1987, he was appointed as an associate professor at Technical University of Denmark.<ref>{{cite web|title=Agnar Hoeskuldsson employee profile|url=http://orbit.dtu.dk/en/persons/agnar-hoeskuldsson%2871488a96-0072-4988-a3b9-5369a8a8c17e%29.html|website=orbit.dtu.dk|access-date=1 July 2014}}</ref> During his professorship he successfully showed that the [[Partial least squares regression|PLS]] (Partial Least Squares) algorithm can be a principle in any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a particle known as complementary variables can be known simultaneously. In 1927 [[Werner Heisenberg]] stated that the more precisely the position of a particle is determined, the less precisely its momentum can be known, and vice versa. Based on this theory, Höskuldsson’s [[Homotopy principle|H-Principle]] finds a solution in a stepwise way which viewed as maximizing the co-variance between two data sets. Demonstrating that PLS regression is of a similar kind to the well-known [[canonical correlation]] in [[multivariate statistics]].
+
+In 1996 he published "Prediction Methods in Science and Technology", a review of latent structure regression, including PLS regression.<ref>{{cite book|last=Höskuldsson|first=Agnar|title=Prediction Methods in Science and Technology|date=1996|publisher=Thor Publishing|location=Copenhagen|page=404}}</ref>
+
+The following year Höskuldsson received the Herman Wold gold medal from the [[Swedish Chemical Society]] at the Scandinavian Symposium on Chemometrics as recognition of his contributions and pioneering work in the field of chemometrics.<ref>{{cite journal|last=Höskuldsson|first=Agnar|title=Modelling procedures for directed network of data blocks|journal=Chemometrics and Intelligent Laboratory Systems|date=2009|volume=97|issue=1|pages=3–10|doi=10.1016/j.chemolab.2008.09.002}}</ref><ref>{{cite journal|last=Höskuldsson|first=A|title=The Heisenberg modelling procedure and application to nonlinear modelling|journal=Chemometrics and Intelligent Laboratory Systems|date=14 December 1998|volume= 44|issue=1–2|pages=15–30|doi=10.1016/s0169-7439(98)00111-7}}</ref>
+
+In 2008 Höskuldsson founded SIME Diagnostics, a company focused on digitising healthcare diagnostics and is his current employment.<ref>{{cite web|title=SIME Diagnostics|url=http://www.simediagnostics.co.uk/|website=www.simediagnostics.co.uk|access-date=3 July 2014|archive-url=https://web.archive.org/web/20140714152556/http://www.simediagnostics.co.uk/|archive-date=14 July 2014|url-status=dead}}</ref>
+
+== The H-Principle of applied mathematics ==
+{{primary sources section|date=February 2026}}
+Developed by Agnar Höskuldsson, '[[Uncertainty principle|The H-Principle]]', is a new foundation for obtaining solutions to mathematical methods where the data is uncertain. [[The Uncertainty Principle|The uncertainty approach]] each step is an optimal balance, which is determined between the improvement in the mathematical criterion and the associated precision.<ref>{{cite journal|last=Höskuldsson|first=A|title=H-methods in applied sciences|journal=Journal of Chemometrics|date=2008|volume=22|issue=3–4|pages=155–177|doi=10.1002/cem.1131|s2cid=122623414}}</ref>
+
+The H-principle has been extended to many areas of applied mathematics{{which|date=February 2026}} due to its flexible and adaptable nature. Making it possible for it to be a common framework for numerical computations of methods in applied mathematics, which use linear algebra and where data are uncertain.
+
+==References==
+
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hoskuldsson, Agnar}}
+[[Category:Partial differential equation theorists]]
+[[Category:Academic staff of the Technical University of Denmark]]
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:University of Copenhagen alumni]]
+[[Category:Danish chemists]]
+[[Category:Computational chemists]]

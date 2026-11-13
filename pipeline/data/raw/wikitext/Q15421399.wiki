@@ -1,0 +1,70 @@
+{{Short description|American electrical engineer and physicist}}
+{{Infobox scientist
+| name              = Isaac L. Chuang
+| image             =
+| image_size        = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| fields            = [[Electrical engineering]], [[Physics]]
+| workplaces        = [[MIT]]<br>[[IBM]]<br>
+[[University of California Berkeley]]<br>[[Los Alamos National Laboratory]]
+| education         = [[Stanford University]]<br>[[MIT]]
+| doctoral_advisor  = [[Yoshihisa Yamamoto (scientist)|Yoshihisa Yamamoto]]<ref>{{Cite web | url=http://www.stanford.edu/group/yamamotogroup/YY-HP/member.html | title=Yoshihisa Yamamoto | access-date=2010-01-27 | archive-date=2012-12-02 | archive-url=https://web.archive.org/web/20121202063537/http://www.stanford.edu/group/yamamotogroup/YY-HP/member.html | url-status=dead }}</ref>
+| academic_advisors = 
+| doctoral_students = [[Aram Harrow]]
+| notable_students  = 
+| known_for         = [[NMR quantum computing]]<br>[[Quantum Computation and Quantum Information]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[American Physical Society]] Fellow (2010)  <br> MIT Technology Review [[TR35|TR100]] (1999)
+| religion          = 
+| signature         = <!--(filename only)-->
+| website           = http://feynman.mit.edu/ike/homepage/index.html
+| footnotes         =  
+}}
+'''Isaac L. Chuang''' is an American electrical engineer and physicist. He is a professor of electrical engineering at the [[Massachusetts Institute of Technology]] (MIT).<ref>{{cite web |url=https://www.rle.mit.edu/people/isaac-l-chuang/ |title=Isaac L. Chuang - RLE at MIT }}</ref><ref>{{Cite web | url=http://feynman.mit.edu/ike/homepage/ | title=Home Page: Isaac Chuang | access-date=2010-01-27 | archive-date=2018-12-11 | archive-url=https://web.archive.org/web/20181211100057/http://feynman.mit.edu/ike/homepage/ | url-status=dead }}</ref> He received his undergraduate degrees in physics (1990) and electrical engineering (1991) and master's in electrical engineering (1991) at MIT.<ref name="copsey">Copsey, D.; Oskin, M.; Impens, F.; Metodiev, T.; Cross, A.; Chong, F.T.; Chuang, I.L.; Kubiatowicz, J., "Toward a scalable, silicon-based quantum computing architecture," IEEE Journal of Selected Topics in Quantum Electronics, vol.9, no.6, pp. 1552–1569, Nov.-Dec. 2003, {{doi|10.1109/JSTQE.2003.820922}}</ref>  In 1997 he received his [[PhD]] in electrical engineering from [[Stanford University]].<ref name="copsey"/>
+
+Chuang is one of the pioneers of [[Nuclear magnetic resonance quantum computer|NMR quantum computing]]. He later began working on [[Trapped-ion quantum computer|trapped ion quantum computing]], after liquid state NMR quantum computing fell out of favor because of excessive noise limiting its scalability to only tens of [[qubit]]s.
+
+In 2008, Chuang was the principal investigator of a doctoral-study program in [[quantum information science]]. As part of it, MIT was awarded a $3 million grant from the [[National Science Foundation]]<ref>{{Cite web |date=2025-04-07 |title=NSF - National Science Foundation |url=https://www.nsf.gov/ |access-date=2025-04-19 |website=www.nsf.gov |language=en}}</ref> for a new graduate training program.<ref>{{Cite web |date=2008-08-04 |title=MIT awarded $3M for training program in quantum information science |url=https://news.mit.edu/2008/quantum-0804 |access-date=2025-04-19 |website=MIT News {{!}} Massachusetts Institute of Technology |language=en}}</ref>
+
+Chuang is known, along with [[Michael Nielsen]], for having authored ''[[Quantum Computation and Quantum Information]]'', one of the primary reference books in quantum computing.
+<!--{{Citation needed|date=March 2015}}-->
+
+While employed at IBM in 1999, Chuang was to be featured in a film by [[Errol Morris]], commissioned by IBM for an internal conference on the occasion of the year 2000.  The conference was cancelled and the film was never completed, but [http://www.errolmorris.com/content/aborted/projects_ibm.html Morris's personal website] contains excerpts including Chuang.
+
+In 2015, he led a study showing that some students on the [[edX]] platform cheat by creating multiple accounts and "harvesting" correct answers.<ref name="MyUser_Thecrimson.com_February_2_2017c">{{cite web |url=http://www.thecrimson.com/article/2015/9/3/cameo-cheating-method-mooc/ |title=EdX Users Cheat Through MOOC-Specific Method, Study Says |newspaper=Thecrimson.com |access-date= February 2, 2017}}</ref>
+
+==Honors==
+* 2010 Fellow of the [[American Physical Society]]<ref name="aps">{{cite news|title=2010 Fellows of the American Physical Society|url=http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2010&nom_unit=Quantum+Information%2C+Concepts%2C+and+Computation+%28GQI%29&institution=}}</ref>
+* In 1999, he was named to the ''[[MIT Technology Review]]'' [[TR35|TR100]] as one of the top 100 innovators in the world under the age of 35.<ref>{{cite web|url=http://www.technologyreview.com/tr35/?year=1999 |title=1999 Young Innovators Under 35 |publisher=[[Technology Review]] | year=1999 | access-date=August 16, 2011}}</ref>
+
+== Selected bibliography ==
+* {{cite book |title=Quantum Computation and Quantum Information |last1=Nielsen |first1=Michael A. |author-link1=Michael_Nielsen |last2=Chuang |first2=Isaac L. |author-link2=Isaac_Chuang |year=2000 |publisher=Cambridge University Press |location=Cambridge, UK |isbn=978-0-521-63235-5 |oclc=43641333|title-link=Quantum Computation and Quantum Information (book) |edition=10th Anniversary }}
+
+== References ==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chuang, Isaac}}
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:American electrical engineers]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:American quantum information scientists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:MIT School of Science alumni]]
+[[Category:American people of Chinese descent]]
+
+
+{{US-electrical-engineer-stub}}
+{{US-physicist-stub}}

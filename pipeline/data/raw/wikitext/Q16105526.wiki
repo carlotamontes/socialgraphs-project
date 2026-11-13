@@ -1,0 +1,208 @@
+{{how-to|date=March 2023}}
+{{Infobox scientist
+| name              = Grigoriy Yablonsky
+| image             = Yablon2004.png
+| caption           = Grigoriy Yablonsky, 2004
+| birth_date        = {{birth date and age|1940|9|7}}
+| birth_place       = [[Yessentuki]], Stavropol'skij kraj, [[USSR]] ([[Russian Federation]])
+| workplaces        = [[Washington University in St. Louis]] <br /> [[Saint Louis University (United States)|Saint Louis University]]
+| education         = [[Kyiv Polytechnic Institute]] (Ukraine; M.S. in Chemistry, 1962, with high honors)<br />
+[[Boreskov Institute of Catalysis]] (Russia; Ph.D. in Physical Chemistry, 1971; D.Sc. in Physical Chemistry, 1989)
+| known_for         = Theory of complex non-linear catalytic reactions
+| awards            = James B. Eads Award via the [[Academy of Science]] (2013), Lifetime Achievement Award (Mathematics in Chemical Kinetics and Engineering, MaCKiE-2013)
+}}
+
+'''Grigoriy Yablonsky''' (or Yablonskii) ({{langx|ru|Григорий Семенович Яблонский}}) is a Russian expert in the area of [[chemical kinetics]] and [[chemical engineering]], particularly in catalytic technology of complete and selective oxidation, which is one of the main driving forces of sustainable development.
+
+His theory of complex [[steady-state]] and non-steady-state catalytic reactions<ref>{{cite book|last=Yablonsky|first=G.S. |author2=V.I. Bykov |author3=A.N. Gorban' |author4=V.I. Elokhin|title=Kinetic Models of Catalytic Reactions|year=1991|publisher=Elsevier|url= https://www.researchgate.net/publication/303921206 |location=Amsterdam–Oxford–New York–Tokyo}}</ref> is widely used by research teams in many countries of the world (the USA, UK, Belgium, Germany, France, Norway, and Thailand).
+
+Yablonsky previously served as an associate research professor of chemistry at [[Saint Louis University (United States)|Saint Louis University']]s [[Parks College of Engineering, Aviation and Technology]] and college of arts and sciences. Since 2017, he has served as a Senior Researcher and Adjunct Professor at the [[McKelvey School of Engineering]] at [[Washington University in St. Louis]], as part of the Department of Energy, Environmental and Chemical Engineering.
+
+Since 2006, Yablonsky has also been an editor of the Russian-American ''Middle West''.
+
+== Scientific contributions ==
+
+Yablonsky, together with Lazman, developed the general form of steady-state kinetic description (the kinetic polynomial'), which is a non-linear generalization of many theoretical expressions proposed previously (the Langmuir –Hinshelwood and Hougen–Watson equations).<ref>M. Lazman and G.S. Yablonsky, [http://www.sciencedirect.com/science/article/pii/S0065237708000021 "Overall Reaction Rate Equation of Single Route Catalytic Reaction"], ''Advances in Chemical Engineering'', '''34''':47–102, 2008</ref> Yablonsky also created a theory of precise catalyst characterization for the advanced worldwide experimental technique ([[temporal analysis of products]]) developed by John T. Gleaves at [[Washington University in St. Louis]].<ref>S.O. Shekhtman, G.S. Yablonsky, S. Chen, J.T. Gleaves, [http://www.sciencedirect.com/science/article/pii/S000925099800534X " Thin-Zone TAP-Reactor – Theory and Application "], Chemical Engineering Science, '''54''':4371–7378, 1999</ref>
+
+In 2008–2011, Yablonsky, together with Constales and Marin ([[Ghent University]], Belgium), and [[Alexander Nikolaevich Gorban|Alexander Gorban]] ([[University of Leicester]], UK), obtained new results on coincidences and intersections in kinetic dependences and found a new type of symmetry relation between the observable and initial kinetic data.<ref>G. S. Yablonsky, D. Constales, G. Marin, [http://www.sciencedirect.com/science/article/pii/S0009250910002241 "Coincidences in Chemical Kinetics:  Surprising News about Simple Reactions"], Chemical Engineering Science, '''65''':6065–6076, 2010</ref><ref>G. S. Yablonsky, D. Constales, G. Marin, [http://www.sciencedirect.com/science/article/pii/S0009250910006007 "Equilibrium relationships for non-equilibrium chemical dependences"], Chemical Engineering Science, '''66''':111–114, 2011</ref><ref>G.S. Yablonsky, A.N. Gorban, D. Constales, V. Galvita and G.B. Marin, [http://iopscience.iop.org/0295-5075/93/2/20004/ "Reciprocal Relations Between Kinetic Curves"], Europhysics Letters, '''93''':2004–2007, 2011; {{doi|10.1209/0295-5075/93/20004}}, {{ArXiv|1008.1056}}</ref>
+
+Together with [[Alexander Nikolaevich Gorban|Alexander Gorban]], Yablonsky developed the theory of [[chemical thermodynamics]] and [[detailed balance]] in the limit of irreversible reactions.<ref name="GorYabChemEngSci2011">A. N. Gorban and G. S. Yablonsky, [http://www.math.le.ac.uk/people/ag153/homepage/GorbanYablonskiiCES2011.pdf "Extended detailed balance for systems with irreversible reactions"], ''Chemical Engineering Science'', '''66''':5388–5399, 2011; {{doi|10.1016/j.ces.2011.07.054}}, {{ArXiv|1101.5280}}</ref><ref name="GorMirYabPhysA2013">A.N. Gorban, E.M. Mirkes, G.S. Yablonsky, [http://www.math.le.ac.uk/people/ag153/homepage/GorbanMirYabPhysA2013.pdf "Thermodynamics in the limit of irreversible reactions"], ''Physica A'' 392 (2013) 1318–1335; {{doi|10.1016/j.physa.2012.10.009}}, {{ArXiv|1207.2507}}</ref>
+
+Yablonsky is a world recognized expert in chemical kinetics and chemical engineering, in particular [[Temporal analysis of products]] (TAP) studies. He has authored six monographs and more than 300 peer-reviewed papers on these topics.<ref>{{Cite web |title=Gregory Yablonsky (GS Yablonskii, ГС Яблонский) |url=https://scholar.google.co.uk/citations?user=z4bORCYAAAAJ |access-date=2026-02-08 |website=scholar.google.co.uk}}</ref> His research spans [[heterogeneous catalysis]], kinetics of complex chemical reactions (see [[chemical kinetics]]), mathematical modeling of chemical reactors and technological processes (see [[chemical reactor]]), and the history and methodology of science.<ref>{{Cite web |last=Early |first=Rosalind |date=2022-02-14 |title=Asking big questions about the role of science, engineering |url=https://source.washu.edu/2022/02/asking-big-questions-about-the-role-of-science-engineering/ |access-date=2026-02-08 |website=The Source |language=en-US}}</ref>
+
+=== Catalytic trigger and catalytic oscillator ===
+
+A simple scheme for the nonlinear kinetic oscillations in heterogeneous catalytic reactions has been proposed by Bykov, Yablonsky, and Kim in 1978.<ref>V.I. Bykov, G.S. Yablonskii, V.F. Kim, "On the simple model of kinetic self-oscillations in catalytic reaction of CO oxidation", ''Doklady AN USSR'' (Chemistry)  '''242''' (3) (1978), 637–639.</ref> The authors have started with the [[catalytic trigger]] (1976<ref>M.G. Slin'ko, V.I. Bykov, G.S. Yablonskii, T.A. Akramov, "Multiplicity of the Steady State in Heterogeneous Catalytic Reactions", ''Dokl. Akad. Nauk SSSR'' '''226''' (4) (1976), 876.</ref><ref>{{Cite journal |doi = 10.1007/BF02061998|title = The simplest catalytic mechanism permitting several steady states of the surface|journal = Reaction Kinetics and Catalysis Letters|volume = 4|issue = 2|pages = 191–198|year = 1976|last1 = Bykov|first1 = V. I.|last2 = Elokhin|first2 = V. I.|last3 = Yablonskii|first3 = G. S.|s2cid = 98269577}}</ref>), the simplest catalytic reaction without [[autocatalysis]] that allows multiplicity of steady states.
+{{NumBlk|:|<chem>{A2}+2Z <=> 2AZ</chem>|{{EquationRef|1}}}}
+{{NumBlk|:|<chem>{B}+Z <=> BZ </chem>|{{EquationRef|2}}}}
+{{NumBlk|:|<chem>{AZ}+BZ -> {AB}+2Z </chem>|{{EquationRef|3}}}}
+Then they have supplemented this classical [[Langmuir–Hinshelwood kinetics|adsorption mechanism]] of catalytic oxidation by a "buffer" step
+{{NumBlk|:|<chem>{B} + Z \rightleftharpoons (BZ)</chem>|{{EquationRef|4}}}}
+
+Here, A<sub>2</sub>, B, and AB  are gases (for example, O<sub>2</sub>, CO, and CO<sub>2</sub>), Z is the "adsorption place" on the surface of the solid catalyst (for example, Pt), AZ and BZ are the intermediates on the surface (adatoms, adsorbed molecules, or radicals), and (BZ) is an intermediate that does not participate in the main reaction.
+
+Let the concentration of the gaseous components be constant. Then the law of mass action gives for this [[reaction mechanism]] a system of three ordinary differential equations that describe kinetics on the surface.
+{{NumBlk|:|<math>\dot{x}=2q_1z^2-2q_5x^2-q_3xy</math>|{{EquationRef|5}}}}
+{{NumBlk|:|<math>\dot{y}=q_2z-q_6y-q_3xy</math>|{{EquationRef|6}}}}
+{{NumBlk|:|<math>\dot{s}=q_4z-kq_4s</math>|{{EquationRef|7}}}}
+where {{math|1=''z''&nbsp;=&nbsp;1&nbsp;&minus;&nbsp;(''x''&nbsp;+&nbsp;''y''&nbsp;+&nbsp;''s'')}} is the concentration of the free places of adsorption on the surface ("per one adsorption center"), ''x'' and ''y'' are the concentrations of ''AZ'' and ''BZ'', correspondingly (also normalized "per one adsorption center"). and ''s'' is the concentration of the buffer component (''BZ'').
+
+This three-dimensional system includes seven parameters. The detailed analysis shows that there are 23 different [[phase portrait]]s for this system, including oscillations, multiplicity of steady states, and various types of [[Bifurcation theory|bifurcations]].<ref>A.I. Khibnik, V.I. Bykov, and G.S. Yablonski, "23 phase portraits of the simplest catalytic oscillator", ''J. Fiz. Khim.'' '''61''' (1987), 1388–1390 [in Russian]. English translation in ''Russian Journal of Physical Chemistry'', Volume '''61''' (1987), 722–723.</ref>
+
+=== Reactions without the interaction of different components ===
+
+Let the reaction mechanism consist of reactions.
+:<math>\alpha_r A_{i_r} \to \sum_j \beta_{rj}A_j \, ,</math>
+where <math>A_i</math> are symbols of components, ''r'' is the number of the [[elementary reaction]] and <math>\alpha_r, \beta_{rj} \geq 0</math> are the stoichiometric coefficients (usually they are integer numbers).  (The components that are present in excess and the components with almost constant concentrations are not included.)
+
+The [[Eley–Rideal mechanism]] of CO oxidation on PT provides a simple example of such a reaction mechanism without interaction of different components on the surface:
+:<chem>2Pt(+O2) <=> 2Pt; \;\; {PtO} + CO <=> {Pt} + CO2\!\uparrow</chem>.
+
+Let the reaction mechanism have the conservation law
+:<math>\alpha_r m_{i_r}= \sum_j \beta_{rj} m_j \text{ for some } m_j>0 \text{ and all } r , </math>
+and let the [[reaction rate]] satisfy the [[mass action law]]: 
+:<math>W_r= k_r c_{i_r}^{\alpha_r}, </math>
+where <math>c_i</math> is the concentration of <math>A_i</math>.
+Then the dynamic of the kinetic system is very simple: the steady states are stable<ref>V.I. Bykov, T.A. Akramov,  and G.S. Yablonskii, "Studies of the dynamic properties of catalytic systems", In ''Mathematicheskie problemy khimii'' [Mathematical Problems of Chemistry], Part 1, 1975, Computing Center USSR Academy of Sciences, Siberian Branch, Novosibirsk (in Russian),  pp. 199–206.</ref> and all solutions <math>\mathbf{c}(t)=(c_i(t))</math> with the same value of the conservation law <math>m(\mathbf{c})= \sum m_i c_i</math> monotonically converge in the weighted <math>l_1</math> norm: the distance between such solutions <math>\mathbf{c}^{(1)}(t),\mathbf{c}^{(2)}(t)</math>,
+:<math>\|\mathbf{c}^{(1)}-\mathbf{c}^{(2)}\|=\sum_i m_i |c^{(1)}_i-{c}^{(2)}_i| ,</math>
+monotonically decreases in time.<ref>A.N. Gorban, V.I. Bykov, G.S. Yablonskii, [http://www.math.le.ac.uk/people/ag153/homepage/BGYa1986.pdf "Thermodynamic function analogue for reactions proceeding without interaction of various substances"], ''Chemical Engineering Science'' '''41''' (11) (1986), 2739–2745; {{doi|10.1016/0009-2509(86)80005-7}}.</ref>
+
+This quasithermodynamic property of the systems without interaction of different components is important for the analysis of the dynamics of catalytic reactions: nonlinear steps with two (or more) different intermediate reagents are responsible for nontrivial dynamical effects like multiplicity of steady states, oscillations, or bifurcations. Without interaction between different components, the kinetic curves converge into a simple norm, even for open systems.
+
+=== The extended principle of detailed balance ===
+
+The detailed mechanism of many real physico-chemical complex systems includes both reversible
+and irreversible reactions. Such mechanisms are typical in homogeneous combustion,
+heterogeneous catalytic oxidation, and complex enzyme reactions. The classical
+thermodynamics of perfect systems is defined for reversible kinetics and has no limit for
+irreversible reactions.<ref name="GorMirYabPhysA2013"/> On the contrary, the [[mass action law]] gives the possibility to write the chemical kinetic equations for any
+combination of reversible and irreversible reactions. Without additional restrictions,
+this class of equations is extremely wide and can approximate any [[dynamical system]]
+with preservation of positivity of concentrations and the linear conservation laws. (This
+general approximation theorem was proved in 1986.<ref>A.N. Gorban, V.I. Bykov, G.S.
+Yablonskii, ''Essays on Chemical Relaxation'', Nauka, Novosibirsk, 1986.</ref>) The model
+of real systems should satisfy some restrictions. Under the standard [[microscopic reversibility]] requirement, these restrictions should be formulated as follows: A
+system with some irreversible reactions should be at the limit of the systems with all reversible reactions and the detailed balance conditions.<ref name="GorYabChemEngSci2011"/> Such systems have been completely described in 2011.<ref name="GorYabChemEngSci2011"/> The ''extended principle of detailed balance'' is the
+characteristic property of all systems that obey the generalized mass action law and is
+the limit of systems with detailed balance when some of the reaction rate constants
+tend to zero (the [[Detailed balance#Detailed balance for systems with irreversible reactions|Gorban-Yablonsky theorem]]).
+
+The extended principle of detailed balance consists of two parts:
+
+* The ''algebraic condition'': The principle of detailed balance is valid for the reversible part. This means that for the set of all reversible reactions, there exists a positive equilibrium where all the elementary reactions are equilibrated by their reverse reactions.
+* The ''structural condition'' is that the [[Convex hull#Convex hull of a finite point set|convex hull]] of the stoichiometric vectors of the irreversible reactions has an empty intersection with the [[linear span]] of the stoichiometric vectors of the reversible reactions. (Physically, this means that the irreversible reactions cannot be included in oriented cyclic pathways.)
+
+The stoichiometric vector of the reaction <math>\sum_i \alpha_{i} A_i \to \sum_j \beta_{j} A_j</math> is the ''gain minus loss'' vector with coordinates
+<math>\gamma_{i}=\beta_i-\alpha_i</math>.
+
+(It may be useful to recall the formal convention: the linear span of an empty set is 0;
+the convex hull of an empty set is empty.)
+
+The extended principle of detailed balance gives an ultimate and complete answer to the following problem: ''how to throw away some reverse reactions without violating thermodynamics and microscopic reversibility?'' The answer is that the [[Convex hull#Convex hull of a finite point set|convex hull]] of the stoichiometric vectors of the irreversible reactions should not intersect with the [[linear span]] of the stoichiometric vectors of the reversible reactions, and the reaction rate constants of the remaining reversible reactions should satisfy the [[Detailed balance#Wegscheider's conditions for the generalized mass action law|Wegscheider identities]].
+
+==Career==
+Yablonsky started his career in the Siberian Branch of the [[Russian Academy of Sciences]]. In 1962, Yablonsky began work as a Chemical Engineer at the Kyiv [[Chemical plant|Chemical Plant]] in [[Kyiv]]. In 1964 until 1986, he worked at the [[Boreskov Institute of Catalysis]], where he first served as a Junior and then Senior Research Associate. From 1986 to 1991, Yablonsky worked as the Chief of Lab and Deputy Director of the Tuvinian Technological Institute, now [[Tuvan State University]]. He then began work as a Professor of [[Chemical engineering]] at the [[Kyiv Polytechnic Institute]], where he resided until 1997.
+
+In 1995, Yablonsky visited [[St. Louis]] to serve as a visiting professor at [[Washington University in St. Louis]] in the department of [[Chemical engineering]]. In 1997, the moved to the U.S. full time and began working as a research associate professor in the department of energy, environmental, and chemical engineering at the [[McKelvey School of Engineering]] at Washington University in St. Louis. In 2007, Yablonsky became an associate professor at Saint Louis University's Parks College of Engineering, Aviation, and Technology as well as in the department of chemistry. In 2017, he moved back to [[Washington University in St. Louis]], where he has since served as a Senior Researcher and Adjunct Professor as part of the [[McKelvey School of Engineering]]
+
+During his career, Yablonsky has organized many conferences and workshops at national and international levels. Yablonsky frequently participates in interdisciplinary dialogues involving mathematicians, chemists, physicists, and chemical engineers. He also focuses on the ethics of science and technology as part of his studies. 
+
+He has served as a visiting/honorary professor at many global institutions, including [[Kasetsart University]] (1999), [[National University of Singapore]] (2000-2001), [[Ghent University]] (2002-2019), [[Queen's University Belfast]] (2005), [[University of Oslo]] (2013, 2018), [[Fritz Haber Institute of the Max Planck Society]] (2014-2015), and [[IIT Bombay]] (2017).
+
+==Honors and awards==
+* Distinguished Visiting Professor of [[IIT Bombay]] (2019/2020)
+* Sarton's Award on history of chemical kinetics ([[Ghent University]])<ref>{{Cite web |title=Emerging Trends in Kinetics and Thermodynamics Editor Details |url=https://scholars.direct/editor-Full_biography.php?jid=kinetics-and-thermodynamics&eid=JI26108664#:~:text=Yablonsky%20was%20granted%20by%20the%20honorary%20doctor%20degree%20from%20the%20University%20of%20Ghent.&text=In%202014,%20he%20received%20the%20Sarton's%20Award%20on%20history%20of%20chemical%20kinetics. |access-date=2026-02-08 |website=scholars.direct}}</ref> (2014)
+* STAR's Award "10 years of service NSF research mentor program" (2013)
+* Lifetime Achievement Award, in recognition of outstanding contributions to the research field of chemical kinetics, Mathematics in Chemical Kinetics and Engineering, MaCKiE (2013)
+* Fellow of [[Academy of Science, St. Louis|Academy of Sciences- St. Louis]] (2013)
+* James B. Eads Award, Academy of Science of St. Louis Outstanding Scientist Award (2013).<ref>{{cite web |url=http://www.academyofsciencestl.org/initiatives/outstanding_scientists.php |title=Outstanding St. Louis Scientists Awards |publisher=Academy of Science |access-date=2013-04-25 |archive-url=https://web.archive.org/web/20130503102828/http://www.academyofsciencestl.org/initiatives/outstanding_scientists.php |archive-date=2013-05-03 }}</ref>
+* Member of the Scientific Council on Catalysis at the [[Russian Academy of Sciences]] (2011)
+* Chevron Chair Professorship at the Indian Institute of Technology (IIT), Madras (2011)
+* Honorary Fellow of the Australian Institute of High Energetic Materials, Gladstone, Australia (2011)
+* Honorary Professor and Doctorate for [[Ghent University]] in Belgium (2010)<ref>{{cite web |title=Dr. Yablonsky Receives Honorary Doctorate |url=http://parks.slu.edu/news-events/news/2010/04/26/dr-yab/ |access-date=2013-04-25 |publisher=Parks College}}</ref>
+* Honorary Professor of the [[Wuhan University of Technology]] in Chemical Technology, People's Republic of China (2001)
+* Two Silver Medals of the Exhibition of [[Exhibition of Achievements of National Economy|Nat. Econ. Achiev.]] of the U.S.S.R. (1971-1973)
+
+==Professional memberships and associations==
+Yablonsky has numerous international designations as an honorary professor, fellow, doctor, and member of prestigious science academies and universities in Belgium, India, China, Russia, and Ukraine.
+* 1996–present: [[American Institute of Chemical Engineers]]
+* 2011–present: [[American Chemical Society]]
+* 2011–present: Member of the Scientific Council on Catalysis at the [[Russian Academy of Sciences]]
+* 2013–present: Fellow, [[Academy of Science of St. Louis]]
+
+==Notable publications==
+Yablonsky is the author of seven books as of 2026, and more than 200 papers. His books include 
+*{{cite book|last=Yablonsky|first=G.S.|author2=V.I. Bykov |author3=A.N. Gorban' |author4= V.I. Elokhin |title=Kinetic Models of Catalytic Reactions|year=1991|publisher=Elsevier|location=Amsterdam–Oxford–New York–Tokyo}}<ref>{{Cite book |url=https://shop.elsevier.com/books/kinetic-models-of-catalytic-reactions/yablonskii/978-0-444-88802-0 |title=Kinetic Models of Catalytic Reactions |date=1991-04-17 |isbn=978-0-444-88802-0 |language=en-US}}</ref>
+*{{cite book|last=Marin|first=G.B.|author2=G.S. Yablonsky |title=Kinetics of Complex Reactions. Decoding Complexity|year=2011|publisher=Wiley-VCH|isbn=978-3-527-31763-9|page=428}}
+*Marin, G.B, G.S. Yablonsky, and D. Constales, (2019) ''Kinetics of Chemical Reactions: Decoding Complexity'', Wiley-VCH, 2019, 2nd ed, 442 pp<ref name=":0">{{Cite web |title=Kinetics of Chemical Reactions: Decoding Complexity, 2nd Edition {{!}} Wiley |url=https://www.wiley.com/en-us/Kinetics+of+Chemical+Reactions%3A+Decoding+Complexity%2C+2nd+Edition-p-9783527342952 |access-date=2026-02-08 |website=Wiley.com |language=en}}</ref>
+*G. Yablonsky, "Chemistry for Engineers", Kendall Hunt Publishing Company, p.115. (2012)
+*D. Constales. G.S. Yablonsky, Y. Thibeaut, D.R. D'hooge and G. B. Marin "[https://www.vitalsource.com/products/advanced-data-analysis-and-modelling-in-chemical-denis-constales-v9780444594846?srsltid=AfmBOorrNYS8FvE6p1jvz9sWt9-W5Dxhe6SRT0ItWT61Ltm-BA7Hwh94 Advanced] [https://www.vitalsource.com/products/advanced-data-analysis-and-modelling-in-chemical-denis-constales-v9780444594846?srsltid=AfmBOorrNYS8FvE6p1jvz9sWt9-W5Dxhe6SRT0ItWT61Ltm-BA7Hwh94 Data Analysis and Modeling in Chemical Engineering]", Elsevier, p. 399 (2017)
+*V.I. Bykov, S.B. Tsybenova, G.S. Yablonsky, "Chemical Complexity via Simple Models: MODELICS", De Gruyter, Berlin (2018) 374 pp<ref>{{Cite web |title=Chemical Complexity via Simple Models: MODELICS 9783110464948, 9783110464917 |url=https://dokumen.pub/chemical-complexity-via-simple-models-modelics-9783110464948-9783110464917-t-8212209.html |access-date=2026-02-08 |website=dokumen.pub |language=en}}</ref>
+*G. Yablonsky, R. Fushimi, G. Marin (2021). ''"Kinetic Measurements in Heterogeneous Catalysis"'', in: Kirk‐Othmer Encyclopedia of Chemical Technology<ref>{{Cite book |url=https://onlinelibrary.wiley.com/doi/book/10.1002/0471238961 |title=Kirk-Othmer Encyclopedia of Chemical Technology |date=2001-01-26 |publisher=Wiley |isbn=978-0-471-48494-3 |editor-last=Kirk-Othmer |edition=1 |language=en |doi=10.1002/0471238961.1109140513010704.a01.pub3}}</ref>
+Notable publications by Yablonsky include
+*{{cite journal|last=Gleaves|first=J.T.|author2=G.S. Yablonsky |author3=P. Phanawadee |author4= Y. Schuurman |title=TAP-2. Interrogative Kinetics Approach|journal=Applied Catalysis A: General|date=14 October 1997|volume=160|issue=1|pages=55–88|doi=10.1016/S0926-860X(97)00124-5}}
+*{{cite journal|last=Grigoriy|first=Yablonsky|author2=M. Olea |author3=G. Marin |title=Temporal Analysis of Products: Basic Principles, Applications, and Theory|journal=Journal of Catalysis|date=May–June 2003|volume=216|issue=1–2|pages=120–134|doi=10.1016/S0021-9517(02)00109-4}}
+*{{cite journal|last=Yablonsky|first=Grigoriy|author2=I.M.Y. Mareels |author3=M. Lazman |title=The principle of critical simplification in chemical kinetics|journal=Chemical Engineering Science|date=November 2003|volume=58|issue=21|pages=4833–4842|doi=10.1016/j.ces.2003.08.004|bibcode=2003ChEnS..58.4833Y }}
+*{{cite journal|last=Feres|first=R.|author2=G.S. Yablonsky |title=Knudsen Diffusion and Random Billiards|journal=Chemical Engineering Science|year=2004|volume=59|issue=7|pages=1541–1556|doi=10.1016/j.ces.2004.01.016}}
+*{{cite book|last=Estathiou|first=A.M.|author2=G.S. Yablonsky |author3=Gleaves, J. T. |title=Transient Techniques: Temporal Analysis of Products (TAP) and Steady-State Isotopic Transient Kinetic Analysis (SSITKA)|year=2012|volume=1 & 2|pages=1013–1073|doi=10.1002/9783527645329.ch22|chapter=Transient Techniques: Temporal Analysis of Products and Steady State Isotopic Transient Kinetic Analysis|isbn=978-3-527-64532-9}}
+*Fei Xia, G.S. Yablonsky, and R. Axelbaum (2013). "Numerical study of flame structure and soot inception interpreted in carbon-to-oxygen atom ratio space", ''Proceedings of the'' ''Combustion Institute'', 34, 1<ref>{{Cite journal |last=Xia |first=Fei |last2=Yablonsky |first2=Gregory S. |last3=Axelbaum |first3=Richard L. |date=2013 |title=Numerical study of flame structure and soot inception interpreted in carbon-to-oxygen atom ratio space |url=https://www.sciencedirect.com/science/article/pii/S1540748912001514 |journal=Proceedings of the Combustion Institute |volume=34 |issue=1 |pages=1085–1091}}</ref>
+*A.N. Gorban, E. Mirkes, and G. Yablonsky (2013). "Thermodynamics in the Limit of Irreversible Reactions", ''Physica A'' 392 1318–1335<ref>{{Cite web |url=https://figshare.le.ac.uk/articles/journal_contribution/Thermodynamics_in_the_limit_of_irreversible_reactions/10225406?file=18445214 |access-date=2026-02-08 |website=figshare.le.ac.uk}}</ref>
+*K. Morgan, N. Maguire, J.T. Gleaves, E. Redekop, G. S. Yablonsky, D. Constales, P.A. Ramachandran, J. T. Gleaves, and G. B. Marin (2014). "Elucidating complex catalytic mechanisms based on transient pulse-response kinetic data", ''Chemical Engineering'' ''Science'' 110 20-31<ref>{{Cite journal |last=Redekop |first=Evgeniy A. |last2=Yablonsky |first2=Gregory S. |last3=Constales |first3=Denis |last4=Ramachandran |first4=Palghat A. |last5=Gleaves |first5=John T. |last6=Marin |first6=Guy B. |date=2014-05-03 |title=Elucidating complex catalytic mechanisms based on transient pulse-response kinetic data |url=https://www.sciencedirect.com/science/article/pii/S0009250913007999 |journal=Chemical Engineering Science |series=Mackie-2013 "Pushing the boundaries" |volume=110 |pages=20–30 |doi=10.1016/j.ces.2013.11.050 |issn=0009-2509|url-access=subscription }}</ref>
+*R. Fushimi, A. Goguet, M.P. Harold, E.V. Kondratenko, U. Menon, Y. Schuurmann, and G. S. Yablonsky (2017). "Forty Years of Temporary Analysis of Products", ''Catalysis'' ''Science & Technology'', 7, 2416-2439<ref>{{Cite web |date=2024-10-12 |title=Григорий Яблонский (совм. с Владимиром Гальвита): Краткая история времени в химии — Урания |url=https://urania.7iskusstv.com/?p=493 |access-date=2026-02-08 |language=ru-RU}}</ref>
+*G. S Yablonsky, D. Constales and G. B Marin (2020). "Joint Kinetics: a New Paradigm for Chemical Kinetics and Chemical Engineering", Current Opinion in ''Chemical'' ''Engineering'', 29 (2020) 83–88<ref>{{Cite journal |last=Yablonsky |first=Gregory S |last2=Constales |first2=Denis |last3=Marin |first3=Guy B |date=2020-09-01 |title=Joint kinetics: a new paradigm for chemical kinetics and chemical engineering |url=https://www.sciencedirect.com/science/article/pii/S2211339820300435 |journal=Current Opinion in Chemical Engineering |series=Reaction Engineering and Catalysis * Nanotechnology: Nanofluidics and Microfluidics |volume=29 |pages=83–88 |doi=10.1016/j.coche.2020.06.007 |issn=2211-3398|url-access=subscription }}</ref>
+*A. Fеdorоw, G. S. Yablonsky (2024). "Critical Situations and Prevention of Accidents in Chemico-Technological Systems (Methodological Aspects)", 12(1), ''Processes'' 161<ref>{{Cite journal |last=Fedorov |first=Alexander |last2=Yablonsky |first2=Gregory |date=2024-01-09 |title=Critical Situations and Prevention of Accidents in Chemico-Technological Systems (Methodological Aspects) |url=https://www.mdpi.com/2227-9717/12/1/161 |journal=Processes |language=en |volume=12 |issue=1 |page=161 |doi=10.3390/pr12010161 |issn=2227-9717 |archive-url=https://web.archive.org/web/20240707033104/https://www.mdpi.com/2227-9717/12/1/161 |archive-date=2024-07-07|doi-access=free }}</ref>
+*J Sachs, M Bui, J McCarthy, G Yablonsky (2025). "Conservatively Perturbed Equilibrium and Perturbation: Linear Case", ''Chem. Eng. J''., 510 161284<ref>{{Cite journal |last=Sachs |first=Jonah |last2=Bui |first2=Manh |last3=McCarthy |first3=John E. |last4=Yablonsky |first4=Grigoriy |date=2025-04-15 |title=Conservatively perturbed equilibrium and perturbation: Linear case |url=https://www.sciencedirect.com/science/article/pii/S1385894725021059 |journal=Chemical Engineering Journal |volume=510 |article-number=161284 |doi=10.1016/j.cej.2025.161284 |issn=1385-8947|doi-access=free }}</ref>
+*N. Turaeva, G. Yablonsky and R. Fushimi (2025).;Fermi based kinetic model for theSabatier reaction: Sabatier Principle and beyond it", ''J. of Phys. Chem''., 129 (16) (2025) 7730-7739<ref>{{Cite journal |last=Turaeva |first=Nigora |last2=Yablonsky |first2=Gregory |last3=Fushimi |first3=Rebecca |date=2025-04-24 |title=Fermi-Based Kinetic Model for the Sabatier Reaction: Sabatier Principle and Beyond It |url=https://www.scopus.com/pages/publications/105003554707 |journal=Journal of Physical Chemistry C |volume=129 |issue=16 |pages=7730–7739 |doi=10.1021/acs.jpcc.5c00099 |issn=1932-7447}}</ref>
+*M.R. Kunz, R. Fushimi, G.S. Yablonsky (2025). "Statistical distributions for transient transport", ''Chem. Eng. J'', 519 <ref>{{Cite journal |last=Kunz |first=M. Ross |last2=Maiti |first2=Debtanu |last3=Yablonsky |first3=Gregory |last4=Fushimi |first4=Rebecca |date=2025-09-01 |title=Statistical distributions for transient transport |url=https://www.sciencedirect.com/science/article/pii/S1385894725058164 |journal=Chemical Engineering Journal |volume=519 |article-number=164980 |doi=10.1016/j.cej.2025.164980 |issn=1385-8947|url-access=subscription }}</ref>
+
+==Courses Taught==
+Over his long teaching career Yablonsky has taught many courses across the fields of [[Chemical engineering]] and [[Philosophy of science]]. Some notable ones include
+
+* ''Chemical Kinetics in Heterogeneous Catalysis'', 1994 [[École polytechnique|Ecole Polytechnique]], 1997 [[École Polytechnique Fédérale de Lausanne|Ecole Polytechnique Federale de Lausanne]]
+* ''Modeling in Chemical Technology'', 1998 [[Kasetsart University]]
+* ''Chemical Sciences and Mathematics'', 2002 [[National University of Singapore]]
+* ''Science as Adventure and Challenge,'' 2002-2003 [[Washington University in St. Louis]]
+* ''Chemical Technology in Everyday Life'', 2003 [[National University of Singapore]]
+* ''Transport in the Environment'', 2003 -2005 [[Washington University in St. Louis]]
+* ''Chemical Kinetics in Heterogeneous Catalysis'', 2005 [[Queen's University Belfast]]
+* ''Chemistry I'', 2006-2013 [[Saint Louis University]]
+* ''Engineering Chemistry'', 2007-2014 [[Saint Louis University]]
+* ''Chemistry II'', 2009-2015 [[Saint Louis University]]
+* ''Mathematic Models of Complex Catalytic Reactions'', 2009 [[Åbo Akademi University]]
+* ''Kinetics of Complex Reactions'', 2010-2026 [[Washington University in St. Louis]]
+* ''Sustainable Engineering'', 2011 [[Saint Louis University]]
+* ''Chemical Kinetics of Complex Catalytic Reactions'', 2012 [[University of Oslo]]
+* ''Kinetics of Chemical Reactions: Decoding Complexity'' (based on the book<ref name=":0" />), 2012 [[Ghent University]]
+* ''Kinetics of Chemical Reactions,'' 2014 [[Fritz Haber Institute of the Max Planck Society]]
+* ''Kinetics of Complex Reactions: Decoding Complexity,'' 2015 [[Fritz Haber Institute of the Max Planck Society]]
+* ''Energy and Technology: From Industry to Daily Life,'' 2016 [[Saint Louis University]]
+* ''Kinetics of Chemical Reactions'', 2019-2020 [[IIT Bombay]]
+* ''Historical and Philosophical Aspects of Science, Engineering and Technology'', 2021-2026 [[Washington University in St. Louis]]
+
+==See also==
+* [[Chemical reaction network theory]]
+* [[Temporal analysis of products]]
+* [[List of Jewish scientists]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://parks.slu.edu/faculty-staff/parks-faculty/grigoriy-yablonsky/ Yablonsky's faculty profile at Parks College of Engineering, Aviation and Technology]
+
+{{authority control}}
+
+{{DEFAULTSORT:Yablonsky, Grigoriy}}
+[[Category:1940 births]]
+[[Category:20th-century American mathematicians]]
+[[Category:20th-century chemists]]
+[[Category:21st-century American mathematicians]]
+[[Category:American chemical engineers]]
+[[Category:Fellows of the American Chemical Society]]
+[[Category:Jewish scientists]]
+[[Category:Living people]]
+[[Category:Members of the American Institute of Chemical Engineers]]
+[[Category:Members of the Russian Academy of Sciences]]
+[[Category:Soviet chemists]]
+[[Category:Soviet mathematicians]]
+[[Category:Washington University in St. Louis faculty]]

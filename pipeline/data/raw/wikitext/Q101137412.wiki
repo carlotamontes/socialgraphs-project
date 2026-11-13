@@ -1,0 +1,63 @@
+{{Short description|American physicist}}
+{{More footnotes|date=November 2020}}
+{{Infobox scientist
+| name              = Alan David White
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[laser science]]
+| workplaces        = [[Bell Labs]]
+| education         = [[Rutgers University]]<br>[[Syracuse University]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = 
+| religion          = 
+| footnotes         = 
+}}
+'''Alan David White''' (1923 — 9 May 2020) was an American physicist, known primarily as one of the inventors of the visible [[helium-neon laser]].
+
+== Biography ==
+After completing his military service during World War II, White graduated due to the [[G.I. Bill]]. He earned degrees in physics and mathematics from [[Rutgers University]] and [[Syracuse University]]. From 1953 to 1983 he worked at [[Bell Laboratories]]. Then he was a scientific consultant for Tropel Corp.
+
+He was fond of art, in particular, sculpture.
+
+For his achievements he was awarded the 1984 [[IEEE David Sarnoff Award]], and in 2000 he was elected to the [[New Jersey Inventors Hall of Fame]].<ref>{{Cite web |title=2000 Awardees |url=http://www.njinvent.org/2000-awardees.html |access-date=2022-10-28 |website=NJ Inventors Hall of Fame 2018 |language=en}}</ref>
+
+== Scientific achievements ==
+The first gas laser, using a mixture of helium and neon, was demonstrated in 1960 and emitted radiation at a wavelength of 1.15 μm (infrared range).<ref>{{Cite journal |last1=Javan |first1=A. |last2=Bennett |first2=W. R. |last3=Herriott |first3=D. R. |date=1961-02-01 |title=Population Inversion and Continuous Optical Maser Oscillation in a Gas Discharge Containing a He-Ne Mixture |journal=Physical Review Letters |volume=6 |issue=3 |pages=106–110 |doi=10.1103/PhysRevLett.6.106|bibcode=1961PhRvL...6..106J |doi-access=free }}</ref> Two years later, White, together with Dane Rigden, showed that a [[Helium–neon laser|helium-neon laser]] can emit radiation at a wavelength of 632.8 nm, i.e., in the visible range of the spectrum.<ref>{{Cite journal |date=July 1962 |title=Correspondence |journal=Proceedings of the IRE |volume=50 |issue=7 |pages=1683–1713 |doi=10.1109/JRPROC.1962.288157 |issn=2162-6634}}</ref> In subsequent years, White, with [[Eugene I. Gordon]] and others, investigated the reasons for the limitation of the power of such lasers,<ref>{{Cite journal |last1=Gordon |first1=E. I. |last2=White |first2=A. D. |date=1963-12-01 |title=SIMILARITY LAWS FOR THE EFFECTS OF PRESSURE AND DISCHARGE DIAMETER ON GAIN OF He–Ne LASERS |url=https://aip.scitation.org/doi/10.1063/1.1753847 |journal=Applied Physics Letters |volume=3 |issue=11 |pages=199–201 |doi=10.1063/1.1753847 |bibcode=1963ApPhL...3..199G |issn=0003-6951|url-access=subscription }}</ref> established scaling laws for gas-discharge lasers,<ref>{{Cite journal |last1=White |first1=A. D. |last2=Gordon |first2=E. I. |date=1963-12-01 |title=EXCITATION MECHANISMS AND CURRENT DEPENDENCE OF POPULATION INVERSION IN He–Ne LASERS |url=https://aip.scitation.org/doi/10.1063/1.1753846 |journal=Applied Physics Letters |volume=3 |issue=11 |pages=197–199 |doi=10.1063/1.1753846 |bibcode=1963ApPhL...3..197W |issn=0003-6951|url-access=subscription }}</ref> and developed frequency stabilization methods for such devices.<ref>{{Cite journal |last=White |first=A. |date=November 1965 |title=Frequency stabilization of gas lasers |journal=IEEE Journal of Quantum Electronics |volume=1 |issue=8 |pages=349–357 |doi=10.1109/JQE.1965.1072246 |bibcode=1965IJQE....1..349W |issn=1558-1713}}</ref> The first continuous-wave visible laser, invented by White and Rigden, is still widely used in research and education, and is a part of various instruments.<ref>{{Cite journal |last=Lindley |first=David |date=2010-12-10 |title=Landmarks: The First Laser to Stay On |url=https://physics.aps.org/story/v26/st24 |journal=Physics |language=en |volume=26}}</ref>
+
+White also made significant contributions to the development of lenses for microlithography, as well as methods for aligning a lithographic mask using special lenses and [[Fresnel zone plate]]s.<ref>{{Cite journal |doi=10.1364/AO.13.002693 |title=Digital Wavefront Measuring Interferometer for Testing Optical Surfaces and Lenses |year=1974 |last1=Bruning |first1=J. H. |last2=Herriott |first2=D. R. |last3=Gallagher |first3=J. E. |last4=Rosenfeld |first4=D. P. |last5=White |first5=A. D. |last6=Brangaccio |first6=D. J. |journal=Applied Optics |volume=13 |issue=11 |pages=2693–3303 |pmid=20134757 |bibcode=1974ApOpt..13.2693B }}</ref>
+
+== Select publications ==
+* {{cite journal |last1= White |first1= Alan D. |date= 1959 |title= New hollow cathode glow discharge |journal= [[Journal of Applied Physics]] |volume= 30 |issue= 5 |pages= 711–719 |doi= 10.1063/1.1735220|bibcode= 1959JAP....30..711W }}
+* {{cite journal |last1=White |first1=Alan D. |last2=Rigden |first2=J.D. |date=1962 |title=Continuous gas maser operation in the visible |journal=Proceedings of the IRE |volume=50 |issue=7 |pages=1697 |doi=10.1109/JRPROC.1962.288157}}
+* {{cite journal |last1= White |first1= Alan D. |last2= Gordon |first2= E.I. |date= 1963 |title= Excitation mechanisms and current dependence of population inversion in HeNe lasers |journal= [[Applied Physics Letters]] |volume= 3 |issue= 11 |pages= 197–199 |doi= 10.1063/1.1753846|bibcode= 1963ApPhL...3..197W }}
+* {{cite journal |last1= White |first1= Alan D. |date= 1965 |title= Frequency Stabilization of Gas Lasers |journal= [[IEEE Journal of Quantum Electronics]] |volume= QE-1 |issue= 8 |pages= 349–357 |doi= 10.1109/JQE.1965.1072246|bibcode= 1965IJQE....1..349W }}
+* {{cite journal |last1= Bruning |first1= J.H. |last2= Herriott |first2= D.R. |last3= Gallagher |first3= J.E. |last4= Rosenfeld |first4= D.P. |last5= White |first5= A.D. |last6= Brangaccio |first6= D.J. |date= 1974 |title= Digital wavefront measuring interferometer for testing optical surfaces and lenses |journal= [[Applied Optics]] |volume= 13 |issue= 11 |pages= 2693–2703 |doi= 10.1364/AO.13.002693|pmid= 20134757 |bibcode= 1974ApOpt..13.2693B }}
+
+==References==
+{{Reflist}}
+
+== Sources ==
+* {{cite journal |last1= White |first1= Alan D. |date= 2011 |title= Recollections of the First Continuous Visible Laser |url= https://www.osa-opn.org/home/articles/volume_22/issue_10/features/recollections_of_the_first_continuous_visible_lase |journal= [[Optics and Photonics News]] |volume= 22 |issue= 10 |pages= 34–39 |doi= 10.1364/OPN.22.10.000034|url-access= subscription }}
+* {{cite journal |last1= Bruning |first1= John H. |last2= Webb |first2= Colin E. |date= 2020 |title= Alan D. White, 1923–2020 |url= https://www.osa-opn.org/home/articles/volume_31/september_2020/departments/alan_d_white |journal= Optics and Photonics News |volume= 31 |issue= 9 |pages= 54 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:White, Alan David}}
+[[Category:American physicists]]
+[[Category:1923 births]]
+[[Category:2020 deaths]]
+
+{{Improve categories|date=July 2023}}

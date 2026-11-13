@@ -1,0 +1,55 @@
+{{Short description|American chemist (1952–2016)}}
+{{Infobox scientist
+| name = David Weininger
+| image = DaveWeininger July1992.jpg
+| caption = Weininger in 1992
+| birth_date = {{birth date|1952|08|05|mf=y}}
+| birth_place = [[Brooklyn, New York]], USA
+| death_date = {{death date and age|2016|11|02|1952|08|05}}
+| death_place = [[Santa Fe, New Mexico]], USA
+| fields = [[Cheminformatics]], [[computational chemistry]]
+| workplaces = [[United States Environmental Protection Agency]]<br/>[[Pomona College]]<br/>Daylight Chemical Information Systems
+| education = [[University of Rochester]], [[University of Bristol]], [[University of Wisconsin–Madison]]
+| doctoral_advisor = 
+| awards = 
+| spouse = 
+}}
+'''David Weininger''' (August 5, 1952 – November 2, 2016) was an American [[cheminformatics|cheminformatician]] and entrepreneur.<ref name="Gasteiger_2018">{{Cite Q|Q49349899}}</ref> He was most notable for inventing the chemical [[SMILES arbitrary target specification|line notations]] for structures ([[Simplified Molecular Input Line Entry System]] (SMILES)),<ref name=SMILES>{{Cite Q|Q28090714}}</ref><ref>{{Cite Q|Q28090803}}</ref><ref>{{Cite Q|Q56066313}}</ref> substructures ([[SMILES arbitrary target specification]] (SMARTS)), reactions ([[Simplified Molecular Input Line Entry System]] (SMIRKS)),<ref name="Gasteiger_2018"/> and for founding{{Not in ref|date=June 2025}} Daylight Chemical Information Systems, Inc.<ref>{{cite web |title=About Daylight |url=https://www.daylight.com/about/ |work=Daylight Chemical Information Systems, Inc.}}</ref>
+
+== Education and career ==
+Weininger studied at [[University of Rochester]], first at the [[Eastman School of Music]], then switched to chemistry. After graduation, he worked for General Electric in Canada, where he worked on water management. He then attended [[University of Wisconsin–Madison]], where he graduated with a [[Doctor of Philosophy]] (PhD) in environmental engineering in 1978.<ref name=Seila>{{Cite web |last=Andrea |first=Sella |title=Weininger's Smiles |url=https://www.chemistryworld.com/opinion/weiningers-smiles/4014639.article |access-date=2022-08-07 |website=Chemistry World |language=en}}</ref> His PhD project involves the study of [[polychlorinated biphenyl]]s in [[Lake Michigan]] at the [[University of Wisconsin–Madison]].<ref>{{Cite Q|Q109329683}}</ref> He developed a computational model using data from the [[United States Environmental Protection Agency]] (EPA) using computer graphics algorithms, by then still a nascent field.
+
+Upon graduation, he was hired by the EPA directly in its National Water Quality Laboratory in [[Duluth, Minnesota]] to develop similar models for other chemicals. During this period, Weininger started working with chemical databases which include structure-activity relationships. Weininger realized the difficulty to balance the [[IUPAC nomenclature of chemistry|IUPAC nomenclature]] for chemicals, used by human, and the [[Wiswesser line notation]] which was more efficient for computer processing. Weininger developed [[Simplified molecular-input line-entry system]], or SMILES, such that it's easy for both humans and computers to understand.
+
+Weininger moved to [[Pomona College]] in [[Claremont, California]], working with [[Corwin Hansch]] and Albert Leo to work on the prediction of [[octanol-water partition coefficient]] (LogP) for molecules, which resulted in the software, cLogP, in 1983.<ref>{{Cite web |title=The History of the Development of CLOGP |url=https://www.daylight.com/meetings/summerschool99/course/basics/ref/leo/clogp_history.html |access-date=2022-08-07 |website=www.daylight.com}}</ref> The first publication on SMILES came out in 1988, while Weininger was affiliated with Pomona College.<ref name=SMILES></ref>
+
+In 1987, Weininger founded Daylight Chemical Information Systems, Inc. along with his brother Arthur Weininger and the business associate Yosi Taitz.
+
+== Personal life ==
+Weininger was born in [[Brooklyn|Brooklyn, New York]] to Joseph and Marion Weininger as the eldest of three children, along with Arthur and Johanan. His father Joseph was from Austria and worked as a chemist in General Electric. <ref name=Seila></ref>
+
+== Works mentioning Weininger ==
+The Info Mesa: Science, Business, and New Age Alchemy on the Santa Fe Plateau<ref name="regis_book">{{cite book |last1=Regis |first1=Edward |title=The Info Mesa: Science, Business, and New Age Alchemy on the Santa Fe Plateau |date=2003 |publisher=W. W. Norton |location=New York |isbn=978-0393021233}}</ref> by [[Ed Regis (author)]] was published in 2003, featuring Weininger and other leaders of informatics in the Santa Fe area.
+
+== See also ==
+* [[Corwin Hansch]]
+* [[Anthony Nicholls (physicist)]]
+
+== References ==
+{{Scholia}}
+{{Reflist|2}}
+
+==External links==
+* [https://link.springer.com/article/10.1007/s10822-018-0104-3 Tribute to David Weininger], Journal of Computer-Aided Molecular Design volume 32, pages 313–319 (2018)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weininger, David}}
+[[Category:1952 births]]
+[[Category:2016 deaths]]
+[[Category:American computational chemists]]
+[[Category:University of Rochester alumni]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:Alumni of the University of Bristol]]
+[[Category:Scientists from Brooklyn]]
+[[Category:Pomona College faculty]]

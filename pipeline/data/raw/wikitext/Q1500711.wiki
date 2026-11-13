@@ -1,0 +1,109 @@
+{{Short description|American theoretical physicist (1941–2025)}}
+{{Infobox scientist
+| name              = William A. Bardeen
+| image             = Image: WilliamABardeen.gif
+| caption           = 
+| birth_date        = {{birth date|1941|9|15}}
+| birth_place       = [[Washington, Pennsylvania]], U.S.
+| death_date        = {{death date and age|2025|11|18|1941|9|15}}
+| death_place       = [[Warrenville, Illinois]], U.S.
+| residence         = 
+| known_for         = [[Chiral anomaly]]; [[Quantum Chromodynamics]]; [[Top quark condensate]];
+[[Chiral symmetry breaking]]
+| education         = [[Cornell University]]<br />[[University of Minnesota]]
+| doctoral_advisor  = [[Stephen Gasiorowicz]]
+| doctoral_students = 
+| workplaces        = [[Stony Brook University]], [[Stanford University]], [[Institute for Advanced Study]], [[Fermilab]]
+| awards            = 
+| footnotes         = 
+}}
+
+'''William Allan Bardeen''' (September 15, 1941 – November 18, 2025) was an American theoretical physicist who worked at the [[Fermi National Accelerator Laboratory]]. He is renowned for his foundational work on the [[chiral anomaly]] (the Adler-Bardeen theorem), the Yang-Mills and gravitational anomalies, the development of [[quantum chromodynamics]] and the <math> \Lambda_{\overline{MS}}</math> scheme frequently used in perturbative analysis of experimentally observable processes such as [[deep inelastic scattering]], high energy collisions and flavor changing processes.
+
+Bardeen also played a major role in developing a theory of dynamical breaking of electroweak symmetry via [[top quark condensates]], leading to the first [[composite Higgs models]]. His work on the [[chiral symmetry breaking]] dynamics of heavy-light quark bound states correctly predicted abnormally long-lived resonances which are chiral symmetry partners of the ground states, such as the <math> D_s^*(2317)</math>. He also developed an analytic, non-perturbative approach for the calculation of non-leptonic decays of Kaons, known as Dual QCD.
+
+He was considered one of the world's leading authorities on quantum field theory in its application to real-world physical phenomena.
+
+==Background==
+Bardeen was born in [[Washington, Pennsylvania]], on September 15, 1941, the son of physicist [[John Bardeen]]<ref>[http://nobelprize.org/nobel_prizes/physics/laureates/1956/bardeen-bio.html John Bardeen's Nobel Foundation biography]</ref> and Jane Maxwell Bardeen. The family relocated to [[Champaign–Urbana|Champaign-Urbana, Illinois]] in 1951, where Bardeen attended the University High School. Bardeen met his future wife, Marge, in high school chemistry class. After graduating from [[Cornell University]] in 1962, Bardeen earned his Ph.D. degree in physics from the [[University of Minnesota]] in 1968. Steve Gasiorowicz was his thesis advisor.<ref>{{cite arXiv |last=Hill |first=Christopher T. |title=William A. Bardeen -- A Brief Biography |date=2026-04-11 |class=hep-ph |eprint=2604.10204 }}</ref> Following research appointments at [[Stony Brook University]] and the [[Institute for Advanced Study]] in [[Princeton, New Jersey|Princeton]], he was an associate professor in the physics department at [[Stanford University]]. In 1975, Bardeen joined the staff of the [[Fermi National Accelerator Laboratory]] where he served as Head of the Theoretical Physics Department from 1987-1993 and 1994-1996.<ref>[https://theory.fnal.gov/wbardeen/] 
+William Bardeen, bio from Fermilab</ref>
+From 1993-1994, he was Head of Theoretical Physics at the [[Superconducting Super Collider|SSC Laboratory]] before the project was terminated by act of Congress.
+
+Bardeen lived in Warrenville, Illinois, with his wife Marge, who was manager of the Education Office at Fermilab.<ref>[https://ed.fnal.gov/office/marge.shtml Fermilab Office of Education and Public Outreach: Marge Bardeen]</ref> He had two grown children: Charles, a retired Project Scientist at the National Center for Atmospheric Research, Boulder, CO, and Karen, who taught chemistry at Oak Park and River Forest High School, Oak Park, Illinois. Bardeen died at his home in [[Warrenville, Illinois]], on November 18, 2025, at the age of 84.<ref>[https://www.friedrichjones.com/obituaries/William-A-Bill-Bardeen?obId=46448199 William A. "Bill" Bardeen]</ref>
+
+==Scientific contributions==
+Bardeen was co-inventor of the theory of the [[chiral anomaly]], which is of foundational importance in modern theoretical physics. He developed with [[Stephen L. Adler]] the "non-renormalization theorem" (known as the Adler–Bardeen theorem).<ref>{{cite journal|author=Adler, S.L.|author2=Bardeen, W.A.|title=Absence of higher-order corrections in the anomalous axial-vector divergence equation|journal=Physical Review|year=1969|volume=182|issue=5|pages=1517–1536|doi=10.1103/PhysRev.182.1517|bibcode = 1969PhRv..182.1517A }}</ref> This proves that the anomaly coefficient is not subject to renormalization to all orders in perturbation theory and anticipates the fact that it is associated with topological index theorems.
+
+Bardeen, in a tour de force, computed the full, nontrivial structure of the chiral anomaly in non-abelian Yang-Mills gauge theories.<ref>{{cite journal | year = 1969 | title = Anomalous Ward identities in spinor field theories| journal = Phys. Rev. | volume = 184 | pages = 1848–1857 | doi = 10.1103/PhysRev.184.1848 | last1 = Bardeen | first1 = William A.| issue = 5| bibcode = 1969PhRv..184.1848B}}</ref> This leads to the distinction between the "consistent anomaly" and the "covariant anomaly." The consistent anomaly is a definition of the loop integrals that satisfies "Wess-Zumino consistency conditions"<ref>{{cite journal | year = 1971 | title = Consequences of anomalous Ward identities| journal = Phys. Lett. B | volume = 37 | pages = 95–97 | doi = 10.1016/0370-2693(71)90582-X | last1 = Wess | first1 = J. | last2 = Zumino | first2 = B. | issue = 1| bibcode = 1971PhLB...37...95W| url = http://cds.cern.ch/record/486885| url-access = subscription }}</ref> and is symmetric between left- and right-handed chiral fermions in the Feynman loop. The consistent anomaly is generally related to topology, e.g., the structure and coefficient obtained by Bardeen's calculation turns out to be equivalent to that generated by a topological Chern-Simons term built of Yang-Mills fields in 5 dimensions.
+
+In this work, he introduced the "Bardeen counter-term" which maintains the conservation of the vector current in the definition of the loop integral,
+and places the anomaly in the axial current.  This is known as the  "covariant anomaly," and is relevant to physics where the vector current is conserved (and reverts to the Adler result in QED with coefficient increased by a factor of 3 over that of the consistent anomaly).<ref>Bardeen's calculation was done slightly before, and provided hints to, the non-renormalization at higher orders.
+The "left-right symmetric anomaly" is not manifestly gauge invariant and a prolonged argument among theorists ensued. The Wess-Zumino consistency conditions appeared afterward and confirmed Bardeen's calculation of the left-right symmetric anomaly as the consistent anomaly. The gauge variation of the D=5 Chern-Simons term produces the consistent anomaly on a D=4 bounding surface.</ref> These distinctions are crucial to the Wess-Zumino-Witten term, which is an essential part of chiral Lagrangians, describing the anomalous physics  of pseudoscalars and vector mesons,<ref>The Bardeen counter-term is implemented in the Wess-Zumino-Witten term in: {{cite journal | year = 1984 |volume = 30 | title = Nonabelian Anomaly and Vector Meson Decays| journal = Phys. Rev. D| pages = 594–602| doi = 10.1103/PhysRevD.30.594 | last1 = Kaymakcalan | first1 = O. | last2 = Rajeev | first2 = S. | last3 = Schechter | first3 = J.|issue = 3 |bibcode = 1984PhRvD..30..594K}};
+In the Standard Model, the gauged electroweak currents must be conserved, and the Bardeen counter-term is modified: {{cite journal | year = 2007 |volume = 30 | title = Standard Model Gauging of the Wess-Zumino-Witten Term: Anomalies, Global Currents and pseudo-Chern-Simons Interactions| journal = Phys. Rev. D|  article-number = 085017|  doi = 10.1103/PhysRevD.77.085017 |  last1 = Harvey | first1 = Jeffrey A. |  last2 = Hill| first2 = Christopher T. |  last3 = Hill| first3 = Richard
+|issue = 8 |arxiv = 0712.1230}} This reproduces B+L violation by the anomaly in the Standard model, and predicts numerous other anomalous processes.</ref> and topological effects in Yang-Mills gauge theories, such as the [[instanton]] physics in QCD. With [[Bruno Zumino]], Bardeen formulated the theory of the gravitational anomaly which is of fundamental importance to string theory.<ref>{{cite journal | year = 1984 | title = Consistent and Covariant Anomalies in Gauge and Gravitational Theories| journal = Nucl. Phys. B | volume = 244 |  pages = 421–453 |  doi = 10.1016/0550-3213(84)90322-5 |  last1 = Bardeen | first1 = William A.
+|last2 = Zumino |first2 = Bruno | issue = 2| bibcode = 1984NuPhB.244..421B| url = https://escholarship.org/uc/item/4k34m4n1}} This is an extremely well written analysis, almost a tutorial, of anomalies, cohomology and general covariance as a local gauge symmetry.</ref>
+
+On sabbatical, working at [[CERN]] in 1971, Bardeen collaborated with [[Murray Gell-Mann]], [[Harald Fritzsch]], and [[Heinrich Leutwyler]]. They considered a gauge theory of quark interactions, in which each quark comes in one of three varieties called "colors". They wrote down the theory now known as [[quantum chromodynamics]] (QCD) and, through the chiral anomaly, established the existence of the three quark colors from the rate of <math> \pi^0 </math> decay.<ref>W. A. Bardeen, H. Fritzsch, and M. Gell-Mann, "Light cone current algebra, <math> \pi^0 </math> decay, and <math> e^+e^- </math> annihilation," published in the "Topical Meeting on the Outlook for Broken Conformal Symmetry in Elementary Particle Physics", hep-ph/0211388, "CERN-TH-1538" (July 1972).</ref>
+
+With his colleagues, [[Andrzej Buras]], Dennis Duke and Taizo Muta, Bardeen helped to formulate [[perturbation theory]] for [[quantum chromodynamics]], introducing the systematic <math> \Lambda_{\overline{MS}}</math> scheme for loop-level perturbation theory, frequently used in the analysis of QCD processes in high energy experiments.<ref>{{cite journal | year = 1978 | title = Deep Inelastic Scattering Beyond the Leading Order in Asymptotically Free Gauge Theories | journal = Phys. Rev. D | volume = 18 |  pages = 3998–4017 |  doi = 10.1103/PhysRevD.18.3998 | last1 = Bardeen | first1 = William A. | last2 = Buras | first2 = A.J. | last3 = Duke | first3 = D. W. | last4 = Muta | first4 = T. | issue = 11 | bibcode = 1978PhRvD..18.3998B | url = http://cds.cern.ch/record/870641}}</ref> With Buras and Jean-Marc Gerard he developed an analytical, non-perturbative framework for the calculation of non-leptonic decays of K-mesons and <math> \overline{K}K </math> mixing. This approach, based on QCD with large<math>-N_{color}</math> led to several results, confirmed by numerical lattice calculation 30 years later. One of these results is the identification of the dominant QCD dynamics responsible for the so-called <math>\Delta I = 1/2</math> rule in <math>K\rightarrow \pi\pi</math> decays, a long-standing puzzle since 1955.<ref>{{cite journal | year = 1987 | title = A Consistent Analysis of the <math>\Delta I = 1/2</math> Rule for K Decays | journal = Phys. Lett. B | volume = 192 |  pages = 138–144 | doi = 10.1016/0370-2693(87)91156-7 | last1 = Bardeen | first1 = William A. | last2 = Buras | first2 = A.J. | last3 = Gerard | first3 = J. M.}}</ref> With coauthors Sherwin Love and Chung Ngoc Leung, Bardeen also explored theoretical mechanisms for the origin of scale breaking in quantum field theory in conjunction with chiral symmetry breaking and the role of the dilaton.<ref>{{cite journal| title= The Dilaton and Chiral Symmetry Breaking |journal=Phys. Rev. Lett.|date=1986 |volume=56 |pages=1230–1233|doi=10.1103/PhysRevLett.56.1230 |last1 = Bardeen | first1 = William A. |last2 =Leung |first2=Chung Ngoc |last3 = Love | first3 = Sherwin |issue=12 |pmid=10032607 |s2cid=1763576 |arxiv=hep-ph/9304265|bibcode=1986PhRvL..56.1230B}}</ref>
+<ref>{{cite journal| title= Spontaneous Symmetry Breaking in Scale Invariant Quantum Electrodynamics |journal=Nucl. Phys. B|date=1986 |volume=273 |pages=649–662|doi=10.1016/0550-3213(86)90382-2 |last1 = Bardeen | first1 = William A. |last2 =Leung |first2=Chung Ngoc |last3 = Love | first3 = Sherwin |issue=3–4 |s2cid=1763576 |arxiv=hep-ph/9304265|bibcode=1986NuPhB.273..649L}}</ref>
+
+In the early 1990s, it became clear that the [[top quark]] was much heavier than originally anticipated, and that top quarks may be strongly coupled at very short distances.  This raised the possibility that pairs of top quarks could form a composite Higgs boson, which led to [[top quark condensates]],<ref>{{cite journal | year = 1990 | title = Minimal dynamical symmetry breaking of the standard model | journal = Phys. Rev. D | volume = 41 | issue = 5| pages = 1647–1660 | bibcode = 1990PhRvD..41.1647B | doi = 10.1103/PhysRevD.41.1647 | pmid = 10012522 | last1 = Bardeen | first1 = William A. | last2 = Hill | first2 = Christopher T. | last3 = Lindner | first3 = Manfred}}</ref> and novel dynamical approaches to [[electroweak symmetry breaking]]. The theory, developed with [[Christopher T. Hill]] and [[Manfred Lindner]], predicted a heavy top quark, governed by the [[infrared fixed point]] (about 20% heavier than the observed top quark mass of 175 GeV), but
+it tended to predict too heavy a Higgs boson, almost twice the observed mass of 125 GeV. The theory has since been improved,  with incorporation of the internal wave-function of the bound state, and is now in good agreement with observed Higgs boson properties. 
+
+Bardeen and Hill, in 1994, recognized that heavy-light mesons, which contain a heavy quark and a light anti-quark, provide a unique window on the chiral dynamics of a single light quark. They showed that the (spin){{super|parity}} <math>(0^-,1^-)</math> ground states are split from the <math>(0^+,1^+)</math>  parity partners by a universal mass gap of about <math>~ \Delta M \approx 350 \text{ MeV,}~</math> due to the light quark [[chiral symmetry breaking]].<ref>{{cite journal| title=Chiral dynamics and heavy quark symmetry in a solvable toy field theoretic model|journal=Physical Review D|date=1994|volume=49|issue=1|pages=409–425|doi=10.1103/PhysRevD.49.409|pmid=10016779|bibcode=1994PhRvD..49..409B |last1 = Bardeen | first1 = William A. |last2 =Hill |first2=Christopher T.|s2cid=1763576|arxiv=hep-ph/9304265}}</ref> This correctly predicted an abnormally long-lived resonance ten years before it was discovered by the BABAR collaboration: 
+the <math> D_s^*(2317)</math>. The theory was further developed by Bardeen, Hill and [[Estia Eichten]], and various decay modes were predicted that have been confirmed by experiment.<ref>{{cite journal| title=Chiral multiplets of heavy-light mesons|journal=Physical Review D|date=2003|volume=68|issue=5|article-number=054024|doi=10.1103/PhysRevD.68.054024|bibcode=2003PhRvD..68e4024B |last1 = Bardeen | first1 = William A. |last2 =Eichten | first2=Estia |last3 =Hill |first3=Christopher T.|s2cid=10472717|arxiv=hep-ph/0305049}}</ref>
+Similar phenomena should be seen in the <math>B_s</math> mesons and <math>ccq, bcq, bbq</math> (heavy-heavy-light baryons).
+
+==Honors==
+Bardeen was elected a Fellow of the American Physical Society in 1984. In 1985, Bardeen was awarded a John S. Guggenheim Memorial Foundation Fellowship for research on the application of quantum field theory to elementary particle physics. Previously, he had received the Senior Scientist Award of the Alexander von Humboldt Foundation and an Alfred P. Sloan Foundation Fellowship for research in theoretical physics. Bardeen was awarded the 1996 [[Sakurai Prize|J.J. Sakurai Prize]] of the [[American Physical Society]] for his work on anomalies and perturbative quantum chromodynamics.<ref>[http://theory.fnal.gov/wbardeen/ William A. Bardeen, homepage at Fermilab]</ref> He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1998<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=May 17, 2011}}</ref> and a member of the [[National Academy of Sciences]] in 1999.<ref>[[List of members of the National Academy of Sciences (Physics)]]</ref>
+
+==Visiting appointments==
+* 1971–72: Visiting Scientist, CERN-TH, Geneva, Switzerland 
+* 1974:  Guest Scientist, Fermi National Accelerator Laboratory
+* 1977: Guest Scientist, Max-Planck Institute for Physics, Munich, FRG
+* 1985: Visitor, Research Institute for Fundamental Physics, Kyoto, Japan
+* 1985: Visitor, Academia Sinica, Beijing, China
+* 1985-86: Visitor, The Tata Institute for Fundamental Research, Mumbai, India
+* 1986: Visitor, Technion, Haifa, Israel 
+* 1986: Visiting Scientist, Max-Planck Institute for Physics, Munich, FRG
+* 1986: Visiting Professor, University of Paris, Paris, France
+* 1997: Visiting Scientist, Max-Planck Institute for Physics, Munich, FRG
+* 2007: Visiting Professor, Yukawa Institute of Theoretical Physics, Kyoto, Japan
+* 2010: Visiting Professor, University of Valencia, Valencia, Spain
+* 2013: Investigator Doctor Senior, University of Valencia, Valencia, Spain
+* 2015: Visiting Scientist, University of Valencia, Valencia, Spain
+
+==See also==
+* [[Anomaly (physics)|Anomaly]]
+* [[Top quark condensates]]
+* [[Composite Higgs Models]]
+* [[Chiral symmetry breaking]]
+
+==Selected publications==
+* Bardeen's publications are available on the [[INSPIRE-HEP]] Literature Database [https://inspirehep.net/author/profile/W.A.Bardeen.1].
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* [http://www.arxiv.org/find/hep-ph,cond-mat,physics,hep-th,hep-ex,gr-qc,hep-lat,nucl-th,nucl-ex,quant-ph,astro-ph,math-ph/1/au:+Bardeen_W/0/1/0/all/0/1 arXiv.org preprints for W. Bardeen]
+* [https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=william+bardeen&as_publication=&as_ylo=&as_yhi=&btnG=&hl=en&as_sdt=0%2C11 search on author William Bardeen] from [[Google Scholar]]
+* {{INSPIRE-HEP author}} 
+{{Authority control}}
+
+{{DEFAULTSORT:Bardeen, William A.}}
+[[Category:1941 births]]
+[[Category:2025 deaths]]
+[[Category:Cornell University alumni]]
+[[Category:University of Minnesota College of Science and Engineering alumni]]
+[[Category:21st-century American physicists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:American theoretical physicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:J. J. Sakurai Prize for Theoretical Particle Physics recipients]]
+[[Category:Sloan Research Fellows]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:People associated with Fermilab]]
+[[Category:People associated with CERN]]

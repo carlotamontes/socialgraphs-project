@@ -1,0 +1,47 @@
+{{Short description|Japanese physicist (1951–2005)}}
+{{no footnotes|date=July 2013}}
+{{Infobox scientist
+|name        = Shuichi Nosé
+|image       = 
+|image_size  = 
+|caption     = 
+|birth_date  = {{Birth date|1951|06|17}}
+|death_date  = {{Death date and age|2005|08|17|1951|06|17}}
+|birth_place = [[Kyotango, Kyoto]], Japan
+|death_place = [[Yokohama]], Japan
+|field       = Physics
+|known_for   = [[Nosé-Hoover thermostat]]
+|awards      = <!-- [[:ja:日本IBM科学賞]] (1989) Not sure if a Japanese language only award is worth enumeration. See http://www-06.ibm.com/ibm/jp/company/society/science/p03rd/nose.html -->
+}}
+
+{{Nihongo|'''Shuichi Nosé'''|能勢 修一|Nose Shūichi|June 17, 1951 – August 17, 2005}} was a Japanese physicist.
+
+Nosé is best known for his two 1984 papers in which he proposed a method to specify the temperature of [[molecular dynamics]] simulations. This method was later improved by [[William G. Hoover]] and is known as the [[Nosé–Hoover thermostat]].
+
+== Publications ==
+* {{cite journal|title=A molecular dynamics method for simulations in the canonical ensemble|journal=Mol. Phys.|volume=52|issue=2|page=255|year=1984|doi=10.1080/00268978400101201|last1=Nosé|first1=Shūichi|bibcode=1984MolPh..52..255N }}
+* {{cite journal|title=A unified formulation of the constant temperature molecular dynamics methods|journal=J. Chem. Phys.|volume=81|page=511|year=1984|doi=10.1063/1.447334|last1=Nosé|first1=Shuichi|issue=1 |bibcode=1984JChPh..81..511N |s2cid=5927579 |url=https://hal.insa-toulouse.fr/hal-01969513/file/1.4894286.pdf}}
+
+== References ==
+Obituaries:
+* {{cite journal|title=Shuichi Nosé|author=Yosuke Kataoka|author2=Michael L. Klein|authorlink2=Michael L. Klein|journal=Physics Today|volume=59|issue=2|year=2006|page=67|doi=10.1063/1.2186290|doi-access=free}}
+* {{cite journal|trans-title=Retracing the footprints of Shuichi Nosé|script-title=ja:能勢修一さんの足跡をたどる|author=片岡 洋右 (Yosuke Kataoka)|journal=CICSJ Bulletin|url=https://www.jstage.jst.go.jp/article/cicsj/24/1/24_1_6/_article/-char/ja/|year=2006|volume=24|issue=1 |pages=6 |doi=10.11546/cicsj.24.6 |language=Japanese}}
+* [http://www.williamhoover.info/nose.pdf "Nosé Shuichi, In Memoriam" by William Graham Hoover]
+
+== External links ==
+* [http://www-06.ibm.com/ibm/jp/company/society/science/p03rd/nose.html The recipient of the 3rd Science Prize of IBM Japan] (Japanese) - Awarded for Nose's thermostat.
+* {{cite web|url=http://www.phys.keio.ac.jp/guidance/labs/riron/riron-lab.html|title=Theoretical Physics Group|language=Japanese|publisher=[[Keio University]]|archiveurl=https://web.archive.org/web/20120910115953/http://www.phys.keio.ac.jp/guidance/labs/riron/riron-lab.html|archivedate=2012-09-10}} - Some of notes of Nosé before his death are available.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nose, Shuichi}}
+[[Category:1951 births]]
+[[Category:2005 deaths]]
+[[Category:20th-century Japanese physicists]]
+[[Category:Academic staff of Keio University]]
+[[Category:Kyoto University alumni]]
+[[Category:People from Kyōtango]]
+[[Category:Scientists from Kyoto Prefecture]]
+
+{{japan-scientist-stub}}
+{{physicist-stub}}

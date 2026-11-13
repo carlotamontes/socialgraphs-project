@@ -1,0 +1,75 @@
+{{Short description|Swiss theoretical physicist (born 1958)}}
+{{BLP sources|date=November 2019}}
+{{Use American English|date=January 2019}}
+{{Use dmy dates|date=September 2026}}
+{{Infobox scientist
+| name              = Daniel Loss
+| image             = Swiss_theoretical_physicist_Daniel_Loss.jpg
+| alt               = A photograph of Daniel Loss, taken in 2019.
+| caption           = Loss speaking at [[Ewha Womans University]] in 2019
+| birth_date        = {{Birth date and age|1958|2|25|df=y}}
+| birth_place       = [[Winterthur]], Switzerland
+| death_date        = 
+| death_place       = 
+| field             = [[Theoretical physics]]
+| workplaces        = {{Indented plainlist|
+* [[King Fahd University of Petroleum and Minerals]]
+* [[University of Basel]]
+* [[Riken]]
+}}
+| education         = [[University of Zurich]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = Armin Thellung
+| doctoral_students = 
+| known_for         = [[Loss–DiVincenzo quantum computer]]
+| awards            = {{Indented plainlist|
+* [[The Humboldt Prize]] (2005)
+* [[Marcel Benoist Prize]] (2010)
+* Blaise Pascal Medal in Physics (2014)
+* [[King Faisal International Prize]] (2017)
+* Jan Czochralski Award (2024)
+* [[Clarivate Citation Laureates]] in Physics (2025)
+}}
+| website           = {{Official URL}}
+}}
+'''Daniel Loss''' (born 25 February 1958) is a Swiss [[theoretical physicist]]. He is best known for proposing, with [[David DiVincenzo]] at [[IBM Research]], the [[Loss–DiVincenzo quantum computer]] in 1997,<ref>{{cite journal |author1=D. Loss |author2=D. P. DiVincenzo |title=Quantum computation with quantum dots |journal=Phys. Rev. A |volume=57 |pages=120–126 |date=1998 |issue=1 |arxiv=cond-mat/9701055|doi=10.1103/PhysRevA.57.120 |bibcode=1998PhRvA..57..120L |s2cid=13152124 }}</ref> which would use [[electron spin]]s in [[quantum dot]]s as [[qubit]]s.
+
+==Life and career==
+Daniel Loss was born on 25 February 1958 in [[Winterthur]], Switzerland.<ref>{{cite web |url=https://quantumtheory.physik.unibas.ch/people/loss/CV_latest.pdf |first=Daniel |last=Loss |title=Extended CV (2017) |access-date=2018-01-29}}</ref> He studied medicine at the [[University of Zurich]] for two years before transferring to physics. In 1985, he obtained his [[Doctor of Philosophy|PhD]] in physics from the University of Zurich with a thesis on [[statistical mechanics]] under the supervision of Armin Thellung. After postdoctoral stays in Zurich and at the [[University of Illinois]] in [[Urbana, Illinois|Urbana]], where he worked with [[Anthony Leggett]], he worked as a research scientist at the [[Thomas  J. Watson Research Center|IBM T. J. Watson Research Center]] in [[Yorktown Heights]]. In 1993 he became professor at the [[Simon Fraser University]] in [[Vancouver]], Canada, and since 1996 he is full professor at the [[University of Basel]]. He is also a professor of Theoretical Condensed Matter Physics at the [[King Fahd University of Petroleum and Minerals]] and [[Riken]].
+
+Loss's research concerns the quantum theory of [[Condensed matter physics|condensed matter]] and [[solid-state physics]]. In particular, he studies spin and charge effects in [[Semiconductor|semiconducting]] and magnetic [[nanostructure]]s. He is one of the leading theorists investigating the realization of [[quantum information processing]] protocols in semiconductor structures. His 1998 paper, co-authored with [[David DiVincenzo]], proposing the use of [[spin qubit]]s in semiconductor [[quantum dot]]s is the foundation of one of the main approaches towards the realization of a [[quantum computer]] and ({{as of|2025|lc=y}}) has been cited more than 9,000 times.<ref>{{cite web|url=https://scholar.google.com/citations?user=ZnfLXOYAAAAJ&hl=en |title=Google Scholar Profile: Daniel Loss |access-date=2018-01-29}}</ref> Further lines of research include [[decoherence]], [[nuclear spin]] physics, [[magnon]] physics, [[Topological order|topological matter]], [[Majorana fermion]]s and [[parafermion]]s.
+
+==Selected honors and awards==
+* 2000: Fellow of the [[American Physical Society]]
+* 2005: Fellow of the [[Institute of Physics]], UK
+* 2005: [[Humboldt Prize|Humboldt Research Prize]]
+* 2010: [[Marcel Benoist Prize]]<ref>{{cite web |url=https://marcel-benoist.ch/en/current-laureate/past-laureates/#row-content-9 |title=Laureates 2010 |work=marcel-benoist.ch |access-date=2019-11-21}}</ref>
+* 2014: Blaise Pascal Medal in Physics from the European Academy of Sciences
+* 2014: Member of the [[Academy of Sciences Leopoldina|German National Academy of Sciences Leopoldina]]
+* 2017: [[King Faisal International Prize]] in Science (Physics)<ref>{{cite web |url=https://kingfaisalprize.org/professor-daniel-loss/ |title=Professor Daniel Loss: Laureate of 2017 |work=kingfaisalprize.org |access-date=2019-11-21}}</ref>
+* 2021: External scientific member of the Max Planck Society
+* 2024: Jan Czochralski Award
+* 2025: [[Clarivate Citation Laureates]] in Physics
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Scholia}}
+* {{Official website}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Loss, Daniel}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:Swiss physicists]]
+[[Category:Swiss theoretical physicists]]
+[[Category:Quantum physicists]]
+[[Category:Quantum information scientists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+
+
+{{switzerland-scientist-stub}}
+{{physicist-stub}}

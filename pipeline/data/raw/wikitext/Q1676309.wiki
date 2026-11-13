@@ -1,0 +1,175 @@
+{{Short description|American physicist and entrepreneur (born 1952)}}
+{{Infobox scientist
+| name              = J. Doyne Farmer
+| image             = J. Doyne Farmer.jpg
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date and age|1952|6|22}}
+| birth_place       = [[Houston, Texas]], U.S.
+| death_date        = 
+| death_place       = 
+| ethnicity         = 
+| field             = Physics<br/>Finance
+| workplaces        = [[Oxford University]]<br/>[[Santa Fe Institute]]<br/>[[Los Alamos National Laboratory]]
+| education         = [[Stanford University]] (BS) <br/>[[University of California, Santa Cruz]] (PhD)
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+| doctoral_students = 
+}}
+'''J. Doyne Farmer''' (born June 22, 1952) is an American [[complex systems]] scientist and [[entrepreneur]] with interests in [[chaos theory]], [[complexity]] and [[econophysics]]. He is Baillie Gifford Professor of Complex [[Systems science|Systems Science]] at the [[Smith School of Enterprise and the Environment]], [[University of Oxford|Oxford University]], where he is also director of the Complexity Economics programme at the Institute for New Economic Thinking at the [[Oxford Martin School]]. Additionally, he is an external professor at the [[Santa Fe Institute]]. His current research is on [[complexity economics]], focusing on [[systemic risk]] in financial markets and technological progress.
+
+During his career he has made important contributions to [[complex systems]], [[Chaos theory|chaos]], [[artificial life]], [[Mathematical and theoretical biology|theoretical biology]], [[Time series|time series forecasting]] and [[econophysics]]. He co-founded [[Prediction Company]], one of the first companies to do fully automated [[quantitative trading]]. While a graduate student he led a group that called itself [[Eudaemons|Eudaemonic Enterprises]] and built the first wearable digital computer, which was used to beat the game of [[roulette]]. He is a founder and the Chief Scientist of Macrocosm Inc,<ref name=":2">{{Cite web |title=Macrocosm |url=https://macrocosm.group/}}</ref> a company devoted to scaling up complexity economics methods and reducing them to practice.
+
+Farmer's book, ''Making Sense of Chaos: A Better Economics for a Better World'' was published by [[Allen Lane (imprint)|Allen Lane]] in April 2024.<ref>{{cite book | url=https://www.penguin.co.uk/books/284357/making-sense-of-chaos-by-farmer-j-doyne/9780241201978 | title=Making Sense of Chaos | date=25 April 2024 }}</ref>
+
+==Biography==
+
+=== Early life ===
+Though born in [[Houston, Texas]], Farmer grew up in [[Silver City, New Mexico]]. He was strongly influenced by Tom Ingerson, a young physicist and [[Boy Scouts of America|Boy Scout]] leader who inspired his interest in science and adventure.<ref name=":0" /> Scout activities included searching for an abandoned Spanish goldmine to fund a mission to [[Mars]], a road trip to the Northwest Territories and backcountry camping in the [[Barranca del Cobre]].<ref>{{Cite book|url=https://archive.org/details/curiousmindshowc0000unse|title=Curious Minds: How a Child Becomes a Scientist|last=Brockman|first=John|publisher=Knopf Doubleday Publishing Group|year=2004|isbn=978-1-4000-7686-4|url-access=registration}}</ref> Farmer graduated from [[Stanford University]] in 1973 with a BS in physics and went to graduate school at the [[University of California, Santa Cruz]], where he studied [[physical cosmology]] under [[George R. Blumenthal]].
+
+=== Beating roulette ===
+While still in graduate school, Farmer and his childhood friend [[Norman Packard]] formed a group called Eudaemonic Enterprises.<ref name=":0">{{Cite book|title=The Eudaemonic Pie|last=Bass|first=Thomas|publisher=Houghton Mifflin Harcourt|year=1985|title-link=The Eudaemonic Pie}}</ref> Their goal was to beat the game of roulette and use the proceeds to form a science commune.<ref>{{Cite book|title=Who Got Einstein's Office? Eccentricity and Genius at the Institute for Advanced Study|last=Regis|first=Ed|publisher=Basic Books|year=1988|isbn=978-0-201-12278-7|url=https://archive.org/details/whogoteinsteinso00regi_0}}</ref> The word [[Eudaimonia|eudaemonia]] comes from [[Aristotle]] and refers to a state of enlightenment derived from a life lived in accordance with reason.
+
+[[File:ShoeComputer-3.jpg|thumb|Farmer's shoe computer on display at the [[Heinz Nixdorf MuseumsForum]]]]
+[[File:ShoeComputer-1.jpg|thumb|The Eudaemonic Pie display, including Farmer's roulette shoe computer, at the [[Heinz Nixdorf MuseumsForum]]]]
+They bought a [[roulette]] wheel and did an extensive experimental and theoretical study of its physics. To execute their system, they built the first wearable digital computer, at roughly the same time as the first [[Apple Inc.|Apple]] desktop computer. Farmer hand-coded the three-kilobyte program for the computer in machine language. The program included a floating-point package, a sequencer to perform the calculation, and an operating system that functioned with toe inputs and vibrating outputs. The earliest version of the computer was hidden under the armpits, but a later version was concealed in a shoe.<ref name=":0" /><ref>{{Cite web|url=http://www.hnf.de/museum/global-digital-1990-20xx/interfaces-kommunikation-mit-der-maschine/schuhcomputer.html?fb_locale=de_DE&cHash=7d73212b9d33e79cf44b36a23d7e53f7|title=Heinz Nixdorf Museum's exhibit of the roulette beating shoe computer|website=Heinz Nixdorf Museum|access-date=9 March 2016|archive-url=https://web.archive.org/web/20160309220039/http://www.hnf.de/museum/global-digital-1990-20xx/interfaces-kommunikation-mit-der-maschine/schuhcomputer.html?fb_locale=de_DE&cHash=7d73212b9d33e79cf44b36a23d7e53f7|archive-date=9 March 2016}}</ref>
+
+Their scheme took advantage of the fact that typically more than ten seconds elapse from the time the croupier releases the ball until bets are closed. During this time one person measured the position and velocity of the ball and rotor using his big toe to click a switch in his shoe. The computer used this information to predict the likely landing position of the ball. A signal was relayed to a second person, who quickly placed the bets. They made more than eleven trips to Las Vegas, Reno and Tahoe, and achieved a 20% advantage over the house, but suffered persistent hardware problems. This combined with their fear of violence at the hands of the casinos, so that they never played for high stakes and failed to realize the large sums they originally dreamed of.<ref name=":0" />
+
+=== Chaos and the Dynamical Systems Collective ===
+After the roulette project Farmer switched his dissertation topic to chaotic dynamics and joined with [[James P. Crutchfield]], [[Norman Packard]], and [[Robert Shaw (physicist)|Robert Shaw]] to found the Dynamical Systems Collective (subsequently known by others as the Chaos Cabal). Although they had the blessing of faculty members [[William L. Burke]] and [[Ralph Abraham (mathematician)|Ralph Abraham]], they essentially co-advised each other's PhD theses.{{Citation needed|date=May 2017}} Their most important contribution was a method for state space reconstruction, that made it possible to visualize and study chaotic attractors based only on a single time series. This has now been used to identify chaotic attractors and study their properties in a wide variety of physical systems.<ref>{{Cite journal|last1=Packard|first1=N.|last2=Crutchfield|first2=J. P.|last3=Farmer|first3=J. Doyne|last4=Shaw|first4=R. S.|date=1980|title=Geometry from a Time Series|url=http://www.inet.ox.ac.uk/files/publications/farmer/geometrytimeseries.pdf|journal=Physical Review Letters|volume=45|issue=9|pages=712–716|doi=10.1103/PhysRevLett.45.712|bibcode=1980PhRvL..45..712P|access-date=2016-03-09|archive-date=2016-03-09|archive-url=https://web.archive.org/web/20160309221243/http://www.inet.ox.ac.uk/files/publications/farmer/geometrytimeseries.pdf}}</ref>
+
+In his PhD thesis in 1981 Farmer showed how varying a parameter of an infinite dimensional system could give rise to a sequence of successively more complicated chaotic attractors, resembling the transition to turbulence. He later developed a method for nonlinear time series forecasting that has been used for exploiting low dimensional chaos to make better short term forecasts.<ref name=":1">{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Sidorowich|first2=J. J.|date=1987|title=Predicting Chaotic Time Series|url=http://www.inet.ox.ac.uk/files/publications/farmer/predictingchaotic.pdf|archive-url=https://web.archive.org/web/20160309213553/http://www.inet.ox.ac.uk/files/publications/farmer/predictingchaotic.pdf|archive-date=March 9, 2016|journal=Physical Review Letters|volume=59|issue=8|pages=845–848|doi=10.1103/PhysRevLett.59.845|pmid=10035887|bibcode=1987PhRvL..59..845F}}</ref> Other work included an improved method for state space reconstruction, and a derivation of the fundamental limits in which this becomes impossible, so that the dynamics become inherently random.<ref name=":1" /><ref>{{Cite journal|last1=Gibson|first1=J. J.|last2=Casdagli|first2=M.|last3=Eubank|first3=S.|date=1992|title=An Analytic Approach to Practical State Space Reconstruction|url=http://www.uvm.edu/~pdodds/teaching/courses/2009-08UVM-300/docs/others/everything/gibson1992a.pdf|journal=Physica D|volume=57|issue=1–2|pages=1–30|doi= 10.1016/0167-2789(92)90085-2|bibcode = 1992PhyD...57....1G }}</ref> He and colleagues also developed a method for determining when chaos can be distinguished from the null hypothesis of a correlated linear random process.<ref>{{Cite journal|last1=Casdagli|first1=M.|last2=Eubank|first2=S.|last3=Farmer|first3=J. Doyne|last4=Gibson|first4=J.|date=1991|title=State Space Reconstruction in the Presence of Noise|url=http://www.inet.ox.ac.uk/files/publications/farmer/statespace.pdf|journal=Physica D|volume=51|issue=1–3|pages=52–98|doi=10.1016/0167-2789(91)90222-U|bibcode=1991PhyD...51...52C|access-date=2016-03-09|archive-date=2016-03-09|archive-url=https://web.archive.org/web/20160309223951/http://www.inet.ox.ac.uk/files/publications/farmer/statespace.pdf}}</ref><ref>{{Cite journal|last1=Theiler|first1=J.|last2=Galdrikian|first2=B.|last3=Longtin.|first3=A.|last4=Eubank|first4=S.|last5=Farmer|first5=J. Doyne|date=1992|title=Detecting Nonlinear Structure in Time Series|url=http://www.iaea.org/inis/collection/NCLCollectionStore/_Public/23/017/23017591.pdf|journal=Physica D|volume=58|issue=1–4|pages=77–94|doi= 10.1016/0167-2789(92)90102-S|bibcode = 1992PhyD...58...77T }}</ref>
+
+==Work==
+===Los Alamos Complex Systems Group===
+After finishing his doctorate in 1981, Farmer took a post-doctoral appointment at the Center for Nonlinear Studies at [[Los Alamos National Laboratory]] and received an [[J. Robert Oppenheimer|Oppenheimer]] Fellowship in 1983. He developed an interest in what is now called [[complex systems]] and co-organized several seminal conferences in this area.<ref>{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Toffoli|first2=T.|last3=Wolfram|first3=S.|date=1983|title=Cellular Automata, Proceedings of an Interdisciplinary Workshop|url=https://www.researchgate.net/publication/265348609|journal=Physica D: Nonlinear Phenomena |volume=10}}</ref><ref>{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Lapedes|first2=A. S.|last3=Packard|first3=N.|last4=Wendroff|first4=B.|date=1986|title=Evolution, Games, and Learning: Models for Adaptation in Machines and Nature|journal= Physica D: Nonlinear Phenomena|doi=10.1016/0167-2789(86)90227-7|volume=22|issue=1–3|pages=vii–xii|bibcode=1986PhyD...22D...7F}}</ref><ref>{{Cite book|last1=Langston|first1=C. G.|last2=Taylor|first2=C.|last3=Farmer|first3=J. Doyne|last4=Rasmussen|first4=S.|date=1991|title=Artificial Life II |series=Santa Fe Institute Studies in the Sciences of Complexity Proceedings|publisher=Addison Wesley Longman|isbn=978-0-201-52571-7}}</ref> In 1988, he founded the Complex Systems Group in the Theoretical Division and recruited a group of postdoctoral fellows who subsequently became leaders in the field, including Kunihiko Kaneko, [[Christopher Langton|Chris Langton]], Walter Fontana, [[Steen Rasmussen (physicist)|Steen Rasmussen]], [[David Wolpert]], [[Stephanie Forrest]], James Theiler, and [[Seth Lloyd]].<ref>{{Cite book|url=https://archive.org/details/complexity00mmit|title=Complexity: The Emerging Science at the Edge of Order and Chaos|last=Waldrop|first=M. Mitchell|publisher=Simon & Schuster|year=1993|isbn=978-0-671-87234-2}}</ref>
+
+Farmer and Norman Packard developed the concept of "[[metadynamics]]", i.e., co-evolving networks and [[Dynamical systems theory|dynamical systems]]. For example, the nodes of the network might represent chemical species and the edges their possible reactions, whose kinetics give rise to a system of differential equations. As new species are produced the set of reactions changes and the kinetics are in turn altered. This concept was used to model the immune system and the origin of life.<ref>{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Kauffman|first2=S.|last3=Packard|first3=N.|date=1986|title=Autocatalytic Replication of Polymers|url=http://www.inet.ox.ac.uk/files/publications/farmer/autocatalyticreplication.pdf|journal=Physica D|volume=22|issue=1–3|pages=50–67|doi=10.1016/0167-2789(86)90233-2|bibcode=1986PhyD...22...50F|access-date=2016-03-10|archive-date=2016-03-10|archive-url=https://web.archive.org/web/20160310224917/http://www.inet.ox.ac.uk/files/publications/farmer/autocatalyticreplication.pdf}}</ref> Joint work with Richard Bagley produced a simulation of an autocatalytic set of polymers in which a few species are maintained at high concentration, with many of the properties of a metabolism; the autocatalytic set evolved through time in a manner resembling the evolution of living systems, but without a genetic code.<ref>{{Cite book|last1=Bagley|first1=R. J.|last2=Farmer|first2=J. Doyne|last3=Fontana|first3=W.|date=1991|chapter=Spontaneous Emergence of a Metabolism|chapter-url=http://www.inet.ox.ac.uk/files/publications/farmer/SpontaneousEmergence.pdf|title=Artificial Life II|publisher=Santa Fe Institute Studies in the Sciences of Complexity|pages=93–140|access-date=2016-03-10|archive-date=2016-03-10|archive-url=https://web.archive.org/web/20160310220522/http://www.inet.ox.ac.uk/files/publications/farmer/SpontaneousEmergence.pdf}}</ref><ref>{{Cite book|last1=Bagley|first1=R. J.|last2=Farmer|first2=J. Doyne|date=1991|chapter=Evolution of a Metabolism|chapter-url=http://fontana.med.harvard.edu/www/Documents/WF/Papers/metabolism.pdf|title=Artificial Life II|publisher=Santa Fe Institute Studies in the Sciences of Complexity|pages=141–158|access-date=2016-03-10|archive-date=2010-07-29|archive-url=https://web.archive.org/web/20100729133442/http://fontana.med.harvard.edu/www/Documents/WF/Papers/metabolism.pdf}}</ref>
+
+James Keeler and Farmer demonstrated that a system of coupled logistic maps could produce fluctuations with a 1/f power spectrum.<ref>{{Cite journal|last1=Keeler|first1=James|last2=Farmer|first2=J. Doyne|date=1986|title=Robust Space-Time Intermittency and 1/f Noise|url=http://www.inet.ox.ac.uk/files/publications/farmer/robustspace.pdf|journal=Physica D|volume=23|issue=1–3|pages=413–435|doi=10.1016/0167-2789(86)90148-X|bibcode=1986PhyD...23..413K|access-date=2016-03-10|archive-date=2016-03-10|archive-url=https://web.archive.org/web/20160310225335/http://www.inet.ox.ac.uk/files/publications/farmer/robustspace.pdf}}</ref> They showed that this occurred because the system continually tunes itself to stay near a critical point, a property that was later dubbed [[self-organized criticality]] by [[Per Bak]].
+
+=== Prediction Company ===
+In 1991, Farmer gave up his position at Los Alamos, reunited with Norman Packard and graduate school classmate James McGill, and co-founded the [[Prediction Company]]. The prevailing view at the time was that markets were perfectly efficient, so that it was not possible to make consistent profits without inside information.<ref>{{Cite book|title=The Predictors: How a Band of Maverick Physicists Used Chaos Theory to Trade Their Way to a Fortune on Wall Street|last=Bass|first=Thomas|publisher=Penguin Press Science|year=1998}}</ref> Farmer and Packard were motivated by their desire to prove this wrong. The trading strategy that was developed was an early version of statistical arbitrage, and made use of a variety of signals that derived from processing essentially all quantitative inputs related to the US stock market. It also included a high-frequency forecasting model as an overlay that reduced transaction costs. From 1996 onward, trading was completely automated. Farmer was one of the chief architects of the trading system as it existed in 1999. Prediction Company was sold to [[UBS]] in 2006 and in 2013 was re-sold to Millennium Management. The strategy was eventually shut down in 2018.
+
+=== Market ecology ===
+Farmer left Prediction Company in 1999 for the Santa Fe Institute, where he did interdisciplinary research at the interface of economics and complex systems, developed a theory of market ecology and was one of the founders of [[econophysics]].
+
+Market ecology is based on the observation that financial firms engage in specialized strategies and can be sorted into groups, analogous to species in biology.<ref>{{Cite journal|last=Farmer|first=J. Doyne|date=2002|title=Market Force, Ecology, and Evolution|url=http://www.inet.ox.ac.uk/files/publications/farmer/marketforce.pdf|journal=Industrial and Corporate Change|volume=11|issue=5|pages=895–953|doi=10.1093/icc/11.5.895|arxiv=adap-org/9812005|s2cid=118938089|access-date=2016-03-10|archive-date=2016-03-10|archive-url=https://web.archive.org/web/20160310225207/http://www.inet.ox.ac.uk/files/publications/farmer/marketforce.pdf}}</ref> Market impact limits the size of any particular strategy. Farmer showed how to a construct a market food web, that describes the way in which trading strategies influence each other's profits and size. The market food web is supported by fundamental economic activities, such as demand for liquidity, lending to the real economy and risk diversification. These create patterns in prices that are exploited by trading firms, who are analogous to predators in biology. Some strategies are stabilizing while others are destabilizing, and shifts in the market ecology can give rise to financial instabilities, e.g. booms and busts. These ideas had an important influence on the [[Adaptive market hypothesis|adaptive markets hypothesis]].<ref>{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Lo|first2=A. W.|date=1999|title=Frontiers of Finance: Evolution and Efficient Markets|journal=PNAS|volume=96|issue=18|pages=9991–9992|doi=10.1073/pnas.96.18.9991|pmid=10468547|pmc=33727|bibcode=1999PNAS...96.9991F|arxiv=adap-org/9912001|doi-access=free}}</ref>
+
+===Econophysics and market microstructure===
+Farmer is considered one of the founders of the field of "econophysics".{{Citation needed|date=May 2017}} This is distinguished from economics by a more data-driven approach to building fundamental models, breaking away from the standard theoretical template used in economics of utility maximization and equilibrium.<ref name=ECP-T-33>{{cite book|title =Philosophy of Complex Systems, edited by Paul Thagard, Cliff A. Hooker, John Woods|url=https://books.google.com/books?id=fSHsJbpZlxsC&pg=PA545|publisher = Elsevier Science |year =2011|isbn=978-0-08-093122-7 |page=[https://books.google.com/books?id=fSHsJbpZlxsC&pg=PA545 545] |access-date=11 November 2020}}</ref> Together with Michael Dempster of Cambridge, Farmer started a new journal called ''Quantitative Finance'' and served as the co-editor-in-chief for several years.
+
+His contributions to market microstructure include the identification of several striking empirical regularities in financial markets, such as the extraordinary persistence of order flow. Fabrizio Lillo and Farmer observed that there are long periods where the orders flowing into the market are much more likely to be to buy than to sell, and vice versa, with correlations decaying very slowly as a power law.<ref>{{Cite journal|last1=Lillo|first1=F.|last2=Farmer|first2=J. Doyne|date=2004|title=The Long Memory of the Efficient Market|url=http://www.inet.ox.ac.uk/files/publications/farmer/longmemory.pdf|journal=Studies in Nonlinear Dynamics & Econometrics|volume=8|issue=3|page=1226|doi=10.2202/1558-3708.1226|arxiv=cond-mat/0311053|s2cid=31214126|access-date=2016-03-10|archive-date=2016-03-10|archive-url=https://web.archive.org/web/20160310224819/http://www.inet.ox.ac.uk/files/publications/farmer/longmemory.pdf}}</ref> He and his collaborators developed a zero intelligence model for the continuous double auction that was shown to predict the spread between bid and ask prices.<ref>{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Patelli|first2=P.|last3=Zovko|first3=I.|date=2005|title=The Predictive Power of Zero Intelligence in Financial Markets|journal=PNAS USA|volume=102|issue=6|pages=2254–2259|doi=10.1073/pnas.0409157102|pmid=15687505|pmc=548562|bibcode=2005PNAS..102.2254F|doi-access=free}}</ref> A variety of different empirical studies documented the law of market impact, which states that the average change in price due to an order entering the market is proportional to the square root of the order size. This law is remarkable as it is universal, in the sense that the functional form of market impact remains the same as long as markets are operating under "normal" conditions.<ref>{{Cite journal|last1=Smith|first1=E.|last2=Farmer|first2=J. Doyne|last3=Gilemot|first3=L.|last4=Krishnamurthy|first4=S.|date=2003|title=Statistical Theory of the Continuous Double Auction|url=http://www.inet.ox.ac.uk/files/publications/farmer/doubleAuction.pdf|archive-url=https://web.archive.org/web/20160309192000/http://www.inet.ox.ac.uk/files/publications/farmer/doubleAuction.pdf|archive-date=March 9, 2016|journal=Quantitative Finance|volume=3|issue=6|pages=481–514|doi=10.1088/1469-7688/3/6/307|arxiv=cond-mat/0210475|bibcode=2003QuFin...3..481S|s2cid=23788}}</ref> The work of him and his colleagues set the foundation that was eventually developed by the group of [[Jean-Philippe Bouchaud]].<ref>{{Cite journal|last1=Donier|first1=J.|last2=Bonart|first2=J.|last3=Mastromatteo|first3=I.|last4=Bouchaud|first4=J. P.|date=2014|title=A fully consistent, minimal model for non-linear market impact|arxiv=1412.0141|journal=Quantitative Finance|volume=15|issue=7|pages=1109–1121|doi=10.1080/14697688.2015.1040056|s2cid=219715855}}</ref>
+
+===Leverage cycles and financial stability===
+The crisis of 2008 is widely believed to have been an example of a leverage cycle, in which lending first becomes too loose and then becomes too tight.<ref>{{Cite journal|last=Geanakoplos|first=J.|date=2009|title=The leverage cycle|url=https://web.stanford.edu/~piazzesi/Reading/Geanakoplos2009|journal=NBER Macroeconomics Annual 2009|publisher=University of Chicago Press|volume=24|pages=1–65|doi=10.1086/648285|s2cid=224800842}}</ref> An agent-based model for leveraged value investors shows how the use of leverage can explain the fat tails and clustered volatility observed in financial markets.<ref>{{Cite journal|author-link1=Stefan Thurner|last1=Thurner|first1=Stefan|last2=Farmer|first2=J. Doyne|last3=Geanakoplos|first3=John|date=2012|title=Leverage Causes Fat Tails And Clustered Volatility|url=http://www.inet.ox.ac.uk/files/publications/farmer/Leverage.pdf|journal=Quantitative Finance|volume=12|issue=5|pages=695–707|doi=10.1080/14697688.2012.674301|arxiv=0908.1555|s2cid=219718701|access-date=2016-03-10|archive-date=2016-03-10|archive-url=https://web.archive.org/web/20160310191848/http://www.inet.ox.ac.uk/files/publications/farmer/Leverage.pdf}}</ref> Similarly, the use of Value at Risk, as embodied in Basel II, can lead to a cycle in which leverage and prices slowly rise while volatility falls, followed by a crash in which prices and leverage plummet while volatility spikes upward, resembling the Great Moderation and subsequent crisis.<ref>{{Cite journal|last1=Aymanns|first1=Christoph|last2=Caccioli|first2=Fabio|last3=Farmer|first3=J. Doyne|last4=Tan|first4=Vincent|date=2016|title=Taming the Basel Leverage Cycle|journal=Journal of Financial Stability|volume=27|pages=263–277|doi=10.1016/j.jfs.2016.02.004|arxiv=1507.04136|s2cid=5560992}}</ref> Farmer is an editor of the ''Handbook of Financial Stress Testing''.<ref>{{cite book |last1=Farmer |first1=Doyne |last2=Kleinnijenhuis |first2=Alissa |last3=Wetzer |first3=Thom |editor1-last=Farmer |editor1-first=Doyne |editor2-last=Kleinnijenhuis |editor2-first=Alissa |editor3-last=Schuermann |editor3-first=Til |editor4-last=Wetzer |editor4-first=Thom |title=Stress Testing the Financial Macrocosm |chapter=Stress Testing the Financial Microcosm |date=2022 |publisher=Cambridge University Press |pages=661–696 |doi=10.1017/9781108903011.037 |isbn=978-1-108-90301-1 }}</ref>
+
+===Predicting technological progress===
+Although innovation might seem by its very nature to be unpredictable, in fact there are several empirical regularities that suggest the opposite. Together with several colleagues Farmer developed a theory for explaining Wright's law, which states that costs drop as a power law function of cumulative production.<ref>{{Cite journal|last1=McNerney|first1=James|last2=Farmer|first2=J. Doyne|last3=Redner|first3=Sid|last4=Track|first4=Jessika|date=2011|title=Role of Design Complexity in Technology Improvement|journal=PNAS|volume=108|issue=22|pages=9008–9013|doi=10.1073/pnas.1017298108|pmid=21576499|pmc=3107265|arxiv=0907.0036|bibcode=2011PNAS..108.9008M|doi-access=free}}</ref> By gathering data on many different technologies, this can be shown to be closely related to [[Moore's law]], which can be used to make reliable forecasts for technological progress under business as usual scenarios.<ref>{{Cite journal|last1=Nagy|first1=B.|last2=Farmer|first2=J. Doyne|last3=Bui|first3=Q. M.|last4=Trancik|first4=J. E.|date=2013|title=Statistical Basis for Predicting Technological Progress|journal=PLOS ONE|volume=8|issue=2|doi=10.1371/journal.pone.0052669|pmid=23468837|pmc=3585312|article-number=e52669|arxiv=1207.1463|bibcode=2013PLoSO...852669N|doi-access=free}}</ref><ref>{{Cite journal|last1=Farmer|first1=J. Doyne|last2=Lafond|first2=F.|date=2016|title=How Predictable Is Technological Progress?|url=http://www.oxfordmartin.ox.ac.uk/publications/view/1884|journal=Research Policy|volume=45|issue=3|pages=647–655|doi=10.1016/j.respol.2015.11.001|arxiv=1502.05274|s2cid=154564641}}</ref> Recently, in a paper in collaboration with [[J. McNerney]], [[J. Savoie]], [[F. Caravelli]], and [[V. Carvalho]], it was shown that the position of an industry in the global production network is an important determinant of its long term growth.<ref>{{Cite arXiv |eprint = 1810.07774|last1 = Doyne Farmer|first1 = J.|title = How production networks amplify economic growth|class = q-fin.GN|year = 2018}}</ref>
+
+===Macroeconomics and COVID-19===
+Responding to the COVID pandemic, together with François Lafond, Penny Mealy, Marco Pangallo, Anton Pichler, and R. Maria del Rio Chanona, Farmer's group at Oxford correctly predicted the impact of COVID on the UK economy.<ref>{{cite journal | last1=Del Rio-Chanona | first1=R Maria | last2=Mealy | first2=Penny | last3=Pichler | first3=Anton | last4=Lafond | first4=François | last5=Farmer | first5=J Doyne | title=Supply and demand shocks in the COVID-19 pandemic: An industry and occupation perspective | journal=Oxford Review of Economic Policy | date=2020 | volume=36 | pages=S94–S137 | doi=10.1093/oxrep/graa033 | pmid=40504218 | pmc=7499761 }}</ref><ref>Pichler, A., Pangallo, M., del Rio-Chanona, R.M., Lafond, F. & Farmer, J.D. (2020). [https://arxiv.org/abs/2005.10585v1 "Production networks and epidemic spreading: How to restart the UK economy?"], [[arXiv]], [[Cornell University]].</ref> In a separate effort, Asano et al. have shown how extending a standard macroeconomic model by assuming that households make their savings decisions by copying each other leads to behavior that resembles an endogenous business cycle.<ref>Asano, Y., Kolb, J.J., Heitzig, J., & Farmer, J.D. (2019). [https://arxiv.org/abs/1907.02155v1 "Emergent Inequality and Endogenous Dynamics in a Simple Behavioral Macroeconomic Model"], arXiv, Cornell University.</ref>
+
+=== Super simulator proposal ===
+
+Following his work on COVID, Farmer is contributing to the development of a "super simulator" to study complex economic systems.  In this simulator, every company will be present and making realistic decisions that change as the wider economy changes.<ref name="carrington-2026">
+{{cite news
+ | last1 = Carrington | first1 = Damian
+ | title = Economics has failed on the climate crisis. This complexity scientist has a mind-blowing plan to fix that
+ | date = 12 February 2026
+ | work = The Guardian
+ | location = London, United Kingdom
+ | issn = 0261-3077
+ | url = https://www.theguardian.com/environment/2026/feb/12/economics-climate-crisis-complexity-scientist-plan
+ | access-date = 2026-02-12
+}}
+</ref><ref name="farmer-2025">
+{{cite book
+ | last1 = Farmer | first1 = Doyne
+ | title = Making sense of chaos: a better economics for a better world
+ | publisher = Penguin Books
+ | location = London, United Kingdom
+ | isbn = 978-014198120-8
+}}  Paperback edition.  Title first published in 2024.
+</ref>  The project is known as ''Macrocosm''.<ref name=":2" />  Farmer estimates the cost of completing and running these simulations may require {{currency|amount=100 million|passthrough=yes|code=USD|fmt=gaps}} in funding.  He says:<ref name="carrington-2026"/>
+
+{{blockquote|We want to do for economic planning what Google maps did for traffic planning, so we can give anybody who has an economic question an intelligent and useful answer.}}
+
+A key goal of Farmer's current work is to understand the economic contexts of the [[climate crisis]], both in terms of the benefits of a rapid uptake of [[renewable energy|renewables]],<ref name="way-etal-2022">
+{{cite journal
+ | last1 = Way | first1 = Rupert
+ | last2 = Ives | first2 = Matthew C
+ | last3 = Mealy | first3 = Penny
+ | last4 = Farmer | first4 = J Doyne
+ | title = Empirically grounded technology forecasts and the energy transition
+ | date = 21 September 2022
+ | journal = Joule
+ | volume = 6
+ | issue = 9
+ | pages = 2057–2082
+ | doi = 10.1016/j.joule.2022.08.009
+ | issn = 2542-4351
+ | url = https://www.sciencedirect.com/science/article/pii/S254243512200410X/pdfft
+ | access-date = 2026-02-12
+ | doi-access = free
+ }}  {{open access}}
+</ref> and how a changing climate will impact directly and indirectly on our economic systems.  {{as of|2026|02|post=,}} the simulation has "{{val|30000}} companies and their {{val|160000}} oil rigs, power stations and other assets, based on a rich, 25{{nbhyph}}year{{nbhyph}}long dataset of how they have operated.<ref name="carrington-2026"/>  The associated agents make decisions based on simple rules: for example, imitating the best, or resorting to trial and error {{mdash}} in contrast to the fully{{nbhyph}}informed, optimally{{nbhyph}}behaved agents that populate more traditional [[computable general equilibrium]] (CGE) models.  Farmer adds:<ref name="carrington-2026"/>
+
+{{blockquote|"We're literally modelling the decision-making of all the energy companies in the world," he says, each represented by a separate digital agent in the model. "We can simulate the whole energy system of the world to see how much energy each company delivers and at what price".}}
+
+===Other interests===
+Farmer has written about science and adventure and is an avid sailor and backpacker.{{citation needed|date=December 2025}}
+
+===In popular culture===
+Farmer and Packard's work on roulette, along with their adventures in the casinos of Nevada, has been featured in the 2004 [[Breaking Vegas]] documentary series ''Beat the Wheel''.{{citation needed|date=December 2025}}
+
+== See also ==
+*[[Eudaemons]]
+*[[Chaos: Making a New Science]]
+*[[Determinism]]
+*[[Laplace's demon]]
+*[[Robert Shaw (physicist)]]
+*[[Norman Packard]] 
+*[[Data science]]
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+* [http://www.thomasbass.com/the_eudaemonic_pie_1360.htm ''The Eudaemonic Pie / The Newtonian Casino''] by Thomas Bass
+* [http://www.thomasbass.com/the_predictors_1259.htm ''The Predictors: How a Band of Maverick Physicists Used Chaos Theory to Trade Their Way to a Fortune on Wall Street''] by Thomas Bass
+* ''[[Chaos: Making a New Science]]'' by James Gleick
+* [http://kucharski.io/book/ ''The Perfect Bet''] by Adam Kucharski
+* [http://books.simonandschuster.com/Brainmakers-How-Scientists-Moving-Beyond-Computers-Create-Rival-to-Humn-Brain/David-H-Freedman/9781439142790 ''Brainmakers: How Scientists are Moving Beyond Computers to Rival the Human Brain''] by David H. Freedman
+
+== External links ==
+* [http://www.oxfordmartin.ox.ac.uk/people/407 Farmer's Oxford Martin School website]
+* [http://www.inet.ox.ac.uk/people/view/4 Farmer's Oxford INET website]
+* {{google scholar id|Rk7g1U0AAAAJ}}
+* [http://www.doynefarmer.com/ Farmer's personal website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Farmer, J. Doyne}}
+[[Category:1952 births]]
+[[Category:21st-century American physicists]]
+[[Category:Academics of the University of Oxford]]
+[[Category:American expatriate academics in the United Kingdom]]
+[[Category:Chaos theorists]]
+[[Category:Complex systems scientists]]
+[[Category:Living people]]
+[[Category:People from Silver City, New Mexico]]
+[[Category:Researchers of artificial life]]
+[[Category:Santa Fe Institute people]]
+[[Category:Scientists from Houston]]
+[[Category:University of California, Santa Cruz alumni]]
+[[Category:Businesspeople from Silver City, New Mexico]]
+[[Category:Physicists from Texas]]
+[[Category:Physicists from New Mexico]]

@@ -1,0 +1,114 @@
+{{Short description|American physicist and computer scientist (1934–2023)}}
+{{Infobox scientist
+| name             = Edward Fredkin
+| image            = File:Ed Fredkin working on PDP-1.jpg
+| caption          = Fredkin working on PDP-1, c. 1960
+| birth_date       = {{Birth date|1934|10|2}}
+| birth_place      = [[Los Angeles, California]], U.S.
+| death_date       = {{Death date and age|2023|6|13|1934|10|2}}
+| death_place      = [[Brookline, Massachusetts]], U.S.
+| field            = [[Computer science]], [[physics]], business
+| workplaces       = [[Massachusetts Institute of Technology]] (MIT) <br> [[Carnegie Mellon University]] (CMU) <br> [[Capital Technologies, Inc.]]
+| education        = [[California Institute of Technology]] (no degree)
+| doctoral_advisor = 
+| known_for        = [[Fredkin gate]]<br>[[Fredkin's paradox]]<br>[[Billiard-ball computer]]<br>[[Second-order cellular automaton]]<br>[[Trie]] data structure
+| awards           = [[Dickson Prize in Science]] 1984
+}}
+
+'''Edward Fredkin''' (October 2, 1934 – June 13, 2023)<ref name="NYT-20230704">{{cite news |last=Williams |first=Alex |title=Edward Fredkin, 88, Who Saw the Universe as One Big Computer, Dies - An influential M.I.T. professor and an outside-the-box scientific theorist, he gained fame with unorthodox views as a pioneer in digital physics. |url=https://www.nytimes.com/2023/07/04/science/edward-fredkin-dead.html |date=4 July 2023 |work=[[The New York Times]] |url-status=live |archiveurl=https://archive.today/20230705165856/https://www.nytimes.com/2023/07/04/science/edward-fredkin-dead.html |archivedate=5 July 2023 |accessdate=6 July 2023 }}</ref> was an American [[computer scientist]], [[physicist]] and businessman who was an early pioneer of [[digital physics]].<ref>See Fredkin's [http://www.digitalphilosophy.org Digital Philosophy web site.] {{Webarchive|url=https://web.archive.org/web/20170729191558/http://www.digitalphilosophy.org/ |date=2017-07-29 }}</ref>
+
+Fredkin's primary contributions included work on [[reversible computing]] and [[cellular automata]]. While [[Konrad Zuse]]'s book, ''[[Calculating Space]]'' (1969), mentioned the importance of reversible computation, the [[Fredkin gate]] represented the essential breakthrough.<ref>{{cite web|title=Information about Edward Fredkin|url=http://english.turkcebilgi.com/Edward+Fredkin|access-date=15 March 2012|archive-url=https://web.archive.org/web/20131029191129/http://english.turkcebilgi.com/Edward+Fredkin|archive-date=29 October 2013|url-status=dead}}</ref> In more recent work, he used the term ''digital philosophy'' (DP).
+
+During his career, Fredkin was a professor of computer science at the [[Massachusetts Institute of Technology]], a Fairchild Distinguished Scholar at [[Caltech]], a distinguished career professor at [[Carnegie Mellon University]], and a research professor of physics at [[Boston University]].
+
+==Early life and education==
+Fredkin's mother and father were both Russian-Jewish immigrants who met in Los Angeles, and he was the youngest child of four.<ref>{{Cite journal |last=Wolfram |first=Stephen |date=August 22, 2023 |title=Remembering the Improbable Life of Ed Fredkin (1934–2023) and His World of Ideas and Stories |url=https://writings.stephenwolfram.com/2023/08/remembering-the-improbable-life-of-ed-fredkin-1934-2023-and-his-world-of-ideas-and-stories/ |journal=Stephen Wolfram Writings |language=en |access-date=January 29, 2025}}</ref> His mother was a concert pianist, although she did not perform professionally. She died from cancer when he was 11. His father was a businessman but had lost everything in the [[1929 stock market crash]] and as a result, the family was relatively poor. At times he lived with other families or with his older sister. Eventually, his father remarried, and he and his sister moved back in. As a child, he was both entrepreneurial and interested in science and how things work. He did various weekend and after-school things to earn money, eventually handling a large newspaper delivery route. At age 10 he bought chemistry supplies and made his own fireworks, which were then illegal in Los Angeles. He did poorly in school because he didn't do homework. He graduated from [[John Marshall High School (Los Angeles)|John Marshall High School]] a semester early so that he could earn money for Caltech tuition and living expenses. Caltech later told him he had been admitted with the worst high school grades they had ever seen. He quit Caltech partway through his sophomore year.<ref>{{cite web |last1=Hendrie |first1=Gardner |title=Oral History of Ed Fredkin |url=https://archive.computerhistory.org/resources/access/text/2013/05/102630504-05-01-acc.pdf |website=computerhistory.org |publisher=Computer History Museum |access-date=6 July 2023}}</ref>
+
+In 1952, he joined the [[United States Air Force]] (USAF) to become a [[fighter pilot]] to avoid being drafted into the [[Korean War]].<ref name="Garfinkel">{{cite magazine |url=https://www.technologyreview.com/2021/04/27/1021714/tomorrows-computer-yesterday/ |title=Tomorrow's computer, yesterday: Four decades ago at Endicott House, an MIT professor convened a conference that launched quantum computing. |author=Simson Garfinkel |magazine=MIT News |page=10 |date=April 27, 2021}}</ref> His computer career started in 1956 when the Air Force assigned him to [[MIT Lincoln Laboratory]] where he worked on the [[SAGE computer]].<ref name = PDP-1>{{cite web|title=PDP-1|url=https://www.computerhistory.org/pdp-1/ed-fredkin/|publisher=Computer History Museum|access-date=6 March 2012}}</ref>
+
+==Career==
+Fredkin worked with a number of companies in the computer field and held academic positions at a number of universities. He was a computer programmer, a pilot, an advisor to businesses and governments, and a physicist. His main interests concerned digital computer-like models of basic processes in physics.<ref>{{cite web|url=https://www.cs.cmu.edu/~raj-symposium/fredkin.html |title=ED FREDKIN Bio|publisher=CMU |access-date=7 March 2012}}</ref>
+
+Fredkin's initial focus was physics; however, he became involved with computers in 1956 when he was sent by the Air Force, where he had trained as a jet pilot, to the [[MIT Lincoln Laboratory]].<ref name=CMU>{{cite web |title=Projects |url=https://www.iment.com/maida/tv/computer/johncocke.htm#ed |access-date=2 March 2012}}</ref> On completing his service in 1958, Fredkin was hired by [[J. C. R. Licklider]] to work at the research firm, [[Bolt Beranek & Newman]] (BBN).  After seeing the [[PDP-1]] computer prototype at the Eastern Joint Computer Conference in Boston, in December 1959, Fredkin recommended that BBN purchase the very first PDP-1 to support research projects at BBN. The new hardware was initially delivered with no software whatsoever.
+
+Fredkin wrote a PDP-1 [[assembler language]] called FRAP (Free of Rules Assembly Program, also sometimes called Fredkin's Assembly Program), and its first [[operating system]] (OS).  He organized and founded the [[Digital Equipment Computer Users' Society]] (DECUS) in 1961, and participated in its early projects.  Working directly with [[Ben Gurley]], the designer of the PDP-1, Fredkin designed significant modifications to the hardware to support time-sharing via the [[BBN Time-Sharing System]]. He invented and designed the first modern [[interrupt]] system, which Digital called the "Sequence Break".{{citation needed|date=December 2019}} He went on to become a contributor in the field of [[Artificial Intelligence]] (AI).<ref>{{cite web|title=PDP-1|url=http://pdp-1.computerhistory.org/pdp-1/index.php?f=showitem&id=26.44&l=1&popupwin=1|publisher=Computer History Museum|access-date=7 March 2012|archive-date=29 October 2013|archive-url=https://web.archive.org/web/20131029185406/http://pdp-1.computerhistory.org/pdp-1/index.php?f=showitem&id=26.44&l=1&popupwin=1|url-status=dead}}</ref>
+
+In 1962, he founded [[Information International, Inc.]], an early computer technology company which developed high-precision film-to-digital scanners, as well as other leading-edge hardware. The company became publicly traded and Fredkin became a millionaire.<ref name="Garfinkel" />
+
+In 1968, [[Marvin Minsky]] (who he had met at BBN)<ref name="Garfinkel" /> recruited Fredkin to work at the [[Massachusetts Institute of Technology]] (MIT) as a full professor despite the fact that he had never graduated from college.<ref name="NYT-20230704" /> From 1971 to 1974, Fredkin was the Director of [[Project MAC]] at MIT.<ref>{{cite web|title=Calteches Library - Robotics PDF |url=https://calteches.library.caltech.edu/360/3/robotics.pdf |publisher=Caltech|access-date=7 March 2012}}</ref> (Project MAC was renamed the MIT Laboratory for Computer Science in 1976.<ref>{{Cite web|url=https://libraries.mit.edu/mithistory/research/labs/lcs/#:~:text=By%201967%20Project%20MAC%20had,for%20Computer%20Science%20in%201976.|title = Laboratory for Computer Science (LCS) &#124; MIT History}}</ref>) He spent a year at [[Caltech]] as a Fairchild Distinguished Scholar, teaching [[Nobel Prize]]-winning physicist [[Richard Feynman]] about computing and learning quantum mechanics from him.<ref name="Garfinkel" /> Then he was a professor of physics at [[Boston University]] for six years.<ref name=Stanford>{{cite web|title=About Edward|url=https://www.stanford.edu/class/ee380/Abstracts/050126.html|publisher=Stanford|access-date=2 March 2012}}</ref>
+
+Fredkin had formal and informal associations with [[Carnegie Mellon University]] (CMU) over several decades. His later{{when|date=February 2022}} academic interests were in the area of [[digital physics|digital mechanics]], which is the study of discrete models of fundamental process in physics.<ref>{{cite web|title=Basic Biography|url=https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/news/dls/fredkin.html|publisher=CMU|access-date=7 March 2012}}</ref> Fredkin had been a Distinguished Career Professor of Computer Science at CMU,<ref name=CMU/> and also a visiting scientist at [[MIT Media Lab]]oratory.<ref>{{cite web|title=MIT Visiting Scientist|url=https://www.media.mit.edu/events/lecture-fredkin.html|publisher=MIT|access-date=2 March 2012}}</ref> {{as of|2022}}, he was Distinguished Career Professor of Robotics at CMU.<ref name="CMUProf">{{cite web |title=Visitors and Post-Doctoral Associates |url=https://www.isri.cmu.edu/people/other-faculty.html |website=- Institute for Software Research - Carnegie Mellon University |publisher=Carnegie Mellon University |access-date=2022-02-01 |language=en |archive-date=2021-06-19 |archive-url=https://web.archive.org/web/20210619024016/https://www.isri.cmu.edu/people/other-faculty.html |url-status=dead }}</ref>
+
+Fredkin served as the founder or CEO of a diverse set of companies, including Information International, [[Three Rivers Computer Corporation]], New England Television Corporation (owner of Boston's then [[CBS]] affiliate [[WHDH (TV)|WNEV]] on channel 7), and The Reliable Water Company (manufacturer of advanced sea water [[desalination]] plants).<ref>{{cite web|title= Channel 7|url=https://www.bostonradio.org/stations/72145|publisher=Boston Radio|access-date=11 March 2012}}</ref>
+
+Fredkin was broadly interested in computation, including hardware and software. He invented the [[trie]] data structure (independently of René de la Briandais, who published a year earlier<ref name = KnuthVol3>{{cite book|last=Knuth|first=Donald|author-link=Donald Knuth|title=[[The Art of Computer Programming]] Volume 3: Sorting and Searching|edition=2nd|year=1997|publisher=Addison-Wesley|isbn=0-201-89685-0|page=492-495|chapter=6.3: Digital Searching}}</ref>) as well as radio transponders for vehicle identification, the concept of computer navigation for automobiles, the [[Fredkin gate]], and the [[Billiard-Ball Computer]] Model for [[reversible computing]].<ref>{{cite web|url=https://www.csail.mit.edu/news/edward-fredkin-mit-professor-and-project-mac-luminary-dies-88 |title=Edward Fredkin, MIT professor and Project MAC luminary, dies at 88|publisher=MIT CSAIL |access-date=8 Aug 2023}}</ref> He had also been involved in [[computer vision]], chess, and other areas of Artificial Intelligence research.<ref name = PDP-1/>
+
+Fredkin also worked at the intersection of theoretical issues in the physics of computation with computational models of physics. He invented the SALT Cellular Automata family.<ref>{{Citation |last1=Miller |first1=Daniel B. |title=Circular Motion of Strings in Cellular Automata, and Other Surprises |date=2012-06-10 |last2=Fredkin |first2=Edward |arxiv=1206.2060 }}</ref> The name SALT was inspired by the alternating even and odd cells arranged similarly to sodium and chloride ions in a salt crystal lattice.<ref>{{Cite web |title=A New Computational Universe - Fredkin's SALT CA |url=https://www.i-programmer.info/news/112-theory/4445-a-new-computational-universe-fredkins-salt-ca.html |access-date=2026-09-23 |website=www.i-programmer.info}}</ref> Dan Miller designed and programmed the Busy Boxes implementation of Salt, with assistance from Suresh Kumar Devanathan.  The early SALT models are 2+1 dimensional quasi-physical, reversible, universal cellular automata, that are second order in time, and that follow rules that model CPT reversibility.<ref>{{harv|Miller|Fredkin|2005}}</ref><ref name=Stanford/>
+
+==Fredkin's version of digital philosophy==
+Digital Philosophy (DP) is one type of [[digital physics]]/[[pancomputationalism]], a school of philosophy which claims that all the physical processes of nature are forms of computation or information processing at the most fundamental level of reality. Pancomputationalism is related to several larger schools of philosophy: [[atomism]], [[determinism]], [[Mechanism (philosophy)|mechanism]], [[monism]], [[Naturalism (philosophy)|naturalism]], [[philosophical realism]], [[reductionism]], and [[scientific empiricism]].
+
+Pancomputationalists believe that biology reduces to chemistry which reduces to physics which reduces to the computation of information. Fredkin's career and achievements had much of their motivation in digital philosophy, a particular type of "pancomputationalism" described in Fredkin's papers, including "Introduction to Digital Philosophy", "On the Soul", "Finite Nature", "A New Cosmogony", and "Digital Mechanics".<ref name="Papers">{{cite web|url=http://wn.com/Ed_Fredkin |title=Fredkin's papers|publisher=World News |access-date=21 March 2012}}</ref>
+
+Fredkin's digital philosophy contains several fundamental ideas:{{citation needed|date=December 2019}}
+
+* Everything in physics and physical reality must have a digital informational representation.
+* All changes in physical nature are consequences of digital informational processes.
+* Nature is finite and digital.
+* The traditional [[Judaeo-Christian]] concept of the [[soul]] has a counterpart in a static/dynamic soul defined in terms of digital philosophy.
+
+==Later projects==
+===PDP-1 Restoration Project===
+Fredkin chaired the [[PDP-1]] Restoration Project, which was able to restore and reactivate the [[Computer History Museum]]'s PDP-1 computer after seven months of work.<ref>{{cite web|title=PDP-1 Restoration Project|url=https://www.computerhistory.org/pdp-1/restoration/|date=19 May 2004|access-date=29 June 2016}}</ref><ref>{{cite web|title=The Mouse That Roared: PDP-1 Celebration Event|url=https://www.youtube.com/watch?v=J8zU8WQO-PY |archive-url=https://ghostarchive.org/varchive/youtube/20211212/J8zU8WQO-PY| archive-date=2021-12-12 |url-status=live|publisher=YouTube.com|date=1 August 2012|access-date=29 June 2016}}{{cbignore}}</ref>
+
+==Death==
+Fredkin died in [[Brookline, Massachusetts]], on June 13, 2023, at the age of 88.<ref>{{cite news |title=Local obituary: Edward Fredkin, 88, 'visionary' scientist and fighter pilot |url=https://www.boston.com/news/massachusetts-obituaries/2023/06/21/obituary-edward-fredkin-brookline-ma/ |access-date=23 June 2023 |publisher=Boston.com |date=21 June 2023}}</ref>
+
+==Awards and honors==
+In 1984, Fredkin was awarded the [[Carnegie Mellon University]] [[Dickson Prize#Dickson Prize in Science|Dickson Prize in Science]], given annually to the person who has been judged to have made the most progress in a scientific field in the United States during that year.<ref>{{cite web|title= Dickson Prize Winners| url=https://www.cmu.edu/dickson-prize/past-winners/|publisher=[[Carnegie Mellon University]] |access-date=2 March 2012}}</ref> In 1999, CMU established the Fredkin professorship.<ref>{{cite web |title=Computer Science Professor Tom Mitchell Named Carnegie Mellon's Fredkin Professor of AI and Learning |url=https://www.cs.cmu.edu/~./scsnews/mitchell.html |website=Public Relations Office, School of Computer Science |publisher=Carnegie Mellon University |access-date=2022-02-01 |date=8 April 1999}}</ref>
+
+==Cultural references==
+A profile of Fredkin, along with a readable explanation of some of his theories, can be found in the first part of ''Three Scientists and Their Gods'' by [[Robert Wright (journalist)|Robert Wright]] (1988). The section of the book covering Fredkin was excerpted in ''[[The Atlantic Monthly]]'' in April 1988.<ref>{{cite web|title=Three Scientists and Their Gods in The Atlantic Monthly|url=https://www.theatlantic.com/past/docs/unbound/flashbks/unifiedtheory.htm| publisher=[[The Atlantic]]|access-date=16 March 2012}}</ref>
+
+According to biographer [[Robert Wright (journalist)|Robert Wright]], the character Stephen Falken in the film ''[[WarGames]]'' was modeled after Fredkin.<ref>{{cite web|title=War Games|url=https://www.thecrimson.com/article/1988/10/15/in-the-country-of-the-blind/|publisher=Stanford Crimson Article|access-date=14 March 2012}}</ref>
+
+==See also==
+*[[Fredkin's paradox]]
+
+==References==
+{{reflist}}
+
+===Works cited===
+* {{citation |contribution=Two-state, Reversible, Universal Cellular Automata in Three Dimensions |first1=Daniel B. |last1=Miller |first2=Edward |last2=Fredkin |title=Proc. 2nd Conf. on Computing Frontiers |publisher=ACM |year=2005 |location=Ischia, Italy |pages=45–51 |doi=10.1145/1062261.1062271 |arxiv=nlin/0501022 |isbn=1-59593-019-1|s2cid=14082792 }}.
+
+==Further reading==
+* {{cite journal| last=Hagar |first=Ami |date=2016 |title=Ed Fredkin and the Physics of Information: An Inside Story of an Outsider Scientist | journal=[[Information & Culture]] | publisher=[[University of Texas Press]] |volume=51|issue=3 |pages=419–443 | doi=10.7560/IC51306 | s2cid=19827674 }}
+* {{cite journal| first=Stephen | last=Wolfram | author-link=Stephen Wolfram | url=https://writings.stephenwolfram.com/2023/08/remembering-the-improbable-life-of-ed-fredkin-1934-2023-and-his-world-of-ideas-and-stories/ | title=Remembering the Improbable Life of Ed Fredkin (1934–2023) and His World of Ideas and Stories | journal=Stephen Wolfram Writings | date=22 August 2023 | accessdate=7 September 2023 }}
+* {{cite journal | first=Robert | last=Wright | url=https://robertwright.com/universe-just-happen/ | title=Did the Universe Just Happen? | journal=[[Atlantic Monthly]] | date=April 1988 | access-date=2021-05-05 | archive-date=2023-04-07 | archive-url=https://web.archive.org/web/20230407100514/https://robertwright.com/universe-just-happen/ | url-status=dead }} (Article contains extensive biographical content on Fredkin.)
+
+==External links==
+{{wikiquote}}
+* [http://www.digitalphilosophy.org/ Digital Philosophy.org] {{Webarchive|url=https://web.archive.org/web/20170729191558/http://www.digitalphilosophy.org/ |date=2017-07-29 }}
+* [https://www.theatlantic.com/past/docs/issues/88apr/wright.htm Did the Universe Just Happen?] The Atlantic Monthly, by Robert Wright, 1988.
+* [http://dl.acm.org/citation.cfm?doid=1062261.1062271 Two-state, Reversible, Universal Cellular Automata in Three Dimensions] by Edward Fredkin,
+*[[Information International, Inc.]]
+*[https://imgur.com/gallery/DJJ0oq7 Fredkin Prize World Champion team 1997 and Chess Pioneers]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fredkin, Edward}}
+[[Category:1934 births]]
+[[Category:2023 deaths]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American philosophers of technology]]
+[[Category:21st-century American philosophers]]
+[[Category:20th-century American philosophers]]
+[[Category:Ontologists]]
+[[Category:Cellular automatists]]
+[[Category:American computer scientists]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Boston University faculty]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:American quantum information scientists]]
+[[Category:Scientists from Los Angeles]]

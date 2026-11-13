@@ -1,0 +1,73 @@
+{{Short description|American theoretical particle physicist}}
+{{Infobox scientist
+| name              = Zvi Bern
+| image             = Zvi-Bern.jpg
+| image_size        =
+| caption           = Professor Zvi Bern at ICTP-SAIFR in Sao Paulo, Brazil
+| birth_date        = {{birth date and age|df=yes|1960|09|17}}
+| birth_place       = [[Queens]], [[New York (state)|New York]]
+| death_date        = 
+| death_place       = 
+| citizenship       = [[United States]]
+| fields            = [[Theoretical Physics]], [[Quantum Field Theory]], [[Supergravity]], [[String Theory]]
+| workplaces        = [[Mani L. Bhaumik Institute for Theoretical Physics, UCLA]] <br /> [[University of California, Los Angeles]]
+| education         =  [[Massachusetts Institute of Technology]] (B.S.)<br/>[[University of California, Berkeley]] (Ph.D.) 
+| doctoral_advisor  = Martin B. Halpern
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Double copy theory]], [[Generalized Unitarity Method]], [[Scattering Amplitudes]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = Fellow of the American Physical Society (2004) <br/> Sakurai Prize (2014) <br/>  Galileo Galilei Medal (2023)
+| signature         = <!--(filename only)-->
+| footnotes         =  
+}}
+'''Zvi Bern''' (born 17 September 1960) is an American theoretical particle physicist. He is a professor at [[University of California, Los Angeles]] (UCLA).
+
+Bern studied physics and mathematics at the [[Massachusetts Institute of Technology]] and earned his doctorate in 1986 in theoretical physics from the [[University of California, Berkeley]] under the supervision of Martin Halpern.<ref>{{MathGenealogy|id= 134722}}</ref><ref>{{cite news|title=Renowned UC Berkeley physics professor emeritus Martin Halpern dies at 79|date=28 February 2018|author=Smith, Ella|newspaper=The Daily Californian, UC Berkeley newspaper|url=http://www.dailycal.org/2018/02/28/renowned-uc-berkeley-physics-professor-emeritus-martin-halpern-dies-79/}}</ref> Bern's dissertation manuscript can currently be found in Lawrence Berkeley Laboratory's archives, examining "possible nonperturbative continuum regularization schemes for quantum field theory which are based upon the Langevin equation of Parisi and Wu."<ref>{{cite web|url=https://cloudfront.escholarship.org/dist/prd/content/qt6663k3z9/qt6663k3z9.pdf|title=CONTINUUM REGULARIZATION OF QUANTUM FIELD THEORY|website=Lawrence Berkeley Laboratory Archives}}</ref>
+
+Bern developed new methods for the computation of [[Feynman diagram]]s that were originally introduced in [[quantum electrodynamics]] for the perturbative computation of scattering amplitudes. In more complicated [[Quantum field theory|quantum field theories]] such as [[Yang–Mills theory]] or quantum field theories with gravity, the computer calculation of the perturbative evolution using Feynman diagrams quickly reached its limits due to the exponential growth in diagrams. The new theoretical developments of the 1990s and 2000s came in time for a renewed interest in extensive calculations in the context of the experiments at the [[Large Hadron Collider]]. Bern and colleagues developed twistor-space methods applied to gauge-theory amplitudes.<ref>{{cite journal|author=Bena, Iosif|author2=Bern, Zvi|author3=Kosower, David A.|title=Twistor-space recursive formulation of gauge-theory amplitudes|journal=Phys. Rev. D|volume=71|issue=4|article-number=045008|doi=10.1103/PhysRevD.71.045008|arxiv=hep-th/0406133|bibcode=2005PhRvD..71d5008B|year=2005|s2cid=119401595 }}</ref> Bern and colleagues developed the method of "generalized unitarity as a means for obtaining loop amplitudes from on-shell tree amplitudes".<ref>{{cite journal|author=Bern, Zvi|author2=Huang, Yu-tin|title=Basis of generalized unitarity|journal=Journal of Physics A: Mathematical and Theoretical|volume=44|issue=45|article-number=454003|doi=10.1088/1751-8113/44/45/454003|arxiv=1103.1869|bibcode=2011JPhA...44S4003B|year=2011|s2cid=119231853 }}</ref> The method of generalized unitarity provided new insights into the perturbative treatment of N = 8 [[supergravity]] and showed that there is a smaller degree of divergence than expected; higher-loop evidence suggested that "N = 8 supergravity has the same degree of divergence as N = 4 super-Yang–Mills theory and is ultraviolet finite in four dimensions".<ref>{{cite journal|author=Bern, Zvi|author2=Dixon, Lance J.|author3=Roiban, Radu|title=Is N = 8 Supergravity Ultraviolet Finite?|journal=Physics Letters B|volume=644|issue=4|year=2007|pages=265–271|doi=10.1016/j.physletb.2006.11.030|arxiv=hep-th/0611086|bibcode=2007PhLB..644..265B|s2cid=119532539 }} [https://arxiv.org/abs/hep-th/0611086 arXiv preprint]</ref> Prior to this, it had been generally assumed that quantum gravitation from three loops resulted in uncontrollable divergences. In 2010, with his students Carrasco and Johansson, Bern found that diagrams for supersymmetric gravitational theories are equivalent to those of two copies of supersymmetric Yang–Mills theories (theories with [[gluon]]s), which is known as [[double copy theory]]. They used a previously found duality between kinematics and color degrees of freedom. Instead of previously around <math>10^{20}</math> terms, only 10 terms had to be evaluated in 3 loops, and correspondingly in 4 loops around 100 terms versus <math>10^{26}</math> terms, and in 5 loops around 1000 terms versus <math>10^{31}</math> terms; furthermore, there were no uncontrollable divergences in three and four loops — such uncontrollable divergences were predicted by the majority of experts in the 1980s and constituted one of the reasons for favoring [[string theory]].
+
+Bern was elected in 2004 a fellow of the [[American Physical Society]].<ref>{{cite web|title=APS Fellow Archive|website=American Physical Society|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2004&unit_id=&institution=University+of+California%2C+Los+Angeles}} (search on year=2004 and institution=University of California, Los Angeles)</ref> In 2014, he received the Sakurai Prize with David A. Kosower and [[Lance J. Dixon]] for "pathbreaking contributions to the calculation of perturbative scattering amplitudes, which led to a deeper understanding of quantum field theory and to powerful new tools for computing [[quantum chromodynamics|QCD]] processes."<ref>{{cite web|url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Bern&first_nm=Zvi&year=2014|title=2014 J.J. Sakurai Prize for Theoretical Particle Physics Recipient, Zvi Bern|website=American Physical Society website}}</ref> In 2023, Bern and his collaborators David A Kosower and Lance J Dixon were awarded Galileo Galilei Medal from Italy's Instituto Nazionale di Fisica.<ref>{{cite web|url=https://newsroom.ucla.edu/dept/faculty/zvi-bern-receives-galileo-galilei-medal-2725252|title=Zvi Bern receives Galileo Galilei Medal}}</ref>
+
+Bern's [[Erdős number]] is three.<ref>{{cite web|url=http://www.pa.ucla.edu/directory/zvi-bern|title=Zvi Bern, UCLA Physics and Astronomy|access-date=2018-07-13|archive-date=2018-07-13|archive-url=https://web.archive.org/web/20180713043426/http://www.pa.ucla.edu/directory/zvi-bern|url-status=dead}}</ref>
+Currently, Bern is the director of the [[Mani Lal Bhaumik]] Institute for Theoretical Physics at UCLA, which aims to "provide an exceptional environment for excellence in theoretical physics research".<ref>{{cite web|url=http://newsroom.ucla.edu/releases/11-million-gift-establishes-mani-l-bhaumik-institute-for-theoretical-physics-at-ucla|title=UCLA Mani L. Bhaumik Institute}}</ref>
+
+He was elected a Member of the [[National Academy of Sciences]] in 2024.<ref>[https://web.archive.org/web/20240430193331/https://www.nasonline.org/news-and-multimedia/news/2024-nas-election.html nasonline.org]</ref>
+
+==Selected publications==
+* Bern, Dixon, Kosower "Quantum "Graviton" Particles May Resemble Ordinary Particles of Force", ''Scientific American'', May 2012
+* Bern, John Joseph Carrasco, Henrik Johansson [https://arxiv.org/abs/0902.3765 "Progress on UV Finiteness of Supergravity"], Erice Lectures 2008
+* Bern, Carrasco, Johansson [https://arxiv.org/abs/0805.3993 New Relations for Gauge Theory Amplitudes] Physical Review D, 78, 2008, 085011
+* Bern, Carrasco, Johansson [https://arxiv.org/abs/1004.0476 "Perturbative quantum gravity as a double copy of gauge theory"], 2010
+* Bern, Carrasco, Johansson [https://arxiv.org/abs/1007.4297 "The Structure of Multiloop Amplitudes in Gauge and Gravity Theories"], in ''Loops and Legs in Quantum Field Theory'', Woerlitz 2010, Nucl. Phys. Proc. Suppl. 205–206, 2010, pp.&nbsp;54–60]
+* {{cite journal | author = Bern Kosower | year = 1991| title = Efficient calculation of one-loop QCD amplitudes | journal = Phys. Rev. Lett. | volume = 66 | issue = 13| pages = 1669–1672 | doi = 10.1103/PhysRevLett.66.1669 | pmid = 10043277 | bibcode = 1991PhRvL..66.1669B}}
+* {{cite journal | author = Bern Dixon, Kosower  | year = 2007 | title = On-shell methods in perturbative QCD | journal = Annals of Physics | volume = 322 | issue = 7| pages = 1587–1634 | doi = 10.1016/j.aop.2007.04.014 | arxiv = 0704.2798 | bibcode = 2007AnPhy.322.1587B | s2cid = 16823365 }}
+* {{cite journal | author = Bern Dixon, Kosower  | year = 1996| title = Progress in 1 loop QCD computations | journal = [[Annual Review of Nuclear and Particle Science]] | volume = 46 | issue = 1| pages = 109–148 | doi = 10.1146/annurev.nucl.46.1.109| doi-access=free | arxiv = hep-ph/9602280| bibcode = 1996ARNPS..46..109B}}
+* Bern [https://arxiv.org/abs/gr-qc/0206071 "Perturbative Quantum Gravity and its relation to Gauge Theory"], ''Living Reviews of Relativity'', 2002
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite web|url=https://www.youtube.com/watch?v=3SYW6eZFHwU&feature=rec-LGOUT-exp_fresh+div-1+r-2-HM|date=24 February 2011|title=TEDxCaltech – Zvi Bern – Feynman Diagrams: Past, Present, Future|website=YouTube}}
+* {{cite web|title=Zvi Bern – Unexplained magic in gravity amplitudes|date=18 December 2015|url=https://www.youtube.com/watch?v=prCm7GyGyho|website=YouTube}}
+* {{cite web|url=https://www.youtube.com/watch?v=-G2arx0urRU|title=Zvi Bern: Do I have to draw you a diagram? A tale of quantum gravity|date=3 January 2018|website=YouTube}}
+* {{cite web|title=Through the Wormhole – What Golf Balls Can Teach Us About Quantum Mechanics|url=https://www.aol.com/video/view/through-the-wormhole-what-golf-balls-can-teach-us-about-quantum-mechanics/55420d91e4b042cdf5e7d298/|website=AOL}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bern, Zvi}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:MIT School of Science alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:American particle physicists]]
+[[Category:21st-century American physicists]]
+[[Category:J. J. Sakurai Prize for Theoretical Particle Physics recipients]]
+[[Category:Members of the United States National Academy of Sciences]]

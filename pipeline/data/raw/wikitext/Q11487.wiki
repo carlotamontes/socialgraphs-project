@@ -1,0 +1,106 @@
+{{short description|American computer scientist and mathematician}}
+{{Use MDY dates|date= September 2026}}
+{{Infobox scientist
+| name = Jennifer Tour Chayes
+| image = Jennifer Chayes in 2026.jpg
+| caption = Chayes in 2026
+| birth_date = {{birthdateandage|September 20, 1956}}<ref>{{Cite web|url=https://www.wikidata.org/wiki/Q11487|title=Jennifer Tour Chayes|website=www.wikidata.org}}</ref>
+| birth_place = [[New York City]], [[New York (state)|New York]], U.S.<ref name="cv">{{cite web | url = http://research.microsoft.com/en-us/um/people/jchayes/CV/chayes-cv.pdf | title = Jennifer Tour Chayes CURRICULUM VITAE | publisher = Microsoft Research | date = April 2014 | access-date = June 4, 2014}}</ref>
+| death_date = 
+| death_place = 
+| field = [[Physics]]<br />[[Mathematics]]<br />[[Theoretical computer science]]
+| workplaces = [[University of California, Berkeley|UC Berkeley]]<br />[[Microsoft Research New England]]<br />Microsoft Research New York City<br />[[UCLA]]<br />[[Cornell University]]<br />[[Harvard University]]
+| education = [[Wesleyan University]] ([[Bachelor of Science|BS]])<br />[[Princeton University]] ([[Master of Science|MS]], [[Doctor of Philosophy|PhD]])
+| doctoral_advisor = [[Elliott H. Lieb]]<br />[[Michael Aizenman]]
+| doctoral_students = 
+| thesis_title = The Inverse Problem, Plaquette Percolation and a Generalized Potts Model
+| thesis_year = 1983
+| thesis_url = https://www.proquest.com/docview/303280355
+| known_for = [[Phase transitions]]<br />[[Discrete mathematics]]<br />[[Graph theory]]<br />[[Game theory]] <br />[[Network theory]]
+| spouse = [[Christian Borgs]]
+}}
+'''Jennifer Tour Chayes''' is dean of the college of computing, data science, and society at the [[University of California, Berkeley]]. Before joining Berkeley, she was a technical fellow and managing director of [[Microsoft Research New England]] in Cambridge, Massachusetts, which she founded in 2008, and Microsoft Research New York City, which she founded in 2012.<ref name="cv"/>
+
+Chayes is best known for her work on [[phase transitions]] in discrete mathematics and computer science, structural and dynamical properties of [[self-organization|self-engineered]] networks, and [[algorithmic game theory]]. She is considered one of the world's experts in the modeling and analysis of dynamically growing graphs.<ref name="Pickering">[http://www.bizjournals.com/boston/blog/mass-high-tech/2012/04/2012-women-to-watch-jennifer-chayes.html 2012 Women to Watch: Jennifer Chayes], Massachusetts High Tech. By Scott Pickering. April 20, 2012. Retrieved May 6, 2012.</ref>
+
+Chayes joined Microsoft Research in 1997, when she co-founded the Theory Group. She received her Ph.D. in mathematical physics at [[Princeton University]] in 1983. She is affiliate professor of mathematics and physics at the [[University of Washington]], and was a professor of mathematics at the [[University of California, Los Angeles]] from 1987 to 2001. She is an author on almost 120 scientific papers and the inventor on more than 25 patents.
+
+==Early life and education==
+Chayes was born in [[New York City]]<ref name="cv" /> and grew up in [[White Plains, New York]], the child of Iranian immigrants.  She received her B.A. in [[Biology]] and [[Physics]] from [[Wesleyan University]] in 1979 where she graduated first in her class. She received her Ph.D. in Mathematical Physics at Princeton University. She did her postdoctoral work in the Mathematics and Physics departments at [[Harvard University|Harvard]] and [[Cornell University|Cornell]].
+
+==Career ==
+She became a tenured mathematics professor at UCLA in 1987. While she was on sabbatical at the [[Institute for Advanced Study]] in 1997, [[Microsoft]] [[Chief technology officer|CTO]] [[Nathan Myhrvold]], a classmate of Chayes's from Princeton, asked her to start and lead the Theory Group at [[Microsoft Research Redmond]].<ref name="Wesleyan">{{cite web|title=Lab of Ideas|url=http://magazine.wesleyan.edu/2010/06/15/lab-of-ideas/|website=Wesleyan Magazine|access-date=26 April 2017|date=15 June 2010}}</ref> The Theory Group analyzes fundamental questions in theoretical computer science using techniques from statistical physics and discrete mathematics. Chayes opened [[Microsoft Research New England]] in July 2008 with Borgs. The lab is located at the Microsoft New England Research & Development Center and is pursuing new, interdisciplinary areas of research that bring together core computer scientists and social scientists to understand, model, and enable future computing and online experiences.<ref name="Pickering" />  On May 3, 2012, ''[[The New York Times]]'' reported, "Microsoft is opening a research lab in New York City…" which Chayes will co-manage.<ref>[http://bits.blogs.nytimes.com/2012/05/03/microsoft-taps-yahoo-scientists-for-new-york-research-lab/ Microsoft Taps Yahoo Scientists for New York Research Lab], NYT. By Steve Lohr. Fifth, tenth and eleventh paragraphs. Retrieved 3 May 2012.</ref><ref>[http://www.csoonline.com/article/705580/microsoft-opens-new-york-research-lab-hires-mainly-Yahoo-researchers Microsoft Opens New York Research Lab, Hires Mainly Yahoo Researchers] {{Webarchive|url=https://web.archive.org/web/20120511032945/http://www.csoonline.com/article/705580/microsoft-opens-new-york-research-lab-hires-mainly-yahoo-researchers |date=2012-05-11 }}, CSO. By John Ribeiro. 3 May 2012. Retrieved 3 May 2012.</ref>  The new lab also brings together computer scientists and social scientists, particularly in the areas of economics, computational and behavioral social sciences, and machine learning.
+
+Prior to joining Berkeley, Chayes was Managing Director of both [[Microsoft Research New England]] and Microsoft Research New York City. She has contributed to the development of methods to analyze the structure and behavior of various networks, the design of [[auction algorithm]]s, and the design and analysis of various business models for the online world. She also served on the Mathematical Sciences jury for the [[Infosys Prize]] from 2016 to 2018.
+
+==Affiliations==
+Chayes serves on numerous institute boards, advisory committees and editorial boards, including the [[Turing Award]] Selection Committee of the [[Association for Computing Machinery]], the board of trustees of the [[Mathematical Sciences Research Institute]] and the [[Institute for Computational and Experimental Research in Mathematics]], the Advisory Boards of the Center for Discrete Mathematics and Computer Science, the Howard Hughes Medical Institute Janelia Farm Research Campus, and Women Entrepreneurs in Science and Technology.  Chayes is a past chair of the Mathematics Section of the [[American Association for the Advancement of Science]], and a past vice-president of the American Mathematical Society.  She is the recipient of a [[National Science Foundation]] Postdoctoral Fellowship, a [[Sloan Fellowship]], and the UCLA Distinguished Teaching Award.<ref>{{citation |author=B. Bollobas |author2=C. Borgs |author3=J. Chayes |author4=J.H. Kim |author5=D.B. Wilson |date=May 2001 |journal=Random Structures and Algorithms |volume=18 |issue=3 |pages=201–256 |title=The scaling window of the 2-SAT transition |doi=10.1002/rsa.1006|arxiv=math/9909031 |s2cid=9954684 }}</ref><ref name="Chayes2007">{{citation |last1=Chayes |first1=Jennifer |author2=N. Berger |author3=C. Borgs |author4=R. D'Souza |author5=R. D. Kleinberg |year=2007 |journal=Proceedings of the National Academy of Sciences |volume=104 |pages=6112–6117 |title=Emergence of tempered preferential attachment from optimization|issue=15 |doi=10.1073/pnas.0606779104 |pmid=17395721 |pmc=1839059 |doi-access=free }}</ref><ref>{{cite book |last1=Chayes |first1=Jennifer |author2=R. Andersen |author3=C. Borgs |author4=U.Feige |author5=A. Flaxman |author6=A. Kalai |author7=V. Mirrokni |author8=M. Tennenholtz |year=2008 |title=Proceedings of the 17th international conference on World Wide Web (WWW) |chapter=Trust-based recommendation systems: An axiomatic approach}}</ref><ref>{{citation |last1=Chayes |first1=Jennifer |author2=M. Biskup |author3=C. Borgs |author4=L. Kleinwaks |author5=Kotecky |year=2004 |journal=Communications in Mathematical Physics |volume=251 |issue=1 |pages=79–131 |title=Partition function zeros at first-order phase transitions: A general analysis|arxiv=math-ph/0304007 |bibcode=2004CMaPh.251...79B |doi=10.1007/s00220-004-1169-5 |s2cid=15230349 }}</ref>
+
+Chayes is a Fellow of the American Association for the Advancement of Science, the [[Fields Institute]], the Association for Computing Machinery, and the [[American Mathematical Society]], as well as a National Associate of the National Academies. The [[Association for Women in Mathematics]] has included her in the 2020 class of AWM Fellows for "pioneering the way for women in the mathematical sciences to have leading technical roles in the high-tech industry; for extraordinary leadership and mentoring on behalf of women in the mathematical sciences".<ref>{{citation|url=https://awm-math.org/awards/awm-fellows/2020-awm-fellows/|title=2020 Class of AWM Fellows|publisher=[[Association for Women in Mathematics]]|access-date=2019-11-08}}</ref>  She has been the recipient of many leadership awards, including one of the 2012 [[Anita Borg Institute Women of Vision Awards]]. In 2019 she was elected to the National Academy of Sciences.<ref name="NAS">{{citation|url=http://www.nasonline.org/news-and-multimedia/news/2019-nas-election.html|archive-url=https://web.archive.org/web/20190430143122/http://www.nasonline.org/news-and-multimedia/news/2019-nas-election.html|url-status=dead|archive-date=April 30, 2019|work=News from the National Academy of Sciences|title=National Academy of Sciences Elects Members and Foreign Associates; Historic Number of Women Elected to Its Membership|date=May 2, 2019}}</ref>
+
+Chayes is featured in the Notable Women in Computing cards.<ref>{{Cite web| title = Notable Women in Computing| url = http://www.cs.duke.edu/csed/wikipedia/cards.html}}</ref>
+
+==Awards and honors==
+* [[Sloan Research Fellowship|Alfred P. Sloan Foundation Research Fellowship]] (1989){{Citation needed|date=December 2020}}
+* Member of [[Institute for Advanced Study]], Princeton, NJ (1994–95, 1997)
+* [[Invited speaker at the International Congress of Mathematicians|Invited Speaker]] at the [[International Congress of Mathematicians]] (1998)<ref>{{cite book|author=Chayes, Jennifer T.|chapter=Finite-size scaling in percolation|title=Doc. Math. (Bielefeld) Extra Vol. ICM Berlin, 1998, vol. III|year=1998|pages=113–122|chapter-url=https://www.elibm.org/ft/10011569000}}</ref>
+* [[American Association for the Advancement of Science]] Fellow (2006)
+* [[Association for Computing Machinery]] Fellow (2010)<ref>[http://www.acm.org/press-room/news-releases/2010/fellows-2010 ACM Names 41 Fellows from World's Leading Institutions: Many Innovations Made in Areas Critical to Global Competitiveness] {{webarchive|url=https://web.archive.org/web/20120428113630/http://www.acm.org/press-room/news-releases/2010/fellows-2010 |date=2012-04-28 }}, ACM, December 7, 2010, retrieved 2011-11-20.</ref>
+* [[American Mathematical Society]] Fellow (2012)<ref>[https://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2012-11-10.</ref> 
+* [[Anita Borg Institute Women of Vision Awards|Anita Borg Institute Women of Vision Award]] (2012)<ref>[https://www.pinterest.com/pin/199917670929069192/?autologin=true.  Jennifer Chayes, 2012 Winner of the ABIE Award Winner for Leadership], retrieved 2020-11-23</ref>
+* [[Society for Industrial and Applied Mathematics]] [[John von Neumann Lecture|John von Neumann Lecture Prize]] (2015)
+* [[Leiden University]] honorary doctorate (2016)<ref>[https://www.universiteitleiden.nl/en/news/2015/11/microsoft-researcher-tour-chayes-to-be-awarded-honorary-doctorate-at-dies-natalis University of Leiden news] retrieved 2017-06-26</ref>
+*[[National Academy of Sciences]] member (2019)<ref name="NAS" />
+
+==Personal life==
+Chayes married [[Christian Borgs]] in 1993 and was previously married to Lincoln Chayes whom she met at Wesleyan.<ref name="d292">{{cite web | title=Interview with Jennifer Chayes | url=https://www.ams.org/journals/notices/202203/rnoti-p403.pdf }}</ref>{{citation needed|date=February 2024}}
+
+== See also ==
+* [[VinFuture]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://research.microsoft.com/en-us/um/people/jchayes/ Jennifer Tour Chayes homepage]
+
+{{John von Neumann Lecturers}}
+{{Game theory}}
+{{Microsoft Research}}
+{{Authority control}}
+
+{{DEFAULTSORT:Chayes, Jennifer Tour}}
+[[Category:21st-century American physicists]]
+[[Category:American theoretical computer scientists]]
+[[Category:American women computer scientists]]
+[[Category:American computer scientists]]
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Cornell University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Microsoft employees]]
+[[Category:Microsoft Research people]]
+[[Category:Microsoft technical fellows]]
+[[Category:People from White Plains, New York]]
+[[Category:Princeton University alumni]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:University of Washington faculty]]
+[[Category:Wesleyan University alumni]]
+[[Category:Scientists from New York (state)]]
+[[Category:20th-century American mathematicians]]
+[[Category:20th-century American women mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:21st-century American women mathematicians]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the Association for Women in Mathematics]]
+[[Category:American game theorists]]
+[[Category:Sloan Research Fellows]]
+[[Category:American people of Iranian descent]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:21st-century American women physicists]]
+[[Category:20th-century American women physicists]]
+[[Category:20th-century American physicists]]
+[[Category:VinFuture Prize]]

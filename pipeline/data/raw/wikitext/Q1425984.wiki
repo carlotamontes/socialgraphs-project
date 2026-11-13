@@ -1,0 +1,80 @@
+{{Short description|British mathematical physicist}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox scientist
+|name = Richard Samuel Ward
+|birth_date = {{birth date and age|1951|09|06|df=y}}<ref name="whoswho">{{Who's Who | title=WARD, Prof. Richard Samuel | id = U45589 | volume = 2016 | edition = online [[Oxford University Press]]|location=Oxford}}</ref>
+| fields            = {{plainlist |
+* [[Mathematical physics]]
+* [[Theoretical physics]]
+}}
+|known_for = [[Ward construction]]<ref>{{Cite journal|last=Ward|first=R. S.|author-link=Richard S. Ward|title=On self-dual gauge fields|journal=Physics Letters A|volume=61|issue=2|pages=81–82|doi=10.1016/0375-9601(77)90842-8|year=1977|bibcode=1977PhLA...61...81W}}</ref><br>[[Ward's conjecture]]<br>[[Twistor correspondence|Penrose–Ward correspondence]]<br>[[Penrose–Ward transform]]
+|workplaces = [[University of Durham]]
+|education = {{Plainlist|class=nowrap|
+*[[Rhodes University]] (BSc, MSc)<ref name="whoswho" />
+*[[University of Oxford]] (DPhil)<ref name="MGP">{{MathGenealogy|id=14162|name=Richard S. Ward}}</ref>
+}}
+|doctoral_advisor = [[Roger Penrose]]<ref name="MGP"/>
+|website = {{URL|http://www.maths.dur.ac.uk/~dma0rsw/ }}
+|doctoral_students = [[Paul Sutcliffe]]
+|awards = {{Nowrap|[[Whitehead Prize]] (1989) <br> [[Fellow of the Royal Society]] (2005)}}
+}}
+
+'''Richard Samuel Ward''' [[Fellow of the Royal Society|FRS]] (born 6 September 1951) is a British [[mathematical physics|mathematical physicist]]. He is a Professor of Mathematical & Theoretical Particle Physics at the [[University of Durham]].<ref>[https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=481 Staff profile], University of Durham, retrieved May 14, 2022.</ref>
+
+== Work ==
+Ward earned his Ph.D. from the [[University of Oxford]] in 1977, under the supervision of [[Roger Penrose]]. He is most famous for his extension of Penrose's [[twistor theory]] to nonlinear cases, which he with [[Michael Atiyah]] used to describe [[instanton]]s by vector bundles on the three-dimensional complex [[projective space]]. He has related interests in the theory of [[Monopole (mathematics)|monopoles]], [[topological]] [[solitons]] and [[skyrmions]].
+
+==Honors and awards==
+Ward was awarded the [[Whitehead Prize]] in 1989 for his work in mathematical physics.<ref>[https://web.archive.org/web/20160328124644/http://blms.oxfordjournals.org/content/22/1/109.full.pdf Bulletin of the London Mathematical Society], retrieved 2016-02-27.</ref> He was elected as a fellow of the Royal Society of London in 2005.<ref>[https://www.ams.org/notices/200508/people.pdf Notices of the AMS - Sept 2005] [[American Mathematical Society]]</ref> His certificate of election reads: {{centered pull quote|Richard Ward is distinguished for pioneering and elegant research in mathematical physics. He adapted the [[twistor transform]] to the [[Duality (mathematics)|self-dual]] [[Yang–Mills theory|Yang-Mills]] (SDYM) equation, and with Atiyah constructed general multi-instanton solutions. His discovery of the toroidal [[BPS monopole|BPS two-monopole]] was a breakthrough in [[soliton]] theory. He showed that virtually all known [[Integrable system|integrable equations]] arise from SDYM by dimensional and algebraic reductions, allowing a unified solution method. Ward's twistor transform of SDYM, applied to [[string theory]], is leading to striking progress in quantum Yang-Mills theory.<ref name="frsCitation">{{cite web|url=https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Catalog&id=EC%2F2005%2F41|title=Ward, Richard Samuel: certificate of election to the Royal Society|publisher=[[The Royal Society]]|accessdate=20 December 2025 }}</ref>}}
+
+==Bibliography==
+
+===Books===
+* [https://books.google.com/books?id=_VDrKu4tvVsC ''Twistor geometry and field theory''] (with [[Raymond O. Wells Jr]]), Cambridge University Press 1990
+* [https://books.google.com/books?id=DIBpAgAAQBAJ ''Integrable systems: twistors, loop groups, and Riemann surfaces''] (with [[Nigel Hitchin]], [[Graeme Segal]]), Oxford, Clarendon Press 1999
+
+===Selected academic works===
+*{{citation
+ | last1 = Ward | first1 = R.S.
+ | doi = 10.1016/0375-9601(77)90842-8
+ | issue = 2
+ | journal = [[Physics Letters A]]
+ | mr = 0443823
+ | pages = 81–82
+ | title = On self-dual gauge fields
+ | volume = 61
+ | year = 1977| bibcode = 1977PhLA...61...81W
+ }}.
+*{{citation
+ | last1 = Atiyah | first1 = M.F. | author1-link = Michael_Atiyah
+ | last2 = Ward | first2 = R.S. 
+ | doi = 10.1007/BF01626514
+ | issue = 2
+ | volume = 55
+ | pages = 117–124
+ | journal = [[Communications in Mathematical Physics]]
+ | title = Instantons and algebraic geometry
+ | year = 1977| bibcode = 1977CMaPh..55..117A | s2cid = 121880030 | url = http://projecteuclid.org/euclid.cmp/1103900980 | url-access = subscription}}.
+*{{citation
+ | last1 = Ward | first1 = R.S.
+ | last2 = Tabor | first2 = M.
+ | doi = 10.1098/rsta.1985.0051
+ | issue = 1533
+ | volume = 315
+ | pages = 451–457
+ | journal = [[Philosophical Transactions of the Royal Society of London A]]
+ | title = Integrable and solvable systems, and relations among them 
+ | year = 1985| bibcode = 1985RSPTA.315..451W
+ | s2cid = 123659512
+ }}.
+
+==References==
+{{Reflist}}
+
+{{FRS 2005}}
+{{Authority control}}
+{{DEFAULTSORT:Ward, Richard S.}}
+[[Category:Academics of Durham University]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Living people]]
+[[Category:1951 births]]

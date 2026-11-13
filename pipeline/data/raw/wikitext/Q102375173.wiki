@@ -1,0 +1,172 @@
+{{Short description|British astronomer (1937–2022)}}
+{{Infobox scientist
+| name              = Thomas Gould Phillips
+| honorific_suffix  = 
+| birth_name        = 
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date|df=yes|1937|04|18}}
+| birth_place       = [[Watford]], UK<ref name="LATObit"/>
+| death_date        = 6 August 2022 (aged 85)<ref name="BAASObit"/>
+| death_place       = [[Pasadena, California]], USA<ref name="LATObit"/>
+| field             = [[Physics]], [[Astronomy]]
+| workplaces        = [[Bell Labs]], [[California Institute of Technology]]<ref name="BAASObit"/>
+| education         = [[University of Oxford]]
+| doctoral_advisor  = [[Harold Max Rosenberg]]
+| doctoral_students = [[Elliott R. Brown]], [[Tom Buttgenbach]], [[Robert J. Schoelkopf]]
+| thesis_title      = Experiments with spin waves and phonons at microwave frequencies
+| thesis_year       = 1964
+| thesis_url        = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| website           = 
+| religion          = 
+| footnotes         = 
+| children          = [[Claire Phillips (author)]], [[Stephen Phillips (architect)]]
+| signature         = 
+}}
+
+'''Thomas Gould Phillips''' was a British-born physicist, who worked primarily in the United States.  He was a pioneer in the field of [[submillimeter astronomy]], who both developed new instrumentation and made ground-breaking observations.<ref name="BAASObit"/> He oversaw the construction of, and was the first and longest-serving director of the [[Caltech Submillimeter Observatory]].<ref name="Steiger"/>
+
+==Early career==
+After completing his doctorate at [[Oxford University]] in 1964, Phillips was a research associate at [[Stanford University]] for one year.<ref name="BAASObit"/>  He returned to Oxford, serving as a lecturer for two years.<ref name="THzObit"/>
+
+In 1968, Phiilips moved to [[Bell Labs]], where he worked down the hallway from [[Arno Allan Penzias|Arno Penzias]] and [[Robert Woodrow Wilson|Robert Wilson]]. After Phillips attended a talk by Penzias about the recent (1970) detection of [[carbon monoxide|CO]] in the [[Orion Nebula]], Penzias challenged Phillips to build a more sensitive receiver for millimeter astronomy.<ref name="Siegel2012"/> Phillips set about doing so, and in 1973 he made the first Indium Antimonide (InSb) hot electron [[bolometer]] [[Superheterodyne receiver|heterodyne receiver]] used for astronomical observations.<ref name="Phillips1973A"/><ref name="Phillips1973B"/> The receiver had a [[noise temperature]] three times lower than the [[Schottky diode]] receivers Wilson and Penzias had used to detect CO,<ref name="1970Wilson"/> and because the receiver also required less [[local oscillator]] power, it held the potential to be usable at higher frequencies.<ref name="Siegel2012"/> A few years later, Phillips was able to get the receiver to operate at 346&nbsp;GHz, in the submillimeter wavelength regime. Because no [[radio telescope]]s could operate at such a high frequency, he used it on the [[Hale Telescope]], an optical telescope with a surface accuracy more than sufficient for submillimeter observations.<ref name="Phillips1977"/> By 1980, Phillips' InSb receiver could operate at 492&nbsp;GHz, and with it mounted on the [[Kuiper Airborne Observatory]], the <sup>3</sup>P<sub>1</sub>{{char|—}}<sup>3</sup>P<sub>0</sub> [[fine structure]] line of neutral atomic carbon was detected in the [[interstellar medium]].<ref name="Phillips1980"/>
+
+==Caltech==
+Phillips arrived at [[California Institute of Technology|Caltech]] in 1978, as a visiting associate. He joined Caltech's faculty as a professor of physics in 1979.<ref name="BAASObit"/>
+
+By the late 1970s, Phillips had begun exploring a new receiver technology, the [[Superconducting tunnel junction|SIS]] receiver, whose optimization would occupy him for the next few decades.<ref name="Phillips1982"/><ref name="Siegel2012"/> In this same time period, Caltech was building a millimeter-wave interferometer at the [[Owens Valley Radio Observatory]] (OVRO), consisting of three (initially - later six)  [[Leighton Radio Telescopes|Leighton antennas]]. Phillips was made the director of OVRO during the period that the interferometer was made operational.<ref name="Siegel2012"/><ref name="Steiger"/>
+
+The OVRO site was not good enough to allow submillimeter observations most of the time, so in 1980, Phillips began the process of getting permits and funding to move a Leighton antenna to [[Mauna Kea Observatories|Mauna Kea]], a site high enough to allow submillimeter work.<ref name="Steiger"/> As a result, the [[Caltech Submillimeter Observatory]] was constructed on Mauna Kea, and Phillips served as its first director.
+
+Phillips spent decades working with NASA to launch a space-based submillimeter observatory.<ref name="Siegel2012"/> Eventually US and European efforts to produce such an instrument were merged, and Phillips became the co-Principal Investigator for the HIFI receiver on the [[Herschel Space Observatory]].<ref name="HIFI"/>
+
+==Awards and honors==
+*1975 - Fellow of American Physical Society (APS)<ref name="APS1975"/>
+*2004 - Joseph Weber Award for Astronomical Instrumentation<ref name="Weber"/>
+*2010 - [[NASA Exceptional Public Service Medal]]<ref name="BAASObit"/>
+*2014 - [[Honorary degree|''Doctor Honoris Causa'']] from [[Paris Observatory]]<ref name="OdP"/>
+
+==External links==
+* [https://www.youtube.com/watch?v=x3S0C87JIHU Tom Phillips discusses the origins of astrochemistry]
+
+
+==References==
+<references>
+
+<ref name="BAASObit">{{cite journal
+ | last1=Clavin | first1=Whitney
+ | title=Obituary: Thomas G. Phillips (1937-2022)
+ | journal=Bulletin of the American Astronomical Society
+ | date=August 2022 | volume=54 | doi=10.3847/25c2cfeb.f81cdc99
+ | url=https://baas.aas.org/pub/2022i059/release/1 | access-date=9 February 2023| doi-access=free}}</ref>
+
+<ref name="LATObit">{{cite news
+ | title=Thomas G. Phillips
+ | url=https://www.newspapers.com/image/867364135/?article=56174674-95d0-4ebd-94b0-c03204226050
+ | access-date=9 February 2023 | work=Los Angeles Times
+ | publisher=Los Angeles Times Communications LLC | date=August 14, 2022}}</ref>
+
+<ref name="APS1975">{{cite web
+ | title=APS Fellow Archive
+ | url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=1975&unit_id=&institution=
+ | website=APS Fellow Archive
+ | publisher=American Physical Society | access-date=9 February 2023}}</ref>
+
+<ref name="Steiger">{{cite web
+ | last1=Steiger | first1=Walter R.
+ | title=A Brief History of the Caltech Submillimeter Observatory
+ | url=http://www.cso.caltech.edu/outreach/log/CSO_History/
+ | publisher=California Institute of Technology | access-date=9 February 2023}}</ref>
+
+<ref name="Weber">{{cite web
+ | title=Joseph Weber Award for Astronomical Instrumentation
+ | url=https://aas.org/grants-and-prizes/joseph-weber-award-astronomical-instrumentation
+ | website=Joseph Weber Award for Astronomical Instrumentation
+ | publisher=American Astronomical Society | access-date=9 February 2023}}</ref>
+
+<ref name="OdP">{{cite web
+ | title=The Paris Observatory awards its Doctor Honoris Causa for 2014
+ | url=https://www.observatoiredeparis.psl.eu/spip.php?page=imprimer&id_article=3072&lang=fr
+ | website=Centre de recherche en astronomie et astrophysique
+ | publisher=Observatoire de Paris | access-date=9 February 2023}}</ref>
+
+<ref name="THzObit">{{cite web
+ | title=Thomas G. Phillips | url=https://www.irmmw-thz.org/memorials/ | website=Memorials
+ | publisher=The International Society of Infrared, Millimeter, and Terahertz Waves
+ | access-date=9 February 2023}}</ref>
+
+<ref name="Phillips1973A">{{cite journal
+ | last1=Phillips | first1=T. G. | last2=Jefferts | first2=K. B.
+ | title=A low temperature bolometer heterodyne receiver for millimeter wave astronomy
+ | journal=Review of Scientific Instruments | date=August 1973 | volume=44
+ | pages=1009–1014 | doi=10.1063/1.1686288 | bibcode=1973RScI...44.1009P
+ | url=https://aip.scitation.org/doi/10.1063/1.1686288 | access-date=9 February 2023| url-access=subscription }}</ref>
+
+<ref name="Phillips1973B">{{cite journal
+ | last1=Phillips | first1=T. G. | last2=Jefferts | first2=K. B.
+ | last3=Wannier | first3=P. G.
+ | title=Observation of the J = 2 TO J = 1 Transition of Interstellar CO at 1.3 Millimeters
+ | journal=Astrophysical Journal | date=November 1973 | volume=186 | pages=L19-L22
+ | doi=10.1086/181348 | bibcode=1973ApJ...186L..19P
+ | url=https://articles.adsabs.harvard.edu/pdf/1973ApJ...186L..19P | access-date=9 February 2023}}</ref>
+
+<ref name="Phillips1977">{{cite journal
+ | last1=Phillips | first1=T. G. | last2=Huggins | first2=P. J.
+ | last3=Neugebauer | first3=G. | last4=Werner | first4=M. W.
+ | title=Detection of submillimeter (870 µm) CO emission from the Orion molecular cloud
+ | journal=Astrophysical Journal Letters | date=November 1977 | volume=217 | pages=L161-L164
+ | doi=10.1086/182561 | bibcode=1977ApJ...217L.161P
+ | url=https://articles.adsabs.harvard.edu/pdf/1977ApJ...217L.161P
+ | access-date=10 February 2023}}</ref>
+
+<ref name="Phillips1980">{{cite journal
+ | last1=Phillips | first1=T. G. | last2=Huggins | first2=P. J.
+ | last3=Kuiper | first3=T. B. H. | last4=Miller | first4=R. E.
+ | title=Detection of the 610 micron (492 GHz) line of interstellar atomic carbon
+ | journal=Astrophysical Journal Letters | date=June 1980 | pages=L103-L106
+ | doi=10.1086/183267 | bibcode=1980ApJ...238L.103P
+ | url=https://ui.adsabs.harvard.edu/abs/1980ApJ...238L.103P | access-date=10 February 2023| doi-access=free }}</ref>
+
+<ref name="Phillips1982">{{cite journal
+ | last1=Phillips | first1=T. G. | last2=Woody | first2=D. P.
+ | title=Millimeter- and submillimeter-wave receivers
+ | journal=Annual Review of Astronomy and Astrophysics
+ | date=1982 | volume=20 | pages=285–321
+ | doi=10.1146/annurev.aa.20.090182.001441 | bibcode=1982ARA&A..20..285P
+ | url=https://ui.adsabs.harvard.edu/abs/1982ARA&A..20..285P | access-date=10 February 2023}}</ref>
+
+<ref name="Siegel2012">{{cite journal
+ | last1=Siegel | first1=Peter H.
+ | title=Terahertz Pioneer: Thomas G. Phillips "The Sky Above, the Mountain Below"
+ | journal=IEEE Transactions on Terahertz Science and Technology
+ | date=2012 | volume=99 | pages=1–7 | doi=10.1109/TTHZ.2012.2211353
+ | url=https://resolver.caltech.edu/CaltechAUTHORS:20120828-152035004
+ | access-date=10 February 2023}}</ref>
+
+<ref name="1970Wilson">{{cite journal
+ | last1=Wilson | first1=R. W. | last2=Jefferts | first2=K. B.
+ | last3=Penzias | first3=A. A.
+ | title=Carbon Monoxide in the Orion Nebula
+ | journal=Astrophysical Journal | date=July 1970 | volume=161 | pages=L43-L44
+ | doi=10.1086/180567 | bibcode=1970ApJ...161L..43W
+ | url=https://articles.adsabs.harvard.edu/pdf/1970ApJ...161L..43W
+ | access-date=10 February 2023| doi-access=free }}</ref>
+
+<ref name="HIFI">{{cite web |title=Herschel Science Team |url=https://www.cosmos.esa.int/web/herschel/science-team |publisher=European Space Agency |access-date=18 February 2023}}</ref>
+
+</references>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Phillips, Thomas G.}}
+[[Category:1937 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century British astronomers]]
+[[Category:21st-century British astronomers]]
+[[Category:People from Watford]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Fellows of the American Physical Society]]

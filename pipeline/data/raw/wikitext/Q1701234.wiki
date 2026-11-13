@@ -1,0 +1,113 @@
+{{short description|American physicist (born 1930)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = John Hopkin Nuckolls
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|1930|11|17}}
+| birth_place       = [[Chicago, Illinois]]
+| death_date        = <!-- {{death date and age |YYYY|MM|DD |YYYY|MM|DD}} -->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = 
+| fields            = [[Plasma physics]]
+| workplaces        = [[Lawrence Livermore National Laboratory]]
+| patrons           = 
+| education         = [[Wheaton College (Massachusetts)|Wheaton College]] (B.S.) <br> [[Columbia University]] (M.S.)
+| alma_mater        = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = {{plainlist|
+* [[Ernest Orlando Lawrence Award|E. O. Lawrence Award]] (1969)
+* [[James Clerk Maxwell Prize for Plasma Physics]] (1981)
+* [[Edward Teller Award]] (1991)
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           =
+| footnotes         = 
+}}
+'''John Hopkin Nuckolls''' (born 17 November 1930) is an American [[physicist]] who worked his entire career at the [[Lawrence Livermore National Laboratory]]. He is best known for the development of [[inertial confinement fusion]], which is a major branch of [[fusion power]] research to this day. He was also the lab's director from 1988 until 1994, when he resigned to become an associate director at large. He was awarded the [[Ernest Orlando Lawrence Award]] in 1969, the [[James Clerk Maxwell Prize for Plasma Physics]] in 1981, the [[Edward Teller Award]] in 1991,<ref>{{Cite web|url=http://www.ans.org/honors/recipients/va-teller|title=ANS / Honors and Awards / Recipients / Edward Teller Award|website=www.ans.org|access-date=2020-02-29}}</ref> the Department of Energy Distinguished Associate Award in 1995, the Lifetime Achievement Award in 1996 by Fusion Power Associates, the Secretary of Defense Medal for Outstanding Public Service in 1996, and the [[Enrico Fermi Presidential Award]] in 2024.
+
+==Career==
+Nuckolls was born 17 November 1930 in [[Chicago, Il]]. He received his BSc from [[Wheaton College (Illinois)|Wheaton College]] in 1953, and his MSc from [[Columbia University]] in 1955. Nuckolls joined what was then the Lawrence Radiation Laboratory immediately after graduation in 1955, only three years after the lab's formation. He initially worked in "A Division", responsible for [[nuclear weapon]] design.{{sfn|Nuckolls}}{{sfn|Frammolino|1994}} Nuckolls began work on weapon designs that minimized the amount of fission and maximized the fusion, in order to reduce the radioactive byproducts of peaceful explosions. It was this work that won him the Lawrence Award.<ref>{{cite web |url=https://science.energy.gov/lawrence/award-laureates/1960s/nuckolls/ |title=The Ernest Orlando Lawrence Award: John Nuckolls, 1969 |website=Office of Science, US Department of Energy}}</ref>
+
+Among Project Plowshare's (the peaceful use of nuclear explosives) many concepts was a 1957 predecessor to [[Project PACER]], which intended to produce electrical power from the explosions of nuclear weapons in caverns. Nuckolls was struck by the huge size of the caverns needed to contain the explosions and the accumulation of fissile material from exploded primaries that would render them highly radioactive. He began to wonder if these problems could be solved by scaling down the explosions. The secondary relies on neutrons to carry out a chain reaction that converts [[lithium deuteride]] (LiD) into [[deuterium]] and [[tritium]] which then undergoes fusion. The fusion releases neutrons which continue the reaction, but to get the reaction going some external source is needed. However, if the LiD fuel is replaced by "raw" deuterium and tritium, the initial source of neutrons is not needed. In that case, there is no lower limit to the size of the secondary.{{sfn|Nuckolls|1998|p=1-2}}
+
+The limiting factor in that case is the size of the primary, which cannot be made much smaller than [[critical mass]]. Nuckolls noticed that as the secondary became very small, on the order of milligrams, the energy needed to start the reaction began to fall into the kilojoule range. At that point, a nuclear primary would not be needed, there were a variety of devices that could produce that amount of energy.{{sfn|Nuckolls|1998|p=2}} The demonstration of the first [[laser]] in 1960 provided the right mix of features to be a potential ''driver'' for these reactions.{{sfn|Nuckolls|1998|p=4}} As these improved, in the late 1960s Nuckolls led an effort to characterize this inertial approach to fusion, much of which was revealed in a 1972 article in ''[[Nature (journal)|Nature]]''.<ref>{{cite journal |first1=John |last1=Nuckolls |first2=Lowell |last2=Wood |first3=Albert |last3=Thiessen |first4=George |last4=Zimmerman |title=Laser compression of matter to super high densities: thermonuclear applications |journal=Nature |volume=239 |pages=139–142 |date=15 September 1972 |issue=5368 |doi=10.1038/239139a0|bibcode=1972Natur.239..139N |s2cid=45684425 }}</ref> It was this work that won him the James Clerk Maxwell Award in 1981.<ref>{{cite web |url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Nuckolls&first_nm=John&year=1981 |title=1981 James Clerk Maxwell Prize for Plasma Physics Recipient |website=American Physical Society |quote=For his contributions to the genesis and progress of inertial confinement fusion.}}</ref>
+
+Livermore started its laser fusion program in 1962-63{{sfn|Nuckolls|1998|p=Figure 4}} and began to greatly expand its inertial fusion program in the early 1970s as the first high-power lasers became available. In 1975, Nuckolls was promoted to become the Associate Leader of the Laser Fusion Program, as well as the Divisional Leader of the "X-group" that designed the fuel ''targets''. In 1983 he was promoted to become the Associate Director of the entire Physics branch. In 1988 he was promoted to become the Director of the entire Livermore lab.{{sfn|Nuckolls}}
+
+In 1991, Nuckolls was awarded the [[Edward Teller Award]] for his contributions to inertial confinement fusion,<ref>{{cite encyclopedia|url=https://books.google.com/books?id=O1k6qxZvn6MC&pg=PA85|first=John|last=Nuckolls|editor-first1=Heinrich|editor-last1=Hora|editor-first2=George Hunter|editor-last2=Miley |title=Edward Teller Medal: Acceptance Remarks|encyclopedia=Edward Teller Lectures: Lasers and Inertial Fusion Energy|pages=85–86|isbn=9781860947278|year=2005}}</ref> the Department of Energy Distinguished Associate Award in 1995, the Lifetime Achievement Award in 1996 by Fusion Power Associates, the Secretary of Defense Medal for Outstanding Public Service in 1996, and honored with the [[Enrico Fermi Presidential Award]] in 2024 for seminal leadership in inertial confinement fusion and high energy density physics, outstanding contributions to national security, and visionary leadership of Lawrence Livermore National Laboratory at the end of the Cold War..
+
+==Controversial / Visionary Directorship==
+While Nuckolls' tenure as Director was considered controversial by some, it was also considered [https://science.osti.gov/fermi/Award-Laureates/2020s/John-Hopkins-Nuckolls visionary] in a time of tremendous upheaval and uncertainty during the transition to the post-Cold War era, with Nuckolls writing in 1989 that the Laboratory must be, "capable of successfully meeting the challenges that the next century will face...such as preventing major wars, exhaustion of the world's oil and gas resources, global greenhouse warming, and the mastery of molecular biology and medicine." {{sfn|Heppenheimer|1989|p=5}}
+
+When he was being promoted, a number of colleagues warned that he was not a decision maker.{{sfn|Heppenheimer|1989}}{{sfn|Frammolino|1994}} <sup>“</sup>Nuckolls disputes this description of his leadership. In a written statement to The Scientist in 1989, he notes that, ‘my review of the past 15 months shows that the majority of my decisions have been made rather rapidly.’ At the same time, his letter cites both internal and external factors that may have delayed certain activities.” {{sfn|Heppenheimer|1989|p=2-3}}
+
+Early in his tenure in July 1988 Nuckolls joined [[Lowell Wood]] and [[Edward Teller]] in a visit to the [[White House]] to brief President [[Ronald Reagan]] and Vice President [[George Bush Sr.]] on Wood's [[Brilliant Pebbles]] concept for the [[Strategic Defense Initiative]]. This was a break with tradition, where Directors generally remained aloof from such actives, with one former Livermore scientist stating he believed this made the lab "like any other defense contractor".{{sfn|Heppenheimer|1989}} Nuckolls, “known as an extremely cautious administrator who shunned the limelight,”{{sfn|Heppenheimer|1989|p=1}} was not inclined to participate in the briefing, however, was directed by his boss, UC President [[David P. Gardner|David Gardner]], to do so. “Given the controversies over previous Laboratory-White House interactions, there was broad consensus that the director should be present for the briefing," he replied in one of two three-page letters written in response to a request by The Scientist for an interview.{{sfn|Heppenheimer|1989|p=2}}
+
+Other issues plagued the lab as it transitioned from its [[Cold War]] weapon-making role to a support system for a much wider array of potentially civilian topics; Energy Secretary [[Hazel O'Leary]] had proposed to move all weapons research to [[Los Alamos National Laboratory]], a move that Nuckolls "fiercely opposed."{{sfn|Weisman|1994|p=18}} This led to an increasingly confrontational relationship in Washington, culminating in his public statement that the [[Clinton administration]] was failing in its constitutional duty to "provide for the common defense."{{sfn|Weisman|1994|p=19}} Adding to the lab's woes, in November 1993 the [[Government Accountability Office]] released a report that found serious problems with the lab's budget and accounting.{{sfn|Weisman|1994|p=19}}
+
+In The Bulletin of the Atomic Scientists Vol. 50, NO. 4, July/August 1994, Jonathan Weisman lists factors leading to Nuckolls’ resignation: “Nuckolls’ staunch allegiance to his nuclear weapons helped lead to his downfall. But it isn't the whole story. There were vicious campus politics at the University of California, which manages Livermore and Los Alamos. There were changes in the Energy Department, charges of mismanagement, and a devastating decline in morale among Livermore scientists. Finally, there was indecision in Washington, which has refused to make difficult decisions about the nation’s nuclear future.”{{sfn|Weisman|1994|p=18}}
+
+Weisman continued, “The California politics were more nebulous. At the time of Nuckolls’s downfall, (UC President) Peltason himself was under public pressure to resign. The University's generous treatment of its top managers at a time of enormous budget cuts had come under relentless attack. In a private meeting that was taped and leaked to the press, Peltason called for reprisals against Democratic state legislators who had rejected a Republican’s nomination to the board of regents. Two of the boards strongest Nuckolls supporters – Glenn Campbell and Frank Clark – had just publicly called for Peltason's head. University observers suspect that Peltason was deflecting attention from his own travails by turning on Nuckolls.”{{sfn|Weisman|1994|p=19}}
+
+In late 1993 the [[University of California]], who managed the lab, called for a review of Nuckolls' directorship. The review was "universally negative"{{sfn|Frammolino|1994}} and there were private calls for his resignation. At first he refused, claiming there was support for his position within the Department of Energy and [[the Pentagon]], and then calling into question the objectivity of the review due to its chair being [[Richard Truly]], who had been dismissed after being criticized by Teller.{{sfn|Frammolino|1994}} The University called a meeting for 6 April to discuss the issues, but on 4 April Nuckolls offered his resignation.{{sfn|Weisman|1994|p=18}}{{sfn|Frammolino|1994}}
+
+Weisman further wrote, “Morale and leadership, not mission, were topics that [[C. Bruce Tarter|Bruce Tarter]] confronted most strongly in his first address to the lab as acting director. The speech, just days after Nuckolls resignation, was a bracing tonic." “What used to be this competition of ideas has degenerated into a search for scapegoats,” Tarter said. “Instead of celebrating victories we tend to find pleasure in other people's defeats.”{{sfn|Weisman|1994|p=19}}
+
+“Nuckolls does not accept charges of mismanagement. He spent much of his term unburying the laboratory from inherited scandals and fending off waves of audits and investigations. He repaired relations with the Energy Department and helped renew the university’s management contract. And he strongly guarded the lab’s cherished independence from political whims.” {{sfn|Weisman|1994|p=19}}
+
+While the Laboratory faced several contentious issues during Nuckolls’ time as Director, he continued his tenure with broad support from Laboratory employees through the final day of his Directorship, April 4, 1994. Three weeks later on April 29, following speeches by former Laboratory Directors Edward Teller, John Foster, Michael May, and Roger Batzel, Nuckolls “won the longest applause” and a standing ovation from Laboratory employees gathered for a presentation in the Lawrence Livermore National Laboratory auditorium.{{sfn|Weisman|1994|p=18}}
+
+==References==
+===Citations===
+{{reflist|30em}}
+
+===Bibliography===
+* {{cite web |url=https://history.aip.org/phn/11607024.html |title=John Hopkin Nuckolls |website=American Institute of Physics |ref=CITEREFNuckolls}}
+* {{cite news |url=https://www.latimes.com/archives/la-xpm-1994-04-05-mn-42357-story.html |title=Head of Nuclear Research Lab Resigns Under Fire |newspaper=Los Angeles Times |date=5 April 1994 |first=Ralph |last=Frammolino }}
+* {{cite magazine |url=https://www.the-scientist.com/?articles.view/articleNo/10529/title/New-Director-Shifts-Balance-Of-Power-At-Livermore-Lab/
+|title=New Director Shifts Balance Of Power At Livermore Lab |first=Thomas |last=Heppenheimer |magazine=The Scientist |date=6 August 1989 }}
+* {{cite journal |first=Jonathan |last=Weisman |url=https://books.google.com/books?id=VAwAAAAAMBAJ&pg=PA18 |journal=Bulletin of the Atomic Scientists |date=July–August 1994 |title=Nuckolls rapped |pages=18–19 }}
+* {{cite tech report |publisher=Lawrence Livermore National Laboratory |date=12 June 1998 |title=Early Steps Toward Inertial Fusion Energy (IFE) |first=John |last=Nuckolls |doi=10.2172/658936 |osti=658936 |url=https://digital.library.unt.edu/ark:/67531/metadc710698/m2/1/high_res_d/658936.pdf }}
+* {{cite web |url=https://science.osti.gov/fermi/Award-Laureates/2020s/John-Hopkins-Nuckolls |title=John Hopkin Nuckolls, M.A. |website=U.S. Department of Energy Office of Science |ref=CITEREFHeppenheimer 1989}}
+
+{{James Clerk Maxwell Prize in Plasma Physics recipients}}
+{{authority control}}
+
+{{DEFAULTSORT:Nuckolls, John}}
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:Lawrence Livermore National Laboratory staff]]
+[[Category:Enrico Fermi Award recipients]]
+[[Category:1930 births]]
+[[Category:Wheaton College (Massachusetts) alumni]]
+[[Category:Columbia University alumni]]

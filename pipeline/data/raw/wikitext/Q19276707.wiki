@@ -1,0 +1,86 @@
+{{Short description|American biostatistician}}{{BLP sources|date=September 2026}}
+
+{{Use mdy dates|date=February 2015}}
+{{Infobox scientist
+| name               = Ira Longini
+| image              =
+| caption            = 
+| birth_date         = October 2, 1948
+| birth_place        = [[Cincinnati, Ohio|Cincinnati]], Ohio
+| education          = {{Plain list|
+*[[University of Florida]]
+*[[University of Minnesota]]
+}}
+| thesis_title       = Optimal Control of Influenza Epidemics<ref>{{mathgenealogy|46813}}</ref>
+| thesis_year        = 1977
+| doctoral_advisor   = Eugene Ackerman
+| doctoral_students  = [[Maya Sternberg]]<ref>{{cite thesis|title=Discrete-time nonparametric estimation for chain-of-events data subject to interval censoring and truncation|year=1997|type=Ph.D. thesis|publisher=Emory University|first=Maya Raquel|last=Sternberg|id={{ProQuest|9725082}}}}</ref>
+| spouse             = Amy Vigilante
+| children           = 2
+}}
+
+'''Ira M. Longini''' (born October 2, 1948) is an American [[biostatistician]]<ref name="Committee2005">{{cite book |author=Great Britain. Parliament. House of Lords. Science and Technology Committee |title=Pandemic Influenza: Report with Evidence |url=https://books.google.com/books?id=gttFlHWv4FgC&pg=PA151 |year=2005 |publisher=The Stationery Office |isbn=978-0-10-400772-3 |pages=151–}}</ref> and infectious disease epidemiologist.
+
+==Career==
+Longini began his career with the International Center for Medical Research and Training and the Universidad del Valle in Cali, Colombia, where he worked on tropical infectious disease problems and taught courses in biomathematics. Following that he was a professor of biostatistics at the [[University of Michigan]], [[Emory University]],<ref name="ResearchPractice2005">{{cite book |author1=Planning Group on the John R. La Montagne Memorial Symposium on Pandemic Influenza Research |author2=Board on Population Health and Public Health Practice |author3=Institute of Medicine |title=John R. La Montagne Memorial Symposium on Pandemic Influenza Research:: Meeting Proceedings |url=https://books.google.com/books?id=7MBVAgAAQBAJ&pg=PA104 |date=October 6, 2005 |publisher=National Academies Press |isbn=978-0-309-09731-4 |pages=104–}}</ref> and the [[University of Washington]]. In 2014 he is a professor of biostatistics at the University of Florida and Co-Director of the Center for Statistical and Quantitative Infectious Diseases (CSQUID), the Emerging Pathogens Institute, at the University of Florida.
+
+=== Research ===
+Longini studies [[stochastic process]]es applied to epidemiological problems. He has specialized in the mathematical and statistical theory of epidemics, which involves constructing and analyzing mathematical models of disease transmission, disease progression and the analysis of infectious disease data based on these models.  He designs and analyses vaccine and infectious disease prevention trials and observational studies.  He has worked on the analysis of epidemics of influenza, HIV, tuberculosis, cholera, dengue fever, malaria, [[rhinovirus]], rotavirus, measles and other infectious agents.{{citation needed|date=February 2022}}
+
+Longini is also collaborating with the Department of Health and Human Services, the [[World Health Organization]], the CDC and other public health organizations on mathematical and statistical models for the control of a possible bioterrorist attack with an infectious agent such as smallpox, and other natural infectious disease threats such as pandemic influenza or another SARS-like infectious agent.<ref name="Wuthnow2010">{{cite book |author=Robert Wuthnow |title=Be Very Afraid: The Cultural Response to Terror, Pandemics, Environmental Devastation, Nuclear Annihilation, and Other Threats |url=https://archive.org/details/beveryafraidcult0000wuth |url-access=registration |date=March 10, 2010 |publisher=Oxford University Press |isbn=978-0-19-988974-7 |pages=[https://archive.org/details/beveryafraidcult0000wuth/page/112 112]–}}</ref>
+
+Longini develops mathematical statistical methods to estimate the transmission and natural history of infectious diseases.  These methods are then used to create mathematical models which predict infectious disease transmission<ref name="AxelrodCohen2008">{{cite book |author1=Robert Axelrod |author2=Michael D. Cohen |title=Harnessing Complexity |url=https://books.google.com/books?id=oB7heZWjwxkC&pg=PA75 |date=August 1, 2008 |publisher=Basic Books |isbn=978-0-7867-2344-7 |pages=75–}}</ref> and indicate methods for control with vaccines and other measures.  His work on HIV helped to develop an understanding of pathogenesis and progression of HIV, including how HIV is transmitted in different rates at different stages.  This work contributed to the design HIV treatments and analysis of their effectiveness.  Longini extensively studied the transmission and of pandemic and interpandemic influenza and its control with antiviral agents and vaccines.
+
+Longini investigated how infectious diseases such as influenza,<ref>{{cite book |title=CIO |url=https://books.google.com/books?id=vQkAAAAAMBAJ&pg=PA22 |date=December 1, 2005 |pages=22–}}</ref> cholera, typhoid and dengue could be controlled with vaccines.  He has designed, analyzed and interpreted vaccine studies for many of these infectious diseases, taking into account the indirect protection that unvaccinated people receive in a population of vaccinated people.  His work has helped to demonstrate how mass vaccination of school children helps to protect the entire community from influenza.  This strategy is being implemented throughout the world, and could eventually lead to control of both pandemic and interpandemic influenza.<ref name="Committee2005" />
+
+== Honors ==
+Longini has won a number of awards for excellence in research, including the Howard M. Temin Award in Epidemiology for "Scientific Excellence in the Fight against HIV/AIDS," two CDC [[Statistical Science]] Awards for both "Best Theoretical and Applied Papers," and the CDC James H. Nakano Citation "for an outstanding scientific publications."   He is a [[Fellow]] of the [[American Statistical Association]] and a Fellow of the [[American Association for the Advancement of Science]].{{citation needed|date=January 2022}}
+
+== Selected publications ==
+Longini is author or coauthor of more than 152 scientific papers and [https://www.springer.com/statistics/life+sciences,+medicine+%26+health/book/978-0-387-40313-7 one book].
+
+* {{cite journal | author = Longini I.M., Ackerman E., Elveback L.R. | year = 1978 | title = An optimization model for influenza A epidemics | url = | journal = Mathematical Biosciences | volume = 38 | issue = 1–2| pages = 141–157 | doi = 10.1016/0025-5564(78)90023-8 }}
+* {{cite journal | author = Longini I.M., Koopman J.S. | year = 1982 | title = Household and community transmission parameters from final distributions of infections in households | url = | journal = Biometrics | volume = 38 | issue = | pages = 115–126 | doi = 10.2307/2530294 | jstor = 2530294 }}
+* {{cite journal | author = Longini I.M., Koopman J., Monto A.S., Fox J.P. | year = 1982 | title = Estimating household and community transmission parameters for influenza | url = | journal = American Journal of Epidemiology | volume = 115 | issue = 5| pages = 736–751 | doi = 10.1093/oxfordjournals.aje.a113356 }}
+* {{cite journal | author = Rvachev L.A., Longini I.M. | year = 1985 | title = A mathematical model for the global spread of influenza | url = | journal = Mathematical Biosciences | volume = 75 | issue = | pages = 3–22 | doi = 10.1016/0025-5564(85)90064-1 }}
+* {{cite journal | author = Horsburgh C.R., Ou C.H., Jason J., Holmberg S.D., Longini I.M. | display-authors = etal | year = 1989 | title = Duration of human immunodeficiency virus infection before detection of antibody | url = | journal = Lancet | volume = II | issue = 8664| pages = 637–640 | doi = 10.1016/S0140-6736(89)90892-1 }}
+* {{cite journal | author = Longini I.M., Clark W.S., Byers R.H., Lemp G.F., Ward J.W., Darrow W.W., Hethcote H.W. | year = 1989 | title = Statistical analysis of the stages of HIV infection using a Markov model | url = | journal = Statistics in Medicine | volume = 8 | issue = 7| pages = 831–843 | doi = 10.1002/sim.4780080708 }}
+* {{cite journal | author = Longini I.M. | year = 1990 | title = Modeling the decline of CD+4 T‑lymphocyte counts in HIV‑infected individuals. Letter to the Editor | url = | journal = Journal of Acquired Immune Deficiency Syndromes | volume = 9 | issue = | pages = 930–931 }}
+* {{cite journal | author = Jacquez J.A., Koopman J.S., Simon C.P., Longini I.M. | year = 1994 | title = The role of primary infection in the epidemics of HIV infection in gay cohorts | url = | journal = Journal of Acquired Immune Deficiency Syndromes | volume = 7 | issue = | pages = 1169–1184 }}
+* {{cite journal | author = Longini I.M., Halloran M.E. | year = 1995 | title = AIDS: Modeling epidemic control | url = | journal = Science | volume = 267 | issue = 5202| pages = 1250–1251 | doi = 10.1126/science.7871414 | pmid = 7871414 | bibcode = 1995Sci...267.1250L }}
+* {{cite journal | author = Longini I.M., Halloran M.E. | year = 1996 | title = A frailty mixture model for estimating vaccine efficacy | url = | journal = Applied Statistics | volume = 45 | issue = | pages = 165–173 | doi = 10.2307/2986152 | jstor = 2986152 }}
+* {{cite journal | author = Longini I.M., Yunus M., Zaman K., Siddique A.K., Sack R.B., Nizam A. | year = 2002 | title = Epidemic and endemic cholera trends over thirty‑three years in Bangladesh | url = | journal = Journal of Infectious Diseases | volume = 186 | issue = | pages = 246–251 | doi = 10.1086/341206 }}
+* {{cite journal | pmid = 15033640 | volume=159 | title=Containing pandemic influenza with antiviral agents | year=2004 | author=Longini IM Jr, Halloran ME, Nizam A, Yang Y | journal=Am J Epidemiol | issue=7 | pages=623–33 | doi=10.1093/aje/kwh092 }}
+* {{cite journal | pmid = 16079251 | doi=10.1126/science.1115717 | volume=309 | title=Containing pandemic influenza at the source | year=2005 | author=Longini IM Jr, Nizam A, Xu S, Ungchusak K, Hanshaoworakul W, Cummings DA, Halloran ME | journal=Science | issue=5737 | pages=1083–7 | bibcode=2005Sci...309.1083L }}
+* {{cite journal | pmid = 16079251 | doi=10.1126/science.1115717 | volume=309 | title=Containing pandemic influenza at the source | year=2005 | author=Longini IM Jr, Nizam A, Xu S, Ungchusak K, Hanshaoworakul W, Cummings DA, Halloran ME | journal=Science | issue=5737 | pages=1083–7 | bibcode=2005Sci...309.1083L }}
+* {{cite journal | pmid = 16456066 | doi=10.1126/science.1122143 | volume=311 | title=Public health. Community studies for vaccinating schoolchildren against influenza | year=2006 | author=Halloran ME, Longini IM Jr | journal=Science | pages=615–6 }}
+* {{cite journal | author = Germann T.C., Kadau K., Longini I.M., Macken C.A. | year = 2006 | title = Mitigation strategies for pandemic influenza in the United States | journal = Proceedings of the National Academy of Sciences | volume = 103 | issue = 15| pages = 5935–5940 | pmid = 16585506 | doi = 10.1073/pnas.0601266103 | doi-access = free | pmc = 1458676 }}
+* {{cite journal|pmc=2082648 | pmid=18044983 | doi=10.1371/journal.pmed.0040336 | volume=4 | title=Controlling endemic cholera with oral vaccines | year=2007 | author=Longini IM Jr, Nizam A, Ali M, Yunus M, Shenvi N, Clemens JD | journal=PLOS Med | issue=11 | article-number=e336 | doi-access=free }}
+* {{cite journal | author = Halloran M.E., Ferguson N.M., Eubank S., Longini I.M. | display-authors = etal | year = 2008 | title = Modeling targeted layered containment of an influenza pandemic in the United States | url = | journal = Proceedings of the National Academy of Sciences | volume = 105 | issue = 12| pages = 4639–4644 | doi = 10.1073/pnas.0706849105 | doi-access = free | pmid = 2290797 | bibcode = 2008PNAS..105.4639H | pmc = 2290797 }}
+* [[Betz Halloran|Halloran, M.E.]], Longini, I.M. and Struchiner, C.J.: The Design and Analysis of Vaccine Studies. Springer, New York, 387 pp. (2009).
+* {{cite journal|pmc=2880578 | pmid=19745114 | doi=10.1126/science.1177373 | volume=326 | title=The transmissibility and control of pandemic influenza A (H1N1) virus | year=2009 | author=Yang Y, Sugimoto JD, Halloran ME, Basta NE, Chao DL, Matrajt L, Potter G, Kenah E, Longini IM Jr | journal=Science | issue=5953 | pages=729–33 | bibcode=2009Sci...326..729Y }}
+* {{cite journal|pmc=3084143 | pmid=21482756 | doi=10.1073/pnas.1102149108 | volume=108 | title=Vaccination strategies for epidemic cholera in Haiti with implications for the developing world | year=2011 | author=Chao DL, Halloran ME, Longini IM Jr | journal=Proc Natl Acad Sci U S A | issue=17 | pages=7081–5 | bibcode=2011PNAS..108.7081C | doi-access=free }}
+* {{cite journal|pmc=3493390 | pmid=23145197 | doi=10.1371/journal.pntd.0001876 | volume=6 | title=Controlling dengue with vaccines in Thailand | year=2012 | author=Chao DL, Halstead SB, Halloran ME, Longini IM Jr | journal=PLOS Negl Trop Dis | issue=10 | article-number=e1876 | bibcode=2012PNTDi...6.1876C | doi-access=free }}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{google scholar id|DDfPqicAAAAJ&}}
+* [https://web.archive.org/web/20131228013408/http://depts.washington.edu/amath/people/Ira.Longini/ Profile at washington.edu]
+* [http://biostat.ufl.edu/people/faculty/longini-ira/ Profile at University of Florida]
+* [http://csquid.org/people/ira-m-longini-jr-phd/ Profile at CSQUID] {{Webarchive|url=https://web.archive.org/web/20131227112412/http://csquid.org/people/ira-m-longini-jr-phd/ |date=December 27, 2013 }}
+
+{{authority control}}
+
+{{DEFAULTSORT:Longini, Ira}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:21st-century American biologists]]
+[[Category:American biostatisticians]]
+[[Category:University of Minnesota College of Science and Engineering alumni]]
+[[Category:University of Florida College of Engineering alumni]]
+[[Category:University of Florida faculty]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:University of Michigan faculty]]

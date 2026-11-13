@@ -1,0 +1,74 @@
+{{Infobox scientist
+| name        = 
+| native_name = 
+| native_name_lang = 
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_date  = 1957      
+| birth_place = Napoli, Italy
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = 
+| fields      = Density Functional Theory, Condensed Matter Theory
+| workplaces  = [[University of Missouri]]
+| patrons     = 
+| education   = Scuola Normale Superiore, University of Pisa
+Northwestern University
+| thesis_title =        <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =         <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor =  Kundan S. Singwi
+| academic_advisors = Franco Bassani
+| doctoral_students = 
+| notable_students = 
+| known_for   = Current Density Functional Theory, Spin Coulomb drag,
+Quantum Theory of the Electron Liquid,<ref name="Book1"/> 
+The Beautiful Invisible<ref name="Book2"/> 
+| influences  = 
+| influenced  = 
+| awards      = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| signature_alt = 
+| website     =  http://faculty.missouri.edu/~vignaleg/
+| footnotes   = 
+}}
+
+'''Giovanni Vignale''' is an [[Italian American]] physicist and Professor of Physics at the [[University of Missouri]].  Vignale is known for his work on [[density functional theory]] - a theoretical approach to the quantum many-body problem - and for several contributions to [[Many-particle system|many-particle physics]] and [[spintronics]].  He is also the author of a monograph on the "Quantum Theory of the Electron Liquid" (with [[Gabriele F. Giuliani]]) and a book entitled "The Beautiful Invisible - Creativity, imagination, and theoretical physics".
+
+== Life ==
+Vignale was born in [[Naples, Italy]], in 1957 and studied physics at the [[Scuola Normale Superiore di Pisa|Scuola Normale Superiore]] in [[Pisa]], where he graduated in 1979. He completed his Ph.D. at [[Northwestern University]] in 1984, with a thesis on "Collective modes, effective interactions and superconductivity in the electron-hole liquid". He was a postdoctoral researcher at the [[Max Planck Institute|Max-Planck-Institute]] for Solid State Research in [[Stuttgart, Germany]] and at [[Oak Ridge National Laboratory]] in [[Oak Ridge, Tennessee]], before joining the Department of Physics and Astronomy at the [[University of Missouri]] in 1988.  He is Curators' Professor of Physics at the University of Missouri since 2006 and Fellow of the [[American Physical Society]] since 1997.
+
+== Research contributions ==
+Vignale is known for his contributions to density functional theory. In 1987 he formulated, in collaboration with [[Mark Rasolt]], the current density functional theory for electronic systems in the presence of a static magnetic field.<ref>{{cite journal | last1=Vignale | first1=G. | last2=Rasolt | first2=Mark | title=Density-functional theory in strong magnetic fields | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=59 | issue=20 | date=1987-11-16 | issn=0031-9007 | doi=10.1103/physrevlett.59.2360 | pages=2360–2363| pmid=10035523 | bibcode=1987PhRvL..59.2360V }}</ref>  In 1996 he developed, with [[Walter Kohn]] ([[Nobel Prize in Chemistry|Nobel Laureate in Chemistry]], 1998), the time-dependent current density functional theory for electronic systems subjected to time-dependent [[electromagnetic fields]].<ref>{{cite journal | last1=Vignale | first1=G. | last2=Kohn | first2=Walter | title=Current-Dependent Exchange-Correlation Potential for Dynamical Linear Response Theory | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=77 | issue=10 | date=1996-09-02 | issn=0031-9007 | doi=10.1103/physrevlett.77.2037 | pages=2037–2040| pmid=10061841 |arxiv=cond-mat/9605052| bibcode=1996PhRvL..77.2037V | s2cid=3053337 }}</ref>  He is also known for his contributions to spintronics: in 2000, with [[Irene D'Amico]], he introduced the concept of spin [[Coulomb drag]]<ref>{{cite journal | last1=D’Amico | first1=Irene | last2=Vignale | first2=Giovanni | title=Theory of spin Coulomb drag in spin-polarized transport | journal=Physical Review B | publisher=American Physical Society (APS) | volume=62 | issue=8 | date=2000-08-15 | issn=0163-1829 | doi=10.1103/physrevb.62.4853 | pages=4853–4857| bibcode=2000PhRvB..62.4853D | hdl=10355/7925 | hdl-access=free }}</ref>  (experimentally observed in 2005<ref>{{cite journal | last1=Weber | first1=C. P. | last2=Gedik | first2=N. | last3=Moore | first3=J. E. | last4=Orenstein | first4=J. | last5=Stephens | first5=J. | last6=Awschalom | first6=D. D. | title=Observation of spin Coulomb drag in a two-dimensional electron gas | journal=Nature | publisher=Springer Science and Business Media LLC | volume=437 | issue=7063 | year=2005 | issn=0028-0836 | doi=10.1038/nature04206 | pages=1330–1333| pmid=16251958 | arxiv=cond-mat/0512032 | bibcode=2005Natur.437.1330W | s2cid=4432183 }}</ref>).  In 2003 he proposed, with Michael E. Flatte' of the [[University of Iowa]], the theoretical concept for a unipolar spin diode and a unipolar [[spin transistor]].<ref>{{cite journal | last1=Flatté | first1=M. E. | last2=Vignale | first2=G. | title=Unipolar spin diodes and transistors | journal=Applied Physics Letters | publisher=AIP Publishing | volume=78 | issue=9 | date=2001-02-26 | issn=0003-6951 | doi=10.1063/1.1348317| arxiv=cond-mat/0012484 | pages=1273–1275| bibcode=2001ApPhL..78.1273F | hdl=10355/7923 | s2cid=15544179 | hdl-access=free }}</ref><ref>US Patents No. 6,624,490 -  6,696,737 and 6,919,213</ref>
+
+Vignale is co-author (with Gabriele F. Giuliani) of a monograph on the [[quantum electron liquid]],<ref name="Book1">Quantum Theory of the electron liquid, Cambridge University Press, 2005</ref> which is used by students and researchers for reference and self-study.  In 2011 he published a non-technical book "The Beautiful Invisible - Creativity, imagination, and theoretical physics",<ref name="Book2">Oxford University Press, 2011</ref> which presents theoretical physics as a form of art.  In the introduction to this book he writes  “A good scientific theory is like a symbolic tale, an allegory of reality. Its characters are abstractions that may not exist in reality; yet they give us a way of thinking more deeply about reality. Like a fine work of art, the theory creates its own world: it transforms reality into something else – an illusion perhaps, but an illusion that has more value than the literal fact.”
+
+== Literary work ==
+Giovanni Vignale is the author of several works of fiction and poetry. Some of his poems have been translated from English to Spanish by the renowned Cuban poet [[Juana Rosa Pita]] and are published in both languages in ''Time is Alive/El Tiempo Esta' Vivo''.<ref name="Book3">Time is Alive/El Tiempo Esta' Vivo, El Zunzun Viajero, 2019</ref>  The dramatic quartet ''Odradek and Billy Bass Drink to the End of the World'' <ref name="Book4">Odradek and Billy Bass Drink to the End of the World, El Zunzun Viajero, 2018</ref> features four short plays patterned after the classic Japanese [[Noh drama]] form.  About this book [[Juana Rosa Pita]] writes: "Suspended in space and time, his characters are pure abstractions, speaking devices, neither alive nor dead, in fact, not even human... Poetry, prose and drama conspire to make these plays an unforgettable reading experience".<ref name="Book4"/>
+
+=== Prose ===
+
+* ''Odradek and Billy Bass Drink to the End of the World''.   El Zunzun Viajero, 2018
+* ''Vite Scambiate''. Cultura Duemila Editrice, 1993
+
+=== Poetry ===
+
+* ''Time is Alive/El tiempo esta' vivo''. El Zunzun Viajero, 2019
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vignale, Giovanni}}
+[[Category:Northwestern University alumni]]
+[[Category:University of Missouri physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American computational chemists]]
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Fellows of the American Physical Society]]

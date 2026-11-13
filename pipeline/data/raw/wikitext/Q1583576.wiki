@@ -1,0 +1,160 @@
+{{Short description|German theoretical physicist}}
+{{About|the physicist|other uses|Karl Kraus (disambiguation)}}
+{{Infobox scientist
+|name              = Karl Kraus
+|image             = Karl_Kraus_(Physiker)_1984.jpg
+|image_size        = 
+|caption           = Karl Kraus, 1984
+|birth_date        = {{Birth date|1938|3|21|df=y}}
+|birth_place       = [[Vrchlabí|Hohenelbe]], [[Czechoslovakia]]
+|death_date        = {{Death date and age|1988|6|9|1938|3|21|df=y}}
+|death_place       = [[Würzburg]], [[Germany]]
+|residence         = 
+|citizenship = German
+|ethnicity         = 
+|fields            = [[Theoretical Physics]]
+|workplaces        = [[University of Marburg]]<br />[[University of Würzburg]]
+|education         = [[Free University of Berlin]]
+|doctoral_advisor  = Kurt Just
+|academic_advisors =
+|doctoral_students =
+
+|notable_students  = 
+|known_for         = [[Kraus operator]]
+|influences        = 
+|influenced        =
+|spouse            =
+|awards            = 
+|religion          = 
+|signature         = 
+|footnotes         = 
+}}
+
+'''Karl Kraus''' (21 March 1938 – 9 June 1988) was a German [[theoretical physicist]] who made major contributions to the foundations of [[quantum physics]]. He is known for his work in [[quantum operation]]s, where [[Kraus operator]]s are named after him.
+
+==Life==
+
+Kraus was born in 1938 in Hohenelbe/Giant Mountains, today [[Vrchlabí]]. After the war, he grew up in [[Elsterwerda]] and attended local schools. He studied physics from 1955 to 1960 at the [[Humboldt University of Berlin]] (East) and the [[Free University of Berlin]] (West). He graduated in 1962 with a thesis about [[Hendrik Lorentz|Lorentz]]'s theory of gravity, carried out under the supervision of Kurt Just.<ref>Karl Kraus: ''Lorentzinvariante Gravitationstheorie'', Dissertation, Freie Universität Berlin, 1962.</ref> Kraus then joined as an assistant to Günther Ludwig at the [[University of Marburg]], where he qualified in 1966. In 1971, he accepted a professorship at the Institute of Physics of the [[University of Würzburg]], where he established a [[mathematical physics]] working group on the topic of the foundations of quantum theory. In 1980 Kraus spent a sabbatical year at [[University of Texas at Austin|UT Austin]] with [[John Archibald Wheeler]], Arno Böhm, [[George Sudarshan]], [[William Wootters]], and [[Wojciech Zurek]].
+
+Karl Kraus died in 1988 at age 50 from the effects of cancer.<ref>Georg Reents: ''Nachruf auf Karl Kraus'', Foundations of Physics Letters, Vol. 2, S. 7, 1989.</ref>
+
+== Work ==
+Kraus work focused on the connection between the [[quantum nonlocality|quantum non-locality]] and the [[Principle of locality|locality]] of the classical world. He did work on this topic covering the [[Einstein–Podolsky–Rosen effect]]<ref>Karl Kraus: ''Quantum Theory, Causality and EPR Experiments'', in Proceedings of the Joensuu Symposium on the Foundations of Modern Physics: 50 Years of the EPR Gedankenexperiment, p. 138, World Scientific, Singapore, 1986.</ref> and issues regarding the [[measurement problem]] in quantum theory, a problem which, in his opinion, was largely ignored in the [[Copenhagen interpretation]] by the founders of quantum theory.
+
+Some of Kraus' important publications on the measurement problem in quantum theory were:
+
+*Measuring processes in quantum mechanics I: Continuous observation and the [[quantum Zeno effect|watchdog effect]].<ref>{{Cite journal
+| doi = 10.1007/BF00726936
+| issn = 1572-9516
+| volume = 11
+| issue = 7–8
+| pages = 547–576
+| last = Kraus
+| first = Karl
+| title = Measuring processes in quantum mechanics I. Continuous observation and the watchdog effect
+| journal = Foundations of Physics
+| date = 1981-08-01
+|bibcode = 1981FoPh...11..547K }}</ref>
+*Measuring processes in quantum mechanics II: The classical behavior of measuring instruments.<ref>{{Cite journal
+| doi = 10.1007/BF00738299
+| issn = 1572-9516
+| volume = 15
+| issue = 6
+| pages = 717–730
+| last = Kraus
+| first = Karl
+| title = Measuring processes in quantum mechanics. II. The classical behavior of measuring instruments
+| journal = Foundations of Physics
+| date = 1985-06-01
+|bibcode = 1985FoPh...15..717K }}</ref>
+*States, Effects, and Operations.<ref>{{Cite book
+| publisher = Springer-Verlag
+| isbn = 978-3-5401-2732-1
+| last = Kraus
+| first = Karl
+| title = States, effects, and operations: fundamental notions of quantum theory
+| series = Lectures in mathematical physics at the University of Texas at Austin
+| volume = 190
+| date = 1983
+| url = https://books.google.com/books?id=fRBBAQAAIAAJ
+}}</ref>
+
+=== Kraus representation and Kraus operators ===
+In his 1983 book ''States, Effects, and Operations'', Kraus described the measurement process in quantum mechanics for the first time using the concept and mathematical formalism of a [[quantum operation]], a special class of [[Map (mathematics)|maps]] of [[density operator]]s. The representation he used for these maps is now known as the Kraus representation, [[Kraus operator|Kraus operator]] formalism or operator-sum formalism, and is now frequently used in the field of [[quantum information]]. The Kraus representation is based on [[Stinespring dilation theorem]] about [[completely positive]] images of finite-dimensional [[C*-algebra]]s.<ref>W. F. Stinespring, "Positive Functions on C*-algebras", ''Proceedings of the American Mathematical Society'', 211–216, 1955.</ref> For a modern proof of the Kraus representation, which is based on [[Choi's theorem on completely positive maps]]<ref>{{Cite journal
+| doi = 10.1016/0024-3795(75)90075-0
+| issn = 0024-3795
+| volume = 10
+| issue = 3
+| pages = 285–290
+| last = Choi
+| first = Man-Duen
+| title = Completely positive linear maps on complex matrices
+| journal = Linear Algebra and Its Applications
+| date = June 1975
+| doi-access = free
+}}</ref> instead of Stinespring's set, see ''[[Quantum Computation and Quantum Information]]''.<ref>{{Cite book
+| publisher = Cambridge University Press
+| isbn = 978-0-5216-3503-5
+| last = Nielsen
+| first = Michael A.
+| first2 = Isaac L.
+| last2 = Chuang
+| title = Quantum Computation and Quantum Information
+| date = 2000-10-23
+| url = https://books.google.com/books?id=65FqEKQOfP8C
+}}</ref>
+
+The issues discussed by Kraus regarding the foundations of quantum theory are still a current area of research. New theoretical advances are discussed in Erich Joos, [[H. Dieter Zeh]], Claus Kiefer, Domenico Giulini, J. Kupsch, I.-O. Stamatescu.<ref>{{Cite book
+| publisher = Springer
+| location = Berlin
+| isbn = 978-3-5400-0390-8
+| last = Joos
+| first = Erich
+| first2 = H. D.
+| last2 = Zeh
+| first3 = C.
+| last3 = Kiefer
+| first4 = D.
+| last4 = Giulini
+| first5 = J.
+| last5 = Kupsch
+| first6 = I.-O.
+| last6 = Stamatescu
+| title = Decoherence and the Appearance of a Classical World in Quantum Theory
+| date = 2003-05-13
+| edition = 2nd
+| url-access = registration
+| url = https://archive.org/details/decoherenceappea0000unse
+}}</ref> These decoherence theories have been combined with modern experiments, particularly those done by the groups of [[Serge Haroche]] at Paris and [[Anton Zeilinger]] at Innsbruck, Vienna), in an attempt to use the measurement process in quantum theory to better understand relationship between quantum and classical world.<ref>{{Cite book
+| publisher = Springer
+| isbn = 978-3-540-35775-9
+| last = Schlosshauer
+| first = Maximilian A.
+| title = Decoherence - and the Quantum-To-Classical Transition
+| location = Berlin
+| series = The Frontiers Collection
+| accessdate = 2014-01-18
+| date = 2007
+| url = https://www.springer.com/physics/quantum+physics/book/978-3-540-35773-5
+}}</ref>
+
+In addition to mathematics and physics, Kraus had a special interest in biology, acquiring an extensive knowledge on the subject and even publishing some biological work.<ref>G. Reents, B. Schiekel: ''In memoriam Karl Kraus''.</ref>
+
+== References ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+== External links ==
+* [https://doi.org/10.1007%2FBF00690073  Georg Reents: ''Nachruf auf Karl Kraus''] 
+* [https://opus.bibliothek.uni-wuerzburg.de/volltexte/2012/7129/pdf/In_memoriam_Karl_Kraus.pdf G. Reents, B. Schiekel: ''In memoriam Karl Kraus (1938–1988) – curriculum vitae''] (PDF; 67&nbsp;kB)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kraus, Karl}}
+<!--- Categories --->
+[[Category:1938 births]]
+[[Category:1988 deaths]]
+[[Category:20th-century German physicists]]
+[[Category:German theoretical physicists]]
+[[Category:People from Vrchlabí]]
+[[Category:Humboldt University of Berlin alumni]]

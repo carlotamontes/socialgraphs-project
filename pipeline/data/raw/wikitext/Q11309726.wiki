@@ -1,0 +1,57 @@
+{{Short description|American mathematical physicist (born 1979)}}
+{{Infobox scientist
+| name             = Jacob Daniel Biamonte
+| honorific_suffix = {{post-nominals|country=GBR|FInstP|size=100%}}
+| birth_date       = {{Birth date and age|1979|01|22|mf=y}}
+| birth_place      = [[Lancaster, New Hampshire]], [[United States]]
+| fields           = [[Quantum computing]]<br />[[Tensor network]]s<br />[[Mathematical physics]]
+| workplaces       = [[École de technologie supérieure]] (ÉTS), [[Université du Québec]]
+| education        = [[University of Oxford]]<br />[[Moscow Institute of Physics and Technology]]
+| known_for        = [[Adiabatic quantum computation]], [[Variational quantum algorithm]]s, [[Quantum machine learning]]
+| awards           = [[USERN|USERN Medal]] (2018)<br />[[Institute of Mathematics and its Applications|Fellow IMA]] (2021)<br />[[Institute of Physics|Fellow of the Institute of Physics]] (2023)
+| website          = https://profs.etsmtl.ca/jbiamonte/
+}}
+
+'''Jacob Daniel Biamonte''' {{post-nominals|country=GBR|FInstP}} is an American physicist and computer scientist working in [[quantum information theory]] and [[quantum computing]]. He is a professor in the [[Université du Québec]] system at the [[École de technologie supérieure]] (ÉTS), where he holds the Quebec Ministry (MEIE) Principal Research Chair in Quantum Computing.
+
+Biamonte is known for contributions to the theory of quantum computation, including results on universal models of [[adiabatic quantum computation]]<ref name="hamilton">{{cite journal | last1=Biamonte | first1=Jacob D. | last2=Love | first2=Peter J. | title=Realizable Hamiltonians for universal adiabatic quantum computers | journal=[[Physical Review A]] | volume=78 | issue=1 | article-number=012352 | year=2008 | doi=10.1103/PhysRevA.78.012352 | arxiv=0704.1287}}</ref> and the universality of variational quantum computation.<ref>{{cite journal | last1=Biamonte | first1=Jacob | year=2021 | title=Universal variational quantum computation | journal=[[Physical Review A]] | volume=103 | issue=3 | article-number=L030401 | doi=10.1103/PhysRevA.103.L030401 | arxiv=1903.04500 }}</ref> His work also includes contributions to [[quantum machine learning]]<ref>{{cite journal | last1=Biamonte | first1=Jacob | last2=Wittek | first2=Peter | last3=Pancotti | first3=Nicola | last4=Rebentrost | first4=Patrick | last5=Wiebe | first5=Nathan | last6=Lloyd | first6=Seth | year=2017 | title=Quantum machine learning | journal=[[Nature (journal)|Nature]] | volume=549 | issue=7671 | pages=195–202 | doi=10.1038/nature23474 | pmid=28905917 | arxiv=1611.09347 | s2cid=64536201 }}</ref> and the development of graphical and [[tensor network|tensor-network]] formalisms for quantum computation.<ref>{{cite journal|last1=Biamonte|first1=Jacob D.|last2=Morton|first2=Jason|last3=Turner|first3=Jacob|title=Tensor network contractions for #SAT|journal=[[Journal of Statistical Physics]]|volume=160|pages=1389–1404|year=2015|doi=10.1007/s10955-015-1276-z|arxiv=1405.7375}}</ref>
+
+== Research ==
+Biamonte's research concerns the mathematical and physical structure of [[quantum computation]], with results identifying [[universal quantum computer|universal computational models]] and their limitations. His work addresses how quantum processes are represented and compared, including graphical and categorical formalisms for [[quantum circuit|quantum circuits]] and [[tensor network|tensor networks]],<ref name="auto1">{{cite journal | last1=Bergholm | first1=Ville | last2=Biamonte | first2=Jacob | title=Categorical quantum circuits | journal=Journal of Physics A: Mathematical and Theoretical | volume=44 | issue=24 | article-number=245304 | year=2011 | doi=10.1088/1751-8113/44/24/245304 | arxiv=1010.4840 }}</ref><ref name="auto2">{{cite journal | last1=Biamonte | first1=Jacob | last2=Clark | first2=Stephen | last3=Jaksch | first3=Dieter | title=Categorical tensor network states | journal=AIP Advances | volume=1 | issue=4 | page=042172 | year=2011 | doi=10.1063/1.3672009 | arxiv=1012.0531 }}</ref> quantum simulation of physical systems,<ref name="auto">{{cite journal | last1=Whitfield | first1=James | last2=Biamonte | first2=Jacob | last3=Aspuru-Guzik | first3=Alán | title=Simulation of electronic structure Hamiltonians using quantum computers | journal=Molecular Physics | volume=109 | issue=5 | page=735 | year=2011 | doi=10.1080/00268976.2011.552441 | arxiv=1001.3855 }}</ref> and information-theoretic analysis of quantum dynamics on [[complex networks]].<ref>{{cite journal | last1=Faccin | first1=Mauro | last2=Migdał | first2=Piotr | last3=Johnson | first3=Timothy H. | last4=Bergholm | first4=Ville | last5=Biamonte | first5=Jacob | title=Community detection in quantum complex networks | journal=Physical Review X | volume=4 | issue=4 | article-number=041012 | year=2014 | doi=10.1103/PhysRevX.4.041012 | arxiv=1310.6638 }}</ref>
+
+His early work established the experimentally relevant universal models of [[adiabatic quantum computation]] by proving the [[QMA|QMA-completeness]] of sparse, physically realizable [[Hamiltonian (quantum mechanics)|Hamiltonians]], helping clarify the relationship between [[ground state]] physics and [[computational universality]].<ref name="hamilton"/>
+
+He later proved that feed-forward [[variational quantum eigensolver|variational quantum algorithm]]s can efficiently simulate universal quantum computation, establishing the variational model as computationally universal in the [[fault-tolerant quantum computation|fault-tolerant]] setting.<ref>{{cite journal | last1=Biamonte | first1=Jacob | title=Universal variational quantum computation | journal=Physical Review A | volume=103 | issue=3 | article-number=L030401 | year=2021 | doi=10.1103/PhysRevA.103.L030401 | arxiv=1903.04500 }}</ref> Related work analyzed limitations of variational training, including reachability deficits, parameter concentration and training saturation effects. In terms of circuit training, Biamonte has also contributed to the development of [[quantum machine learning]], helping to connect [[quantum algorithm]]s, [[Computational learning theory|learning theory]] and data-driven applications.<ref>{{cite journal | last1=Biamonte | first1=Jacob | last2=Wittek | first2=Peter | last3=Pancotti | first3=Nicola | last4=Rebentrost | first4=Patrick | last5=Wiebe | first5=Nathan | last6=Lloyd | first6=Seth | title=Quantum machine learning | journal=Nature | volume=549 | issue=7671 | pages=195–202 | year=2017 | doi=10.1038/nature23474 | pmid=28905917 | arxiv=1611.09347 }}</ref>
+
+Another major theme in his work is [[tensor network]] theory. He developed tensor-network formulations of [[Boolean satisfiability problem|Boolean satisfiability]] and [[Counting problem (complexity)|counting problems]], showing how [[computational complexity theory|computational complexity]] can be analyzed through [[tensor contraction]] structure and graphical methods.<ref>{{cite journal|last1=Biamonte|first1=Jacob D.|last2=Morton|first2=Jason|last3=Turner|first3=Jacob|title=Tensor network contractions for #SAT|journal=Journal of Statistical Physics|volume=160|pages=1389–1404|year=2015|doi=10.1007/s10955-015-1276-z|arxiv=1405.7375}}</ref> He also developed categorical and graphical tensor-network formalisms extending diagrammatic representations of quantum circuits to higher-dimensional systems, including qudits, and establishing algebraic normal forms for quantum states and processes.<ref name="auto2"/><ref name="auto1"/>
+
+In addition to foundational models, Biamonte has contributed to quantum algorithms for the simulation of physical systems. His work on the computational complexity of electronic-structure simulation helped clarify resource requirements for quantum chemistry and materials applications.<ref name="auto"/>
+
+More broadly, his research links [[mathematical physics]], [[theoretical computer science]] and [[quantum information science|quantum information]] through algebraic, graphical and computational representations of quantum processes.
+
+== Education ==
+Biamonte received a Ph.D. in [[Computer Science]] from the [[University of Oxford]] in 2010.<ref>{{Cite web|url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=150150|title=Jacob Biamonte - The Mathematics Genealogy Project|website=www.genealogy.math.ndsu.nodak.edu}}</ref> In 2022, he defended a Doctor of Physical and Mathematical Sciences (D.Sc.) dissertation in [[Mathematical Physics]] at the [[Moscow Institute of Physics and Technology]].<ref>{{cite thesis |last=Biamonte |first=Jacob |year=2022 |title=On the mathematical structure of quantum models of computation based on Hamiltonian minimisation |publisher=Moscow Institute of Physics and Technology |type=DSc |arxiv=2009.10088 }}</ref>
+
+== Honors and awards ==
+Biamonte was awarded the [[USERN|USERN Medal in Formal Sciences]] in 2018.<ref>{{Cite web|url=https://usern.tums.ac.ir/News/New?title=The%202018%20Marathon%20for%20USERN%20Prize%20Ends%20in%20Reggio%20Calabria|title=The 2018 USERN Prize Ceremony in Reggio Calabria|website=usern.tums.ac.ir|access-date=2022-05-12|archive-date=2018-12-29|archive-url=https://web.archive.org/web/20181229171607/https://usern.tums.ac.ir/News/New?title=The%202018%20Marathon%20for%20USERN%20Prize%20Ends%20in%20Reggio%20Calabria|url-status=dead}}</ref> He was elected a Fellow of the [[Institute of Physics]] in 2023.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{google scholar id|6dSqkUMAAAAJ}}
+* [https://profs.etsmtl.ca/jbiamonte/ Personal website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Biamonte, Jacob}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:American applied mathematicians]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American mathematical physicists]]
+[[Category:American quantum physicists]]
+[[Category:American quantum information scientists]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Moscow Institute of Physics and Technology alumni]]

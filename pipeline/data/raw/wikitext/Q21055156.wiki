@@ -1,0 +1,370 @@
+{{lead too short|date=December 2018}}
+
+{{Infobox scientist
+| name              = Nicolas Le Novère
+| birth_name        = 
+| native_name_lang  = 
+| image             = Nicolas-Le Novere.JPG
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date and age|1969|3|12|df=yes}}
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} 
+                           (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- 
+                      {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Computational biology]]
+* [[Bioinformatics]] 
+* [[Neuroscience]] 
+* [[Systems biology]]}}
+| workplaces        = {{Plainlist|
+* [[Babraham Institute]]
+* [[European Bioinformatics Institute|European Bioinformatics Institute (EMBL-EBI)]]
+* [[University of Cambridge]]
+* [[Pasteur Institute]]}}
+| education         = {{Plainlist|
+* [[École Normale Supérieure]]
+* [[Pierre and Marie Curie University]]
+* [[University of Paris-Sud]]}}
+| thesis_title      =
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = {{Plainlist|
+* [[Jean-Pierre Changeux]]
+* [[Dennis Bray]]}}
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[BioModels Database]], [[SBGN]], [[SBML]], [[MIRIAM]]
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = 
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+'''Nicolas Le Novère''' is a [[British people|British]] and [[France|French]] biologist. His research focuses on modeling [[signaling pathways]] and developing tools to share [[mathematical models]].
+
+==Education==
+Le Novère obtained his [[Baccalauréat]] at the [[Prytanée National Militaire]]. He received a MSc (1993) in Biology and Biochemistry from the [[École Normale Supérieure]], a BSc in Cellular Biology and Physiology (1991), and a PhD in Molecular and Cellular [[Pharmacology]] (1998) from the [[Pierre and Marie Curie University]].<ref name=lenovereCV>{{cite web|title=Nicolas Le Novere CV|url=http://lenoverelab.org/perso/lenov/cv.html|access-date=25 July 2015}}</ref> From 1999 to 2001, he was a [[postdoctoral research|Postdoctoral Fellow]] at the [[University of Cambridge]] (UK).
+
+==Research==
+The first part of Le Novère's career, in the laboratory of [[Jean-Pierre Changeux]] at the [[Pasteur Institute]], was focused on studying [[Nicotinic acetylcholine receptors]] in the brain. He reconstructed their phylogeny,<ref name="LeNovere1995">
+{{cite journal
+|vauthors=Le Novère N, Changeux JP | date      = 1995
+| title     = Molecular evolution of the nicotinic acetylcholine receptor: an example of multigene family in excitable cells
+| url       = 
+| journal   = Journal of Molecular Evolution
+| volume    = 40
+| issue     = 2
+| pages     = 155–172
+| doi       = 10.1007/BF00167110
+| pmc       = 
+| pmid      = 7699721
+| bibcode = 1995JMolE..40..155L
+| s2cid = 2040912
+}}</ref> predicted<ref name="LeNovere1999a">
+{{cite journal
+|vauthors=Le Novère N, Corringer PJ, Changeux JP | date      = 1999
+| title     = Improved secondary structure predictions for a nicotinic receptor subunit. Incorporation of solvent accessibility and experimental data into a 2D representation
+| url       = 
+| journal   = Biophysical Journal
+| volume    = 76
+| issue     = 5
+| pages     = 2329–2345
+| doi       = 10.1016/S0006-3495(99)77390-X
+| pmc       = 1300207
+| pmid      = 10233052
+}}</ref> and modeled their structure.<ref name="LeNovere2002">
+{{cite journal
+|vauthors=Le Novère N, Grutter T, Changeux JP | date      = 2002
+| title     = Models of the extracellular domain of the nicotinic receptors and of agonist and Ca++ binding sites
+| url       = 
+| journal   = Proceedings of the National Academy of Sciences USA
+| volume    = 99
+| issue     = 5
+| pages     = 3210–5
+| doi       = 10.1073/pnas.042699699
+| pmc       = 122498
+| pmid      = 11867716
+| bibcode = 2002PNAS...99.3210L
+| doi-access = free
+}}
+</ref> He also investigated the role of the alpha6 subunit in the dopaminergic neurons of the mesencephalon.<ref name="LeNovere1996">
+{{cite journal
+|vauthors=Le Novère N, Zoli M, Changeux JP | date      = 1996
+| title     = Neuronal nicotinic receptor α6 subunit mRNA is selectively concentrated in catecholaminergic nuclei of the rat brain 
+| url       = 
+| journal   = European Journal of Neuroscience
+| volume    = 8
+| issue     = 11
+| pages     = 2428–2439
+| doi       = 10.1111/j.1460-9568.1996.tb01206.x
+| pmc       = 
+| pmid      = 8950106
+| s2cid = 23102912
+| hdl= 11380/460655
+| hdl-access= free
+}}
+</ref><ref name="LeNovere1999b">
+{{cite journal
+|vauthors=Le Novère N, Zoli M, Léna C, Ferrari R, Picciotto MR, Merlo-Pich E, Changeux JP | date      = 1999
+| title     = Involvement of α6 nicotinic receptor subunit in nicotine-elicited locomotion, demonstrated by in vivo antisense oligonucleotide infusion
+| url       = 
+| journal   = NeuroReport
+| volume    = 10
+| issue     = 12
+| pages     = 2497–2501
+| doi       = 10.1097/00001756-199908200-00012
+| pmc       = 
+| pmid      = 10574359
+}}</ref>
+
+During his post-doctoral fellowship in the group of [[Dennis Bray]] at the [[University of Cambridge]], he modeled the molecular networks underlying bacterial [[chemotaxis]].<ref name="Shimizu2000">
+{{cite journal
+|vauthors=Shimizu TS, Le Novère N, Levin MD, Beavil AJ, Sutton BJ, Bray D | date      = 2000
+| title     = Molecular model of a lattice of signalling proteins involved in bacterial chemotaxis
+| url       = 
+| journal   = Nature Cell Biology
+| volume    = 2
+| issue     = 11
+| pages     = 792–796
+| doi       = 10.1038/35041030
+| pmc       = 
+| pmid      = 11056533
+| s2cid = 10852897
+}}
+</ref><ref name="Duke2001">
+{{Cite journal 
+| last1 = Duke | first1 = T. A. J. 
+| last2 = Le Novère | first2 = N. 
+| last3 = Bray | first3 = D. 
+| doi = 10.1006/jmbi.2001.4610 
+| title = Conformational spread in a ring of proteins: A stochastic approach to allostery 
+| journal = Journal of Molecular Biology 
+| volume = 308 
+| issue = 3 
+| pages = 541–553 
+| year = 2001 
+| pmid = 11327786 
+| pmc = 
+| s2cid = 14914075 
+}}</ref> Le Novère then became involved in the development standards to share [[mathematical models]] such as [[SBML]],<ref name="pmid12611808">{{Cite journal 
+| last1 = Hucka | first1 = M. 
+| last2 = Finney | first2 = A. 
+| last3 = Sauro | first3 = H. M. 
+| last4 = Bolouri | first4 = H. 
+| last5 = Doyle | first5 = J. C. 
+| last6 = Kitano | first6 = H.
+| last7 = Arkin | first7 = A. P. 
+| last8 = Bornstein | first8 = B. J. 
+| last9 = Bray | first9 = D 
+| last10 = Cornish-Bowden | first10 = A. 
+| last11 = Cuellar | first11 = A. A. 
+| last12 = Dronov | first12 = S. 
+| last13 = Gilles | first13 = E.D. 
+| last14 = Ginkel | first14 = M 
+| last15 = Gor | first15 = V. 
+| last16 = Goryanin | first16 = I.I. 
+| last17 = Hedley | first17 = W.J. 
+| last18 = Hodgman | first18 = T. C. 
+| last19 = Hofmeyr | first19 = J. -H. 
+| last20 = Hunter | first20 = P. J. 
+| last21 = Juty | first21 = N. S.   
+| last22 = Kasberger | first22 =J. L. 
+| last23 = Kremling | first23 = A.
+| last24 = Kummer | first24 = U. 
+| last25 = Le Novère | first25 = N. 
+| last26 = Loew | first26 = L. M.  
+| last27 = Lucio | first27 = D.
+| last28 = Mendes | first28 = P. 
+| last29 = Minch | first29 = E. 
+| last30 = Mjolsness | first30 = E.D. 
+| last31 = Nakayama| first31 = Y.
+| last32 = Nelson| first32 = M.R.
+| last33 = Nielsen| first33 = P. F.
+| last34 = Sakurada| first34 = T.
+| last35 = Schaff| first35 = J. C. 
+| last36 = Shapiro| first36 = B.E.
+| last37 = Shimizu| first37 =T. S.
+| last38 = Spence| first38 =H. D. 
+| last39 = Stelling| first39 =J. 
+| last40 = Takahashi| first40 =K.
+| last41 = Tomita| first41 =M. 
+| last42 = Wagner | first42 =J.
+| last43 = Wang| first43 = J.
+| title = The systems biology markup language (SBML): A medium for representation and exchange of biochemical network models | journal = Bioinformatics | volume = 19 | issue = 4 | pages = 524–531 | year = 2003 | pmid =  12611808| doi-access = free | doi = 10.1093/bioinformatics/btg015  }}</ref> of which he would later become editor.
+
+In 2003, Le Novère built a research group at the [[European Bioinformatics Institute|European Bioinformatics Institute (EMBL-EBI)]]. The group studied the [[signaling pathways]] underlying [[synaptic plasticity]], in particular the allosteric calcium sensors.<ref name="Stefan2008">{{cite journal
+|vauthors=Stefan MI, Edelstein SJ, Le Novère N | date      = 2008
+| title     = An allosteric model of calmodulin explains differential activation of PP2B and CaMKII
+| url       = 
+| journal   = Proceedings of the National Academy of Sciences
+| volume    = 105
+| issue     = 31
+| pages     = 10768–10773
+| doi       = 10.1073/pnas.0804672105
+| pmc       = 2504824
+| pmid      = 18669651
+| bibcode = 2008PNAS..10510768S
+| doi-access = free
+}}</ref><ref name="Li2012">{{cite journal
+|vauthors=Li L, Stefan MI, Le Novère N | date      = 2012
+| title     = Calcium input frequency, duration and amplitude differentially modulate the relative activation of calcineurin and CaMKII
+| url       = 
+| journal   = PLOS ONE
+| volume    = 7
+| issue     = 9
+| article-number     = e43810
+| doi       = 10.1371/journal.pone.0043810
+| pmc       = 3433481
+| pmid      = 22962589
+| bibcode = 2012PLoSO...743810L
+| doi-access = free
+}}</ref><ref name="Lai2015">{{cite journal
+|vauthors=Lai M, Brun D, Edelstein SJ, Le Novère N | date      = 2015
+| title     = Modulation of calmodulin lobes by different targets: an allosteric model with hemiconcerted conformational transitions
+| url       = 
+| journal   = PLOS Computational Biology
+| volume    = 11
+| issue     = 1
+| article-number     = e1004063
+| doi       = 10.1371/journal.pcbi.1004063
+| pmc       = 4303274
+| pmid      = 25611683
+| arxiv = 1406.2195
+| bibcode = 2015PLSCB..11E4063L
+| doi-access = free
+}}</ref>
+In parallel, his group coordinated the development of a consistent set of standards in systems biology, including the graphical notation [[SBGN]],<ref name="LeNovere2009">{{cite journal
+|vauthors=Le Novère N, Hucka M, Mi H, Moodie S, Shreiber F, Sorokin A, Demir E, Wegner K, Aladjem M, Wimalaratne S, Bergman FT, Gauges R, Ghazal P, Kawaji H, Li L, Matsuoka Y, Villéger A, Boyd SE, Calzone L, Courtot M, Dogrusoz U, Freeman T, Funahashi A, Ghosh S, Jouraku A, Kim S, Kolpakov F, Luna A, Sahle S, Schmidt E, Watterson S, Goryanin I, Kell DB, Sander C, Sauro H, Snoep JL, Kohn K, Kitano H | date      = 2009
+| title     = The Systems Biology Graphical Notation
+| url       = 
+| journal   = Nature Biotechnology
+| volume    = 27
+| issue     = 8
+| pages     = 735–741
+| doi       = 10.1038/nbt.1558
+| pmc       =  
+| pmid      = 19668183
+| hdl = 11693/38162
+| doi-access= free
+}}
+</ref> the guidelines [[MIRIAM]]<ref name="LeNovere2005">{{cite journal
+|vauthors=Le Novère N, Finney A, Hucka M, Bhalla US, Campagne F, Collado-Vides J, Crampin EJ, Halstead M, Klipp E, Mendes P, Nielsen P, Sauro H, Shapiro B, Snoep JL, Spence HD, Wanner BL | date      = 2005
+| title     = Minimum Information Requested In the Annotation of biochemical Models (MIRIAM)
+| url       = 
+| journal   = Nature Biotechnology
+| volume    = 23
+| issue     = 12
+| pages     = 1509–1515
+| doi       = 10.1038/nbt1156
+| pmc       = 
+| pmid      = 16333295
+| doi-access= free
+| hdl= 11858/00-001M-0000-0010-853F-C
+| hdl-access= free
+}}</ref> and [[MIASE]],<ref name="Waltemath2011a">{{cite journal
+|vauthors=Waltemath D, Adams R, Beard DA, Bergmann FT, Bhalla US, Britten R, Chelliah V, Cooling MT, Cooper J, Crampin E, Garny A, Hoops S, Hucka M, Hunter P, Klipp E, Laibe C, Miller A, Moraru I, Nickerson D, Nielsen P, Nikolski M, Sahle S, Sauro HM, Schmidt H, Snoep JL, Tolle D, Wolkenhauer O, Le Novère N | date      = 2011
+| title     = Minimum Information About a Simulation Experiment (MIASE
+| url       = 
+| journal   = PLOS Computational Biology
+| volume    = 7
+| issue     = 4
+| article-number     = e1001122
+| doi       = 10.1371/journal.pcbi.1001122
+| pmc       = 3084216
+| pmid      = 21552546
+| bibcode = 2011PLSCB...7E1122W
+| doi-access = free
+}}</ref> the languages [[SED-ML]]<ref name="Waltemath2011b">{{cite journal
+|vauthors=Waltemath D, Adams R, Bergmann FT, Hucka M, Kolpakov F, Miller AK, Moraru II, Nickerson D, Sahle S, Snoep JL, Le Novère N | date      = 2011
+| title     = Reproducible computational biology experiments with SED-ML - The Simulation Experiment Description Markup Language
+| url       = 
+| journal   = BMC Systems Biology
+| volume    = 5
+| issue     = 
+| page     = 198
+| doi       = 10.1186/1752-0509-5-198
+| pmc       = 3292844
+| pmid      = 22172142
+| doi-access = free
+}}</ref> and PharmML, and ontologies<ref name="Courtot2011">{{cite journal
+|vauthors=Courtot M, Juty N, Knüpfer C, Waltemath D, Zhukova A, Dräger A, Dumontier M, Finney A, Golebiewski M, Hastings J, Hoops S, Keating S, Kell DB, Kerrien S, Lawson J, Lister A, Lu J, Machne R, Mendes P, Pocock M, Rodriguez N, Villeger A, Wilkinson DJ, Wimalaratne S, Laibe C, Hucka M, Le Novère N | date      = 2011
+| title     = Controlled vocabularies and semantics in Systems Biology
+| url       = 
+| journal   = Molecular Systems Biology
+| volume    = 7
+| issue     = 
+| page     = 543
+| doi       = 10.1038/msb.2011.77
+| pmc       = 3261705
+| pmid      = 22027554
+}}</ref> such as the [[Systems Biology Ontology]]. He also created [[BioModels Database]]<ref name="LeNovere2006">{{cite journal
+|vauthors=Le Novère N, Bornstein B, Broicher A, Courtot M, Donizelli M, Dharuri H, Li L, Sauro H, Schilstra M, Shapiro B, Snoep JL, Hucka M | date      = 2006
+| title     = BioModels Database: A Free, Centralized Database of Curated, Published, Quantitative Kinetic Models of Biochemical and Cellular Systems
+| url       = 
+| journal   = Nucleic Acids Research
+| volume    = 34
+| issue     = 90001
+| pages     = D689–D691
+| doi       = 10.1093/nar/gkj092
+| pmc       = 1347454
+| pmid      = 16381960
+}}</ref> and the [[Identifiers.org]]<ref name="Juty2012">{{cite journal
+|vauthors=Juty N, Le Novère N, Laibe C | date      = 2012
+| title     = Identifiers.org and MIRIAM Registry: community resources to provide persistent identification
+| url       = 
+| journal   = Nucleic Acids Research
+| volume    = 40
+| issue     = Database issue
+| pages     = D580–D586
+| doi       = 10.1093/nar/gkr1097
+| pmc       = 3245029
+| pmid      = 22140103
+}}
+</ref> URIs.
+
+Le Novère moved his group to the [[Babraham Institute]] from 2012 to 2018.
+
+He was associate editor of the journals ''[[BMC Systems Biology]]'' and ''[[npj Systems Biology and Applications]]'' until September 2018. He has been section head for the section Systems and Network Biology of the Faculty of 1000 from 2017 to 2018.
+
+Senior member of the [[International Society for Computational Biology]], he served on its board of directors from 2017 to 2018.
+
+==Conviction==
+
+In September 2018, Le Novère was sentenced for 8 month (suspended for 2 years) when he admitted downloading indecent images of a child and possession of an extreme pornographic image.<ref>{{cite news |title=Scientist had abuse film of child, eight |url=https://www.bbc.co.uk/news/uk-england-cambridgeshire-45408872 |work=BBC News |date=4 September 2018}}</ref><ref>{{cite news |last1=Pilgrim |first1=Tom |title=Top Cambridge scientist admits downloading child abuse videos |url=https://www.cambridge-news.co.uk/news/cambridge-news/novere-babraham-court-child-sentence-15111018 |work=Cambridge News |date=4 September 2018}}</ref><ref>{{cite web
+ | title = Setting things straight
+ | url = https://nlenov.wordpress.com/2018/09/20/setting-things-straight/
+ | website = nlenov.wordpress.com
+ | date = 20 September 2018
+ | access-date = 24 October 2018}}
+</ref> Subsequently, he was dismissed from the Babraham Institute where he was working.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [https://scholar.google.com/citations?user=8zY7k_cAAAAJ&hl=en Nicolas Le Novère's Google Scholar page]
+* [http://www.ebi.ac.uk/biomodels BioModels Database]
+* [http://identifiers.org Identifiers.org URIs and resolving system]
+* [http://co.mbine.org The COMBINE initiative]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Le Novere, Nicolas}}
+[[Category:French bioinformaticians]]
+[[Category:Living people]]
+[[Category:French biologists]]
+[[Category:1969 births]]

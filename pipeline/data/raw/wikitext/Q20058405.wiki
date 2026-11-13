@@ -1,0 +1,104 @@
+{{short description|Irish bioinformatics professor (born 1959)}}
+{{Use dmy dates|date=January 2022}}
+{{Use Irish English|date=January 2022}}
+{{Infobox scientist
+| name              = Des Higgins
+| birth_name        = Desmond Gerard Higgins
+| image             = Des Higgins ISMB 2015.jpg
+| image_size        = 
+| alt               = 
+| caption           = Des Higgins speaking at the [[Intelligent Systems for Molecular Biology|ISMB]] conference in 2015.
+| birth_date        = {{birth date and age|df=yes|1959|07|17}}<ref name=LibraryOfCongress>{{LCAuth|no2001006610|Des Higgins||}}</ref>
+| birth_place       = 
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Evolution]]
+* [[Bioinformatics]]
+* [[Sequence alignment]]
+* [[Genomics]]<ref name=googlescholar/>}}
+| workplaces        = {{Plainlist|
+* [[University College Dublin]]
+* [[University College Cork]]<ref name=tcoffee/>}}
+| patrons           = 
+| education         = [[Trinity College, Dublin]] (PhD)
+| thesis_title      = A numerical taxonomy of the Pterygote insects
+| thesis_url        = https://www.proquest.com/docview/301410442
+| thesis_year       = 1988
+| doctoral_advisor  = 
+| academic_advisors = [[Paul M. Sharp]]<ref name=tree>{{cite web|url=https://academictree.org/compbio/peopleinfo.php?pid=58294|website=academictree.org|title=Des Higgins, PhD: Computational Biology Tree|url-status=dead|archiveurl=https://web.archive.org/web/20170714003201/https://academictree.org/compbio/peopleinfo.php?pid=58294|archivedate=2017-07-14}}</ref><ref name=SharpCowe1988>{{cite journal|last1=Sharp|first1=Paul M.|last2=Cowe|first2=Elizabeth|last3=Higgins|first3=Desmond G.|authorlink3=Desmond G. Higgins|last4=Shields|first4=Denis C.|last5=Wolfe|first5=Kenneth H.|authorlink5=Kenneth H. Wolfe|last6=Wright|first6=Frank|title=Codon usage patterns in Escherichia coli, Bacillus subtilis, Saccharomyces cerevisiae, Schizosaccharomyces pombe, Drosophila melanogaster and Homo sapiens; a review of the considerable within-species diversity|journal=[[Nucleic Acids Research]]|volume=16|issue=17|year=1988|pages=8207–8211|issn=0305-1048|doi=10.1093/nar/16.17.8207|pmid=3138659 |pmc=338553}}</ref>
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{Plainlist|
+* [[Clustal|CLUSTAL]]<ref name=HigginsSharp1988>{{cite journal|last1=Higgins|first1=Desmond G.|last2=Sharp|first2=Paul M.|authorlink2=Paul M. Sharp|title=CLUSTAL: a package for performing multiple sequence alignment on a microcomputer|journal=Gene|volume=73|issue=1|year=1988|pages=237–244|doi=10.1016/0378-1119(88)90330-7|pmid=3243435}}</ref><ref name=HigginsSharp1989>{{cite journal|last1=Higgins|first1=Desmond G.|last2=Sharp|first2=Paul M.|authorlink2=Paul M. Sharp|title=Fast and sensitive multiple sequence alignments on a microcomputer|journal=Bioinformatics|volume=5|issue=2|year=1989|pages=151–153|doi=10.1093/bioinformatics/5.2.151|pmid=2720464}}</ref><ref name=clustal1>{{Cite journal 
+| last1 = Thompson | first1 = J. D. 
+| last2 = Gibson | first2 = T. J. 
+| last3 = Plewniak | first3 = F. 
+| last4 = Jeanmougin | first4 = F. 
+| last5 = Higgins | first5 = D. G. 
+| title = The CLUSTAL_X windows interface: Flexible strategies for multiple sequence alignment aided by quality analysis tools 
+| journal = Nucleic Acids Research 
+| volume = 25 
+| issue = 24 
+| pages = 4876–4882 
+| year = 1997 
+| pmid = 9396791 
+| pmc = 147148 | doi=10.1093/nar/25.24.4876
+}}</ref><ref name=clustal2>{{Cite journal 
+| last1 = Thompson | first1 = J. D. 
+| last2 = Higgins | first2 = D. G. 
+| last3 = Gibson | first3 = T. J. 
+| title = CLUSTAL W: Improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice 
+| journal = Nucleic Acids Research 
+| volume = 22 
+| issue = 22 
+| pages = 4673–4680 
+| year = 1994 
+| pmid = 7984417 
+| pmc = 308517
+ | doi=10.1093/nar/22.22.4673
+}}</ref>
+* [[T-Coffee]]<ref name=tcoffee>{{Cite journal | doi = 10.1006/jmbi.2000.4042| pmid = 10964570| title = T-coffee: A novel method for fast and accurate multiple sequence alignment| journal = Journal of Molecular Biology| volume = 302| issue = 1| pages = 205–17| year = 2000| last1 = Notredame | first1 = C. D. | last2 = Higgins | first2 = D. G. | last3 = Heringa | first3 = J. | s2cid = 10189971}}</ref>}}
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[ISCB Fellow]] {{small|(2015)}}<ref name=icsb/>
+* [[Benjamin Franklin Award (Bioinformatics)|Benjamin Franklin Award]] {{small|(2018)}}<ref name="franklin">{{cite web|title=Benjamin Franklin Award - Bioinformatics.org|url=https://www.bioinformatics.org/franklin/|website=www.bioinformatics.org|accessdate=16 March 2018|language=en}}</ref>
+* [[Lennart Philipson Award]] {{small|(2023)}}
+}}
+| website           = {{Plainlist|
+* {{URL|http://www.bioinf.ucd.ie}}
+* {{URL|http://www.ucd.ie/conway/research/researchers/conwayfellowsa-z/professordeshiggins}}}}
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+
+'''Desmond Gerard Higgins''' is a [[Professor]] of [[Bioinformatics]] at [[University College Dublin]],<ref name=googlescholar/><ref name=gerard>{{cite web|archiveurl=https://web.archive.org/web/20150405025534/http://www.ucd.ie/conway/research/researchers/conwayfellowsa-z/professordeshiggins|archivedate=2015-04-05|url=http://www.ucd.ie/conway/research/researchers/conwayfellowsa-z/professordeshiggins|publisher=University College Dubin|location=Dublin|title=Professor Desmond Gerard Higgins B.A.(Mod), PhD.}}</ref><ref>{{cite web|archiveurl=https://web.archive.org/web/20141214110940/http://www.bioinf.ucd.ie/|archivedate=2014-12-14|url=http://www.bioinf.ucd.ie|title=Des Higgins laboratory|publisher=University College Dublin|url-status=dead}}</ref><ref>{{EuropePMC|ORCID=0000-0002-3952-3285}}</ref> widely known for [[Clustal|CLUSTAL]],<ref>{{YouTube|id=IQkOK3dsWs4|title=Des Higgins: Visualizing Multiple Sequence Alignments}}, Broad Institute</ref> a series of computer programs for performing [[multiple sequence alignment]]. According to ''[[Nature (journal)|Nature]]'', Higgins' papers describing CLUSTAL<ref name=clustal1/><ref name=clustal2/> are among the top ten most highly cited [[academic publishing|scientific papers]] of all time.<ref name=mostcited>{{Cite journal | doi = 10.1038/514550a| pmid = 25355343| title = The top 100 papers: Nature explores the most-cited research of all time| journal = [[Nature (journal)|Nature]]| volume = 514| issue = 7524| pages = 550–3| year = 2014| last1 = Van Noorden | first1 = R. | last2 = Maher | first2 = B. | last3 = Nuzzo | first3 = R.|author3-link= Regina Nuzzo | doi-access = free}}</ref><ref name=topten>{{cite web|archiveurl=https://web.archive.org/web/20150605122305/https://www.siliconrepublic.com/innovation/2014/10/30/irish-professor-des-higgins-in-top-10-most-cited-papers-of-all-time|archivedate=2015-06-05|url=https://www.siliconrepublic.com/innovation/2014/10/30/irish-professor-des-higgins-in-top-10-most-cited-papers-of-all-time|title=Irish professor Des Higgins in top 10 most cited papers of all time|first=Colm|last= Gorey|year=2014|publisher=siliconrepublic.com|location=Dublin}}</ref><ref name=scopus>{{Scopus id}}</ref>
+
+==Education==
+Higgins was educated at [[Trinity College, Dublin]]<ref name=orcid/> where he was awarded an B.A. (mod) in Botany in 1981 and [[Doctor of Philosophy|PhD]] in 1988 for research on [[numerical taxonomy]] of [[Pterygota|Pterygote insects]].<ref>{{cite book |last=Sherlock |first=D.J.M. |date=2006 |title=Trinity College Record Volume 2006 |location=Dublin |publisher=Trinity College Dublin Press |isbn=1-871408-07-5|page=}}</ref><ref name=phd>{{cite thesis |degree=PhD |first=Des|last=Higgins |title=A numerical taxonomy of Pterygote insects |publisher=Trinity College, Dublin |date=1981 |oclc=842505334|id={{ProQuest|301410442}}}}</ref>
+
+==Research==
+Research in the Higgins laboratory<ref name=googlescholar>{{Google scholar id}}</ref> focuses on developing new bioinformatics and statistical tools for [[evolutionary biology]]. The [[Clustal|CLUSTAL]] program for [[multiple sequence alignment]] has been developed in the Higgins lab and the [[T-Coffee]] software was initially developed in the lab with by Cedric Notredame. [[Multivariate statistics]] are used to analyse [[microarray]] data sets and [[molecular evolution]] such as the evolution of [[Promoter (genetics)|promoters]], [[intron]]s and [[non-coding RNA]].<ref name=gerard/><ref name=orcid>Des Higgins {{ORCID|0000-0002-3952-3285}}</ref>
+
+==Awards and honours==
+Higgins was elected a [[Fellow]] of the [[International Society for Computational Biology|International Society for Computational Biology (ISCB)]] in 2015.<ref name=icsb>{{cite web|archiveurl=https://web.archive.org/web/20150415092214/https://www.iscb.org/iscb-fellows|url=https://www.iscb.org/iscb-fellows|publisher=International Society for Computational Biology|archivedate=2015-04-15|title=ISCB Fellows}}</ref> He was awarded the Kimura Motoo Award in 2016 for his contributions to the advancement of evolutionary biology and molecular phylogeny.<ref name="motoo-award">{{cite web |title=Prof Des Higgins to Receive Kimura Motoo Award |url=https://www.ucd.ie/medicine/news/2016/april2016/title,325536,en.html |website=UCD School of Medicine |access-date=31 May 2021}}</ref> In 2018, Higgins received the [[Benjamin Franklin Award (Bioinformatics)|Benjamin Franklin Award]] for open access in the life sciences.<ref name="franklin" /> In March 2023, Higgins was awarded the Lennart Philipson Award in recognition of his major contributions towards enabling bioinformatics technologies based on multiple sequence alignment.<ref name="philipson-award">{{cite web |title=EMBL Alumni Awards Announced for 2023 |url=https://www.embl.org/news/alumni/embl-alumni-awards-announced-for-2023/ |website=EMBL Alumni Awards |date=29 March 2023 |access-date=31 March 2023}}</ref>
+
+==References==
+{{reflist}}
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Higgins, Desmond Gerard}}
+[[Category:Irish bioinformaticians]]
+[[Category:Living people]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:1959 births]]
+[[Category:Academics of University College Dublin]]
+[[Category:20th-century Irish mathematicians]]
+[[Category:21st-century Irish mathematicians]]
+[[Category:20th-century Irish biologists]]
+[[Category:21st-century Irish biologists]]

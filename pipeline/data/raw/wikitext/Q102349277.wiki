@@ -1,0 +1,112 @@
+{{Short description|US mechanics and physics academic}}
+
+{{Infobox scientist
+| name              = Jacques Denavit
+| birth_date        = {{Birth date|1930|10|1}} 
+| birth_place       = [[Paris]], France<ref name=":llnl"/>
+| death_date        = {{Death date and age|df=yes|2013|9|12|1930|10|1}}
+| death_place       = [[Pleasanton, California]], U.S.<ref name=":llnl"/>
+| education         = [[University of Paris]] ([[Bachelor of Science|BS]], 1952),<ref name=":rvc"/> [[Northwestern University]] ([[Master of Science|MSc]], 1953; [[Doctor of Philosophy|PhD]], 1956)<ref name=":llnl"/>
+}}
+
+'''Jacques Denavit''' (1 October 1930 – 12 September 2013)<ref name=":llnl"/> was a physicist and professor of mechanical engineering.
+Together with his teacher [[Richard S. Hartenberg]], he developed the [[DH parameters|Denavit-Hartenberg convention]] where one can calculate the [[forward kinematics]] of a [[kinematic chain]] using matrices.<ref name=":dmg"/><ref name=":kinnot"/> He joined the Department of Mechanical Engineering and Astronomical Science at [[Northwestern University|Northwestern]] in 1958. This is where Denavit started collaborating with [[Richard S. Hartenberg]]. Together, they introduced many concepts in kinematics of serial manipulators.<ref name=":rvc"/> Denavit was named a Fellow of the American Physical Society in 1977.<ref name=":llnl"/><ref name=":aps"/> He retired in 1982.<ref name=":rvc"/>
+
+==Selected publications==
+# A Kinematic Notation for Lower-Pair Mechanisms Based on Matrices (1955)<ref name=":kinnot"/>
+# Kinematic Synthesis of Linkages (1964)<ref name=":kinsynth"/>
+# Numerical simulation of plasmas with periodic smoothing in phase space (1972)<ref name=":simplasmas"/>
+
+== References ==
+<references>
+
+<ref name=":aps">
+{{cite web
+| author     = <!-- not stated -->
+|date        = <!-- not stated -->
+|title       = APS General Fellowship
+|url         = https://www.aps.org/funding-recognition/aps-fellowship/aps-general-fellowship
+|website     = www.aps.org
+|publisher   = American Physical Society
+|access-date = February 23, 2025
+}}</ref><ref name=":rvc">
+{{cite book
+|last        = Corke
+|first       = Peter
+|date        = 2017
+|title       = Robotics, Vision and Control. Fundamental Algorithms in MATLAB.
+|publisher   = Springer
+|page        = 198
+|isbn        = 978-3319544120
+}}</ref><ref name=":llnl">
+{{cite web
+| author=<!-- not stated -->
+| date=September 9, 2019<!--date from page source-->
+| title=Jacques Denavit
+| url=https://www.llnl.gov/community-education/employee-retirement-resources/in-memoriam/jacques-denavit
+| publisher=Lawrence Livermore National Laboratory
+| access-date=February 9, 2025
+}}</ref><ref name=":dmg">
+{{cite web
+|author      = <!-- not stated -->
+|date        = <!-- not stated -->
+|title       = Denavit, Jaques (1930 - )
+|url         = https://www.dmg-lib.org/dmglib/main/biogrViewer_content.jsp?id=420004&skipSearchBar=1#:~:text=Denavit%20was%20an%20expert%20in,systems%20using%20only%20four%20parameters.
+|publisher   = DFG Competence Centre for Research Information of Ilmenau
+|access-date = February 9, 2025
+}}</ref><ref name=":simplasmas">
+{{cite journal
+|last1       = Denavit
+|first1      = Jacques
+|year        = 1972
+|title       = Numerical simulation of plasmas with periodic smoothing in phase space
+|url         = https://www.sciencedirect.com/science/article/abs/pii/002199917290037X
+|journal     = Journal of Computational Physics
+|volume      = 9
+|issue       = 1
+|pages       = 75–98
+|doi         = 10.1016/0021-9991(72)90037-X
+|bibcode = 1972JCoPh...9...75D
+|access-date = February 23, 2025
+|url-access= subscription
+}}</ref><ref name=":kinnot">
+{{cite journal
+|last1=Denavit
+|first1=Jacques
+|last2=Hartenberg
+|first2=Richard Scheunemann
+|year        = 1955
+|title       = A Kinematic Notation for Lower-Pair Mechanisms Based on Matrices
+|url         = https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/22/2/215/1110292/A-Kinematic-Notation-for-Lower-Pair-Mechanisms?redirectedFrom=fulltext
+|journal     = Journal of Applied Mechanics
+|volume      = 22
+|issue       = 2
+|pages       = 215–221
+|publisher   = American Society of Mechanical Engineers
+|doi         = 10.1115/1.4011045
+|bibcode=1955JAM....22..215D
+|access-date = February 9, 2025
+|url-access= subscription
+}}</ref><ref name=":kinsynth">
+{{cite book
+|last1=Denavit
+|first1=Jacques
+|last2=Hartenberg
+|first2=Richard Scheunemann
+|year        = 1964
+|title       = Kinematic Synthesis of Linkages
+|publisher   = McGraw-Hill
+|isbn        = 9780070269101
+}}
+</ref>
+
+</references>
+
+[[Category:Mechanics (people)]]
+{{DEFAULTSORT:Denavit, Jacques}}
+[[Category:1930 births]]
+[[Category:2013 deaths]]
+[[Category:American mechanical engineers]]
+
+
+{{US-mechanical-engineer-stub}}

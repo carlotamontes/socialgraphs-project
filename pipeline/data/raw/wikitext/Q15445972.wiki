@@ -1,0 +1,102 @@
+{{short description|British physicist}}
+{{Use British English|date=August 2017}}
+{{Use dmy dates|date=August 2026}}
+{{Infobox scientist
+| honorific_suffix  = {{post-nominals|FRS|size=100%}}
+| name              = Sandu Popescu
+| image             = Sandu Popescu Royal Society.jpg
+| image_size        = 
+| caption           = Popescu at the [[Royal Society]] admissions day in London, July 2017
+| birth_date        = {{birth year and age|1956}}
+| birth_place       = [[Oradea]], Romania
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| fields            = [[Physics]]
+| workplaces        = [[University of Bristol]]
+| alma_mater        = 
+| doctoral_advisor  = [[Yakir Aharonov]]<ref>{{cite web|title=AcademicTree|url=https://academictree.org/physics/peopleinfo.php?pid=755107|website=academictree.org|access-date=29 January 2025}}</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{Plainlist|
+* [[Entanglement distillation]]
+* [[Quantum teleportation]]
+* [[Quantum nonlocality]]
+* [[Quantum nonlocality#Superquantum nonlocality|Superquantum nonlocality]]
+* [[Quantum Cheshire cat]]}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[Adams Prize]] (2001)
+* [[Clifford Paterson Lecture]] (2004)
+* [[John Stewart Bell Prize]] (2011)<ref>{{cite web|title=2011 John Stewart Bell Prize|url=https://cqiqc.physics.utoronto.ca/bell-prize/bell-prize-winners/|website=Cqiqc.physics.utoronto.ca|access-date=29 January 2025}}</ref>
+* [[Royal Society Wolfson Research Merit Award|Wolfson Research Merit Award]] (2012)
+* [[IOP Dirac Medal]] (2016)<ref>{{cite web|title=Dirac Medal Recipients|url=https://www.iop.org/about/awards/gold-medals/paul-dirac-medal-and-prize-recipients|website=Iop.org|access-date=29 January 2025}}</ref>
+* [[Cozzarelli Prize]] (2016)<ref>{{cite web|title=2016 Cozzarelli Prize|url=https://www.pnas.org/post/update/2016-cozzarelli-prize-recipients|website=pnas.org|access-date=28 January 2025}}</ref>
+* {{nowrap|[[Fellow of the Royal Society]] (2017)}}<ref>{{cite web|title=Fellow of the Royal Society|url=https://royalsociety.org/people/sandu-popescu-13414/|website=royalsociety.org|access-date=28 January 2025}}</ref>}}
+| website           = {{URL|sandupopescu.com}}
+}}
+
+'''Sandu Popescu''' {{post-nominals|FRS}}<ref name=":0" /> (born 1956 in [[Oradea]], Romania<ref>{{Cite web |last=mihai.rosoiu |date=2023-08-21 |title=Șomerul român care a reușit prima teleportare de particule din istorie |url=https://www.cancan.ro/somerul-roman-care-a-reusit-prima-teleportare-de-particule-din-istorie-viata-de-film-a-unui-savant-putin-cunoscut-in-propria-tara-20878816 |access-date=2025-01-29 |website=Cancan |language=ro}}</ref>) is a Romanian-British physicist working in the [[Quantum foundations|foundations]] of [[quantum mechanics]] and [[quantum information]].<ref>with H.-K. Lo, T. Spiller (Editor) '' Introduction to Quantum Information and Computation '', World Scientific, 1998.</ref>
+
+== Education and career ==
+He studied with [[Yakir Aharonov]], followed by [[postdoctoral research]] positions with [[François Englert]], and then with [[Abner Shimony]]<ref>{{Cite web |title=Abner Shimony (1928-2015) » Center for Philosophy & History of Science {{!}} Boston University |url=https://www.bu.edu/cphs/about/abner-shimony/ |access-date=2025-01-29 |website=bu.edu}}</ref> and Bahaa Saleh.<ref>{{Cite web |title=Workshop on the Informational Lens - Confirmed Speakers |url=https://sites.google.com/view/informational-lens-workshop-1/confirmed-speakers#h.ahtenjel2js0 |access-date=2025-01-29 |website=sites.google.com |language=en-US}}</ref> From 1996 to 1999 he was Reader at the Isaac Newton Institute, [[University of Cambridge]].<ref>{{Cite web |date=2021-02-15 |title=Annual Reports 1995-1996 |url=https://www.newton.ac.uk/documents/annual-reports/ |access-date=2025-01-29 |publisher=Isaac Newton Institute |language=EN}}</ref>
+
+Popescu has been Professor of Physics at the [[University of Bristol]] since 1999.<ref>{{Cite web |last=Bristol |first=University of |title=History of our school |url=https://www.bristol.ac.uk/physics/about/history.html |access-date=2025-01-29 |website=bristol.ac.uk |language=en-GB}}</ref>
+
+Popescu is co-editor and co-author of the first textbook on quantum information and computation.<ref>{{cite book |editor-last1=Popescu |editor-first1=Sandu |editor-last2=Lo |editor-first2=Hoi-Kwong |editor-last3=Spiller |editor-first3=Tim |title=Introduction To Quantum Computation And Information |date=1998 |publisher=World Scientific |isbn=978-981-238-525-3 |location=Singapore}}</ref>
+
+In 2015, Popescu appeared on Science Channel's [[Through the Wormhole|''Through the Wormhole with Morgan Freeman'']].
+
+== Research ==
+His most important contributions are in the area of [[quantum nonlocality]].<ref name=":0">{{Cite web |title=Fellow Detail Page {{!}} Royal Society |url=https://royalsociety.org/people/sandu-popescu-13414/ |access-date=2025-01-29 |website=royalsociety.org |language=en}}</ref> In collaboration with Daniel Rohrlich, simultaneously and independently from [[Nicolas Gisin]], Popescu showed that non-locality is a generic property of nature: every entangled pure quantum state (i. e. almost every pure state) has nonlocal properties.<ref>{{cite journal|last1=Popescu|first1=Sandu|last2=Rohrlich|first2=Daniel|title=Generic quantum nonlocality|journal=Physics Letters A|date=June 1992|volume=166|issue=5–6|pages=293–297|doi=10.1016/0375-9601(92)90711-T|bibcode=1992PhLA..166..293P}}</ref> In collaboration with [[Charles H. Bennett (computer scientist)|Charles Bennett]], Herbert Bernstein, and Benjamin Schumacher, he established the quantitative theory of entanglement by the discovery of entanglement concentration<ref>{{cite journal|last1=Bennett|first1=Charles H.|last2=Bernstein|first2=Herbert J.|last3=Popescu|first3=Sandu|last4=Schumacher|first4=Benjamin|title=Concentrating partial entanglement by local operations|journal=Physical Review A|date=1 April 1996|volume=53|issue=4|pages=2046–2052|doi=10.1103/PhysRevA.53.2046|pmid=9913106|arxiv=quant-ph/9511030|bibcode=1996PhRvA..53.2046B|s2cid=8032709}}</ref> and dilution, and together with Bennett, Schumacher, [[Gilles Brassard]], [[John Smolin]], and [[William Wootters]] a method of [[Entanglement distillation|entanglement purification (distillation)]].<ref>{{cite journal|last1=Bennett|first1=Charles H.|last2=Brassard|first2=Gilles|last3=Popescu|first3=Sandu|last4=Schumacher|first4=Benjamin|last5=Smolin|first5=John A.|last6=Wootters|first6=William K.|title=Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels|journal=Physical Review Letters|date=29 January 1996|volume=76|issue=5|pages=722–725|doi=10.1103/PhysRevLett.76.722|bibcode=1996PhRvL..76..722B|pmid=10061534|arxiv=quant-ph/9511027|s2cid=8236531}}</ref> These works introduced the idea of entanglement manipulation by [[LOCC|local operations and classical communication (LOCC)]], and introduced the notions of entanglement of distillation and entanglement of formation. He also proved that there is a unique measure of entanglement for pure bi-partite quantum states<ref>{{cite journal|last1=Popescu|first1=Sandu|last2=Rohrlich|first2=Daniel|title=Thermodynamics and the measure of entanglement|journal=Physical Review A|date=1 November 1997|volume=56|issue=5|pages=R3319–R3321|doi=10.1103/PhysRevA.56.R3319|arxiv=quant-ph/9610044|bibcode=1997PhRvA..56.3319P|s2cid=18480289}}</ref> (the [[von Neumann entropy]] of the reduced density matrix).
+
+With Daniel Rohrlich, Popescu showed that nonlocal correlations stronger than those allowed by quantum mechanics could exist without violating Einstein's principle of no [[Faster-than-light|superluminal signalling]].<ref>{{cite journal|last1=Popescu|first1=Sandu|last2=Rohrlich|first2=Daniel|title=Quantum nonlocality as an axiom|journal=Foundations of Physics|date=March 1994|volume=24|issue=3|pages=379–385|doi=10.1007/BF02058098|bibcode=1994FoPh...24..379P|s2cid=120333148}}</ref> These correlations are now known as Popescu-Rohrlich correlations (PR boxes). This work started the intensive research program taking place at the moment to find new principles of nature that would limit nonlocality to only quantum correlations, and in this way recover quantum mechanics from general principles.
+
+In 1997, he was one of the first researchers to implement quantum teleportation,<ref>{{cite journal|last1=Boschi|first1=D.|last2=Branca|first2=S.|last3=De Martini|first3=F.|last4=Hardy|first4=L.|last5=Popescu|first5=S.|title=Experimental Realization of Teleporting an Unknown Pure Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels|journal=Physical Review Letters|date=9 February 1998|volume=80|issue=6|pages=1121–1125|doi=10.1103/PhysRevLett.80.1121|bibcode=1998PhRvL..80.1121B|arxiv=quant-ph/9710013|s2cid=15020942}}</ref> one of the landmark experiments in quantum information.
+
+Another of Popescu's interests is the foundations of statistical mechanics. In collaboration with Noah Linden, Anthony J. Short and [[Andreas Winter]] he proved that virtually any quantum system interacting with a larger system (the "bath") reaches equilibrium.<ref>{{cite journal|last1=Linden|first1=Noah|last2=Popescu|first2=Sandu|last3=Short|first3=Anthony J.|last4=Winter|first4=Andreas|title=Quantum mechanical evolution towards thermal equilibrium|journal=Physical Review E|date=4 June 2009|volume=79|issue=6|article-number=061103|doi=10.1103/PhysRevE.79.061103|pmid=19658469|arxiv=0812.2385|bibcode=2009PhRvE..79f1103L|s2cid=29261455}}</ref> Crucially, this is the first demonstration of equilibration – the most important aspect of statistical mechanics – directly from first principles, without any additional assumptions. The result holds even in situations in which the standard assumptions of statistical mechanics do not apply, such as systems with strong long-range, non-screened interactions where temperature cannot even be defined. In an earlier work with Short and Winter he showed that the so-called equal a priori probability postulate, one of the basic postulates of statistical mechanics, is redundant, and is simply a consequence of typicality.<ref>{{cite journal|last1=Popescu|first1=Sandu|last2=Short|first2=Anthony J.|last3=Winter|first3=Andreas|title=Entanglement and the foundations of statistical mechanics|journal=Nature Physics|date=29 October 2006|volume=2|issue=11|pages=754–758|doi=10.1038/nphys444|arxiv=quant-ph/0511225|bibcode=2006NatPh...2..754P|s2cid=44243736}}</ref> (A similar proof is due to Goldstein et al.<ref>{{cite journal|last1=Goldstein|first1=Sheldon|last2=Lebowitz|first2=Joel L.|last3=Tumulka|first3=Roderich|last4=Zanghì|first4=Nino|title=Canonical Typicality|journal=Physical Review Letters|date=8 February 2006|volume=96|issue=5|article-number=050403|doi=10.1103/PhysRevLett.96.050403|pmid=16486907|bibcode=2006PhRvL..96e0403G|arxiv=cond-mat/0511091|s2cid=2110805}}</ref>)
+
+With Yakir Aharonov and his group, Popescu discovered a number of quantum paradoxes, such as the [[quantum Cheshire cat]],<ref>{{cite journal|last1=Aharonov|first1=Yakir|last2=Popescu|first2=Sandu|last3=Rohrlich|first3=Daniel|last4=Skrzypczyk|first4=Paul|title=Quantum Cheshire Cats|journal=New Journal of Physics|date=7 November 2013|volume=15|issue=11|article-number=113015|doi=10.1088/1367-2630/15/11/113015|arxiv=1202.0631|bibcode=2013NJPh...15k3015A|s2cid=55422570}}</ref><ref>{{cite news|title= 'Quantum Cheshire Cat' becomes reality|url=https://www.bbc.co.uk/news/science-environment-28543990}}</ref> and the quantum pigeonhole principle.<ref>{{cite journal|last1=Aharonov|first1=Yakir|last2=Colombo|first2=Fabrizio|last3=Popescu|first3=Sandu|last4=Sabadini|first4=Irene|author4-link=Irene Sabadini|last5=Struppa|first5=Daniele C.|last6=Tollaksen|first6=Jeff|title=Quantum violation of the pigeonhole principle and the nature of quantum correlations|journal=Proceedings of the National Academy of Sciences|date=19 January 2016|volume=113|issue=3|pages=532–535|doi=10.1073/pnas.1522411112|pmid=26729862|pmc=4725468|bibcode=2016PNAS..113..532A|doi-access=free}}</ref><ref>{{cite web|title=Pigeon paradox reveals quantum cosmic connections|url=https://www.newscientist.com/article/mg22329802.300-pigeon-paradox-reveals-quantum-cosmic-connections/|website=Newscientist.com|access-date=22 December 2017}}</ref> They also introduced the idea of superposition of time evolutions.<ref>{{cite journal|last1=Aharonov|first1=Yakir|last2=Anandan|first2=Jeeva|last3=Popescu|first3=Sandu|last4=Vaidman|first4=Lev|title=Superpositions of time evolutions of a quantum system and a quantum time-translation machine|journal=Physical Review Letters|date=18 June 1990|volume=64|issue=25|pages=2965–2968|doi=10.1103/PhysRevLett.64.2965|bibcode=1990PhRvL..64.2965A|pmid=10041860}}</ref>
+
+Together with Serge Massar, Popescu pioneered the study of optimal measurements and proved that in general they require collective (i.e. entangled) measurements on all of the particles in a finite statistical ensemble.<ref>{{cite journal|last1=Massar|first1=S.|last2=Popescu|first2=S.|title=Optimal Extraction of Information from Finite Quantum Ensembles|journal=Physical Review Letters|date=20 February 1995|volume=74|issue=8|pages=1259–1263|doi=10.1103/PhysRevLett.74.1259|bibcode=1995PhRvL..74.1259M|pmid=10058975|url=https://dipot.ulb.ac.be/dspace/bitstream/2013/37918/1/1995MassarPopescuStateEstimation.pdf}}</ref> 
+Among the counter-intuitive consequences of quantum theory is his discovery with [[Nicolas Gisin]] that two antiparallel spins contain more information about their direction than parallel spins.<ref>{{cite journal|last1=Gisin|first1=N.|last2=Popescu|first2=S.|title=Spin Flips and Quantum Information for Antiparallel Spins|journal=Physical Review Letters|date=12 July 1999|volume=83|issue=2|pages=432–435|doi=10.1103/PhysRevLett.83.432|bibcode=1999PhRvL..83..432G|arxiv=quant-ph/9901072|s2cid=55002749}}</ref>
+
+More recently Popescu's interest is in the thermodynamics of quantum systems. In collaboration with Noah Linden and Paul Skrzypczyk, he described the smallest possible refrigerator,<ref>{{cite journal|last1=Linden|first1=Noah|last2=Popescu|first2=Sandu|last3=Skrzypczyk|first3=Paul|title=How Small Can Thermal Machines Be? The Smallest Possible Refrigerator|journal=Physical Review Letters|date=21 September 2010|volume=105|issue=13|doi=10.1103/PhysRevLett.105.130401|bibcode=2010PhRvL.105m0401L|pmid=21230755|article-number=130401|arxiv=0908.2076|s2cid=2707740}}</ref> and together with Skrzypczyk and Anthony J. Short, extended the laws of thermodynamics to individual quantum systems.<ref>{{cite journal|last1=Skrzypczyk|first1=Paul|last2=Short|first2=Anthony J.|last3=Popescu|first3=Sandu|title=Work extraction and thermodynamics for individual quantum systems|journal=[[Nature Communications]]|year= 2014|volume=5|page=4185|doi=10.1038/ncomms5185|doi-access=free|pmid=24969511|arxiv=1307.1558|bibcode=2014NatCo...5.4185S|s2cid=205326939}}</ref>
+
+== Awards and honours ==
+Popescu has won numerous awards and honours including:
+* 2021 [[European Research Council]] (ERC) Advanced Grant on Fundamental Limits of Quantum Mechanics and Physical Laws in a Non-deterministic World<ref>{{Cite web |title=Fundamental Limits of Quantum Mechanics and Physical Laws in a Non-deterministic World {{!}} FLQuant Project {{!}} Fact Sheet {{!}} H2020 |url=https://cordis.europa.eu/project/id/101021085 |access-date=2025-01-29 |website=CORDIS {{!}} European Commission |language=en}}</ref>
+* 2017 Elected [[Fellow of the Royal Society]]<ref name=":0" />
+* 2016 [[Dirac Medal (IOP)|Dirac Medal]] from the [[Institute of Physics]]<ref>{{Cite web |title=Paul Dirac Medal and Prize recipients {{!}} Institute of Physics |url=https://www.iop.org/about/awards/gold-medals/paul-dirac-medal-and-prize-recipients |access-date=2025-01-29 |website=iop.org |language=en}}</ref>
+* 2016 Cozzarelli Prize<ref>{{cite web|url=http://www.pnas.org/site/misc/cozzarelliprize.xhtml|title=Cozzarelli Prize|website=Pnas.org|access-date=22 December 2017}}</ref>
+* 2012 [[Wolfson Research Merit Award]]<ref>{{cite web|title=Royal Society announces next round of prestigious Wolfson Research Merit Awards|url=https://royalsociety.org/news/2012/wolfsons-round-2-2012/|website=Royalsociety.org|access-date=22 December 2017}}</ref>  –  awarded by the [[Royal Society]]
+* 2012–2015 Templeton Frontiers Distinguished Visiting Research Chair  –  [[Perimeter Institute]]
+* 2011 John Stewart Bell Prize<ref>{{cite web |title=Bell Prize Winners |url=https://cqiqc.physics.utoronto.ca/bell-prize/bell-prize-winners/ |access-date=29 January 2025 |website=Cqiqc.physics.utoronto.ca}}</ref>
+* 2011 [[European Research Council]] (ERC) Advanced Grant on Nonlocality in Space and Time<ref>{{cite news |title=ERC Advanced Grant 2011 |url=https://erc.europa.eu/sites/default/files/document/file/erc_2011_adg_results_all_domains.pdf |access-date=29 January 2025 |website=erc.europa.eu}}</ref>
+* 2004 [[Clifford Paterson Lecture]]<ref>{{cite web|title=Award winners: Clifford Paterson Lecture|url=https://docs.google.com/spreadsheets/d/1dsunM9ukGLgaW3HdG9cvJ_QKd7pWjGI0qi_fCb1ROD4/pubhtml?gid=434203726&single=true|website=Docs.google.com|access-date=22 December 2017}}</ref>  –  awarded by The Royal Society
+* 2001 [[Adams Prize]]  –  awarded by the Faculty of Mathematics, [[University of Cambridge]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.bristol.ac.uk/physics/people/sandu-popescu/index.html Academic page] University of Bristol
+* [https://www.youtube.com/watch?v=vqQJuPsPEHg&list=EL9_dHxY8pjFjoA69U6b6NQg&index=5 Through the Wormhole with Morgan Freeman – Can Time go Backwards?]
+
+{{FRS 2017}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Popescu, Sandu}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:People from Oradea]]
+[[Category:Romanian physicists]]
+[[Category:Physicists of the University of Bristol]]
+[[Category:British quantum physicists]]
+[[Category:Quantum information scientists]]
+[[Category:British fellows of the Royal Society]]

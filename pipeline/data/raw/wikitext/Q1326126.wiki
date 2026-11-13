@@ -1,0 +1,106 @@
+{{Short description|American physicist}}
+{{Infobox scientist
+| name             = James P. Gordon
+| image            = James_P_Gordon.jpg
+| birth_date       = {{Birth date|1928|3|20}}
+| birth_place      = [[New York City, New York|New York City]], [[New York (state)|New York]], U.S.
+| death_date       = {{death date and age|2013|6|21|1928|3|20|mf=y}}
+| death_place      = Manhattan, New York City, U.S.
+| nationality      = 
+| field            = [[Physics]]
+| workplaces       = [[Bell Labs]]
+| education        = [[Columbia University]]<br />[[Massachusetts Institute of Technology]]
+| doctoral_advisor = [[Charles Hard Townes]]
+}}
+'''James Power Gordon''' (March 20, 1928&nbsp;– June 21, 2013) was an American physicist known for his work in the fields of [[optics]] and [[quantum electronics]]. His contributions include the design, analysis and construction of the first [[maser]] in 1954 as a doctoral student at [[Columbia University]] under the supervision of [[Charles Hard Townes|C. H. Townes]], development of the quantal equivalent of [[Claude Shannon|Shannon]]'s [[Channel Capacity|information capacity]] formula in 1962, development of the theory for the diffusion of atoms in an optical trap (together with [[Arthur Ashkin|A. Ashkin]]) in 1980, and the discovery of what is now known as the [[Gordon-Haus effect]] in [[soliton]] transmission, together with [[H. A. Haus]] in 1986. Gordon was a member of the [[National Academy of Engineering]] (since 1985) and the [[National Academy of Sciences]] (since 1988).
+
+==Biography and personal life==
+J. P. Gordon was born in [[Brooklyn]], [[New York (state)|New York]], on March 20, 1928, and was raised in [[Forest Hills, Queens]] and [[Scarsdale, New York]].<ref name=NYTObit/> His father, Robert S. Gordon was a lawyer and worked as VP and General Counsel for National Dairy, now Kraftco. Gordon attended [[Scarsdale High School]] and [[Phillips Exeter Academy]] (Class of 1945). In 1949, he received a bachelor's degree from the [[Massachusetts Institute of Technology]] (MIT) and joined the physics department of [[Columbia University]] as a graduate student. He received his master's degree and PhD degrees in physics in 1951 and 1955, respectively. In the framework of his doctoral research he designed, built and demonstrated the successful operation of the first maser together with [[Herbert J. Zeiger]] and with his doctoral advisor [[Charles H. Townes]]. The invention of the maser won the [[Nobel Prize in Physics]], which C.H. Townes shared in 1964 with the Russian scientists [[Nikolay Basov|N. Bassov]] and [[Alexander Prokhorov|A. Prokhorov]]. Starting in 1955 and until his retirement in 1996, Gordon worked as a scientist at AT&T Bell-Laboratories, where in the period between 1958 and 1980 he headed the Quantum Electronics Research Department, located initially in [[Murray Hill, New Jersey|Murray Hill]] and later in [[Holmdel Township, New Jersey|Holmdel Township]], both in the state of New Jersey. In 1962–1963, he spent one year as a visiting professor at the [[University of California, San Diego]].
+
+In 1960, he married Susanna Bland Waldner, a former Bell-Labs computer programmer. The couple had three children: James Jr., Susanna, and Sara. A resident of [[Rumson, New Jersey]], he died aged 85 on June 21, 2013, at a hospital in New York City due to cancer.<ref name=NYTObit>Martin, Douglas. [https://www.nytimes.com/2013/07/28/science/james-gordon-dies-at-85-work-paved-way-for-laser.html?pagewanted=all "James Gordon Dies at 85; Work Paved Way for Laser"], ''[[The New York Times]]'', July 27, 2013. Accessed July 29, 2013.</ref><ref name=death>{{cite news|url=http://www.app.com/article/20130625/NJNEWS/306250135/James-P-Gordon-noted-physicist-dead-at-85?nclick_check=1|title=James P. Gordon, noted physicist, dead at 85|publisher=APP|date=Jun 26, 2013}}</ref>
+
+In addition to his scientific career, Gordon played [[platform tennis]], having won the U.S. National Championship for men's doubles in 1959, and mixed doubles in 1961 and 1962.<ref name="ref2"/><ref name="ref3"/>
+
+Gordon's brother, Robert S. Gordon Jr. (1926–1985) set up a Cholera Clinic in East Pakistan, where he made seminal contributions to the study of this disease<ref>https://www.washingtonpost.com/archive/local/1985/08/04/nih-official-robert-gordon-dies-at-age-59/116e6233-fb72-4e60-8835-8fd9a214f605/</ref>. The Gordon Lecture in Epidemiology is a yearly award in his honor, granted by the [[National Institutes of Health]] (NIH).<ref name="ref1"/>
+
+==Scientific activity==
+
+===Lasers and resonators===
+[[Image:Maser components, 1954.jpg|thumb|upright|left|200px|Picture of James P. Gordon with Charles H. Townes behind maser components, at the exhibit in National Museum of American History, Washington, DC, USA.]]
+During his doctoral training period with C.H. Townes at Columbia University, Gordon worked on the design, analysis and construction of the maser.<ref name="ref4"/> This work produced the first prototype of what later evolved into the [[laser]] (originally called "optical maser") and became one of the most important workhorses in 20th-century technology.<ref name="ref5"/> Gordon's later contribution to lasers included the analysis of the confocal, or curved mirror laser resonator. He joined with G. Boyd, to introduce the concept of Hermite-Gaussian modes into resonator study,<ref name="ref6"/> influencing all subsequent research conducted on laser resonators. In his work with R.L. Fork and O.E. Martinez in 1994, a mechanism for generating tunable negative dispersion using pairs of prisms was proposed. This invention was instrumental in achieving ultra-short laser pulses, critical in many applications using laser technology.<ref name="ref7"/>
+
+===Quantum information===
+In 1962, Gordon studied the implications of [[quantum mechanics]] on Shannon's information capacity.<ref name="ref8"/> He pointed out the main effects of quantization and conjectured the quantum equivalent of Shannon's formula for the information capacity of a channel.<ref name="ref9"/> Gordon's conjecture, later proven by [[Alexander Holevo]] and known as [[Holevo's theorem]], became one of the central results in the modern field of [[quantum information]] theory.<ref name="ref10"/> In his work with W.H. Louisell published in 1966, Gordon addressed the problem of measurement in quantum physics, focusing in particular on the simultaneous measurement of noncommuting observables.<ref name="ref11"/> The concept of "measurement operator," which was introduced in that work was an early version of what is currently referred to as [[POVM|positive-operator valued measure (POVM)]] in the context of quantum measurement theory. After his retirement, Gordon re-engaged with the topic of quantum information and his last paper on the subject, titled "Communication and Measurement", was published on [[ArXiv|arxiv]] one year after his death.<ref name="ref1000"/>
+
+===Atom diffusion===
+Having joined [[Arthur Ashkin]]'s efforts of manipulating microparticles with laser beams, Gordon wrote the first theory describing radiation forces and momenta in dielectric media.<ref name="ref12"/> Later, jointly with Ashkin, he modeled the motion of atoms in a radiation trap.<ref name="ref125"/> This work together with Ashkin's experiments, was the basis for what later developed into the fields of [[Magneto-optical trap|atom trapping]] and [[optical tweezers]]. Ashkin's work on optical tweezers was recognized with the Nobel Prize in Physics awarded to him in 2018.
+
+===Solitons and optical communications===
+Much of Gordon's later career focused on the study of soliton transmission in optical fibers. He reported the first experimental observation of solitons in optical fibers in a paper co-authored with R.H. Stolen and [[Linn F. Mollenauer|L.F. Mollenauer]].<ref name="ref13"/> In a seminal 1986 paper, Gordon explained and formulated the theory of the soliton self-frequency shift that had been observed prior to that in experiments.<ref name="ref14"/> In the same year, together with Prof. [[H. A. Haus]] of the Massachusetts Institute of Technology (MIT), he predicted and quantified the timing-jitter effect resulting from the coupling between solitons and optical amplification noise in amplified optical systems.<ref name="ref15"/> This effect was shown to be one of the most fundamental factors in determining the performance of soliton systems and it is now broadly recognized as the Gordon-Haus effect.<ref name="ref16"/> In 1990, Gordon and Mollenauer predicted and analyzed the enhancement of phase-noise as a result of the optical nonlinearity of fibers.<ref name="ref16.5"/> This phenomenon, often referred to as the Gordon-Mollenauer effect, was a key factor in preventing the use of solitons in coherent optical communications.
+
+Gordon's most recent major contribution to the field of fiber-optic communications was in the mathematical formulation of the phenomenon of [[polarization mode dispersion]] (PMD), which constitutes one of the most important factors in determining the performance of fiber-optic systems. His paper, coauthored with [[Herwig Kogelnik|H. Kogelnik]], appeared in the Proceedings of the National Academy of Sciences, and the formulation presented therein became standard in many of the subsequent texts dealing with polarization phenomena in optical fibers.<ref name="ref17"/>
+
+==Societies and honors==
+* Fellow of the [[American Physical Society]]
+* Fellow of the [[Optical Society of America]] (OSA)
+* Life fellow of [[IEEE]]
+* [[Charles Hard Townes Award]] (OSA, 1981)<ref>{{cite web | url=http://www.osa.org/Awards_and_Grants/Awards/Award_Description/charlestownes/ | title=Charles Hard Townes Medal &#124; Optica }}</ref>
+* [[National Academy of Engineering]] ([[List of members of the National Academy of Engineering|member]] since 1985)
+* [[National Academy of Sciences]] ([[List of members of the National Academy of Sciences (Engineering sciences)|member]] since 1988)
+* [[Max Born Award]] (OSA, 1991)<ref>{{cite web | url=http://www.osa.org/Awards_and_Grants/Awards/Award_Description/maxborn/ | title=Max Born Award &#124; Optica }}</ref>
+* [[Willis E. Lamb Award]] for [[laser science]] and quantum optics (2001)<ref>{{Cite web|url=http://www.lambaward.org/2001/|title=The 2001 Willis e. Lamb Award for Laser Science and Quantum Optics}}</ref>
+* [[Frederic Ives Medal/Jarus W. Quinn Prize|Fredric Ives Medal/Jarus W. Quinn Prize]] (OSA, 2002)<ref>{{cite web | url=http://www.osa.org/Awards_and_Grants/Awards/Award_Description/ivesquinn/ | title=Frederic Ives Medal / Jarus W. Quinn Prize &#124; Optica }}</ref>
+* Honorary Member of the Optical Society (OSA, 2011)<ref>{{cite web | url=http://www.osa.org/Membership/Member_Categories/Honorary/ | title=Honorary Members &#124; Optica }}</ref>
+
+==References==
+{{Reflist|2|refs=
+<ref name="ref1">[https://prevention.nih.gov/news-events/robert-s-gordon-jr-lecture-epidemiology?/ Gordon Lecture in Epidemiology]</ref>
+<ref name="ref2">[http://www.platformtennis.org/Tournaments/national_champions___rankings/Mens-Champions.htm?/ List of Men's Doubles National Champions in Platform Tennis]</ref>
+<ref name="ref3">[http://www.platformtennis.org/tournaments/Mixed_Doubles_National_Champions.htm?/ List of Mixed Doubles National Champions in Platform Tennis]</ref>
+<ref name="ref4">{{cite journal | last1=Gordon | first1=J. P. | last2=Zeiger | first2=H. J. | last3=Townes | first3=C. H. | title=The Maser—New Type of Microwave Amplifier, Frequency Standard, and Spectrometer | journal=Physical Review | publisher=American Physical Society (APS) | volume=99 | issue=4 | date=1955-08-15 | issn=0031-899X | doi=10.1103/physrev.99.1264 | pages=1264–1274| bibcode=1955PhRv...99.1264G |doi-access=free}}</ref>
+<ref name="ref5">{{cite journal | last=Gordon | first=James P. | title=Reflections on the First Maser | journal=Optics and Photonics News | publisher=The Optical Society | volume=21 | issue=5 | date=2010-05-01 | issn=1047-6938 | doi=10.1364/opn.21.5.000034 | pages=34–41}}</ref>
+<ref name="ref6">{{cite journal | last1=Boyd | first1=G. D. | last2=Gordon | first2=J. P. | title=Confocal Multimode Resonator for Millimeter Through Optical Wavelength Masers | journal=Bell System Technical Journal | publisher=Institute of Electrical and Electronics Engineers (IEEE) | volume=40 | issue=2 | year=1961 | issn=0005-8580 | doi=10.1002/j.1538-7305.1961.tb01626.x | pages=489–508}}</ref>
+<ref name="ref7">{{cite journal | last1=Brabec | first1=Thomas | last2=Krausz | first2=Ferenc | title=Intense few-cycle laser fields: Frontiers of nonlinear optics | journal=Reviews of Modern Physics | publisher=American Physical Society (APS) | volume=72 | issue=2 | date=2000-04-01 | issn=0034-6861 | doi=10.1103/revmodphys.72.545 | pages=545–591| bibcode=2000RvMP...72..545B }}</ref>
+<ref name="ref8">{{cite journal | last=Gordon | first=J. | title=Quantum Effects in Communications Systems | journal=Proceedings of the IRE | publisher=Institute of Electrical and Electronics Engineers (IEEE) | volume=50 | issue=9 | year=1962 | issn=0096-8390 | doi=10.1109/jrproc.1962.288169 | pages=1898–1908| s2cid=51631629 }}</ref>
+<ref name="ref9">{{cite book|title=Quantum electronics and coherent light|first1=J.P.|last1= Gordon|first2= P.A. |last2=Miles|series= Proceedings of the International School of Physics Enrico Fermi, Course XXXI|pages=156–181|year=1964|publisher=Academic press|location=New York|oclc=500770}}</ref>
+<ref name="ref10">{{cite journal | last=Holevo | first=A.S. | title=The capacity of the quantum channel with general signal states | journal=IEEE Transactions on Information Theory | volume=44 | issue=1 | year=1998 | issn=0018-9448 | doi=10.1109/18.651037 | pages=269–273|arxiv=quant-ph/9611023}}</ref>
+<ref name="ref11">Simultaneous measurements of noncommuting observables, J. P. Gordon and W. H. Louisell, in Physics of Quantum Electronics, P. L. Kelley, M. Lax, and P. E. Tannenwald, Eds. New York: McGraw-Hill, 1966, pp. 833-840.</ref>
+<ref name="ref1000">[https://arxiv.org/abs/1407.1326\ Communication and Measurement: J.P. Gordon, arXiv:1407.1326 &#91;quant-ph&#93; (2014).]</ref>
+<ref name="ref12">{{cite journal | last=Gordon | first=James P. | title=Radiation Forces and Momenta in Dielectric Media | journal=Physical Review A | publisher=American Physical Society (APS) | volume=8 | issue=1 | date=1973-07-01 | issn=0556-2791 | doi=10.1103/physreva.8.14 | pages=14–21| bibcode=1973PhRvA...8...14G }}</ref>
+<ref name="ref125">{{cite journal | last1=Gordon | first1=J. P. | last2=Ashkin | first2=A. | title=Motion of atoms in a radiation trap | journal=Physical Review A | publisher=American Physical Society (APS) | volume=21 | issue=5 | date=1980-05-01 | issn=0556-2791 | doi=10.1103/physreva.21.1606 | pages=1606–1617| bibcode=1980PhRvA..21.1606G |doi-access=}}</ref>
+<ref name="ref13">{{cite journal | last1=Mollenauer | first1=L. F. | last2=Stolen | first2=R. H. | last3=Gordon | first3=J. P. | title=Experimental Observation of Picosecond Pulse Narrowing and Solitons in Optical Fibers | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=45 | issue=13 | date=1980-09-29 | issn=0031-9007 | doi=10.1103/physrevlett.45.1095 | pages=1095–1098| bibcode=1980PhRvL..45.1095M }}</ref>
+<ref name="ref14">{{cite journal | last=Gordon | first=J. P. | title=Theory of the soliton self-frequency shift | journal=Optics Letters | publisher=The Optical Society | volume=11 | issue=10 | date=1986-10-01 | pages=662–4 | issn=0146-9592 | doi=10.1364/ol.11.000662 | pmid=19738721 | bibcode=1986OptL...11..662G }}</ref>
+<ref name="ref15">{{cite journal | last1=Gordon | first1=J. P. | last2=Haus | first2=H. A. | title=Random walk of coherently amplified solitons in optical fiber transmission | journal=Optics Letters | publisher=The Optical Society | volume=11 | issue=10 | date=1986-10-01 | pages=665–7 | issn=0146-9592 | doi=10.1364/ol.11.000665 | pmid=19738722 | bibcode=1986OptL...11..665G }}</ref>
+<ref name="ref16">{{cite book|title=Nonlinear Fiber Optics|first=G.P. |last=Agrawal|edition=2nd |publisher=Academic press|location=New York|year=1995|isbn=978-0123958211}}</ref>
+<ref name="ref16.5">{{cite journal | last1=Gordon | first1=J. P. | last2=Mollenauer | first2=L. F. | title=Phase noise in photonic communications systems using linear amplifiers | journal=Optics Letters | publisher=The Optical Society | volume=15 | issue=23 | date=1990-12-01 | pages=1351–3 | issn=0146-9592 | doi=10.1364/ol.15.001351 | pmid=19771087 | bibcode=1990OptL...15.1351G }}</ref>
+<ref name="ref17">{{cite journal | last1=Gordon | first1=J. P. | last2=Kogelnik | first2=H. | title=PMD fundamentals: Polarization mode dispersion in optical fibers | journal=Proceedings of the National Academy of Sciences | volume=97 | issue=9 | date=2000-04-25 | issn=0027-8424 | doi=10.1073/pnas.97.9.4541 | pages=4541–4550| pmid=10781059 | pmc=34323 | bibcode=2000PNAS...97.4541G |doi-access=free}}</ref>}}
+
+== External links ==
+* [http://www.scienceclarified.com/scitech/Lasers/The-Development-of-Lasers.html#b  The development of lasers from the website of Science Clarified.]
+* [http://www.nature.com/nphoton/journal/v5/n6/full/nphoton.2011.101.html Nature photonics interview with A. Ashkin on the development of atom cooling and optical tweezers]
+* [http://newscenter.berkeley.edu/2010/01/19/laserfest/ Interview with C.H. Townes for the laser’s 50th birthday]
+* [http://www.rp-photonics.com/gordon_haus_jitter.html  The Gordon-Haus effect explained, Encyclopedia of Laser Physics and Technology]
+* [http://www.osa.org/en-us/foundation/donate/current_campaigns/james_p_gordon_memorial_speakership/gordon_symposium/ Scientists (including three Nobel prize laureates) talk at a symposium held in Gordon's memory]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gordon, James P.}}
+[[Category:1928 births]]
+[[Category:2013 deaths]]
+[[Category:Deaths from cancer in New York (state)]]
+[[Category:Columbia Graduate School of Arts and Sciences alumni]]
+[[Category:American experimental physicists]]
+[[Category:American optical physicists]]
+[[Category:Laser researchers]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Scientists from Brooklyn]]
+[[Category:People from Forest Hills, Queens]]
+[[Category:People from Rumson, New Jersey]]
+[[Category:People from Scarsdale, New York]]
+[[Category:Phillips Exeter Academy alumni]]
+[[Category:Platform tennis players]]
+[[Category:Scientists from New York (state)]]
+[[Category:Fellows of the American Physical Society]]

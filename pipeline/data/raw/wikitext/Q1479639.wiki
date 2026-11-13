@@ -1,0 +1,71 @@
+{{Short description|German physicist}}
+{{Infobox scientist
+| name              = Jürgen Nührenberg
+| native_name       = 
+| native_name_lang  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|1942|02|02}}
+| birth_place       = 
+| death_date        = <!-- {{death date and age |yyyy|mm|dd|1942|02|02}} -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| citizenship       = 
+| fields            = [[Plasma physics]]
+| workplaces        = [[Max Planck Institute for Plasma Physics]]<br>[[University of Greifswald]]
+| patrons           = 
+| education         = [[University of Göttingen]] <br> [[LMU Munich]] (Ph.D.)
+| alma_mater        = 
+| thesis_title      = Lineare und toroidale magnetohydrostatische Gleichgewichte
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1969
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Stellarator|Stellarator physics]]<br>[[Quasisymmetry]]<br>[[Quasi-isodynamic stellarator|Quasi-isodynamicity]]<br>[[Wendelstein 7-X]]
+| awards            = {{plainlist|
+* [[Hannes Alfvén Prize]] (2010)
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = 
+| footnotes         = 
+}}
+
+'''Jürgen Nührenberg''' (born February 2, 1942, in [[Berlin]]) is a German [[Plasma (physics)|plasma physicist]].
+
+Nührenberg studied physics at the [[University of Göttingen]] and [[LMU Munich]], where he received his doctorate from {{Interlanguage link|Arnulf Schlüter|lt=|de|Arnulf Schlüter|qid=Q697727}} in 1969 (translated: ''Linear and Toroidal Magnetohydrostatic Equilibria'').<ref>{{Cite book|url=https://books.google.com/books?id=PUAzAAAAMAAJ&q=%22Lineare+und+toroidale+magnetohydrostatische+Gleichgewichte%22&pg=PA2277|title=Scientific and Technical Aerospace Reports|date=1970|publisher=NASA, Office of Scientific and Technical Information|language=en}}</ref> He was a post-doctoral student at the [[University of Iowa]] and the [[Courant Institute of Mathematical Sciences]] of [[New York University]]. In 1971, he worked at the [[Max Planck Institute for Plasma Physics]] (IPP) in [[Garching]] near Munich, where he dealt with the theory of [[stellarator]]s for controlled [[nuclear fusion]].
+
+In 1979, he became the head of the group ''"Theorie dreidimensionaler Systeme"'' (Theory of three-dimensional systems) and in 1981 the head of the group "''Stellaratorphysik''" (Stellarator Physics). In 1996, he became a scientific member of the IPP. In 1997, he became the Greifswald branch director of the IPP and a professor at the [[University of Greifswald]].<ref>{{Cite web|title=Gemeinsame Berufung an IPP und Universität Greifswald|url=https://www.ipp.mpg.de/ippcms/de/presse/archiv/07_97_pi|access-date=2020-06-13|website=www.ipp.mpg.de|language=de}}</ref>
+
+In the 1980s, Nührenberg and [[Allen Boozer]] developed methods to optimize the magnetic field of the [[stellarator]] in such a way that the stability of plasma confinement became comparable to those of the [[tokamak]]. In contrast to tokamaks, stellarators work continuously but have more complicated [[magnetic field]]s that do not have simple [[rotational symmetry]]. Boozer formulated conditions of stability for the stellarator magnetic fields (including quasi-symmetry) and Nührenberg showed that these could be implemented in concrete magnetic field configurations.<ref>{{Cite journal|last1=Beidler|first1=Craig|last2=Grieger|first2=Günter|last3=Herrnegger|first3=Franz|last4=Harmeyer|first4=Ewald|last5=Kisslinger|first5=Johann|last6=Lotz|first6=Wolf|last7=Maassberg|first7=Henning|last8=Merkel|first8=Peter|last9=Nührenberg|first9=Jürgen|last10=Rau|first10=Fritz|last11=Sapper|first11=Jörg|date=1990|title=Physics and Engineering Design for Wendelstein VII-X|journal=Fusion Technology|language=en|volume=17|issue=1|pages=148–168|doi=10.13182/FST90-A29178|bibcode=1990FuTec..17..148B |hdl=11858/00-001M-0000-0027-655E-7|issn=0748-1896|hdl-access=free}}</ref><ref>{{Cite journal|last1=Grieger|first1=G.|last2=Beidler|first2=C.|last3=Harmeyer|first3=E.|last4=Lotz|first4=W.|last5=KißLinger|first5=J.|last6=Merkel|first6=P.|last7=Nührenberg|first7=J.|last8=Rau|first8=F.|last9=Strumberger|first9=E.|last10=Wobig|first10=H.|date=1992|title=Modular Stellarator Reactors and Plans for Wendelstein 7-X|journal=Fusion Technology|language=en|volume=21|issue=3P2B|pages=1767–1778|doi=10.13182/FST92-A29977|bibcode=1992FuTec..21.1767G |issn=0748-1896}}</ref>
+
+In 1988, Nührenberg published the first ever numerical approximation to quasi-helical symmetry in a stellarator with buildable coils.<ref>{{cite journal |last1=Nührenberg |first1=J. |last2=Zille |first2=R.|title=Quasi-helically symmetric toroidal stellarators |journal=Physics Letters A |date=1988 |volume=129 |issue=2 |doi=10.1016/0375-9601(88)90080-1 |url=https://www.sciencedirect.com/science/article/abs/pii/0375960188900801|url-access=subscription }}</ref>
+
+These concepts were experimentally implemented in the [[Wendelstein 7-AS]] stellarator, and provided the fundamental novel property of the [[Wendelstein 7-X]] stellarator in Greifswald and the [[HSX]] stellarator in the United States.<ref>{{Cite web|title=Wendelstein 7-AS|url=https://www.ipp.mpg.de/2665443/w7as|access-date=2020-06-13|website=www.ipp.mpg.de|language=en}}</ref> Since 1990, Nührenberg has been a member of the project management team involved in the planning of the Wendelstein 7-X and has played a key role in its development.
+
+In 2010, he received the [[Hannes Alfvén Prize]] with Allen Boozer for "''the formulation and practical application of criteria allowing [[stellarator]]s to have good fast-particle and neoclassical energy confinement''".<ref>{{Cite web|title=Europäische Auszeichnung für IPP-Plasmaphysiker|url=https://www.ipp.mpg.de/ippcms/de/presse/pi/08_10_pi|access-date=2020-06-13|website=www.ipp.mpg.de|language=de}}</ref><ref>{{Cite web|title=Alfvén Prize {{!}} European Physical Society – Plasma Physics Division|url=http://plasma.ciemat.es/eps/awards/alfven-prize/|access-date=2020-06-13|language=en-US}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Hannes Alfvén Prize recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Nührenberg, Jürgen}}
+[[Category:Living people]]
+[[Category:1942 births]]
+[[Category:German plasma physicists]]
+[[Category:University of Göttingen alumni]]
+[[Category:LMU Munich alumni]]

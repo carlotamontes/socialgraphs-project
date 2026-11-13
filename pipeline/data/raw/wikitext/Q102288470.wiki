@@ -1,0 +1,133 @@
+{{Use dmy dates|date=March 2026}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Werner Siegfried Weiglhofer
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Werner Siegfried Weiglhofer.jpg
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = Weiglhofer c. 2002
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |1962|08|25|df=y}}
+| birth_place       = [[Bruck an der Mur]], Austria
+| death_date        = {{death date and age |2003|01|12 |1962|08|25|df=y}}
+| death_place       = [[Trollstigen]], Norway
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = {{plainlist|
+*[[Applied mathematics]]
+*[[Physics]]
+}}
+| workplaces        = {{plainlist|
+*[[University of Adelaide]]
+*[[University of Glasgow]]
+}}
+| patrons           = 
+| education         = [[Graz University of Technology]]
+| thesis_title      = The representation of electromagnetic fields in anisotropic media in terms of dyadic Green’s functions
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1986
+| doctoral_advisor  = Walter Papousek
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Werner Siegfried Weiglhofer''' (25 August 1962 — 12 January 2003) was an Austrian applied mathematician, physicist, engineer and mountaineer, who was a professor at the Department of Mathematics at [[University of Glasgow]]. He was best known for his contributions to the [[Electromagnetism|electromagnetic theory]] of complex materials.
+
+==Biography==
+Werner Siegfried Weiglhofer was born in [[Bruck an der Mur]] on 25 August 1962. He obtained his doctorate in technical sciences from [[Graz University of Technology]] in 1986; his doctoral studies focused on scalar [[Hertz vector|Hertz potentials]] in anisotropic materials. Following his post-doctoral studies at [[University of Adelaide]] on the basis of an Australian-European Fellowship, he joined the Department of Mathematics at [[University of Glasgow]] as a research assistant in 1988, working on [[magnetohydrodynamics]]. Becoming a lecturer at the department in 1991, he eventually was tenured as a professor in 2002.<ref name="lakhtakia2003"/><ref name="fearn2004"/>  
+
+Weiglhofer's main research interests were magnetohydrodynamics and [[electrodynamics]] of complex materials, such as [[Chiral media|chiral]] and [[bi-isotropic material|bi-anisotropic]] media.<ref name="lakhtakia2003"/><ref name="kiselev2023"/> His research career was marked with extensive collaborations with [[Akhlesh Lakhtakia]]. During his research career, he authored or co-authored 135 research publications in peer-reviewed journals, as well as an undergraduate textbook on ordinary [[differential equations]]. He has served on the editorial boards of the journals ''[[AEU: International Journal of Electronics and Communications]]'' and ''[[Electromagnetics (journal)|Electromagnetics]]'', and was the recipient of multiple [[URSI]] Young Scientists awards,<ref name="lakhtakia2003"/><ref name="fearn2004"/> as well as a research fellowship from [[Royal Society of Edinburgh]].<ref name="lakhtakia2003b"/> In 1997, he organized the Bianisotropics '97 conference in University of Glasgow.<ref name="fearn2004"/> 
+
+Weiglhofer had an avid interest in [[mountaineering]] and [[snowshoeing]], and climbed to all of the [[Munro]]s in Scotland.<ref name="fearn2004"/> From 1991 onwards, he has travelled extensively to [[Romsdal]] for mountain climbing and published two guidebooks to its peaks. Having learnt [[Norwegian language]], he contributed to local newspapers on mountaineering-related topics.<ref name="lakhtakia2003"/> On 12 January 2003, he died in an avalanche at Bispen mountain in [[Trollstigen]], Norway. By the time of his death, he was co-editing the monograph ''Introduction to Complex Mediums for Optics and Electromagnetics'', which was released in the same year posthumously.<ref name="fearn2004"/> A conference in honour of Weiglhofer, titled Weiglhofer Symposium on Electromagnetic Theory, was first held in July 2022 in [[University of Edinburgh]]; it was organized by Akhlesh Lakhtakia and Weiglhofer's only doctoral student, Tom G. Mackay.<ref name="mackay"/>
+
+==Selected publications==
+;Books
+* {{cite book |editor-last=Weiglhofer |editor-first=W. S. |date=1997 |title=Proceedings of Bianisotropics'97, International Conference and Workshop on Electromagnetics of Complex Media |location=Glasgow, Great Britain}} 
+* {{cite book |last1=Weiglhofer |first1=W. S. |last2=Lindsay |first2=K. A. |date=1999 |title=Ordinary Differential Equations & Applications: Mathematical Methods for Applied Mathematicians, Physicists, Engineers, Bioscientists |publisher=Horwood Publishing Limited |location=Chichester, England}} 
+* {{cite book |last=Weiglhofer |first=Werner S. |date=1999 |title=The summits of the Romsdal Alps = Toppene av Romsdalsalpene |publisher=University of Glasgow |location=Glasgow, Scotland}}
+*{{cite book |editor-last1=Lakhtakia |editor-first1=A. |editor-last2=Weiglhofer |editor-first2=W. S. |editor-last3=Messier |editor-first3=R. |date=2000 |title=Complex Mediums |series=SPIE International symposium on optical science, engineering, and instrumentation |volume=4097 |publisher=SPIE |location=San Diego, California, USA}} 
+* {{cite book |editor-last1=Lakhtakia |editor-first1=A. |editor-last2=Weiglhofer |editor-first2=W. S. |editor-last3=Hodgkinson |editor-first3=I. J. |date=2001 |title=Complex Mediums II: Beyond Linear Isotropic Dielectrics |series=SPIE International symposium on optical science and technology |volume=4467 |publisher=SPIE |location=San Diego, California, USA}} 
+* {{cite book |editor-last1=Weiglhofer |editor-first1=W. S. |editor-last2=Lakhtakia |editor-first2=A. |date=2003 |title=Introduction to Complex Mediums for Optics and Electromagnetics |publisher=SPIE Press |location=Bellingham, WA}}
+
+;Journal articles
+* {{cite journal |last=Weiglhofer |first=Werner S. |date=November–December 1993 |title=Analytic methods and free-space dyadic Green's functions |journal=[[Radio Science (journal)|Radio Science]] |volume=28 |issue=6 |pages=847–857 |doi=10.1029/93RS00903}}
+* {{cite journal |last1=Weiglhofer |first1=W. S. |last2=Lakhtakia |first2=A. |date=1993 |title=Electromagnetic wave propagation in super-cholesteric materials parallel to the helical axis |journal=[[Journal of Physics D: Applied Physics]] |volume=26 |issue=12 |pages=2117–2122 |doi= 10.1088/0022-3727/26/12/004}}
+* {{cite journal |last1=Lakhtakia |first1=Akhlesh |last2=Weiglhofer |first2=Werner S. |date=1995 |title=On light propagation in helicoidal bianisotropic mediums |journal=[[Proceedings of the Royal Society|Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences]] |volume=448 |issue=1934 |pages=419–437 |doi=10.1098/rspa.1995.0025}}
+* {{cite journal |last1=Weiglhofer |first1=Werner S. |last2=Lakhtakia |first2=Akhlesh |date=1997 |title=On the non-existence of linear non-reciprocal bi-isotropic (NRBI) media |journal=[[Journal of Physics A: Mathematical and Theoretical|Journal of Physics A: Mathematical and General]] |volume=30 |issue=7 |pages=2597–2600 |doi=10.1088/0305-4470/30/7/035}}
+* {{cite journal |last1=Mackay |first1=Tom G. |last2=Lakhtakia |first2=Akhlesh |last3=Weiglhofer |first3=Werner S. |date=2000 |title=Strong-property-fluctuation theory for homogenization of bianisotropic composites: Formulation |journal=[[Physical Review E]] |volume=62 |issue=5 |pages=6052–6064 |doi=10.1103/PhysRevE.62.6052}}
+* {{cite journal |last1=Mackay |first1=Tom G. |last2=Lakhtakia |first2=Akhlesh |last3=Weiglhofer |first3=Werner S. |date=2001 |title=Homogenisation of similarly oriented, metallic, ellipsoidal inclusions using the bilocally-approximated strong-property-fluctuation theory |journal=[[Optics Communications]] |volume=197 |issue=1–3 |pages=89–95 |doi=10.1016/S0030-4018(01)01433-X}}
+* {{cite journal |last1=McCall |first1=Martin W. |last2=Lakhtakia |first2=Akhlesh |last3=Weiglhofer |first3=Werner S. |date=2002 |title=The negative index of refraction demystified |journal=[[European Journal of Physics]] |volume=23 |issue=3 |pages=353–359 |doi=10.1088/0143-0807/23/3/314|arxiv=physics/0204067 }}
+
+==References==
+{{Reflist|refs=
+
+<ref name="fearn2004">{{cite journal |last=Fearn |first=David R. |date=2004 |title=Obituary: Werner Siegfried Weiglhofer (1962–2003) |journal=Glasgow Mathematical Journal |volume=46 |pages=601–614 |doi=10.1017/S0017089504002022 |publisher=Glasgow Mathematical Journal Trust}}</ref>
+
+<ref name="kiselev2023">{{cite book |last1=Kiselev |first1=A. |last2=Kim |first2=J. |last3=Martin |first3=O. J. F. |date=2023 |chapter=Mind the Gap Between Theory and Experiment |editor-last1=Mackay |editor-first1=T. G. |editor-last2=Lakhtakia |editor-first2=A. |title=Adventures in Contemporary Electromagnetic Theory |publisher=Springer |location=Cham |doi=10.1007/978-3-031-24617-3_21}}</ref>
+
+<ref name="lakhtakia2003">{{cite journal |last=Lakhtakia |first=Akhlesh |date=2003 |title=In memoriam Werner S. Weiglhofer (August 25, 1962 – January 12, 2003) |journal=[[AEU: International Journal of Electronics and Communications|International Journal of Electronics and Communications (AEÜ)]] |volume=57 |issue=2 |pages=159–160 |publisher=Urban & Fischer Verlag}}</ref>
+
+<ref name="lakhtakia2003b">{{cite journal |last1=Lakhtakia |first1=A. |title=In memoriam: Werner Weiglhofer |journal=IEEE Antennas and Propagation Magazine |date=April 2003 |volume=45 |issue=2 |pages=127 |doi=10.1109/MAP.2003.1203130}}</ref>
+
+<ref name="mackay">{{cite web |title=Weiglhofer Symposium on Electromagnetic Theory |url=https://webhomes.maths.ed.ac.uk/~tgm/Weiglhofer_Symposium.html |website=webhomes.maths.ed.ac.uk |publisher=[[University of Edinburgh]]}}</ref>
+}}
+
+==External links==
+* [https://web.archive.org/web/20050405022905/http://www.maths.gla.ac.uk/~wsw/ Archived official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weiglhofer, Werner S}}
+[[Category:1962 births]]
+[[Category:2003 deaths]]
+[[Category:20th-century Austrian mathematicians]]
+[[Category:21st-century Austrian mathematicians]]
+[[Category:20th-century Austrian engineers]]
+[[Category:21st-century Austrian engineers]]
+[[Category:20th-century Austrian physicists]]
+[[Category:21st-century Austrian physicists]]
+[[Category:Academics of the University of Glasgow]]
+[[Category:People from Bruck an der Mur]]
+[[Category:Graz University of Technology alumni]]
+[[Category:Austrian expatriates in Scotland]]
+[[Category:Austrian expatriates in Norway]]
+[[Category:Textbook writers]]
+[[Category:20th-century Austrian male writers]]
+[[Category:21st-century Austrian male writers]]
+[[Category:Deaths in avalanches]]
+[[Category:Natural disaster deaths in Norway]]
+[[Category:Austrian mountain climbers]]
+[[Category:Metamaterials scientists]]
+[[Category:Optical physicists]]
+[[Category:20th-century Austrian non-fiction writers]]
+[[Category:21st-century Austrian non-fiction writers]]
+[[Category:Austrian travel writers]]
+[[Category:Materials scientists and engineers]]
+[[Category:Theoretical physicists]]

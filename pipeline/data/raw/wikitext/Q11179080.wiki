@@ -1,0 +1,227 @@
+{{short description|Physicist}}
+{{multiple issues|
+{{BLP primary sources|date=April 2018}}{{BLP sources|date=April 2018}}
+}}
+{{Infobox scientist
+| name              = Maya Paczuski
+| native_name       = מאיה פצ'וסקי
+| native_name_lang  = he
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date and age|1963|04|07}}
+| birth_place       = [[Tel-Aviv]], [[Israel]]
+| death_date        = 
+| death_place       = 
+| ethnicity         = 
+| field             = [[Physics]]
+| workplaces        = [[University of Calgary]]
+| education         = [[Massachusetts Institute of Technology]]
+| doctoral_advisor  = [[Mehran Kardar]]
+| doctoral_students = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+}}
+
+'''Maya Paczuski''' ({{Langx|he|מאיה פצ'וסקי}}; born April 7, 1963) is the head and founder of the Complexity Science Group at the [[University of Calgary]]. She is a well-cited physicist whose work spans self-organized criticality, avalanche dynamics, earthquake, and complex networks.  She was born in Israel in 1963 but grew up in the United States.  Maya Paczuski received a B.S. and M.S. in Electrical Engineering and Computer Science from [[M.I.T.]] in 1986 and then went on to study with [[Mehran Kardar]], earning her Ph.D. in [[Condensed matter physics]] from the same institute.
+
+Before founding the Complexity Science Group at the [[University of Calgary]], she held appointments at numerous institutions around the world, most notably, [[M.I.T.]], [[Brookhaven National Laboratory]], the [[Niels Bohr Institute]] (Copenhagen, Denmark), the [[University of Houston]], [[NORDITA]] (Copenhagen, Denmark), [[Imperial College London]], the von Neumann Institute for Computing at [[Forschungszentrum Jülich]], and the [[Perimeter Institute]] for Theoretical Physics, where she organized and ran the first complex systems and statistical physics program.  Paczuski was married to the late [[Denmark|Danish]] [[Theoretical physics|theoretical physicist]] [[Per Bak]], with whom she has coauthored papers.<ref>{{cite journal|title=Complexity, contingency, and criticality|first1=P.|last1=Bak|first2=M.|last2=Paczuski|date=18 July 1995|journal=Proceedings of the National Academy of Sciences|volume=92|issue=15|pages=6689–6696|pmid=11607561|bibcode=1995PNAS...92.6689B|doi=10.1073/pnas.92.15.6689|pmc=41396|doi-access=free}}</ref><ref>{{cite web |url=http://prl.aps.org/abstract/PRL/v73/i16/p2162_1 |title=Phys. Rev. Lett. 73, 2162 (1994): Avalanches and 1/F Noise in Evolution and Growth Models |website=prl.aps.org |access-date=22 May 2022 |archive-url=https://archive.today/20120713130652/http://prl.aps.org/abstract/PRL/v73/i16/p2162_1 |archive-date=13 July 2012 }}</ref>
+
+==See also==
+* [[Self-organized criticality]]
+* [[Geophysics]]
+* [[Complexity]]
+* [[Boolean network]]
+* [[Complex network]]
+* [[Aftershock]]
+
+==Selected publications==
+* {{cite journal
+ | author = M. Paczuski |author2=M. Kardar |author3=D.R. Nelson
+ | year = 1988
+ | title = Landau Theory of the Crumpling Transition
+ | journal = Physical Review Letters
+ | volume = 60
+ | pages = 2638–2640
+ | doi = 10.1103/PhysRevLett.60.2638
+ | pmid = 10038410
+ | issue = 25
+ | pmc =
+ | bibcode=1988PhRvL..60.2638P
+}}
+* {{cite journal
+ | author = M. Paczuski
+ | author2=S. Maslov |author3=P. Bak
+ | year = 1994
+ | title = Field-Theory for a Model of Self-Organized Criticality
+ | journal = Europhysics Letters
+ | volume = 27
+ | pages = 97–102
+ | doi = 10.1209/0295-5075/27/2/004
+ | pmid = 
+ | issue = 2
+ | pmc = 
+ | bibcode = 1994EL.....27...97P |s2cid=250749474 }}
+* {{cite journal
+ | author = S. Maslov
+ | author2=M. Paczuski |author3=P. Bak
+ | year = 1994
+ | title = Avalanches and 1/f Noise in Evolution and Growth-Models
+ | journal = Physical Review Letters
+ | volume = 73
+ | pages = 2162–2165
+ | doi = 10.1103/PhysRevLett.73.2162
+ | pmid = 10056988
+ | issue = 16
+ | pmc =
+ | bibcode=1994PhRvL..73.2162M
+}}
+* {{cite journal
+ | author = P. Bak
+ | author2=M. Paczuski
+ | year = 1995
+ | title = Complexity, Contingency, and Criticality
+ | journal = Proceedings of the National Academy of Sciences of the United States of America
+ | volume = 92
+ | pages = 6689–6696
+ | doi = 10.1073/pnas.92.15.6689
+ | pmid = 11607561
+ | issue = 15
+ | pmc = 41396
+ | bibcode = 1995PNAS...92.6689B |doi-access=free
+ }}
+* {{cite journal
+ | author = K. Nagel
+ | author2=M. Paczuski
+ | year = 1995
+ | title = Emergent Traffic Jams
+ | journal = Physical Review E
+ | volume = 51
+ | pages = 2909–2918
+ | doi = 10.1103/PhysRevE.51.2909
+ | pmid = 9962967
+ | issue = 4
+ | pmc = 
+ | bibcode = 1995PhRvE..51.2909N | arxiv = adap-org/9502004
+ | s2cid=39590935
+ }}
+* {{cite journal
+ | author = M. Paczuski
+ | author2=S. Maslov |author3=P. Bak
+ | year = 1996
+ | title = Avalanche Dynamics in Evolution, Growth, and Depinning Models
+ | journal = Physical Review E
+ | volume = 53
+ | pages = 414–443
+ | doi = 10.1103/PhysRevE.53.414
+ | pmid = 9964272
+ | issue = 1
+ | pmc = 
+ | bibcode = 1996PhRvE..53..414P | arxiv =adap-org/9510002|s2cid=10602221 }}
+* {{cite journal
+ | author = M. Paczuski
+ | author2=S. Boettcher
+ | year = 1996
+ | title = Universality in Sandpiles, Interface Depinning, and Earthquake Models
+ | journal = Physical Review Letters
+ | volume = 77
+ | pages = 111–114
+ | doi = 10.1103/PhysRevLett.77.111
+ | pmid = 10061784
+ | issue = 1
+ | pmc =
+ | bibcode=1996PhRvL..77..111P
+ | arxiv = cond-mat/9603120 |s2cid=17793948
+ }}
+* {{cite journal
+ | author = P. Bak
+ | author2=M. Paczuski |author3=M. Shubik
+ | year = 1997
+ | title = Price Variations in a Stock Market with Many Agents
+ | journal = Physica A
+ | volume = 246
+ | pages = 430–453
+ | doi = 10.1016/S0378-4371(97)00401-9
+ | issue = 3–4
+ | arxiv =cond-mat/9609144| bibcode =1997PhyA..246..430B|s2cid=119480691 }}
+* {{cite journal
+ | author = M. Paczuski |author2=K.E. Bassler |author3=A. Corral
+ | year = 2000
+ | title = Self-Organized Networks of Competing Boolean Agents
+ | journal = Physical Review Letters
+ | volume = 69
+ | pages = 3185–3188
+ | doi = 10.1103/PhysRevLett.84.3185
+ | pmid = 11019043
+ | issue = 14
+ | pmc =
+ | bibcode=2000PhRvL..84.3185P
+ | arxiv = cond-mat/9905082 |s2cid=27627002 }}
+* {{cite journal
+ | author = M. Baiesi |author2=M. Paczuski
+ | year = 2004
+ | title = Scale-free networks of earthquakes and aftershocks
+ | journal = Physical Review E
+ | volume = 84
+ | article-number = 066106
+ | doi = 10.1103/PhysRevE.69.066106
+ | issue = 6|pmid=15244666
+ | arxiv = cond-mat/0309485
+ | bibcode=2004PhRvE..69f6106B
+ | s2cid=17260479
+ }}
+* {{cite journal
+ | author = J. Davidsen
+ | author2=M. Paczuski
+ | year = 2005
+ | title = Analysis of the Spatial Distribution Between Successive Earthquakes
+ | journal = Physical Review Letters
+ | volume = 94
+ | article-number = 048501
+ | doi = 10.1103/PhysRevLett.94.048501
+ | pmid = 15783608
+ | issue = 4
+ | pmc =
+ | bibcode=2005PhRvL..94d8501D| arxiv = cond-mat/0411297
+ | s2cid=118917829
+ }}
+* {{cite journal
+ | author = J.G. Foster
+ | year = 2009
+ | title = Edge Direction and the Structure of Networks
+ | journal = Proceedings of the National Academy of Sciences of the United States of America
+ | volume = 107
+ | pages = 10815–10820
+ | doi = 10.1073/pnas.0912671107
+ | pmid = 20505119
+ | issue = 24
+ | pmc =2890716
+ | arxiv = 0908.4288 |bibcode = 2010PNAS..10710815F | doi-access = free
+ }}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.ucalgary.ca/complexity/people/faculty/maya Maya Paczuski's Homepage]
+
+{{authority control}}
+
+{{DEFAULTSORT:Paczuski, Maya}}
+[[Category:Canadian physicists]]
+[[Category:Academic staff of the University of Calgary]]
+[[Category:Living people]]
+[[Category:Canadian women physicists]]
+[[Category:American women scientists]]
+[[Category:Israeli women scientists]]
+[[Category:Israeli women physicists]]
+[[Category:1963 births]]
+[[Category:Canadian women scientists]]
+[[Category:American women academics]]
+[[Category:Massachusetts Institute of Technology alumni]]

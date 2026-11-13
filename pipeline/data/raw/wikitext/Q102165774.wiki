@@ -1,0 +1,108 @@
+{{Short description|American mathematician and physicist (1928–2012)}}
+{{Infobox scientist
+| name              = Peter C. Waterman
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = Peter Cary Waterman
+| birth_date        = {{birth date |1928|06|14}}
+| birth_place       = [[Albany, New York]], U.S.
+| death_date        = {{death date and age |2012|06|03 |1928|06|14}}
+| death_place       = [[West Yarmouth, Massachusetts]], U.S.
+| fields            = [[Physics]]
+| workplaces        = {{plainlist|
+*[[Avco]]
+*[[Mitre Corporation]]
+*Pedersen Research
+*[[Union College]]
+}}
+| education         = [[Bethlehem Central High School]]
+| alma_mater        = {{plainlist|
+*[[Syracuse University]]
+*[[Brown University]]
+}}
+| thesis_title      = Multiple Scattering of Waves
+| thesis_year       = 1958
+| doctoral_advisor  = Rohn Truell
+| known_for         = {{plainlist|
+*Extended boundary condition method
+*[[T-matrix method]]
+}}
+| children          = [[Jonathan Waterman]]
+}}
+
+'''Peter Cary Waterman''' (June 14, 1928 — June 3, 2012) was an American applied mathematician and physicist, known for his fundamental contributions to theory and computation of wave [[scattering]] in [[electromagnetics]], [[Light scattering by particles|optics]] and [[acoustics]]. He has introduced the extended boundary condition and [[T-matrix method]]s, widely used in the analysis of scattering in complex structures.
+
+==Biography==
+Peter Cary Waterman was born on June 14, 1928, in [[Albany, New York]]. He graduated of [[Bethlehem Central High School]] in 1946 and received a bachelor's degree in physics from [[Syracuse University]] in 1951. From 1952 to 1953, he served as a physics instructor at [[Union College]]. He was later admitted to of Department of Applied Mathematics at [[Brown University]] under [[Alcoa]] Research Fellowship, receiving a master's degree. Studying [[elastic wave]] scattering under the supervision Rohn Truell, he received his PhD degree in applied mathematics in 1958.<ref name="waterman-t-matrix"/> 
+
+Briefly serving as a researcher on gas mixtures  at Linde Company, Waterman subsequently worked in the Research and Advanced Development Division of [[Avco]] from 1959 to 1965. His work at Avco focused on acoustic scattering. In 1965, he joined [[Mitre Corporation]], where he resumed his work on wave scattering. After leaving Mitre in 1975, he worked as a consultant to various companies, including [[Digital Equipment Corporation]] and [[GE Measurement & Control|Panametrics]], as well as teaching a graduate-level course on wave propagation at [[Northeastern University]]. He was a visiting professor at the Institute of Theoretical Physics at [[University of Gothenburg]] in 1980. In 1990, he joined Pedersen Research, Inc, where he resumed his work on electromagnetic and acoustic scattering. Waterman resumed his professional activities into his 80s, serving as a consultant to [[US Army]].<ref name="waterman-t-matrix"/>
+
+Waterman's research was influential in [[Light scattering by particles|light scattering]] communities.<ref name="waterman-legacy"/> In 1965, he introduced the extended boundary condition method for the [[Computational electromagnetics|computation]] of electromagnetic scattering at objects with arbitrary shapes.<ref name="waterman1965"/> He subsequently introduced the concept of [[T-matrix method|T-matrix]] for acoustic scattering,<ref name="waterman1969"/> which he later extended to electromagnetic<ref name="waterman1971"/> and [[Linear elasticity|elastodynamic]] problems.<ref name="waterman1976"/> The method has attracted significant attention from the [[computational physics]] community: in 1975, it was subject to an international symposium at [[Ohio State University]], where it was hailed as "a major development [in computational physics] in the last ten years."<ref name="waterman-t-matrix"/> 
+
+Waterman married Katherine Adella Dearstyne in 1954. They had three children, including [[Jonathan Waterman]]. They divorced in 1975. He married Karen Marlene Gates in 1996. Residing in [[West Yarmouth, Massachusetts]], Waterman died on June 3, 2012.<ref name="waterman-t-matrix"/><ref name="aps"/> In 2012, ''[[Journal of Quantitative Spectroscopy and Radiative Transfer]]'' published a special issue in honor of Waterman's scientific legacy,<ref name="waterman-legacy"/> which featured an unreleased paper from 1964 by Waterman and close collaborator John George Fikioris.<ref name="waterman2012"/> Peter C. Waterman Award, given annually by [[Journal of Quantitative Spectroscopy and Radiative Transfer]] to early-career researchers on electromagnetic scattering, is named after him.<ref name="award"/>
+
+Waterman was a member of [[American Physical Society]] and Electromagnetics Academy, as well as a technical program committee member for the joint [[Institute of Electrical and Electronics Engineers|IEEE]] AP-S/[[International Union of Radio Science|URSI]] International Symposium.<ref name="aps"/>
+
+==Selected publications==
+;Journal articles
+*{{cite journal |last1=Waterman |first1=P. C. |title=Orientation dependence of elastic waves in single crystals |journal=[[Physical Review]] |date=1959 |volume=113 |issue=5 |page=1240 |doi=10.1103/PhysRev.113.1240}}*
+*{{cite journal |last1=Waterman |first1=P. C. |last2=Truell |first2=Rohn |title=Multiple scattering of waves |journal=[[Journal of Mathematical Physics]] |date=1961 |volume=2 |pages=512–537 |doi=10.1063/1.1703737}}
+*{{cite journal |last2=Waterman |first2=P. C. |last1=Fikioris |first1=J. G. |title=Multiple scattering of waves II: "Hole corrections" in the scalar case  |journal=Journal of Mathematical Physics |date=1964 |volume=5 |pages=1413–1420 |doi=10.1063/1.1704077}}
+*{{cite journal |last1=Waterman |first1=P. C. |title=Matrix formulation of electromagnetic scattering |journal=[[Proceedings of the IEEE]] |date=1965 |volume=53 |issue=8 |pages=805–812 |doi=10.1109/PROC.1965.4058}}
+*{{cite journal |last1=Waterman |first1=P. C. |title=New formulation of acoustic scattering |journal=[[Journal of the Acoustical Society of America]] |date=1969 |volume=45 |pages=1417–1429 |doi=10.1121/1.1911619}}
+*{{cite journal |last1=Waterman |first1=P. C. |title=Symmetry, unitarity, and geometry in electromagnetic scattering |journal=[[Physical Review D]] |date=1971 |volume=3 |issue=4 |pages=825–839 |doi=10.1103/PhysRevD.3.825}}
+*{{cite journal |last1=Waterman |first1=P. C. |title=Scattering by periodic surfaces |journal=Journal of the Acoustical Society of America |date=1975 |volume=57 |pages= 791–802 |doi=10.1121/1.380521}}
+*{{cite journal |last1=Waterman |first1=P. C. |title=Matrix theory of elastic wave scattering |journal=Journal of the Acoustical Society of America |date=1976 |volume=60 |pages= 567–580 |doi=10.1121/1.1911619}}
+
+==References==
+{{Reflist|refs=
+<ref name="aps">{{cite journal |last1=Martin |first1=P. A. |last2=Mishchenko |first2=M. I. |title=In Memoriam: Peter Cary Waterman |journal=IEEE Antennas and Propagation Magazine |date=2013 |volume=55 |issue=2 |pages=192–193 |doi=10.1109/MAP.2013.6529345 |author-link1=Michael I. Mishchenko}}</ref>
+
+<ref name="award">{{cite web |title=Elsevier/JQSRT Peter C. Waterman Award |url=https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/about/news/call-for-nominations-2025-elsevierjqsrt-peter-c-waterman-award |website=sciencedirect.com |publisher=[[Elsevier]]|access-date=October 29, 2025}}</ref>
+
+<ref name="waterman-legacy">{{cite journal |last1=Mishchenko |first1=M. I. |first2 = Michael |last2= Kahnert |first3 = Daniel W. |last3=Mackowski |first4 = Thomas |last4=Wriedt |title=Peter Waterman and his scientific legacy |journal=[[Journal of Quantitative Spectroscopy and Radiative Transfer]] |date=2013 |volume=123 |pages=1 |doi=10.1016/j.jqsrt.2013.01.025}}</ref>
+
+<ref name="waterman1965">{{cite journal |last1=Waterman |first1=P. C. |title=Matrix formulation of electromagnetic scattering |journal=[[Proceedings of the IEEE]] |date=1965 |volume=53 |issue=8 |pages=805–812 |doi=10.1109/PROC.1965.4058}}</ref>
+
+<ref name="waterman1969">{{cite journal |last1=Waterman |first1=P. C. |title=New formulation of acoustic scattering |journal=[[Journal of the Acoustical Society of America]] |date=1969 |volume=45 |pages=1417–1429 |doi=10.1121/1.1911619}}</ref>
+
+<ref name="waterman1971">{{cite journal |last1=Waterman |first1=P. C. |title=Symmetry, unitarity, and geometry in electromagnetic scattering |journal=[[Physical Review D]] |date=1971 |volume=3 |issue=4 |pages=825–839 |doi=10.1103/PhysRevD.3.825}}</ref>
+
+<ref name="waterman1976">{{cite journal |last1=Waterman |first1=P. C. |title=Matrix theory of elastic wave scattering |journal=[[Journal of the Acoustical Society of America]] |date=1976 |volume=60 |pages= 567–580 |doi=10.1121/1.1911619}}</ref>
+
+<ref name="waterman2012">{{cite journal |last1=Fikioris |first1=J. G. |last2=Waterman |first2=P. C. |title=Multiple scattering of waves. III. The electromagnetic case |journal=[[Journal of Quantitative Spectroscopy and Radiative Transfer]] |date=2013 |volume=123 |pages=8-16}}</ref>
+
+<ref name="waterman-t-matrix">{{cite journal |last1=Mishchenko |first1=M. I. |last2=Martin |first2=P. A. |title=Peter Waterman and T-matrix methods |journal=[[Journal of Quantitative Spectroscopy and Radiative Transfer]] |date=2013 |volume=123 |pages=2–7 |doi=10.1016/j.jqsrt.2012.10.025 |author-link1=Michael I. Mishchenko|hdl=2060/20140011283 |hdl-access=free }}</ref>
+
+}}
+
+==External links==
+* [https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/vol/123/suppl/C Special issue at ''Journal of Quantitative Spectroscopy and Radiative Transfer'' on Waterman's life and work]
+{{DEFAULTSORT:Waterman, Peter C}}
+[[Category:1928 births]]
+[[Category:2012 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American optical physicists]]
+[[Category:Acousticians]]
+[[Category:American computational physicists]]
+[[Category:American theoretical physicists]]
+[[Category:American mathematical physicists]]
+[[Category:Radiophysicists]]
+[[Category:Syracuse University College of Arts and Sciences alumni]]
+[[Category:Brown University alumni]]
+[[Category:Union College (New York) faculty]]
+[[Category:Mitre Corporation people]]
+[[Category:Scientists from Albany, New York]]
+[[Category:Physicists from New York (state)]]
+[[Category:Mathematicians from New York (state)]]
+[[Category:People from Yarmouth, Massachusetts]]
+[[Category:American consultants]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:American applied mathematicians]]

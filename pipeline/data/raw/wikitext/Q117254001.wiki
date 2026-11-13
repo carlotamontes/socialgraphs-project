@@ -1,0 +1,133 @@
+{{short description|Italian theoretical and computational physicist}}
+
+{{Unreliable sources|date=November 2024}}
+
+[[File:Picture EM.png|thumb|Enzo Marinari]]
+
+'''Enzo Marinari''' (born on July 7, 1957, in Avellino) is an Italian theoretical and computational physicist.{{r|BIO}} He has contributed to introducing several new algorithms in [[computational physics]], such as [[Parallel Tempering]]{{r|ST}}, the SU(N) updating method{{r|SUN}} and Constraint Allocation [[Flux Balance Analysis]] (CAFBA){{r|CAFBA}}. He is a professor at the Physics Department of the [[Sapienza University of Rome]].
+
+==Education and career==
+
+Enzo Marinari got his physics degree at the Sapienza University of Rome in 1980. Until 1984 he worked as a staff scientist at the Theoretical Physics Institute of the [[CEA Saclay]], in France. In 1988 he was nominated Associate Professor at the [[University of Rome Tor Vergata ]] and in 1994 he became a full professor at the [[University of Cagliari]]. Since 1999 he is a full professor at the Physics Department of the Sapienza University of Rome in Italy.{{r|BIO}}{{r|CV}}
+
+From 1992 until 1994 he was contemporarily the Physics Director for the Northeast Parallel Architecture Center (NPAC) in Syracuse, NY, USA. During the period 2004-2011, he was the Scientific Director for physics of the [[Institute for Biocomputation and Physics of Complex Systems]] (BIFI) at the [[University of Zaragoza]], Spain.{{r|BIO}}{{r|CV}}
+
+During his career Enzo Marinari has done research in
+different fields of physics, such as [[particle physics]] ([[QCD]], [[string theory]]), [[statistical physics]] ([[spin glass |spin glasses]], disordered and [[complex system | complex systems]], [[phase transition | phase transitions]], temperature [[chaos theory |chaos]]) and [[biophysics]] ([[metabolic network |metabolic]] and [[neural network | neural networks]]).{{r|INT}} He has been one of the founding members of the Spanish-Italian Janus collaboration{{r|JANUS}} and of the Italian [[APE100|APE collaboration]], both promoting the use of computational methods  in research in physics. He has written and edited several books{{r|SP}}{{r|TRATTARELLO}}{{r|RSBbook}}{{r|LCbooks}} 
+and plays an active role in explaining science and its applications on mainstream media channels.{{r|COVID}}{{r|PODCAST}}
+
+==Recognitions==
+In 1978 and 1979 Enzo Marinari received the Borsa Persico of the [[Accademia dei Lincei]].{{r|REFPERSICO}} In 1988 he was elected as best physicist under the age of 35 by the Accademia dei Lincei.{{r|REFBORGIA}} 
+In 1992 he received an essay prize from the [[Gravity Research Foundation]].{{r|ESSAY}} 
+
+==References==
+<references>
+<ref name="INT">[https://caphes.ens.fr/history-of-replica-symmetry-breaking-in-physics/ Interview with Enzo Marinari for the French CAPHÉS archive], retrieved 2024-10-16 </ref>
+<ref name="BIO">[https://caphes.ens.fr/history-of-replica-symmetry-breaking-in-physics/ Biography of Enzo Marinari on the French CAPHÉS archive], retrieved 2024-09-19 </ref>
+<ref name="CV">[https://phd.uniroma1.it/web/VINCENZO-MARINARI_nC45_EN.aspx Curriculum vitae], retrieved 2024-09-19 </ref>
+<ref name="REFPERSICO">[https://chimera.roma1.infn.it/ENZO/DATI_ED_EVIDENZE/1977-1978_comunicazione_persico_marinari.jpg][https://chimera.roma1.infn.it/ENZO/DATI_ED_EVIDENZE/1978-1979_comunicazione_persico_marinari.jpg], retrieved 2024-11-27 </ref>
+<ref name="REFBORGIA">[https://chimera.roma1.infn.it/ENZO/DATI_ED_EVIDENZE/1988_marinari_premio_borgia.pdf], retrieved 2024-11-27 </ref>
+<ref name="ST">{{citation
+ | last1 = Marinari | first1 = Enzo 
+ | last2 = Parisi | first2 = Giorgio 
+ | doi = 10.1209/0295-5075/19/6/002
+ | pages = 451–458
+ | journal = Europhysics Letters 
+ | title = Simulated Tempering: a New Monte Carlo Scheme
+ | volume = 19
+ | year = 1992
+ | issue = 6 
+ | arxiv = hep-lat/9205018 
+ | bibcode = 1992EL.....19..451M 
+ }}</ref>
+<ref name="SUN">{{citation
+ | last1 = Marinari | first1 = Enzo 
+ | last2 = Cabibbo | first2 = Nicola 
+ | doi = 10.1016/0370-2693(82)90696-7
+ | pages = 387–390
+ | journal = Physics Letters B
+ | title = New Method for Updating SU(N) Matrices in Computer Simulations of Gauge Theories
+ | volume = 119
+ | year = 1982
+ | issue = 4–6 
+ | bibcode = 1982PhLB..119..387C 
+ }}</ref>
+<ref name="CAFBA">{{citation
+ | last1 = Mori | first1 = Matteo 
+ | last2 = Hwa | first2 = Terence 
+ | last3 = Martin | first3 =  Olivier C.
+ | last4 = De Martino | first4 = Andrea
+ | last5 = Marinari | first5 =  Enzo
+ | doi = 10.1371/journal.pcbi.1004913
+ | issue = 6
+ | article-number = e1004913
+ | journal = PLOS Computational Biology
+ | title = Constrained Allocation Flux Balance Analysis
+ | volume = 12
+ | year = 2016
+ | doi-access = free 
+ | pmid = 27355325 
+ | pmc = 4927118 
+ | arxiv = 1607.00128 
+ | bibcode = 2016PLSCB..12E4913M 
+ }}</ref>
+<ref name="RSBbook">{{citation 
+ | last1 = Charbonneau | first1 = Patrick 
+ | last2 = Marinari | first2 = Enzo 
+ | last3 = Mézard | first3 =  Marc
+ | last4 = Parisi | first4 = Giorgio
+ | last5 = Ricci-Tersenghi | first5 =  Federico
+ | last6 = Sicuro | first6 = Gabriele
+ | last7 = Zamponi | first7 = Francesco 
+ | doi = 10.1142/13341
+ | isbn = 978-981-12-7391-9
+ | publisher = World Scientific, Singapore
+ | title = Spin Glass Theory and Far Beyond
+ | year = 2023
+ | hdl = 11573/1706067| url = https://hal.science/hal-03845444/file/RSB40_Chap31_HAL-full.pdf 
+ | hdl-access = free}}</ref>
+<ref name="SP">{{citation
+ | last1 = Barrone | first1 = Luciano M.
+ | last2 = Marinari | first2 = Enzo
+ | last3 = Organtini | first3 = Giovanni
+ | last4 = Ricci-Tersenghi | first4 = Federico
+ | doi = 10.1142/8842
+ | isbn = 978-981-4513-40-1
+ | publisher = World Scientific, Singapore
+ | title = Scientific Programming
+ | year = 2012
+ }}</ref>
+<ref name="TRATTARELLO">{{citation
+ | last1 = Leuzzi | first1 = Luca
+ | last2 = Marinari | first2 = Enzo
+ | last3 = Parisi | first3 = Giorgio
+ | doi = 
+ | isbn = 978-88-08-49966-0
+ | publisher = Zanichelli, Bologna
+ | title = Calcolo delle probabiltà - Un trattatello per principianti volenterosi
+ | year = 2023
+ }} </ref>
+<ref name="LCbooks">[https://id.loc.gov/rwo/agents/n91054864.html The Library of Congress], retrieved 2024-10-16
+</ref>
+<ref name="COVID">[https://www.la7.it/laria-che-tira/video/coronavirus-enzo-marinari-ci-spiega-la-matematica-dellepidemia-al-ritmo-attuale-il-rischio-e-che-non-09-03-2020-312090 La7 interview with Enzo Marinari], retrieved 2024-09-19
+</ref>
+<ref name="PODCAST">[https://www.spreaker.com/user/14558404/8-giorgio-parisi?fbclid=IwAR3lQVJpDBFrhotPILonXcCj_CBcvns_bjeAPH73CbICYoetkVJdzuPKrWg INFN Podcast on Complexity], retrieved 2024-09-19
+</ref>
+<ref name="JANUS">[https://www.janus-computer.com/janus-introduction/ The JANUS Collaboration], retrieved 2024-09-19
+</ref>
+<ref name="ESSAY">[https://static1.squarespace.com/static/5852e579be659442a01f27b8/t/5873ea5cebbd1a717d9470e2/1483991646109/1992abstracts.pdf Gravity Research Foundation Winning Essays 1992], retrieved 2024-09-19
+</ref>
+</references>
+
+==External links==
+* [https://chimera.roma1.infn.it/ENZO/ Personal Homepage]
+*{{Google Scholar id|ZE5_-DIAAAAJ}}
+
+{{Authority control}}
+{{DEFAULTSORT:Marinari, Enzo}}
+[[Category:Living people]]
+[[Category:1957 births]]
+[[Category:20th-century Italian physicists]]
+[[Category:21st-century Italian physicists]]
+[[Category:Academic staff of the Sapienza University of Rome]]
+[[Category:Statistical physicists]]

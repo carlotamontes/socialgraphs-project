@@ -1,0 +1,72 @@
+{{short description|Portuguese theoretical physicist}}
+{{notability|Academics|date=April 2015}}
+{{Infobox scientist
+| name              = João Penedones
+| native_name       = 
+| native_name_lang  = 
+| image             = Portrait of Joao Penedones in 2015.jpg
+| imagesize         = 
+| alt               = 
+| caption           = João Penedones in 2015
+| birth_date        = {{Birth date and age|1980|8|2}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = Portugal
+| nationality       = 
+| fields            = 
+| workplaces        = [[EPFL]], [[Universidade do Porto]]
+| patrons           = 
+| alma_mater        = 
+| thesis_title      = High Energy Scattering in the AdS/CFT Correspondence
+| thesis_url        = https://arxiv.org/abs/0712.0802
+| thesis_year       = 2007
+| doctoral_advisor  = Miguel Costa
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = https://www.epfl.ch/labs/fsl/
+| footnotes         = 
+}}
+
+'''João Miguel Augusto Penedones Fernandes''' (born {{Birth date|1980|8|2}} in [[Porto]], Portugal) is a Portuguese [[theoretical physics|theoretical physicist]] active in the area of [[quantum field theory]]. He is currently an associate professor at the [[École Polytechnique Fédérale de Lausanne|École Polytechnique Fédérale de Lausanne (EPFL)]].<ref>{{Cite web|title=Prof. João Penedones|url=https://www.epfl.ch/labs/fsl/penedones/|access-date=2020-12-02|website=www.epfl.ch|language=en-GB}}</ref><ref>{{Cite web|last=ORCID|title=Joao Penedones (0000-0003-0345-4836)|url=https://orcid.org/0000-0003-0345-4836|access-date=2020-12-02|website=orcid.org|language=en}}</ref><ref>{{cite web|url=https://actu.epfl.ch/news/promotion-of-an-associate-professor-and-two-adjo-2/|title=Promotion of an Associate Professor and two Adjoint Professors at SB|publisher=EPFL|date=2023-05-26|accessdate=2024-04-30 |last1=Testa |first1=Andrea }}</ref>
+
+== Career ==
+João Penedones studied [[physics]] at the [[University of Porto]], where he obtained his undergraduate degree in 2002. He then obtained a [[Part III of the Mathematical Tripos|Certificate of Advanced Studies in Mathematics]] from the [[University of Cambridge]] in 2003. In 2007, he got his PhD from the University of Porto, working in the field of [[string theory]] under the supervision of Miguel Costa.<ref>{{cite arXiv|last=Penedones|first=Joao|date=2008-02-06|title=High Energy Scattering in the AdS/CFT Correspondence|class=hep-th|eprint=0712.0802}}</ref> He then performed postdoctoral work at the [[Kavli Institute for Theoretical Physics]] ([[University of California, Santa Barbara]]) from 2008 to 2010 and at the [[Perimeter Institute for Theoretical Physics]] in [[Waterloo, Ontario|Waterloo]], [[Canada]] from 2010 to 2011. He then returned to the University of Porto to work as a research fellow until 2015, when he was named tenure track assistant professor at [[École Polytechnique Fédérale de Lausanne|EPFL]].<ref>{{Cite web|last=Evangelista|first=Sandy|date=2015-08-12|title=Appointments at EPFL|url=https://actu.epfl.ch/news/appointments-at-epfl/|language=en}}</ref>
+
+== Research ==
+João Penedones leads the Fields and Strings Laboratory at [[École Polytechnique Fédérale de Lausanne|EPFL]], focusing on questions related to [[Quantum field theory|Quantum Field Theory]] and [[String theory|String Theory]].<ref>{{Cite web|title=Fields and Strings Laboratory|url=https://www.epfl.ch/labs/fsl/|access-date=2020-12-02|website=www.epfl.ch|language=en-GB}}</ref><ref>{{Cite web|title=Research|url=https://www.epfl.ch/labs/fsl/research/|access-date=2020-12-02|website=www.epfl.ch|language=en-GB}}</ref> One of their research objectives is to develop better non-perturbative methods to study quantum field theories using conformal and [[S-matrix]] bootstrap approaches. Another of their objectives is to explore the gauge/gravity duality to investigate questions related to [[quantum gravity]].
+
+One of João Penedones' most important contributions is a conjecture about the conditions upon which a conformal field theory has a gravity dual, later proved by A. Liam Fitzpatrick and Jared Kaplan.<ref>{{cite journal|author1=Heemskerk, Idse|author2=Penedones, Joao|author3=Polchinski, Joseph |author4= Sully, James|year=2009 |title=Holography from Conformal Field Theory |arxiv=0907.0151 |journal=JHEP |volume=0910 |issue=10 |page=079 |doi=10.1088/1126-6708/2009/10/079|bibcode=2009JHEP...10..079H |s2cid=17260475 }}</ref><ref>{{cite journal|author1=Fitzpatrick, A. Liam |author2= Kaplan, Jared|year=2012 |title=Analyticity and the Holographic S-Matrix |arxiv=1111.6972 |journal=JHEP |volume=1210 |issue=10 |page=127 |doi=10.1007/JHEP10(2012)127|bibcode=2012JHEP...10..127F |s2cid=85443186 }}</ref>
+
+Correlation functions of local operators living on the boundary of AdS are the natural analogues of scattering amplitudes. This connection is made more manifest once the correlation function is expressed in terms of [[Mellin transform|Mellin amplitudes]] as suggested by Penedones.<ref>{{cite journal|author= Penedones, Joao |year=2011 |title=Writing CFT correlation functions as AdS scattering amplitudes |arxiv=1011.1485 |journal=JHEP |volume=25 |issue=3 |page=01 |article-number=25 |doi=10.1007/jhep03(2011)025|bibcode=2011JHEP...03..025P |s2cid=119218113 }}</ref>
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Penedones, Joao}}
+[[Category:Portuguese physicists]]
+[[Category:Living people]]
+[[Category:1980 births]]
+
+
+{{Physicist-stub}}
+{{Portugal-scientist-stub}}

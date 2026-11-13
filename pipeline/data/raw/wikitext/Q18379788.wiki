@@ -1,0 +1,103 @@
+{{Short description|American physicist}}
+{{Infobox scientist
+| name              = John J. Rehr
+| image             = 
+| image_size        = 200px
+| birth_date        = 
+| birth_place       = [[Carlisle, Pennsylvania]], USA
+| field             = [[Physics]], [[Condensed matter theory]]
+| workplaces        = [[University of Washington]]
+| education         = [[University of Michigan]], [[Cornell University]]
+| doctoral_advisor  = [[David Mermin]]
+| doctoral_students = 
+| known_for         = [ FEFF], [[XANES]], [[Extended X-ray absorption fine structure|EXAFS]]
+| influences        = 
+| influenced        = 
+| awards            = Arthur H. Compton Award.,<ref>{{Cite web|url=https://www.aps.anl.gov/About/Committees/APS-Users-Organization/Compton-Award/Past-Winners|title = APSUO Arthur H. Compton Award - Past Winners &#124; Advanced Photon Source}}</ref>  IXAS Edward Stern Prize<ref>{{Cite web|url=https://xrayabsorption.org/ixas-awards/|title = IXAS Awards – IXAS: The International X-ray Absorption Society | date=21 June 2026 }}</ref>
+| footnotes         = Homepage:   https://faculty.washington.edu/jjr/
+}}
+'''John J. Rehr''' is an [[Americans|American]] theoretical physicist, professor emeritus of [[physics]] at the [[University of Washington]] in [[Seattle]].<ref>{{Cite web |url=https://faculty.washington.edu/jjr/ |title=Archived copy |access-date=2014-01-01 |archive-date=2004-01-29 |archive-url=https://web.archive.org/web/20040129211251/http://www.phys.washington.edu/~jjr/ |url-status=dead }}</ref> He has worked in the field of theoretical[[X-ray]]<ref name = modrev>
+{{cite journal
+ |author1=J. J. Rehr |author2=R. C. Albers |year = 2000
+ |title = Theoretical Approaches to X-ray Absorption Fine Structure
+ |journal = [[Reviews of Modern Physics]]
+ |volume = 72 |issue=3 |pages = 621–654
+ |doi=10.1103/revmodphys.72.621
+ |bibcode=2000RvMP...72..621R }}</ref><ref>
+{{cite journal
+ |author1=J. J. Rehr  |author2=A. L. Ankudinov
+ |year = 2001
+ |title = New Developments in the Theory of X-ray Absorption and Core Photoemission
+ |journal = [[J. Electron Spectros. Relat. Phenomena]]
+ |volume = 114 |pages = 1115–1121
+ |doi=10.1016/S0368-2048(00)00341-8
+ }}</ref> and [[Electron spectroscopy|electron-spectroscopies]].
+
+== Biography ==
+Rehr received a B.S.E. in 1967 from the [[University of Michigan]], followed by a Ph.D. from [[Cornell University]], in 1972, in theoretical condensed matter physics with [[David Mermin]] as his advisory. He then held a [[NATO]] postdoctoral fellowship at [[King's College London]] and at [[University of California, San Diego]], with [[Walter Kohn]].
+
+In 1975, he was appointed assistant professor in the Department of Physics at the [[University of Washington]], rising to the rank of associate professor in 1980 and full professor in 1985.  Rehr has held visiting appointments at Cornell University, [[Freie Universität Berlin]], [[Lund University]], [[Université de Poitiers]] and [[L'École Polytechnique]] ([[Paris]]). He has been a consulting professor at the [[Stanford Synchrotron Radiation Lightsource]], Co-ordinator of the [[DOE Computational Materials Science Network]], and leader of the Theoretical X-ray Beamline of the [[European Theoretical Spectroscopy Facility]].<ref>[http://www.etsf.eu/ ETSF]</ref>
+
+==Work==
+His works have received over 22,000 citations.<ref>{{Cite web|url=https://scholar.google.com/citations?user=akgG8HQAAAAJ&hl=en|title=John J. Rehr}}</ref> His research specialties are in [[Condensed matter physics|condensed matter]]
+theory, particularly in the field of excited state [[electronic structure]] and the theory of [[X-ray]]
+and electron spectra.<ref name=excited_rehr>
+{{cite journal
+ |author = J. J. Rehr
+ |year = 2003
+ |title = Excited State Electronic Structure and the Theory of X-ray Spectra
+ |journal = [[Journal of Physics: Condensed Matter|J. Phys.: Condens. Matter]]
+ |volume = 15 |issue = 5
+ |pages = S647–S654
+ |doi = 10.1088/0953-8984/15/5/317
+ |bibcode = 2003JPCM...15S.647R
+ |s2cid = 250803201
+ }}</ref><ref>{{cite web |url=http://www.washington.edu/research/energy/researcher/john-j-rehr |title=John J. Rehr {{!}} Energy Research at the University of Washington |website=www.washington.edu |url-status=dead |archive-url=https://web.archive.org/web/20110220174405/http://www.washington.edu/research/energy/researcher/john-j-rehr |archive-date=2011-02-20}}</ref> One of Rehr's major accomplishment was the theoretical solution
+of the EXAFS problem,<ref>
+{{cite journal
+ |author1=J. Mustre de Leon |author2=Y. Yacoby |author3=E.A. Stern |author4=J.J. Rehr |year = 1990
+ |title = The Analysis of Experimental EXAFS Data Using Calculated Curved Wave Multiple Scattering EXAFS Spectra
+ |journal = [[Physical Review B|Phys. Rev. B]]
+ |volume = 42 |issue=17 |pages = 10843–10851
+ |doi=10.1103/physrevb.42.10843
+ |pmid=9995359 }}</ref><ref>
+{{cite journal
+ |author1=J. J. Rehr |author2=A. Ankudinov |author3=S. I. Zabinsky |year = 1998
+ |title = New Developments in NEXAFS/EXAFS Theory
+ |journal = [[Catalysis Today]]
+ |volume = 39 |issue=4 |pages = 263–269
+ |doi=10.1016/s0920-5861(97)00109-0
+  }}</ref> and quantitative theories of core-level x-ray and electron spectroscopies. Rehr is also the founding father of the  first principles  code [[FEFF8]] and the principal investigator of the FEFF project. Rehr group's FEFF<ref>[http://www.feffproject.org/ FEFF]</ref><ref>{{Cite web|url=http://www.esrf.eu/computing/scientific/exafs/feff.html|title = ESRF EXAFS Software Catalog: Feff}}</ref> codes are in use worldwide and currently has over thousands of subscription. {{Citation needed|date=September 2014}}
+
+Rehr has also led his team in developing next generation scientific computation on [[High-performance computing|High Performance Computing]] resources and  [[cloud computing]] platforms such as the [[Amazon Web Services]] cloud  <ref>{{cite web | url=https://www.youtube.com/watch?v=mKElyNabc0A | title=- YouTube | website=[[YouTube]] }}</ref> . 
+
+His research has largely been supported by the US Department of Energy [http://science.energy.gov/bes/ BES].
+
+==Honors and awards==
+Rehr received the Advanced Photon Source [[Arthur H. Compton Award]]<ref>{{Cite web|url=https://www.aps.anl.gov/About/Committees/APS-Users-Organization/Compton-Award/Past-Winners|title=APSUO Arthur H. Compton Award - Past Winners &#124; Advanced Photon Source}}</ref> in 2011 and the International XAFS Society's Achievement Award in 2006.<ref>{{Cite web|url=https://xrayabsorption.org/ixas-awards/|title=IXAS Awards – IXAS: The International X-ray Absorption Society |date=21 June 2026 }}</ref> He was elected a [[Fellow of the American Physical Society]] in 2001.<ref>{{Cite web|url=http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2001&unit_id=&institution=|title = APS Fellow Archive}}</ref>
+
+== Most cited publications ==
+* “Real space multiple scattering calculation and interpretation of X-ray absorption near edge structure,” by A. Ankudinov, B. Ravel, J.J. Rehr, and S. Conradson, ''Physical ReviewB'' 58 7565 (1998). 2369 citations
+* “Multiple-Scattering Calculations of X-ray Absorption Spectra,” S. I. Zabinsky, J. J. Rehr, A. Ankudinov, R. C. Albers and M. J. Eller, ''Phys. Rev. B'' 52, 2995 (1995). 1725 citations
+* “Theoretical X-ray Absorption Fine Structure Standards,” J.J. Rehr, J. Mustre de Leon, S.I. Zabinsky, and R.C. Albers, ''J. Am. Chem. Soc.'' 113, 5135 (1991). 1443 citations
+* “Theoretical Approaches to X-ray Absorption Fine Structure,” J. J. Rehr and R. C. Albers, ''Rev. Mod. Phys.'' 72, 621, (2000). 1051 citations
+* “High-order multiple-scattering calculations of x-ray-absorption fine structure,” J.J. Rehr, R.C. Albers, and S.I. Zabinsky, ''Phys. Rev. Lett.'' 69, 3397 (1992). 1032 citations
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://faculty.washington.edu/jjr/ University of Washington Rehr homepage] {{Webarchive|url=https://web.archive.org/web/20040129211251/http://www.phys.washington.edu/~jjr/ |date=2004-01-29 }}
+*[https://monalisa.phys.washington.edu/ FEFF Project homepage]
+
+{{authority control}}
+
+{{DEFAULTSORT:Rehr, John J.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:American theoretical physicists]]
+[[Category:University of Michigan College of Engineering alumni]]
+[[Category:Cornell University alumni]]
+[[Category:University of Washington faculty]]
+[[Category:Fellows of the American Physical Society]]

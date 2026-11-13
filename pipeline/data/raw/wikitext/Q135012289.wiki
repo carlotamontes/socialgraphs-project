@@ -1,0 +1,104 @@
+{{Short description|American physicist (1930–1988)}}
+{{Use mdy dates|date=August 2025}}
+{{Infobox scientist
+| name              = Frederick L. Scarf
+| birth_date        = {{birth date|1930|07|25|mf=yes}}
+| death_date        = {{death date and age|1988|07|17|1930|07|25}}
+| image             = File:Frederick L. Scarf.jpg
+| caption           = Scarf in c. 1980
+| birth_name        = Frederick Leonard Scarf
+| birth_place       = Philadelphia, Pennsylvania, US
+| death_place       = [[Moscow]], USSR
+| known_for         = [[Plasma wave]] spacecraft instruments
+| occupation        = 
+| workplaces        = [[University of Washington]]<br>[[TRW Inc.|TRW]]<br>[[UCLA]]
+| field             = Plasma wave physics, [[space physics]]
+| thesis_title      = Retardation effects in the Bethe-Salpeter equation
+| thesis_url        = https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/pkqc35/alma990006989000106761
+| thesis_year       = 1955
+| doctoral_advisors = [[Felix Villars]]
+| education         = [[Temple University]] ([[Bachelor of Science|BS]])<br>[[MIT]] ([[PhD]])
+}}
+'''Frederick Leonard Scarf''' (July 25, 1930 – July 17, 1988) was an American physicist known for his work in [[plasma wave]] physics and his leadership in developing space-based instruments to study the solar wind and planetary [[Magnetosphere|magnetospheres]]. After earning a PhD in physics from the [[Massachusetts Institute of Technology]], he switched to space science in the early 1960s, working for [[TRW Inc.|TRW]]. Scarf played a central role in advocating for and designing plasma wave instruments aboard numerous NASA and international missions, including [[Orbiting Geophysical Observatory|OGO-5]], ''[[Pioneer Venus Orbiter]]'', ''[[Giotto (spacecraft)|Giotto]]'', [[ISEE-3]], and the [[Voyager program]] spacecraft, where he served as the principal investigator for the [[Plasma Wave Subsystem]] (PWS).
+
+His innovative conversion of plasma wave data from the Voyager's PWS into audio recordings, called the "sounds of space" by journalists, gained public and scientific attention. A strong proponent of international collaboration, Scarf worked on joint projects with European, Japanese, and Soviet space programs, even during periods of official US policy restrictions. He died suddenly while visiting the Soviet Space Research Institute in Moscow. In recognition of his contributions, he was awarded with two [[NASA Exceptional Scientific Achievement Medal]]s, and the [[American Geophysical Union]] established the Fred L. Scarf Award in his honor.
+
+== Biography ==
+Frederick Leonard Scarf was born on July 25, 1930, in Philadelphia, Pennsylvania, the son of Jewish emigrants from Ukraine and Russia, Lene (Elkman) and Louis Scarf.<ref>{{Cite news|url=https://www.nytimes.com/2015/11/23/business/herbert-scarf-an-economists-mathematician-dies-at-85.html|title=Herbert Scarf, an Economist's Mathematician, Dies at 85 (Published 2015)|first=Sam|last=Roberts|work=The New York Times |date=November 21, 2015|via=NYTimes.com}}</ref> He had a twin brother, mathematical economist [[Herbert Eli Scarf]].<ref>{{cite book |pages=IX-X |title=Herbert Scarf's Contributions to Economics, Game Theory and Operations Research. Volume 3: Production in Indivisibilities: A Contribution to the Theories of Large Firms |year=2013 |doi=10.1057/9781137024411 |isbn=978-1-137-02440-4 |editor=Zaifu Yang }}</ref> He studied physics at [[Temple University]] (BSc 1951) and then in [[Massachusetts Institute of Technology]] (PhD 1955); he used the [[Bethe–Salpeter equation]] to study the [[deuteron]] for his thesis.<ref name=obit2/> He then became a researcher at the [[University of Washington]], studying theoretical [[quantum electrodynamics]].<ref name=russell/> Around 1959, he took [[sabbatical]] and went to [[CERN]]. At that time he became interested in [[space physics]]. While at CERN, he met a friend from MIT who arranged him a visit to TRW.<ref name=obit2/>
+
+[[File:NASM-NASM2011-02430 (cropped).jpg|thumb|A [[flight spare]] for the plasma wave sensor system carried on the OGO-5 satellite. Gift of Fred Scarf to the [[Smithsonian Air and Space Museum]].]]
+
+In 1962, Scarf left the university to become a researcher at [[TRW Inc.|TRW]],<ref name=russell/><ref name=nytimes/> and then a Chief Scientist for Space Research and Technology in the Applied Technology Division of the TRW Space and Technology Group. Scarf and his colleagues at TRW realized that plasma wave experiments were being overlooked by NASA; they pressed NASA to change it.<ref name=greenstadt/> Scarf was a principal investigator or co-investigator of plasma wave experiments for multiple NASA spacecraft, starting with a plasma wave instrument on [[Orbiting Geophysical Observatory|OGO-5]], which detected "electrostatic waves in a collisionless shock",<ref name=greenstadt>{{cite journal |last1=Greenstadt |first1=E. W. |last2=Moses |first2=S. L. |last3=Kennel |first3=C. F. |last4=Russell |first4=C. T. |last5=Coroniti |first5=F. V. |title=Frederick L. Scarf 1930"1988 |journal=Eos, Transactions American Geophysical Union |date=November 29, 1988 |volume=69 |issue=48 |pages=1601 |doi=10.1029/88EO01210 |bibcode=1988EOSTr..69.1601G }}</ref> and then on [[Pioneer 8]], [[Pioneer 9|9]], and the [[Pioneer Venus Orbiter]].<ref name=latimes/>
+
+[[File:VoyagerSOTC.jpg|thumb|Voyager: Sounds of the Cosmos]]
+Scarf was an advocate of including the plasma wave detector on the [[Voyager program]] spacecraft. He became the [[Principal investigator|Principal Investigator]] (PI) of the [[Plasma Wave Subsystem]] (PWS). He developed a way to transform plasma wave measurements into sound, called the "sounds of space" by journalists. [[M. Mitchell Waldrop]] described these sounds in a ''[[Science (journal)|Science]]'' article:<ref>{{cite journal |last1=Waldrop |first1=M. Mitchell |title=The Sounds of Space |journal=Science |date=September 18, 1981 |volume=213 |issue=4514 |pages=1348 |doi=10.1126/science.213.4514.1348 |pmid=17732563 |bibcode=1981Sci...213.1348W }}</ref>
+{{Blockquote|text=Scarf's experiment measures oscillations in the electrically charged plasma surrounding the spacecraft, oscillations whose frequencies happen to fall in the acoustic range. By playing the signal back through a conventional loudspeaker, Scarf creates "the sounds of space," an eerie symphony of hisses, pops, and whistles. Voyager's transit of the bow shock, where the solar wind first encounters the magnetic field of the planet and is forced to flow around, erupts from the speakers as a hoarse roar like the breaking of waves on a beach.<br>For the Voyager 2 encounter with Saturn, Scarf and his colleagues outdid themselves: they played their data, which were divided into 16 frequency channels, through a 16-channel music synthesizer. The fragment of music that results is fitting accompaniment to Voyager's journey past Saturn. Slowly, dreamily, the midlevel brasses surge and ebb against a deep roll of basses and a high, floating treble. The music lasts for only a minute. But it haunts the mind.}}
+
+The "sounds of space" were released on cassettes and CDs.<ref name=obit2>{{cite journal |last1=Fisk |first1=Lennard A. |last2=Kennel |first2=Charles F. |last3=Krimigis |first3=Stamatios M. |last4=Lanzerotti |first4=Louis J. |title=Frederick L. Scarf |journal=Physics Today |date=September 1989 |volume=42 |issue=9 |pages=116–118 |doi=10.1063/1.2811165 }}</ref> After Scarf's death in 1988, [[Donald Gurnett]] became the PI of the PWS.<ref>{{Cite web|url=https://space.physics.uiowa.edu/~dag/Voyager/|title=Voyager PWS|website=space.physics.uiowa.edu}}</ref>
+
+[[File:ISEE3-ICE-trajectory.gif|thumb|ISEE-3 trajectory]]
+When NASA rejected a space probe mission to Halley's Comet, Scarf, with the help of NASA's [[Robert W. Farquhar]],<ref name=obit2/> found a way to bypass bureaucracy "to gain control of an orbiting research satellite that had already outlived its usefulness". [[ISEE-3]] was sent from its L1 point to the [[comet Giacobini-Zinner]] in September 1985; Scarf himself told the reporter: “We stole it [the satellite]”. The probe proved that the comet "sends out shock waves as it passes through space".<ref name=obit2/><ref name=latimes>{{Cite web|url=https://www.latimes.com/archives/la-xpm-1988-07-20-mn-5831-story.html|title=Obituaries : Frederick L. Scarf; Space Scientist at TRW Had a Worldwide Impact|first=Lee|last=Dye|date=July 20, 1988|website=Los Angeles Times}}</ref><ref>{{cite web |url=https://www.nytimes.com/1985/09/12/us/us-spacecraft-flies-safely-through-tail-of-distant-comet.html |title=U.S. Spacecraft Flies Safely Through Tail of Distant Comet |work=The New York Times |date=September 12, 1985 |last1=Wilford |first1=John Noble }}</ref><ref>{{cite news |url=https://www.washingtonpost.com/archive/politics/1985/09/12/spacecraft-sails-unscathed-through-comets-tail/92d3eb8c-aae9-4666-96c1-13237a915f73/ |title=Spacecraft Sails Unscathed Through Comet's Tail |newspaper=The Washington Post |date=September 11, 1985 |first=Thomas |last=O'Toole}}</ref> ISEE-3 became the first space probe that studied a comet.<ref name=obit2/>
+
+Scarf's student [[Christopher T. Russell]] described some of his discoveries:<ref name=russell/><ref name=greenstadt/>
+{{Blockquote|text=electrostatic waves at half-harmonics of the electron cyclotron frequency in the magnetospheres of both the Earth and the outer planets, and lightning-generated signals in both the magnetosphere of Jupiter and the ionosphere of Venus}}
+
+Scarf was known for his "generosity and openness" in sharing his observational data,<ref name=russell/><ref name=greenstadt/> as a good mentor, and as "a strong advocate of international cooperation in space".<ref name=russell/> He was involved into European space probe missions, like ESA's [[Giotto (spacecraft)|Giotto]] mission to [[Halley's Comet]], and played "a key role with the Japanese space program". Scarf also worked on multiple Soviet space missions, like the Soviet [[Phobos program]].<ref name=latimes/><ref name=phobos>{{cite web |url=https://www.latimes.com/archives/la-xpm-1988-02-07-mn-41330-story.html |archive-url=https://archive.today/20250623120404/https://www.latimes.com/archives/la-xpm-1988-02-07-mn-41330-story.html |archive-date=June 23, 2025 |title=A Mission of Cooperation |website=[[Los Angeles Times]] |date=February 7, 1988 }}</ref> When NASA was prohibited to participate in joint Soviet-American space programs, Scarf was one of a few scientists who continued to work with Soviets despite this ruling. To do it, Scarf became a part-time employee of [[UCLA]], that allowed him "to get a grant from NASA to continue his work with the Soviets". One time he attempted to make NASA donate a spare Voyager instrument to the Soviets to continue research, but NASA refused. Similar instrument was then transferred by [[ESA]], which asked Scarf to be a co-investigator.<ref name=latimes/><ref name=phobos/> He was a member of multiple groups and committees,<ref name=greenstadt/> including the interagency Consultative Group,<ref name=russell/> on the Space Science Board and its Committee on Solar and Space Physics,<ref name=obit2/> in the committee of the [[National Academy of Sciences]] study of Space Science in the Twenty-First Century,<ref name=russell/> a member of the Committee on Solar-Terrestrial Research of the [[National Research Council (United States)|National Research Council]], for which he served as a chairman in 1974–79.<ref name=obit2/>
+
+== Personal life and death ==
+Scarf died suddenly on July 17, 1988, while visiting the [[Russian Space Research Institute|Soviet Space Research Institute]] in Moscow. He had no health issues; a brain tumor was suspected but no official cause of death was published. In Moscow, Scarf was involved in planning of further Soviet Mars missions.<ref name=nytimes>{{cite web |url=https://www.nytimes.com/1988/07/20/obituaries/frederick-l-scarf-57-space-plasma-scientist.html |title=Frederick L. Scarf, 57, Space Plasma Scientist |work=The New York Times |date=July 20, 1988 }}</ref><ref name=latimes/>
+
+Russell wrote that colleagues would miss Scarf's "openness, advice, perseverance, amiability, sound judgment, humor, and enthusiasm" and called him "a true romantic of the space age who loved space science with a rare passion".<ref name=russell>{{cite journal |last1=Russell |first1=C.T. |title=In memoriam |journal=Icarus |date=January 1989 |volume=77 |issue=1 |pages=1–2 |doi=10.1016/0019-1035(89)90002-X |bibcode=1989Icar...77....1R }}</ref>
+
+Scarf was married and had four children.<ref name=latimes/>
+
+== Awards and recognition ==
+Scarf was "widely regarded as the world’s leading expert" in [[plasma wave]] physics<ref name=latimes/> and in [[solar wind]].<ref name=russell/> His obituary states that "Fred's name was synonymous, for a quarter century, with the most ubiquitous transient phenomena in solar system plasmas: electrostatic plasma waves".<ref name=greenstadt/>
+
+Scarf was awarded [[NASA Exceptional Scientific Achievement Medal]] in 1981 and 1986.<ref name=nytimes/>
+
+The [[American Geophysical Union]] established the Fred L. Scarf Award annually "in recognition of an outstanding dissertation that contributes directly to solar-planetary science", which is given annually.<ref>{{Cite web|url=https://www.uah.edu/alumni/news/15526-dr-parisa-mostafavi-is-2020-space-physics-and-aeronomy-fred-l-scarf-award-honoree|title=UAH {{pipe}} Alumni Relations {{pipe}} - {{pipe}} Dr. Parisa Mostafavi is 2020 Space Physics and Aeronomy Fred L. Scarf Award honoree {{pipe}} The University of Alabama in Huntsville|date=September 30, 2020|website=www.uah.edu}}</ref>
+
+== Discography ==
+* [https://www.discogs.com/release/10945448-Dr-Frederick-Scarf-Sounds-of-Saturn Sounds of Saturn], 1982
+* [https://www.discogs.com/release/21229909-Dr-Frederick-Scarf-Uranus-Sounds-From-Space Uranus Sounds From Space], 1986
+
+== Selected publications ==
+{{refbegin|indent=yes}}
+* {{Cite journal |year=1958 |doi=10.1103/PhysRev.112.1137 |title=New Soluble Energy Band Problem |last1=Scarf |first1=Frederick L. |journal=Physical Review |volume=112 |issue=4 |pages=1137–1140 |bibcode=1958PhRv..112.1137S }}
+* {{Citation |url=https://ntrs.nasa.gov/citations/19660024099|year=1966 |title=Wave-particle interactions in the solar wind |last1=Scarf |first1=F. L. }}
+* {{Cite journal |year=1970 |doi=10.1007/BF00241523 |title=Microscopic structure of the solar wind |last1=Scarf |first1=Frederick L. |journal=Space Science Reviews |volume=11 |issue=2–3 |page=234 |bibcode=1970SSRv...11..234S }}
+* {{Cite journal |year=1974 |doi=10.1029/JA079i028p04179 |title=Pioneer 9 Plasma wave and solar plasma measurements for the August 1972 storm period |last1=Scarf |first1=Frederick L. |last2=Wolfe |first2=John H. |journal=Journal of Geophysical Research |volume=79 |issue=28 |pages=4179–4185 |bibcode=1974JGR....79.4179S }}
+* {{Cite journal |year=1974|doi=10.1029/JA079i025p03835 |title=A new model for the high-frequency decametric radiation from Jupiter |last1=Scarf |first1=Frederick L. |journal=Journal of Geophysical Research |volume=79 |issue=25 |pages=3835–3839 |bibcode=1974JGR....79.3835S }}
+* {{Cite journal |year=1977|doi=10.1007/BF00211543 |title=A plasma wave investigation for the Voyager Mission |last1=Scarf |first1=Frederick L. |last2=Gurnett |first2=Donald A. |journal=Space Science Reviews |volume=21 |issue=3 |page=289 |bibcode=1977SSRv...21..289S }}
+* {{Cite journal |year=1979|doi=10.1038/279614a0 |title=Evidence for lightning on Venus |last1=Taylor |first1=William W. L. |last2=Scarf |first2=Frederick L. |last3=Russell |first3=Christopher T. |last4=Brace |first4=Larry H. |journal=Nature |volume=279 |issue=5714 |pages=614–616 |bibcode=1979Natur.279..614T }}
+* {{Cite journal |year=1979 |doi=10.1029/JA084iA08p04422 |title=Possible traversals of Jupiter's distant magnetic tail by Voyager and by Saturn |last1=Scarf |first1=Frederick L. |journal=Journal of Geophysical Research: Space Physics |volume=84 |pages=4422–4424 |bibcode=1979JGR....84.4422S }}
+* {{Cite journal |year=1979 |doi=10.1029/JA086iA10p08402 |title=Voyager observations of Jupiter's distant magnetotail |last1=Kurth |first1=W. S. |last2=Gurnett |first2=D. A. |last3=Scarf |first3=F. L. |last4=Poynter |first4=R. L. |last5=Sullivan |first5=J. D. |journal=Journal of Geophysical Research: Space Physics |volume=86 |pages=8402–8412 }}
+* {{Cite journal |year=1979 |doi=10.1126/science.204.4396.991 |title=Jupiter Plasma Wave Observations: An Initial Voyager 1 Overview |last1=Scarf |first1=Frederick L. |last2=Gurnett |first2=Donald A. |last3=Kurth |first3=William S. |journal=Science |volume=204 |issue=4396 |pages=991–995 |pmid=17800437 |bibcode=1979Sci...204..991S }}
+* {{Cite journal |year=1986 |doi=10.1126/science.232.4748.377 |title=Plasma Wave Observations at Comet Giacobini-Zinner |last1=Scarf |first1=Frederick L. |last2=Coroniti |first2=Ferdinand V. |last3=Kennel |first3=Charles F. |last4=Gurnett |first4=Donald A. |last5=Ip |first5=Wing-Huen |last6=Smith |first6=Edward J. |last7=Smith |first7=E. J. |journal=Science |volume=232 |issue=4748 |pages=377–381 |pmid=17792149 |bibcode=1986Sci...232..377S }}
+* {{cite book |last1=Scarf |first1=Frederick |title=Plasma Waves and Instabilities at Comets and in Magnetospheres |chapter=Plasma Wave Observations at Comets Giacobini-Zinner and Halley |series=Geophysical Monograph Series |date=2013 |pages=31–40 |doi=10.1029/GM053p0031 |isbn=978-1-118-66419-3 }}
+{{refend}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Cite web|url=https://space.physics.uiowa.edu/plasma-wave/plasma-wave/voyager/home.html|title=Voyager PWS|website=space.physics.uiowa.edu}}
+
+{{Voyager program}}
+{{Voyager program team}}
+{{authority control}}
+
+{{DEFAULTSORT:Scarf, Frederick L.}}
+[[Category:1930 births]]
+[[Category:1988 deaths]]
+[[Category:Voyager program]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American people of Ukrainian-Jewish descent]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish physicists]]
+[[Category:TRW people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Temple University alumni]]
+[[Category:University of Washington faculty]]
+[[Category:20th-century American physicists]]
+[[Category:20th-century American Jews]]

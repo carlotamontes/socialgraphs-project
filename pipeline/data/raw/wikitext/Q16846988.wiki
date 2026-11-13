@@ -1,0 +1,128 @@
+{{Use British English|date=August 2017}}
+{{Use dmy dates|date=August 2017}}
+{{Infobox scientist
+| name              = Henning Sirringhaus
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = <!-- {{Birth date|df=yes|YYYY|MM|DD}} -->
+| birth_place       = 
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Microelectronics]]
+* [[Optoelectronics]]}}
+| workplaces        = {{Plainlist|
+* [[University of Cambridge]]
+* [[Cavendish Laboratory]]
+* [[Princeton University]]}}
+| patrons           = 
+| education         = [[ETH Zurich|ETH Zürich]]
+| thesis_title      = Ballistic-electron-emission microscopy on epitaxial CoSi₂ / Si interfaces
+| thesis_url        = https://dx.doi.org/10.3929/ethz-a-001486644
+| thesis_year       = 1995
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = [[Jana Zaumseil]]
+| notable_students  = 
+| known_for         = {{Plainlist|
+* [[Plastic Logic|Plastic Logic Ltd.]]
+* [[Ballistic electron emission microscopy]]<ref name="royal"/>}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[Mullard Award]] (2003)
+* [[Fellow of the Royal Society|FRS]] (2009)
+* [[Hughes Medal]] (2013)
+* [[Institute of Physics Michael Faraday Medal and Prize|Faraday Medal]] (2015)
+}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{Plainlist|
+* {{URL|oe.phy.cam.ac.uk/fet/people/hs220}}
+* {{URL|http://www.phy.cam.ac.uk/directory/sirringhaush}}}}
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+
+'''Henning Sirringhaus''' {{post-nominals|country=GBR|FRS}} is [[Hitachi]] Professor of [[Semiconductor device|Electron Device]] [[Physics]], Head of the Microelectronics Group and a member of the Optoelectronics Group at the [[Cavendish Laboratory]]. He is also a Fellow of [[Churchill College, Cambridge|Churchill College]] at the [[University of Cambridge]].<ref name="cam">{{Cite web | url=http://www.phy.cam.ac.uk/directory/sirringhaush | title=Professor Henning Sirringhaus — Department of Physics| date=31 July 2013}}</ref><ref name="whoswho">{{Who's Who | title=SIRRINGHAUS, Prof. Henning | id = U255755 | volume = 2014 | edition = online [[Oxford University Press]]}}</ref><ref>{{Cite journal | last1 = Chua | first1 = L. L. | last2 = Zaumseil | first2 = J. | last3 = Chang | first3 = J. F. | last4 = Ou | first4 = E. C. -W. | last5 = Ho | first5 = P. K. -H. | last6 = Sirringhaus | first6 = H. | authorlink6 = Henning Sirringhaus| last7 = Friend | first7 = R. H. | authorlink7 = Richard Friend| doi = 10.1038/nature03376 | title = General observation of n-type field-effect behaviour in organic semiconductors | journal = Nature | volume = 434 | issue = 7030 | pages = 194–199 | year = 2005 | pmid =  15758994| bibcode = 2005Natur.434..194C | s2cid = 4415950 }}</ref><ref name="scopus">{{Scopus|id=7006871934}}</ref><ref>{{Cite journal | doi = 10.1038/44359| title = Two-dimensional charge transport in self-organized, high-mobility conjugated polymers| journal = Nature| volume = 401| issue = 6754| pages = 685| year = 1999| last1 = Sirringhaus | first1 = H.| authorlink1 = Henning Sirringhaus| last2 = Brown | first2 = P. J.| last3 = Friend | first3 = R. H.| authorlink3 = Richard Friend| last4 = Nielsen | first4 = M. M.| last5 = Bechgaard | first5 = K.| last6 = Langeveld-Voss | first6 = B. M. W.| last7 = Spiering | first7 = A. J. H.| last8 = Janssen | first8 = R. A. J.| last9 = Meijer | first9 = E. W.| last10 = Herwig | first10 = P.| last11 = De Leeuw | first11 = D. M.| bibcode = 1999Natur.401..685S| s2cid = 4387286}}</ref><ref>{{Cite journal | doi = 10.1038/nmat3710| title = Measurement of molecular motion in organic semiconductors by thermal diffuse electron scattering| journal = Nature Materials| volume = 12| issue = 11| pages = 1045–9| year = 2013| last1 = Eggeman | first1 = A. S. | last2 = Illig | first2 = S. | last3 = Troisi | first3 = A. | last4 = Sirringhaus | first4 = H. | authorlink4 = Henning Sirringhaus| last5 = Midgley | first5 = P. A. | authorlink5 = Paul Midgley | pmid=23892786| bibcode = 2013NatMa..12.1045E| url = https://www.repository.cam.ac.uk/handle/1810/245747}}</ref>
+
+==Education==
+Sirringhaus was educated at [[ETH Zurich|ETH Zürich]] where he was awarded a Bachelor of Science degree and PhD in physics.<ref>{{Cite thesis|first=Henning|last=Sirringhaus|title=Ballistic-electron-emission microscopy on epitaxial CoSi₂ / Si interfaces |publisher=ETH Zurich |year=1995 | doi = 10.3929/ethz-a-001486644|authorlink=Henning Sirringhaus|hdl=20.500.11850/142196|type=Doctoral Thesis}}</ref> From 1995 to 1996 he worked as a [[postdoctoral research]] fellow at [[Princeton University]].<ref name="cam"/>
+
+==Research==
+Sirringhaus does research on the charge and [[Spintronics|spin transport]] and [[Light|photophysics]] of [[organic semiconductor]]s as well as solution-processible inorganic semiconductors including halide perovskites.<ref name="cam"/><ref>{{Cite journal
+| last1 = Stutzmann | first1 = N.
+| last2 = Friend | first2 = R. H.
+| authorlink2 = Richard Friend
+| last3 = Sirringhaus | first3 = H.
+| authorlink3 = Henning Sirringhaus
+| doi = 10.1126/science.1081279
+| title = Self-Aligned, Vertical-Channel, Polymer Field-Effect Transistors
+| journal = Science
+| volume = 299
+| issue = 5614
+| pages = 1881–1884
+| year = 2003
+| pmid = 12649478
+| bibcode = 2003Sci...299.1881S
+| s2cid = 7885878
+}}</ref><ref>{{Cite journal
+| last1 = Sirringhaus | first1 = H.
+| authorlink1 = Henning Sirringhaus
+| last2 = Kawase | first2 = T.
+| last3 = Friend | first3 = R. H.
+| authorlink3 = Richard Friend
+| last4 = Shimoda | first4 = T.
+| last5 = Inbasekaran | first5 = M.
+| last6 = Wu | first6 = W.
+| last7 = Woo | first7 = E. P.
+| title = High-Resolution Inkjet Printing of All-Polymer Transistor Circuits
+| doi = 10.1126/science.290.5499.2123
+| journal = Science
+| volume = 290
+| issue = 5499
+| pages = 2123–2126
+| year = 2000
+| pmid =  11118142
+| bibcode = 2000Sci...290.2123S
+}}</ref><ref>{{Cite journal
+| last1 = Sirringhaus | first1 = H.
+| authorlink1 = Henning Sirringhaus
+| last2 = Tessler | first2 = N.
+| last3 = Friend | first3 = R. H.
+| authorlink3 = Richard Friend
+| doi = 10.1126/science.280.5370.1741
+| title = Integrated Optoelectronic Devices Based on Conjugated Polymers
+| journal = Science
+| volume = 280
+| issue = 5370
+| pages = 1741–1744
+| year = 1998
+| pmid =  9624049
+| bibcode = 1998Sci...280.1741S
+}}</ref><ref>{{Cite journal | doi = 10.1002/adma.200501152| title = Device Physics of Solution-Processed Organic Field-Effect Transistors| journal = Advanced Materials| volume = 17| issue = 20| pages = 2411–2425| year = 2005| last1 = Sirringhaus | first1 = H.| bibcode = 2005AdM....17.2411S| s2cid = 10232884}}</ref><ref>{{Cite journal | doi = 10.1021/cr0501543| pmid = 17378616| title = Electron and Ambipolar Transport in Organic Field-Effect Transistors| journal = Chemical Reviews| volume = 107| issue = 4| pages = 1296–323| year = 2007| last1 = Zaumseil | first1 = J. | last2 = Sirringhaus | first2 = H. }}</ref> Sirringhaus leads an active research group with over 30 members including PhD students and postdoctoral researchers.
+
+==Awards and honours==
+Sirringhaus was elected a Fellow of the [[Royal Society]] in 2009, his nomination reads: {{centred pull quote|Henning Sirringhaus is distinguished for his work on semiconductor device physics and engineering. Early in his career, at the ETH Zurich, he pioneered the technique of [[ballistic electron emission microscopy]]. At Cambridge he has transformed the field of [[organic semiconductor]] [[transistor]]s from curiosity to fully manufacturable technology through both fundamental science and engineering. His insights into the [[polaron]]ic nature of [[Electron configuration|electron state]]s in these materials and the control of [[Interface (chemistry)|interfacial structure]] made possible large increases in field-effect carrier mobility. His work on novel processing methods, including [[Inkjet printing|ink-jet printing]], has made possible new manufacturing methods. A recent highlight is his realisation of a [[Organic field-effect transistor|light-emitting field-effect transistor]].<ref name="royal">{{cite web |url=http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F2009%2F35%27) |title =Library and Archive Catalogue EC/2009/35: Sirringhaus, Henning |publisher=The Royal Society |archivedate=2014-04-04 |url-status=dead |archiveurl=https://archive.today/20140404094300/http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo=='EC/2009/35') |location=London}}</ref>}}
+
+==References==
+{{reflist}}
+
+{{FRS 2009}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sirringhaus, Henning}}
+[[Category:Living people]]
+[[Category:ETH Zurich alumni]]
+[[Category:Fellows of Churchill College, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Year of birth missing (living people)]]

@@ -1,0 +1,91 @@
+{{short description|Swedish physicist and engineer (1934–2016)}}
+{{Infobox scientist
+| name              = Staffan Einar Ström
+| image             =
+| caption           =
+| birth_name        = 
+| birth_date        = {{birth date|1934|09|14|df=y}}
+| birth_place       = [[Gothenburg]], [[Sweden]]
+| death_date        = {{death date and age|2016|08|28|1934|09|14|df=y}}
+| death_place       =
+| education         = {{plainlist|
+*[[Chalmers University of Technology]]
+}}
+| known_for         = Contributions to [[T-matrix method|null field method]]
+| awards            =
+| fields            = {{plainlist|
+*[[Physics]]
+}}
+| workplaces        = {{plainlist|
+*Chalmers University of Technology
+*[[University of Texas at Austin]]
+*[[KTH Royal Institute of Technology]]
+}}
+| thesis_title      = A Study of the Unitary Representations of Some Space-Time Transformation Groups
+| thesis_year       = 1967
+| thesis_url        = https://research.chalmers.se/publication/177553/file/177553_Fulltext.pdf
+| doctoral_advisor  = Nils Svartholm
+| academic_advisors = [[E. C. George Sudarshan]]
+| doctoral_students = [[Sailing He]]
+}}
+'''Staffan Einar Ström''' (14 September 1934 – 28 August 2016) was a Swedish physicist and engineer who was a professor at [[KTH Royal Institute of Technology]]. He is best known for his contributions to the [[T-matrix method|null field method]] for [[Electromagnetism|electromagnetic]], [[Acoustics|acoustic]] and [[Linear elasticity|elastodynamic]] problems.
+
+==Life and career==
+Born on 14 September 1934 in [[Gothenburg]], Ström received his undergraduate degree in electrical engineering from [[Chalmers University of Technology]] in 1959. He obtained his doctoral degree in mathematical physics in 1967 from the same institution under the supervision of Nils Svartholm. From 1969 to 1971, he served as a visiting research associate at [[University of Texas at Austin]] under the supervision of [[E. C. George Sudarshan]], working on [[group theory]]. Following his return to Chalmers University of Technology, he formed the Applied Mathematical Physics research group, focusing on applied mathematics in elastodynamics, electrodynamics and acoustics. In 1984, he was appointed the Chair of Electromagnetic Theory at [[KTH Royal Institute of Technology]], where he worked at until his retirement in 1999. Following his retirement, he has continued his research activities, leading research projects in antenna applications from 2000 to 2004.<ref name="kristensson2016"/> 
+
+Ström's early work focused on space-time transformation groups, such as [[Lorentz group|Lorentz]] an [[Poincaré group]]s. His later work focused on the analysis of wave scattering: in the 1970s, he has made contributions to the [[T-matrix method|null field method]] of [[Peter C. Waterman]], extending it to more complex
+scattering geometries as well as an ensemble of scatterers.<ref name="kristensson2016"/><ref name="peterson1973"/><ref name="peterson1974"/> He has also worked on [[embedding]] algorithms for [[inverse scattering problem]]s and coauthored the [[monograph]], ''Time Domain Wave-Splitting and Inverse Problems''.<ref name="kristensson2016"/> 
+
+Ström served as the chair of the  Swedish National Committee of Radio Science under the [[Royal Swedish Academy of Sciences]] from 1994 to 2005.<ref name="kristensson2017"/> He was an active member of [[International Union of Radio Science]], organizing the Electromagnetic Field Symposium in [[Stockholm]] in 1989 and chairing its Commission B from 1999 to 2002.<ref name="kristensson2016"/> In 2002, he was elected as a fellow of the [[IEEE]] "for contributions to null field approach to multiple scattering problems."<ref name="ieee2002"/> He died on 28 August 2016, and was survived by his wife, their two daughters and his three siblings.<ref name="kristensson2016"/>
+
+==Selected publications==
+;Books
+* {{cite book |last1=He |first1=Sailing |last2=Strom |first2=Staffan |last3=Weston |first3=Vaughan H. |title=Time Domain Wave-Splittings and Inverse Problems |date=1998 |publisher=[[Oxford University Press]] |location=Oxford |isbn=9780198565499 |author-link1=Sailing He}}
+* {{cite book |title=Modeling and Analysis of Transient Processes in Open Resonant Structures |date=2007 |publisher=Springer |location=New York |isbn= 9780387308784 |editor-first1=Yuriy K. |editor-last1=Sirenko |editor-first2=Nataliya P.  |editor-last2=Yashina |editor-first3=Staffan |editor-last3=Ström}}
+* {{cite book |title=Modern Theory of Gratings |date=2009 |publisher=Springer |location=New York |isbn=9781441911995 |editor-first1=Yuriy K. |editor-last1=Sirenko |editor-first2=Staffan |editor-last2=Ström}}
+
+;Book chapters
+* {{cite book |first1=Anders |last1=Boström |first2=Gerhard |last2=Kristensson |first3=Staffan |last3=Ström |date= |title= Acoustic, Electromagnetic and Elastic Wave Scattering |publisher= Elsevier |pages=165-210 |editor-first1 = V. V |editor-last1 =Varadan |editor-first2 = A. |editor-last2 =Lakhtakia |editor-first3 =V. K. |editor-last3 =Varadan |editor-link2=Akhlesh Lakhtakia |location= |isbn= |page= |url= |access-date= |chapter=Transformation properties of plane, spherical and cylindrical scalar and vector wave functions}}
+
+;Journal articles
+* {{cite journal |last1=Peterson |first1=Bo |last2=Ström |first2=Staffan |title=T matrix for electromagnetic scattering from an arbitrary number of scatterers and representations of E(3)|journal=[[Physical Review D]] |date=1973 |volume=8 |issue=10 |pages=3661-3678 |doi=10.1103/PhysRevD.8.3661}}
+* {{cite journal |last1=Peterson |first1=Bo |last2=Ström |first2=Staffan |title=Matrix formulation of acoustic scattering from an arbitrary number of scatterers |journal=[[Journal of the Acoustical Society of America]] |date=1974 |volume=56 |pages=771–780 |doi=10.1121/1.1903325}}
+* {{cite journal |last1=Peterson |first1=Bo |last2=Ström |first2=Staffan |title=T-matrix formulation of electromagnetic scattering from multilayered scatterers |journal=Physical Review D |date=1974 |volume=10 |issue=8 |pages=2670-2684 |doi=10.1103/PhysRevD.10.2670}}
+* {{cite journal |last1=Kristensson |first1=Gerhard |last2=Ström |first2=Staffan |title=Scattering from buried inhomogeneities—a general three‐dimensional formalism |journal=Journal of the Acoustical Society of America |date=1978 |volume=64 |pages=917–936 |doi=10.1121/1.382052}}
+* {{cite journal |last1=He |first1=Sailing |last2=Ström |first2=Staffan |title=The electromagnetic scattering problem in the time domain for a dissipative slab and a point source using invariant imbedding |journal=[[Journal of Mathematical Physics]] |date=1991 |volume=32 |pages=3529–3539 |doi=10.1063/1.529468 |author-link1=Sailing He}}
+
+==References==
+{{Reflist|refs=
+
+<ref name="peterson1973">{{cite journal |last1=Peterson |first1=Bo |last2=Ström |first2=Staffan |title=T matrix for electromagnetic scattering from an arbitrary number of scatterers and representations of E(3)|journal=[[Physical Review D]] |date=1973 |volume=8 |issue=10 |pages=3661-3678 |doi=10.1103/PhysRevD.8.3661}}</ref>
+
+<ref name="peterson1974">{{cite journal |last1=Peterson |first1=Bo |last2=Ström |first2=Staffan |title=T-matrix formulation of electromagnetic scattering from multilayered scatterers |journal=[[Physical Review D]] |date=1974 |volume=10 |issue=8 |pages=2670-2684 |doi=10.1103/PhysRevD.10.2670}}</ref>
+
+<ref name="ieee2002">{{cite conference |date= |title=IEEE Fellows: Class of 2002 |work= |book-title= |conference=2002 IEEE MTT-S International Microwave Symposium Digest  |location= |publisher= |doi=10.1109/MWSYM.2002.1011544}}</ref>
+
+<ref name="kristensson2016">{{cite journal |last1=Kristensson |first1=Gerhard |last2=Walde |first2=Carl-Henrik |title=In memoriam: Staffan Ström |journal=URSI Radio Science Bulletin |date=December 2016 |volume=359 |pages=38-39 |doi=10.23919/URSIRSB.2016.7909997 |url=https://ieeexplore.ieee.org/document/7909997}}</ref>
+
+<ref name="kristensson2017">{{cite conference |last1=Kristensson |first1=Gerhard |date= |title=Introduction to the Memorial Session of Staffan Ström |work= |book-title= |conference=32nd URSI GASS, Montreal, 19–26 August 2017 |location= |publisher= |access-date=18 October 2017 |url=https://www.ursi.org/proceedings/procGA17/papers/Paper_B16-1(1056).pdf}}</ref>
+
+}}
+
+==External links==
+* [https://web.archive.org/web/19980204181039/http://tet.kth.se/www/hometet.html Theoretical Electrical Engineering Group] at [[KTH Royal Institute of Technology]] (archived)
+{{DEFAULTSORT:Ström, Staffan}}
+
+[[Category:1934 births]]
+[[Category:2016 deaths]]
+[[Category:20th-century Swedish physicists]]
+[[Category:21st-century Swedish physicists]]
+[[Category:20th-century Swedish engineers]]
+[[Category:21st-century Swedish engineers]]
+[[Category:Scientists from Gothenburg]]
+[[Category:Radiophysicists]]
+[[Category:Computational physicists]]
+[[Category:Theoretical physicists]]
+[[Category:Mathematical physicists]]
+[[Category:Acousticians]]
+[[Category:Academic staff of the Chalmers University of Technology]]
+[[Category:Academic staff of the KTH Royal Institute of Technology]]
+[[Category:Fellows of the IEEE]]
+[[Category:Swedish electrical engineers]]

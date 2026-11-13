@@ -1,0 +1,129 @@
+{{short description|American applied physicist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = James Baker-Jarvis
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = James Roger Baker
+| birth_date        = {{birth date |1950|02|08}}
+| birth_place       = [[Lauderdale, Minnesota]], U.S.
+| death_date        = {{death date and age |2011|12|31 |1950|02|08}}
+| death_place       = [[Lyons, Colorado]], U.S.
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = {{plainlist|
+*[[Physics]]
+*[[Metrology]]
+*[[Materials science]]
+}}
+| workplaces        = {{plainlist|
+*University of Wyoming
+*[[North Dakota State University]]
+*[[National Institute of Standards and Technology]]
+}}
+| patrons           = 
+| education         = {{plainlist|
+*[[University of Minnesota]]
+*[[University of Wyoming]]
+}}
+| thesis_title      = Heat conduction in heterogeneous media and volumetric heating of oil shales by electromagnetic methods
+| thesis_url        = https://www.proquest.com/dissertations-theses/heat-conduction-heterogeneous-media-volumetric/docview/303318837/se-2?accountid=210906
+| thesis_year       = 1984
+| doctoral_advisor  = Ramarao Inguva
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Nicolson–Ross–Weir method|Baker-Jarvis method]]
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = Karen Baker-Jarvis
+| partner           = <!--(or | partners = )-->
+| children          = 2
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''James Roger Baker-Jarvis''' ([[Birth name|né]] '''Baker'''; February 8, 1950 — December 31, 2011) was an American applied physicist and metrologist who was a research scientist at the Electromagnetics Division at [[National Institute of Standards and Technology]] (NIST). He is best known for his contribution to the [[metrology]] of [[dielectric]] properties of materials in [[microwave]] frequencies.
+
+==Biography==
+James Roger Baker-Jarvis was born on February 8, 1950, in [[Lauderdale, Minnesota]]. He received B.S. degree in mathematics and M.S. degree in physics from [[University of Minnesota]] in 1975 and 1980, respectively. He pursued his doctoral studies in [[University of Wyoming]] and obtained a PhD. degree in theoretical physics in 1984. His post-doctoral work concerned dielectric measurements and electromagnetic fields in lossy media. Spending two years as an assistant professor at University of Wyoming, he then moved to [[North Dakota State University]], where he was an assistant professor of physics and worked on electromagnetic heating processes and [[Principle of maximum entropy|maximum entropy methods]]. In 1989, he joined [[National Institute of Standards and Technology]] (NIST), where he spent the remainder of his career and was the leader of Electromagnetic Properties of Materials Project.<ref name="ims-newsletter"/><ref name="ims-magazine"/>
+
+Baker-Jarvis' research work at NIST focused on [[microwave]] [[dielectric]] properties of materials and [[Nondestructive testing|nondestructive evaluation]].<ref name="ims-magazine"/> [[ASTM International|ASTM]] Standard 5568 for dielectric metrology techniques was largely based on his work on [[coaxial cable]] measurements.<ref name="ims-newsletter"/> An [[Iterative method|iterative]] measurement technique [[Nicolson–Ross–Weir method|measurement technique]] introduced by Baker-Jarvis and his colleagues is known as Baker-Jarvis algorithm or NIST iterative method.<ref name="ims-newsletter"/><ref name="ieee-mtts-nist"/><ref name="ieee-mtts-ref"/> In 2010, he was named a [[Lists of fellows of the IEEE|fellow member]] of [[Institute of Electrical and Electronics Engineers|IEEE]] for "contributions to dielectric measurement and analysis of microwave measurement structures."<ref name="nist-ieee-fellow"/>
+
+Baker-Jarvis was married to Karen Baker-Jarvis, whom he met at University of Minnesota. They took on a [[Double-barrelled name|hyphenated surname]]. He died on December 31, 2011, following an [[Traffic collision|automobile accident]], and was survived by his wife and two children.<ref name="timescall"/>
+
+==Selected publications==
+;Journal articles
+* {{cite journal |last1=Baker-Jarvis |first1=James |last2=Racine |first2=Michael |last3=Alameddine |first3=Jihad |title=Solving differential equations by a maximum entropy–minimum norm method with applications to Fokker–Planck equations |journal=[[Journal of Mathematical Physics]] |date=1989 |volume=30 |issue=7 |pages=1459–1463 |doi=10.1063/1.528276|bibcode=1989JMP....30.1459B }}
+* {{cite journal |last1=Hansen |first1=Andrew C. |last2=Baker-Jarvis |first2=James |title=A rate dependent kinetic theory of fracture for polymers |journal=[[International Journal of Fracture]] |date=August 1990 |volume=44 |issue=3 |pages=221–231 |doi=10.1007/BF00035518}}
+* {{cite journal |last1=Baker-Jarvis |first1=J. |last2=Vanzura |first2=E. J. |last3=Kissick |first3=W. A. |title=Improved technique for determining complex permittivity with the transmission/reflection method |journal=[[IEEE Transactions on Microwave Theory and Techniques]] |date=August 1990 |volume=38 |issue=8 |pages=1096–1103 |doi=10.1109/22.57336|bibcode=1990ITMTT..38.1096B }}
+* {{cite journal |last1=Baker-Jarvis |first1=J. |last2=Janezic |first2=M. D. |last3=Domich |first3=P. D. |last4=Geyer |first4=R. G. |title=Analysis of an open-ended coaxial probe with lift-off for nondestructive testing |journal=[[IEEE Transactions on Instrumentation and Measurement]] |date=October 1994 |volume=43 |issue=5 |pages=711–718|doi=10.1109/19.328897 |bibcode=1994ITIM...43..711B }}
+* {{cite journal |last1=Krupka |first1=Jerzy |last2=Derzakowski |first2=Krzysztof |last3=Riddle |first3=Bill |last4=Baker-Jarvis |first4=James |title=A dielectric resonator for measurements of complex permittivity of low loss dielectric materials as a function of temperature |journal=[[Measurement Science and Technology]] |date=1998 |volume=9 |issue=10 |page=1751 |doi=10.1088/0957-0233/9/10/015|bibcode=1998MeScT...9.1751K }}
+* {{cite journal |last1=Riddle |first1=B. |last2=Baker-Jarvis |first2=J. |last3=Krupka |first3=J. |title=Complex permittivity measurements of common plastics over variable temperatures |journal=IEEE Transactions on Microwave Theory and Techniques |date=March 2003 |volume=51 |issue=3 |pages=727–733 |doi=10.1109/TMTT.2003.808730|bibcode=2003ITMTT..51..727R }}
+* {{cite journal |last1=Holloway |first1=C. L. |last2=Kuester |first2=E. F. |last3=Baker-Jarvis |first3=J. |last4=Kabos |first4=P. |title=A double negative (DNG) composite medium composed of magnetodielectric spherical particles embedded in a matrix |journal=[[IEEE Transactions on Antennas and Propagation]] |date=October 2003 |volume=51 |issue=10 |pages=2596–2603 |doi=10.1109/TAP.2003.817563|bibcode=2003ITAP...51.2596H }}
+* {{cite journal |last1=Baker-Jarvis |first1=James |last2=Kim |first2=Sung |title=The interaction of radio-frequency fields with dielectric materials at macroscopic to mesoscopic scales |journal=[[Journal of Research of the National Institute of Standards and Technology]] |date=2012 |volume=117 |pages=1–60 |doi=10.6028/jres.117.001|pmid=26900513 |pmc=4553869 }}
+
+;Technical reports
+* {{cite report |first1=James |last1=Baker-Jarvis |first2=Michael D. |last2=Janezic |first3=John H. |last3=Grosvenor, Jr. |first4=Richard G. |last4=Geyer |author-link= |date=1993 |title=Transmission/Reflection and short-circuit line methods for measuring permittivity and permeability |url=https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote1355r.pdf |publisher=[[National Institute of Standards and Technology]] |page= |docket= |quote= |id=NIST Technical Note 1355-R}}
+
+==References==
+{{Reflist|refs=
+
+<ref name="ieee-mtts-nist">{{cite journal |last1=Baker-Jarvis |first1=J. |last2=Vanzura |first2=E. J. |last3=Kissick |first3=W. A. |title=Improved technique for determining complex permittivity with the transmission/reflection method |journal=[[IEEE Transactions on Microwave Theory and Techniques]] |date=August 1990 |volume=38 |issue=8 |pages=1096–1103 |doi=10.1109/22.57336|bibcode=1990ITMTT..38.1096B }}</ref>
+
+<ref name="ieee-mtts-ref">{{cite journal |first1=Khattiya |last1=Chalapat |first2=Kari |last2=Sarvala |first3=Jian |last3=Li |first4=Gheorghe Sorin |last4=Paraoanu |title=Wideband reference-plane invariant method for measuring electromagnetic parameters of materials |journal=[[IEEE Transactions on Microwave Theory and Techniques]] |date=August 1990 |volume=38 |issue=8 |pages=1096–1103 |doi=10.1109/22.57336|bibcode=1990ITMTT..38.1096B }}</ref>
+
+<ref name="ims-newsletter">{{cite journal |title=In Memoriam of James Roger Baker-Jarvis (1950-2011) |journal=IEEE Instrumentation and Measurement Newsletter |date=October 2012 |url=https://jamesbakerjarvis.blogspot.com/2012/10/tributes-from-fellow-scientists.html#more}}</ref>
+
+<ref name="ims-magazine">{{cite journal |last1=Baker-Jarvis |first1=James |last2=Janezic |first2=Michael D. |last3=DeGroot |first3=Donald C. |title=High-Frequency Dielectric Measurements |journal=IEEE Instrumentation & Measurement Magazine |date=April 2010 |pages=24–31 |volume= 13| issue=2| doi=10.1109/MIM.2010.5438334  |url=https://www.nist.gov/system/files/documents/2017/05/09/Baker-Jarvis-IMMag-April-2010.pdf}}</ref>
+
+<ref name="nist-ieee-fellow">{{cite web |title=Six NIST Researchers Selected as IEEE Fellows |url=https://www.nist.gov/news-events/news/2010/01/six-nist-researchers-selected-ieee-fellows |website=nist.gov |access-date=September 13, 2024 |date=January 12, 2010}}</ref>
+
+<ref name="timescall">{{cite web |last1=Shields |first1=Pierrette J. |title=Wife remembers NIST scientist killed by tree branch |url=https://www.timescall.com/ci_19684381/ |website=[[Longmont Times-Call]] |access-date=September 13, 2024 |archive-url=https://web.archive.org/web/20140801135115/https://www.timescall.com/ci_19684381/ |archive-date=August 1, 2014 |date=January 5, 2012}}</ref>
+
+}}
+
+==External links==
+* [https://jamesbakerjarvis.blogspot.com/2012/10/tributes-from-fellow-scientists.html#more In Memoriam: James Baker-Jarvis at IEEE Instrumentation and Measurement Newsletter]
+
+{{DEFAULTSORT:Baker-Jarvis, James}}
+[[Category:1950 births]]
+[[Category:2011 deaths]]
+[[Category:National Institute of Standards and Technology people]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:Metrologists]]
+[[Category:American microwave engineers]]
+[[Category:University of Minnesota College of Science and Engineering alumni]]
+[[Category:University of Wyoming alumni]]
+[[Category:University of Wyoming faculty]]
+[[Category:North Dakota State University faculty]]
+[[Category:People from Ramsey County, Minnesota]]
+[[Category:Scientists from Minneapolis]]
+[[Category:People from Lyons, Colorado]]
+[[Category:Road incident deaths in Colorado]]
+[[Category:Fellows of the IEEE]]
+[[Category:American materials scientists]]

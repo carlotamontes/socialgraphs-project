@@ -1,0 +1,61 @@
+{{Short description|Lithuanian theoretical physicist (1946–2017)}}
+{{Infobox scientist
+| image            = Pavelas Bogdanovičius.jpg
+| birth_name       = Pavelas Bogdanovičius
+| birth_date       = {{birth date|df=y|1946|09|12}}
+| birth_place      = [[Vilnius]], [[Lithuanian SSR]]
+| death_date       = {{Death date and age|2017|08|10|1946|09|12|df=y}}
+| death_place      = [[Klaipėda]], [[Lithuania]]
+| resting_place    = {{ill|Rokantiškės|lt}} cemetery
+| field            = [[Atomic physics]]
+| workplaces       = [[Vytautas Magnus University Education Academy|Vilnius Pedagogical University]]
+| education        = [[Vilnius University]]
+| thesis_title     = Įprastinio ir apibendrinto Hartrio ir Foko metodo taikymo klausimu (The application of the usual and generalized [[Hartree–Fock method]])
+| doctoral_advisor = [[Adolfas Jucys]]
+| awards           = [[Lithuanian Science Prize]] (2013)
+}}
+
+'''Pavelas Bogdanovičius''' (12 September 1946 – 10 August 2017) was a Lithuanian [[theoretical physicist]] with a focus on [[atomic physics]]. He graduated from [[Vilnius University]] in 1969. He worked at the {{ill|Institute of Physics and Mathematics|lt|Fizikos ir matematikos institutas}}, which was reorganized into the Institute of Physics and the Institute of Theoretical Physics and Astronomy. Bogdanovičius was a lecturer of quantum mechanics at the [[Vytautas Magnus University Education Academy|Vilnius Pedagogical University]] from 1994 to 2003. Bogdanovičius's most important work concerns the theory of multi-electron atoms as well as the spectral characteristics of multi-charged ions. He is the author of more than 130 scientific articles.
+
+==Biography==
+===Early life===
+Pavelas Bogdanovičius was born on 12 September 1946 in [[Vilnius]]. He graduated with a gold medal from the {{ill|Vilnius 8th Gymnasium|lt|Vilniaus Naujamiesčio mokykla}}. Bogdanovičius successfully participated in mathematics and physics competitions from an early age, becoming acquainted with [[quantum mechanics]] from popular literature. He attended the Physics Faculty of [[Vilnius University]] headed by [[Adolfas Jucys]], where from 1968 he performed quantum mechanical calculations.<ref name=vilnensis/> Bogdanovičius graduated in 1969 with honors. In 1973, he successfully defended his thesis on the application of the usual and generalized [[Hartree–Fock method]] (''Įprastinio ir apibendrinto Hartrio ir Foko metodo taikymo klausimu'').<ref name="mokslas"/>
+
+===Academic career===
+Bogdanovičius continued to actively work on developing the theory of atomic [[wave function]]s, implementing it in universal programs and applying it to obtain high-precision spectral characteristics and to interpret experimental spectra.<ref name="VUnaujienos"/> These results were summarized in his doctoral dissertation on the development of atomic calculation methods, the creation and use of mathematical support for studying spectroscopic characteristics of discrete states of atoms and ions (''Atomo skaičiavimų metodų išplėtojimas, matematinio aprūpinimo sukūrimas ir panaudojimas atomų ir jonų diskretinių būsenų spektroskopinėms charakteristikoms tirti''), published in 1988 at the Institute of Spectroscopy of the [[Academy of Sciences of the Soviet Union]].<ref name="mokslas" /> Bogdanovičius subsequently became a senior researcher at the Institute.<ref name="olimpas"/> Bogdanovičius worked at the {{ill|Institute of Physics and Mathematics|lt|Fizikos ir matematikos institutas}} from 1968 to 1977, the Institute of Physics from 1977 to 1990, and the Institute of Theoretical Physics and Astronomy from 1990.<ref name="VLE"/>
+
+===Later years===
+Bogdanovičius was a lecturer of quantum mechanics at the [[Vytautas Magnus University Education Academy|Vilnius Pedagogical University]] from 1994 to 2003. He was made a professor in 1999. Bogdanovičius also periodically headed the Lithuanian team at [[International Physics Olympiad]]. Bogdanovičius was awarded the Adolfas Jucys Prize in 2004<ref name="LMA"/> and the [[Lithuanian Science Prize]] in 2013. Bogdanovičius was a member of the Lithuanian Physics Society, the Lithuanian Astronomical Union, a board member of the Lithuanian Physical Society, and a member of the [[International Astronomical Union]].<ref name="VUnaujienos" />
+
+Bogdanovičius died on 10 August 2017 in Klaipėda.<ref name="VLE" /> He was buried in {{ill|Rokantiškės|lt}}.<ref name="olimpas" />
+
+==Scientific work==
+Bogdanovičius's most important work concerns the theory of multi-electron atoms as well as the spectral characteristics of multi-charged ions. He is the author of more than 130 scientific articles.<ref name="VLE" />
+
+Among Bogdanovičius's achievements are developing the transformed radial orbital method, proposing a method for selecting corrective configurations, as well as algorithms for partial matrix diagonalization. Bogdanovičius also implemented an effective method for the superposition of configurations. He proposed quasi-relativistic [[Hartree–Fock method|Hartree and Fock equations]] compatible with the [[Breit equation|Breit]] and [[Pauli equation|Pauli]] approximation. On this basis, a complex of universal programs was created, which Bogdanovičius and his colleagues widely applied to the theoretical study of jump probabilities and lifetimes. He supervised the preparation of five to six doctoral dissertations, although he was not the official supervisor of all of them. In collaboration with foreign scientists, Bogdanovičius worked on scientific work at the [[Université Laval]] and [[Lund University]].<ref name="VUnaujienos" /><ref name="olimpas" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="LMA">{{cite web |title=LMA vardinių premijų laureatai |url=https://www.lma.lt/lma-vardiniu-premiju-laureatai |publisher=Lietuvos mokslų akademija |language=lt |access-date=7 April 2025}}</ref>
+
+<ref name="mokslas">{{cite web |title=Lietuvos mokslininkų (registruojamų pagal išduotus mokslo laipsnių diplomus) sąrašas |url=http://www.mokslas.mii.lt/mokslas/SRITYS/duom00.php |archive-url=https://web.archive.org/web/20210831210351/http://www.mokslas.mii.lt/mokslas/SRITYS/duom00.php |work=Lietuvos mokslo potencialas |publisher=Lietuvos mokslo taryba |archive-date=31 August 2021 |language=lt |access-date=7 April 2025}}</ref>
+
+<ref name="olimpas">{{cite web |first1=Romualdas |last1=Karazija |first2= P. |last2=Jonušas |title=Pavelas Bogdanovičius |url=https://www.olimpas.lt/nekrologas_bogdonovicius.htm |website=Fizikos olimpas |language=lt |access-date=7 April 2025}}</ref>
+
+<ref name="vilnensis">{{cite journal |first=Agnė |last=Grinevičiūtė |title=TFAI mokslininkų darbuose – Vilniaus atomo teorijos mokyklos tąsa |journal=Universitas Vilnensis |date=April 2014 |volume=2 |issue=1723 |page=6 |url=https://issuu.com/vu_lt/docs/2_299510ab026ff5 |language=lt}}</ref>
+
+<ref name="VLE">{{cite encyclopedia |first= |last= |date=13 May 2024 |orig-year=2018 |url=https://www.vle.lt/straipsnis/pavelas-bogdanovicius/ |title=Pavelas Bogdanovičius|encyclopedia=[[Visuotinė lietuvių enciklopedija]] |publisher=Mokslo ir enciklopedijų leidybos centras |language=lt |access-date=7 April 2025}}</ref>
+
+<ref name="VUnaujienos">{{cite web |title=Mirė VU profesorius Pavelas Bogdanovičius |url=https://naujienos.vu.lt/mire-vu-profesorius-pavelas-bogdanovicius/ |website=naujienos.vu.lt |publisher=Vilniaus universitetas |date=16 August 2017 |language=lt |access-date=7 April 2025}}</ref>
+
+}}
+
+{{Authority control}}
+{{DEFAULTSORT:Bogdonovicius, Pavelas}}
+[[Category:1946 births]]
+[[Category:2017 deaths]]
+[[Category:Lithuanian physicists]]
+[[Category:Theoretical physicists]]
+[[Category:Vilnius University alumni]]
+[[Category:Academic staff of the Lithuanian University of Educational Sciences]]

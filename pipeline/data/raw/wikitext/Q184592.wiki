@@ -1,0 +1,275 @@
+{{Short description|Dutch theoretical physicist}}
+{{fnh|lang=Dutch|'t Hooft|Hooft}}
+{{Use dmy dates|date=July 2026}}
+{{Infobox scientist
+| name              = Gerard 't Hooft
+| image             = Gerard_'t_Hooft.jpg
+| image_size        = 
+| caption           = 't Hooft in November 2008
+| birth_date        = {{Birth date and age|1946|7|5|df=y}}
+| birth_place       = [[Den Helder]], Netherlands
+| field             = [[Theoretical physics]]
+| workplaces        = [[Utrecht University]]
+| education         = [[Utrecht University]]
+| doctoral_advisor  = [[Martinus J. G. Veltman]]
+| doctoral_students = [[Robbert Dijkgraaf]]{{br}}[[Herman Verlinde]]{{br}}[[Max Welling]]
+| known_for         = [[Quantum field theory]]{{br}}[[Quantum gravity]]{{br}}[['t Hooft condition]]{{br}}[['t Hooft–Polyakov monopole]]{{br}}[['t Hooft symbol]]{{br}}[['t Hooft loop]]{{br}}[[Feynman gauge|Feynman–'t Hooft gauge]]{{br}}[[Black hole complementarity]]{{br}}[[Minimal subtraction scheme]]{{br}}[[Holographic principle]]{{br}}[[Renormalization]] of [[Yang–Mills theory]]{{br}}[[Dimensional regularization]]{{br}}[[Renormalon]]{{br}}[[1/N expansion|1/''N'' expansion]]
+| awards            = [[Dannie Heineman Prize for Mathematical Physics|Heineman Prize]] {{small|(1979)}}{{br}}[[Wolf Prize]] {{small|(1981)}}{{br}}[[Lorentz Medal]] {{small|(1986)}}{{br}}[[Spinoza Prize]] {{small|(1995)}}{{br}}[[Franklin Medal]] {{small|(1995)}}{{br}}[[Nobel Prize in Physics]] {{small|(1999)}}{{br}}[[High Energy and Particle Physics Prize]] {{small|(1999)}}{{br}}[[Lomonosov Gold Medal]] {{small|(2010)}}
+{{br}}[[Breakthrough Prize]] {{small|(2025)}}
+| spouse            = Albertha A. Schik
+| children          = Saskia A. Eisberg-'t Hooft, Ellen M. 't Hooft
+}}
+
+'''Gerardus''' "'''Gerard'''" '''<nowiki/>'t Hooft''' ({{IPA|nl|ˈɣeːrɑrt ət ˈɦoːft|lang}}; born 5 July 1946) is a Dutch [[theoretical physicist]] and professor emeritus at [[Utrecht University]], the Netherlands.<ref name=":0">{{Cite journal |last=Billings |first=Lee |date=July 2025 |title=Quantum Physics is Nonsense |journal=[[Scientific American]] |publisher=Scientific American, a division of Springer Nature America, Incorporated |publication-place=New York, New York |volume=333 |issue=1 |page=104 |doi=10.1038/scientificamerican062025-3ndxLHOdGJV2u6twkhWFzi |pmid=40526529 |bibcode=2025SciAm.333a.104B }}</ref> He shared the 1999 [[Nobel Prize in Physics]] with his thesis advisor [[Martinus J. G. Veltman]] "for elucidating the quantum structure of [[electroweak interaction]]s."
+
+His work concentrates on [[gauge theory]], [[black hole]]s, [[quantum gravity]] and fundamental aspects of quantum mechanics. His contributions to physics include: a proof that [[gauge theory|gauge theories]] are [[Renormalization|renormalizable]]; [[dimensional regularization]]; and the [[holographic principle]].
+
+{{Standard model of particle physics}}
+
+== Biography ==
+
+=== Early life ===
+'t Hooft was born in [[Den Helder]] on 5 July 1946,<ref>{{cite web|url=https://www.nobelprize.org/prizes/physics/1999/thooft/facts/|title=Gerardus 't Hooft – Facts|website=nobelprize.org|access-date=20 August 2021}}</ref> to Hendrik 't Hooft and Margaretha Agnes 'Peggy' van Kampen, but grew up in [[The Hague]]. He was the middle child in a family of three. He comes from a family of scholars. His great-uncle was Nobel Prize laureate [[Frits Zernike]]; his maternal grandfather was [[Pieter Nicolaas van Kampen]], a professor of [[zoology]] at [[Leiden university|Leiden University]]; his uncle [[Nico van Kampen]] was a professor of theoretical physics at Utrecht University, and his father was a maritime engineer.<ref>{{Cite web |title=Gerardus 't Hooft – Biographical |url=https://www.nobelprize.org/prizes/physics/1999/thooft/biographical/ |access-date=19 May 2025 |website=NobelPrize.org |language=en-US}}</ref> Following his family's footsteps, he showed an interest in science at an early age. When his primary school teacher asked him what he wanted to be when he grew up, he replied, "a man who knows everything."<ref name="autobio"/>
+
+After primary school Gerard attended the Dalton Lyceum, a school that implemented the [[Dalton Plan]], an educational method that suited him well. He excelled in science and mathematics. At the age of sixteen, he won a silver medal in the second Dutch [[Math Olympiad]].<ref name="autobio">
+{{cite web
+ |first=G. |last='t Hooft
+ |url = http://nobelprize.org/nobel_prizes/physics/laureates/1999/thooft-autobio.html
+ |title=Gerardus 't Hooft&nbsp;— Autobiography
+ |publisher=Nobel web
+ |year=1999
+ |access-date=6 October 2010
+}}</ref>
+
+=== Education ===
+After 't Hooft passed his secondary-school exams in 1964, he enrolled in the physics program at Utrecht University. He opted for Utrecht instead of the much closer Leiden, because his uncle was a professor there and he wanted to attend his lectures. Since Gerard focused solely on science, his father insisted he join the Utrechtsch Studenten Corps, a student association, in the hope that he would engage in activities outside of studying. To some extent this worked: During his studies he was a [[coxswain]] with the rowing club "Triton" and organized a national congress for science students with the science discussion club "Christiaan Huygens".
+
+In the course of his studies, he decided to delve into what he perceived as the heart of theoretical physics:  [[elementary particles]]. His uncle had grown to dislike the subject and in particular its practitioners. When it became time to write his ''doctoraalscriptie'' (former name of the Dutch equivalent of a master's [[thesis]]) in 1968, 't Hooft turned to [[Martinus Veltman]], the newly appointed professor who specialized in [[Yang–Mills theory]]. At the time, this subject was considered relatively fringe, because it was thought that it could not be [[renormalization|renormalized]]. His assignment was to study the [[Adler–Bell–Jackiw anomaly]], a mismatch in the theory of the decay of neutral [[pion]]s; formal arguments forbid the decay into [[photon]]s, whereas practical calculations and experiments showed that this was the primary form of decay. The resolution of the problem was completely unknown at the time, and 't Hooft was unable to provide one.
+
+In 1969, 't Hooft began his doctoral research under the guidance of Martinus Veltman. He worked on the same subject as Veltman: the renormalization of Yang–Mills theories. In 1971 his first paper was published.<ref>{{Cite journal |last1 = 't Hooft |first1 = G. |title = Renormalization of massless Yang–Mills fields |journal = Nuclear Physics B |volume = 33 |issue = 1 |pages = 173–177 |year = 1971 |doi = 10.1016/0550-3213(71)90395-6 |bibcode = 1971NuPhB..33..173T }}</ref> In it he demonstrated how to renormalize massless Yang–Mills fields, and was able to derive relations between amplitudes. These relations would later be generalized by [[Andrei Slavnov]] and [[John Clayton Taylor|John C. Taylor]] and become known as the [[Slavnov–Taylor identities]].
+
+The world took little notice, but Veltman was excited because he realized that the problem he had been working on had been solved. A period of intense collaboration followed, during which they developed the technique of [[dimensional regularization]]. Soon, 't Hooft's second paper was ready to be published,<ref>{{Cite journal |last1 = 't Hooft |first1 = G. |title = Renormalizable Lagrangians for massive Yang–Mills fields |journal = Nuclear Physics B |volume = 35 |issue = 1 |pages = 167–188 |year = 1971 |doi = 10.1016/0550-3213(71)90139-8|bibcode = 1971NuPhB..35..167T |hdl = 1874/4733 |hdl-access = free }}</ref> in which he showed that Yang–Mills theories with massive fields due to spontaneous symmetry breaking could be renormalized. This paper earned them worldwide recognition and ultimately won them the 1999 Nobel Prize in Physics.
+
+These two papers formed the basis of 't Hooft's 1972 [[Doctor of Philosophy|Ph.D.]] [[dissertation]] ''The Renormalization Procedure for Yang–Mills Fields''. That same year he married Albertha A. Schik, a medical student in Utrecht.<ref name=autobio/>
+
+=== Career ===
+[[Image:Gerardus t' Hooft at Harvard.jpg|thumb|Gerard 't Hooft at Harvard University in 2003]]
+After obtaining his doctorate 't Hooft went to [[CERN]] in [[Geneva]], where he held a fellowship. There, he further refined his methods for Yang–Mills theories with Veltman (who had returned to Geneva). During this time, he became interested in the possibility that the [[strong interaction]] could be described as a massless Yang–Mills theory. This type of theory he had just proven to be renormalizable, making it susceptible to detailed calculation and comparison with experiments.
+
+According to 't Hooft's calculations, this type of theory possesses just the right kind of scaling properties ([[asymptotic freedom]]) that [[deep inelastic scattering]] experiments suggest it should have. This was contrary to the popular perception of [[Yang–Mills theory|Yang–Mills theories]] at the time. Like gravitation and electrodynamics, it was thought that their intensity would decrease with increasing distance between the interacting particles. However, such conventional behavior could not explain the results of deep inelastic scattering, whereas 't Hooft's calculations could.
+
+When 't Hooft mentioned his results at a small conference at Marseille in June 1972, [[Kurt Symanzik]] encouraged him to publish them.<ref name=autobio/> However, 't Hooft did not, and the findings were later rediscovered and published by [[Hugh David Politzer]], [[David Gross]], and [[Frank Wilczek]] in 1973. This led to their receiving the 2004 [[Nobel Prize in Physics]].<ref>
+{{cite web
+ |url=http://nobelprize.org/nobel_prizes/physics/laureates/2004/
+ |title=The Nobel Prize in Physics 2004
+ |publisher=Nobel Web
+ |year=2004
+ |access-date=24 October 2010
+}}</ref><ref>
+{{cite journal |last=Politzer |first=H. David |year=2004 |title=The Dilemma of Attribution |url=http://nobelprize.org/nobel_prizes/physics/laureates/2004/politzer-lecture.pdf |journal=Proceedings of the National Academy of Sciences of the United States of America |publisher=Nobel Web |volume=102 |issue=22 |pages=7789–7793 |doi=10.1073/pnas.0501644102 |pmc=1142376 |pmid=15911758 |access-date=24 October 2010 |doi-access=free}}</ref>
+
+In 1974, 't Hooft returned to Utrecht where he became an assistant professor. In 1976, he was invited to take on a guest position at [[Stanford]] and a position at [[Harvard]] as Morris Loeb Lecturer. His eldest daughter, Saskia Anne, was born in [[Boston]], while his second daughter, Ellen Marga, was born in 1978 after he returned to Utrecht, where he was made full professor.<ref name=autobio/> In the 1987–1988 academic year 't Hooft spent a sabbatical in the Boston University Physics Department along with [[Howard Georgi]], [[Robert Jaffe (physicist)|Robert Jaffe]] and others arranged by the then new department chair [[Lawrence Sulak]].
+
+In 2007 't Hooft became the editor-in-chief of ''[[Foundations of Physics]]'', where he sought to distance the journal from the controversy of [[ECE theory]]<ref>{{cite journal|last1='t Hooft|first1=Gerard|author-link1=Gerard 't Hooft|title=Editorial note|journal=Foundations of Physics|volume=38|issue=1|year=2007|pages=1–2|issn=0015-9018|doi=10.1007/s10701-007-9187-8|bibcode=2008FoPh...38....1T|s2cid=189843269}}</ref> and held the position until 2016.
+
+On 1 July 2011 Utrecht University appointed him distinguished professor.<ref>
+{{cite web
+ |url          = http://www.uu.nl/EN/Current/Pages/ProfdrGerardtHooftbenoemdtotuniversiteitshoogleraar.aspx
+ |title        = Prof. dr. Gerard 't Hooft has been appointed Distinguished Professor
+ |publisher    = Utrecht University
+ |access-date  = 19 April 2012
+ |archive-url  = https://web.archive.org/web/20120414043352/http://www.uu.nl/EN/Current/Pages/ProfdrGerardtHooftbenoemdtotuniversiteitshoogleraar.aspx
+ |archive-date = 14 April 2012
+ }}</ref>
+
+=== Personal life ===
+'t Hooft lives in [[Bilthoven]]. He was married to Albertha A. Schik (Betteke), MD, former [[Anesthesiology|anaesthesiologist]] and [[Occupational safety and health|occupational health physician]], who passed away in July 2026. He has two daughters, Saskia and Ellen, and five grandchildren. He enjoys music and art.<ref>{{Cite web |title=About Gerard |url=https://gerardthooft.sites.uu.nl/about-gerard |access-date=2026-08-14 |website=Gerard 't Hooft}}</ref> His daughter Saskia translated two of his Dutch-language books into English.<ref>{{Cite web|url=https://webspace.science.uu.nl/~hooft101/|title=Gerard ′t Hooft|website=webspace.science.uu.nl}}</ref>
+
+== Honors ==
+In 1999 't Hooft shared the Nobel prize in Physics with his thesis adviser Veltman for "elucidating the quantum structure of the electroweak interactions in physics".<ref name="1999nobelprize">
+{{cite web
+ |url=http://nobelprize.org/nobel_prizes/physics/laureates/1999/
+ |title=The Nobel Prize in Physics 1999
+ |publisher=Nobel web
+}}</ref> Before that time his work had already been recognized by other notable awards. In 1981, he was awarded the [[Wolf Prize]],<ref>
+{{cite web
+ |url=http://www.wolffund.org.il/full.asp?id=106
+ |title=The 1981 Wolf Foundation Prize in Physics
+ |publisher=Wolf Foundation
+ |archive-url=https://web.archive.org/web/20110927065958/http://www.wolffund.org.il/full.asp?id=106
+ |archive-date=27 September 2011
+}}</ref> possibly the most prestigious prize in physics after the Nobel prize. Five years later he received the [[Lorentz Medal]], awarded every four years in recognition of the most important contributions in theoretical physics.<ref>
+{{cite web
+ |url=http://www.lorentz.leidenuniv.nl/lorentzmedal/
+ |title=Lorentz medal
+ |publisher=[[Leiden University]]
+}}</ref> In 1995, he was one of the first recipients of the [[Spinoza Prize|Spinozapremie]], the highest award available to scientists in the Netherlands.<ref>{{cite web |url=http://www.nwo.nl/en/research-and-results/programmes/spinoza+prize/spinoza+laureates/overview+by+year/1995 |title=NWO Spinoza Prize 1995 |publisher=Netherlands Organisation for Scientific Research |date=3 September 2014 |access-date=30 January 2016 |archive-date=29 June 2015 |archive-url=https://web.archive.org/web/20150629053424/http://www.nwo.nl/en/research-and-results/programmes/spinoza+prize/spinoza+laureates/overview+by+year/1995 }}</ref> In the same year he was also honoured with a [[Franklin Medal]].<ref>
+{{cite web
+ |url=http://www.fi.edu/winners/1995/thooft_gerard.faw?winner_id=3094
+ |title=Franklin Laureate Database
+ |publisher=The Franklin Institute
+ |archive-url=https://web.archive.org/web/20100601211124/http://www.fi.edu/winners/1995/thooft_gerard.faw?winner_id=3094
+ |archive-date=1 June 2010
+}}</ref> In 1999 he was awarded the [[High Energy and Particle Physics Prize|High Energy Particle Physics Prize]] by the [[European Physical Society]].<ref>{{Cite web |last=High Energy Particle Physics Division of EPS |title=High Energy Particle Physics Prize |url=https://eps-hepp.web.cern.ch/hepp-prize-awards.php |access-date=6 February 2026 |website=eps-hepp.web.cern.ch}}</ref> In 2000, 't Hooft received the Golden Plate Award of the [[Academy of Achievement|American Academy of Achievement]].<ref>
+{{cite web|title= Golden Plate Awardees of the American Academy of Achievement |website=www.achievement.org|publisher=[[American Academy of Achievement]]|url=https://achievement.org/our-history/golden-plate-awards/#science-exploration
+}}</ref> He was awarded a Special Breakthrough Prize in April 2025 in recognition of his contributions to Fundamental Physics across his career.<ref name=":0" />
+
+Since his Nobel Prize, 't Hooft has received a slew of awards, [[honorary doctorates]] and honorary professorships.<ref name=cv>
+{{cite web
+ |url=http://www.phys.uu.nl/~thooft/cv.html
+ |title=Curriculum Vitae Gerard 't Hooft
+ |publisher=G. 't Hooft
+}}</ref> He was knighted commander in the [[Order of the Netherlands Lion]], and officer in the French [[Legion of Honor]]. The asteroid [[9491 Thooft]] has been named in his honor,<ref>
+{{cite web
+ |url=http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=thooft;orb=1
+ |title=JPL Small-Body Database Browser
+ |publisher=NASA
+}}</ref> and he has written a constitution for its future inhabitants.<ref>
+{{cite web |title=9491 THOOFT—Constitution and Bylaws |url=http://www.phys.uu.nl/~thooft/constitution.html |publisher=G. 't Hooft}}</ref>
+
+He is a member of the [[Royal Netherlands Academy of Arts and Sciences]] (KNAW) since 1982,<ref>{{cite web |url=https://www.knaw.nl/en/members/members/4275 |title=Gerard 't Hooft |publisher=Royal Netherlands Academy of Arts and Sciences |access-date=17 July 2015 |archive-date=23 July 2020 |archive-url=https://web.archive.org/web/20200723135500/https://www.knaw.nl/en/members/members/4275 }}</ref> where he was made academy professor in 2003.<ref>
+{{cite web |title=Academy Professorships Programme – 2003 |url=http://www.knaw.nl/professorship/2003.html |archive-url=https://web.archive.org/web/20101124100807/http://knaw.nl/professorship/2003.html |archive-date=24 November 2010 |publisher=[[Royal Netherlands Academy of Arts and Sciences]]}}</ref> He is also a foreign member of many other science academies, including the French [[Académie des Sciences]], the American [[United States National Academy of Sciences|National Academy of Sciences]] and [[American Academy of Arts and Sciences]] and the Britain and Ireland based [[Institute of Physics]].<ref name="cv"/>
+
+'t Hooft has appeared in season 3 of ''[[Through the Wormhole]]'' with [[Morgan Freeman]].
+
+== Research ==
+'t Hooft's research interest can be divided in three main directions: 'gauge theories in elementary particle physics', 'quantum gravity and black holes', and 'foundational aspects of quantum mechanics'.<ref name="homepage">{{cite web
+ |first=G. |last='t Hooft
+ |title=Gerard 't Hooft
+ |url=http://www.phys.uu.nl/~thooft/
+ |access-date=24 October 2010
+}}</ref>
+
+=== Gauge theories in elementary particle physics ===
+'t Hooft is most famous for his contributions to the development of gauge theories in particle physics. The best known of these is the proof in his PhD thesis that Yang–Mills theories are renormalizable, for which he shared the 1999 Nobel Prize in Physics. For this proof he introduced (with his adviser Veltman) the technique of [[dimensional regularization]].
+
+After receiving his PhD, he became interested in the role of gauge theories in the strong interaction,<ref name="autobio"/> the leading theory of which is called [[quantum chromodynamics]] or QCD. He focused much of his research on the problem of [[color confinement]] in QCD, i.e. the observational fact that only color-neutral particles are observed at low energies. This led him to the discovery that [[SU(N)]] gauge theories simplify in the [[1/N expansion|large ''N'' limit]],<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = A planar diagram theory for strong interactions| journal = Nuclear Physics B| volume = 72| issue = 3| pages = 461–470| year = 1974| doi = 10.1016/0550-3213(74)90154-0|bibcode = 1974NuPhB..72..461T | url = https://cds.cern.ch/record/413720}}</ref> a fact that has proven important in examining the conjectured [[AdS/CFT correspondence|correspondence]] between [[string theory|string theories]] in an [[Anti-de Sitter space]] and [[conformal field theory|conformal field theories]] in one lower dimension. By solving the theory in one space and one time dimension, 't Hooft was able to derive a formula for the masses of [[meson]]s.<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = A two-dimensional model for mesons| journal = Nuclear Physics B| volume = 75| issue = 3| pages = 461–863| year = 1974| doi = 10.1016/0550-3213(74)90088-1|bibcode = 1974NuPhB..75..461T | url = https://cds.cern.ch/record/414628}}</ref>
+
+He also studied the role of so-called [[instanton]] contributions in QCD. His calculations showed that these contributions lead to an interaction between light [[quark]]s at low energies that is not present in the standard theory.<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = Computation of the quantum effects due to a four-dimensional pseudoparticle| journal = Physical Review D| volume = 14| issue = 12| pages = 3432–3450| year = 1976| doi = 10.1103/PhysRevD.14.3432|bibcode = 1976PhRvD..14.3432T }}</ref> Studying instanton solutions of Yang–Mills theories, 't Hooft discovered that [[spontaneous symmetry breaking|spontaneously breaking]] a theory with SU(N) symmetry to a [[U(1)]] symmetry leads to the existence of [[magnetic monopole]]s.<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = Magnetic monopoles in unified gauge theories| journal = Nuclear Physics B| volume = 79| issue = 2| pages = 276–284| year = 1974| doi = 10.1016/0550-3213(74)90486-6|bibcode = 1974NuPhB..79..276T | hdl = 1874/4686| hdl-access = free}}</ref> These monopoles are called [['t Hooft–Polyakov monopole]]s, after [[Alexander Markovich Polyakov|Alexander Polyakov]], who obtained the same result independently.<ref>
+{{cite journal
+ |last=Polyakov
+ |first=A.M.
+ |title=Particle spectrum in quantum field theory
+ |year=1974
+ |journal=Journal of Experimental and Theoretical Physics Letters
+ |volume=20
+ |page=194
+ |url=http://www.jetpletters.ac.ru/ps/1789/article_27297.shtml
+ |bibcode=1974JETPL..20..194P
+ |access-date=11 August 2018
+ |archive-date=9 July 2019
+ |archive-url=https://web.archive.org/web/20190709211259/http://www.jetpletters.ac.ru/ps/1789/article_27297.shtml
+ }}</ref>
+
+'t Hooft also formulated the [[anomaly matching condition]], according to which anomalies associated with global symmetries must agree between the high-energy and low-energy descriptions of a quantum field theory. The condition places strong constraints on the possible low-energy spectrum of strongly coupled gauge theories.<ref>{{cite book
+ |last='t Hooft
+ |first=Gerard
+ |chapter=Naturalness, chiral symmetry, and spontaneous chiral symmetry breaking
+ |title=Recent Developments in Gauge Theories
+ |publisher=Springer US
+ |year=1980
+ |pages=135–157
+ |doi=10.1007/978-1-4684-7571-5_9
+}}</ref><ref>{{cite journal
+ |last1=Dubovsky
+ |first1=S. L.
+ |last2=Gorbunov
+ |first2=D. S.
+ |last3=Libanov
+ |first3=M. V.
+ |last4=Rubakov
+ |first4=V. A.
+ |title=Non-renormalization of induced charges and constraints on strongly coupled theories
+ |journal=Physics Reports
+ |volume=320
+ |pages=147–158
+ |year=1999
+ |doi=10.1016/S0370-1573(99)00073-3
+|arxiv=hep-th/9903155
+ }}</ref>
+
+As another piece of the color confinement puzzle, 't Hooft introduced [['t Hooft loop]]s, which are the [[S-duality|magnetic dual]] of [[Wilson loop]]s.<ref>{{Cite journal | last1 = 't Hooft | first1 = G. | doi = 10.1016/0550-3213(78)90153-0 | title = On the phase transition towards permanent quark confinement | journal = Nuclear Physics B | volume = 138 | issue = 1 | pages = 1–2 | year = 1978 |bibcode = 1978NuPhB.138....1T }}</ref> Using these operators he was able to classify different [[phase (matter)|phases]] of QCD, forming the basis of the [[QCD matter|QCD phase diagram]].
+
+In 1986, he was finally able to show that instanton contributions solve the [[Adler–Bell–Jackiw anomaly]], the topic of his master's thesis.<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = How instantons solve the U(1) problem| journal = Physics Reports| volume = 142| issue = 6| pages = 357–712| year = 1986| doi = 10.1016/0370-1573(86)90117-1|bibcode = 1986PhR...142..357T }}</ref>
+
+=== Quantum gravity and black holes ===
+
+When Veltman and 't Hooft moved to CERN after 't Hooft obtained his PhD, Veltman's attention was drawn to the possibility of applying their dimensional regularization techniques to the problem of quantizing gravity. Although it was known that perturbative [[quantum gravity]] was not fully renormalizible, they felt important lessons were to be learned by studying the formal renormalization of the theory order by order. This work would be continued by [[Stanley Deser]] and another PhD student of Veltman, [[Peter van Nieuwenhuizen]], who later found patterns in the renormalization [[counter term]]s, which led to the discovery of [[supergravity]].<ref name="autobio"/>
+
+In the 1980s, 't Hooft's attention was drawn to the subject of gravity in 3 spacetime dimensions. Together with Deser and Jackiw he published an article in 1984 describing the dynamics of flat space where the only local degrees of freedom were propagating point defects.<ref>{{Cite journal| last1 = Deser | first1 = S.| last2 = Jackiw | first2 = R.| last3 = 't Hooft | first3 = G.| title = Three-dimensional Einstein gravity: Dynamics of flat space| journal = Annals of Physics| volume = 152| issue = 1| page = 220| year = 1984| doi = 10.1016/0003-4916(84)90085-X|bibcode = 1984AnPhy.152..220D | hdl = 1874/4772| hdl-access = free}}</ref> His attention returned to this model at various points in time, showing that [[Gott pair]]s would not cause [[causality (physics)|causality]] violating [[timelike loop]]s,<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = Causality in (2+1)-dimensional gravity| journal = Classical and Quantum Gravity| volume = 9| issue = 5| pages = 1335–1348| year = 1992| doi = 10.1088/0264-9381/9/5/015|bibcode = 1992CQGra...9.1335T | hdl = 1874/4627| s2cid = 250821900| hdl-access = free}}</ref> and showing how the model could be quantized.<ref>{{Cite journal| last1 = 't Hooft | first1 = G. | title = Canonical quantization of gravitating point particles in 2+1 dimensions| journal = Classical and Quantum Gravity| volume = 10| issue = 8| pages = 1653–1664| year = 1993| doi = 10.1088/0264-9381/10/8/022| arxiv = gr-qc/9305008|bibcode = 1993CQGra..10.1653T | s2cid = 119521701 }}</ref> More recently he proposed generalizing this piecewise flat model of gravity to 4 spacetime dimensions.<ref>{{Cite journal| last1 = 't Hooft | first1 = G.| title = A Locally Finite Model for Gravity| journal = Foundations of Physics| volume = 38| issue = 8| pages = 733–757| year = 2008| doi = 10.1007/s10701-008-9231-3| arxiv=0804.0328|bibcode = 2008FoPh...38..733T | s2cid = 189844967}}</ref>
+
+With [[Stephen Hawking]]'s discovery of [[Hawking radiation]] of [[black hole]]s, it appeared that the evaporation of these objects violated a fundamental property of quantum mechanics, [[unitarity (physics)|unitarity]]. 't Hooft refused to accept this problem, known as the [[black hole information paradox]], and assumed that this must be the result of the semi-classical treatment of Hawking, and that it should not appear in a full theory of quantum gravity. He proposed that it might be possible to study some of the properties of such a theory, by assuming that such a theory was unitary.
+
+Using this approach he has argued that near a black hole, quantum fields could be described by a theory in a lower dimension.<ref>{{Cite journal| last1 = Stephens | first1 = C. R.| last2 = 't Hooft | first2 = G.| last3 = Whiting | first3 = B. F.| title =Black hole evaporation without information loss| journal = Classical and Quantum Gravity| volume = 11| issue = 3| pages = 621–648| year = 1994| doi = 10.1088/0264-9381/11/3/014| arxiv = gr-qc/9310006|bibcode = 1994CQGra..11..621S | s2cid = 15489828}}</ref> This led to the introduction of the [[holographic principle]] by him and [[Leonard Susskind]].<ref>{{Cite journal |last1=Susskind |first1=Leonard |year=1995 |title=The world as a hologram |journal=Journal of Mathematical Physics |volume=36 |issue=11 |pages=6377–6396 |arxiv=hep-th/9409089 |bibcode=1995JMP....36.6377S |doi=10.1063/1.531249 |s2cid=17316840}}</ref>
+
+=== Fundamental aspects of quantum mechanics ===
+'t Hooft has "deviating views on the physical [[interpretation of quantum mechanics|interpretation]] of [[Quantum mechanics|quantum theory]]".<ref name="homepage"/> He believes that there could be a [[deterministic]] explanation underlying quantum mechanics.<ref>{{Cite journal| last1 = 't Hooft | first1 = G. | title = A mathematical theory for deterministic quantum mechanics| journal = Journal of Physics: Conference Series| volume = 67| issue = 1 | article-number = 012015| year = 2007| doi = 10.1088/1742-6596/67/1/012015| arxiv = quant-ph/0604008 |bibcode = 2007JPhCS..67a2015T | s2cid = 15908445 }}</ref> Using a speculative model he has argued that such a theory could avoid the usual [[Bell inequality]] arguments that would disallow such a [[local hidden-variable theory]].<ref>{{cite arXiv|eprint=0908.3408|author1=Gerard 't Hooft|title=Entangled quantum states in a local deterministic theory|class=quant-ph|year=2009}}</ref> In 2016 he published a book-length exposition of his ideas<ref>Gerard 't Hooft, 2016, ''The Cellular Automaton Interpretation of Quantum Mechanics'', Springer International Publishing, DOI 10.1007/978-3-319-41285-6, [[Open access]]-[https://link.springer.com/book/10.1007%2F978-3-319-41285-6].</ref> which, according to 't Hooft, has encountered mixed reactions.<ref>{{Cite journal|last=Baldwin|first=Melinda|date=11 July 2017|title=Q&A: Gerard 't Hooft on the future of quantum mechanics|journal=[[Physics Today]]|issue=7 |article-number=5262 |language=en|doi=10.1063/pt.6.4.20170711a|bibcode=2017PhT..2017g5262B }}</ref> In 2025, speaking in his often-times plainspoken manner, he was quoted in Scientific American, "Quantum mechanics is the possibility that you can consider superpositions of states. That's really all there is to it."<ref>{{Cite journal |last=Billings |first=Lee |date=July 2025 |title=Quantum Physics is Nonsense |journal=[[Scientific American]] |location=New York, New York |publisher=Scientific American, a division of Springer Nature America, Incorporated |volume=333 |issue=1 |page=106 |doi=10.1038/scientificamerican062025-3ndxLHOdGJV2u6twkhWFzi |pmid=40526529 |bibcode=2025SciAm.333a.104B }}</ref>
+
+== Popular publications ==
+* {{cite book | doi = 10.1017/CBO9781107340855 | title=In Search of the Ultimate Building Blocks | year=1996 | last1 = 't Hooft | first1 = Gerard | isbn=978-0-521-55083-3 }}
+* {{cite book | doi = 10.1142/6702 | title=Playing with Planets | year=2008 | last1 = 't Hooft | first1 = Gerard | isbn=978-981-279-307-2 }}
+* {{cite book | doi = 10.1142/8786 | title=Time in Powers of Ten | year=2014 | last1 = 't Hooft | first1 = Gerard | isbn=978-981-4489-80-5 }}
+* Billings, Lee, "Quantum Physics Is Nonsense: Theoretical physicist Gerard 't Hooft reflects on the future" (interview with Gerard 't Hooft), ''[[Scientific American]]'', vol. 333, no. 1 (July/August 2025), pp. 104–108. "Quantum mechanics is the possibility that you can consider [[Quantum superposition|superpositions]] of states. That's really all there is to it. And I'd argue that superpositions of states are not real." (p. 106.)
+* Curt Jaimungal, 2025 interview with Gerard 't Hooft, "The Nobel Laureate Who (Also) Says Quantum Theory Is 'Totally Wrong'" [https://www.youtube.com/watch?v=gsSJPLX-BTA&ab_channel=CurtJaimungal The Nobel Laureate Who (Also) Says Quantum Theory Is "Totally Wrong"]
+
+== Academic publications ==
+* {{cite book | doi = 10.1007/978-3-319-41285-6 | title=The Cellular Automaton Interpretation of Quantum Mechanics (Fundamental Theories of Physics, 185) | year=2016 | last1 = 't Hooft | first1 = Gerard | volume=185 | isbn=978-3-319-41284-9 | s2cid=7779840 | url = https://link.springer.com/book/10.1007/978-3-319-41285-6}}
+
+== See also ==
+{{cols}}
+* [[Asymptotic freedom]]
+* [[Center vortex]]
+* [[Hierarchy problem]]
+* [[Mars One]] (Gerard 't Hooft is a main supporter of the project)
+* [[Pauli–Villars regularization]]
+* [[Slavnov–Taylor identities]]
+* [[Superdeterminism]]
+{{colend}}
+
+== References ==
+{{reflist|22em}}
+
+== External links ==
+{{Commons}}
+{{Wikiquote|Gerardus 't Hooft}}
+* [http://www.phys.uu.nl/~thooft/ Gerard 't Hooft] (homepage)
+* [https://goodtheorist.science How To Become a Good Theoretical Physicist]
+* {{Nobelprize}} including the Nobel Lecture ''A Confrontation with Infinity''
+* [https://scholar.google.com/scholar?num=100&hl=en&lr=&safe=off&c2coff=1&q=author%3A%22G+Hooft%22+OR+author%3A%22G+%27t+Hooft%22&btnG=Search&as_subj=phy Publications] from [[Google Scholar]]
+* [http://www.arxiv.org/find/hep-th/1/au:+Hooft_G/0/1/0/all/0/1 Publications] on the [[arXiv]]
+* {{Deprecated archive|url=https://archive.today/20130503132945/http://www.tvo.org/TVO/WebObjects/TVO.woa?videoid%3F591016262001|title=TVO.org video – Gerard t'Hooft lectures on Science Fiction and Reality|sec=el}} Lecture delivered at the Perimeter Institute in Waterloo, Ontario, Canada on 7 May 2008
+* {{INSPIRE-HEP author}}
+
+{{Wolf Prize in Physics}}
+{{Nobel Prize in Physics Laureates 1976-2000}}
+{{1999 Nobel Prize winners}}
+{{Nobel Prize laureates from The Netherlands|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hooft, Gerardus t}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:20th-century Dutch physicists]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:International members of the National Academy of Sciences]]
+[[Category:Foreign members of the Russian Academy of Sciences]]
+[[Category:Nobel laureates in Physics]]
+[[Category:Dutch Nobel laureates]]
+[[Category:Utrecht University alumni]]
+[[Category:Academic staff of Utrecht University]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:Commanders of the Order of the Netherlands Lion]]
+[[Category:Officers of the Legion of Honour]]
+[[Category:Lorentz Medal winners]]
+[[Category:Recipients of the Lomonosov Gold Medal]]
+[[Category:People from Den Helder]]
+[[Category:Scientists from Utrecht (city)]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Spinoza Prize winners]]
+[[Category:Dutch theoretical physicists]]
+[[Category:Mars One]]
+[[Category:People associated with CERN]]
+[[Category:21st-century Dutch physicists]]
+[[Category:Recipients of Franklin Medal]]

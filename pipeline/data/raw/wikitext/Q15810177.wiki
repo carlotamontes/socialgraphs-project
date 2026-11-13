@@ -1,0 +1,69 @@
+{{Short description|South African and Canadian physicist (b. 1973)}}
+{{Infobox scientist
+| name              = Frans Pretorius
+| image             = Frans Pretorius 2022.jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age |1973|7|31|df=yes}}
+| birth_place       = [[Johannesburg]], [[South Africa]]
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| fields            = [[Computational physics]]
+| workplaces        = [[California Institute of Technology]]<BR />[[University of Alberta]]<BR />[[Princeton University]]
+| education         = [[University of Victoria]]<BR />[[University of British Columbia]]
+| thesis_title      = Numerical Simulations of Gravitational Collapse
+| thesis_url        = https://dx.doi.org/10.14288/1.0085709
+| thesis_year       = 2002
+| doctoral_advisor  = [[Matthew Choptuik]]
+| doctoral_students = 
+| known_for         = 
+| awards            = Sloan Fellowship (2010)<br />
+[[Aneesur Rahman Prize for Computational Physics]] (2010)<br />
+[[New Horizons in Physics Prize]] (2017)<br />
+[[Dirac Medal of the ICTP]] (2021)<br />
+Galileo Galilei Medal (2021)
+}}
+'''Frans Pretorius''' (born 31 July 1973) is a South African and Canadian physicist, specializing in computer simulations in astrophysics and [[Numerical relativity|numerical solutions of Einstein's field equations]]. He is professor of physics at [[Princeton University]] and director of the Princeton Gravity Initiative.
+
+==Biography==
+Pretorius sat for a [[Bachelor of Science|B.Sc.]] in [[computer engineering]] in 1996 and an [[Master of Science|M.Sc.]] in [[physics]] in 1999 for his thesis, entitled ''Topics in Black Hole Physics'' under [[Werner Israel]], at the [[University of Victoria]]. He defended his [[doctor of philosophy|Ph.D.]] in 2002 under [[Matthew Choptuik]] at the [[University of British Columbia]]. For his doctoral dissertation on numerical simulation of gravitational collapse, Pretorius received the 2003 Nicholas Metropolis Award of the [[American Physical Society]].<ref>{{Cite web|url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm|title=Prize Recipient|website=www.aps.org}}</ref> From 2002 to 2005 he was a Richard Chace Tolman Fellow at the [[Caltech|California Institute of Technology]]. He then became an assistant professor in 2005 at the [[University of Alberta]] and in 2007 at [[Princeton University]].
+
+==Research==
+His research deals with numerical simulations in [[general relativity theory]], especially gravitational collapse, collision, and mergers of black holes and consequent emission of gravitational waves. He has developed new methods of adaptive meshes, which are used in adaptive mesh refinement for coupled elliptic-hyperbolic systems.<ref name="Pretorius Choptuik 2006 pp. 246–274">{{cite journal | last1=Pretorius | first1=Frans | last2=Choptuik | first2=Matthew W. | title=Adaptive mesh refinement for coupled elliptic-hyperbolic systems | journal=Journal of Computational Physics | volume=218 | issue=1 | year=2006 | issn=0021-9991 | doi=10.1016/j.jcp.2006.02.011 | pages=246–274| arxiv=gr-qc/0508110 | bibcode=2006JCoPh.218..246P | s2cid=205885426 }}</ref>
+
+Pretorius has numerically investigated the possibilities and the signatures of small black holes in particle colliders such as the [[Large Hadron Collider|LHC]].<ref name="East Pretorius p. ">{{cite journal | last1=East | first1=William E. | last2=Pretorius | first2=Frans | title=Ultrarelativistic Black Hole Formation | journal=Physical Review Letters | volume=110 | issue=10 | date=7 March 2013 | issn=0031-9007 | doi=10.1103/physrevlett.110.101101 | article-number=101101| pmid=23521246 | arxiv=1210.0443 | bibcode=2013PhRvL.110j1101E | s2cid=17165694 }}</ref> Small black holes might be formed with very high collision energies,<ref name="Choptuik Pretorius p. ">{{cite journal | last1=Choptuik | first1=Matthew W. | last2=Pretorius | first2=Frans | title=Ultrarelativistic Particle Collisions | journal=Physical Review Letters | volume=104 | issue=11 | date=17 March 2010 | issn=0031-9007 | doi=10.1103/physrevlett.104.111101 | article-number=111101| pmid=20366461 | arxiv=0908.1780 | bibcode=2010PhRvL.104k1101C | s2cid=6137302 }}</ref> the energy required might be a factor 2.3 smaller than previously assumed, but such high energies are extremely far from the capabilities of the LHC. With [[Abhay Vasant Ashtekar|Abhay Ashtekar]] and Fethi Ramazanoğlu, he investigated the evaporation of 2D black holes.<ref name="Ashtekar Pretorius Ramazanoğlu p. ">{{cite journal | last1=Ashtekar | first1=Abhay | last2=Pretorius | first2=Frans | last3=Ramazanoğlu | first3=Fethi M. | title=Surprises in the Evaporation of 2D Black Holes | journal=Physical Review Letters | volume=106 | issue=16 | date=20 April 2011 | issn=0031-9007 | doi=10.1103/physrevlett.106.161303 | article-number=161303| pmid=21599354 | arxiv=1011.6442 | bibcode=2011PhRvL.106p1303A | s2cid=29467305 }}</ref> Pretorius and his collaborators numerically investigated the high energy collision of two black holes.<ref name="Sperhake Cardoso Pretorius Berti p. ">{{cite journal | last1=Sperhake | first1=Ulrich | last2=Cardoso | first2=Vitor | last3=Pretorius | first3=Frans | last4=Berti | first4=Emanuele | last5=González | first5=José A. | title=High-Energy Collision of Two Black Holes | journal=Physical Review Letters | volume=101 | issue=16 | date=14 October 2008 | issn=0031-9007 | doi=10.1103/physrevlett.101.161101 | article-number=161101| pmid=18999655 | arxiv=0806.1738 | bibcode=2008PhRvL.101p1101S | s2cid=33820655 }}</ref>
+
+==Awards and honors==
+Pretorius was a [[Sloan Fellow]] in 2010 and received in 2010 the [[Aneesur Rahman Prize for Computational Physics]]. In 2011 he was elected a Fellow of the American Physical Society. In 2017 he was awarded the [[New Horizons in Physics Prize]] for the development of the first computer code that can simulate the spiral movement and the fusion of two black holes; in 2017 five other physicists in two different groups shared the prize for work done independently of Pretorius.<ref>{{cite web|author=Gaal, Rachel|title=APS Fellows Awarded Breakthrough Prizes in Silicon Valley|website=APS News, aps.org|date=12 December 2016|url=http://www.aps.org/publications/apsnews/updates/fellows.cfm}}</ref> In 2021 he received the [[Dirac Medal (ICTP)|Dirac Medal]] of the ICTP.<ref>{{Cite web|url=https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2021.aspx|title=ICTP – Dirac Medallists 2021|website=www.ictp.it}}</ref>
+
+== See also ==
+
+* [[Numerical relativity#2005's Breakthrough (annus mirabilis of numerical relativity)]]
+
+==Selected publications==
+* {{cite journal | last=Pretorius | first=Frans | title=Evolution of Binary Black-Hole Spacetimes | journal=Physical Review Letters | volume=95 | issue=12 | date=14 September 2005 | article-number=121101 | issn=0031-9007 | doi=10.1103/physrevlett.95.121101| pmid=16197061 | arxiv=gr-qc/0507014 | bibcode=2005PhRvL..95l1101P | s2cid=24225193 }}
+* {{cite book | last=Colpi | first=Monica | title=Physics of relativistic objects in compact binaries: from birth to coalescence | publisher=Springer | publication-place=Dordrecht | year=2009 | isbn=978-1-4020-9264-0 | oclc=341597764 | page=}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://physics.princeton.edu/~fpretori/ Frans Pretorius, homepage at Department of Physics, Princeton University] {{Webarchive|url=https://web.archive.org/web/20171022115927/http://physics.princeton.edu/~fpretori/ |date=2017-10-22 }}
+*[https://www.youtube.com/watch?v=UtzJIkg3ZpM Frans Pretorius – Black hole probes of the cosmos and fundamental physics, YouTube, 4 March 2013]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pretorius, Frans}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:University of Victoria alumni]]
+[[Category:University of British Columbia]]
+[[Category:Princeton University faculty]]
+[[Category:Canadian astrophysicists]]
+[[Category:Computational physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Sloan Research Fellows]]
+[[Category:University of British Columbia alumni]]
+[[Category:Numerical relativists]]

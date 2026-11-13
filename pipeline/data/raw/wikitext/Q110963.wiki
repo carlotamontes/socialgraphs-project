@@ -1,0 +1,103 @@
+{{short description|Japanese electrical engineer (born 1959)}}
+{{for multi|the Japanese mixed martial artist|Koichi Tanaka (fighter)|the voice actor also known as Koichi Tanaka|Koichi Yamadera}}
+{{Infobox scientist
+| name              = Koichi Tanaka
+| native_name       = 田中 耕一
+| native_name_lang  = ja
+| image             = Koichi Tanaka 2003.jpg
+| alt               = 
+| caption           = ''Koizumi Cabinet E-mail Magazine'', No.81, February 6, 2003.
+| birth_date        = {{Birth date and age|1959|8|3|df=y}}
+| birth_place       = [[Toyama, Toyama|Toyama, Japan]]
+| field             = [[Electrical Engineering]], [[chemistry]]
+| workplaces        = [[Shimadzu Corp.|Shimadzu Corporation]]
+| education         = [[Tohoku University]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Soft laser desorption]]
+| awards            = [[Nobel Prize in Chemistry]] {{small|(2002)}}<br>[[Order of Culture]] {{small|(2002)}}<br>[[Person of Cultural Merit]] {{small|(2002)}}<br>[[IEEE]] Milestone {{small|(2024)}}
+}}
+
+{{nihongo|'''Koichi Tanaka'''|田中 耕一|Tanaka Kōichi|born August 3, 1959}} is a Japanese [[electrical engineer]] who shared the [[Nobel Prize in Chemistry]] in 2002 for developing a novel method for [[Mass spectrometry|mass spectrometric]] analyses of biological [[macromolecules]] with [[John Bennett Fenn]] and [[Kurt Wüthrich]] (the latter for work in NMR spectroscopy).<ref>{{cite journal |author1=Tanaka, K. |author2=Waki, H. |author3=Ido, Y. |author4=Akita, S. |author5=Yoshida, Y. |author6=Yoshida, T. |title=Protein and Polymer Analyses up to m/z 100 000 by Laser Ionization Time-of flight Mass Spectrometry |journal=[[Rapid Communications in Mass Spectrometry|Rapid Commun Mass Spectrom]] |volume=2 |issue=20 |pages=151–3 |year=1988|doi=10.1002/rcm.1290020802|bibcode=1988RCMS....2..151T }}</ref><ref>{{cite web |url=http://www.jce.divched.org/JCEWWW/Features/eChemists/document.php?chemid=62 |title=Biographical Snapshots of Famous Women and Minority Chemists: Snapshot |access-date=2008-08-18 |archive-date=2008-06-05 |archive-url=https://web.archive.org/web/20080605151723/http://www.jce.divched.org/JCEWWW/features/echemists/document.php?chemid=62 |url-status=dead }}</ref>
+
+==Early life and education==
+Tanaka was born and raised in [[Toyama, Toyama|Toyama, Japan]], his biological mother died one month after he was born. Tanaka graduated from [[Tohoku University]] with a bachelor's degree in electrical engineering in 1983, afterward he joined [[Shimadzu Corp.|Shimadzu Corporation]], where he engaged in the development of mass spectrometers.<ref>{{cite book |author=Peter Badge |title=Nobel Faces |year=2008 |publisher=[[John Wiley & Sons]] |isbn=978-3-527-40678-4 |page=[https://archive.org/details/nobelfacesgaller00badg/page/488 488] |url-access=registration |url=https://archive.org/details/nobelfacesgaller00badg/page/488 }}</ref>
+
+==Soft laser desorption==
+[[File:Masatoshi Koshiba Junichiro Koizumi and Koichi Tanaka 20021011.jpg|thumb|left|200px|with [[Masatoshi Koshiba]] and [[Jun'ichirō Koizumi]] (at the [[Prime Minister's Official Residence]] on October 11, 2002)]]
+For [[mass spectrometry]] analyses of a macromolecule, such as a [[protein]], the analyte must be ionized and vaporized by [[laser]] irradiation. The problem is that the direct irradiation of an intense laser pulse on a macromolecule causes cleavage of the analyte into tiny fragments and the loss of its structure. In February 1985, Tanaka found that by using a mixture of ultra fine metal powder in [[glycerol]] as a matrix, an analyte can be ionized without losing its structure. His work was filed as a patent application in 1985, and after the patent application was made public reported at the Annual Conference of the Mass Spectrometry Society of Japan held in [[Kyoto]], in May 1987 and became known as [[soft laser desorption]] (SLD).<ref>{{cite web | last =Markides | first =K |author2=Gräslund, A | title =Advanced information on the Nobel Prize in Chemistry 2002 | url =http://nobelprize.org/chemistry/laureates/2002/chemadv02.pdf }}</ref>
+
+The obscure Tanaka had been at the second-lowest rank at Shimadzu when he won the Nobel Prize. The embarrassed company immediately promoted Tanaka to [[research fellow]], and named a laboratory after him.<ref name="watts20021104">{{Cite news |last=Watts |first=Jonathan |date=2002-11-04 |title=Japan's newest star: a chemist |url=https://www.csmonitor.com/2002/1104/p06s01-woap.html |access-date=2026-07-09 |work=Christian Science Monitor |issn=0882-7729}}</ref> However, there was some criticism about his winning the prize, saying that contribution by two German scientists, [[Franz Hillenkamp]] and [[Michael Karas]] was also big enough not to be dismissed, and therefore they should also be included as prize winners.<ref>{{cite journal |title=Nobel Prize controversy |journal=The Scientist |date=2002-12-11 |last=Spinney |first=Laura |url=http://www.the-scientist.com/?articles.view/articleNo/21791/title/Nobel-Prize-controversy/ |access-date=2014-06-04 |quote=Nobel Prize for Chemistry awarded amid protests that two of mass spectrometry's inventors overlooked }}</ref><ref name="GaultMcClenaghan2008">{{cite book|author1=Victor A. Gault|author2=Neville H. McClenaghan|title=Understanding Bioanalytical Chemistry: Principles and Applications|url=https://books.google.com/books?id=lAdFYQTFab4C&pg=PA185|date=8 December 2008|publisher=John Wiley & Sons|isbn=978-0-470-71210-8|pages=184–185}}</ref> This is because they first reported in 1985 a method, with higher sensitivity using a small [[organic compound]] as a matrix, that they named [[matrix-assisted laser desorption/ionization]] (MALDI).<ref>{{cite journal |author1=Karas, M. |author2=Bachmann, D. |author3=Hillenkamp, F. |title=Influence of the Wavelength in High-Irradiance Ultraviolet Laser Desorption Mass Spectrometry of Organic Molecules |journal=[[Analytical Chemistry (journal)|Anal. Chem.]] |volume=57 |issue= 14|pages=2935–9 |year=1985|doi=10.1021/ac00291a042}}
+</ref> Also Tanaka's SLD is not used currently for biomolecules analysis, meanwhile MALDI is widely used in mass spectrometry research laboratories. But while MALDI was developed prior to SLD, it was not used to ionize [[protein]]s until after Tanaka's report.<ref>{{cite journal |vauthors=Karas M, Hillenkamp F |title=Laser desorption ionization of proteins with molecular masses exceeding 10,000 daltons |journal=Anal. Chem. |volume=60 |issue=20 |pages=2299–301 |year=1988 |pmid=3239801 |url=http://www.klinikum.uni-muenster.de/institute/impb/research/hillenkamp/ac_60_1988_2299.pdf |doi=10.1021/ac00171a028 |access-date=2006-05-11 |archive-url=https://web.archive.org/web/20060623164731/http://www.klinikum.uni-muenster.de/institute/impb/research/hillenkamp/ac_60_1988_2299.pdf |archive-date=2006-06-23 |url-status=dead }}</ref>
+
+==Blood-based early disease detection==
+[[File:LCMS-IT-TOF.jpg|thumb|[[Shimadzu]] LCMS-IT-TOF liquid chromatography mass spectrometer, used in the development of next-generation diagnostic methods for detecting disease-related proteins from blood samples.]]
+Tanaka Team have developed a diagnostic technology that enables early detection of diseases from a small amount of blood. By artificially modifying [[antibodies]] with [[polyethylene glycol]] at their base, the arms can move like springs, allowing simultaneous binding to antigens. In experiments with protein fragments related to [[Alzheimer's disease]], the modified antibodies captured antigens more than 100 times more strongly than conventional antibodies.<ref name=yomiuri2011>{{Cite news
+|title = 血液一滴で病気診断…あの田中耕一さんらが成功
+|date = 2011-11-09
+|newspaper = 読売新聞
+}}</ref> Later improvements enabled glycan analysis from trace mixed samples without peptide selection, leading to the detection of Alzheimer’s-related proteins from 1 mL of blood and the identification of eight previously unknown related substances.<ref name=jiji2012>{{Cite news
+|url = http://headlines.yahoo.co.jp/hl?a=20120823-00000014-jij-soci
+|title = がん早期診断に応用も＝「糖鎖」簡単な分析法―ノーベル賞の田中さんら開発
+|publisher = 時事通信
+|date = 2012-08-23
+|accessdate = 2014-06-29
+|archive-date = 2012-08-26
+|archive-url = https://web.archive.org/web/20120826024455/http://headlines.yahoo.co.jp/hl?a=20120823-00000014-jij-soci
+|url-status = bot: unknown
+}}</ref>{{Sfn|佐藤建仁|2014}}<ref name=chuunichi2013>{{Cite news
+|author = 豊田直也
+|url = http://iryou.chunichi.co.jp/article/detail/20130902132229674
+|title = ノーベル賞・田中耕一さん 「病気早期発見 私の夢」
+|date = 2013-08-31
+|newspaper = 北陸中日新聞
+|accessdate = 2014-06-29
+}}</ref> This technology is expected to contribute to the early detection of various diseases, including Alzheimer’s disease and [[prostate cancer]].<ref name=jiji2012/>
+
+The research originated from work awarded the [[Nobel Prize]] in 2002, though the initial methods lacked sufficient sensitivity for medical applications.{{Sfn|佐藤建仁|2014}} In 2009, it was selected for the {{ill|FIRST Program|lt=|ja|最先端研究開発支援プログラム}}, Development of Next-Generation [[Mass Spectrometry]] Systems and Contributions to Drug Discovery and Diagnosis, which provided about 4 billion yen over five years. With a team of around 60 researchers, a breakthrough analytical method was developed within a year, achieving up to a 10,000-fold increase in sensitivity.{{Sfn|佐藤建仁|2014}}
+
+In November 2011, the team described the results as a technology applicable to early diagnosis and antibody-based drug development, publishing findings in the electronic edition of an English journal issued by the [[Japan Academy]].<ref name=yomiuri2011/> On August 23, 2012, further results were published in the U.S. journal ''[[PLOS ONE]]'' in collaboration with Motoharu Seiki of the [[University of Tokyo]] Institute of Medical Science.<ref name=jiji2012/> By 2014, the technology had advanced to the stage of detecting Alzheimer’s-related substances directly from [[blood samples]],{{Sfn|佐藤建仁|2014}}<ref name=chuunichi2013/> and since April 2014, efforts under a new framework have been directed toward practical application.{{Sfn|佐藤建仁|2014}}
+
+==Recognition==
+*1989 – Award of the Mass Spectrometry Society of Japan
+*2002 – [[Nobel Prize in Chemistry]]
+*2002 – [[File:JPN Bunka-kunsho BAR.svg|45px|ribbon bar]][[Order of Culture]]
+*2002 – [[Person of Cultural Merit]]
+*2002 – Honorary doctorate from [[Tohoku University]]
+*2003 – Honorary citizenship of [[Toyama Prefecture]]
+*2003 – Special Award of the Mass Spectrometry Society of Japan
+*2006 – Member of [[Japan Academy]]
+*2024 – [[IEEE]] Milestone for "LAMS-50K" (one of the 5-member development team)<ref>[https://www.shimadzu.com/today/20241225-1.html LAMS-50K is Recognized as an IEEE Milestone Nobel Laureate Koichi Tanaka among Development Team | SHIMADZU TODAY | SHIMADZU CORPORATION]</ref>
+
+==See also==
+{{Portal|Japan|Biography|Chemistry}}
+* [[History of mass spectrometry]]
+* [[List of Japanese Nobel laureates]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{wikiquote}}
+{{commons category|Kōichi Tanaka}}
+* {{Nobelprize}}
+* [https://web.archive.org/web/20041210202653/http://www1.shimadzu.com/about/nobel/index.html Nobel Prize Announcement] ([http://www.shimadzu.com/ Shimadzu Corporation])
+* [http://nobelprize.org/nobel_prizes/chemistry/laureates/2002/tanaka-lecture.html Tanaka Nobel Prize lecture]
+* [http://www.chem-station.com/en/?p=2272 Koichi Tanaka]
+
+{{Japanese Nobel laureates}}
+{{Nobel Prize in Chemistry Laureates 2001-2025}}
+{{2002 Nobel Prize Winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tanaka, Koichi}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Japanese electrical engineers]]
+[[Category:Japanese Nobel laureates]]
+[[Category:Mass spectrometrists]]
+[[Category:Nobel laureates in Chemistry]]
+[[Category:People from Toyama (city)]]
+[[Category:Recipients of the Order of Culture]]
+[[Category:Tohoku University alumni]]

@@ -1,0 +1,76 @@
+{{short description|American mathematician (1925–2017)}}
+{{distinguish|Walter Noel}}
+{{Infobox scientist
+| name              = Walter Noll
+| image             = Walter Noll.JPG
+| image_size        = 
+| caption           = Professor Walter Noll
+| birth_date        = {{birth date|1925|01|07|mf=y}}
+| birth_place       = [[Berlin]], [[Weimar Germany|Germany]]
+| death_date        = {{death date and age|2017|06|06|1925|1|7|mf=y}}
+| death_place       = [[Pittsburgh, Pennsylvania]], U.S.
+| residence         = 
+| citizenship       = 
+| field             = [[Applied mathematics]], [[classical mechanics]], [[thermodynamics]], [[continuum mechanics]]
+| workplaces        = [[Carnegie Mellon University]]
+| education         = [[Indiana University Bloomington]]
+| thesis_title      = On the Continuity of the Solid and Fluid States
+| thesis_url        = https://search.worldcat.org/title/34957168
+| thesis_year       = 1954
+| doctoral_advisor  = [[Clifford Truesdell]]
+| doctoral_students = 
+| known_for         = [[Principle of material objectivity]]<br>[[Rational thermodynamics]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = [[American Mathematical Society]] Fellow (2012)
+| website           = http://www.math.cmu.edu/~wn0g/
+| footnotes         = 
+}}
+'''Walter Noll''' (January 7, 1925 {{ndash}} June 6, 2017) was a German mathematician, and Professor Emeritus at [[Carnegie Mellon University]]. He is best known for developing mathematical tools of [[classical mechanics]], [[thermodynamics]], and [[continuum mechanics]].<ref>{{cite book|author=Ignatieff, Y. |title = The Mathematical World of Walter Noll |publisher = Springer-Verlag |year = 1996}}</ref>
+
+==Biography==
+Born in [[Berlin]], [[Weimar Germany]], Noll had his school education in a suburb of Berlin. In 1954, Noll earned a Ph.D. in Applied Mathematics from [[Indiana University Bloomington]] in 1954 under [[Clifford Truesdell]].<ref name=cv>{{cite web| title =Walter Noll, Curriculum Vitae |url=http://www.math.cmu.edu/~wn0g/noll/ | access-date = 2007-12-30 }}</ref>
+
+His thesis "On the Continuity of the Solid and Fluid States" was published both in ''[[Journal of Rational Mechanics and Analysis]]'' and in one of Truesdell's books.<ref>''Continuum Mechanics II: The Rational Mechanics of Materials'', pages 65&ndash;81, (1965) Gordon and Breach</ref> Noll thanks [[Jerald Ericksen]] for his critical input to the thesis.
+
+Noll has served as a visiting professor at the [[Johns Hopkins University]], the [[University of Karlsruhe]], the [[Technion – Israel Institute of Technology|Israel Institute of Technology]], the [[Institut National Polytechnique de Lorraine]] in [[Nancy, France|Nancy]], the [[University of Pisa]], the [[University of Pavia]], and the [[University of Oxford]].<ref name=cv />
+
+In 2012 he became a fellow of the [[American Mathematical Society]].<ref>[http://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2013-02-24.</ref> Noll died on June 6, 2017, at the age of 92.<ref>[https://www.post-gazette.com/news/obituaries/2017/06/11/A-mathematician-with-a-love-for-travel-obituary-walter-noll-carnegie-mellon/stories/201706110127 post-gazette.com]</ref>
+
+==Principle of material objectivity<!--'Principle of material objectivity' redirects here-->==
+In [[continuum mechanics]], Noll introduced the so-called '''principle of material objectivity'''<!--boldface per WP:R#PLA-->,<ref>{{cite book|author=Ignatieff, Y. |title = The Mathematical World of Walter Noll |publisher = Springer-Verlag |year = 1996 | page = 107 }}</ref> which states that the constitutive laws governing the internal conditions of a physical system and the interactions between its parts should not depend on whatever external [[frame of reference]] is used to describe them.
+
+"Principle of material objectivity" is now an obsolete term that has been replaced by '''principle of material frame-indifference'''<!--boldface per WP:R#PLA-->.<ref>Miroslav Šilhavý, ''The Mechanics and Thermodynamics of Continuous Media'', Springer, 1997: [https://link.springer.com/chapter/10.1007/978-3-662-03389-0_7 "The Principle of Material Frame Indifference"].</ref>
+
+==Books==
+*Noll, Walter and [[Clifford Truesdell|Truesdell, Clifford]] (1965) ''The Non-Linear Field Theories of Mechanics''. Springer-Verlag, New York. {{ISBN|3-540-02779-3}}.
+*Noll, Walter; Coleman, B. D.; and Markovitz, H. (1966) ''Viscometric Flows of Non-Newtonian Fluids, Theory and Experiment''. Springer-Verlag, New York. [[ASIN]] B0006BN90G.
+*Noll, Walter (1974) ''Foundations of Mechanics and Thermodynamics, Selected Papers''. Springer-Verlag, New York. {{ISBN|0-387-06646-2}}.
+*Noll, Walter (1987) ''Finite-Dimensional Spaces: Algebra, Geometry, and Analysis, Volume I''. Kluwer Academic Publishers. {{ISBN|90-247-3581-5}}. A corrected version (2006) is published on Professor Noll's website.
+*Noll, Walter (2004) ''Five Contributions to Natural Philosophy''. Published on Professor Noll's website
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MathGenealogy|id=2538}}
+*[http://www.math.cmu.edu/people/fac/noll.html Professor Noll's Carnegie Mellon home page] {{Webarchive|url=https://web.archive.org/web/20070611002753/http://www.math.cmu.edu/people/fac/noll.html |date=2007-06-11 }}
+*[http://www.math.cmu.edu/~wn0g/noll Professor Noll's website]
+*[https://www.post-gazette.com/news/obituaries/2017/06/11/A-mathematician-with-a-love-for-travel-obituary-walter-noll-carnegie-mellon/stories/201706110127 Obituary: Walter Noll, Pittsburgh Post-Gazette, June 11, 2017]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Noll, Walter}}
+[[Category:2017 deaths]]
+[[Category:1925 births]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:German emigrants to the United States]]
+[[Category:Indiana University Bloomington alumni]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:Academic staff of the Karlsruhe Institute of Technology]]
+[[Category:Mathematicians from Berlin]]
+[[Category:Academic staff of the University of Pavia]]
+[[Category:Academic staff of the University of Pisa]]

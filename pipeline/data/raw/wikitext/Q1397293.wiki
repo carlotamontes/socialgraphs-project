@@ -1,0 +1,62 @@
+{{short description|American physicist}}
+{{Infobox scientist
+| name              = Kenneth Alan Johnson
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| caption           = 
+| birth_date        = {{birth date |1931|03|26}}
+| birth_place       = [[Duluth, Minnesota]]
+| death_date        = {{death date and age |1999|02|09 |1931|03|26}} 
+| death_place       = [[Boston, Massachusetts]]
+| fields            = [[Physics]]
+| workplaces        = {{br separated entries|[[Harvard University]]|[[Niels Bohr Institute]]|[[Massachusetts Institute of Technology]]}}
+| education         = [[Harvard University]] (PhD)
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Julian Schwinger]]
+| doctoral_students = [[C. R. Hagen]]
+| known_for         = Leader in the study of quantum field theories and the quark substructure of matter
+| spouse            = {{marriage|Gladys (Diaz de los Arcos) Johnson|1950}}
+| children          = 1
+}}
+
+'''Kenneth Alan Johnson''' (March 26, 1931{{snd}}February 9, 1999) was an American theoretical [[physicist]]. He was professor of physics at [[MIT]], a leader in the study of [[quantum field]] theories and the [[quark]] substructure of matter. Johnson contributed to the understanding of symmetry and anomalies in quantum field theories and to models of quark confinement and dynamics in quantum chromodynamics.<ref name=":0">{{Cite web|url=https://news.mit.edu/1999/johnson|title=Professor Kenneth A. Johnson dies at 67; taught physics at MIT for 40 years|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref>
+
+== Biography ==
+=== Early life ===
+Ken Johnson was a student at [[Case Western Reserve University]] and obtained his bachelor's degree from the [[Illinois Institute of Technology]] in 1952. He studied theoretical physics at [[Harvard University]], completing his Ph.D. under the direction of [[Julian Schwinger]] in 1955.<ref>{{Cite web|url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=15198|title=Mathematics Genealogy Project|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref> Johnson remained at Harvard as a research fellow and lecturer from 1955 through 1957 and during 1957-1958 he was an NSF Postdoctoral Fellow at the Institute for Theoretical Physics ([[Niels Bohr Institute]]), Copenhagen.<ref name=":0" />
+
+=== Career at MIT ===
+
+Johnson was appointed to the MIT faculty in 1958 as assistant professor, promoted to associate professor in 1961, and to full professor in 1965. Johnson remained at MIT, with the exception of visiting positions at SLAC (1971–72, 1980–81), University of Washington (1972), and [[Nordic Institute for Theoretical Physics|Nordita]] (1981), for the remainder of his career.{{citation needed|date=September 2019}}
+
+Early in his career, Johnson together with Marshall Baker ([[University of Washington]]) undertook a systematic study of the short distance and high energy behavior of [[quantum electrodynamics]] (QED), which presaged modern studies of renormalization group flow and the search for ultraviolet fixed points of the QED 𝛽-function.<ref>{{Cite journal|last=Johnson|first=Kenneth A.|date=1958-11-15|title=Consistency of Quantum Electrodynamics|journal=Physical Review|language=en|volume=112|issue=4|pages=1367–1370|doi=10.1103/PhysRev.112.1367|issn=0031-899X|bibcode=1958PhRv..112.1367J}}</ref><ref>{{Cite journal|last1=Baker|first1=M.|last2=Johnson|first2=K.|date=1969-07-25|title=Quantum Electrodynamics at Small Distances|journal=Physical Review|language=en|volume=183|issue=5|pages=1292–1299|doi=10.1103/PhysRev.183.1292|issn=0031-899X|bibcode=1969PhRv..183.1292B}}</ref>
+
+Johnson was one of the first to discover chiral and other [[Anomaly (physics)|anomalies]] in gauge-field theories,<ref>{{Cite journal|last=Johnson|first=K.|date=1963|title=γ5 invariance|journal=Physics Letters|language=en|volume=5|issue=4|pages=253–254|doi=10.1016/S0375-9601(63)95573-7|bibcode=1963PhL.....5..253J}}</ref> anticipating the work of Stephen Adler ([[Institute for Advanced Study|IAS]]), [[John Stewart Bell|John Bell]] ([[CERN]]), and [[Roman Jackiw]] (MIT) on chiral anomalies.<ref>{{Cite journal|last1=Bell|first1=J. S.|last2=Jackiw|first2=R.|date=1969|title=A PCAC puzzle: π0→γγ in the σ-model|journal=Il Nuovo Cimento A|language=en|volume=60|issue=1|pages=47–61|doi=10.1007/BF02823296|issn=0369-3546|bibcode=1969NCimA..60...47B|s2cid=125028356|url=https://cds.cern.ch/record/348417}}</ref><ref>{{Cite journal|last=Adler|first=Stephen L.|date=1969-01-25|title=Axial-Vector Vertex in Spinor Electrodynamics|journal=Physical Review|language=en|volume=177|issue=5|pages=2426–2438|doi=10.1103/PhysRev.177.2426|issn=0031-899X|bibcode=1969PhRv..177.2426A}}</ref> Continuing his study of anomalies, Johnson, collaborating with Francis Low ([[Massachusetts Institute of Technology|MIT]]), introduced limiting methods for studying the short distance behavior of operator products.<ref>{{Cite journal|last1=Johnson|first1=K.|last2=Low|first2=F. E.|date=1966|title=Current Algebras in a Simple Model|journal=Progress of Theoretical Physics Supplement|language=en|volume=37|pages=74–93|doi=10.1143/PTPS.37.74|issn=0375-9687|bibcode=1966PThPS..37...74J|doi-access=free}}</ref>  Similar methods were introduced by [[James Bjorken]] ([[SLAC National Accelerator Laboratory|SLAC]]).<ref>{{Cite journal|last=Bjorken|first=J. D.|date=1966-08-26|title=Applications of the Chiral U ( 6 ) ⊗ U ( 6 ) Algebra of Current Densities|journal=Physical Review|language=en|volume=148|issue=4|pages=1467–1478|doi=10.1103/PhysRev.148.1467|issn=0031-899X|bibcode=1966PhRv..148.1467B}}</ref> The ''Bjorken–Johnson–Low Limit'' was used extensively in the study of scaling and perturbative anomalies in the late 1960s and was subsumed into the more general framework of the operator product expansion by Kenneth Wilson.<ref>{{Cite journal|last=Wilson|first=Kenneth G.|date=1969-03-25|title=Non-Lagrangian Models of Current Algebra|journal=Physical Review|language=en|volume=179|issue=5|pages=1499–1512|doi=10.1103/PhysRev.179.1499|issn=0031-899X|bibcode=1969PhRv..179.1499W}}</ref> Working with Jackiw, Johnson showed that gauge invariance could break down dynamically in a theory with massless fermions but without fundamental scalar particles, leading to mass generation for both the fermions and the gauge bosons.<ref>{{Cite journal|last1=Jackiw|first1=R.|last2=Johnson|first2=K.|date=1973-10-15|title=Dynamical Model of Spontaneously Broken Gauge Symmetries|journal=Physical Review D|language=en|volume=8|issue=8|pages=2386–2398|doi=10.1103/PhysRevD.8.2386|issn=0556-2821|bibcode=1973PhRvD...8.2386J}}</ref> This work formed the foundation for technicolor theories of compositeness beyond the Standard Model.{{citation needed|date=September 2019}} Students at [[Massachusetts Institute of Technology|MIT]] include [[C. R. Hagen]], co-discoverer of the [[Higgs mechanism]] and [[Higgs boson]].
+
+In the early 1970s Johnson became interested in the confinement of quarks in theories of hadron structure. He led a collaboration with Alan Chodos, Robert Jaffe, Charles Thorn, and [[Victor Weisskopf]] (all MIT) in the development of a relativistic, gauge invariant, and heuristic model of quark confinement known as the “MIT Bag Model”,<ref>{{Cite journal|last1=Chodos|first1=A.|last2=Jaffe|first2=R. L.|last3=Johnson|first3=K.|last4=Thorn|first4=C. B.|last5=Weisskopf|first5=V. F.|date=1974-06-15|title=New extended model of hadrons|journal=Physical Review D|language=en|volume=9|issue=12|pages=3471–3495|doi=10.1103/PhysRevD.9.3471|issn=0556-2821|bibcode=1974PhRvD...9.3471C}}</ref> which emerged as a standard model for describing hadrons in [[quantum chromodynamics]] (QCD). The MIT Bag Model provided a framework for the initial investigation of many aspects of the behavior of confined quarks and gluons in QCD. In several of these studies, Johnson played a leading role. Together with Thomas DeGrand (University of Colorado), Joseph Kiskis (UC Davis), and Jaffe, Johnson showed that the spectra of light-quark baryons and mesons could be accommodated in QCD.<ref>{{Cite journal|last1=DeGrand|first1=T.|last2=Jaffe|first2=R. L.|last3=Johnson|first3=K.|last4=Kiskis|first4=J.|date=1975-10-01|title=Masses and other parameters of the light hadrons|journal=Physical Review D|language=en|volume=12|issue=7|pages=2060–2076|doi=10.1103/PhysRevD.12.2060|issn=0556-2821|bibcode=1975PhRvD..12.2060D}}</ref> With Thorn, Johnson demonstrated the emergence of string-like excitations of hadrons in QCD,<ref>{{Cite journal|last1=Johnson|first1=K.|last2=Thorn|first2=C. B.|date=1976-04-01|title=Stringlike solutions of the bag model|journal=Physical Review D|language=en|volume=13|issue=7|pages=1934–1939|doi=10.1103/PhysRevD.13.1934|issn=0556-2821|bibcode=1976PhRvD..13.1934J}}</ref> and Johnson and Jaffe explored the spectra and interactions of exotic hadrons composed purely of gluons or made of more than three quarks.<ref>{{Cite journal|last1=Jaffe|first1=R.L.|last2=Johnson|first2=K.|date=1976|title=Unconventional states of confined quarks and gluons|journal=Physics Letters B|language=en|volume=60|issue=2|pages=201–204|doi=10.1016/0370-2693(76)90423-8|bibcode=1976PhLB...60..201J}}</ref> Studies of such unusual hadrons remains a topic of current experimental and theoretical interest. In his later years, Johnson focused on finding a heuristic description of the gluon field configurations that dominate the confining condensate in the QCD vacuum, a search that continues to this day.{{citation needed|date=September 2019}}
+
+== Personal life ==
+Ken Johnson was married to Gladys (Diaz de los Arcos) Johnson, who also studied physics at Harvard in the early 1950s.  Gladys was an accomplished artist. They had one son, Keith Johnson.<ref name=":0" />
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*''The Bag Model of Quark Confinement'': Scientific American '''241, No.1,''' 112 (1979).
+*''A Practical Model of Quark Confinement'': Comments on Nuclear and Particle Physics, '''7, No. 4,''' 107 (1977).
+* {{INSPIRE-HEP author}} 
+{{authority control}}
+
+{{DEFAULTSORT:Johnson, Kenneth Alan}}
+[[Category:1931 births]]
+[[Category:1999 deaths]]
+[[Category:Writers from Duluth, Minnesota]]
+[[Category:Scientists from Minnesota]]
+[[Category:American theoretical physicists]]
+[[Category:20th-century American physicists]]
+[[Category:Case Western Reserve University alumni]]
+[[Category:Illinois Institute of Technology alumni]]
+[[Category:Harvard University alumni]]
+[[Category:MIT Center for Theoretical Physics faculty]]
+[[Category:Fellows of the American Physical Society]]

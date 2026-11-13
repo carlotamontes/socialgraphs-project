@@ -1,0 +1,81 @@
+{{Short description|Italian mathematician and physicist (born 1967)}}
+{{Use dmy dates|date=October 2025}}
+{{Infobox mathematician
+| name              = Alberto Sergio Cattaneo
+| image             = Cattaneo xu.jpg
+| caption           = Alberto Cattaneo (right) with Ping Xu, [[Oberwolfach Research Institute for Mathematics|Oberwolfach]] 2003
+| birth_date        = 26 June 1967
+| birth_place       = Milan
+| fields            = [[Mathematical Physics]]
+| workplaces        = [[University of Zurich]]
+| education         = [[Università degli Studi di Milano]]
+| thesis_title      = Teorie topologiche di tipo BF ed invarianti dei nodi
+| thesis_year       = 1995
+| doctoral_advisor  = Maurizio Martellini
+| doctoral_students = [[Thomas Willwacher]]
+| website           = https://www.math.uzh.ch/cattaneo/
+}}
+
+'''Alberto Sergio Cattaneo''' (26 June 1967 in [[Milan]])<ref name=homepage>{{cite web|title=Prof. Alberto S. Cattaneo|website=Institut für Mathematik, Universität Zürich|url=http://user.math.uzh.ch/cattaneo/}}</ref> is an Italian [[mathematician]] and [[mathematical physicist]], specializing in [[geometry]] related to [[quantum field theory]] and [[string theory]].
+
+==Biography==
+After attending ''[[Liceo scientifico]]'' ''A. Volta'' in Milan, Cattaneo studied physics at [[University of Milan]], graduating in 1991. In 1995, he obtained a PhD in theoretical physics at the same university; his thesis, entitled ''Teorie topologiche di tipo BF ed invarianti dei nodi'' (Topological [[BF theory|BF theories]] and [[knot invariant]]s), was supervised by Maurizio Martellini.<ref name=":0">{{Cite web |title=Alberto Cattaneo - The Mathematics Genealogy Project |url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=120224 |access-date=2022-06-18 |website=www.genealogy.math.ndsu.nodak.edu}}</ref>
+
+Cattaneo worked as a postdoc in 1995-1997 at [[Harvard University]] (with [[Arthur Jaffe]]) and in 1997-1998 at the University of Milan (with [[Paolo Cotta-Ramusino]]). In 1998, he moved to [[University of Zurich]]'s mathematics department as an assistant professor, and he became a full professor in 2003.<ref name="homepage" />
+
+In 2006 he was an [[List of International Congresses of Mathematicians Plenary and Invited Speakers#2006, Madrid|invited speaker]], with the talk ''From topological field theory to deformation quantization and reduction'', at the [[International Congress of Mathematicians]] in [[Madrid]].<ref>{{Cite book |url=https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM2006.2/ICM2006.2.ocr.pdf |title=Proceedings of the International Congress of Mathematician 2006 |publisher=[[European Mathematical Society]] |year=2007 |editor-last=Sanz-Solé |editor-first=Marta |editor-link=Marta Sanz-Solé |location=Madrid |pages=339 |editor-last2=Soria |editor-first2=Javier |editor-last3=Varona |editor-first3=Juan Luis |editor-last4=Verdera |editor-first4=Joan}}</ref> Cattaneo was elected a Fellow of the [[American Mathematical Society]] in 2013.<ref>{{Cite web |title=Fellows of the American Mathematical Society |url=https://www.ams.org/cgi-bin/fellows/fellows.cgi |access-date=2022-06-18 |website=American Mathematical Society |language=en}}</ref>
+
+== Research ==
+Cattaneo's research interests include [[deformation quantization]], [[Symplectic geometry|symplectic]] and [[Poisson geometry]], [[topological quantum field theories]], and the mathematical aspects of perturbative quantization of [[gauge theories]].<ref name="homepage" />
+
+With [[Giovanni Felder]] he developed a [[path integral formulation|path integral]] interpretation of the [[Kontsevich quantization formula|deformation quantization of Poisson manifolds]] (introduced in 2003 by [[Maxim Kontsevich]]),<ref>{{cite journal |last1=Cattaneo |first1=Alberto |last2=Felder |first2=Giovanni |author-link2=Giovanni Felder |year=2000 |title=A Path Integral Approach to the Kontsevich Quantization Formula |journal=Communications in Mathematical Physics |volume=212 |issue=3 |pages=591–611 |arxiv=math/9902090 |bibcode=2000CMaPh.212..591C |doi=10.1007/s002200000229 |s2cid=8510811}}</ref> as well as a description of the [[symplectic groupoid]] integrating a [[Poisson manifold]] as an infinite-dimensional [[symplectic quotient]].<ref>{{Cite book |last1=Cattaneo |first1=Alberto S. |last2=Felder |first2=Giovanni |chapter=Poisson sigma models and symplectic groupoids |author-link2=Giovanni Felder |date=2001 |title=Quantization of Singular Symplectic Quotients |chapter-url=https://link.springer.com/chapter/10.1007/978-3-0348-8364-1_4 |language=en |location=Basel |publisher=Birkhäuser |pages=61–93 |doi=10.1007/978-3-0348-8364-1_4 |isbn=978-3-0348-8364-1|s2cid=10248666 |arxiv=math/0003023 }}</ref>
+
+He supervised 14 PhD students as of 2022.<ref name=":0" />
+
+==Selected publications==
+===Articles===
+* {{cite journal|url=https://aip.scitation.org/doi/abs/10.1063/1.531238|doi=10.1063/1.531238|title=Topological BF theories in 3 and 4 dimensions|year=1995|last1=Cattaneo|first1=Alberto S.|last2=Cotta-Ramusino|first2=Paolo|last3=Fröhlich|first3=Jürg|last4=Martellini|first4=Maurizio|journal=Journal of Mathematical Physics|volume=36|issue=11|pages=6137–6160|arxiv=hep-th/9505027|bibcode=1995JMP....36.6137C|s2cid=166350}}
+* {{cite journal|url=https://projecteuclid.org/journals/duke-mathematical-journal/volume-115/issue-2/From-local-to-global-deformation-quantization-of-Poisson-manifolds/10.1215/S0012-7094-02-11524-5.short|arxiv=math/0012228|  doi=10.1215/S0012-7094-02-11524-5|title=From local to global deformation quantization of Poisson manifolds|year=2002|last1=Cattaneo|first1=Alberto S.|last2=Felder|first2=Giovanni|last3=Tomassini|first3=Lorenzo|journal=Duke Mathematical Journal|volume=115|issue=2|s2cid=10201285}}
+* {{cite book|arxiv=math/0403135|doi=10.5167/uzh-21691|year=2005|last1=Cattaneo|first1=A. S.|last2=Indelicato|first2=D.|title=Formality and star products|volume=323|pages=79–144|isbn=9780521615051|s2cid=17250747}}
+* {{cite journal| arxiv=math/0501540 | doi=10.1016/j.aim.2006.03.010|doi-access=free|title=Relative formality theorem and quantisation of coisotropic submanifolds|year=2007|last1=Cattaneo|first1=Alberto S.|last2=Felder|first2=Giovanni|journal=[[Advances in Mathematics]]|volume=208|issue=2|pages=521–548|s2cid=10469717}}
+* {{cite journal|arxiv=math/0701378|doi=10.5167/uzh-6703|year=2008|last1=Cattaneo|first1=A. S.|title=Deformation quantization and reduction|journal=Cont. Math.|volume=450|pages=79–101|s2cid=218971990}}
+* {{cite journal|arxiv=0905.3574|doi=10.4310/JSG.2010.v8.n2.a4|title=Symplectic microgeometry I: Micromorphisms|year=2010|last1=Cattaneo|first1=Alberto S.|last2=Dherin|first2=Benoit|last3=Weinstein|first3=Alan|author-link3=Alan Weinstein|journal=Journal of Symplectic Geometry|volume=8|issue=2|pages=205–223|s2cid=50308861}}
+* {{cite journal|arxiv=1103.0672|doi=10.1007/s00574-011-0027-2|title=Symplectic microgeometry II: Generating functions|year=2011|last1=Cattaneo|first1=Alberto S.|last2=Dherin|first2=Benoît|last3=Weinstein|first3=Alan|journal=Bulletin of the Brazilian Mathematical Society |series=New Series|volume=42|issue=4|pages=507–536|s2cid=44023383}}
+* {{cite book |isbn=978-3-0348-8364-1 |chapter=''Poisson sigma models and symplectic groupoids'' by A. Cattaneo and G. Felder |author-link3=Martin Schlichenmaier |title=Quantization of Singular Symplectic Quotients, ''eds. Landsman, Pflaum, & Schlichenmaier'' |year=2012 |chapter-url=https://books.google.com/books?id=TiPyBwAAQBAJ&pg=PA61 |pages=61–94 |last1=Landsman |first1=N. P. |last2=Pflaum |first2=Markus |last3=Schlichenmaier |first3=Martin|publisher=Birkhäuser }}
+* {{cite book|arxiv=1207.0239|last1=Cattaneo|first1=Alberto S.|last2=Mnev|first2=Pavel|last3=Reshetikhin|first3=Nicolai|title=Proceedings of Proceedings of the Corfu Summer Institute 2011 — PoS(CORFU2011)|chapter=Classical and Quantum Lagrangian Field Theories with Boundary |year=2012|page=044 |doi=10.22323/1.155.0044 |doi-access=free }}
+* {{cite journal|arxiv=1109.4789|doi=10.4310/JSG.2013.v11.n3.a1|title=Symplectic microgeometry III: Monoids|year=2013|last1=Cattaneo|first1=Alberto S.|last2=Dherin|first2=Benoit|last3=Weinstein|first3=Alan|journal=Journal of Symplectic Geometry|volume=11|issue=3|pages=319–341|s2cid=50637248}}
+* {{cite arXiv|eprint=1602.00741|last1=Cattaneo|first1=Alberto S.|last2=Mnev|first2=Pavel|last3=Reshetikhin|first3=Nicolai|title=Perturbative BV theories with Segal-like gluing|year=2016|class=math-ph}}
+* {{cite journal|arxiv=1607.02412|doi=10.1007/s11005-016-0907-x|title=On Time|year=2017|last1=Cattaneo|first1=Alberto S.|last2=Schiavina|first2=Michele|journal=Letters in Mathematical Physics|volume=107|issue=2|pages=375–408|bibcode=2017LMaPh.107..375C|s2cid=119145820}}
+* {{cite journal|arxiv=1507.01221|doi=10.1007/s00220-017-3031-6|title=Perturbative Quantum Gauge Theories on Manifolds with Boundary|year=2018|last1=Cattaneo|first1=Alberto S.|last2=Mnev|first2=Pavel|last3=Reshetikhin|first3=Nicolai|journal=Communications in Mathematical Physics|volume=357|issue=2|pages=631–730|bibcode=2018CMaPh.357..631C|hdl=21.11116/0000-0004-0613-0|s2cid=119640108}}
+* {{cite journal|arxiv=1807.11782|doi=10.1007/s00220-019-03591-5|title=Globalization for Perturbative Quantization of Nonlinear Split AKSZ Sigma Models on Manifolds with Boundary|year=2019|last1=Cattaneo|first1=Alberto S.|last2=Moshayedi|first2=Nima|last3=Wernli|first3=Konstantin|journal=Communications in Mathematical Physics|volume=372|issue=1|pages=213–260|bibcode=2019CMaPh.372..213C|s2cid=119605584}}
+* {{cite journal|arxiv=2007.08167|last1=Cattaneo|first1=Alberto S.|last2=Dherin|first2=Benoit|last3=Weinstein|first3=Alan|title=Symplectic microgeometry, IV: Quantization|journal=Pacific Journal of Mathematics|year=2021|volume=312|issue=2|pages=355–399|doi=10.2140/pjm.2021.312.355|s2cid=220546201}}
+
+===Books===
+* with Alain Bruguières, [[Bernhard Keller]], Charles Torossian: {{cite book|title=Déformation, quantification, théorie de Lie|url=https://books.google.com/books?id=ieDuAAAAMAAJ|year=2005|series=Panoramas et Synthèse, tome 20|publisher=Société Mathématique de France|isbn=978-2-85629-183-2}}<ref>{{cite web|title=Déformation, Quantification, Théorie de Lie|website=AMS Bookstore|url=https://bookstore.ams.org/pasy-20}}</ref>
+
+===as editor===
+* {{cite book|url=https://books.google.com/books?id=Co51gW-04lkC|title = Higher Structures in Geometry and Physics: In Honor of Murray Gerstenhaber and Jim Stasheff|isbn = 9780817647353|editor1 = Cattaneo, Alberto S.|editor2 = Giaquinto, Anthony|editor3 = Xu, Ping|date = 25 November 2010| publisher=Springer }}
+
+==References==
+<references/>
+
+==External links==
+* {{cite web|title=Alberto Cattaneo, Lecture 1|date=17 October 2013|publisher=CGI-Geometry of Strings and Fields|website=YouTube|url=https://www.youtube.com/watch?v=9pnipvJbUIs}}
+* {{cite web|title=Alberto Cattaneo, Lecture 2|date=17 October 2013|publisher=CGI-Geometry of Strings and Fields|website=YouTube|url=https://www.youtube.com/watch?v=c-K4s3djCGI}}
+* {{cite web|title=Alberto Cattaneo: An introduction to the BV-BFV Formalism|date=22 June 2018|publisher=Centre International de Rencontres Mathématiques|website=YouTube|url=https://www.youtube.com/watch?v=0dqS_NYMml0}}
+* {{cite web|title=Alberto Cattaneo {{!}} The BV-BFV Formalism|date=24 April 2020|publisher=Nikita Nikolaev|website=YouTube|url=https://www.youtube.com/watch?v=vF5h1j67uTc}}
+* {{cite web|title=Alberto Cattaneo - AKSZ for General Relativity|date=2 December 2020|publisher=Prague Mathematical Physics Seminar|website=YouTube|url=https://www.youtube.com/watch?v=Q4GzSDMJrrs}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cattaneo, Alberto}}
+[[Category:20th-century Italian mathematicians]]
+[[Category:21st-century Italian mathematicians]]
+[[Category:20th-century Italian physicists]]
+[[Category:21st-century Italian physicists]]
+[[Category:Italian mathematical physicists]]
+[[Category:University of Milan alumni]]
+[[Category:Academic staff of ETH Zurich]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:1967 births]]
+[[Category:Living people]]

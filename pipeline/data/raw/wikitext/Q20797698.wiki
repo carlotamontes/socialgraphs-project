@@ -1,0 +1,135 @@
+{{Short description|Italian computer scientist}}
+{{Use dmy dates|date=March 2025}}
+
+{{Infobox scientist
+| name              = Giorgio Ausiello
+| image             = <!--(filename only)-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date and age|1941|07|30|df=y}}
+| birth_place       = [[Dogliani]]
+| death_date        = 
+| death_place       = 
+| fields            = [[Computer science]]
+| workplaces        = [[University of Rome La Sapienza]]
+| education         = [[University of Rome La Sapienza]]
+| doctoral_advisor  = [[Corrado Böhm]]
+| doctoral_students = 
+| known_for         = Algorithms, [[computational complexity]], [[approximation algorithm]]s for [[NP-hard]] optimization problems
+| awards            = 
+}}
+
+'''Giorgio Ausiello''' (born 30 July 1941 in [[Dogliani]]) is an Italian [[computer scientist]] and professor emeritus at [[Sapienza University of Rome]].<ref name="AE">{{cite web |title=Giorgio Ausiello - Academia Europaea |url=https://www.ae-info.org/ae/User/Ausiello_Giorgio |website=Academia Europaea |access-date=7 March 2026}}</ref><ref name="Sapienza">{{cite web |title=Giorgio Ausiello |url=https://www.diag.uniroma1.it/users/giorgio_ausiello |website=Sapienza University of Rome |access-date=7 March 2026}}</ref><ref>{{cite web |title=Giorgio Ausiello |url=https://dblp.org/pid/a/GiorgioAusiello |website=DBLP Computer Science Bibliography |access-date=7 March 2026}}</ref>
+He is known for contributions to theoretical computer science, particularly in algorithms, computational complexity, and the theory of [[approximation algorithm]]s for [[NP-hard]] optimization problems.<ref name="AE"/>
+
+In 1966 he graduated in [[physics]] under the supervision of [[Corrado Böhm]].<ref name="AE"/>
+
+From 1966 to 1980 he served as a researcher at the Italian National Research Council (CNR).<ref name="AE"/>
+
+In 1980 he became professor of compilers and operating systems at [[Sapienza University of Rome]], and from 1990 he was professor of theoretical computer science in the Department of Computer, Control and Management Engineering.<ref>{{cite web |title=Giorgio Ausiello |url=https://www.diag.uniroma1.it/users/giorgio_ausiello |website=Sapienza University of Rome |access-date=7 March 2026}}</ref>
+
+At Sapienza University he served as chairman of the degree program in computer engineering, director of the graduate school, member of the academic senate, and chairman of the research committee.<ref>{{cite web |title=Giorgio Ausiello |url=https://www.diag.uniroma1.it/users/giorgio_ausiello |website=Sapienza University of Rome |access-date=7 March 2026}}</ref>
+
+In 2012 he was appointed professor emeritus of Sapienza University of Rome.<ref name="AE"/>
+
+Throughout his research career Ausiello has worked in several areas of theoretical computer science, including algorithms and computational complexity, [[approximation algorithm]]s for [[NP-hard]] optimization problems, dynamic and [[online algorithm]]s, and algorithms for graphs and hypergraphs.<ref>{{cite web |title=Giorgio Ausiello - Academia Europaea |url=https://www.ae-info.org/ae/User/Ausiello_Giorgio |website=Academia Europaea |access-date=7 March 2026}}</ref>
+
+Ausiello was among the founders of the [[European Association for Theoretical Computer Science]] (EATCS) in 1972 and served as its president from 2006 to 2009.<ref>{{cite web |title=Past Presidents |url=https://eatcs.org/index.php/past-presidents |website=EATCS |access-date=7 March 2026}}</ref>
+
+In 2014 he was named a Fellow of EATCS.<ref>{{cite web |title=EATCS Fellows |url=https://eatcs.org/index.php/eatcs-fellows |website=EATCS |access-date=7 March 2026}}</ref>
+
+From 2001 to 2015 he served as editor-in-chief of ''[[Theoretical Computer Science (journal)|Theoretical Computer Science]]'' (Series A).<ref>{{cite web |title=Editorial board – Theoretical Computer Science |url=https://www.journals.elsevier.com/theoretical-computer-science/editorial-board |website=Elsevier |access-date=7 March 2026}}</ref>
+
+He was elected a member of [[Academia Europaea]] in 1996.<ref>{{cite web |title=Giorgio Ausiello - Academia Europaea |url=https://www.ae-info.org/ae/User/Ausiello_Giorgio |website=Academia Europaea |access-date=7 March 2026}}</ref>
+
+He received an honorary doctorate from [[Paris-Dauphine University]] in 2004.<ref>{{cite web |title=Docteurs Honoris Causa de l’Université Paris-Dauphine |url=http://www.birs.ca/~nassif/papers_download/NG_Doctorat.pdf |access-date=7 March 2026}}</ref>
+
+At the international level he served as the Italian national representative on the board of the EU IST research programmes (1988–1994 and 2006–2009) and as a member of the board of trustees of the [[International Computer Science Institute]] in Berkeley (1997–2001).<ref name="AE"/>
+
+In Italy he participated in several national research initiatives in computer science, including CNR projects on informatics, robotics and information systems.<ref>{{cite web |title=Il ruolo dell'informatica del CNR nella Società dell'Informazione |url=http://cctld.it/storia/denoth_01/cnr_01.htm |access-date=10 August 2015}}</ref>
+
+==Research contributions==
+
+Ausiello's research has focused on algorithms and computational complexity, particularly on approximation algorithms for [[NP-hard]] optimization problems, dynamic and [[online algorithm]]s, and algorithmic problems on graphs and hypergraphs.<ref name="AE"/>
+
+He is co-author of the book ''Complexity and Approximation: Combinatorial Optimization Problems and their Approximability Properties'' (1999), which became a standard reference in the study of approximation algorithms and the approximability of NP-hard problems.<ref>{{cite book |last1=Ausiello |first1=Giorgio |last2=Crescenzi |first2=Pierluigi |last3=Gambosi |first3=Giorgio |last4=Kann |first4=Viggo |last5=Marchetti-Spaccamela |first5=Alberto |last6=Protasi |first6=Marco |title=Complexity and Approximation: Combinatorial Optimization Problems and their Approximability Properties |publisher=Springer |year=1999}}</ref>
+
+==Books==
+
+* Ausiello, G. ''Complessità di calcolo delle funzioni''. Boringhieri, 1974.
+* Ausiello, G.; Marchetti-Spaccamela, A.; Protasi, M. ''Teoria e progetto di algoritmi fondamentali''. Franco Angeli, 1985.
+* Ausiello, G.; Crescenzi, P.; Gambosi, G.; Kann, V.; Marchetti-Spaccamela, A.; Protasi, M. ''Complexity and Approximation: Combinatorial Optimization Problems and their Approximability Properties''. Springer, 1999.
+* Ausiello, G.; Petreschi, R. ''The Power of Algorithms''. Springer, 2013.
+* Ausiello, G.; d'Amore, F.; Gambosi, G.; Laura, L. ''Linguaggi, Modelli, Complessità''. Franco Angeli, 2014.
+* Ausiello, G. ''The Making of a New Science. A personal journey through the early years of theoretical computer science''. Springer, 2018.
+* Ausiello, G. ''Algorithms, Monks and Merchants. Computing in Everyday Life in the Middle Ages''. World Scientific Pub., 2025
+
+==Selected publications==
+
+* {{cite journal
+ |last1=Ausiello
+ |first1=Giorgio
+ |last2=D'Atri
+ |first2=Alessandro
+ |last3=Saccà
+ |first3=Domenico
+ |title=Minimal representation of directed hypergraphs
+ |journal=SIAM Journal on Computing
+ |volume=15
+ |issue=2
+ |year=1986
+ |pages=418–431
+ |doi=10.1137/0215030
+}}
+
+* {{cite journal
+ |last1=Ausiello
+ |first1=Giorgio
+ |last2=D'Atri
+ |first2=Alessandro
+ |last3=Protasi
+ |first3=Marco
+ |title=Structure preserving reductions among convex optimization problems
+ |journal=Journal of Computer and System Sciences
+ |volume=21
+ |issue=1
+ |year=1980
+ |pages=136–153
+ |doi=10.1016/0022-0000(80)90022-4
+}}
+
+* {{cite journal
+ |last1=Ausiello
+ |first1=Giorgio
+ |last2=Feuerstein
+ |first2=Esther
+ |last3=Leonardi
+ |first3=Stefano
+ |last4=Stougie
+ |first4=Leen
+ |title=Algorithms for the on-line travelling salesman
+ |journal=Algorithmica
+ |volume=29
+ |issue=4
+ |year=2001
+ |pages=560–581
+ |doi=10.1007/s004530010084
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MathGenealogy |id=93690 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ausiello, Giorgio}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Italian computer scientists]]
+[[Category:Academic staff of the Sapienza University of Rome]]
+[[Category:People from Dogliani]]
+[[Category:Members of Academia Europaea]]
+[[Category:Sapienza University of Rome alumni]]

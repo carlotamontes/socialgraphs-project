@@ -1,0 +1,73 @@
+{{Short description|American physicist (1923-1997)}}
+{{Infobox scientist
+|name             = Joaquin Mazdak Luttinger
+|image            = Joaquin Mazdak Luttinger.jpg
+|image_size       = 160px
+|caption          = Joaquin Mazdak Luttinger
+|birth_date       = {{Birth date|1923|12|2|df=yes}}
+|birth_place      = [[New York City]], United States
+|death_date       = {{death date and age|df=yes|1997|4|6|1923|6|19}}
+|death_place      = New York City, US
+|education        = [[Massachusetts Institute of Technology]]
+|workplaces       = [[University of Michigan]], [[University of Pennsylvania]], [[Columbia University]]
+|field            = Physics of interacting particles
+|known_for        = [[Luttinger liquid]]<br>[[Luttinger's theorem]]<br>[[Luttinger parameter]]<br>[[Luttinger–Kohn model]]<br>[[Luttinger–Ward functional]]<br>[[Hall_effect#Anomalous_Hall_effect|Anomalous Hall effect]]<br>[[Kohn–Luttinger superconductivity]]
+|awards           = [[List of Guggenheim Fellowships awarded in 1974|Guggenheim Fellowship]] (1974)
+|footnotes        = 
+|notable_students = [[T. V. Ramakrishnan]]
+}}
+
+'''Joaquin (Quin) Mazdak Luttinger''' (December 2, 1923 &ndash; April 6, 1997) was an American physicist well known for his contributions to the theory of interacting electrons in one-dimensional metals<ref>The Luttinger model was introduced by Luttinger in 1963 (''J. Math. Phys.'', Vol. '''4''', 1154 (1963)). Luttinger's solution of this model was however incorrect. The correct solution was later provided by D. C. Mattis and [[Elliott H. Lieb|E. H. Lieb]] (''J. Math. Phys.'', Vol. '''6''', 304 (1965)). The error by Luttinger consists of solving the problem without imposing an appropriate cut-off on sums over momenta, whereby he erroneously mapped the interacting problem onto a non-interacting one. The Luttinger model is akin, but not identical, to an earlier model introduced by [[Sin-Itiro Tomonaga]] (''Progress of Theoretical Physics'', Vol. '''5''', No. 4, pp. 544-569 (1950)).</ref> (the electrons in these metals are said to be in a [[Luttinger liquid|Luttinger-liquid]] state) and the [[Fermi liquid|Fermi-liquid]] theory. He received his BS and PhD in physics from MIT in 1947.<ref>{{Cite web|url=https://history.aip.org/phn/21511001.html|title=Massachusetts Institute of Technology. Department of Physics|website=history.aip.org|access-date=2020-01-04}}</ref> His brother was the physical chemist [[Lionel Luttinger]] (1920–2009) and his nephew is the mathematician Karl Murad Luttinger (born 1961).
+
+==See also==
+* [[Negative mass]]
+* [[Schrieffer–Wolff transformation]]
+* [[Wiener sausage]]
+* [[Fermi liquid]]
+* [[Many-body problem]]
+* [[Anomalous magnetic moment]]
+* [[Effective mass (solid-state physics)|Effective mass theory]]
+* [[k·p perturbation theory]]
+
+==Notes==
+{{Reflist}}
+
+==Some publications==
+(Note: For a complete list, see [https://dx.doi.org/10.1023/A:1017372818875 J. Stat. Phys. '''103''', 641 (2001)].)
+* [[Walter Kohn|W. Kohn]], and J. M. Luttinger, ''Quantum Theory of Electrical Transport Phenomena'', Physical Review, Vol. '''108''', pp.&nbsp;590–611 (1957). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.590 APS]
+* W. Kohn, and J. M. Luttinger, ''Quantum Theory of Electrical Transport Phenomena. II'', Physical Review, Vol. '''109''', pp.&nbsp;1892–1909 (1958). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.109.1892 APS]
+* J. M. Luttinger, ''Theory of the Hall Effect in Ferromagnetic Substances'', Physical Review, Vol. '''112''', pp.&nbsp;739–751 (1958). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.112.739 APS]
+* W. Kohn, and J. M. Luttinger, ''Ground-State Energy of a Many-Fermion System'', Physical Review, Vol. '''118''', pp.&nbsp;41–45 (1960). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.118.41 APS]
+* J. M. Luttinger, and [[John Clive Ward|J. C. Ward]], ''Ground-State Energy of a Many-Fermion System. II'', Physical Review, Vol. '''118''', pp.&nbsp;1417–1427 (1960). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.118.1417 APS]
+* J. M. Luttinger, ''Fermi Surface and Some Simple Equilibrium Properties of a System of Interacting Fermions'', Physical Review, Vol. '''119''', pp.&nbsp;1153–1163 (1960). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.1153 APS]
+* J. M. Luttinger, ''Analytic Properties of Single-Particle Propagators for Many-Fermion Systems'', Physical Review, Vol. '''121''', pp.&nbsp;942–949 (1961). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.121.942 APS]
+* J. M. Luttinger, ''Theory of the de Hass-van Alphen Effect for a System of Interacting Fermions'', Physical Review, Vol. '''121''', pp.&nbsp;1251–1258 (1961). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.121.1251 APS]
+* J. M. Luttinger, ''Derivation of the Landau Theory of Fermi Liquids. I. Formal Properties'', Physical Review, Vol. '''127''', pp.&nbsp;1423–1431 (1962). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.127.1423 APS]
+* J. M. Luttinger, ''Derivation of the Landau Theory of Fermi Liquids. II. Equilibrium Properties and Transport Equation'', Physical Review, Vol. '''127''', pp.&nbsp;1431–1440 (1962). [https://journals.aps.org/pr/abstract/10.1103/PhysRev.127.1431 APS]
+* J. M. Luttinger, ''An exactly solvable model of a many-fermion system'', Journal of Mathematical Physics, Vol. '''4''', No. 9, pp.&nbsp;1154–1162 (1963). {{doi|10.1063/1.1704046}}
+* W. Kohn, and J. M. Luttinger, ''New Mechanism for Superconductivity'', Physical Review Letters, Vol. '''15''', No. 12, pp.&nbsp;524–526 (1965). [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.15.524 APS]
+* R. Friedberg, and J. M. Luttinger, ''Density of electronic energy levels in disordered systems'', Physical Review B, Vol. '''12''', pp.&nbsp;4460–4474 (1975). [https://journals.aps.org/prb/abstract/10.1103/PhysRevB.12.4460 APS]
+* J. M. Luttinger, ''Density of electronic energy levels in disordered systems. II'', Physical Review B, Vol. '''13''', pp.&nbsp;2596–2600 (1976). [https://journals.aps.org/prb/abstract/10.1103/PhysRevB.13.2596 APS]
+* R. Tao, and J. M. Luttinger, ''Exact evaluation of Green's functions for a class of one-dimensional disordered systems'', Physical Review B, Vol. '''27''', pp.&nbsp;935–944 (1983). [https://journals.aps.org/prb/abstract/10.1103/PhysRevB.27.935 APS]
+
+==Obituary==
+* [[Philip W. Anderson]], Richard M. Friedberg, and [[Walter Kohn]], ''Joaquin M. Luttinger'', Physics Today, December 1997, pp.&nbsp;89–90 ([http://physicstoday.scitation.org/doi/abs/10.1063/1.2806754 PDF]).<br /> '''Note:''' This obituary is reprinted with permission in ''Journal of Statistical Physics'', Vol. '''103''', Nos. 3/4, pp.&nbsp;413–415 (2001) ([https://dx.doi.org/10.1023/A:1017320711606 Link]).
+
+==External links==
+* Photograph of J.M. Luttinger: [http://www.columbia.edu/cu/record/archives/vol22/vol22_iss21/record2221.27c.gif].
+* Robert Nelson, ''Leading Physicist Joaquin Luttinger, 73'', April 18, 1997, [[Columbia University]], [[New York City|New York]],  [http://www.columbia.edu/cu/record/archives/vol22/vol22_iss21/record2221.32.html].
+* [https://www.nasonline.org/wp-content/uploads/2024/06/luttinger-joaquin.pdf Walter Kohn, "Joaquin M. Luttinger", Biographical Memoirs of the National Academy of Sciences (2014)]
+*[[David Clary| Clary, David C.]], [https://doi.org/10.1142/13806 Walter Kohn: From Kindertransport and Internment to DFT and the Nobel Prize], World Scientific Publishing (2024).
+
+<br />
+{{Authority control}}
+
+{{DEFAULTSORT:Luttinger, Joaquin Mazdak}}
+[[Category:1923 births]]
+[[Category:1997 deaths]]
+[[Category:MIT School of Science alumni]]
+[[Category:American theoretical physicists]]
+[[Category:University of Michigan faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Scientists from New York City]]
+[[Category:20th-century American physicists]]

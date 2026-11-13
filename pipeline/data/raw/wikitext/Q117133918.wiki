@@ -1,0 +1,54 @@
+{{Short description|South Korean physicist}}
+{{Infobox scientist
+| name              = Myungshik Kim
+| birth_date        = 1962
+| birth_place       = [[Seoul]], South Korea
+| fields            = [[Quantum optics]], [[Quantum information science]]
+| workplaces        = [[Imperial College London]]<br>[[Queen's University Belfast]]<br>[[Korea Institute for Advanced Study]]<br>[[Max Planck Institute of Quantum Optics]]<br>[[Sogang University]]
+| doctoral_advisor  = [[Peter Knight (physicist)|Peter Knight]]
+| known_for         = Theoretical quantum optics, quantum information processing
+| awards            = Wolfson Research Merit Award (Royal Society)<br>Ho-Am Prize in Science<br>Carl-Friedrich-von-Siemens Award
+}}
+
+'''Myungshik Kim''' (born 1962) is a South Korean physicist working in the fields of quantum optics and quantum information science. He is Professor of Theoretical Quantum Information Science at [[Imperial College London]].
+
+== Early life and education ==
+
+Kim was born in Seoul, South Korea. His father is [https://www.wsj.com/articles/SB878106278388226000 Sun-Hong Kim], who was the Chairman and CEO of Kia Motors. During his childhood he lived in the neighbourhood of his uncle, Won-ki Kim who was a prominent politician, having served as [[Speaker of the National Assembly (South Korea)|Speaker of the National Assembly]] in South Korea. He completed his undergraduate studies at [[Sogang University]]. He received his PhD in physics from [[Imperial College London]] in 1988 under the supervision of [[Peter Knight (physicist)|Peter Knight]].
+
+== Academic career ==
+
+Following his doctoral studies, Kim held postdoctoral positions at Imperial College London, where he worked with Peter Knight and [[Rodney Loudon]] on problems in fundamental quantum optics, including nonclassical properties of light and light–matter interactions.
+
+After returning to South Korea in 1989 for his compulsory military service, Kim joined the faculty of Sogang University. While in Korea, his research was rather dormant partly due to research isolation and his long-term interests in pursuing a different career path. During the sabbatical period in 1997–1998, he was a Humboldt Research Fellow at the [[Max Planck Institute of Quantum Optics]], where he revitalised his research and expanded it into quantum information processing.
+
+In 2000, Kim moved to the United Kingdom to take up an academic position at [[Queen's University Belfast]]. He later returned to his alma mater, where he has continued his research and teaching in theoretical quantum science. Since 2013, he has also served as a visiting professor in Quantum Information Science at the [[Korea Institute for Advanced Study]] (KIAS).
+
+== Research ==
+
+Kim’s research focuses on quantum optics and quantum information processing. He and Jinhyoung Lee, then his student, came up with an idea to use [[Negativity (quantum mechanics)|negativity of a partially transposed state as a measure of entanglement]] in 2000. He has contributed to the theoretical development of [[Cat state|quantum information protocols using coherent states]], including early proposals for [[Cat qubit quantum computer|coherent-state–based quantum computation]]. Together with his colleagues, he published early papers on machine learning for a quantum algorithm <ref>{{cite arXiv |last1=Bang |first1=Jeongho |title=Quantum Learning Machine |date=2008-03-31 |last2=Lim |first2=James |last3=Kim |first3=M. S. |last4=Lee |first4=Jinhyoung |class=quant-ph |eprint=0803.2976 }}</ref> and quantum neural networks.<ref>{{Cite journal |last1=Wan |first1=Kwok Ho |last2=Dahlsten |first2=Oscar |last3=Kristjánsson |first3=Hlér |last4=Gardner |first4=Robert |last5=Kim |first5=M. S. |date=2017-09-14 |title=Quantum generalisation of feedforward neural networks |url=https://www.nature.com/articles/s41534-017-0032-4 |journal=npj Quantum Information |language=en |volume=3 |issue=1 |pages=36 |doi=10.1038/s41534-017-0032-4  |doi-access=free|arxiv=1612.01045 |bibcode=2017npjQI...3...36W |issn=2056-6387}}</ref>
+
+His work spans several areas of quantum science, including quantum plasmonics and optomechanical approaches to probing fundamental physics. More recently, his research has addressed error management in quantum computing and quantum simulation methods aimed at practical implementations.
+
+== Awards and honours ==
+
+Kim has received several research awards and honours, including the [[Ho-Am Prize in Science|Wolfson Research Merit Award]] from the Royal Society in 2015, the [[Ho-Am Prize in Science|Ho-Am Prize]] in Science in 2016 and the [https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1013777/prof-dr-myung-shik-kim Carl-Friedrich-von-Siemens prize in 2022] by the Humboldt Foundation. In 2026, he was awarded the Joseph Thomson Medal and prize<ref>{{Cite web |title=2026 Joseph Thomson Medal and Prize: Professor Myungshik Kim {{!}} Institute of Physics |url=https://www.iop.org/about/awards/2026-joseph-thomson-medal-and-prize |access-date=2026-10-12 |website=www.iop.org |language=en}}</ref> by the Institute of Physics. He was elected to the [https://www.ria.ie/members/professor-myung-shik-kim/ membership of the Royal Irish Academy in 2009].
+
+== Selected publications ==
+
+* Jeong, H.; Kim, M. S. “Efficient quantum computation using coherent states.” ''Physical Review A'' '''65''', 042305 (2002).
+* Tame, M. S. ''et al.'' “Quantum plasmonics.” ''Nature Physics'' '''9''', 329–340 (2013).
+* Pikovski, I. ''et al.'' “Probing Planck-scale physics with quantum optics.” ''Nature Physics'' '''8''', 393–397 (2012).
+
+== References ==
+
+{{reflist}}
+
+{{DEFAULTSORT:Kim, Myungshik}}
+[[Category:Living people]]
+[[Category:1962 births]]
+[[Category:South Korean physicists]]
+[[Category:Quantum physicists]]
+[[Category:Alumni of Imperial College London]]
+[[Category:Academics of Imperial College London]]
+[[Category:Scientists from Seoul]]

@@ -1,0 +1,86 @@
+{{Short description|Japanese mathematician (1932–2022)}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox scientist
+| name = Huzihiro Araki
+| image = Araki_Volovich_Bogoliubov_Conference_2009_(cropped).jpg
+| birth_date = {{birth date|1932|07|28|df=y}}
+| death_date = {{death date and age|2022|12|16|1932|07|28|df=y}}
+| birth_place = [[Tokyo]], Japan
+| field = {{Unbulleted list|[[Physics]]|[[Mathematics]]}}
+| workplaces = [[University of Kyoto]]
+| education = {{Unbulleted list |[[University of Kyoto]]|[[Princeton University]]}}
+| awards =  [[Henri Poincaré Prize]] {{smaller|(2003){{nbsp|2}}}}
+| thesis_title = Hamiltonian Formalism and Canonical Commutation Relations in Quantum Field Theory
+| thesis_year = 1960
+| thesis_url = https://aip.scitation.org/doi/10.1063/1.1703685
+| doctoral_advisors = {{Unbulleted list|[[Rudolf Haag]]|[[Arthur Wightman]]}}
+}}
+
+{{Nihongo|'''Huzihiro Araki'''|荒木 不二洋|Araki Fujihiro|28 July 1932<ref>{{Cite book|title=Yomiuri Yearbook 2016 Edition|date=2016|page=391|publisher=Yomiuri Shimbun Tokyo Headquarters|language=ja}}</ref> – 16 December 2022<ref name="death">{{cite web |url=https://www.kurims.kyoto-u.ac.jp/en/notice2.html |website=[[Research Institute for Mathematical Sciences]] |title=The untimely passing of Professor Emeritus Araki Fujihiro |date=12 January 2023 |accessdate=13 January 2023}}</ref>}} was a Japanese [[mathematical physicist]] and [[mathematician]] who worked on the foundations of [[quantum field theory]], on [[quantum statistical mechanics]], and on the theory of [[operator algebra]]s.<ref>{{cite web|title=Henri Poincaré Prize citation|website=International Association of Mathematical Physics|url=http://www.iamp.org/poincare/ha03-cit.html|access-date=21 February 2021}}</ref>
+
+== Biography ==
+Araki is the son of the [[University of Kyoto]] physics professor Gentarō Araki, with whom he studied and with whom in 1954 he published his first physics paper. He earned his diploma under [[Hideki Yukawa]] and in 1960 he attained his doctorate at [[Princeton University]] with thesis advisors [[Rudolf Haag]] and [[Arthur Wightman]].<ref>The thesis is {{cite thesis|last=Araki|first=Huzihiro|date=1960|title=Hamiltonian formalism and the canonical commutation relations in quantum field theory|journal=Journal of Mathematical Physics|volume=1|number=6|pages=492–504}}</ref> He was a professor at the [[University of Kyoto]] starting in 1966, and became the director of the Research Institute for Mathematical Sciences (RIMS).
+
+Araki died on 16 December 2022.<ref name="death"/>
+
+==Research==
+Araki worked on [[axiomatic quantum field theory]], [[statistical mechanics]], and in particular on applications of [[operator algebra]]s like [[von Neumann algebra]]s and [[C*-algebra]]s. At the beginning of the 1960s, in Princeton, he made important contributions to [[local quantum physics]] and to the [[scattering theory|scattering theories]] of Haag and [[David Ruelle]]. He also supplied important contributions in the mathematical theory of operator algebras, classifying the type-III factors of von Neumann algebras.<ref>{{Cite journal|last1=Araki|first1=Huzihiro|last2=Woods|first2=E. J.|title=A classification of factors|journal=Publications of the Research Institute for Mathematical Sciences, Kyoto University. Ser. A|volume=4|number=1|pages=51–130|year=1968|doi=10.2977/prims/1195195263|doi-access=free}}</ref> Araki originated the concept of relative entropy of states of von Neumann algebras. In the 1970s he showed the equivalence in [[quantum thermodynamics]] of, on the one hand, the [[KMS state|KMS condition]] (named after [[Ryogo Kubo]], Paul C. Martin, and [[Julian Schwinger]]) for the characterization of quantum mechanical states in [[thermodynamic equilibrium]] with, on the other hand, the [[variational principle]] for quantum mechanical spin systems on lattices.<ref>{{Cite journal|last=Araki|first=Huzihiro|title=On the equivalence of the KMS condition and the variational principle for quantum lattice systems|journal=Communications in Mathematical Physics|volume=38|pages=1–10|year=1974|issue=1|doi=10.1007/BF01651545|bibcode=1974CMaPh..38....1A|s2cid=73547157|url=https://projecteuclid.org/euclid.cmp/1103859514}} {{Cite journal|last1=Araki|first1=Huzihiro|last2=Sewell|first2=Geoffrey L.|title=KMS Conditions and Local Thermodynamical Stability of Quantum Lattice Systems|journal=Communications in Mathematical Physics|volume=52|pages=103–109|year=1977|issue=2|doi=10.1007/BF01625778|bibcode=1977CMaPh..52..103A|s2cid=120544596|url=https://projecteuclid.org/euclid.cmp/1103900491}}</ref> With Yanase he worked on the foundations of [[quantum mechanics]], i.e. the [[Wigner-Araki-Yanase theorem]], which describes restrictions that [[conservation law]]s impose upon the physical measuring process.<ref>{{Cite journal|last1=Araki|first1=Huzihiro|last2=Yanase|first2=Mutsuo M.|title=Measurement of Quantum Mechanical Operators|journal=Physical Review|volume=120|pages=622–626|year=1960|issue=2|doi=10.1103/PhysRev.120.622|bibcode=1960PhRv..120..622A}}</ref> Stated in more precise terms, they proved that an exact measurement of an operator, which additively replaces the operator with a conserved size, is impossible. However, Yanase did prove that the uncertainty of the measurement can be made arbitrarily small, provided that the measuring apparatus is sufficiently large.<ref>{{Cite journal|last=Yanase|first=Mutsuo M.|title=Optimal measuring apparatus|journal=Physical Review|volume=123|page=666|year=1961|issue=2|doi=10.1103/PhysRev.123.666|bibcode=1961PhRv..123..666Y}}</ref>
+
+== Honors and awards ==
+Huzihiro Araki was an invited speaker at the [[International Congress of Mathematicians]] in 1970 in [[Nice]] and in 1978 in [[Helsinki]].<ref>{{cite web|title=ICM Plenary and Invited Speakers|website=mathunion.org|url=https://www.mathunion.org/icm-plenary-and-invited-speakers?combine=araki|access-date=20 February 2021}}</ref> He was the second president of the [[International Association of Mathematical Physics]], during the period 1979–1981.<ref>{{cite web|url=http://www.iamp.org/page.php?page=page_about|title=About the IAMP - Past presidents|website=International Association of Mathematical Physics|access-date=20 February 2021}}</ref> In 2003 he received, together with [[Oded Schramm]] and [[Elliott Lieb]], the [[Henri Poincaré Prize]].<ref>{{cite web|url=http://www.iamp.org/page.php?page=page_prize_poincare|title=The Henri Poincaré Prize|publisher=International Association of Mathematical Physics|access-date=20 February 2021}}</ref> In 1990 he was the chief organizer of the [[International Congress of Mathematicians]] in Kyoto. He was editor of the scientific journal ''[[Communications in Mathematical Physics]]''<ref>{{Cite book|last=Zambrini|first=Jean-claude|date=2006|chapter=Laudatio for Huzihiro Araki|title=XIVth International Congress on Mathematical Physics|publisher=World Scientific}}</ref> and founder of ''[[Reviews in Mathematical Physics]]''.<ref>{{cite web|url=https://www.worldscientific.com/page/rmp/editorial-board|title=Editorial Board - Founding editor|website=World Scientific|access-date=20 February 2021}}</ref> In 2012 he became a fellow of the [[American Mathematical Society]].<ref>{{cite web|url=https://www.ams.org/cgi-bin/fellows/fellows.cgi|title=List of Fellows of the American Mathematical Society|website=American Mathematical Society|access-date=19 February 2021}} {{cite journal|last=Jackson|first=Allyn|title=Fellows of the AMS: Inaugural Class|journal=Notices of the AMS|volume=60|number=5|year=2013|pages=631–637|url=https://www.ams.org/profession/ams-fellows/rnoti-p631.pdf}}</ref>
+
+== Selected works ==
+{{div col|colwidth=35em}}
+* {{cite book|last=Araki|first=Huzihiro|date=1999|title=Mathematical theory of quantum fields|volume=101|publisher=Oxford University Press on Demand|isbn=978-0199566402}}
+* {{cite journal|last1=Araki|first1=Huzihiro|last2=Lieb|first2=Elliott H.|title=Entropy inequalities|journal=Communications in Mathematical Physics|volume=18|pages=160–170|year=1970|issue=2|doi=10.1007/BF01646092|bibcode=1970CMaPh..18..160A|s2cid=189832417|url=https://projecteuclid.org/euclid.cmp/1103842506}}
+* {{cite journal|last1=Araki|first1=Huzihiro|last2=Woods|first2=E. J.|title=Representations of the canonical commutation relations describing a nonrelativistic infinite free Bose gas|journal=Journal of Mathematical Physics|volume=4|number=5|pages=637–662|year=1963|doi=10.1063/1.1704002|bibcode=1963JMP.....4..637A}}
+* {{cite journal|last1=Araki|first1=Huzihiro|last2=Woods|first2=E. J.|title=A classification of factors|journal=Publications of the Research Institute for Mathematical Sciences, Kyoto University. Ser. A|volume=4|number=1|pages=51–130|year=1968|doi=10.2977/prims/1195195263|doi-access=free}}
+* {{cite journal|last=Araki|first=Huzihiro|title=Relative Entropy of States of Von Neumann Algebras|journal=Publications of the Research Institute for Mathematical Sciences|pages=809–833|year=1976}}
+* {{cite journal|last1=Araki|first1=Huzihiro|last2=Yanase|first2=Mutsuo M.|title=Measurement of Quantum Mechanical Operators|journal=Physical Review|volume=120|pages=622–626|year=1960|issue=2|doi=10.1103/PhysRev.120.622|bibcode=1960PhRv..120..622A}}
+* {{cite journal|last1=Araki|first1=Huzihiro|last2=Hepp|first2=Klaus|last3=Ruelle|first3=David|title=On the asymptotic behaviour of Wightman functions in space-like directions|journal=Helvetica Physica Acta|volume=35|number=3|pages=164–174|year=1962|doi=10.5169/seals-113273}}
+* {{cite journal|last=Araki|first=Huzihiro|title=On the equivalence of the KMS condition and the variational principle for quantum lattice systems|journal=Communications in Mathematical Physics|volume=38|pages=1–10|year=1974|issue=1|doi=10.1007/BF01651545|bibcode=1974CMaPh..38....1A|s2cid=73547157|url=https://projecteuclid.org/euclid.cmp/1103859514}}
+{{div col end}}
+
+== See also ==
+{{Portal|Mathematics|Physics|Biography}}
+{{cols|colwidth=21em}}
+* [[Araki–Sucher correction]]
+* [[Algebraic quantum field theory]]
+* [[C*-algebra]]
+* [[KMS state]]
+* [[Local quantum physics]]
+* [[Quantum field theory]]
+* [[Quantum thermodynamics]]
+* [[Von Neumann algebra]]
+{{colend}}
+
+== References ==
+<references/>
+
+== Further reading ==
+* {{Cite journal|last=Leong|first=Y. K.|title = Interview with Huzihiro Araki: Mathematics and Physics, A Tale of Two Cultures|journal=Asia Pacific Mathematics Newsletter|volume=4|number=2|pages=12–18|date=April 2014|url=https://www.asiapacific-mathnews.com/04/0402/0012_0018.pdf}}
+* {{Cite journal|last=Valentin|first=Zagrebnov|title = Professor Huzihiro Araki about the IAMP|journal=IAMP News Bulletin|pages=10–13|date=April 2010|url=http://www.iamp.org/bulletins/old-bulletins/201004.pdf}}
+* {{Cite journal|last1=Connes|first1=Alain|author-link=Alain Connes|last2=Flato|first2=Moshé|last3=Hironaka|first3=Heisuke|author-link3=Heisuke Hironaka|last4=Jaffe|first4=Arthur|last5=Jones|first5=Vaughan|title = Editorial (dedication of this issue to Huzihiro Araki)|journal=Communications in Mathematical Physics|volume=155|pages=1–2|year=1993|issue=1|doi=10.1007/BF02100046|url=https://projecteuclid.org/euclid.cmp/1104253196}}
+* {{cite web|url=http://www.iamp.org/poincare/ha03-laud.pdf|title=Longo's Laudatio for Araki's Poincare Prize|website=International Association of Mathematical Physics|access-date=20 February 2021}}
+
+== External links ==
+* {{mathgenealogy|35147}}
+* {{DNB-Portal|134152417}}.
+* {{zbMATH|id=huzihiro.araki}}.
+* {{cite web|url=https://www.math.mcgill.ca/~jaksic/video.html|title=Araki's Lecture: Interaction between the modular theory of operator algebras and statistical physics - past, present (and future)|website=math.mcgill.ca|access-date=26 February 2021}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Araki, Huzihiro}}
+[[Category:20th-century Japanese physicists]]
+[[Category:20th-century Japanese mathematicians]]
+[[Category:21st-century Japanese mathematicians]]
+[[Category:1932 births]]
+[[Category:2022 deaths]]
+[[Category:Kyoto University alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Academic staff of Kyoto University]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Japanese mathematical physicists]]
+[[Category:Presidents of the International Association of Mathematical Physics]]
+[[Category:Scientists from Tokyo Metropolis]]

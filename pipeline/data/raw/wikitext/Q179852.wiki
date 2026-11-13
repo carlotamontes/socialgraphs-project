@@ -1,0 +1,240 @@
+{{Short description|Japanese physicist (born 1925)}}
+{{Use mdy dates|date=April 2024}}
+{{Infobox scientist
+| name             = Leo Esaki
+| native_name      = 江崎 玲於奈
+| native_name_lang = ja
+| image            = Esaki leo Gakushiin.jpg
+| caption          = Esaki in 2020
+| birth_date       = {{Birth date and age|1925|03|12}}
+| birth_place      = [[Osaka]], Japan
+| death_date       = <!--{{Death date and age | YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date)-->
+| death_place      = 
+| education        =
+{{Collapsible list|bullets=on|title={{nobold|[[University of Tokyo]]}}
+ |[[Bachelor of Science|B.S.]], Physics
+ |[[Doctor of Philosophy|Ph.D.]], Physics
+}}
+| known_for        = {{Indented plainlist|
+* [[Quantum tunnelling|Tunneling]] in [[semiconductor]]s
+* [[Tunnel diode]]
+* [[Superlattice]]s
+* [[Quantum well]]s}}
+| children         = Anna Esaki
+| relatives        = [[Craig S. Smith]] (son-in-law)
+| awards           = {{Plainlist|
+* [[Nishina Memorial Prize]] (1959)
+* [[Morris Liebmann Memorial Prize]] (1961)
+* [[Stuart Ballantine Medal]] (1961)
+* [[Nobel Prize in Physics]] (1973)
+* [[International Prize for New Materials]] (1985)
+* [[Harold Pender Award]] (1989)
+* [[IEEE Medal of Honor]] (1991)
+* [[Japan Prize]] (1998)}}
+| fields           = [[Physics]]
+| workplaces       = {{Indented plainlist|
+* [[Sony|Tokyo Tsushin Kogyo]]
+* [[Thomas J. Watson Research Center]]}}
+| thesis_title     = {{No italic|薄いp-n接合における新現象}}
+| thesis_url       = http://id.ndl.go.jp/bib/000010366588
+| thesis_year      = 1959
+}}
+
+{{Nihongo|'''Leo Esaki'''|江崎 玲於奈|Esaki Reona|born March 12, 1925}} is a Japanese [[physicist]] who shared the 1973 [[Nobel Prize in Physics]] with [[Ivar Giaever]] and [[Brian Josephson]] for his work on [[Quantum tunnelling|tunneling]] in [[semiconductor]]s,<ref name="Nobel Prize">{{Cite web|title=Nobel Prize in Physics 1973|url=https://www.nobelprize.org/prizes/physics/1973/summary/|url-status=live|publisher=NobelPrize.org|archive-url=https://web.archive.org/web/20110621141041/http://nobelprize.org/nobel_prizes/physics/laureates/1973/index.html |archive-date=2011-06-21|access-date=2008-10-09}}</ref> which led to his invention of the [[tunnel diode]] that exploits this phenomenon. His research was done when he was with [[Sony]]. He has also contributed in being a pioneer of semiconductor [[superlattice]]s.
+
+Since the death of [[Yoichiro Nambu]] in 2015, Esaki is the oldest living [[Japanese Nobel laureate]].
+
+== Biography ==
+Leo Esaki was born on March 12, 1925, in [[Osaka]], Japan. Esaki studied physics at the [[University of Tokyo]], where he received a [[Bachelor of Science]] in 1947 and a [[Doctor of Philosophy]] in 1959.<ref>{{Cite web|title=Leo Esaki – Biographical |url=https://www.nobelprize.org/prizes/physics/1973/esaki/biographical/|url-status=live |publisher=NobelPrize.org|archive-url= https://web.archive.org/web/20250212020111/https://www.nobelprize.org/prizes/physics/1973/esaki/biographical/|archive-date=2025-02-12|access-date=2025-08-16}}</ref> In 1947, he joined the Kobe Kogyo Corporation, before becoming chief physicist at Tokyo Tsushin Kogyo (now [[Sony]]) in 1956.<ref>{{Cite encyclopedia|title=Leo Esaki |url=https://www.britannica.com/biography/Leo-Esaki|url-status=live|encyclopedia=Encyclopædia Britannica|archive-url= https://web.archive.org/web/20251124040542/https://www.britannica.com/biography/Leo-Esaki|archive-date=2025-11-24|access-date=2025-08-16}}</ref>
+
+In 1960, Esaki moved to the United States to join [[IBM]]'s [[Thomas J. Watson Research Center]], where he was appointed an [[IBM Fellow]] in 1967. In 1992, he returned to Japan, where he subsequently served as President of the [[University of Tsukuba]] until 1998.<ref>{{Cite web|title=Prof. Dr. Leo Esaki – CV|url=https://mediatheque.lindau-nobel.org/laureates/esaki/cv|url-status=live|publisher=Lindau Mediatheque|archive-url=https://web.archive.org/web/20260123135844/https://mediatheque.lindau-nobel.org/laureates/esaki/cv|archive-date=2026-01-23|access-date=2026-06-11}}</ref>
+
+== Research ==
+=== Tunneling ===
+In 1957, Esaki recognized that when the [[p–n junction]] width of [[germanium]] is thinned, the [[current–voltage characteristic]] is dominated by the influence of the [[Quantum tunnelling|tunnel effect]]. As a result, he discovered that as the voltage is increased, the current decreases inversely, indicating [[negative resistance]].<ref>{{Cite journal|last=Esaki|first=Leo|year=1958|title=New Phenomenon in Narrow Germanium p-n Junctions|url=https://journals.aps.org/pr/abstract/10.1103/PhysRev.109.603|url-access=subscription|journal=[[Physical Review]]|volume=109|issue=2|pages=603–604|bibcode=1958PhRv..109..603E|doi=10.1103/PhysRev.109.603}}</ref> This discovery was the first demonstration of solid tunneling effects in physics, and it was the birth of the first [[Quantum electronics|quantum electronic]] device, the [[tunnel diode]].
+
+=== Superlattices ===
+In 1969, Esaki predicted that semiconductor [[superlattices]] will be formed to induce a differential negative-resistance effect via an artificially one-dimensional periodic structural changes in semiconductor crystals.<ref>{{Cite journal|last1=Esaki|first1=L.|last2=Tsu|first2=R.|author-link2=Raphael Tsu|year=1970|title=Superlattice and Negative Differential Conductivity in Semiconductors|url=https://ieeexplore.ieee.org/document/5391729|url-access=subscription|journal=[[IBM Journal of Research and Development]]|volume=14|issue=1|pages=61–65|doi=10.1147/rd.141.0061}}</ref> His unique "[[molecular-beam epitaxy]]" thin-film crystal growth method can be regulated quite precisely in ultrahigh vacuum. A 1987 comment by Esaki regarding the original paper notes:
+<blockquote>
+"The original version of the paper was rejected for publication by ''[[Physical Review]]'' on the referee's unimaginative assertion that it was 'too speculative' and involved 'no new physics.' However, this proposal was quickly accepted by the Army Research Office..."<ref>"This Weeks's Citation Classic", ''[[Current Contents]]'' No 28, July 13, 1987.</ref>
+</blockquote>
+
+In 1972, Esaki realized his concept of superlattices in III-V group semiconductors. Later, this concept influenced many fields like metals and magnetic materials.
+
+== Family ==
+Esaki's daughter, Anna Esaki, is married to [[Craig S. Smith]], former [[Shanghai]] bureau chief of ''[[The New York Times]]'' and [[China]] bureau chief of ''[[The Wall Street Journal]]''.<ref>{{Cite news|title=Anna Esaki Wed To Craig S. Smith|date=1990-01-14|url=https://www.nytimes.com/1990/01/14/style/anna-esaki-wed-to-craig-s-smith.html|url-access=subscription|newspaper=[[The New York Times]]|access-date=2021-08-19}}</ref>
+
+== Esaki's "five don'ts" rules ==
+At the 1994 [[Lindau Nobel Laureate Meetings]], Esaki suggested a list of "five don'ts" which anyone in realizing their creative potential should follow. Two months later,  the chairman of the Nobel Committee for Physics [[Carl Nordling]] incorporated the rules in his own speech.<ref>{{cite journal|doi=10.1088/0031-8949/1995/T59/001|bibcode=1995PhST...59...21N|url=https://web.stanford.edu/~rotundu/documents/how_to_get_it.pdf|title=How to get the Nobel Prize in physics|year=1995|last1=Nordling|first1=Carl|journal=Physica Scripta|volume=59|pages=21–25|s2cid=250817314 }}</ref>
+#Don't allow yourself to be trapped by your past experiences.
+#Don't allow yourself to become overly attached to any one authority in your field – the great professor, perhaps.
+#Don't hold on to what you don't need.
+#Don't avoid confrontation.
+#Don't forget your spirit of childhood curiosity.
+
+== Recognition ==
+=== Awards ===
+{| class="wikitable"
+! Year
+! Organization
+! Award
+! Citation
+! {{Reference column heading}}
+|-
+| 1959
+| Nishina Memorial Foundation
+| [[Nishina Memorial Prize]]
+| "[For the] invention of the Esaki diode."
+| <ref>{{Cite web|title=Nishina Memorial Prize|url=https://www.nishina-mf.or.jp/project_en/kinen_en/|url-status=live|publisher=Nishina Memorial Foundation|archive-url=https://web.archive.org/web/20250614013645/https://www.nishina-mf.or.jp/project_en/kinen_en/|archive-date=2025-06-14|access-date=2021-04-20}}</ref>
+|-
+| 1961
+| [[Institute of Radio Engineers]]
+| [[Morris Liebmann Memorial Prize]]
+| "For important contributions to the theory and technology of solid state devices, particularly as embodied in the tunnel diode."
+| <ref>{{Cite web|title=IEEE Morris N. Liebmann Memorial Award Recipients|url=http://www.ieee.org/documents/liebmann_rl.pdf|url-status=dead|publisher=Institute of Electrical and Electronics Engineers|archive-url=https://web.archive.org/web/20160303211541/http://www.ieee.org/documents/liebmann_rl.pdf|archive-date=2016-03-03|access-date=2011-02-27}}</ref>
+|-
+| 1961
+| [[Franklin Institute]]
+| [[Stuart Ballantine Medal]]
+| "For the development of the tunnel diode and the discovery and utilization of quantum-mechanical tunneling in semiconductors."
+| <ref>{{Cite web|title=Leo Esaki|url=https://fi.edu/en/awards/laureates/leo-esaki|url-status=live|publisher=Franklin Institute|archive-url=https://web.archive.org/web/20240817044441/https://fi.edu/en/awards/laureates/leo-esaki|archive-date=2024-08-17|access-date=2025-10-27}}</ref>
+|-
+| 1973
+| [[Royal Swedish Academy of Sciences]]
+| [[Nobel Prize in Physics]]
+| "For their [Esaki and [[Ivar Giaever]]] experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively."
+| <ref name="Nobel Prize"/>
+|-
+| 1985
+| [[American Physical Society]]
+| [[International Prize for New Materials]]
+| "For his conception of artificial semiconductor superlattices and his recognition that such structures have realizable and would have novel electronic properties. His sustained experimental and theoretical efforts have helped lead the way to versatile new materials and technologies."
+| <ref>{{Cite web|title=James C. McGroddy Prize for New Materials |url=http://www.aps.org/programs/honors/prizes/mcgroddy.cfm|publisher=American Physical Society|access-date=2023-10-08}}</ref>
+|-
+| 1989
+| [[University of Pennsylvania]]
+| [[Harold Pender Award]]
+| align=center | —
+| <ref>{{Cite web|title=The Harold Pender Award Lecture |url=https://events.engineering.upenn.edu/distinguished-lectures/pender-lecture/|url-status=live|publisher=University of Pennsylvania|archive-url=https://web.archive.org/web/20250815005242/https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/|archive-date=2025-08-15|access-date=2024-09-19}}</ref>
+|-
+| 1991
+| [[Institute of Electrical and Electronics Engineers]]
+| [[IEEE Medal of Honor]]
+| "For contributions to and leadership in tunneling, semiconductor superlattices, and quantum wells."
+| <ref>{{Cite web|title=Leo Esaki|url=https://corporate-awards.ieee.org/recipient/leo-esaki/|url-status=live|publisher=Institute of Electrical and Electronics Engineers|archive-url=https://web.archive.org/web/20230926124133/https://corporate-awards.ieee.org/recipient/leo-esaki/|archive-date=2023-09-26|access-date=2024-05-13}}</ref>
+|-
+| 1998
+| Japan Prize Foundation
+| [[Japan Prize]]
+| "For the creation and realization of the concept of man-made superlattice crystals which lead to generation of new materials with useful applications."
+| <ref name=jp>{{Cite web|title=The 1998 Japan Prize|url=http://www.japanprize.jp/en/prize_prof_1998_esaki.html|url-status=live|publisher=Japan Prize Foundation|archive-url=https://web.archive.org/web/20250827140325/https://www.japanprize.jp/en/prize_prof_1998_esaki.html|archive-date=2025-08-27}}</ref>
+|}
+
+=== Memberships ===
+{| class="wikitable"
+! Year
+! Organization
+! Type
+! {{Reference column heading}}
+|-
+| 1960
+| American Physical Society
+| Fellow
+| <ref>{{Cite web|title=APS Fellows archive|url=https://www.aps.org/funding-recognition/aps-fellowship?q=Leo%20Esaki&af=true|publisher=American Physical Society|access-date=2025-07-30}}</ref>
+|-
+| 1974
+| [[American Academy of Arts and Sciences]]
+| Member
+| <ref>{{Cite web|title=Leo Esaki|url=https://www.amacad.org/person/leo-esaki|url-status=live|publisher=American Academy of Arts and Sciences|archive-url=https://web.archive.org/web/20260810193137/https://www.amacad.org/person/leo-esaki|archive-date=2026-08-10|access-date=2026-09-27}}</ref>
+|-
+| 1975
+| [[Japan Academy]]
+| Member
+| <ref>{{Cite web|title=Personal Information - ESAKI Leo|url=https://www.japan-acad.go.jp/en/members/4/esaki_leo.html|url-status=live|publisher=Japan Academy|archive-url=https://web.archive.org/web/20220725101227/https://www.japan-acad.go.jp/en/members/4/esaki_leo.html|archive-date=2022-07-25|access-date=2026-02-02}}</ref>
+|-
+| 1976
+| [[National Academy of Sciences]]
+| International Member
+| <ref>{{Cite web|title=Leo Esaki|url=https://www.nasonline.org/directory-entry/leo-esaki-axpoif/|url-status=live|publisher=National Academy of Sciences|archive-url=https://web.archive.org/web/20250813104325/https://www.nasonline.org/directory-entry/leo-esaki-axpoif/|archive-date=2025-08-13|access-date=2025-10-27}}</ref>
+|-
+| 1977
+| [[National Academy of Engineering]]
+| International Member
+| <ref>{{Cite web|title=Dr. Leo Esaki|url=https://www.nae.edu/28169/Dr-Leo-Esaki|publisher=National Academy of Engineering|access-date=2025-10-27}}</ref>
+|-
+| 1991
+| [[American Philosophical Society]]
+| Member
+| <ref>{{Cite web|title=APS Member History |url=https://search.amphilsoc.org/memhist/search?creator=Leo+Esaki&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|publisher=American Philosophical Society|access-date=2025-11-01}}</ref>
+|}
+
+=== Honorary degrees ===
+{| class="wikitable"
+! Year
+! University
+! Degree
+! {{Reference column heading}}
+|-
+| 2001
+| [[Hong Kong University of Science and Technology]]
+| [[Doctor of Science]]
+| <ref>{{Cite web|title=Honorary Doctorates|url=https://ccss.hkust.edu.hk/honorary-doctorates|publisher=Hong Kong University of Science and Technology|access-date=2025-11-01}}</ref>
+|}
+
+== Commemoration ==
+In recognition of three Nobel laureates' contributions, the bronze statues of [[Shin'ichirō Tomonaga]], Leo Esaki, and [[Makoto Kobayashi (physicist)|Makoto Kobayashi]] were set up in the Central Park of Azuma 2 in [[Tsukuba]] in 2015.<ref>{{Cite web|url=http://mainichi.jp/feature/news/m20150316ddlk08040111000c.html|archive-url=https://web.archive.org/web/20150424074404/http://mainichi.jp/feature/news/m20150316ddlk08040111000c.html|url-status=dead|title=ノーベル賞:江崎、小林、朝永氏の銅像やレリーフ設置 完成記念式でお披露目 「子どもが夢を」−−つくば・中央公園 ／茨城 - 毎日新聞|archive-date=April 24, 2015|access-date=August 9, 2019}}</ref>
+
+== See also ==
+* [[Resonant-tunneling diode]]
+* [[List of Japanese Nobel laureates]]
+* [[List of Nobel laureates affiliated with the University of Tokyo]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+*Large scale integrated circuits technology: state of the art and prospects, ''proceedings of the NATO Advanced Study Institute on "Large Scale Integrated Circuits Technology: State of the Art and Prospects," Erice, Italy, July 15–27, 1981 ''/ edited by Leo Esaki and Giovanni Soncini (1982)
+*''Highlights in condensed matter physics and future prospects'' / edited by Leo Esaki (1991)
+
+== External links ==
+{{Commons category-inline}}
+* {{Nobelprize}} including the Nobel Lecture, December 12, 1973 ''Long Journey into Tunnelling''
+* [https://web.archive.org/web/20050117192748/http://www-03.ibm.com/ibm/history/history/year_1973.html IBM record]
+* IEEE History Center – Leo Esaki. Retrieved July 19, 2011 from [http://www.ieeeghn.org/wiki/index.php/Leo_Esaki Leo Esaki - Engineering and Technology History Wiki]
+* Sony History – The Esaki Diode.  Retrieved August 5, 2003 from [https://web.archive.org/web/20030804052243/http://www.sony.net/Fun/SH/1-7/h5.html Sony Global | Sony History]
+*[http://www.vega.org.uk/video/programme/28 Freeview video 'An Interview with Leo Esaki' by the Vega Science Trust]
+
+{{IEEE Medal of Honor 1976-2000}}
+{{Japan Prize}}
+{{Nobel Prize in Physics Laureates 1951-1975}}
+{{1973 Nobel Prize winners}}
+{{Japanese Nobel laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Esaki, Leo}}
+[[Category:1925 births]]
+[[Category:Living people]]
+[[Category:International members of the National Academy of Sciences]]
+[[Category:Foreign members of the Russian Academy of Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:IBM Fellows]]
+[[Category:IEEE Medal of Honor recipients]]
+[[Category:Japanese Nobel laureates]]
+[[Category:20th-century Japanese physicists]]
+[[Category:Japanese nanotechnologists]]
+[[Category:20th-century Japanese inventors]]
+[[Category:Academic staff of Kwansei Gakuin University]]
+[[Category:Academic staff of Kyoto University]]
+[[Category:Nobel laureates in Physics]]
+[[Category:People from Higashiōsaka]]
+[[Category:Scientists from Osaka Prefecture]]
+[[Category:Semiconductor physicists]]
+[[Category:Recipients of the Order of Culture]]
+[[Category:Grand Cordons of the Order of the Rising Sun]]
+[[Category:Academic staff of the University of Tsukuba]]
+[[Category:International members of the National Academy of Engineering]]
+[[Category:Recipients of the Nishina Memorial Prize]]
+[[Category:University of Tokyo alumni]]
+[[Category:International members of the American Philosophical Society]]
+[[Category:Japanese men centenarians]]

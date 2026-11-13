@@ -1,0 +1,79 @@
+{{Short description|Croatian physicist}}
+{{Infobox scientist
+ |name = Predrag Cvitanović
+ |image = Predragatwork.jpg
+ |caption = Predrag Cvitanović
+ |birth_date = {{b-da|April 1, 1946}}
+ |birth_place = [[Zagreb]], [[SR Croatia]]
+ |death_date =
+ |death_place =
+ |nationality = 
+ |field = [[Physicist]]
+ |workplaces = [[Georgia Institute of Technology]]
+ |doctoral_advisor = 
+ |known_for = [[Nonlinear Dynamics]] Theory
+ |awards = [[Humboldt Prize]] (2009)
+ |religion =
+ |footnotes =
+}}
+
+'''Predrag Cvitanović''' ({{IPA|sh|tsʋitǎːnoʋitɕ, - tsʋǐta-|pron}}; born April 1, 1946) is a theoretical physicist regarded for his work in [[chaos theory|nonlinear dynamics]], particularly his contributions to [[Quantum chaos#Periodic orbit theory|periodic orbit theory]].
+
+==Life==
+Cvitanović earned his B.S. from [[MIT]] in 1969 and his Ph.D. at [[Cornell University]] in 1973.  Before joining the physics department at the [[Georgia Institute of Technology]] he was the director of the Center for Chaos and Turbulence Studies of the [[Niels Bohr Institute]] in Copenhagen.
+
+Cvitanović is a member of the [[Royal Danish Academy of Sciences and Letters]], a corresponding member of [[Croatian Academy of Sciences and Arts]], a recipient of the Research Prize of the Danish Physical Society, and a fellow of the American Physical Society.<ref name="Academies"/>
+
+In 2009 Cvitanović was the recipient of the prestigious Alexander von [[Humboldt Prize]] for his work in turbulence theory.<ref name="Humboldt"/>
+
+He currently holds the [[Glen P. Robinson]] Chair in Non-Linear Science at the [[Georgia Institute of Technology]].<ref name="Academies"/>
+
+==Scientific work==
+Perhaps his best-known work is his introduction of cycle expansions&mdash; that is, expansions based on using periodic orbit theory—to approximate chaotic dynamics in a controlled [[Perturbation theory|perturbative]] way. This technique has proven to be widely useful for diagnosing and quantifying chaotic dynamics in problems ranging from atomic physics to neurophysiology.<ref name="Humboldt"/><ref>{{cite journal | author=P. Cvitanovć | title=Invariant measurement of strange sets in terms of cycles | journal=Phys. Rev. Lett. | year=1988 | volume=61 | issue=24 | pages=2729–2732 | bibcode=1988PhRvL..61.2729C | doi=10.1103/PhysRevLett.61.2729 | pmid=10039207 }}</ref><ref>{{cite journal | author=P. Cvitanovć | author2=B. Eckhardt | title=Periodic orbit quantization of chaotic systems | journal=Phys. Rev. Lett. | year=1989 | volume=63 | issue=8 | pages=823–826 | bibcode=1989PhRvL..63..823C | doi=10.1103/PhysRevLett.63.823 | pmid=10041194 }}</ref><ref>{{cite journal | author=R. Artuso | author2=E. Aurell | author3=P. Cvitanović | title=Recycling of strange sets: I. Cycle expansions | journal=Nonlinearity | year=1990 | volume=3 | number=2 | page=325| bibcode=1990Nonli...3..325A | doi=10.1088/0951-7715/3/2/005 | s2cid=250889857 }}</ref><ref>{{cite journal | author=R. Artuso | author2=E. Aurell | author3=P. Cvitanović | title=Recycling of strange sets: II. Applications | journal=Nonlinearity | year=1990 | volume=3 | number=2 | page=361| bibcode=1990Nonli...3..361A | doi=10.1088/0951-7715/3/2/006 | s2cid=250870355 }}</ref> This theory has been applied by Cvitanović and others to fluid turbulence. Another well-known result is the [[Feigenbaum function|Feigenbaum-Cvitanović functional equation]].
+
+==Books==
+* P. Cvitanović, R. Artuso, R. Mainieri, G. Tanner and G. Vattay, ''[http://www.chaosbook.org Chaos: Classical and Quantum]'' [[Niels Bohr Institute]], Copenhagen 2005
+* P. Cvitanović, ''Group Theory: Birdtracks, Lie's, and Exceptional Groups'' Princeton University Press, Princeton 2008, available online at http://birdtracks.eu/
+
+==See also==
+* [[E7½]]
+* [[Feigenbaum function]]
+* [[Penrose graphical notation]]
+
+==References==
+{{Reflist|refs=
+<ref name="Academies">
+{{cite web
+| url=https://www.physics.gatech.edu/user/predrag-cvitanovic
+| title=Predrag Cvitanović
+| work=gatech.edu
+| publisher=Georgia Institute of Technology
+| accessdate=2015-02-02
+}}</ref>
+
+<ref name="Humboldt">
+{{cite web
+| url=http://www.gatech.edu/newsroom/release.html?nid=41259
+| title=Predrag Cvitanović; Tapped for Humboldt Award
+| work=gatech.edu
+| publisher=Georgia Institute of Technology
+| accessdate=2010-06-02
+}}</ref>
+}}
+
+==External links==
+*[http://www.cns.gatech.edu/~predrag/ Cvitanović's web page at Georgia Tech]
+*[http://cats.nbi.dk/ Conference in honor of Cvitanović's 60th birthday]
+*[https://www.math.ucla.edu/~mason/wisdom/predrag.txt A collection of Cvitanović's quotes]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cvitanovic, Predrag}}
+[[Category:1946 births]]
+[[Category:Cornell University alumni]]
+[[Category:Living people]]
+[[Category:Georgia Tech faculty]]
+[[Category:Croatian physicists]]
+[[Category:Scientists from Zagreb]]
+[[Category:Dynamical systems theorists]]
+[[Category:Fellows of the American Physical Society]]
