@@ -1,0 +1,35 @@
+Dudley Brian Spalding (9 January 1923 – 27 November 2016) was Professor of Heat Transfer and Head of the Computational Fluid Dynamics Unit at Imperial College, London. He was one of the founders of computational fluid dynamics (CFD) and an internationally recognized contributor to the fields of heat transfer, fluid mechanics and combustion. He created the practice of CFD – its application to problems of interest to engineers. Most of today's commercially available CFD software tools trace their origin to the work done by Spalding's group in the decade spanning the mid-60s and mid-70s. Spalding became a Fellow of the Royal Society and Fellow of the Royal Academy of Engineering.
+
+ Life 
+Spalding was born at New Malden, Surrey, England, and educated at King's College School, Wimbledon. He received his BA degree in Engineering Science from Oxford University in 1944 and PhD from Cambridge University in 1952. He joined the Department of Mechanical Engineering at Imperial College in 1954 as a Reader in Heat Transfer. On his promotion to Professor of Heat Transfer in 1958 he gave his inaugural lecture entitled Heat Transfer in Rocket Motors. He was the founder of the company Concentration Heat And Momentum Limited, (CHAM) specialising in computational fluid dynamics and heat transfer processes. CHAM's major product is the widely used PHOENICS CFD code. Spalding himself was the main creator of, and contributor to, PHOENICS.
+
+Together with his student Suhas Patankar he developed the SIMPLE algorithm, a widely used numerical procedure to solve the Navier–Stokes equations.
+
+In late 1970s and early 1980s, Brian Spalding was the Reilly Professor of Combustion Engineering at Purdue University.
+
+Though in his 90s, Spalding continued to be active in his field, and was taken ill while at an international conference in Russia.  He died on his return to the UK.
+
+CHAM
+Spalding formed Combustion Heat and Momentum Ltd on 14 November 1969, which was renamed to Concentration Heat and Momentum Ltd (CHAM) in 1974. The company was set up as a means of financing and conducting research and development in the fields of fluid mechanics, heat transfer and combustion, with special emphasis on the development of computer programs for the design of engineering equipment, and for the analysis and prediction of the motion of matter and heat in the environment. From the outset commercial CFD services were provided to industrial and governmental clients based on the technology that had emerged from his research group at Imperial College in the late 1960s.  Later these services were based on PHOENICS, the first commercially available Computational Fluid Dynamics Software, which he created in 1978 and released commercially in 1981.
+
+The first contracts undertaken by CHAM were conducted by members of the academic staff of the Heat Transfer Section of the Mechanical Engineering Department of Imperial College, London. The contracts resulted in the development for industrial organisations of particular versions of certain computer programs, general versions of which had been constructed by Spalding and his colleagues and published in the open scientific literature. The computer programs concerned the analysis of two-dimensional steady fluid-flow phenomena. Subsequently, in the early 1970s, CHAM funds generated from contract work for industrial and governmental clients were used for the development of new families of computer programs, for three-dimensional phenomena as well as two-dimensional ones, and for time-dependent as well as steady flows. At that time CHAM placed a general research contract with Imperial College to develop a complete array of computer programs for predicting all the major types of convective, heat-transfer and chemically reactive processes which are likely to be encountered in engineering and the natural environment. These programs were equipped with mathematical models for turbulence, radiation, chemical reaction and some two-phase effects, such as particle-size change. During this period, CHAM programs were used by arrangement for calculations required in researches sponsored, for example, by the Science Research Council and the Department of Trade and Industry. In addition, CHAM-generated techniques were incorporated into post-graduate and under-graduate teaching curricula at Imperial College.  
+
+Between 1969 and 1980, CHAM developed numerous application-specific CFD computer codes. In 1978, Spalding conceived the idea of a single CFD code capable of handling all fluid-flow processes. Consequently, CHAM abandoned the policy of developing individual application-specific CFD codes, and during late 1978 the company began creating the world's first general-purpose CFD code, PHOENICS, which is an acronym for Parabolic, Hyperbolic Or Elliptic Numerical Integration Code Series. The initial creation of PHOENICS was largely the work of Spalding and Harvey Rosten, and the code was launched commercially in 1981, and so here for the first time, a single CFD code was to be used for all thermo-fluids problems.
+
+Biographical material 
+
+ Brian Spalding tribute lecture, CHT-08, Marrakech 2008
+ A tribute to D.B. Spalding and his contributions in science and engineering, Int. J. Heat Mass Transfer, Vol.52, 3884–3905, 2009
+
+Selected books
+ B. E. Launder and D. B. Spalding, Mathematical Models of Turbulence, Academic Press (1972).
+ D. B. Spalding and E. H. Cole, Engineering Thermodynamics, 3rd ed., Hodder Arnold (1973).
+ D. B. Spalding, Combustion and Mass Transfer, Elsevier (1978).
+ D. B. Spalding, Convective Mass Transfer- An Introduction, McGraw Hill (1963).
+
+Honours and awards
+ Max Jakob Memorial Award, 1978
+ Fellowship of the Royal Society, 1983
+ Fellowship of the Royal Academy of Engineering, 1989
+ Global Energy Prize, 2009
+ Benjamin Franklin Medal in Mechanical Engineering of The Franklin Institute, 2010

@@ -1,0 +1,72 @@
+Aviv Regev (; born 11 July 1971) is an Israeli-American computational and systems biologist whose research has focused on gene-regulatory networks, single-cell genomics, and the application of machine learning to biology and drug discovery. She is Head and Executive Vice President of Genentech Research and Early Development (gRED) and a member of the enlarged Corporate Executive Committee of Roche.
+
+Regev pioneered experimental and computational approaches in single-cell genomics, helping establish methods for identifying cell types and states, reconstructing cellular organization in tissues, and studying gene-regulatory circuits at single-cell resolution. In 2016, she and Sarah Teichmann co-founded the Human Cell Atlas, an international effort to create comprehensive reference maps of the cells in the human body. More recently, she has developed what she calls the "Lab in the Loop", an approach that iteratively combines large-scale biological experiments with machine-learning models to guide subsequent experiments and drug discovery.
+
+Before joining Genentech in 2020, Regev was a professor of biology at the Massachusetts Institute of Technology, a core member and chair of the faculty at the Broad Institute, founding director of its Klarman Cell Observatory, and an investigator at the Howard Hughes Medical Institute.
+
+Education
+Regev studied at the Adi Lautman Interdisciplinary Program for Outstanding Students of Tel Aviv University, where she completed her PhD under the supervision of Eva Jablonka, and Ehud Shapiro.
+
+Career and research
+
+Regev's research has centered on using computational approaches to understand how molecular and cellular systems are organized and regulated. During her doctoral work, she investigated whether concepts from theoretical computer science could be used to model biological systems, applying pi-calculus, a formalism developed for describing interacting computational processes, to biochemical networks. After completing her Ph.D. in 2002, she became a Bauer Fellow at Harvard University's Center for Genomics Research, where she established an independent research group and began using genomic and gene-expression data to reconstruct gene-regulatory networks. This work included the development, with collaborators, of "module networks", a probabilistic approach for identifying groups of co-regulated genes and their candidate regulators from gene-expression data.
+
+In 2006, Regev joined the faculty of the Massachusetts Institute of Technology and became a core member of the Broad Institute. Her research there combined computational modeling with experimental biology to study how cellular regulatory circuits respond to genetic and environmental changes, with applications including immune-cell differentiation, cancer and evolution. In 2012, she became the founding director of the Broad Institute's Klarman Cell Observatory, established to develop systematic experimental and computational approaches for studying cellular circuits and their roles in health and disease. She subsequently served as director of the Broad's Cell Circuits Program and, from 2014 to 2020, as chair of its faculty.
+
+Her work increasingly focused on single-cell genomics, using measurements from individual cells to identify cell types and states and to infer the regulatory programs that control them. In 2016, Regev and Sarah Teichmann co-founded the Human Cell Atlas, an international initiative to create comprehensive reference maps of the cells in the human body. The project was launched with approximately 100 scientists and grew into a global consortium using single-cell and spatial genomic technologies to characterize human tissues in health and disease.
+
+In August 2020, Regev joined Genentech as head and executive vice president of Genentech Research and Early Development (gRED), with responsibility for the company's research and early drug-development organization, and became a member of Roche's enlarged Corporate Executive Committee. She has continued to lead research combining experimental methods, large-scale biological measurements and computational approaches to study cellular circuits, while applying these approaches to drug discovery and development.
+
+ Single Cell Genomics 
+Regev pioneered single-cell genomics, developing experimental and computational approaches for using single-cell RNA sequencing to characterize cellular identity, variation, and gene-regulatory programs in complex tissues. Her group applied these methods to problems ranging from immune responses to cancer, helping show how single-cell measurements could reveal distinct cell states and molecular programs that are obscured when cells are analyzed in bulk. Regev and collaborators also developed computational methods for reconstructing the spatial organization of cells from single-cell gene-expression data, and co-developed Perturb-seq, which combines pooled CRISPR-based genetic perturbations with single-cell RNA sequencing to measure how genetic changes affect gene expression across individual cells. This work helped extend single-cell genomics from cataloguing cell types and states to probing the regulatory mechanisms that control them, and contributed to the scientific basis for large-scale efforts to map human cells, including the Human Cell Atlas.
+
+ Human Cell Atlas 
+
+In 2016, Regev and British computational biologist Sarah Teichmann co-founded the Human Cell Atlas (HCA), an international initiative to create comprehensive reference maps of the cells in the human body. The project was launched with around 100 scientists and aimed to catalogue human cell types and states across tissues, stages of development and age, using rapidly developing single-cell genomic technologies. Regev and Teichmann served as co-chairs of the project's organizing committee, helping define its scientific goals, organizational structure and approach to creating an openly accessible reference atlas.
+
+The HCA extended the use of single-cell genomics from studying individual tissues or biological questions to systematically mapping cellular diversity throughout the human body. As single-cell and spatial genomic technologies developed, the project expanded beyond a census of cell types to map where cells are located in tissues, how they change during development, and how molecular and genetic variation is related to cell state and disease. By 2024, the consortium had entered a data-integration phase aimed at producing a first draft Human Cell Atlas organized around 18 biological networks covering major organs and systems.
+
+ Artificial intelligence and lab in the loop 
+
+Regev's research has increasingly focused on combining machine learning with large-scale experimental biology to make biological research and drug discovery more predictive. An early formulation of this approach was "design for inference": because the number of possible genetic perturbations, cellular states and therapeutic interventions is too large to measure exhaustively, experiments can instead be designed to generate informative data from which computational models infer unmeasured possibilities and guide subsequent experiments. Regev presented this approach in a 2020 keynote at the Machine Learning in Computational Biology meeting titled "Design for Inference for Tissue Biology", and subsequently in an invited talk at the International Conference on Machine Learning (ICML) in 2022 titled "Design for Inference in Drug Discovery and Development".
+
+At Genentech, Regev has developed this idea into what she describes as a "Lab in the Loop", an iterative framework in which experimental or clinical data are used to train artificial-intelligence models, the models make predictions or propose new experiments and molecular designs, and the results of those experiments are then used to improve the models. She has described the framework as applicable across multiple stages of drug research and development, including understanding disease biology, identifying therapeutic targets, designing medicines and predicting which treatments may benefit particular patients.
+
+Regev has presented this approach at major scientific and technology conferences. At TEDAI in 2023, in a talk titled "Can AI help develop new medicines?", she described using AI to analyze large biological datasets and improve the process of developing medicines. She also presented the Lab in the Loop framework at NVIDIA's GTC conference and in a Stanford Data Science Distinguished Lecture in 2024, and returned to ICML as an invited speaker in 2026, where her talk focused on applying the approach across drug research and development. In a 2026 interview with Scientific American, Regev described extending this strategy toward generative-AI models that can infer unmeasured biological information, guide the collection of new data and contribute to predictive "virtual cell" models of cellular behavior.
+
+ Fellowships and memberships 
+ Associate Member of the European Molecular Biology Organization (2024)
+ Foreign Member of the Royal Society (2024)
+ Member of the American Academy of Arts and Sciences (2022)
+ Fellow of the American Association for Cancer Research (2021)
+ Helmholtz Fellow (2020)
+ Member of the National Academy of Medicine (2020)
+ Member of the National Academy of Sciences (2019)
+ Fellow of the International Society for Computational Biology (2017)
+
+ Awards and honors 
+ Meyenburg Prize for Outstanding Achievements in Cancer Research (2026)
+ Dickson Prize in Science (2025)
+ William B. Coley Award for Distinguished Research in Basic and Tumor Immunology (2025)
+ L'Oréal-UNESCO For Women in Science Awards, Laureate for North America (2023)
+ HFSP Nakasone Award, Human Frontier Science Program (2022)
+ Honorary doctorate, ETH Zurich (2021)
+ Ernst Schering Prize (2021)
+ James Prize in Science and Technology Integration, National Academy of Sciences (2021)
+ Vanderbilt Prize (2021)
+ Keio Medical Science Prize (2020)
+ Lurie Prize in Biomedical Sciences (2020)
+ Jonathan Kraft Prize, Massachusetts General Hospital (2020)
+ Paul Marks Prize for Cancer Research (2017)
+ ISCB Innovator Award (2017)
+ Overton Prize (2008)
+
+ Named lectures 
+ Omenn Lecture, University of Michigan Medical School (2026)
+ Streisinger Memorial Lecture, University of Oregon (2025)
+ Anderson Memorial Lecture, University of Virginia (2022)
+ AACR-Irving Weinstein Foundation Distinguished Lecture, American Association for Cancer Research (2021)
+ Mendel Lecture, European Society of Human Genetics (2020)
+ Weatherall Lecture, University of Oxford (2018)
+ Harvey Lecture, Harvey Society (2018)
+ Katharine D. McCormick Distinguished Lecture, Stanford University (2018)

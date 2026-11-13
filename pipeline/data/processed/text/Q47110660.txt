@@ -1,0 +1,58 @@
+Stefan Thurner (born 1969) is an Austrian physicist and complexity scientist. He heads the Section for Science of Complex Systems at the Medical University of Vienna and is a co-founder and the president of the Complexity Science Hub (CSH). Thurner also serves as an external professor at the Santa Fe Institute.
+
+His research focuses on extending statistical mechanics to networked complex systems out of equilibrium, with applications to the dynamics and phase transitions of social, biological, and economic systems. Notable contributions include a theory for systems out-of-equilibrium, stress-testing of healthcare systems, agent-based modelling of systemic risk in supply chains and financial networks, and the quantification of resilience. He authored Introduction to the Theory of Complex Systems, a textbook on complex systems.
+
+Thurner has received awards including Austrian Scientist of the Year 2017  and the Paul Watzlawick Ring of Honor (2021).
+
+ Career 
+
+Early life and education
+Thurner was born in 1969 in Innsbruck, Austria. He received a PhD in theoretical physics from TU Wien and a second PhD in economics from the University of Vienna. He completed his habilitation in theoretical physics at TU Wien.
+
+Thurner started his academic career in theoretical particle physics before transitioning to research on complex adaptive systems, building on mathematical modelling and quantitative methods.
+
+ Professional career 
+After completing his PhD, Thurner held postdoctoral positions at Humboldt University of Berlin and Boston University, before joining the University of Vienna as a faculty member.
+
+From 2001 to 2004, he was Associate Professor at the University of Vienna, studying networks and collective dynamics in biological, social, and economic systems. In 2001, he completed his habilitation in theoretical physics and earned his second PhD in economics, integrating statistical mechanics with economic modelling to study systemic risks and growth patterns.
+
+From 2004 to 2009, as associate professor at the Medical University of Vienna, he expanded his research to health and medical applications, including network-based analyses of hospital data, disease comorbidities, and healthcare system resilience. He has served as an external professor at the Santa Fe Institute since 2007 and was a fellow at Collegium Budapest the same year. Since 2009, he has held a full professorship in Science of Complex Systems at the Medical University of Vienna.
+
+In 2016, he co-founded the Complexity Science Hub (CSH) in Vienna and became its president. The Complexity Science Hub is an interdisciplinary research center for the study of complex adaptive systems, comprising eleven member institutions and a global network of external faculty.
+
+ Research 
+Stefan Thurner's research is grounded in theoretical physics of complex systems and aims at the quantitative characterization of emergent phenomena in high-dimensional, nonlinear, and non-equilibrium systems. Using methods from statistical mechanics, network theory, and agent-based modelling, his research investigates the structural and dynamical properties of economic, biological, and social systems.
+
+ Foundations of Complex Systems 
+Thurner has contributed foundational tools for quantifying complexity in non-equilibrium systems, including a derivation of generalized entropy measures for complex systems from first principles. He contributed to the understanding of the statistics of open, driven, out-of-equilibrium systems with the so-called sample space reducing processes that offer an intuitively simple and mathematically tractable explanation of non-Gaussian statistics in complex systems. He co-authored Introduction to the Theory of Complex Systems (2018) (together with Rudolf Hanel and Peter Klimek) that formalizes processes such as fragmentation, aggregation, and adaptive feedback, demonstrating how local interaction rules generate global patterns without centralized control – illustrated empirically by super-linear scaling in urban growth and linguistic evolution.
+
+ Systemic Risk in Financial Networks 
+Thurner has studied systemic risk and contagion cascades in financial networks. A central contribution is the notion of the systemic risk transaction tax, a tax on the systemic risk of financial contracts, intended to reduce systemic risk in financial systems by rewiring financial networks. The efficacy of the systemic risk tax was shown in agent-based models and in an equilibrium setting  of DebtRank, a nonlinear metric that quantifies systemic importance of firms, to financial contracts thus making it possible to estimate systemic risk of financial contracts. This opens the possibility to measure the systemic risk of financial contracts by assessing their capacity to distress other institutions beyond direct bilateral exposures. He extended the framework of systemic risk to multilayer financial networks encompassing loans, derivatives, and collateral. Related methods applied to firm-level supply chains showed that rewiring supplier relationships toward lower-risk configurations measurably reduces disruption propagation.
+
+ Network Medicine and Healthcare Systems 
+Using large-scale Austrian hospital data, Thurner and collaborators constructed disease comorbidity networks based on ICD-10 diagnosis codes, quantifying co-occurring conditions across patient populations. Agent-based simulations have been applied to model healthcare system resilience, identifying capacity thresholds and failure cascades under varying patient loads. During the COVID-19 pandemic, his group ranked the effectiveness of non-pharmaceutical interventions across 79 territories based on their impact on the effective reproduction number, and co-founded and contributed to Austria's national epidemiological forecasting consortium, which provided weekly projections to health care professionals and government health authorities.
+
+ Economics 
+Thurner has applied complex systems thinking to economic modelling, including a linear response theory to quantify sectoral resilience to shocks in the global economy. He conducted early research on supply chain networks at the firm level and has shown that aggregating economic data at the industry level can significantly underestimate the propagation of disruptions through production networks. Related methods have been applied to decarbonization planning, where network-based targeting of firms by systemic relevance achieved substantial emissions reductions while limiting broader economic impact on output and employment.
+
+ Social Sciences 
+Thurner applies computational methods to social dynamics, including group formation and opinion polarization. A 2023 study used a spin-glass-inspired self-assembly framework to model how homophily drives the formation of social groups, deriving group-size distributions that match empirical data from online communities. A 2025 study demonstrated mathematically that increasing social connectivity can trigger sudden polarization once a critical societal connectivity threshold is exceeded, linking the rise in close friendships observed since 2000 to measured polarization trends in Western societies. Earlier work includes a 2010 PNAS study of social networks formed by more than 300,000 players in the massive multiplayer online game Pardus including communication, trade, and conflict layers in an online social network, which uncovered gender-specific interaction patterns mirroring offline behavioral asymmetries.
+
+ Reception and impact 
+Thurner has published over 300 peer-reviewed articles  and holds three patents. His most cited contributions include foundational work on network dynamics, systemic risk, and social systems.
+
+Thurner has been active in communicating complexity science to non-specialist audiences. The Austrian Association of Education and Science Journalists elected him Scientist of the Year for 2017, citing his sustained efforts to explain complexity research to the general public. The award, which has been given annually since 1994 and has previously been awarded to figures such as Anton Zeilinger and Josef Penninger, recognizes researchers for making their fields accessible to a broader public.
+
+In 2021, Thurner together with his former PhD student and colleague Peter Klimek received the Paul Watzlawick Ring of Honor from the Vienna Medical Association, in recognition of their work forecasting the course of the COVID-19 pandemic using big data and advising the Austrian government during the crisis.
+
+During the pandemic, Thurner partially redirected the Complexity Science Hub's research capacity to COVID-19-related questions, advising various bodies of the national government and communicating findings to the public.
+
+ Controversy 
+
+ Interpretations of COVID-19 findings 
+In a 2020 paper, Thurner and colleagues attributed prolonged linear – rather than exponential – growth in COVID-19 case numbers across multiple countries to sparseness in contact networks, arguing that linear propagation under social-distancing conditions is possible and that standard SIR models, which assume homogeneous mixing, are ill-suited for early containment dynamics. Critics Kuśmierz and Toyoizumi countered that linear growth on small-world networks arises only near the critical point (R ≈ 1) and questioned whether the observed patterns require the specific network topology proposed. Thurner and co-authors replied that their model explicitly concerns the near-critical regime and characterized the criticism as a misreading of the paper's scope.
+
+ Awards and honors (Selection) 
+
+ Austrian Scientist of the Year 2017, Austrian Association of Education and Science Journalists 
+ Paul Watzlawick Ring of Honor (2021), Vienna Medical Association

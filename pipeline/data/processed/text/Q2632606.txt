@@ -1,0 +1,16 @@
+Gerrit Anne "Gerry" Blaauw (17 July 1924 – 21 March 2018) was a Dutch computer scientist, known as one of the principal designers of the IBM System/360 line of computers, together with Fred Brooks, Gene Amdahl, and others.
+
+ Biography 
+Born in The Hague, Netherlands, Blaauw received his BA from the Delft University of Technology in 1946. In 1947, Blaauw won an exclusive scholarship funded by IBM Chief Executive Officer Thomas J. Watson. After an initial year at Lafayette College in Pennsylvania, Blaauw studied at Harvard University. He received his MA in 1949 and his PhD in 1952 under supervision of Howard Aiken, inventor of the early Mark I computer. At Harvard, he worked on design of the Mark III and Mark IV computers. Blaauw met Fred Brooks while he was working for IBM and visited Harvard, where Fred Brooks was then a graduate student.
+
+After graduation in 1952, Blaauw returned to the Netherlands where he worked at the Mathematical Centre on the second ARRA computer. In 1955 he returned to the United States to work at IBM's Poughkeepsie labs where he worked with Brooks on a number of projects:
+ He was a designer on the IBM 7030 STRETCH project.
+ He worked on the ill-fated IBM 8000 series, and in particular designed a paging system for the IBM 8106 in the 1960-1961 period.
+ He was a key engineer on the IBM System/360 project, announced in 1964. Among other contributions, Blaauw made the successful case for an 8-bit (as opposed to 6-bit) computer architecture.
+Blaauw also designed a revolutionary address translation system, the "Blaauw Box", which was removed from the original System/360 design, but was later used in IBM's unsuccessful proposal to MIT's Project MAC. Subsequently, Dynamic Address Translation (DAT) hardware of a somewhat different design was incorporated in the important IBM System/360-67 computer. As implemented on the Model 67, DAT hardware allowed the implementation of some of the first practical paged virtual memory systems – perhaps the first to be commercially successful. The Model 67 was being used in commercial applications by 1968. The earlier Ferranti Atlas Computer was a seminal platform for paging research, but suffered from well-studied performance issues such as thrashing. Virtual memory address translation capabilities similar to those on the S/360-67 were subsequently included in all models of the IBM System/370 computer line that followed.
+
+After leaving IBM, Blaauw became a computer science professor in the Netherlands. He retired in 1989 as professor emeritus with Universiteit Twente. In 1982 he was elected member of the Royal Netherlands Academy of Arts and Sciences. In 1997 he co-authored Computer Architecture: Concepts and Evolution with Brooks.
+
+Blaauw died in Utrecht.
+
+Blaauw was a devout Christian who gave particular attention, especially after retirement, to the relationship of science and faith, a topic he explored in a booklet available in English, Dutch and Spanish.

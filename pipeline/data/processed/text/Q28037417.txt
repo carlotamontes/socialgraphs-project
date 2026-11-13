@@ -1,0 +1,53 @@
+David Markham Lemal (born 1934) is the Albert W. Smith Professor of Chemistry Emeritus and Research Professor of Chemistry at Dartmouth College.  He received an A.B.  degree (summa) from Amherst College in 1955 and a Ph.D. in chemistry from Harvard University in 1959.  At Harvard he worked with R. B. Woodward on deoxy sugars and a synthesis of the alkaloid yohimbine.
+
+ Research and teaching 
+Lemal began his independent academic career at the University of Wisconsin in Madison, first as instructor (1958–60), and then as assistant professor (1960–65).  In 1965 he joined the department of chemistry at Dartmouth College and became a full professor in 1969. He chaired the department from 1976 to 1979.  In 1981, he was appointed the Albert W. Smith Professor of Chemistry.  At Wisconsin, Lemal developed a career-long interest in highly strained molecules, short-lived species and concerted reactions.  In the late 1960s he became intrigued with organofluorine chemistry, which has remained a major focus of his research.  Lemal was an active participant of the Gordon Research Conferences. In 1970, he chaired the GRC conference on Hydrocarbon Chemistry, in 1971 the GRC on Heterocyclic Compounds; he was a member of the board of trustees (1973–79; chair, 1977–78).  He co-chaired the international Winter Fluorine Conferences in 1987 and 1989, then in 1990 chaired the Fluorine Division of the American Chemical Society. From 1996 to 2004, he served on the Society's Committee on Science.  In 2005, Lemal retired from teaching, and became a Research Professor of Chemistry, continuing work in organofluorine synthesis until 2016. During his career, Lemal mentored in research more than a hundred undergraduates, graduate students, and postdoctoral fellows, and taught chemistry courses for 50 years.
+
+ Honors and awards 
+Lemal was awarded honors of a National Science Foundation Fellow (1955–58) and an Alfred P. Sloan Foundation Research Fellow (1968–70).  In 1987, he received the Chemical Manufacturers Association Catalyst Award.  In 1989, he was named the New Hampshire Professor of the Year by the Council for Advancement and Support of Education.  He was awarded the Dartmouth President’s Award for Outstanding Leadership and Achievement (1991), and the Robert A. Fish Memorial Prize for outstanding contributions to undergraduate teaching (1996).  He won the 2002 American Chemical Society Award for Creative Work in Fluorine Chemistry.  In 2011, Lemal became a Fellow of the American Chemical Society.
+
+ Selected research 
+
+ Some Hydrocarbon-Fluorocarbon Contrasts 
+Source:
+
+Having synthesized and studied hexamethylprismane in 1966, Lemal’s group was interested in how a prismane substituted with electron-acceptor instead of donor groups would differ in nature and reactivity.  This led to vapor phase photolysis of perfluorohexamethylbenzene (1), which yielded not only the prismane (2), but the dewar benzene (3) and Benzvalene(4) as well.  An English group made the same discovery independently.  These strained molecules were remarkably robust and thermally stable as compared with their rather fragile hydrocarbon counterparts, and that intriguing contrast led to further exploration of fluorocarbon chemistry. 
+center|655x655px|frameless
+
+They later synthesized perfluorohexamethylbicyclopropenyl (5) to flesh out the first complete set of benzene valence isomers.  This compound rearranges thermally to 1 with a half-life of ≥ 2 h at 360 °C, as compared with the parent hydrocarbon that polymerizes at -10 °C.  Lemal coined the term "perfluoroalkyl effect" to represent the composite of stabilizing influences, thermodynamic and kinetic, that perfluoroalkyl groups confer upon highly strained carbon frameworks. The effect has proved to be general, but if fluoro instead of perfluoroalkyl groups decorate the carbon skeleton, behavior can be very different, as the following example reveals.
+
+Another case of contrasting chemistry emerged when Lemal’s group prepared perfluoroquadricyclane (6) by a photoreaction at -30 °C and allowed it to warm above 0 °C.  Rearrangement to tricyclic isomer 7 occurred, and further warming to room temperature yielded perfluorotropilidene (8).  The parent quadricyclane (9) rearranges instead to norbornadiene (10), under far more vigorous conditions.
+center|frameless|542x542px|unique chemistry of perfluoroquadricyclane
+
+Keto-enol equilibria are affected dramatically by fluorine substitution.  In sharp contrast to hydrocarbon-derived ketones, whose enol tautomers are generally present in only trace quantities at equilibrium, fluorinated ketones are sometimes far less stable than their enols. Keto-enol equilibria for cyclopentanone (11) and heptafluorocyclopentanone (12) are a case in point.
+center|frameless|319x319px|In sharp contrast to hydrocarbon-derived ketones, whose enol tautomers are generally present in only trace quantities at equilibrium, fluorinated ketones are sometimes far less stable than their enols.
+
+Highly strained and highly reactive alkenes bicyclo[2.2.0]hex-1(4)-ene (13) and its perfluoro counterpart 14 provide another remarkable contrast in stability. Whereas 13 dimerizes and polymerizes at temperatures below  0 °C, 14 survives heating at 140 °C and does not form a dimer under any conditions.
+center|frameless|249x249px|strained alkenes
+
+ Cyclic Concerted Transformations 
+In 1966 Lemal and coworkers studied a class of reactions that would come to be called cheletropic, cyclic concerted processes in which two bonds are formed or broken at the same atom.  Finding that they take place stereospecifically, the findings built on ideas of Woodward and Hoffmann to develop independently a theory of this class of transformations that explained the group's experimental results, shown here:
+center|frameless|427x427px|examples of cheletropic reactions
+
+A decade later, when it was generally accepted that all cyclic, concerted processes (termed pericyclic) obey the Woodward-Hoffmann orbital symmetry rules (of which those for cheletropic reactions are a subset), Lemal and co-workers discovered an extraordinarily facile degenerate rearrangement that led them to challenge that belief.  The S=O group in the molecule below moves stepwise around the 4-membered with an extrapolated rate constant of 70 million s−1 at 25 °C!  
+center|frameless|453x453px|example of a pseudopericyclic reaction'
+
+Given the molecular geometry, the researchers surmised that this could happen only if the sulfur lone pair forms a new S-C bond as the electron pair of the breaking S-C bond becomes the new lone pair.  Later shown to be incorrect, this idea nevertheless led to a key insight. Lemal and coworkers recognized that there are many cyclic concerted processes in which nonbonding and bonding electrons can interchange roles, processes that are not subject to the orbital symmetry rules.  This led to a term pseudopericyclic. The idea is nicely illustrated by ester pyrolysis, which has been shown to proceed via a planar transition state:
+center|frameless|293x293px|ester pyrolysis
+At the carbonyl oxygen, a lone pair forms the bond to hydrogen, and the pi bond becomes the new lone pair.  Because these orbitals lie in perpendicular planes and are thus orthogonal, there is effectively a "disconnection" in the cyclic orbital array that exempts the reaction from orbital symmetry constraints.
+
+Faith in the rules was such that the idea of pseudopericyclic reactions was ignored for almost 20 years, but then David Birney of Texas Tech took up the cause.  In a long and continuing investigation that has combined experiment and computation to great effect, his group and later others have established that there are pseudopericyclic examples to be found in all of the classes of cyclic concerted processes.
+
+ The "Wanzlick Equilibrium" 
+In 1960, Wanzlick reported that tetraaminoethylene 1 readily dissociates into diaminocarbene halves, and a long series of papers from his group followed, describing interesting reactions of 1 interpreted as arising from the carbene.  Based on a crossover experiment, Lemal and coworkers showed in 1964 that 1 does not dissociate even under the most vigorous conditions Wanzlick had employed.  The reaction chemistry was explained in terms of electrophilic attack on the tetraaminoethylene followed by scission of the central bond.  
+center|frameless|120x120px|tetraaminoethylene
+
+Many years later, in 1991, Arduengo made the striking discovery that diaminocarbenes with the structure 2 are stable and do not dimerize. This led Denk in 1999 to repeat Lemal’s crossover experiment, to find crossover, and thus to conclude that Wanzlick was right about dissociation after all.  Lemal’s group responded by repeating the work themselves, and showed that eliminating electrophilic catalysis precluded the occurrence of crossover, thus reaffirming the result Lemal had obtained 36 years earlier.
+center|frameless|164x164px|diaminocarbene
+
+By selecting a diaminocarbene structure intermediate in character between the Wanzlick and Arduengo carbenes, Lemal’s group found and studied a carbene-dimer pair that does exist in equilibrium.  Here the dimer (3) lies about 5 kcal/mol below its "halves" (4) in free energy at 25 °C. 
+center|frameless|376x376px|dimerization of diaminocarbene
+
+ Other Compounds from the Lemal Laboratory 
+Other contributions include the preparation and studies of a powerful carbon acid, tetrafluorocyclobutadiene, hexafluorobenzene oxide, a [2.2.2]propellene, tetrafluorothiophene dioxide, octafluorotricyclooctadiene, a highly reactive propellane, tetrafluorocyclopentadienone, octafluorocyclooctatetraene, a heptafluorotropylium salt, octafluorobarrelene , and a cyclobutadiene complex.
+center|frameless|603x603px|examples of compounds from the laboratory of David Lemal

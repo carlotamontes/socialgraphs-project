@@ -1,0 +1,71 @@
+Yves Pomeau, born in 1942, is a French mathematician and physicist, emeritus research director at the CNRS and corresponding member of the French Academy of sciences. He was one of the founders of the Laboratoire de Physique Statistique, École Normale Supérieure, Paris. He is the son of literature professor René Pomeau.
+
+ Career 
+
+Yves Pomeau did his state thesis in plasma physics, almost without any adviser, at the University of Orsay-France in 1970. After his thesis, he spent a year as a postdoc with Ilya Prigogine in Brussels.
+
+He was a researcher at the CNRS from 1965 to 2006, ending his career as DR0 in the Physics Department of the Ecole Normale Supérieure (ENS) (Statistical Physics Laboratory) in 2006.
+
+He was a lecturer in physics at the École Polytechnique for two years (1982–1984), then a scientific expert with the Direction générale de l'armement until January 2007.
+
+He was Professor, with tenure, part-time at the Department of Mathematics, University of Arizona, from 1990 to 2008.
+
+He was visiting scientist at Schlumberger–Doll Laboratories (Connecticut, USA) from 1983 to 1984.
+
+He was a visiting professor at MIT in Applied Mathematics in 1986 and in Physics at UC San Diego in 1993.
+
+He was Ulam Scholar at CNLS, Los Alamos National Lab, in 2007–2008.
+
+He has written 3 books, and published around 400 scientific articles.
+
+ Education 
+
+ École normale supérieure, 1961–1965.
+ Licence (1962).
+ DEA in Plasma Physics, 1964.
+ Aggregation of Physics 1965.
+ State thesis in plasma physics, University of Orsay, 1970.
+
+ Research 
+In his thesis he showed that in a dense fluid the interactions are different from what they are at equilibrium and propagate through hydrodynamic modes, which leads to the divergence of transport coefficients in 2 spatial dimensions.
+
+This aroused his interest in fluid mechanics, and in the transition to turbulence. Together with Paul Manneville, Yves Pomeau discovered a new mode of transition to turbulence, the transition by temporal Intermittency, which was confirmed by numerous experimental observations and CFD simulations. This is the so-called Pomeau–Manneville scenario, associated with the Pomeau-Manneville maps
+
+In papers published in 1973 and 1976, Jean Hardy, Yves Pomeau and Olivier de Pazzis  introduced the first lattice Boltzmann model, which is called the HPP model after the authors. Generalizing ideas from his thesis, together with Uriel Frisch and Brosl Hasslacher, Yves Pomeau found   a very simplified microscopic fluid model (FHP model) which allows simulating very efficiently the complex movements of a real fluid. He was a pioneer of lattice Boltzmann methods and played a historical role in the timeline of computational physics.
+
+Reflecting on the situation of the transition to turbulence in parallel flows, he showed that turbulence is caused by a contagion mechanism, and not by local instability. Front can be static or mobile  depending on the conditions of the system, and the causes of the motion can be the variation of a free energy, where the most energetically favorable state invades the less favorable one. The consequence is that this transition belongs to the class of directed percolation phenomena in statistical physics, which has also been amply confirmed by experimental and numerical studies.
+
+In dynamical systems theory, the structure and length of the attractors of a network corresponds to the dynamic phase of the network. The stability of Boolean network depends on the connections of their nodes. A Boolean network can exhibit stable, critical or chaotic behavior. This phenomenon is governed by a critical value of the average number of connections of nodes (), and can be characterized by the Hamming distance as distance measure. If  for every node, the transition between the stable and chaotic range depends on . Bernard Derrida and Yves Pomeau proved that, the critical value of the average  number of connections is .
+
+A droplet of nonwetting viscous liquid moves on an inclined plane by rolling along it. Together with Lakshminarayanan Mahadevan, he gave a scaling law for the uniform speed of such a droplet. With Christiane Normand, and Manuel García Velarde, Yves Pomeau studied convective instability. Apart from simple situations, capillarity remains an area where fundamental questions remain. He showed that the discrepancies appearing in the hydrodynamics of the moving contact line on a solid surface could only be eliminated by taking into account the evaporation/condensation near this line. Capillary forces are almost always insignificant in solid mechanics. Nevertheless, with Serge Mora, Ty Phou, Jean-Marc Fromental and Len M. Pismen  they have shown theoretically and experimentally that soft gel filaments are subject to Rayleigh-Plateau instability, an instability never observed before for a solid. In collaboration with his former PhD student Basile Audoly and Henri Berestycki, he studied the speed of the propagation of a reaction front in a fast steady flow with a given structure in space. With Basile Audoly and Martine Ben Amar, Pomeau developed a theory of large deformations of elastic plates which led them to introduce the concept of "d-cone", that is, a geometrical cone preserving the overall developability of the surface, an idea now taken up by the solid mechanics community.
+
+The theory of superconductivity is based on the idea of the formation of pairs of electrons that become more or less bosons undergoing Bose-Einstein condensation. This pair formation would explain the halving of the flux quantum in a superconducting loop. Together with Len Pismen and Sergio Rica  they have shown that, going back to Onsager's idea explaining the quantification of the circulation in fundamental quantum states, it is not necessary to use the notion of electron pairs to understand this halving of the circulation quantum. He also analyzed the onset of BEC  from the point of view of kinetic theory. Whereas the kinetic equation for a dilute Bose gas had been known for many years, the way it can describe what happens when the gas is cooled down to reach temperature below the temperature of transition. At this temperature the gas gets a macroscopic component in the quantum ground state, as had been predicted by Einstein long ago. Together with Christophe Josserand and Sergio Rica, Pomeau showed  that the solution of the kinetic equation becomes singular at zero energies and we did also find how the density of the condensate grows with time after the transition. Marc-Étienne Brachet, Stéphane Métens, Sergio Rica and Yves Pomeau also derived the kinetic equation for the Bogoliubov excitations of Bose-Einstein condensates, where Yves Pomeau and Minh-Binh Tran found three collisional processes. Before the surge of interest in super-solids started by Moses Chan experiments, Sergio Rica and Yves Pomeau had shown in an early simulation  that a slightly modified NLS equation yields a fair representation of super-solids. With Alan C. Newell, he studied turbulent crystals in macroscopic systems.
+
+From his more recent work we must distinguish those concerning a phenomenon typically out of equilibrium, that of the emission of photons by an atom maintained in an excited state by an intense field that creates Rabi oscillations. The theory of this phenomenon requires a precise consideration of the statistical concepts of quantum mechanics in a theory satisfying the fundamental constraints of such a theory. With Martine Le Berre and Jean Ginibre, Yves Pomeau showed that the right theory was that of a Kolmogorov equation based on the existence of a small parameter, the ratio of the photon emission rate to the atomic frequency itself.
+
+Known for
+Timeline of computational physics
+Lattice Boltzmann Models
+Intermittency
+Pomeau–Manneville scenario
+Pomeau-Manneville maps
+The stability of Boolean network 
+Front
+Lattice gas automaton
+Logistic map
+Stellar pulsation
+Hardy-Pomeau-Pazzis (HPP) model
+The physics of ice skating
+Lorenz system
+Saffman-Taylor Fingers
+Hénon-Pomeau attractor
+
+ Prizes and awards 
+
+ FPS Paul Langevin Award in 1981.
+ FPS Jean Ricard Award in 1985.
+ Perronnet–Bettancourt Prize (1993) awarded by the Spanish government for collaborative research between France and Spain.
+ Chevalier of the Légion d'Honneur since 1991.
+ Elected corresponding member of the French Academy of sciences in 1987 (Mechanical and Computer Sciences).
+ Boltzmann Medal (2016)
+ Three Physicists Prize (2024)

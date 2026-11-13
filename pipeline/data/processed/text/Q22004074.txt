@@ -1,0 +1,16 @@
+David P. DiVincenzo (born 1959) is an American theoretical physicist. He is the director of the Institute of Theoretical Nanoelectronics at the Peter Grünberg Institute at the Forschungszentrum Jülich and professor at the Institute for Quantum Information at RWTH Aachen University. With Daniel Loss (at the University of Basel), he proposed the Loss–DiVincenzo quantum computer in 1997, which would use electron spins in quantum dots as qubits.
+
+ Career 
+In 1996, during his research at IBM, he published a paper "Topics in Quantum Computing" which outlined the five minimal requirements he predicted were necessary for creating a quantum computer. It has since become known as the "DiVincenzo criteria" and has influenced much of the experimental research into developing a working quantum computer.
+
+The DiVincenzo criteria that a quantum computer implementation must satisfy are as follows:
+
+ A scalable physical system with well-characterized qubits,
+ The ability to initialize the state of the qubits to a simple fiducial state, such as to ,
+ A "universal" set of quantum gates,
+ Long relevant decoherence times, much longer than the gate-operation time,
+ A qubit-specific measurement capability.
+
+For quantum communication, the act of transmitting intact qubits from place to place, two additional criteria must be satisfied:
+
+        6. The ability to interconvert stationary and flying qubits, and        7. The ability to transmit flying qubits between distant locations.

@@ -1,0 +1,76 @@
+Pierre Suquet (born 22 October 1954) is a French theoretician mechanic and research director at the CNRS. He is a member of the French Academy of Sciences.
+
+ Biography 
+
+He did his preparatory classes in Grenoble (Maths Sup) then at Louis-Le Grand (Maths Spé), to join the École Normale Supérieure (1973) to become an agrégé de Mathématiques in 1975, and Doctor in 1982.
+
+From 1983 to 1988 he was Professor at the University of Montpellier. Then CNRS Research Director, Mechanics and Acoustics Laboratory in Marseille, where he was Director from 1993 to 1999. From 2000 to 2001 he was Visiting Professor at the Clarke Millikan of the California Institute of Technology.
+
+Pierre Suquet is a specialist in continuous media and the behaviour of solid materials. His main research interests are elastoplastic structures, homogenization of non-linear composites and numerical simulation in materials mechanics.
+
+ Scientific work 
+
+ Existence and regularity of elastic-plastic solutions 
+In 1978, Pierre Suquet introduced the space of vector fields with bounded deformation and established certain properties (existence of internal and external traces on any surface, compact injection...). It shows that the evolution problem for a perfectly plastic elastic body admits a solution in speed (of displacement) in this space under a safe loading condition. It shows that there can be an infinite number of solutions, regular or non-regular.
+
+ Homogenization of dissipative media 
+The framework of generalized standard environments, due to Helphen and Nguyen Quoc Son, allows an easy writing of the laws of macroscopic behaviour. In 1982, Pierre Suquet established homogenization results for environments characterized by 2 potentials (free energy and dissipation potentials) and showed in particular that the generalized standard structure is preserved by changing scales when geometric variations are neglected. He notes that the homogenization of short-memory viscoelastic composites can lead to the appearance of long memory effects (an effect already noted by J. & E. Sanchez-Palencia in 1978). More recently, properties of these long memories have been established in relation to order moments 1 and 2 of the local fields.
+
+ Homogenization and limit loads 
+In 1983, Pierre Suquet gave a first upper bound of the resistance domain of a heterogeneous medium by solving a boundary analysis problem on a base cell. This result is improved by Bouchitte and Suquet who show that the homogenized analysis problem is divided into two sub-problems, one purely volumetric for which the resistance domain is that given by the boundary analysis of a base cell, the second, surface area for which a surface homogenization problem (and not on unit cell) must be solved.
+
+ Terminals for non-linear composites 
+In 1993, Pierre Suquet proposed a series of bollards for non-linear phase composites, using a method different from those available at the time (Willis, 1988, Ponte Castañeda, 1991), then showed in 1995 that Ponte Castañeda's (1991) variational method is a secant method using the second moment by phase of local fields.
+
+ Digital method for heterogeneous media based on FFT. 
+In 1994, H. Moulinec and P. Suquet introduced a numerical method using massively the Fast Fourier Transform (FFT) using only a pixelized image of the study microstructure (without mesh size). By introducing a homogeneous reference medium, the heterogeneity of the medium is transformed into a polarization constraint. The Green operator of the reference medium, known explicitly in Fourier space, can be used to iteratively update the polarization field. Several improvements and accelerations have been made to this method, which is now used internationally in dedicated codes.
+
+ Homogenization and reduction of models. 
+Since 2003, J.C. Michel and P. Suquet have been developing a method to reduce the number of internal variables of homogenized behavioural laws. This Nonuniform Transformation Field Analysis (NTFA) model uses the structuring of microscopic plastic deformation fields. A mode base is first built by the "snapshot POD" method along learning paths. Then the reduced kinetic equations for the field components in these modes are constructed by approaching the effective potentials by techniques derived from non-linear homogenization.
+
+ Books 
+
+ Book publishing 
+
+    1991 Blanc R., Raous M., Suquet P. (eds.) : Mechanics, Numerical Modeling and Dynamics of Materials, Proceedings of the scientific meetings of the fiftieth anniversary of the LMA. 415 pages.
+    1994 Buttazzo G., Bouchitte G., Suquet P. (eds.) : Calculus of Variations, Homogenization and Continuum Mechanics, Series in Advances in Mathematics for Applied Sciences (vol 18). World Scientific, Singapore, (). 296 pages.
+    1997 Suquet P. (ed.) : Continuum Micromechanics, CISM Lecture Notes N0 377. Springer-Verlag. Wien. 347 pages.
+    2000 Ponte Castañeda P., Suquet P. (eds) : The J.R. Willis 60th Anniversary Volume, J. Mech. Phys. Solids 48, 6/7, 200
+
+ Participation in synthesis works 
+
+    1986 Suquet P. : "A few mathematical aspects of incremental Plasticity". Course Notes at the International Centre for Pure and Applied Mathematics. In Applications of Mathematics to Mechanics. Ed. M. Djaoua. Ed. ENIT.
+    1987 Suquet P. : "Elements of Homogenization for Inelastic Solid Mechanics". Courses at the International Centre for Mechanical Sciences. Udine. 1985. In E. Sanchez-Palencia, A. Zaoui (eds), Homogenization Techniques for Composite Media. Lecture Notes in Physics N0272. Springer-Verlag. Berlin. 1987. pp. 193–278.
+    1988 Suquet P. : "Discontinuities and Plasticity". Course notes from the International Centre for Mechanical Sciences. Udine. Italy. 1987. In Non Smooth Mechanics and Applications. Ed. J.J. Moreau, P.D. Panagiotopoulos. CISM Course No. 302. Springer-Verlag. Wien. 1988. 279–340.
+    1991 
+    1994 Bouchitte G., Suquet P. : "Equi-coercivity of variational problems. The role of recession functions". Seminar at the Collège de France. April 1990. In H. Brézis, J.L. Lions (eds.) Non-linear partial differential equations and their applications. College de France Seminar XII. Longman, Harlow, 1994, 31–54.
+    1997 a. Suquet P. : "Effective properties of nonlinear composites". in Suquet P. (ed.) Continuum Micromechanics. CISM Reading Notes N0 377. Springer-Verlag. Wien. 1997. pp 197–264.
+    1997 b. Suquet P., Moulinec H. : "Numerical simulation of the effective properties of a class of cell materials". in K.M. Golden, G.R. Grimmett, R.D. James, G.W. Milton, P.N. Sen (eds.) Mathematics of multiscale materials. IMA Reading Notes 99. Springer-Verlag, New York, 1997, 277–287.
+    2000 a. Michel J.C., Galvanetto U., Suquet P. : "Constitutive relations involving internal variables based on a micromechanical analysis", in R. Drouot, G.A. Maugin, F. Sidoroff (eds) Continuum Thermodynamics : The Art and Science of Modeling Material Behaviour, Klüwer Acad.
+    2000 b. Garajeu M., Suquet P : "Micromechanical models for anisotropic damage in creeping materials. In A. Ben Allal (ed.) Continuous Damage and Fracture, Elsevier, 2000, pp. 117–127.
+    2001 a. Michel J.C., Moulinec H., Suquet P. : "Composites with periodic microstructure". In M. Bornert, T. Bretheau and P. Gilormini (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol. 1, chap. 3, pp. 57–94.
+    2001 b. Bornert M., Suquet P.: "Non-linear properties of composites: potential approaches." In M. Bornert, T. Bretheau and P. Gilormini (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol. 2, chap. 2, pp. 45–90.
+    2001 v. Chaboche J.L., Suquet P., Besson J.: "Damage and change of scale". In M. Bornert, T. Bretheau and P. Gilormini (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol. 2, chap. 3, pp. 91–146.
+    2001 d. Suquet P. : "Nonlinear composites : Secant methods and variational bounds". In J. Lemaître (ed.) Handbook of Materials Behavior Models. Academic Press, 2001, pp. 968–98
+
+ Dissemination of knowledge 
+
+    1988 Suquet P. : "Les milieux périodiques". in La Mécanique en 1988. Mail from the CNRS. 1988. 63.
+    1989 Sanchez-Palencia E., Suquet P.: "Simpler materials through homogenization". La Recherche, 214, 1989, XXIV-XXVI.
+    1990 Suquet P. : "L'homogénéisation et la Mécanique des Matériaux". The Mecamat Gazette. February 1990.
+    1992 Guillemain P., Suquet P. : "Waves and Structural Dynamics". Science and Defense. January 1992.
+
+ Honours and awards 
+
+  Henri de Parville Prize from the French Academy of Sciences (1982).
+  Jean Mandel Prize from the École des mines (1988).
+  CNRS Silver medal (1991).
+  Ampère Prize of the French Academy of Sciences (2000).
+  Midwest Mechanics Distinguished Lecturer (2001).
+  French Academy of Sciences: Elected correspondent on 6 June 1994, then member on 30 November 2004 (Section: Mechanical and Computer Sciences).
+  Koiter Medals of ASME (2006).
+  Distinguished International Scholar. University of Pennsylvania (2009).
+    Chevallier of the Palmes Académiques (2010)
+  James K. Knowles Lecture and Caltech Solid Mechanics Symposium (2014).
+    National Academy of Engineering Member (2021)
+    Timoshenko Medal (2024).

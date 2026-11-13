@@ -1,0 +1,32 @@
+Tōichirō Kinoshita  (,  Kinoshita Tōichirō ; January 23, 1925 – March 23, 2023) was a Japanese-born American theoretical physicist. 
+
+Kinoshita was born in Tokyo on January 23, 1925. He studied physics at the University of Tokyo, earning his bachelor's degree in 1947 and then his PhD in 1952. Afterwards he spent two years as a postdoctoral researcher of the Institute of Advanced Study, Princeton, New Jersey, and then one year at Columbia University. His research interests included quantum field theory, and the Standard Model.
+
+Kinoshita worked at the Newman Laboratory of Nuclear Studies at Cornell University from 1955. He was at first a research associate. In 1958 he became assistant professor, and in 1960 associate professor. He became a full professor in 1963, and in 1992 he was appointed Goldwin Smith professor. In 1995 he retired from Cornell as professor emeritus. In 1962–63 he was a Ford Fellow at CERN. He was a guest professor at the University of Tokyo, at CERN, at the national laboratory for high-energy physics KEK in Japan, and at RIKEN in Japan.
+
+Kinoshita was known for his extensive and detailed calculations of quantum electrodynamics (QED), the theory of the interaction of light and matter, on which physicist Abraham Pais called him the "expert among experts". QED is often described as the most accurate physical theory in existence. Among the best-known examples are Kinoshita's calculations of the 
+anomalous magnetic moments of the electron and the muon.
+
+Research
+Kinoshita worked on a range of topics in QED. While at the Institute for Advanced Study he calculated to high precision the ground state energy of Helium.
+At Cornell, Kinoshita collaborated with Alberto Sirlin to calculate the radiative corrections to parity-nonconserving muon decay and β decay.
+He collaborated with Richard Feynman to calculate the radiative correction to the ratio of decay rates for a pion decaying to an electron over that for decaying to a muon, notated as Γ(π− → e−ν)/Γ(π− → μ−ν). In 1962 he showed that Feynman amplitudes in quantum electrodynamics remain finite in the limit of propagator masses vanishing, i.e., all infrared divergences cancel. This became known as the Kinoshita-Lee-Nauenberg theorem. In the 1970s he worked on quantum chromodynamics and quarkonium - spectroscopy with Estia Eichten, Kenneth Lane, Kurt Gottfried, and Tung-Mow Yan.
+
+Kinoshita is best known for his calculations of the 
+anomalous magnetic moments of the electron and muon. According to the Dirac theory, 
+the magnetic moment of the electron should equal two. However, interactions of the electron with a magnetic field will deviate this value from two; the difference is referred to as the anomalous magnetic moment or simply “the anomaly” . The value of  can be calculated as a perturbative expansion in powers of , where  is the fine structure constant. The lowest-order (“second-order”) term was calculated by Julian Schwinger, and the next (fourth-order) term was calculated by Karplus and Kroll (with a sign error subsequently corrected). The fourth-order term is obtained by evaluating seven distinct amplitudes or "Feynman diagrams." These calculations were all performed analytically, and their accuracy was limited only by the value of , which cannot be calculated from first principles and must be measured by experiment.
+
+The sixth-order term consists of 72 Feynman diagrams, and Kinoshita evaluated these to high precision numerically using computers. He revised this calculation in 1995 using faster computers and higher-precision computational techniques. Working with his students, he subsequently calculated the eighth-order terms (891 Feynman diagrams) and, with great effort over several years, the tenth-order terms (12672 Feynman diagrams).
+
+In 2001, Kinoshita and a group in Marseille found a sign difference in their respective calculations of the π0 pole contribution to the sixth-order light-by-light amplitude.  Kinoshita and his student M. Hayakawa ultimately traced this to an incorrect implementation of the antisymmetric Levi-Civita tensor  used in the computation code "Form" that had been used. It took a while to fix this software bug by the developers.
+
+Personal life and death
+Kinoshita married Masako Matsuoka in 1951. He and his wife has three daughters. His wife died in 2022.
+
+Kinoshita died at his home in Amherst, Massachusetts, on March 23, 2023, at the age of 98. He was survived by daughters and sons-in-law Kay and Alan Schwartz, June and Tod Machover, and Ray and Charles C. Mann, three sisters in Japan, and six grandchildren.
+
+Honors and awards
+In 1962–63 he was a Ford Foundation Fellow at CERN. In 1973–74 he was a Guggenheim Fellow. He was awarded the Sakurai Prize from the American Physical Society in 1990; the SUN-AMCO Medal from the International Union of Pure and Applied Science in 1998; the Gian Carlo Wick Gold Medal in 2010; and the Toray Science and Technology Prize in 2019. He was elected to the National Academy of Sciences in 1991. 
+
+ Books 
+ Kinoshita as editor and co-author, Quantum Electrodynamics. World Scientific 1990  (hbk);  (pbk)

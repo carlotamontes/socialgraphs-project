@@ -1,0 +1,52 @@
+Manolis Kellis (; born 1977) is a professor of Computer Science and Computational Biology at the Massachusetts Institute of Technology (MIT) and a member of the Broad Institute of MIT and Harvard. He is the head of the Computational Biology Group at MIT and is a Principal Investigator in the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT.
+
+Kellis is known for his contributions to genomics, human genetics, epigenomics, gene regulation, genome evolution, disease mechanism, and single-cell genomics. He co-led the NIH Roadmap Epigenomics Project effort to create a comprehensive map of the human epigenome, the comparative analysis of 29 mammals to create a comprehensive map of conserved elements in the human genome, the ENCODE, GENCODE, and modENCODE projects to characterize the genes, non-coding elements, and circuits of the human genome and model organisms. A major focus of his work is understanding the effects of genetic variations on human disease, with contributions to obesity, diabetes, Alzheimer's disease, schizophrenia, and cancer.
+
+ Education and early career 
+
+Kellis was born in Greece, moved with his family to France when he was 12, and came to the U.S. in 1993. He obtained his B.S., M.Eng., and Ph.D. from MIT, where he worked with Eric Lander, founding director of the Broad Institute, and Bonnie Berger, professor at MIT and received the Sprowls award for the best doctorate thesis in Computer Science, and the first Paris Kanellakis graduate fellowship. Prior to computational biology, he worked on artificial intelligence, sketch and image recognition, robotics, and computational geometry, at MIT and at the Xerox Palo Alto Research Center.
+
+ Research and career 
+
+As of April 2025, Manolis Kellis has authored 250 journal publications that have been cited 190,000 times. He has helped direct several large-scale genomics projects, including the Roadmap Epigenomics project, the Encyclopedia of DNA Elements (ENCODE) project, the Genotype Tissue-Expression (GTEx) project.
+
+ Comparative genomics 
+Kellis started comparing the genomes of yeast species as an MIT graduate student. As part of this work, which was published in Nature in 2003, he developed computational methods to pinpoint patterns of similarity and difference between closely related genomes. The goal was to develop methods for understanding genomes with a view to apply them to the human genome.
+
+He turned from yeast to flies and ultimately to mammals, comparing multiple species to explore genes, their control elements, and their deregulation in human disease.  Kellis led several comparative genomics projects in human, mammals, flies, and yeast.
+
+ Epigenomics 
+Kellis co-led the NIH government-funded project to catalogue the human epigenome. He said during an interview with MIT Technology Review "If the genome is the book of life, the epigenome is the complete set of annotations and bookmarks." His lab now uses this map to further the understanding of fundamental processes and disease in humans.
+
+ Obesity 
+Kellis and colleagues used epigenomic data to investigate the mechanistic basis of the strongest genetic association with obesity, published in the New England Journal of Medicine. They showed that this mechanism operates in the fat cells of both humans and mice and detailed how changes within the relevant genomic regions cause a shift from dissipating energy as heat (thermogenesis) to storing energy as fat. A full understanding of the phenomenon may lead to treatments for people whose 'slow metabolism' cause them to gain excessive weight.
+
+ Alzheimer's disease 
+Kellis, Li-Huei Tsai, and others at MIT used epigenomic markings in human and mouse brains to study the mechanisms leading to Alzheimer's disease, published in Nature in 2015. They showed that immune cell activation and inflammation, which have long been associated with the condition, are not simply the result of neurodegeneration, as some researchers have argued. Rather, in mice engineered to develop Alzheimer's-like symptoms, they found that immune cells start to change even before neural changes are observed.
+
+ Single-cell Genomics 
+The Kellis Lab has profiled a large number of human post-mortem brains at single-cell resolution, studying inter-individual variation associated with genetic differences and disease phenotypes, including the first single-cell transcriptomic analysis of Alzheimer's disease (Nature, 2019).
+
+ Genotype-Tissue Expression (GTEx) 
+Kellis is a member of the Genotype-Tissue Expression (GTEx) project that seeks to elucidate the basis of disease predisposition. It is an NIH-sponsored project that seeks to characterize genetic variation in human tissues with roles in diabetes, heart disease, and cancer.
+
+Kellis is also a Principal Investigator of the enhancing GTEx (eGTEx) consortium, studying epigenomic changes of regulatory elements and epitranscriptomic changes of RNA transcripts across multiple human tissues.
+
+ Disease Mechanism 
+To date, his lab has developed specific domain expertise in obesity, diabetes, Alzheimer's disease, schizophrenia, heart disease, ALS and FTLD, and cancer.
+
+ Teaching 
+
+In addition to his research, Kellis co-taught for several years MIT's required undergraduate introductory algorithm courses 6.006: Introduction to Algorithms and 6.046: Design and Analysis of Algorithms with Profs. Ron Rivest, Erik Demaine, Piotr Indyk, Srinivas Devadas and others.
+
+He is also teaching a computational biology course at MIT, titled "Computational Biology: Genomes, Networks, Evolution." The course (6.047/6.878) is geared towards advanced undergraduate and early graduate students, seeking to learn the algorithmic and machine learning foundations of computational biology, and also be exposed to current frontiers of research in order to become active practitioners of the field. He started 6.881: Computational Personal Genomics: Making sense of complete genomes, and 6.883/9.S99: Neurogenomics: Computational Molecular Neuroscience This course is aimed at exploring the computational challenges associated with interpreting how sequence differences between individuals lead to phenotypic differences such as gene expression, disease predisposition, or response to treatment.
+
+ Awards and honors
+
+Kellis received the US Presidential Early Career Award for Scientists and Engineers (PECASE), the National Science Foundation CAREER award, a Sloan Research Fellowship, the Gregor Mendel Medal for Outstanding Achievements in Science by the Mendel Lectures committee, the Athens Information Technology (AIT) Niki Award for Science and Engineering, the Ruth and Joel Spira Teaching award, and the George M. Sprowls Award for the best Ph.D. thesis in Computer Science at MIT. He was named as one of Technology Review's Top 35 Innovators Under 35 for his research in comparative genomics
+
+Media appearances 
+
+ Decoding A Genomic Revolution, TEDx Cambridge, 2013 "MIT Computational Biologist Manolis Kellis gives us a glimpse of the doctor's office visit of the future, and uses his own genetic mutations to show us how a revolution in genomics is unlocking treatments that could transform medicine as we know it"
+ Regulatory Genomics and Epigenomics of Complex Disease, Welcome Trust, 2014 "Manolis Kellis, Massachusetts Institute of Technology, USA, gives one of the keynote lectures at Epigenomics of Common Diseases, (28-31 October 2014), organised by the Wellcome Genome Campus Advanced Courses and Scientific Conferences team at Churchill College, Cambridge
+ Manolis Kellis Reddit Ask Me Anything (AMA), Reddit Science AMA Series: "I'm Manolis Kellis, a professor of computer science at MIT studying the human genome to learn about what causes obesity, Alzheimer's, cancer and other conditions. AMA about comp-bio and epigenomics, and how they impact human health".

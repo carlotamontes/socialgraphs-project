@@ -1,0 +1,24 @@
+Mitchell Jay Feigenbaum  (December 19, 1944 – June 30, 2019) was an American mathematical physicist whose pioneering studies in chaos theory led to the discovery of the Feigenbaum constants.
+
+ Early life 
+Feigenbaum was born in Philadelphia, Pennsylvania, to Jewish emigrants from Poland and Ukraine. He attended Samuel J. Tilden High School, in Brooklyn, New York, and the City College of New York.  In 1964, he began his graduate studies at the Massachusetts Institute of Technology (MIT).  Enrolling for graduate study in electrical engineering, he changed his area of study to physics. He completed his doctorate in 1970 for a thesis on dispersion relations, under the supervision of Professor Francis E. Low.
+
+ Career 
+After short positions at Cornell University (1970–1972) and the Virginia Polytechnic Institute and State University (1972–1974), he was offered a longer-term post at the Los Alamos National Laboratory in New Mexico to study turbulence in fluids. He also worked at the Santa Fe Institute. He was at Cornell from 1982 to 1986 and then joined Rockefeller University as Toyota Professor in 1987. Although a complete theory of turbulent fluids remains elusive, Feigenbaum's research paved the way for  chaos theory, providing groundbreaking insight into the many dynamical systems in which scientists and mathematicians find chaotic maps.
+
+In 1983, he was awarded a MacArthur Fellowship, and in 1986, alongside Rockefeller University colleague Albert Libchaber, he was awarded the Wolf Prize in Physics "for his pioneering theoretical studies demonstrating the universal character of non-linear systems, which has made possible the systematic study of chaos". He was a member of the Board of Scientific Governors at the Scripps Research Institute. He remained at Rockefeller University as Toyota Professor from 1987 until his death.
+
+ Work 
+Some mathematical mappings involving a single linear parameter exhibit the apparently random behavior known as chaos when the parameter lies within certain ranges.  As the parameter is increased towards this region, the mapping undergoes bifurcations at precise values of the parameter.  At first, one stable point occurs, then bifurcates to an oscillation between two values, then bifurcating again to oscillate between four values, and so on.  Feigenbaum discovered in 1975, using an HP-65 calculator, that the ratio of the difference between the values at which such successive period-doubling bifurcations occur tends to a constant of around 4.6692...  He was able to provide a mathematical argument of that fact, and he then showed that the same behavior, with the same mathematical constant, would occur within a wide class of mathematical functions, prior to the onset of chaos. This universal result enabled mathematicians to take their first steps to unraveling the apparently intractable "random" behavior of chaotic systems.  The "ratio of convergence" measured in this study is now known as the first Feigenbaum constant.
+
+The logistic map is a prominent example of the mappings that Feigenbaum studied in his noted 1978 article: "Quantitative Universality for a Class of Nonlinear Transformations".
+
+Feigenbaum's other contributions include the development of important new fractal methods in cartography, starting when he was hired by Hammond to develop techniques to allow computers to assist in drawing maps.  The introduction to the Hammond Atlas (1992) states:
+
+Using fractal geometry to describe natural forms such as coastlines, mathematical physicist Mitchell Feigenbaum developed software capable of reconfiguring coastlines, borders, and mountain ranges to fit a multitude of map scales and projections.  Dr. Feigenbaum also created a new computerized type-placement program which places thousands of map labels in minutes, a task that previously required days of tedious labor.
+
+In another practical application of his work, he founded Numerix with Michael Goodkin in 1996. The company's initial product was a software algorithm that dramatically reduced the time required for Monte Carlo pricing of exotic financial derivatives and structured products.
+
+The press release made on the occasion of his receiving the Wolf Prize summed up his works:
+
+The impact of Feigenbaum's discoveries has been phenomenal. It has spanned new fields of theoretical and experimental mathematics ... It is hard to think of any other development in recent theoretical science that has had so broad an impact over so wide a range of fields, spanning both the very pure and the very applied.

@@ -1,0 +1,113 @@
+Bruce Schneier (; born January 15, 1963) is an American cryptographer, computer security professional, privacy specialist, and writer. Schneier is an adjunct lecturer in public policy at the Harvard Kennedy School and Munk School of Global Affairs & Public Policy and a Fellow at the Berkman Klein Center for Internet & Society as of November, 2013. He is a board member of the Electronic Frontier Foundation, Access Now, and The Tor Project; and an advisory board member of Electronic Privacy Information Center and VerifiedVoting.org. He is the author of several books on general security topics, computer security and cryptography and is a squid enthusiast.
+
+ Early life and education 
+Bruce Schneier is the son of Martin Schneier, a Brooklyn Supreme Court judge. He grew up in the Flatbush neighborhood of Brooklyn, New York, attending P.S. 139 and Hunter College High School.
+
+After receiving a physics bachelor's degree from the University of Rochester in 1984, he went to American University in Washington, D.C., and got his master's degree in computer science in 1988.
+
+Career
+
+In 1991, Schneier was laid off from his job and started writing for computer magazines. Later he decided to write a book on applied cryptography "since no such book existed". He took his articles, wrote a proposal to John Wiley and they bought the proposal.
+
+In 1994, Schneier published Applied Cryptography, which details the design, use, and implementation of cryptographic algorithms.
+
+In 1999, Schneier was a founder and chief technology officer of Counterpane Internet Security (now BT Managed Security Solutions).
+
+In 2000, Schneier published Secrets and Lies: Digital Security in a Networked World; in 2003, Beyond Fear: Thinking Sensibly About Security in an Uncertain World and in 2012, Liars and Outliers: Enabling the Trust that Society Needs to Thrive.
+
+As a Fellow of Berkman Center for Internet & Society at Harvard University since 2013, Schneier has been exploring the intersection of security, technology, and people, with an emphasis on power.
+
+He worked for IBM when they acquired Resilient Systems in 2016, where he was CTO. until he left at the end of June 2019.
+
+Schneier has been an adjunct lecturer in public policy at the Harvard Kennedy School.
+
+Personal life
+Schneier was married to Karen Cooper in 1997 and lived in Minneapolis; they published restaurant reviews in the Pulse of the Twin Cities. The couple divorced in 2022.
+
+ Viewpoints 
+
+ Blockchains 
+Schneier has warned about misplaced trust in blockchain and the lack of use cases, calling blockchain a solution in search of a problem.
+
+ Cryptography 
+To Schneier, peer review and expert analysis are important for the security of cryptographic systems. Mathematical cryptography is usually not the weakest link in a security chain; effective security requires that cryptography be combined with other things.
+
+The term Schneier's law was coined by Cory Doctorow in a 2004 speech. The law is phrased as:
+
+He attributes this to Bruce Schneier, who wrote in 1998: "Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can't break. It's not even hard. What is hard is creating an algorithm that no one else can break, even after years of analysis."
+
+Similar sentiments had been expressed by others before. In The Codebreakers, David Kahn states: "Few false ideas have more firmly gripped the minds of so many intelligent men than the one that, if they just tried, they could invent a cipher that no one could break", and in "A Few Words On Secret Writing", in July 1841, Edgar Allan Poe had stated: "Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve."
+
+Schneier also coined the term "kid sister cryptography", writing in the Preface to Applied Cryptography that:
+
+ Digital rights management 
+Schneier is critical of digital rights management (DRM) and has said that it allows a vendor to increase lock-in. Proper implementation of control-based security for the user via trusted computing is very difficult, and security is not the same thing as control.
+
+Schneier insists that "owning your data is a different way of thinking about data."
+
+ Full disclosure 
+Schneier is a proponent of full disclosure, i.e. making security issues public.
+
+ Homeland security 
+Schneier has said that homeland security money should be spent on intelligence, investigation, and emergency response. Defending against the broad threat of terrorism is generally better than focusing on specific potential terrorist plots. According to Schneier, analysis of intelligence data is difficult but is one of the better ways to deal with global terrorism. Human intelligence has advantages over automated and computerized analysis, and increasing the amount of intelligence data that is gathered does not help to improve the analysis process. Agencies that were designed around fighting the Cold War may have a culture that inhibits the sharing of information; the practice of sharing information is more important and less of a security threat in itself when dealing with more decentralized and poorly funded adversaries such as al Qaeda.
+
+Regarding PETN—the explosive that has become terrorists' weapon of choice—Schneier has written that only swabs and dogs can detect it. He also believes that changes to airport security since 11 September 2001 have done more harm than good and he defeated Kip Hawley, former head of the Transportation Security Administration, in an Economist online debate by 87% to 13% regarding the issue. He is widely credited with coining the term "security theater" to describe some such changes.
+
+Movie plot threat
+"Movie-plot threat" is a term Schneier coined that refers to very specific and dramatic terrorist attack scenarios, reminiscent of the behavior of terrorists in movies, rather than what terrorists actually do in the real world. Security measures created to protect against movie plot threats do not provide a higher level of real security, because such preparation only pays off if terrorists choose that one particular avenue of attack, which may not even be feasible. Real-world terrorists would also be likely to notice the highly specific security measures, and simply attack in some other way. The specificity of movie plot threats gives them power in the public imagination, however, so even extremely unrealistic security theater countermeasures may receive strong support from the public and legislators. Among many other examples of movie plot threats, Schneier described banning baby carriers from subways, for fear that they may contain explosives. Starting in April 2006, Schneier has had an annual contest to create the most fantastic movie-plot threat. In 2015, during the 8th and  the last one, he mentioned that the contest may have run its course.
+
+ System design 
+Schneier has criticized security approaches that try to prevent any malicious incursion, instead arguing that designing systems to fail well is more important. The designer of a system should not underestimate the capabilities of an attacker, as technology may make it possible in the future to do things that are not possible at the present. Under Kerckhoffs's Principle, the need for one or more parts of a cryptographic system to remain secret increases the fragility of the system; whether details about a system should be obscured depends upon the availability of persons who can make use of the information for beneficial uses versus the potential for attackers to misuse the information.
+
+Service and awards
+Schneier is a board member of the Electronic Frontier Foundation, Access Now, and The Tor Project; and an advisory board member of Electronic Privacy Information Center and VerifiedVoting.org.
+
+In 2015, Schneier received the EPIC Lifetime Achievement Award from Electronic Privacy Information Center.
+
+In 2011, he was awarded an honorary Ph.D from the University of Westminster in London, England, by the Department of Electronics and Computer Science in recognition of Schneier's 'hard work and contribution to industry and public life'.
+
+Work
+Cryptographic algorithms 
+Schneier has been involved in the creation of many cryptographic algorithms.
+
+Hash functions:
+ Skein
+
+Stream ciphers:
+ Solitaire
+ Phelix
+ Helix
+
+Pseudo-random number generators:
+ Fortuna
+ Yarrow algorithm
+
+Block ciphers:
+ Blowfish
+ Twofish
+ Threefish
+ MacGuffin
+
+ Publications 
+Schneier writes a freely available monthly Internet newsletter on computer and other security issues, Crypto-Gram, as well as a security weblog, Schneier on Security. The blog focuses on the latest threats, and his own thoughts. The weblog started out as a way to publish essays before they appeared in Crypto-Gram, making it possible for others to comment on them while the stories were still current, but over time the newsletter became a monthly email version of the blog, re-edited and re-organized. 
+Schneier is frequently quoted in the press on computer and other security issues, pointing out flaws in security and cryptographic implementations ranging from biometrics to airline security after the September 11 attacks.
+
+ Schneier, Bruce. Applied Cryptography, John Wiley & Sons, 1994. 
+ Schneier, Bruce. Protect Your Macintosh, Peachpit Press, 1994. 
+ Schneier, Bruce. E-Mail Security, John Wiley & Sons, 1995. 
+ Schneier, Bruce. Applied Cryptography, Second Edition, John Wiley & Sons, 1996. 
+ Schneier, Bruce; Kelsey, John; Whiting, Doug; Wagner, David; Hall, Chris; Ferguson, Niels. The Twofish Encryption Algorithm, John Wiley & Sons, 1996. 
+ Schneier, Bruce; Banisar, David. The Electronic Privacy Papers, John Wiley & Sons, 1997. 
+ Schneier, Bruce. Secrets and Lies: Digital Security in a Networked World, John Wiley & Sons, 2000. 
+ Schneier, Bruce. Beyond Fear: Thinking Sensibly About Security in an Uncertain World, Copernicus Books, 2003. 
+ Ferguson, Niels; Schneier, Bruce. Practical Cryptography, John Wiley & Sons, 2003. 
+ Schneier, Bruce. Secrets and Lies: Digital Security in a Networked World, John Wiley & Sons, 2004. 
+ Schneier, Bruce. Schneier on Security, John Wiley & Sons, 2008. 
+ Ferguson, Niels; Schneier, Bruce; Kohno, Tadayoshi. Cryptography Engineering, John Wiley & Sons, 2010. 
+ Schneier, Bruce. Liars and Outliers: Enabling the Trust that Society Needs to Thrive, John Wiley & Sons, 2012. 
+ Schneier, Bruce. Carry On: Sound Advice from Schneier on Security, John Wiley & Sons, 2013. 
+ Schneier, Bruce. Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, W. W. Norton & Company, 2015. 
+ Schneier, Bruce. Click Here to Kill Everybody: Security and Survival in a Hyper-connected World, W. W. Norton & Company, 2018. 
+ Schneier, Bruce. We Have Root: Even More Advice from Schneier on Security, John Wiley & Sons, 2019. 
+ Schneier, Bruce. A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back, W. W. Norton & Company, 2023. 
+ Schneier, Bruce; Sanders, Nathan E. Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship. MIT Press, 2025.

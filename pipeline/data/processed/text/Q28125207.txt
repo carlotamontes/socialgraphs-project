@@ -1,0 +1,75 @@
+Paul Anthony Benioff  (May 1, 1930 – March 29, 2022) was an American physicist who helped pioneer the field of quantum computing. Benioff was best known for his research in quantum information theory during the 1970s and 80s that demonstrated the theoretical possibility of quantum computers by describing the first quantum mechanical model of a computer. In this work, Benioff showed that a computer could operate under the laws of quantum mechanics by describing a Schrödinger equation description of Turing machines. Benioff's body of work in quantum information theory encompassed quantum computers, quantum robots, and the relationship between foundations in logic, math, and physics.
+
+Early life and education
+Benioff was born on May 1, 1930, in Pasadena, California.  His father, Hugo Benioff,  was a professor of seismology at the California Institute of Technology, and his mother, Alice Pauline Silverman, received a master's degree in English from the University of California, Berkeley.  
+
+Benioff also attended Berkeley, where he earned an undergraduate degree in botany in 1951. After a two-year stint working in nuclear chemistry for Tracerlab, he returned to Berkeley. In 1959, he obtained his PhD in nuclear chemistry.
+
+Career and later life
+
+In 1960, Benioff spent a year at the Weizmann Institute of Science in Israel as a postdoctoral fellow. He then spent six months at the Niels Bohr Institute in Copenhagen as a Ford Fellow. In 1961, he began a long career at Argonne National Laboratory, first with its Chemistry Division and later in 1978 in the lab's Environmental Impact Division. Benioff remained at Argonne until he retired in 1995. He continued to conduct research at the laboratory as a post-retirement emeritus scientist for the Physics Division until his death in 2022, survived by his wife of 62 years, Hanna (née Hannelore Leshner) and their three children. Chicago Tribune, April 3, 2022.
+
+In addition, Benioff taught the foundations of quantum mechanics as a visiting professor at Tel Aviv University in 1979, and he worked as a visiting scientist at CNRS Marseilles in 1979 and 1982.
+
+Research
+
+Quantum Computing
+
+In the 1970s, Benioff began to research the theoretical feasibility of quantum computing. His early research culminated in a paper, published in 1980, that described a quantum mechanical model of Turing machines. This work was based on a classical description in 1973 of reversible Turing machines by physicist Charles H. Bennett.
+
+Benioff's model of a quantum computer was reversible and did not dissipate energy. At the time, there were several papers arguing that the creation of a reversible model of quantum computing was impossible. Benioff's paper was the first to show that reversible quantum computing was theoretically possible, which in turn showed the possibility of quantum computing in general. This work, along with later work by several other authors (including David Deutsch, Richard Feynman, and Peter Shor), initiated the field of quantum computing.
+
+In a paper published in 1982, Benioff further developed his original model of quantum mechanical Turing machines. This work put quantum computers on a solid theoretical foundation. Richard Feynman then produced a universal quantum simulator. Building on the work of Benioff and Feynman, Deutsch proposed  that quantum mechanics can be used to solve computational problems faster than classical computers, and in 1994, Shor described a factoring algorithm that is considered to have an exponential speedup over classical computers.
+
+After Benioff and his peers in the field published several more papers on quantum computers, the idea began to gain traction with industry, banking, and government agencies. The field is now a fast-growing area of research that could have applications in cybersecurity, cryptography, quantum system modeling and more.
+
+Further Research
+
+Throughout his career at Argonne, Benioff conducted research in many fields, including mathematics, physics and chemistry. While in the Chemistry Division, he conducted research on nuclear reaction theory, as well as the relationship between the foundations of physics and mathematics.
+
+After joining Argonne's Environmental Impact Division in 1978, Benioff continued work on quantum computing and on foundational issues. This included descriptions of quantum robots, quantum mechanical models of different types of numbers, and other topics. Later in his career he studied the effects of number scaling and local mathematics on physics and geometry. As an emeritus, he continued to work on these and other foundational topics.
+
+Awards and recognition
+In 2000, Benioff received the Quantum Communication Award of the International Organization for Quantum Communication, Computing, and Measurement, as well as the Quantum Computing and Communication Prize from Tamagawa University in Japan. He became a fellow of the American Physical Society in 2001. The following year, he was awarded the Special University of Chicago Medal for Distinguished Performance at Argonne National Laboratory. In 2016, Argonne held a conference in honor of his quantum computing work.
+
+Selected scientific works
+"Cosmic-ray production rate and mean removal time of beryllium-7 from the atmosphere," Physical Review, Vol. 104, 1956, pp. 1122–1130.
+"Information theory in quantum statistical mechanics," Physics Letters, Vol. 14, 1965, pp. 196–197.
+"Some aspects of the relationship between mathematical logic and physics. I," Journal of Mathematical Physics, Vol. 11, 1970, pp. 2553–2569.
+"Some aspects of the relationship between mathematical logic and physics. II," Journal of Mathematical Physics, Vol. 12, 1971, pp. 360–376.
+"Operator valued measures in quantum mechanics: finite and infinite processes," Journal of Mathematical Physics, Vol. 13, 1972, pp. 231–242. 
+"Decision procedures in quantum mechanics," Journal of Mathematical Physics, Vol. 13, 1972, pp. 908–915.
+"Procedures in quantum mechanics without Von Neumann's projection axiom," Journal of Mathematical Physics, Vol. 13, 1972, pp. 1347–1355.
+"Some consequences of the strengthened interpretative rules of quantum mechanics," Journal of Mathematical Physics, Vol. 15, 1974, pp. 552–559. 
+"Models of Zermelo Frankel set theory as carriers for the mathematics of physics. I", Journal of Mathematical Physics, Vol. 17, 1976, pp. 618–628. 
+"Models of Zermelo Frankel set theory as carriers for the mathematics of physics. II," Journal of Mathematical Physics, Vol. 17, 1976, pp. 629–640.
+"Finite and infinite measurement sequences in quantum mechanics and randomness: The Everett interpretation," Journal of Mathematical Physics, Vol. 18, 1977, pp. 2289–2295.
+"The computer as a physical system: A microscopic quantum mechanical Hamiltonian model of computers as represented by Turing machines", Journal of Statistical Physics, Vol. 22, 1980, pp. 563–591.
+"Quantum mechanical hamiltonian models of turing machines", Journal of Statistical Physics, Vol. 29, 1982, pp. 515–546. 
+"Quantum Mechanical Models of Turing Machines That Dissipate No Energy", Phys. Rev. Lett., Vol. 48, 1982, pp. 1581–1585.
+"Quantum mechanical Hamiltonian models of discrete processes that erase their own histories: Application to Turing machines, Int. J". Theor. Phys., Vol. 21, 1982, pp. 177–201.
+"Comment on 'Dissipation in Computation'," Physical Review Letters, Vol. 53, 1984, pp. 1203.
+"Quantum Mechanical Hamiltonian Models of Computers", Annals New York Academy of Sciences, Vol. 480, 1986, pp. 475–486.
+"Quantum ballistic evolution in quantum mechanics: Application to quantum computers", Phys. Rev. A, Vol. 54, 1996, pp. 1106–1123, Arxiv.
+"Tight binding Hamiltonians and Quantum Turing Machines", Phys. Rev. Lett., Vol. 78, 1997, pp. 590–593.
+"Transmission and spectral aspects of tight binding hamiltonians for the counting quantum turing machine," Physical Review B, Vol. 55, 1997, pp. 9482–9493. 
+"Models of Quantum Turing Machines", Fortschritte der Physik, Vol. 46, 1998, pp. 423–441, Arxiv.
+"Quantum robots and environments", Phys. Rev. A, Vol. 58, 1998, pp. 893–904, Arxiv.
+"Quantum Robots and Quantum Computers", in: A. J. G. Hey (Hrsg.), Feynman and Computation, Perseus Books 1999, pp. 155–176, Arxiv.
+"A simple example of definitions of truth, validity, consistency, and completeness in quantum mechanics," Physical Review A, Vol. 59, 1999, pp. 4223–4252.
+"The Representation of Natural Numbers in Quantum Mechanics", Phys. Rev. A, Vol. 63, 2001, 032305, Arxiv.
+"Efficient Implementation and the Product State Representation of Numbers", Phys. Rev. A, Vol. 64, 2001, pp. 052310, Arxiv.
+"Language is physical," Quantum Information Proceedings, Vol. 1, 2002, pp. 495–509.
+"Use of mathematical logical concepts in quantum mechanics: an example," Journal of Physics A: Mathematical and General, Vol. 35, 2002, pp. 5843–5857. 
+"Towards a Coherent Theory of Physics and Mathematics", Found. Phys., Vol. 32, 2002, pp. 989–1029, Arxiv.
+"The Representation of Numbers in Quantum Mechanics", Algorithmica, Vol. 34, 2002, pp. 529–559, Arxiv.
+"Towards a Coherent Theory of Physics and Mathematics: The Theory-Experiment Connection", Foundations of Physics, Vol. 35, 2005, pp. 1825–1856, Arxiv.
+"Representation of complex rational numbers in quantum mechanics", Phys. Rev. A, Vol. 72, 2005, pp. 032314, Arxiv.
+"Fields of quantum reference frames based on different representations of rational numbers as states of qubit strings." Submitted to proceedings, 3rd Feynman Festival, University of Maryland, 2006, Journal of Physics: Conference Series 70 (2007) 012003.
+"A representation of real and complex numbers in quantum theory," International Journal of Pure and Applied Mathematics, Vol. 39, 2007, pp. 297–339. 
+"Reference frame fields based on quantum theory representations of real and complex numbers," Advances in Quantum Computation, Vol. 482, 2009, pp. 125–163.
+"Effects on quantum physics of the local availability of mathematics and space time dependent scaling factors for number systems." Chapter 2, in Advances in Quantum Theory, I. I. Cotaescu (Ed.), Intech open access publisher, 2012.
+"Gauge theory extension to include number scaling by boson field: Effects on some aspects of physics and geometry." Chapter in Recent Developments in Bosons Research, Ignace Tremblay (Ed.), Nova Press, 2013.
+"Fiber bundle description of number scaling in gauge theory and geometry," Quantum Studies: Mathematics and Foundations, Vol. 2, 2015, pp. 289–313.
+"Effects of a scalar scaling field on quantum mechanics," Quantum Information Processing, Vol. 15(7), 2016, pp. 3005–3034. 
+"The no information at a distance principle and local mathematics: some effects on physics and geometry," Theoretical Information Studies, submitted.

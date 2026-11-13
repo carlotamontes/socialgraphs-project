@@ -1,0 +1,34 @@
+Alexei Yurievich Kitaev (; born August 26, 1963) is a Russian-American theoretical physicist.
+
+He is currently a professor of theoretical physics and mathematics at the California Institute of Technology.
+
+Kitaev has received multiple awards recognizing his contributions to quantum information science and condensed matter physics, particularly in quantum computation and topological phases of matter.
+
+ Life 
+Kitaev was educated in Russia, graduating from the Moscow Institute of Physics and Technology in 1986, and with a Ph.D. from the Landau Institute for Theoretical Physics under the supervision of Valery Pokrovsky in 1989.
+
+Kitaev worked as a research associate at the Landau Institute between 1989 and 1998. Between 1999 and 2001, he served as a researcher at Microsoft Research. Since 2002, Kitaev has been a professor at Caltech.
+
+In 2021, Kitaev was elected into the National Academy of Sciences.
+
+ Research 
+ Quantum computing and complexity 
+
+Kitaev has made contributions to quantum algorithms, quantum complexity classes, and fault-tolerant quantum computation. He introduced the complexity class QMA (Quantum Merlin–Arthur) and proved that the k-local Hamiltonian problem is QMA-complete, linking ground-state energy problems for local Hamiltonians to questions in computational complexity.
+
+He introduced the quantum phase estimation algorithm, a general procedure for estimating eigenphases of unitary operators, and independently proved what is now known as the Solovay–Kitaev theorem, which shows that a universal finite gate set can efficiently approximate arbitrary quantum operations on qubits.
+
+He proposed using  topological phases of matter and anyons for fault-tolerant quantum computation, introducing the toric code (or surface code) as a paradigmatic error-correcting code. He also contributed to threshold theorems for fault-tolerant codes and co-developed protocols such as the Gottesman–Kitaev–Preskill code and Bravyi–Kitaev magic-state distillation.
+
+ Topological phases and lattice models 
+
+Kitaev introduced exactly solvable lattice Hamiltonians that realize topologically ordered phases and anyonic excitations in two spatial dimensions. His toric code and related quantum-double models provide toy models realizing anyons and long-range entanglement. His Kitaev honeycomb model is an exactly solvable spin-1/2 model that can realize non-abelian anyons; this model has become a common starting point for the study of "Kitaev quantum spin liquids" in candidate materials.
+
+He has also contributed to the classification of topological phases. He related two-dimensional lattice models of topological order to algebraic data describing the anyon types and their braiding, together with a bulk invariant specifying the chiral central charge. His "periodic table for topological insulators and superconductors" uses K-theory and Bott periodicity to classify gapped free-fermion phases in different symmetry classes and spatial dimensions, and in two dimensions he proposed the "16-fold way" classification of certain topological superconductors. The so-called  state introduced by Kitaev appears as a basic nontrivial 2+1-dimensional invertible phase, and his ideas have been used in generalized-cohomology classifications of symmetry-protected topological phases with symmetry group G.
+
+Kitaev has also contributed to the study of quantum chaos and holography through his work on the Sachdev–Ye–Kitaev (SYK) model.
+
+Honors and awards
+
+ Political activism
+In March, 2022, he was one of 78 Breakthrough Prize Laureates whose names appeared on an "open letter" criticizing the Russian invasion of Ukraine.

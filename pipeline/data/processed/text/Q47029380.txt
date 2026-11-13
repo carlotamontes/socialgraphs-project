@@ -1,0 +1,98 @@
+Jean-Pierre Leburton (March 4, 1949, Liège, Belgium) is a physicist and engineer who is the Gregory E. Stillman Emeritus Professor of Electrical and Computer Engineering at the University of Illinois Urbana–Champaign.
+
+Leburton is also a Research Professor in the N. Holonyak Jr Micro and Technology Laboratory. He is known for his work on the theory and simulation of semiconductors, and quantum devices including quantum wires, quantum dots, and quantum wells. He studies and develops physical models for nanoscale materials and devices with potential applications in electronics, photonics, biology and medicine.
+
+Early life and education
+Leburton was born in Liège, Belgium, to Edmond Leburton, a Belgian statesman and former Prime Minister, and Charlotte Joniaux. His grandfather, Charles Joniaux, was a civil engineer involved in the construction of the Peking–Hankow railroad in China in the early 20th century. Leburton had one younger brother, Eddy Leburton, who died in 1993.
+
+Leburton attended the Athénée Adolf Max in Brussels and later completed his secondary education at the Athénée Royal in Waremme, Belgium. He earned a licentiate degree in physics from the University of Liège in 1971, graduating magna cum laude. After two years as a teaching assistant and a year of teaching in Morocco, he returned to Liège and completed a Ph.D. in theoretical physics in 1978 with summa cum laude honors.
+
+Career
+Leburton began his professional career in 1979 as a research scientist at the Siemens AG Research Laboratory in Munich, West Germany, where he worked until 1981. In that year, he moved to the United States to join the University of Illinois Urbana–Champaign (UIUC) as a visiting assistant professor until 1983 when he joined the Faculty as an assistant professor in the Department of Electrical and Computer Engineering.
+
+He was promoted to associate professor in 1987 and to full professor in 1991. During this period, he collaborated with Karl Hess, a prominent figure in semiconductor device theory and co-director of the newly established Beckman Institute for Advanced Science and Technology. In 2003, he was named the Gregory E. Stillman Professor of Electrical and Computer Engineering, a chaired position he held until 2023.
+
+In 1989, Leburton became one of the original faculty members at the Beckman Institute, contributing to its interdisciplinary mission from its inception to 2018. His research evolved from traditional semiconductor physics involving low-dimensional electronic and photonic devices such as quantum wires and quantum dots to pioneering work in the integration of nanoscale semiconductors with biological systems.
+
+Leburton was among the early advocates for applying nanoscale solid-state devices to bio-molecular sensing. He proposed and developed semiconductor nanopore technologies for DNA sequencing and biosensing applications, leveraging solid-state membranes to improve electrical sensitivity.
+
+In addition to his primary faculty role, Leburton held several visiting positions abroad. In 1992, he was appointed to the Hitachi Ltd. Chair on Quantum Materials as a visiting professor at the University of Tokyo in Japan. Later, in 2000, he served as a visiting professor at the Swiss Federal Institute of Technology in Lausanne (EPFL), further expanding his international academic collaborations.
+
+That year, in recognition of his longstanding service and accomplishments, he was named Gregory Stillman Emeritus Professor of Electrical and Computer Engineering. From 2008 to 2023, he also held a joint appointment as Professor of Physics at the University of Illinois, reflecting the interdisciplinary scope of his work. Since 2011, he has concurrently served as an adjunct professor at the University of Illinois at Chicago.
+
+In 2004, he received the Quantum Device Award from the International Symposium on Compound Semiconductors for his contributions to nanoscale device physics.
+
+In 2011, he was elected to the Royal Academy of Sciences, Letters and Fine Arts of Belgium.
+
+He has also been honored with the Gold Medal for Scientific Achievement by the alumni association of the University of Liège and was named a Chevalier dans l'Ordre des Palmes Académiques by the French government in recognition of his scientific and academic contributions.
+
+More recently in 2021, he was selected for the IEEE Nano Technology Council Pioneer Award for his pioneered contribution to the modeling and simulation of semiconductor nanostructure and quantum devices.
+
+Over the course of his career, Leburton has authored and coauthored over 400 scientific publications in technical journals, books and conference proceedings and delivered more than 350 presentations as plenary addresses, keynote and invited talks at conferences and research institutions, worldwide.
+
+He has chaired international conferences, such as the International Conference on Superlattices, Nanostructures and Nanodevices (ICSNN), and played a significant leadership role in the IEEE Nanotechnology Council. His editorial work includes being the editor of Phonons in Semiconductor Nanostructures (1993) and co-editor of Contemporary Topics in Semiconductor Spintronics (2017), among others. More recently, he edited a book on Physical Model for Quantum Dots.
+
+Research
+Leburton's research career spans over four decades and has influenced nanoscale semiconductor physics, quantum device theory, spintronics, and bio-nanoelectronics. Renowned for integrating fundamental solid-state physics with advanced computational techniques, his work has shaped emerging technologies in optoelectronics, memory devices, biosensors, and quantum computing.
+
+ Early Work: Transport in Low-Dimensional Systems and Device Modeling (1980s–1990s) 
+Leburton first gained recognition in the early 1980s for his foundational contributions to transport phenomena in low-dimensional semiconductor systems.
+
+His 1984 paper on optical phonon scattering in 1D and 2D structures (Journal of Applied Physics) was among the first to rigorously address dissipation at the nanoscale, and is now considered a landmark study.
+
+He later developed a multi-subband Monte Carlo simulation framework for quantum wires incorporating quantum confinement and hot-carrier effects in a self-consistent way. This led to the prediction of inter-subband optical phonon resonance, which was experimentally validated by K. Ismail at IBM in 1992.
+
+During the 1990s, Leburton's research expanded into non-linear transport and electro-thermal effects, long before "thermal management" became a key issue in nanodevice design. His work showed how quantum confinement could modulate electron-phonon interactions, offering new pathways to control heat dissipation in electronic devices. This culminated in a 2005 Physical Review Letters paper that provided one of the first coherent electro-thermal models for carbon nanotubes, demonstrating excellent agreement with experiments.
+
+Concurrently, he made pivotal contributions to optoelectronic device physics. Working on layered semiconductor structures and superlattices, he developed the first multi-band pseudopotential model for calculating refractive indices, which supported impurity-induced layer disordering experiments by Nick Holonyak's group (Physical Review B, 1986).
+
+He proposed novel designs for high-efficiency solar cells (Applied Physics Letters, 1986) and mid-infrared laser structures using asymmetric quantum wells, including collaborative work with the University of Paris (Electronics Letters, 1995).
+
+He also addressed slow carrier dynamics in modulation-doped quantum wells using Monte Carlo simulations (PRB, 1991) and helped develop the BRAQWETT nonlinear optical modulator in collaboration with Bell Labs (JAP, 1993). In 2009, Leburton developed the first theory of the high frequency response and limitations of the light emitting transistor invented by his colleagues at the University of Illinois, while providing design guidelines to improve the device performance a few years later.
+
+ Tunneling Devices and Negative Differential Resistance (Mid 1980s–2000s) 
+In the mid 1980, among six different interpretations of a puzzling oscillatory behavior uncovered by IBM in the electronic current across a semiconductor tunneling hetero-junction, Leburton provided the first coherent explanation based on a space-charge effect feedback to the tunnel barrier.
+
+Then, by the late 1980s, Leburton was exploring tunneling injection mechanisms in field-effect transistors to induce negative differential resistance (NDR), an effect useful in high-speed electronics.
+
+In 1991, he was awarded a U.S. patent for a three-terminal interband tunneling transistor, anticipating modern approaches to low-power MOSFET design.
+
+In the early 1990s, he introduced the concept of "tunneling real-space transfer" in unipolar dual-channel FETs. This effect enabled abrupt gate-controlled NDR behavior, first demonstrated experimentally in 1992 (IEEE Transactions on Electron Devices).
+
+Very recently, he modified the design of a three-terminal quantum cascade laser proposed by J. Dallesasse to discover a new kind of ultra-sensitive electro-optic bistabilities in the resonant tunneling superlattice transistor.
+
+ Semiconductor Bio-Nanoelectronics and Solid-State Nanopores (2006–Present) 
+In the mid-2000s, Leburton transitioned to the interface of semiconductor physics and biotechnology, recognizing the potential of solid-state nanostructures for biosensing and diagnostics. In 2006, he proposed the concept of an ionic field-effect transistor (iFET) using semiconductor membranes with p/n junction doping to modulate ionic currents (Nanotechnology, 2006). This work was patented and later licensed by Oxford Nanopore Technologies (U.S. Patent 8,192,600 B2, 2012). His team was also a finalist for the Best Paper Award at the 2007 IEEE Nanotechnology Conference.
+
+In 2013, Leburton introduced a paradigm-shifting idea of using graphene membranes with nanopores for DNA sequencing, utilizing graphene's atomic thinness and tunable conductivity to enhance resolution and signal-to-noise ratio (PNAS, 2013).
+
+More recently, his group extended this approach to other 2D materials like MoS₂ for ultra-sensitive molecular detection, offering applications in drug delivery, biomarker sensing, and in-vivo diagnostics.
+
+Very recently, his interest in nano-fluidics led him to the discovery of a new coulomb drag effect in electrolytic nanoscale channels, where the ion flow induces a drag of the free electronic charge resulting in a significant electric current amplification in the surrounding conductor . This effect that has broad range of applications in non-fossil fuel generation was rapidly confirmed with the use of carbon nanotubes.
+
+ Recent Advances in Wide-Bandgap Semiconductors and High-Power Electronics (2020s) 
+In his most recent work, Leburton has focused on wide-bandgap semiconductors, particularly diamond and cubic GaN (c-GaN), for applications in green LEDs, high-frequency transistors, and power electronics. In a 2023 study with Jaekwon Lee and Can Bayram, he investigated high-field transport dynamics in these materials, showing how non-randomizing polar optical phonon (POP) scattering in c-GaN enables electron cooling, resulting in higher peak drift velocities compared to diamond.
+
+He also co-authored of a new software for the simulation and optimization of wide band-gap cubic nitride QW devices  which is auspicious of its future utilizations in  high-efficiency droop green and blue LEDs. These findings provide new insight into material behavior under extreme conditions and inform the design of next-generation optoelectronic devices.
+
+ Recognition 
+Across his career, Leburton has developed full-band Monte Carlo transport models, multi-subband simulations, and quantum many-body frameworks that have shaped our understanding of quantum transport, carrier mobility, and device scaling. He has also contributed theoretical models for quantum fountain lasers, quantum cascade lasers, and vertical tunneling FETs, collaborating with leading institutions in the US, Canada, Brazil, Europe, and Asia.
+
+In 2025, Jean‑Pierre Leburton was named a Fellow of the National Academy of Inventors (NAI), recognizing his distinguished contributions to nanotechnology and semiconductor research. He was among 169 U.S. and 16 international inventors selected to the 2025 class of NAI Fellows a group honored for their innovation and impact in translating research into patented technologies that benefit society, and he will be formally inducted at the NAI's annual conference in June 2026 in Los Angeles.
+
+Awards
+2025, Fellow of National Academy of Inventors
+2025, Distinguished Guest Professor, Nanjing University China.
+ 2017, Lifetime membership in the Institute of Electrical and Electronics Engineers (IEEE)
+ 2011, Foreign member of the Royal Academy of Belgium
+ 2010, Distinguished Lecturer, IEEE Nanotechnology Council (also in 2013, 2015, 2024)
+ 2008, Fellow of the Institute of Physics, London
+ 2004, Quantum Devices Award, International Symposium on Compound Semiconductors
+ 2004, Gold Medal for Scientific Achievement, 75th Anniversary of the Alumnus Association of the University of Liège, Belgium
+ 2003, named Gregory E. Stillman Professor of Electrical and Computer Engineering at the University of Illinois
+ 2005, Fellow of the Electrochemical Society
+ 2001, Fellow of the Optical Society of America (OSA) 
+ 2001, Fellow of the American Association for the Advancement of Science (AAAS)
+ 1999, Fellow of the American Physical Society (APS)
+ 1996, Fellow, Institute of Electrical and Electronics Engineers (IEEE)
+ 1993, Chevalier Dans L'Ordre des Palmes Académiques, national order of France

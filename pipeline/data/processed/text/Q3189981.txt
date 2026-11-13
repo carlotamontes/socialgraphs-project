@@ -1,0 +1,15 @@
+Willem Louis van der Poel (2 December 1926 – 22 July 2024) was a Dutch computer scientist, who is known for designing one of the first computers to be designed in the Netherlands, the Zeer Eenvoudige Binaire Reken Automaat (ZEBRA), translated as Very Simple Binary Automatic Calculator.
+
+ Biography 
+In 1950 Van der Poel obtained an engineering degree in applied science at Delft University of Technology, and in 1956 obtained his PhD degree from the University of Amsterdam. The title of his Doctor of Philosophy (Ph.D.) thesis was The Logical Principles of Some Simple Computers.
+
+From 1950 until 1967, he worked for the Dutch Posterijen, Telegrafie en Telefonie (Netherlands) (PTT, renamed KPN). From 1962 until 1988, he was a part time professor at Delft University of Technology. One of his PhD students was Gerard J. Holzmann.
+
+He was involved with international standards in programming and informatics, as a member of the International Federation for Information Processing (IFIP) IFIP Working Group 2.1 on Algorithmic Languages and Calculi, which specified, maintains, and supports the programming languages ALGOL 60 and ALGOL 68. He was the first chairperson, from 1962 to 1968. He also contributed to developing the languages ALGOL 68 and LISP for the ZEBRA.
+
+In 1971, Van der Poel was elected a member of the Royal Netherlands Academy of Arts and Sciences. In 1960, he received, together with H. Mol, the Visser-Neerlandia prize for the construction of a Braille translator.
+
+Van der Poel died in Zoetermeer on 22 July 2024, at the age of 97.
+
+ Work 
+Van der Poel is primarily known as a Dutch computer pioneer, designer of Testudo, the PTERA, the ZERO, and the ZEBRA computers. He is said to be the originator of the zero–one–infinity rule, which suggests that software designs should not impose arbitrary limits on the number of instances of a particular entity: if more than one instance of it is to be allowed, then the set size should have no fixed limit.

@@ -1,0 +1,17 @@
+Paul Smolensky (born May 5, 1955) is Professor Emeritus of Cognitive Science at the Johns Hopkins University and a Senior Principal Researcher at Microsoft Research, Redmond Washington.
+
+Along with Alan Prince, in 1993 he developed Optimality Theory, a grammar formalism providing a formal theory of cross-linguistic typology (or Universal Grammar) within linguistics.  
+Optimality Theory is popularly used for phonology, the subfield to which it was originally applied, but has been extended to other areas of linguistics such as syntax and semantics.
+
+Smolensky is the recipient of the 2005 Rumelhart Prize for his development of the ICS Architecture, a model of cognition that aims to unify connectionism and symbolism, where the symbolic representations and operations are manifested as abstractions on the underlying connectionist or artificial neural networks.  
+This architecture rests on Tensor Product Representations, compositional embeddings of symbolic structures in vector spaces. 
+It encompasses the Harmonic Grammar framework, a connectionist-based numerical grammar formalism he developed with Géraldine Legendre and Yoshiro Miyata, which was the predecessor of Optimality Theory. 
+The ICS Architecture builds on Harmony Theory, a formalism for artificial neural networks that introduced the restricted Boltzmann machine architecture. 
+This work, up through the early 2000s, is presented in the two-volume book written with Géraldine Legendre, The Harmonic Mind.
+Subsequent work introduced Gradient Symbolic Computation, in which blends of partially-activated symbols occupy blends of positions in discrete structures such as trees or graphs. 
+This has been successfully applied to numerous problems in theoretical linguistics where traditional discrete linguistic structures have proved inadequate, as well as incremental sentence processing in psycholinguistics.
+In work with colleagues at Microsoft Research and Johns Hopkins, Gradient Symbolic Computation has been embedded in neural networks using deep learning to address a range of problems in reasoning and natural language processing.
+
+Among his other important contributions is the notion of local conjunction of linguistic constraints, in which two constraints combine into a single stronger constraint that is violated only when both of its conjuncts are violated within the same specified local domain.  Local conjunction has been applied to the analysis of various "super-additive" effects in Optimality Theory. With Bruce Tesar (Rutgers University), Smolensky has also contributed significantly to the study of the learnability of Optimality Theoretic grammars (in the sense of computational learning theory).
+
+Smolensky was a founding member of the Parallel Distributed Processing research group at the University of California, San Diego, and is currently a member of the Deep Learning Group at Microsoft Research, Redmond Washington.

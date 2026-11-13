@@ -1,0 +1,62 @@
+Vijay Satyanand Pande is a Trinidadian–American scientist and venture capitalist. Pande is best known for orchestrating the distributed computing protein-folding research project known as Folding@home. His research is focused on distributed computing and computer-modelling of microbiology, and on improving computer simulations regarding drug-binding, protein design, and synthetic biomimetic polymers. He was the founder and general and managing partner of venture capital firm a16z’s Bio + Health fund. Pande is currently the co-founder and managing partner of venture firm VZVC.
+
+ Early life and education 
+Pande graduated from Langley High School's class of 1988 while growing up in McLean, Virginia. As a high school student, Pande was awarded fourth place in the 1988 Westinghouse Science Talent Search for his project on simulating space-based missile defense. His analysis showed that “to protect against 2,400 Soviet missiles, 8,000 satellites equipped with laser weapons would be required,” a critique of Ronald Reagan’s Strategic Defense Initiative.
+
+After graduating from high school in 1988, Pande worked briefly at the video game development company Naughty Dog, handling the PC and Amiga ports of their Apple IIGS game Keef the Thief (1989) and serving as a programmer and designer on the Sega Genesis game Rings of Power (1992). While Pande was attending MIT and Naughty Dog was based in Boston, he portrayed Gulab Jamun, a secret character in the 3DO fighting game Way of the Warrior (1994).
+
+He is married to Lara Pande and has three daughters. The family has a love for cats.
+
+Career
+Pande is an adjunct professor of structural biology, computer science, biophysics and chemistry at Stanford University. Previously, he was the Henry Dreyfus Professor of Chemistry and professor of structural biology and of computer science. He was also director of the biophysics program.
+
+In 2015, Pande became the ninth general partner at Andreessen Horowitz (a16z), where he founded the firm’s Bio + Health Fund, which invests in life sciences and healthcare valued more than $3 billion under management. In December 2024, he left the leadership role and moved to an AI role in the company.
+
+Pande served on the boards of Apeel Sciences, Bayesian Health, BioAge Labs, Citizen, Devoted Health, Freenome, Insitro, Nautilus Biotechnology, Nobell, Omada Health, Q.bio, Function Health Board, Slingshot AI and Scribe Therapeutics, a CRISPR company co-founded by 2020 Nobel Laureate Jennifer Doudna. He has also been a founder and advisor to startups in Silicon Valley.
+
+In 2025, Pande departed Andreessen Horowitz to co-found VZVC, a Bay Area venture firm focused on AI-driven healthcare, alongside startup investor Zack Werner. VZVC invests in technology-enabled healthcare startups targeting longstanding challenges in care quality, access, and cost, with a particular focus on consumer-driven health services and preventive diagnostics.
+
+Pande has written for Time, STAT News, Fortune, Scientific American and the New York Times, among others.
+
+ Globavir Biosciences, Inc. 
+In 2014, Pande co-founded Globavir Biosciences, an infectious disease startup addressing antibiotic resistance threats in developed countries as well as needs in viral infections around the world, including Ebola and dengue fever.
+
+ Pande Lab at Stanford University 
+Pande founded the Pande Lab at Stanford University. The lab brings together researchers from many departments, including chemistry, computer science, structural biology, physics, biophysics, and biochemistry.
+
+The lab was instrumental in advancing real-time simulations of biomolecules. His work was featured in MIT Technology Review’s TR100 in 2002 for using distributed computing to solve complex folding sequences: “Since the project’s October 2000 debut, some 75,000 volunteers worldwide have helped simulate, for the first time, the complete folding behavior of five important proteins.”
+
+ Distributed computing 
+Pande is the founder of the Folding@home research project. The protein-folding computer simulations from the Folding@home project are said to be "quantitatively" comparable to real-world experimental results. The method for this yield has been called a "holy grail" in computational biology. Folding@home was recognized by the Guinness Book of World Records in 2007 as the most powerful distributed computing network in the world.
+
+Awards
+In 2002, he was named a Frederick E. Terman Fellow and was recognized as one of the top 100 innovators under 35 by MIT Technology Reviews TR100. The following year, he was awarded the Henry and Camille Dreyfus Teacher-Scholar award. 
+In 2004, he received a Technovator award from Global Indus Technovators in its Biotech/Med/Healthcare category. 
+In 2006, Pande was awarded the Irving Sigal Young Investigator Award from the Protein Society. 
+In 2008, he was named "Netxplorateur of 2008". Also in 2008 he was given the Thomas Kuhn Paradigm Shift Award and received the Fellowship of the American Physical Society. 
+Pande received the 2012 Michael and Kate Bárány Award for developing computational models for proteins and RNA. 
+In 2015, Pande received the DeLano Award for Computational Biosciences, as well as the Camille and Henry Dreyfus Distinguished Chair in Chemistry.
+
+ Selected publications 
+Vijay Pande has authored or co-authored over 300 peer-reviewed scientific papers spanning computational chemistry, biophysics, molecular dynamics, and machine learning in biology. The following is a selection of his notable publications:
+
+ Feinberg, E. N., Sur, D., Wu, Z., Husic, B. E., Mai, H., Li, Y., ... & Pande, V. S. (2018). "PotentialNet for molecular property prediction." ACS Central Science, 4(11), 1520–1530. This paper introduced a novel graph convolutional neural network (GNN) framework—PotentialNet—for predicting molecular properties such as protein-ligand binding affinities. The method demonstrated superior performance in pharmaceutical applications and was adopted by companies including Merck.
+
+ Feinberg, E. N., Tseng, H., Husic, B. E., Mai, H., Li, Y., Cox, S., ... & Pande, V. S. (2020). "Improved ADMET property prediction with graph convolutional networks." Journal of Medicinal Chemistry, 63(16), 8835–8848. Building on PotentialNet, this work achieved what the authors described as "unprecedented accuracy" in predicting ADMET (absorption, distribution, metabolism, elimination, and toxicity) characteristics, outperforming traditional machine learning approaches such as Random Forest models.
+
+ Shirts, M., & Pande, V. S. (2000). "Computing: Screen savers of the world unite!" Science, 290(5498), 1903–1904. This perspective article laid the theoretical groundwork for large-scale distributed computing in molecular biology, proposing the use of consumer-grade hardware to divide massive computational tasks—a vision later realized in Folding@home.
+
+ Bowman, G. R., Voelz, V. A., & Pande, V. S. (2011). "Taming the complexity of protein folding." Current Opinion in Structural Biology, 21(1), 4–11. This review summarized advances in Markov state models (MSMs) for simulating long-timescale protein folding. Pande’s group was among the first to demonstrate how MSMs could extract biologically relevant insights from large-scale molecular simulations.
+
+ Dror, R. O., Dirks, R. M., Grossman, J. P., Xu, H., Shaw, D. E., & Pande, V. S. (2012). "Biomolecular simulation: A computational microscope for molecular biology." Annual Review of Biophysics, 41, 429–452. Co-authored with researchers at D. E. Shaw Research, this article examined how molecular simulations are transforming structural biology by enabling the modeling of dynamic processes such as receptor-ligand binding and allosteric transitions.
+
+ Kohlhoff, K. J., Shukla, D., Lawrenz, M., Bowman, G. R., Konerding, D. E., Belov, D., ... & Pande, V. S. (2014). "Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways." Nature Chemistry, 6'''(1), 15–21. As part of the Stanford/NIH/Google Exacycle project, this work reported one of the first atomistic simulations of G protein-coupled receptor (GPCR) activation over 2 milliseconds—described as "a virtual eternity in chemical reaction time"—revealing intermediate conformational states critical for rational drug design.
+
+References
+
+ Bibliography 
+
+ Ramsundar, Bharath (2019). Deep Learning for the Life Sciences : Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More. Peter Eastman, Patrick Walters, Vijay Pande (First edition ed.).O'Reilly Media, Inc. 
+ Pande, Vijay (2012). Physical chemistry principles (Second edition ed.). CreateSpace Independent Publishing Platform. 
+ An introduction to Markov state models and their application to long timescale molecular simulation. Gregory R. Bowman, Vijay Pande, Frank Noé. Dordrecht. 2014. Springer. 
+ Grosberg, A. IU. (1994). Statistical physics of macromolecules''. A. R. Khokhlov. New York: AIP Press.

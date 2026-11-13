@@ -1,0 +1,41 @@
+Jean-Baptiste Leblond (born 21 May 1957 in Boulogne-Billancourt) is a French materials scientist, member of the Mechanical Modelling Laboratory of the Pierre-et-Marie-Curie University (MISES) and professor at the same university.
+
+ Biography 
+
+Leblond attended his scientific preparatory classes, notably in the special M' mathematics class at the Lycée Louis-le-Grand and was admitted to the École normale supérieure de la rue d'Ulm, mathematics option, in 1976. He then joined the Corps des mines and became a doctor of physical sciences.
+
+Since 2005, he has been a member of the French Academy of Sciences and a founding member of the French Academy of Technologies (2000). He is a senior member of the Institut universitaire de France.
+
+ Scientific fields covered 
+
+ Modeling of solid-state transformation kinetics in steels and alloys. Leblond's classical model is essentially based on the notion of phase proportions at thermodynamic equilibrium, and the deviation from these proportions.
+ Theoretical analysis and modelling of the transformation plasticity of steels and alloys, based on the mechanism proposed by Greenwood and Johnson in 1965. The first classical approach to Leblond's problem has recently been taken up again by combining the theories of homogenization and boundary analysis.
+ Numerical simulation of thermomechanical treatments of steels and alloys (welding, quenching, etc.). Initially limited to the solid part of the structure, these simulations have been extended to the modelling of fluid flow and heat in the molten bath, including in particular the effects of surface tension.
+ Crack propagation paths in linear mechanics of brittle fracture, 2D and 3D. One of the most difficult issues examined by Leblond is that of interpreting and explaining the fragmentation of crack fronts in brittle materials under partial I+III or general I+II+III mixed mode loading.
+ Ductile failure of metals. The problems examined include the shape effects of cavities and the theoretical analysis and modelling of their coalescence, a prelude to the formation or propagation of a macroscopic crack. Reference provides a summary of the work.
+ Diffusion/reaction phenomena in solids, with particular application to the internal oxidation of metal plates. A major advance consists in an ab initio prediction, without adjustable parameters, of the transition from internal to external oxidation (limited to the surface of the material).
+ Advanced numerical methods in solid mechanics and metallurgy. Special efforts have been devoted to the development of Gaussian pointless finite element methods, including a nodal integration technique with various advantages.
+
+ Leblond's kinetic theory 
+This is an approach established by Leblond in his work on phase transformations.
+
+The theory proposes an evolutionary model to quantify the composition of the different phases of a crystalline material during heat treatment.
+
+The method is based on experimentally established CRT (Continuous Cooling Transformation) diagrams to compose TTT (Time-Temperature-Transformation) diagrams, which are widely used for numerical simulation or for the manufacture of industrial parts.
+
+The theory posits the equivalent volume fraction of a constituent yeq as the stationary solution of the evolution equations describing the phase change kinetics:
+
+  stationnart phase
+
+We then suppose in anisothermal condition that the real fraction y is close to yeq, it is then possible to approximate the real value Y by a Taylor development at order 1:
+
+ 
+
+The evolution is given by :
+
+ 
+ τ is determined on the one hand by the incubation period (critical time) and on the other hand by the cooling rates T.
+
+There are also other formalisms such as the theory of Kirkaldy, Johnson-Mehl-Avrami or Waeckel. One of the most classical, quite old, is that of Johnson-Mehl-Avrami. The model proposed by Jean-Baptiste Leblod is in fact based on this classical model by generalizing it on two points: 1) it considers any number of phases and transformations between these phases, and not just two phases and a single transformation; 2) the transformations can remain, after an infinitely long time, partial, and not necessarily complete as in the Johnson-Mehl-Avrami model (this is linked to the existence, in the new model, of fractions "at equilibrium" of the phases towards which the system evolves after an infinite time, not necessarily equal to 0 or 1 but which can take any value between these limits).
+
+The Leblond model is designed for applications in the thermometallurgical treatment of steels; this explains its success with the modellers of these treatments.

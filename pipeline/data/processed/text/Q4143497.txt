@@ -1,0 +1,41 @@
+Alexander Nikolaevich Gorban (; 19 April 1952 – 21 September 2025) was a scientist of Russian origin, working in the United Kingdom. He was a professor at the University of Leicester, and director of its Mathematical Modeling Centre. Gorban contributed to many areas of fundamental and applied science, including statistical physics, non-equilibrium thermodynamics, machine learning and mathematical biology.
+
+Gorban was the author of about 20 books and 300 scientific publications. He founded several scientific schools in the areas of physical and chemical kinetics, dynamical systems theory and artificial neural networks, and is ranked as one of the 1000 most cited researchers of Russian origin. In 2020, Gorban presented a keynote talk at the IEEE World Congress on Computational Intelligence.
+
+He supervised six habilitations and more than 30 PhD theses.
+
+ Background 
+Gorban was born in Omsk on 19 April 1952. His father Nikolai Vasilievich Gorban was a historian and writer exiled to Siberia, and his mother was a literature teacher in Omsk Pedagogical Institute. From 1965 to 1966, he studied at the Specialized Educational Scientific Center on Physics, Mathematics, Chemistry and Biology of Novosibirsk State University (SESC NSU). In 1967, at the age of 15, he entered Novosibirsk State University but was excluded from it in autumn 1969 because of his participation in January 1968 in political student movements against the convictions of Soviet writers Alexander Ginzburg and Yuri Galanskov.
+
+After studying for a year in a vocational technical school and following an individual extramural program at Omsk Pedagogical Institute, he obtained a master's degree with a thesis entitled Sets of removable singularities in Banach spaces and continuous maps under the supervision of Russian mathematician Vladimir B. Melamed.
+
+From 1973 to 1976, he worked in the Omsk Institute Of Transport Engineers and published his first scientific works, but then moved to Krasnoyarsk where he was permanently employed at the Institute of Computational Modeling. In 1980, Gorban obtained his Candidate of Sciences diploma, corresponding to PhD in the Russian scientific degree hierarchy. His thesis title was Slow relaxations and bifurcations of omega-limit sets of dynamical systems (translated later into English ). His viva was organized by Olga Ladyzhenskaya, Mark Krasnosel'skii, and George M. Zaslavsky.
+
+He became the head of the Laboratory of Non-Equilibrium Systems in 1989 and completed his habilitation in 1990. In 1995 he became the deputy director of the Institute of Computational Modeling and head of the Computational Mathematics Department. At the same time, he taught at Krasnoyarsk State University (1981–1991) and subsequently headed the Neuroinformatics Department at the Krasnoyarsk State Technical University (1993–2006).
+
+In the 1990s, Gorban visited several mathematical institutes in US and Europe, including the Clay Mathematics Institute, Courant Institute of Mathematical Sciences, Institut des Hautes Etudes Scientifiques, ETH (2003–2004), Isaac Newton Institute.
+
+In 2004, Gorban became Professor of Applied Mathematics at the Leicester University, UK, and the chair of its Mathematical Modeling Centre.
+
+Gorban died on 21 September 2025, at the age of 73. He was a stepbrother of Svetlana Kirdina.
+
+ Research activity 
+Gorban's scientific contributions have been made in theoretical physics, mechanics, functional analysis, theory of natural selection, theory of adaptation, artificial neural networks, physical kinetics, bioinformatics. A top level view of scientific activity and the future of applied mathematics have been given in his book "Demon of Darwin: idea of optimality and natural selection", articles and public lectures.
+
+In functional analysis, Gorban investigated the properties of analytical Fredholm subsets in Banach spaces, formulated the relevant principle of maximum modulus and proved an analogue of the Remmert-Stein theorem.
+
+In mathematical chemistry, Gorban investigated the thermodynamical properties of chemical systems based on the analysis of Lyapunov's function trees in the polytope of conservation laws. He developed a theory of thermodynamically admissible paths for complex multidimensional systems of chemical thermodynamics and kinetics.
+
+Together with Grigoriy Yablonsky and his team he developed methods of mathematical modeling and analysis of chemical system models for kinetics of catalytic reactions. He investigated the relaxation properties of some chemical systems and developed the singularity theory for transient processes of dynamical systems, developed the method of path summation for solving the chemical kinetics equations, developed a theory of dynamic limitation and asymptotology of chemical reaction networks which was applied to modeling of biological signalling networks and mechanisms of microRNA action on translation regulation.
+
+Gorban developed a series of methods for solving equations of chemical and physical kinetics, based on constructive methods of invariant manifold approximation. This theory has found many applications in the construction of physically consistent hydrodynamics as a part of Hilbert's sixth problem, modeling non-equilibrium flows, in the kinetic theory of phonons, for model reduction in chemical kinetics, and modeling liquid polymers. He developed new methods for application of the Lattice Boltzmann's Method, based on its thermodynamical properties. Gorban has developed a mathematical model of the Gorlov helical turbine and estimated its achievable efficiency in energy capture. He investigated general problems of geometrical interpretation of thermodynamics 
+and general properties of non-classical entropies.
+
+In the mathematical theory of natural selection, Gorban developed a theory of a special class of dynamical systems with inheritance. He discovered and explained theoretically the universal phenomenon of system adaptation under stress conditions,
+leading to simultaneous increase of correlations and variance in the multidimensional space of system parameters. The Anna Karenina principle developed by Gorban is now applied as a method of diagnostics and prognosis for economics and human physiology.
+
+Gorban developed highly efficient parallel methods for artificial neural networks (ANN) learning, based on systematic use of duality of their functioning, and developed methods of knowledge extraction from data based on sparse ANNs. He proved the theorem of universal approximation properties of ANN. All these approaches have found numerous applications in existing expert systems. Together with I. Tyukin, he developed a series of methods and algorithms for fast, non-iterative and non-destructive corrections of errors in legacy Artificial intelligence systems. These methods are based on the concentration of measure phenomena, ideas of statistical mechanics and original stochastic separation theorems.
+
+In applied statistics, Gorban developed methods for constructing principal manifolds (Elastic maps method) and their generalizations (principal graphs, principal trees), based on the mechanical analogy with elastic membrane. The method has found numerous applications for visualization and analysis of economical, sociological and biological data. In collaboration with E.M. Mirkes and other authors, used machine learning methods for connecting individual psychological characteristics and predisposition to consuming certain types of drugs.
+
+In bioinformatics Gorban was one of the first to apply the method of frequency dictionaries and Principle of maximum entropy for analysis of nucleotide and amino acid sequences. He investigated the general properties of compact genomes and proved the existence of a 7-cluster structure in the genome sequence, which was applied for solving the de novo gene identification problem.

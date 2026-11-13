@@ -1,0 +1,115 @@
+Eugene Newman Parker (June 10, 1927 – March 15, 2022) was an American solar and plasma physicist, often called the "father" and "founder" of heliophysics. In 1958, he proposed the existence of the solar wind and predicted that the magnetic field in the outer Solar System would be in the shape of a Parker spiral—predictions initially rejected by reviewers and scientific community, but quickly confirmed by the Mariner 2 spacecraft in 1962. Multiple phenomena in solar and plasma physics bear his name, including the Parker instability, Parker equation, Sweet–Parker model of magnetic reconnection, Parker limit on magnetic monopoles, and Parker theorem. In 1988, he proposed that nanoflares could explain the coronal heating problem, a theory that remains a leading candidate.
+
+Parker obtained his PhD from Caltech in 1951 and spent four years at the University of Utah before joining the University of Chicago in 1955, where he spent the rest of his career at the Enrico Fermi Institute. He wrote more than 400 papers, mostly without co-authors, and received multiple awards including the National Medal of Science (1989), Gold Medal of the Royal Astronomical Society (1992), Kyoto Prize (2003), and Crafoord Prize (2020). In 2017, NASA renamed its Solar Probe Plus mission to Parker Solar Probe in his honor, the first NASA spacecraft named after a living person.
+
+ Biography 
+Eugene Newman Parker was born in Houghton, Michigan to Glenn and Helen ( MacNair) Parker on June 10, 1927. Parker's grandfather was a president of the Michigan College of Mines in Houghton and a physicist. Parker's uncle was also a physicist, who worked at Bell Laboratories.
+
+Eugene had two younger siblings, a brother and a sister. His father, Glenn, a mining surveyor and then an engineer, worked at Consolidated Aircraft company. When Eugene was seven, the family moved to Detroit, for his father's graduate studies in engineering, and later his work for Chrysler. His mother, Helen, got a mathematics degree at Stanford, but did not pursue a career. By the time Eugene went to university, his parents moved from Detroit to a farm in Arkansas.
+
+Parker became interested in science and engineering from childhood: he was interested in steam trains, and found the mechanical principles of it to be "fascinating". At six, he got his deceased grandfather's 50-power microscope. He became interested in math when it went beyond arithmetics in school, and then in physics.
+
+During World War II, Parker, then 16, bought a "tax-delinquent property": 40-acre area in the woods of Cheboygan County, around 300 miles from Detroit, for $120 he earned earlier in summer. Together with his brother and cousin, Parker spent three summers building a log cabin there, going by bicycle as there were no other ways to commute. The log cabin with no electricity and running water was in use by Parker's family for almost 80 years.
+
+Parker received his Bachelor of Science degree in physics from Michigan State University in 1948 and a Doctor of Philosophy (PhD) degree from Caltech in 1951. He had a tuition scholarship at Michigan, but not at Caltech. To earn money for the first semester, he worked as a technician at the Physics Laboratory at Chrysler Engineering for six months in 1948. Parker later wrote that William Smythe's year-long course in electricity and magnetism was the most demanding course in his first year at Caltech, but noted that after several weeks the problems became easier and he "aced" the exam. Parker later got a teaching assistantship with the help of William A. Fowler. Parker worked with Howard P. Robertson, who suggested him to study dynamics of the interstellar medium. When Robertson left Caltech, Parker continued to work with Leverett Davis, who became his PhD advisor.
+
+Parker's PhD thesis was of two parts: a dynamical analysis of interstellar gas clouds and a study of dust structures in the Pleiades. In the first, gas clouds were idealized as self-gravitating Hamiltonian systems, leading to the result that they either disperse to infinity or collapse into compact objects such as stars, a result accepted for publication without controversy; Parker later called the idea "a dubious assumption". The second part proposed that "the long thin curved dust striations observed in the Pleiades" require an interstellar magnetic field of at least a microgauss to prevent dust grains, driven by interstellar winds, from smearing out into diffuse clouds. Because the grains are photoelectrically charged, they can remain tied to magnetic field lines, preserving the observed narrow striations.
+
+After Caltech, Parker got a job as an instructor at the Department of Mathematics at the University of Utah. After two years there, he found out that he would not be offered a permanent position and that he would be fired soon. After a talk with Walter Elsasser he was proposed "a position as a one-third time assistant professor in the Physics Department and a two-thirds time research associate with him". He worked with Elsasser for two years. In 1955, John Simpson invited Parker to the University of Chicago as a theoretician to study cosmic rays; Parker spent the rest of his career there, at the Enrico Fermi Institute. He became full professor in 1962, and served as a head of the physics department in 1970–1972, and of the department of astronomy and astrophysics in 1972–1978. Parker retired in 1995, but continued to work and publish papers. Parker had 14 PhD students.
+
+ Solar physics research 
+
+Parker is often called the "father", "unquestioned founder", and a "legendary figure" in heliophysics. Astrophysicist Angela Olinto noted that "Gene's name is quite literally written in our star", referencing multiple phenomena discovered by Parker: "the Parker instability, which describes magnetic fields in galaxies; the Parker equation, which describes particles moving through plasmas; the Sweet-Parker model of magnetic fields in plasmas; and the Parker limit on the flux of magnetic monopoles."
+
+Parker wrote more than 400 papers and four books. Most of his papers are single authored; Parker never wrote papers with his students, "urging them to be independent". Parker never co-authored a paper if he did not reproduce all calculations, and he never used computers for research. Parker's research relied on classical physics like Maxwell's equations and magnetohydrodynamics, he did not use methods from quantum mechanics or the theory of relativity.
+
+Astrophysicist Arnab Rai Choudhuri, Parker's PhD student, wrote that "it is impossible for one person to fully understand the significance of all of Parker's works at a technical level, unless that person also happens to be almost as brilliant as Parker himself!"
+
+Choudhuri described Parker as a very independent researcher:
+
+ 1955: Turbulent dynamo theory  
+Confronting Cowling's antidynamo theorem, Parker showed that in a rotating, convecting conductor, turbulence becomes helical, enabling large-scale field growth when averaged ("mean-field" theory). He wrote down a tractable dynamo equation and identified wave-like solutions (dynamo waves) that offered a physical picture for the sunspot belt's equatorward drift across a cycle. Parker's paper established the feasibility of MHD dynamos, showed turbulence can build global order, and sketched a solar-cycle model.
+
+ 1955: Magnetic buoyancy and bipolar sunspots  
+
+Parker explained how strong toroidal flux generated in the solar interior becomes lighter than its surroundings due to magnetic pressure, making segments buoyant and able to rise to the surface as Ω-shaped loops that produce bipolar sunspot pairs. He later showed that buoyancy is enhanced in the convection zone but suppressed just below, naturally "anchoring" loop footpoints—consistent with the observed morphology. This framework led to thin-flux-tube and full-MHD simulations and clarified links to Joy's law tilts and toroidal field strengths at depth.
+
+ 1957: Magnetic reconnection (Sweet–Parker model)  
+
+Building on Sweet's neutral-sheet model, Parker derived the canonical inflow rate for resistive reconnection in a long, thin current sheet—now called Sweet–Parker scaling. Historical publication delays meant Parker's paper appeared first but credited Sweet's mechanism. While crucial, the Sweet–Parker rate is too slow for flare rise times, motivating later fast-reconnection scenarios and modern numerical/kinetic work. The classical rate remains a baseline against which faster mechanisms are compared.
+
+ 1958: Solar wind and the Parker spiral  
+
+In the 19th and early 20th century the prevailing view was that the Sun is a static object, connected to planets and minor bodies only via gravity. The first evidence of a constant particle flow was found in comets, whose tails always point away from the Sun. In 1950s, the German astrophysicist Ludwig Franz Biermann studied how comet tails interact with the Sun. Biermann stated that "solar corpuscular radiation" was needed to explain the observed behavior. In 1956, he came to the University of Chicago, where he discussed his results with Parker. Parker also discussed the solar corona with mathematician Sydney Chapman, who mentioned that "the corona is so hot that it should extend clear to the orbit of the Earth". Parker then conjectured that "the corona and solar corpuscular radiation must be the same thing":
+ 
+
+The math needed to discover the solar wind was, per Parker just "four lines of algebra".
+When he wrote hydrodynamic equations for an isothermal, extended coronal atmosphere, the plasma flow velocity integrated to a closed form:
+ 
+One solution to this equation was immediately recognizable as a solar wind. 
+
+Parker's theory of supersonic solar wind also predicted the shape of the solar magnetic field in the outer Solar System. Parker argued that a million-degree corona cannot remain static: pressure forces must drive a radially expanding flow that accelerates from subsonic near the Sun to supersonic beyond a critical point. He further noted that solar rotation winds outward-advected magnetic field lines into a spiral pattern in the ecliptic, now called the Parker spiral.
+
+His theoretical modeling was not immediately accepted by the astronomical community: when he submitted the results to The Astrophysical Journal in 1958, two reviewers recommended its rejection. One reviewer commented on the paper: "Well I would suggest that Parker go to the library and read up on the subject before he tries to write a paper about it, because this is utter nonsense." The editor of the journal and Parker's colleague at the University of Chicago, future Nobel prize-winner Subrahmanyan Chandrasekhar, finding no obvious errors in the paper, overruled the reviewers and published the paper, even though he disagreed with Parker's theory. At the time, no spacecraft took measurements of space medium, and Parker himself was an unknown 31-year-old professor from Chicago. 
+
+One of the most vocal critics was a colleague at the University of Chicago, Joseph W. Chamberlain, who published a paper in 1960 showing that the plasma flow velocity equation also admitted a solution with an exponential decay in flow velocity away from the sun. Chamberlain's subsonic solution was called the "solar breeze".
+
+Parker wrote to his parents about the solar wind theory rejection:
+
+Parker's theoretical predictions were confirmed by satellite observations: in 1959, the flow of particles from the Sun was detected by the Soviet's Luna 2. In 1962, four years after the original publication, Mariner 2 mission carried out observations with a specifically designed instrument. It is called to be "a unique example in astrophysics, due to its immediate and brief confirmation by observations". Mariner 2 data revealed two types of solar wind, a low- and a high-speed components. The paper became Parker's most famous publication.
+
+ 1960s: Cosmic-ray transport in the heliosphere and magnetic flux tubes  
+After establishing the solar wind, Parker modeled cosmic-ray propagation as diffusion through wind-borne magnetic irregularities combined with advection by the outflow. He wrote a Fokker–Planck transport equation and estimated anisotropic diffusion coefficients (easier along the mean field than across it).
+
+With Jokipii, he quantified how scattering produces cross-field spread along Parker-spiral lines, consistent with observations, cementing the modern transport framework used in heliophysics and space weather.
+
+ 1966: Galactic magnetism: Parker instability and galactic dynamo  
+Parker treated the interstellar gas, magnetic field, and cosmic rays as a coupled system in a galactic disk. He showed that horizontal fields are buoyantly unstable: gas drains downward, magnetized "arches" rise, and dense clumps collect in valleys—an undular mode now called the Parker instability. Nonlinear evolution produces structures reminiscent of observed gas clumping along spiral arms. He also formulated a local αΩ dynamo for spiral galaxies, with helical turbulence and differential rotation amplifying toroidal fields on timescales shorter than galactic ages, aligning with observed large-scale patterns.
+
+ 1970: Parker limit on magnetic monopoles  
+Reasoning that abundant monopoles would short out galactic magnetic fields, Parker related monopole density and drift to magnetic-field decay and demanded consistency with field persistence/growth, obtaining a stringent upper bound—the Parker limit. The estimate, first offered in a Russell lecture as a " back-of-the-envelope calculation", later guided experimental monopole searches across particle physics and cosmology.
+
+ 1972: Parker theorem 
+
+The Parker theorem, also known as the fundamental magnetostatic theorem, was formulated in 1972. It describes how magnetic fields behave in perfectly conducting fluids, particularly in space plasmas. The theorem states that three-dimensional magnetic fields naturally form infinitesimally thin current sheets – regions where the magnetic field direction changes abruptly. These sheets arise from the fundamental interaction between magnetic fields that are "frozen" into the conducting fluid.
+
+ 1972–1988: Coronal heating and nanoflares 
+
+Parker argued that random footpoint motions in the photosphere inevitably tangle coronal fields, making smooth equilibria topologically unattainable. The corona relaxes via ubiquitous current sheets where reconnection dissipates energy, supplying heat. Initial skepticism gave way to broader interest as stellar coronal X-rays were established; Parker then estimated the energy budget and introduced the nanoflare concept—many small events rather than single large releases. The field converged on a mixed picture: closed-loop regions likely dominated by current-sheet heating; open-field regions more wave-driven.
+
+Seeking to address the coronal heating problem, in 1988 Parker proposed that the solar corona might be heated by myriad tiny "nanoflares", miniature brightenings resembling solar flares that would occur all over the surface of the Sun. Parker's theory became a leading candidate to explain the problem.
+
+ Parker Solar Probe 
+In 1960, a Space Science Board report recommended a solar spacecraft mission to study the origins of solar wind, and another mission to the outer Solar System "to study the interaction of the heliosphere with the interstellar medium". In 2010, NASA approved the Solar Probe Plus mission; Parker was invited as an advisor.
+
+In 2017, NASA renamed the Solar Probe Plus to Parker Solar Probe in Parker's honor, the first NASA spacecraft named after a living person. The name was proposed by Thomas Zurbuchen, then the head of science at NASA, who described PSP's mission as "a trip to hell and back" and "one of the most difficult and historic missions NASA has ever done". In October 2017, Parker visited the spacecraft at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland. In 2018, Parker and his family traveled to Cape Canaveral to watch the PSP's launch.
+
+PSP's science teams sent preprints and publications to Parker, who was excited about the mission.
+
+In a National Geographic article, "Dear Parker Solar Probe", Parker wrote:
+
+Parker Solar Probe used repeated gravity assists from Venus to develop an eccentric orbit, approaching within 9.86 solar radii (6.9 million km or 4.3 million miles) from the center of the Sun. At its closest approach in 2024, its speed relative to the Sun was  or 191 km/s (118.7 mi/s), which is 0.064%  the speed of light. It is the fastest object ever built on Earth. PSP is the first spacecraft that entered the solar atmosphere, which was described by NASA as "touching the Sun". It was done when PSP passed the Alfven surface which marks the end of the solar atmosphere and beginning of the solar wind.
+
+ Personal life 
+Parker met his future wife, Niesje, in Utah. Her family was from the Netherlands; she emigrated to the US after World War II. She had a degree in bacteriology. They married in 1954. In Chicago, Niesje got a job at the University of Chicago Graduate School of Business, and later became an Associate Director of Computing Services. The Parkers were married for 67 years and had two children, a son and a daughter. Parker's hobbies included woodworking, sailing and hiking; at 76, he went to the North Pole with his son.
+
+Parker was described as a humble man with a "genial personality". He never drank alcohol or coffee, "always drove at 55 miles per hour", never sought attention, and was rarely critical of other scientists' works. The only scientist he was openly critical of was Hannes Alfvén, who later was awarded the Nobel Prize in Physics: "Parker did not think the man dug deeply enough into problems and sometimes had been quite wrong". Parker published several papers "challenging and even undercutting Alfven's conclusions".
+
+Parker died in Chicago on March 15, 2022, at the age of 94. His body was cremated, and half of the ashes buried near his log cabin in the woods.
+
+ Awards and honors 
+ 1967: elected to the National Academy of Sciences
+ 1969: Arctowski Medal of the National Academy of Sciences
+ 1969: Henry Norris Russell Lectureship of the American Astronomical Society
+ 1978: George Ellery Hale Prize, Solar Physics Division of the American Astronomical Society, first time this prize was awarded
+1979: Chapman Medal of the Royal Astronomical Society
+ 1989: National Medal of Science
+ 1990: William Bowie Medal
+ 1992: Gold Medal of the Royal Astronomical Society
+ 1997: Bruce Medal
+ 2003: Kyoto Prize
+ 2003: James Clerk Maxwell Prize of the American Physical Society "For seminal contributions in plasma astrophysics, including predicting the solar wind, explaining the solar dynamo, formulating the theory of magnetic reconnection, and the instability which predicts the escape of the magnetic fields from the galaxy."
+ 2010: Member of the Norwegian Academy of Science and Letters.
+ 2017: NASA renamed its Solar Probe Plus mission to Parker Solar Probe, the first time that a spacecraft was named after a living person.
+ 2018: Medal for Exceptional Achievement in Research of the American Physical Society "For fundamental contributions to space physics, plasma physics, solar physics and astrophysics for over 60 years."
+ 2020: Crafoord Prize in Astronomy

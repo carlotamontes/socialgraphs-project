@@ -1,0 +1,21 @@
+James Torrance Russell (born 23 February 1931) is an American physicist and the inventor of compact disc technology. He earned a BA in physics from Reed College in Portland in 1953. He joined General Electric's nearby labs in Richland, Washington, where he devised experimental instrumentation. He designed and built the first electron beam welder.
+
+In 1965, Russell joined the Pacific Northwest National Laboratory of Battelle Memorial Institute in Richland. There, in 1965, Russell invented optical digital recording and playback. He built prototypes, with the first was operating in 1973. During 1973, 1974, and 1975 his invention was viewed by about 100 companies, including Philips and Sony, and more than 1500 descriptive brochures were distributed. The concept was described by many technical and media magazines beginning in 1972..
+
+In 2000, Russell received The Vollum Award from Reed College.
+
+As of 2004, Russell was consulting from an in-home lab in Bellevue, Washington.
+
+Patents
+The earliest patents by Russell, US 3,501,586, and 3,795,902 were filed in 1966, and 1969. respectively. Major issues with the original Russell patents:
+
+The preferred embodiment of the scanning mechanism is awkward since the disc is not rotating but fixed. A scanning mirror with which the light is deflected is attached to a rotating shaft.
+The entire disc or oblong sheet to be read is illuminated by a large playback light source at the back of the transparent plate instead by focused laser light in reflective mode. There is no objective lens for reading the data.
+Dynamic track or focus servos are absent.
+The patent specification mentions the use of a protective layer(s) or coating to prevent scratching during handling, but the layer does not offer significant benefits, as its task is merely to protect. Fingerprints and scratches will obscure the data read. In a CD, on the other hand, where a focused laser beam is used in conjunction with a protective layer at the reading side of the disc, scratches and fingerprints are out of focus, and thus not detected by the reading spot. As a result, the CD/DVD method offers a great resilience against disc anomalies, offering great playability.
+Low information density. According to the patent specifications the spot diameter is around 10 micrometres. Thus, the areal information density is, according to the patent specifications, around a factor hundred less than that of a regular CD. This amounts to a capacity of 5 Mbytes for a disc of 12 cm diameter. The inevitable downside to this is that Russell's disc offers playing time less than one minute of digital CD sound. In case we have digital video at 30 Mbit/s, as claimed above, Russell's disc would be read in less than two seconds. How such extremely fast scanning could be implemented was not disclosed.
+Photographically copying of data.
+The patents do not address any details of the digital coding techniques used and/or details of methods how to solve the problems associated with extremely high bit rates of digital video signals. Due to limitations of electronics circuitry, there was no (MPEG) source coding at the time to lower the overall bit rates. The uncompressed bit rate of a color video signal is around 200 Mbit/s, and it is far from clear how the mechanical (scanning speed) and electronic challenges imposed by these enormous bit rates were solved. The patents do not mention error correction or other digital coding technology.
+
+ Controversy 
+Whether Russell's concepts, patents, prototypes and literature instigated and in some measure guided the optical digital revolution is controversial. Early optical recording technology, which formed the physical basis of videodisc, CD and DVD technology, was first published/filed by Dr. David Paul Gregg in 1958 and Philips researchers Kramer and Compaan. in 1969. Russell's optical digital inventions were available publicly from 1970.
