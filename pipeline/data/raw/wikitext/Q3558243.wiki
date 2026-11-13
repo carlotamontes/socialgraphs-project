@@ -1,0 +1,122 @@
+{{Short description|American scientist}}
+{{Infobox scientist
+| name              = Vijay S. Pande
+| image             = Vijay S. Pande.jpg
+| image_size        = 225px
+| alt               = A portrait of Vijay Pande, looking straight ahead. His ethnicity is Indian. He has medium-length black hair, black-rim glasses, and a short mustache and beard. He is wearing a blue polo shirt under a black suit coat.
+| caption           = Pande in 2012
+| birth_date        = <!-- {{Birth date|YYYY|MM|DD}} -->
+| birth_place       = [[Trinidad]]
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| citizenship       = United States
+| nationality       = 
+| fields            = [[Chemistry]], [[computational biology]], [[molecular biology]]
+| workplaces        = [[Stanford University]]
+| education         = [[Langley High School (Fairfax County, Virginia)|Langley High School]]<BR>[[Princeton University]]<BR>[[Massachusetts Institute of Technology]]<BR>[[University of California, Berkeley]]
+| doctoral_advisor  = 
+| academic_advisors = [[Philip Warren Anderson|Philip Anderson]], [[Daniel S. Rokhsar]]
+| doctoral_students = 
+| notable_students  = [[Jeremy England]]
+| known_for         = [[Folding@home]], [[Genome@home]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Michael and Kate Bárány Award|Bárány Award]] (2012)<br/> [[DeLano Award for Computational Biosciences|DeLano Award]] (2015)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+'''Vijay Satyanand Pande''' is a [[Trinidadian and Tobagonian Americans|Trinidadian–American]] [[scientist]] and [[Venture capital|venture capitalist]]. Pande is best known for orchestrating the [[distributed computing]] [[Protein folding|protein-folding]] research project known as [[Folding@home]].<ref name="The Setup2">{{cite web |year=2011 |title=The Setup / Vijay Pande |url=http://vijay.pande.usesthis.com/ |url-status=live |archive-url=https://web.archive.org/web/20120801000800/http://vijay.pande.usesthis.com/ |archive-date=2012-08-01 |access-date=2012-07-29}}</ref> His research is focused on distributed computing and [[Computer simulation|computer-modelling]] of [[microbiology]], and on improving computer simulations regarding [[Plasma protein binding|drug-binding]], [[protein design]], and synthetic [[Biomimetics|biomimetic]] [[Polymer|polymers]].<ref name="Stanford-Pande2">{{cite web |year=2011 |title=Stanford University - Vijay Pande |url=http://explorecourses.stanford.edu/CourseSearch/instructor?sunet=pande |url-status=live |archive-url=https://web.archive.org/web/20120425092143/http://explorecourses.stanford.edu/CourseSearch/instructor?sunet=pande |archive-date=2012-04-25 |access-date=2011-10-25 |publisher=[[Stanford University]]}}</ref><ref name="About Me2">{{cite web |year=2011 |title=About Me |url=http://folding.typepad.com/about.html |url-status=live |archive-url=https://web.archive.org/web/20111028025226/http://folding.typepad.com/about.html |archive-date=2011-10-28 |access-date=2011-10-25}}</ref> He was the founder and general and managing partner of venture capital firm [[a16z]]’s Bio + Health fund.<ref name="About Me2" /> Pande is currently the co-founder and managing partner of venture firm VZVC.<ref name=":1">{{Cite news |last=Gormley |first=Brian |date=2025-10-02 |title=Healthcare Investors Vijay Pande, Zack Werner Team Up to Form VZVC |url=https://www.wsj.com/articles/healthcare-investors-vijay-pande-zack-werner-team-up-to-form-vzvc-eff3ed1f |access-date=2026-05-07 |work=Wall Street Journal |language=en-US |issn=0099-9660}}</ref>
+
+== Early life and education ==
+Pande graduated from [[Langley High School (Fairfax County, Virginia)|Langley High School]]'s class of 1988 while growing up in [[McLean, Virginia]]. As a high school student, Pande was awarded fourth place in the 1988 [[Westinghouse Science Talent Search]] for his project on simulating space-based missile defense.<ref name="Stanford-Pande2" /> His analysis showed that “to protect against 2,400 Soviet missiles, 8,000 satellites equipped with laser weapons would be required,” a critique of [[Ronald Reagan]]’s Strategic Defense Initiative.<ref>{{Cite web |title=Science Talent Search 1988 |url=https://www.societyforscience.org/regeneron-sts/science-talent-search-1988/ |access-date=2025-07-16 |website=Society for Science |language=en-US}}</ref><ref>{{Cite news |date=1988-03-01 |title=2 in Manhattan School Are Top Science Winners |url=https://www.nytimes.com/1988/03/01/nyregion/2-in-manhattan-school-are-top-science-winners.html |url-status=live |archive-url=https://web.archive.org/web/20230306224521/https://www.nytimes.com/1988/03/01/nyregion/2-in-manhattan-school-are-top-science-winners.html |archive-date=2023-03-06 |access-date=2023-03-06 |work=The New York Times |language=en-US |issn=0362-4331}}</ref><ref>Winston-Salem Journal (Winston-Salem, North Carolina) · Mon, Feb 6, 1989 · Page 12</ref>
+
+After graduating from high school in 1988, Pande worked briefly at the [[video game development]] company [[Naughty Dog]], handling the [[Personal computer|PC]] and [[Amiga]] ports of their [[Apple IIGS]] game ''[[Keef the Thief]]'' (1989) and serving as a [[programmer]] and [[Game design|designer]] on the [[Sega Genesis]] game ''[[Rings of Power (video game)|Rings of Power]]'' (1992).<ref>{{cite video game |title=Keef the Thief |developer=Naughty Dog |publisher=Electronic Arts |date=October 1989 |platform=Apple IIGS |level=About Keef}}</ref><ref>{{cite video game|title=Rings of Power|developer=[[Naughty Dog]]|publisher=[[Electronic Arts]]|date=1991|platform=[[Sega Genesis]]|scene=Credits}}</ref><ref>{{cite web |title=Vijay S. Pande |url=http://online.stanford.edu/instructors/vijay-s-pande |url-status=dead |archive-url=https://web.archive.org/web/20161002171003/http://online.stanford.edu/instructors/vijay-s-pande |archive-date=2 October 2016 |access-date=30 September 2016 |website=online.stanford.edu}}</ref> While Pande was attending MIT and Naughty Dog was based in [[Boston]], he portrayed Gulab Jamun, a secret character in the [[3DO]] fighting game ''[[Way of the Warrior]]'' (1994).<ref>{{cite web |url=http://www.ign.com/articles/2013/10/04/rising-to-greatness-the-history-of-naughty-dog |archive-url=https://web.archive.org/web/20131126015810/http://www.ign.com/articles/2013/10/04/rising-to-greatness-the-history-of-naughty-dog |title=Rising to Greatness: The History of Naughty Dog |last=Moriarty |first=Colin |date=October 4, 2013 |archive-date=November 26, 2013 |work=[[IGN]] |publisher=[[Ziff Davis]] |access-date=December 31, 2013 |url-status=live}}</ref><ref>{{cite magazine|title=An Interview with Naughty Dog |url=https://archive.org/details/GamefanVolume4Issue09/page/n17 |magazine=[[GameFan]] |issue=9 |volume=4 |date=September 1996 |pages=16–17}}</ref>
+
+He is married to Lara Pande and has three daughters. The family has a love for cats.<ref name="The Setup2" /><ref>San Francisco Chronicle, March 16 2025</ref>
+
+==Career==
+Pande is an adjunct professor of [[structural biology]], computer science, biophysics and chemistry at [[Stanford University]]. Previously, he was the [[Henri Dreyfus|Henry Dreyfus]] Professor of [[Chemistry]] and professor of structural biology and of [[computer science]]. He was also director of the biophysics program.<ref name=":22">{{Cite web |title=Vijay Pande's Profile {{!}} Stanford Profiles |url=https://profiles.stanford.edu/vijay-pande |url-status=live |archive-url=https://web.archive.org/web/20230306224523/https://profiles.stanford.edu/vijay-pande |archive-date=2023-03-06 |access-date=2023-03-06 |website=profiles.stanford.edu}}</ref>
+
+In 2015, Pande became the ninth general partner at [[Andreessen Horowitz]] (a16z), where he founded the firm’s Bio + Health Fund,<ref name=":02">{{Cite web |title=Andreessen Horowitz Launches $200 Million Biotech Software Fund Led By New Partner Vijay Pande |url=https://www.forbes.com/sites/alexkonrad/2015/11/18/andreessen-horowitz-launches-biotech-software-fund/ |url-status=live |archive-url=https://web.archive.org/web/20151119232037/http://www.forbes.com/sites/alexkonrad/2015/11/18/andreessen-horowitz-launches-biotech-software-fund/ |archive-date=2015-11-19 |access-date=2015-11-19 |website=Forbes}}</ref> which invests in life sciences and healthcare valued more than $3 billion under management.<ref>{{Cite web |last=Dillet |first=Romain |date=2014-03-27 |title=Andreessen Horowitz Raises Massive New $1.5 Billion Fund |url=https://techcrunch.com/2014/03/27/andreessen-horowitz-raises-massive-new-1-5-billion-fund/|website=TechCrunch |language=en-US}}</ref> In December 2024, he left the leadership role and moved to an AI role in the company.<ref>{{Cite web |title=Exclusive: Vijay Pande hands a16z biotech leadership to Vineeta Agarwala, moves to AI role |url=https://endpts.com/vijay-pande-hands-a16z-biotech-leadership-to-vineeta-agarwala/ |website=Endpoints News |language=en}}</ref>
+
+Pande served on the boards of [[Apeel Sciences]], Bayesian Health, BioAge Labs, Citizen, Devoted Health, Freenome, Insitro, Nautilus Biotechnology, Nobell, Omada Health, Q.bio, Function Health Board, Slingshot AI and Scribe Therapeutics, a [[CRISPR]] company co-founded by 2020 [[List of Nobel laureates|Nobel Laureate]] [[Jennifer Doudna]]. He has also been a founder and advisor to startups in [[Silicon Valley]].<ref name=":12">{{Cite web |title=Vijay Pande |url=https://a16z.com/author/vijay-pande/ |url-status=live |archive-url=https://web.archive.org/web/20230227165951/https://a16z.com/author/vijay-pande/ |archive-date=2023-02-27 |access-date=2023-03-06 |website=Andreessen Horowitz |language=en-US}}</ref>
+
+In 2025, Pande departed Andreessen Horowitz to co-found VZVC, a Bay Area venture firm focused on AI-driven healthcare, alongside startup investor Zack Werner.<ref name=":1" /> VZVC invests in technology-enabled healthcare startups targeting longstanding challenges in care quality, access, and cost, with a particular focus on consumer-driven health services and preventive diagnostics.
+
+Pande has written for [[Time (magazine)|''Time'']],<ref>{{Cite magazine |date=2023-05-03 |title=To Make a Real Difference in Health Care, AI Will Need to Learn Like We Do |url=https://time.com/6274752/ai-health-care/ |url-status=live |archive-url=https://web.archive.org/web/20230529212727/https://time.com/6274752/ai-health-care/ |archive-date=2023-05-29 |access-date=2023-05-30 |magazine=Time |language=en}}</ref> [[Stat (website)|STAT News]],<ref>{{Cite web |last=Pande |first=Vijay |date=2020-01-10 |title=Welcome to the bioengineering culture clash |url=https://www.statnews.com/2020/01/10/bioengineering-culture-clash/ |url-status=live |archive-url=https://web.archive.org/web/20230530210930/https://www.statnews.com/2020/01/10/bioengineering-culture-clash/ |archive-date=2023-05-30 |access-date=2023-05-30 |website=STAT |language=en-US}}</ref> [[Fortune (magazine)|Fortune]],<ref>{{Cite web |title=A.I. fear-mongering won't make the world a better place, but a less hopeful one |url=https://fortune.com/2023/06/13/ai-fearmongering-make-the-world-a-better-place-tech-politics-vijay-pande/ |url-status=live |archive-url=https://web.archive.org/web/20230614022836/https://fortune.com/2023/06/13/ai-fearmongering-make-the-world-a-better-place-tech-politics-vijay-pande/ |archive-date=2023-06-14 |access-date=2023-06-14 |website=Fortune |language=en}}</ref> Scientific American and the [[The New York Times|New York Times]],<ref>{{Cite news |last=Pande |first=Vijay |date=2018-01-25 |title=Opinion {{!}} Artificial Intelligence's 'Black Box' Is Nothing to Fear |url=https://www.nytimes.com/2018/01/25/opinion/artificial-intelligence-black-box.html |url-status=live |archive-url=https://web.archive.org/web/20230530211621/https://www.nytimes.com/2018/01/25/opinion/artificial-intelligence-black-box.html |archive-date=2023-05-30 |access-date=2023-05-30 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> among others.
+
+=== Globavir Biosciences, Inc. ===
+In 2014, Pande co-founded Globavir Biosciences, an [[Infectious diseases (medical specialty)|infectious disease]] startup addressing [[Antimicrobial resistance|antibiotic resistance]] threats in [[Developed country|developed countries]] as well as needs in [[Viral disease|viral infections]] around the world, including [[Ebola]] and [[dengue fever]].<ref name=":02" /><ref>{{Cite web |last=Loizos |first=Connie |date=2015-11-18 |title=Andreessen Horowitz Gets A New GP, And A New Fund |url=https://techcrunch.com/2015/11/18/andreessen-horowitz-gets-a-new-gp-and-a-new-fund/ |url-status=live |archive-url=https://web.archive.org/web/20230306224521/https://techcrunch.com/2015/11/18/andreessen-horowitz-gets-a-new-gp-and-a-new-fund/ |archive-date=2023-03-06 |access-date=2023-03-06 |website=TechCrunch |language=en-US}}</ref>
+
+=== Pande Lab at Stanford University ===
+Pande founded the Pande Lab at Stanford University. The lab brings together researchers from many departments, including chemistry, computer science, structural biology, [[physics]], biophysics, and [[biochemistry]].<ref name=":22" />
+
+The lab was instrumental in advancing real-time simulations of biomolecules. His work was featured in [[MIT Technology Review]]’s TR100 in 2002 for using distributed computing to solve complex folding sequences: “Since the project’s October 2000 debut, some 75,000 volunteers worldwide have helped simulate, for the first time, the complete folding behavior of five important proteins.”<ref>{{Cite web |title=Vijay Pande {{!}} Innovators Under 35 |url=https://www.innovatorsunder35.com/the-list/vijay-pande/ |access-date=2025-07-16 |website=www.innovatorsunder35.com}}</ref><ref>{{Cite web |date=2020-08-09 |title=Vijay Pande Built World's Largest Supercomputer To Save People's Lives |url=https://www.indiatimes.com/technology/science-and-future/vijay-pande-folding-home-supercomputer-519829.html |access-date=2025-07-16 |website=Indiatimes |language=en-IN}}</ref>
+
+=== Distributed computing ===
+Pande is the founder of the Folding@home research project.<ref name=":22" /> The protein-folding computer simulations from the Folding@home project are said to be "quantitatively" comparable to real-world experimental results. The method for this yield has been called a "holy grail" in [[computational biology]].<ref name=":0">{{cite journal |author1=G. Bowman |author2=V. Volez |author3=V. S. Pande |name-list-style=amp |year=2011 |title=Taming the complexity of protein folding |journal=Current Opinion in Structural Biology |volume=21 |issue=1 |pages=4–11 |doi=10.1016/j.sbi.2010.10.006 |pmc=3042729 |pmid=21081274}}</ref><ref>{{cite web |year=2011 |title=Bio-X Stanford University: Vijay Pande |url=http://biox.stanford.edu/clark/pande.html |url-status=live |archive-url=https://web.archive.org/web/20111019133546/http://biox.stanford.edu/clark/pande.html |archive-date=2011-10-19 |access-date=2011-10-16 |publisher=Bio-X Stanford University}}</ref> Folding@home was recognized by the [[Guinness World Records|Guinness Book of World Records]] in 2007 as the most powerful distributed computing network in the world.<ref>{{Cite web |last=Terdiman |first=Daniel |title=Sony's Folding@home project gets Guinness record |url=https://www.cnet.com/culture/sonys-foldinghome-project-gets-guinness-record/ |url-status=live |archive-url=https://web.archive.org/web/20230308205228/https://www.cnet.com/culture/sonys-foldinghome-project-gets-guinness-record/ |archive-date=2023-03-08 |access-date=2023-03-08 |website=CNET |language=en}}</ref>
+
+==Awards==
+*In 2002, he was named a [[Frederick Terman|Frederick E. Terman]] Fellow and was recognized as one of the top 100 innovators under 35 by ''[[MIT Technology Review]]'''s [[TR35|TR100]]. The following year, he was awarded the Henry and [[Camille Dreyfus (chemist)|Camille Dreyfus]] Teacher-Scholar award.<ref name="About Me2" /> 
+*In 2004, he received a Technovator award from Global Indus Technovators in its Biotech/Med/Healthcare category.<ref name="F@h awards2">{{cite web |author=Pande Group |year=2011 |title=Folding@home - Awards |url=http://folding.stanford.edu/English/Awards |url-status=dead |archive-url=https://web.archive.org/web/20120712133630/http://folding.stanford.edu/English/Awards |archive-date=2012-07-12 |access-date=2011-10-09 |publisher=[[Stanford University]]}}</ref> 
+*In 2006, Pande was awarded the Irving Sigal Young Investigator Award from the [[Protein Society]]. 
+*In 2008, he was named "Netxplorateur of 2008".<ref name="F@h awards2" /> Also in 2008 he was given the [[Thomas Kuhn]] Paradigm Shift Award and received the Fellowship of the [[American Physical Society]].<ref name="Stanford-Pande2" /> 
+*Pande received the 2012 [[Michael and Kate Bárány Award]] for developing computational models for proteins and [[RNA]].<ref name="Stanford-Pande2" /><ref name="F@h awards2" /> 
+*In 2015, Pande received the [[DeLano Award for Computational Biosciences]], as well as the Camille and Henry Dreyfus Distinguished Chair in Chemistry.<ref name="delano2">{{cite web |title=ASBMB News: 2015 ASBMB award winners |url=http://www.asbmb.org/asbmbtoday/201408/AnnualAwardWinners/?terms=pande |url-status=live |archive-url=https://web.archive.org/web/20150122060340/http://www.asbmb.org/asbmbtoday/201408/AnnualAwardWinners/?terms=pande |archive-date=22 January 2015 |access-date=22 January 2015}}</ref><ref>{{cite web |year=2015 |title=Stanford Department of Chemistry Faculty |url=https://chemistry.stanford.edu/faculty/vijay-pande |url-status=dead |archive-url=https://web.archive.org/web/20150821123623/http://chemistry.stanford.edu/faculty/vijay-pande |archive-date=2015-08-21 |access-date=2015-07-22 |publisher=[[Stanford University]]}}</ref>
+
+== Selected publications ==
+Vijay Pande has authored or co-authored over 300 peer-reviewed scientific papers spanning computational chemistry, biophysics, molecular dynamics, and machine learning in biology. The following is a selection of his notable publications:
+
+* Feinberg, E. N., Sur, D., Wu, Z., Husic, B. E., Mai, H., Li, Y., ... & Pande, V. S. (2018). "PotentialNet for molecular property prediction." ''ACS Central Science'', '''4'''(11), 1520–1530. This paper introduced a novel graph convolutional neural network (GNN) framework—PotentialNet—for predicting molecular properties such as protein-ligand binding affinities. The method demonstrated superior performance in pharmaceutical applications and was adopted by companies including Merck.
+
+* Feinberg, E. N., Tseng, H., Husic, B. E., Mai, H., Li, Y., Cox, S., ... & Pande, V. S. (2020). "Improved ADMET property prediction with graph convolutional networks." ''Journal of Medicinal Chemistry'', '''63'''(16), 8835–8848. Building on PotentialNet, this work achieved what the authors described as "unprecedented accuracy" in predicting ADMET (absorption, distribution, metabolism, elimination, and toxicity) characteristics, outperforming traditional machine learning approaches such as Random Forest models.
+
+* Shirts, M., & Pande, V. S. (2000). "Computing: Screen savers of the world unite!" ''Science'', '''290'''(5498), 1903–1904. This perspective article laid the theoretical groundwork for large-scale distributed computing in molecular biology, proposing the use of consumer-grade hardware to divide massive computational tasks—a vision later realized in Folding@home.
+
+* Bowman, G. R., Voelz, V. A., & Pande, V. S. (2011). "Taming the complexity of protein folding." ''Current Opinion in Structural Biology'', '''21'''(1), 4–11. This review summarized advances in Markov state models (MSMs) for simulating long-timescale protein folding. Pande’s group was among the first to demonstrate how MSMs could extract biologically relevant insights from large-scale molecular simulations.
+
+* Dror, R. O., Dirks, R. M., Grossman, J. P., Xu, H., Shaw, D. E., & Pande, V. S. (2012). "Biomolecular simulation: A computational microscope for molecular biology." ''Annual Review of Biophysics'', '''41''', 429–452. Co-authored with researchers at D. E. Shaw Research, this article examined how molecular simulations are transforming structural biology by enabling the modeling of dynamic processes such as receptor-ligand binding and allosteric transitions.
+
+* Kohlhoff, K. J., Shukla, D., Lawrenz, M., Bowman, G. R., Konerding, D. E., Belov, D., ... & Pande, V. S. (2014). "Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways." ''Nature Chemistry'', '''6'''(1), 15–21. As part of the Stanford/NIH/Google Exacycle project, this work reported one of the first atomistic simulations of G protein-coupled receptor (GPCR) activation over 2 milliseconds—described as "a virtual eternity in chemical reaction time"—revealing intermediate conformational states critical for rational drug design.
+
+==References==
+{{Reflist|2}}
+
+== Bibliography ==
+
+* Ramsundar, Bharath (2019). [https://www.oreilly.com/library/view/deep-learning-for/9781492039822/ Deep Learning for the Life Sciences : Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More]. Peter Eastman, Patrick Walters, Vijay Pande (First edition ed.).[[O'Reilly Media]], Inc. {{isbn|978-1-4920-3980-8}}
+* Pande, Vijay (2012). ''Physical chemistry principles'' (Second edition ed.). CreateSpace Independent Publishing Platform. {{isbn|978-1-4810-2733-5}}
+* ''An introduction to Markov state models and their application to long timescale molecular simulation''. Gregory R. Bowman, Vijay Pande, Frank Noé. Dordrecht. 2014. [[Springer Publishing|Springer]]. {{isbn|978-94-007-7606-7}}
+* Grosberg, A. IU. (1994). ''Statistical physics of macromolecules''. A. R. Khokhlov. New York: [[American Institute of Physics|AIP Press]]. {{isbn|1-56396-071-0}}
+
+==External links==
+* [https://a16z.com/author/vijay-pande Andreessen Horowitz General Partner profile]
+* [https://play.acast.com/s/dannyinthevalley/vijay-pande Times of London podcast interview]
+* [http://folding.stanford.edu Folding@home website]
+* [https://scholar.google.com/citations?user=cWe_xpUAAAAJ&hl=en Professor Pande’s Google Scholar Page]
+* [http://www.ustream.tv/recorded/1070617 Interview of Pande] {{Webarchive|url=https://web.archive.org/web/20161019014332/http://www.ustream.tv/recorded/1070617 |date=2016-10-19 }}
+* [https://www.mobygames.com/developer/sheet/view/developerId,26213/ Vijay S. Pande] at [[MobyGames]]
+
+{{Andreessen Horowitz}}
+{{Naughty Dog}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pande, Vijay S.}}
+[[Category:1970 births]]
+[[Category:American biophysicists]]
+[[Category:American people of Indian descent]]
+[[Category:Living people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:People from McLean, Virginia]]
+[[Category:Princeton University alumni]]
+[[Category:Stanford University Department of Chemistry faculty]]
+[[Category:Stanford University School of Engineering faculty]]
+[[Category:Stanford University School of Medicine faculty]]
+[[Category:American video game programmers]]
+[[Category:Naughty Dog people]]
+[[Category:Andreessen Horowitz]]
+[[Category:Scientists from Virginia]]

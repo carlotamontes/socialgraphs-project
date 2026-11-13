@@ -1,0 +1,142 @@
+{{Short description|Chinese physicist}}
+{{family name hatnote|Tang|lang=Chinese}}
+{{BLP primary sources|date=May 2021}}
+{{Infobox scientist
+| name = Tang Chao
+| image =Chao tang 2019.jpg
+| caption =
+| birth_date = {{birth year and age|1958}}
+| birth_place = [[Nanchang]], [[Jiangxi]], China
+| death_date =
+| death_place =
+| field = [[Physics]], [[Biology]]
+| erdos_number =
+| workplaces = [[Peking University]]
+| education = [[University of Science and Technology of China]] <br> [[University of Chicago]] ([[PhD]])
+| doctoral_advisor = [[Leo Kadanoff]]
+| known_for = [[Self-organized criticality]]<br>[[Bak–Tang–Wiesenfeld sandpile]]
+| awards = 
+| module = {{Infobox Chinese
+|child=yes
+|s = {{linktext|汤|超}}
+|t = {{linktext|湯|超}}
+|p = Tāng Chāo
+|w =
+}}
+}}
+
+'''Tang Chao''' ({{lang-zh|s=汤超}}; born 1958) is a Chair Professor of [[Physics]] and [[Systems Biology]] at [[Peking University]].
+
+==Education==
+He had his undergraduate training at the [[University of Science and Technology of China]], then went to the United States through the [[CUSPEA]] program organized by Professor [[T. D. Lee]]. He received a Ph.D. degree in physics from the [[University of Chicago]].{{citation needed|date=May 2021}}
+
+==Career==
+{{BLP unreferenced section|date=May 2021}}
+In his early career, he worked on problems in [[statistical physics]], [[dynamical system]] and [[complex systems]]. In 1987, along with [[Per Bak]] and [[Kurt Wiesenfeld]], he proposed the concept and developed the theory for [[self-organized criticality]], which had and continues to have broad applications in complex systems with [[scale invariance]]. The model they used to illustrate the idea is referred to as the [[Bak-Tang-Wiesenfeld sandpile|Bak-Tang-Wiesenfeld "sandpile"]] model. His current research interest is at the interface between physics and biology. Specifically, he focuses on [[systems biology]] and works on problems such as [[protein folding]], [[cell cycle]] regulation, function-topology relationship in [[biological network]], [[cell fate determination]] and design principles in biological systems. He was a tenured Full Professor at the [[University of California San Francisco]] before returning to China in 2011. He is a Fellow of the [[American Physical Society]], a member of the [[Chinese Academy of Sciences]], the founding director of the interdisciplinary Center for Quantitative Biology at [[Peking University]] and the founding Co-Editor-in-Chief of the journal Quantitative Biology.
+
+== Selected publications ==
+*Self-organized criticality<ref name=BTW1987>
+{{cite journal
+ | author = [[Per Bak|Bak, P.]], Tang, C. and [[Kurt Wiesenfeld|Wiesenfeld, K.]]
+ | year = 1987
+ | title = Self-organized criticality: an explanation of 1/''f'' noise
+ | journal = [[Physical Review Letters]]
+ | volume = 59
+ | issue = 4
+ | pages = 381&ndash;384
+ | doi = 10.1103/PhysRevLett.59.381
+ | bibcode = 1987PhRvL..59..381B
+ | pmid=10035754| s2cid = 7674321
+ }}
+</ref><ref name=BTW1988>
+{{cite journal
+ | author = [[Per Bak|Bak, P.]], Tang, C. and [[Kurt Wiesenfeld|Wiesenfeld, K.]]
+ | year = 1988
+ | title = Self-organized criticality
+ | journal = [[Physical Review A]]
+ | volume = 38
+ | issue = 1
+ | pages = 364&ndash;374
+ | doi = 10.1103/PhysRevA.38.364
+ | bibcode = 1988PhRvA..38..364B
+ | pmid = 9900174 }}
+</ref>
+*Protein folding<ref name=Tang1996>
+{{cite journal
+ | author = [[Hao Li (Biophysicist)|Li, H.]], [[Robert Helling|Helling, R.]], Tang, C. and [[Ned Wingreen|Wingreen, N.]]
+ | year = 1996
+ | title = Emergence of Preferred Structures in a Simple Model of Protein Folding
+ | journal = [[Science (journal)|Science]]
+ | volume = 273
+ | issue = 5275
+ | pages = 666&ndash;669
+ | doi = 10.1126/science.273.5275.666
+ | pmid = 8662562
+ | arxiv = cond-mat/9603016 |bibcode = 1996Sci...273..666L | s2cid = 925759
+ }}
+</ref>
+*[[Robustness (evolution)|Robustness]] in [[cell cycle]] control<ref name=Tang2004>
+{{cite journal
+ | author = [[Fangting Li|Li, F.]], [[Tao Long|Long, T.]], [[Ying Lu|Lu, Y.]], [[Qi Ouyang|Ouyang, Q.]] and Tang, C.
+ | year = 2004
+ | title = The yeast cell-cycle network is robustly designed
+ | journal = [[Proceedings of the National Academy of Sciences]]
+ | volume = 101
+ | issue = 14
+ | pages = 4781&ndash;4786
+ | doi = 10.1073/pnas.0305937101
+ | pmid = 15037758
+ | pmc = 387325
+ | arxiv = q-bio/0310010 |bibcode = 2004PNAS..101.4781L | doi-access = free
+ }}
+</ref>
+*Network topology, function and dynamics<ref name=Tang2009>
+{{cite journal
+ | author = [[Wenzhe Ma|Ma, W.]], [[Ala Trusina|Trusina, A.]], [[Hana El-Samad|El-Samad, H.]] [[Wendell Lim|Lim, W.]] and [[汤超|Tang, C.]]
+ | year = 2009
+ | title = Defining Network Topologies that Can Achieve Biochemical Adaptation
+ | journal = [[Cell (journal)|Cell]]
+ | volume = 138
+ | issue = 4
+ | pages = 760&ndash;773
+ | doi = 10.1016/j.cell.2009.06.013
+ | pmid=19703401
+ | pmc=3068210
+}}
+</ref>
+*Cell fate determination<ref name=Tang2013>
+{{cite journal
+ | author = [[Jian Shu|Shu, J.]]
+ | year = 2013
+ | title = Induction of Pluripotency in Mouse Somatic Cells with Lineage Specifiers
+ | journal = [[Cell (journal)|Cell]]
+ | volume = 153
+ | issue = 5
+ | pages = 963&ndash;975
+ | doi = 10.1016/j.cell.2013.05.001
+ | display-authors=etal| pmc = 4640445
+ | pmid=23706735
+ }}
+</ref>
+
+==References==
+{{Reflist|2}}
+
+== External links ==
+* [http://cqb.pku.edu.cn/tanglab/index.php?lang=en Professor Tang's lab]
+* [http://cqb.pku.edu.cn/index.php?lang=en Center for Quantitative Biology]
+* [http://journal.hep.com.cn/qb/EN/2095-4689/home.shtml Journal of Quantitative Biology]
+
+{{authority control}}
+
+{{DEFAULTSORT:Tang, Chao}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:People from Nanchang]]
+[[Category:Scientists from Jiangxi]]
+[[Category:University of California, San Francisco faculty]]
+[[Category:Academic staff of Peking University]]
+[[Category:University of Science and Technology of China alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:Physicists from Jiangxi]]
+[[Category:Educators from Jiangxi]]

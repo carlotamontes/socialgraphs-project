@@ -1,0 +1,61 @@
+{{Short description|Israeli chemist}}
+'''Arieh Ben-Naim''' ({{langx|he|אריה בן-נאים}}; [[Jerusalem]], 11 July 1934) is a professor of [[physical chemistry]] who retired in 2003 from the [[Hebrew University of Jerusalem]]. He has made major contributions over 40 years to the theory of the structure of [[water]], [[aqueous solutions]] and [[hydrophobic]]-[[hydrophilic]] interactions. He is mainly concerned with theoretical and experimental aspects of the general theory of [[liquids]] and solutions. In recent years, he has advocated the use of [[information theory]] to better understand and advance [[statistical mechanics]] and [[thermodynamics]].
+
+== Contributions to the theory of liquids ==
+
+Books written by Arieh Ben-Naim:
+
+* Water and Aqueous Solutions: Introduction to a Molecular Theory. 1974, {{ISBN|030630774X}} (out of print).
+* Hydrophobic Interactions. 1980, {{ISBN|978-0-306-40222-7}}.
+* Molecular Theory of Solutions. 2006, {{ISBN|978-0-19-929970-6}}.
+* Molecular Theory of Water and Aqueous Solutions: Understanding Water. 2009, {{ISBN|978-981-283-760-8}}.
+* Molecular Theory of Water and Aqueous Solutions, Part II: The role of Water in [[Protein folding|Protein Folding]], Self assembly and [[Molecular recognition|Molecular Recognition]], [[World Scientific]] (2011). {{ISBN|9789814350532}}
+* Alice’s Adventures in Water-Land, World Scientific (2011).  {{ISBN|978-981-4338-96-7}}
+* The Protein Folding Problem and its Solutions, [[World Scientific]] (2013) {{ISBN|9789814436366}}
+* Alice’s Adventures in Molecular Biology, World Scientific (2013). {{ISBN|9789814417259}}
+* Myths and Verities in Protein Folding Theories, World Scientific (2016).  {{ISBN|9789814725996}}
+
+== Contributions to statistical mechanics in terms of information theory ==
+In 2017, Ben-Naim posted three articles in [[arXiv]].<ref>{{Cite arXiv |eprint = 1705.01467|last1 = Ben-Naim|first1 = Arieh|title = Is Entropy Associated with Time's Arrow?|class = physics.pop-ph|year = 2017}}</ref><ref>{{Cite arXiv |eprint = 1705.01100|last1 = Ben-Naim|first1 = Arieh|title = Can entropy be defined for and the Second Law applied to the entire universe?|class = physics.chem-ph|year = 2017}}</ref><ref>{{Cite arXiv |eprint = 1705.02461|last1 = Ben-Naim|first1 = Arieh|title = Can entropy be defined for, and the Second Law applied to living systems?|class = physics.pop-ph|year = 2017}}</ref> In those articles, three radical ideas were introduced into a field which is considered as classical. The ideas followed from the new definition of [[entropy]] based on Shannon's measure of information. The three ideas are, briefly, as follows.
+
+First, there is no relationship between either entropy or the [[second law of thermodynamics]] and the so called [[arrow of time]]. This false association between the Second Law and [[time]] was first suggested by [[Arthur Eddington]]. Also the Boltzmann's [[H-Theorem]] is not about the time dependence of the entropy, but the time dependence of the Shannon's measure of information. In this respect Boltzmann erred in interpreting his (-)H function as entropy.
+
+Second, the application of the concept of entropy to the entire universe is unwarranted. This association has its origin in [[Rudolf Clausius|Clausius']] statement that the entropy of the World always increases. Clausius, who is credited for the formulation of the second law, did not and could not understand the molecular interpretation of entropy. Unfortunately, the application of the concept of entropy to the entire universe features in many textbooks and in popular science books. This erroneous application is discussed in great detail in Ben-Naim's recent books: ''The Briefest History of Time'', ''Entropy, the Truth the whole Truth and nothing but the Truth'', and in ''Information, Entropy, Life and the Universe''.
+
+Third, the application of entropy and the Second Law to living organisms is totally unwarranted. The most famous statement about
+[[entropy and life]] was made by [[Erwin Schrödinger]], in his book ''[[What is Life?]]''. In this book, Schrödinger not only discusses entropy and life and associates entropy with disorder, he also "invents" the concept of "negative entropy," which was later renamed [[negentropy]] by [[Léon Brillouin]]. This erroneous application is further discussed in Ben-Naim's books.
+
+Ben-Naim is a modern antagonist of the term entropy. He advocates abandoning the word [[entropy]] altogether, and replacing it with "missing information". He also indicates that the Kelvin temperature scale artificially introduces the units of thermodynamic entropy. Because this temperature scale was introduced before the atomic, microscopic nature of matter was widely accepted, the [[Boltzmann constant]] was necessary. ''S''&nbsp;= ''k''<sub>B</sub>log(''W'') could be expressed simply as ''S''&nbsp;= log(''W''), if the energy units for temperature ''k''<sub>B</sub>''T'' were used.
+
+An example of the insight that [[information theory]] can bring to [[statistical mechanics]] is the rederivation of the [[Sackur-Tetrode]] equation. It results from stacking the missing information due to four terms: positional uncertainty, momenta uncertainty, quantum mechanical [[uncertainty principle]] and the [[Identical particles|indistinguishability]] of the particles.
+
+Books written by Arieh Ben-Naim on entropy and statistical mechanics include:
+
+* Entropy Demystified: The Second Law Reduced to Plain Common Sense, [[World Scientific]] (2008) {{ISBN|9789812832252}}
+* A Farewell to Entropy. Statistical Thermodynamics Based on Information, World Scientific (2008). {{ISBN|978-981-270-706-2}}
+* Discover Entropy and the Second Law of Thermodynamics, World Scientific (2010). {{ISBN|978-981-4299-75-6}}
+* Entropy and the Second Law: Interpretation and {{Not a typo|Misss-Interpretationsss}} (2012). {{ISBN|978-9-814-40755-7}}.
+* Statistical Thermodynamics, with Applications to Life Sciences, World Scientific (2014) {{ISBN|9789814578202}}
+* Discover Probability; How to Use it, How to Avoid Misusing it and How it Affects Every Aspect of Your Life, World Scientific (2014). {{ISBN|9789814616317}}
+* Information, Entropy, Life and the Universe. What we know and what we do not know, World Scientific (2015) {{ISBN|9789814651677}}
+* The Briefest History of Time: The History of Histories of Time, And the misconstrued association between Entropy and Time, World Scientific (2016). {{ISBN|978-9814749848}}
+* Entropy, The Truth, the Whole Truth and Nothing but the Truth, World Scientific (2016) {{ISBN|9789813147669}}
+* Modern Thermodynamics, World Scientific (2016) {{ISBN|9789813200760}}
+* The Four Laws that do not Drive the Universe, For the Curious and intelligent, World Scientific (2017) {{ISBN|978-981-3223-47-9}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.ariehbennaim.com Personal website]
+* [http://www.alpinn.com/arieh/simulations/index.htm Simulation of statistical phenomena]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ben-Naim, Arieh}}
+[[Category:1934 births]]
+[[Category:Living people]]
+[[Category:Jewish chemists]]
+[[Category:Israeli physical chemists]]
+[[Category:Thermodynamicists]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]

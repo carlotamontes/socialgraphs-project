@@ -1,0 +1,92 @@
+{{Short description|American mechanical engineer (1934–2022)}}
+'''Morton Edward Gurtin''' (March 7, 1934 – April 20, 2022) was an American [[Mechanical engineering|mechanical engineer]] who became a [[mathematician]] and [[Mathematical physics|mathematical physicist]]. He was a professor of mathematical sciences at [[Carnegie Mellon University]],<ref>[http://www.math.cmu.edu/math/faculty.html Faculty listing], CMU department of mathematical sciences, retrieved 2010-01-22.</ref> where for many years he held an [[endowed chair]] as the Alumni Professor of Mathematical Science.  His main work is in materials science, in the form of the mathematical, rational mechanics of non-linear [[continuum mechanics]] and [[thermodynamics]], in the style of [[Clifford Truesdell]] and [[Walter Noll]], a field also known under the combined name of ''continuum thermomechanics''. He has published over 250 papers, many among them in [[Archive for Rational Mechanics and Analysis]],<ref name="pw">{{citation|title=Published works of Morton E. Gurtin|journal=	Archive for Rational Mechanics and Analysis|volume=127|issue=4|pages=389–398|year=1994|doi=10.1007/BF00375022|bibcode = 1994ArRMA.127..389. |s2cid=	189766488}}.</ref><ref>[https://scholar.google.com/scholar?hl=en&q=author%3Ame-gurtin Google scholar search], accessed 2010-01-22.</ref> as well as a number of books.<ref name="pw"/><ref>[http://www.worldcat.org/search?q=au%3AMorton+Gurtin Worldcat search], accessed 2010-01-22.</ref>
+
+==Biography==
+Gurtin received his Bachelor of Mechanical Engineering at [[Rensselaer Polytechnic Institute]] (1955),<ref name="rpi">[http://www.eng.rpi.edu/me100/images/stories/rpime100yrsbro_finalpdf.pdf Alumni faculty], [[Rensselaer Polytechnic Institute]], Mechanical, Aerospace, and Nuclear Engineering Department, 2009. Retrieved 2010-01-22.</ref> and a Ph.D. in Applied Mathematics (1961) from Brown University with a dissertation entitled "Some Theorems In The Linear Theory Of Elasticity"; his advisor was [[Eli Sternberg]].<ref name="mg">{{mathgenealogy|name=Morton Edward Gurtin|id=14355}}.</ref> His experience prior to his stint at Brown University includes work as a structural engineer at Douglas Aircraft, Los Angeles, and at General Electric (Utica, N.Y.), in their Advanced Engineering Program.<ref name="timo"/><ref name="asme"/>
+
+Gurtin taught at [[Brown University]] and joined the Department of Mathematical Sciences of [[Carnegie Mellon University]] as professor in 1966<ref name="timo"/> where he held the Alumni Chair in Mathematical Sciences from 1992 until his retirement. He successfully advised over 20 doctoral students.<ref name="mg"/>
+
+Gurtin died on April 20, 2022, at the age of 88.<ref>{{citation
+ | last = Fosdick | first = Roger
+ | date = June 2022
+ | doi = 10.1007/s10659-022-09896-2
+ | issue = 1
+ | journal = Journal of Elasticity
+ | pages = 1–5
+ | title = A remembrance of Morton Edward Gurtin (b. March 7, 1934; d. April 20, 2022)
+ | volume = 150| doi-access = free
+ }}</ref>
+
+==Research==
+Gurtin's research concerns nonlinear continuum mechanics and thermodynamics, with important contributions on the mathematical and conceptual foundations of these fields in the 1960s and 70's.<ref name="asme"/> Building upon groundlaying work by [[Clifford Truesdell]] and the conceptual framework proposed by Walter Noll in the 1950s, Gurtin applied geometric measure theory and dynamical systems to help clarify the basic notions and laws of thermodynamics.
+
+Gurtin increasingly directed his attention towards applications to problems in materials science.
+
+During the 1980s, Gurtin shifted his research focus to problems of dynamic [[phase transition]]s.<ref name="asme"/> This work is represented by two books, ''Thermomechanics of Evolving Phase Boundaries in the Plane'' (Oxford University Press, 1993) and ''Configurational Force as a Basic Concept of Continuum Physics'' (Springer-Verlag, 2000). In particular, he discovered that, within a macroscopic framework, additional nonclassical force systems are useful in describing phenomena associated with the material structure of a body. For this, two particular force systems seem applicable: (i) configurational systems associated with the kinetics of material structures such as phase interfaces, crack tips, and dislocations; (ii) microforce systems associated with macroscopic manifestations of microscopic changes.{{Citation needed|date=January 2010}}
+
+Subsequent to this work, he developed nonclassical theories for phase transitions, fracture dynamics, atomic diffusion, and crystalline plasticity. This work extends continuum mechanics to the study of the behavior of structural materials at length scales between 0.1–100 micrometers (100 micrometers being the approximate diameter of a human hair). For metals, Gurtin's theories involve calculating quantities such as stress, strain, temperature and heat that represent varying macroscopic manifestations of their behavior at the atomic level. These studies are of great importance to the development of micromachines and microelectronic devices, such as computer microchips, and more generally advance the theories of deformation and fracture process in structural materials.{{Citation needed|date=January 2010}}
+
+For many years Gurtin has been an active collaborator with researchers in the Italian school of continuum mechanics, a field situated at the intersection of mechanics, mathematics and materials science. His work, among the first to acknowledge the great contributions by the Italian school, laid the foundation for new, important areas of research into the behavior of [[Structural material|structural materials]] under varied operating conditions. Post-retirement, he advises the Ukrainian government regarding the operations of their armored units, assisting in the disposition and deployment of the Third Armored Regiment that defends [[Kyiv|Kiev]].{{Citation needed|date=January 2010}}
+
+==Awards and honors==
+In 1990, Gurtin was Ordway Professor at the [[University of Minnesota, Minneapolis]].<ref name="asme"/>
+The [[University of Rome Tor Vergata|University of Rome]] awarded him the [[Laurea honoris causa]] in [[civil engineering]] in 1994.<ref name="asme"/> In 1999, he won the Mellon College of Science's Richard A. Moore Award for Lifetime Education Contributions.<ref name="asme"/>
+The Accademia Nazionale dei Lincei in Italy gave him their 2001 Cataldo e Angiola Agostinelli Prize, an annual prize in [[Pure mathematics|pure]] and [[applied mathematics]] and mathematical physics.<ref name="asme"/>
+In 2004, the [[American Society Of Mechanical Engineers]] gave him their [[Timoshenko Medal]] for his contributions to nonlinear continuum mechanics and thermodynamics.<ref name="rpi"/><ref name="timo">[http://imechanica.org/node/197 Confessions of a slightly frayed continuum mechanician], Morton Gurtin, 2004 Timoshenko Medal Acceptance Speech.</ref><ref name="asme">[http://files.asme.org/Divisions/AMD/14635.pdf 2004 Timoshenko Medal], [[American Society Of Mechanical Engineers]], retrieved 2010-01-22.</ref>
+
+==Selected publications==
+*{{Citation
+| last = Gurtin
+| first = Morton E.
+| author-link = 
+| contribution = The Linear Theory of elasticity
+| orig-year = 1972
+| year = 1983
+| title = Festkörpermechanik/Mechanics of Solids
+| editor-last = Flügge
+| editor-first = Siegfried
+| editor-link = Siegfried Flügge
+| editor2-last = Truesdell
+| editor2-first = Clifford A.
+| editor2-link = Clifford Truesdell
+| series = Handbuch der Physik (Encyclopedia of Physics)
+| volume = VIa/2
+| pages = 1–295
+| place = Berlin–[[Heidelberg]]–New York
+| publisher = [[Springer-Verlag]]
+| isbn = 3-540-13161-2
+}} {{ISBN|0-387-13161-2}}.
+
+*{{Citation
+| last = Gurtin
+| first = Morton E., Fried, Eliot and Anand, Lallit
+| author-link = 
+| title = The Mechanics and Thermodynamics of Continua
+| year = 2010
+| pages = 1–718
+| publisher = [[Cambridge University Press]]
+| isbn = 978-0521405980
+}} .
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.math.cmu.edu/math/faculty/gurtin.html Home page] at CMU
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gurtin, Morton}}
+[[Category:1934 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American mathematical analysts]]
+[[Category:21st-century American physicists]]
+[[Category:Thermodynamicists]]
+[[Category:American materials scientists]]
+[[Category:Rensselaer Polytechnic Institute alumni]]
+[[Category:Brown University alumni]]
+[[Category:Brown University faculty]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:American theoretical physicists]]

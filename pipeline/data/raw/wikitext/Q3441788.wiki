@@ -1,0 +1,73 @@
+{{Short description|Professor (born 1948)}}
+{{Infobox scientist
+| name              = Ronnie Kosloff
+| image             = Ronnie-kosloff.jpg
+| image_size        =
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date and age|1948|07|26}}
+| birth_place       = [[Los Angeles]],  U.S.
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| citizenship       = 
+| fields            = [[Theoretical chemistry]], [[quantum thermodynamics]]
+| workplaces        = [[The Hebrew University]]
+| education         = [[Hebrew University]]
+| doctoral_advisor  = [[Raphael David Levine]]
+| academic_advisors = [[Stuart A. Rice]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{no wrap|Feher Prize for distinguished researchers in science  <small>(1995)</small><br />Kolthoff Prize<small>(2003)</small><br /> The Israel Chemical Society Prize of Excellence <small>(2007)</small>}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = Yaffa Fridheim Kosloff 
+}}
+
+'''Ronnie Kosloff''' (Hebrew: רוני קוזלוב; born July 26, 1948) is a professor of [[theoretical chemistry]] at the Institute of Chemistry and [[Fritz Haber Center for Molecular Dynamics]], [[Hebrew University of Jerusalem]].
+
+==Education and career==
+Ronnie Kosloff grew up in [[Jerusalem]] and then moved to [[Haifa]] in [[Israel]]. He graduated from [[Hebrew Reali School]] in Haifa in 1966.
+He joined the [[Armored Corps (Israel)|armoured corps]] of the [[Israel Defence Force]]. He studied at the [[Hebrew University]] from 1969
+to 1978 when he obtained his PhD. From 1978 to 1980 he was a post doctoral fellow at the [[University of Chicago]].
+Ronnie Kosloff joined the Hebrew University faculty at 1981 where he serves as a Sonneborn professor of theoretical chemistry.
+
+==Research==
+Ronnie Kosloff contributed to the theory of quantum [[molecular dynamics]]. 
+He developed methods to follow the evolution of a molecular system by solving the time dependent [[Schrödinger equation]].<ref>{{cite journal | last1=Kosloff | first1=D | last2=Kosloff | first2=R | title=A fourier method solution for the time dependent Schrödinger equation as a tool in molecular dynamics | journal=Journal of Computational Physics | publisher=Elsevier BV | volume=52 | issue=1 | year=1983 | issn=0021-9991 | doi=10.1016/0021-9991(83)90015-3 | pages=35–53| bibcode=1983JCoPh..52...35K }}</ref><ref>{{cite journal | last1=Tal-Ezer | first1=H. | last2=Kosloff | first2=R. | title=An accurate and efficient scheme for propagating the time dependent Schrödinger equation | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=81 | issue=9 | year=1984 | issn=0021-9606 | doi=10.1063/1.448136 | pages=3967–3971| bibcode=1984JChPh..81.3967T | doi-access=free }}</ref>
+Together with David Tannor and [[Stuart A Rice]] they originated the pump-dump scheme for [[coherent control]].
+<ref>{{cite journal | last1=Tannor | first1=David J. | last2=Kosloff | first2=Ronnie | last3=Rice | first3=Stuart A. | title=Coherent pulse sequence induced control of selectivity of reactions: Exact quantum mechanical calculations | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=85 | issue=10 | date=1986-11-15 | issn=0021-9606 | doi=10.1063/1.451542 | pages=5805–5820| bibcode=1986JChPh..85.5805T | s2cid=94455480 }}</ref><ref>{{cite journal | last1=Kosloff | first1=R. | last2=Rice | first2=S.A. | last3=Gaspard | first3=P. | last4=Tersigni | first4=S. | last5=Tannor | first5=D.J. | title=Wavepacket dancing: Achieving chemical selectivity by shaping light pulses | journal=Chemical Physics | publisher=Elsevier BV | volume=139 | issue=1 | year=1989 | issn=0301-0104 | doi=10.1016/0301-0104(89)90012-8 | pages=201–220| bibcode=1989CP....139..201K }}</ref> The idea of [[coherent control]] was extended to Unitary transformations, a key
+ingredient in [[quantum gate]]s.<ref>{{cite journal | last1=Palao | first1=José P. | last2=Kosloff | first2=Ronnie | title=Quantum Computing by an Optimal Control Algorithm for Unitary Transformations | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=89 | issue=18 | date=2002-10-14 | issn=0031-9007 | doi=10.1103/physrevlett.89.188301 | article-number=188301| pmid=12398642 |arxiv=quant-ph/0204101| bibcode=2002PhRvL..89r8301P | s2cid=9237548 }}</ref>
+More recent work is on  [[coherent control]] of binary chemical  reactions.<ref>{{cite journal | last1=Levin | first1=Liat | last2=Skomorowski | first2=Wojciech | last3=Rybak | first3=Leonid | last4=Kosloff | first4=Ronnie | last5=Koch | first5=Christiane P. |author-link5=Christiane Koch| last6=Amitay | first6=Zohar | title=Coherent Control of Bond Making | journal=Physical Review Letters | volume=114 | issue=23 | date=2015-06-10 | issn=0031-9007 | doi=10.1103/physrevlett.114.233003 | article-number=233003| pmid=26196798 |arxiv=1411.1542| bibcode=2015PhRvL.114w3003L | s2cid=32145743 }}</ref>
+
+Ronnie Kosloff originated the dynamical study of [[quantum heat engines]].<ref>{{cite journal | last=Kosloff | first=Ronnie | title=A quantum mechanical open system as a model of a heat engine | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=80 | issue=4 | date=1984-02-15 | issn=0021-9606 | doi=10.1063/1.446862 | pages=1625–1631| bibcode=1984JChPh..80.1625K }}</ref> This study is part of the emerging field of [[quantum thermodynamics]].
+
+==Honors and awards==
+Ronnie Kosloff is a member of the [[International Academy of Quantum Molecular Science]] and [[Academia Europaea]].
+He won the Feher Prize for distinguished researchers in science in 1995. He won the Kolthoff Prize of the [[Technion – Israel Institute of Technology]] in 2003.<ref>[http://www.technion.ac.il/technion/chemistry/events/kolth_03.html Kolthoff Prize] {{webarchive|url=https://web.archive.org/web/20110717210009/http://www.technion.ac.il/technion/chemistry/events/kolth_03.html |date=2011-07-17 }}</ref> 
+He won the Israel Chemical Society Prize of Excellence in 2007.<ref>[https://www.chemistry.org.il/outstanding-scientist] {{webarchive|url=https://web.archive.org/web/20140819090504/http://www.chemistry.org.il/en/prizes |date=2014-08-19 }}</ref>
+He is an [[Alexander von Humboldt]] fellow 2019. 
+
+== References ==
+<references/>
+
+==External links==
+{{Wikiquote|Ronnie Kosloff}}
+*[http://www.iaqms.org/members/kosloff.php His International Academy of Quantum Molecular Science page]
+*[https://scholars.huji.ac.il/ronniekosloff His University web pages]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kosloff, Ronnie}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:Scientists from Los Angeles]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:Members of Academia Europaea]]
+[[Category:Hebrew Reali School alumni]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]

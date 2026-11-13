@@ -1,0 +1,71 @@
+{{Short description|Canadian physicist (born 1970)}}
+{{Infobox scientist
+|name              = Alain Haché
+|image             =  <!--(filename only)-->
+|image_size        = 
+|caption           = 
+|birth_date        = {{bya|1970}}
+|birth_place       = [[Tracadie, New Brunswick]], Canada
+|death_date        = 
+|death_place       = 
+|fields            = [[Physics]], [[photonics]], [[optics]]
+|workplaces        = [[Université de Moncton]]
+|education         = B.Sc. – [[Université de Moncton]]<br>Ph.D – [[University of Toronto]]
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = Louis Poirier
+|known_for         = Supraluminal phenomena in [[photonic crystal]]s<br>Canada Research Chair in Photonics 2003–2013
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|signature         = <!--(filename only)-->
+|footnotes         = 
+}}
+
+'''Alain Haché''' (born 1970) is an [[experimental physics|experimental]] [[physicist]], a [[professor]] at the [[Université de Moncton|University of Moncton]], Canada.<ref name="UMoncton" /> From 2003 to 2013 he held the [[Canada Research Chair]] in [[photonics]].<ref name="njUvf" /> He is also the author of ''The Physics of Hockey'' <ref name="vuzVX" /> and ''Slap Shot Science'',<ref name="bYPKd" /> two [[popular science]] books on [[ice hockey]].
+
+Haché was born in [[Tracadie, New Brunswick]] in 1970.{{cn|date=March 2022}} In 2002, he and undergraduate student Louis Poirier transmitted [[faster-than-light]] electrical pulses through a 120-metre long "[[photonic crystal]]" made of [[coaxial cable]]s of alternating [[characteristic impedance]] (12 pairs of 50&nbsp;[[ohm|Ω]] and 75&nbsp;Ω cables).<ref name="U41Mr" /><ref name="AXuse" /> The experiment showed that the pulse envelope was recreated at the end of the cables at a speed of >3&nbsp;[[speed of light|''c'']]. This speed represents the [[group velocity]], but the amplitude of the signal also drops in such a way that the energy transmitted never exceeds, at any given time, the energy that would have been transmitted by same pulse travelling in a vacuum. 
+
+==References==
+<references>
+
+<ref name="UMoncton">{{cite web |title=Alain Haché |url=http://professeur.umoncton.ca/umcm-hache_alain/ |language=French |publisher=[[Université de Moncton]] |accessdate=2010-11-27 |archive-date=2011-03-09 |archive-url=https://web.archive.org/web/20110309083309/http://professeur.umoncton.ca/umcm-hache_alain/ |url-status=dead }}</ref>
+<ref name="njUvf">{{cite web |year=2003 |title=Canada Research Chair in Photonics – Alain Haché |url=http://www.chairs.gc.ca/web/chairholders/viewprofile_e.asp?id=910&UniversityID=32&SubjectID=&DisciplineID=&Researcher=&Date_Announce=&Keyword= |publisher=[[Canada Research Chair]]s |url-status=dead |archiveurl=https://web.archive.org/web/20040713032104/http://www.chairs.gc.ca/web/chairholders/viewprofile_e.asp?id=910&UniversityID=32&SubjectID=&DisciplineID=&Researcher=&Date_Announce=&Keyword= |archivedate=2004-07-13}}</ref>
+<ref name="vuzVX">{{cite book |author=Alain Haché |year=2002 |title=The Physics of Hockey |publisher=[[Johns Hopkins University Press]] |location=[[Baltimore]] ([[Maryland|MD]]) |isbn=0-8018-7071-2 |url-access=registration |url=https://archive.org/details/physicsofhockey00alai}}</ref>
+<ref name="bYPKd">{{cite book |author=Alain Haché |year=2015 |title=Slap Shot Science. A Curious Fan's Guide to Hockey |publisher=[[Johns Hopkins University Press]] |location=[[Baltimore]] ([[Maryland|MD]]) |isbn=9781421417929}}</ref>
+<ref name="U41Mr">{{cite web |author=Katie Pennicott |year=2002 |title=Electrical pulses break light speed record |url=http://physicsworld.com/cws/article/news/3630 |publisher=[[Institute of Physics]] |work=PhysicsWorld.com}}</ref>
+<ref name="AXuse">{{cite journal |author=Alain Haché, Louis Poirier |year=2002 |title=Long-range superluminal pulse propagation in a coaxial photonic crystal |journal=[[Applied Physics Letters]] |volume=80 |issue=3 |pages=518–520 |doi=10.1063/1.1432760 |bibcode=2002ApPhL..80..518H|doi-access=free }}</ref>
+
+</references>
+
+==Further reading==
+*{{cite web
+ |author=Nicole Visschedyk 
+ |date=6 September 2010 
+ |title=Researcher earns healthy grant from innovation foundation 
+ |url=http://telegraphjournal.canadaeast.com/rss/article/1205333
+ |work=[[Telegraph-Journal]] 
+ |page=B1 
+ |access-date=2010-12-01 
+}}{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+== External links ==
+* [http://professeur.umoncton.ca/umcm-hache_alain/ Alain Haché's webpage] {{Webarchive|url=https://web.archive.org/web/20110309083309/http://professeur.umoncton.ca/umcm-hache_alain/ |date=2011-03-09 }} @ Université de Moncton
+* [https://docs.google.com/Doc?id=dczr6836_13dmbzrj8h Alain Haché's scientific contributions] @ Google Docs
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hache, Alain}}
+[[Category:Canadian physicists]]
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Canada Research Chairs]]
+[[Category:Academic staff of the Université de Moncton]]
+
+
+{{Canada-scientist-stub}}
+{{physicist-stub}}
+{{edu-bio-stub}}

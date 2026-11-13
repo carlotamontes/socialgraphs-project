@@ -1,0 +1,55 @@
+{{Short description|German bioinformatician and principal investigator}}
+{{Infobox scientist
+|name             = Christoph Bock
+|image            = Christoph_bock.png
+|image_size       = 
+|caption          = 
+|alt              = 
+|birth_date       = 
+|birth_place      = 
+|fields           = [[Bioinformatics]]
+|workplaces       = [[Max Planck Institute for Informatics]]<br />[[Austrian Academy of Sciences]]<br />[[Medical University of Vienna]]<br />[[Broad Institute]]
+|education        = {{Plainlist|
+* [[University of Mannheim]]
+* [[Saarland University]] (PhD)}}
+|thesis_title     = Computational Epigenetics
+|thesis_url       = https://domino.mpi-inf.mpg.de/imprs/imprspubl.nsf/80255f02006a559a80255ef20058920d/724659a79811274bc12578be0033081b!OpenDocument
+|thesis_year      = 2008
+|doctoral_advisor = [[Thomas Lengauer]]<ref name=thesis/>
+|awards           = {{Plainlist|
+* [[Otto Hahn Medal]] (2009)
+* [[Overton Prize]] (2017)}}
+| website = {{URL|https://cemm.at/research/groups/core-groups/christoph-bock/group}}
+}}
+'''Christoph Bock''' is a German [[bioinformatician]] and [[principal investigator]] at the Research Center for Molecular Medicine ([[CeMM]]) of the [[Austrian Academy of Sciences]] and a visiting professor at the [[Medical University of Vienna]].<ref name="bock-group-home">{{cite web|title=Christoph Bock Group|url=http://cemm.at/research/groups/christoph-bock-group/|website=cemm.at|access-date=23 July 2017|language=en}}</ref><ref name="scholar">{{Google scholar id}}</ref>
+
+==Education==
+Bock carried out his undergraduate studies at the [[University of Mannheim]], focusing on computer science and business information, with an emphasis on [[machine learning]].<ref name="overton">{{cite journal|last1=Fogg|first1=Christiana N.|last2=Kovats|first2=Diane E.|last3=Berger|first3=Bonnie|title=2017 ISCB Overton Prize awarded to Christoph Bock|journal=PLOS Computational Biology|date= 2017|volume=13|issue=6|article-number=e1005559|doi=10.1371/journal.pcbi.1005559|pmid=28665945|pmc=5493286|bibcode=2017PLSCB..13E5559F |doi-access=free }}</ref>
+
+Bock gained his PhD in 2008 from [[Saarland University]] for research carried out at the [[Max Planck Institute for Informatics]] on [[computational epigenetics]] supervised by [[Thomas Lengauer]].<ref name="overton" /><ref name="thesis">{{cite thesis|year=2008|first=Christoph|last=Bock|title=Computational Epigenetics|degree=PhD|url=https://domino.mpi-inf.mpg.de/imprs/imprspubl.nsf/80255f02006a559a80255ef20058920d/724659a79811274bc12578be0033081b!OpenDocument|website=mpg.de|access-date=23 July 2017|language=en|publisher=[[Saarland University]]|oclc=472653426}}</ref>
+
+==Research and career==
+Following his PhD, he undertook [[postdoctoral research]] with Alexander Meissner at the [[Broad Institute]], where he contributed to the [[NCBI Epigenomics#Roadmap Epigenomics Project|NIH Roadmap Epigenomics Project]].<ref name="ismb-keynote" />
+
+Bock joined CeMM as a [[principal investigator]] in 2012.{{citation needed|date=September 2018}} His research focuses on the application of [[machine learning]] and [[biostatistics]] to computational epigenetics. He is also interested in the application of bioinformatics to epigenetic diagnosis and [[personalised medicine]].<ref name="ismb-keynote">{{cite web|title=Christoph Bock|url=https://www.iscb.org/ismbeccb2017-program/keynotes/christoph-bock|website=www.iscb.org|access-date=23 July 2017}}</ref> Bock's lab has explored integrating technologies to efficiently assess the impact of many genes in [[gene regulation]]. His lab has combined [[CRISPR]] genome editing with [[Single cell sequencing|single-cell RNA-seq]] to create the CROP-seq method, which enables high-throughput analysis of gene regulation.<ref name="crop-seq">{{cite web|title=CRISPR meets single-cell sequencing in new screening method|url=https://phys.org/news/2017-01-crispr-single-cell-sequencing-screening-method.html|access-date=23 July 2017}}</ref>
+
+Beyond his work at CeMM, he has also been a principal investigator of BLUEPRINT, a member organisation of the [[International Human Epigenome Consortium]].<ref name="ismb-keynote" />
+
+===Awards and honors===
+Bock was awarded the [[Otto Hahn Medal]] by the [[Max Planck Society]] in 2009: this award recognises outstanding PhD theses.<ref name="hahn-medal">{{cite web|title=Christoph Bock|url=http://www.medical-epigenomics.org/meg/index.php?option=com_content&view=article&id=77&catid=82&Itemid=477|website=www.medical-epigenomics.org|access-date=23 July 2017|language=en-gb}}</ref>
+
+In 2017, Bock was awarded the [[Overton Prize]] by the [[International Society for Computational Biology]], for his significant contributions to [[computational biology]] research.<ref name="overton" />
+
+{{As of|2017}}, Bock serves on the editorial board of the ''[[Genome Biology]]'' journal.<ref name="gb-editorial-board">{{cite web|title=Genome Biology|url=https://genomebiology.biomedcentral.com/about/editorial-board|website=Genome Biology|access-date=23 July 2017|language=en}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Authority control}}
+{{Overton Prize}}
+
+{{DEFAULTSORT:Bock, Christoph}}
+[[Category:German bioinformaticians]]
+[[Category:Living people]]
+[[Category:Overton Prize winners]]
+[[Category:Year of birth missing (living people)]]

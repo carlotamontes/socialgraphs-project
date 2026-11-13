@@ -1,0 +1,244 @@
+{{short description|American physicist (1929-2016)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = 
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = David Ritz Finkelstein, 1984.jpg
+| image_upright     = 
+| alt               = 
+| caption           = Finkelstein in 1984
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |1929|07|19}}
+| birth_place       = [[New York City]], US
+| death_date        = {{death date and age |2016|01|24 |1929|07|19}}
+| death_place       = [[Atlanta, Georgia]], US
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = 
+| workplaces        = [[Georgia Institute of Technology]]<br />[[Yeshiva University]]
+| patrons           = 
+| education         = [[Massachusetts Institute of Technology]]
+| thesis_title      = Non-linear meson theory of nuclear forces
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1953
+| doctoral_advisor  = [[Felix Villars]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Eddington–Finkelstein coordinates]]
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''David Ritz Finkelstein''' (July 19, 1929 – January 24, 2016) was an emeritus professor of [[physics]] at the [[Georgia Institute of Technology]].<ref name="Cvitanovic2017">{{cite journal
+ | last1 = Cvitanović
+ | first1 = Predrag
+ | last2 = Susskind
+ | first2 = Leonard
+ | title = David Ritz Finkelstein
+ | journal = Physics Today
+ | volume = 70
+ | issue = 2
+ | pages = 68–69
+ | year = 2017
+ | doi = 10.1063/pt.3.3472
+| bibcode = 2017PhT....70b..68C
+ | doi-access = free
+ }}</ref><ref name="Bio">{{cite web
+ |url = https://www.davidritzfinkelstein.com/biography.html
+ |title = David Ritz Finkelstein (July 19, 1929 - January 24, 2016) Biography
+ |author = Aria Ritz Finkelstein
+ |date = 2022
+ |website = davidritzfinkelstein.com
+ |access-date = 2022-03-11
+}}</ref>
+
+== Biography ==
+Born in [[New York City]], Finkelstein obtained his Ph.D. in physics at the [[Massachusetts Institute of Technology]] in 1953 and taught at [[Stevens Institute of Technology]] through 1960, while he also held a Ford Foundation Fellowship at the [[CERN|European Organization for Nuclear Research]] from 1959 to 1960.<ref>{{Cite web|url=https://www.physics.gatech.edu/user/david-finkelstein|title=David Finkelstein's homepage|last=|first=|date=|website=|publisher=Georgia Tech|archive-url=https://web.archive.org/web/20110913092637/https://www.physics.gatech.edu/user/david-finkelstein|archive-date=13 September 2011|access-date=12 June 2015}}</ref> From 1964 to 1976, he was professor of physics at [[Yeshiva University]]. He became a member of the faculty at Georgia Tech in 1980.
+
+David Finkelstein was the first, in 1958, who identified [[Schwarzschild metric|Schwarzschild's solution]] of the [[Einstein field equations]] as corresponding to a region in space from which nothing escapes.<ref name="Finkelstein1958">{{cite journal
+ | last1 = Finkelstein
+ | first1 = David
+ | title = Past-future asymmetry of the gravitational field of a point particle
+ | journal = Physical Review
+ | volume = 110
+ | issue = 4
+ | pages = 965–967
+ | year = 1958
+ | doi = 10.1103/PhysRev.110.965
+ | bibcode = 1958PhRv..110..965F
+}}</ref><ref name="Coecke2016">{{cite web
+ |url = https://fqxi.org/community/forum/topic/2599
+ |title = David Ritz Finkelstein (1929 - 2016)
+ |author = Bob Coecke
+ |date = 2016-02-16
+ |website = FQXi BLOGS
+ |publisher = The Foundational Questions Institute (FQXi)
+ |access-date = 2022-03-11
+}}</ref> In 1959, Finkelstein and [[Charles W. Misner]] found the gravitational kink, a [[topological defect]] in the gravitational metric, whose quantum theory could exhibit [[Spin (physics)|spin]]&nbsp;1/2.<ref name="Finkelstein1959">{{cite journal
+ | last1 = Finkelstein
+ | first1 = David
+ | last2 = Misner
+ | first2 = Charles W.
+ | title = Some new conservation laws
+ | journal = Annals of Physics
+ | volume = 6
+ | issue = 3
+ | pages = 230–243
+ | year = 1959
+ | doi = 10.1016/0003-4916(59)90080-6
+| bibcode = 1959AnPhy...6..230F
+ }}</ref> The simplest kink exhibited an easily understood [[event horizon]] that led him to recognize the one in the [[Schwarzschild metric]] and eliminate its coordinate singularity.  In essence, Finkelstein determined that whatever falls past the [[Schwarzschild radius]] into a black hole cannot escape it; the membrane is one-directional. This important work influenced the decisions of [[Roger Penrose]] and [[John Archibald Wheeler]] to accept the physical existence of event horizons and black holes.<ref name="Overbye2008">{{cite web
+ |url = https://www.nytimes.com/2008/04/14/science/14wheeler.html
+ |title = John A. Wheeler, Physicist Who Coined the Term 'Black Hole,' Is Dead at 96
+ |author = Overbye, Dennis
+ |date = 2008
+ |website = The New York Times
+ |access-date = 2022-03-11
+}}</ref>
+
+Most of Finkelstein's work is directed toward a quantum theory of space-time structure. He early on accepted the conclusion of [[John von Neumann]] that anomalies of quantum mechanical measurement are anomalies of the logic of quantum mechanical systems. Therefore, he formed quantum analogues of set theory, the standard language for classical space-time structures, and proposed that space-time is a quantum set of space-time quanta dubbed "[[chronons]]", a form of [[quantum computer]] with [[Spin (physics)|spin]]s for quantum bits, as a quantum version of the cellular automaton of von Neumann. His early quantum space-times proving unphysical, he later studied chronons with a regularized form of [[Bose–Einstein statistics]] due to Tchavdar D. Palev.<ref name="Finkelstein2013">{{cite book
+ | last1 = Finkelstein
+ | first1 = David Ritz
+ | year = 2013
+ | chapter = Palev statistics and the chronon
+ | editor-last1 = Dobrev
+ | editor-first1 = Vladimir
+ | title = Lie Theory and Its Applications in Physics
+ | series = Springer Proceedings in Mathematics & Statistics
+ | volume = 36
+ | publisher = Springer
+ | location = Tokyo
+ | pages = 25–38
+ | doi = 10.1007/978-4-431-54270-4_3
+ | isbn = 978-4-431-54270-4
+ | arxiv = 1201.1597
+| s2cid = 58945899
+ }}</ref>
+
+He investigated [[ball lightning]] with Julio Rubinstein<ref name="Finkelstein1964">{{cite journal
+ | last1 = Finkelstein
+ | first1 = David
+ | last2 = Rubinstein
+ | first2 = Julio
+ | title = Ball lightning
+ | journal = Physical Review
+ | volume = 135
+ | issue = 2
+ | pages = A390–A396
+ | year = 1964
+ | doi = 10.1103/PhysRev.135.A390
+| bibcode = 1964PhRv..135..390F
+ }}</ref> and [[James R. Powell (physicist)|James R. Powell]].<ref name="Finkelstein1970a">{{cite journal
+ | last1 = Finkelstein
+ | first1 = David
+ | last2 = Powell
+ | first2 = James R.
+ | title = Earthquake lightning
+ | journal = Nature
+ | volume = 228
+ | issue = 5273
+ | pages = 759–760
+ | year = 1970
+ | doi = 10.1038/228759a0
+| pmid = 16058686
+ | bibcode = 1970Natur.228..759F
+ | s2cid = 4248535
+ }}</ref><ref name="Finkelstein1970b">{{cite journal
+ | last1 = Finkelstein
+ | first1 = David
+ | last2 = Powell
+ | first2 = James R.
+ | title = Ball Lightning: Less well known than stroke lightning, ball lightning is about as frequent and can be simulated in the laboratory
+ | journal = American Scientist
+ | volume = 58
+ | issue = 3
+ | pages = 262–280
+ | year = 1970
+ | jstor = 27829081
+}}</ref>
+They concluded that ball lightning is most likely a wandering [[St. Elmo's fire]], a low-temperature [[soliton]] in the atmospheric electric current flow.
+
+He also put forward an in-depth interpretation of the engraving ''[[Melencolia I]]'' of [[Albrecht Dürer]].<ref>{{Cite arXiv |last=Finkelstein |first=David Ritz |date=2006-02-27 |title=MELENCOLIA I: The physics of Albrecht Duerer |eprint=physics/0602185 |language=en}}</ref>
+
+Finkelstein died from [[idiopathic pulmonary fibrosis]] in [[Atlanta]] on January 24, 2016, aged 86.<ref name="Cvitanovic2017"/><ref name="Bio"/><ref>{{cite web|url=http://www.legacy.com/obituaries/atlanta/obituary.aspx?pid=177436050|title=David Finkelstein Obituary - Atlanta, GA|work=Atlanta Journal-Constitution}}</ref><ref>{{Cite web|date=2016-01-25|title=Obituary: Physicist David Finkelstein, 86|url=https://atlantajewishtimes.timesofisrael.com/obituary-david-finkelstein-86/|access-date=2021-04-12|website=Atlanta Jewish Times|language=en-US}}</ref>
+
+== Universal relativity ==
+Influenced by his discussions of [[Buddhism|Buddhist]] [[philosophy]] at the [[Mind and Life Institute|Mind and Life dialogues]], Finkelstein developed a philosophical theory of "universal relativity" which he thought might help advance physics. According to Finkelstein:<ref name="Finkelstein2003">{{cite book
+ | last1 = Finkelstein
+ | first1 = David
+ | year = 2003
+ | chapter = Emptiness and relativity
+ | editor-last1 = Wallace
+ | editor-first1 = B. Alan
+ | title = Buddhism and Science: Breaking New Ground
+ | publisher = Columbia University Press
+ | location = New York
+ | pages = 365–386
+ | chapter-url = https://books.google.com/books?id=10ysAgAAQBAJ&pg=365
+ | oclc = 756510558
+ | isbn = 978-0-231-12335-8
+ | s2cid = 14908829
+ | citeseerx = 10.1.1.68.4935
+}}</ref>
+<blockquote>The Buddhist principle that all is [[Śūnyatā|empty]] is understood by some as the principle that all is relative ([[Robert Thurman|Thurman]] 1993). This universal relativity principle is more embracing though less structured than Einstein's [[General relativity|general relativity principle]], which still admits many absolutes. The major changes in physics in this century have been extensions of relativity at one level or another, and I think a further extension is due, at an even deeper level of physics than the previous. Philosophical inquiry has aided such extensions before, and it could do so again. A philosophical argument for a universal relativity could be a useful guide for future physics.</blockquote>
+
+==Books==
+* David Ritz Finkelstein: ''Quantum relativity: a synthesis of the ideas of [[Albert Einstein|Einstein]] and [[Werner Heisenberg|Heisenberg]]'', Springer, 1996; [https://books.google.com/books?id=OvjsCAAAQBAJ 2012 pbk reprint of 1996 1st edition] {{isbn|978-3-642-64612-6}}
+* David Ritz Finkelstein, [[Josef-Maria Jauch|J. M. Jauch]]: ''Notes on [[quaternion]] quantum mechanics'', CERN, 1959
+* Charles Maisonnier, David Ritz Finkelstein: ''Beam intensity limitation in neutralized space charge betatrons'', CERN, 1959
+* David Ritz Finkelstein: ''Non-linear meson theory of nuclear forces'', Massachusetts Institute of Technology, Department of Physics, 1952
+
+==Television shows==
+*BBC Horizon: "It's About Time" (1979): Show hosted by [[Dudley Moore]].
+*[https://www.closertotruth.com/contributor/david-finkelstein/profile Closer to Truth] interview series
+
+==See also==
+* [[Eddington-Finkelstein coordinates]]
+* [[Quantum logic]]
+* [[List of quantum gravity researchers]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+*[https://www.davidritzfinkelstein.com/ Finkelstein's life and work]
+*[https://web.archive.org/web/20110913092637/https://www.physics.gatech.edu/user/david-finkelstein Finkelstein's Georgia Tech home page]
+* {{INSPIRE-HEP author}}
+* [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/40665 Oral history interview transcript with David Finkelstein on 18 February 2013, American Institute of Physics, Niels Bohr Library & Archives]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Finkelstein, David}}
+[[Category:1929 births]]
+[[Category:2016 deaths]]
+[[Category:Georgia Tech faculty]]
+[[Category:American physicists]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish physicists]]
+[[Category:Scientists from New York City]]
+[[Category:MIT School of Science alumni]]
+[[Category:City College of New York alumni]]
+[[Category:People associated with CERN]]
+[[Category:21st-century American Jews]]

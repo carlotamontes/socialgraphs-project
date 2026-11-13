@@ -1,0 +1,81 @@
+{{Short description|Indian physicist}}
+{{other uses|Anisur Rahman (disambiguation)}}
+{{Use dmy dates|date=June 2018}}
+{{Use Indian English|date=June 2018}}
+{{Infobox scientist
+| name              = Aneesur Rahman
+| image             = Aneesur Rahman edited.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date|df=yes|1927|08|24}}
+| birth_place       = [[Hyderabad, India|Hyderabad]], [[British India]]
+| death_date        = {{Death date and age|1987|06|06|1927|08|24|df=yes}}
+| death_place       = [[Minneapolis]], [[Minnesota]]
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = 
+| education         = [[University of Cambridge|Cambridge]], [[Catholic University of Leuven (1834–1968)|Louvain]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = [[Charles Lambert Manneback]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Molecular dynamics]]
+| influences        = 
+| influenced        = 
+| awards            = [[Irving Langmuir Award]] (1977)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+
+'''Aneesur Rahman''' (24 August 1927 – 6 June 1987) was an Indian-born American physicist who pioneered the application of computational methods to physical systems.  
+
+==Education and career==
+Rahman was born on 24 August 1927 in [[Hyderabad]], India.<ref name="physicstoday">{{cite magazine | first1= Sunil K. | last1= Sinha | first2= Ivan K. | last2= Schuller | first3= Ted A. | last3= Postol | first4= Michele | last4= Parrinello | first5= Charles E. | last5= Campbell | date= August 1988 | title= Aneesur Rahman | magazine= Physics Today | volume= 41 | issue= 8 | pages= 97 | doi= 10.1063/1.2811542 | bibcode = 1988PhT....41h..97S }}</ref><ref name="cecam">{{Cite web |date=1987-09-01 |title=In Memoriam: Aneesur Rahman {{!}} Proceedings of a Meeting in Memory of Rahman |url=https://www.cecam.org/themes/cecam/assets/images/history/1981-1990/In_Memoriam_Aneesur_Rahman.pdf |publisher=Centre Européen de Calcul Atomique et Moléculaire}}</ref>  He earned a bachelor's degree in Hyderabad, and went on to [[Cambridge University]] in England, where he completed the [[tripos]] program in physics and in mathematics.<ref name="resonances">{{cite journal|title=Aneesur Rahman:A Pioneer in Computational Physics | last1=Sen|first1=Kalidas|last2=Sastry|first2=Srikanth | journal=Resonance| publisher=Indian Academy of Sciences; Springer | doi= 10.1007/s12045-014-0076-0 | volume=19 | issue=8 |year=2014}}</ref>  He then completed his PhD in theoretical physics at the [[University of Louvain]], Belgium, in 1953.<ref name="resonances" /> His supervisor was [[Charles Lambert Manneback]].<ref name="resonances"/> 
+
+Following the PhD, Rahman worked for four years in [[Osmania University]] in Hyderabad.<ref name="physicstoday"/>  At the end of 1957, he moved to [[Mumbai]], where he worked at the [[Tata Institute of Fundamental Research]].<ref name="resonances"/>
+
+In 1960, Rahman began a 25-year tenure as a physicist at [[Argonne National Laboratory]] outside [[Chicago]]. In 1985, Rahman joined the faculty at the [[University of Minnesota]] as a professor of physics and fellow at the [[University of Minnesota Supercomputing Institute|Supercomputer Institute]].<ref name="physicstoday"/>
+
+Rahman died on 6 June 1987 in [[Minneapolis]].<ref name="physicstoday"/><ref name="cecam"/>
+
+==Research==
+Rahman has been called the father of [[molecular dynamics]],<ref>{{cite web | url = http://www.anl.gov/postdocs/named-fellowships-luminary-aneesur-rahman | title = Named Fellowships Luminary - Aneesur Rahman | publisher = [[Argonne National Laboratory]] | access-date = 2016-04-23 | archive-date = 26 January 2018 | archive-url = https://web.archive.org/web/20180126214409/http://www.anl.gov/postdocs/named-fellowships-luminary-aneesur-rahman | url-status = dead }}</ref> an approach used in many areas of science that utilizes computers to simulate the microscopic behavior of systems including how they evolve with time and a range of their properties.<ref>{{Cite journal |last1=Hollingsworth |first1=Scott A. |last2=Dror |first2=Ron O. |date=2018-09-19|title=Molecular Dynamics Simulation for All |journal=Neuron |language=en |volume=99 |issue=6 |pages=1129–1143 |doi=10.1016/j.neuron.2018.08.011 |pmc=6209097 |pmid=30236283}}</ref><ref>{{Cite journal |last=Gowthaman |first=S |date=2023-03-01 |title=A review on mechanical and material characterisation through molecular dynamics using large-scale atomic/molecular massively parallel simulator (LAMMPS) |url=https://doi.org/10.1088/2631-6331/acc3d5 |journal=Functional Composites and Structures |volume=5 |issue=1 |pages=012005 |doi=10.1088/2631-6331/acc3d5 |bibcode=2023FCS.....5a2005G |issn=2631-6331|url-access=subscription }}</ref><ref>{{Cite book |last=Rapaport |first=D. C. |url=https://www.cambridge.org/core/books/art-of-molecular-dynamics-simulation/57D40C5ECE9B7EA17C0E77E7754F5874 |title=The Art of Molecular Dynamics Simulation |date=2004 |publisher=Cambridge University Press |isbn=978-0-521-82568-9 |edition=2 |location=Cambridge |doi=10.1017/cbo9780511816581}}</ref>  His 1964 paper on liquid argon studied a system of 864 [[argon]] atoms on a [[CDC 3600]] computer, using a [[Lennard-Jones potential]].<ref>{{cite journal | journal= Physical Review | volume=136 | author= A. Rahman | title= Correlations in the Motion of Atoms in Liquid Argon | doi=10.1103/PhysRev.136.A405 | year= 1964 | issue=2A | page=A405-A411 | bibcode = 1964PhRv..136..405R }}</ref>
+
+His algorithms still form the basis for many codes written today.<ref>{{Cite journal |last=Sastry |first=Srikanth |date=2025-05-07 |title=Aneesur Rahman: Pioneer of molecular simulation |url=https://pubs.aip.org/jcp/article/162/17/170401/3345859/Aneesur-Rahman-Pioneer-of-molecular-simulation |journal=The Journal of Chemical Physics |language=en |volume=162 |issue=17 |article-number=170401 |doi=10.1063/5.0273655 |pmid=40322983 |bibcode=2025JChPh.162q0401S |issn=0021-9606|url-access=subscription }}</ref>
+
+==Awards and honours==
+In 1977, Rahman was awarded the [[Irving Langmuir Prize]] by the [[American Physical Society]].<ref>{{Cite web |title=Irving Langmuir Award in Chemical Physics |url=https://www.aps.org/funding-recognition/award/irving-langmuir |access-date=2025-09-02 |website=www.aps.org |language=en}}</ref>  A conference was held in his honor in 1984, on the occasion of his 60th birthday and of the 20th anniversary of his paper simulating argon atoms; a [[festschrift]] was published in the ''[[Journal of Physical Chemistry]]''.<ref name="resonances"/><ref>{{cite journal|title=The Rahman Festschrift | journal=Journal of Physical Chemistry |last1=Berne|first1=Bruce|last2=Chandler|first2=David|last3=Klein|first3=Mike| doi=10.1021/j100303a600 |volume=91|issue=19 | year=1987 | page=4865 | bibcode=1987JPhCh..91.4865B }}</ref>
+
+A meeting in memory of Rahman was held in September 1987 at the [[Centre Européen de Calcul Atomique et Moléculaire]] in 1987.<ref name="cecam"/>
+
+The American Physical Society annually awards the [[Aneesur Rahman Prize]] for outstanding achievement in computational research. First awarded in 1993, the Aneesur Rahman Prize is the highest honour in the field of [[computational physics]] given by the American Physical Society.<ref>{{Cite web |title=Aneesur Rahman Prize for Computational Physics |url=https://www.aps.org/funding-recognition/prize/aneesur-rahman |access-date=2025-09-02 |website=www.aps.org |language=en}}</ref>
+
+[[Argonne National Laboratory]] offered a named fellowship postdoctoral position honoring Rahman.<ref>{{Webarchive|url=https://web.archive.org/web/20141028110513/http://www.dep.anl.gov/postdocs/namedpostdoc.htm |date=28 October 2014 }}</ref>  The School of Physics at the [[University of Minnesota]] has an annual Rahman Award of $1,000 prize to advanced graduate students for outstanding research contributions.<ref>{{Cite web |title=Aneesur Rahman Award {{!}} School of Physics and Astronomy {{!}} College of Science and Engineering |url=https://cse.umn.edu/physics/aneesur-rahman-award |access-date=2025-09-02 |website=cse.umn.edu |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+
+* [https://scholar.google.com/scholar?start=0&q=Aneesur+Rahman Google Scholar citations]
+{{authority control}}
+
+{{DEFAULTSORT:Rahman, Aneesur}}
+[[Category:1927 births]]
+[[Category:1987 deaths]]
+[[Category:20th-century Indian Muslims]]
+[[Category:20th-century Indian physicists]]
+[[Category:Scientists from Hyderabad, India]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Scientific computing researchers]]
+[[Category:Fellows of the American Physical Society]]

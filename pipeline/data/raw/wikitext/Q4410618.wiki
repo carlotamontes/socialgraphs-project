@@ -1,0 +1,59 @@
+{{Short description|Russian mathematical physicist (1924–2022)}}
+{{Use dmy dates|date=July 2022}}
+
+'''Aleksei Georgievich Sveshnikov''' ({{langx|ru|link=y|Алексей Георгиевич Свешников}}, 19 November 1924 – 4 July 2022) was a Russian [[Mathematical physics|mathematical physicist]].
+
+==Biography==
+Born in [[Saratov]] as the son of Georgy Nikolaevich Sveshnikov and Vera Konstantinovna Sveshnikova (''née'' Snitko), A. G. Sveshnikov graduated from a Moscow high school in 1941. As an artillery soldier and platoon commander in WWII, he was in April 1945 seriously wounded on the [[4th Ukrainian Front]]. He was awarded the [[Order of the Red Star]] (1945), the [[Order of the Patriotic War]] of the 1st Degree (1995), the [[Medal For the Victory Over Germany in the Great Patriotic War 1941–1945|Medal for Victory over Germany]] (1945) and many jubilee medals.<ref>[http://podvignaroda.ru/?#id=37370665&tab=navDetailDocument Подвиг народа (A feat of the people)]</ref>
+
+After demobilization in 1945, he entered the Faculty of Physics of [[Moscow State University]], from which he graduated in 1950. After graduating from the university, he worked at the Physics Department of Moscow State University. There in 1953 he received his [[Candidate of Sciences]] degree (PhD) with thesis Принцип излучения и единственность решения задач дифракции (The principle of radiation and the uniqueness of the solution of diffraction problems). In 1963 he received his Russian [[Doctor of Sciences]] degree ([[habilitation]]) with thesis Мето ды исследования распространения колебаний в нерегулярных волноводах (Methods for studying the propagation of oscillations in irregular waveguides).<ref name=bio/> [[Andrey Nikolayevich Tikhonov]] was Sveshnikov's thesis advisor and role model.<ref>[https://www.keldysh.ru/ANTikhonov-100/video/ Речь А. Г. Свешникова в Институте прикладной математики по случаю столетия со дня рождения Андрея Николаевича Тихонова (Speech of A. G. Sveshnikov at the Institute of Applied Mathematics on the occasion of the centenary of the birth of Andrey Nikolaevich Tikhonov)]</ref> In the department of mathematics of the Faculty of Physics of Moscow State University, Sveshnikov became a full professor in 1966 and was head of the department from 1971 to 1993. He supervised 45 Candidate of Sciences degrees and 15 Russian Doctor of Sciences degrees.<ref name=bio>[http://letopis.msu.ru/peoples/4094 Свешников Алексей Георгиевич} — Летопись Московского университета (Annals of the University of Moscow)]</ref>
+
+Sveshnikov developed effective [[algorithm]]s for [[waveguide|waveguide systems]], based on the projection methods developed by him for solving a wide range of problems in mathematical physics. He took an active part in the creation of new methods for the mathematical design of systems for various purposes. He and his colleagues created and implemented algorithms for mathematical models of [[plasma physics]] and dynamics of continuous media. His research also dealt with inverse problems of synthesis and recognition of multilayer optical coatings, direct and inverse problems of [[Diffraction|diffraction theory]], and problems of propagation of oscillations in waveguide systems. He was the author or co-author of over 400 scientific works, including 5 textbooks, 6 monographs, several monographic reviews and teaching materials.<ref name=bio/>
+
+In 1974 Sveshnikov was an invited speaker at the [[International Congress of Mathematicians]].<ref>{{cite book|author=Sveshnikov, A. G.|chapter=Численные методы в теории дифракции (Numerical methods in diffraction theory)|title=Proceedings of the International Congress of Mathematicians (Vancouver, B.C., 1974)|volume=2|year=1975|pages=437–442}}</ref> In 1976 he was awarded both the [[USSR State Prize]] and the [[Order of the Badge of Honour]]. In 1991 he was elected a member of the Russian Academy of Natural Sciences.
+
+Sveshnikov died in Moscow on 4 July 2022, at the age of 97.<ref>{{cite news |title=Памяти ученого Алексея Георгиевича Свешникова |url=https://olegdushin.livejournal.com/217086.html |access-date=6 July 2022 |publisher=Live Journal |date=5 July 2022}}</ref><ref>{{cite web |title=АЛЕКСЕЙ ГЕОРГИЕВИЧ СВЕШНИКОВ |url=http://math.phys.msu.ru |access-date=6 July 2022}}</ref>
+
+==Selected publications==
+===Articles===
+*{{cite journal|doi=10.1016/0041-5553(63)90027-2|title=A substantiation of a method for computing the propagation of electromagnetic oscillations in irregular waveguides|year=1963|last1=Sveshnikov|first1=A.G.|journal=USSR Computational Mathematics and Mathematical Physics|volume=3|issue=2|pages=413–429}}
+*{{cite journal|doi=10.1070/RM1976v031n06ABEH001582|title=The Developments of Mathematical Methods for the Study of Direct and Inverse Problems in Electrodynamics|year=1976|last1=Dmitriev|first1=V. I.|last2=Il'inskii|first2=A. S.|last3=Sveshnikov|first3=A. G.|journal=Russian Mathematical Surveys|volume=31|issue=6|pages=133–152|bibcode=1976RuMaS..31..133D|s2cid=250818921 }}
+*{{cite journal|bibcode=1986MoIzN....T....G|title=Problems in the dynamics of stratified fluids|last1=Gabov|first1=Sergei A.|last2=Sveshnikov|first2=Aleksei G.|journal=Moscow Izdatel Nauka|year=1986}}
+*{{cite journal|doi=10.1080/02726349308908326|title=The Discrete Source Method for Investigating Three-Dimensional Electromagnetic Scattering Problems|year=1993|last1=Eremin|first1=Yu. A.|last2=Sveshnikov|first2=A. G.|journal=Electromagnetics|volume=13|pages=1–22}}
+*{{cite book|doi=10.1016/B978-044450282-7/50016-6|chapter=Models of Electromagnetic Scattering Problems Based on Discrete Sources Method|title=Generalized Multipole Techniques for Electromagnetic and Light Scattering|year=1999|last1=Eremin|first1=Yu.A.|last2=Orlov|first2=N.V.|last3=Sveshnikov|first3=A.G.|pages=39–80|isbn=9780444502827}}
+* {{cite journal|author=Eremin, Y. A.|author2=Sveshnikov, A. G.|year=2007|title=Mathematical models in nanooptics and biophotonics based on the discrete sources method|journal=Computational Mathematics and Mathematical Physics|volume=47|issue=2|pages=262–279|doi=10.1134/S0965542507020108|bibcode=2007CMMPh..47..262E|s2cid=120928361}}
+*{{cite journal|doi=10.1007/s10958-007-0541-3|title=Blow-up of solutions of strongly nonlinear equations of pseudoparabolic type|year=2008|last1=Korpusov|first1=M. O.|last2=Sveshnikov|first2=A. G.|journal=Journal of Mathematical Sciences|volume=148|pages=1–142|s2cid=120588841|doi-access=free}} 2008
+*{{cite journal|doi=10.1016/j.na.2009.05.002|title=On blow up of generalized Kolmogorov–Petrovskii–Piskunov equation|year=2009|last1=Korpusov|first1=M.O.|last2=Ovchinnikov|first2=A.V.|last3=Sveshnikov|first3=A.G.|journal=Nonlinear Analysis: Theory, Methods & Applications|volume=71|issue=11|pages=5724–5732}}
+*{{cite journal|doi=10.1070/SM2009v200n04ABEH004008|title=Blow-up of Oskolkov's system of equations|year=2009|last1=Korpusov|first1=M. O.|last2=Sveshnikov|first2=Aleksei G.|journal=Sbornik: Mathematics|volume=200|issue=4|pages=549–572|bibcode=2009SbMat.200..549K|s2cid=250864912 }}
+*{{cite book|doi=10.1515/9783110255294|title=Blow-up in Nonlinear Sobolev Type Equations|year=2011|last1=Al'shin|first1=Alexander B.|last2=Korpusov|first2=Maxim O.|last3=Sveshnikov|first3=Alexey G.|isbn=978-3-11-025527-0}}
+*{{cite journal|doi=10.1134/S0965542518040103|title=Mathematical Model Taking into Account Nonlocal Effects of Plasmonic Structures on the Basis of the Discrete Source Method|year=2018|last1=Eremin|first1=Yu. A.|last2=Sveshnikov|first2=A. G.|journal=Computational Mathematics and Mathematical Physics|volume=58|issue=4|pages=572–580|bibcode=2018CMMPh..58..572E|s2cid=126083795}}
+
+===Books===
+* with A. N. Tikhonov: ''The Theory of Functions of a Complex Variable'', [[Mir Publishers]], English translation, 1978.
+** Russian original: Теория функций комплексной переменной (1970)
+* with A. N. Tikohonov and Adelaida Borisovna Vasilʹeva: {{cite book|title=Differential Equations|url=https://books.google.com/books?id=cKorAAAAYAAJ|year=1985|publisher=Springer-Verlag|isbn=978-0-387-13002-6}}
+** Russian original: Дифференциальные уравнения (1980)
+* Свешников А. Г., Боголюбов А. Н. (Bogolyubov A. N.), Кравцов В. В. (Kravtsov V. V.) Лекции по математической физике (Lectures on mathematical physics) Изд-во МГУ (Publishing house of Moscow State University), 1993. ISBN 5-211-04899-7, ISBN 5-02-033541-X
+* Габов С. А. (Gabov S. A.), Свешников А. Г. Линейные задачи теории нестационарных внутренних волн (Linear problems of the theory of nonstationary internal waves) — Наука ([[Nauk]]), 1990.
+* Еремин Ю. А.(Eremin Yu. A.), Свешников А. Г.: Метод дискретных источников в задачах электромагнитной дифракции (Method of discrete sources in problems of electromagnetic diffraction) — Изд-во МГУ (Publishing house of Moscow State University), 1992.
+
+==References==
+<references/>
+
+{{authority control}}
+
+{{DEFAULTSORT:Sveshnikov, Aleksei}}
+[[Category:1924 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century Russian mathematicians]]
+[[Category:21st-century Russian mathematicians]]
+[[Category:Scientists from Saratov]]
+[[Category:Academic staff of Moscow State University]]
+[[Category:Moscow State University alumni]]
+[[Category:Recipients of the Order of the Badge of Honour]]
+[[Category:Recipients of the Order of the Red Banner of Labour]]
+[[Category:Recipients of the Order of the Red Star]]
+[[Category:Recipients of the USSR State Prize]]
+[[Category:Russian mathematical physicists]]
+[[Category:Soviet mathematicians]]
+[[Category:Soviet military personnel of World War II]]

@@ -1,0 +1,77 @@
+{{Infobox scientist
+| name              = Richard Friedberg
+| image             =
+| image_size        = 
+| caption           = Richard Friedberg
+| birth_date        = {{birth-date and age|8 October 1935}}
+| birth_place       = [[New York City]], [[New York (state)|New York]], U.S.
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Physicist]]
+| workplaces        = [[Barnard College]]<br />[[Columbia University]]
+| education         = [[Harvard University]]
+| doctoral_advisor  = [[Tsung-Dao Lee]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[William Lowell Putnam Mathematical Competition]] (1956)<br />IEEE Evolutionary Computation Pioneer Award (2004)
+| signature         = <!--(filename only)-->
+| footnotes         = 
+| ethnicity         = 
+| religion          =  
+}}
+'''Richard M. Friedberg''' (born October 8, 1935) is a theoretical physicist who has contributed to a wide variety of problems in mathematics and physics. These include [[mathematical logic]], [[number theory]], [[solid state physics]], [[general relativity]],<ref>{{cite journal | doi=10.1016/0550-3213(84)90137-8 | title=Derivation of Regge's action from Einstein's theory of general relativity | date=1984 | last1=Friedberg | first1=R. | last2=Lee | first2=T.D. | journal=Nuclear Physics B | volume=242 | issue=1 | pages=145–166 | bibcode=1984NuPhB.242..145F }}</ref> [[particle physics]], [[quantum optics]], genome research, and the foundations of quantum physics.<ref>{{cite journal | doi=10.1088/0034-4885/77/9/092001 | title=Compatible quantum theory | date=2014 | last1=Friedberg | first1=R. | last2=Hohenberg | first2=P. C. | journal=Reports on Progress in Physics | volume=77 | issue=9 | pmid=25146940 | arxiv=1405.1961 | bibcode=2014RPPh...77i2001F }}</ref><ref>{{cite journal | doi=10.1007/s10701-018-0145-4 | title=What is Quantum Mechanics? A Minimal Formulation | date=2018 | last1=Friedberg | first1=R. | last2=Hohenberg | first2=P. C. | journal=Foundations of Physics | volume=48 | issue=3 | pages=295–332 | arxiv=1711.04209 | bibcode=2018FoPh...48..295F }}</ref>
+
+He has been recognized as a pioneer in [[machine learning]] since he wrote on "A learning machine" in 1958. [[IEEE Neural Networks Society]] awarded him in 2004, commenting 
+<blockquote>Today. Friedberg’s initial words from 1958 “Machines would be more useful if they could learn to perform tasks for which they were not given precise methods” are the coin of the realm in computational intelligence. Entire disciplines of evolutionary computation are devoted to problems in automatic programming. Friedberg’s early work truly was a seminal contribution.<ref>{{Cite book |date=2004 |pages=xi |doi=10.1109/CEC.2004.1330827 |isbn=0-7803-8515-2 |language=en-US |chapter=2004 Pioneer Award - Richard M. Friedberg |title=Proceedings of the 2004 Congress on Evolutionary Computation (IEEE Cat No 04TH8753) CEC-04 }}</ref></blockquote>
+
+== Early life ==
+Friedberg was born in Manhattan on Oct 8, 1935, the child of cardiologist [[Charles K. Friedberg]], and playwright [[Gertrude Friedberg|Gertrude Tonkonogy]].<ref>Year: ''1940''; Census Place: ''New York, New York, New York''; Roll: ''m-t0627-02655''; Page: ''1A''; Enumeration District: ''31-1314''</ref>
+
+Friedberg studied at [[Harvard University]] for his bachelor's degree. He finished the [[William Lowell Putnam Mathematical Competition]] in 1956 in the top five competitors.<ref>{{cite journal | doi=10.2307/2309081 | jstor=2309081 | title=The William Lowell Putnam Mathematical Competition | last1=Bush | first1=L. E. | journal=The American Mathematical Monthly | date=1957 | volume=64 | issue=1 | pages=21–27 }}</ref>
+ 
+In 1962 obtained a Ph.D. at [[Columbia University]].<ref>[https://mathgenealogy.org/id.php?id=276232 Richard Michael Friedberg] at the [[Mathematical Genealogy Project]]</ref>
+
+== Academic work ==
+Friedberg solved a theoretical problem in [[recursion theory]] called [[Post's problem]]. In computability theory there is the decision problem of whether a given number is in a given set. [[Turing degree]] is a measure of the computational challenge. In 1944 [[Emil Post]] asked whether intermediate degrees exist on a certain interval of the Turing scale.<ref>{{cite journal |first=Emil Leon |last=Post |year=1944 |url=https://www.ams.org/journals/bull/1944-50-05/S0002-9904-1944-08111-1/home.html|title=Recursively enumerable sets of positive integers and their decision problems |journal=Bulletin of the American Mathematical Society |volume=50 |issue=5 |pages=284–316 |doi=10.1090/s0002-9904-1944-08111-1|doi-access=free }}</ref> [[Albert Muchnik]] (1956) and Friedberg (1957) proved the [[Friedberg–Muchnik theorem]] as the solution.<ref>{{cite book | last = Kozen | first = Dexter| author-link = Dexter Kozen| doi = 10.1007/1-84628-477-5_48| location = London| pages = 253–256| publisher = Springer| series = Theory of Computation| title = Lecture 38: The Friedberg–Muchnik Theorem | year = 2006}}</ref>
+
+In 1968 Friedberg wrote an informal book on [[number theory]] titled ''An Adventurer's Guide to Number Theory''.<ref>R. M. Friedberg (1968) [https://www.google.ca/books/edition/An_Adventurer_s_Guide_to_Number_Theory/ClbCAgAAQBAJ ''An Adventurer’s Guide to Number Theory''] via [[Google Books]]</ref> In the book, he states, "The difference between the theory of numbers and arithmetic is like the difference between poetry and grammar."
+
+Friedberg has investigated the issue of [[genome instability]] by developing a method of comparing genomes and establishing an [[edit distance]] between them. The genome variability was modeled with the [[Double Cut and Join Model]].<ref>{{cite book | author1=Richard M. Friedberg | author2 = A. E. Darling | author3= S. Yancopoulos | chapter = Genome Rearrangement by the Double Cut and Join Operation | title = Bioinformatics | series = [[Methods in Molecular Biology]] | volume = 452 | pages = 385–416 | date = 2008| pmid = 18566774| doi = 10.1007/978-1-60327-159-2_18| isbn = 978-1-58829-707-5 }}</ref> The [[chromosomal rearrangement]]s may be block exchanges,  [[translocation (genetics)|translocation]],  or [[inversion (chromosomal)|inversion]]s. Friedberg has contributed to the task of efficiently [[sorting]] such permutations.<ref>{{cite journal | doi=10.1093/bioinformatics/bti535 |doi-access=free | title=Efficient sorting of genomic permutations by translocation, inversion and block interchange | date=2005 | last1=Yancopoulos | first1=S. | last2=Attie | first2=O. | last3=Friedberg | first3=R. | journal=Bioinformatics | volume=21 | issue=16 | pages=3340–3346 | pmid=15951307 }}</ref>
+
+An 1840 work by [[Olinde Rodrigues]] has been reviewed by Friedberg who translated the work, provided modern vector notation, diagrams, and annotation of the text.<ref>{{cite arXiv | eprint=2211.07787 | last1=Friedberg | first1=Richard | title=Rodrigues, Olinde: "Des lois géométriques qui régissent les déplacements d'un système solide...", translation and commentary | date=2022 | class=math.HO }}</ref>
+
+==Selected publications==
+
+* 1957: (communicated by [[Kurt Gödel]]) "Two Recursively Enumerable Sets Not Recursive in Each Other", ''[[Proc. Natl. Acad. Sci. U.S.A.]]'' vol. 43, p.&nbsp;236 {{doi|10.1073/pnas.43.2.236|doi-access=free}}
+* 1957: "A criterion for completeness of degrees of unsolvability", ''[[Journal of Symbolic Logic]]'' 22(2): 159–160.
+* 1958: "A Learning Machine: Part I", ''[[IBM Journal of Research and Development]]'' 2(1)
+* 1958: "Three theorems on recursive enumeration. I. Decomposition. II. Maximal set. III. Enumeration without duplication", ''Journal of Symbolic Logic'' 23(3): 309–316.
+* 1973: "Frequency Shifts in Emission and Absorption by Resonant Systems of Two-Level Atoms", (with S. R. Hartmann and J. T. Manassah), Phys. Reports 7C, 101
+* 1974: "Dual Trees and Resummation Theorems" [[Journal of Mathematical Physics]] 16: 20 {{bibcode|1975JMP....16...20F}}
+* 1984: (with T. D. Lee) "Derivation of Regge’s Action from Einstein’s Theory of General Relativity", ''[[Nuclear Physics B]]'' 242, 145
+* 1993: "The Electrostatics and Magnetostatics of a Conducting Disc", ''American Journal of Physics'' 61: 1084
+* 1995: "Path Integrals in Polar Variables with Spontaneously Broken Symmetry", ''Journal of Mathematical Physics'' 36: 2675 {{doi|10.1063/1.531360}}
+* 2005: (with S. Yancopoulos & O. Attie) "Efficient Sorting of Genomic Permutation by Translocation, inversion and block interchange", ''[[Bioinformatics]]'' 21: 3352–59 {{doi|10.1093/bioinformatics/bti535|doi-access=free}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://inspirehep.net/authors/1009426 Richard M. Friedberg] @ [[INSPIRE-HEP]] 
+
+{{authority control}}
+
+{{DEFAULTSORT:Friedberg, Richard M.}}
+[[Category:1935 births]]
+[[Category:21st-century American physicists]]
+[[Category:Theoretical physicists]]
+[[Category:Living people]]
+[[Category:Harvard University alumni]]

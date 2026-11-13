@@ -1,0 +1,47 @@
+{{Short description|Israeli chemist}}
+{{Infobox scientist
+| name              = Dan T. Major
+| native_name       = דן מאיור
+| native_name_lang  = he
+| image             = Prof._Dan_T._Major,_Bar-Ilan_University.jpg
+| birth_date        = {{Birth date and age|1973|3|22}}
+| birth_place       = [[Norway]]
+| citizenship       = Israeli
+| field             = [[Computational chemistry]], [[Biochemistry|Computational Biochemistry]], [[Nanotechnology|Computational Nanotechnology]]
+| workplaces        = [[Bar-Ilan University]]
+| education         = {{Plainlist|
+* [[Bar Ilan University]]
+}}
+| doctoral_advisor  = Bilha Fischer
+| academic_advisors = {{Plainlist|
+* Jiali Gao ([[University of Minnesota]])
+}}
+| awards            = [[:he:פרס קריל|Krill Prize]] ([[Wolf Foundation]])
+}}
+
+Dr. '''Dan Thomas Major''' ({{langx|he|דן מאיור}}; born 22 March 1973) is a professor of [[chemistry]] at [[Bar Ilan University]], specializing in [[computational chemistry]].
+
+==Biography==
+Dan Major obtained his [[Doctor of Philosophy|Ph.D]]. from the Chemistry Department at Bar-Ilan University (BIU) in 2003, followed by three years as a postdoctoral fellow at the [[University of Minnesota]] working with Prof. Jiali Gao.<ref>{{Cite web |title=Department of Chemistry {{!}} College of Science and Engineering |url=https://cse.umn.edu/chem |access-date=2025-05-21 |website=cse.umn.edu |language=en}}</ref> In 2007 he moved to the Chemistry Department at Bar-Ilan University, where he is now a full professor.<ref>{{Cite web |title=Department of Chemistry {{!}} Bar-Ilan University |url=https://ch.biu.ac.il/ |access-date=2025-05-21 |website=ch.biu.ac.il}}</ref>
+
+==Scientific interests and publications==
+Major's research focuses on computational approaches to [[computational chemistry|chemistry]], [[biochemistry]], and [[nanotechnology]].<ref>{{Cite web |title=The Major Research Group {{!}} Department of Chemistry BIU |url=http://www.themajorgroup.org/ |access-date=2025-05-21 |website=www.themajorgroup.org}}</ref> These include the development of [[Modeling and simulation|simulation methods]], a study of [[enzyme|enzyme reactions]] and [[protein dynamics]], understanding [[Natural product#Synthesis|natural product synthesis]], development of [[List of protein-ligand docking software|protein-ligand docking programs]], [[in silico]] design of [[Lithium-ion battery|Li-ion batteries]], and [[fuel cell]] modeling.
+He develops [[Molecular modelling|classical and quantum simulation methods]], and in particular tools for studying [[enzyme catalysis]]. This includes the development of [[Path integral formulation|path-integral methods]] for the simulations of [[zero-point energy]] and [[Quantum tunnelling|tunneling effects]] in condensed phase environments,<ref name="MajorGao2007">{{cite journal|last1=Major|first1=Dan Thomas|last2=Gao|first2=Jiali|title=An Integrated Path Integral and Free-Energy Perturbation−Umbrella Sampling Method for Computing Kinetic Isotope Effects of Chemical Reactions in Solution and in Enzymes|journal=Journal of Chemical Theory and Computation|volume=3|issue=3|year=2007|pages=949–960|issn=1549-9618|doi=10.1021/ct600371k|pmid=26627415|citeseerx=10.1.1.226.3245}}</ref><ref name="MajorGao2006">{{cite journal|last1=Major|first1=Dan Thomas|last2=Gao|first2=Jiali|title=A Combined Quantum Mechanical and Molecular Mechanical Study of the Reaction Mechanism and α-Amino Acidity in Alanine Racemase|journal=Journal of the American Chemical Society|volume=128|issue=50|year=2006|pages=16345–16357|issn=0002-7863|doi=10.1021/ja066334r|pmid=17165790|url=https://figshare.com/articles/journal_contribution/3040642|url-access=subscription}}</ref><ref name="MajorHeroux2009">{{cite journal|last1=Major|first1=D. T.|last2=Heroux|first2=A.|last3=Orville|first3=A. M.|last4=Valley|first4=M. P.|last5=Fitzpatrick|first5=P. F.|last6=Gao|first6=J.|title=Differential quantum tunneling contributions in nitroalkane oxidase catalyzed and the uncatalyzed proton transfer reaction|journal=Proceedings of the National Academy of Sciences|volume=106|issue=49|year=2009|pages=20734–20739|issn=0027-8424|doi=10.1073/pnas.0911416106|pmid=19926855|pmc=2791643|bibcode=2009PNAS..10620734M|doi-access=free}}</ref> methods for [[Free energy perturbation|free energy simulations]],<ref name="DoronKohen2012">{{cite journal|last1=Doron|first1=Dvir|last2=Kohen|first2=Amnon|last3=Major|first3=Dan Thomas|title=Collective Reaction Coordinate for Hybrid Quantum and Molecular Mechanics Simulations: A Case Study of the Hydride Transfer in Dihydrofolate Reductase|journal=Journal of Chemical Theory and Computation|volume=8|issue=7|year=2012|pages=2484–2496|issn=1549-9618|doi=10.1021/ct300235k|pmid=26588977}}</ref> and novel [[Docking (molecular)|docking approaches]]. The simulation tools are typically used in conjunction with [[QM/MM|hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) methods]] and have been applied to a wide range of enzymes. Enzymatic systems studied in his research group include [[proton]] and [[hydride]] transfer reactions<ref name="MajorGao2006"/><ref name="DoronKohen2012"/> and [[Terpene synthase N terminal domain|terpene synthases]].<ref name="WeitmanMajor2010">{{cite journal|last1=Weitman|first1=Michal|last2=Major|first2=Dan Thomas|title=Challenges Posed to Bornyl Diphosphate Synthase: Diverging Reaction Mechanisms in Monoterpenes|journal=Journal of the American Chemical Society|volume=132|issue=18|year=2010|pages=6349–6360|issn=0002-7863|doi=10.1021/ja910134x|pmid=20394387}}</ref><ref name="MajorWeitman2012">{{cite journal|last1=Major|first1=Dan Thomas|last2=Weitman|first2=Michal|title=Electrostatically Guided Dynamics—The Root of Fidelity in a Promiscuous Terpene Synthase?|journal=Journal of the American Chemical Society|volume=134|issue=47|year=2012|pages=19454–19462|issn=0002-7863|doi=10.1021/ja308295p|pmid=23101787}}</ref><ref name="DrillerJanke2018">{{cite journal|last1=Driller|first1=Ronja|last2=Janke|first2=Sophie|last3=Fuchs|first3=Monika|last4=Warner|first4=Evelyn|last5=Mhashal|first5=Anil R.|last6=Major|first6=Dan Thomas|last7=Christmann|first7=Mathias|last8=Brück|first8=Thomas|last9=Loll|first9=Bernhard|title=Towards a comprehensive understanding of the structural dynamics of a bacterial diterpene synthase during catalysis|journal=Nature Communications|volume=9|issue=1|pages=3971|year=2018|issn=2041-1723|doi=10.1038/s41467-018-06325-8|doi-access=free|pmid=30266969|pmc=6162201|bibcode=2018NatCo...9.3971D}}</ref><ref name="Major2018">{{cite journal|last1=Major|first1=Dan Thomas|title=Complex terpenes in one pot|journal=Nature Catalysis|volume=1|issue=8|year=2018|pages=567–568|issn=2520-1158|doi=10.1038/s41929-018-0130-5|s2cid=104835442}}</ref> Additionally, Prof. Major has carried out numerous studies on physical and [[Electrochemistry|electrochemical]] properties of [[magnesium]] and [[Lithium-ion battery|lithium-ion batteries]]<ref>{{cite journal |last=Major D. |first=Chakraborty A. |date=2018 |title= Predicting accurate cathode properties of layered oxide materials using the SCAN meta-GGA density functional|journal=npj Computational Materials |volume=4 |page=60 |doi=10.1038/s41524-018-0117-4 |doi-access=free|arxiv=1805.00642|bibcode=2018npjCM...4...60C |s2cid=119100855 }}</ref> and [[fuel cell]]s<ref name="KosaLevy2018">{{cite journal|last1=Kosa|first1=Monica|last2=Levy|first2=Naomi|last3=Elbaz|first3=Lior|last4=Major|first4=Dan Thomas|title=Theoretical Study of the Electrocatalytic Reduction of Oxygen by Metallocorroles|journal=The Journal of Physical Chemistry C|volume=122|issue=31|year=2018|pages=17686–17694|issn=1932-7447|doi=10.1021/acs.jpcc.8b05831|s2cid=105377968}}</ref> using modern [[quantum chemistry]] tools.
+
+Among his awards is Excellence in teaching<ref>[https://www1.biu.ac.il/index.php?id=18213&pt=1&pid=11240&level=0&cPath=5,25,1692,11240,18213 Bar-Ilan University Excellence in Teaching, 2017]</ref> (2016-2017); [[:he:פרס קריל|Krill Prize]]<ref>[http://www.wolffund.org.il/index.php?dir=site&page=content&cs=3040&language=eng Krill Prizes for Excellence in Scientific Research]</ref> of the [[Wolf Foundation]] (2009); [[:he:מלגת אלון|Alon Fellowship]]<ref>[https://che.org.il/?decision=%25D7%259E%25D7%259C%25D7%2592%25D7%2595%25D7%25AA-%25D7%2590%25D7%259C%25D7%2595%25D7%259F-%25D7%2590%25D7%2599%25D7%25A9%25D7%2595%25D7%25A8-%25D7%2594%25D7%25AA%25D7%25A7%25D7%25A0%25D7%2595%25D7%259F-%25D7%2595%25D7%2594%25D7%25A8%25D7%259B%25D7%2591%25D7%2599-%25D7%2594%25D7%2595%25D7%2595%25D7%25A2%25D7%2593%25D7%2595 The Council for Higher Education website]</ref> (2008-2010); [[Fulbright Program|Fulbright Scholarship]] (2003-2004); Excellent young scientist from the Israeli Chemical Society<ref>[http://www.chemistry.org.il/ The Israeli Chemical Society]</ref> (2001).
+
+==Personal life==
+Dan Thomas Major is married to Laura Major, a Ph.D. in [[English Literature]] from Bar-Ilan University, who serves as the Head of the English Department at [[Achva Academic College]].<ref>[http://www.achva.ac.il/laura-major Laura Major, English Department Achva Academic College]</ref> They live in [[Yad Binyamin]] and have five children.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Major, Dan T.}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:Academic staff of Bar-Ilan University]]
+[[Category:Israeli chemists]]
+[[Category:Jewish chemists]]
+[[Category:Bar-Ilan University alumni]]

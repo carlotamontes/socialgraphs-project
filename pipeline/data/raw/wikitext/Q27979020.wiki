@@ -1,0 +1,81 @@
+{{short description|British chemist and digital public health pioneer}}
+{{EngvarB|date=June 2017}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox scientist
+| name              = Rachel McKendry
+| honorific_suffix  = 
+| birth_name       = Rachel Anne McKendry
+| image             = Rachel McKendry - 29858203981 (cropped) (cropped).jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = Rachel McKendry in September 2016
+| birth_date        = 
+| birth_place       = 
+| fields            = 
+| workplaces        = [[University College London]]
+| patrons           = 
+| education         = [[Durham University]] (BSc)<br>[[University of Cambridge]] (PhD)
+| thesis_title      = Chemical force microscopy
+| thesis_url        = http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.624272
+| thesis_year       = 1999
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = Trevor Rayment and [[Chris Abell]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = [[Royal Society Wolfson Research Merit Award]] (2014)<br>[[Rosalind Franklin Award]] (2014)
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           ={{URL|1=https://iris.ucl.ac.uk/iris/browse/profile?upi=RMCKE57}}
+| footnotes         = 
+}}
+'''Rachel Anne McKendry''' is a British chemist. She is Director of i-sense, a UK-based interdisciplinary research collaboration developing early warning sensing systems for infectious diseases, and was part of the UK's Cross Council Initiative on Antimicrobial Resistance. McKendry is also Professor of Biomedical Nanoscience at [[University College London]], holding a joint appointment in the Division of Medicine and the [[London Centre for Nanotechnology]].
+
+== Early life and education ==
+McKendry studied chemistry at [[Durham University]] ([[Trevelyan College, Durham|Trevelyan College]]), graduating in 1994. She was awarded a PhD from the [[University of Cambridge]]<ref name=mcphd>{{cite thesis|degree=PhD|publisher=University of Cambridge|url=http://idiscover.lib.cam.ac.uk/primo-explore/fulldisplay?docid=44CAM_ALMA21433437220003606&context=L&vid=44CAM_PROD&search_scope=default_scope&tab=default_tab&lang=en_US|title=Chemical force microscopy|first= Rachel Anne|last=McKendry|date=1999|id={{EThOS|uk.bl.ethos.624272}}|website=lib.cam.ac.uk|oclc=894601715}}</ref> in 1999 and won a [[Girton College, Cambridge]] Research Fellowship in 1998.<ref>{{Cite web|url=https://www.admin.cam.ac.uk/reporter/1997-98/weekly/5727/23.html|title=Girton College|last=Cambridge University Reporter 5727|date=4 February 1998|publisher=The Chancellor, Masters and Scholars of the University of Cambridge.|access-date=7 December 2016}}</ref>
+
+== Career and research ==
+After working as a [[postdoctoral researcher]] at the [[IBM Zurich Research Laboratory]], McKendry returned to the UK to take up a [[Royal Society]] Dorothy Hodgkin Research Fellowship, and to work at [[University College London]].
+
+McKendry leads an interdisciplinary research team at the intersection of nanotechnology, telecommunications, big data, infectious diseases and public health. In 2015, she presented a Tedx Talk in Exeter on "The Digital Future of Public Health", in which she discussed early warning systems for disease outbreaks – from SARS to Ebola – being developed along the lines of [[Google Flu Trends]], based on anonymised social media chatter from the world's many billion users of smartphones and other digital devices.<ref>{{Cite web|url=https://www.tedxexeter.com/speakers/rachel-mckendry/|title=Going viral: the digital future of public health}}</ref>
+
+She has published many research papers in [[Nature (journal)|Nature]], [[Nature Nanotechnology]], [[Nature Materials]] and [[Proceedings of the National Academy of Sciences]] USA.
+
+Recent research highlights include [[nanodiamond]] quantum materials for ultra-sensitive virus detection,<ref>{{Cite journal|first=Miller|last=McKendry|journal=Nature|volume=587|pages=588–593|date=2020|url=https://www.nature.com/articles/s41586-020-2917-1|title=Spin-enhanced nanodiamond biosensing for ultrasensitive diagnostics|issue=7835 |doi=10.1038/s41586-020-2917-1|pmid=33239800 |s2cid=227176732 |url-access=subscription}}</ref> cantilever [[nanosensor]]s for phenotypic detection of [[antimicrobial resistance]],<ref>{{Cite journal|title=Cantilever sensors for rapid optical antimicrobial sensitivity testing|journal=ACS Sensors|date=2020|volume=5|pages=3133–3139|doi=10.1021/acssensors.0c01216 | pmc=7589985|last1=Bennett |first1=Isabel |last2=Pyne |first2=Alice L. B. |last3=McKendry |first3=Rachel A. |issue=10 |pmid=32900182 }}</ref> and [[deep learning]] to support quality assurance and decision support of rapid field-based tests.<ref>{{Cite journal|title=Deep learning of HIV field-based rapid tests|journal=Nature Medicine|volume=27|pages=1165–1170|date=2021|pmid=34140702|doi=10.1038/s41591-021-01384-9|pmc=7611654 |last1=Turbé |first1=Valérian |last2=Herbst |first2=Carina |last3=Mngomezulu |first3=Thobeka |last4=Meshkinfamfard |first4=Sepehr |last5=Dlamini |first5=Nondumiso |last6=Mhlongo |first6=Thembani |last7=Smit |first7=Theresa |last8=Cherepanova |first8=Valeriia |last9=Shimada |first9=Koki |last10=Budd |first10=Jobie |last11=Arsenov |first11=Nestor |last12=Gray |first12=Steven |last13=Pillay |first13=Deenan |last14=Herbst |first14=Kobus |last15=Shahmanesh |first15=Maryam |last16=McKendry |first16=Rachel A. |issue=7 }}</ref> McKendry also led a review of digital technologies in the global public health response to COVID-19.<ref>{{Cite journal|last1=Budd|first1=Jobie|last2=Miller|first2=Benjamin S.|last3=Manning|first3=Erin M.|last4=Lampos|first4=Vasileios|last5=Zhuang|first5=Mengdie|last6=Edelstein|first6=Michael|last7=Rees|first7=Geraint|last8=Emery|first8=Vincent C.|last9=Stevens|first9=Molly M.|last10=Keegan|first10=Neil|last11=Short|first11=Michael J.|date=2020|title=Digital technologies in the public-health response to COVID-19|journal=Nature Medicine|language=en|volume=26|issue=8|pages=1183–1192|doi=10.1038/s41591-020-1011-4|issn=1546-170X|doi-access=free|pmid=32770165 |hdl=10044/1/85462|hdl-access=free}}</ref>
+
+=== i-Sense EPSRC IRC ===
+McKendry is Director<ref>{{Cite web|title=Professor Rachel McKendry|url=https://www.i-sense.org.uk/users/ramckendryuclacuk|access-date=2020-10-31|website=i-sense.org.uk|language=en}}</ref> of i-Sense, a large interdisciplinary research collaboration set up in 2013 to develop early warning sensing systems for infectious diseases, and funded by the [[Engineering and Physical Sciences Research Council]] with a total investment of £11{{Nbsp}}million (renewed from 2018).<ref>{{Cite web|title=About us|url=https://www.i-sense.org.uk/about-us|access-date=2020-10-31|website=www.i-sense.org.uk}}</ref>
+
+=== Membership of panels ===
+* On the Steering Group of the Infectious Diseases Research Network, a mainly UK-based collaborative research project which ran between 2002 and 2015 and sought to reduce the toll of infectious diseases on the [[National Health Service|NHS]], especially tuberculosis, health care associated infection, antimicrobial resistance, hepatitis, and sexually transmitted infections.<ref>{{cite web|title=Tackling AMR – A Cross Council Initiative|url=https://www.mrc.ac.uk/research/initiatives/antimicrobial-resistance/tackling-amr-a-cross-council-initiative/|access-date=9 December 2016|publisher=Medical Research Council}}</ref><ref>{{Cite web|url=http://www.idrn.org/about_us/|title=IDRN|year=2009|publisher=IDRN|access-date=7 December 2016}}</ref>
+* Part of the UK Government's Blackett Review panel on Biological Detection which published its report in February 2014, identifying a number of technologies and capabilities that could improve government's ability to detect and respond to an airborne biological attack or infectious disease outbreak.<ref>{{Cite web|url=https://www.gov.uk/government/publications/wide-area-biological-detection-blackett-review|title=Wide-area biological detection: Blackett review|date=11 February 2014|website=gov.uk|publisher=Government Office for Science|access-date=7 December 2016}}</ref>
+* Formerly an expert to the UK Prime Minister's [[Council for Science and Technology]].{{Citation needed|date=November 2021}}
+*Co-chaired the Digital Medicine Theme of the Topol Review of the NHS, which published 'Preparing the Healthcare Workforce to Deliver the Digital Future' in 2019.<ref>{{Cite web|date=February 2019|title=The Topol Review|url=https://topol.hee.nhs.uk/|access-date=2021-11-10|website=NHS Health Education England|page=92}}</ref>
+
+== Awards and honours ==
+In 2009, McKendry was awarded the [[Institute of Physics]] [[Clifford Paterson Medal and Prize]].<ref>{{cite web |url=http://www.iop.org/about/awards/early-career/paterson/medallists/page_38670.html |title=2009 Paterson medal and prize |publisher=Institute of Physics |access-date=22 December 2019}}</ref>
+
+In 2014, she received a [[Royal Society Wolfson Research Merit Award]], to assist her study of 'New Paradigms in Connected Global Health for Infectious Diseases.'<ref>{{Cite web|url=https://royalsociety.org/news/2014/wolfson-merit-awards-may/|title=Royal Society Wolfson Merit Awards 2014}}</ref>
+
+In 2014, she received a Royal Society [[Rosalind Franklin Award]] for her "scientific achievements, her suitability as a role model and for her exciting proposal to launch a national competition to create mobile phone apps to inspire women to become leaders in science, technology, engineering and mathematics (STEM)".<ref>{{Cite web|date=5 August 2014|title=Rachel McKendry Wins Royal Society Rosalind Franklin Award 2014|url=https://www.london-nano.com/news-and-events/news/rachel-mckendry-wins-royal-society-rosalind-franklin-award-2014|access-date=7 December 2016|website=London Centre for Nanotechology}}</ref>
+
+== References ==
+{{reflist|30em}}
+
+{{authority control}}
+{{Rosalind Franklin Award Laureates}}
+
+{{DEFAULTSORT:McKendry, Rachel}}
+[[Category:Living people]]
+[[Category:21st-century British chemists]]
+[[Category:British women chemists]]
+[[Category:Alumni of Jesus College, Cambridge]]
+[[Category:Fellows of Girton College, Cambridge]]
+[[Category:Alumni of Trevelyan College, Durham]]
+[[Category:Year of birth missing (living people)]]

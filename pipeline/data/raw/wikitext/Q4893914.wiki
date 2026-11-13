@@ -1,0 +1,106 @@
+{{short description|American computer scientist}}
+{{multiple issues|
+{{BLP sources|date=July 2023}}
+{{cleanup rewrite|date=July 2023}}
+}}
+{{Infobox scientist
+| name              = Bernardo Huberman
+| image             = Huberman_picture.jpg
+| image_size        = 200px
+| birth_date        = 
+| birth_place       = Argentina
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[Physics]]<br />[[Computer Science]]
+| workplaces        = [[PARC (company)|Xerox PARC]]<br />[[Stanford University]]<br />[[Hewlett-Packard]] [[HP Labs|Labs]]
+| education         = [[University of Pennsylvania]], [[University of Buenos Aires]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[ecology of computation]]<br />[[Prediction markets]]<br />[[dynamics of complex structures]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = 
+| religion          = 
+| footnotes         = 
+| children          = Lara Huberman, [[Andrew D. Huberman]]
+}}
+'''Bernardo Huberman''' is a fellow and vice president of the Next-Gen Systems Team at CableLabs.<ref>{{Cite web|url=https://www.cablelabs.com/dr-bernardo-huberman-joins-the-cablelabs-team/|title=Dr. Bernardo Huberman Joins the CableLabs Team|date=3 October 2017}}</ref> He is also a consulting professor in the Department of Applied Physics and the Symbolic System Program at [[Stanford University]].
+
+== Early life and work ==
+Originally from [[Argentina]], Huberman received his MS at the [[University of Buenos Aires]], Argentina, in 1966. He received his [[PhD]] in [[physics]] from the University of Pennsylvania in 1971. He is the father of neuroscientist [[Andrew Huberman]].<ref name=Change>{{Cite AV media |url=https://www.youtube.com/watch?v=SwQhKFMxmDY |title=Change Your Brain: Neuroscientist Dr. Andrew Huberman {{!}} Rich Roll Podcast<!-- part of title --> |date=July 20, 2020 |type=Video |time=2:50 |access-date=December 19, 2022 |via=YouTube}}</ref> He has worked as a visiting scientist at the [[Institut Laue-Langevin]] in Grenoble, France, and the Institute of Theoretical Physics, [[Hebrew University of Jerusalem]]. He was also a visiting professor at the [[University of Paris]], the [[École Normale Supérieure]], in Paris, France, the [[Niels Bohr Institute]] in Copenhagen, Denmark, and the European School of Business, [[INSEAD]], in France. He served as a trustee and secretary at the Aspen Center for Physics between 1980 and 1983.
+
+Huberman originally worked in condensed matter physics, ranging from superionic conductors to two-dimensional superfluids, and made contributions to the theory of critical phenomena in low-dimensional systems. He was one of the discoverers of chaos in a number of physical systems, and also established a number of universal properties in nonlinear dynamical systems. His research into the dynamics of complex structures led to the discovery of ultradiffusion in hierarchical systems.
+
+Huberman joined [[Xerox]] Corporation's [[Palo Alto, California|Palo Alto]] Research Center, [[PARC (company)|PARC]], where, in the field of information sciences, he predicted the existence of [[phase transition]]s in large scale distributed systems, and developed an economics approach to the solution of hard computational problems. He has authored or edited three books about the ecology of computation and the ecology of the web
+<ref>{{citation
+| last1 = Huberman
+| first1 = Bernardo A.
+| year = 2001
+| publisher = MIT Press
+| title = The Laws of the Web: Patterns in the Ecology of Information — II
+| url = http://mitpress.mit.edu/catalog/item/default.asp?tid=8498&ttype=2
+| url-status = dead
+| archive-url = https://web.archive.org/web/20080919084355/http://mitpress.mit.edu/catalog/item/default.asp?tid=8498&ttype=2
+| archive-date = 2008-09-19
+}}</ref>
+<ref>{{citation
+| last1 = Huberman
+| first1 = Bernardo A.
+| year = 1992
+| publisher = World Scientific Publishing
+| title = Computation: the micro and the macro view — II
+| url = http://www.worldscibooks.com/compsci/1672.html
+| access-date = 2008-07-21
+| archive-url = https://web.archive.org/web/20081006164739/http://www.worldscibooks.com/compsci/1672.html
+| archive-date = 2008-10-06
+| url-status = dead
+}}</ref>
+.<ref>{{citation
+| last1 = Huberman
+| first1 = Bernardo A.
+| place = New York, New York
+| year = 1998
+| publisher = North Holland Publishing
+| title = The Ecology of Computation — II
+| isbn = 9780444703750
+| url = http://portal.acm.org/citation.cfm?coll=GUIDE&dl=GUIDE&id=59160 }}</ref>
+
+In 1989 he and colleagues designed and implemented Spawn, a market system for the allocation of resources among machines in computer networks, and a few years later a multiagent thermal market mechanism for the control of building environments. A similar subsequent work at HP Labs called Tycoon received the Horizon Award for Innovation. After working at Xerox PARC, Huberman became a Senior Fellow at [[HP Labs]].
+
+== Recent work and recognition ==
+For several years, Dr. Huberman's research concentrated on the World Wide Web, with particular emphasis the dynamics of its growth and use. With members of his group he discovered a number of strong regularities, such as the dynamics that govern the growth of the web, and the laws that determine how users surf the web and create the observed congestion patterns.
+
+Recently, Huberman was the Director of the Mechanisms and Design Lab at Hewlett Packard Labs where his work centers on the design of novel mechanisms for discovering and aggregating information in distributed systems as well as understanding the dynamics of information in large networks.
+
+=== Awards and honors ===
+* Fellow, [[American Association for the Advancement of Science]]
+* Fellow, Japan Society for the Advancement of Science
+* Fellow, [[American Physical Society]]<ref>{{Cite web |title=APS Fellow Archive |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=1981&unit_id=DCMP&institution=Xerox |access-date=2023-09-25 |website=www.aps.org |language=en}}</ref>
+* CECOIA Prize on Economics and Artificial Intelligence
+* IBM Prize of the Society for Computational Economics
+* Trustee, [[Aspen Center for Physics]]
+* Chairman, Council of Fellows at [[Xerox Corporation]]
+
+==References==
+<references />
+
+==External links==
+* [https://web.archive.org/web/20080513110427/http://www.hpl.hp.com/research/idl/people/huberman/Bernardo-patents.pdf Bernardo Huberman’s Patents]
+* [https://web.archive.org/web/20070226123734/http://www.hpl.hp.com/research/idl/people/huberman/Bernardo-Published-Papers.pdf Bernardo Huberman's bibliography]
+* [https://web.archive.org/web/20080705041351/http://www.hpl.hp.com/research/idl/people/huberman Bernardo Huberman's homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Huberman, Bernardo}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Argentine emigrants to the United States]]
+[[Category:American computer scientists]]
+[[Category:Hewlett-Packard people]]
+[[Category:Stanford University Department of Applied Physics faculty]]
+[[Category:University of Buenos Aires alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Scientists at PARC (company)]]
+[[Category:Argentine computer scientists]]

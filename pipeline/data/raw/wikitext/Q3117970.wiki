@@ -1,0 +1,57 @@
+{{short description|American scientist (1923–1965)}}
+{{Other people|John Kelly}}
+{{Infobox person
+| name = John Larry Kelly Jr.
+| image = JohnLKellyJr.PNG
+| caption = 
+| father = 
+| mother = 
+| birth_date = December 26, 1923
+| birth_place = [[Corsicana, Texas]], U.S.
+| death_date = {{death date and age|1965|03|18|1923|12|26}}
+| death_place = [[Manhattan, New York]], U.S.
+| occupation = Scientist
+| children = 
+}}
+'''John Larry Kelly Jr.''' (December 26, 1923 – March 18, 1965), was an American scientist who worked at [[Bell Labs]].  From a "system he'd developed to analyze information transmitted over networks," from [[Claude Shannon]]'s earlier work on [[information theory]], he is best known for his 1956 work in creating the ''[[Kelly criterion]]'' formula. With notable volatility in its sequence of outcomes,<ref>{{cite journal|last=Samuelson|journal=Journal of Banking and Finance|issue=4|year=1979|pages=305–307|title=Why We Should Not Make Mean Log of Wealth Big Though Years to Act Are Long|volume=3|doi=10.1016/0378-4266(79)90023-2|url=http://www-stat.wharton.upenn.edu/~steele/Courses/434F2005/Context/Kelly%20Resources/Samuelson1979.pdf|archive-url=https://web.archive.org/web/20060921194845/http://www-stat.wharton.upenn.edu/~steele/Courses/434F2005/Context/Kelly%20Resources/Samuelson1979.pdf|url-status=dead|archive-date=September 21, 2006}}</ref> the Kelly criterion can be used to estimate what proportion of wealth to risk in a sequence of positive expected value bets to maximize the rate of return.<ref name="ReferenceA">"The Man Who Solved the Market", Gregory Zuckerman, 2019</ref><ref name="original Kelly article">{{Cite journal | last1 = Kelly | first1 = J. L. | author-link1 = John Larry Kelly Jr.| title = A New Interpretation of Information Rate | doi = 10.1002/j.1538-7305.1956.tb03809.x | journal = [[Bell System Technical Journal]] | volume = 35 | issue = 4 | pages = 917–926 | year = 1956 }}</ref>
+
+==Early life==
+He was born in [[Corsicana, Texas]]. He spent four years in the US Navy as a pilot during World War II before entering the [[University of Texas at Austin]].  He graduated with a PhD in physics in 1953.
+
+==Speech synthesis: Enter Hal 9000==
+In 1961, Kelly and colleagues [[:de:Carol_Lochbaum|Carol Lochbaum]] and [[Louis Gerstman|Lou Gerstman]] created one of the most famous moments in the history of Bell Telephone Laboratories by using an [[IBM 7090]] computer to synthesize speech.<ref>{{Cite book|url=https://books.google.com/books?id=ZISTvI4vVPsC&q=bell+labs+Carol+Lockbaum&pg=PA11|title=Computer Synthesized Speech Technologies: Tools for Aiding Impairment: Tools for Aiding Impairment|last=John|first=Mullennix|date=2010-01-31|publisher=IGI Global|isbn=9781615207268|language=en}}</ref><ref>{{Cite news|url=https://www.nytimes.com/1992/03/21/nyregion/louis-gerstman-61-a-specialist-in-speech-disorders-and-processes.html|title=Louis Gerstman, 61, a Specialist In Speech Disorders and Processes|last=Lambert|first=Bruce|date=1992-03-21|work=The New York Times|access-date=2017-03-14|issn=0362-4331}}</ref> A demonstration by Kelly and Gerstman took place on May 10, 1961, at a meeting in Philadelphia of the [[Acoustical Society of America]] where a reporter noted that "A machine that talks— and sings— stole the show today as the old Bellevue Stratford vibrated with the speed of sound.  The new gadget, a modified mechanical brain, recited passages from Shakespeare and sang musical selections in response to card-punched symbols, which were fed to it."<ref>{{cite news|url=https://www.newspapers.com/article/philadelphia-daily-news-sounds-of-speech/190587523/ |title=Sounds of Speech— And They're a Card| last=Bannister |first=Charlie |work=Philadelphia Daily News | date=May 10, 1961 |page=50}}</ref>  Their voice recorder synthesizer ''[[vocoder]]'' recreated the song ''[[Daisy Bell]]'',<ref>Another reporter, for the [[Australian Associated Press]], noted that "the computor [sic] delivered the '[[To be, or not to be|To Be Or Not To Be' lines from 'Hamlet']]'... Then it gave a rendition of 'Daisy, Daisy, Give Me Your Answer Do' and ended by thanking the audience for listening."  See: [https://www.newspapers.com/article/the-sydney-morning-herald-robot-talks-s/190671127/ "Robot talks, sings"], ''Sydney Morning Herald'', June 18, 1961, p. 25.</ref> with musical accompaniment from [[Max Mathews]]. [[Arthur C. Clarke]] of ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'' fame visited his friend and colleague John Pierce at the Bell Labs Murray Hill facility and heard this remarkable [[speech synthesis]] demonstration. Clarke was so impressed that he adapted it to the climactic scene of his novel and screenplay for ''2001: A Space Odyssey'',<ref name="Arthur C Clarke">[http://www.lsi.usp.br/~rbianchi/clarke/ACC.Biography.html Arthur C. Clarke online Biography] {{webarchive|url=https://web.archive.org/web/19971211154551/http://www.lsi.usp.br/~rbianchi/clarke/ACC.Biography.html |date=1997-12-11 }}</ref> when the [[HAL 9000]] computer sings the same song as it is being disabled by astronaut [[David Bowman (Space Odyssey)|Dave Bowman]].<ref name="bell labs hal">{{Cite web|url=http://www3.alcatel-lucent.com/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3MfQFSYGYRq6m-pEoYgbxjgiRIH1vfV-P_NxU_QD9gtzQiHJHR0UAAD_zXg!!/delta/base64xml/L0lJayEvUUd3QndJQSEvNElVRkNBISEvNl9BX0FLTC9lbl93dw!!?LMSG_CABINET=Bell_Labs&LMSG_CONTENT_FILE=History/Timeline/Timeline_Innovation_000100.xml|title=Text-To-Speech Synthesis|website=www3.alcatel-lucent.com|access-date=2017-03-14}}</ref>
+
+==The Las Vegas connection: Information theory and its applications to Game theory==
+John Kelly was an associate of [[Claude Shannon]] at Bell Labs. Together they developed a [[Game theory]] type method based on the principles of [[information theory]] developed by Shannon.<ref name="John L. Kelly">[http://home.williampoundstone.net/Kelly.htm John Kelly by William Poundstone website]</ref> It is reported that Shannon and his wife Betty went to [[Las Vegas, Nevada|Las Vegas]] with [[M.I.T.]] mathematician [[Edward O. Thorp|Ed Thorp]], and made very successful forays in [[roulette]] and [[blackjack]] using this method, later called the [[Kelly criterion]], making a fortune as detailed in the book ''Fortune's Formula'' by [[William Poundstone]]<ref name="Fortune">[https://www.amazon.com/gp/reader/0809046377 Poundstone, William: ''Fortune's Formula : The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street'']</ref> and corroborated by the writings of [[Elwyn Berlekamp]],<ref name="Elwyn bio">[http://www.americanscientist.org/template/AuthorDetail/authorid/1554 Elwyn Berlekamp (Kelly's Research Assistant) Bio details]</ref> Kelly's research assistant in 1960 and 1962.<ref name="Fortune"/> Shannon and Thorp also applied the same theory to the stock market with even better results.<ref name="Poundstone">[http://home.williampoundstone.net/ William Poundstone website]</ref>
+
+Over the decades, John Kelly's scientific formula has become a part of mainstream investment theory<ref name="Handbook of Asset and Liability Management">{{citation |last1=Zenios |first1=S. A. |last2=Ziemba |first2=W. T. |title=Handbook of Asset and Liability Management |year=2006 |publisher=North Holland |isbn=978-0-444-50875-1 }}</ref> and the most prominent users, well-known and successful billionaire investors [[Warren Buffett]],<ref name="The Dhandho Investor">{{citation |last=Pabrai |first=Mohnish |title=The Dhandho Investor: The Low-Risk Value Method to High Returns |year=2007 |publisher=Wiley |isbn=978-0-470-04389-9 |url-access=registration |url=https://archive.org/details/dhandhoinvestorl00pabr_0 }}</ref><ref name="gurufocus">{{cite web |url=http://www.gurufocus.com/news.php?id=83664 |title=Ed Thorp's Genius Detailed In Scott Patterson's 'The Quants' |date=February 5, 2010 |website=www.gurufocus.com}}</ref> [[William H. Gross|Bill Gross]]<ref name="Wilmott II">{{citation |last=Thorp |first=E. O. |title=The Kelly Criterion: Part II |date=September 2008 |journal=Wilmott Magazine }}</ref> and [[James Harris Simons|Jim Simons]] use Kelly methods. Warren Buffett met Thorp the first time in 1968. It's said that Buffett uses a form of the Kelly criterion in deciding how much money to put into various holdings. Mathematician and game theorist [[Elwyn Berlekamp]], once an assistant to Kelly at Bell Labs, had applied the same logical algorithm for [[Axcom Trading Advisors]], an alternative investment management company that he led after acquiring most of the equity of the co-founder and prior leader, mathematician [[James Ax]]. Axcom was the outsourced manager for [[Renaissance Technologies Corp]] hedge fund flagship, the  [[Medallion Fund]].  In 1990, Axcom was acquired by its part-owner, fellow mathematician and founder of Renaissance, [[James Harris Simons|Jim Simons]].<ref>The Man Who Solved the Market, Gregory Zuckerman (2019)</ref>
+
+==Death==
+A heavy smoker who could go through six packs of cigarettes a day, Kelly died of a [[Cerebral hemorrhage|stroke]] on a Manhattan sidewalk at the age of 41 on March 18, 1965.<ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2005-09-25/get-rich-heres-the-math|title = Get Rich: Here's the Math|newspaper = Bloomberg.com|date = 26 September 2005}}</ref><ref name="ReferenceA"/>
+
+==References==
+
+===Cited references===
+<!--This section uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+{{reflist}}
+
+===General references===
+{{refbegin}}
+*[http://www.bell-labs.com/project/tts/ Bell Labs Text to Speech Systems] {{Webarchive|url=https://web.archive.org/web/20060314071221/http://www.bell-labs.com/project/tts/ |date=2006-03-14 }}.
+*[https://web.archive.org/web/20060711170006/http://www.americanscientist.org/template/BookReviewTypeDetail/assetid/47321;jsessionid=aaa9har2OmrE7K American Scientist online: Bettor Math, article and book review by Elwyn Berlekamp].
+*[http://www.americanscientist.org/template/AuthorDetail/authorid/1554 Elwyn Berlekamp (Kelly's Research Assistant) Bio details]
+*[http://www.fortunesformula.com John Kelly and Edward O. Thorp]
+{{refend}}
+
+== External links ==
+* [http://www.surebety.pl/artykul/kelly Kelly criterion] – description of Kelly criterion {{in lang|pl}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kelly, John}}
+[[Category:1923 births]]
+[[Category:1965 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:Scientists at Bell Labs]]
+[[Category:People from Corsicana, Texas]]
+[[Category:University of Texas at Austin College of Natural Sciences alumni]]

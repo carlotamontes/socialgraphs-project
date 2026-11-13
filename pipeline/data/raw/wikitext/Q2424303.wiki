@@ -1,0 +1,65 @@
+{{Infobox scientist
+| name              = Thomas Graf
+| image             = ThomasGraf 2015.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{bda|1944|09|28|df=y}}
+| birth_place       = [[Vienna]], [[Austria]]
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[stem cells]] [[biology]]
+| workplaces        = [[European Molecular Biology Laboratory]], [[Albert Einstein College of Medicine]],  [[Centre for Genomic Regulation]]
+| education         = [[University of Tübingen]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|www.example.com}} -->
+| footnotes         = 
+| spouse            = 
+}}
+'''Thomas Graf''' (born 28 September 1944) is a [[biologist]] at the [[Centre for Genomic Regulation]] (CRG) in Barcelona, Spain. He is a pioneer in cell reprogramming, showing that blood cells can be transdifferentiated by [[transcription factor]]s.<ref>{{Cite journal|last=Graf|first=Thomas|date=2011-12-02|title=Historical Origins of Transdifferentiation and Reprogramming|journal=Cell Stem Cell|language=en|volume=9|issue=6|pages=504–516|doi=10.1016/j.stem.2011.11.012|pmid=22136926|issn=1934-5909|doi-access=free}}</ref><ref>{{Cite journal|last=Baker|first=Monya|date=2008-10-23|title=Thomas Graf: Cellular identity and transdifferentiation|url=http://www.nature.com/stemcells/2008/0810/081023/full/stemcells.2008.140.html|journal=Nature Reports Stem Cells|pages=1|language=en|doi=10.1038/stemcells.2008.140|doi-access=free}}</ref> He is also known for his early work on [[oncogene]]s carried by [[retrovirus]]es and oncogene cooperation in [[leukemia]] formation.<ref>{{Cite journal|last1=Metz|first1=T.|last2=Graf|first2=T.|date=1991-07-12|title=Fusion of the nuclear oncoproteins v-Myb and v-Ets is required for the leukemogenicity of E26 virus|journal=Cell|volume=66|issue=1|pages=95–105|issn=0092-8674|pmid=2070421|doi=10.1016/0092-8674(91)90142-L|s2cid=29746161}}</ref>
+
+== Research ==
+In the late 70s Graf co-discovered several cell-derived oncogenes acquired by avian [[retrovirus]]es, designated ''Mac'' (later changed into ''Myc''), ''Erb'' and ''Myb''.<ref>{{Cite journal|last1=Roussel|first1=M.|last2=Saule|first2=S.|last3=Lagrou|first3=C.|last4=Rommens|first4=C.|last5=Beug|first5=H.|last6=Graf|first6=T.|last7=Stehelin|first7=D.|date=1979-10-11|title=Three new types of viral oncogene of cellular origin specific for haematopoietic cell transformation|journal=Nature|language=en|volume=281|issue=5731|pages=452–455|doi=10.1038/281452a0|pmid=226888|bibcode=1979Natur.281..452R|s2cid=4371767}}</ref> He found that several naturally occurring virus strains have acquired various pairwise combinations of oncogenes and that these cooperate to cause acute leukemia,<ref>{{Cite journal|last1=Graf|first1=Thomas|last2=Beug|first2=Hartmut|date=1983-08-01|title=Role of the v-erbA and v-erbB oncogenes of avian erythroblastosis virus in erythroid cell transformation|journal=Cell|language=en|volume=34|issue=1|pages=7–9|doi=10.1016/0092-8674(83)90130-7|pmid=6309413|s2cid=41243358|issn=0092-8674}}</ref> an early example for the multigenic origin of cancers. He also showed that the transcription factor ''Myb'' can reversibly block the differentiation of [[white blood cell]]s, one of the first demonstrations of induced cell fate changes.<ref>{{Cite journal|last1=Beug|first1=H.|last2=Blundell|first2=P. A.|last3=Graf|first3=T.|date=May 1987|title=Reversibility of differentiation and proliferative capacity in avian myelomonocytic cells transformed by tsE26 leukemia virus|journal=Genes & Development|volume=1|issue=3|pages=277–286|issn=0890-9369|pmid=2824281|doi=10.1101/gad.1.3.277|doi-access=free}}</ref> In his more recent research he showed that different types of specialized blood cells can be induced to convert into each other by forced [[transcription factor]] expression.<ref>{{Cite journal|last1=Graf|first1=Thomas|last2=Enver|first2=Tariq|title=Forcing cells to change lineages|journal=Nature|volume=462|issue=7273|pages=587–594|doi=10.1038/nature08533|pmid=19956253|year=2009|bibcode=2009Natur.462..587G|s2cid=4417323}}</ref> In 1995 he pioneered this technique permitting the transdifferentiation of white blood cells into red blood cell precursors and vice versa induced by Gata1<ref>{{Cite journal|last1=Kulessa|first1=H.|last2=Frampton|first2=J.|last3=Graf|first3=T.|date=1995-05-15|title=GATA-1 reprograms avian myelomonocytic cell lines into eosinophils, thromboblasts, and erythroblasts|journal=Genes & Development|volume=9|issue=10|pages=1250–1262|issn=0890-9369|pmid=7758949|doi=10.1101/gad.9.10.1250|doi-access=free}}</ref> and PU.1, respectively. Later (2004) he managed to convert B lymphocytes into functional macrophages, using [[CEBPA|C/EBPa]] as a driver.<ref>{{Cite journal|last1=Xie|first1=Huafeng|last2=Ye|first2=Min|last3=Feng|first3=Ru|last4=Graf|first4=Thomas|date=2004-05-28|title=Stepwise Reprogramming of B Cells into Macrophages|journal=Cell|language=en|volume=117|issue=5|pages=663–676|doi=10.1016/S0092-8674(04)00419-2|issn=0092-8674|pmid=15163413|doi-access=free}}</ref> Using the same approach he was also first to induce a conversion of more distantly related cells, namely that of non-blood cells into [[macrophage]]s.<ref>{{Cite journal|last1=Feng|first1=R.|last2=Desbordes|first2=S. C.|last3=Xie|first3=H.|last4=Tillo|first4=E. S.|last5=Pixley|first5=F.|last6=Stanley|first6=E. R.|last7=Graf|first7=T.|title=PU.1 and C/EBP / convert fibroblasts into macrophage-like cells|journal=Proceedings of the National Academy of Sciences|volume=105|issue=16|pages=6057–6062|doi=10.1073/pnas.0711961105|pmc=2327209|pmid=18424555|year=2008|doi-access=free}}</ref> Finally, he found that forced C/EBPa expression in malignant  lymphocyte precursors leads to the formation of macrophages and loss of tumorigenicity,<ref>{{Cite journal|last1=Rapino|first1=Francesca|last2=Robles|first2=Eloy F.|last3=Richter-Larrea|first3=Jose A.|last4=Kallin|first4=Eric M.|last5=Martinez-Climent|first5=Jose A.|last6=Graf|first6=Thomas|date=2013-04-25|title=C/EBPα Induces Highly Efficient Macrophage Transdifferentiation of B Lymphoma and Leukemia Cell Lines and Impairs Their Tumorigenicity|journal=Cell Reports|language=en|volume=3|issue=4|pages=1153–1163|doi=10.1016/j.celrep.2013.03.003|issn=2211-1247|pmid=23545498|doi-access=free|hdl=10230/68898|hdl-access=free}}</ref> suggesting transdifferentiation as an alternative avenue for therapeutic interventions.
+
+== Awards ==
+* 1983 Wilhelm-Warner-Foundation Award
+* 1983 Main Award, German Society for Microbiology and Hygiene
+* 1983 Kind-Philipp-Foundation Leukemia Research Award
+* 1988 Josef-Steiner-Foundation Prize
+* 1988 Theodor Boveri Lecture and Award
+* 1989 [[Paul Ehrlich and Ludwig Darmstaedter Prize|Paul Ehrlich-Ludwig Darmstaedter Prize]]
+
+== References ==
+<references />
+
+== External links ==
+* [http://www.crg.eu/thomas_graf Thomas Graf laboratory] at the [[Centre for Genomic Regulation]].
+* [http://www.eurostemcell.org/thomas-graf Profile at EuroStemCell]
+* News article "[https://www.biosciencetechnology.com/article/2014/09/nobel-prize-winning-ipsc-stem-cell-method-vastly-improved Nobel Prize-winning ‘iPSC’ Stem Cell Method Vastly Improved]" at Bioscience Technology
+{{Authority control}}
+
+{{DEFAULTSORT:Graf, Thomas}}
+[[Category:20th-century German biologists]]
+[[Category:Living people]]
+[[Category:1944 births]]
+[[Category:21st-century German biologists]]
+[[Category:Scientists from Vienna]]

@@ -1,0 +1,48 @@
+{{Short description|American writer, engineer and scientist (1951–2018)}}
+{{redirect|Timothy May|the Australian cricketer|Tim May}}
+'''Timothy C. May''', better known as '''Tim May''' (December 21, 1951 – December 13, 2018), was an American technical and political writer, and electronic engineer and senior scientist at [[Intel]].<ref>{{cite book|last=Greenberg|first=Andy|title=This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information|year=2012|publisher=Dutton Adult|isbn=978-0525953203|pages=[https://archive.org/details/thismachinekills0000gree/page/384 384]|url-access=registration|url=https://archive.org/details/thismachinekills0000gree/page/384}}</ref> May was also the founder of the [[crypto-anarchist]] movement.<ref>{{Cite web|title=Timothy C. May {{!}} Satoshi Nakamoto Institute|url=https://nakamotoinstitute.org/authors/timothy-c-may/|access-date=2020-11-02|website=nakamotoinstitute.org|date=1988 |archive-date=2020-12-02|archive-url=https://web.archive.org/web/20201202034814/https://nakamotoinstitute.org/authors/timothy-c-may/|url-status=live}}</ref> He retired from Intel in 1986 at age 35 and died of natural causes at his home on December 13, 2018 at age 66.<ref name=":0">{{Cite news|url=https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html|title=Timothy C. May, Early Advocate of Internet Privacy, Dies at 66|last=Popper|first=Nathaniel|date=2018-12-21|work=The New York Times|access-date=2018-12-26|language=en-US|issn=0362-4331|archive-date=2019-06-04|archive-url=https://web.archive.org/web/20190604210742/https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html|url-status=live}}</ref>
+
+==Discovery of alpha particle effects on computer chips==
+As an engineer, May was most noted for having identified the cause of the "alpha particle problem", which was affecting the reliability of [[integrated circuits]] as device features reached a critical size where a single [[alpha particle]] could change the state of a stored value and cause a [[single event upset]]. May realized that the [[ceramic]] packaging that Intel was using, made from [[clay]], was very slightly [[radioactive]].<ref>{{Citation|chapter=A New Physical Mechanism for Soft Errors in Dynamic Memories|date=April 1978|last1=May|first1=Timothy C.|last2=Woods|first2=Murray H.|publisher=[[Institute of Electrical and Electronics Engineers]]|doi=10.1109/IRPS.1978.362815|title=16th International Reliability Physics Symposium|pages=33–40|s2cid=21073771}}</ref><ref>{{Citation|title=17th International Reliability Physics Symposium|pages=13–22|date=April 1979|last1=Meieran|first1=E.|last2=Engel|first2=P.R.|last3=May|first3=T.C.|publisher=[[Institute of Electrical and Electronics Engineers]]|doi=10.1109/IRPS.1979.362865|chapter=Measurement of Alpha Particle Radioactivtiy in IC Device Packages|s2cid=42417429}}</ref> Intel solved the issue by increasing the charge in each cell to reduce its susceptibility to radiation<ref>Jackson, "Inside Intel", pg. 183</ref> and adopting [[plastic]] packaging for their products.{{Citation needed|date=April 2014}}
+
+May co-authored the 1981 [[IEEE W.R.G. Baker Award]]-winning paper "Alpha-Particle-Induced Soft Errors in Dynamic Memories", published in the [[Institute of Electrical and Electronics Engineers|IEEE]] ''Transactions on {{sic|hide=y|Electron Devices}}'' in January 1979 with Murray H. Woods.<ref>{{cite web |url=http://www.ieee.org/documents/baker_rl.pdf |title=IEEE W. R. G. Baker Prize Award Recipients |author=<!--Staff writer(s); no by-line.--> |work=IEEE.org |publisher=[[Institute of Electrical and Electronics Engineers]] |location=[[New York City]] |accessdate=February 28, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110629020810/http://www.ieee.org/documents/baker_rl.pdf |archivedate=June 29, 2011 }}</ref>
+
+==Social and political views==
+May was an advocate for [[libertarianism]]<ref>{{cite web|url=https://beinglibertarian.com/tim-may-passes/|title=Tim May, The Father of Crypto Anarchy, Has Passed Away|date=December 20, 2018|work=Being Libertarian|access-date=August 15, 2019|archive-date=August 15, 2019|archive-url=https://web.archive.org/web/20190815174103/https://beinglibertarian.com/tim-may-passes/|url-status=live}}</ref><ref>{{cite web|url=https://nakamotoinstitute.org/libertaria-in-cyberspace/|title=Libertaria in Cyberspace|date=September 1, 1992|work=Satoshi Nakamoto Institute|access-date=August 15, 2019|archive-date=August 15, 2019|archive-url=https://web.archive.org/web/20190815174107/https://nakamotoinstitute.org/libertaria-in-cyberspace/|url-status=live}}</ref> and for internet privacy.<ref>{{cite web|url=https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html|title=Timothy C. May, Early Advocate of Internet Privacy, Dies at 66|date=December 21, 2018|work=The New York Times|access-date=December 22, 2018|archive-date=June 4, 2019|archive-url=https://web.archive.org/web/20190604210742/https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html|url-status=live}}</ref>
+
+He was a founding member of, and had been one of the most voluminous contributors to, the [[Cypherpunk]]s [[electronic mailing list]]. He wrote extensively on cryptography and privacy from the 1990s through 2003.
+
+May wrote a substantial cypherpunk-themed [[FAQ]], "The Cyphernomicon" (incorporating his earlier piece "The [[Crypto-anarchism|Crypto Anarchist]] Manifesto");<ref name="Cyphernomicon">{{cite web |title=The Cyphernomicon: Cypherpunks FAQ and More, Version 0.666 |last=May |first=Timothy C. |date=September 10, 1994 |url=http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html |work=Cypherpunks.to |accessdate=February 28, 2011 |archive-date=June 7, 2011 |archive-url=https://web.archive.org/web/20110607130638/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html |url-status=dead }}</ref> and his essay, "True Nyms and Crypto Anarchy", was included in a reprint of [[Vernor Vinge]]'s novel ''[[True Names]]''. In 2001 his work was published in the book, ''Crypto Anarchy, Cyberstates, and Pirate Utopias''.<ref>{{cite book|editor-last=Ludlow|editor-first=Peter|title=Crypto anarchy, cyberstates, and pirate utopias|year=2001|publisher=MIT Press|location=Cambridge, Mass.|isbn=0-262-62151-7}}</ref>
+
+Writing in ''[[Harper's Magazine|Harper's]],'' [[Finn Brunton]] said of May, "He called himself a 'crypto-anarchist,' but his anarchism was of the American libertarian variety, which fuses smash-the-state rhetoric with racism, greed, and an interest in real-world violence. He wrote with approval that the collapse of the U.S. government would result in the end of welfare for 'inner-city breeders,' and day-dreamed about using digitally identifying 'race bits' so that online white-supremacist groups could maintain racial segregation."<ref>Brunton, Finn (September 2026) "The Chaos Machine." Harper's. Page 48.</ref>
+
+May led a reclusive life. His ''[[The New York Times|New York Times]]'' obituary noted: "He often wrote about arming himself and waiting for government agents to show up. After the Cypherpunks faded in the early 2000s, he began expressing racist sentiments to other online groups".<ref name=":0" />
+
+''[[Reason Magazine]]'' described him as a "significant influence on both [[bitcoin]] and [[WikiLeaks]]" in their obituary.<ref>{{Cite web |url=https://reason.com/2018/12/16/tim-may-influential-writer-on-crypto-ana/ |title=Tim May, Father of 'Crypto Anarchy,' is Dead at 66 |date=16 December 2018 |access-date=2020-08-07 |archive-date=2020-09-30 |archive-url=https://web.archive.org/web/20200930025211/https://reason.com/2018/12/16/tim-may-influential-writer-on-crypto-ana/ |url-status=live }}</ref>
+
+==See also==
+* [[Time-lock puzzle]]
+
+==References==
+{{reflist}}
+
+==External links==
+* Timothy C. May (1992). [https://www.activism.net/cypherpunk/crypto-anarchy.html The Crypto Anarchist Manifesto].
+* Timothy C. May (1994). [https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/cyphernomicon/CP-FAQ Cyphernomicon].
+* [https://www.kk.org/outofcontrol/ch12-a.html ''Out of Control'' Chapter 12 - Tim May & E-Money].
+* [http://lambda-the-ultimate.org/user/3908/track Tim May's posts at Lambda the Ultimate].
+
+{{authority control}}
+
+{{DEFAULTSORT:May, Timothy C.}}
+[[Category:1951 births]]
+[[Category:2018 deaths]]
+[[Category:American libertarians]]
+[[Category:American political writers]]
+[[Category:American technology writers]]
+[[Category:Crypto-anarchists]]
+[[Category:Cypherpunks]]
+[[Category:Intel people]]
+[[Category:Privacy activists]]
+[[Category:Usenet people]]
+[[Category:21st-century anarchists]]

@@ -1,0 +1,32 @@
+{{short description|Italian physicist}}
+
+{{Infobox scientist
+| name              = Massimo Vergassola 
+| fields            =Physics 
+| workplaces        =[[University of California, San Diego]]
+}}
+
+'''Massimo Vergassola''' is an Italian physicist, who worked at the [[University of California, San Diego]] from 2013-2019.  He is now a Professor at the Ecole Normale Supérieure in Paris and Directeur de Recherche at CNRS. 
+He is Director of the ENS-PSL QBio initiative on Quantitative Biology, an initiative at the PariSanté Val-de-Grâce Campus.<ref name="QBio">{{cite web |title=Massimo Vergassola |url=https://qbio.ens.psl.eu/en/people/massimo-vergassola |website=QBio |access-date=13 March 2023 |language=en}}</ref>
+
+Vergassola uses physics to study the [[sense of smell]] and [[olfactory navigation]] in turbulent environments.<ref name="Reddy">{{cite journal |last1=Reddy |first1=Gautam |last2=Murthy |first2=Venkatesh N. |last3=Vergassola |first3=Massimo |title=Olfactory Sensing and Navigation in Turbulent Environments |journal=Annual Review of Condensed Matter Physics |date=10 March 2022 |volume=13 |issue=1 |pages=191–213 |doi=10.1146/annurev-conmatphys-031720-032754 |bibcode=2022ARCMP..13..191R |s2cid=243966350 |url=https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-031720-032754 |access-date=13 March 2023 |language=en |issn=1947-5454|url-access=subscription }}</ref> For example, he has shown the importance of a zig-zag search pattern to deal with odor plumes that have been broken into fragments due to turbulence.<ref name="Barwich">{{cite book |last1=Barwich |first1=A. S. |title=Smellosophy: What the Nose Tells the Mind |date=14 July 2020 |publisher=Harvard University Press |isbn=978-0-674-24540-2 |url=https://books.google.com/books?id=S9HoDwAAQBAJ&pg=PA152 |language=en}}</ref>
+In 2007, Vergassola proposed a strategy called infotaxis for use by [[Machine olfaction|odor-sensing robots]].  Infotaxis involves the creation of a mental model of where an odor source is likely to be, based on previously collected information. The robot moves in a direction that will maximize information to find the smell. Early versions of the model involved a mathematical quantity called [[Shannon entropy]], which calculates unpredictability (high in unexplored directions and low in explored directions).<ref name="Mackenzie">{{cite journal |last1=Mackenzie |first1=Dana |title=How animals follow their nose |journal=Knowable Magazine |publisher=Annual Reviews |date=6 March 2023 |doi=10.1146/knowable-030623-4 |doi-access=free |url=https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose |access-date=13 March 2023 |language=en|url-access=subscription }}</ref>
+Another area of interest in the physics of living systems is the physics of embryonic development.<ref name="QBio"/>
+
+Vergassola is an Elected Fellow of the [[American Physical Society]].<ref>{{Cite web |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm |title=Fellows |publisher=aps.org |accessdate=April 22, 2017}}</ref><ref>{{Cite web |url=http://vergassolalab.ucsd.edu/people.html |title=Massimo Vergassola |publisher=ucsd.edu |accessdate=April 22, 2017}}</ref><ref name="Di Talia">{{cite journal |last1=Di Talia |first1=Stefano |last2=Vergassola |first2=Massimo |title=Waves in Embryonic Development |journal=Annual Review of Biophysics |date=9 May 2022 |volume=51 |issue=1 |pages=327–353 |doi=10.1146/annurev-biophys-111521-102500 |pmid=35119944 |s2cid=246556845 |url=https://doi.org/10.1146/annurev-biophys-111521-102500 |language=en |issn=1936-122X|pmc=10122827 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vergassola, Massimo}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:21st-century American physicists]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+
+
+{{US-physicist-stub}}

@@ -1,0 +1,122 @@
+{{short description|American electrical engineer}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox scientist
+| name              = Raphael Tsu
+| image             = Raphael “Ray” Tsu.jpg
+| image_size        = 
+| caption           = Tsu in 2019
+| birth_date        =
+| birth_place       =
+| other_names       = Ray Tsu
+| education         = {{Plainlist|
+* [[University of Dayton]] ([[Bachelor of Engineering|BSE]])
+* [[Ohio State University]] ([[Master of Science|MS]], [[Doctor of Philosophy|PhD]])}}
+| known_for         = [[Resonant tunneling diode]]
+| awards           = [[James C. McGroddy Prize for New Materials|International Prize for New Materials]] (1985)
+| fields            = [[Electrical engineering]]
+| workplaces        = {{Indented plainlist|
+* [[Bell Labs]]
+* [[Thomas J. Watson Research Center]]
+* [[National Renewable Energy Laboratory]]
+* [[University of North Carolina at Charlotte]]}}
+| thesis_title      = The theory and application of the scattering matrix for electromagnetic waves
+| thesis_url        = https://www.proquest.com/docview/301850387/
+| thesis_year       = 1960
+| doctoral_advisor  = [[Robert Kouyoumjian]]
+}}
+
+'''Raphael Tsu''' is an American [[electrical engineer]] who is Professor Emeritus of Electrical and Computer Engineering at the [[University of North Carolina at Charlotte]].<ref name="UNC Charlotte">{{Cite web |title=Dr. Raphael Tsu, Ph.D. |url=https://ece.charlotte.edu/directory/dr-raphael-tsu-phd |url-status=dead |publisher=University of North Carolina at Charlotte |archive-url=https://web.archive.org/web/20260305235758/https://ece.charlotte.edu/directory/dr-raphael-tsu-phd/ |archive-date=March 5, 2026 |access-date=October 28, 2022}}</ref>
+
+==Education==
+Tsu earned a [[Bachelor of Science in Engineering]] from the [[University of Dayton]] in 1956. He completed his graduate studies at [[Ohio State University]], where he received a [[Master of Science]] in 1957 and a [[Doctor of Philosophy]] in 1960.<ref name="UNC Charlotte"/> His doctoral advisor at Ohio State was [[Robert Kouyoumjian]].<ref name="thesis-tsu-1960">{{Cite thesis |last=Tsu |first=Raphael |year=1960 |title=The theory and application of the scattering matrix for electromagnetic waves |url=https://www.proquest.com/docview/301850387/ |degree=Ph.D. |oclc=946004753 |id={{ProQuest|301850387}}}}</ref>
+
+==Career==
+After several years working as a member of the technical staff at [[Bell Telephone Laboratories]] (BTL) at Murray Hill, NJ, developing an ultrasonic amplifier, a mechanism invented by D. L. White, Tsu moved to the IBM, [[Thomas J. Watson Research Center|T.J. Watson Research Center]] in [[Yorktown Heights, NY]] as an associate to [[Leo Esaki]] beginning a well-known collaboration that yielded a theory of man-made quantum materials, [[superlattice]]s and [[Quantum Wells|quantum wells]].
+
+Tsu later joined the Amorphous Semiconductors Institute (ASI) and directed energy research at Energy Conversion Devices (ECD) near Detroit, MI, as invited by inventor [[Stan Ovshinsky]]. His contribution included the first experimental determination of the [[volume fraction]] of crystallinity for conductivity percolation in [[amorphous silicon]] and [germanium],<ref>
+{{cite journal |first1=R. |last1=Tsu |first2=J. G. |last2=Hernandez |first3=S. S. |last3=Chao |first4=S. C. |last4=Lee |first5=K. |last5=Tanak |year=1982 |title=Critical Volume Fraction of Crystallinity for Conductivity Percolation in P-doped Si:F:H Alloys |journal=[[Applied Physics Letters]] |volume=40 |pages=534 |doi=10.1063/1.93133 |bibcode = 1982ApPhL..40..534T |issue=6}}</ref> and providing experimental proof of the existence of an intermediate order.<ref>{{cite journal |first1=R. |last1=Tsu |first2=M. |last2=Isu |first3=S. R. |last3=Ovshinsky |first4=F. H. |last4=Polla |year=1980 |title=Electroreflectance and Raman Investigation of Glow-Discharge Amorphous Si:F:H |journal=[[Solid State Communications]] |volume=36 |pages=817 |doi=10.1016/0038-1098(80)90019-8 |bibcode=1980SSCom..36..817T |issue=9}}</ref> He discovered experimentally that post annealing with H<sub>2</sub> and O<sub>2</sub> can drastically remove [[dangling bond]] defects in [[amorphous silicon]].
+
+From 1985 to 1987, Tsu served as the amorphous silicon program group leader at the [[National Renewable Energy Laboratory]] (then known as SERI, Solar Energy Research Institute) in [[Golden, Colorado|Golden, CO]]. His theoretical derivation of the relationship between [[optical absorption]] and disorder in amorphous silicon and germanium in terms of fundamental constants shows that the slope of the [[Tauc plot]] is uniquely determined by the oscillator strength of the transition, the deformation potential, and the mean deviation of the atomic coordinates obtained from the [[radial distribution function]] (RDF).
+
+In 1972, Tsu organized a group and was invited by the [[Chinese Academy of Sciences|Chinese Science Academy]] that resulted in the first report on the technology in China published in ''[[Scientific American]]''.<ref>{{cite journal |last1=Tsu |first1=R. |title=High Technology in China |journal=Sci. Am. |date=1972 |volume=227 |issue=6 |pages=13–17 |jstor=24922932 |url=https://www.jstor.org/stable/24922932}}</ref> This led to his involvement through establishing the first Chinese Scientific delegation visit to the US invited by the US-China Relations Committee of the US Academy of Science. During this visit, he worked with the [[United States Department of State|US State Department]] for the program and logistics on the East Coast. This effort contributed to the opening of scientific exchange between the United States and China.
+
+===Invention of the superlattice===
+
+Of all his contributions, Tsu's most important impact has been in the invention of spatially modulated, or periodically layered, materials – the [[superlattice]]. The structure of a superlattice has remained a highly productive innovation in nanoelectronics well into the 21st century. Indeed, Tsu played a pivotal role in the creation, invention, and development of synthetic periodic superlattice materials and devices that functionally depend on these artificially fabricated two-dimensional multiple-quantum well structures while working in [[Leo Esaki]]'s Exploratory Device Research Group in the IBM Watson Laboratories. Tsu introduced the idea of alternating layers of different material, A/B, with the correct band-edge offset. While at IBM, Tsu worked closely with [[Leroy Chang|L. L. Chang]]. Ray's theoretical analysis at IBM led to the important concept of modulation doping for carrier mobility enhancement independently of, and prior to, the work of Dingle, et al. at Bell Labs.<ref>{{cite report |title=IBM Research Report RC2418 |last1=Esaki |first1=L. |last2=Tsu |first2=R. |date=March 26, 1969 |work=IBM Research Report}}</ref>
+
+===Contributions to other technologies===
+These pioneering contributions have led to many current technologies including terahertz oscillators,{{citation needed|date=March 2019}} negative differential conductance (NDC) in the I–V characteristics of superlattice devices,<ref>{{cite journal |last1=Tsu |first1=R. |last2=Esaki |first2=L. |title=Tunneling in a finite superlattice |journal=Appl. Phys. Lett. |date=1973 |volume=22 |issue=11 |page=562 |doi=10.1063/1.1654509 |bibcode=1973ApPhL..22..562T |url=https://aip.scitation.org/doi/abs/10.1063/1.1654509 |access-date=October 28, 2022|url-access=subscription }}</ref> resonant tunneling quantum well (double barrier) structures,<ref>{{cite journal |last1=Chang |first1=L. L. |last2=Esaki |first2=L. |last3=Tsu |first3=R. |title=Resonant tunneling in semiconductor double barriers |journal=Appl. Phys. Lett. |date=1974 |volume=24 |issue=12 |page=593 |doi=10.1063/1.1655067 |bibcode=1974ApPhL..24..593C |url=https://aip.scitation.org/doi/abs/10.1063/1.1655067 |access-date=October 28, 2022|url-access=subscription }}</ref> of phonon band folding and the related Raman spectra, and the discovery of forbidden phonon modes.<ref>{{cite journal |last1=Kawamura |first1=H. |last2=Tsu |first2=R. |last3=Esaki |first3=L. |title=Disorder-Activated Acoustic Mode in Raman Spectrum of Ga<sub>x</sub>Al<sub>1−x</sub>As |journal=Phys. Rev. Lett. |date=1972 |volume=29 |issue=20 |page=1397 |doi=10.1103/PhysRevLett.29.1397 |bibcode=1972PhRvL..29.1397K |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.29.1397 |access-date=October 28, 2022|url-access=subscription }}</ref> Raphael Tsu's other contributions have impacted a wide range of materials science.
+
+A [[leitmotif]] in Tsu's career has been ubiquitous electron–lattice interactions in materials as well as quantum transport. One of his first publications from Bell Labs<ref>{{cite journal |last1=Tsu |first1=R. |title=Phonon Radiation by Uniformly Moving Charged Particles in Piezoelectric Solids |journal=J. Appl. Phys. |date=1964 |volume=35 |issue=1 |page=125 |doi=10.1063/1.1713018 |bibcode=1964JAP....35..125T |url=https://aip.scitation.org/doi/abs/10.1063/1.1713018 |access-date=28 October 2022|url-access=subscription }}</ref> is concerned with radiation of phonons by non-accelerating charges. Another from IBM,<ref>{{cite journal |last1=Tsu |first1=R. |last2=Jha |first2=S. S. |title=Phonon and Polariton Modes in a Superlattice |journal=Appl. Phys. Lett. |date=1972 |volume=20 |issue=1 |page=16 |doi=10.1063/1.1653959 |bibcode=1972ApPhL..20...16T |url=https://aip.scitation.org/doi/abs/10.1063/1.1653959|url-access=subscription }}</ref> is related to phonons and polaritons. He and Timir Datta have introduced the concept of wave impedance in quantum transport for dissipation-free quantum waves,<ref name =Tsu2>{{cite conference |first1=Raphael |last1=Tsu |first2=Timir |last2=Datta |year=2008 |title=Conductance and Wave Impedance of Electrons |conference=Progress In Electromagnetics Research Symposium, Hangzhou, China, March 24–28 |location=Hangzhou, China |url=http://piers.mit.edu/piersproceedings/download.php?file=cGllcnMyMDA4aGFuZ3pob3V8NUEyXzEyNjMucGRmfDA3MDkwNjE0NDY1NA== |format=pdf |access-date=April 26, 2013 |archive-date=August 3, 2010 |archive-url=https://web.archive.org/web/20100803063505/http://piers.mit.edu/piersproceedings/download.php?file=cGllcnMyMDA4aGFuZ3pob3V8NUEyXzEyNjMucGRmfDA3MDkwNjE0NDY1NA== |url-status=dead }}</ref> where using the expressions for probability continuity and energy expectation an equation for quantum wave impedance of Schrödinger functions is obtained.
+
+==Recognition==
+===Memberships===
+{| class="wikitable"
+! Year
+! Organization
+! Type
+! {{Reference column heading}}
+|-
+| 1980
+| [[American Physical Society]]
+| Fellow
+| <ref>{{Cite web |title=APS Fellows archive |url=https://www.aps.org/funding-recognition/aps-fellowship?q=Raphael%20Tsu&af=true |publisher=American Physical Society |access-date=July 30, 2025}}</ref>
+|}
+
+===Awards===
+{| class="wikitable"
+! Year
+! Organization
+! Award
+! Citation
+! {{Reference column heading}}
+|-
+| 1985
+| American Physical Society
+| [[James C. McGroddy Prize for New Materials|International Prize for New Materials]]
+| "For his conception of artificial semiconductor superlattices and his recognition that such structures have realizable and would have novel electronic properties. His sustained experimental and theoretical efforts have helped lead the way to versatile new materials and technologies."
+| <ref>{{Cite web |title=James C. McGroddy Prize for New Materials |url=http://www.aps.org/programs/honors/prizes/mcgroddy.cfm |publisher=American Physical Society |access-date=October 8, 2023}}</ref>
+|}
+
+==Selected publications==
+* {{cite book |last1=Tsu |first1=Raphael |title=Superlattice to Nanoelectronics|date=2010 |publisher=Elsevier|isbn=9780080968131}}
+* {{cite book |last1=Tsu |first1=Raphael |title=The World and I |date=2018 |publisher=LitFire Publishing|isbn=9781641515887}}
+* {{cite book |last1=Tsu |first1=Raphael |title=The World and I |date=2018 |edition=Chinese |publisher=Dixie W Publishing Corporation|isbn=9781683721406}}
+
+==Notable papers==
+
+The following two papers were amongst the 50 most cited articles to appear in the first fifty years of the journal [[Applied Physics Letters]] published by the [[American Institute of Physics]] (AIP) and were featured as such in APL's 50th anniversary issue http://apl.aip.org/apl_50th_anniversary .
+* {{cite journal
+ |author1=R. Tsu  |author2=L. Esaki
+ |name-list-style=amp |year=1973
+ |title=Tunneling in a finite superlattice
+ |journal=[[Applied Physics Letters]]
+ |volume=22 |pages=562
+ |doi=10.1063/1.1654509
+ |bibcode = 1973ApPhL..22..562T
+ |issue=11 }}
+* {{cite journal
+|author1=L. L. Chang |author2=L. Esaki |author3=R. Tsu  |name-list-style=amp |year=1974
+|title=Resonant tunneling in semiconductor double barriers
+|journal=[[Applied Physics Letters]]
+|volume=24 |pages=593
+|doi=10.1063/1.1655067
+|issue=12 |bibcode = 1974ApPhL..24..593C }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Google scholar id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tsu, Raphael}}
+[[Category:1931 births]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Living people]]
+[[Category:Ohio State University College of Engineering alumni]]
+[[Category:Scientists from Shanghai]]
+[[Category:Semiconductor physicists]]
+[[Category:University of Dayton alumni]]
+[[Category:University of North Carolina at Charlotte faculty]]

@@ -1,0 +1,131 @@
+{{short description|German computer scientist}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox scientist
+|birth_name              =
+|name  = Klaus-Robert Müller
+|image             = Klaus-Robert Müller Oberwolfach 2026.jpg
+|landscape         = yes
+|caption           = Müller in 2026
+|birth_date        = {{birth date and age|1964|12|29|df=y}}
+|birth_place       = [[Karlsruhe]], [[West Germany]]
+|death_date        = 
+|death_place       = 
+|citizenship       =
+|nationality       = 
+|ethnicity         = 
+|fields            = {{Plainlist|
+* [[Machine learning]]
+* [[Artificial intelligence]] 
+* [[Computational neuroscience]]
+* [[Big data]]<ref name=googlescholar/>}}
+|workplaces        = {{Plainlist|
+* [[Technische Universität Berlin]]
+* [[University of Potsdam]]
+}}
+|education         = {{Plainlist|
+* [[Karlsruhe Institute of Technology|University of Karlsruhe]]}}
+|doctoral_advisor  = 
+| title = 
+|academic_advisors = {{Plainlist|
+* [[Vladimir Vapnik]]
+* [[Shun'ichi Amari]]
+}}
+|doctoral_students = 
+|notable_students  = 
+|thesis_title = Spärlich verbundene neuronale Netze und ihre Anwendung (Sparse neural networks and their application)
+|thesis_year = 1992
+|thesis_url = http://d-nb.info/931661676
+|known_for         = {{Plainlist|
+* [[Machine learning]]
+* [[Support Vector Machine]]s
+* [[Brain–computer interface]]s
+}}
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = {{Plainlist|
+* [[Leibniz Prize]] {{small|(2026)}}
+* [[Feynman Prize]] {{small|(2024)}}
+}}
+|religion          = 
+|signature         = 
+|footnotes         = 
+|website           = 
+}}
+
+'''Klaus-Robert Müller''' (born 1964 in Karlsruhe, West Germany) is a German [[computer scientist]] and [[physicist]], most noted for his work in [[machine learning]] and [[brain–computer interface]]s.
+
+==Career==
+Klaus-Robert Müller received his [[Diplom]] in mathematical physics and PhD in theoretical computer science from the [[Karlsruhe Institute of Technology|University of Karlsruhe]]. Following his Ph.D. he went to [[Berlin]] as a postdoctoral fellow at GMD (German National Research Center for Computer Science) Berlin (now part of [[Fraunhofer Institute for Open Communication Systems]]), where he started building up the Intelligent Data Analysis (IDA) group.<ref>{{cite video | url = https://www.youtube.com/watch?v=13EEopDPd7c | title = AI FOR GOOD 2019 INTERVIEWS: Klaus-Robert Müller, Head of Intelligent Data Analysis group, TU Berlin | date = May 29, 2019 | publisher = 2019 [[ITU AI for Good|AI for Good]] Global Summit - [[International Telecommunication Union]]| location = Geneve| author = Chris Bockman | website = Youtube}}</ref>
+
+From 1994 to 1995 he was a research fellow at [[Shun'ichi Amari]]'s lab at the [[University of Tokyo]].
+
+1999 Müller became an associate professor for [[neuroinformatics]] at the [[University of Potsdam]], transitioning to the full professorship for Neural Networks and Time Series Analysis in 2003. Since 2006 he holds the chair for [[Machine Learning]] at [[Technische Universität Berlin]].
+
+Since 2012 he holds a distinguished professorship at [[Korea University]] in [[Seoul]]. He co-founded and is co-director of the Berlin Big Data Center (BBDC) of TU Berlin.
+
+As of 2017, 29 former doctoral or postdoctoral researchers of Klaus-Robert Müller have become full professors themselves. [[Bernhard Schölkopf]] and Alexander J. Smola were supervised by him as members of his research group.<ref>{{cite web |url=https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/der-maschinenlehrer|title=Der Maschinenlehrer |publisher=brand eins|accessdate=2020-11-27|language=de}}</ref>
+
+Since 2020 he is director of the Berlin Institute for the Foundations of Learning and Data (BIFOLD),<ref>{{cite web| url=https://bifold.berlin/bifold-announcement/| title=Official announcement of BIFOLD in Berlin| publisher=Technische Universität Berlin| accessdate=2020-09-22| archive-date=12 October 2020| archive-url=https://web.archive.org/web/20201012152854/https://bifold.berlin/bifold-announcement/| url-status=dead}}</ref> a German National AI Competence Center,<ref>{{cite web |url=https://www.tu.berlin/en/about/profile/press-releases-news/2020/november/milestone-for-berlin-ai-research/ |title=Milestone for AI Research in Berlin  |publisher=TU Berlin |language=de |accessdate=2021-07-30}}</ref> and director of the [[European Laboratory for Learning and Intelligent Systems]] (ELLIS) unit Berlin.<ref>{{cite web| url=https://ellis.eu/units/berlin|title =ELLIS unit Berlin | website = ellis.eu|accessdate=2020-09-22}}</ref>
+
+In 2020/2021 he spent his [[sabbatical]] at [[Google Brain]] as a principal scientist.<ref>{{cite web|url=https://research.google/people/107313/|title=Klaus-Robert Müller|publisher=Google Brain|accessdate=2021-04-08}}</ref>
+
+==Research==
+
+Müller has contributed extensively to several major interests of [[machine learning]], including [[support vector machine]]s (SVMs) and [[kernel method]]s, and [[artificial neural network]]s.<ref name=googlescholar>{{GoogleScholar|jplQac8AAAAJ}}</ref> He pioneered applying new methods of pattern recognition in domains like [[brain–computer interface]]s, using them for patients with [[Locked-in syndrome]]. He is one of the leading computer scientists affiliated with Germany.<ref>{{cite web|url=https://research.com/scientists/DE|title=Ranking for Computer Science in Germany|publisher=Guide 2 Research|accessdate=2021-04-01}}</ref>
+
+His current research interests include:<ref>{{cite web|url=https://bifold.berlin/person/prof-dr-klaus-robert-mueller/|title=Profile and resumé of Klaus-Robert Müller|publisher=BIFOLD|accessdate=2021-04-27|archive-date=15 April 2021|archive-url=https://web.archive.org/web/20210415055412/https://bifold.berlin/person/prof-dr-klaus-robert-mueller/|url-status=dead}}</ref>
+* [[Statistical learning theory]] (Support Vector Machines, [[Deep learning#Deep neural networks|Deep Neural Networks]], [[Boosting (machine learning)|Boosting]])
+* Learning of non-stationarity data
+* Fusion of structured heterogeneous multi-modal data, co-adaptation
+* Applications: MEG, [[Electroencephalography|EEG]], NIRS, [[Electrocorticography|ECoG]], [[Electromyography|EMG]], Brain Computer Interfaces, [[computational neuroscience]], [[computer vision]], genomic data analysis, [[computational chemistry]] and atomistic simulations, [[digital pathology]]
+
+==Honours and awards==
+
+Klaus-Robert Müller was elected a fellow of the [[German National Academy of Sciences Leopoldina]] in 2012.<ref>{{cite web | url=https://www.leopoldina.org/en/members/list-of-members/list-of-members/member/Member/show/klaus-robert-mueller/|title = List of Members  | publisher = Leopoldina|accessdate=2020-10-12}}</ref> In 2017 he was elected member of the [[Berlin-Brandenburg Academy of Sciences and Humanities]]<ref>{{cite web |url=https://www.bbaw.de/die-akademie/bbaw-mitglieder/mitglied-klaus-robert-mueller|title=Klaus-Robert Müller |publisher=[[Berlin-Brandenburg Academy of Sciences and Humanities]]|accessdate=2020-11-20}}</ref> and also external scientific member of the [[Max Planck Society]].<ref>{{cite web |url=https://www.mpi-inf.mpg.de/institute/scientific-members-of-mpg|title=Scientific Members of MPG |publisher=[[Max Planck Society]]|accessdate=2020-11-27}}</ref> In 2021 he was elected member of the [[German Academy of Science and Engineering]].<ref>{{cite web |url=https://en.acatech.de/person/klaus-robert-mueller-technische-universitaet-berlin/ |title=acatech Members |work=acatech - National Academy of Science and Engineering |publisher=National Academy of Science and Engineering |accessdate=2022-02-05 |archive-date=5 February 2022 |archive-url=https://web.archive.org/web/20220205144037/https://en.acatech.de/person/klaus-robert-mueller-technische-universitaet-berlin/ |url-status=dead }}</ref>
+
+His work was honoured with several awards, including:
+* 2026 [[Gottfried Wilhelm Leibniz Prize]]<ref>{{cite web|url=https://www.bifold.berlin/news-events/news/view/news-detail/gottfried-wilhelm-leibniz-prize-awarded-to-klaus-robert-mueller|title=Gottfried Wilhelm Leibniz Prize awarded to Klaus-Robert Müller|publisher=BIFOLD|accessdate=2025-12-11}}</ref><ref>{{cite web|url=https://www.dfg.de/en/funded-projects/prizewinners/leibniz-prize/2026/mueller|title=Prof. Dr. Klaus-Robert Müller – Gottfried Wilhelm Leibniz Prizewinner 2026|publisher=Deutsche Forschungsgemeinschaft e.&nbsp;V|accessdate=2025-12-18}}</ref>
+* 2025 [[IEEE Computational Intelligence Society|IEEE]] Neural Network Pioneer Award<ref>{{cite web|url=https://www.bifold.berlin/news-events/news/view/news-detail/pioneer-award-for-klaus-robert-mueller|title=Pioneer Award for Klaus-Robert Müller|publisher=BIFOLD|accessdate=2025-11-04}}</ref>
+* 2024 [[Feynman Prize in Nanotechnology]]<ref>{{cite web|url=https://foresight.org/wp-content/uploads/2025/01/PRESS-RELEASE-2024-Feynman-Prizes.pdf|title=Foresight Institute Announces 2024 Feynman Prize Winners|publisher=[[Foresight Institute]]|accessdate=2025-01-10}}</ref>
+* 2023 Hector Fellow<ref>{{cite web|url=https://hector-fellow-academy.de/en/research/hector-fellows/klaus-robert-mueller/|title=Hector Fellow: Prof. Dr. Klaus-Robert Müller|publisher=Hector Fellow Academy|accessdate=2024-04-12}}</ref>
+* 2025, 2024, 2023, 2022, 2021, 2020, and 2019 Clarivate [[Highly Cited Researcher]]<ref>{{cite web |url=https://clarivate.com/highly-cited-researchers/|title=Highly Cited Researchers 2024 recipients|date=13 November 2024 |publisher=Clarivate|language=en|accessdate=2025-01-10}}</ref><ref>{{cite web|url=https://bifold.berlin/de/bifold-researchers-are-among-the-most-cited-worldwide/|title=BIFOLD Researchers are Among the Most Cited Worldwide|publisher=BIFOLD|accessdate=2020-11-27|archive-date=23 November 2021|archive-url=https://web.archive.org/web/20211123134043/https://bifold.berlin/de/bifold-researchers-are-among-the-most-cited-worldwide/|url-status=dead}}</ref>
+* 2017 Vodafone Innovations Award 2017<ref>{{cite web | url=https://vodafone-stiftung-fuer-forschung.de/preistraeger/2017/inno.html|title=Preisträger: Innovationspreis 2017 |publisher=Vodafone Stiftung für Forschung|language=de|accessdate=2020-11-23}}</ref>
+* 2014 Science Prize of Berlin 2014 by the Governing Mayor of Berlin<ref>{{cite web|url=https://www.berlin.de/rbmskzl/aktuelles/rathaus-aktuell/2015/meldung.254827.php/|title=Berliner Wissenschaftspreis 2014 geht an Informatiker und Psychologin|date=2015-01-28|access-date=5 October 2016|archive-date=27 January 2017|archive-url=https://web.archive.org/web/20170127062751/https://www.berlin.de/rbmskzl/aktuelles/rathaus-aktuell/2015/meldung.254827.php/|url-status=dead}}</ref>
+* 2014 [[European Research Council]] Panel Consolidator Grants<ref>{{cite web|url=https://erc.europa.eu/sites/default/files/document/file/Panel_Members_Consolidator_Grant_2014.pdf|title=ERC Consolidator Grant Panel 2014}}</ref>
+* 2009 Best Paper award by [[IEEE Engineering in Medicine and Biology Society]] EMBS<ref>{{cite web | url=https://www.embs.org/about-embs/awards-recognition/previous-award-winners/|title=EMBS previous award winners|publisher=IEEE|accessdate=2021-04-03}}</ref>
+* 2006 SEL-ALCATEL Research Prize for Technical Communication
+* 1999 Olympus Award for Pattern Recognition<ref>{{cite web|url=https://www.dagm.de/award-winners/german-pattern-recognition-award/default-title|title=Former Olympus Award Winners|publisher=German Association for Pattern Recognition (DAGM)|accessdate=2021-04-08|archive-date=11 April 2021|archive-url=https://web.archive.org/web/20210411042812/https://www.dagm.de/award-winners/german-pattern-recognition-award/default-title|url-status=dead}}</ref>
+
+== Books ==
+* with {{cite book |editor-last1=Holzinger |editor-first1=Andreas |editor-last2=Goebel |editor-first2=Randy |editor-last3=Fong |editor-first3=Ruth |editor-last4=Moon |editor-first4=Taesup |editor-last5=Müller |editor-first5=Klaus-Robert |editor-last6=Samek |editor-first6=Wojciech |editor5-link=Klaus-Robert Müller |display-editors=1 |date=2022 |title=xxAI – Beyond Explainable Artificial Intelligence |series=Lecture Notes in Computer Science |volume=13200 |publisher=Springer Cham |doi=10.1007/978-3-031-04083-2 |doi-access=free |isbn=978-3-031-04082-5}}
+* with {{cite book |editor-last1=Schütt |editor-first1=Kristof T. |editor-last2=Chmiela |editor-first2=Stefan |editor-last3=von Lilienfeld |editor-first3=O. Anatole |editor-last4=Tkatchenko |editor-first4=Alexandre |editor-last5=Tsuda |editor-first5=Koji |editor-last6=Müller |editor-first6=Klaus-Robert |editor6-link=Klaus-Robert Müller |display-editors=1 |date=2020 |title=Machine Learning Meets Quantum Physics |series=Lecture Notes in Physics |volume=968 |publisher=Springer Cham |doi=10.1007/978-3-030-40245-7 |isbn=978-3-030-40244-0|s2cid=242406994 |url=http://orbilu.uni.lu/handle/10993/45786 }}
+* with {{cite book |editor-last1=Samek |editor-first1=Wojciech |editor-last2=Montavon |editor-first2=Grégoire |editor-last3=Vedaldi |editor-first3=Andrea |editor-last4=Hansen |editor-first4=Lars Kai |editor-last5=Müller |editor-first5=Klaus-Robert |editor5-link=Klaus-Robert Müller |display-editors=1 |date=2019 |title=Explainable AI: Interpreting, Explaining and Visualizing Deep Learning |series=Lecture Notes in Computer Science |volume=11700 |publisher=Springer Cham |doi=10.1007/978-3-030-28954-6 |isbn=978-3-030-28953-9}}
+* with {{cite book |editor-last1=Montavon |editor-first1=Grégoire |editor-last2=Orr |editor-first2=Geneviève B. |editor-last3=Müller |editor-first3=Klaus-Robert |editor3-link=Klaus-Robert Müller |display-editors=1 |date=2012 |title= Neural Networks: Tricks of the Trade  |series=Lecture Notes in Computer Science |volume=7700 |edition=2nd |publisher=Springer Berlin, Heidelberg |doi=10.1007/978-3-642-35289-8 |isbn=978-3-642-35288-1|s2cid=39578794 }}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Google Scholar id}}
+* {{Official website}}
+* [https://www.bifold.berlin/people/prof-dr-klaus-robert-mueller.html Website] at the Berlin Institute for the Foundations of Learning and Data
+
+{{Authority control}}
+
+<!--- Use the DEFAULTSORT magic word to sort this article in all categories --->
+
+{{DEFAULTSORT:Müller, Klaus-Robert}}
+[[Category:German artificial intelligence researchers]]
+[[Category:Machine learning researchers]]
+[[Category:Academic staff of Technische Universität Berlin]]
+[[Category:Academic staff of Korea University]]
+[[Category:German computer scientists]]
+[[Category:21st-century German physicists]]
+[[Category:Karlsruhe Institute of Technology alumni]]
+[[Category:Living people]]
+[[Category:1964 births]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+[[Category:Members of German Academy of Science and Engineering Acatech]]
+[[Category:Gottfried Wilhelm Leibniz Prize winners]]

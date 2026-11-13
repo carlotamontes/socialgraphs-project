@@ -1,0 +1,110 @@
+{{Short description|American theoretical chemist}}
+{{Infobox scientist
+| name              = William Miller
+| birth_name        = William Hughes Miller
+| image             = Professor William Hughes Miller ForMemRS.jpg
+| alt               =
+| caption           = William Miller in 2015, portrait via the [[Royal Society]]
+| birth_date        = {{birth date and age |1941|03|16}}<ref name=quant>{{cite web|url=http://www.iaqms.org/members/miller.php|title=Academy of Quantum Molecular Science biography of William Hughes Miller}}</ref>
+| birth_place       = [[Kosciusko, Mississippi|Kosciusko]], [[Mississippi]], U.S.
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       =
+| resting_place     =
+| other_names       =
+| fields            = [[Theoretical chemistry]], [[chemical dynamics]]
+| workplaces        = [[University of California, Berkeley]]
+| education         = {{Plainlist|
+* [[Georgia Institute of Technology]] {{small|(B.S., 1963)}}
+* [[Harvard University]] {{small|(Ph.D., 1967)}}
+}}
+| thesis_title      =        <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       =         <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Edgar Bright Wilson]]
+| academic_advisors =
+| doctoral_students = {{indented plainlist|
+* [[Barbara J. Garrison]]
+* [[Rigoberto Hernandez]]
+* [[Nancy Makri]]
+* [[Ann Orel]]
+* [[Richard Stratt]]
+* [[Sean Sun]]
+}}
+| notable_students  = '''Post-docs:'''{{indented plainlist|
+* [[Thomas F. George]]
+* [[Daniel Lidar]]
+* [[Neepa Maitra]]
+* [[Martin Quack]]
+* [[Tamar Seideman]]
+* [[Gregory A. Voth]]
+* [[Weitao Yang]]
+}}
+| known_for         = [[Semiclassical physics|Semiclassical]] methods in [[chemical dynamics]]
+| influences        =
+| influenced        =
+| awards            = {{Plainlist|
+* Annual Prize of the [[International Academy of Quantum Molecular Science]] {{small|(1974)}}
+* [[Ernest O. Lawrence Award]] {{small|(1985)}}
+* [[Irving Langmuir Award]] {{small|(1990)}}
+* [[ACS Award in Theoretical Chemistry]] {{small|(1994)}}
+* [[Hirschfelder Prize]] {{small|(1996)}}
+* Ira [[Remsen Award]] {{small|(1997)}}
+* [[Spiers Memorial Prize]] {{small|(1998)}}
+* [[Peter Debye Award]] {{small|(2003)}}
+* [[Welch Award in Chemistry]] {{small|(2007)}}
+* [[Ahmed Zewail Award in Ultrafast Science and Technology|Ahmed Zewail Prize in Molecular Sciences]] {{small|(2011)}}
+* Member of the [[National Academy of Sciences]] {{small|(1987)}}
+* [[Fellow of the Royal Society|ForMemRS]] (2015)<ref name=royal/>}}
+| spouse            = Margaret Ann Westbrook
+| website           = {{URL|http://www.cchem.berkeley.edu/millergrp}}
+| footnotes         =
+}}
+
+'''William Hughes Miller''' (born March 16, 1941, [[Kosciusko, Mississippi]]) is an American [[theoretical chemistry|theoretical chemist]] and [[professor emeritus]] at the [[University of California, Berkeley]].<ref>{{Scopus|id=35459810000}}</ref> He is known for his development of [[semiclassical physics|semiclassical]] methods for treating [[chemical dynamics]], and his contributions have been described as having "essentially defined the field of theoretical chemical dynamics."<ref name=royal/>
+
+== Early life and education ==
+Miller was born in [[Kosciusko, Mississippi]], and grew up in [[Jackson, Mississippi|Jackson]].<ref name=bio>{{cite web|url=https://commons.lbl.gov/spaces/csd/pages/102598333/William+H.+Miller|title=William H. Miller|publisher=Chemical Sciences Division, Berkeley Lab}}</ref> He received a [[Bachelor of Science]] in chemistry from the [[Georgia Institute of Technology]] in 1963.<ref name=bio/> He then entered [[Harvard University]] for graduate studies in [[chemical physics]], working under the supervision of [[Edgar Bright Wilson]].<ref name=auto>{{Cite journal| author1 = William H. Miller| authorlink1 = William H. Miller (chemistry) | doi = 10.1021/jp0101920| title = Autobiographical Sketch of William Hughes Miller| journal = The Journal of Physical Chemistry A| volume = 105| issue = 12| url = http://www.cchem.berkeley.edu/millergrp/pdf/331.pdf| pages = 2487–2489| year = 2001| doi-access = free}}</ref> He received his [[Doctor of Philosophy|Ph.D.]] in 1967.<ref name=bio/>
+
+== Career ==
+From 1967 to 1969, Miller was a [[Harvard Society of Fellows|Junior Fellow in Harvard's Society of Fellows]], during which he also spent a year as a [[NATO]] postdoctoral fellow at the Physikalisches Institut of the [[University of Freiburg]] in Germany.<ref name=bio/><ref name=royalsoc>{{cite web|url=https://royalsociety.org/people/william-miller-11962/|title=Professor William Miller FRS|publisher=[[Royal Society]]}}</ref> He joined the chemistry department at the [[University of California, Berkeley]], as an assistant professor in 1969 and became a full professor in 1974.<ref name=bio/> He served as department chairman from 1989 to 1993, and in 1999 was named the [[Kenneth S. Pitzer]] Distinguished Professor of Chemistry.<ref name=bio/>
+
+== Research ==
+Miller's research has addressed a broad range of topics in molecular [[collision theory]] and [[chemical reaction]] dynamics.<ref name=bio/> His major contributions include the development of a comprehensive semiclassical (classical [[S-matrix]]) theory of atomic and molecular collisions, which revealed the physical origins of quantum effects such as interference, tunnelling, and "rainbows" in product state distributions.<ref name=quant/> Within this framework, the first example of [[chaotic scattering]] was identified and analysed.<ref name=quant/>
+
+He developed a widely used formulation of [[quantum mechanical]] reactive [[scattering theory]] for chemical reactions, including the S-matrix version of the [[Walter Kohn|Kohn]] [[variational principle]].<ref name=quant/><ref>{{Cite journal | doi = 10.1063/1.462100| title = A novel discrete variable representation for quantum mechanical reactive scattering via the S-matrix Kohn method| journal = The Journal of Chemical Physics| volume = 96| issue = 3| pages = 1982| year = 1992| last1 = Colbert | first1 = D. T. | last2 = Miller | first2 = W. H. | bibcode = 1992JChPh..96.1982C| url = https://zenodo.org/record/1232097}}</ref> Other major contributions include a theory of electronically non-[[adiabatic]] processes and a semiclassical "[[instanton]]" theory of deep [[quantum tunnelling]].<ref name=royal/>
+
+For more complex molecular systems, Miller's group pursued the use of the semiclassical initial value representation (SC-IVR) as a way to incorporate quantum effects—such as interference, tunnelling, [[zero-point energy]], and [[identical particles|identical particle symmetry]]—into [[molecular dynamics|classical molecular dynamics]] simulations.<ref name=berkeley>{{cite web|url=https://chemistry.berkeley.edu/people/william-miller|title=William H. Miller|publisher=College of Chemistry, University of California, Berkeley}}</ref>
+
+== Awards and honours ==
+Miller has received numerous awards, including the Annual Prize of the [[International Academy of Quantum Molecular Science]] (1974), the [[Ernest O. Lawrence Award]] (1985), the [[Irving Langmuir Award]] in Chemical Physics (1990), the [[ACS Award in Theoretical Chemistry]] (1994), the [[Hirschfelder Prize]] in Theoretical Chemistry (1996), the Ira [[Remsen Award]] (1997), the [[Spiers Memorial Prize|Spiers Medal]] of the [[Royal Society of Chemistry]] (1998), the [[Peter Debye Award]] in Physical Chemistry (2003), the [[Welch Award in Chemistry]] (2007), the Herschbach Award in Molecular Dynamics (2007), and the Ahmed Zewail Prize in Molecular Sciences (2011).<ref name=quant/><ref name=royalsoc/>
+
+Earlier in his career, he held an [[Alfred P. Sloan Foundation|Alfred P. Sloan Research Fellowship]] (1970–1972) and was a [[Camille and Henry Dreyfus Foundation|Camille and Henry Dreyfus Teacher-Scholar]] (1973–1979).<ref name=berkeley/> He was also an Overseas Fellow of [[Churchill College, Cambridge]] (1975–1976), a recipient of the [[Alexander von Humboldt Foundation|Alexander von Humboldt Senior Scientist Award]] (1981–1982), and a Christensen Fellow of [[St Catharine's College, Cambridge|St Catharine's College, Oxford]] (1993).<ref name=quant/>
+
+Miller was elected to the [[United States National Academy of Sciences|National Academy of Sciences]] in 1987 and became a Fellow of the [[American Academy of Arts and Sciences]] in 1993.<ref name=royalsoc/> In 2011, he was elected to the [[German Academy of Sciences Leopoldina]].<ref>{{cite web |title= William Hughes Miller |url=https://www.leopoldina.org/mitgliederverzeichnis/mitglieder/member/Member/show/william-h-miller/|publisher=German Academy of Sciences Leopoldina |access-date=26 May 2021}}</ref> He is also a member of the [[International Academy of Quantum Molecular Science]].<ref name=quant/>
+
+Miller was elected a [[Foreign Member of the Royal Society]] (ForMemRS) in 2015. His nomination reads:
+
+{{quote|Professor Miller's papers over the last 45 years have essentially defined the field of theoretical chemical dynamics. His seminal contributions include a comprehensive semi-classical theory of atomic and molecular collisions, an elegant theory of electronically non-adiabatic processes in which the nuclear and electronic motions are treated on an equal footing, a highly accurate semi-classical "instanton" theory of deep quantum tunnelling events, and the definitive exact quantum mechanical theory of chemical reaction rates. These fundamental developments are at the root of the agreement between theory and experiment that we are now accustomed to seeing in chemical reaction dynamics, and the basis of essentially all modern theoretical research in the area.<ref name=royal>{{cite web|url=https://royalsociety.org/people/fellowship/2015/william-miller/|archiveurl=https://web.archive.org/web/20150502204513/https://royalsociety.org/people/fellowship/2015/william-miller/|archivedate=2015-05-02|title=Professor William H Miller ForMemRS|publisher=Royal Society|location=London}}</ref>}}
+
+== References ==
+{{reflist}}
+
+{{FRS 2015}}
+{{Authority control}}
+
+{{DEFAULTSORT:Miller, William Hughes}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:American theoretical chemists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:UC Berkeley College of Chemistry faculty]]
+[[Category:Foreign members of the Royal Society]]
+[[Category:Harvard University alumni]]
+[[Category:Georgia Tech alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+[[Category:People from Kosciusko, Mississippi]]
+[[Category:People from Jackson, Mississippi]]
+[[Category:Sloan Research Fellows]]

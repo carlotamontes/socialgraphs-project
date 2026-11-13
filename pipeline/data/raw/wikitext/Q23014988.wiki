@@ -1,0 +1,50 @@
+{{Short description|British-Canadian scientist and software developer}}
+{{Infobox person
+| name               = Peter R. Jennings
+| birth_date         = {{Birth year and age|1950}}
+| birth_place        = [[Bedford]], [[England]], [[United Kingdom]]
+| education          = {{Plainlist|
+* SUNY Stony Brook University <small>(MA in physics)</small>
+* [[McMaster University]] <small>(MBA)</small>
+}}
+| years_active       = 1970–present
+| known_for          = MicroChess
+| notable_works      = {{Plainlist|
+* MicroChess
+* ChessMate
+* [[VisiCorp]]
+}}
+}}
+
+'''Peter R. Jennings''' (born 1950) is a British-Canadian [[physicist]], scientist, inventor, [[software developer]], [[Chess programming|computer chess programmer]], and [[Entrepreneurship|entrepreneur]]. He is most notable for creating [[Microchess|''MicroChess'']], the first [[microcomputer]] game to be sold commercially.<ref>{{Cite web|title = 6502.org: Source: MicroChess|url = http://6502.org/source/games/uchess/uchess.htm|website = 6502.org|access-date = 2016-01-29}}</ref>
+
+==Biography==
+=== Early life ===
+Peter Jennings was born in [[Bedford]], [[England]], in 1950. In the 1960s his family moved to [[Ontario]], [[Canada]].<ref name=":0">{{Cite web|title = Peter Jennings|url = https://www.benlo.com/peterjennings.html|website = www.benlo.com|access-date = 2016-01-29|last = VE3SUN}}</ref> He received his Master of Arts (MA) degree in physics from [[SUNY]] [[Stony Brook University]] in 1972 and his Master of Business Administration (MBA) in finance and marketing from [[McMaster University]] in 1974.<ref name=":0" />
+
+=== ''MicroChess'' and ChessMate ===
+Jennings developed ''[[MicroChess]]'' shortly after leaving graduate school in New York. It was the first software to ever sell over 10,000 copies.<ref>{{Cite web|title = We've mentioned Peter Jennings' ground-breaking Microchess before - the first…|url = https://plus.google.com/108984290462000253857/posts/4ayN7Mr4J1L|website = plus.google.com|access-date = 2016-01-29}}</ref> The code was sold on paper and users had to manually enter the program using a keyboard.<ref name=":1">{{Cite web|title = Computer History Museum - Chess For Everyone - Early Microcomputer Chess|url = http://www.computerhistory.org/chess/main.php?sec=thm-42f15c9b2be73&sel=thm-42f15cab2be73|website = www.computerhistory.org|access-date = 2016-01-29}}</ref>
+
+The program was later available on [[Apple II]], [[TRS-80]], [[Commodore PET]], and [[Atari 8-bit computers]], where it sold millions of copies.<ref name=":1" /><ref>{{Cite web|title = IT History Society|url = http://www.ithistory.org/honor_roll/fame-detail.php?recordID=1598|website = www.ithistory.org|access-date = 2016-01-29|first = Mad Dog Productions|last = (www.maddogproductions.com/creative)|archive-url = https://web.archive.org/web/20131004081939/http://ithistory.org/honor_roll/fame-detail.php?recordID=1598|archive-date = 2013-10-04|url-status = dead}}</ref><ref name=":23">{{Citation |title=Chess (Tandy Radio Shack Color Computer) (1980) |date=1980-01-01 |url=https://archive.org/details/Chess_1980_Tandy_26-3050 |accessdate=2016-01-29}}</ref><ref>{{Cite web |title=Scisys and Novag : The Early Years |url=http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html |access-date=2016-01-29 |website=www.chesscomputeruk.com}}</ref> Jennings also developed the first model of the ChessMate while working for [[Commodore International|Commodore]] in 1977.<ref>{{Cite web |title=Secret Weapons of Commodore: The Commodore CHESSmate |url=https://www.floodgap.com/retrobits/ckb/secret/chess.html |access-date=2016-01-29 |website=www.floodgap.com}}</ref>[[File:Commodore Chessmate.jpg|alt=The Commodore ChessMate, developed by Peter R Jennings in 1977.|thumb|The Commodore ChessMate, developed by Peter R. Jennings in 1977]]
+
+=== Later years ===
+In 1976, along with [[Dan Fylstra]], Jennings co-founded the corporation Personal Software, which later became [[VisiCorp]]. Proceeds from ''MicroChess'' sales helped finance the development of [[VisiCalc]], the first-ever spreadsheet program.<ref>{{Cite web|title = A brief history of computer chess|url = https://www.torontosun.com/2015/04/02/a-brief-history-of-computer-chess|website = Toronto Sun|access-date = 2016-01-29|first = Syd|last = Bolton}}</ref><ref name=":2">{{Citation |title=Chess (Tandy Radio Shack Color Computer) (1980) |date=1980-01-01 |url=https://archive.org/details/Chess_1980_Tandy_26-3050 |accessdate=2016-01-29}}</ref><ref>{{Cite book|title = Embedded Engineering Education|url = https://books.google.com/books?id=yM1sCwAAQBAJ|publisher = Springer|date = 2016-01-19|isbn = 9783319275406|language = en|first = Roman|last = Szewczyk|first2 = Ivan|last2 = Kaštelan|first3 = Miodrag|last3 = Temerinac|first4 = Moshe|last4 = Barak|first5 = Vlado|last5 = Sruk}}</ref>
+
+== Publications ==
+* January 1978: "The Second World Computer Chess Championships". ''BYTE''. p.&nbsp;108.
+* March 1978: "Microchess 1.5 vs. Dark Horse". ''BYTE''. p.&nbsp;166.
+* 1979: "Revolution in Personal Computing". ''Wharton Magazine''.<ref>{{Cite journal |last=Jennings |first=Peter R |date=1979 |title=A Revolution in Personal Computing |url=https://benlo.com/img/Wharton1979 |journal=Wharton Magazine}}</ref>
+* No date: "A Good, Long Read (for 18 Years)". ''Foundation RISC User Online''. RISCOS Ltd.
+
+== References ==
+{{reflist|2}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Jennings, Peter R}}
+[[Category:Canadian businesspeople]]
+[[Category:Canadian inventors]]
+[[Category:Canadian physicists]]
+[[Category:Computer chess people]]
+[[Category:Living people]]
+[[Category:1950 births]]

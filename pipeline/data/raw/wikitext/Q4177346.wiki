@@ -1,0 +1,105 @@
+{{Short description|American physicist (1922–2009)}}
+{{Infobox academic
+| name           = Oleg Jefimenko
+| birth_date     = October 14, 1922
+| birth_place    = [[Kharkiv]], Ukrainian SSR
+| death_date     = May 14, 2009
+| death_place    = [[Morgantown, West Virginia|Morgantown]], United States
+| known_for      = [[Jefimenko's equations]]
+| education      = {{ubil| Lewis and Clark College (B.A. 1952) | University of Oregon (M.Sc. 1954, Ph.D. 1956) }}
+| discipline     = Physics
+| sub_discipline = {{ubil| Electromagnetism | Gravitation }}
+| institutions   = West Virginia University
+}}
+'''Oleg Dmitrovich Jefimenko''' (October 14, 1922, [[Kharkiv]], [[Ukrainian SSR]] – May 14, 2009, [[Morgantown, West Virginia|Morgantown]], [[West Virginia]], United States){{efn|{{langx|uk|Олег Дмитрович Єфименко|translit=Oleh Dmytrovych Yefymenko}}; {{langx|ru|Олег Дмитриевич Ефименко}}}} was a [[physicist]] and [[professor emeritus]] at [[West Virginia University]], best known for his work on the [[Jefimenko's equations]].
+
+==Biography==
+Jefimenko received his [[bachelor's degree]] at [[Lewis and Clark College]] in 1952 and his [[master's degree]] at the [[University of Oregon]] in 1954. He received his [[Doctor of Philosophy|Ph.D.]] at the [[University of Oregon]] in 1956. Jefimenko worked for the development of the theory of electromagnetic retardation and relativity. In 1956, he was awarded the [[Sigma Xi]] Prize. In 1971 and 1973, he won awards in the [[American Association of Physics Teachers|AAPT]] Apparatus Competition. Jefimenko constructed and operated electrostatic generators run by [[atmospheric electricity]].
+
+Jefimenko worked on the generalization of [[Newton's theory of gravitation|Newton's gravitational theory]] to [[Time-dependent density functional theory|time-dependent system]]s. In his opinion, there is no objective reason for abandoning Newton's [[Field (physics)|force-field]] gravitational theory (in favor of a [[General relativity|metric gravitational theory]]). He was trying to develop and expand Newton's theory, making it compatible with the [[Causality (physics)|principle of causality]] and making it applicable to time-dependent gravitational interactions.
+
+Jefimenko's expansion, or generalization, is based on the existence of the second gravitational force field, the "[[cogravitational field|cogravitation]]al, or [[Heaviside's field]]".<ref>{{cite book|author=de Climont, Jean|title=The Worldwide List of Alternative Theories and Critics|year=2018|page=1008|publisher=Editions d Assailly |url=https://books.google.com/books?id=KnzBDjnGIgYC&pg=PA1008|isbn=9782902425174}}</ref> This might also be called a [[Gravitomagnetism|gravimagnetic field]]. It represents a physical approach profoundly different from the time-space geometry approach of Einstein's [[general theory of relativity]]. [[Oliver Heaviside]] first predicted this field in the article ''A Gravitational and Electromagnetic Analogy'' (1893).
+
+==Electromagnetic analogy of gravitational and cogravitational fields==
+Jefimenko suggests that electromagnetic equations can be converted to their gravitational-cogravitational equivalent by replacing electromagnetic symbols and constants with their corresponding gravitational-cogravitational symbols and constants,{{Sfnp|Jefimenko|2006|p=129}} given in the table below.
+
+{| border="1" class="wikitable"
+|+ Corresponding symbols and constants
+! Electric
+! Gravitational
+|-
+| {{Math|''q''}} (charge) || {{Math|''m''}} (mass)
+|-
+| {{Math|''&rho;''}} (volume charge density) || {{Math|''&rho;''}} (volume mass density)
+|-
+| {{Math|''&sigma;''}} (surface charge density) || {{Math|''&sigma;''}} (surface mass density)
+|-
+| {{Math|''&lambda;''}} (line charge density) || {{Math|''&lambda;''}} (line mass density)
+|-
+| {{Math|''&phi;''}} (scalar potential) || {{Math|''&phi;''}} (scalar potential)
+|-
+| {{Math|'''A'''}} (vector potential) || {{Math|'''A'''}} (vector potential)
+|-
+| {{Math|'''J'''}} (convection current density) || {{Math|'''J'''}} (mass-current density)
+|-
+| {{Math|''I''}} (electric current) || {{Math|''I''}} (mass current)
+|-
+| {{Math|'''m'''}} (magnetic dipole moment) || {{Math|'''d'''}} (cogravitational moment)
+|-
+| {{Math|'''E'''}} (electric field) || {{Math|'''g'''}} (gravitational field)
+|-
+| {{Math|'''B'''}} (magnetic field) || {{Math|'''K'''}} (cogravitational field)
+|-
+| {{Math|''&epsilon;''<sub>0</sub>}} (permittivity of space) || <math>-\tfrac{1}{4\pi G}</math>
+|-
+| {{Math|''&mu;''<sub>0</sub>}} (permeability of space) || <math>-\tfrac{4\pi G}{c^2}</math>
+|-
+| <math>-\tfrac{1}{4\pi\varepsilon_0}</math> or <math>-\tfrac{\mu_0 c^2}{4\pi}</math> || {{Math|''G''}} (gravitational constant)
+|}
+
+==Generalized theory of gravitation==
+{{Technical|section|date=November 2020}}
+Jefimenko posits the following generalized theory of gravitation.{{Sfnp|Jefimenko|2006|p=13}}
+
+<math>\begin{align}
+& \mathbf{g} = -G \int \left[\dfrac{[\rho]}{r^3} + \dfrac{1}{r^2c}\left[\dfrac{\partial \rho}{\partial t}\right]\right]\mathbf(r)dV' + \dfrac{G}{c^2} \int\dfrac{1}{r}\left[\dfrac{\partial(\rho\mathbf{v})}{\partial t}\right]dV',\\
+& \mathbf{K} = -\dfrac{G}{c^2} \int \left[\dfrac{[\rho\mathbf{v}]}{r^3} + \dfrac{1}{r^2c}\dfrac{\partial[\rho\mathbf{v}]}{\partial t}\right] \times \mathbf{r}dV',
+\end{align}</math>
+
+==Selected publications==
+===Books===
+* {{Citation |last=Jefimenko |first=Oleg |date=2006 |title=Gravitation and Cogravitation: Developing Newton's Theory of Gravitation to its Physical and Mathematical Conclusion |location=Star City|publisher=Electret Scientific Company |isbn=0-917406-15-X}}
+* ''Electromagnetic Retardation and Theory of Relativity: New Chapters in the Classical Theory of Fields'', 2nd ed., Electret Scientific, Star City, 2004.
+* ''Causality, Electromagnetic Induction, and Gravitation: A Different Approach to the Theory of Electromagnetic and Gravitational Fields'', 2nd ed., Electret Scientific, Star City, 2000.
+* ''Electricity and Magnetism: An Introduction to the Theory of Electric and Magnetic Fields'', 2nd ed., Electret Scientific, Star City, 1989.
+* ''Scientific Graphics with Lotus 1-2-3: Curve Plotting, 3D Graphics, and Pictorial Compositions''. Electret Scientific, Star City, 1987.
+* ''30 Music Programs for Timex Sinclair 2068''. Electret Scientific, Star City, 1985.
+* ''Electrostatic motors; their history, types, and principles of operation''. Star City [W. Va.], Electret Scientific Co. [1973]. LCCN 73180890
+* ''Electrostatic motors; their history, types, and principles of operation; NEW REVISED EDITION, edited by Thomas Valone''. Integrity Research Institute, Beltsville, MD [2011].
+
+==See also==
+* [[Electret]]
+* [[Electrostatic generator]]
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.as.wvu.edu/phys/OJ/jefimenk.html Oleg D. Jefimenko]. Dept of physics.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jefimenko, Oleg D.}}
+[[Category:1922 births]]
+[[Category:2009 deaths]]
+[[Category:Scientists from Kharkiv]]
+[[Category:20th-century American physicists]]
+[[Category:Lewis & Clark College alumni]]
+[[Category:University of Oregon alumni]]
+[[Category:Soviet emigrants to the United States]]
+[[Category:Scientists from Morgantown, West Virginia]]
+[[Category:West Virginia University faculty]]
+[[Category:People from Star City, West Virginia]]

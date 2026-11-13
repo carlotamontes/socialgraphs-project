@@ -1,0 +1,63 @@
+{{Short description|American physicist (1925–2020)}}
+{{Infobox scientist
+| name             = Berni Julian Alder
+| image            = Berni_Alder.jpg
+| birth_date       = {{birth date|1925|9|9}}<ref>{{cite book|editor1-last=Sleezman|editor1-first=Elizabeth|title=The International Who's Who 2004|date=2004|publisher=Europa Publications|location=England|isbn=1857432177|page=[https://archive.org/details/internationalwho2004ond/page/26 26]|url=https://archive.org/details/internationalwho2004ond/page/26}}</ref>
+| birth_place      = [[Duisburg]], [[Free State of Prussia|Prussia]]
+| death_date       = {{death date and age|2020|9|7|1925|9|9}}<ref name=obit>[https://www.legacy.com/obituaries/sfgate/obituary.aspx?n=berni-alder&pid=196783721 Berni Alder obituary]</ref>
+| death_place      = [[El Cerrito, California]], US<ref>{{Cite web |title=Berni Alder Obituary (2020) - El Cerrito, CA - San Francisco Chronicle |url=https://www.legacy.com/us/obituaries/sfgate/name/berni-alder-obituary?id=2125189 |website=Legacy.com}}</ref>
+| field            = [[Statistical mechanics]]
+| known_for        = [[molecular dynamics|Molecular dynamics simulation]]
+| education        = {{ubl|[[University of California, Berkeley]]|[[California Institute of Technology]]}}
+| thesis_title     = The Radial Distribution Function and the Thermodynamic Properties of Monatomic Liquids
+| thesis_year      = 1952
+| thesis_url       = https://resolver.caltech.edu/CaltechTHESIS:10032017-141351791
+| doctoral_advisor = [[John Gamble Kirkwood]]
+| workplaces       = {{ubl|[[University of California, Berkeley]]|[[Lawrence Livermore National Laboratory|Lawrence Livermore Laboratory]]|[[University of California, Davis]]}}
+| awards           = {{ubl|[[Boltzmann Medal]] (2001)|{{nowrap|[[National Medal of Science]] (2009)}}}}
+| footnotes        = 
+}}
+'''Berni Julian Alder''' (September 9, 1925 – September 7, 2020) was a German-born American [[physicist]] specialized in [[statistical mechanics]], and a pioneer of computational modelling of matter.<ref>{{Cite journal|last=Ceperley|first=David|date=2020-10-08|title=Berni Alder (1925–2020)|journal=Nature|language=en|volume=586|issue=7829|pages=356|doi=10.1038/d41586-020-02858-5|bibcode=2020Natur.586..356C|doi-access=}}</ref><ref>{{Cite journal |last1=Battimelli |first1=Giovanni |last2=Ciccotti |first2=Giovanni |date=2018 |title=Berni Alder and the pioneering times of molecular simulation |url=http://link.springer.com/10.1140/epjh/e2018-90027-5 |journal=The European Physical Journal H |language=en |volume=43 |issue=3 |pages=303–335 |doi=10.1140/epjh/e2018-90027-5 |bibcode=2018EPJH...43..303B |issn=2102-6459|url-access=subscription }}</ref><ref name=pnas>{{Cite journal |last1=Ceperley |first1=David M. |last2=Libby |first2=Stephen B. |date=2021-03-16 |title=Berni Julian Alder, theoretical physicist and inventor of molecular dynamics, 1925–2020 |journal=Proceedings of the National Academy of Sciences |language=en |volume=118 |issue=11 |doi=10.1073/pnas.2024252118 |doi-access=free |issn=0027-8424 |pmc=7980442 |pmid=33622799|bibcode=2021PNAS..11824252C }}</ref>
+
+== Biography ==
+Alder was born in [[Duisburg]], Prussia, in September 1925, to Jewish parents, a [[chemist]] and a homemaker.<ref name=AldInt>{{cite web|title=Interview with Berni J. Alder|url=https://www.cecam.org/storage/app/media/Berni_Alder_Interview.pdf|publisher=CECAM|access-date=10 October 2022}}</ref> After the [[Nazi]]s came to power, the family moved to [[Zurich]], Switzerland. Fearing an invasion by Nazi Germany after the outbreak of [[World War II]], the family applied for a visa to the United States, which was granted in 1941.<ref name=AldInt /> They left by sealed train from neutral Switzerland to (formally neutral) Spain, then to Portugal, where they took a ship to the US.<ref name=AldInt /> Following a stint in the US Navy after US entry into the war, he obtained a BSc in chemistry from the [[University of California, Berkeley]] and a master's degree in chemical engineering from the same institution in 1947. He went to the [[California Institute of Technology]]<ref name=AldInt /> to study under [[John Gamble Kirkwood]] for his PhD in 1948 and worked for the investigation of phase transitions in hard-sphere gas with [[Stan Frankel]], where he got the idea to use the [[Monte Carlo method]].
+
+After he finished at Caltech in 1952, Alder went to Berkeley and worked part-time at Berkeley to teach chemistry and part-time as a consultant under the suggestion of [[Edward Teller]] in the nuclear weapons program for the [[Lawrence Livermore National Laboratory]] to help with the equations of state. In collaboration with Thomas Everett Wainwright, and [[Mary Ann Mansigh]], he developed techniques for [[molecular dynamics|molecular dynamics simulation]] in the mid-1950s,<ref>{{Cite journal |last1=Alder |first1=B. J. |last2=Wainwright |first2=T. E. |date=1959-08-01 |title=Studies in Molecular Dynamics. I. General Method |url=https://pubs.aip.org/jcp/article/31/2/459/1031509/Studies-in-Molecular-Dynamics-I-General-Method |journal=The Journal of Chemical Physics |language=en |volume=31 |issue=2 |pages=459–466 |doi=10.1063/1.1730376 |bibcode=1959JChPh..31..459A |issn=0021-9606|url-access=subscription }}</ref> including the liquid-solid phase transition for hard sphere<ref>{{Cite journal |last1=Alder |first1=B. J. |last2=Wainwright |first2=T. E. |date=1957-11-01 |title=Phase Transition for a Hard Sphere System |url=https://pubs.aip.org/jcp/article/27/5/1208/204728/Phase-Transition-for-a-Hard-Sphere-System |journal=The Journal of Chemical Physics |language=en |volume=27 |issue=5 |pages=1208–1209 |doi=10.1063/1.1743957 |bibcode=1957JChPh..27.1208A |issn=0021-9606|url-access=subscription }}</ref> and the velocity autocorrelations function decay in liquids.<ref>{{Cite journal |last1=Alder |first1=B. J. |last2=Wainwright |first2=T. E. |date=1962-07-15 |title=Phase Transition in Elastic Disks |url=https://link.aps.org/doi/10.1103/PhysRev.127.359 |journal=Physical Review |language=en |volume=127 |issue=2 |pages=359–361 |doi=10.1103/PhysRev.127.359 |bibcode=1962PhRv..127..359A |osti=4798469 |issn=0031-899X|url-access=subscription }}</ref><ref>{{Cite journal |last1=Alder |first1=B. J. |last2=Wainwright |first2=T. E. |date=1970-01-01 |title=Decay of the Velocity Autocorrelation Function |url=https://link.aps.org/doi/10.1103/PhysRevA.1.18 |journal=Physical Review A |language=en |volume=1 |issue=1 |pages=18–21 |doi=10.1103/PhysRevA.1.18 |bibcode=1970PhRvA...1...18A |issn=0556-2791|url-access=subscription }}</ref>
+
+Alder, along with Teller, was one of the founders of the [[Department of Applied Science, UC Davis|Department of Applied Science]] in 1963.<ref>{{cite news|url=http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_action=doc&p_topdoc=1&p_docnum=1&p_sort=YMD_date:D&p_product=AWNB&p_text_direct-0=document_id=%28%2012AE42292B98A118%20%29&p_docid=12AE42292B98A118&p_theme=aggdocs&p_queryname=12AE42292B98A118&f_openurl=yes&p_nbid=B4FR45HDMTM1NzkxNzIwNi45OTgyMTk6MToxMzoxOTIuMTYwLjIxNi4w&&p_multi=DVEB|title=UCD professor emeritus to receive National Medal of Science at White House next month|date=September 22, 2009|publisher=Davis Enterprise|access-date=January 13, 2013}}</ref>  He was a professor of applied science at the [[University of California, Davis]], and later professor emeritus.
+
+Alder died on September 7, 2020, of [[heart failure]].<ref name=obit />
+
+== Honors ==
+In 2001, he was awarded the [[Boltzmann Medal]] for inventing technique of molecular dynamics simulation. Alder was elected a Fellow of the [[American Academy of Arts and Sciences]] in 2008.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=14 April 2011}}</ref> In 2009, he was awarded the [[National Medal of Science]].<ref>{{Cite web |url=http://newsline.llnl.gov/_rev02/articles/2009/sep/09.18.09-alder.php |title=Berni Alder receives National Medal of Science |publisher=Lawrence Livermore National Laboratory |date=2009-09-18 |access-date=2010-02-12 |url-status=dead |archive-url=https://web.archive.org/web/20100527214921/https://newsline.llnl.gov/_rev02/articles/2009/sep/09.18.09-alder.php |archive-date=2010-05-27}}</ref> Alder was a [[Guggenheim Fellowship|Guggenheim Fellow]]. He was the editor of the book series Methods in Computational Physics and the founder of the magazine Computing.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.computer-history.info/Page1.dir/pages/Alder.html An Interview with Bernie Alder by George Michael, Stories of the Development of Large Scale Scientific Computing at Lawrence Livermore National Laboratory]
+* [https://web.archive.org/web/20160413061042/http://www.cecam.org/bja_prize.html Berni J. Alder CECAM Prize]
+* [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/30662 Oral History interview transcript for Berni Alder on 18 June 1990, American Institute of Physics, Niels Bohr Library and Archives]
+{{Winners of the National Medal of Science|physical}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alder, Berni}}
+[[Category:1925 births]]
+[[Category:2020 deaths]]
+[[Category:21st-century American physicists]]
+[[Category:American people of German-Jewish descent]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Jewish emigrants from Nazi Germany to the United States]]
+[[Category:Emigrants from Nazi Germany to the United States]]
+[[Category:Lawrence Livermore National Laboratory staff]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:National Medal of Science laureates]]
+[[Category:Scientific computing researchers]]
+[[Category:UC Berkeley College of Chemistry alumni]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:University of California, Davis faculty]]
+[[Category:German emigrants to Switzerland]]
+[[Category:Recipients of the Boltzmann Medal]]

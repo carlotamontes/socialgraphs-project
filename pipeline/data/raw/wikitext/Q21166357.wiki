@@ -1,0 +1,75 @@
+{{short description|British physicist}}
+{{distinguish|Frank Reade|Frank Reid (disambiguation)}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = Frank Henry Read
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date and age|1934|10|06|df=y}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| known_for = 
+| nationality       = 
+| fields            =   {{plainlist |
+* [[atomic physics]]
+  }}
+| workplaces        = {{Plainlist|
+* [[University of Manchester]]
+}}
+|education   =   {{Plainlist|
+* [[University of London]] (BSc)<ref>[http://www.debretts.com/people-of-today/profile/24726/Frank-Henry-READ Prof Frank Read, FRS Authorised Biography], retrieved 2016-03-14.</ref>
+* [[University of Manchester]] (PhD)
+}}
+|awards =  {{Plainlist|
+* [[Fellow of the Royal Society|FRS]] {{small|(1984)}}
+* [[Holweck Prize]] {{small|(2000)}}
+}}
+| doctoral_advisor  = 
+| website = 
+}}
+'''Frank Henry Read''' {{post-nominals|size=100%|country=GBR|FRS|FInstP}} (born 6 October 1934) is a British physicist. He is an Emeritus Professor of Physics at the [[University of Manchester]].<ref name="FRS" />
+
+== Research ==
+Read is known for his experimental studies of [[electron]] collisions with [[atom]]s and [[molecule]]s, for associated work in [[Scientific instrument|instrument]] design, and for theoretical work on the interpretation of the experimental results. He made advances in the study of [[threshold effect (physics)|threshold effects]] in electron collisions, and of post-collision interactions in the near-threshold [[Excited state|excitation]] of [[Resonance (particle physics)|resonance states]].
+
+His studies of the influence of molecular [[rotation]] and [[vibration]] on the angular distribution of [[Electron scattering|scattered electrons]] enabled him to deduce the [[electronic configuration]]s of short-lived molecular negative [[ion]] states. He also used the technique of [[delayed coincidence]]s between electrons and [[photon]]s for the precision measurements of [[Mean lifetime|lifetimes]] for atomic and molecular states.<ref name="FRS" />
+
+== CPO ==
+Professor Frank H. Read's software venture, CPO, was established to compute electron trajectories using a tailored boundary‑element method (BEM) for charged‑particle optics.
+
+Read founded Manchester University's Electron Scattering Group in 1961, drawing on his PhD in experimental nuclear physics. He redirected his expertise to atomic and electron optics, applying computational techniques to aperture lenses where traditional finite‑element methods failed—especially near sharp edges. In response, he developed a surface‑charge approach, later formally identified as a form of BEM, which significantly improved accuracy in modelling electrostatic lens systems<ref>{{Cite journal |last1=Read |first1=F. H. |last2=Bowring |first2=N. J. |date=2011 |title=The CPO programs and the BEM for charged particle optics |url=https://www.sciencedirect.com/science/article/abs/pii/S0168900210029657 |journal=Nuclear Instruments and Methods in Physics Research Section A |volume=645 |issue=1 |pages=273–277 |doi=10.1016/j.nima.2010.12.163|url-access=subscription }}</ref> (#2 cited > 500×).
+
+Under Read's leadership, the group expanded into charged‑particle optics, producing about 70 peer‑reviewed publications, including a flagship paper with over 500<ref name=":0" /> citations, delivering numerous invited lectures and securing multiple patents.
+
+Commercialisation began in 1993 when Read partnered with Nicholas J. Bowring to develop user interfaces. This collaboration grew into CPO Ltd in 2000. The resulting CPO programs (CPO‑2D and CPO‑3D) implemented the BEM in both two‑ and three‑dimensional simulations. Benchmark studies demonstrated that CPO delivers two orders of magnitude greater accuracy or speed for comparable accuracy compared to traditional methods. The software is widely regarded as the gold standard in low‑energy charged‑particle optics<ref>{{Cite journal |date=2015 |title=Achieving the highest accuracy with the BEM |url=https://electronoptics.com/application-help/Help%20for%20CPO%20Programs.html |journal=Microscopy and Microanalysis |type=Supplement |publisher=Cambridge University Press |volume=21 |issue=S4 |pages=182–187 |access-date=2025-07-17}}</ref><ref>{{Cite web |date=2014 |title=CPO software package for designing charged-particle optical systems |url=https://research.manchester.ac.uk/en/impacts/cpo-software-package-for-designing-charged-particle-optical-syste |access-date=2025-07-17 |website=University of Manchester Research Explorer |publisher=University of Manchester}}</ref>
+
+== Books ==
+* [https://books.google.com/books?id=ZLbvAAAAMAAJ Electrostatic lenses] (1976)
+* [https://books.google.com/books?id=ZrAPAQAAMAAJ Electromagnetic radiation] (1980)
+
+== Awards and honours ==
+Read was elected a [[List of fellows of the Royal Society elected in 1984|Fellow of the Royal Society (FRS) in 1984]].<ref name="FRS">{{cite web|url=https://royalsociety.org/people/frank-read-12153|title=Frank Read|publisher=[[Royal Society]]|location=London}} One or more of the preceding sentences may incorporate text from the royalsociety.org website where "all text published under the heading 'Biography' on Fellow profile pages is available under [[Creative Commons license|Creative Commons Attribution 4.0 International License]]." {{cite web |url=https://royalsociety.org/about-us/terms-conditions-policies/ |title=Royal Society Terms, conditions and policies |accessdate=2016-03-09 |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20160220093712/https://royalsociety.org/about-us/terms-conditions-policies/ |archivedate=February 20, 2016 }}</ref> In 2000, he was awarded the [[Fernand Holweck Medal and Prize|Holweck Prize]] ''for his work on atomic and molecular physics.''<ref name=":0">{{cite web |url=http://www.hep.manchester.ac.uk/babarph/ |title=Manchester Physics and Astronomy |website=www.hep.manchester.ac.uk |access-date=2016-03-14}}</ref>
+
+== References ==
+{{reflist}}{{s-start}}
+{{s-aca}}
+{{s-bef|before= }}
+{{s-ttl|title=[[Langworthy Professor]] at the [[University of Manchester]]| years=1998–2001}}
+{{s-aft|after=  [[Andrew Lyne]] }}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Read, Frank}}
+[[Category:Living people]]
+[[Category:British physicists]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Alumni of the University of London]]
+[[Category:Alumni of the University of Manchester]]
+[[Category:Physicists of the University of Manchester]]
+[[Category:1934 births]]
+[[Category:British fellows of the Royal Society]]
+
+{{UK-physicist-stub}}

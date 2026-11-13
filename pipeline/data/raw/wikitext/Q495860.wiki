@@ -1,0 +1,87 @@
+{{Short description|Canadian physicist (1931–2022)}}
+{{Infobox scientist
+| name              = Werner Israel
+| image             = <!--(filename only)-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_place       = [[Berlin]], [[Province of Brandenburg|Brandenburg]], [[Free State of Prussia|Prussia]], [[Weimar Republic|Germany]]
+| birth_date        = {{Birth date|1931|10|04}}
+| death_date        = {{Death date and age|2022|05|18|1931|10|04}}
+| death_place       = [[Victoria, British Columbia|Victoria]], [[British Columbia]], Canada
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| fields            = [[Gravitational physics]]
+| workplaces        = [[University of Alberta]], [[University of Victoria]]
+| education         = University of Cape Town, Trinity College Dublin
+| doctoral_advisor  = [[John Lighton Synge]]
+| thesis_title      = Basic topics of the relativistic theory of shock waves
+| thesis_year       = 1959
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Israel junction conditions, [[No hair theorem]], equilibrium state of a black hole, internal structures of black holes
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+
+'''Werner Israel''' {{Post-nominals|country=CAN|OC|FRSC|FRS}} (October 4, 1931 – May 18, 2022) was a [[theoretical physics|theoretical physicist]] known for his contributions to [[gravity|gravitational theory]], and especially to the understanding of [[black holes]].
+
+==Biography==
+Israel was born in [[Berlin]] in 1931. His family fled [[Nazi Germany]] in 1936 and settled in [[Cape Town, South Africa]], where he was raised.<ref name=":0">{{Cite web |title=Israel Werner Obituary |url=https://www.legacy.com/ca/obituaries/timescolonist/name/werner-israel-obituary?pid=202128270 |website=Times Colonist}}</ref> He was interested in [[astronomy]] and [[cosmology]] from a young age.<ref name=":1">{{Cite web |title=Werner Israel. Astronomy, Astrophysics and Space Science. "Physicist and cosmologist: Wrote the first logically precise theory for the simplicity of black holes (1967)” |url=https://www.science.ca/scientists/scientistprofile.php?pID=9 |website=science.ca}}</ref> For four years, when his parents were seriously ill, Israel and his brother lived in an orphanage.<ref>{{Cite journal |last=Do |first=Liz |date=June 1, 2022 |title=In Memoriam: Werner Israel (1931-2022). “Revered as Canada’s foremost gravitational physicist, Israel was a key figure in the founding years of CIFAR” |url=https://cifar.ca/cifarnews/2022/06/01/in-memoriam-werner-israel-1931-2022/ |journal=CIFAR News}}</ref> Israel received his [[Bachelor of science|B.Sc.]] and [[Master of science|M.Sc.]] from the [[University of Cape Town]], and his [[Ph.D.]] from [[Trinity College, Dublin]], under the direction of [[John Lighton Synge|John Synge]].<ref name=":0" /> <ref name=":1" /> In 1958, Israel accepted a faculty position at the [[University of Alberta]] in [[Edmonton]], where he remained as professor until his retirement in 1996. Following his retirement, Israel was [[Adjunct Professor]] of Physics and Astronomy at the [[University of Victoria]] in [[Victoria, British Columbia]].<ref>{{Cite journal |date=August 30, 2022 |title=Lowering the Flag: Dr. Werner Israel. “The University of Alberta banner is flying at half-mast from August 31 to September 2, 2022 in remembrance of Dr. Werner Israel” |url=https://www.ualberta.ca/the-quad/2022/08/lowering-the-flag-werner-israel.html |journal=The Quad, University of Alberta}}</ref> He remained active in research for another two decades. During the Dublin years, Werner Israel met and married Inge Margulies. They had a son Mark and a daughter Pia.<ref name=":0" />
+
+==Scientific work==
+Werner Israel is primarily known for his work on [[general relativity]], especially on [[black hole]] theory.
+
+In 1966, relatively early in his career, Israel analyzed the dynamics of thin shells of [[matter]] in general relativity.<ref>{{cite journal | last=Israel | first=W. | title=Singular hypersurfaces and thin shells in general relativity | journal=Il Nuovo Cimento B |series=Series 10 | volume=44 | issue=1 | date=1966 | issn=0369-3554 | doi=10.1007/BF02710419 | pages=1–14| bibcode=1966NCimB..44....1I }}</ref> Partly because many interesting examples can be constructed using such thin shells, this has become Israel's most cited paper, with thousands of citations. Interest in this paper has increased over time; it has been cited most heavily since the year 2000.<ref>{{Cite web |title=Literature Search - citations per year |url=https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=refersto:recid:50008 |website=inspirehep.net}}</ref> Israel returned to the topic of thin shells in general relativity many years later.<ref>{{cite journal | last1=Barrabès | first1=C. | last2=Israel | first2=W. | title=Thin shells in general relativity and cosmology: The lightlike limit | journal=Physical Review D | volume=43 | issue=4 | date=1991-02-15 | issn=0556-2821 | doi=10.1103/PhysRevD.43.1129 | pages=1129–1142| pmid=10013483 | bibcode=1991PhRvD..43.1129B }}</ref>
+
+Israel's first important contribution to black hole theory came in 1967 when he showed that the [[Schwarzschild solution]], which describes a [[Schwarzschild black hole|spherically symmetric, electrically neutral black hole]], is the unique [[static spacetime|static]] black hole solution of [[Einstein field equations|Einstein's equations]].<ref>{{cite journal | last=Israel | first=Werner | title=Event Horizons in Static Vacuum Space-Times | journal=Physical Review | volume=164 | issue=5 | date=1967-12-25 | issn=0031-899X | doi=10.1103/PhysRev.164.1776 | pages=1776–1779| bibcode=1967PhRv..164.1776I }}</ref> Israel extended this result to [[Einstein field equations#Einstein-Maxwell equations|Einstein-Maxwell theory]], showing that in that case, the unique static black hole solution is the [[Reissner-Nordstrom solution]].<ref>{{cite journal | last=Israel | first=Werner | title=Event horizons in static electrovac space-times | journal=Communications in Mathematical Physics | volume=8 | issue=3 | date=1968 | issn=0010-3616 | doi=10.1007/BF01645859 | pages=245–260| bibcode=1968CMaPh...8..245I }}</ref> It was soon shown by [[Brandon Carter|Carter]] that similar statements hold for all time-dependent black hole solutions that are stationary (not necessarily static).<ref>{{cite journal | last=Carter | first=B. | title=Axisymmetric Black Hole Has Only Two Degrees of Freedom | journal=Physical Review Letters | volume=26 | issue=6 | date=1971-02-08 | issn=0031-9007 | doi=10.1103/PhysRevLett.26.331 | pages=331–333| bibcode=1971PhRvL..26..331C }}</ref> These results have been summarized by the expression "[[no-hair theorem|a black hole has no hair]]." The hypothesis that [[gravitational collapse]] in the real world always leads to a [[Kerr-Newman metric|Kerr-Newman black hole]] is sometimes called the Carter-Israel conjecture.<ref>{{cite arXiv | last1=Bambi | first1=Cosimo | last2=Freese | first2=Katherine | last3=Takahashi | first3=Rohta | title=Is the Carter-Israel conjecture correct? | date=2009 | class=astro-ph.HE | eprint=0908.3238 }}</ref><ref>{{Cite web |last=Penedos |first=L.B. |title=Introduction to Black Hole Information Paradox |url=https://laurapenedos.com.br/wp-content/uploads/2021/11/Introduction-to-Black-Hole-Information-Paradox.pdf}}</ref>
+
+In 1972, Israel and G. A. Wilson discovered a new class of stationary solutions of Einstein-Maxwell theory,<ref>{{cite journal | last1=Israel | first1=Werner | last2=Wilson | first2=Gordon A. | title=A Class of Stationary Electromagnetic Vacuum Fields | journal=Journal of Mathematical Physics | volume=13 | issue=6 | date=1972-06-01 | issn=0022-2488 | doi=10.1063/1.1666066 | pages=865–867| bibcode=1972JMP....13..865I | hdl=1808/17536 | hdl-access=free }}</ref> also discovered by Perjés.<ref>{{cite journal | last=Perjés | first=Zoltán | title=Solutions of the Coupled Einstein-Maxwell Equations Representing the Fields of Spinning Sources | journal=Physical Review Letters | volume=27 | issue=24 | date=1971-12-13 | issn=0031-9007 | doi=10.1103/PhysRevLett.27.1668 | pages=1668–1670| bibcode=1971PhRvL..27.1668P }}</ref> Variants of these solutions have been important in recent work counting quantum states of black holes in string theory models.<ref>{{Cite journal |last1=Boruch |first1=Jan |last2=Iliesiu |first2=Luca |last3=Murthy |first3=Sameer |last4=Turiaci |first4=Gustavo J. |date=2025-04-11 |title=New forms of attraction: attractor saddles for the black hole index |url=https://link.springer.com/10.1007/JHEP04(2025)087 |journal=Journal of High Energy Physics |language=en |volume=2025 |issue=4 |article-number=87 |doi=10.1007/JHEP04(2025)087 |arxiv=2310.07763 |bibcode=2025JHEP...04..087B |issn=1029-8479}}</ref>
+
+What was perhaps Israel's deepest work, published in 1976, concerned a black hole in equilibrium with the [[Hawking radiation]] that it emits. A [[quantum system]] in [[thermal equilibrium]] at a nonzero [[temperature]] is most directly described by a thermal density [[matrix (mathematics)|matrix]]. However, it is possible to "purify" such a thermal density matrix as a pure state of a doubled system—two copies of the original system. This pure state of a doubled system is nowadays usually called the thermofield double state. In view of [[Stephen Hawking]]'s fundamental discovery of thermal [[radiation]] from black holes, a black hole at the quantum level is an example of a thermal system and one can ask how to describe a black hole in thermal equilibrium with radiation. Israel showed that the thermal equilibrium state of a (non-rotating) black hole has a natural geometric description in a two-sided "wormhole" version of the black hole spacetime. The two sides of the wormhole correspond to the two copies in the thermofield double state.<ref>{{cite journal | last=Israel | first=W. | title=Thermo-field dynamics of black holes | journal=Physics Letters A | volume=57 | issue=2 | date=1976 | doi=10.1016/0375-9601(76)90178-X | pages=107–110| bibcode=1976PhLA...57..107I }}</ref> This was in parallel with well known work by [[James Hartle|Hartle]] and Hawking<ref>{{cite journal | last1=Hartle | first1=J. B. | last2=Hawking | first2=S. W. | title=Path-integral derivation of black-hole radiance | journal=Physical Review D | volume=13 | issue=8 | date=1976-04-15 | issn=0556-2821 | doi=10.1103/PhysRevD.13.2188 | pages=2188–2203| bibcode=1976PhRvD..13.2188H }}</ref> and the state of a black hole in equilibrium with radiation is sometimes called the Hartle-Hawking-Israel state.<ref>{{cite arXiv | last1=Gérard | first1=Christian | title=The Hartle-Hawking-Israel state on stationary black hole spacetimes | date=2018 | class=math-ph | eprint=1806.07645 }}</ref><ref>{{Cite journal |last=Sanders |first=Ko |date=2015-01-29 |title=On the construction of Hartle-Hawking-Israel states across a static bifurcate Killing horizon |journal=Lett Math Phys 105, No. 4 (2015), 575-640 |volume=105 |issue=4 |pages=575–640 |doi=10.1007/s11005-015-0745-2 |arxiv=1310.5537 |bibcode=2015LMaPh.105..575S }}</ref>
+
+Standard formulations of [[dissipation|dissipative]] [[thermodynamics]] are inconsistent with [[special theory of relativity|relativity theory]] as they predict [[speed of light|instantaneous propagation]] of signals. In the 1970s, Israel reformulated dissipative thermodynamics to be consistent with relativity. As in the case of Israel's work on the thin shells, interest in this work has increased over time and Israel's papers in this area<ref>{{cite journal | last=Israel | first=Werner | title=Nonstationary irreversible thermodynamics: A causal relativistic theory | journal=Annals of Physics | volume=100 | issue=1–2 | date=1976 | doi=10.1016/0003-4916(76)90064-6 | pages=310–331| bibcode=1976AnPhy.100..310I }}</ref><ref>{{cite journal | last1=Israel | first1=W. | last2=Stewart | first2=J.M. | title=Transient relativistic thermodynamics and kinetic theory | journal=Annals of Physics | volume=118 | issue=2 | date=1979 | doi=10.1016/0003-4916(79)90130-1 | pages=341–372| bibcode=1979AnPhy.118..341I }}</ref> have been heavily cited since the year 2000.
+
+In 1989, together with [[Eric Poisson]], Israel pioneered the study of black hole interiors and, following up a suggestion of [[Roger Penrose]], discovered the phenomenon of [[mass inflation]], which can occur near the [[Cauchy horizon]] of a black hole.<ref>{{cite journal | last1=Poisson | first1=E. | last2=Israel | first2=W. | title=Inner-horizon instability and mass inflation in black holes | journal=Physical Review Letters | volume=63 | issue=16 | date=1989-10-16 | issn=0031-9007 | doi=10.1103/PhysRevLett.63.1663 | pages=1663–1666| pmid=10040638 | bibcode=1989PhRvL..63.1663P }}</ref><ref>{{cite journal | last1=Poisson | first1=Eric | last2=Israel | first2=Werner | title=Internal structure of black holes | journal=Physical Review D | volume=41 | issue=6 | date=1990-03-15 | issn=0556-2821 | doi=10.1103/PhysRevD.41.1796 | pages=1796–1809| pmid=10012548 | bibcode=1990PhRvD..41.1796P }}</ref> This work has a bearing on the question of “[[cosmic censorship|strong cosmic censorship]]<nowiki>''</nowiki> in [[general relativity]] and influenced research on strong cosmic censorship in the following decades.<ref>{{cite arXiv | last1=Dafermos | first1=Mihalis | last2=Rendall | first2=Alan D. | title=Strong cosmic censorship for surface-symmetric cosmological spacetimes with collisionless matter | date=2007 | eprint=gr-qc/0701034 }}</ref>
+
+Together with Stephen Hawking, Werner Israel co-edited two volumes on gravitational physics.<ref>S. W. Hawking and W. Israel, ''General Relativity: an Einstein Centenary Survey'' (Cambridge University Press, 1979).</ref> For the second of these, ''Three Hundred Years of Gravitation'' (1987) Hawking and Israel invited leaders in the field to contribute articles to commemorate the tricentennial anniversary of the publication of Sir Isaac Newton's ''[[Philosophiæ Naturalis Principia Mathematica|Principia Mathematica]]'' (1687).<ref>{{Cite book |title=Three Hundred Years of Gravitation |publisher=Oxford University Press |year=1987 |isbn=978-0-521-34312-1 |editor-last=Hawking |editor-first=Stephen |location=Cambridge, England |editor-last2=Israel |editor-first2=Werner}}</ref><ref name=":5">{{Cite book | last=Ferguson | first=Kitty | title=Stephen Hawking: An Unfettered Mind |author-link=Kitty Ferguson|publisher=Palgrave MacMillan|year=2012|isbn=978-0-230-34060-2}}</ref>{{Reference page|page=142}}
+
+== Honors ==
+* 1972: Fellow of the [[Royal Society of Canada]]
+* 1974-75: Sherman-Fairchild Distinguished Scholar, [[CALTECH]]
+* 1981: Medal of Achievement in Physics of [[Canadian Association of Physicists]]
+* 1983: [[University of Alberta]] Research Prize in Natural Sciences and Engineering
+* 1984: [[Izaak Walton Killam Memorial Prize]]
+* 1986: Fellow of the [[Royal Society]], London
+* 1986-91: Senior Research Fellow at the Canadian Institute for Advanced Research
+* 1994: Officer of the [[Order of Canada]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+
+# "Werner Israel Memorial Symposium", University of Victoria. https://meetings.triumf.ca/event/332/timetable/?view=standard
+{{Authority control}}
+{{FRS 1986}}
+
+{{DEFAULTSORT:Israel, Werner}}
+[[Category:1931 births]]
+[[Category:2022 deaths]]
+[[Category:Canadian physicists]]
+[[Category:Canadian fellows of the Royal Society]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Officers of the Order of Canada]]
+[[Category:Academic staff of the University of Alberta]]
+[[Category:Academic staff of the University of Victoria]]
+[[Category:Scientists from Cape Town]]
+[[Category:South African emigrants to Canada]]
+[[Category:University of Cape Town alumni]]
+[[Category:Alumni of Trinity College Dublin]]
+[[Category:Academics of the Dublin Institute for Advanced Studies]]

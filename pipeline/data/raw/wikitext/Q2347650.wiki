@@ -1,0 +1,55 @@
+{{Infobox scientist
+| name              = Steven R. White
+| birth_date        = December 26, 1959
+| birth_place       = Lawton, Oklahoma
+| workplaces        = [[University of California, Irvine]]
+| education        = [[University of California, San Diego]] ([[Bachelor of Arts|BA]])<br>[[Cornell]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[Kenneth G. Wilson|Kenneth Wilson]]<br>John Wilkins
+| known_for         = [[Density Matrix Renormalization Group]]
+}}
+{{short description|American physicist}}
+'''Steven R. White''' is a professor of [[physics]] at the [[University of California, Irvine]]. He is a condensed matter physicist who specializes in the simulation of quantum systems.<ref name=":0">{{Cite web |title=Steven R. White |url=https://www.nasonline.org/directory-entry/steven-r-white-dtoy7n/ |access-date=2023-02-14 |website=www.nasonline.org}}</ref> He graduated from the [[University of California, San Diego]]; he then received his [[Ph.D.]] at [[Cornell University]], where he was a shared student with [[Kenneth G. Wilson|Kenneth Wilson]] and John Wilkins.<ref name=":1" />
+
+He works mostly in condensed matter theory, specializing in computational techniques for strongly correlated systems.<ref>{{Cite web |date=2011-06-20 |title=Quantum leaper |url=https://news.uci.edu/2011/06/20/quantum-leaper/ |access-date=2023-02-14 |website=UCI News |language=en-US}}</ref> These strongly correlated systems include both high-temperature superconductors and [[Quantum spin liquid|quantum spin liquids]].<ref>{{Cite web |date=2014-02-19 |title=Steven R. White |url=https://www.simonsfoundation.org/people/steven-white/ |access-date=2023-02-14 |website=Simons Foundation |language=en-US}}</ref> He is most known for inventing the [[Density Matrix Renormalization Group]] (DMRG) in 1992.<ref>{{Cite journal |last=White |first=Steven R. |date=1992-11-09 |title=Density matrix formulation for quantum renormalization groups |journal=Physical Review Letters |volume=69 |issue=19 |pages=2863–2866 |doi=10.1103/PhysRevLett.69.2863|pmid=10046608 |bibcode=1992PhRvL..69.2863W }}</ref> This is a numerical variational technique for high accuracy calculations of the low energy physics of quantum many-body systems. His over one hundred seventy papers on this and related subjects have been used and cited widely—his most cited article has received over seven thousand citations.
+
+== Awards ==
+* National Science Foundation (NSF) Fellowship, 1982–1985
+* Andrew D. White Supplementary Fellowship, 1982–1985
+* IBM Postdoctoral Fellowship, 1988–1989
+* American Physical Society, Fellow, 1998
+* American Physical Society, Division Councilor for Computational Physics, 1999
+* American Physical Society [[Aneesur Rahman]] Prize, 2003<ref name=":1">{{citation|url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=Steven&last_nm=White&year=2003|title=2003 Aneesur Rahman Prize for Computational Physics Recipient: Steven R. White|publisher=American Physical Society|accessdate=2016-04-20}}</ref>
+* Fellow, [[American Association for the Advancement of Science]] (2008)
+* Fellow, [[American Academy of Arts and Sciences]] (2016)<ref>{{citation|url=https://news.uci.edu/faculty/four-from-uci-elected-to-american-academy-of-arts-and-sciences/|newspaper=UCI News|publisher=University of California, Irvine|title=Four from UCI elected to American Academy of Arts and Sciences|date=April 20, 2016}}</ref>
+* Physical Review Letters Milestone Paper of 1992 (Honored 2008)
+* Perimeter Distinguished Visiting Research Chair (2012–present)
+* Member, [[National Academy of Sciences]] (2018)<ref name=":0" />
+
+== Most cited publications ==
+* {{cite journal | last=White | first=Steven R. | title=Density matrix formulation for quantum renormalization groups | journal=Physical Review Letters | volume=69 | issue=19 | date=1992-11-09 | issn=0031-9007 | doi=10.1103/physrevlett.69.2863 | pages=2863–2866| pmid=10046608 | bibcode=1992PhRvL..69.2863W }} Cited 2416 times, according to [[Web of Science]], October, 2014;  over 7000 citations, according to Google Scholar, February, 2023.
+* {{cite journal | last=White | first=Steven R. | title=Density-matrix algorithms for quantum renormalization groups | journal=Physical Review B | volume=48 | issue=14 | date=1993-10-01 | issn=0163-1829 | doi=10.1103/physrevb.48.10345 | pages=10345–10356| pmid=10007313 | bibcode=1993PhRvB..4810345W }} Cited 1598 times.
+* {{cite journal | last1=Bickers | first1=N. E. | last2=Scalapino | first2=D. J. | last3=White | first3=S. R. | title=Conserving Approximations for Strongly Correlated Electron Systems: Bethe-Salpeter Equation and Dynamics for the Two-Dimensional Hubbard Model | journal=Physical Review Letters | volume=62 | issue=8 | date=1989-02-20 | issn=0031-9007 | doi=10.1103/physrevlett.62.961 | pages=961–964| pmid=10040382 | bibcode=1989PhRvL..62..961B }} Cited 657 times.
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{cite web|title=Steven White's home page at the University of California, Irvine | url=http://www.physics.uci.edu/people/steven-r-white}}
+* {{cite web|title=List of his papers at arXiv, submitted as Steven White| url=http://www.arxiv.org/find/cond-mat/1/au:+White_Steven/0/1/0/all/0/1 }}
+* {{cite web|title=List of his papers at arXiv, submitted as S.R. White|url=http://www.arxiv.org/find/cond-mat/1/au:+White_S_R/0/1/0/all/0/1}}
+
+{{authority control}}
+
+{{DEFAULTSORT:White, Steven R.}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:People from Lawton, Oklahoma]]
+[[Category:Cornell University alumni]]
+[[Category:21st-century American physicists]]
+[[Category:University of California, Irvine faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:American computational physicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:20th-century American physicists]]

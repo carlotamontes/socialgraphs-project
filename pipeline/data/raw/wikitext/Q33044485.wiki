@@ -1,0 +1,70 @@
+{{short description|American biologist}}
+
+{{Infobox scientist
+| name              = Daniel Janies
+| image             =
+| image_size        = 
+| alt               = 
+| caption           = Daniel Janies
+| birth_date        = 
+| birth_place       = [[Detroit, Michigan]]
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| fields            = [[Zoology]], [[Evolutionary Biology]], [[Bioinformatics]]
+| workplaces        = [[University of North Carolina at Charlotte]], [[Ohio State University]]<!--Wikipedians do not use "The" as part of Ohio State's name; it is considered a marketing gimmick, and routinely deleted.-->, [[American Museum of Natural History]]
+| education         = [[University of Michigan]], [[University of Florida]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  =[[Larry R. McEdward]] 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- https://janieslab.github.io/ -->
+| footnotes         = 
+}}
+
+'''Daniel Andrew Janies''' is an American scientist who has made significant contributions in the field of evolutionary biology and on the development of tools for the study of evolution and the spread of pathogens.<ref>{{Cite journal|last1=Janies|first1=Daniel A.|last2=Pomeroy|first2=Laura W.|last3=Krueger|first3=Chris|last4=Zhang|first4=Yuqi|last5=Senturk|first5=Izzet F.|last6=Kaya|first6=Kamer|last7=Çatalyürek|first7=Ümit V.|date=2015-12-01|title=Phylogenetic visualization of the spread of H7 influenza A viruses|journal=Cladistics|language=en|volume=31|issue=6|pages=679–691|doi=10.1111/cla.12107|pmid=34753271|s2cid=85577454|issn=1096-0031|doi-access=free}}</ref><ref>{{Cite web|url=https://www.osc.edu/press/researchers_publish_article_on_tracking_infectious_disease|title=Researchers publish article on tracking infectious disease {{!}} Ohio Supercomputer Center|website=www.OSC.edu|date=31 May 2012|language=en|access-date=July 9, 2017}}</ref> He is involved with research for the [[United States Department of Defense]] and has advised multiple instances of the government on methods for disease surveillance.
+
+== Education and career ==
+Daniel Janies graduated in 1988 from the [[University of Michigan]], where he received his Bachelor of Sciences in Biology. He then pursued a Ph.D. in Zoology at the [[University of Florida]], which he completed in 1995. From 1996 until 2002 he was involved at the [[American Museum of Natural History]] in New York City, initially as a postdoctoral fellow (until 1999) and then as principal investigator (until 2002).{{citation needed|date=July 2017}}
+
+His career as a faculty member started at the College of Medicine at the [[Ohio State University]] from 2003 until 2012, and lately he transitioned to the Department of Bioinformatics and Genomics of the [[University of North Carolina at Charlotte]] where he received the title of The Carol Grotnes Belk Distinguished Professor of Bioinformatics and Genomics.<ref>{{Cite web|url=http://bioinformatics.uncc.edu/directory/janies-daniel|title=Janies, Daniel {{!}} Department of Bioinformatics and Genomics {{!}} UNC Charlotte|website=bioinformatics.uncc.edu|language=en|access-date=2017-07-09}}</ref><ref>{{Cite web|url=https://www.linkedin.com/in/danieljanies|title=LinkedIn|last=Janies|first=Daniel|website=LinkedIn|access-date=July 9, 2017}}</ref>
+
+== Congressional testimony ==
+{{BLP unsourced section|date=July 2017}}
+Daniel Janies gave a testimony as part of the Testimony of the American Museum of Natural History on the Hearings of The United States House of Representatives Appropriations Subcommittee on Defense in 2010. He also gave a statement on Evaluation Roles, Preparedness for and Surveillance of Pandemic Influenza to the Committee on Homeland Security and Governmental Affairs of the United States Senate.<ref>{{cite web|url=https://www.congress.gov/congressional-report/111th-congress/senate-report/360/1|title=S. Rept. 111-360 - ACTIVITIES OF THE COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS|website=www.Congress.gov|access-date=January 17, 2018}}</ref>
+
+== Selected publications ==
+* Daniel Janies, Colby Ford, Lambodhar Damodaran, Zach Witter. 2016.  Spread of Middle East Respiratory Coronavirus: Genetic versus Epidemiological Data.  International Society for Disease Surveillance Conference, December 6–9 in Atlanta, GA
+* Adriano de Bernardi Schneider, [[Robert W. Malone]], Jun-Tao Guo, Jane Homan, Gregorio Linchangco, Zach Witter, Dylan Vinesett, Lambodhar Damodaran, Daniel Janies. 2016. [[Molecular evolution]] of Zika virus as it crossed the Pacific to the Americas.  Cladistics. Online early <ref>{{cite journal|title=Molecular evolution of Zika virus as it crossed the Pacific to the Americas|first1=Adriano|last1=de Bernardi Schneider|first2=Robert W.|last2=Malone|first3=Jun-Tao|last3=Guo|first4=Jane|last4=Homan|first5=Gregorio|last5=Linchangco|first6=Zachary L.|last6=Witter|first7=Dylan|last7=Vinesett|first8=Lambodhar|last8=Damodaran|first9=Daniel A.|last9=Janies|date=1 February 2017|journal=Cladistics|volume=33|issue=1|pages=1–20|doi=10.1111/cla.12178|pmid=34724757|doi-access=free}}</ref>
+* Julien Herrmann, Zachary L. Witter, Nakul Patel, Jonathan Kho,  Daniel A. Janies,  [[Umit Catalyurek|Ümit V. Çatalyürek]]. 2016. Visual analytics on the spread of pathogens.  BCB'16, October 2–5, 2016, Seattle, WA, USA.
+* {{cite journal | last1 = Malone | first1 = Robert W | last2 = Homan | first2 = Jane | last3 = Callahan | first3 = Michael V | last4 = Glasspool-Malone | first4 = Jill | last5 = Damodaran | first5 = Lambodhar | last6 = De Bernardi Schneider | first6 = Adriano | last7 = Zimler | first7 = Rebecca | last8 = Talton | first8 = James | last9 = Cobb | first9 = Ronald R | last10 = Ruzic | first10 = Ivan | last11 = Smith-Gagen | first11 = Julie | last12 = Wilson | first12 = James | last13 = Janies | first13 = Daniel | year = 2016 | title = Zika Virus: Medical Countermeasure Development Challenges | journal = PLOS Negl Trop Dis | volume = 10 | issue = 3| article-number = e0004530 | doi = 10.1371/journal.pntd.0004530 | pmid = 26934531 | pmc = 4774925 | doi-access = free }}
+* Daniel A. Janies, Zach Witter, Gregorio V. Linchangco, David W. Foltz, Allison K. Miller, Alexander M. Kerr, Jeremy Jay, Robert W. Reid, and Gregory A. Wray 2016. EchinoDB, an application for comparative transcriptomics of deeply-sampled clades of echinoderms. BMC Bioinformatics.  DOI: 10.1186/s12859-016-0883-2<ref>{{cite journal|title=EchinoDB, an application for comparative transcriptomics of deeply-sampled clades of echinoderms|first1=Daniel A.|last1=Janies|first2=Zach|last2=Witter|first3=Gregorio V.|last3=Linchangco|first4=David W.|last4=Foltz|first5=Allison K.|last5=Miller|first6=Alexander M.|last6=Kerr|first7=Jeremy|last7=Jay|first8=Robert W.|last8=Reid|first9=Gregory A.|last9=Wray|date=22 January 2016|journal=BMC Bioinformatics|volume=17|page=48|doi=10.1186/s12859-016-0883-2|pmid = 26800861|pmc=4724074 |doi-access=free }}</ref>
+* Daniel A. Janies, Laura W. Pomeroy, Chris Krueger, Yuqi Zhang, Izzet Senturk, Kamer Kaya, Ümit V. Çatalyürek. Phylogenetic visualization of the spread of H7 influenza A viruses. Cladistics.<ref>{{cite journal|doi=10.1111/cla.12107 | volume=31 | issue=6 | title=Phylogenetic visualization of the spread of H7 influenza A viruses | journal=Cladistics | pages=679–691 | last1 = Janies | first1 = Daniel A. | year=2015| pmid=34753271 | s2cid=85577454 | doi-access=free }}</ref>
+* Janies D., Embi P.J., Payne P.R. Health-care hit or miss?: Collect genetic data on pathogens. ''Nature''. Vol. 470, no. 7334. (February 17, 2011):329.<ref>{{cite journal | last1 = Janies | first1 = D. | last2 = Embi | first2 = P.J. | last3 = Payne | first3 = P.R. | year = 2011| title = Health-care hit or miss?: Collect genetic data on pathogens | journal = Nature | volume = 470 | issue = 7334| pages = 327–9 | doi=10.1038/470327a| pmid = 21331020 | s2cid = 4371762 }}</ref>
+* Janies, D., T. Treseder, B. Alexandrov, F. Habib, J. Chen, R. Ferreira, Ü. Çatalyürek, A. Varón, W.C. Wheeler. (2010) The Supramap project: Linking pathogen genomes with geography to fight emergent infectious diseases. ''Cladistics''. 27: 61–66<ref>{{cite journal | last1 = Janies | first1 = D. | last2 = Treseder | first2 = T. | last3 = Alexandrov | first3 = B. | last4 = Habib | first4 = F. | last5 = Chen | first5 = J. | last6 = Ferreira | first6 = R. | last7 = Çatalyürek | first7 = Ü. | last8 = Varón | first8 = A. | last9 = Wheeler | first9 = W.C. | year = 2010 | title = The Supramap project: Linking pathogen genomes with geography to fight emergent infectious diseases | journal = Cladistics | volume = 27 | issue = 1| pages = 61–66 | doi=10.1111/j.1096-0031.2010.00314.x| pmid = 32313364 | pmc = 7162175 | s2cid = 84372018 }}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Janies, Daniel}}
+[[Category:American medical researchers]]
+[[Category:University of Florida College of Liberal Arts and Sciences alumni]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:Ohio State University faculty]]
+[[Category:University of North Carolina at Charlotte faculty]]
+[[Category:Scientists from Detroit]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

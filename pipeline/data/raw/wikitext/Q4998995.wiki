@@ -1,0 +1,424 @@
+{{Short description|German computational biology researcher}}
+{{Infobox scientist
+| name = Burkhard Rost
+| image = ISMBECCB13-139 (9416047455).jpg
+| image_size = 
+| alt = 
+| caption = Burkhard Rost speaking at ISMB
+| birth_date = {{Birth date and age|1961|07|11}}
+| birth_place = Germany
+| death_date = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place = 
+| residence = 
+| citizenship = 
+| nationality = 
+| fields = {{Plainlist|
+* [[Machine learning]]
+* [[Evolution]]
+* [[Protein structure prediction]]<ref>{{Cite journal
+| last1 = Radivojac | first1 = P.
+| last2 = Clark | first2 = W. T.
+| last3 = Oron | first3 = T. R.
+| last4 = Schnoes | first4 = A. M.
+| last5 = Wittkop | first5 = T.
+| last6 = Sokolov | first6 = A.
+| last7 = Graim | first7 = K.
+| last8 = Funk | first8 = C.
+| last9 = Verspoor | first9 = K.
+| last10 = Ben-Hur | first10 = A.
+| last11 = Pandey | first11 = G.
+| last12 = Yunes | first12 = J. M.
+| last13 = Talwalkar | first13 = A. S.
+| last14 = Repo | first14 = S.
+| last15 = Souza | first15 = M. L.
+| last16 = Piovesan | first16 = D.
+| last17 = Casadio | first17 = R.
+| last18 = Wang | first18 = Z.
+| last19 = Cheng | first19 = J.
+| last20 = Fang | first20 = H.
+| last21 = Gough | first21 = J.
+| last22 = Koskinen | first22 = P.
+| last23 = Törönen | first23 = P.
+| last24 = Nokso-Koivisto | first24 = J.
+| last25 = Holm | first25 = L.
+| last26 = Cozzetto | first26 = D.
+| last27 = Buchan
+| last29 = Jones | first29 = D. T.
+| last30 = Limaye | first30 = B.
+| last28 = Bryson | first28 = K.
+| title = A large-scale evaluation of computational protein function prediction
+| doi = 10.1038/nmeth.2340 | first27 = D. W. A.
+| journal = Nature Methods
+| volume = 10
+| issue = 3
+| pages = 221–227
+| year = 2013
+| pmid = 23353650
+| pmc =3584181
+| display-authors = 29
+}}</ref>
+* [[Protein function prediction]]
+* [[Sequence analysis]]
+* [[Bioinformatics]]<ref name="googlescholar"/><ref>{{Cite journal
+| last1 = Rost | first1 = B.
+| last2 = Sander | first2 = C.
+| doi = 10.1002/prot.340190108
+| title = Combining evolutionary information and neural networks to predict protein secondary structure
+| journal = Proteins: Structure, Function, and Genetics
+| volume = 19
+| issue = 1
+| pages = 55–72
+| year = 1994
+| pmid = 8066087
+| pmc = 
+| s2cid = 15203189
+}}</ref><ref>{{Cite journal
+| last1 = Rost | first1 = B.
+| last2 = Sander | first2 = C.
+| doi = 10.1006/jmbi.1993.1413
+| title = Prediction of Protein Secondary Structure at Better than 70% Accuracy
+| journal = Journal of Molecular Biology
+| volume = 232
+| issue = 2
+| pages = 584–599
+| year = 1993
+| pmid = 8345525
+| pmc = 
+| citeseerx = 10.1.1.17.1418
+}}</ref><ref name="pp">{{Cite journal
+| last1 = Rost | first1 = B.
+| last2 = Yachdav | first2 = G.
+| last3 = Liu | first3 = J.
+| doi = 10.1093/nar/gkh377
+| title = The PredictProtein server
+| journal = Nucleic Acids Research
+| volume = 32
+| issue = Web Server issue
+| pages = W321–W326
+| year = 2004
+| pmid = 15215403
+| pmc =441515
+}}</ref>}}
+| workplaces = {{Plainlist|
+* [[Technichal University of Munich]] (TUM)
+* [[LMU Munich]]
+* [[Columbia University]]
+* [[University of Heidelberg]]
+* [[European Molecular Biology Laboratory]]}}
+| education  = [[University of Heidelberg]]<ref name=rostphd/>
+| doctoral_advisor = [[Chris Sander (scientist)|Chris Sander]]<ref name=rostphd/><ref name=sandernature/>
+| academic_advisors = 
+| thesis_title = Neural networks and evolution - advanced prediction of protein secondary structure
+| thesis_url = http://d-nb.info/94189519X
+| thesis_year = 1994
+| doctoral_students = 
+| notable_students = 
+| known_for = {{Plainlist|
+* Presidency of [[International Society for Computational Biology|ISCB]]
+* Organisation of [[Intelligent Systems for Molecular Biology|ISMB]], [[CASP]]
+* [[Predictprotein]]<ref name="pp"/>
+* combination of evolutionary information and machine learning}}
+| influences = 
+| influenced = 
+| awards = [[Alexander von Humboldt Professor]], [[ISCB]] Fellows Award<ref>[[:Category:Fellows of the International Society for Computational Biology]]</ref>
+| signature = <!--(filename only)-->
+| signature_alt = 
+| footnotes = 
+| spouse = Karima Djabali<ref>{{cite web |url=https://portal.mytum.de/pressestelle/pressemitteilungen/news_article.2008-10-15.0863066827 |title=Hochdotierte Humboldt-Professur für neuen TUM-Spitzenforscher |date=15 October 2008 |access-date=21 May 2021 |language=German |trans-title=Highly endowed Humboldt Professorship for new top TUM researcher}}</ref>
+| website = {{URL|https://www.rostlab.org}}
+}}
+'''Burkhard Rost''' is a [[bioinformatician|scientist]] leading the Department for [[Computational Biology]] & [[Bioinformatics]] at the Faculty of [[Informatics]] of the [[Technical University of Munich]] (TUM).<ref name="rostlab-home">{{cite web |title=Welcome to the Rostlab! {{!}} ROSTLAB.ORG |url=https://www.rostlab.org/ |website=www.rostlab.org |access-date=21 May 2021}}</ref> Rost chairs the Study Section Bioinformatics Munich involving the TUM and [[LMU Munich]]. From 2007-2014 Rost was President of the [[International Society for Computational Biology]] (ISCB).<ref name="googlescholar">{{Google Scholar id}}</ref><ref name="DBLP">{{DBLP |name=Burkhard Rost}}</ref><ref name="scopus">{{Scopus}}</ref><ref>{{Cite journal
+| last1 = Rost | first1 = B.
+| title = Twilight zone of protein sequence alignments
+| journal = Protein Engineering
+| volume = 12
+| issue = 2
+| pages = 85–94
+| year = 1999
+| pmid = 10195279
+ | doi=10.1093/protein/12.2.85
+| doi-access = free
+}}</ref><ref>{{Cite journal
+| last1 = Bateman | first1 = A.
+|author-link1= Alex Bateman
+| last2 = Kelso | first2 = J.
+| last3 = Mietchen | first3 = D.
+| last4 = MacIntyre | first4 = G.
+| last5 = Di Domenico | first5 = T. S.
+| last6 = Abeel | first6 = T.
+| last7 = Logan | first7 = D. W.
+| last8 = Radivojac | first8 = P.
+| last9 = Rost | first9 = B.
+|author-link9= Burkhard Rost
+| doi = 10.1371/journal.pcbi.1003242
+| title = ISCB Computational Biology Wikipedia Competition
+| journal = [[PLOS Computational Biology]]
+| volume = 9
+| issue = 9
+| article-number = e1003242
+| year = 2013
+| pmid =  24068913
+| pmc = 3777890
+
+| bibcode = 2013PLSCB...9E3242B
+| doi-access = free
+}}</ref><ref name=rostlab>{{cite web|archive-url=https://web.archive.org/web/20141221123054/https://rostlab.org/|url=https://rostlab.org|title=Welcome to the Rostlab|publisher=rostlab.org|archive-date=2014-12-21}}</ref>
+
+==Career==
+Rost originally started his scientific career as theoretical physicist. After studying physics at the [[University of Giessen]] and physics, history, philosophy, and psychology at the [[University of Heidelberg]], Rost received his [[PhD]] at the University Heidelberg for his work at the [[European Molecular Biology Laboratory]] (EMBL) in 1994.<ref name=rostphd>{{cite thesis |degree=PhD |first=Burkhard|last=Rost |title=Neuronale Netzwerke und evolutionäre Information: verbesserte Vorhersage der Sekundärstruktur von Proteinen |publisher=Heidelberg University |date=1994 |url=http://d-nb.info/94189519X|oclc=311916999}}</ref> Following research internships at EMBL and the [[European Bioinformatics Institute]] in Cambridge (UK), in 1998, he became assistant professor at the Department of Biochemistry and Molecular Biophysics in the College of Surgeons and Physicians of the CU Medical Center of [[Columbia University]] in the City of [[New York City|New York]]. In 2000, he became associate professor at [[Columbia University]] and in 2009 he accepted an appointment to the Chair of Bioinformatics at the [[Technical University of Munich]]. He is a member of the New York Academy of Sciences and has been President of ISCB, the [[International Society for Computational Biology]] from 2007-2014. {{As of|2021}}, Rost has authored or co-authored over 300 scientific publications with a Google Scholar [[h-index]] of 100.<ref name="googlescholar"/><ref name="DBLP"/><ref name="scopus"/>
+
+==Research==
+Rost research has focused on combining [[Machine Learning]] and evolutionary information to predict aspects of critical importance to advance our understanding of evolution, protein structure and protein function. Examples of research carried out in his lab includes the prediction of enzymatic activity (ECGO), interaction partners (ISIS, DISIS, PiNAT), subcellular localization (LOCtree, LOCnet, PredictNLS), functional effects of point mutations/SNPs (SNAP), disordered regions (MD, NORSnet, Ucon), membrane spanning segments (PROF/PHDhtm), secondary structure (PROF/PHD, RePROF, DSSPcont),<ref>{{Cite book
+| last1 = Rost | first1 = B.
+| chapter = PHD: Predicting one-dimensional protein structure by profile-based neural networks
+| title = Computer Methods for Macromolecular Sequence Analysis
+| series = Methods in Enzymology
+| volume = 266
+| pages = 525–539
+| year = 1996
+| pmid = 8743704
+ | doi=10.1016/s0076-6879(96)66033-9
+| isbn = 978-0-12-182167-8
+}}</ref> solvent accessibility (PROF/PHD, RePROF), internal residue-residue contacts (PROFcon) and the clustering of proteins into families (CHOP).<ref name="nar-chop">{{cite journal |last1=Liu |first1=J. |last2=Rost |first2=B. |title=CHOP: parsing proteins into structural domains |journal=Nucleic Acids Research |date=2004-07-01 |volume=32 |issue=Web Server |pages=W569–W571 |doi=10.1093/nar/gkh481|pmid=15215452 |pmc=441619 |doi-access=free }}</ref>
+
+His current focus is on predicting the effects of individual mutations mostly on the level of non-synonymous changes in coding regions, i.e. single nucleotide changes (or [[Single Nucleotide Polymorphisms]]) that alter the amino acid sequence.
+
+His group has been dedicated to making their tools available online as demonstrated through the first internet server for protein structure prediction and sequence analysis, [[Predictprotein]],<ref name="pp"/> that was launched in 1992, and has been continuously in service ever since. Rost's work has been published in leading [[peer review]]ed [[scientific journal]]s including ''[[Nature (journal)|Nature]]'',<ref name=sandernature>{{Cite journal
+| last1 = Rost | first1 = B.
+| last2 = Sander | first2 = C.
+| doi = 10.1038/360540b0
+| title = Jury returns on structure prediction
+| journal = Nature
+| volume = 360
+| issue = 6404
+| page = 540
+| year = 1992
+| pmid = 1281284
+| pmc = 
+| bibcode = 1992Natur.360..540R
+| s2cid = 4234785
+| doi-access = free
+}}</ref><ref>{{Cite journal
+| last1 = Chen | first1 = Y. H.
+| last2 = Hu | first2 = L.
+| last3 = Punta | first3 = M.
+| last4 = Bruni | first4 = R.
+| last5 = Hillerich | first5 = B.
+| last6 = Kloss | first6 = B.
+| last7 = Rost | first7 = B.
+| last8 = Love | first8 = J.
+| last9 = Siegelbaum | first9 = S. A.
+| doi = 10.1038/nature09487
+| last10 = Hendrickson | first10 = W. A.
+| title = Homologue structure of the SLAC1 anion channel for closing stomata in leaves
+| journal = Nature
+| volume = 467
+| issue = 7319
+| pages = 1074–1080
+| year = 2010
+| pmid = 20981093
+| pmc =3548404
+| bibcode = 2010Natur.467.1074C}}</ref><ref>{{Cite journal
+ | pmid = 21317882
+| pmc = 3077569
+| year = 2011
+| last1 = Cao
+| first1 = Y
+| title = Crystal structure of a potassium ion transporter, TrkH
+| journal = Nature
+| volume = 471
+| issue = 7338
+| pages = 336–40
+| last2 = Jin
+| first2 = X
+| last3 = Huang
+| first3 = H
+| last4 = Derebe
+| first4 = M. G.
+| last5 = Levin
+| first5 = E. J.
+| last6 = Kabaleeswaran
+| first6 = V
+| last7 = Pan
+| first7 = Y
+| last8 = Punta
+| first8 = M
+| last9 = Love
+| first9 = J
+| last10 = Weng
+| first10 = J
+| last11 = Quick
+| first11 = M
+| last12 = Ye
+| first12 = S
+| last13 = Kloss
+| first13 = B
+| last14 = Bruni
+| first14 = R
+| last15 = Martinez-Hackert
+| first15 = E
+| last16 = Hendrickson
+| first16 = W. A.
+| last17 = Rost
+| first17 = B
+| last18 = Javitch
+| first18 = J. A.
+| last19 = Rajashankar
+| first19 = K. R.
+| last20 = Jiang
+| first20 = Y
+| last21 = Zhou
+| first21 = M
+| doi = 10.1038/nature09731
+| bibcode = 2011Natur.471..336C
+}}</ref><ref>{{Cite journal
+| last1 = Cao | first1 = Y.
+| last2 = Jin | first2 = X.
+| last3 = Levin | first3 = E. J.
+| last4 = Huang | first4 = H.
+| last5 = Zong | first5 = Y.
+| last6 = Quick | first6 = M.
+| last7 = Weng | first7 = J.
+| last8 = Pan | first8 = Y.
+| last9 = Love | first9 = J.
+| doi = 10.1038/nature09939
+| last10 = Punta | first10 = M.
+| last11 = Rost | first11 = B.
+| last12 = Hendrickson | first12 = W. A.
+| last13 = Javitch | first13 = J. A.
+| last14 = Rajashankar | first14 = K. R.
+| last15 = Zhou | first15 = M.
+| title = Crystal structure of a phosphorylation-coupled saccharide transporter
+| journal = Nature
+| volume = 473
+| issue = 7345
+| pages = 50–54
+| year = 2011
+| pmid = 21471968
+| pmc =3201810
+| bibcode = 2011Natur.473...50C}}</ref> ''[[Science (journal)|Science]]'',<ref>{{Cite journal
+ | pmid = 16141072
+| year = 2005
+| last1 = Carninci
+| first1 = P
+| title = The transcriptional landscape of the mammalian genome
+| journal = Science
+| volume = 309
+| issue = 5740
+| pages = 1559–63
+| last2 = Kasukawa
+| first2 = T
+| last3 = Katayama
+| first3 = S
+| last4 = Gough
+| first4 = J
+|author-link4= Julian Gough (scientist)
+| last5 = Frith
+| first5 = M. C.
+| last6 = Maeda
+| first6 = N
+| last7 = Oyama
+| first7 = R
+| last8 = Ravasi
+| first8 = T
+| last9 = Lenhard
+| first9 = B
+| last10 = Wells
+| first10 = C
+| last11 = Kodzius
+| first11 = R
+| last12 = Shimokawa
+| first12 = K
+| last13 = Bajic
+| first13 = V. B.
+| last14 = Brenner | first14 = S. E. |author-link14= Steven E. Brenner
+| last15 = Batalov
+| first15 = S
+| last16 = Forrest
+| first16 = A. R.
+| last17 = Zavolan
+| first17 = M
+| last18 = Davis
+| first18 = M. J.
+| last19 = Wilming
+| first19 = L. G.
+| last20 = Aidinis
+| first20 = V
+| last21 = Allen
+| first21 = J. E.
+| last22 = Ambesi-Impiombato
+| first22 = A
+| last23 = Apweiler
+| first23 = R
+|author-link23= Rolf Apweiler
+| last24 = Aturaliya
+| first24 = R. N.
+| last25 = Bailey
+| first25 = T. L.
+| last26 = Bansal
+| first26 = M
+| last27 = Baxter
+| first27 = L
+| last28 = Beisel
+| first28 = K. W.
+| last29 = Bersano
+| first29 = T
+| last30 = Bono
+| first30 = H
+| s2cid = 8712839
+| display-authors = 29
+| doi = 10.1126/science.1112014
+| bibcode = 2005Sci...309.1559F
+}}</ref> ''[[PLOS Genetics]]''.<ref>{{Cite journal
+| last1 = Liu | first1 = J.
+| last2 = Gough | first2 = J. |author-link2=Julian Gough (scientist)
+| last3 = Rost | first3 = B. |author-link3= Burkhard Rost
+| doi = 10.1371/journal.pgen.0020029
+| title = Distinguishing Protein-Coding from Non-Coding RNAs through Support Vector Machines
+| journal = PLOS Genetics
+| volume = 2
+| issue = 4
+| article-number = e29
+| year = 2006
+| pmid = 16683024
+| pmc =1449884
+| doi-access = free
+}}</ref>
+
+===ISCB===
+In 2007 Rost was elected president of the [[International Society for Computational Biology]] (ISCB), taking over from [[Michael Gribskov]]. Rost served as president until 2014; his successor was [[Alfonso Valencia]].
+
+===Conferences===
+Rost has co-chaired the largest annual meeting in computational biology ISMB, [[Intelligent Systems for Molecular Biology]], in 2007 ([[Vienna]]), 2008 ([[Toronto]]), 2011 ([[Vienna]]), 2012 ([[Long Beach, California|Long Beach]]).<ref>{{Cite journal | last1 = Linial | first1 = M. | last2 = Mesirov | first2 = J. P. | last3 = Morrison Mckay | first3 = B. J. | last4 = Rost | first4 = B. | title = ISMB 2008 Toronto | doi = 10.1371/journal.pcbi.1000094 | journal = PLOS Computational Biology | volume = 4 | issue = 6 | article-number = e1000094 | year = 2008 | pmid =  18584023| pmc =2427177 | bibcode = 2008PLSCB...4E0094L | doi-access = free }}</ref> He has initiated and been involved in the organization of several series of international conferences outside the usual northern hemisphere, namely ISCB Africa (2010: [[Bamako]], [[Mali]]; 2011: [[Cape Town]], [[South Africa]]; 2013: [[Tunis]], [[Tunisia]]) in cooperation with the [[African Society for Bioinformatics and Computational Biology]], ISCB Latin America (2010: [[Montevideo]], [[Uruguay]]; 2012: [[Santiago de Chile]], [[Chile]]; 2014: [[Rio de Janeiro]], [[Brazil]]), and most recently ISCB Asia (2011: [[Kuala Lumpur]], [[Malaysia]]; 2012: [[Shen Zhen]], [[China]]).<ref name="2016-iscb-outstanding">{{cite web |title=2016 Outstanding Contribution to ISCB: Burkhard Rost |url=https://www.iscb.org/iscb-awards/2945 |website=www.iscb.org |access-date=21 May 2021}}</ref>
+
+Rost has also been a co-organizer of the [[CASP|Critical Assessment of protein Structure Prediction (CASP)]] meetings from 2002-2008 (CASP4-CASP8).
+
+==Awards and honors==
+Rost was awarded the Professorship of the [[Alexander von Humboldt Foundation]] in 2009. He was made a Fellow of the ISCB in 2015.<ref name=iscb-fellow>{{cite web|title=Meet the ISCB Fellows Class of 2015|url=http://www.iscb.org/iscb-news-items/2392-2015feb20-meet-the-iscb-fellows-class-of-2015|archive-url=https://web.archive.org/web/20150220233807/http://www.iscb.org/iscb-news-items/2392-2015feb20-meet-the-iscb-fellows-class-of-2015|archive-date=2015-02-20|publisher=International Society for Computational Biology}}</ref> In 2016, he was awarded the Outstanding Contribution to ISCB.<ref name="2016-iscb-outstanding" />
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.rostlab.org Rostlab] web site
+* Burkhard Rost at [[TED (conference)|TEDx]]: ''Personalized health: harnessing the power of diversity'' [https://tedxtalks.ted.com/video/Personalized-health-harnessing TEDx])
+* [http://www.humboldt-professur.de/en/preistraeger/preistraeger-2009/rost-burkhard Alexander von Humboldt Award]
+
+{{s-start}}
+{{s-bef|before=[[Michael Gribskov]]}}
+{{s-ttl|title=President of the<br/>[[International Society for Computational Biology]]
+|years=2007 – 2015}}
+{{s-aft|after=[[Alfonso Valencia]]}}
+{{s-end}}
+
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rost, Burkhard}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Columbia University faculty]]
+[[Category:German bioinformaticians]]
+[[Category:Heidelberg University alumni]]
+[[Category:Academic staff of the Technical University of Munich]]
+[[Category:Fellows of the International Society for Computational Biology]]

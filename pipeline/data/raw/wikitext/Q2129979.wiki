@@ -1,0 +1,117 @@
+{{Short description|American physicist}}
+{{Multiple issues|
+{{COI|date=February 2026}}
+{{BLP sources|date=March 2026}}
+}}
+{{Infobox scientist
+| name              = Ramamurti Shankar
+| image             = Ramamurti Shankar, 2018.jpg
+| image_size        = 
+| alt               = 
+| caption           = Shankar in 2018
+| birth_date        = {{birth date and age|1947|04|28}}
+| birth_place       = New Delhi, British India
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = United States
+| fields            = [[Theoretical physics|Theoretical condensed matter physics]]<br />[[Quantum field theory]]
+| workplaces        = [[Yale University]]
+| thesis_title      = Exploitation of the Small Pion Mass in Multi-Regge Theory
+| thesis_url        = http://oskicat.berkeley.edu/record=b14497321~S1
+| thesis_year       = 1974
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Renormalization group]] approach to [[Fermi liquid]] theory<br />Hamiltonian theory of the [[fractional quantum Hall effect]]<br />Exact [[S-matrix|S-matrices]] in 2D field theories (with [[Edward Witten|Witten]])<br />''[[Principles of Quantum Mechanics]]''<br />[[Open Yale Courses]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Alfred P. Sloan Foundation|A.P. Sloan Fellowship]] {{small|(1982–86)}}<br />Harwood F. Byrnes/Richard B. Sewall Teaching Prize {{small|(2005)}}<br />[[American Physical Society#Lilienfeld Prize|Julius Edgar Lilienfeld Prize]] {{small|(2009)}}<br />Distinguished Alumnus Award, [[IIT Madras]] {{small|(2013)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://campuspress.yale.edu/rshankar/}}
+| education         = [[IIT Madras]] (B.Tech.)<br />[[University of California, Berkeley]] (Ph.D.)
+}}
+'''Ramamurti Shankar''' (born April 28, 1947) is an American theoretical physicist who is the [[Josiah Willard Gibbs]] Professor of Physics and Professor of Applied Physics at [[Yale University]].<ref>{{Cite web|url=http://physics.yale.edu/people/ramamurti-shankar|title=Ramamurti Shankar {{!}} Department of Physics|website=physics.yale.edu|language=en|access-date=2017-09-24}}</ref><ref>{{Cite web|url=https://www.simonsfoundation.org/people/ramamurti-shankar/|title=Ramamurti Shankar|website=Simons Foundation|access-date=2025-02-22}}</ref> His research spans [[theoretical physics|theoretical]] [[condensed matter physics]] and [[quantum field theory]], with major contributions to the [[renormalization group]] theory of [[Fermi liquid]]s, the [[fractional quantum Hall effect]], and exact solutions in [[statistical mechanics]].
+
+== Education ==
+Shankar was born in [[New Delhi]] into a [[Tamils|Tamil]] family. His elder brother was theoretical physicist [[Ramamurti Rajaraman]]. He received his B.Tech. in electrical engineering from the [[Indian Institute of Technology Madras]] in 1969 and his Ph.D. in theoretical particle physics from the [[University of California, Berkeley]] in 1974.<ref>{{Cite web|url=https://acr.iitm.ac.in/latestdaas/dr-shankar-ramamurti/|title=Dr. Shankar Ramamurti|website=IIT Madras Office of Alumni & Corporate Relations|access-date=2025-02-22}}</ref>
+
+== Career ==
+From 1974 to 1977, Shankar was a Junior Fellow at the [[Harvard Society of Fellows]], the second Indian after [[S. Chandrasekhar]] to hold this position.<ref>{{Cite web|url=https://acr.iitm.ac.in/latestdaas/dr-shankar-ramamurti/|title=Dr. Shankar Ramamurti|website=IIT Madras Office of Alumni & Corporate Relations|access-date=2025-02-22}}</ref> He joined Yale in 1977 as J.W. Gibbs Instructor of Physics, became a full professor in 1988, and chaired the department from 2001 to 2007.<ref>{{Cite web|url=http://physics.yale.edu/people/ramamurti-shankar|title=Ramamurti Shankar {{!}} Department of Physics|website=physics.yale.edu|language=en|access-date=2017-09-24}}</ref> He was appointed John Randolph Huffman Professor of Physics in 2004 and Josiah Willard Gibbs Professor of Physics in 2019.
+
+== Research ==
+
+=== Particle physics and field theory ===
+Shankar's early work was in theoretical particle physics. During his time at Berkeley and the Harvard Society of Fellows, he worked on [[S-matrix]] theory, the determination of the [[quark]]–[[gluon]] [[coupling constant]], and [[parity violation]] in [[electron]]–[[positron]] annihilation (with [[Sheldon Glashow]] and Alberto De Rújula).<ref>{{Cite journal|last1=de Rujula|first1=A.|last2=Glashow|first2=S. L.|last3=Shankar|first3=R.|title=Question of Parity Violation in e⁺e⁻ Annihilation|journal=Physical Review D|volume=14|issue=3|page=752|year=1976|doi=10.1103/PhysRevD.14.752|bibcode=1976PhRvD..14..752D}}</ref> With [[Edward Witten]], he computed exact [[S-matrix|S-matrices]] for two-dimensional field theories, including the [[supersymmetry|supersymmetric]] [[Sigma model|sigma model]] and the kinks of the [[Gross–Neveu model]].<ref>{{Cite journal|last1=Shankar|first1=R.|last2=Witten|first2=E.|title=S-matrix of the Supersymmetric Sigma Model|journal=Physical Review D|volume=17|issue=8|page=2134|year=1978|doi=10.1103/PhysRevD.17.2134|bibcode=1978PhRvD..17.2134S}}</ref><ref>{{Cite journal|last1=Shankar|first1=R.|last2=Witten|first2=E.|title=The S-matrix of the Kinks of the (ψψ̄)² Model|journal=Nuclear Physics B|volume=141|issue=4|page=349|year=1978|doi=10.1016/0550-3213(78)90030-1|bibcode=1978NuPhB.141..349S}}</ref>
+
+=== Renormalization group and Fermi liquid theory ===
+Shankar is known for applying [[renormalization group]] methods to interacting [[fermion]]s in dimensions greater than one, providing a field-theoretic foundation for [[Lev Landau|Landau]]'s [[Fermi liquid]] theory. His 1994 review article in ''[[Reviews of Modern Physics]]'' demonstrated that the Landau parameters emerge as marginal couplings at the Fermi surface fixed point, and that the [[BCS theory|BCS]] coupling is marginally relevant for attractive interactions, providing a controlled derivation of the [[superconductivity|superconducting]] instability.<ref>{{Cite journal|last=Shankar|first=R.|title=Renormalization-group approach to interacting fermions|journal=Reviews of Modern Physics|volume=66|issue=1|pages=129–192|year=1994|doi=10.1103/RevModPhys.66.129|bibcode=1994RvMP...66..129S}}</ref>
+
+=== Fractional quantum Hall effect ===
+With his former student [[Ganpathy Murthy]], Shankar developed a Hamiltonian theory of the [[fractional quantum Hall effect]] using [[composite fermion]]s. Their approach, based on [[Chern–Simons theory]] with flux attachment followed by a transformation incorporating correlation holes, provided a framework for computing gaps, masses, and polarization of fractional quantum Hall states.<ref>{{Cite journal|last1=Murthy|first1=G.|last2=Shankar|first2=R.|title=Hamiltonian theories of the fractional quantum Hall effect|journal=Reviews of Modern Physics|volume=75|issue=4|pages=1101–1158|year=2003|doi=10.1103/RevModPhys.75.1101|bibcode=2003RvMP...75.1101M|arxiv=cond-mat/0205326}}</ref> They later extended this framework to [[topological insulator|fractionally filled Chern bands]].<ref>{{Cite journal|last1=Murthy|first1=G.|last2=Shankar|first2=R.|title=Hamiltonian theory of fractionally filled Chern bands|journal=Physical Review B|volume=86|issue=19|article-number=195146|year=2012|doi=10.1103/PhysRevB.86.195146|bibcode=2012PhRvB..86s5146M|arxiv=1207.2133}}</ref>
+
+=== Statistical mechanics and other contributions ===
+Shankar obtained exact results for the random bond Ising model using the [[replica trick]], the renormalization group, and [[bosonization]].<ref>{{Cite journal|last=Shankar|first=R.|title=Exact Critical Behavior of a Random-Bond Two-Dimensional Ising Model|journal=Physical Review Letters|volume=58|issue=23|pages=2466–2469|year=1987|doi=10.1103/PhysRevLett.58.2466|pmid=10034760|bibcode=1987PhRvL..58.2466S}}</ref> He also contributed to the theory of the [[integer quantum Hall effect]] transition (with M.P.A. Fisher, A.W.W. Ludwig, and G. Grinstein),<ref>{{Cite journal|last1=Ludwig|first1=A. W. W.|last2=Fisher|first2=M. P. A.|last3=Shankar|first3=R.|last4=Grinstein|first4=G.|title=Integer quantum Hall transition: An alternative approach and exact results|journal=Physical Review B|volume=50|issue=11|page=7526|year=1994|doi=10.1103/PhysRevB.50.7526|bibcode=1994PhRvB..50.7526L}}</ref> the relationship between bulk wave functions and edge correlations in [[topological superconductor]]s (with [[Ashvin Vishwanath]]),<ref>{{Cite journal|last1=Shankar|first1=R.|last2=Vishwanath|first2=Ashvin|title=Equality of Bulk Wave Functions and Edge Correlations in Some Topological Superconductors: A Spacetime Derivation|journal=Physical Review Letters|volume=107|issue=10|article-number=106803|year=2011|doi=10.1103/PhysRevLett.107.106803|pmid=21981520|bibcode=2011PhRvL.107j6803S|arxiv=1105.5214}}</ref> and chaotic quantum dots with disorder and interactions.<ref>{{Cite journal|last=Shankar|first=R.|title=Colloquium: Chaotic quantum dots with strongly correlated electrons|journal=Reviews of Modern Physics|volume=80|issue=2|pages=379–394|year=2008|doi=10.1103/RevModPhys.80.379|bibcode=2008RvMP...80..379S|arxiv=0710.5107}}</ref>
+
+== Teaching and public outreach ==
+Shankar's lectures for Yale's introductory physics courses (Physics 200 and 201), recorded as part of [[Open Yale Courses]], have been viewed over 40 million times on [[YouTube]] and other platforms, with subtitles available in Chinese.<ref>{{Cite web|url=https://www.infosysprize.org/jury/2024/ramamurti-shankar.html|title=Jury 2024 – Ramamurti Shankar|website=Infosys Science Foundation|access-date=2025-02-22}}</ref> He designed and taught Physics 301a, a bridge course in mathematics for undergraduates, for nearly a decade; the textbook he wrote for it, ''Basic Training in Mathematics'', is used at Yale and other institutions.
+
+== Selected publications ==
+=== Books ===
+* ''[[Principles of Quantum Mechanics]]'', Plenum, 1980; 2nd ed. 1994. Translated into Polish (2006).
+* ''Basic Training in Mathematics: A Fitness Program for Science Students'', Plenum, 1995.
+* ''Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics'', Yale University Press, 2014.<ref>{{Cite web|url=https://campuspress.yale.edu/rshankar/books/|title=Books – R. Shankar Personal Page|website=campuspress.yale.edu|language=en-US|access-date=2017-09-24}}</ref>
+* ''Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics'', Yale University Press, 2016.
+* ''Quantum Field Theory and Condensed Matter: An Introduction'', Cambridge University Press, 2017.<ref>{{Cite book|url=https://www.cambridge.org/core/books/quantum-field-theory-and-condensed-matter/2CA9970800C3D31D6E641736186B3FBD|title=Quantum Field Theory and Condensed Matter|publisher=Cambridge University Press|year=2017|doi=10.1017/9781139044349|language=en|last1=Shankar|first1=Ramamurti|isbn=978-0-521-59210-9}}</ref>
+
+His books have been translated into Polish, Greek, and Chinese.
+
+=== Selected articles ===
+* {{Cite journal|last=Shankar|first=R.|title=Renormalization-group approach to interacting fermions|journal=Reviews of Modern Physics|volume=66|issue=1|pages=129–192|year=1994|doi=10.1103/RevModPhys.66.129|bibcode=1994RvMP...66..129S}}
+* {{Cite journal|last1=Murthy|first1=G.|last2=Shankar|first2=R.|title=Hamiltonian theories of the fractional quantum Hall effect|journal=Reviews of Modern Physics|volume=75|issue=4|pages=1101–1158|year=2003|doi=10.1103/RevModPhys.75.1101|bibcode=2003RvMP...75.1101M|arxiv=cond-mat/0205326}}
+
+== Awards and honours ==
+* [[Alfred P. Sloan Foundation|A.P. Sloan Fellowship]] (1982–1986)
+* [[Fellow of the American Physical Society]] (2001)
+* Harwood F. Byrnes/Richard B. Sewall Teaching Prize, Yale University (2005)
+* [[American Physical Society#Lilienfeld Prize|Julius Edgar Lilienfeld Prize]], [[American Physical Society]] (2009), for "innovative applications of field theoretic techniques to quantum condensed matter systems"<ref>{{Cite web|url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=Ramamurti&last_nm=Shankar&year=2009|title=Prize Recipient|website=www.aps.org|language=en|access-date=2017-09-24}}</ref>
+* Distinguished Alumnus Award, [[IIT Madras]] (2013)
+* Elected to the [[American Academy of Arts and Sciences]] (2014)
+
+== Professional service ==
+Shankar has served on the editorial board of the ''[[Journal of Statistical Physics]]'', the Dannie Heineman Prize and Lilienfeld Prize committees of the APS, the Committee of Visitors at the [[National Science Foundation]], the advisory board of the [[Kavli Institute for Theoretical Physics]], and as a trustee and executive committee member of the [[Aspen Center for Physics]].<ref>{{Cite web|url=https://www.infosysprize.org/jury/2023/ramamurti-shankar.html|title=Jury 2023 – Ramamurti Shankar|website=Infosys Science Foundation|access-date=2025-02-22}}</ref> He served on the jury for the [[Infosys Prize]] in Physical Sciences in 2023 and 2024. He has held visiting positions at the [[École Normale Supérieure]], [[MIT]], [[University of California, Berkeley]], and [[KITP]] Santa Barbara (as Simons Professor).
+
+== Personal life ==
+His elder brother, [[Ramamurti Rajaraman]], was a theoretical physicist known for his work on [[soliton]]s.{{cn|date=March 2026}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://campuspress.yale.edu/rshankar/ Ramamurti Shankar personal page] at Yale University
+* [https://physics.yale.edu/people/ramamurti-shankar Ramamurti Shankar] at Yale Department of Physics
+* [https://www.youtube.com/playlist?list=PLD07B2225BB40E582 Fundamentals of Physics Lectures] on YouTube
+* {{google scholar id|TDaJT-gAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shankar, Ramamurti}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:21st-century American physicists]]
+[[Category:20th-century American physicists]]
+[[Category:Yale University faculty]]
+[[Category:20th-century Indian physicists]]
+[[Category:IIT Madras alumni]]
+[[Category:Indian condensed matter physicists]]
+[[Category:Tamil physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:American scientists of Asian descent]]
+[[Category:Indian emigrants to the United States]]
+[[Category:Theoretical physicists]]

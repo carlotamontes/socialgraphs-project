@@ -1,0 +1,136 @@
+{{Short description|Japanese scientist (born 1961)}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox scientist
+| name              = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Hiroaki Kitano cropped 2 Professor Hiroaki Kitano 20210419.jpg
+| imagesize         = 
+| alt               = 
+| caption           = Kitano in 2021
+| birth_date        = {{Birth year and age|1961}} <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Systems Biology]]
+| workplaces        = {{Plainlist|
+* [[Sony|Sony Computer Science Laboratories, Inc.]]
+* [[Carnegie Mellon University]]
+* [[Okinawa Institute of Science and Technology|Okinawa Institute of Science and Technology (OIST)]]
+* [[RIKEN]]
+* The Systems Biology Institute (SBI)}}
+| patrons           = 
+| education         = {{Plainlist|
+* [[International Christian University]]
+* [[Kyoto University]]}}
+| thesis_title      = Speech-to-speech translation: a massively parallel memory-based approach
+| thesis_url        = https://www.worldcat.org/formats-editions/604371532
+| thesis_year       = 1991
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{Plainlist|
+* [[AIBO]]
+* [[Robocup]]<ref name="robocup">{{Cite book | doi = 10.1145/267658.267738| chapter = Robo ''Cup''| title = Proceedings of the first international conference on Autonomous agents - AGENTS '97| pages = 340| year = 1997| last1 = Kitano | first1 = H. | last2 = Asada | first2 = M. | last3 = Kuniyoshi | first3 = Y. | last4 = Noda | first4 = I. | last5 = Osawa | first5 = E. | isbn = 978-0897918770| s2cid = 2557966}}</ref>}}
+| influences        = 
+| influenced        = 
+| awards            = [[IJCAI Computers and Thought Award]] (1993)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://www.sbi.jp/about-us/members}}
+| footnotes         = 
+}}
+
+{{nihongo|'''Hiroaki Kitano'''|北野 宏明|extra=born 1961 in [[Tokyo]]}} is a Japanese [[scientist]], head of the [[Systems Biology Institute]], Senior Executive Vice President and Chief Technology Officer of the [[Sony]] Group Corporation, Chief Executive Officer of Sony Research Inc. and Sony Computer Science Laboratories, Inc.;<ref name="Message from CTO">{{cite web|title=Sony Group Portal - Message from CTO|url=https://www.sony.com/en/SonyInfo/technology/message/|access-date=10 October 2023|archive-date=10 October 2023|archive-url=https://web.archive.org/web/20231010114244/https://www.sony.com/en/SonyInfo/technology/message/}}</ref> a Group Director of the Laboratory for Disease Systems Modeling at and [[RIKEN]] Center for Integrative Medical Sciences; and a professor at [[Okinawa Institute of Science and Technology]] (OIST).<ref name=sbi-members>{{cite web|title=The Systems Biology Institute: Members|url=http://www.sbi.jp/members.htm|website=sbi.jp|access-date=5 September 2014|archive-date=21 October 2014|archive-url=https://web.archive.org/web/20141021142335/http://www.sbi.jp/members.htm|url-status=dead}}</ref> Kitano is known for developing [[AIBO]],<ref>{{cite news|title=Robots |url=http://www.businessweek.com/magazine/content/01_12/b3724007.htm|archive-url=https://archive.today/20120729090713/http://www.businessweek.com/magazine/content/01_12/b3724007.htm|url-status=dead|archive-date=29 July 2012|access-date=2 January 2011|newspaper=[[Business Week]]|date=19 March 2001|author=Irene M. Kunii|author2=Otis Port}}</ref> and the robotic world cup tournament known as [[Robocup]].<ref name="robocup"/><ref>{{cite news|title=World Cup robot competition to kick off in Germany|url=http://www.itworld.com/060612robocup|access-date=2 January 2011|newspaper=IT World|date=12 June 2006}}</ref>
+
+==Education==
+Kitano graduated from [[International Christian University]] with a [[Bachelor of Arts|B.A.]] in physics in 1984. He received a [[Doctor of Philosophy|PhD]] in computer science from [[Kyoto University]] in 1991.<ref name=cv>{{cite web|title=CV: Hiroaki Kitano|url=http://www.jst.go.jp/sicp/ws2009_se2nd/cv/05_kitano.pdf|website=jst.go.jp|access-date=5 September 2014}}</ref> His PhD thesis in [[machine translation]] was titled "Speech-to-speech translation: a massively parallel memory-based approach".  His work includes a broad spectrum of publications in artificial intelligence and interactomics.
+
+==Research==
+From 1988 to 1994, Kitano was a visiting researcher at the Center for Machine Translation at [[Carnegie Mellon University]].<ref name=keynote-cv>{{cite web|title=KEYNOTE SPEAKERS - 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society|url=http://embc2013.embs.org/keynote_speakers.html|website=embc2013.embs.org|access-date=5 September 2014|archive-url=https://web.archive.org/web/20150323223238/http://embc2013.embs.org/keynote_speakers.html|archive-date=23 March 2015|url-status=dead}}</ref>
+
+At Sony, Kitano started the development of the [[AIBO]] robotic pet. This research was developed further as the [[QRIO]], a bipedal humanoid robot.<ref name=icsb14>{{cite web|title=Hiroaki Kitano - The 15th International Conference on Systems Biology 2014|url=http://www.icsb14.com/pages/hiroaki-kitano-.php|website=icsb14.com|access-date=5 September 2014|archive-date=5 September 2014|archive-url=https://web.archive.org/web/20140905150146/http://www.icsb14.com/pages/hiroaki-kitano-.php|url-status=dead}}</ref><ref name=kirainet>{{cite web|title=Hiroaki Kitano's dream Kirainet - A geek in Japan|url=http://www.kirainet.com/english/hiroaki-kitanos-dream/|website=kirainet.com|access-date=5 September 2014|archive-date=5 September 2014|archive-url=https://web.archive.org/web/20140905151403/http://www.kirainet.com/english/hiroaki-kitanos-dream/|url-status=dead}}</ref> The research behind AIBO and QRIO led to Kitano founding the [[RoboCup]] annual international robotics competition in 1997. The goal of RoboCup is to create a team of autonomous robotic footballers that would be able to beat the best team in the world, by 2050.<ref name=icsb14 /><ref name=kirainet /><ref name=robocup-objective>{{cite web|url=http://www.robocup.org/about-robocup/objective/|title=RoboCup: Objective|publisher=RoboCup|year=1998|access-date=2014-01-26|archive-url=https://web.archive.org/web/20140104080054/http://www.robocup.org/about-robocup/objective/|archive-date=4 January 2014|url-status=dead}}</ref>
+
+Kitano has made significant contributions to [[Systems biology]], including a contribution to the [[Systems Biology Markup Language]] (SBML).<ref>{{Cite journal| first1 = H.| title = Systems biology: a brief overview| journal = Science| volume = 295| issue = 5560| pages = 1662–1664| last1 = Kitano| year = 2002| pmid = 11872829| doi = 10.1126/science.1069492      |bibcode = 2002Sci...295.1662K | s2cid = 2703843| url = http://theory.bio.uu.nl/BPA/pdf/Obligatory_reading/Kitano_s02.pdf}}</ref><ref name="pmid12611808">{{Cite journal
+| last1 = Hucka | first1 = M.
+| last2 = Finney | first2 = A.
+| last3 = Sauro | first3 = H. M.
+| last4 = Bolouri | first4 = H.
+| last5 = Doyle | first5 = J. C.
+| last6 = Kitano | first6 = H.
+| last7 = Arkin | first7 = A. P.
+| last8 = Bornstein | first8 = B. J.
+| last9 = Bray | first9 = D
+| last10 = Cornish-Bowden | first10 = A.
+| last11 = Cuellar | first11 = A. A.
+| last12 = Dronov | first12 = S.
+| last13 = Gilles | first13 = E.D.
+| last14 = Ginkel | first14 = M
+| last15 = Gor | first15 = V.
+| last16 = Goryanin | first16 = I.I.
+| last17 = Hedley | first17 = W.J.
+| last18 = Hodgman | first18 = T. C.
+| last19 = Hofmeyr | first19 = J. -H.
+| last20 = Hunter | first20 = P. J.
+| last21 = Juty | first21 = N. S.
+| last22 = Kasberger | first22 =J. L.
+| last23 = Kremling | first23 = A.
+| last24 = Kummer | first24 = U.
+| last25 = Le Novère | first25 = N.
+| last26 = Loew | first26 = L. M.
+| last27 = Lucio | first27 = D.
+| last28 = Mendes | first28 = P.
+| last29 = Minch | first29 = E.
+| last30 = Mjolsness | first30 = E.D.
+| last31 = Nakayama| first31 = Y.
+| last32 = Nelson| first32 = M.R.
+| last33 = Nielsen| first33 = P. F.
+| last34 = Sakurada| first34 = T.
+| last35 = Schaff| first35 = J. C.
+| last36 = Shapiro| first36 = B.E.
+| last37 = Shimizu| first37 =T. S.
+| last38 = Spence| first38 =H. D.
+| last39 = Stelling| first39 =J.
+| last40 = Takahashi| first40 =K.
+| last41 = Tomita| first41 =M.
+| last42 = Wagner | first42 =J.
+| last43 = Wang| first43 = J.
+| title = The systems biology markup language (SBML): A medium for representation and exchange of biochemical network models | journal = Bioinformatics | volume = 19 | issue = 4 | pages = 524–531 | year = 2003 | pmid =  12611808| doi-access = free | doi = 10.1093/bioinformatics/btg015  | citeseerx = 10.1.1.562.1085}}</ref><ref>{{Cite journal| first1 = H.| title = Computational systems biology| journal = Nature| volume = 420| issue = 6912| pages = 206–210| last1 = Kitano| year = 2002| pmid = 12432404| doi = 10.1038/nature01254       |bibcode = 2002Natur.420..206K | s2cid = 4401115}}</ref><ref>{{Cite journal | last1 = Kitano | first1 = H. | title = Biological robustness | doi = 10.1038/nrg1471 | journal = Nature Reviews Genetics | volume = 5 | issue = 11 | pages = 826–837 | year = 2004 | pmid =  15520792| s2cid = 7644586 }}</ref><ref>{{cite web |title=Mid-career Achievement Award : 2009 Nature Mentor Awards |url=http://www.natureasia.com/en/mentor/mid-career_award.php |work=Nature Asia-Pacific |publisher=Nature Japan K.K. |access-date=18 March 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120505224954/http://www.natureasia.com/en/mentor/mid-career_award.php |archive-date=5 May 2012 }}</ref><ref>{{Cite journal | pmid = 24687050| year = 2014| last1 = Marti-Solano| first1 = M| title = Integrative knowledge management to enhance pharmaceutical R&D| journal = Nature Reviews Drug Discovery| volume = 13| issue = 4| pages = 239–40| last2 = Birney| first2 = E| authorlink2 = Ewan Birney| last3 = Bril| first3 = A| last4 = Della Pasqua| first4 = O| last5 = Kitano| first5 = H| authorlink5 = Hiroaki Kitano| last6 = Mons| first6 = B| authorlink6 = Barend Mons| last7 = Xenarios| first7 = I| last8 = Sanz| first8 = F| doi = 10.1038/nrd4290| s2cid = 20972353}}</ref><ref name=scopus>{{Scopus|id= 7201618005}}</ref><ref name="acm">{{ACMPortal|id=81100415346}}</ref><ref name="dblp">{{DBLP|name=Hiroaki Kitano}}</ref>
+
+==Roles and awards==
+Kitano has served as a scientific advisor for a number of companies, including [[Alstom]], [[Segway Inc.|Segway]] Japan and [[Mitsubishi Chemical Holdings]]. He was awarded the [[IJCAI Computers and Thought Award]] in 1993 and the [[Nature Publishing Group|Nature]] Award for Creative Mentoring in Science in 2009.<ref name=whs-cv>{{cite web|title=140602 Kitano_Hiroaki_CV|url=http://www.worldhealthsummit.org/fileadmin/downloads/2014/WHS/CV/140602%20Kitano_Hiroaki_CV.pdf|website=worldhealthsummit.org|access-date=5 September 2014}}</ref> He was elected a Fellow of the [[Association for the Advancement of Artificial Intelligence]] in 2021.<ref>{{Cite web |title=Elected AAAI Fellows |url=https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/ |access-date=2024-01-03 |website=AAAI |language=en-US}}</ref>
+
+== References ==
+{{reflist}}
+<!-- *The original article was written based on the corresponding Japanese Wikipedia article, retrieved on 2008-04-29. -->
+
+==External links==
+{{commons category}}
+* [https://researchmap.jp/read0164584 ResearchMap profile]
+* [http://sbi.jp/symbio/symbio2/papers/NRGRobustnessKitano2004.pdf Biological Robustness] {{Webarchive|url=https://web.archive.org/web/20211026230530/http://sbi.jp/symbio/symbio2/papers/NRGRobustnessKitano2004.pdf |date=26 October 2021 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kitano, Hiroaki}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Systems biologists]]
+[[Category:Japanese bioinformaticians]]
+[[Category:International Christian University alumni]]
+[[Category:Kyoto University alumni]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Scientists from Tokyo Metropolis]]

@@ -1,0 +1,102 @@
+{{short description|Dutch astrophysicist (born 1952)}}
+{{independent sources|date=April 2024}}
+{{Use dmy dates|date=September 2023}}
+{{Infobox scientist
+| name              = Piet Hut
+| image             = Piet-Hut-174x200.jpg
+| image_size        = 150px
+| caption           = Piet Hut
+| birth_date        = {{birth date and age|1952|09|26}}
+| birth_place       = [[Utrecht]]
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| ethnicity         = 
+| field             = [[Astrophysics]]<br />[[Interdisciplinarity|Interdisciplinary Studies]]
+| workplaces        = [[Institute for Advanced Study]]
+| education         = [[Utrecht University]]<br />
+[[University of Amsterdam]]
+| doctoral_advisor  = [[Ed van den Heuvel]]
+| doctoral_students = 
+| known_for         = [[Barnes–Hut simulation|Barnes–Hut algorithm]]<br />Pseudo-synchronization
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| religion          = 
+| footnotes         = 
+| signature         = 
+}}
+
+'''Piet Hut''' (born September 26, 1952) is a Dutch astrophysicist and interdisciplinary researcher known for his contributions to both scientific research and cross-disciplinary scholarship. He served as the head of the interdisciplinary studies program at the Institute for Advanced Study, where he collaborated with scholars from diverse fields, including natural science, computer science, cognitive psychology, and philosophy. His work also encompasses research in computer simulations of dense stellar systems.
+
+He was the Head of the Program in [[Interdisciplinarity|Interdisciplinary Studies]]<ref>[http://www.ids.ias.edu/ Institute for Advanced Study Program in Interdisciplinary Studies] retrieved 2011-12-07.</ref><ref>[http://www.ids.ias.edu/piet Program in Interdisciplinary Studies individual homepage page for Piet Hut] retrieved 2011-12-07.</ref> at the [[Institute for Advanced Study]] (IAS) from 2002 until 2023.<ref>[http://www.ias.edu/people/faculty-and-emeriti/hut Institute for Advanced Study Faculty and Emeriti page for Piet Hut] retrieved 2011-12-07.</ref> Asteroid [[17031 Piethut]] is named after him, in honor of his work in planetary dynamics and for co-founding the [[B612 Foundation]], which focuses on the prevention of asteroid impacts on Earth.
+
+==Career==
+In the Netherlands, Hut did a double PhD program, at Utrecht University, in particle physics under [[Martinus J. G. Veltman|Martinus Veltman]] and in Amsterdam in astrophysics under [[Ed van den Heuvel]], resulting in a PhD at the [[University of Amsterdam]].
+
+Previously an assistant professor at the [[University of California, Berkeley]], Hut was in 1985, at the age of 32, appointed as a full professor at the Institute for Advanced Study. At the time, he was the youngest professor appointed there.
+
+Hut became a corresponding member of the [[Royal Netherlands Academy of Arts and Sciences]] in 1996.<ref>{{cite web|author= |url=https://www.knaw.nl/en/members/correspondents/4294 |archive-url=https://web.archive.org/web/20160130164702/https://www.knaw.nl/en/members/correspondents/4294 |title=P. Hut |publisher=Royal Netherlands Academy of Arts and Sciences |date= |archive-date=30 January 2016 |accessdate=30 January 2016}}</ref>
+
+==Astrophysics research==
+An accomplished astrophysicist, Hut is best known for the [[Barnes–Hut simulation]] algorithm, developed with Joshua Barnes.  By using a tree-based data structure, the Barnes–Hut method significantly speeds up the calculation of the gravitational motion of large numbers of stars, making accessible such problems as collisions between galaxies. [[Barnes–Hut simulation]] algorithm, which has become a standard in [[n-body problem]]s, reduces its complexity to O(N log N). 
+
+In 1986, while at the [[Institute for Advanced Studies]], he conceived NEMO, a software environment for stellar dynamics, together with Josh Barnes and Peter Teuben.<ref>{{Cite journal|url=https://adsabs.harvard.edu/full/2003IAUS..208..359T|journal=Astrophysical Supercomputing Using Particle Simulations|bibcode=2003IAUS..208..359T |last1=Teuben |first1=P. |title=Simulation Software: Then, Now and Virtual Observatory |date=2003 |volume=208 |page=359 |arxiv=astro-ph/0204470 }}</ref>
+
+Hut introduced the concept of pseudo-synchronicity, which is now widely cited in the literature on tidal evolution of [[Extrasolar planet|exoplanets]].<ref>Hut, P.: Tidal Evolution in Close Binary Systems, 1981, Astron. Astrophys. 99, 126-140.</ref><ref>[http://oklo.org/2006/12/11/pseudo-synchronization/ Systemic web log, pseudo-synchronization December 11th, 2006] retrieved 2011-12-07.</ref><ref>[[Gliese 581 c#Tidal lock]]</ref>
+
+He co-authored a graduate textbook ''The Gravitational Million Body Problem'',<ref>Heggie D., Hut P. (2003). ''The Gravitational Million-Body Problem: A Multidisciplinary Approach to Star Cluster Dynamics'' {{ISBN|978-0-521-77486-4}}</ref> invented a mathematical sequence called Piet Hut's "coat-hanger" sequence,<ref>{{Cite OEIS|1=A088325|2=Piet Hut's "coat-hanger"|accessdate=2011-12-07}}</ref> and has pioneered the use of virtual worlds for research and education in (astro)physics.<ref>[http://www.ugotrade.com/2008/07/19/astrophysics-in-virtual-worlds-implementing-n-body-simulations-in-opensim/ Ugotrade Astrophysics in Virtual Worlds: Implementing N-Body Simulations in OpenSim] retrieved 2011-12-07.</ref>
+
+Hut is one of the founders of the [[B612 Foundation]], MODEST,<ref>[http://www.manybody.org/modest/ Modeling and Observing DEnse STellar systems] retrieved 2011-12-07.</ref> MICA,<ref>[http://www.mica-vw.org/ Meta Institute for Computational Astrophysics] retrieved 2011-12-07.</ref> ACS,<ref>[http://www.ArtCompSci.org The Art of Computational Science] retrieved 2011-12-07.</ref> the [[Gravity Pipe|GRAPE (Gravity Pipe)]] project, and AMUSE.<ref>[http://amusecode.org/ AMUSE] retrieved 2011-12-07.</ref>
+
+==Interdisciplinary research==
+Hut's broadly interdisciplinary research<ref>{{cite web |url=https://www.ias.edu/piet/act/geo |title=Geology & Paleontology |website=www.sns.ias.edu |access-date=2011-12-07}}</ref><ref>{{cite web |url=https://www.ias.edu/piet/act/comp |title=Computational Science |website=www.sns.ias.edu |access-date=2011-12-07}}</ref><ref>{{cite web |url=https://www.ias.edu/piet/act/nat |title=Natural Philosophy |website=www.sns.ias.edu |access-date=2011-12-07}}</ref>
+started with his study of an asteroid impact to explain the demise of the dinosaurs, when he edited a review article for Nature with four paleontologists, two geologists and one other astrophysicist.<ref>Hut, P. et al., 1987, ''Nature'', 329, 118-126.</ref>
+He has also widely engaged in joint research with computer scientists<ref>Hut, P. and Sussman, G.J., 1987, Scientific American, 255, 145-153.</ref><ref>Taubes, G., 1997, Discover 18, No. 6, 76-83 (with online version: [http://discovermagazine.com/1997/jun/thestarmachine1148 The Star Machine] {{Webarchive|url=https://web.archive.org/web/20180104222841/http://discovermagazine.com/1997/jun/thestarmachine1148 |date=2018-01-04 }} retrieved 2011-12-07).</ref>
+and philosophers and cognitive psychologists.<ref>Hut, P. and Shepard, R. 1996, J. Consc. Stud. 3, No. 4, 313-329.</ref><ref>Hut, P. and van Fraassen, B. 1997, J. Consc. Stud. 4, No. 2, 167-180.</ref>
+
+In recognition of his work, he was invited to participate in various conferences, spanning a range from a workshop with the [[14th Dalai Lama]] and five physicists in [[Dharamsala, Himachal Pradesh|Dharamsala]], India<ref>Hut, P., 2004, in ''The New Physics and Cosmology'', ed.: A. Zajonc. {{ISBN|978-0-19-515994-3}}</ref>
+to the [[World Economic Forum]] in Davos, Switzerland,<ref>{{cite web |url=https://www.sns.ias.edu/~piet/act/reports/9900.html |title=Activities in 1999–2000 |website=www.sns.ias.edu |access-date=2011-12-07}}</ref> and he has been invited as a member of the [[Edmund Husserl|Husserl]] Circle.<ref>[http://www.husserlcircle.org/last_conference.html The Husserl Circle, last conference program, Bloomington 2001] {{Webarchive|url=https://web.archive.org/web/20160306042202/http://www.husserlcircle.org/last_conference.html |date=2016-03-06 }} retrieved 2011-12-07.</ref><ref>{{cite web |url=https://www.sns.ias.edu/~piet/publ/other/husserlcircle.html |title=The Role of Husserl's Epoche for Science |website=www.sns.ias.edu |access-date=2011-12-07}}</ref>
+
+Hut is one of the founders of the [[Kira Institute]].
+
+==Employment controversy==
+In July 2000, IAS sued Hut in federal district court, seeking to enforce a 1996 agreement in which Hut had promised to resign by mid-2001.<ref>John Sullivan, [https://www.nytimes.com/2000/10/08/nyregion/education-in-princeton-a-scholar-s-unseemly-dismissal.html "In Princeton, A Scholar's Unseemly Dismissal"], The New York Times, October 8, 2000</ref><ref>U.S. District Court of New Jersey, Case 3:2000-cv-03595</ref> According to IAS Director [[Phillip Griffiths]], Hut had been hired with the expectation that he would eventually succeed Professor [[John N. Bahcall]] as leader of the astrophysics group, but "was not performing" at the required level.<ref>Constance Holden, [https://www.science.org/doi/full/10.1126/science.290.5492.683b "Institute Goes to Court to Remove Researcher"], Science, vol. 290, pp. 683-685, 27 October 2000 {{doi|10.1126/science.290.5492.683b}} (Subscription required to read full article)</ref> Hut rebutted that his work was not inferior but only seen as unfashionable, and that he had been coerced into signing the agreement. Many prominent astrophysicists defended the quality of Hut's work, while others based their support on the importance of academic tenure to creative scholarship. The case was eventually settled out of court. Hut transferred out of IAS's School of Natural Sciences and was appointed Head of a new Program in Interdisciplinary Studies.<ref>Robin Wilson, [http://chronicle.com/article/The-Professor-Who-Would-Not/1870 "The Professor Who Would Not Leave"], The Chronicle of Higher Education, November 24, 2000. (Subscription required to read full article)</ref>
+
+==See also==
+*[[Galaxy formation and evolution]]
+*[[Large-scale structure of the cosmos]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{external links|date=April 2024}}
+* [http://www.sns.ias.edu/~piet/publ/ Publication List ]
+* [http://seedsofunfolding.org/issues/6_07/feature.htm Interview for Seeds of Unfolding]
+* Videos
+** [https://web.archive.org/web/20150806012115/http://blip.tv/rubin-museum-of-art/brainwave-does-chaos-have-meaning-3506217 Brainwave 2010: Does Chaos Have Meaning? Discussion with film maker Shekhar Kapur]
+** [http://www.veoh.com/watch/v181758116EDf6TCs?h1=Piet+Hut+-+Science+Beyond+Methods+and+Goals Presentation "Science Beyond Methods and Goals"]
+** {{YouTube|vhCqTbqCqx0|Round Table Discussion on the Role of the Subject in Science}}
+** [http://video.google.com/videoplay?docid=-7274321951163756181 Panel Discussion at Mind & Reality]
+** [http://video.google.com/videoplay?docid=6484994529899704031 Interview at Columbia University]
+** {{YouTube|fEZQQqh19Q4|Round Table Discussion on the subject of "Modern Cosmology" (2007)}}
+** {{YouTube|K_aKHAsYMrE|Demonstration and discussion on the subject of "Real Research in Virtual Worlds"}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hut, Piet}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:20th-century Dutch astronomers]]
+[[Category:21st-century Dutch astronomers]]
+[[Category:Dutch expatriates in the United States]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Scientists from Utrecht (city)]]
+[[Category:University of Amsterdam alumni]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Utrecht University alumni]]

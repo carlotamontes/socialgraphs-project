@@ -1,0 +1,36 @@
+{{Short description|Algerian-French computer scientist and medical researcher}}
+{{Other uses|Deriche}}
+'''Rachid Deriche''' is a research director at Inria Sophia Antipolis, France, where he leads the research project Athena aiming to explore the Central Nervous System using computational imaging.<ref>{{Cite web|url=https://team.inria.fr/athena/team-members/|title=Team members|date=21 July 2011}}</ref> He has published more than 60 journals and more than 180 conferences papers with a [[Google Scholar]] H-index of 67.<ref>{{Cite web|url=https://scholar.google.fr/citations?user=UDRtJsEAAAAJ&hl=fr|title=Rachid Deriche - Citations Google Scholar|website=scholar.google.fr|access-date=2017-05-14}}</ref> He is known for the development of the [[Deriche edge detector|edge detection algorithm]], named after him.
+
+== Background ==
+Deriche was born in 1954, in [[Thenia]], Algeria. He studied electronics at Ecole Nationale Polytechnique of Algiers. In 1977, he moved to France to continue his studies at Ecole Nationale Superieure des Telecommunications of Paris, from which he graduated in 1979. Three years later, he received from University of Paris IX, Dauphine a Ph.D degree in mathematics.  He obtained his HDR degree from University of Nice Sophia Antipolis in 1991.<ref>{{Cite web|url=https://team.inria.fr/athena/team-members/rachid-deriche/|title=Rachid Deriche » athena|website=team.inria.fr|date=12 June 2012|language=en-US|access-date=2017-04-09}}</ref><ref name=":0">{{Cite web|url=http://www.new.anasr.org/2013/12/04/interview-prof-rachid-deriche-laureat-of-the-grand-prize-of-the-eads-corporate-foundation-in-computer-science/|title=Interview {{!}} Prof. Rachid Deriche laureat of the Grand Prize of the EADS Corporate Foundation in Computer Science|last=The Algerian network for academics, scientists & researchers|date=2013-12-04|access-date=2017-04-09}}</ref>
+
+== Contributions ==
+Deriche has made major contributions to the scientific community, mainly in image processing, [[computer vision]] and neuro-imaging. In 1987, Deriche has developed [[Deriche edge detector|Deriche Edge Detector]] which is a low-level, recursively implemented, optimal edge detector based on [[Canny edge detector|Canny's edge detector]] criteria for optimal edge detection. In 1998, based on his works in Computational image processing, Early vision, 3D reconstruction, panoramic photography, image-based modeling, and [[motion analysis]], he co-founded with his Inria colleagues (among which O. Faugeras, T. Papadopoulo and L. Robert),  Realviz, a start-up specialized in image-based content creation solutions for the film, broadcast, gaming, digital imaging and architecture.<ref name=":0" /> The startup was acquired by [[Autodesk]] in 2008.<ref>{{Cite web|url=http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=11983367&linkID=14271589|title=Autodesk - Press Room Archive - Autodesk Acquires Assets of REALVIZ, Developer of Image-Based Content Creation Software|website=usa.autodesk.com|access-date=2017-04-09}}</ref> Deriche is currently devoting his research to explore the [[Central nervous system|Central Nervous System]] by developing mathematical models and tools to reconstruct the functional and anatomical connections network of the brain.<ref name=":0" /><ref>{{Citation|last=InriaChannel|title=Inria - Rachid Deriche - From Image Processing and computer vision to computational neuro-imaging|date=2014-11-18|url=https://www.youtube.com/watch?v=DTcwz_FLuS4|accessdate=2017-04-23}}</ref>
+
+== Awards and honors ==
+* '''ERC Advanced Grant:''' In 2016, R. Deriche received from the [[European Research Council]] (ERC) under the European Union’s Horizon 2020 research and innovation program a grant to support his research project “Computational Brain Connectivity Mapping”.<ref>{{Cite web|url=https://www.inria.fr/fr/rachid-deriche|title = Rachid Deriche &#124; Inria}}</ref>
+* '''Doctorate Honoris Causa:'''  R. Deriche received the title of Honorary Doctor (honoris causa) from the [[University of Sherbrooke]] in 2014, to honor his scientific contributions and his approach in educating new generations of scientists<ref>{{Cite web|url=https://www.usherbrooke.ca/decouvrir/a-propos/notre-histoire/docteurs-honneur/docteurs/d/rachid-deriche/|title = Rachid Deriche - Découvrir l'UdeS - Université de Sherbrooke}}</ref>
+* '''French Academy of Sciences Grand Prize of the EADS:''' In 2013, R. Deriche was awarded Grand Prize of the [[Airbus|EADS]] Corporate Foundation in Computer Science by the [[French Academy of Sciences]] for all his outstanding scientific contributions in computer science.<ref>{{Cite web|url=https://www.dailymotion.com/video/x2fwm9q|title = Airbus Group - Grand Prix de la Fondation de Rachid Deriche - Vidéo Dailymotion|date = 29 January 2015}}</ref><ref>{{Cite web|url=https://www.canal-u.tv/video/inria/du_traitement_numerique_des_images_et_de_la_vision_par_ordinateur_a_la_neuro_imagerie_un_voyage_dans_la_modelisation_geometrique.14354|title = Du traitement numérique des images et de la vision par ordinateur à la neuro-imagerie : Un voyage dans la modélisation géométrique &#124; Canal U}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://www.inria.fr/en Inria]
+* [https://www.inria.fr/en/teams/athena Athena research project]
+
+{{authority control}}
+
+{{DEFAULTSORT:Deriche, Rachid}}
+[[Category:1954 births]]
+[[Category:People from Thénia]]
+[[Category:Kabyle people]]
+[[Category:Living people]]
+[[Category:French medical researchers]]
+[[Category:French people of Algerian descent]]
+[[Category:Algerian scientists]]
+[[Category:21st-century Algerian physicists]]
+[[Category:Algerian engineers]]
+[[Category:Algerian mathematicians]]
+[[Category:Algerian computer scientists]]

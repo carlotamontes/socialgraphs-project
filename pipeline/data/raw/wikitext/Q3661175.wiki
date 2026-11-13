@@ -1,0 +1,93 @@
+{{Short description|Russian physicist and mathematician}}
+{{Use mdy dates|date=January 2012}}
+{{Infobox scientist
+| name = Vladimir Korepin
+| image = Korepin.jpg
+| image_size = 140px
+| birth_name = 
+| birth_date = {{birth date and age|1951|2|6}}
+| nationality = 
+| fields = [[Theoretical Physics]], [[Mathematics]]
+| workplaces = [[Stony Brook University]]
+| education  = [[Saint Petersburg State University]]
+| doctoral_advisor = [[Ludwig Faddeev]]
+| notable_students = Samson Shatashvilli<br />Fabian Essler<br />Vitaly Tarasov
+| known_for = Izergin-Korepin model <br /> Quantum determinant <br /> Yang action
+| awards = 
+| religion = 
+| footnotes = 
+}}
+
+'''Vladimir E. Korepin''' (born 1951) is a professor at the [[C. N. Yang Institute of Theoretical Physics]] of the [[Stony Brook University]]. Korepin made research contributions in several areas of mathematics and physics.
+
+==Educational background==
+Korepin completed his undergraduate study at [[Saint Petersburg State University]], graduating with a diploma in theoretical physics in 1974.<ref>{{cite web|title=Cancellation of ultra-violet infinities in one loop gravity|url=http://insti.physics.sunysb.edu/~korepin/uvg.pdf|access-date=August 28, 2010|archive-date=July 5, 2010|archive-url=https://web.archive.org/web/20100705074909/http://insti.physics.sunysb.edu/~korepin/uvg.pdf}} (Korepin's graduation thesis)</ref> In that same year he was employed by the [[St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences|Mathematical Institute of Academy of Sciences]]. He worked there until 1989, obtaining his PhD in 1977  under the supervision of [[Ludwig Faddeev]]. At the same institution he completed his postdoctoral studies.
+In 1985, he received a [[Doctor of Science]] degree in [[mathematical physics]].
+
+==Contributions to physics==
+Korepin has made contributions to several fields of theoretical physics. Although he is best known for his involvement in [[condensed matter physics]] and [[mathematical physics]], he significantly contributed to [[quantum gravity]] as well. In recent years, his work has focused on aspects of condensed matter physics relevant for [[quantum information]].
+
+===Condensed matter===
+
+Among his contributions to condensed matter physics, we mention his studies on low-dimensional quantum gases. In particular, the 1D [[Hubbard model]] of strongly correlated fermions,<ref>{{cite book |url=http://www.cambridge.org/catalogue/catalogue.asp?isbn=978-0-521-80262-8|last= Essler |first= F. H. L. |author2=Frahm, H. |author3=Goehmann, F. |author4=Kluemper, A. |author5=Korepin, V. E.  |title= The One-Dimensional Hubbard Model |publisher= Cambridge University Press  |year= 2005 |isbn=978-0-521-80262-8 }}]</ref> and the 1D [[Bose gas]] with [[delta potential]] interactions.<ref>{{cite book |last= Korepin |first= V. E. | url=http://www.cambridge.org/catalogue/catalogue.asp?isbn=978-0-521-58646-7 | title= Quantum Inverse Scattering Method and Correlation Functions |publisher= Cambridge University Press |year= 1993 |isbn=978-0-521-58646-7 |access-date=January 12, 2012}}</ref>
+
+In 1979, Korepin presented a solution of the massive [[Thirring model]] in one space and one time dimension using the [[Bethe ansatz]].<ref>{{cite web|url=http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=tmf&paperid=3053&option_lang=rus |title=V. E. Korepin. ''Theoretical and Mathematical Physics'', '''41''', 169 (1979) |publisher=Mathnet.ru |date=December 28, 1978 |access-date=January 12, 2012}}</ref><ref>{{cite journal |doi=10.1007/BF01028501|title=Direct calculation of the S matrix in the massive thirring model|journal=Theoretical and Mathematical Physics|volume=41|issue=2|pages=953–967|year=1979|last1=Korepin|first1=V. E.|bibcode=1979TMP....41..953K|s2cid=121527379}}</ref> In this work, he provided the exact calculation of the [[mass spectrum]] and the [[S-matrix|scattering matrix]].
+
+He studied [[soliton]]s in the [[Sine-Gordon equation|sine-Gordon model]]. He determined their mass and scattering matrix, both semiclassically and to one loop corrections.<ref>{{cite journal|author=L. D. Faddeev|author2=V. E. Korepin|name-list-style=amp |doi=10.1016/0370-1573(78)90058-3 | volume=42 |issue=1| title=Quantum theory of solitons |journal=Physics Reports |pages=1–87|bibcode = 1978PhR....42....1F |year=1978 }}</ref>
+
+Together with Anatoly Izergin, he discovered the 19-vertex model (sometimes called the Izergin-Korepin model).<ref>{{cite journal|last1=Izergin|first1=A. G.|last2=Korepin|first2=V. E.|title=The inverse scattering method approach to the quantum Shabat-Mikhaĭ lov model|journal=Communications in Mathematical Physics|date=1 January 1981|volume=79|issue=3|pages=303–316|url=http://projecteuclid.org/euclid.cmp/1103909051|doi=10.1007/bf01208496|bibcode=1981CMaPh..79..303I|s2cid=119885983}}</ref>
+
+In 1993, together with A. R. Its, Izergin and N. A. Slavnov, he calculated space, time and temperature dependent [[Correlation function (statistical mechanics)|correlation functions]] in the XX spin chain. The exponential decay in space and time separation of the correlation functions was calculated explicitly.<ref>{{Cite journal|arxiv=0909.4751|title=Temperature Correlation of Quantum Spins |journal=Physical Review Letters |volume=70 |issue=15 |pages=1704–1708 |last1= Its |first1=A. |last2= Izergin |first2=A. |last3= Korepin |first3=V. |last4= Slavnov |first4=N. |year=2009 |doi=10.1103/PhysRevLett.70.2357 |bibcode=1993PhRvL..70.2357I |s2cid=118375258 }}</ref>
+
+===Quantum gravity===
+
+In this field, Korepin has worked on the cancellation of [[Renormalization|ultra-violet infinities]] in one loop [[On shell and off shell|on mass shell]] gravity.<ref>{{cite book |last= Feynman |first= R. P. |author2= Morinigo, F. B. |author3= Wagner, W. G. |author4= Hatfield, B. |title= Feynman lectures on gravitation |publisher= Addison-Wesley |year= 1995 |isbn= 978-0-201-62734-3 |url-access= registration |url= https://archive.org/details/feynmanlectureso0000feyn_g4q1 }} [https://books.google.com/books?id=jL9reHGIcMgC&q=Feynman+lectures+on+gravitation. See the web page]{{Dead link|date=July 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite arXiv|eprint=0905.2175|title=Cancellation of ultra-violet infinities in one loop gravity |date=May 13, 2009 |last1= Korepin  |first1=V. E.  |class=gr-qc  }}</ref>
+
+==Contributions to mathematics==
+In 1982, Korepin introduced domain wall boundary conditions for the [[six vertex model]], published in ''[[Communications in Mathematical Physics]]''.<ref>{{cite journal|last1=Korepin|first1=V. E.|title=Calculation of norms of Bethe wave functions|journal=Communications in Mathematical Physics|date=1 January 1982|volume=86|issue=3|pages=391–418|url=http://projecteuclid.org/euclid.cmp/1103921777|bibcode=1982CMaPh..86..391K|doi=10.1007/BF01212176|s2cid=122250890}}</ref> The result plays a role in diverse fields of mathematics such as [[algebraic combinatorics]], [[Alternating sign matrix|alternating sign matric]]es, [[domino tiling]], [[Young diagram]]s and [[plane partition]]s.  In the same paper the [[determinant]] formula was proved for the square of the norm of the Bethe ansatz wave function. It can be represented as a determinant of linearized system of Bethe equations. It can also be represented as a matrix determinant of second derivatives of the [[Chen Ning Yang|Yang]] action.
+
+The so-called "Quantum Determinant" was discovered in 1981 by A.G. Izergin and V.E. Korepin.<ref>{{cite arXiv|eprint=0910.0295|title= A lattice model related to the nonlinear Schroedinger equation|date=October 2, 2009 |last1= Izergin  |first1=A. G.  |last2= Korepin  |first2=V. E.  |class=math.QA  }}</ref> It is the center of the [[Yang–Baxter algebra]].
+
+The study of differential equations for quantum [[correlation functions]] led to the discovery of a special class of [[Fredholm integral equation|Fredholm integral operators]]. Now they are referred to as completely integrable integral operators.<ref>{{cite journal |doi=10.1142/S0217979290000504 |bibcode=1990IJMPB...4.1003I |title=Differential Equations for Quantum Correlation Functions |journal=International Journal of Modern Physics B |volume=04 |issue=5 |page=1003 |year=1990 |last1=Its |first1=A.R. |last2=Izergin |first2=A.G. |last3=Korepin |first3=V.E. |last4=Slavnov |first4=N.A. }}</ref> They have multiple applications not only to quantum [[Integrable system|exactly solvable models]], but also to [[Random matrix|random matrices]] and [[algebraic combinatorics]].
+
+==Contributions to quantum information and quantum computation==
+Vladimir Korepin has produced results in the evaluation of the [[Maximally entangled state|entanglement entropy]] of different dynamical models, such as interacting spins, [[Bose gas]]es, and the [[Hubbard model]].<ref>{{cite journal |doi=10.1103/PhysRevLett.92.096402|pmid=15089496|title=Universality of Entropy Scaling in One Dimensional Gapless Models|journal=Physical Review Letters|volume=92|issue=9|article-number=096402|year=2004|last1=Korepin|first1=V. E.|bibcode=2004PhRvL..92i6402K|arxiv=cond-mat/0311056|s2cid=20620724}}</ref> He considered models with unique [[ground state]]s, so that the [[entropy]] of the whole ground state is zero. The ground state is [[Partition of a set|partitioned]] into two spatially separated parts: the block and the environment. He calculated the entropy of the block as a function of its size and other physical parameters. In a series of articles,<ref>{{cite journal|doi=10.1023/B:JOSS.0000037230.37166.42|title=Quantum Spin Chain, Toeplitz Determinants and the Fisher–Hartwig Conjecture|journal=Journal of Statistical Physics|volume=116|issue=1–4|pages=79–95|year=2004|last1=Jin|first1=B.-Q.|last2=Korepin|first2=V. E.|bibcode=2004JSP...116...79J|arxiv=quant-ph/0304108|s2cid=15965139}}</ref><ref>{{cite journal |doi=10.1088/0305-4470/38/13/011|title=Entanglement in the XY spin chain|journal=Journal of Physics A: Mathematical and General|volume=38|issue=13|page=2975|year=2005|last1=Its|first1=A R|last2=Jin|first2=B-Q|last3=Korepin|first3=V E|bibcode=2005JPhA...38.2975I|arxiv=quant-ph/0409027|s2cid=118958889}}</ref><ref>{{Cite book |arxiv=quant-ph/0606178|last1= Its|first1= A. R.|chapter= Entropy of XY Spin Chain and Block Toeplitz Determinants|title= Fields Institute Communications, Universality and Renormalization |editor=I. Bender |editor2=D. Kreimer |volume= 50|page= 151|last2=  Jin|first2= B. -Q.|last3=  Korepin|first3= V. E.|year= 2006|bibcode=2006quant.ph..6178I}}</ref><ref>{{cite journal |doi=10.1088/1751-8113/40/29/019|title=Ellipses of constant entropy in theXYspin chain|journal=Journal of Physics A: Mathematical and Theoretical|volume=40|issue=29|page=8467|year=2007|last1=Franchini|first1=F|last2=Its|first2=A R|last3=Jin|first3=B-Q|last4=Korepin|first4=V E|bibcode=2007JPhA...40.8467F|arxiv=quant-ph/0609098|s2cid=119628346}}</ref><ref>{{cite journal |doi=10.1088/1751-8113/41/2/025302|title=Renyi entropy of the XY spin chain|journal=Journal of Physics A: Mathematical and Theoretical|volume=41|issue=2|article-number=025302|year=2008|last1=Franchini|first1=F|last2=Its|first2=A R|last3=Korepin|first3=V E|bibcode=2008JPhA...41b5302F|arxiv=0707.2534|s2cid=119672750}}</ref> Korepin was the first to compute the analytic formula for the [[Quantum entanglement|entanglement entropy]] of the XX (isotropic) and XY [[Heisenberg model (quantum)|Heisenberg model]]s. He used [[Toeplitz matrix|Toeplitz Determinants]] and [[Michael Fisher|Fisher]]-Hartwig Formula for the calculation. In the Valence-Bond-Solid states (which is the ground state of the Affleck-Kennedy-[[Elliott H. Lieb|Lieb]]-Tasaki model of interacting spins), Korepin evaluated the entanglement entropy and studied the [[reduced density matrix]].<ref>{{cite journal |doi=10.1103/PhysRevLett.93.227203|pmid=15601113|title=Entanglement in a Valence-Bond Solid State|journal=Physical Review Letters|volume=93|issue=22|article-number=227203|year=2004|last1=Fan|first1=Heng|last2=Korepin|first2=Vladimir|last3=Roychowdhury|first3=Vwani|bibcode=2004PhRvL..93v7203F|arxiv=quant-ph/0406067|s2cid=28587190}}</ref><ref>{{Cite journal|arxiv=0908.2345|title=Entanglement in Valence-Bond-Solid States |journal=International Journal of Modern Physics B  |volume=24  |issue=11  |pages=1361–1440  |last1= Korepin  |first1=Vladimir E.  |last2=Xu  |first2=Ying  |year=2009  |doi=10.1142/S0217979210055676  |bibcode=2010IJMPB..24.1361K |s2cid=115174731 }}</ref>  He also worked on  [[Grover's algorithm|quantum search algorithms]] with [[Lov Grover]].<ref>{{Cite journal|arxiv=quant-ph/0504157|title=Simple Algorithm for Partial Quantum Search|journal=Quantum Information Processing |volume=5 |issue=1 |pages=5–10 |last1= Korepin |first1=Vladimir E. |last2= Grover |first2=Lov K. |year=2005 |doi=10.1007/s11128-005-0004-z |bibcode=2006QuIP....5....5K|s2cid=31236849}}</ref><ref>{{Cite journal|arxiv=quant-ph/0609205|title=Group Theoretical Formulation of Quantum Partial Search Algorithm|journal=Progress of Theoretical Physics |volume=116 |issue=5 |page=783 |last1= Korepin |first1=Vladimir E. |last2= Vallilo |first2=Brenno C. |year=2006 |doi=10.1143/PTP.116.783 |bibcode=2006PThPh.116..783K|s2cid=1750374}}</ref> Many of his publications on entanglement and quantum algorithms can be found on [[ArXiv]].<ref>{{Cite web|url=https://arxiv.org/find/quant-ph/1/au:+Korepin/0/1/0/all/0/1?skip=0&query_id=47279949c7a17e00|title=arXiv.org Search|website=arxiv.org}}</ref>
+
+In May 2003, Korepin helped organize a conference on [[Quantum computer|quantum]] and reversible computations in Stony Brook.<ref>{{cite web|title=Simons Conference on Quantum and Reversible Computation|url=http://insti.physics.sunysb.edu/itp/conf/simons-qcomputation.html|access-date=August 28, 2010}}</ref> Another conference was on November 15–18, 2010, entitled the ''Simons Conference on New Trends in Quantum Computation''.<ref>{{cite web|title=Simons Conference on New Trends in Quantum Computation |url=http://insti.physics.sunysb.edu/itp/conf/simons-qcomputation2/|access-date=August 28, 2010}}</ref>
+
+==Books==
+* Essler, F. H. L.; Frahm, H., Goehmann, F., Kluemper, A., & Korepin, V. E.,  The One-Dimensional Hubbard Model. Cambridge University Press (2005). 
+*  V.E. Korepin, N.M. Bogoliubov and A.G. Izergin, Quantum Inverse Scattering Method and Correlation Functions,  Cambridge University Press (1993).
+* Exactly Solvable Models of Strongly Correlated Electrons. Reprint volume, eds. F.H.L. Essler and V.E. Korepin, World Scientific (1994).
+
+==Honours==
+* Korepin's H-index is 68 with over 20431 citations.  
+* In 1996 Korepin was elected fellow of the American Physical Society.<ref name="faculty page">{{cite web|title=Faculty Page|url=http://insti.physics.sunysb.edu/physics/forms/profilesearch.cgi?lastname=korepin|publisher=Stony Brook University|access-date=August 28, 2010}}</ref> 
+* Fellow of the International Association of Mathematical Physics and the Institute of Physics.<ref name="faculty page"/> 
+* Editor of ''[[Reviews in Mathematical Physics]]'', the ''[[International Journal of Modern Physics]]'' and ''[[Theoretical and Mathematical Physics]]''.
+*  His 60-th birthday was celebrated by Institute of Advanced Studies in Singapore in 2011.<ref>{{cite web |title=The 5th Asia Pacific workshop on Quantum Information Science in conjunction with the Korepin Festschriff |url=http://www.ntu.edu.sg/ias/upcomingevents/SSQISC11/Pages/default.aspx |access-date=June 6, 2011 |archive-date=April 19, 2019 |archive-url=https://web.archive.org/web/20190419065643/http://www.ntu.edu.sg/ias/upcomingevents/SSQISC11/Pages/default.aspx }}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{commons}}
+*{{MathGenealogy |id=55612}}
+*[http://insti.physics.sunysb.edu/~korepin/  Research and achievements]
+*[https://arxiv.org/find/grp_cs,grp_math,grp_nlin,grp_physics/1/au:+korepin/0/1/0/all/0/1/ Publications on arXiv]
+*[http://inspirehep.net/search?p=author%3AV.E.Korepin.1+ Korepin on INSPIRE-HEP]
+*[http://insti.physics.sunysb.edu/physics/forms/profilesearch.cgi?lastname=korepin Faculty webpage]
+*[http://www.mathnet.ru/eng/person21624 Early publications]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Korepin, Vladimir}}
+[[Category:1951 births]]
+[[Category:Quantum physicists]]
+[[Category:21st-century American physicists]]
+[[Category:Russian physicists]]
+[[Category:Russian mathematicians]]
+[[Category:Living people]]
+[[Category:Stony Brook University faculty]]
+[[Category:Russian theoretical physicists]]
+[[Category:Fellows of the American Physical Society]]

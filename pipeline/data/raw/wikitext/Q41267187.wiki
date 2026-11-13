@@ -1,0 +1,55 @@
+{{Short description|Czech chemist (1938–2024)}}{{Infobox scientist
+| name              = Jiří Čížek
+| birth_date        = 1938|08|24
+| death_date        = 2024|12|24
+| education         = [[Charles University]]
+| known_for         = Developing [[coupled cluster]] methods for study of electron correlation of atoms and molecules
+}}
+
+'''Jiří Čížek''' (August 24, 1938 – December 24, 2024) was a Distinguished Emeritus professor at [[University of Waterloo]] in Canada.<ref>{{cite web |url=https://uwaterloo.ca/applied-mathematics/about/people/jcizek|title=Profile on University of Waterloo website |date=12 December 2014 |access-date=2 June 2021}}</ref> In 1966 he reformulated the [[coupled cluster]] method (originally developed in the 1950s for nuclear physics) for the study of electron correlation in atoms and molecules (and later worked together with colleague [[Josef Paldus]]).<ref>{{cite journal |last1=Čížek |first1=Jiří |title=Origins of coupled cluster technique for atoms and molecules |journal=Theoretica Chimica Acta |date=1991 |volume=80 |issue=2–3 |pages=91–94 |doi=10.1007/BF01119616 |s2cid=98230684 |url=https://link.springer.com/article/10.1007/BF01119616 |access-date=12 April 2022|url-access=subscription }}</ref><ref>{{cite journal |last1=Bartlett |first1=Rodney J. |title=Perspective on "On the correlation problem in atomic and molecular systems. Calculation of wavefunction components in Ursell-type expansion using quantum-field theoretical methods" |journal=Theoretical Chemistry Accounts |date=2000 |volume=103 |pages=273–275}}</ref> He was a Fellow of the [[Royal Society of Canada]] and has been honored by the [[International Academy of Quantum Molecular Science]].
+
+== Early life and education ==
+
+Čížek was born on August 24, 1938, in [[Prague]], [[Czechoslovakia]], to Václav Čížek (1908–1957) and Jiřina Čížková (1908–1994), who were both physicians. In 1955 he spent a summer working with Jaroslav Koutecký (1922–2005) on problems on kinetic currents in [[polarography]], before Čížek finished his high school education in 1956. He then enrolled at [[Charles University of Prague]] in the [[Faculty of Mathematics and Physics, Charles University|Faculty of Mathematics and Physics]], during which time his father died in 1957, before he finished his Masters ([[RNDr]]) thesis in 1961 and received the {{ill|Heyrovsky Medal|de|Heyrovský-Medaille}} a year later for the contributions to polarography in his first 5 papers. He then began his doctoral studies at the Institute of Physical Chemistry of the [[Czechoslovak Academy of Sciences]] (now the [[J. Heyrovský Institute of Physical Chemistry|J. Heyrovský Institute]]). It was during this time that he proposed the use of the [[coupled cluster]] method for studying [[Electronic correlation|electron correlation]] in atoms and molecules, in his CSc doctoral dissertation, which was completed in 1964 (in the same year his son and first child was born) and defended in 1965. He began working as a Junior Scientist at Institute of Physical Chemistry in [[Prague]] in 1964.<ref name="biography">{{cite journal |last1=Thakkar |first1=Ajit J. |title=The life and work of Jiří Čížek |journal=AIP Conference Proceedings |series=Proceedings of the International Conference of Computational Methods in Sciences and Engineering 2010 (ICCMSE-2010) |date=2015 |volume=1642 |issue=1 |page=138 |doi=10.1063/1.4906640|bibcode=2015AIPC.1642..138T }}</ref>
+
+== Academic career ==
+
+The 1968 [[Warsaw Pact invasion of Czechoslovakia]] interrupted Čížek's doctoral studies, which he was pursuing while working as a Junior Scientist at the Institute of Physical Chemistry in Prague, and forced him to leave his native country. He moved to Canada to join the Department of Applied Mathematics at the [[University of Waterloo]] as an associate professor. Later, he was cross-appointed to  the Department of Chemistry in 1973 and was promoted to full professor in 1975. He also served two terms on the University of Waterloo's Senate, the first one from 1977–80 and the second from 1985–88, and held positions as affiliate professor at [[University of Florida]] in [[Gainesville, Florida|Gainesville]] (appointed in 1982) and adjunct professor at [[Charles University]] (appointed in 1995).  Following the 1989 [[Velvet Revolution]], in 1991 he was able to present and defend his doctoral thesis at the Czechoslovak Academy of Sciences. He retired from the University of Waterloo in 1996 and received the title of Distinguished Professor Emeritus. He also was a permanent Visiting Professor at Charles University.<ref name="biography"/>
+
+== Scientific work ==
+
+The numerous research contributions of Čížek throughout his career, together with a complete bibliography of his 180 peer-reviewed publications, were summarized in the [[American Institute of Physics|AIP]] Proceedings of the International Conference of Computational Methods in Science and Engineering in 2010.<ref name="biography" /> He is internationally recognized for his work in [[quantum chemistry]]. One particularly high-impact contribution was made in 1966, when the [[coupled cluster]] method was reformulated for applications in the electronic structure of atoms and molecules.<ref>{{cite journal |last1=Čížek |first1=Jiří |title=On the Correlation Problem in Atomic and Molecular Systems. Calculation of Wavefunction Components in Ursell‐Type Expansion Using Quantum‐Field Theoretical Methods |journal=J. Chem. Phys. |date=1966 |volume=45 |issue=11 |page=4256 |doi=10.1063/1.1727484 |bibcode=1966JChPh..45.4256C |url=https://aip.scitation.org/doi/abs/10.1063/1.1727484 |access-date=2 June 2021|url-access=subscription }}</ref> This work led directly to the use of coupled cluster methods in many applications of [[computational chemistry]].<ref>{{cite journal |last1=Zhang |first1=Igor Ying |last2=Grüneis |first2=Andreas |title=Coupled Cluster Theory in Materials Science |journal=Frontiers in Materials |date=June 5, 2019 |volume=6 |page=123 |doi=10.3389/fmats.2019.00123|arxiv=2004.06424 |bibcode=2019FrMat...6..123Z |doi-access=free }}</ref> Coupled cluster methods are available in many major [[quantum chemistry]] software packages, including [[Gaussian (software)|Gaussian]], [[Spartan (chemistry software)|Spartan]], and [[GAMESS (US)|GAMESS]].
+
+In 1982, Čížek and E. R. Vrscay wrote a conjecture about the Binet function<ref>{{cite journal |last1=Čížek |first1=J. |last2=Vrscay |first2=E.R. |title=Asymptotic Estimation of the Coefficients of the Continued Fraction ˇ Representing the Binet Function. |journal=C.R. Math. Rep. Acad. Sci. Canada |date=1982 |volume=4 |pages=201–206}}</ref> which was eventually proven by W. B. Jones and W. van Asschler in 1998.<ref>{{cite book |last1=Jones |first1=W.B. |last2=van Asschler |first2=W. |title=in Orthogonal Functions, Moment Theory and Continued Fractions |date=1998 |publisher=M. Deker |pages=257–274}}</ref> The Binet function is relevant to the continuous expansion of the [[gamma function]].
+
+== Personal life ==
+
+He married Ludmila Zamazalová (1939–2008) in September 1963. Together they had a son, Petr (born in 1964, now an urban planner) and a daughter, [[Katerina Cizek|Katerina]] (born in 1969 and now a documentary film maker).<ref name="biography"/> Čížek died in late 2024.<ref>{{cite web |url=https://uwaterloo.ca/math/news/memoriam-jiri-cizek|title=In Memoriam: Jiří Čížek|date=24 January 2025 |access-date=4 February 2025}}</ref>
+
+== Awards ==
+
+* (1962) {{ill|Heyrovsky Medal|de|Heyrovský-Medaille}}<ref name="biography"/>
+* (1976) Received the Medal of the International Academy of Quantum Molecular Science<ref name="biography"/>
+* (1987) Elected to International Academy of Quantum Molecular Science<ref name="biography"/>
+* (1988) Elected Fellow of the Royal Society of Canada<ref name="biography"/>
+* (1991) Recipient of the Heyrovsky Gold Medal of the [[Czechoslovak Academy of Sciences]]<ref name="biography"/>
+* (1994) Alexander von Humboldt Senior Scientist Award<ref name="biography"/>
+* (2006) Czech Spirit Award<ref name="biography"/>
+* Honorary degrees from [[Clark Atlanta University]] (1999) and [[Silesian University in Opava]] (2009)<ref name="biography"/>
+
+== References ==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Čížek, Jiří}}
+[[Category:1938 births]]
+[[Category:2024 deaths]]
+[[Category:20th-century Canadian chemists]]
+[[Category:Czech chemists]]
+[[Category:Academic staff of the University of Waterloo]]
+[[Category:Scientists from Prague]]
+[[Category:Charles University alumni]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Czech emigrants to Canada]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]

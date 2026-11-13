@@ -1,0 +1,87 @@
+{{Short description|Italian experimental physicist (1935–2026)}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox scientist
+| name        = Gianpaolo Bellini
+| image       = Gianpaolo_Bellini_(fisico).jpg
+| image_upright = 0.9
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date|1935|6|12|df=y}}
+| birth_place = [[Milan]], Italy
+| death_date  = {{death date and age|2026|8|12|1935|6|12|df=y}}
+| death_place = [[Foresto Sparso]], Italy
+| fields      = Experimental physics
+| workplaces  = [[University of Milan]] <br/>{{nobr|[[Istituto Nazionale di Fisica Nucleare]]}}
+| known_for   = Low-background neutrino detection <br/>Borexino experiment<br>Silicon active targets<br>Micro-vertex techniques
+| awards      = {{ubil|[[Bruno Pontecorvo Prize]] (2016) |Enrico Fermi Prize (2017) |Giuseppe and Vanna Cocconi Prize (2021)}}
+}}
+
+'''Gianpaolo Bellini''' (12 June 1935 – 12 August 2026) was an Italian experimental physicist, who was [[Professor emeritus|Emeritus Professor]] of Physics at the [[University of Milan]] and emeritus Scientist of the [[Istituto Nazionale di Fisica Nucleare]] (INFN). He is known for pioneering work in low-background neutrino detection and for leading the [[Borexino]] experiment at the [[Gran Sasso National Laboratory]], which performed precision spectroscopy of solar neutrinos — including the first direct evidence of the [[CNO cycle]] — and measurements of [[geoneutrino]]s.<ref name="NatureCNO">{{cite journal |last1=Borexino Collaboration |title=Experimental evidence of neutrinos produced in the CNO fusion cycle in the Sun |journal=Nature |volume=587 |year=2020 |issue=7835 |pages=577–582 |doi=10.1038/s41586-020-2934-0 |pmid=33239797 |arxiv=2006.15115 |bibcode=2020Natur.587..577B }}</ref><ref name="NaturePP">{{cite journal |last1=Borexino Collaboration |title=Neutrinos from the primary proton–proton fusion process in the Sun |journal=Nature |volume=512 |year=2014 |issue=7515 |pages=383–386 |doi=10.1038/nature13702 |pmid=25164748 |bibcode=2014Natur.512..383B }}</ref><ref name="NaturePPChain">{{cite journal |last1=Borexino Collaboration |title=Comprehensive measurement of pp-chain solar neutrinos |journal=Nature |volume=562 |year=2018 |issue=7728 |pages=505–510 |doi=10.1038/s41586-018-0624-y |pmid=30356186 |bibcode=2018Natur.562..505B |hdl=11567/930098 |hdl-access=free }}</ref> Earlier in his career he introduced silicon active targets and micro-vertex techniques that enabled the first lifetime measurements of charmed hadrons at fixed-target experiments.<ref name="E687">{{cite journal |last1=Frabetti |first1=P.L. |title=Measurement of the masses and widths of L=1 charmed mesons |journal=Phys. Rev. Lett. |volume=72 |year=1994 |issue=3 |pages=324–327 |doi=10.1103/PhysRevLett.72.324 |pmid=10056402 |bibcode=1994PhRvL..72..324F }}</ref>
+
+== Career ==
+Bellini held a NATO Fellowship at the École Normale Supérieure d'Orsay (1966–1967). He obtained the Italian ''Libera Docenza'' (1967), served as Assistant Professor (1969–1976), and became Full Professor at the University of Milan in 1976; he was a [[CERN]] Fellow in 1984–1985.<ref name="INFNCV">{{cite web |title=Curriculum Vitae Gianpaolo Bellini |url=https://www0.mi.infn.it/~bellini/pdf/CV.pdf|publisher=INFN Milano |access-date=7 September 2025}}</ref> Within INFN he served on the National Council (1973–1983), was a member of the executive committee and vice-president (1983–1989), and chaired the National Computing Committee (1981–1983). He coordinated the INFN national program on applied superconductivity for LEP2 and LHC developments (1993–1999). He directed the University of Milan PhD School in Physics, Astrophysics and Applied Physics (2003–2008).<ref name="INFNCV" />
+
+At the European level he served on the Council of the [[European Physical Society]] (1980–1983), and was a member of [[European Committee for Future Accelerators|ECFA]] and restricted-ECFA (1983–1986). He was a consultant for Italy's first national research assessment (CIVR, 2006). He was a member of the Istituto Lombardo, Accademia di Scienze e Lettere (from 2013) and an honorary member of the [[Italian Physical Society]] (from 2010).<ref name="INFNCV" />
+
+== Death ==
+Bellini died in [[Foresto Sparso]] on 12 August 2026, at the age of 91.<ref>[https://www.infn.it/addio-a-gianpaolo-bellini-protagonista-della-fisica-dei-neutrini-e-ideatore-dellesperimento-borexino/ Addio a Gianpaolo Bellini, protagonista della fisica dei neutrini e ideatore dell'esperimento Boxerino] {{in lang|it}}</ref>
+
+== Research ==
+=== High-energy physics ===
+From the late 1960s through the 1990s Bellini led joint University of Milan–INFN teams at CERN, IHEP Serpukhov, and Fermilab. He helped establish coherent production on nuclei as a tool to study hadron production mechanisms and resonance properties, introducing the concept of an “active target” based on thin silicon layers. His group built one of the first silicon micro-strip micro-vertex detectors in a large spectrometer (Fermilab E687), enabling precision lifetime measurements and spectroscopy of charmed mesons and baryons and the determination of the lifetime hierarchy in the charm sector.<ref name="E687" />
+
+=== Borexino and low-background neutrino physics ===
+Beginning in 1990 Bellini proposed, designed, and led Borexino, an ultra-low-background liquid-scintillator detector at LNGS optimized for sub-MeV solar neutrinos. The collaboration developed radiopurification and assay methods that set benchmarks for intrinsic radiopurity, allowing real-time measurements of pp, 7Be, pep and solar 8B neutrinos; precision tests of the MSW-LMA survival probability from vacuum to matter regimes; and the first direct observation of CNO-cycle neutrinos.<ref name="NatureCNO" /> Borexino also made competitive measurements of geoneutrinos and set limits on rare processes and non-standard neutrino interactions. Bellini served as Borexino spokesperson from 1990 to 2012 and subsequently as a collaboration and Institutional Board member.<ref name="INFNCV" />
+
+== Technical contributions ==
+* Silicon active targets for coherent production studies (CERN and Serpukhov).<ref name="E687" />
+* First large-scale micro-vertex detector with silicon micro-strips in a fixed-target spectrometer (Fermilab E687).<ref name="E687" />
+* Innovative radiopurification techniques for organic scintillators, enabling Borexino's ultra-low backgrounds.<ref name="NaturePP" />
+
+== Editorial and scientific organization ==
+Bellini served as editor at ''EPJ Plus''.<ref>{{cite web |title=EPJ Plus Editorial Board |url=https://epjplus.epj.org |access-date=7 September 2025}}</ref> He founded the ''Physics in Collision'' conference series (editor of the 1981 inaugural volume) and co-founded ''Heavy Quarks and Leptons'' (originating as “Heavy Quarks at Fixed Target” in 1993; broadened in 2002). Founder and director during 15 years of the international network ISAPP (International School of Astroparticle Physics), which now includes 37 institutions in 13 countries.
+
+== Honours and recognition ==
+* [[Bruno Pontecorvo]] Prize (2016), for contributions to low-energy neutrino detection, the realization of Borexino, and its solar and geoneutrino results.<ref>{{cite web |title=Bruno Pontecorvo Prize to Gianpaolo Bellini |url=https://www.gssi.it/communication/news-events/item/854-bellini-awarded-the-international-prize-bruno-pontecorvo&lang=en |publisher=GSSI |access-date=7 September 2025}}</ref>
+* Enrico Fermi Prize of the Italian Physical Society (2017).<ref>{{cite web |title=Enrico Fermi Prize 2017 |url=https://new.primapagina.sif.it/article/637/alle-scoperte-sul-neutrino-al-gran-sasso-il-premio-Enrico-Fermi |access-date=7 September 2025}}</ref>
+* Giuseppe and Vanna Cocconi Prize of the European Physical Society to the Borexino Collaboration (2021).<ref>{{cite web |title=Cocconi Prize 2021 |url=https://borex.lngs.infn.it/news/awards/borexino-awarded-the-eps-2021-cocconi-prize/ |access-date=7 September 2025}}</ref>
+* ''Physics World'' Top-10 Breakthroughs (2014: detection of solar fusion neutrinos; 2020: CNO neutrinos).<ref>{{cite web |title=Physics World Top 10 Breakthroughs |url=https://physicsworld.com |access-date=7 September 2025}}</ref>
+* Italian Postal Service commemorative stamp honoring Borexino (2014).<ref>{{cite web |title=Le eccellenze del sapere |url=https://primapagina.sif.it |access-date=7 September 2025}}</ref>
+
+== Selected publications ==
+* Borexino Collaboration, “Neutrinos from the primary proton–proton fusion process in the Sun,” ''Nature'' 512 (2014) 383.<ref name="NaturePP" />
+* Borexino Collaboration, “Experimental evidence of neutrinos produced in the CNO fusion cycle in the Sun,” ''Nature'' 587 (2020) 577.<ref name="NatureCNO" />
+* Borexino Collaboration, “Comprehensive measurement of pp-chain solar neutrinos,” ''Nature'' 562 (2018) 505.<ref name="NaturePPChain" />
+* Borexino Collaboration, “Observation of geo-neutrinos,” ''Phys. Lett. B'' 687 (2010) 299.
+* Borexino Collaboration, “Precision measurement of the 7Be solar neutrino interaction rate in Borexino,” ''Phys. Rev. Lett.'' 107 (2011) 141302.
+* Borexino Collaboration, “First evidence of pep solar neutrinos by direct detection in Borex
+* Borexino Collaboration, “First evidence of pep solar neutrinos by direct detection in Borexino,” ''Phys. Rev. Lett.'' 108 (2012) 051302.
+* Borexino Collaboration, “Neutrinos from the primary proton–proton fusion process in the Sun,” ''Nature'' 512 (2014) 383.<ref name="NaturePP" />
+* Borexino Collaboration, “Comprehensive measurement of pp-chain solar neutrinos,” ''Nature'' 562 (2018) 505.<ref name="NaturePPChain" />
+* Borexino Collaboration, “Experimental evidence of neutrinos produced in the CNO fusion cycle in the Sun,” ''Nature'' 587 (2020) 577.<ref name="NatureCNO" />
+* P.L. Frabetti et al., “Measurement of the mass and lifetime of the X0,” ''Phys. Rev. Lett.'' 70 (1993) 1381.
+* E687 Collaboration, “Measurement of the masses and widths of L=1 charmed mesons,” ''Phys. Rev. Lett.'' 72 (1994) 324.<ref name="E687" />
+
+== See also ==
+* [[Borexino]]
+* [[Gran Sasso National Laboratory]]
+* [[Neutrino astronomy]]
+* [[CNO cycle]]
+* [[Geoneutrino]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.unimi.it/en/ugov/person/gianpaolo-bellini University of Milan – Gianpaolo Bellini profile]
+* [https://www.mi.infn.it/ INFN Milano – Gianpaolo Bellini]
+* [https://borex.lngs.infn.it/ Borexino Experiment official web site]
+
+{{authority control}}
+
+{{DEFAULTSORT:Bellini, Gianpaolo}}
+[[Category:1935 births]]
+[[Category:2026 deaths]]
+[[Category:Academics from Milan]]
+[[Category:Italian experimental physicists]]
+[[Category:Academic staff of the University of Milan]]

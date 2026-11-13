@@ -1,0 +1,93 @@
+{{short description|French mathematical physicist}}
+{{Infobox academic
+| name             = Uriel Frisch
+| image            =
+| caption          = 
+| birth_date       = {{birth date and age|1940|12|10}}
+| birth_place      = [[Agen]], [[France]]
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place      = 
+| occupation       = [[Mathematical physics|Mathematical physicist]]
+| known_for        = 
+| title            = Director of Research Emeritus
+| boards           = {{UBL
+  |French Academy of Sciences (2008)
+  |[[Ordre national du Mérite]]
+}}
+| spouse           = Hélène Frisch
+| relatives        = [[Paul Lévy (mathematician)|Paul Lévy]]
+| awards           = {{UBL
+  |Peccot Prize of the Collège de France (1967)
+  |Bazin Prize of the French Academy of Sciences (1987)
+  |[[Lewis Fry Richardson]] Medal (2003)
+  |Modesto Panetti e Carlo Ferrari Prize (2010)
+}}
+| education        = [[French National Centre for Scientific Research]]
+| thesis_title     = La propagation des ondes en milieu aléatoire et les équations stochastiques (Wave propagation in a random medium and stochastic equations)
+| thesis_url       = https://www.researchgate.net/publication/241390054_La_propagation_des_ondes_en_milieu_aleatoire_et_les_equations_stochastiques
+| thesis_year      = 1966
+| doctoral_advisor = [[Robert Kraichnan]]
+| discipline       = Physicist
+| sub_discipline   = Fluid dynamics
+| institutions     = French National Centre for Scientific Research
+| notable_students = {{UBL
+  |Marcel Lesieur (1973)
+  |Claude Basdevant (1981)
+  |Zhen-Su She (1987)
+  |Silvio Gama (1993)
+}}
+| main_interests   = 
+| notable_works    = ''Turbulence: The Legacy of A. N. Kolmogorov''
+| notable_ideas    = 
+| footnotes        = List of notable students from the [[Mathematics Genealogy Project]].<ref>{{cite web |title=Uriel Frisch |url=https://www.mathgenealogy.org/id.php?id=94475 |website=The Mathematics Genealogy Project |publisher=[[North Dakota State University]] |access-date=7 November 2025}}</ref> 
+}}
+
+'''Uriel Frisch''' (born December 10, 1940 in [[Agen]], France)<ref name="as"/> is a French [[mathematical physics|mathematical physicist]] known for his work on [[fluid dynamics]] and [[turbulence]].
+
+==Biography==
+From 1959 to 1963 Frisch was a student at the [[École Normale Supérieure]]. Early in his graduate studies, he became interested in turbulence, under the mentorship of [[Robert Kraichnan]], a former assistant to [[Albert Einstein]].<ref>{{cite web |title=Renowned Turbulence Expert Uriel Frisch visits PKU:Hold onto Turbulence Tightly Like a "Bulldog" |url=http://web5.pku.edu.cn/engineering/xwzx/News/2833.htm |website=College of Engineering |publisher=[[Peking University]] |access-date=7 November 2025 |archive-url=https://web.archive.org/web/20160304002311/http://web5.pku.edu.cn/engineering/xwzx/News/2833.htm |archive-date=4 March 2016 |date=2009 |url-status=dead }}</ref> Frisch earned a Ph.D. in 1967 from the [[University of Paris]], and since then he has worked at the [[French National Centre for Scientific Research]] (CNRS). He retired in 2006, and became a director of research emeritus at CNRS.<ref name="as"/><ref name="cv">[http://www.oca.eu/uriel/curri_uf_engl.html Curriculum vitae], retrieved 2012-03-05.</ref>
+
+Frisch's wife, Hélène, is also a physicist and the grand daughter of mathematician [[Paul Lévy (mathematician)|Paul Lévy]].<ref>{{citation|title=A mathematician grappling with his century|first=Laurent|last=Schwartz|publisher=Springer|year=2001|isbn=978-3-7643-6052-8|page=141|url=https://books.google.com/books?id=xVrC7ek7iRwC&pg=PA141}}.</ref>
+
+==Research==
+Frisch is the author of a 1995 book on turbulence and of over 200 research publications.{{sfn|Frisch|1995}}
+
+One of his most cited works, published in 1986, concerns the [[lattice gas automaton]] method of simulating fluid dynamics using a [[cellular automaton]]. The method used until that time, the [[HPP model]], simulated particles moving in axis-parallel directions in a [[square lattice]], but this model was unsatisfactory because it obeyed unwanted and unphysical [[Conservation law (physics)|conservation law]]s (the [[conservation of momentum]] within each axis-parallel line). Frisch and his co-authors [[Brosl Hasslacher]] and [[Yves Pomeau]] introduced a model using instead the [[hexagonal lattice]] which became known as the FHP model after the initials of its inventors and which much more accurately simulated the behavior of actual fluids.{{sfn|Frisch|Hasslacher|Pomeau|1986}}<ref>{{cite journal |last1=Wilson |first1=Greg |title=The Life and Times of Cellular Automata |journal=New Scientist |date=8 October 1988 |volume=120 |issue=1633 |pages=44–47 |url=https://www.aivc.org/sites/default/files/airbase_3603.pdf |access-date=7 November 2025 |language=en}}</ref>
+
+Frisch is also known for his work with [[Giorgio Parisi]] on the analysis of the [[fine structure]] of turbulent flows,<ref>{{cite book |last1=Jaffard |first1=Stéphane |last2=Meyer |first2=Yves |last3=Ryan |first3=Robert D. |title=Wavelets: Tools for Science and Technology |date=2001 |publisher=Society for Industrial and Applied Mathematics |location=Boston, MA |isbn=978-0-89871-448-7 |pages=241–266 |url=https://www.google.com/books/edition/Wavelets/3Pc06HK4rVUC?hl=en&gbpv=0 |access-date=7 November 2025 |language=en}}</ref> for his early advocacy of [[multifractal system]]s in modeling physical processes,<ref>{{cite book |last1=Barndorff-Nielsen |first1=Ole E. |last2=Mikosch |first2=Thomas |last3=Resnick |first3=Sidney I. |title=Lévy Processes: Theory and Applications |date=30 March 2001 |publisher=Springer Science & Business Media |isbn=978-0-8176-4167-2 |page=127|url=https://www.google.com/books/edition/L%C3%A9vy_Processes/ExpTdTauXMwC?hl=en&gbpv=1&pg=PA262&printsec=frontcover |access-date=7 November 2025 |language=en}}</ref> and for his research on using [[Transportation theory (mathematics)|transportation theory]] to reconstruct the distribution of matter in the early universe.<ref>{{cite journal |last1=Frisch |first1=Uriel |last2=Matarrese |first2=Sabino |last3=Mohayaee |first3=Roya |last4=Sobolevski |first4=Andrei |title=A reconstruction of the initial conditions of the Universe by optimal mass transportation |journal=Nature |date=May 2002 |volume=417 |issue=6886 |pages=260–262 |doi=10.1038/417260a |url=https://www.nature.com/articles/417260a |access-date=7 November 2025 |language=en |issn=1476-4687|arxiv=astro-ph/0109483 }}</ref>
+
+==Awards and honors==
+Frisch won the Peccot Prize of the [[Collège de France]] for his doctoral thesis in 1967, the Bazin Prize of the French Academy of Sciences in 1985, and the [[Lewis Fry Richardson]] Medal of the [[European Geosciences Union]] "for his fundamental contributions to the understanding of turbulence" in 2003.<ref name="as"/><ref>{{cite web |title=EGS Awards - Lewis Fry Richardson Medallist - 2002 |url=https://www.egu.eu/egs/medalists/frisch03.htm |website=www.egu.eu |access-date=7 November 2025}}</ref>
+
+He is a member of the [[French Academy of Sciences]] since 2008.<ref name="as">{{cite web |title=Uriel Frisch |url=https://www.academie-sciences.fr/uriel-frisch |website=www.academie-sciences.fr |publisher=[[Académie des sciences]] |access-date=7 November 2025}}</ref> He is an Officier of the [[Ordre national du Mérite]] and the recipient of the 2010 Modesto Panetti e Carlo Ferrari prize.<ref>{{cite web|title=Modesto Panetti e Carlo Ferrari prize|url=http://www.accademiadellescienze.it/premi/panetti-ferrari|publisher=Italian Academy of Sciences}}</ref> In 2020 he has been awarded with the prize EUROMECH, provided by the European Mechanics Society.<ref>{{cite web |title=Fluid Mechanics Prizes – Euromech |url=https://euromech.org/prizes/fluid |website=euromech.org |access-date=7 November 2025}}</ref>
+
+==Selected publications==
+*{{citation|last1=Frisch|first1=U.|last2=Hasslacher|first2=B.|author2-link=Brosl Hasslacher|last3=Pomeau|first3=Y.|doi=10.1103/PhysRevLett.56.1505|issue=14|journal=Phys. Rev. Lett.|pages=1505–1508|title=Lattice-gas automata for the Navier-Stokes equation|volume=56|year=1986|bibcode=1986PhRvL..56.1505F|pmid=10032689|doi-access=free
+ }}
+*{{cite book|mr=1428905|last=Frisch|first=Uriel|title=Turbulence. The legacy of A. N. Kolmogorov|publisher=Cambridge University Press|location=Cambridge|year=1995|isbn=0-521-45103-5}}<ref>{{citation|title=Of cream and clouds (review of Faber's ''Fluid Dynamics for Physicists'' and Frisch's ''Turbulence'')|journal=[[Times Higher Education]]|date=8 November 1996|url=http://www.timeshighereducation.co.uk/story.asp?storyCode=162027&sectioncode=1|first=Peter|last=Bradshaw}}</ref>
+*{{cite journal|journal=Nature|year=2002|arxiv=astro-ph/0109483|volume=417|issue=6886|pages=260&ndash;262|title=A reconstruction of the initial conditions of the universe by optimal mass transportation|last1=Frisch|first1=U.|last2=Matarrese|first2=S.|last3=Mohayaee|first3=R|last4=Sobolevski|first4=A.|doi=10.1038/417260a|bibcode=2002Natur.417..260F|pmid=12015595|s2cid=4379455}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+*{{citation|url=http://www.academie-sciences.fr/academie/membre/FrischU_notice_2009.pdf|last=Frisch|first=Uriel|year=2009|publisher=French Academy of Sciences|language=French|title=Notice sur les travaux de Uriel Frisch}}
+
+==External links==
+* {{MathGenealogy|id=94475}}
+* [https://www.flickr.com/photos/ansobol/sets/72157625666112736/ Nice Uriel-fest, December 2010] (Photographs from a symposium in honor of Frisch)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Frisch, Uriel}}
+[[Category:Living people]]
+[[Category:École normale supérieure (Paris) alumni]]
+[[Category:University of Paris alumni]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:French mathematicians]]
+[[Category:French physicists]]
+[[Category:French fluid dynamicists]]
+[[Category:Cellular automatists]]
+[[Category:French mathematical physicists]]
+[[Category:1940 births]]
+[[Category:People from Agen]]

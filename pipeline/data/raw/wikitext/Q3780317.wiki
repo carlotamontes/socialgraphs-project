@@ -1,0 +1,131 @@
+{{Infobox scientist
+| name              = Günter Wolfgang Wyszecki
+| image             = File:GWyszImage3.png
+| image_size        = 
+| caption           = 
+| birth_date        = November 8, 1925
+| birth_place       = [[Tilsit]], East Prussia, Germany
+| death_date        = June 22, 1985
+| death_place       = [[Ottawa]], Ontario, Canada
+| education         = [[Technische Universität Berlin]] (Dipl.-Ing.)
+| spouse            = Ingeborg Christine Wyszecki
+| children          = 2
+| field             = [[Color science]]
+| workplaces        = {{unbulleted list|[[National Bureau of Standards]], |[[National Research Council of Canada]]}}
+| office            = President of the CIE (1983–1985)
+| known_for         = {{Unbulleted list
+  | [[Metamerism (color)|Metamerism]]
+  | [[Illuminant D65|Standard illuminant D]]
+  | Uniform color spaces ([[CIELAB]], [[CIELUV]])
+  | Helmholtz–Kohlrausch effect
+  | ''Color Science''
+  }}
+| awards            = {{Unbulleted list
+  | Fulbright Scholar (1953))
+  | [[Deane B. Judd Award]] (1979)
+  | Bruning Award (1981)
+  | Godlove Award (1984) }}
+| footnotes         = 
+| signature         = 
+}}
+
+'''Günter Wolfgang Wyszecki''' (November 8, 1925 – June 22, 1985) was a [[Germany|German]]-[[Canada|Canadian]] physicist and international authority on  [[colorimetry]] and [[color vision]].<ref>{{Cite newsletter |first1=Alan R. |last1=Robertson |title=Necrology of G. Wyszecki |magazine=AIC Newsletter |publisher=[[International Colour Association]] |issue=3 |date=August 1986 |pages=18–20 |url=https://www.aic-color.org/resources/Documents/AIC_news03-86.pdf |url-status=live |archive-url=https://web.archive.org/web/20231129162342/https://www.aic-color.org/resources/Documents/AIC_news03-86.pdf |archive-date=2023-11-29}}</ref> As Head of Optics at the National Research Council of Canada and President of the [[:fr:Commission_internationale_de_l'éclairage|CIE]], he pioneered color standardization, metamerism theory, uniform color spaces (CIELAB/CIELUV), and co-authored the standard treatise Color Science.
+
+== Education and personal life==
+
+
+
+Günter was born in [[Tilsit]], [[East Prussia]], Germany (today Sovetsk, [[Russia]]). He attended the [[Technische Universität Berlin]], specializing in descriptive geometry. 
+
+He applied his mathematical background to color vision for his doctoral dissertation on normal and anomalous trichromacy,<ref>G. Wyszecki, Valenzmetrische Untersuchung  des Zusammenhanges zwischen normaler und anomaler Trichromasie, Farbe 2 (1953) 39-45. [https://d-nb.info/480361053 Catalogue link] in [[German National Library]]</ref> earning his Dr.-Ing. degree in mathematics and physics in 1953.
+
+The same year, he was awarded a [[Fulbright Scholarship]] and for a year joined [[Deane B. Judd]] at the [[Colorimetry]] and [[Photometry (optics)|Photometry]] section of the U. S. [[National Bureau of Standards]] in By 1959, American color scientist David MacAdam noted that Wyszecki’s section at the NRC was "taking over world leadership in colour research". Wyszecki later served as Assistant Director of the Physics Division and was appointed Director of the NRC's proposed Institute for Optics.
+
+On August 4, 1954, Günter Wolfgang Wyszecki married Ingeborg Christine (born in 1926 in Berlin), a medical technical assistant, in Bischofsgrün, Bavaria. The couple had two children, Joana (1957) and [[Wolf Larson|Wolfgang]] (1959).
+
+In 1955, he joined the Physics Division of the National Research Council of Canada (NRC) at Ottawa, recruited upon the recommendation of Dr. W.E.K. Middleton.
+
+By 1959, American color scientist David MacAdam noted that Wyszecki’s section at the NRC was "taking over world leadership in colour research". Günter Wyszecki later served as Assistant Director of the Physics Division and was appointed Director of the NRC's proposed Institute for Optics.
+
+Günter Wyszecki became a naturalized Canadian citizen in 1961.
+
+He passed away on June 22, 1985, at the age of 59. 
+==Career==
+
+In 1955 Wyszecki joined the [[National Research Council of Canada]] (NRC) in [[Ottawa]] where he became the leader of its Optics Section in 1960 and Assistant Director of the Division of Physics in 1982 and where he remained until his untimely death from leukemia.
+
+In 1984, he was appointed Director of the proposed Institute for Optics of the NRC in Quebec City. Throughout his career at the NRC, he also served as Program Co-ordinator of the NRC Office of Lighting Research, Member of the Board of Directors of the U.S. Lighting Research Institute, and Adjunct Professor at the School of Optometry at the University of Waterloo. 
+
+Wyszecki is best known for his scientific contributions to and leadership in the [[International Commission on Illumination]] (CIE). He co-founded the Canadian National Committee of the CIE in 1958, serving as its president from 1960 to 1963. He was chairman of its Colorimetry Committee from 1963 to 1975, vice president of the organization from 1975 to 1983, and its president from 1983 until his death. He was also the founding President of the Canadian Society for Color.
+
+During his tenure at the CIE, the organization made many important recommendations in colorimetry, remaining valid today, such as 1 nm tables of the color-matching functions of the two CIE standard observers and the standard illuminants A and D65, addition of integrating-sphere reflectance factor measurement as a recommended measuring geometry, the 1964 ({{tmath|U^*V^*W^*}}) and the 1976 CIELAB and CIELUV uniform color space and color difference formulas, and others.
+
+For his contributions to color science and optical research, Wyszecki was elected a Fellow of the Optical Society of America, the Illuminating Engineering Society, and the Royal Society of Canada. He received the 1979 Deane B. Judd – AIC Award, the Bruning Award from the Federation of Societies for Coating Technology, and the Godlove Award from the Inter-Society Color Council.
+
+Wyszecki maintained extensive international collaborations, notably fostering a group of Japanese researchers informally known as "Dr. Wyszecki's Japanese School".<ref>from Wolfgang Budd</ref>
+
+==Research and discoveries==
+
+=== Uniform color spaces and color-difference formulas ===
+
+Wyszecki played a pioneering role in the development and international standardization of uniform color spaces. In 1964, he developed and advocated for the adoption of the CIE 1964 ({{tmath|U^*V^*W^*}}) uniform space. Later, as Chairman of the CIE Colorimetry Committee, he led the effort that culminated in 1976 with the standardization of the CIE 1976 {{tmath|L^*a^*b^*}} (CIELAB) and CIE 1976 {{tmath|L^*u^*v^*}} (CIELUV) color spaces, along with their associated color-difference formulas ({{tmath|\Delta E}}). These spaces remain the global benchmark for industrial color specification and quality control.
+
+=== Standard daylight illuminants ===
+
+In 1964, in collaboration with Deane B. Judd and David L. MacAdam, Wyszecki published groundbreaking research analyzing spectral power distributions of natural daylight. This work led to the mathematical formulation and CIE standardization of the "D" series of daylight illuminants, most notably CIE Standard Illuminant D65 (6500 K). This achievement provided the optical industry with a standardized light source representative of average daylight for global color measurement.
+
+=== Metamerism and metameric blacks ===
+
+Wyszecki introduced the fundamental theoretical concept of "metameric blacks" (metamere Schwarz). In psychophysical colorimetry, a metameric black is defined as a psychophysical definition of black whose tristimulus values equal 0, 0, 0. Within certain physical limits, a metameric black can be added to a spectral reflectance curve to form the various possible metamers (with an identical set of tristimulus values) under a given light.<ref>{{Cite journal |first1=G. |last1=Wyszecki |title=Evaluation of metameric colors |journal=[[Journal of the Optical Society of America]] |volume=48 |issue=7 |year=1958 |pages=451–454 |doi=10.1364/JOSA.48.000451 |s2cid=121430089}}</ref> Building upon this concept, Wyszecki and [[Walter Stanley Stiles|Walter Stiles]] developed advanced mathematical methodologies to calculate by various approaches the number of possible metamers for given chromaticities, peaking at the achromatic colors.<ref>{{Cite journal |first1=W.S. |last1=Stiles |first2=G. |last2=Wyszecki |title=Counting metameric object colors |journal=Journal of the Optical Society of America |volume=52 |issue=3 |year=1962 |pages=313–319 |doi=10.1364/JOSA.52.000313 |s2cid=123364360}}</ref>
+
+=== Wyszecki seven-field colorimeter ===
+He designed and built an advanced seven-field colorimeter, a unique visual apparatus that allowed an observer to view with both eyes (binocularly) one or more of seven contiguous hexagonal fields. Each field was illuminated by separately controllable red, green, and blue (RGB) light sources produced by filtering tungsten light and mixing it within an integrating sphere. This innovative optical design made it possible to conduct complex visual matching experiments under highly uniform binocular viewing conditions, serving as a key instrument for investigating visual color-difference thresholds and color-matching functions.
+
+=== Color matching and color-difference matching ===
+In 1942, [[David MacAdam]]  published his seminal color-matching error ellipses based on data from a single observer (PGN). To assess the universal validity of these visual tolerance limits, research was expanded in 1957 by W. R. J. Brown for 12 observers, and further extended in 1971 by Wyszecki and G. H. Fielder. By analyzing three-dimensional color-matching ellipsoids across a broader group, Wyszecki and Fielder demonstrated significant inter-observer variability, proving that individual visual characteristics prevent a single observer's ellipses from accurately representing the entire population. 
+
+Utilizing his newly designed seven-field colorimeter, Wyszecki also conducted a groundbreaking color-difference matching experiment. Observers viewed three adjacent hexagonal fields in a triangular arrangement. Two fields displayed preselected chromatic stimuli of equal luminance, while the observer was tasked with adjusting both the brightness and chromaticity of the third field. The objective was to match its brightness to the other two fields while simultaneously setting its chromaticity so that the perceived color differences between all three fields appeared identical. This novel psychophysical technique provided crucial empirical data for evaluating visual uniformity and refining non-Euclidean color-difference formulas. 
+
+=== Heterochromatic brightness matching===
+Wyszecki and his co-workers contributed fundamental experimental data on the perceived luminance of equally bright chromatic stimuli. Their research systematically analyzed how many chromatic stimuli, when compared to achromatic (neutral) stimuli of identical psychophysical luminance, appear significantly brighter or lighter—a visual phenomenon often described as "glowing." This work provided critical quantitative measurements of the Wyszecki and [[Helmholtz–Kohlrausch effect]].<ref>{{Cite journal |first1=G. |last1=Wyszecki |title=Correlate for brightness in terms of CIE chromaticity coordinates and luminous reflectance |journal=Journal of the Optical Society of America |volume=57 |issue=2 |year=1967 |pages=254–257 |doi=10.1364/JOSA.57.000254 |pmid=6034531 |s2cid=40383513}}</ref> demonstrating that chromatic purity directly enhances perceived brightness and proving that traditional photometric luminance alone is insufficient to predict human visual brightness.
+
+==Publications==
+
+=== Works from Wyszecki himself ===
+
+
+Wyszecki authored or co-authored 86 scientific papers and 3 books. 
+
+
+His first book, Farbsysteme, was published in Germany in 1960,<ref>{{Cite book |first1=G. |last1=Wyszecki |title=Farbsysteme |location=Göttingen |publisher=Musterschmidt Verlag |year=1960}}</ref> by Musterschmidt, featuring a foreword by American color scientist Deane B. Judd. The monograph serves as a critical anthology and technical atlas of color classification and order systems developed up to the mid-20th century.
+
+
+By 1960, at just 35 years old, Wyszecki had already worked in the national metrology laboratories of three major countries: Germany (PTB), the United States (NBS alongside Judd), and Canada (NRC). This unparalleled global perspective enabled him to create a work that guided industrialists in selecting the right color system for their trade while providing scientists with the exact mathematical tools to convert data between models. Farbsysteme thus laid the essential theoretical groundwork for his later masterwork with W. S. Stiles, Color Science (1967).
+
+
+
+Collaboration with Deane B. Judd<ref>{{Cite book |first1=D.B. |last1=Judd |author-link1=Deane B. Judd |first2=G. |last2=Wyszecki |title=Color in business, science, and industry |location=New York |publisher=Wiley |year=1963 |edition=2nd}}</ref><ref>{{Cite book |first1=D.B. |last1=Judd |first2=G. |last2=Wyszecki |title=Color in business, science, and industry |location=New York |publisher=Wiley |year=1975 |edition=3rd}}</ref> on Color in Business, Science and Industry, a standard reference work in industrial colorimetry. In this text, Wyszecki bridged theoretical color science with commercial and manufacturing applications. His contributions—particularly on color-difference formulas, metamerism, and uniform color spaces—were tailored for practical problem-solving, providing manufacturers in industries such as paint, plastics, and textiles with the mathematical tools required for precise industrial color measurement, specification, and quality control. 
+
+=== Biographical and commemorative works ===
+
+The proceedings of the symposium were edited in 1989 by his former mentor, Manfred Richter, and published in the journal Die Farbe (Vol. 34). The volume featured a memorial lecture delivered by his National Research Council (NRC) colleague Wolfgang Budde. 
+
+Initiated with the assistance of color scientists Peetar Kowaliski and C. James Bartleson, this symposium served as an international scientific community for his entire career and commitment to Color Science.
+
+...
+
+==References==
+<references />
+
+{{Authority control|state=collapsed}}
+
+{{DEFAULTSORT:Wyszecki, Gunter}}
+<!--- Categories --->
+[[Category:1925 births]]
+[[Category:1985 deaths]]
+[[Category:People from Tilsit]]
+[[Category:People from East Prussia]]
+[[Category:German emigrants to Canada]]
+[[Category:20th-century Canadian physicists]]
+[[Category:20th-century German physicists]]
+[[Category:Color scientists]]

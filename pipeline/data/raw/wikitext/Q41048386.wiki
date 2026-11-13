@@ -1,0 +1,92 @@
+{{Short description|Control theorist and synthetic biologist}}
+{{Infobox scientist
+| name =Richard M. Murray
+| image =
+| image_size =
+| alt =
+| caption =
+| birth_date =
+| birth_place =
+| death_date =
+| death_place =
+| resting_place =
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence =
+| citizenship =
+| nationality =
+| fields = [[Synthetic biology]]
+| workplaces = [[California Institute of Technology]]
+| education  = [[University of California at Berkeley]],  [[California Institute of Technology]]
+| thesis_title =
+| thesis_url =
+| thesis_year = 1991
+| doctoral_advisor =
+| academic_advisors =
+| doctoral_students =
+| notable_students =
+| known_for =
+| author_abbrev_bot =
+| author_abbrev_zoo =
+| influences =
+| influenced =
+| awards =
+| signature = <!--(filename only)-->
+| signature_alt =
+| website = {{URL|https://www.cds.caltech.edu/~murray/wiki/Main_Page}}
+| footnotes =
+| spouse =
+}}
+{{external media | width = 210px | float = right | headerimage=  | video1 = [https://www.ieee-ras.org/roboticshistory/roboticist-detail/roboticistprofile.html?profileid=38 “Richard Murray”], IEEE Robotics and Automation Society Robotics History Project.}}
+
+'''Richard M. Murray''' is a [[Synthetic biology|synthetic biologist]] and [[Thomas Eugene Everhart|Thomas E. and Doris Everhart]] [[Professor]] of Control & Dynamical Systems and Bioengineering at [[Caltech]], California.<ref>{{cite web|url=https://www.bbe.caltech.edu/people/richard-m-murray |title=Richard M. Murray |website= California Institute of Technology}}</ref><ref>{{cite news |title=A Bioengineer's Guide to Design |url=https://www.caltech.edu/about/news/bioengineers-guide-design |work=California Institute of Technology |date=3 July 2019 |language=en}}</ref>
+He was elected to the [[National Academy of Engineering]] in 2013 for "contributions in control theory and networked control systems with applications to aerospace engineering, robotics, and autonomy".<ref name="Fesenmaier"/> 
+Murray is a co-author of several textbooks on feedback and control systems, and helped to develop the Python Control Systems Library to provide operations for use in feedback control systems.<ref>{{cite book |last1=Fuller |first1=Sawyer |last2=Greiner |first2=Ben |last3=Moore |first3=Jason |last4=Murray |first4=Richard |last5=van Paassen |first5=Rene |last6=Yorke |first6=Rory |title=2021 60th IEEE Conference on Decision and Control (CDC) |chapter=The Python Control Systems Library (python-control) |date=14 December 2021 |pages=4875–4881 |doi=10.1109/CDC45484.2021.9683368 |isbn=978-1-6654-3659-5 |chapter-url=https://depts.washington.edu/airlab/wordpress/wp-content/uploads/2022/02/fuller_greiner_moore_murray_vanpaassen_yorke_python_control_cdc21-compressed.pdf}}</ref>   He was a founding member of the Department of Defense's [[Defense Innovation Advisory Board]] as of 2016.<ref>{{cite news |title=Richard Murray Named to DOD Panel on Innovation |url=https://www.caltech.edu/about/news/richard-murray-named-dod-panel-innovation-51526 |access-date=7 July 2023 |work=California Institute of Technology |date=28 July 2016 |language=en}}</ref>
+
+==Education==
+Murray received a BS in electrical engineering from [[California Institute of Technology]] (Caltech) in 1985. He received a MS (1988) and PhD (1990) from the [[University of California, Berkeley]].<ref name="Fesenmaier"/><ref name="Wyss">{{cite web |title=Richard M. Murray, Ph.D. |url=https://wyss.harvard.edu/team/scientific-advisory-board/richard-murray/ |website=Wyss Institute |date=9 December 2022}}</ref>
+
+==Career==
+Murray joined Caltech in 1991 as an assistant professor of mechanical engineering. He became an associate professor in 1997, a professor in 2000, and the Everhart Professor of Control and Dynamical Systems in 2006. He was named the Everhart Professor of Control and Dynamical Systems and Bioengineering in 2009. He has served as Chair of the Division of Engineering and Applied Science (2000–2005) and Director of Information Science and Technology (2006–2009).<ref name="Fesenmaier"/>
+
+== Research ==
+Murray is a pioneer of the field of [[biological engineering]], [[synthetic biology]] and [[control theory]]<ref>{{cite web|url=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C24&q=richard+m+murray&btnG=|title=Google Scholar Richard M Murray|accessdate=8 Dec 2019}}</ref><ref name="Edwards">{{cite news |last1=Edwards |first1=David |title=Startup business Q-CTRL forms group to research 'quantum sensors' among other new technologies |url=https://roboticsandautomationnews.com/2021/08/12/startup-business-q-ctrl-forms-group-to-research-quantum-sensors-among-other-new-technologies/45463/ |work=Robotics & Automation News |date=12 August 2021}}</ref>
+including feedback in networked [[control system]]s, biomolecular feedback, engineered biological circuits, and novel architectures.<ref name="Fesenmaier"/><ref>{{cite journal |last1=Qian |first1=Yili |last2=McBride |first2=Cameron |last3=Del Vecchio |first3=Domitilla |title=Programming Cells to Work for Us |journal=Annual Review of Control, Robotics, and Autonomous Systems |date=28 May 2018 |volume=1 |issue=1 |pages=411–440 |doi=10.1146/annurev-control-060117-105052 |url=https://www.annualreviews.org/doi/full/10.1146/annurev-control-060117-105052 |language=en |issn=2573-5144|hdl=1721.1/119007 |hdl-access=free }}</ref>
+
+Murray is a founder and steering group member of the [[Build-a-Cell]] Initiative, an international collaboration investigating creation of synthetic live cells.<ref>{{cite web|url=http://buildacell.org/|title=Build-a-Cell|access-date=4 Dec 2020}}</ref><ref>{{cite web |last1=Community |first1=Biotechnology and Bioengineering |title=SEED 2019 - Build-a-Cell |url=https://bioengineeringcommunity.nature.com/posts/50784-seed-2019-build-a-cell |website=Biotechnology and Bioengineering Community |language=en |date=4 July 2019}}</ref><ref name="Nam">{{cite news |last1=Nam |first1=Gwiwon Jason |title=UMN-based collaborative network for synthetic cell research receives grant |url=https://mndaily.com/215686/news/acells/ |work=The Minnesota Daily |date=July 30, 2019}}</ref><ref>{{cite web |title=NSF Award Search: Award # 2039277 - EAGER: Actuation of Synthetic Cells Via Proto-Flagellar Motors |url=https://www.nsf.gov/awardsearch/showAward?AWD_ID=2039277&HistoricalAwards=false |website=www.nsf.gov |access-date=7 July 2023}}</ref>
+He is a co-founder of Tierra Biosciences, for cell-free synthetic biology.<ref>{{cite news |title=Tierra Biosciences reveals major molecular discovery |url=https://www.beckman.com/resources/reading-material/case-studies/tierra-biosciences-reveals-major-molecular-discovery |access-date=7 July 2023 |work=www.beckman.com}}</ref><ref>{{cite news |last1=LeMieux |first1=Julianna |title=Central Dogma in a Tube: Tierra Takes Online Orders for Proteins |url=https://www.genengnews.com/news/central-dogma-in-a-tube-tierra-takes-online-orders-for-proteins/ |work=GEN - Genetic Engineering and Biotechnology News |date=2 February 2022}}</ref>
+
+==Books==
+* {{cite book |last1=Murray |first1=Richard M. |last2=Li |first2=Zexiang |last3=Sastry |first3=S. Shankar |last4=Sastry |first4=Shankar |title=A mathematical introduction to robotic manipulation |date=1994 |publisher=CRC Press |location=Boca Raton, Fla London |isbn=978-0849379819 |url=https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf }}
+* {{cite book |last1=Murray |first1=Richard M. |title=Control in an information rich world: report of the Panel on Future Directions in Control, Dynamics, and Systems |date=2003 |publisher=Society for Industrial and Applied Mathematics |location=Philadelphia |isbn=0898715288 |url=https://authors.library.caltech.edu/25064/}}
+* {{cite book |last1=Åström |first1=Karl J. |last2=Murray |first2=Richard M. |title=Feedback systems: an introduction for scientists and engineers |date=2008 |publisher=Princeton Univ. Press |location=Princeton, NJ |isbn=978-0-691-13576-2 |url=https://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_28Sep12.pdf}}
+* {{cite book |last1=Del Vecchio |first1=Domitilla |last2=Murray |first2=Richard M. |title=Biomolecular feedback systems |date=2015 |publisher=Princeton university press |location=Princeton (N.J.) |jstor=j.ctt7zvcfh |isbn=9780691161532 |url=https://www.jstor.org/stable/j.ctt7zvcfh}}
+
+==Awards and honors==
+* 2019, [[John R. Ragazzini Award]]<ref name="A2C2"/>
+* 2017, [[IEEE Control Systems Award]], [[Institute of Electrical and Electronics Engineers]]<ref name="IEEECSM">{{cite news |title=Richard M. Murray [People in Control] |url=https://ieeexplore.ieee.org/document/8318837 |work=IEEE Control Systems Magazine |date=April 2018 | volume=38 | issue=2 |pages=38–40 |doi=10.1109/MCS.2017.2786445}}</ref><ref name="IEEE">{{cite web |title=IEEE CONTROL SYSTEMS AWARD RECIPIENTS |url=https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/control-sys-rl.pdf |archive-url=https://web.archive.org/web/20211216193825/https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/control-sys-rl.pdf |url-status=dead |archive-date=December 16, 2021 |website= Institute of Electrical and Electronics Engineers}}</ref>
+* 2013,  [[National Academy of Engineering]] for "contributions in control theory and networked control systems with applications to aerospace engineering, robotics, and autonomy".<ref name="Fesenmaier">{{cite news |last1=Fesenmaier |first1=Kimm |title=Murray and Ortiz Elected to the National Academy of Engineering |url=https://www.caltech.edu/about/news/murray-and-ortiz-elected-national-academy-engineering-38420 |access-date=4 April 2023 |work=California Institute of Technology |date=10 February 2013 |language=en}}</ref>
+* 2007,  honorary doctorate, [[Lund University]]<ref>{{cite web |title=Hedersdoktorer genom åren |url=https://www.lth.se/omlth/hedersdoktorer/hedersdoktorer-genom-aaren/ |website=LTH, Lunds Tekniska Högskola |access-date=7 July 2023 |language=sv}}</ref>
+* 2005–2006, Richard P. Feynman Prize for Excellence in Teaching, Caltech<ref>{{cite web |title=2005-06 Richard P. Feynman Prize for Excellence in Teaching |url=https://provost.caltech.edu/org-programs/feynmanteachingprize/feynman_prize_citation_murray |website=Office of the Provost |access-date=7 July 2023 |language=en}}</ref><ref>{{cite web |title=Richard P. Feynman Prize for Excellence in Teaching |url=https://provost.caltech.edu/programs-and-resources/feynmanteachingprize |website=Office of the Provost |access-date=7 July 2023 |language=en}}</ref>
+* 1997, [[Donald P. Eckman Award]], [[American Automatic Control Council]]<ref name="A2C2">{{cite web |title=Richard M. Murray {{!}} A2C2 |url=https://a2c2.org/contact/richard-m-murray |website=American Automatic Control Council}}</ref>
+* 1995, NSF Early Faculty Development Award<ref name="ETHW">{{cite web |title=Oral-History:Richard Murray |url=https://ethw.org/Oral-History:Richard_Murray |website=ETHW |access-date=7 July 2023 |language=en |date=14 December 2020}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.cds.caltech.edu/~murray/wiki/Main_Page Lab webpage]
+* [https://www.youtube.com/watch?v=7Ynym5zGukE Control Theory and Methods - Richard Murray] KISSCaltech lecture
+* [https://ieeetv.ieee.org/history/robotics-history-narratives-and-networks-oral-histories-richard-murray? History of robotics interview]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Murray, Richard M.}}
+[[Category:Living people]]
+[[Category:Synthetic biologists]]
+[[Category:American bioengineers]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Year of birth missing (living people)]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Control engineering]]
+[[Category:Members of the Royal Swedish Academy of Engineering Sciences]]

@@ -1,0 +1,70 @@
+{{Short description|Dutch physicist (born 1969)}}
+{{Infobox scientist
+| name              = Barbara M. Terhal
+| image             = 
+| caption           = Barbara M. Terhal
+| birth_date        = {{birth year and age|1969}}
+| birth_place       = [[Leiden]], Netherlands<ref name="auto">{{cite web|title=Barbara-M-Terhal|url=http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Das-Institut/Forschungsgruppen/Barbara-M-Terhal/~exxd/Barbara-Terhal/lidx/1/|website=RWTH Aachen Research Group|access-date=28 July 2016|archive-url=https://web.archive.org/web/20180406230759/http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Das-Institut/Forschungsgruppen/Barbara-M-Terhal/~exxd/Barbara-Terhal/lidx/1/|archive-date=6 April 2018|url-status=dead}}</ref>
+| death_date        = 
+| death_place       = 
+| spouse            = [[David DiVincenzo]]<ref>{{Cite web |date=2017-07-31 |title=“Physics is like climbing a mountain” |url=https://www.helmholtz.de/en/newsroom/article/physics-is-like-climbing-a-mountain/ |access-date=2025-11-11 |website=Helmholtz-Gemeinschaft Deutscher Forschungszentren |language=en-GB}}</ref>
+| education         = [[University of Amsterdam]]<!-- (to 1999)-->
+| doctoral_advisor  = [[Paul Vitányi]]
+| doctoral_students = [[Nikolas Breuckmann]]
+| known_for         = {{ubl|Coining the term "[[entanglement witness]]" | [[Quantum computing]]}}
+| footnotes         = 
+| field             = [[Theoretical physics|Physics (theoretical)]]
+| workplaces        = {{ubl|[[RWTH Aachen University]] [[Forschungszentrum Jülich]] | [[IBM]] | [[University of Amsterdam]] | [[Delft University of Technology]] | [[California Institute of Technology]]}}
+}}
+
+'''Barbara M. Terhal''' (born 1969) is a theoretical physicist working in [[quantum information]] and [[quantum computing]]. She is a professor in the Delft Institute of Applied Mathematics at [[TU Delft]], as well as leading the Terhal Group at QuTech, the Dutch institute for [[quantum computing]] and [[Quantum Internet|quantum internet]], founded by TU Delft and the [[Netherlands Organisation for Applied Scientific Research]] (TNO). Her research concerns many areas in quantum information theory, including [[Quantum entanglement|entanglement]] detection, [[quantum error correction]], [[Fault-tolerant computer system|fault-tolerant]] quantum computing and [[Quantum memory|quantum memories]].
+
+== Education and early life ==
+Barbara Terhal was born in Leiden in 1969.<ref>{{Cite web|url=https://qutech.nl/person/barbara-terhal/|title=Barbara Terhal|website=QuTech|access-date=2018-12-09}}</ref> Already in her early school days, she enjoyed mathematics, physics and solving puzzles.<ref name=":3">{{Cite web|url=https://www.newton.ac.uk/science/outreach/women/six-questions/terhal-barbara|title=Six Questions with: Professor Barbara Terhal|last=|first=|date=|website=Isaac Newton Institute for Mathematical Sciences|archive-url=https://web.archive.org/web/20181210063417/https://www.newton.ac.uk/science/outreach/women/six-questions/terhal-barbara|archive-date=10 December 2018|url-status=dead|access-date=9 December 2018}}</ref>
+
+Terhal completed her PhD Cum Laude on "Quantum Algorithms and Quantum Entanglement"<ref name=":1">{{cite journal|last1=Terhal|first1=Barbara M.|title=Bell inequalities and the separability criterion|journal=Physics Letters A|volume=271|issue=5–6|pages=319–326|arxiv=quant-ph/9911057|bibcode=2000PhLA..271..319T|doi=10.1016/S0375-9601(00)00401-1|year=2000|s2cid=14295118}}</ref> at the University of Amsterdam in 1999, making her the first person to receive a PhD in quantum computing in the Netherlands.<ref name=":0">{{Cite news |title=Terhal Group - QuTech |work=QuTech |url=https://qutech.nl/terhal-group/ |access-date=2018-10-19}}</ref> As part of her thesis, she coined the term [[entanglement witness]]<ref name=":1" /><ref>{{Cite news|url=https://www.quantamagazine.org/physicists-find-a-way-to-see-the-grin-of-quantum-gravity-20180306/|title=Physicists Find a Way to See the 'Grin' of Quantum Gravity {{!}} Quanta Magazine|work=Quanta Magazine|access-date=2018-10-19}}</ref> and proposed their use as alternatives to [[Bell test experiments|Bell tests]] for entanglement detection.
+
+== Career and research ==
+After her PhD, Terhal joined the [[Thomas J. Watson Research Center|IBM Watson Research Centre]] in [[Yorktown Heights, New York]]<ref name=":2">{{Cite web|url=http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Das-Institut/Forschungsgruppen/Gruppe-DiVincenzo/~exxd/Barbara-Terhal/?lidx=1&allou=1|title=Barbara M. Terhal - RWTH AACHEN UNIVERSITY Institute for Quantum Information - English|website=www.quantuminfo.physik.rwth-aachen.de|access-date=2018-12-09|archive-url=https://web.archive.org/web/20180612233258/http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Das-Institut/Forschungsgruppen/Gruppe-DiVincenzo/~exxd/Barbara-Terhal/?lidx=1&allou=1|archive-date=2018-06-12|url-status=dead}}</ref> and the [[California Institute of Technology]] (Caltech) as a postdoctoral researcher. Between 2001 and 2010, she worked at IBM on a number of topics, including low-depth quantum circuits or [[stoquastic]] [[Hamiltonian (quantum mechanics)|Hamiltonians]], perturbative gadgets for quantum simulation and quantum complexity theory. She also developed quantum protocols for remote state preparation, quantum locking and quantum data hiding.<ref name=":0" />
+
+In 2010, Terhal became a professor in theoretical physics at [[RWTH Aachen University]]. In addition, she held another position at the [[Forschungszentrum Jülich]] from 2015 - 2022.<ref>{{Cite web |title=Barbara Terhal |url=https://qutech.nl/person/barbara-terhal/ |access-date=2023-10-20 |website=QuTech |language=en-US}}</ref> In 2017 she moved to Delft, becoming a professor at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at TU Delft and group leader at QuTech.<ref name=":2" />
+
+Since 2007, Terhal has been a fellow of the [[American Physical Society]] and has held the post of Distinguished Visiting Research Chair at the [[Perimeter Institute]] in [[Waterloo, Ontario|Waterloo]], Canada, since 2014.<ref>{{Cite web|url=https://online-learning.tudelft.nl/instructors/barbara-terhal/|title=Barbara Terhal|website=www.online-learning.tudelft.nl/|access-date=2020-07-02}}</ref> 
+
+Terhal's current research focuses on quantum error correction and its realisation in solid-state qubits.<ref name=":3" />  She is also interested in quantum complexity theory and how it can be used to demonstrate the power of a quantum computer.<ref name=":3" />
+
+=== Awards ===
+Barbara Terhal has received the following awards:
+
+* Awarded the Outstanding Innovation Award by IBM Research in 2007<ref name=":4">{{Cite web|url=http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Forschung/~etvx/Auszeichnungen/?lidx=1|title=Awards - RWTH AACHEN UNIVERSITY Institute for Quantum Information - English|website=www.quantuminfo.physik.rwth-aachen.de|access-date=2018-12-09}}</ref>
+* Elected a Distinguished Visiting Research Chair at Perimeter Institute, Waterloo, Canada in 2014<ref name=":4" />
+* Selected as Outstanding Referee by the American Physical Society in 2015<ref>{{Cite web|url=https://journals.aps.org/OutstandingReferees|title=Physical Review Journals - Outstanding Referees|website=journals.aps.org|access-date=2018-12-09}}</ref>
+* Elected member of the [[Royal Netherlands Academy of Arts and Sciences]] in 2020.<ref>{{cite web|author= |url=https://knaw.nl/en/members/members/16611 |archive-url=https://web.archive.org/web/20200502090849/https://knaw.nl/en/members/members/16611 |title=Barbara Terhal |publisher=Royal Netherlands Academy of Arts and Sciences |date= |archive-date=2 May 2020}}</ref>
+
+== Publications ==
+Her publications include:
+
+* B.M. Terhal, “Bell Inequalities and The Separability Criterion”, Physics Letters A 271, 319 (2000)<ref>{{Cite journal|date=2000-07-10|title=Bell inequalities and the separability criterion|journal=Physics Letters A|volume=271|issue=5–6|pages=319–326|doi=10.1016/S0375-9601(00)00401-1|issn=0375-9601|bibcode=2000PhLA..271..319T|last1=Terhal|first1=Barbara M.|arxiv=quant-ph/9911057|citeseerx=10.1.1.251.5437|s2cid=14295118}}</ref>
+* B.M. Terhal and [[David DiVincenzo|D.P. DiVincenzo]], “Adaptive quantum computation, constant depth quantum circuits, and Arthur Merlin games”, Quant. Inf. and Comp. '''4''':2, pp.&nbsp;134–145 (2004)<ref>{{cite journal|last1=Terhal|first1=Barbara M.|last2=DiVincenzo|first2=David P.|date=2002-05-21|title=Adaptive Quantum Computation, Constant Depth Quantum Circuits and Arthur-Merlin Games|arxiv=quant-ph/0205133|bibcode=2002quant.ph..5133T}}</ref>
+* B.M. Terhal, “Quantum Error Correction for Quantum Memories”, Rev. Mod. Phys. '''87''', 307 (2015)<ref>{{Cite journal|last=Terhal|first=Barbara M.|date=2015-04-07|title=Quantum error correction for quantum memories|journal=Reviews of Modern Physics|volume=87|issue=2|pages=307–346|doi=10.1103/RevModPhys.87.307|bibcode=2015RvMP...87..307T|arxiv=1302.3428|s2cid=118646257}}</ref>
+
+She has also written an essay on the fragility of quantum information.<ref>{{cite arXiv|last=Terhal|first=Barbara M.|date=2013-05-17|title=The Fragility of Quantum Information?|eprint=1305.4004|class=quant-ph}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20160811121337/http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Das-Institut/Forschungsgruppen/Barbara-M-Terhal/~exxd/Barbara-Terhal/lidx/1/ CV on RWTH Aachen University staff page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Terhal, Barbara}}
+[[Category:Living people]]
+[[Category:21st-century Dutch physicists]]
+[[Category:Dutch women physicists]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:1969 births]]
+[[Category:Scientists from Leiden]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:University of Amsterdam alumni]]
+[[Category:Quantum information scientists]]

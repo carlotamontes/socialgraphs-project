@@ -1,0 +1,68 @@
+{{Short description|American quantum information theorist (born 1980)}}
+{{use mdy dates|date=September 2021}}
+{{Use American English|date=January 2019}}
+{{Infobox scientist
+|name              = Aram W. Harrow
+|image             = 
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date and age|year=1980|month=april|day=22}}
+|birth_place       = [[Lansing, Michigan]]
+|death_date        = 
+|death_place       = 
+|fields            = {{ubl|[[Quantum information science]]}}
+|workplaces        = {{ubl|MIT|[[University of Bristol]]|[[University of Washington]]}}
+|education         = [[MIT]]
+|doctoral_advisor  = [[Isaac Chuang]]
+|academic_advisors = [[Neil Gershenfeld]]
+|doctoral_students = 
+|notable_students  = 
+|known_for         = [[HHL algorithm]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|signature         = <!--(filename only)-->
+|website           = {{URL|https://www.mit.edu/~aram}}
+|footnotes         = 
+}}
+'''Aram Wettroth Harrow''' (born 1980) is an American [[Quantum information science|quantum information scientist]]. He has been a professor at the [[Massachusetts Institute of Technology]] since 2013.<ref name="homepage">{{Cite web|url=https://www.mit.edu/~aram/|title=Aram Harrow|website=www.mit.edu|access-date=2018-02-21}}</ref>
+
+He was born on April 22, 1980 in [[Lansing, Michigan]]<ref name="i794">{{cite journal |date=August 2008 |title=Contributors |url=https://ieeexplore.ieee.org/ielx5/18/27300/01214090.pdf |journal=IEEE Transactions on Information Theory |volume=49 |issue=8 |publisher=IEEE Information Theory Society |pages=2077–2080 }}</ref> to a family descended from Jewish immigrants from Eastern Europe<ref name="z468">{{cite book | last=Harrow | first=Kenneth W. | title=Space and Time in African Cinema and Cine-Scapes | date=2022 | isbn=978-1-032-26570-4 | page=x}}</ref><ref name="k347">{{Cite web |last=Saba |first=Alix |date=2024-04-16 |title=Kenneth W. Harrow (1943-2024) |url=https://africanstudies.org/in-memory/kenneth-w-harrow-1943-2024/ |website=African Studies Association Portal - ASA |language=en-US}}</ref> and attended high school in [[East Lansing]].<ref name="x316">{{cite web | title=Physics honors students with awards | website=MIT News | date=2001-06-06 | url=https://news.mit.edu/2001/physics-0606 }}</ref> In 2001, he received an SB from MIT and completed an undergraduate thesis in the [[MIT Media Lab]] advised by [[Neil Gershenfeld]], also working closely with Benjamin Recht, a graduate student of Gershenfeld's.<ref name="a001">{{cite web | title=Quantum Compiling |last=Harrow |first=Aram  | website=MIT | date=2001-05-18 | url=http://www.cba.mit.edu/docs/theses/01.05.aram.pdf |url-status=live  | archive-url=https://web.archive.org/web/20130403125632/http://www.cba.mit.edu/docs/theses/01.05.aram.pdf | archive-date=2013-04-03 }}</ref>
+
+In 2005, he received a PhD advised by MIT electrical engineering professor [[Isaac Chuang]]. From 2005 to 2010 he was a lecturer at the [[University of Bristol]], and from 2010 to 2012 he was a postdoctoral researcher at the [[University of Washington]].<ref name="homepage" /> He joined MIT in 2013.
+
+In 2008, Harrow, Avinatan Hassidim, and [[Seth Lloyd]] introduced the [[HHL algorithm]].<ref>{{Cite journal|last1=Harrow|first1=Aram W.|last2=Hassidim|first2=Avinatan|last3=Lloyd|first3=Seth|author-link3=Seth Lloyd|date=2009-10-07|title=Quantum Algorithm for Linear Systems of Equations|journal=[[Physical Review Letters]]|volume=103|issue=15|article-number=150502|arxiv=0811.3171|doi=10.1103/PhysRevLett.103.150502|pmid=19905613|bibcode=2009PhRvL.103o0502H|s2cid=5187993 }}</ref> The algorithm was widely thought to give [[quantum machine learning]] algorithms with exponential speedups over the best classical algorithms, until the discovery by [[Ewin Tang]] of classical algorithms giving the same exponential speedups.<ref name="Tang18b">{{Cite journal|last=Tang|first=Ewin|title=Quantum Principal Component Analysis Only Achieves an Exponential Speedup Because of Its State Preparation Assumptions|journal=Physical Review Letters|year=2021|volume=127|issue=6|article-number=060503|doi=10.1103/PhysRevLett.127.060503|pmid=34420330|arxiv=1811.00414|bibcode=2021PhRvL.127f0503T|s2cid=236956378}}</ref> Harrow later attempted to propose an alternative approach to quantum machine learning, although it did not become as widespread as the HHL algorithm.<ref name="i218">{{cite arXiv | last=Harrow | first=Aram W. | title=Small quantum computers and large classical data sets  | date=2020-03-31 | class=quant-ph | eprint=2004.00026 }}</ref>
+
+In 2015, Harrow and Lior Eldar, a postdoctoral researcher at the [[Hebrew University of Jerusalem]], announced a solution to the [[NLTS conjecture]] of [[Michael Freedman]] and [[Matthew Hastings]],<ref name="t632">{{cite arXiv | last1=Eldar | first1=Lior | last2=Harrow | first2=Aram W. | title=Local Hamiltonians with No Low-energy Trivial States | date=2015-10-07 | class=quant-ph | eprint=1510.02082v2 }}</ref> which was later modified to prove the weaker NLETS theorem after a mistake was discovered.<ref name=":5">{{Cite web |last=Eldar |first=Lior |date=2017 |title=Local Hamiltonians Whose Ground States are Hard to Approximate |url=http://ieee-focs.org/FOCS-2017-Papers/3464a427.pdf |access-date=Aug 7, 2022 |website=IEEE Symposium on Foundations of Computer Science (FOCS)}}</ref> A proof of the original NLTS conjecture was eventually given in 2023 by Anurag Anshu, [[Nikolas Breuckmann]], and Chinmay Nirkhe.
+
+He is on the steering committee of Quantum Information Processing (QIP), an annual [[quantum computing]] conference.<ref>{{Cite web|url=https://qipconference.org/|title=Home|website=qipconference.org|language=en-gb|access-date=2018-02-21}}</ref> He is the creator and co-administrator of SciRate, a [[Reddit]]-inspired website for voting and commenting on papers which have been submitted to [[arXiv]].<ref name="Scirate">{{cite web |url=https://scirate.com/about|title=Top arXiv papers|website=SciRate|language=en-US}}</ref>
+
+His father was [[Kenneth W. Harrow]], an English professor at [[Michigan State University]] known for his contributions to African literature.<ref name="z468" /> He is married to Shefali Oza, an epidemiology researcher at Harvard.<ref name="z468" />
+
+==Selected publications==
+*{{Cite journal|last1=Bremner|first1=Michael J.|last2=Dawson|first2=Christopher M.|last3=Dodd|first3=Jennifer L.|last4=Gilchrist|first4=Alexei|last5=Harrow|first5=Aram W.|last6=Mortimer|first6=Duncan|last7=Nielsen|first7=Michael A.|last8=Osborne|first8=Tobias J.|author-link7=Michael Nielsen|date=2002-11-25|title=Practical Scheme for Quantum Computation with Any Two-Qubit Entangling Gate|journal=Physical Review Letters|volume=89|issue=24|article-number=247902|arxiv=quant-ph/0207072|doi=10.1103/PhysRevLett.89.247902|pmid=12484981|bibcode=2002PhRvL..89x7902B|s2cid=41875260 }}
+*{{Cite journal|last1=Devetak|first1=I.|last2=Harrow|first2=A. W.|last3=Winter|first3=A. J.|date=October 2008|title=A Resource Framework for Quantum Shannon Theory|journal=[[IEEE Transactions on Information Theory]]|volume=54|issue=10|pages=4587–4618|arxiv=quant-ph/0512015|doi=10.1109/tit.2008.928980|bibcode=2008ITIT...54.4587D |s2cid=17767728 |issn=0018-9448}}
+*{{Cite book|last1=Barak|first1=Boaz|last2=Brandao|first2=Fernando G. S. L.|last3=Harrow|first3=Aram W.|last4=Kelner|first4=Jonathan|last5=Steurer|first5=David|last6=Zhou|first6=Yuan|title=Proceedings of the forty-fourth annual ACM symposium on Theory of computing |chapter=Hypercontractivity, sum-of-squares proofs, and their applications |date=2012-05-19|chapter-url=http://dl.acm.org/citation.cfm?id=2213977.2214006|publisher=[[Association for Computing Machinery|ACM]]|pages=307–326|doi=10.1145/2213977.2214006|isbn=978-1-4503-1245-5|arxiv=1205.4484|bibcode=2012arXiv1205.4484B|s2cid=937370 }}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{Google scholar id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harrow, Aram}}
+[[Category:Living people]]
+[[Category:American quantum information scientists]]
+[[Category:Jewish American scientists]]
+[[Category:MIT Center for Theoretical Physics faculty]]
+[[Category:MIT Center for Theoretical Physics people]]
+[[Category:American physicists]]
+[[Category:1980 births]]
+[[Category:MIT School of Science alumni]]
+
+{{US-physicist-stub}}

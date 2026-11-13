@@ -1,0 +1,50 @@
+{{short description|Dutch solid state chemist and crystallographer}}
+{{BLP sources|date=August 2017}}
+
+'''Joanna (Joka) Maria Vandenberg''' (born 1938) is a Dutch [[Solid-state chemistry|solid state]] [[chemist]] and [[X-ray crystallography|crystallographer]] who immigrated to the United States in 1968. At [[Bell Telephone Laboratories]], she made a major contribution to the success of the Internet. She invented, developed, and applied the [[X-ray]] scanning tool for quality control essential to manufacturing [[indium gallium arsenide phosphide]]-based multi-[[quantum well]] [[laser]]s. These are the lasers that amplify and modulate light that travels through [[optical fiber]]s that are at the heart of today's [[Internet]].
+
+==Early life==
+
+Personal Life:  Joanna Vandenberg was born January 24, 1938, in [[Heemstede]], a small town near [[Amsterdam]], where she was the youngest of a family of five, and the first one to go to college. Her family was in the [[tulip]] business. In 1956 she graduated [[cum laude]] from [[gymnasium (school)|gymnasium]]-β and went to the [[State University of Leiden]] in the Netherlands where she received a B.S. in Physical Sciences and Mathematics, 1959 and a M.S. in Inorganic and Solid State Chemistry with [[Anton Eduard van Arkel|A. E. van Arkel]] as well as Theoretical Chemistry, 1962. She studied with van Arkel in Leiden and [[Carolina Henriette MacGillavry|Caroline H. MacGillavry]] in Amsterdam for a Ph.D. thesis on [[X-ray diffraction]] analysis of metal–metal bonding in [[inorganic compound]]s, 1964.
+She moved to the USA in 1968 after marrying her first husband, Rudolf H. Voorhoeve, who started a career at Bell Telephone Laboratories Murray Hill NJ.They had two children, Lucy and Niels, and three grandchildren. She married for the second time to James C. Phillips. She met him at Bell Telephone Laboratories, Murray Hill NJ.
+
+==Career==
+
+She worked for 4 years (1964–1968) at [[Royal Dutch Shell]] laboratory in Amsterdam, where she joined the research group on catalytic properties of [[transition metal]]-layered [[chalcogenide]]s. In 1968 she moved to [[Bell Laboratories]] where she continued work on structural and magnetic properties of transition-metal chalcogenides. Her career was interrupted when she was laid off seven months into her first pregnancy. She was rehired in 1972 after the [[AT&T]] operators won a [[historic class action lawsuit]] for being fired when pregnant. With [[Bernd Matthias]] of [[UCSD]], she started to work on metal cluster formation in superconducting ternary transition metal compounds.{{ran|Science}} Her extensive knowledge of structural inorganic chemistry enabled her to predict inorganic crystal structures and led to the discovery the superconducting [[rare earth element|rare earth]] [[ternary boride]]s.{{ran|PNAS}}
+
+In 1980 she changed direction and began research on [[Metal–semiconductor junction|contact metallization]] on [[InGaAsP]]/[[InP]] multi-quantum well layers used as high speed digital lasers in the internet. She designed a temperature-dependent in-situ [[annealing (metallurgy)|annealing]] [[X-ray diffractometer]]. This technique made it possible to optimize the electrical behavior of the [[gold]] metallization contacts{{ran|JAP82}}{{ran|JAP84}} and became a standard reference in [[semiconductor industry]].
+
+In 1986 Vandenberg turned her attention to the [[quality control]] of the [[crystal growth]] of InGaAsP multi-quantum well (MQW) layers, used as laser light sources and [[optical modulator]]s designed to work in the 1.3 to 1.55&nbsp;μm [[wavelength]] range. Advancing the design, performance and manufacturability of these devices had been the focus of all the leading optical component suppliers for decades. These devices are manufactured using [[organometallic vapor phase epitaxy]], a complex process involving multiple sources subject to drift. Manufacture of early devices was based on unacceptably low (much less than 1%) end-to-end yields. Dramatic improvement was needed to produce the high performance components used to transport the massive amounts of data in today's Internet. In many cases mono-layer thickness control is required along with variations in [[bandgap]] less than 0.5%. This high level of quality control must be achieved using complex crystal growth machines which can fail in hundreds of ways. To insure that these multiple failure modes do not impact the final device, Vandenberg designed a one-room (later bench-top) non-destructive high-resolution X-ray diffractometer{{ran|JAP87}}{{ran|JAP89}} to provide immediate on-line feedback into the MQW growth process. She constructed robust algorithms linking X-ray features to layer thickness and strain information essential to crystal growth control and optoelectronic device performance. Her X-ray diffraction technique is used to scan every laser wafer many times during manufacture.  All Internet lasers are now manufactured using her tool [[X-Ray Crystallography]], and their operational lifetime exceeds 25 years.
+
+==Awards==
+
+Vandenberg received the 1995 and 1997 [[Optoelectronics Award]] in recognition of contributions to the development of characterization and process control routines for manufacture of [[Lucent]]'s world class [[semiconductor laser]]s.
+She is a fellow of the [[American Physical Society]]<ref>[https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=V&year=2016&unit_id=&institution= APS Fellow Archive], [[American Physical Society]], retrieved 2017-08-17</ref> and a corresponding member of the [[Royal Netherlands Academy of Arts and Sciences]].<ref>{{cite web|author= |url=http://knaw.nl/en/members/correspondents/5226 |archive-url=https://web.archive.org/web/20170820120324/http://knaw.nl/en/members/correspondents/5226 |title=J.M. Vandenberg |publisher=Royal Netherlands Academy of Arts and Sciences |date= |archive-date=20 August 2017}}</ref>
+
+==Selected publications==
+*{{cite journal  |last1=Vandenberg |first1=JM  |last2=Matthias |first2=BT  |year=1977  |title=Clustering hypothesis of some high-temperature superconductors  |journal=[[Science (journal)|Science]]  |volume=198 |issue=4313 |pages=194–196  |bibcode=1977Sci...198..194V  |doi=10.1126/science.198.4313.194  |pmid=17755364 |s2cid=46467993 }}
+*{{cite journal  |last1=Vandenberg |first1=JM  |last2=Matthias |first2=BT  |year=1977  |title=Crystallography of new ternary borides  |journal=[[Proceedings of the National Academy of Sciences of the United States of America]]  |volume=74 |issue=4 |pages=1336–1337  |doi=10.1073/pnas.74.4.1336  |pmid=16578752 |pmc=430747 |bibcode=1977PNAS...74.1336V|doi-access=free }}
+* {{cite journal  |last1=Vandenberg |first1=JM  |last2=Temkin |first2=H  |last3=Hamm |first3=RA  |last4=DiGiuseppe |first4=MA  |year=1982  |title=Structural study of alloyed gold metallization contacts on InGaAsP/InP layers  |journal=[[Journal of Applied Physics]]  |volume=53 |issue=11 |pages=7385–7389  |bibcode=1982JAP....53.7385V  |doi=10.1063/1.330364 }}
+* {{cite journal  |last1=Vandenberg |first1=JM  |last2=Temkin |first2=H  |year=1984  |title=An ''in situ'' x-ray study of gold/barrier-metal interactions with InGaAsP/InP layers  |journal=[[Journal of Applied Physics]]  |volume=55 |issue=10 |pages=3676–3681  |bibcode=1984JAP....55.3676V  |doi=10.1063/1.332918 }}
+*{{cite journal  |last1=Vandenberg |first1=JM  |last2=Hamm |first2=RA  |last3=Panish |first3=MB  |last4=Temkin |first4=H  |year=1987  |title=High-resolution x-ray diffraction studies of InGaAs(P)/InP superlattices grown by gas-source molecular-beam epitaxy  |journal=[[Journal of Applied Physics]]  |volume=62 |issue=4 |pages=1278–1283  |bibcode=1987JAP....62.1278V  |doi=10.1063/1.339681 }}
+*{{cite journal  |last1=Vandenberg |first1=JM  |last2=Gershoni |first2=D  |last3=Hamm |first3=RA  |last4=Panish |first4=MB  |last5=Temkin |first5=H  |year=1989  |title=Structural perfection of InGaAs/InP strained-layer superlattices grown by gas source molecular-beam epitaxy: A high-resolution x-ray diffraction study  |journal=[[Journal of Applied Physics]]  |volume=66 |issue=8 |pages=3635–3638  |bibcode=1989JAP....66.3635V  |doi=10.1063/1.344072 |doi-access=free  }}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Vandenberg, Joanna Maria}}
+[[Category:20th-century Dutch chemists]]
+[[Category:Dutch women chemists]]
+[[Category:Leiden University alumni]]
+[[Category:Shell plc people]]
+[[Category:Bell Labs]]
+[[Category:Crystallographers]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:20th-century Dutch women scientists]]
+[[Category:1938 births]]
+[[Category:Rare earth scientists]]
+[[Category:Living people]]
+[[Category:20th-century women inventors]]

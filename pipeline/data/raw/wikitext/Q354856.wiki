@@ -1,0 +1,108 @@
+{{Short description|Australian physicist (1925–2006)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox scientist
+| name              = Dick Dalitz
+| image             = Richard_Dalitz.png
+| birth_name        = Richard Henry Dalitz
+| birth_date        = {{Birth date|df=yes|1925|02|28}}
+| birth_place       = [[Dimboola]], Australia
+| death_date        = {{Death date and age|df=yes|2006|01|13|1925|2|28}}
+| death_place       = [[Oxford]], England
+| field             = [[Particle physics]]<br />[[Quantum mechanics]]
+| thesis_title      = Zero-zero transitions in nuclei
+| thesis_url        = http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=27657
+| thesis_year       = 1950
+| education         = [[Melbourne University]]<br />[[University of Cambridge]]
+| doctoral_advisor  = [[Nicholas Kemmer]]<ref name=mathgene>{{MathGenealogy|id=88690}}</ref>
+| doctoral_students = [[Frank Close]]{{citation needed|date=July 2016}}<br />[[Christopher Llewellyn Smith]]<ref name="Oxford2024">{{cite web |title=Professor Sir Chris Llewellyn Smith - Profile |url=https://www.physics.ox.ac.uk/our-people/llewellyn-smith |website=University of Oxford - Department of Physics |access-date=26 May 2024}}</ref><br /> [[Crispin Gardiner]]
+| workplaces        = [[University of Bristol]]<br />[[University of Birmingham]]<br />[[Cornell University]]<br />[[Enrico Fermi Institute]]<br />[[University of Oxford]]
+| known_for         = [[Dalitz plot]]<br />Dalitz pair<br />CDD poles
+| awards            = {{Plainlist|
+* [[Fellow of the Royal Society]] (1960)<ref name=rsbm/>
+* [[Maxwell Medal and Prize]] (1966)
+* [[Hughes Medal]] (1975)
+* [[Royal Medal]] (1982)
+* [[Harrie Massey Medal and Prize]] (1990)}}
+}}
+
+'''Richard Henry Dalitz''', [[Fellow of the Royal Society|FRS]]<ref name=rsbm>{{cite journal|last1=Aitchison|first1=Ian J. R.|last2=Smith|first2=Christopher Llewellyn|author-link2=Christopher Llewellyn Smith|title=Richard Henry Dalitz. 28 February 1925 — 13 January 2006|journal=[[Biographical Memoirs of Fellows of the Royal Society]]|publisher=[[Royal Society]]|year=2016|doi=10.1098/rsbm.2016.0019|location=London|volume=62|pages=59–88|doi-access=free}}</ref> (28 February 1925 – 13 January 2006) was an Australian [[physicist]] known for his work in [[particle physics]].<ref name=Close2006/><ref name=AitchisonEtal2008/>
+
+==Education and early life==
+Born in the town of [[Dimboola]], Victoria, Dalitz studied physics and mathematics at [[Melbourne University]] before moving to the United Kingdom in 1946, to study at the [[University of Cambridge]]. His [[PhD]] was awarded in 1950 for research on zero-zero transitions in the [[atomic nucleus]]<ref name=phd>{{cite thesis |degree=PhD |first=Richard Henry|last=Dalitz |title=Zero-zero transitions in nuclei |publisher=University of Cambridge |date=1950 |url=http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=27657}}</ref> supervised by [[Nicholas Kemmer]].<ref name=mathgene/>
+
+==Research and career==
+After his PhD, he took up a one-year post at the [[University of Bristol]], and then joined [[Rudolf Peierls]]' group at [[University of Birmingham]].  Dalitz moved to [[Cornell University]] in 1953. He then became a professor at the [[Enrico Fermi Institute]] in Chicago from 1956 to 1963. Next, he moved to the [[University of Oxford]] as a [[Royal Society]] research professor,<ref>{{cite journal|author=Close, Frank|title=Obituary: Richard Henry Dalitz|journal=Physics Today|date=July 2006|volume=59|issue=7|pages=65–66|doi=10.1063/1.2337841|bibcode = 2006PhT....59g..65C }}</ref> although keeping a connection with Chicago until 1966. He retired in 1990.<ref name="Ross2006">{{cite journal|last1=Ross|first1=Graham|title=Obituary: Richard Dalitz (1925–2006)|journal=Nature|volume=440|issue=7081|year=2006|pages=162|author-link1=Graham Ross (physicist)|doi=10.1038/440162a|pmid=16525459|bibcode=2006Natur.440..162R|doi-access=free}}</ref>
+
+At Birmingham he completed his thesis demonstrating that the electrically neutral pion could decay into a photon and an electron-positron pair, now known as a Dalitz pair. In addition, he is known for other key developments in particle physics: the [[Dalitz plot]] and the Castillejo–Dalitz–Dyson (CDD) poles.<ref name=Close2006/> The Dalitz plots were proposed in 1953, while he was at Cornell.
+
+[[Dalitz plot]]s<ref name="D1">{{cite journal
+ |author=R. H. Dalitz
+ |year=1953
+ |title=On the analysis of τ-meson data and the nature of the τ-meson
+ |journal=[[Philosophical Magazine]]
+ |volume=44 |pages=1068
+ |doi=10.1080/14786441008520365
+ |url=http://www.informaworld.com/openurl?genre=article&issn=1941-5982&volume=44&issue=357&spage=1068
+ |url-access=subscription
+ }}</ref><ref name="D2">{{cite journal
+ |author=R. H. Dalitz
+ |year=1954
+ |title=Decay of τ mesons of known charge
+ |journal=[[Physical Review]]
+ |volume=95 |pages=1046–1051
+ |doi=10.1103/PhysRev.94.1046
+ |bibcode = 1954PhRv...94.1046D
+ |issue=4 }}</ref> play a central role in the discovery of new particles in current high-energy physics experiments, including  [[search for the Higgs boson|Higgs boson research]],<ref name=Close2006/> and are tools in exploratory efforts that might open avenues beyond the [[Standard Model]].<ref>P. Pakhlov and T. Uglov, Flavor physics at Super B-factories era, ''J. Phys.: Conf. Ser.'' '''675''', 022009 (2016).</ref>
+
+His various fundamental contributions have led to practitioners in the field to identify Dalitz as one of particle physics "greatest unsung scientists"<ref name=Close2006/> and "a theorist exceptionally valued by experimentalists."<ref name=rsbm />
+
+===Quantum mechanics===
+
+Dalitz was an old and close friend of [[John Clive Ward]], the creator of the [[Ward–Takahashi identity|Ward Identities]].<ref>[[F. J. Duarte]], [http://www.tunablelasers.com/AUSTRALIAN%20PHYSICS%2046%286%29%20171-175%20%282009%29.pdf The man behind an identity in quantum electrodynamics, ''Australian Physics'' '''46''' (6), 171–175 (2009)]</ref> Their friendship began around 1948 when Dalitz independently derived Ward's results<ref name="PryceWard1947">{{cite journal|last1=Pryce|first1=M. H. L.|last2=Ward|first2=J. C.|title=Angular Correlation Effects with Annihilation Radiation|journal=Nature|volume=160|issue=4065|year=1947|pages=435|doi=10.1038/160435a0|bibcode=1947Natur.160..435P|s2cid=4101513|doi-access=free}}</ref> for the polarisation [[quantum entanglement|entanglement]] of two photons propagating in opposite directions.<ref>J. C. Ward, ''Memoirs of a Theoretical Physicist'' (Optics Journal, New York, 2004).</ref> Dalitz was the lead author of a succinct, and yet revealing, account of Ward's physics.<ref name = DD>{{cite journal|last1=Dalitz|first1=Richard H.|last2=Duarte|first2=Frank J.|title=John Clive Ward|journal=Physics Today|volume=53|issue=10|year=2000|pages=99–100|doi=10.1063/1.1325207|bibcode=2000PhT....53j..99D|doi-access=free}}</ref> While commenting on the physics surrounding the derivation of the probability amplitude
+
+:<math>\left|\psi\right\rang=(\left|x,y\right\rang - \left|y,x\right\rang ) </math>
+
+by Ward, Dalitz and [[F. J. Duarte|Duarte]] wrote: "Ward and Pryce calculated, using quantum mechanics, the distribution of the azimuth angle between the planes of polarization of... two gamma rays from positron-electron annihilation... the two photons are entangled and according to [[Principle of locality|''local realism'']], their polarization planes should become independent... a typical [[EPR paradox|EPR situation]].  Already in 1948, observations... agreed with quantum mechanics, not with ''local realism''."<ref name = DD />
+
+===Quarks===
+
+Dalitz was directly involved in pioneering quark research since the early 1960s,<ref name=rsbm /> at a time when leading theorists considered quarks as purely mathematical entities,<ref>F. Close, ''The Infinity Puzzle'' (Oxford University Press, Oxford, 2011).</ref> and he participated in the identification of the top [[quark]].<ref name=AitchisonEtal2008/>  In 1965 he began a series of lectures on the physics of quarks that became a "bible for the relatively few who then took it seriously."<ref name=rsbm />
+
+===Publications===
+During his lifetime, Dalitz produced numerous publications. One article<ref name=Dalitz1985/> lists 221 papers, and a total of 26 authored book reviews, public lectures and obituaries, and edited books.<ref name=AitchisonEtal2008/> Amongst his book reviews was a critical review of [[Andrew Pickering]]'s book ''Constructing Quarks'', in which he takes to task Pickering's implication that experimenters are essentially subservient to theoreticians, saying "In reality, experimenters are cussed individuals, eager to prove the theoreticians wrong whenever possible".
+
+His research collaborators included [[Hans Bethe]],{{citation needed|date=July 2016}} [[Frank Close]],{{citation needed|date=July 2016}} [[F. J. Duarte]],{{citation needed|date=July 2016}} [[Freeman Dyson]],{{citation needed|date=July 2016}} [[Nicholas Kemmer]],<ref name=mathgene/> [[Rudolf Peierls]],{{citation needed|date=July 2016}} [[Christopher Llewellyn Smith]]<ref name=rsbm/> and [[John Clive Ward]].<ref name = DD/>
+
+==Awards and honours==
+Dalitz was elected a [[List of Fellows of the Royal Society elected in 1960|Fellow of the Royal Society (FRS) in 1960]]<ref name=rsbm/> and he received the [[Hughes Medal]] in 1975 "for his distinguished contributions to the theory of the basic particles of matter." He was also awarded the [[Maxwell Medal and Prize]] and the Royal Medal. Dalitz was awarded the 1980 [[J. Robert Oppenheimer Memorial Prize]].<ref>{{cite book |title=Winners, the blue ribbon encyclopedia of awards |last=Walter |first=Claire |year=1982 |page=[https://archive.org/details/winnersblueribbo0000walt/page/438 438] |publisher=Facts on File Inc. |isbn=9780871963864 |url=https://archive.org/details/winnersblueribbo0000walt/page/438 }}</ref><ref>{{cite journal |author=<!--Staff writer(s); no by-line.--> |title=Dalitz receives Oppenheimer Prize |journal=Physics Today |publisher=American Institute of Physics |date=April 1980 |page=67 |doi=10.1063/1.2914032 |volume=33|issue=4 }}</ref>
+
+==References==
+{{reflist|2|refs=
+<ref name=AitchisonEtal2008>{{cite journal |date=2 February 2008 |author1=Ian J.R. Aitchison |author2-link=Frank Close |author2=Frank E. Close |author3=Avraham Gal |author4=D. John Millener |title=The scientific heritage of Richard Henry Dalitz |arxiv=physics/0603219 |doi=10.1016/j.nuclphysa.2006.03.007 |volume=771 |journal=Nuclear Physics A |pages=2–7|bibcode=2006NuPhA.771....2C }}</ref>
+
+<ref name=Close2006>{{cite news | first=Frank | last=Close | url=https://www.theguardian.com/obituaries/story/0,3604,1693226,00.html | title=Richard Dalitz: Physicist who mapped the behaviour of exotic particles and argued for the reality of quarks | work=[[The Guardian]] | date=24 January 2006}}</ref>
+
+<ref name=Dalitz1985>{{citation |date=28 March 1985 |title=Fundamental Developments: (review of) Constructing Quarks: A Sociological History of Particle Physics by A. Pickering |journal=Nature |volume=314 |pages=387–388 |doi=10.1038/314387a0|bibcode = 1985Natur.314..387D |issue=6009|last1=Dalitz |first1=R. H. |s2cid=4254317 |doi-access=free }}</ref>}}
+
+{{wikiquote}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dalitz, Richard}}
+[[Category:1925 births]]
+[[Category:2006 deaths]]
+[[Category:Australian physicists]]
+[[Category:Quantum physicists]]
+[[Category:Particle physicists]]
+[[Category:Theoretical physicists]]
+[[Category:Royal Medal winners]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:Physicists of the University of Bristol]]
+[[Category:Physicists of the University of Birmingham]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:University of Melbourne alumni]]
+[[Category:Australian people of German descent]]
+[[Category:International members of the National Academy of Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Australian fellows of the Royal Society]]

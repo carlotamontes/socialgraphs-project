@@ -1,0 +1,57 @@
+{{Short description|British academic}}
+{{Use British English|date=January 2014}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox officeholder
+| honorific_prefix = [[Professor]]
+| name             = Brian Launder
+| honorific_suffix = {{postnominals|country=GBR|size=100%|FRS|FREng}}
+| image            =
+| alt              = 
+| caption          = 
+| office           = Research Professor of Mechanical Engineering, [[UMIST]]/[[University of Manchester]]
+| term_start       = 1998
+| term_end         = 2022
+| birth_name       = Brian Edward Launder
+| birth_date       = {{Birth date and age|1939|07|20|df=yes}}
+| birth_place      = 
+| death_date       = {{Death date and age|YYYY|MM|DD|YYYY|MM|DD|df=yes}}
+| death_place      = 
+| other_names      = 
+| occupation       = 
+| years_active     = 
+| known_for        = 
+| notable_works    =  
+}}
+
+'''Brian Edward Launder''' (born 20 July 1939) is a Professor of [[Mechanical Engineering]] at the [[University of Manchester]], United Kingdom. He is known for his work in the field of [[Turbulence|turbulent flows]] in general and [[turbulence modelling]] in particular.<ref name=wilcox>{{cite book|last=Wilcox|first=David C.|title=Turbulence Modeling for CFD|year=2006|publisher=DCW Industries, Inc.|isbn=978-1-928729-08-2|edition=3}}</ref> In 1994, he became a [[Fellow of the Royal Society]].<ref>[http://royalsociety.org/uploadedFiles/Royal_Society_Content/about-us/fellowship/Fellows1660-2007.pdf List of Fellows of the Royal Society]</ref>
+
+==Education and career==
+Launder received a bachelor's degree in mechanical engineering from [[Imperial College London|Imperial College]], London where he came first in the class and won the Bramwell Medal. He then joined [[Massachusetts Institute of Technology]] for his master's degree and went on to take a doctoral degree for experimental work on [[boundary layer]]s. After completion the Sc.D., Launder returned to Imperial College in 1964 to join the faculty as lecturer and later became the Reader in [[Fluid Mechanics]]. After serving at Imperial College for 12 years, Launder went to the [[University of California, Davis]] in 1976 where he served as Professor of Mechanical Engineering for four years. In 1980, he returned to the UK and joined [[University of Manchester Institute of Science and Technology]] as the head of the Thermo-Fluids Division. a position he discharged for 16 years as well as two terms as Head of Department<ref name=official>{{cite web|title=Prof Brian Launder – Academic Staff profile|url=http://www.mace.manchester.ac.uk/aboutus/staff/academic/profile/index.html?staffId=176|publisher=University of Manchester|access-date=22 April 2011}}</ref>
+
+==Work and recognition==
+Launder's main focus of research is the [[turbulence modelling]] for [[computational fluid dynamics]]. The <math>k</math>-<math>\epsilon</math> [[Turbulence modeling|model]] introduced by W. P. Jones and Launder is considered to be the most popular <math>k</math>-<math>\epsilon</math> model in the turbulence modelling community.<ref name=wilcox /> They introduced this model in the 1972 paper titled "''The prediction of laminarization with a two-equation model of turbulence''" and is often referred to as the Standard <math>k</math>-<math>\epsilon</math> model. Launder also developed, along with his co-workers Gordon J. Reece and Wolfgang Rodi, a second order closure model, known as Launder–Reece–Rodi model (1975), which became one of the most thoroughly tested turbulence models.<ref name=pope>{{cite book|last=Pope|first=Stephen B.|title=Turbulent Flows|year=2000|publisher=[[Cambridge University Press]]|url=https://books.google.com/books?id=HZsTw9SMx-0C&q=s.+b.+pope|isbn=978-0-521-59886-6}}</ref><ref>{{cite web |title=This Week's Citation Classic |url=https://garfield.library.upenn.edu/classics1984/A1984TU04100001.pdf |work=garfield.library.upenn.edu}}</ref>
+
+In recognition of his contribution to [[turbulence modelling]], Launder has been admitted as a [[Fellow of the Royal Society]] and the [[Royal Academy of Engineering]].<ref name="List of Fellows">{{cite web|title=List of Fellows|url=http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows|access-date=20 October 2014|archive-date=8 June 2016|archive-url=https://web.archive.org/web/20160608094405/http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows|url-status=dead}}</ref> He has also received many international honours including honorary degrees from three European universities. Between 2000 and 2006, he served as the Regional Director of the [[Tyndall Centre|Tyndall Centre for Climate Change Research]].<ref name=official />
+
+==Selected books==
+* B. E. Launder and [[Brian Spalding|D. B. Spalding]], ''Mathematical Models of Turbulence'', Academic Press (1972).<ref>{{cite journal|title=B. E. Launder and D. B. Spalding, Mathematical Models of Turbulence|doi=10.1002/zamm.19730530619}}</ref>
+* B. E. Launder and N. D. Sandham, ''Closure Strategies for Turbulent and Transitional Flows'', Cambridge University Press (2002).<ref>{{cite book|title=''Closure Strategies for Turbulent and Transitional Flows'' |isbn = 9780521792080|url=https://books.google.com/books?id=1xaln_-9vJMC|access-date=22 April 2011|author1 = Sandham|date = 21 February 2002}}</ref>
+*Brian Launder and J. Michael T. Thompson: Geo-engineering climate change. Environmental necessity or Pandora's box?. Cambridge University Press. Cambridge 2010. {{ISBN|978-0-521-19803-5}}
+*Kemal Hanjalic and Brian Launder: Modelling turbulence in engineering and the environment. Second-moment routes to closure. Cambridge University Press. Cambridge 2011.{{ISBN|978-0-521-84575-5}}
+
+== References ==
+{{Reflist}}
+
+{{FRS 1994}}
+{{Authority control}}
+
+{{DEFAULTSORT:Launder, Brian}}
+[[Category:Living people]]
+[[Category:1939 births]]
+[[Category:Alumni of Imperial College London]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Academics of Imperial College London]]
+[[Category:University of California, Davis faculty]]
+[[Category:Academics of the University of Manchester Institute of Science and Technology]]
+[[Category:British fluid dynamicists]]
+[[Category:British fellows of the Royal Society]]

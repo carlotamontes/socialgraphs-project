@@ -1,0 +1,20 @@
+{{Short description|American physicist and aerospace engineer}}
+[[File:Malcolm D. Shuster.jpg|thumb|right|Malcolm Shuster in 2005]]
+'''Malcolm D. Shuster''' (31 July 1943 – 23 February 2012) was an American [[physicist]] and [[aerospace engineer]], whose work contributed significantly to spacecraft attitude determination.<ref name="Obituary">{{cite news |title=Malcolm Shuster, Johns Hopkins Physicist, Dies at 68 |url=https://www.washingtonpost.com/local/obituaries/malcolm-shuster-johns-hopkins-physicist-dies-at-68/2012/03/07/gIQAJOilES_story.html |accessdate=23 November 2018 |agency=Washington Post}}</ref><ref name="ShortBio">{{cite web |title=Short Biography of Malcolm D. Shuster |url=http://www.acsu.buffalo.edu/~johnc/shusym/mds_shortbio.pdf |website=The Malcolm D. Shuster Astronautics Symposium June 13–15, 2005 |publisher=John L. Crassidis |accessdate=23 November 2018}}</ref> In 1977 he joined the Attitude Systems Operation of the [[Computer Sciences Corporation]] in [[Silver Spring, Maryland]], during which time he developed the [[quaternion estimator algorithm|QUaternion ESTimator (QUEST) algorithm]] for static attitude determination.<ref name="SymposiumWebsite">{{cite web |title=The Malcolm D. Shuster Astronautics Symposium June 13-15, 2005 |url=http://www.acsu.buffalo.edu/~johnc/shusym/ |website=University of Buffalo |publisher=John L. Crassidis |accessdate=23 November 2018}}</ref> He later, with F. Landis Markley, helped to develop the standard implementation of the [[Kalman filter]] used in spacecraft attitude estimation.<ref name="ShortBio" /> During his career, he authored roughly fifty technical papers<ref>{{cite web |title=Malcolm D. Shuster's research while affiliated with NASA, Вашингтон, West Virginia, United States and other places |url=https://www.researchgate.net/scientific-contributions/81386532_Malcolm_D_Shuster |website=ResearchGate |accessdate=23 November 2018}}</ref><ref name="ShortBio" /> on subjects in physics and spacecraft engineering, many of which have become seminal within the field of attitude estimation; his 1993 "A survey of attitude representations" is still the canonical reference.<ref>{{cite journal |last=Shuster |first=M. D. |year=1993 |title=A survey of attitude representations |journal=Navigation |volume=8 |number=9 |pages=439–517 |url=https://malcolmdshuster.com/Pub_1993h_J_Repsurv_scan.pdf}}</ref> He held teaching assignments at [[Johns Hopkins University]], [[Howard University]], [[Carnegie-Mellon University]] and [[Tel-Aviv University]].<ref name="Obituary" /> In 2000 the American Astronautical Society awarded him the Dirk Brouwer Award.<ref>{{cite web |title=Dirk Brouwer Award |url=http://astronautical.org/awards/brouwer/ |publisher=American Astronautical Society |accessdate=23 November 2018}}</ref><ref name="SymposiumWebsite" /> In June 2005 the American Astronautical Society held a special three-day Astronautics symposium in his honor<ref>{{cite book |last1=Crassidis |first1=John |last2=Markley |first2=F. Landis |last3=Junkins |first3=John |last4=Howell |first4=Kathleen |title=The Malcolm D. Shuster Astronautics Symposium : proceedings of the University at Buffalo, State University of New York/AAS Malcolm D. Shuster Astronautics Symposium held June 12-15, 2005, Grand Island, New York |date=2006 |publisher=Published for the American Astronautical Society by Univelt |isbn=0-87703-525-3 |oclc=65176211 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.malcolmdshuster.com/ Malcolm D. Shuster's Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shuster, Malcolm D.}}
+[[Category:1943 births]]
+[[Category:2012 deaths]]
+[[Category:American physicists]]
+[[Category:American aerospace engineers]]
+
+
+{{US-physicist-stub}}

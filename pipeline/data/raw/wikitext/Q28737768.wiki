@@ -1,0 +1,40 @@
+{{short description|Researcher on computational cancer genomics}}
+{{family name hatnote|López|Bigas|lang=Spanish}}
+{{Infobox scientist
+|name        = Núria López-Bigas
+|image       = Nuria López-Bigas.jpg
+|birth_date  = 1975
+|birth_name  = Núria López Bigas
+|birth_place = [[Monistrol de Montserrat]] ([[Province of Barcelona|Barcelona]]), Spain
+|workplaces  = [[Pompeu Fabra University]]<br/>[[Institute for Research in Biomedicine]]
+|education   = [[University of Barcelona]]
+}}
+
+'''Núria López Bigas''' is a Spanish biologist and research professor with expertise in [[medical genetics]], [[computational biology]], and [[bioinformatics]].<ref name=":0">{{Cite web|url=https://www.upf.edu/cexs/community/facult/lopez.html|title=López-Bigas, Nuria|last=Fabra|first=Universitat Pompeu|date=2016-04-12|website=www.upf.edu|access-date=2017-04-08}}</ref><ref name=":1">{{Cite web|url=https://www.icrea.cat/en/Web/ScientificStaff/nlopezbigas/selected-publications#researcher-nav|title=ICREA|website=www.icrea.cat|language=en|access-date=2017-04-08}}</ref><ref name=":2">{{Cite web|url=http://www.vibconferences.be/speaker/nuria-lopez-bigas|title=Nuria Lopez-Bigas {{!}} VIB Conference series|website=www.vibconferences.be|language=en|access-date=2017-04-08}}</ref><ref name=":3">{{Cite web|url=https://www.upf.edu/web/bioinformatics/entry/-/-/38498/adscripcion/nuria-lopez|title=entry - Master in Bioinformatics for Health Sciences (UPF)|website=www.upf.edu|language=en-US|access-date=2017-04-08}}</ref> She is an  ICREA ([[Catalan Institution for Research and Advanced Studies]]) professor at [[Pompeu Fabra University]] and she also leads the Biomedical Genomics Research Group at the [[Institute for Research in Biomedicine]] in Barcelona, Spain. Her research is focused on developing computational approaches to investigate cancer genomes.<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" />
+
+== Education and early research ==
+López-Bigas received her Ph.D. in biology from the [[University of Barcelona]].<ref name=":0" /> Her Ph.D. work consisted of studying the molecular causes of hereditary deafness in Dr. Xavier Estivill's laboratory.<ref name=":0" /> She then moved to [[Cambridge|Cambridge, UK]] where she worked on computational genomics at the [[European Bioinformatics Institute]] in Christos A. Ouzounis's group.<ref name=":0" /> When she moved back to Barcelona, she was involved in the pilot phase of the ENCODE project at the Centre for Genomic Regulation. In April 2006, López-Bigas joined Pompeu Fabra University and was appointed an ICREA research professor in 2011. In 2016, her lab moved to the [[Institute for Research in Biomedicine]] where she leads the Biomedical Genomics Research Group.<ref name=":3" />
+
+== Genomic research projects and contributions ==
+López-Bigas' lab has contributed to the identification of [[gene]]s that drive abnormal growth of malignant cells, known as cancer driver genes. During [[tumorigenesis]], positive selection of mutations that activate the tumorigenic potential of [[oncogene]]s occur. Her lab has developed computational methodologies to detect these signals of positive selection in the pattern of [[somatic mutation]]s observed in tumors.<ref name=":4" /> They developed pioneer methods to identify cancer driver genes through the creation of IntOGen. This web platform supports cancer researchers by providing a systematic analysis of [[oncogene]] data across various sequencing projects to aid in clinical decision-making.<ref name=":4">{{Cite journal|last=Gonzalez-Perez|first=Abel|last2=Perez-Llamas|first2=Christian|last3=Deu-Pons|first3=Jordi|last4=Tamborero|first4=David|last5=Schroeder|first5=Michael P.|last6=Jene-Sanz|first6=Alba|last7=Santos|first7=Alberto|last8=Lopez-Bigas|first8=Nuria|date=2013-11-01|title=IntOGen-mutations identifies cancer drivers across tumor types|journal=Nature Methods|language=en|volume=10|issue=11|pages=1081–1082|doi=10.1038/nmeth.2642|pmid=24037244|pmc=5758042|issn=1548-7091}}</ref> The lab is also involved in advancing precision medicine by using targetable gene alterations to help determine [[therapeutic]] options for cancer patients. They have developed an approach that uses bioinformatic resources to identify therapeutically actionable [[Genomics|genomic]] alterations in tumors, which is accessible through another online database called the Cancer Genome Interpreter.<ref>{{Cite web|url=http://bbglab.irbbarcelona.org/web/|title=BBGLab – Barcelona Biomedical Genomics Lab|website=bbglab.irbbarcelona.org|language=en-US|access-date=2017-04-21}}</ref>
+
+She has also published over 100 papers in her line of work.<ref name=":2" />
+
+== Professional affiliations and awards ==
+López-Bigas has been awarded several scholarships, prizes, and awards. Most recently, she won the XI Banco Sabadell Foundation Award for Biomedical Research. 50,000 euros is awarded to an individual who has developed a career in Spain as a promising scientist, and López-Bigas was recognized for her contributions to the development of new bioinformatics methods to study cancer genomes.<ref>{{Cite web|url=http://prensa.bancsabadell.com/en/News/2016/05/dr-nuria-lopez-bigas-wins-the-xi-banco-sabadell-foundation-award-for-biomedical-research|title=Dr. Nuria López-Bigas wins the XI Banco Sabadell Foundation award for Biomedical Research - Banco Sabadell|website=prensa.bancsabadell.com|language=en|access-date=2017-04-08}}</ref> Amongst other awards, she has also received the Proffered Paper Award in 2014 at the European Association for Cancer Research meeting and the Catalan National Award for Young Research Talent in 2012.<ref name=":2" />
+In 2021, she was elected as a [[ISCB Fellow|Fellow]] of the [[International Society for Computational Biology]].<ref name="iscb-fellow">{{cite web |title=March 02, 2021: ISCB Congratulates and Introduces the 2021 Class of Fellows! |url=https://www.iscb.org/iscb-news-items/4626-2021-march02-iscb-congratulates-introduces-2021-class-fellows |website=www.iscb.org |access-date=17 June 2022}}</ref>
+
+== See also ==
+* [[Oncogenomics]]
+* [[Linker histone H1 variants]]
+
+== References ==
+{{Reflist}}
+
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lopez Bigas, Nuria}}
+[[Category:Spanish biologists]]
+[[Category:Living people]]
+[[Category:1975 births]]

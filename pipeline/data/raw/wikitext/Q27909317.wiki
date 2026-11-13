@@ -1,0 +1,67 @@
+{{Infobox scientist
+| name              = Randall Hulet
+| image             = 
+| caption           = 
+| birth_date        = {{Birth date|1956|04|27}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| ethnicity         = 
+| field             = [[Physics]]<br />[[Atomic Physics]]<br />[[ultracold atom|Ultracold Atoms]]
+| workplaces        = [[Rice University]]
+| education         = [[Stanford University]]<br />[[MIT]] (Ph.D.)
+| doctoral_advisor  = [[Daniel Kleppner]]
+| known_for         = [[Atomic physics]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = {{no wrap|[[I. I. Rabi Prize]] (1995)<br />Willis E. Lamb Award (2011)<br />Herbert Walther Prize (2017)}}
+| spouse            = 
+| grandchildren     = 
+| notable relatives = 
+| parents           = 
+| website           = {{URL|https://rcqm.rice.edu/researchers/randy-hulet/}}
+}}
+
+'''Randall Gardner Hulet''' (born April 27, 1956, in Walnut Creek, California<ref name="uu.nl"/>) is an American physicist.
+
+Hulet studied at [[Stanford University]], earning a bachelor's degree in 1978. He received his doctorate in 1984, at the [[Massachusetts Institute of Technology]] under [[Daniel Kleppner]], and then joined the [[National Institute of Standards and Technology]] (NIST) in Boulder with [[David Wineland]]. In 1987, he became an assistant professor of physics at [[Rice University]], and was promoted to associate professor in 1992, then full professor in 1996. He was appointed Fayez Sarofim Professor of Physics and Astronomy in 2000.
+
+He is a pioneer of experiments with [[ultracold atom]]s and [[Bose-Einstein condensate]]s (BEC).<ref name="uu.nl"/> He is known for the first realization of a Bose-Einstein condensate in an atomic gas with attractive interaction, where the formation of the BEC competes with the usual condensation due to the attractive interaction. With enough atoms, an attractively interacting BEC becomes unstable, and Hulet's group was the first to observe such a system collapse. Another major achievement working with bosons was his realization of [[matter wave]] [[soliton]]s in a BEC.
+
+Hulet has also performed pioneering experiments with degenerate Fermi gases. He achieved the first observation of a polarized degenerate [[Fermi gas]], realized a degenerate Bose-Fermi mixture, and studied spin-imbalanced Fermi gases, including a possible realization of the [[Fulde–Ferrell–Larkin–Ovchinnikov phase|FFLO]] state in a 1D system. His group has investigated fermions in [[optical lattice]]s as a model of systems of [[solid-state physics]], and observed short-range antiferromagnetism in a [[Hubbard model|Hubbard]] system, similar to physics also observed in the cuprate [[High-temperature superconductivity|high-temperature superconductors]].<ref name=afref/>
+
+Hulet has received a number of awards for his work, including the [[Herbert Walther Prize]]<ref name="hwprize"/> in 2017, the Willis E. Lamb Award for Laser Science and Quantum Optics<ref name="welaward"/> in 2011, the [[I. I. Rabi Prize]] of the [[American Physical Society]] in 1995,<ref name="iiprize"/> and a Presidential Young Investigator Award from the [[National Science Foundation]] in 1989. He is a Fellow of the [[American Association for the Advancement of Science]], [[Optica (society)|Optica]], and the American Physical Society. Hulet is an honorary doctor of the [[University of Utrecht]].
+
+== Selected publications ==
+* {{cite journal|title=Observation of antiferromagnetic correlations in the Hubbard model with ultracold atoms|first1=Russell A.|last1=Hart|first2=Pedro M.|last2=Duarte|first3=Tsung-Lin|last3=Yang|first4=Xinxing|last4=Liu|first5=Thereza|last5=Paiva|first6=Ehsan|last6=Khatami|first7=Richard T.|last7=Scalettar|first8=Nandini|last8=Trivedi|first9=David A.|last9=Huse|first10=Randall G.|last10=Hulet|date=23 February 2015|journal=Nature|volume=519|issue=7542|pages=211–214|doi=10.1038/nature14223|pmid=25707803|arxiv=1407.5932|bibcode=2015Natur.519..211H|s2cid=4463418}}
+* {{cite journal |last1=Liao |first1=Y. |last2=Rittnerr |first2=A. S. C. |last3=Paprotta |first3=T. |last4=Li |first4=W. |last5=Partridge |first5=G. B. |last6=Hulet |first6=R. G. |last7=Baur |first7=S. K. |last8=Mueller |first8=E. J. |title=Spin-imbalance in a one-dimensional Fermi gas |journal=Nature |date=2010 |volume=467 |issue=7315 |pages=567–569 |doi=10.1038/nature09393|pmid=20882011 |arxiv=0912.0092 |bibcode=2010Natur.467..567L |s2cid=4397457 }}
+* {{cite journal |last1=Strecker |first1=K. E. |last2=Partridge |first2=G. B. |last3=Truscott |first3=A. G. |last4=Hulet |first4=R. G. |title=Formation and propagation of matter-wave soliton trains |journal=Nature |date=2002 |volume=417 |issue=6885 |pages=150–153 |doi=10.1038/nature747|pmid=11986621 |arxiv=cond-mat/0204532 |bibcode=2002Natur.417..150S |s2cid=9411228 }}
+* {{cite journal |last1=Truscott |first1=A. G. |last2=Strecker |first2=K. E. |last3=McAlexander |first3=W. I. |last4=Partridge |first4=G. B. |last5=Hulet |first5=R. G. |title=Observation of Fermi Pressure in a Gas of Trapped Atoms |journal=Science |date=2001 |volume=291 |issue=5513 |pages=2570–2572 |doi=10.1126/science.1059318|pmid=11283362 |bibcode=2001Sci...291.2570T |s2cid=31126288 |doi-access=free }}
+* {{cite journal |last1=Gerton |first1=J. M. |last2=Strekalov |first2=D. |last3=Prodan |first3=I. |last4=Hulet |first4=R. G. |title=Direct observation of growth and collapse of a Bose-Einstein condensate with attractive interactions |journal=Nature |date=2000 |volume=408 |issue=6813 |pages=692–695 |doi=10.1038/35047030|pmid=11130065 |arxiv=cond-mat/0011513 |bibcode=2000Natur.408..692G |s2cid=4420297 }}
+* {{cite journal |last1=Bradley |first1=C. C. |last2=Sackett |first2=C. A. |last3=Tolett |first3=J. J. |last4=Hulet |first4=R. G. |title=Evidence of Bose-Einstein Condensation in an Atomic Gas with Attractive Interactions |journal=Phys. Rev. Lett. |date=1995 |volume=75 |issue=9 |pages=1687–1690 |doi=10.1103/PhysRevLett.75.1687 |pmid=10060366 |bibcode=1995PhRvL..75.1687B |url=https://link.aps.org/doi/10.1103/PhysRevLett.75.1687|hdl=1911/79442 |hdl-access=free |url-access=subscription }}
+
+== References ==
+{{reflist
+|<ref name="uu.nl">{{cite web|url=https://www.staff.science.uu.nl/~stoof101/hulet.html|title=Randy Hulet|website=www.staff.science.uu.nl}}</ref>
+
+<ref name=afref>{{cite journal|title=Observation of antiferromagnetic correlations in the Hubbard model with ultracold atoms|first1=Russell A.|last1=Hart|first2=Pedro M.|last2=Duarte|first3=Tsung-Lin|last3=Yang|first4=Xinxing|last4=Liu|first5=Thereza|last5=Paiva|first6=Ehsan|last6=Khatami|first7=Richard T.|last7=Scalettar|first8=Nandini|last8=Trivedi|first9=David A.|last9=Huse|first10=Randall G.|last10=Hulet|date=23 February 2015|journal=Nature|volume=519|issue=7542|pages=211–214|doi=10.1038/nature14223|pmid=25707803|arxiv=1407.5932|bibcode=2015Natur.519..211H|s2cid=4463418}}</ref>
+
+<ref name="hwprize">{{Cite web | url=https://www.osa.org/en-us/about_osa/newsroom/news_releases/2016/the_optical_society_and_dpg_name_randall_hulet_win/ | title=The Optical Society and DPG Name Randall Hulet Winner of the 2017 Herbert Walther Award | date=2016-12-05 |website=www.osa.org}}</ref>
+
+<ref name="welaward">{{cite web|url=http://www.lambaward.org/2011/2011-hulet.html|title=Randall G. Hulet -- the 2011 Willis E. Lamb Award for Laser Science and Quantum Optics|website=www.lambaward.org}}</ref>
+
+<ref name="iiprize">{{Cite web|url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Hulet&first_nm=Randall&year=1995|title=Prize Recipient}}</ref>
+}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Hulet, Randall G.}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Stanford University alumni]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Rice University faculty]]
+[[Category:21st-century American physicists]]
+[[Category:People from Walnut Creek, California]]
+[[Category:Fellows of the American Physical Society]]

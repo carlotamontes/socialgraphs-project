@@ -1,0 +1,57 @@
+{{Short description|American theoretical physicist}}
+{{Infobox scientist
+| name              = Robert Zwanzig
+| birth_place       = [[Brooklyn]], [[New York City]], United States
+| birth_date        = 9 April 1928
+| death_date        = May 15, 2014
+| death_place       = [[Bethesda, Maryland]], United States
+| education       = [[Caltech]]
+| thesis_year       = 1952
+| doctoral_advisor  = [[John G. Kirkwood]]
+| thesis_title      = Quantum Hydrodynamics: a statistical mechanical theory of light scattering from simple non-polar fluids
+| fields            = [[Theoretical physics]]
+| workplaces        = [[University of Maryland]]
+| known_for         = [[Zwanzig equation]]<br>[[Zwanzig projection operator]]<br>[[Nakajima–Zwanzig equation]]<br>[[Mori–Zwanzig formalism]]
+}}
+
+'''Robert Walter Zwanzig'''  (9 April 1928<ref name=JPC>{{cite journal|last1=Thirumalai|first1=D.|last2=Greer|first2=S. C.|title=Zwanzig dedication|journal=The Journal of Physical Chemistry|date=1989|volume=93|issue=19|pages=6883–6884|doi=10.1021/j100356a001}}</ref> – May 15, 2014<ref>{{Cite journal|title=Robert W. Zwanzig: Formulated nonequilibrium statistical mechanics|journal=Proceedings of the National Academy of Sciences|volume=111|issue=32|pages=11572–3|arxiv=1407.5990|last1= Andersen|first1=Hans C.|last2=Chandler|first2=David|year=2014|doi=10.1073/pnas.1412827111|pmid=25077976|pmc=4136600|bibcode=2014PNAS..11111572A|doi-access=free}}</ref>) was an American theoretical physicist and chemist who made important contributions to the statistical mechanics of irreversible processes, protein folding, and the theory of liquids and gases. He is known for the [[free-energy perturbation]] method, the [[Zwanzig projection operator]], the [[Mori–Zwanzig formalism]] and [[Nakajima–Zwanzig equation]].
+
+==Background==
+Zwanzig received his bachelor's degree from [[Brooklyn Polytechnic Institute]] in 1948 and his master's degree from 1950 at the [[University of Southern California]]. In 1952 he completed a doctorate in physical chemistry at [[Caltech]] under the supervision of [[John G. Kirkwood]].  His thesis title was ''Quantum Hydrodynamics: a statistical mechanical theory of light scattering from simple non-polar fluids''. From 1951 to 1954 he worked as a post-doctoral researcher in theoretical chemistry at [[Yale University]], and from 1954 to 1958 he was an assistant professor in chemistry at Johns Hopkins University. From 1958 to 1966 he was a physical chemist at the National Bureau of Standards and from 1966 to 1979 he was a research professor at the Institute for Physical Science and Technology of the University of Maryland, where until 1988 he held the title of distinguished professor. From 1974 to 1975 he was a Fairchild Scholar at [[Caltech]]. From 1988 onwards he was a researcher at the [[National Institutes of Health]] (National Institute of Diabetes and Digestive and Kidney Diseases) in [[Bethesda, Maryland]], where he was a Fogarty Scholar (1987–88) and later worked as a research scientist emeritus.
+
+One of his early works from 1954 is often cited as the first use of [[free energy perturbation]] theory, and the resulting equation for the change in free energy is sometimes referred to as the Zwanzig equation.<ref>Zwanzig, R. W. J. Chem. Phys. 1954, 22, 1420-1426. {{doi|10.1063/1.1740409}}</ref> In the early 1960s he wrote some now classic works on the non-equilibrium thermodynamics and statistical mechanics of irreversible processes. He developed the [[Zwanzig projection operator|projection operator formalism]], which made it possible to derive irreversible transport equations (such as the [[Boltzmann equation]] and other master equations) from reversible microscopic quantum mechanical dynamic equations. He drew heavily from the work of [[Leon van Hove]]. The projection operator formalism later found wide application and is now known as the [[Mori–Zwanzig formalism]] (also named after {{ill|Hazime Mori|de}}, who published similar results in 1965<ref>Mori Transport, collective motion and brownian motion, Progr. Theor. Phys., Suppl., Band 33, 1965, S. 423-455</ref>).
+
+An important result of the Mori–Zwanzig formalism, the [[Nakajima–Zwanzig equation]], bears his name and reflects the important contributions of Sadao Nakajima made around the same time.
+
+Together with Tsu-Wei Nee he derived a theory for the dielectric function and [[dielectric friction]] of dipolar liquids based on an extension of [[Lars Onsager]]'s work.<ref>{{cite journal|last1=Nee|first1=T.-W.|last2=Zwanzig|first2=R. W.|title=Theory of Dielectric Relaxation in Polar Liquids|journal=The Journal of Chemical Physics|date=1970|volume=52|issue=12|pages=6353–6363|doi=10.1063/1.1672951|bibcode = 1970JChPh..52.6353N }}</ref> Later he worked on the [[protein folding problem]] among other things.<ref>{{cite journal | last1 = Zwanzig | first1 = R | year = 1997 | title = Two-state models of protein folding kinetics | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 94 | issue = 1| pages = 148–150 | doi=10.1073/pnas.94.1.148| bibcode = 1997PNAS...94..148Z| pmc = 19262 | pmid=8990176| doi-access = free }}</ref><ref>{{cite journal | last1 = Zwanzig | first1 = R | year = 1995 | title = Simple model of protein folding kinetics | journal = Proc Natl Acad Sci USA | volume = 92 | issue = 21 | pages = 9801–9804 | doi=10.1073/pnas.92.21.9801| bibcode = 1995PNAS...92.9801Z| pmc = 40890 | pmid=7568221| doi-access = free }}</ref>
+
+== Awards and honors ==
+He received many awards, including
+
+* the [[Peter Debye Award]] (1976),
+* the [[Irving Langmuir Award]] (1985),
+* the Joel H. Hildebrand Award (1994). 
+
+He was a Fellow of the [[National Academy of Sciences]] and the [[American Chemical Society]].
+
+==Selected bibliography==
+*'' Nonequilibrium Statistical Mechanics'', Oxford University Press 2001
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.umdphysics.umd.edu/about-us/news/news-from-the-chair/843-robert-w-zwanzig-april-9-1928-may-15-2014.html Obituary from the University of Maryland]
+*[http://theor.jinr.ru/~kuzemsky/zwanbio.html Biography]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zwanzig, Robert}}
+[[Category:1928 births]]
+[[Category:2014 deaths]]
+[[Category:American physicists]]
+[[Category:American physical chemists]]
+[[Category:University of Southern California alumni]]
+[[Category:Polytechnic Institute of New York University alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of Maryland, College Park faculty]]

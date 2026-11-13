@@ -1,0 +1,186 @@
+{{Short description|American mathematician}}
+'''Bernard Roy Frieden''' (born September 10, 1936) is an American [[mathematical physicist]]. He is an [[emeritus professor]] of [[optics|optical sciences]] at the [[University of Arizona]].
+
+==Education and career==
+Frieden grew up in [[Brooklyn, New York]], where his father was part-owner of the Empire Mirror Works until the collapse of the business in 1948. After a bachelor's degree in physics from [[Brooklyn College]], he  received a master's degree at the [[University of Pennsylvania]] in 1959.<ref name=reflections/>
+
+He worked for [[General Electric]] and then in [[Rochester, New York]] for [[Bausch & Lomb]], but found himself jobless in 1962, when the project he worked for was disbanded. He returned to graduate study in [[The Institute of Optics]] at the [[University of Rochester]], and completed his Ph.D. in 1966. His doctoral thesis advisor was [[Robert E. Hopkins]].<ref name=reflections>{{cite web|url=https://www.optics.arizona.edu/news/reflections-b-roy-frieden|title=Reflections: B. Roy Frieden|date=May 23, 2017|first=Tammy|last=Orr|publisher=University of Arizona Wyant College of Optical Sciences|access-date=2025-02-11}}</ref>
+
+He joined the [[University of Arizona]] faculty as an assistant professor in 1966, and remained there for the rest of his career, retiring as a [[professor emeritus]] in 2002.<ref name=reflections/>
+
+==Research and recognition==
+Frieden is known for his pioneering work on laser beam shaping<ref>{{cite journal |title=Historical perspective of laser beam shaping |last=Shealy |first=David L |editor-first1=Fred M. |editor-first2=Scott C. |editor-first3=David L. |editor-last1=Dickey |editor-last2=Holswade |editor-last3=Shealy |journal=Proc. SPIE |series=Laser Beam Shaping III |year=2002 |volume=4770 |pages=28–47 |doi=10.1117/12.453505 |bibcode=2002SPIE.4770...28S |url=https://www.researchgate.net/publication/253740660}}</ref> and was among the first to investigate the [[optical transfer function]] of a three-dimensional object.<ref>{{cite journal |title=Three-dimensional transfer functions |first=Colin J. R. |last=Sheppard |journal=Proc. SPIE |series=Sixth International Conference on Education and Training in Optics and Photonics |volume=3831 |year=2000 |page=166 |doi=10.1117/12.388717 |bibcode=2000SPIE.3831..166S |url=https://www.researchgate.net/publication/241427119}}</ref> He was the first to apply [[Edwin Thompson Jaynes|Jaynes]]' [[Principle of maximum entropy|maximum entropy principle]] to image restoration.<ref>{{cite journal |first1=Mihai-Alexandru |last1=Petrovici |first2=Cristian |last2=Damian |first3=Daniela |last3=Coltuc |title=Maximum Entropy Principle in Image Restoration |journal=Advances in Electrical and Computer Engineering |date=2018 |volume=18 |issue=2 |pages=77–84 |doi=10.4316/AECE.2018.02010 |url=https://www.researchgate.net/publication/325588104 |doi-access=free }}</ref>
+
+He was elected a Fellow of the [[Optical Society of America]], now known as Optica, in 1975; in 1988, he was elected a Fellow of [[SPIE]].<ref>{{cite web |url=https://www.optica.org/get_involved/awards_and_honors/fellow_members/fellows_search/?pageSize=50&pageNumber=1&search=Frieden |title=Optica Fellows |website=[[Optica (society)|Optica]] |access-date=2025-02-05}}</ref><ref>{{cite web |url=https://spie.org/membership/member-recognition/spie-fellows/complete-list-of-spie-fellows#F |title=Complete List of SPIE Fellows |website=[[SPIE]] |access-date=2025-02-05}}</ref>
+
+Frieden originated Extreme Physical Information (EPI), an information-theoretic framework deriving physical laws from Fisher information. His foundational work is detailed in the books ''Physics from Fisher Information'' (1998) and ''Science from Fisher Information'' (2004). EPI has been independently applied and extended in peer-reviewed research across multiple disciplines, including thermodynamics (Plastino), evolutionary biology (Gatenby), systems science (Yolles), and quantum foundations (Regoli).<ref name="Frieden1998a"/><ref name="Frieden1998b"/><ref name="Plastino1995"/><ref name="Gatenby2013"/><ref name="Yolles2022"/><ref name="Regoli2012"/>
+
+
+
+== Selected publications ==
+* {{cite journal |title=Lossless conversion of a plane laser wave to a plane wave of uniform irradiance |journal=[[Applied Optics]] |volume=4 |issue=11 |pages=1400–1403 |year=1965 |doi=10.1364/AO.4.001400 |last1=Frieden |first1=B. Roy |bibcode=1965ApOpt...4.1400F }}
+* {{cite journal |last1=Frieden |first1=B. Roy |title=Optical transfer of the three-dimensional object |journal=[[Journal of the Optical Society of America]] |volume=57 |issue=1 |pages=56–66 |year=1967 |doi=10.1364/JOSA.57.000056|hdl=10150/621607 |hdl-access=free }}
+* {{cite journal |title=Restoring with maximum likelihood and maximum entropy |journal=[[Journal of the Optical Society of America]] |volume=62 |pages=511–518 |year=1972 |doi=10.1364/JOSA.62.000511 |last1=Frieden |first1=B. Roy |issue=4 |pmid=5019595 }}
+* {{cite book|title=Probability, Statistical Optics, and Data Testing|first=B. Roy|last=Frieden|publisher=Springer-Verlag|year=1983}} 2nd ed., 1991. 3rd ed., 2001.<ref>Reviews of ''Probability, Statistical Optics, and Data Testing'':
+*{{cite journal
+ | last = Völz | first = H.
+ | doi = 10.1002/zamm.19840640804
+ | issue = 8
+ | journal = ZAMM
+ | page = 340
+ | title = none
+ | volume = 64
+ | year = 1984}}
+*{{cite journal
+ | last = Möstl | first = G.
+ | bibcode = 1985AN....306...42F
+ | issue = 1
+ | journal = Astronomische Nachrichten
+ | language = German
+ | page = 42
+ | title = none
+ | volume = 306
+ | year = 1985| doi = 10.1002/asna.2113060111
+ }}
+*{{cite journal
+ | last1 = Maryak | first1 = John L.
+ | last2 = Abeshouse | first2 = David J.
+ | date = August 1992
+ | doi = 10.1080/00401706.1992.10485309
+ | issue = 3
+ | journal = Technometrics
+ | jstor = 1270065
+ | pages = 369–370
+ | title = none
+ | volume = 34| doi-broken-date = 1 July 2025
+ }}
+*{{cite journal
+ | last = Lalor | first = M. J.
+ | bibcode = 1993OptLE..18...69L
+ | date = January 1993
+ | doi = 10.1016/0143-8166(93)90009-a
+ | issue = 1
+ | journal = Optics and Lasers in Engineering
+ | page = 69
+ | title = Probability, statistical optics, and data testing
+ | volume = 18}}
+*{{cite journal
+ | last = Percival | first = Donald B.
+ | date = February 2004
+ | doi = 10.1198/tech.2004.s744
+ | issue = 1
+ | journal = Technometrics
+ | jstor = 25470773
+ | pages = 113–114
+ | title = none
+ | volume = 46}}
+</ref>
+* {{cite book
+ | last = Frieden
+ | first = B. Roy
+ | year = 1998
+ | title = Physics from Fisher Information: A Unification
+ | publisher = Cambridge University Press
+ | location = Cambridge
+ | isbn = 978-0521599181
+}}
+* {{cite book
+ | last = Frieden
+ | first = B. Roy
+ | year = 2004
+ | title = Science from Fisher Information: A Unification
+ | publisher = Cambridge University Press
+ | location = Cambridge
+ | isbn = 978-0521832563
+}}
+
+== References ==
+<references>
+<ref name="Frieden1998a">{{cite book
+ | last = Frieden
+ | first = B. Roy
+ | year = 1998
+ | title = Physics from Fisher Information: A Unification
+ | publisher = Cambridge University Press
+ | location = Cambridge
+ | isbn = 978-0521599181
+}}</ref>
+
+<ref name="Frieden1998b">{{cite book
+ | last = Frieden
+ | first = B. Roy
+ | year = 2004
+ | title = Science from Fisher Information: A Unification
+ | publisher = Cambridge University Press
+ | location = Cambridge
+ | isbn = 978-0521832563
+}}</ref>
+
+<ref name="Plastino1995">{{cite journal
+ | last1 = Plastino
+ | first1 = A.
+ | last2 = Plastino
+ | first2 = A. R.
+ | title = Fisher information and quantum-statistical thermodynamics
+ | journal = Physica A
+ | volume = 222
+ | issue = 1–4
+ | pages = 347–354
+ | year = 1995
+ | doi = 10.1016/0378-4371(95)00211-1
+ | bibcode = 1995PhyA..222..347P
+}}</ref>
+
+<ref name="Gatenby2013">{{cite journal
+ | last = Gatenby
+ | first = R. A.
+ | title = Application of Information Theory to Carcinogenesis and Cancer Treatment
+ | journal = PLOS ONE
+ | volume = 8
+ | issue = 10
+ | article-number = e76423
+ | year = 2013
+ | doi = 10.1371/journal.pone.0076423
+ | pmid = 24130770
+ | pmc = 3795670
+ | bibcode = 2013PLoSO...876423G
+ | doi-access = free
+}}</ref>
+
+<ref name="Yolles2022">{{cite journal
+ | last = Yolles
+ | first = Maurice
+ | title = Consciousness, Sapience and Sentience—A Metacybernetic View
+ | journal = Systems
+ | volume = 10
+ | issue = 6
+ | page = 254
+ | year = 2022
+ | doi = 10.3390/systems10060254
+| doi-access = free
+ }}</ref>
+
+<ref name="Regoli2012">{{cite journal
+ | last = Regoli
+ | first = Roberto
+ | title = Information loss in field equations
+ | journal = Journal of Mathematical Physics
+ | volume = 53
+ | issue = 8
+ | page = 082105
+ | year = 2012
+ | doi = 10.1063/1.4744968
+ | bibcode = 2012JMP....53h2105R
+}}</ref>
+</references>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Frieden, B. Roy}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:21st-century American physicists]]
+[[Category:University of Rochester alumni]]
+[[Category:University of Arizona faculty]]

@@ -1,0 +1,202 @@
+{{Short description|Austrian physicist (born 1940)}}
+{{Multiple issues|
+{{Expand German|topic=bio|Peter Grassberger|date=November 2024}}
+{{BLP sources|date=November 2024}}
+}}
+{{Infobox scientist
+| name              = Peter Grassberger
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date and age text|17 May 1940}}
+| birth_place       = [[Vienna]], [[Nazi Germany|Greater German Reich]] (present-day [[Austria]])
+| death_date        = 
+| death_place       = 
+| ethnicity         = 
+| field             = [[Physics]]
+| workplaces        = [[University of Calgary]],<ref>{{cite web |title=Peter Grassberger {{!}} Complexity Science Group {{!}} University of Calgary |url=http://www.ucalgary.ca/complexity/people/faculty/peter |access-date=18 November 2024 |date=26 June 2018|archive-url=https://web.archive.org/web/20180626054613/http://www.ucalgary.ca/complexity/people/faculty/peter |archive-date=26 June 2018 }}</ref> [[Forschungszentrum Jülich]]
+| education         = [[University of Vienna]]
+| doctoral_advisor  = [[Walter Thirring]], H. Pietschmann
+| doctoral_students = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+}}
+
+'''Peter Grassberger''' (born 17 May 1940) is a retired professor who worked in statistical and [[particle physics]]. He made contributions to [[chaos theory]], where he introduced the idea of [[correlation dimension]], a means of measuring a type of [[fractal dimension]] of the [[strange attractor]].
+
+==Work==
+Grassberger's early work focused on particle phenomenology, in particular on the formulation of formally exact equations for three-body scattering and bound state scattering (Alt–Grassberger–Sandhas equation).
+
+While working at [[CERN]], he realized that reggeon field theory can be viewed as a [[contact process (mathematics)|contact process]] in the same [[universality class]] as [[directed percolation]]. After making this discovery, Grassberger turned his attention to the studies of [[statistical physics]], [[dynamical systems]], sequential sampling algorithms, and [[complex systems]]. His publications span a variety of topics including [[reaction-diffusion systems]], [[cellular automata]], [[fractals]], [[Ising model]], Griffiths phases, [[self-organized criticality]], and [[percolation]].
+
+He held long-term positions at the [[University of Wuppertal]] and at the [[Forschungszentrum Jülich]] (Germany). Other positions that lasted between 2 years and 3 months were at [[CERN]], at the Universities of Kabul, Nice, Calgary, Rome and Utrecht, the [[Weizmann Institute]], the [[Max Planck Institute for the Physics of Complex Systems]] in Dresden, the {{Interlanguage link|Istituto nazionale di ottica|it|}} in Florence, and at the [[Institute for Advanced Studies in Basic Sciences]] in Zanjan, Iran.
+
+In 2017 he received the [[EPS Statistical and Nonlinear Physics Prize]].<ref>{{cite web |title=SNPD Prizes 2017 |url=http://www.eps.org/resource/group/b4bdd358-5b5f-403d-b81e-f906bf57f87a/long-citation.pdf |website=eps.org |access-date=18 November 2024}}</ref>
+
+==See also==
+
+* [[Complex network]]
+* [[Epidemic models on lattices]]
+* [[Mutual information]]
+* [[Forecasting complexity]]
+* [[Kolmogorov entropy]]
+
+==Selected publications==
+* {{cite journal
+ | author = P. Grassberger
+ | author2=I. Procaccia
+ | year = 1983
+ | title = Measuring the strangeness of strange attractors
+ | journal = Physica D: Nonlinear Phenomena
+ | volume = 9
+ | pages = 189–208
+ | doi = 10.1016/0167-2789(83)90298-1
+ | issue = 1–2
+ | bibcode=1983PhyD....9..189G
+}}
+* {{cite journal
+ | author = P. Grassberger
+ | author2=I. Procaccia
+ | year = 1983
+ | title = Characterization of Strange Attractors
+ | journal = Physical Review Letters
+ | volume = 50
+ | pages = 346–349
+ | doi = 10.1103/PhysRevLett.50.346
+ | pmid = 
+ | issue = 5
+ | pmc =
+ | bibcode=1983PhRvL..50..346G
+}}
+* {{cite journal
+ | author = E. O. Alt
+ | author2=P. Grassberger |author3=W. Sandhas
+ | year = 1967
+ | title = Reduction of the three-particle collision problem to multi-channel two-particle Lippmann-Schwinger equations
+ | journal = Nuclear Physics B
+ | volume = 2
+ | pages = 167–180
+ | doi = 10.1016/0550-3213(67)90016-8
+ | issue = 2
+ | bibcode = 1967NuPhB...2..167A }}
+* {{cite journal
+ | author = P. Grassberger
+ | author2=I. Procaccia
+ | year = 1983
+ | title = Estimation of the Kolmogorov entropy from a chaotic signal
+ | journal = Physical Review A
+ | volume = 28
+ | pages = 2591–2593
+ | doi = 10.1103/PhysRevA.28.2591
+ | pmid = 
+ | issue = 4
+ | pmc = 
+ | bibcode = 1983PhRvA..28.2591G }}
+* {{cite journal
+ | author = P. Grassberger
+ | year = 1983
+ | title = Generalized dimensions of strange attractors
+ | journal = Physics Letters A
+ | volume = 97
+ | pages = 227–230
+ | doi = 10.1016/0375-9601(83)90753-3
+ | issue = 6
+ | bibcode=1983PhLA...97..227G
+}}
+* {{cite journal
+ | author = P. Grassberger
+ | author2=I. Procaccia
+ | year = 1984
+ | title = Dimensions and entropies of strange attractors from a fluctuating dynamics approach
+ | journal = Physica D: Nonlinear Phenomena
+ | volume = 13
+ | pages = 34–54
+ | doi = 10.1016/0167-2789(84)90269-0
+ | issue = 1–2
+ | bibcode = 1984PhyD...13...34G }}
+* {{cite journal
+ | author = P. Grassberger
+ | author2=A. de la Torre
+ | year = 1979
+ | title = Reggeon field theory (Schlögl's first model) on a lattice: Monte Carlo calculations of critical behaviour
+ | journal = Annals of Physics
+ | volume = 122
+ | pages = 373–396
+ | doi = 10.1016/0003-4916(79)90207-0
+ | issue = 2
+ | bibcode = 1979AnPhy.122..373G }}
+* {{cite journal
+ | author = P. Grassberger |author2=R. Badii |author3=A. Politi
+ | year = 1988
+ | title = Scaling laws for invariant measures on hyperbolic and nonhyperbolic atractors
+ | journal = Journal of Statistical Physics
+ | volume = 51
+ | pages = 135–178
+ | doi = 10.1007/BF01015324
+ | pmid = 
+ | issue = 1–2
+ | pmc = 
+ | bibcode = 1988JSP....51..135G |s2cid=121999076 }}
+* {{cite journal
+ | author = P. Grassberger
+ | year = 1982
+ | title = On phase transitions in Schlögl's second model
+ | journal = [[Zeitschrift für Physik B]]
+ | volume = 47
+ | pages = 365–374
+ | doi = 10.1007/BF01313803
+ | pmid = 
+ | issue = 4
+ | pmc = 
+ | bibcode = 1982ZPhyB..47..365G | s2cid = 120131896
+ }}
+* {{cite journal
+ | author = P. Grassberger
+ | author2=I. Procaccia
+ | year = 1982
+ | title = The long time properties of diffusion in a medium with static traps
+ | journal = J. Chem. Phys.
+ | volume = 77
+ | pages = 6281–6284
+ | doi = 10.1063/1.443832
+ | pmid = 
+ | issue = 12
+ | pmc = 
+ | bibcode = 1982JChPh..77.6281G | doi-access = free
+ }}
+* {{cite journal
+ | author = J.G. Foster
+ | author2=D.V. Foster |author3=P. Grassberger |author4-link=Maya Paczuski |author4=M. Paczuski
+ | year = 2009
+ | title = Edge Direction and the Structure of Networks
+ | journal = Proceedings of the National Academy of Sciences of the United States of America
+ | volume = 107
+ | pages = 10815–10820
+ | doi = 10.1073/pnas.0912671107
+ | pmid = 20505119
+ | issue = 24
+ | pmc =2890716
+ | arxiv = 0908.4288 |bibcode = 2010PNAS..10710815F |doi-access=free }}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{INSPIRE-HEP author}} 
+{{Authority control}}
+
+{{DEFAULTSORT:Grassberger, Peter}}
+[[Category:Austrian physicists]]
+[[Category:People associated with CERN]]
+[[Category:Academic staff of the University of Calgary]]
+[[Category:Living people]]
+[[Category:1940 births]]
+
+{{Austria-scientist-stub}}
+{{physicist-stub}}

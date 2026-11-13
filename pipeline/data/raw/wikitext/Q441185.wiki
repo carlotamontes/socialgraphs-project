@@ -1,0 +1,121 @@
+{{short description|Hungarian-American mathematician (1923-2005)}}
+{{Infobox scientist
+| name              = Raoul Bott
+| image             = Raoul Bott 1986 (rescanned B, headshot).jpg
+| caption           = Raoul Bott in Berkeley, 1986
+| birth_date        = {{birth date|1923|9|24}}
+| birth_place       = [[Budapest]], [[Kingdom of Hungary (1920–1946)|Kingdom of Hungary]]
+| death_date        = {{death date and age|2005|12|20|1923|9|24}}
+| death_place       = [[San Diego, California|San Diego]], [[California]], U.S.
+| fields            = [[Mathematics]]
+| workplaces        = [[University of Michigan]] in [[Ann Arbor]]<br />[[Harvard University]]
+| education         = [[McGill University]]<br />[[Carnegie Mellon University]]
+| doctoral_advisor  = [[Richard Duffin]]
+| doctoral_students = {{plainlist|1=
+*[[Edward B. Curtis]]
+*[[Harold Edwards (mathematician)|Harold Edwards]]
+*[[Nancy Hingston]]
+*[[Peter Landweber]]
+*[[Robert MacPherson (mathematician)|Robert MacPherson]]
+*[[Daniel Quillen]]
+*[[Stephen Smale]]
+*[[Susan Tolman]]
+*[[Eric Weinstein]]
+}}
+| notable_students  = [[Loring W. Tu]]
+| known_for         = [[Bott cannibalistic class]]<br />[[Bott periodicity theorem]]<br />[[Bott residue formula]]<br />[[Bott–Chern cohomology]]<br />[[Network synthesis#Bott-Duffin synthesis|Bott–Duffin synthesis]]<br />[[Bott–Samelson resolution]]<br />[[Bott–Taubes polytope]]<br />[[Virasoro group|Bott–Virasoro group]]<br />[[Atiyah–Bott formula]]<br />[[Atiyah–Bott fixed-point theorem]]<br />[[Atiyah–Bott–Shapiro orientation]]<br />[[Borel–Weil–Bott theorem]]<br />[[Morse theory#Morse–Bott theory|Morse–Bott theory]]
+| awards            = [[Oswald Veblen Prize in Geometry|Veblen Prize]] (1964)<br />[[Jeffery–Williams Prize]] (1983)<br />[[National Medal of Science]] (1987)<br />[[Steele Prize]] (1990)<br />[[Wolf Prize in Mathematics|Wolf Prize]] (2000)<br />[[ForMemRS]] (2005)
+}}
+'''Raoul Bott''' (September 24, 1923 – December 20, 2005)<ref>{{Cite journal | last1 = Atiyah | first1 = Michael | author-link = Michael Atiyah| doi = 10.1098/rsbm.2007.0006 | doi-access = free| title = Raoul Harry Bott. 24 September 1923 -- 20 December 2005: Elected ForMemRS 2005 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 53 | pages = 63 | year = 2007 | s2cid = 70531812 }}</ref> was a Hungarian-American mathematician known for numerous foundational contributions to [[geometry]] in its broad sense. He is best known for his [[Bott periodicity theorem]], the [[Morse–Bott function]]s which he used in this context, and the [[Borel–Bott–Weil theorem]].
+
+==Early life==
+Bott was born in [[Budapest]], [[Kingdom of Hungary (1920–1946)|Hungary]], the son of Margit Kovács and Rudolph Bott.<ref>{{cite book|url=https://archive.org/details/notabletwentieth01mcmu|url-access=registration|quote=Raoul Bott Margit Kovacs.|title=Notable Twentieth-century Scientists: A-E|first1=Emily J.|last1=McMurray|first2=Jane Kelly|last2=Kosek|first3=Roger M.|last3=Valade|date=1 January 1995|publisher=Gale Research|access-date=28 October 2016|via=Internet Archive|isbn=9780810391826}}</ref> His father was of Austrian descent, and his mother was of Hungarian Jewish descent; Bott was raised a Catholic by his mother and stepfather in Bratislava, Czechoslovakia, now the capital of Slovakia.<ref>{{cite web |last= |first= |title=Raoul Bott |url=http://www-history.mcs.st-and.ac.uk/Biographies/Bott.html |access-date=28 October 2016 |website=MacTutor History of Mathematics}}</ref><ref>{{Cite journal |last=Tu |first=Loring W. | author-link = Loring W. Tu |date=May 2006 |title=The Life and Works of Raoul Bott |url=https://www.ams.org/notices/200605/fea-bott-2.pdf |journal=[[Notices of the American Mathematical Society]] |volume=53 |issue=5 |pages=554–570 |issn=0002-9920}}</ref> Bott grew up in [[Czechoslovakia]] and spent his working life in the [[United States]]. His family emigrated to [[Canada]] in 1938, and subsequently he served in the [[Canadian Forces|Canadian Army]] in [[Europe]] during [[World War II]].
+
+==Career==
+Bott later went to college at [[McGill University]] in [[Montreal]], where he studied [[electrical engineering]]. He then earned a [[PhD]] in mathematics from [[Carnegie Mellon University]] in [[Pittsburgh]] in 1949. His thesis, titled ''Electrical Network Theory'', was written under the direction of [[Richard Duffin]]. Afterward, he began teaching at the [[University of Michigan]] in [[Ann Arbor]]. Bott continued his study at the [[Institute for Advanced Study]] in Princeton.<ref>{{cite web|url=http://www.ias.edu/people/cos/frontpage/b?page=12|title=Community of Scholars |archive-url=https://web.archive.org/web/20130310034202/http://www.ias.edu/people/cos/frontpage/b?page=12 |archive-date=2013-03-10 |publisher=[[Institute for Advanced Study]]|website=ias.edu|access-date=4 April 2018}}</ref> He was a professor at [[Harvard University]] from 1959 to 1999. In 2005 Bott died of [[cancer]] in [[San Diego]].
+
+With [[Richard Duffin]] at Carnegie Mellon, Bott studied existence of [[electronic filter]]s corresponding to given [[positive-real function]]s.  In 1949 they proved<ref>[[John H. Hubbard]] (2010) "The Bott-Duffin Synthesis of Electrical Circuits", pp 33 to 40 in ''A Celebration of the Mathematical Legacy of Raoul Bott'', P. Robert Kotiuga editor, CRM Proceedings and Lecture Notes #50, [[American Mathematical Society]]</ref>  a fundamental theorem of [[network synthesis filters|filter synthesis]]. Duffin and Bott extended earlier work by [[Otto Brune]] that requisite functions of [[complex frequency]] ''s'' could be realized by a [[passive filter|passive network]] of [[inductor]]s and [[capacitor]]s. The proof relied on [[mathematical induction|induction]] on the sum of the [[degree of a polynomial|degrees of the polynomials]] in the numerator and denominator of the rational function.<ref>{{Cite journal |last1=Bott |first1=R. |last2=Duffin |first2=R. J. |date=1949-08-01 |title=Impedance Synthesis without Use of Transformers |url=https://doi.org/10.1063/1.1698532 |journal=Journal of Applied Physics |volume=20 |issue=8 |pages=816 |doi=10.1063/1.1698532 |bibcode=1949JAP....20..816B |issn=0021-8979|url-access=subscription }}</ref>
+In his 2000 interview<ref>Jackson, Allyn, "Interview with Raoul Bott", [[Notices of the American Mathematical Society]] 48 (2001), no. 4, 374–382.</ref> with Allyn Jackson of the [[American Mathematical Society]], he explained that he sees "networks as discrete versions of harmonic theory", so his experience with [[network synthesis]] and [[electronic filter topology]] introduced him to [[algebraic topology]].
+
+Bott met [[Arnold S. Shapiro]] at the IAS and they worked together.
+He studied the [[homotopy theory]] of [[Lie group]]s, using methods from [[Morse theory]], leading to the [[Bott periodicity theorem]] (1957). In the course of this work, he introduced [[Morse–Bott function]]s, an important generalization of [[Morse function]]s.
+
+This led to his role as collaborator over many years with [[Michael Atiyah]], initially via the part played by periodicity in [[K-theory]]. Bott made important contributions towards the [[Atiyah–Singer index theorem|index theorem]], especially in formulating related [[fixed-point theorem]]s, in particular the so-called '[[Woods Hole fixed-point theorem]]', a combination of the [[Riemann–Roch theorem]] and [[Lefschetz fixed-point theorem]] (it is named after [[Woods Hole, Massachusetts]], the site of a conference at which collective discussion formulated it).<ref>{{cite journal
+ | last = Tu | first = Loring W. | author-link = Loring W. Tu
+ | doi = 10.1090/noti1284
+  | doi-access = free| issue = 10
+ | journal = [[Notices of the American Mathematical Society]]
+ | mr = 3408066
+ | pages = 1200–1206
+ | title = On the genesis of the Woods Hole fixed point theorem
+ | volume = 62
+ | year = 2015}}</ref> The major Atiyah–Bott papers on what is now the [[Atiyah–Bott fixed-point theorem]] were written in the years up to 1968; they collaborated further in recovering in contemporary language [[Ivan Petrovsky]] on [[Petrovsky lacuna]]s of [[hyperbolic partial differential equation]]s, prompted by [[Lars Gårding]]. In the 1980s, Atiyah and Bott investigated [[gauge theory]], using the [[Yang–Mills theory|Yang–Mills equations]] on a [[Riemann surface]] to obtain topological information about the [[moduli space]]s of stable bundles on Riemann surfaces. In 1983 he spoke to the Canadian Mathematical Society in a talk he called "A topologist marvels at Physics".<ref>{{cite journal |author=R. Bott |year=1985 |title=On some recent interactions between mathematics and physics |journal=[[Canadian Mathematical Bulletin]] |volume=28 |issue=2 |pages=129–164 |doi=10.4153/CMB-1985-016-3|s2cid=120399958 |doi-access=free }}</ref>
+
+He is also well known in connection with the [[Borel–Bott–Weil theorem]] on representation theory of Lie groups via holomorphic [[sheaf (mathematics)|sheaves]] and their cohomology groups; and for work on [[foliation]]s. With [[Chern]] he worked on [[Nevanlinna theory]], studied [[holomorphic vector bundle]]s over [[complex analytic manifold]]s and introduced the Bott-Chern classes, useful in the theory of [[Arakelov geometry]] and also to [[algebraic number theory]].
+
+He introduced [[Bott–Samelson varieties]] and the [[Bott residue formula]] for complex manifolds and the [[Bott cannibalistic class]].
+
+==Awards==
+In 1964, he was awarded the [[Oswald Veblen Prize in Geometry]] by the [[American Mathematical Society]]. In 1983, he was awarded the [[Jeffery–Williams Prize]]<ref name="Jeffery-Williams1983">{{cite web | title=Jeffery-Williams Prize – CMS-SMC | website=CMS-SMC | date=7 January 2025 | url=https://cms.math.ca/awards/jeffery-williams-prize/ | access-date=7 January 2025}}</ref> by the [[Canadian Mathematical Society]]. In 1987, he was awarded the [[National Medal of Science]].<ref>{{cite web|url=https://www.nsf.gov/od/nms/recip_details.cfm?recip_id=49|title=The President's National Medal of Science: Recipient Details - NSF - National Science Foundation|access-date=28 October 2016}}</ref>
+
+In 2000, he received the [[Wolf Prize]]. In 2005, he was elected an Overseas Fellow of the [[Royal Society of London]].
+
+==Students==
+Bott had 35 PhD students, including [[Stephen Smale]], [[Daniel Quillen]], [[Peter Landweber]], [[Robert MacPherson (mathematician)|Robert MacPherson]], [[Robert W. Brooks]], [[Susan Tolman]], and [[Eric Weinstein]].<ref>{{MathGenealogy|7583|title=Raoul H. Bott}}</ref> Smale and Quillen won [[Fields Medal]]s in 1966 and 1978 respectively.
+
+==Publications==
+* 1995: ''Collected Papers. Vol. 4. Mathematics Related to Physics''. Edited by [[Robert MacPherson (mathematician)|Robert MacPherson]]. Contemporary Mathematicians. [[Birkhäuser]] Boston, xx+485 pp.&nbsp;{{ISBN|0-8176-3648-X}} {{MR|1321890}}
+* 1995: ''Collected Papers. Vol. 3. Foliations''. Edited by Robert D. MacPherson. Contemporary Mathematicians. Birkhäuser, xxxii+610 pp.&nbsp;{{ISBN|0-8176-3647-1}} {{MR|1321886 }}
+* 1994: ''Collected Papers. Vol. 2. Differential Operators''. Edited by Robert D. MacPherson. Contemporary Mathematicians. Birkhäuser, xxxiv+802 pp.&nbsp;{{ISBN|0-8176-3646-3}} {{MR|1290361}}
+* 1994: ''Collected Papers. Vol. 1. Topology and Lie Groups''. Edited by Robert D. MacPherson. Contemporary Mathematicians. Birkhäuser, xii+584 pp.&nbsp;{{ISBN|0-8176-3613-7}} {{MR|1280032 }}
+* 1982: (with [[Loring W. Tu]]) ''Differential Forms in Algebraic Topology''. [[Graduate Texts in Mathematics]] #82. Springer-Verlag, New York-Berlin. xiv+331 pp.&nbsp;{{ISBN|0-387-90613-4}} {{doi|10.1007/978-1-4757-3951-0}} {{MR|0658304}}<ref>{{cite journal|author=Stasheff, James D.|author-link=Jim Stasheff|title=Review: ''Differential forms in algebraic topology'', by Raoul Bott and Loring W. Tu|journal=[[Bulletin of the American Mathematical Society]] |series=New Seriesyear=1984|volume=10|issue=1|pages=117–121|url=https://www.ams.org/journals/bull/1984-10-01/S0273-0979-1984-15208-X/|doi=10.1090/S0273-0979-1984-15208-X|doi-access=free}}</ref>
+* 1969: ''Lectures on K(X)''. Mathematics Lecture Note Series [[W. A. Benjamin]], New York-Amsterdam x+203 pp.{{MR|0258020}}
+
+==See also==
+*[[Constrained generalized inverse|Bott–Duffin inverse]]
+*[[Parallelizable manifold]]
+*[[Lefschetz hyperplane theorem#Thom's and Bott's proofs|Thom's and Bott's proofs of the Lefschetz hyperplane theorem]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MathGenealogy|id=7583}}
+* {{cite web | title=Raoul Bott, 1923-2005 | url=https://legacy-www.math.harvard.edu/history/bott/ | access-date=13 April 2024 | archive-date=13 April 2024 | archive-url=https://web.archive.org/web/20240413183103/https://legacy-www.math.harvard.edu/history/bott/ }}.
+* {{cite web | title=The life and works of Raoul Bott | url=https://legacy-www.math.harvard.edu/history/bott/bottbio/ | access-date=13 April 2024 | archive-date=13 April 2024 | archive-url=https://web.archive.org/web/20240413175426/https://legacy-www.math.harvard.edu/history/bott/bottbio/ }} (By [[Loring W. Tu]], January 4, 2002).
+* {{cite web | title=Raoul Bott, an Innovator in Mathematics, Dies at 82 | website=[[The New York Times]] | date=8 January 2006 | url=https://www.nytimes.com/2006/01/08/us/raoul-bott-an-innovator-in-mathematics-dies-at-82.html | access-date=13 April 2024 | archive-date=20 August 2023 | archive-url=https://web.archive.org/web/20230820204541/https://www.nytimes.com/2006/01/08/us/raoul-bott-an-innovator-in-mathematics-dies-at-82.html | last1=Pearce | first1=Jeremy }} (''[[The New York Times]]'', January 8, 2006).
+
+{{FRS 2005}}
+{{Wolf Prize in Mathematics}}
+{{Winners of the National Medal of Science|math-stat-comp}}
+{{Veblen Prize recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bott, Raoul}}
+[[Category:1923 births]]
+[[Category:2005 deaths]]
+[[Category:20th-century American mathematicians]]
+[[Category:20th-century Hungarian mathematicians]]
+[[Category:20th-century Roman Catholics]]
+[[Category:21st-century American mathematicians]]
+[[Category:21st-century Roman Catholics]]
+[[Category:American people of Hungarian-Jewish descent]]
+[[Category:Hungarian Jews]]
+[[Category:Topologists]]
+[[Category:Geometers]]
+[[Category:Differential geometers]]
+[[Category:Algebraic geometers]]
+[[Category:Harvard University Department of Mathematics faculty]]
+[[Category:University of Michigan faculty]]
+[[Category:McGill Faculty of Engineering alumni]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:Foreign members of the Royal Society]]
+[[Category:National Medal of Science laureates]]
+[[Category:Wolf Prize in Mathematics laureates]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Hungarian Roman Catholics]]
+[[Category:Hungarian emigrants to Canada]]
+[[Category:Canadian emigrants to the United States]]
+[[Category:Hungarian expatriates in Czechoslovakia]]
+[[Category:American fellows of the Royal Society]]

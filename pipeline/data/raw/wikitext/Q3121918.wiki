@@ -1,0 +1,48 @@
+{{Short description|French physicist}}
+'''Guy Laval''' (born 17 November 1935 in [[Boulogne-sur-mer]], [[Pas de Calais]]) is a [[:Category:French physicists|French physicist]], professor at the [[École Polytechnique|École polytechnique]] and member of the [[French Academy of Sciences]].
+
+He is a former student of the École polytechnique (X1956), a member of the [[Corps des ponts|Corps des Ponts]] and a [[Doctorate|doctor]] of [[Physical Sciences|physical sciences]].
+
+== Training and career ==
+{{BLP unreferenced section|date=August 2023}}
+After attending the Ecole Polytechnique (1956–1958), he entered the Ecole Nationale des Ponts et Chaussées (1959–1961), then was seconded to the [[French Alternative Energies and Atomic Energy Commission|Commissariat à l'Energie Atomique]] (CEA) (1962–1971), and became a lecturer at the Ecole Polytechnique (1970–1982). He was a tutor on a five-year contract at the [[Institute for Advanced Study]] in Princeton, New Jersey (USA) (1976–1978), seconded to the [[Centre national de la recherche scientifique|CNRS]] as a research master (1971–1983), CNRS research director (1983–2003), then director of the Centre de physique théorique de l'école polytechnique (1985–1995) and finally a professor at the École polytechnique (1983–1992).
+
+== Scientific work ==
+Guy Laval's scientific work concerns [[Plasma (physics)|plasma physics]] and its applications. First, he demonstrates the need for [[Hydromagnetics|hydromagnetic]] energy principles for stability,<ref>{{cite journal | last1=Laval | first1=G. | last2=Mercier | first2=C. | last3=Pellat | first3=R. | title=Necessity of the energy principles for magnetostatic stability | journal=Nuclear Fusion | publisher=IOP Publishing | volume=5 | issue=2 | date=1965-06-01 | issn=0029-5515 | doi=10.1088/0029-5515/5/2/007 | pages=156–158}}</ref> and finds that the shape of the cross-section of a cylindrical pinch has a strong influence on its stability.<ref>{{cite journal | last=Laval | first=G. | title=Hydromagnetic stability of a current-carrying pinch with noncircular cross section | journal=Physics of Fluids | publisher=AIP Publishing | volume=17 | issue=4 | year=1974 | issn=0031-9171 | doi=10.1063/1.1694796 | page=835| bibcode=1974PhFl...17..835L | doi-access=free }}</ref> Then, using Vlasov-Boltzmann's equations, he demonstrates the instability of a Harris pinch plan. He brings these results closer to the knowledge of the time on the interaction of the Earth's [[magnetosphere]] with the [[solar wind]]. He then uses intermediate formulations of the plasma evolution equations to calculate the magnetic reconnection in tokamaks, especially for the m=1<ref>{{cite journal | last1=Ara | first1=G. | last2=Basu | first2=B. | last3=Coppi | first3=B. | last4=Laval | first4=G. | last5=Rosenbluth | first5=M.N. | last6=Waddell | first6=B.V. | title=Magnetic reconnection and m = 1 oscillations in current carrying plasmas | journal=Annals of Physics | publisher=Elsevier BV | volume=112 | issue=2 | year=1978 | issn=0003-4916 | doi=10.1016/s0003-4916(78)80007-4 | pages=443–476| bibcode=1978AnPhy.112..443A }}</ref> mode.
+
+Then it evaluates the effects of wave coupling during the quasi-linear evolution of a plasma beam instability in the unidimensional case.<ref>{{cite journal | last1=Laval | first1=G | last2=Pellat | first2=R. | last3=Pesme | first3=D. | title=Absolute Parametric Excitation by an Imperfect Pump or by Turbulence in an Inhomogeneous Plasma | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=36 | issue=4 | date=1976-01-26 | issn=0031-9007 | doi=10.1103/physrevlett.36.192 | pages=192–196| bibcode=1976PhRvL..36..192L }}</ref><ref>{{cite journal | last1=Adam | first1=J. C. | last2=Laval | first2=G. | last3=Pesme | first3=D. | title=Reconsideration of Quasilinear Theory | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=43 | issue=22 | date=1979-11-26 | issn=0031-9007 | doi=10.1103/physrevlett.43.1671 | pages=1671–1675| bibcode=1979PhRvL..43.1671A }}</ref> It shows that imperfect turbulence or pump wave can have a stabilizing effect for parametric instability but can also restore parametric instability suppressed by plasma inhomogeneity.<ref>{{cite journal | last1=Casanova | first1=M. | last2=Laval | first2=G. | last3=Pellat | first3=R. | last4=Pesme | first4=D. | title=Self-Generated Loss of Coherency in Brillouin Scattering and Reduction of Reflectivity | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=54 | issue=20 | date=1985-05-20 | issn=0031-9007 | doi=10.1103/physrevlett.54.2230 | pages=2230–2233| pmid=10031286 | bibcode=1985PhRvL..54.2230C }}</ref> He shows that a non-linear displacement of the frequency of a daughter wave can make the interaction chaotic, thus limiting the reflectivity of the plasma.<ref>{{cite journal | last1=Guérin | first1=S. | last2=Laval | first2=G. | last3=Mora | first3=P. | last4=Adam | first4=J. C. | last5=Héron | first5=A. | last6=Bendib | first6=A. | title=Modulational and Raman instabilities in the relativistic regime | journal=Physics of Plasmas | publisher=AIP Publishing | volume=2 | issue=7 | year=1995 | issn=1070-664X | doi=10.1063/1.871178 | pages=2807–2814| bibcode=1995PhPl....2.2807G | doi-access=free }}</ref> It shows that parametric instabilities are strongly modified if the amplitude of the laser wave reaches the relativistic domain and that the generated relativistic electrons are emitted with an angular dispersion that can be problematic for the rapid ignition of targets.<ref>{{cite journal | last1=Adam | first1=J. C. | last2=Héron | first2=A. | last3=Laval | first3=G. | title=Study of stationary plasma thrusters using two-dimensional fully kinetic simulations | journal=Physics of Plasmas | publisher=AIP Publishing | volume=11 | issue=1 | year=2004 | issn=1070-664X | doi=10.1063/1.1632904 | pages=295–305| bibcode=2004PhPl...11..295A }}</ref>
+
+Finally, in the operation of Hall effect space thrusters, he found instability that explains the abnormal electronic conductivity that neutralizes the [[ion beam]].<ref>{{cite journal | last1=Adam | first1=J. C. | last2=Héron | first2=A. | last3=Laval | first3=G. | title=Dispersion and Transport of Energetic Particles due to the Interaction of Intense Laser Pulses with Overdense Plasmas | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=97 | issue=20 | date=2006-11-17 | issn=0031-9007 | doi=10.1103/physrevlett.97.205006 | article-number=205006| pmid=17155691 | bibcode=2006PhRvL..97t5006A }}</ref>
+
+== Functions and Distinction ==
+
+Source:<ref>{{cite web|title=CV|url=https://www.academie-sciences.fr/pdf/membre/LavalG_bio160311.pdf|date=}}</ref>
+
+*    Silver medal of the CNRS (1972)
+*    Member of the [[Société Française de Physique|French Physical Society]], of which he was President (1987–1988),
+*    Member of the [[European Physical Society]],
+*    Deputy Director General of the École Polytechnique, in charge of education (1995–1996),
+*    Member of the National Committee for Scientific Research (1970–1975, 1988–1992, 1996–2000).
+*    Member of the French Academy of Sciences<ref>{{cite web|title=Académie des sciences|url=https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-L/guy-laval.html|date=}}</ref> 2003
+*    Johannides Prize of the French Academy of Sciences 1983
+*    [[Jean Ricard Prize]] in Physics from the French Physical Society. 1993
+
+== Books ==
+*    Christian Labrousse and Jean-Pierre Poirier, La science en France : dictionnaire biographique des scientifiques français de l'an mille à nos jours, Paris, Jean-Cyrille Godefroy, 2017, 1494 p. ({{ISBN|978-2-86553-293-3}}), entry "Laval, Guy", pp.&nbsp;844–845
+*    Blue Energy: a history of nuclear fusion. Odile Jacob (2007)
+*    Uncertainties on climate, with K. Laval, Belin, (2013)
+*    Coordinator of the Report on Research and Technology, N°26: Nuclear fusion: from fundamental research to energy production?
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Laval, Guy}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:French physicists]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+[[Category:École polytechnique alumni]]
+[[Category:Academic staff of École polytechnique]]

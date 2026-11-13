@@ -1,0 +1,87 @@
+{{Short description|American physicist (1936–2024)}}
+{{More footnotes needed|date=April 2009}}
+{{Infobox scientist
+| name              = Robert W. Bower
+| image             =
+| image_size        = 150px
+| caption           = 
+| birth_date        = {{birth date|1936|6|12|mf=y}}
+| birth_place       = [[Santa Monica, California]], U.S.
+| death_date        = {{death date and age|2024|1|27|1936|6|12|mf=y}}
+| death_place       = [[Maui|Maui, Hawaii]], U.S.
+| citizenship       = 
+| ethnicity         = 
+| fields            = [[Applied Physics]]
+| workplaces        = 
+| education         = [[University of California at Berkeley]]<BR>[[The California Institute of Technology]]
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Self-aligned-gate [[MOSFET]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[National Inventors Hall of Fame]], 1997<BR>[[National Academy of Engineering]], 1999
+| religion          = 
+| signature         = <!--(filename only)-->
+| footnotes         =  
+}}
+
+'''Robert William Bower''' (June 12, 1936 – January 27, 2024) was an American applied physicist. Immediately after receiving his [[Doctor of Philosophy|Ph.D.]] from [[The California Institute of Technology]] in 1973, he worked for over 25 years in many different professions: engineer, scientist, professor at [[University of California, Davis]], and as president and [[Chief executive officer|CEO]] of Device Concept Inc. He also served as the president of Integrated Vertical Modules, which focused on three-dimensional, high-density structures. His most notable contribution, however, is his field-effect device with insulated gates—also known as a self-aligned-gate [[MOSFET]] (metal–oxide–semiconductor field-effect transistor), or SAGFET. Bower patented this design in 1969 while working at the [[Hughes Research Laboratories]] in Malibu, California.
+
+Bower also published over 80 journals and articles, patented over 28 inventions, and authored chapters in 3 different books. He died in [[Maui|Maui, Hawaii]] on January 27, 2024, at the age of 87.<ref>{{cite news |title=Robert William Bower |url=https://obituaries.mauinow.com/obituary/robert-bower-1089362872 |access-date=2 June 2024 |publisher=Maui Now |date=9 February 2024}}</ref>
+
+==Biography==
+
+===Life and education===
+Bower was born in [[Santa Monica]], California, in 1936. He remained in California throughout his life, except for 1954–1958 when he enlisted in the [[United States Air Force|Air Force]]. After his service with the Air Force, he enrolled in [[UC Berkeley]], and in 1962, earned his [[Bachelor of Arts|A.B.]] in physics while working at the [[Lawrence Radiation Laboratory]]. One year later, he earned his M.S. in electrical engineering from Caltech. In 1965, he worked in [[Malibu, California|Malibu]], California with Hughes Research Laboratories, which specializes in aerospace and defense operations. He later returned to Caltech and received his Ph.D. in [[Applied physics|Applied Physics]] in 1973. Bower was latterly Professor [[Emeritus]] at the [[University of California, Davis]], where he taught for over 14 years.
+
+===Primary accomplishments===
+At the [[Hughes Research Laboratories]] in the late 1960s, Bower strove to find the ideal element to integrate in all circuits. In 1920, Lilienfeld conceived of the basic design for this idea but had no platform to build or test his device. In the late 1950s, McCaldin and Hornoi devised of the silicon [[planar process]] and Kilby and Noyce established an Integrated circuit (IC) that could serve as a basic platform for Lilienfeld's design. In 1963, Steven Hofstein and Frederic Heiman compiled the ideas from all previous scientists and were able to describe the fundamental nature of the [[MOSFET]] on a silicon planar process platform; however, they lacked one key asset that would power the MOSFET. In 1965, Bower conceived of the self-aligned-gate ion-implanted MOSFET which was the key to advances in integrated circuits.<ref>{{cite web | url = http://www.invent.org/hall_of_fame/18.html | title = Robert Bower – Field-Effect Device with Insulated Gate; Self Aligned Gate MOSFET | work = Hall of Fame / Inventor Profile | url-status = dead | archiveurl = https://web.archive.org/web/20081227235606/http://www.invent.org/hall_of_fame/18.html | archivedate = 2008-12-27 }}</ref>
+
+===Self-aligned-gate ion-implanted MOSFET===
+The MOSFET (metal–oxide–semiconductor field-effect transistor) is a device that amplifies or switches electronic signals. However, without the [[self-aligned gate]], the MOSFET lacked a proper source to improve the accuracy of the entire fabrication process. Dr. Bower therefore established a small self-aligned gate designed to arrange a highly doped gate as a mask of the source and drain around it. His patent (U.S. 3,472,712) was filed on October 27, 1966 and issued to him on October 14, 1969.{{Citation needed|date=July 2025}}
+
+===Patent controversy===
+Bower's invention underwent much controversy when Kerwin, Klein, and Sarace argued that they were the actual inventors of the self-aligned gate transistors. In 1966, Bower and Dill presented the first publication the self-aligned gate transistor at the International Electron Device Meeting in Washington, D.C.  That IEDM publication described the self-aligned gate transistor fabricated with both metal and polysilicon as the gate material and using both ion implantation and diffusion to form the source and drains.  This was presentation 16.6 of this IEDM meeting.{{Citation needed|date=July 2025}} To Bower and to the attorneys who litigated the Bower U.S. 3,472,712 patent it was determined in the courts that his patent covered the general principal of using a gate as mask for both metal and polysilicon gates using ion implantation to establish the source and drain regions. Bower does not acknowledge the statement "Although Bower believed he was first in using aluminum as the gate and later developed the device using polysilicon as the gate, he was unable to prove it to the courts and the patent was awarded to Kerwin, Klein, and Sarace (U.S. 3,475,234)" is true. Actually it was the Hans G. Dill patent U.S. 3,544,3999, filed on October 26, 1966, that described the formation of the polysilicon gate self-aligned gate FET using diffusion of the source and drain that was disputed by the Kerwin et al. patent, not the Bower patent.  It was also determined in a number of court cases that the vast majority of self-aligned gate FETs were made using ion implantation rather than diffusion to introduce the dopants into the source-drain regions.  Bower conferred with the attorneys who litigated these cases and they confirmed that the statement "The [[US patent system]] grants the patent to the first developer of the invention, not the first one to be issued a patent." is not a valid statement of patent law.{{Citation needed|date=July 2025}}
+
+===Other works===
+Aside from his large contributions in the advancement of MOSFET, Bower has published over 80 journals and articles, patented over 28 inventions, and authored chapters in 3 different books. He has recently been working with Integrate Vertical Modules to focus on three-dimensional, high-density solid structures.
+
+===Recent patents===
+* R.W. Bower and M.S. Ismail. ALIGNED WAFER BONDING. Patent U.S. 5,226,118, issued August 17, 1993.
+* R.W. Bower and M.S. Ismail. DIGITAL PRESSURE SWITCH FORMED BY ALIGNED WAFER BONDING. Patent U.S. 5,294,760, issued March 15, 1994.
+* R.W. Bower and M.S. Ismail. NITROGEN BASED LOW TEMPERATURE DIRECT BONDING. Patent U.S. 5,503,704, issued April 2, 1996.
+* R. W. Bower. TRANSPOSED SPLIT OF ION CUT MATERIALS. Patent U.S. 6,346,458, issued February 12, 2002.
+
+===Awards and recognition===
+Bower was recognized with many awards. Most notably was his induction into the [[National Inventors Hall of Fame]] in 1997 for his invention of the self-aligned gate ion implanted MOSFET. In 1999, he was elected as a member of the [[National Academy of Engineering]], one of the highest professional distinctions granted to an engineer. Other awards granted include the Distinguished Senior Fellow Award, Alexander von Humbold Research Award, Ronald H. Brown American Innovator Awards, and Distinguished Alumni Award. These awards were granted for his contributions as an alumnus and his accomplishments as an inventor.
+
+==References==
+{{reflist}}
+
+==Sources==
+* [http://www.ece.ucdavis.edu/~bower/ Bower, Miles. "Dr. Robert W. Bower, UC Davis Inventor of the Self-Aligned Gate MOSFET INVENTORS HALL OF FAME 1997." Dr. Robert W. Bower. 21 Dec. 2007. UC Davis. 19 Nov. 2008] (his personal web site).
+* "Method for Making MIS Structure", Kerwin, R. E., Klein, D. L., Sarace, J. C. 1969.
+
+==External links==
+*[http://www.ftw.at/ftw/events/telekommunikationsforum/WS2002/WS02docs/021108.txt Three Dimensional Nanoelectronic Technology] {{Webarchive|url=https://web.archive.org/web/20070615103455/http://www.ftw.at/ftw/events/telekommunikationsforum/WS2002/WS02docs/021108.txt |date=2007-06-15 }}
+*[http://www.ece.ucdavis.edu/~bower/ Inventor of the Self-Aligned Gate MOSFET]
+*[http://www.uspto.gov/web/offices/com/speeches/97-21.htm Four American Inventors to receive Ronald H. Brown American Innovator Awards] {{Webarchive|url=https://web.archive.org/web/20090511103033/http://www.uspto.gov/web/offices/com/speeches/97-21.htm |date=2009-05-11 }}
+*[http://www.infoplease.com/ipa/A0767219.html Infoplease.com Robert W. Bower]
+
+{{authority control}}
+
+{{DEFAULTSORT:Bower, Robert W.}}
+[[Category:1936 births]]
+[[Category:2024 deaths]]
+[[Category:20th-century American inventors]]
+[[Category:21st-century American physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of California, Davis faculty]]
+[[Category:Scientists from Santa Monica, California]]
+[[Category:Academics from Santa Monica, California]]

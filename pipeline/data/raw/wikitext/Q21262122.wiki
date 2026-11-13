@@ -1,0 +1,45 @@
+{{Short description|German materials scientist}}
+{{BLP sources|date=September 2024}}
+{{Infobox scientist
+| name              = Ingrid Mertig
+| workplaces        = TU Dresden <br /> [[Max Planck Institute of Microstructure Physics]]
+| education         = [[TU Dresden]]
+| thesis_title      = Einfluss von substitutionellen Punktdefekten auf die galvanomagnetischen Eigenschaften von Metallen
+| thesis_url        = https://search.worldcat.org/en/title/718969776
+| thesis_year       = 1982
+}}
+
+'''Ingrid Mertig''' is a German materials scientist who is a professor and fellow at the [[Max Planck Institute of Microstructure Physics]]. She was awarded the [[Institute of Physics]] Max Born Medal and Prize.{{when?|date=September 2024}}
+
+== Early life and education ==
+Mertig studied physics at [[TU Dresden]]. She remained there for her doctoral research, where she studied the influence of point defects on the galvanomagnetic properties (phenomena that occur when a current is passed through a conductor in a magnetic field) of metals.<ref>{{Cite web |title=Einfluss von substitutionellen Punktdefekten auf die galvanomagnetischen Eigenschaften von Metallen {{!}} WorldCat.org |url=https://search.worldcat.org/en/title/718969776 |access-date=2024-09-14 |website=search.worldcat.org |language=en}}</ref> She completed her doctorate in 1982 and was appointed an assistant professor. She worked as a postdoctoral researcher at the [[Joint Institute for Nuclear Research]] in [[Dubna]], [[Soviet Union]].<ref>{{cite web|title=Success means having scientific insight|url=https://www.campus-halensis.de/en/artikel/erfolg-ist-wissenschaftliche-erkenntnis-die-physikerin-ingrid-mertig-im-portraet/|publisher=[[Martin Luther University Halle-Wittenberg]]|date=March 30, 2016|access-date=2024-12-14}}</ref>
+
+== Research and career ==
+Mertig was made a Fellow at the [[Max Planck Institute of Microstructure Physics]] in 2007.<ref>{{Cite web |title=Max Planck Fellow Group |url=https://www-old.mpi-halle.mpg.de/mpi/fel/fellowgroups/fellowgroup/index.html |access-date=2024-09-14 |website=www-old.mpi-halle.mpg.de}}</ref> Her research group study solid state theory. Specifically, she develops material specific descriptions of nanostructured systems. Mertig develops these descriptions using green functions, which can be used to describe thin films, surfaces or heterostructures. The computational effort required to perform these calculations scales with the numbers of atoms, making it possible to evaluate systems of a realistic size. She starts from the atomic structure of a system.{{cn|date=September 2024}}
+
+Mertig is an expert in spintronics, which make use of an electron's charge and spin degree of freedom, could transform future sensors and information technologies. Mertig performs first-principles electronic structure calculations using [[density functional theory]]. She has used simulations to understand spin-dependent transport processes in magnetic, metallic and molecular devices. Her calculations can explain spintronic phenomena, including [[giant magnetoresistance]], the [[spin Nernst Effect]] and the [[spin Hall effect]].<ref>{{Cite web |title=Fellow Group Ingrid Mertig |url=https://www.mpi-halle.mpg.de/mpfg-mertig |access-date=2024-09-14 |website=www.mpi-halle.mpg.de |language=en}}</ref>
+
+Mertig advised the [[German Science and Humanities Council]] as an expert in 2017–2018.<ref>{{cite web|title=German Science and Humanities Council (Wissenschaftsrat, WR) - Experts|url=https://www.wissenschaftsrat.de/EN/About_us/The_Council/Experts|access-date=2024-12-14}}</ref>
+In 2024, she was awarded the [[Institute of Physics]] Max Born Medal and Prize.<ref>{{Cite web |title=Max Born Medal and Prize recipients |url=https://www.iop.org/about/awards/international-bilateral-awards/max-born-medal-and-prize-recipients}}</ref>
+
+== Selected publications ==
+
+*{{Cite journal |author-link24=Anke Weidenkaff |author-link30=Ramamoorthy Ramesh |author-link4=Elvira Fortunato |author1=M Lorenz |author10=A Liu |author11=F K Shan |author12=M Grundmann |author13=H Boschker |author14=J Mukherjee |author15=M Priyadarshini |author16=N DasGupta |author17=D J Rogers |author18=F H Teherani |author19=E V Sandana |author2=M S Ramachandra Rao |author20=P Bove |author21=K Rietwyk |author22=A Zaban |author23=A Veziridis |author24=A Weidenkaff |author25=M Muralidhar |author26=M Murakami |author27=S Abel |author28=J Fompeyrine |author29=J Zuniga-Perez |author3=T Venkatesan |author30=R Ramesh |author31=N A Spaldin |author32=S Ostanin |author33=V Borisov |author34=I Mertig |author35=V Lazenka |author36=G Srinivasan |author37=W Prellier |author38=M Uchida |author39=M Kawasaki |author4=E Fortunato |author40=R Pentcheva |author41=P Gegenwart |author42=F Miletto Granozio |author43=J Fontcuberta |author44=N Pryds |author5=P Barquinha |author6=R Branquinho |author7=D Salgueiro |author8=R Martins |author9=E Carlos |display-authors=3 |doi=10.1088/0022-3727/49/43/433001 |issn=0022-3727 |issue=43 |journal=[[Journal of Physics D]] |language=en |article-number=433001 |date=7 October 2016 |title=The 2016 oxide electronic materials and oxide interfaces roadmap |volume=49|hdl=10261/146996 |hdl-access=free }}
+*{{Cite journal |author1=Igor Solovyev |author2=Dederichs PH |author3=Mertig I I |doi=10.1103/PHYSREVB.52.13419 |issn=0163-1829 |issue=18 |journal=[[Physical Review B]] |language=en |pages=13419-13428 |pmid=9980535 |date=1 November 1995 |title=Origin of orbital magnetization and magnetocrystalline anisotropy in TX ordered alloys (where T&#61;Fe,Co and X&#61;Pd,Pt) |volume=52}}
+*{{Cite journal |arxiv=cond-mat/0510144 |author1=Volodymyr V Maslyuk |author2=Alexei Bagrets |author3=Velimir Meded |author4=Andreas Arnold |author5=Ferdinand Evers |author6=Mads Brandbyge |author7=Thomas Bredow |author8=Ingrid Mertig |doi=10.1103/PHYSREVLETT.97.097201 |issn=0031-9007 |issue=9 |journal=[[Physical Review Letters]] |language=en |article-number=097201 |pmid=17026394 |date=30 August 2006 |title=Organometallic benzene-vanadium wire: A one-dimensional half-metallic ferromagnet |volume=97}}
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Mertig, Ingrid}}
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Year of birth missing (living people)]]
+[[Category:German women physicists]]
+[[Category:German materials scientists]]
+[[Category:Max Planck Institutes researchers]]
+[[Category:TU Dresden alumni]]
+{{Improve categories|date=January 2025}}
+
+{{Germany-scientist-stub}}

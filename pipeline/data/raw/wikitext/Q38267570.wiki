@@ -1,0 +1,42 @@
+{{Short description|German mathematician}}
+{{infobox scientist
+| birth_date        = {{birth year|1934}}
+| birth_place       = [[Chemnitz]]
+| death_place       = October 8, 2022 (aged 88)
+| field             = [[mathematics]]
+| education         = [[Technical University of Munich]]
+}}
+'''Christian Reinsch''' (1934 – October 8, 2022) was a German mathematician who worked in the area of [[numerical analysis]].
+
+Reinsch began studying physics in 1953 at the [[Technical University of Munich]], graduating in 1958. He received his doctorate in 1961 studying under [[Heinz Maier-Leibnitz]].<ref>{{MathGenealogyProject|id=34158}}</ref>
+
+Among other things, he worked in the area of [[numerical linear algebra]] and interpolation with [[Spline (mathematics)|spline functions]]. Several of his works have over two thousand citations each.<ref>{{cite journal|first1=Christian H.|last1=Reinsch|s2cid=26555189|title=Smoothing by spline functions|journal=Numerische Mathematik|date=1 October 1967|issn=0945-3245|pages=177–183|volume=10|issue=3|doi=10.1007/BF02162161}}</ref> Reinsch died on October 8, 2022.<ref>{{Cite web |title=Obituary: Christian Reinsch |url=https://sinews.siam.org/Details-Page/obituary-christian-reinsch |access-date=2024-03-09 |website=SIAM News |language=en-US}}</ref>
+
+==Selected works==
+* {{cite book | last1=Wilkinson | first1=John H. | last2=Reinsch | first2=C. | title=Handbook for Automatic Computation | publisher=Springer | date=23 August 2014 | isbn=978-3-642-86942-6}}
+* {{cite journal | last1=Golub | first1=G. H. | last2=Reinsch | first2=C. | title=Singular value decomposition and least squares solutions |url=https://people.duke.edu/~hpgavin/SystemID/References/Golub+Reinsch-NM-1970.pdf | journal=Numerische Mathematik | publisher=Springer Science and Business Media LLC | volume=14 | issue=5 | year=1970 | issn=0029-599X | doi=10.1007/bf02163027 | pages=403–420| s2cid=123532178 }}  
+* {{cite journal | last=Reinsch | first=Christian H. | title=Smoothing by spline functions | journal=Numerische Mathematik | publisher=Springer Science and Business Media LLC | volume=10 | issue=3 | year=1967 | issn=0029-599X | doi=10.1007/bf02162161 | pages=177–183| s2cid=26555189 }}
+* {{cite journal | last=Reinsch | first=Christian H. | title=Smoothing by spline functions. II | journal=Numerische Mathematik | publisher=Springer Science and Business Media LLC | volume=16 | issue=5 | year=1971 | issn=0029-599X | doi=10.1007/bf02169154 | pages=451–454| s2cid=189777664 }}
+* {{cite journal | last1=DAUNER | first1=HERBERT | last2=REINSCH | first2=CHRISTIAN H. | title=An Analysis of Two Algorithms for Shape-Preserving Cubic Spline Interpolation | journal=IMA Journal of Numerical Analysis | publisher=Oxford University Press (OUP) | volume=9 | issue=3 | year=1989 | issn=0272-4979 | doi=10.1093/imanum/9.3.299 | pages=299–314}}
+
+==See also==
+*[[Goertzel algorithm]]
+*[[QR algorithm]]
+*[[Singular value decomposition]]
+*[[Smoothing spline]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://www-hm.ma.tum.de/archiv/ei1/ws9798/geschichte/t/node51.html Biography at the Technical University of Munich]
+*[https://sites.google.com/view/christianreinsch Personal website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Reinsch, Christian}}
+[[Category:1934 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century German mathematicians]]
+[[Category:People from Chemnitz]]
+[[Category:21st-century German mathematicians]]

@@ -1,0 +1,93 @@
+
+{{Infobox person
+| name               = Don Ross
+| image              = Don Ross 1965.jpg
+| caption            = Don Ross in 1965
+| birth_name         = 
+| birth_date         = {{birth date|mf=yes|1922|06|09}}
+| birth_place        = {{nowrap|[[New York City]], U.S.}}
+| death_date         = {{Death date and age|2015|08|24|1922|06|09}}
+| education = [[Harvard University]]
+| occupation         = [[Submarine|Submariner]], [[acoustician]]
+| known_for          = developments in reduction of submarine detection and underwater noise
+| spouse             = {{marriage|Nancy Martin|1972}}
+| children           = Franklin Ross, Bill Ross, Andy Ross
+}}
+'''Don Ross''' (June 9, 1922 – August 24, 2015) was a civilian submariner and acoustics expert. From 1945 to 1987, Ross worked largely with the [[US Navy]], making developments in reduction of submarine detection and underwater noise. Ross is credited with discovering that low-frequency ocean ambient noise is largely determined by [[shipping]], and that ocean ambient noise has been steadily increasing due to human activities. He also made the first detailed measurements of the noise characteristics of [[nuclear submarines]].
+
+==Early life==
+Ross was born in 1922, in [[New York City]]. Originally interested in [[Egyptology]] in his years of high school (as well as knowing the ancient Egyptian alphabet), Ross attended [[DeWitt Clinton High School]] before transferring to [[Riverdale Country School]]; both in the [[Bronx]]. He was accepted to the [[University of Chicago]] as an Archaeology major in 1939, on the eve of WWII. Ross' headmaster at Riverdale persuaded him "in view of the world situation" to apply to [[Harvard]] as a [[Physics]] major instead. From there, he graduated in 1942 with a BS in Physics,<ref name="acousticstoday.org">{{Cite web| title=Obituary {{!}} Donald Ross {{!}} 1922-2015 | url=http://acousticstoday.org/wp-content/uploads/2015/11/Ross.pdf | archive-url=https://web.archive.org/web/20160318150434/http://acousticstoday.org/wp-content/uploads/2015/11/Ross.pdf | archive-date=2016-03-18}}</ref> going on to complete his PhD in Applied Physics & Engineering Science from Harvard in 1953.<ref name="acousticstoday.org"/>
+
+==Career==
+
+=== Harvard Underwater Sound Lab and the Ordnance Research Lab, Penn State ===
+
+Upon completion of his undergraduate degree, Ross received a teaching fellowship in Harvard's Physics department. [[Edwin C. Kemble]], head of the department for the duration of Ross' time there worked at the Harvard Underwater Sound Lab (HSUL), where he sought ways to design quiet propellers for acoustic homing torpedoes. In late 1944, with the end of the war approaching, the torpedo project arranged with [[Penn State]] to move at war’s end to the new Ordnance Research Lab (ORL). Kemble realized he would not be going to Penn State and needed a successor for the project. Kemble asked Ross to join him for several months at HUSL with the intention of carrying on the propeller work at Penn State.
+
+In his senior year of college, Ross had specialized in nuclear physics before the classification of the field during the war. Recruiters for the [[Manhattan Project]] arranged for him to be sent to Los Alamos as an army sergeant, but in the process of the medical examination, his right eardrum was punctured, thus disqualifying him. Ross stayed in [[Cambridge]] for the remainder of the war.
+
+While on the HSUL staff before making the move to Penn State, Ross first learned about propeller cavitation, the main source of propeller noise. In his studies during this time, he developed an index to be used by naval architects in predicting the degree of [[cavitation]] for ship, submarine and torpedo propellers. He was able to explain why the propellers of American submarines produced cavitation at speeds much lower than those that had been predicted by their designers, as well as developing an explanation for the "anomalous depth effect.” These insights lead to the creation of the [[Garfield Thomas Water Tunnel]].
+
+=== Bell Labs ===
+
+Shortly after completing his PhD in 1952, Ross was requested by [[Bell Telephone Labs]] (BTL) to join them as the hydrodynamicist on a Navy program to design and construction a system of underwater sensors ([[SOSUS]] sound surveillance system) intended to provide an early warning of the approach from a distance of any Russian missile-carrying submarine. The system used a signal processor called LOFAR, which detected low-frequency tonal components radiated by ships and submarines.  Ross was assigned part-time to the small BTL group helping the Navy evaluate performance and developing target classification guides. Each SOSUS station had LOFAR equipment for forty directional beams and in the beginning records were kept of all the (mostly) merchant ship detections. It soon became apparent that some beams held many more ship contacts than others. It was also confirmed that the ships detected on these “hot beams” were more distant than those detected on other beams. Using a globe and following great circle routes Ross, in partnership with Larry Churchill, found that the hot beams originated on the other side of the ocean, at such places as [[Gibraltar]] and the [[English Channel]], where ships transited between shallow water and deep water. Originally called the “Megaphone Effect” these long-range detections were explained by the phenomenon of down-slope propagation, by which sound from a near-surface source is reflected by a sloping bottom into the [[deep sound channel]], where it can propagate long distances with minimum loss.
+
+Low-frequency ambient noise and sound propagation were both measured by the SOSUS system. Invariably, [[ambient noise]] levels were found to be significantly lower than would have been expected from extrapolating levels that had been measured at higher frequencies during WWII. Ross was one of the first to connect this finding with information that undersea noise caused by rain and similar sources had been found to peak at frequencies between 500 and 1000&nbsp;Hz and was significantly lower at the frequencies used by SOSUS. From this observation and some measurements made by [[Woods Hole]] shortly after WWII, Ross developed the first set of ambient noise spectra for which the amplitudes at low-frequencies depended on shipping densities. These curves, developed in 1954, were the first that recognized that only above about 300&nbsp;Hz was the ambient controlled by noise from wind and waves, and at lower frequencies the noise was independent of sea conditions, and instead was due to shipping.
+
+Until he left BTL in 1958, Ross worked actively to quiet the {{USS|Nautilus|SSN-571|6}}, the US Navy's first [[nuclear submarine]]. He also worked closely with the Navy to confirm, through sound signature, that the Russians had developed their own nuclear submarine ([[November-class submarine]]) only two years after the ''Nautilus'' was built.<ref name="acousticstoday.org"/> It was later discovered that a spy had stolen the plans for the ''Nautilus'' and given them to the [[Soviets]].
+
+=== Bolt, Beranek and Newman, ONR London, and Naval Ship Research & Development Center ===
+
+In 1958, Ross began work at the fledgling acoustic consulting firm of [[Bolt, Beranek and Newman]] in Cambridge. Here, he wrote reports on a wide variety of topics related to submarine noise, some of which contributed directly to the Navy’s ability to build quiet nuclear submarines. He remained a SOSUS consultant in this time.<ref name="acousticstoday.org"/>
+
+From 1964 to 1965, Ross and his family lived in [[London]]. Ross, for a year, was given a prestigious position at the [[Office of Naval Research]] as their Acoustics Liaison Scientist. His job was to interview acoustians in the UK and Europe and to report back to the ONR on their research.
+
+Ross and his family returned to the states in 1965, and by 1967 Ross was selected as the third Head of the Ship Acoustics and Vibrations Laboratory (SAD) of the Naval Ship Research and Development Center (NSRDC) (formerly [[David Taylor Model Basin]] - DTMB) at Carderock, MD. In this time, Ross participated in about a dozen nuclear submarine noise trials. The most notable of the incidents Ross was involved in during this time there were the "[[Crazy Ivan]]" special op attacks.
+
+=== "Crazy Ivan" ===
+
+The special missions of attack class submarines took the US Navy into Soviet waters, and collisions with Russian submarines were occurring. At DTMB this was suspected, as they were sometimes asked to analyze pieces of rubber coating or samples of paint that came from Soviet submarines. What they didn’t know was that reports of these collisions were interfering with high-level disarmament talks. The situation got so bad that at the end of April 1970, then [[President Nixon]] suspended all special operations, at least until he could be assured that collisions could be avoided.
+
+On Saturday May 2, Admiral [[Eugene Parks Wilkinson|Dennis Wilkinson]] called a group from several organizations to his office in [[Norfolk, Virginia|Norfolk]] and explained the problem. They were to find and fix the cause of the collisions. Wilkinson assigned three [[Sturgeon-class submarine|''Sturgeon''-class]] submarines to Ross and his lab for two weeks. In his position as head of the lead lab, he was given operational control. On Sunday, he called a meeting of key personnel to organize the trial team and to plan the test agenda for what soon would become known as Operation Herman, in memory of former Bell Labs team member Herman Straub. That same day, the {{USS|Whale|SSN-638|6}}, the {{USS|Sunfish|SSN-649|6}}, and a third sub, left New London for Charleston, which was to be the project’s home base. There, the USS ''Whale'' was outfitted with special equipment to allow her to mimic the acoustic signature of a Soviet sub, and the USS ''Sunfish'' was prepared to act as the trailer. The third sub was to remain in port to be a backup should either of the other two have a problem. After two days, the ''Whale'' and ''Sunfish'' set sail to a remote location in the [[Bahamas]] for five days of simulated trailing encounters. The spherical [[sonar]] array was equipped with an auto-tracking system which gave the vertical as well as the horizontal direction of the strongest signal. Invariably the sonar was pointing up, implying that the listening sub was deeper than the sub being tracked . The problem was caused by surface reflections. The strongest signal was not coming directly from the contact, but was coming from the surface. What they did in their tests was to confirm the problem and then to develop a procedure to overcome it.
+
+On May 16, exactly two weeks after the original assignment, Ross was flown to [[Norfolk, Virginia|Norfolk]] in the Admiral’s plane to present the test results and to help write a new operation order correcting the problem. That afternoon, Admiral Wilkinson flew to Washington and briefed President Nixon at the [[White House]], and the President approved the resumption of special operations. In 1971, Ross received the Navy's highest civilian honor for his service, the Distinguished Civilian Service Award, and was made a life member of the Naval Submarine League.<ref>{{cite web|url=http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?pid=175883057 |title=Donald Ross Obituary: View Donald Ross's Obituary by San Diego Union-Tribune |website=Legacy.com |date= |accessdate=2016-08-03}}</ref>
+
+=== Tetra Tech ===
+
+In 1972, Ross began work at Tetra Tech in [[Rosslyn, Virginia]] under the premise that he and his family would be moved to San Diego after completion of a study for the Navy regarding a proposed cruise missile submarine. A computer model, SubSim, was to be used to simulate encounters between the new sub and a postulated Soviet submarine. The only problem was that these encounters would all involve [[sonars]] detecting the opponent’s radiated noise and Ross was to be the only person on the staff who had background knowledge in such matters.
+
+The simulations needed characteristics of Soviet submarines ten years in the future. The Navy had an official threat document; but that assumed that the Russians would just copy the quiet subs of the US, lagging at least five years. Dick Robinson and Ross designed their own threat and presented it to a Navy group headed by Admiral Ed Waller. After his 15-minute talk, the Admiral said he had heard many threat presentations and he could never tell which were based on hard intelligence, which were based on engineering calculation, and which were political. “Which is yours?” he asked Ross, who responded with “all three, Admiral” After which he repeated the talk giving the source type of each item. And, finally “the 35 knots speed is because Rickover wants to build a new 35-knot submarine.” The Admiral was so pleased that he invited Ross to present his talk to a senior group in the Pentagon. And soon their threat was adopted as the Navy’s official threat.
+
+In 1973, Ross and his family made the official move to [[San Diego]]. Ross served as the VP of Tetra Tech systems, and continued to do so until 1983. From 1976 to 1979, Ross also served as the Deputy Director of the [[SACLANT ASW Research Centre]] in [[La Spezia]], Italy. In 1976, he authored ''Mechanics of Underwater Noise.''<ref>Ross, Donald. ''Mechanics of Underwater Noise''. New York: Pergamon Press, 1976. {{ISBN|0080211828}} {{OCLC|2318092}}</ref>
+
+==== Post career ====
+Ross spent his retired years as a dedicated volunteer and public servant. He was a five-year volunteer with the [[San Diego Police Department]] Domestic Violence Unit, a member of the Catfish Club, and involved with the [[Unitarian Universalist]] Fellowship of San Dieguito. He immersed himself in the study of [[cardiology]], and studied the impact of statins on the elderly. He also studied and lectured on [[climate change]].<ref>{{cite web|url=http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?pid=175883057#sthash.gHDowteO.dpuf |title=Donald Ross Obituary: View Donald Ross's Obituary by San Diego Union-Tribune |website=Legacy.com |date= |accessdate=2016-08-03}}</ref>
+
+==Personal life==
+Ross married his first wife Harriet May Murphy in 1942. They had three sons (Franklin, Bill, and Andy) before divorcing in October 1972.
+
+Ross married Nancy Martin in November 1972. They remained together until her death in May 2010.
+
+==Awards==
+He received the [[Navy Distinguished Civilian Service Award]] for “solution of numerous urgent and important submarine operational
+problems.”<ref name="acousticstoday.org"/>
+
+Ross was a fellow of the [[Acoustical Society of America]].<ref name="acousticstoday.org"/>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ross, Don}}
+[[Category:1922 births]]
+[[Category:2015 deaths]]
+[[Category:Submariners]]
+[[Category:Acousticians]]
+[[Category:Engineers from New York City]]
+[[Category:Harvard John A. Paulson School of Engineering and Applied Sciences alumni]]
+[[Category:DeWitt Clinton High School alumni]]
+[[Category:Scientists from New York City]]
+[[Category:Riverdale Country School alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:Recipients of the Navy Distinguished Civilian Service Award]]

@@ -1,0 +1,77 @@
+{{short description|Greek physicist (born 1971)}}
+{{COI|date=August 2025}}
+{{Infobox scientist
+| name              = Fotini Markopoulou-Kalamara
+| image             = -rpTEN - Tag 3 (26812422675).jpg
+| birth_date        = {{birth date and age|1971|4|3}}
+| birth_place       = Athens, Greece
+| death_date        = 
+| death_place       = 
+| fields            = [[Theoretical physics]]<br>[[Design engineer]]ing<br>[[Technology]]
+| workplaces        = [[Pennsylvania State University]]<br>[[Imperial College London]]<br>[[Max Planck Institute for Gravitational Physics]]<br>[[Santa Fe Institute]]<br>[[Perimeter Institute for Theoretical Physics]]
+| education         = [[Queen Mary University of London]]<br>[[Imperial College London]]<br>[[Royal College of Art]]
+| doctoral_advisor  = 
+| academic_advisors = [[Christopher Isham]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| awards            = 
+| religion          = 
+| signature         = <!--(filename only)-->
+| footnotes         = 
+}}
+'''Fotini G. Markopoulou-Kalamara''' ({{langx|el|Φωτεινή Μαρκοπούλου-Καλαμαρά}}; Born April 3, 1971) is a Greek [[theoretical physicist]] and [[design engineer]]. She has worked in [[quantum gravity]], [[quantum mechanics]] and [[quantum cosmology]], [[technological evolution]] in [[complex system]]s, [[embodied cognition]] technologies, and the design of organizations that foster innovation and science research.  Markopoulou is principal at ComplexReal, an interdisciplinary collective tracking sensitive intervention points (SIPs) in the interface between science, technology and culture. She was a founding faculty member at [[Perimeter Institute for Theoretical Physics]] and co-founder and CEO of Empathic Technologies.
+
+==Background==
+Markopoulou was born in Athens to sculptors Dimitris Kalamaras and  Maria Vassilatou. She received her PhD from Imperial College London (1998). Markopoulou held postdoctoral positions at the [[Max Planck Institute for Gravitational Physics]], Imperial College London, and the [[Pennsylvania State University]] and was a visiting professor at the Massachusetts Institute of Technology and the Santa Fe Institute for Complex Systems. She shared First Prize in the Ultimate Reality Symposium in honor of [[John Archibald Wheeler|J.A. Wheeler]] at [[Princeton, New Jersey|Princeton]], [[New Jersey]]<ref>{{cite web|url=http://www.metanexus.net/archive/ultimate_reality/032102.htm|title= Winners of the Young Researchers Competition in Physics Announced|accessdate=2008-04-24|date=2002-03-21|work=Science & Ultimate Reality|publisher=[[Metanexus Institute]]}}</ref> and received the Alexander von Humboldt Award for Experienced Researchers (2010).
+
+In 2014, Markopoulou received a Double Masters in Innovation Design Engineering (IDE) from the Royal College of Art and Imperial College London (2014), an interdisciplinary program focused on impactful innovation through critical observation, design thinking, emergent technologies and enterprise activities. Her Masters group project won the [[Deutsche Bank]] Award for Creative Enterprise (Design Category) 2014<ref>[https://www.db.com/unitedkingdom/docs/4326_DBACE_2014_Winners_FINAL_8.pdf An Originator] (PDF) Retrieved 18 June 2015.</ref> and was exhibited at the John Lewis Future Store.<ref>[http://www.rca.ac.uk/news-and-events/news/rca-exhibition-helps-john-lewis-celebrate-150/ Royal College of Art Exhibition Collaboration Helps John Lewis Celebrate Being 150] {{Webarchive|url=https://web.archive.org/web/20210803090406/https://www.rca.ac.uk/news-and-events/news/rca-exhibition-helps-john-lewis-celebrate-150/ |date=2021-08-03 }} Royal College of Art Retrieved 18 June 2015.</ref>
+
+==Quantum Gravity==
+In her interdisciplinary paper "The Internal Description of a Causal Set: What the Universe Looks Like from the Inside", Markopoulou instantiates some abstract terms from mathematical [[category theory]] to develop straightforward models of space-time. It proposes simple quantum models of space-time based on category-theoretic notions of a [[topos]] and its [[subobject classifier]] (which has a [[Heyting algebra]] structure, but not necessarily a [[Boolean algebra (structure)|Boolean algebra]] structure).<ref>{{Cite journal |last=Markopoulou |first=F. |date=2000-05-01 |title=The Internal Description of a Causal Set:¶What the Universe Looks Like from the Inside |url=https://link.springer.com/article/10.1007/s002200050826 |journal=Communications in Mathematical Physics |language=en |volume=211 |issue=3 |pages=559–583 |doi=10.1007/s002200050826 |arxiv=gr-qc/9811053 |bibcode=2000CMaPh.211..559M |issn=1432-0916}}</ref> For example, hard-to-picture category-theoretic [[presheaf (category theory)|"presheaves"]] from topos theory become easy-to-picture "evolving (or varying) sets" in her discussions of [[quantum spacetime]].
+
+In 2008, Markopoulou, Tomasz Konopka, [[Mohammad H. Ansari]], and [[Simone Severini]] initiated the study of a new background independent model of evolutionary space called [[Quantum Graphity|quantum graphity]]. As described in [[George Musser]]'s book, ''Spooky Action at a Distance'', in the quantum graphity model, points in spacetime are represented by nodes on a graph connected by links that can be on or off.<ref>Konopka, Tomasz; Markopoulou, Fotini; Severini, Simone (6 Jan 2008) [https://arxiv.org/abs/0801.0861 "Quantum Graphite: a model of emergent locality"]</ref> This indicates whether or not the two points are directly connected as if they are next to each other in spacetime. When they are on the links have additional state variables which are used to define the random dynamics of the graph under the influence of quantum fluctuations and temperature. At high temperature the graph is in Phase I where all the points are connected to each other and no concept of spacetime as we know it exists. As the universe cools, the model undergoes a [[phase transition]] to Phase II where spacetime emerges as low connectivity and geometrical symmetries in the model graph. The hypothesis of quantum graphity is that this geometrogenesis models the condensation of spacetime in [[the Big Bang]]. A second model, related to ideas around quantum graphity, has been published.<ref>A. Hamma, F. Markopoulou, S. Loyd, F. Caravelli, S. Severini, K. Markstrom (27 Nov 2009) "A quantum Bose-Hubbard model with the evolving graph as a toy model for emergent spacetime" https://arxiv.org/abs/0911.5075</ref>
+
+Markopoulou is one of the quantum gravity researchers that use the quantum computation framework to formulate new quantum theories of gravity. In her paper ''The Computing Spacetime''<ref>{{Cite book|last=Markopoulou|first=Fotini|title=How the World Computes |chapter=The Computing Spacetime |date=2012|editor-last=Cooper|editor-first=S. Barry|editor2-last=Dawar|editor2-first=Anuj|editor3-last=Löwe|editor3-first=Benedikt|chapter-url=https://link.springer.com/chapter/10.1007/978-3-642-30870-3_48|series=Lecture Notes in Computer Science|volume=7318|language=en|location=Berlin, Heidelberg|publisher=Springer|pages=472–484|doi=10.1007/978-3-642-30870-3_48|isbn=978-3-642-30870-3}}</ref> she has given an easily accessible overview of these ideas.
+
+== Perimeter Institute ==
+In 1999, Dr. Markopoulou was invited, along with [[Robert Myers (physicist)|Rob Myers]] and [[Lee Smolin]], to found the Perimeter Institute for Theoretical Physics in Waterloo, Canada. With an initial donation of $100 million from [[Mike Lazaridis]] (founder of [[BlackBerry Limited|Blackberry]]), the Perimeter Institute describes itself as one of the “world’s foremost centers for research, graduate training, and educational outreach in theoretical physics, uniting public and private partners, and the world’s best scientific minds, in a shared enterprise to achieve breakthroughs that will transform our future.”<ref>{{Cite web |title=Who we are {{!}} Perimeter Institute |url=https://perimeterinstitute.ca/who-we-are |access-date=2024-12-12 |website=perimeterinstitute.ca}}</ref> Markopoulou left Perimeter in 2011, after Perimeter's new director [[Neil Turok]] decided to change the Institute's focus and strategy.<ref name="nautil.us">{{cite web |last1=Davies |first1=Sally |title=This Physics Pioneer Walked Away from It All |url=https://nautil.us/this-physics-pioneer-walked-away-from-it-all-236025 |accessdate=29 July 2016 |website=[[Nautilus (science magazine)]]}}</ref>
+
+==Empathic Technologies==
+From 2014 to 2022, Dr. Markopoulou was co-founder and CEO at Empathic Technologies,<ref name="doppel">{{cite web |title=doppel |url=http://www.feeldoppel.com}}</ref><ref>{{Cite web |title=How social and physical technologies collaborate to create – Doyne Farmer, Fotini Markopoulou, Eric Beinhocker & Steen Rasmussen {{!}} Aeon Essays |url=https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create |access-date=2020-02-12 |website=Aeon |language=en}}</ref> employing cutting-edge discoveries in embodied cognition to create technologies that change how people perceive, feel, and behave. Empathic's wearable product, doppel, is a wristband that reduces stress.<ref>{{cite web |title=The Doppel wristband can literally change your mood |url=https://www.wired.co.uk/article/doppel-wristband |publisher=Wired}}</ref><ref>{{cite web |title=Meet The Pulsing Wristband That Could Replace Caffeine |url=https://www.forbes.com/sites/parmyolson/2016/08/31/meet-the-pulsing-wristband-that-could-replace-caffeine/#412e7d982beb |work=Forbes}}</ref> Peer-reviewed trial results found that doppel had a significant calming effect during a socially stressful situation.<ref>Ruben T. Azevedo, Nell Bennett, Andreas Bilicki, Jack Hooper, Fotini Markopoulou & Manos Tsakiris {{cite web |title=The calming effect of a new wearable device during the anticipation of public speech |url=https://www.nature.com/articles/s41598-017-02274-2 |publisher=Scientific Reports volume 7, Article number: 2285 (2017)}}</ref> She received a U.S. Patent for this invention in 2016, and won the Best Female-Led Investment 2018 Award from the UK Business Angels Association.<ref>{{cite web |title=doppel wins Best Female Led Investment at the UKBAA angel investment awards. |url=https://cambridgeangels.com/news/6/2018-doppel-wins-best-female-led-investment-at-the-ukbaa-angel-investment-awards |access-date=2019-01-10 |archive-date=2019-01-11 |archive-url=https://web.archive.org/web/20190111054847/https://cambridgeangels.com/news/6/2018-doppel-wins-best-female-led-investment-at-the-ukbaa-angel-investment-awards |url-status=dead }}</ref>
+
+==Evolution of Technologies==
+
+With Eric Beinhocker, [[J. Doyne Farmer|Doyne Farmer]] and [[Steen Rasmussen (physicist)|Steen Rasmussen]], Markopoulou participated in the Working Group on The Growing Gap between Social and Physical Technologies. In complex systems, physical technologies are ways to organize matter, energy or information, while social technologies are ways to organize people and their behavior (for example institutions, laws, norms and narratives).<ref>{{Cite book |last=Arthur |first=W. Brian |url=https://philpapers.org/rec/ARTTNO |title=The Nature of Technology: What It is and How It Evolves |date=2009 |publisher=Free Press |location=New York}}</ref> Several times throughout history, situations have emerged when our physical technology has outpaced our social technology. She co-organized two workshops at SFI to bring together engineers, scientists, writers, historians, lawyers, futurists, economists, philosophers, founders, philanthropists, and policymakers, to identify tracking indicators for such transitions and create roadmaps of scenarios and options. An account of the outcomes was published in the 2020 Aeon article "Collaborators in Creation". The two workshops were filmed and formed the basis of the award-winning documentary ''Solutions'' by [[Pernille Rose Grønkjær]].
+
+Prompted by the impact of the [[COVID-19 pandemic]] on [[Mental health during the COVID-19 pandemic|mental health]], Markopoulou expanded the focus of Empathic and led an interdisciplinary research team on an intensive year-long project on the future of emotions and emotion technologies.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://www.worldsciencefestival.com/videos/time-since-einstein/ Time Since Einstein], [https://www.worldsciencefestival.com/ World Science Festival] panel discussion with [[Roger Penrose|Sir Roger Penrose]], [[Michał Heller|Michael Heller]], [[George F. R. Ellis|George Ellis]] and [[David Albert]]
+* Clip from [https://www.worldsciencefestival.com/programs/rebooting_the_cosmos/ Rebooting the Cosmos], [https://www.worldsciencefestival.com/ World Science Festival] panel discussion with [[Edward Fredkin]], [[Jürgen Schmidhuber|Juergen Schmidhuber]] and [[Seth Lloyd]]  
+* [https://www.youtube.com/watch?v=KC4OcnXNZcY Is Time Fundamental?] [[Robert Lawrence Kuhn|Lawrence Kuhn]] interviews Fotini Markopoulou for [[Closer to Truth]] 
+* [https://www.youtube.com/watch?v=U_UTS9x9IJw Senses not sensors], TedxImperialCollege 
+* [https://www.youtube.com/watch?v=dSGI0aysbQE&t=2458s The Digital Health Transformation] Panel, CES 2020.
+* {{cite news|first=Amanda|last=Gefter|title=Throwing Einstein for a Loop|url=http://www.scientificamerican.com/article.cfm?id=throwing-einstein-for-a-l|journal=[[Scientific American]]|date=11 November 2002|accessdate=10 November 2012}}
+* Davies, Sally (29 July 2019) [https://nautil.us/this-physics-pioneer-walked-away-from-it-all-236025 "This Physics Pioneer Walked Away from It All"] {{Webarchive|url=https://web.archive.org/web/20210729205359/https://nautil.us/issue/38/noise/this-physics-pioneer-walked-away-from-it-all |date=2021-07-29 }}. Nautilus.
+* Farmer, D, Markopoulou, F, Beinhocker, E and Rasmussen, S (11 February 2020) [https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create "Collaborators in Creation"], Aeon.
+*[https://web.archive.org/web/20091027215524/http://www.q2cfestival.com/play.php?lecture_id=7739 Creating Spacetime] - a lecture presented by Fotini Markopoulou at the Quantum to Cosmos festival.
+*Fotini Markopoulou, ''[[arxiv:gr-qc/9811053|The Internal Description of a Causal Set: What the Universe Looks Like from the Inside]]'' (1999)
+* [http://cgpg.gravity.psu.edu/online/Html/Seminars/Fall1998/Markopoulou/ Related seminar] {{Webarchive|url=https://web.archive.org/web/20031107103615/http://cgpg.gravity.psu.edu/online/Html/Seminars/Fall1998/Markopoulou/ |date=2003-11-07 }} (1998)
+
+{{authority control}}
+
+{{DEFAULTSORT:Markopoulou-Kalamara, Fotini}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Greek women physicists]]
+[[Category:21st-century Greek physicists]]
+[[Category:Greek academics]]
+[[Category:Alumni of Imperial College London]]
+[[Category:Alumni of Queen Mary University of London]]
+[[Category:Alumni of the Royal College of Art]]
+[[Category:Academics of Imperial College London]]
+[[Category:Scientists from Athens]]

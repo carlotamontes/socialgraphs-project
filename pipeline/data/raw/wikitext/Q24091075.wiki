@@ -1,0 +1,83 @@
+{{AI-generated |reason= [[Wikipedia:AI noticeboard/Simfish]] |date=October 2026}}
+{{AI-generated|date=July 2026|reason=since mid-2025 expansion, one of many AI articles by user, some of which have had clear signs of lacking review e.g. markdown, [[WP:OAICITE]] etc}}
+{{Infobox scientist
+| name              = Peter B. Rhines
+| image             = <!-- Add image file name here -->
+| alt               = 
+| caption           = Peter B. Rhines, oceanographer and geophysicist
+| birth_name        = Peter Broomell Rhines
+| birth_date        = {{Birth date and age|1942|7|23}}
+| birth_place       = United States
+| fields            = Oceanography<br>geophysical fluid dynamics<br>climate science
+| workplaces        = [[University of Washington]]
+| education         = Massachusetts Institute of Technology (B.S., M.S.), Trinity College, Cambridge (Ph.D.)
+| known_for         = Research on Rossby waves, ocean circulation, and climate dynamics
+| awards            = Member of the National Academy of Sciences; member of the American Academy of Arts and Sciences
+}}
+
+'''Peter Broomell Rhines''' (born July 23, 1942) is an American oceanographer and geophysicist who is Professor Emeritus at the University of Washington. He is renowned for his contributions to geophysical fluid dynamics, ocean circulation, and climate science. Rhines is a member of the National Academy of Sciences and a fellow of multiple scientific societies.
+
+== Early life and education ==
+Peter Broomell Rhines was born on July 23, 1942. He earned his [[Bachelor of Science]] (B.S.) and Masters of Science (M.S.) degrees in Aeronautics and Astronautics from the [[Massachusetts Institute of Technology]] (MIT) in 1964 and completed his Ph.D. as a [[Marshall Scholarship|Marshall Scholar]] in Applied Mathematics at [[Trinity College, Cambridge]] in 1967.
+
+== Academic career ==
+Rhines joined the faculty of MIT in the department of Meteorology in 1968 as an assistant professor. Beginning in 1972, he was a scientist at the Woods Hole Oceanographic Institution.<ref>{{Cite web |title=UW Oceanography Faculty: Peter B. Rhines |url=https://www.ocean.washington.edu/people/faculty/rhines/rhines.html |access-date=2026-10-05 |website=www.ocean.washington.edu}}</ref>
+
+Rhines moved to the [[University of Washington]] in 1984 as a professor in Oceanography and Atmospheric Sciences. He became Professor Emeritus in July 2017. His research has focused on understanding large-scale ocean circulation patterns, the dynamics of Rossby waves, and their influence on Earth's climate system.<ref name="NOAA">{{Cite web |title=Rossby Waves - Peter B. Rhines |url=https://www.gfdl.noaa.gov/wp-content/uploads/files/user_files/io/rhines.pdf |website=Geophysical Fluid Dynamics Laboratory |access-date=April 2, 2025}}</ref> In 2015 the [[American Geophysical Union]] sponsored the 20th Conference on Atmospheric and Oceanic Fluid Dynamics. One session was devoted to "The Accomplishments of Peter Rhines".<ref>[https://ams.confex.com/ams/20Fluid/webprogram/Session38790.html Accomplishments of Rhines] @ [[American Meteorological Society]]</ref>
+
+Rhines has held prestigious positions and fellowships throughout his career:
+* Fulbright Scholar at Universidad de Concepción, Chile
+* Guggenheim Fellow
+* Distinguished Visiting Research Fellow at [[Christ's College, Cambridge]] University
+
+== Research contributions ==
+Rhines is best known for his work on [[Rossby wave]]s — large-scale waves in Earth's oceans and atmosphere that play a critical role in global circulation patterns. His research has provided new insights into how these waves interact with ocean currents and contribute to climate regulation.<ref name="NOAA" />
+
+He has also studied eddy dynamics, baroclinic instability, and the impact of topographic features on ocean flow. His findings have been widely applied to improve models of Earth's climate system.<ref name="Sea">{{Cite book |title=The Dynamics of Unsteady Currents|author= Peter B. Rhines |url=https://pordlabs.ucsd.edu/pcessi/theory2015/rhines_sea_77.pdf |year=1977 | series=The Sea | access-date=September 7, 2026}}{{isbn| 0-471-31091-3}} volume 6</ref>
+
+== Research contributions ==
+Rhines's primary research contributions in geophysical fluid dynamics concern the theory of geostrophic turbulence, large-scale ocean circulation, and the formation of zonal jets on earth and other planets.
+
+=== Geostrophic turbulence and the Rhines scale ===
+In his 1975 paper, "Waves and turbulence on a beta-plane", Rhines addressed the interaction between two-dimensional turbulent cascades and planetary rotation.<ref>{{cite journal |last=Rhines |first=Peter B. |date=1975 |title=Waves and turbulence on a beta-plane |journal=Journal of Fluid Mechanics |volume=69 |issue=3 |pages=417–443 |doi=10.1017/S0022112075001504}}</ref> In two-dimensional and quasi-geostrophic turbulence, an [[inverse energy cascade]] transfers kinetic energy up-scale toward larger eddies. Rhines demonstrated that on a [[beta plane]] (where Coriolis force varies with latitude via gradient $\beta$), the growth of eddies is bounded when the eddy turnover frequency decreases to match the linear [[Rossby wave]] frequency. 
+
+This crossover established an emergent transitional length scale, sometimes referred to as the '''Rhines scale''' (or Rhines wavelength):
+:<math>L_\beta \sim \sqrt{\frac{U}{\beta}}</math>
+where <math>U</math> is the root-mean-square eddy velocity and $\beta$ is the meridional gradient of the Coriolis parameter.<ref>{{cite book |last=Vallis |first=Geoffrey K. |title=Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-Scale Circulation |publisher=Cambridge University Press |year=2006 |isbn=978-0521849692 |pages=390–405}}</ref>
+
+Because the dispersion relation for Rossby waves is anisotropic, the arrest of the cascade halts meridional growth while allowing up-scale transfer into zonally elongated structures. This mechanism provides a theoretical explanation for:
+* The spontaneous self-organization of turbulent eddies into alternating [[zonal]] jets (banded jet streams), famously seen in [[Atmosphere of Jupiter|Jupiter's cloud bands]] and the atmospheres of other gas giants.<ref>{{cite journal |last=Vallis |first=G. K. |last2=Maltrud |first2=M. E. |date=1993 |title=Generation of Mean Flows and Jets on a Beta Plane and over Topography |journal=Journal of Physical Oceanography |volume=23 |issue=7 |pages=1346–1362 |doi=10.1175/1520-0485(1993)023<1346:GOMFAJ>2.0.CO;2}}</ref>
+* The meridional spacing and scale selection of eddy-driven currents and striations in Earth's oceans and atmospheric storm tracks.
+
+=== Potential vorticity homogenization and ocean gyres ===
+In a series of papers in the early 1980s with [[William R. Young]], Rhines demonstrated the principle of [[potential vorticity]] (PV) homogenization.<ref>{{cite journal |last=Rhines |first=P. B. |last2=Young |first2=W. R. |date=1982 |title=Homogenization of potential vorticity in planetary gyres |journal=Journal of Fluid Mechanics |volume=122 |pages=347–367 |doi=10.1017/S0022112082002242}}</ref> They showed that within closed streamlines of planetary-scale circulation, weak eddy mixing forces the interior potential vorticity to become uniform. This result superseded classical linear wind-driven models (such as the Sverdrup balance) in regions containing unventilated, closed gyres, and became a cornerstone of modern theories of the oceanic [[thermocline]] and ventilated circulation.
+
+=== Subpolar climate dynamics and observations ===
+In addition to his theoretical work in geophysical fluid dynamics, Rhines contributed extensively to physical oceanographic observations, particularly studying the subpolar North Atlantic, convective sinking in the Labrador Sea, deep western boundary currents, and the overturning circulation's role in global climate variability.
+
+== Awards and honors ==
+Rhines has received numerous accolades for his contributions to oceanography:
+* 1981: elected member of the [[National Academy of Sciences]]<ref>[https://www.nasonline.org/directory-entry/peter-b-rhines-fqrr0a/ Peter B. Rhines] @ [[National Academy of Sciences]]</ref>
+* 1999: elected member of the [[American Academy of Arts and Sciences]]<ref>[https://www.amacad.org/person/peter-b-rhines Peter B. Rhines] @ [[American Academy of Arts and Sciences]]</ref>
+* 1999: Henry Stommel Research Award, American Meteorological Society<ref>{{Citation |title=Henry Stommel Research Award |date=2024-10-07 |work=Wikipedia |url=https://en.wikipedia.org/w/index.php?title=Henry_Stommel_Research_Award&oldid=1249974203 |access-date=2026-10-05 |language=en}}</ref>
+* Fellow of the American Geophysical Union
+* Fellow of the American Meteorological Society
+
+== References ==
+{{Reflist}}
+== External links ==
+
+* [https://www.ocean.washington.edu/home/Peter_Rhines Peter Rhines] @ School of Oceanography of [[University of Washington]]
+* [https://research.com/u/peter-b-rhines Peter B. Rhines] @ [[Research.com]]
+* [https://research.amanote.com/publication/search?author=Peter%20B.%20Rhines&page=1 List of publications from Peter B. Rhines] @ Amanote.com
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rhines, Peter B.}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:American oceanographers]]
+[[Category:Geophysicists]]
+[[Category:University of Washington faculty]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Alumni of Trinity College, Cambridge]]

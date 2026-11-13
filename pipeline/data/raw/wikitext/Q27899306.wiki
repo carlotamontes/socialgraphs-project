@@ -1,0 +1,70 @@
+{{short description|American chemist}}
+{{Infobox scientist
+|name = Donna Blackmond
+|image =
+|image_size = 
+|caption = 
+|birth_date = {{Birth date|1958|4|19|mf=y}}
+|birth_place = [[Pittsburgh, PA]], United States
+|residence =
+|field =[[Chemical Engineering]] <br>[[Chemistry]]
+|workplaces = [[The Scripps Research Institute]]<br> [[Imperial College London]]<br> [[University of Hull]] <br> [[Max Planck Institute]] <br>[[University of Pittsburgh]] <br> [[University of Essen]]
+|education =B.S. Chemical Engineering, University of Pittsburgh, 1980<br>
+M.S. Chemical Engineering, University of Pittsburgh, 1981<br>
+Ph.D. Chemical Engineering, Carnegie Mellon University, 1984
+|footnotes =
+}}
+'''Donna Blackmond''' '''{{Post-nominals|country=GBR|FRS|FREng}}''' (born April 19, 1958) is an American [[Chemical engineering|chemical engineer]] and the John C. Martin Endowed Chair in Chemistry at [[Scripps Research]] in [[La Jolla]], California. Her research focuses on prebiotic chemistry, the origin of biological homochirality, and kinetics and mechanisms of asymmetric catalytic reactions. She is known for her development of [[Reaction Progress Kinetic Analysis]] (RPKA), analysis of [[non-linear effects]] of [[catalyst]] enantiopurity, biological [[homochirality]], and amino acid behavior.<ref name=Scripps>{{cite web|title=Donna Blackmond|url=http://www.scripps.edu/blackmond/about.html|website=The Scripps Research Institute|accessdate=2 November 2016}}</ref><ref name=":0" />
+
+== Biography ==
+Blackmond was born on April 19, 1958, in Pittsburgh, Pennsylvania. She attended the [[University of Pittsburgh]] and received her undergraduate and master's degrees in chemical engineering in 1980 and 1981 respectively. She received the Ph.D. in chemical engineering from [[Carnegie-Mellon University]] in 1984. She became a professor of chemical engineering at the University of Pittsburgh shortly after graduating and was promoted to associate professor with tenure in 1989. Blackmond remained in academia for 8 years before moving on to the associate director position at Merck & Co., Inc. Her main responsibility at the company was to set up a laboratory for research and development in the kinetics and catalysis of organic reactions. She was a research group leader at the Max-Planck-Institut für Kohlenforschung in Mülheim an-der-Ruhr, Germany, professor and chair of physical chemistry at the University of Hull in Kingston-upon-Hull, UK, and professor of chemistry and chemical engineering and chair in Catalysis at Imperial College London, UK. Blackmond is now a professor of chemistry, department chair, and the John C. Martin Endowed Chair in Chemistry at the [[Scripps Research Institute]] in La Jolla, California. Her most current research applies the quantitative aspects of her chemical engineering background to the synthesis of complex organic molecules by catalytic routes, particularly asymmetric catalysis.<ref name=Scripps />
+
+== Areas of research ==
+
+=== Reaction Progress Kinetic Analysis ===
+Blackmond has pioneered the methodology of Reaction Progress Kinetic Analysis (RPKA), which is used for rapid determination of concentration dependences of reactants.<ref name=Scripps /> RPKA allows for in situ measurements to produce a number of rate equations that enable analysis of a reaction using a minimal number of experiments. The purpose for this type of analysis is to help understand what the driving force of a reaction might be and describe possible mechanistic pathways.<ref>{{cite journal|last1=Blackmond|first1=Donna|title=Reaction Progress Kinetic Analysis: A Powerful Methodology for Mechanistic Studies of Complex Catalytic Reactions|journal=Angewandte Chemie International Edition|date=4 July 2005|volume=44|issue=28|pages=4302–4320|doi=10.1002/anie.200462544|pmid=15997457}}</ref> This technique distinguishes rate processes occurring on the catalytic cycle from those occurring off the cycle. Notable applications of RPKA include asymmetric hydrogenation, asymmetric organocatalytic reactions, palladium catalyzed carbon-carbon and carbon-nitrogen bond forming reactions, and transition-metal catalyzed competitive reactions.<ref name=Scripps />
+
+=== Nonlinear effects of catalyst enantiopurity ===
+Nonlinear effects describe the non-ideal relationship between [[enantiomeric excess]] (ee) of products of a reaction and the ee of the catalyst, a phenomenon first observed by [[Henri Kagan]]. Kagan developed mathematical models to describe this non-ideal behavior, ML<sub>n</sub> models.<ref>{{cite journal|last1=Girard|first1=Christian|last2=Kagan|first2=Henri|title=Nonlinear Effects in Asymmetric Synthesis and Stereoselective Reactions: Ten Years of Investigation|journal=Angewandte Chemie International Edition|date=1998|volume=37|issue=21|pages=2922–2959|doi=10.1002/(sici)1521-3773(19981116)37:21<2922::aid-anie2922>3.0.co;2-1|pmid=29711141|doi-access=free}}</ref> Blackmond has performed studies that have led to an understanding of [[reaction rate]] and its relationship to catalyst ee. Many proposed mathematical models have been tested in the Blackmond lab, which have helped determine possible mechanistic features of reactions, including the [[Soai reaction]].<ref name="ReferenceA">{{cite journal|last1=Blackmond|first1=Donna|title=Kinetic aspects of non-linear effects in asymmetric synthesis, catalysis, and autocatalysis|journal=Tetrahedron: Asymmetry|date=23 June 2010|volume=21|issue=11–12|pages=1630–1634|doi=10.1016/j.tetasy.2010.03.034}}</ref> The Soai reaction is of abiotic synthetic interest because it is an autocatalytic reaction, which rapidly produces a large amount of enantiopure products.<ref>{{cite journal|last1=Soai|first1=Kenso|title=Asymmetric autocatalysis and amplification of enantiomeric excess of a chiral molecule|journal=Nature|date=28 December 1995|volume=378|issue=6559|pages=767–768|doi=10.1038/378767a0|bibcode=1995Natur.378..767S|s2cid=4258847}}</ref> Blackmond was the first to use Kagan's ML<sub>2</sub> model to study the non-linear effects of this reaction. She was the first to conclude that a homochiral dimer was the active catalyst in promoting homochirality for the Soai reaction.<ref name="ReferenceA"/>
+
+=== Biological homochirality and amino acid phase behavior ===
+
+More recently, Blackmond has extended kinetic models to describe the origin of biological homochirality. She has shown solutions of mostly enantiopure amino acids can be produced from nearly racemic mixtures via solution-solid partitioning of the enantiomers. The discovery that [[eutectic]] mixtures could be manipulated, depending on the components of the mixture, allows for changes to the crystal structure and solubility of substances. Amino acids crystallize in one of two ways, as a mixture of D and L enantiomers (racemic compound) or as separate enantiomers (conglomerate) .<ref>{{cite journal|last1=Klussmann|first1=Martin|last2=Mathew|first2=Suju|last3=Iwamura|first3=Hiroshi|last4=Wells|first4=David|last5=Armstrong|first5=Alan|last6=Blackmond|first6=Donna|title=Kinetic Rationalization of Nonlinear Effects in Asymmetric Catalysis Based on Phase Behavior|journal=Angewandte Chemie International Edition|date=24 October 2006|volume=45|issue=47|pages=7989–7992|doi=10.1002/anie.200602521|pmid=17061299}}</ref> For nonracemic, nonenantiopure mixtures of molecules under ternary phase equilibrium, partitioning of enantiomers occurs between the liquid and solid phases depending on the form that the crystals take.
+
+== Achievements and awards ==
+*Centenary Prize for Chemistry and Communication ([[Royal Society of Chemistry]]),2025<ref>{{Cite web |title=Professor Donna Blackmond |url=https://www.rsc.org/standards-and-recognition/prizes/winners/professor-donna-blackmond |access-date=2026-03-25 |website=Royal Society of Chemistry |language=en}}</ref>
+*Fellow of the [[Royal Academy of Engineering]],2025<ref name="NF25">{{cite web |title=New Fellows 2025 |url=https://raeng.org.uk/about-us/fellowship/new-fellows-2025/ |access-date=24 September 2025}}</ref>
+*[[Fellow of the Royal Society]], 2024<ref>{{Cite web |title=Outstanding scientists elected as Fellows of the Royal Society |url=https://royalsociety.org/news/2024/05/new-fellows-2024/ |access-date=2024-05-18 |website=Royal Society |language=en}}</ref><ref name=":0">{{cite web |url = https://royalsociety.org/people/donna-blackmond-36720/ |title = Professor Donna Blackmond FRS |website = Royal Society}}</ref>
+*[[List of American Chemical Society national awards|James Flack Norris Award in Physical Organic Chemistry]] (American Chemical Society), 2023<ref>{{Cite web |title=ACS 2023 National Award winners |url=https://cen.acs.org/people/awards/ACS-2023-National-Award-winners/100/i32 |access-date=2022-11-04 |website=Chemical & Engineering News}}</ref>
+*Elected Member, US National Academy of Sciences, 2021<ref>{{Cite web |title=2021 NAS Election |url=http://www.nasonline.org/news-and-multimedia/news/2021-nas-election.html |archive-url=https://web.archive.org/web/20210426172730/http://www.nasonline.org/news-and-multimedia/news/2021-nas-election.html |url-status=dead |archive-date=April 26, 2021 |access-date=2022-11-04 |website=www.nasonline.org}}</ref>
+*[[Oparin Medal]], 2021
+*Fellow of the Royal Society of Chemistry, 2021
+*Elected Member, Deutsche Akademie der Naturforscher Leopoldina, 2020
+*Elected Member, American Academy of Arts and Sciences, 2016
+*American Institute of Chemists Chemical Pioneer Award, 2016
+*Gabor Somorjai Award for Creative Research in Catalysis, American Chemical Society, 2016
+*Elected Member, US [[National Academy of Engineering]], 2013
+*Royal Society of Chemistry Award in Physical Organic Chemistry, 2009
+*Royal Society Wolfson Research Merit Award, 2007
+*Arthur C. Cope Scholar Award, 2005<ref>{{Cite web |title=Past Recipients |url=https://www.acs.org/content/acs/en/funding/awards/arthur-cope-scholar-award/past-recipients.html |access-date=2022-11-04 |website=American Chemical Society |language=en}}</ref>
+*Miller Institute Research Fellow at University of California, Berkeley, 2003
+*The Royal Society of Chemistry's Award in Process Technology, 2003
+*Organic Reactions Catalysis Society's Raul Rylander Award, 2003
+*Woodward Visiting Scholar at Harvard University, 2002–2003
+*North American Catalysis Society's Paul H. Emmett Award, 2001
+*NSF Presidential Young Investigator Award, 1986–91
+
+== References ==
+{{Reflist}}{{FRS 2024}}{{Authority control}}
+
+{{DEFAULTSORT:Blackmond, Donna}}
+[[Category:1958 births]]
+[[Category:Scientists from Pittsburgh]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:University of Pittsburgh alumni]]
+[[Category:21st-century American chemists]]
+[[Category:Living people]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Female fellows of the Royal Academy of Engineering]]
+[[Category:American fellows of the Royal Society]]

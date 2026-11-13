@@ -1,0 +1,132 @@
+{{Short description|Soviet-American physicist, computer scientist, and human rights activist}}
+{{Infobox scientist
+|name              = Valentin Fyodorovich Turchin
+|native_name       = {{Nobold|{{lang|ru|Валентин Фёдорович Турчин}}}}
+|image             = Valentin Toertsjin (1977).jpg
+|image_size        = 
+|caption           = Turchin in 1977
+|birth_date        = {{Birth date|1931|02|14}}
+|birth_place       = [[Podolsk]], Russian SFSR, Soviet Union
+|death_date        = {{death date and age|2010|04|07|1931|02|14}}
+|death_place       = [[Oakland, New Jersey]], U.S.<ref name=Joslyn>{{cite journal|author=Joslyn, Cliff|title=Valentin F. Turchin (1931–2010)|journal=[[International Journal of General Systems]]|date=April 2011|volume=40|issue=3|pages=233–236|doi=10.1080/03081079.2010.550144|s2cid=11028438}}</ref>
+|residence         = 
+|citizenship       = * {{Flag|Soviet Union}} (1931–1977)
+*{{Flag|United States}} (1977–2010)
+|ethnicity         = 
+|field             = [[cybernetics]], [[computer science]]
+|workplaces        = * [[Keldysh Institute of Applied Mathematics]]
+*[[Obninsk Institute for Nuclear Power Engineering]]
+*[[City College of New York]]
+*subsidiary of [[Amnesty International]] in the [[Soviet Union]]
+|education         = [[Institute for Theoretical and Experimental Physics]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = * Creating [[Refal]], a [[functional programming|functional]] [[programming language]]
+*Founding the [[Principia Cybernetica Project]]
+*Human rights activism with participation in [[dissident movement in the Soviet Union]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|footnotes         = 
+|spouse            = 
+|children          = [[Peter Turchin]]<br/>
+Dimitri Turchin
+}}
+
+'''Valentin Fyodorovich Turchin''' ({{langx|ru|Валенти́н Фёдорович Турчи́н}}, 14 February 1931 &ndash; 7 April 2010) was a Soviet and American physicist, [[cybernetics|cybernetician]], and computer scientist. He developed the [[Refal programming language]], the theory of [[metasystem transition]]s and the notion of [[supercompilation]]. He was a pioneer in [[artificial intelligence]] and a proponent of the [[global brain]] hypothesis.
+
+==Biography==
+Turchin was born in 1931 in [[Podolsk]], [[Soviet Union]]. In 1952, he graduated from Moscow University with a degree in Theoretical Physics and got his Ph.D. in 1957. After working on neutron and solid-state physics at the Institute for Physics of Energy in Obninsk, in 1964 he accepted a position at the [[Keldysh Institute of Applied Mathematics]] in Moscow. There he worked on statistical regularization methods and authored REFAL, one of the first AI languages and the AI language of choice in the Soviet Union.
+
+In the 1960s, Turchin became politically active. In the Fall of 1968, he wrote the pamphlet ''The Inertia of Fear'', which was quite widely circulated in [[samizdat]], the writing began to be circulated under the title ''The Inertia of Fear: Socialism and Totalitarianism'' in Moscow in 1976.<ref>{{cite journal|title=Sandzdat News|journal=[[A Chronicle of Current Events]]|date=1979|issue=40–42|page=270|url=https://www.amnesty.org/download/Documents/204000/eur460221979eng.pdf}}</ref> Following its publication in the underground press, he lost his research laboratory.<ref>{{cite book|title=The Phenomenon of Science|author=Valentin F. Turchin|pages=11|publisher=Columbia University Press|location=New York|date=1977|isbn=978-0-231-03983-3|url=http://pcp.vub.ac.be/POSBOOK.html}}</ref> In 1970 he authored "The Phenomenon of Science",<ref>{{cite book|title=The Phenomenon of Science|author=Valentin F. Turchin|publisher=Columbia University Press|location=New York|date=1977|isbn=978-0-231-03983-3|url=http://pcp.vub.ac.be/POSBOOK.html}}</ref> a grand cybernetic meta-theory of universal evolution, which broadened and deepened the earlier book. By 1973, Turchin had founded the Moscow chapter of [[Amnesty International]] with [[Andrey Tverdokhlebov]] and was working closely with the well-known physicist and Soviet dissident [[Andrei Sakharov]]. In 1974 he lost his position at the Institute and was persecuted by the [[KGB]]. Facing almost certain imprisonment, he and his family were forced to emigrate from the Soviet Union in 1977.
+
+He went to New York, where he joined the faculty of the [[City College of New York]] in 1979. In 1990, together with [[Cliff Joslyn]] and [[Francis Heylighen]], he founded the [[Principia Cybernetica Project]], a worldwide organization devoted to the collaborative development of an evolutionary-cybernetic philosophy. In 1998, he co-founded the software start-up SuperCompilers, LLC. He retired from his post as Professor of Computer Science at [[City College of New York|City College]] in 1999. A resident of [[Oakland, New Jersey]],<ref>[[Andrew Rosenthal|Rosenthal, Andrew]]. [https://www.nytimes.com/1987/12/05/world/for-the-soviet-emigres-gorbachev-stirs-both-optimism-and-skepticism.html?pagewanted=all  "For the Soviet Emigres, Gorbachev Stirs Both Optimism and Skepticism"], ''[[The New York Times]]'', December 5, 1987. Accessed May 25, 2016. "Valentin Turchin, who teaches computer sciences at the City College of New York and lives in Oakland, New Jersey, said: 'Both sides of Gorbachev's new era must be stressed. What he says is significant and unprecedented, but at the same time, it should be seen only as a beginning. In addition, we generally have the impression that during the last months, things have started curving down.'"</ref> he died there on 7 April 2010.<ref name=Joslyn/>
+
+He had two sons named [[Peter Turchin]] (a specialist in [[population dynamics]] and the [[mathematical modeling]] of historical dynamics) and Dimitri Turchin.
+
+==Work==
+The philosophical core of Turchin's scientific work is the concept of the [[metasystem transition]], which denotes the evolutionary process through which higher levels of control emerge in system structure and function.
+
+Turchin uses this concept to provide a global theory of evolution and a coherent social systems theory, to develop a complete [[cybernetic]]s philosophical and ethical system, and to build a constructivist foundation for mathematics.
+
+Using the [[REFAL]] language he has implemented Supercompiler, a unified method for program transformation and optimization based on a metasystem transition.<ref>{{Cite book|chapter=Supercompilation: Techniques and results|title=Perspectives of System Informatics|pages=227&ndash;248|author=Valentin F. Turchin|series=Lecture Notes in Computer Science|publisher=Springer|location=Heidelberg|chapter-url=http://www.supercompilers.com/html/supercompilation.html|archive-url=https://archive.today/20011225054544/http://www.supercompilers.com/html/supercompilation.html|url-status=dead|archive-date=2001-12-25|date=1996|issn=0302-9743|isbn=978-3-540-62064-8}}</ref>
+
+==Major publications==
+*{{Cite book|title=The Phenomenon of Science|author=Valentin F. Turchin|publisher=Columbia University Press|location=New York|date=1977|isbn=978-0-231-03983-3|url=http://pcp.vub.ac.be/POSBOOK.html}}
+*{{cite journal|author1=Sakharov, Andrei |author2=Turchin, Valentin |author3=Medvedev, Roy |title=The need for democratization|journal=[[Saturday Review (U.S. magazine)|The Saturday Review]]|date=6 June 1970|pages=26–27}}
+*{{cite journal|author1=Sakharov, Andrei |author2=Turchin, Valentin |author3=Medvedev, Roy |title=An open letter|journal=Survey|date=Summer 1970|pages=160–170}}
+*{{cite journal|author=Valentin F. Turchin|title=Why you should boycott the Russians|journal=[[Nature (journal)|Nature]]|date=May 1978|volume=273|issue=5660|pages=256–257|doi=10.1038/273256a0|bibcode=1978Natur.273..256T|s2cid=4222713|doi-access=free}}
+*{{cite journal|author=Valentin F. Turchin|title=Boycotting the Soviet Union|journal=[[Bulletin of the Atomic Scientists]]|date=September 1978|volume=34|issue=7|pages=7–11|doi=10.1080/00963402.1978.11458530|bibcode=1978BuAtS..34g...7T}}
+*{{cite book|author=Турчин, Валентин|title=Инерция страха: социализм и тоталитаризм|trans-title=The inertia of fear: socialism and totalitarianism|date=1978|publisher=Khronika|location=New York|edition=2|url=http://www.ihst.ru/projects/sohist/papers/turchin/content.htm|language=Russian}}
+*{{cite journal|author1=Turchin, Valentin |author2=Handle, Philip |title=Boycott Helsinki meeting|journal=[[Physics Today]]|date=January 1980|volume=33|issue=1|page=11|doi=10.1063/1.2913894|bibcode=1980PhT....33a..11T}}
+*{{cite journal|author=Turchin, Valentin|title=From Helsinki to Hamburg|journal=[[Science (magazine)|Science]]|date=4 January 1980|volume=207|issue=4426|pages=8|doi=10.1126/science.6444253|jstor=1683174|bibcode=1980Sci...207....8T}}
+*{{Cite book|title=The Inertia of Fear and the Scientific Worldview|author=Valentin F. Turchin|publisher=Columbia University Press |location=New York|date=1981|isbn=978-0-231-04622-0}}
+*{{cite journal|author=Turchin, Valentin|title=Orlov in exile|journal=[[Physics Today]]|date=July 1985|volume=38|issue=7|page=9|doi=10.1063/1.2814623|bibcode=1985PhT....38g...9T}}
+*{{Cite journal|title=The concept of a supercompiler|author=Valentin F. Turchin|journal=ACM Transactions on Programming Languages and Systems|volume=8|issue=3|date=July 1986|pages=292&ndash;325|doi=10.1145/5956.5957|s2cid=8403840|doi-access=free}}
+*{{Cite journal|title=A constructive interpretation of the full set theory|author=Valentin F. Turchin|journal=Journal of Symbolic Logic|date=March 1987|pages=172&ndash;201|volume=52|issue=1|doi=10.2307/2273872|jstor=2273872|s2cid=2205937 }}
+*{{cite journal|author=Valentin F. Turchin|title=On cybernetic epistemology|journal=[[Systems Research]]|date=1993|volume=10|issue=1|pages=1–28|doi=10.1002/sres.3850100102|s2cid=60953576 }}
+*{{Cite journal
+| doi = 10.1108/eb005960
+| volume = 22
+| issue = 2
+| pages = 10–30
+| last = Turchin
+| first = Valentin F.
+| title = The Cybernetic Ontology of Action
+| journal = Kybernetes
+| date = 1993
+| url=http://pespmc1.vub.ac.be/Papers/Turchin/Cybernetic_Ontology.pdf
+| citeseerx = 10.1.1.359.6176}}
+*{{Cite journal
+| doi = 10.1080/02604027.1995.9972553
+| volume = 45
+| issue = 1
+| pages = 5–57
+| last = Turchin
+| first = Valentin F.
+| title = A dialogue on metasystem transition
+| journal = World Futures
+| date = 1995
+| url=http://pespmc1.vub.ac.be/Papers/Turchin/dialog.pdf
+| citeseerx = 10.1.1.214.9001}}
+*Refal-5: Programming Guide and Reference Manual, New England Publishing Co. Holyoke MA, 1989
+*[http://pcp.vub.ac.be/ Principia Cybernetica Web] (as editor, together with F. Heylighen and C. Joslyn) (1993–2005)
+
+[https://scholar.google.com/citations?user=DR8CAY4AAAAJ&hl=en&pagesize=100 Most cited publications] according to Google Scholar
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110715112828/http://asf.prime-task.com/cgi/ASFdbs.pl?&action=Linkview&pass=&link_name=doc&link_type_doc=file&main_page=http%3A%2F%2Fasf.prime-task.com%2F&main_page_title=ASF+Home+Page&layout=frame&database=asfdocs_n_first_sprivat&link_res_doc=turchin-kline.1271258936.html Valentin Turchin, eulogy] by Edward Kline, President of The Andrei Sakharov Foundation
+*[http://pcp.vub.ac.be/TURCHIN.html Turchin's home page] on Principia Cybernetica web
+*[http://www.goertzel.org/benzine/turchin.htm Profile of Valentin Turchin] by [[Ben Goertzel]]
+*[http://www.ets.ru/turchin/index.htm Russian edition. The Phenomenon of Science] {{Webarchive|url=https://web.archive.org/web/20101031104335/http://www.ets.ru/turchin/index.htm |date=2010-10-31 }} The Phenomenon of Science. A cybernetic approach to human evolution. ETS Publishing House. Moscow - 2000, 398 pp, {{ISBN|5-93386-019-0}}
+*[http://www.refal.ru/ refal.ru - REFAL and Supercompilation community]
+
+{{Cybernetics}}
+{{Soviet dissidents}}
+{{Authority control}}
+
+{{DEFAULTSORT:Turchin, Valentin}}
+[[Category:1931 births]]
+[[Category:2010 deaths]]
+[[Category:Cyberneticists]]
+[[Category:Soviet human rights activists]]
+[[Category:Superorganisms]]
+[[Category:American systems scientists]]
+[[Category:Complex systems scientists]]
+[[Category:People from Oakland, New Jersey]]
+[[Category:People from Podolsk]]
+[[Category:Soviet dissidents]]
+[[Category:Soviet emigrants to the United States]]
+[[Category:City College of New York faculty]]
+[[Category:Amnesty International people]]
+[[Category:Moscow State University alumni]]
+[[Category:Soviet mathematicians]]
+[[Category:Soviet physicists]]
+[[Category:Programming language designers]]
+[[Category:Russian scientists]]

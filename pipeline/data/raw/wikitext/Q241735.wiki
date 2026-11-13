@@ -1,0 +1,304 @@
+{{Short description|American physicist and entrepreneur (1927–1990)}}
+{{Infobox scientist
+| name             = Robert Noyce
+| image            = Robert Noyce with Motherboard 1959.png
+| caption          = Noyce in 1959
+| birth_name       = Robert Norton Noyce
+| birth_date       = {{Birth date|1927|12|12}}
+| birth_place      = [[Burlington, Iowa]], U.S.
+| death_date       = {{Death date and age|1990|06|03|1927|12|12}}
+| death_place      = [[Austin, Texas]], U.S.
+| education        =
+{{Collapsible list|bullets=on|title={{nobold|[[Grinnell College]]}}
+ |[[Bachelor of Arts|B.A.]], Physics
+}}
+{{Collapsible list|bullets=on|title={{nobold|[[Massachusetts Institute of Technology]]}}
+ |[[Doctor of Philosophy|Ph.D.]], Physics
+}}
+| spouse           = {{Plainlist|
+* {{Marriage|[[Elizabeth Noyce|Elizabeth Bottomley]]|1953|1974||end=divorced}}
+* {{Marriage|[[Ann Bowers]]|1974}}}}
+| children         = 4
+| known_for        = Invention of the [[integrated circuit]]
+| awards           = {{Plainlist|
+* [[Stuart Ballantine Medal]] (1966)
+* [[IEEE Medal of Honor]] (1978)
+* [[Harry H. Goode Memorial Award]] (1978)
+* [[IEEE Cledo Brunetti Award]] (1978)
+* [[Faraday Medal]]  (1979)
+* [[National Medal of Technology]] (1979, 1987)
+* [[Harold Pender Award]] (1980)
+* [[Computer Entrepreneur Award]] (1986)
+* [[John Fritz Medal]] (1989)
+* [[Charles Stark Draper Prize]] (1989)}}
+| fields           = [[Physics]]
+| workplaces       = {{Indented plainlist|
+* [[Philco]]
+* [[Shockley Semiconductor Laboratory]]
+* [[Fairchild Semiconductor]]
+* [[Intel]]}}
+| thesis_title     = A photoelectric investigation of surface states on insulators
+| thesis_url       = http://hdl.handle.net/1721.1/12296
+| thesis_year      = 1953
+| doctoral_advisor = [[Wayne B. Nottingham]]
+}}
+
+'''Robert Norton Noyce''' (December 12, 1927 – June 3, 1990) was an American [[physicist]] and entrepreneur who co-founded [[Fairchild Semiconductor]] in 1957 and [[Intel Corporation]] in 1968. Nicknamed "the Mayor of [[Silicon Valley]]," he was also credited with the realization of the first [[monolithic integrated circuit]] or microchip made with silicon, which fueled the [[personal computer revolution]] and gave Silicon Valley its name.<ref group="nb">While Kilby's invention was six months earlier, neither man rejected the title of co-inventor.</ref><ref name="Lécuyer,129">Lécuyer, p. 129</ref>
+
+Noyce founded The Noyce School of Applied Computing within the College of Engineering at [[California Polytechnic State University, San Luis Obispo| Cal Poly, San Luis Obispo]]. In 1987, President Ronald Reagan awarded him the [[National Medal of Technology]], and in 1989, he was inducted into the U.S. Business Hall of Fame, with President George H. W. Bush delivering the keynote. In 1990, he received a Lifetime Achievement Medal alongside [[Jack Kilby]] and [[John Bardeen]] during the bicentennial celebration of the [[Patent Act]].
+
+== Early life ==
+Robert Norton Noyce was born on December 12, 1927, in [[Burlington, Iowa]],<ref name=Jones86>Jones, 86</ref><ref name=Jones142>Jones, 142</ref><ref name="Berlin,10">Berlin, p. 10</ref><ref name=Burt71>Burt, 71</ref><ref name="Welles Gaylord,130">Welles Gaylord, p. 130</ref> the third of four sons<ref name="Berlin,10"/> of Harriet May (née Norton) and [[The Reverend|The Rev.]] Ralph Brewster Noyce.<ref name="Jones625">Jones, p. 625</ref> His father graduated from [[Doane College]], [[Oberlin College]], and the [[Chicago Theological Seminary]] and was also nominated for a [[Rhodes Scholarship]].<ref name="Berlin,14">Berlin, p. 14</ref> His mother was the daughter of The Rev. Milton J. Norton, a [[Congregational church|Congregational]] [[clergy]]man, and Louise Hill. She was a graduate of Oberlin College and prior to her marriage, she had dreams of becoming a missionary.<ref name="Berlin,9">Berlin, p. 9</ref> Journalist [[Tom Wolfe]] described her as "an intelligent woman with a commanding will".<ref name="Wolfe1">{{cite journal
+ |last         = Wolfe
+ |first        = Tom
+ |author-link  = Tom Wolfe
+ |title        = The Tinkerings of Robert Noyce
+ |journal      = Esquire Magazine
+ |date         = December 1983
+ |pages        = 346–74
+ |url          = http://www.stanford.edu/class/e140/e140a/content/noyce.html
+ |access-date  = 2010-05-07
+ |url-status   = dead
+ |archive-url  = https://web.archive.org/web/20090227111808/http://www.stanford.edu/class/e140/e140a/content/noyce.html
+ |archive-date = February 27, 2009
+ |df           = mdy-all
+}}</ref>
+
+Noyce had three siblings: Donald Sterling Noyce, Gaylord Brewster Noyce and Ralph Harold Noyce.<ref name="Berlin,10"/><ref name="Berlin,12">Berlin, p. 12</ref> His brother Donald would go on to become a respected professor and associate dean of undergraduate affairs in the [[UC Berkeley College of Chemistry]]; Robert later created the Donald Sterling Noyce Prize to reward excellence in undergraduate teaching at [[Berkeley High School (California)|Berkeley]].<ref>{{cite press release |last=Subramanian |first=Yvette |date=November 8, 2004 |title=Donald Noyce, professor emeritus of chemistry, dies at age 81 |url=https://www.berkeley.edu/news/media/releases/2004/11/08_noyce.shtml |location=Berkeley, CA |work=UC Berkeley News |access-date=May 8, 2009}}</ref> His brother Gaylord would go on to become a respected professor of [[practical theology]] and dean of students at [[Yale Divinity School]]; in 1961, while a young professor, he was arrested for being one of the [[Freedom Riders]] of the [[civil rights movement]].<ref>{{cite news |title=Prof. Gaylord Noyce Dies at 83 |url=http://www.yale.edu/divinity/news/090813_news_noyce.shtml |url-status=dead |archive-url=https://web.archive.org/web/20090818155859/http://www.yale.edu/divinity/news/090813_news_noyce.shtml |archive-date=August 18, 2009 |website=Yale Divinity School |language=en-US |date=August 13, 2009 |access-date=October 29, 2009}}</ref>
+
+Noyce's earliest childhood memory involved beating his father at [[table tennis|ping pong]] and feeling shocked when his mother reacted to the news of his victory with a distracted "Wasn't that nice of Daddy to let you win?" Even at the age of five, Noyce felt offended by the notion of intentionally losing. "That's not the game", he sulked to his mother. "If you're going to play, play to win!"<ref name="Berlin,12"/>
+
+When Noyce was twelve years old in the summer of 1940, he and his brother built a boy-sized aircraft, which they used to fly from the roof of the Grinnell College stables. Later he built a radio from scratch and motorized his sled by welding a propeller and a motor from an old washing machine to the back of it.<ref name="Berlin,7">Berlin, p. 7</ref> His parents were both religious but Noyce became an agnostic and irreligious in later life.<ref>
+{{cite book |title=The Man Behind The Microchip: Robert Noyce And The Invention Of Silicon Valley |year=2005 |publisher=Oxford University Press |isbn=9780195163438 |author=Leslie Berlin |page= 235}}</ref>
+
+== Education ==
+Noyce grew up in [[Grinnell, Iowa]]. While in high school, he exhibited a talent for mathematics and science and took the [[Grinnell College]] freshman physics course in his senior year. He graduated from Grinnell High School in 1945 and entered Grinnell College in the fall of that year. He was the star diver on the 1947 [[Midwest Conference]] Championship swim team.<ref name="Wolfe1" /> While at Grinnell College, Noyce sang, played the oboe and acted. In Noyce's junior year, he got in trouble for stealing a 25-pound pig from the Grinnell mayor's farm and roasting it at a school [[luau]]. The mayor wrote to his parents stating that "In the agricultural state of Iowa, stealing a domestic animal is a felony which carries a minimum penalty of a year in prison and a fine of one dollar." Noyce faced expulsion from school but [[Grant Gale]], Noyce's physics professor and president of the college, did not want to lose a student with Noyce's potential. They compromised with the mayor so that Grinnell would compensate him for the pig, and suspended Noyce for one semester. He returned in February 1949,<ref>Berlin, Leslie. "Adrenaline and Gasoline." ''The Man behind the Microchip: Robert Noyce and the Invention of Silicon Valley.'' Oxford: Oxford UP, 2005. 22–23. Print.</ref> and graduated that year with a [[Bachelor of Arts]] in Physics.<ref name="Grinnell">{{Cite web|title=Robert Noyce ’49 (General Science) |url=https://liberalartsclubband.sites.grinnell.edu/annotations/p-z/robert-noyce-general-science/ |publisher=Grinnell College|access-date=November 7, 2026}}</ref> He also received a single honor from his classmates: the Brown Derby Prize, which recognized "the senior man who earned the best grades with the least amount of work".<ref name="Berlin,27">Berlin, [https://books.google.com/books?id=YLd3RBUrDlkC&pg=PA27 p. 27]</ref>
+
+While Noyce was an undergraduate, he was fascinated by the field of physics and took a course in the subject that was taught by professor [[Grant O. Gale|Grant Gale]]. Gale obtained two of the first transistors ever produced by [[Bell Labs]] and showed them off to his class. Noyce was hooked.<ref name="Wolfe1" /><ref name="Berlin,22">Berlin, p. 22</ref><ref name="Berlin,24">Berlin, p. 24</ref> Gale suggested that he apply to the doctoral program in physics at [[Massachusetts Institute of Technology]] (MIT), which he did.<ref name="Berlin,106">Berlin, p. 106</ref>
+
+Noyce had a mind so quick that his graduate school friends called him "Rapid Robert".<ref name="Berlin,1">Berlin, p. 1</ref> In 1953, he received a [[Doctor of Philosophy]] in Physics from MIT, supervised by [[Wayne B. Nottingham]].<ref>{{Cite thesis|last=Noyce|first=Robert Norton |year=1953|title= A photoelectric investigation of surface states on insulators |degree=Ph.D.|publisher=MIT Libraries|hdl=1721.1/12296|hdl-access=free}}</ref>
+
+== Career ==
+[[File:Robert Noyce and Gordon Moore at SC1 1970.png|300px|thumbnail|Robert Noyce and [[Gordon Moore]] in front of the Intel SC1 building in Santa Clara in 1970]]
+
+After graduating from MIT in 1953, Noyce took a job as a research engineer at [[Philco]] in [[Philadelphia, Pennsylvania]]. He left in 1956 to join [[William Shockley]] at the [[Shockley Semiconductor Laboratory]]<ref name="Shurkin,170">Shurkin, p. 170</ref> in [[Mountain View, California]].<ref name="Computer Society">{{Cite web|title= Robert N. Noyce |url=https://www.computer.org/profiles/robert-noyce|publisher=IEEE Computer Society|access-date=November 7, 2026}}</ref> Noyce left a year later with the "[[traitorous eight]]"<ref name="Shurkin,181">Shurkin, p. 181</ref> upon having issues with Shockley's management style, and co-founded the influential [[Fairchild Semiconductor]] corporation. According to [[Sherman Fairchild]], Noyce's impassioned presentation of his vision was the reason Fairchild had agreed to create the semiconductor division for the traitorous eight.
+
+Noyce was vital to the [[invention of the integrated circuit]]. After [[Jack Kilby]] invented the first [[hybrid integrated circuit]] (hybrid IC) in 1958,<ref name="Saxena140">{{cite book |last1=Saxena |first1=Arjun N. |title=Invention of Integrated Circuits: Untold Important Facts |date=2009 |publisher=World Scientific |isbn=9789812814456 |page=140}}</ref> Noyce in 1959 independently invented a new type of integrated circuit, the [[monolithic integrated circuit]] (monolithic IC).<ref name="computerhistory1959">{{cite web |title=1959: Practical Monolithic Integrated Circuit Concept Patented |url=https://www.computerhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/ |website=[[Computer History Museum]] |access-date=13 August 2019}}</ref><ref name="nasa">{{cite web |title=Integrated circuits |url=https://www.hq.nasa.gov/alsj/ic-pg3.html |website=[[NASA]] |access-date=13 August 2019 |archive-date=21 July 2019 |archive-url=https://web.archive.org/web/20190721173218/https://www.hq.nasa.gov/alsj/ic-pg3.html |url-status=dead }}</ref> It was more practical than Kilby's [[implementation]]. Noyce's design was made of [[silicon]], whereas Kilby's chip was made of [[germanium]]. Noyce's invention was the first [[monolithic integrated circuit]] chip.<ref>{{cite web |title=1959: Practical Monolithic Integrated Circuit Concept Patented |url=https://www.computerhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/ |website=[[Computer History Museum]] |access-date=13 August 2019}}</ref> Unlike Kilby's IC which had external wire connections and could not be mass-produced, Noyce's monolithic IC chip put all components on a chip of silicon and connected them with aluminum lines.<ref name="nasa"/> The basis for Noyce's monolithic IC was the [[planar process]], developed in early 1959 by [[Jean Hoerni]]. In turn, the basis for Hoerni's planar process were the silicon [[surface passivation]] and [[thermal oxidation]] methods developed by [[Mohamed Atalla]] in 1957.<ref>{{cite book |last1=Bassett |first1=Ross Knox |title=To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology |date=2007 |publisher=Johns Hopkins University Press |isbn=9780801886393 |page=46 |url=https://books.google.com/books?id=UUbB3d2UnaAC&pg=PA46}}</ref><ref name="Bassett46">{{cite book |last1=Bassett |first1=Ross Knox |title=To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology |date=2007 |publisher=[[Johns Hopkins University Press]] |isbn=9780801886393 |page=46 |url=https://books.google.com/books?id=UUbB3d2UnaAC&pg=PA46}}</ref>
+
+Noyce and [[Gordon Moore]] founded [[Intel]] in 1968 when they left Fairchild Semiconductor.<ref name="Berlin,1"/><ref name="Shurkin,184">Shurkin, p. 184</ref> [[Arthur Rock]], the chairman of Intel's board and a major investor in the company, said that for Intel to succeed, the company needed Noyce, Moore and [[Andrew Grove]]. And it needed them in that order. Noyce: the visionary, born to inspire; Moore: the virtuoso of technology; and Grove: the technologist turned management scientist.<ref name="Tedlow,405">Tedlow, p. 405</ref> Noyce served as the first CEO, until 1975,<ref>{{Cite web | title=NAE Website – ROBERT N. NOYCE 1927–1990 | url=https://www.nae.edu/188726/ROBERT-N-NOYCE-19271990 | archive-url=https://web.archive.org/web/20191029150514/https://www.nae.edu/188726/ROBERT-N-NOYCE-19271990 | access-date=2025-08-05 | archive-date=2019-10-29}}</ref> when he was succeeded by Moore. The relaxed culture that Noyce brought to Intel was a carry-over from his style at Fairchild Semiconductor. He treated employees as family, rewarding and encouraging teamwork. Noyce's management style could be called "roll up your sleeves". He shunned fancy corporate cars, reserved parking spaces, private jets, offices, and furnishings in favor of a less-structured, relaxed working environment in which everyone contributed and no one received lavish benefits. By declining the usual executive perks he stood as a model for future generations of Intel CEOs.
+
+At Intel, he oversaw the invention of the [[microprocessor]] as a concept by [[Ted Hoff]] and design of the first commercial microprocessor [[Intel 4004]] by [[Federico Faggin]], which was his second revolution.<ref>{{cite web |author=Creation of Microprocessor |date=February 19, 2014 |title=Interview with Gordon Moore on First Microprocessor |url=https://www.youtube.com/watch?v=Qt1PCLZAPyk |archive-url=https://web.archive.org/web/20170508022330/https://www.youtube.com/watch?v=Qt1PCLZAPyk |archive-date=May 8, 2017 |url-status=live |website=YouTube |access-date=February 6, 2026 }}</ref><ref>One-time Intel CEO Andy Grove on the other hand, believed in maximizing the productivity of his employees, and he and the company became known for his guiding motto: "Only the paranoid survive". He was notorious for his directness in finding fault and would question his colleagues so intensely as occasionally to border on intimidation.</ref><ref>{{cite web |last=Garten |first=Jeffrey E. |date=April 11, 2005 |title=Andy Grove Made The Elephant Dance |url=https://www.bloomberg.com/news/articles/2005-04-10/andy-grove-made-the-elephant-dance |website=Bloomberg |access-date=April 2, 2023}}</ref><!-- <ref>Grove considered Noyce to be a "nice guy" but ineffectual. Noyce was, in Grove's estimation, essentially anti-competitive. This difference in styles reputedly caused some degree of friction between Noyce and Grove.</ref> -->
+
+== Personal life ==
+In 1953, Noyce married [[Elizabeth Noyce|Elizabeth Bottomley]],<ref name=vast>{{Cite news |last=Thomas |first=Robert Meg. Jr. |date=September 20, 1996 |title=Elizabeth B. Noyce, 65, Benefactor of Maine With Vast Settlement From Her Divorce |url=https://www.nytimes.com/1996/09/20/us/elizabeth-b-noyce-65-benefactor-of-maine-with-vast-settlement-from-her-divorce.html |work=The New York Times |access-date=April 10, 2010}}</ref> who was a 1951 graduate of [[Tufts University]]. While living in [[Los Altos, California]], they had four children: William B., Pendred, Priscilla, and Margaret. Elizabeth loved [[New England]], so the family acquired a 50-acre coastal summer home in [[Bremen, Maine]]. Elizabeth and the children would summer there.<ref name="Berlin">{{cite book |last=Berlin |first=Leslie |year=2005 |title=The Man Behind the Microchip: Robert Noyce and the Invention of Silicon Valley |publisher=Oxford University Press |isbn=9780195163438 | page= }}</ref> Robert would visit during the summer, while continuing to work at Intel. They divorced in 1974.<ref>{{Cite book |last=Berlin |first=Leslie |date=2005 |title=The Man Behind the Microchip: Robert Noyce and the Invention of Silicon Valley |publisher=Oxford University Press |isbn=0195163435 |pages= 200–204 |oclc=57201649}}</ref>
+
+On November 27, 1974, Noyce married [[Ann Bowers|Ann Schmeltz Bowers]]. Bowers, a graduate of [[Cornell University]],<ref>{{cite journal |title=Class notes 1950-1959 |url=http://cornellalumnimagazine.com/Archive/2007sepoct/notes/1950to1959.asp |journal=Cornell Alumni Magazine |date=Sep–Oct 2007 |access-date=January 4, 2012}}</ref> also received an honorary Ph.D. from [[Santa Clara University]], where she was a trustee for nearly 20 years. She was the first director of personnel for Intel Corporation and the first vice president of human resources for [[Apple Inc.]] She was a founding trustee and served as chair of the board for the Noyce Foundation, founded in 1990.<ref name="Noyce Foundation: About Us">{{cite web |title=Noyce Foundation: About Us |url=http://noycefdn.org/aboutus.php |access-date=2 January 2012 |archive-url=https://web.archive.org/web/20111225100910/http://www.noycefdn.org/aboutus.php |archive-date=December 25, 2011 |url-status=dead}}</ref> Bowers died on January 24, 2024, at the age of 86.
+
+Noyce kept active his entire life. He enjoyed reading Hemingway, and he flew his own airplane and also participated in [[Hang gliding|hang-gliding]] and [[scuba diving]]. Noyce believed that [[microelectronics]] would continue to advance in complexity and sophistication well beyond its current state; this led to the question of what use society would make of the technology. In his last interview, Noyce was asked what he would do if he were "emperor" of the United States. He said that he would, among other things, "...make sure we are preparing our next generation to flourish in a high-tech age. And that means education of the lowest and the poorest, as well as at the graduate school level."<ref>{{Cite book |last=Berlin |first=Leslie |date=2005 |title=The Man Behind the Microchip: Robert Noyce and the Invention of Silicon Valley |publisher=Oxford University Press |isbn=0195163435 |page= 306 |oclc=57201649}}</ref>
+
+=== Death ===
+Noyce suffered a heart attack at age 62 at home on June 3, 1990, and later died at the [[Dell Seton Medical Center|Seton Medical Center]] in [[Austin, Texas|Austin]], [[Texas]].<ref>{{cite news |last=Hays |first=Constance L. |date=June 4, 1990 |title=An Inventor of the Microchip, Robert N. Noyce, Dies at 62 |url=https://www.nytimes.com/1990/06/04/obituaries/an-inventor-of-the-microchip-robert-n-noyce-dies-at-62.html?sec=&spon=&pagewanted=all |work=The New York Times |language=en-US |access-date=April 10, 2010}}</ref>
+
+== Recognition ==
+=== Awards ===
+{| class="wikitable"
+! Year
+! Organization
+! Award
+! Citation
+! {{Reference column heading}}
+|-
+| 1966
+| [[Franklin Institute]]
+| [[Stuart Ballantine Medal]]
+| "For the development of monolithic integrated circuits (microchips)."
+| <ref>{{Cite web|title=Robert N. Noyce |url=https://fi.edu/en/awards/laureates/robert-n-noyce|publisher=Franklin Institute|access-date=November 7, 2026}}</ref>
+|-
+| 1978
+| [[Institute of Electrical and Electronics Engineers]]
+| [[IEEE Medal of Honor]]
+| "For his contributions to the silicon integrated circuit, a cornerstone of modern electronics."
+| <ref>{{Cite web|title=Robert N. Noyce |url=https://corporate-awards.ieee.org/recipient/robert-n-noyce/ |publisher=Institute of Electrical and Electronics Engineers|access-date=May 13, 2024}}</ref>
+|-
+| 1978
+| [[IEEE Computer Society]]
+| [[Harry H. Goode Memorial Award]]
+| "In recognition of their [Noyce and [[Gordon Moore]]] original contributions to semiconductor integrated circuit technology, their pioneering achievements in using this technology for the development and production of microprocessors and many other computer system components, and their distinguished leadership of and insight in computer science and technology, which have revolutionized the information processing field."
+| <ref name="Computer Society"/>
+|-
+| 1978
+| Institute of Electrical and Electronics Engineers
+| [[IEEE Cledo Brunetti Award]]
+| "For contributions to miniaturization through inventions and the development of integrated circuits."
+| <ref>{{Cite web|title=IEEE Cledo Brunetti Award Recipients|url=https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/brunetti_rl.pdf|url-status=dead|publisher=Institute of Electrical and Electronics Engineers|archive-url=https://web.archive.org/web/20180804200901/https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/brunetti_rl.pdf|archive-date=August 4, 2018|access-date=December 6, 2019}}</ref>
+|-
+| 1979
+| [[Institution of Electrical Engineers]]
+| [[Faraday Medal]]
+| align=center | —
+| <ref>{{Cite web|title=Awards and prizes index |url=https://www.theiet.org/membership/library-and-archives/the-iet-archives/iet-history/awards-and-prizes-index|publisher=Institution of Engineering and Technology|access-date=October 31, 2025}}</ref>
+|-
+| 1979
+| [[United States Patent and Trademark Office]]
+| [[National Medal of Technology]]
+| "For contributions to a variety of semiconductor devices, but especially for the integrated circuit, the cornerstone of modern electronics."
+| <ref>{{Cite web|title=Robert N. Noyce |url=https://nationalmedals.org/laureate/robert-n-noyce-2/|publisher=National Science and Technology Medals Foundation|access-date=November 7, 2026}}</ref>
+|-
+| 1980
+| [[University of Pennsylvania]]
+| [[Harold Pender Award]]
+| align=center | —
+| <ref>{{Cite web|title=The Harold Pender Award Lecture|url=https://events.engineering.upenn.edu/distinguished-lectures/pender-lecture/ |department=Penn Engineering|publisher=University of Pennsylvania|access-date=September 19, 2024}}</ref>
+|-
+| 1986
+| IEEE Computer Society
+| [[Computer Entrepreneur Award]]
+| "In recognition of their [Noyce and Gordon Moore] early contributions to microcomputers and silicon components."
+| <ref name="Computer Society"/>
+|-
+| 1987
+| United States Patent and Trademark Office
+| National Medal of Technology
+| "For his inventions in the field of semiconductor integrated circuits, for his leading role in the establishment of the microprocessor which has led to much wider use of more powerful computers, and for his leadership of research and development in these areas, all of which have had profound consequences both in the United States and throughout the world."
+| <ref>{{Cite web|title=Robert N. Noyce |url=https://nationalmedals.org/laureate/robert-n-noyce/|publisher= National Science and Technology Medals Foundation|access-date=November 7, 2026}}</ref>
+|-
+| 1989
+| [[American Association of Engineering Societies]]
+| [[John Fritz Medal]]
+| align=center | —
+| <ref>{{Cite web|title=John Fritz Medal Award |url=https://www.smenet.org/Professional-Development/Awards-Competitions/Award-Recipients/John-Fritz-Medal-Award |publisher=American Association of Engineering Societies|access-date=April 25, 2022}}</ref>
+|-
+| 1989
+| [[National Academy of Engineering]]
+| [[Charles Stark Draper Prize]]
+| "For their [Noyce and [[Jack Kilby]]] independent development of the monolithic integrated circuit."
+| <ref>{{Cite web|title=1989 Winners: Jack S. Kilby and Robert N. Noyce |url=http://draperprize.org/1989.php|url-status=dead|publisher=Draper Prize for Engineering|archive-url= https://web.archive.org/web/20160410102535/http://draperprize.org/1989.php|archive-date=April 10, 2016|access-date=February 13, 2026}}</ref>
+|}
+
+=== Memberships ===
+{| class="wikitable"
+! Year
+! Organization
+! Type
+! {{Reference column heading}}
+|-
+| 1980
+| [[American Academy of Arts and Sciences]]
+| Member
+| <ref>{{Cite web|title= Robert Norton Noyce |url=https://www.amacad.org/person/robert-norton-noyce|publisher=American Academy of Arts and Science|access-date=November 7, 2026}}</ref>
+|-
+| 1980
+| [[National Academy of Sciences]]
+| [[Member of the National Academy of Sciences|Member]]
+| <ref>{{Cite web|title=Robert N. Noyce |url=https://www.nasonline.org/directory-entry/robert-n-noyce-ll3naa/|publisher=National Academy of Sciences|access-date=November 7, 2026 }}</ref>
+|}
+
+=== Other recognition ===
+In 1989, Noyce was inducted into the [[U.S. Business Hall of Fame]], sponsored by [[Junior Achievement]],<ref>{{cite web |url=http://www.ja.org/hof/viewLaureate.asp?id=138&induction_year=1989 |title=U.S. Business Hall of Fame – Robert N. Noyce |publisher=[[Junior Achievement]] |access-date=January 4, 2012 |url-status=dead |archive-url=https://archive.today/20120904210416/http://www.ja.org/hof/viewLaureate.asp?id=138&induction_year=1989 |archive-date=September 4, 2012 |df=mdy-all }}</ref> during a [[black tie]] ceremony keynoted by President [[George H. W. Bush]].<ref>{{Cite news|title=President Bush to honor Noyce and other laureates at U.S. Business Hall of Fame induction ceremony tonight in Colorado Springs |publisher=[[PR Newswire]] |date=March 16, 1989 }}</ref> In 1990, Noyce, [[Jack Kilby]], and [[John Bardeen]] received a "Lifetime Achievement Medal" during the bicentennial celebration of the Patent Act.
+
+== Commemoration ==
+The Robert N. Noyce ’49 Science Center at [[Grinnell College]], his alma mater, is named in his honor.<ref name="Grinnell"/>
+
+On December 12, 2011, Noyce was honored with a [[List of Google Doodles in 2011|Google Doodle]] celebrating the 84th anniversary of his birth.<ref>{{cite news |last=Cavna |first=Michael |date=December 12, 2011 |title=Robert Noyce Google Doodle: Logo conducts tribute to Intel co-founder and 'mayor of Silicon Valley' |url=https://www.washingtonpost.com/blogs/comic-riffs/post/robert-noyce-google-doodle-logo-conducts-tribute-to-intel-co-founder-and-mayor-of-silicon-valley/2011/12/12/gIQAxkwSpO_blog.html |newspaper=The Washington Post |language=en-US |access-date=December 12, 2011}}</ref>
+
+In 2000, [[Jack Kilby]] received the [[Nobel Prize in Physics]]. In his acceptance speech ("Nobel Lecture"), he mentions a small number of people whose work contributed to the success of integrated circuits, mentioning Noyce three times.<ref>{{cite journal |url=http://www.nobelprize.org/nobel_prizes/physics/laureates/2000/kilby-lecture.html |title=Turning Potential Into Realities: The Invention of the Integrated Circuit |first=Jack S. |last=Kilby |author-link=Jack Kilby |journal=2000 Nobel Lectures |publisher=[[Nobel Prize|Nobel Foundation]] |date=December 8, 2008 |pages=481–482 |access-date=November 12, 2020}}</ref>
+
+The '''Noyce Foundation''' was founded in 1990 by his family. The foundation was dedicated to improving public education in mathematics and science in grades [[K-12]].<ref name="Noyce Foundation: About Us"/> The foundation announced that it would end operations in 2015.<ref>{{Cite web |date=July 22, 2015 |title=Featured News: Noyce Foundation to Sunset in 2015 |url=http://www.noycefdn.org/news.php |url-status=dead |archive-url=https://web.archive.org/web/20150723094638/http://www.noycefdn.org/news.php |archive-date=July 23, 2015 |website=Noyce Foundation |language=en-US |access-date=July 22, 2015}}</ref>
+
+[[California_Polytechnic_State_University,_San_Luis_Obispo|California Polytechnic State University at San Luis Obispo (Cal Poly)]], established The Noyce School of Applied Computing in the College of Engineering with a $60 million gift from the Robert N. Noyce Trust in June of 2022.
+
+In 1990, Congress established the Robert Noyce National Math and Science Teachers Corps Act which authorizes awards up to 5,000 scholarships annually to assist individuals in obtaining a teaching degree.<ref>{{Cite web|last=Levine|first=Mel|date=1990-07-11|title=H.R.5248 – 101st Congress (1989–1990): Robert Noyce National Math and Science Teachers Corps Act|url=https://www.congress.gov/bill/101st-congress/house-bill/5248|access-date=2021-07-15|website=www.congress.gov}}</ref> These awards are granted to institutions of higher education who administer the projects after successful proposal submissions through the National Science Foundation's Robert Noyce Teacher Scholarship Program ("Noyce").<ref>{{Cite web|title=Robert Noyce Teacher Scholarship Program (nsf21578) {{!}} NSF – National Science Foundation|url=https://www.nsf.gov/pubs/2021/nsf21578/nsf21578.htm|access-date=2021-07-15|website=www.nsf.gov|archive-date=2021-07-15|archive-url=https://web.archive.org/web/20210715175724/https://www.nsf.gov/pubs/2021/nsf21578/nsf21578.htm|url-status=dead}}</ref> Pre-service teachers are recruited by their college/university and must be STEM majors. Scholarship recipients to agree to teach science or mathematics in a high-need school districts for at least two years for each fiscal year the recipient received such a scholarship. The American Association for the Advancement of Science (AAAS) works with the NSF Robert Noyce Teacher Scholarship Program to identify and disseminate information about effective practices and strategies for attracting, selecting, and preparing new K-12 STEM teachers and retaining them in the STEM teacher workforce.<ref>{{Cite web|title=The Robert Noyce Teacher Scholarship Program|url=https://www.nsfnoyce.org/|access-date=2021-07-15|website=www.nsfnoyce.org|archive-date=2021-07-15|archive-url=https://web.archive.org/web/20210715175728/https://www.nsfnoyce.org/|url-status=dead}}</ref>
+
+== Patents ==
+Noyce was granted 15 patents. Patents are listed in order issued, not filed.
+* {{US patent|2875141}} ''Method and apparatus for forming semiconductor structures'', filed August 1954, issued February 1959, assigned to Philco Corporation
+* {{US patent|2929753}} ''Transistor structure and method'', filed April 1957, issued March 1960, assigned to Beckmann Instruments
+* {{US patent|2959681}} ''Semiconductor scanning device'', filed June 1959, issued November 1960, assigned to Fairchild Semiconductor
+* {{US patent|2968750}} ''Transistor structure and method of making the same'', filed March 1957, issued January 1961, assigned to Clevite Corporation
+* {{US patent|2971139}} ''Semiconductor switching device'', filed June 1959, issued February 1961, assigned to Fairchild Semiconductor
+* {{US patent|2981877}} ''Semiconductor Device and Lead Structure'', filed July 1959, issued April 1961, assigned to Fairchild Semiconductor
+* {{US patent|3010033}} ''[[Field effect transistor]]'', filed January 1958, issued November 1961, assigned to Clevite Corporation
+* {{US patent|3098160}} ''Field controlled avalanche semiconductive device'', filed February 1958, issued July 1963, assigned to Clevite Corporation
+* {{US patent|3108359}} ''Method for fabricating transistors'', filed June 1959, issued October 1963, assigned to Fairchild Camera and Instrument Corp.
+* {{US patent|3111590}} ''Transistor structure controlled by an avalanche barrier'', filed June 1958, issued November 1963, assigned to Clevite Corporation
+* {{US patent|3140206}} ''Method of making a transistor structure'' (coinventor William Shockley), filed April 1957, issued July 1964, assigned to Clevite Corporation
+* {{US patent|3150299}} ''Semiconductor circuit complex having isolation means'', filed September 1959, issued September 1964, assigned to Fairchild Camera and Instrument Corp.
+* {{US patent|3183129}} ''Method of forming a semiconductor'', filed July 1963, issued May 1965, assigned to Fairchild Camera and Instrument Corp.
+* {{US patent|3199002}} ''Solid state circuit with crossing leads'', filed April 1961, issued August 1965, assigned to Fairchild Camera and Instrument Corp.
+* {{US patent|3325787}} ''Trainable system'', filed October 1964, issued June 1967, assigned to Fairchild Camera and Instrument Corp.
+
+Note: In 1960 [[Clevite]] Corporation acquired [[Shockley Semiconductor Laboratory]], a subsidiary of [[Beckman Instruments]], for whom Noyce worked.<ref>{{cite web|url=https://www.electronicdesign.com/archive/clevite-corp-acquires-shockley-transistor-corp |title=Clevite Corp. Acquires Shockley Transistor Corp. |work=[[Electronic Design]] |date=April 27, 1960 |access-date=February 22, 2019}}</ref>
+
+== Notes ==
+{{reflist|group="nb"}}
+
+== Citations ==
+{{Reflist}}
+
+== References ==
+{{refbegin}}
+* [[Leslie Berlin|Berlin, Leslie]]. ''The man behind the microchip: Robert Noyce and the invention of Silicon Valley''. Publisher Oxford University Press US, 2005. {{ISBN|0-19-516343-5}}
+* Burt, Daniel S. ''The chronology of American literature: America's literary achievements from the colonial era to modern times''. Houghton Mifflin Harcourt, 2004. {{ISBN|0-618-16821-4}}
+* Jones, Emma C. Brewster. [https://web.archive.org/web/20110718052212/http://www.williambrewster.com/brewstergenealogy.htm ''The Brewster Genealogy, 1566–1907: a Record of the Descendants of William Brewster of the "Mayflower," ruling elder of the Pilgrim church which founded Plymouth Colony in 1620.''] New York: Grafton Press, 1908.
+* Lécuyer, Christophe. ''Making Silicon Valley: Innovation and the Growth of High Tech, 1930–1970'' Published by MIT Press, 2006. {{ISBN|0262122812}}
+* Shurkin, Joel N.. ''Broken Genius: The Rise and Fall of William Shockley, Creator of the Electronic Age ''Publisher Palgrave Macmillan, 2007. {{ISBN|0-230-55192-0}}
+* Tedlow, Richard S. ''Giants of enterprise: seven business innovators and the empires they built'' Publisher Harper Collins, 2003. {{ISBN|0-06-662036-8}}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* Gaylord, Mary M. Welles. [https://books.google.com/books?id=PvYEAAAAYAAJ&q=Life+and+labors+of+Rev.+Reuben+Gaylord ''Life and Labors of Rev. Reuben Gaylord''] Omaha: Rees Printing Company, 1889.
+* Wolfe, Tom. [https://books.google.com/books?id=_O-7s31ficcC&q=hooking+up+and+tom+wolfe ''Hooking Up''] New York. Publisher: Macmillan, 2001.
+* Wolfe, Tom. [https://web.archive.org/web/20160304022613/http://www.brightboys.org/PDF/Wolfe_Noyce.pdf ''The Tinkerings of Robert Noyce''], How the Sun Rose on the Silicon Valley, Esquire Magazine, December 1983, pp.&nbsp;346–374.
+{{refend}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+* [https://www.pbs.org/transistor/album1/addlbios/noyce.html Noyce biography on PBS.org]
+* [http://www.ideafinder.com/history/inventors/noyce.htm Noyce biography on IdeaFinder.com] {{Webarchive|url=https://web.archive.org/web/20190823122737/http://www.ideafinder.com/history/inventors/noyce.htm |date=August 23, 2019 }}
+* [https://web.archive.org/web/20111231214245/http://www.noycefdn.org/ Noyce Foundation website]
+* [http://content.cdlib.org/view?docId=kt3m3nc61v&&chunk.id=did-1.3.1&brand=oac Guide to the Robert Noyce Papers at Stanford University]
+* [https://www.nsf.gov/pubs/2021/nsf21578/nsf21578.htm Robert Noyce Teacher Scholarship Program] {{Webarchive|url=https://web.archive.org/web/20210715175724/https://www.nsf.gov/pubs/2021/nsf21578/nsf21578.htm |date=2021-07-15 }}
+
+{{S-start}}
+{{s-bus}}
+{{Succession box
+ | title  = [[Chief executive officer|CEO]], [[Intel]]
+ | years  = 1968–1975
+ | before = Company founded
+ | after  = [[Gordon Moore]]
+}}
+{{S-end}}
+
+{{IEEE Medal of Honor Laureates 1976–2000}}
+{{Intel}}
+{{Charles Stark Draper Prize}}
+{{Winners of the National Medal of Science|engineering}}
+{{Authority control}}
+
+{{DEFAULTSORT:Noyce, Robert}}
+[[Category:1927 births]]
+[[Category:1990 deaths]]
+[[Category:American agnostics]]
+[[Category:American chief executives in technology]]
+[[Category:American businesspeople in the computer industry]]
+[[Category:20th-century American inventors]]
+[[Category:20th-century American physicists]]
+[[Category:Businesspeople from California]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Grinnell College alumni]]
+[[Category:IEEE Medal of Honor recipients]]
+[[Category:Intel people]]
+[[Category:MIT School of Science alumni]]
+[[Category:National Medal of Science laureates]]
+[[Category:National Medal of Technology recipients]]
+[[Category:Scientists from Austin, Texas]]
+[[Category:People from Burlington, Iowa]]
+[[Category:People from Santa Clara, California]]
+[[Category:Draper Prize winners]]
+[[Category:American chief executives in the manufacturing industry]]
+[[Category:20th-century American businesspeople]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Scientists at Shockley Semiconductor Laboratory]]
+[[Category:Fairchild Semiconductor people]]

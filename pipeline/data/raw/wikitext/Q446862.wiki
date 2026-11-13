@@ -1,0 +1,152 @@
+{{Short description|Regius Professor of Engineering at the University of Cambridge (1967–2016)}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=August 2026}}
+{{Infobox scientist
+| honorific_suffix  = {{post-nominals|country=GBR|FRS|FInstP|FICE}}
+| name              = David MacKay
+| honorific_prefix  = [[Sir]]
+| birth_name        = David John Cameron MacKay
+| image             = David John Cameron MacKay by David Stern.jpg
+| birth_date        = {{Birth date|df=yes|1967|04|22}}<ref name=whoswho/><ref name="bio">{{cite web |archive-url=https://web.archive.org/web/20160416154134/http://www.inference.phy.cam.ac.uk/mackay/bio.html|archive-date=2016-04-16|url=http://www.inference.phy.cam.ac.uk/mackay/bio.html |title=Biography – David J.C. MacKay |author=David MacKay |work=web homepage |publisher=University of Cambridge |date=2010-02-07 |access-date=2012-10-12}}</ref>
+| birth_place       = [[Stoke-on-Trent]], England
+| death_date        = {{Death date and age|2016|4|14|1967|04|22|df=yes}}
+| death_place       = [[Cambridge]], England
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist}}
+* [[Machine learning]]
+* [[Information theory]]
+* [[Sustainable energy]]
+{{Endplainlist}}
+| workplaces        = {{Plainlist}}
+* [[University of Cambridge]]
+* [[California Institute of Technology]]
+* [[Department of Energy and Climate Change]]
+{{Endplainlist}}
+| education         = {{Plainlist}}
+* [[Trinity College, Cambridge]] ([[Bachelor of Arts|BA]])
+* [[California Institute of Technology]] ([[PhD]])<ref name=whoswho>{{Who's Who | title=MacKAY, Prof. David John Cameron | id = U249995 | volume = 2016 | edition = online [[Oxford University Press]]|location=Oxford}}</ref>
+{{Endplainlist}}
+| doctoral_advisor  = [[John Hopfield]]<ref name="mathgene">{{MathGenealogy|id=122241}}</ref>
+| thesis_title      = Bayesian methods for adaptive models
+| thesis_url        = https://thesis.library.caltech.edu/25/
+| thesis_year       = 1992
+| academic_advisors = 
+| doctoral_students = 
+| known_for         = {{Plainlist}}
+* ''Sustainable Energy – Without the Hot Air''<ref name="withouthotair">{{cite book |author=Mackay, David |title=Sustainable Energy: Without the Hot Air |publisher=UIT Cambridge | url= http://www.withouthotair.com/ |year=2009 |isbn=978-0-9544529-3-3 }}</ref>
+* [[Low-density parity-check code]]<ref name="low"/>
+* [[Dasher (software)|Dasher]]<ref name="dasher"/>
+{{Endplainlist}}
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[Fellow of the Royal Society|FRS]] (2009)<ref name=frs/><ref name=royal/><ref name=rsbm>{{cite journal|last1=Longair|first1=Malcolm|author-link1=Malcolm Longair|last2=Cates|first2=Michael|author-link2=Michael Cates|title=Sir David John Cameron MacKay FRS. 22 April 1967 — 14 April 2016|journal=[[Biographical Memoirs of Fellows of the Royal Society]]|volume=63|pages=443–465|year=2017|issn=0080-4606|doi=10.1098/rsbm.2017.0013|doi-access=free}}</ref>
+* [[Fellow of the Institute of Physics|FInstP]]{{when|date=July 2017}}
+* [[Fellow of the Institution of Civil Engineers|FICE]]<ref name=whoswho/>{{when|date=July 2017}}
+* [[Fulbright Program|Fulbright scholar]]{{when|date=July 2017}}
+* [[Knight Bachelor]] (2016)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| website           = {{URL|withouthotair.com}}<br/>{{URL|www.inference.phy.cam.ac.uk/mackay}}<br/>{{URL|gov.uk/government/people/david-mackay}}
+| spouse            = {{marriage|Ramesh Ghiassi|2011}}<ref>{{cite web|url=http://rameshanddavid.blogspot.com/ |title=Ramesh and David |publisher=Rameshanddavid.blogspot.com |date=15 January 2011 |access-date=18 October 2012}}</ref>
+}}
+'''Sir David John Cameron MacKay''' (22 April 1967 – 14 April 2016)<ref name=whoswho/><ref name=telegraphobituary/> was a British [[physicist]], [[mathematician]], and academic. He was the [[Regius Professor of Engineering, Cambridge University|Regius Professor of Engineering]]<ref name=regus>{{cite web|archive-url=https://web.archive.org/web/20160303184800/http://www.cam.ac.uk/research/news/david-mackay-appointed-regius-professor-of-engineering |archive-date= 2016-03-03|url=http://www.cam.ac.uk/research/news/david-mackay-appointed-regius-professor-of-engineering|location=Cambridge|title=David MacKay appointed Regius Professor of Engineering|publisher= University of Cambridge|date= 28 March 2013}}</ref> in the [[Department of Engineering, University of Cambridge|Department of Engineering]] at the [[University of Cambridge]]<ref>{{cite web |url=http://www.inference.phy.cam.ac.uk/mackay/ |title=David J.C. MacKay FRS |author=David MacKay |work=web homepage |publisher=University of Cambridge |date=7 July 2012 |access-date=12 October 2012}}</ref> and from 2009 to 2014 was Chief Scientific Advisor to the UK [[Department of Energy and Climate Change]] (DECC).<ref name=appointment>
+{{citation|title=DECC confirms MacKay as new low-carbon advisor|publisher=BusinessGreen|url=http://www.businessgreen.com/bg/news/1802151/decc-confirms-mackay-low-carbon-advisor|date=3 September 2009 |access-date=29 December 2011}}
+</ref> MacKay wrote the book ''Sustainable Energy – Without the Hot Air''.<ref name="withouthotair"/><ref>{{Citation
+ | title=Britons of the Year
+ | newspaper=The Daily Telegraph
+ | location=London
+ | date=29 December 2009
+ | page=15
+ | url=https://www.telegraph.co.uk/topics/review-of-2009/6904065/Britons-of-the-Year-2009.html
+ }}</ref><ref>[http://www.nybooks.com/articles/archives/2012/apr/26/what-will-it-take-save-earth "What Will It Take to Save the Earth?"] 26 April 2012 by [[Joel E. Cohen]] in ''[[The New York Review of Books]]''</ref>
+
+==Education==
+MacKay was educated at [[Newcastle-under-Lyme School|Newcastle High School]] and represented Britain in the [[International Physics Olympiad]] in Yugoslavia in 1985,<ref name="bio1">{{cite web |url=http://www.inference.phy.cam.ac.uk/mackay/bio.html |title=Prof. David J.C. MacKay brief bio sketch |author=David MacKay |work=web homepage |publisher=University of Cambridge |date=23 August 2010 |access-date=28 September 2016}}</ref> receiving the first prize for experimental work. He continued his education at [[Trinity College, Cambridge]], and received a [[Bachelor of Arts]] degree in [[Natural Sciences (Cambridge)|Natural Sciences]] (Experimental and [[theoretical physics]]) in 1988.<ref name=whoswho/> He went to the [[California Institute of Technology]] (Caltech) as a [[Fulbright Scholar]], where his supervisor was [[John Hopfield]].<ref name="mathgene"/> He was awarded a PhD in 1992.<ref name="mackayphd">{{cite thesis|degree=PhD|first=David J.C. |last=Mackay|title= Bayesian methods for adaptive models|publisher=California Institute of Technology|date=1992|url=https://thesis.library.caltech.edu/25|author-link=David J. C. MacKay|oclc= 222439886}}</ref><ref name="bio2">{{cite web |url=http://www.inference.phy.cam.ac.uk/mackay/bio2.html |title=Prof. David J.C. MacKay |author=David MacKay |work=web homepage |publisher=University of Cambridge |date=24 June 2010 |access-date=12 October 2012}}</ref><ref name=rsbm/>
+
+==Career and research==
+In January 1992 MacKay was appointed the [[Royal Society]] Smithson Research Fellow at [[Darwin College, Cambridge]], continuing his cross-disciplinary research in the [[Cavendish Laboratory]], the Department of Physics of the University of Cambridge. In 1995 he was made a University Lecturer in the Cavendish Laboratory. He was promoted in 1999 to a Readership, in 2003 to a Professorship in [[Natural Philosophy]] and in 2013 to the post of [[Regius Professor of Engineering, Cambridge University|Regius Professorship of Engineering]].<ref name=Regius>{{Cite web |url=http://www.cam.ac.uk/research/news/david-mackay-appointed-regius-professor-of-engineering |title=David MacKay appointed Regius Professor of Engineering |publisher=University of Cambridge |date=28 March 2013 |access-date=3 April 2013}}</ref>
+
+MacKay's contributions<ref name="dblp">{{DBLP|name=David J. C. MacKay}}</ref><ref name="acm">{{ACMPortal|id=81100237704}}</ref><ref name="googlescholar">{{Google Scholar id}}</ref><ref name="scopus">{{Scopus id}}</ref> in [[machine learning]] and [[information theory]] include the development of [[Bayesian method]]s<ref>{{Cite journal | last1 = MacKay | first1 = D. J. C. | author-link1 = David J. C. MacKay| title = A Practical Bayesian Framework for Backpropagation Networks | doi = 10.1162/neco.1992.4.3.448 | journal = [[Neural Computation (journal)|Neural Computation]] | volume = 4 | issue = 3 | pages = 448–472 | year = 1992 | s2cid = 16543854 | url = http://authors.library.caltech.edu/13793/1/MACnc92b.pdf }}</ref> for [[neural network]]s,<ref>{{Cite journal | last1 = MacKay | first1 = D. J. C. | author-link1 = David J. C. MacKay| title = Bayesian Interpolation | doi = 10.1162/neco.1992.4.3.415 | journal = [[Neural Computation (journal)|Neural Computation]] | volume = 4 | issue = 3 | pages = 415–447 | year = 1992 | s2cid = 1762283 | url = https://resolver.caltech.edu/CaltechAUTHORS:MACnc92a }}</ref> the rediscovery (with [[Radford M. Neal]]) of [[low-density parity-check code]]s,<ref name="low">{{Cite journal | last1 = MacKay | first1 = D. J. C.| last2 = Neal | first2 = R. M. | doi = 10.1049/el:19961141 | title = Near Shannon limit performance of low density parity check codes | journal = Electronics Letters | volume = 32 | issue = 18 | pages = 1645 | year = 1996 | bibcode = 1996ElL....32.1645M}}</ref> and the invention of ''[[Dasher (software)|Dasher]]'',<ref name="dasher">{{Cite journal
+| last1 = Wills | first1 = S. A.
+| last2 = MacKay | first2 = D. J. C.
+| doi = 10.1109/TNSRE.2006.875573
+| title = DASHER—An Efficient Writing System for Brain–Computer Interfaces?
+| journal = [[IEEE Transactions on Neural Systems and Rehabilitation Engineering]]
+| volume = 14
+| issue = 2
+| pages = 244–246
+| year = 2006
+| pmid = 16792304
+| bibcode = 2006ITNSR..14..244W
+| s2cid = 185665
+}}</ref> a software application for communication especially popular with those who cannot use a traditional keyboard.<ref>{{Cite journal
+| last1 = Ward | first1 = D. J.
+| last2 = MacKay | first2 = D. J. C.
+| doi = 10.1038/418838a
+| title = Artificial intelligence: Fast hands-free writing by gaze direction
+| journal = Nature
+| volume = 418
+| issue = 6900
+| pages = 838
+| year = 2002
+| pmid = 12192400
+|arxiv = cs/0204030 |bibcode = 2002Natur.418..838W | s2cid = 4430685
+}}</ref> He cofounded the knowledge management company [[Transversal Corporation|Transversal]].<ref>{{cite web|url=https://www.transversal.com/company/team|title=Transversal Team|access-date=27 January 2015|archive-date=28 January 2015|archive-url=https://web.archive.org/web/20150128132411/https://www.transversal.com/company/team|url-status=dead}}</ref> In 2003, his book  ''Information Theory, Inference, and Learning Algorithms''<ref>{{cite book
+  | last =MacKay
+  | first =David J. C.
+  | title =Information Theory, Inference and Learning Algorithms
+  | publisher =Cambridge University Press
+  |date=September 2003
+  | location =Cambridge
+  | url =http://www.inference.phy.cam.ac.uk/mackay/itila/book.html
+  | isbn = 9780521642989
+}}</ref> was published.
+
+His interests beyond research included the development of effective teaching methods and African development; he taught regularly at the [[African Institute for Mathematical Sciences]] in [[Cape Town]] from its foundation in 2003 to 2006. In 2008 he completed a book on energy consumption and energy production without [[fossil fuel]]s called  ''Sustainable Energy – Without the Hot Air''. MacKay used £10,000 of his own money to publish the book, and the initial print run of 5,000 sold within days.<ref name=guardian>{{cite news |title=Power to the People |author=Leo Hickman |author-link=Leo Hickman |url=https://www.theguardian.com/environment/2009/apr/30/david-mckay-sustainable-energy |newspaper=The Guardian |date=30 April 2009 |access-date=14 January 2011}}</ref> The book received praise from ''[[The Economist]]'',<ref>{{cite news |title=Meltdown |url=https://www.economist.com/culture/2009/04/08/meltdown |newspaper=The Economist |date=8 April 2009|access-date=14 January 2011}}</ref> ''[[The Guardian]]'',<ref name=guardian /> and [[Bill Gates]], who called it "one of the best books on energy that has been written."<ref>{{cite web|url=http://www.thegatesnotes.com/Learning/article.aspx?ID=61|title=Clear Thinking on the Topic of Energy|author=Bill Gates|work=The Gates Notes|date=15 January 2010|access-date=14 January 2011|url-status=dead|archive-url=https://web.archive.org/web/20110105153412/http://www.thegatesnotes.com/(S(5osgmx55hyed2r55b5ytzr45))/Learning/Article.aspx?ID=61|archive-date=5 January 2011}}</ref><ref>{{cite web |url=https://www.youtube.com/watch?v=oRQB2YXUxvY  |archive-url=https://ghostarchive.org/varchive/youtube/20211221/oRQB2YXUxvY |archive-date=2021-12-21 |url-status=live|title=YouTube – How Many Light Bulbs? with David MacKay From Cambridge Ideas |via=YouTube |date=20 April 2009 |access-date=28 June 2011}}{{cbignore}}</ref> Like his textbook on Information theory, MacKay made the book available for free online.<ref>{{cite web | url=https://www.withouthotair.com/ | title=Sustainable energy - Without the Hot Air | publisher=David MacKay FRS | date=29 August 2015 | access-date=2 July 2017}}</ref> In March 2012 he gave a [[TED talk]] on [[renewable energy]].<ref name="tedtalk">{{cite video |url=https://www.ted.com/talks/david_mackay_a_reality_check_on_renewables |author=David MacKay |title=A reality check on renewables |date=March 2012 |access-date=12 October 2012}}</ref>
+
+MacKay was appointed to be Chief Scientific Advisor of the [[Department of Energy and Climate Change]], United Kingdom, in September 2009.<ref name=appointment /> In October 2014, at the end of his five-year term, he was succeeded by [[John Loughhead]].<ref name="Loughhead DECC">[https://www.gov.uk/government/news/decc-appoints-new-chief-scientific-advisor DECC appoints new chief scientific advisor]</ref>
+
+===Awards and honours===
+MacKay was elected a [[List of Fellows of the Royal Society elected in 2009|Fellow of the Royal Society (FRS) in 2009]].<ref name=frs>{{cite web|archive-url=https://web.archive.org/web/20151117104943/https://royalsociety.org/people/david-mackay-11864/|archive-date=2015-11-17|url=https://royalsociety.org/people/david-mackay-11864/|publisher=[[Royal Society]]|location=London|title=Sir David MacKay FRS|author=Anon|year=2009}} One or more of the preceding sentences incorporates text from the royalsociety.org website where: {{blockquote|"All text published under the heading 'Biography' on Fellow profile pages is available under [[Creative Commons license|Creative Commons Attribution 4.0 International License]].” --{{cite web |url=https://royalsociety.org/about-us/terms-conditions-policies/ |title=Royal Society Terms, conditions and policies |access-date=2016-03-09 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20150925220834/https://royalsociety.org/about-us/terms-conditions-policies/ |archive-date=25 September 2015 }}}}</ref> His certificate of election reads:{{centred pull quote|David MacKay introduced more efficient types of [[error-correcting code]] that are now used in satellite communications, digital broadcasting and magnetic recording. He advanced the field of Machine Learning by providing a sound Bayesian foundation for [[artificial neural network]]s. Using this foundation, he significantly improved their performance, allowing them to be used for designing new types of steel that are now used in power stations. He used his expertise in information theory to design a widely used interface called "[[Dasher (software)|dasher]]" that allows disabled people to write efficiently using a single finger or head-mounted pointer."<ref name=royal>{{cite web|archive-url=https://web.archive.org/web/20190215125506/https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F2009%2F27%27)|url=https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F2009%2F27%27)|title=Certificate of election EC/2009/27: MacKay, David John Cameron|publisher=[[Royal Society]]|location=London|archive-date=15 February 2019|author=Anon|year=2009|url-status=dead}}</ref>}}
+
+In the [[2016 New Year Honours]], MacKay was appointed a [[Knight Bachelor]] "for services to scientific advice in government and science outreach".<ref>{{London Gazette|issue=61450 |supp=y|page=N2|date=30 December 2015}}</ref><ref>{{cite web|title=New Year's Honours 2016 list|url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/489049/NY2016HonoursFullList.pdf|website=GOV.UK|access-date=30 December 2015|date=30 December 2015}}</ref>
+
+==Personal life==
+David MacKay was born the fifth child of [[Donald MacCrimmon MacKay]] and Valerie MacKay.<ref name=whoswho/> His elder brother [[Robert Sinclair MacKay|Robert S. MacKay]] FRS (born in 1956) is Professor of Mathematics at the [[University of Warwick]]. David was a vegetarian.<ref name=AboutMe>{{cite web|url=http://www.inference.phy.cam.ac.uk/mackay/AboutMe.html|title=David MacKay: Some biographical stuff...|author=David MacKay|work=web homepage|publisher=University of Cambridge|date=7 February 2010|access-date=29 March 2010}}</ref>
+
+He married Ramesh Ghiassi in 2011.<ref name="whoswho" /> They had a son and a daughter.<ref name="telegraphobituary">{{cite news|archive-url=https://web.archive.org/web/20160417145801/http://www.telegraph.co.uk/obituaries/2016/04/15/professor-sir-david-mackay-physicist--obituary|newspaper=The Daily Telegraph|archive-date=2016-04-17|url=https://www.telegraph.co.uk/obituaries/2016/04/15/professor-sir-david-mackay-physicist--obituary|title=Professor Sir David MacKay, physicist – obituary|author=Anon|year=2016}}</ref>
+
+=== Illness and death ===
+MacKay was diagnosed with inoperable stomach cancer (malignant [[adenocarcinoma]]) in July 2015,<ref name=rsbm/> for which he underwent palliative chemotherapy, a process he documented in detail on his public personal blog.<ref>{{citation|title=Unexpected signs of malignancy|date=2015-08-27|url=http://itila.blogspot.com.ar/2015/08/unexpected-signs-of-malignancy.html}}</ref><ref>{{citation|title=What do you tell the children?|date=2015-09-01|url=http://itila.blogspot.com.ar/2015/09/what-do-you-tell-children.html}}</ref> He died in the afternoon of 14 April 2016.<ref>{{citation|title=Appendix Three- Correspondence, Visitors, and Gifts|date=2016-04-12|url=http://itila.blogspot.ca/2016/04/appendix-three-correspondence-visitors.html}}</ref><ref name="gobituary">{{cite news|url=https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary|title=Sir David MacKay obituary|date=2016-04-18|newspaper=The Guardian|location=London|archive-url=https://web.archive.org/web/20160419113331/http://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary|archive-date=2016-04-19|author=Mark Lynas|author-link=Mark Lynas}}</ref><ref name="atheneobituary">{{cite web|url=http://occamstypewriter.org/athenedonald/2016/04/16/rip-sir-david-mackay/|title=RIP Sir David MacKay|year=2016|publisher=occamstypewriter.org|archive-url=https://web.archive.org/web/20160419143841/http://occamstypewriter.org/athenedonald/2016/04/16/rip-sir-david-mackay/|archive-date=2016-04-19|author=Athene Donald|author-link=Athene Donald}}</ref><ref name="lynas">{{cite web|url=http://www.marklynas.org/2016/04/david-mackay-taught-taught-us/|title=What David MacKay taught me, and taught us all|date=2016|archive-url=https://web.archive.org/web/20160415165328/http://www.marklynas.org/2016/04/david-mackay-taught-taught-us/|archive-date=2016-04-15|author=Mark Lynas|author-link=Mark Lynas}}</ref> He is survived by his wife and two children.<ref name="telegraphobituary" />
+
+==References==
+{{Reflist}}
+
+{{FRS 2009}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mackay, David J. C.}}
+[[Category:1967 births]]
+[[Category:2016 deaths]]
+[[Category:British physicists]]
+[[Category:British information theorists]]
+[[Category:Natural philosophers]]
+[[Category:Professors of engineering (Cambridge)]]
+[[Category:Fellows of Darwin College, Cambridge]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:People from Stoke-on-Trent]]
+[[Category:British non-fiction writers]]
+[[Category:People educated at Newcastle-under-Lyme School]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:California Institute of Technology alumni]]
+[[Category:British male writers]]
+[[Category:Knights Bachelor]]
+[[Category:British male non-fiction writers]]
+[[Category:Regius Professors]]
+[[Category:Deaths from stomach cancer in England]]
+[[Category:Engineering professors at the University of Cambridge]]
+[[Category:British fellows of the Royal Society]]

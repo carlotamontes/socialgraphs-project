@@ -1,0 +1,66 @@
+{{Short description|American mathematician}}
+{{Infobox scientist
+| name              = G. Bard Ermentrout
+| native_name       = 
+| native_name_lang  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = March 5, 1954<ref name="sp170908">{{cite web|title=Dr. Bard Ermentrout|url=http://www.scholarpedia.org/article/User:Bard_Ermentrout|publisher=Scholarpedia|access-date=8 September 2017}}</ref>
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = 
+| other_names       = 
+| citizenship       = [[United States of America]]
+| fields            = 
+| workplaces        = [[University of Pittsburgh]]
+| patrons           = 
+| education         = [[University of Chicago]] (Ph.D.)
+| thesis_title      = Symmetry Breaking in Homogeneous, Isotropic Stationary Neuronal Nets
+| thesis_url        = 
+| thesis_year       = 1979
+| doctoral_advisor  = [[Jack D. Cowan]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Mathematical neuroscience]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature_alt     = 
+| website           = {{URL|http://www.pitt.edu/~phase/}}
+| footnotes         = 
+| spouse            = 
+| children          = 
+| death_cause       = 
+| partner           = 
+}}
+'''G. Bard Ermentrout''' is an American mathematician and distinguished professor at [[University of Pittsburgh]] and a member of the Odor2Action research network.<ref name="Mackenzie"/>  He uses
+nonlinear dynamics for the mathematical modeling of problems in [[neuroscience]]. He explores patterns of activation in neural systems as they relate to biological problems such as [[olfaction]].<ref>{{cite web |title=G. Bard Ermentrout {{!}} Department of Mathematics |url=https://www.mathematics.pitt.edu/people/g-bard-ermentrout |website=University of Pittsburgh |access-date=14 March 2023}}</ref>
+
+Bard Ermentrout is known for his contributions to computational and mathematical neuroscience. His joint work with Nancy Kopell derived the [[theta model|Ermentrout and Kopell canonical model]],<ref>{{cite journal |last1=Ermentrout |first1=Bard |last2=Kopell |first2=Nancy |date=1984 |title=Frequency plateaus in a chain of weakly coupled oscillators, i. |journal=SIAM Journal on Mathematical Analysis |volume=15 |issue= 2|pages=215–237 |doi=10.1137/0515019 }}</ref> 
+He and David Terman wrote the book ''Mathematical Foundations of Neuroscience''.<ref>{{cite book |last1=Ermentrout |first1=Bard |last2=Terman |first2=David |date=2010 |title=Mathematical Foundations of Neuroscience |publisher=Springer |isbn=978-0-387-87708-2}}</ref> He helped to develop the dynamical systems software XPPAuto.<ref>{{cite book |last=Ermentrout |first=Bard |date=2002 |title=Simulating, analyzing, and animating dynamical systems: a guide to XPPAUT for researchers and students |publisher=SIAM |isbn=978-0-89871-506-4}}</ref>
+
+One approach he uses in the study of olfaction is to program a virtual creature, implement various movement strategies for tracking scents, and examine their success rate under a different conditions. This enables researchers to better understand olfactory navigation strategies such as [[tropotaxis]] and [[klinotaxis]] and how they work in conditions such as high turbulence.<ref name="Mackenzie">{{cite journal |last1=Mackenzie |first1=Dana |title=How animals follow their nose |journal=Knowable Magazine |publisher=Annual Reviews |date=6 March 2023 |doi=10.1146/knowable-030623-4 |doi-access=free |url=https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose |access-date=13 March 2023 |language=en|url-access=subscription }}</ref><ref name="Hengenius">{{cite journal |last1=Hengenius |first1=James B. |last2=Connor |first2=Erin G. |last3=Crimaldi |first3=John P. |last4=Urban |first4=Nathaniel N. |last5=Ermentrout |first5=G. Bard |title=Olfactory navigation in the real world: Simple local search strategies for turbulent environments |journal=Journal of Theoretical Biology |date=7 May 2021 |volume=516 |article-number=110607 |doi=10.1016/j.jtbi.2021.110607 |pmid=33524405 |s2cid=231755424 |url=https://www.sciencedirect.com/science/article/abs/pii/S0022519321000291 |language=en |issn=0022-5193|url-access=subscription }}</ref>
+
+Outside of work, he is fond of his many pets and has owned many pet parrots over the years. He most recently owns a galah and two corgis. He is also a lover of limericks.
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ermentrout, Bard}}
+[[Category:Living people]]
+[[Category:20th-century American mathematicians]]
+[[Category:1954 births]]
+[[Category:21st-century American mathematicians]]
+[[Category:University of Pittsburgh faculty]]
+
+
+{{US-mathematician-stub}}

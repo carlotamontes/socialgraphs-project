@@ -1,0 +1,83 @@
+{{Short description|Computational biologist}}
+{{Use mdy dates|cs1-dates=ly|date=April 2022}}
+{{Infobox scientist
+| name              = Lior Pachter
+| native_name       = ליאור פאכטר
+| birth_name        = Lior Samuel Pachter
+| native_name_lang  = he
+| image             = Lior Pachter 2013.jpg
+| image_size        = 
+| alt               = 
+| caption           = Lior Pachter in 2013
+| birth_date        = {{Birth date and age|1973|05|03}}
+| birth_place       = [[Ramat Gan]], [[Israel]]
+| fields            = [[Computational biology]]<br />[[Bioinformatics]]<br />[[Genomics]]<br />[[Computer science]]<br />[[Mathematics]]<ref name=gs/>
+| workplaces        = [[University of California, Berkeley]]
+| education         = [[California Institute of Technology]] (BS)<br />[[Massachusetts Institute of Technology]] (PhD)
+| thesis_title      = Domino Tiling, Gene Recognition and Mice
+| thesis_url        = https://hdl.handle.net/1721.1/85308
+| thesis_year       = 1999
+| doctoral_advisor  = [[Bonnie Berger]]<ref name=mathgene/>
+| academic_advisors = 
+| doctoral_students = [[Cole Trapnell]]<ref name=mathgene>{{MathGenealogy|id=37005}}</ref><ref name=tophat>{{cite journal|last1=Trapnell|first1=Cole|last2=Pachter|first2=Lior|last3=Salzberg|first3=Steven L.|title=TopHat: discovering splice junctions with RNA-Seq|journal=Bioinformatics|volume=25|issue=9|year=2009|pages=1105–1111|issn=1460-2059|doi=10.1093/bioinformatics/btp120|pmid=19289445 |pmc=2672628 }}</ref>
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = [[ISCB Fellow]] (2017)
+| spouse            = 
+| children          = 
+| website           = {{URL|liorpachter.wordpress.com}}
+}}
+'''Lior Samuel Pachter''' ({{Langx|he|ליאור שמואל פאכטר}}) is a [[computational biology|computational biologist]]. He works at the [[California Institute of Technology]], where he is the Bren Professor of Computational Biology. He has widely varied research interests including [[genomics]], [[combinatorics]], [[computational geometry]], [[machine learning]], [[scientific computing]], and [[statistics]].<ref name=gs>{{Google scholar id}}</ref><ref name="cv">{{citation|url=https://pachterlab.github.io/Lior_Pachter_CV.pdf|title=Curriculum vitae: Lior Pachter|year=2017|accessdate=2017-05-16}}.</ref><ref name="TrapnellWilliams2010">{{cite journal|last1=Trapnell|first1=Cole|last2=Williams|first2=Brian A|last3=Pertea|first3=Geo|last4=Mortazavi|first4=Ali|last5=Kwan|first5=Gordon|last6=van Baren|first6=Marijke J|last7=Salzberg|first7=Steven L|last8=Wold|first8=Barbara J|last9=Pachter|first9=Lior|title=Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation|journal=[[Nature Biotechnology]]|volume=28|issue=5|year=2010|pages=511–515|issn=1087-0156|doi=10.1038/nbt.1621|pmid=20436464 |pmc=3146043 }}</ref>
+
+==Early life and education==
+Pachter was born in [[Israel]] and grew up in [[South Africa]].<ref>{{citation|url=http://www.jweekly.com/article/full/17974/u-c-divestment-petition-troubles-pro-israel-activists/|title=U.C. divestment petition troubles pro-Israel activists|date=June 14, 2002|first=Joe|last=Eskenazi|newspaper=[[j. (newspaper)|Jweekly]]}}.</ref>
+He earned a bachelor's degree in mathematics from the [[California Institute of Technology]] in 1994.<ref name="cv"/> He completed his doctorate in mathematics from the [[Massachusetts Institute of Technology]] in 1999, supervised by [[Bonnie Berger]],<ref name=mathgene/> with [[Eric Lander]] and [[Daniel Kleitman]] as co-advisors.<ref name="cv"/>
+
+==Career and research==
+Pachter was with the [[University of California, Berkeley]] faculty from 1999 to 2018<ref>
+{{cite web
+|title=UC Berkeley, Mathematics Department Faculty, Lior Pachter
+|url=https://math.berkeley.edu/people/faculty/lior-pachter
+|accessdate=8 June 2019}}
+</ref> and was awarded the [[Sackler family|Raymond and Beverly Sackler]] Chair in Computational Biology in 2012.<ref name="cv"/>
+
+As well as for his technical contributions, Pachter is known for using [[new media]] to promote [[open science]]<ref>{{citation|title=Scientists, Experts, and Civic Engagement: Walking a Fine Line|series=Ashgate Studies in Environmental Policy and Practice|editor-first=Amy E.|editor-last=Lesen|publisher=Ashgate Publishing, Ltd.|year=2015|isbn=9781472415240|first=Amy E.|last=Lesen|pages=111–136|contribution=A new paradigm for science communication? Social media, twitter, science, and public engagement: a literature review}}. See in particular [https://books.google.com/books?id=qzdLBgAAQBAJ&pg=PA119 pp.&nbsp;119–120].</ref> and for a [[thought experiment]] he posted on his blog according to which 'the nearest neighbor to the "perfect human"' is from [[Puerto Rico]].<ref>{{cite web|first = Lior|last = Pachter|url = https://liorpachter.wordpress.com/2014/12/02/the-perfect-human-is-puerto-rican/|title = The perfect human is Puerto Rican|date = December 2, 2014|accessdate = December 11, 2016|website = Bits of DNA &ndash; Reviews and commentary on computational biology by Lior Pachter}}</ref>  This received considerable media attention,<ref>{{citation|newspaper=[[Latin Times]]|url=https://www.latintimes.com/new-study-reveals-perfect-human-genetically-speaking-caribbean-island-280363|title=New Study Reveals The Perfect Human Genetically Speaking Is From This Caribbean Island!|first=Maria G.|last=Valdez|date=December 4, 2014}}</ref> and a response was published in ''[[Scientific American]]''.<ref>{{cite journal|url=https://blogs.scientificamerican.com/voices/there-is-no-perfect-human-in-puerto-rico-or-anywhere-else/|journal=[[Scientific American]]|title=Why There Is No Perfect Human In Puerto Rico or Anywhere Else|date=February 5, 2015|first1=Taras K.|last1=Oleksyk|first2=Juan Carlos|last2=Martinez-Cruzado}}.</ref> He is also known for criticisms of the [[All_of_Us_(initiative) | All-of-us project]]'s use of [[Uniform_manifold_approximation_and_projection | UMAP]] to visualize and interpret population genetics data.<ref>{{cite web |url=https://liorpachter.wordpress.com/2024/02/26/all-of-us-failed/ |title=all of us failed |last=pachter |first=lior |date=2024-02-26 |website=wordpress |access-date=2024-03-08 |quote=all of us failed}}</ref>
+
+===Awards and honors===
+In 2017, Pachter was elected a [[Fellow]] of the [[International Society for Computational Biology]] (ISCB).<ref name="iscb-fellows-2017">{{cite web|title=February 13, 2017: The International Society for Computational Biology Names Seven Members as the ISCB Fellows Class of 2017|url=https://www.iscb.org/iscb-news-items/3067-2017-feb13-iscb-fellows-class-2017|website=www.iscb.org|accessdate=13 February 2017}}</ref>
+
+==See also==
+*[[TopHat (bioinformatics)]]
+*[[Fast statistical alignment]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://liorpachter.wordpress.com/}}
+*{{Commons category-inline}}
+
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pachter, Lior}}
+[[Category:Living people]]
+[[Category:21st-century American biologists]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Israeli biologists]]
+[[Category:Israeli mathematicians]]
+[[Category:Israeli computer scientists]]
+[[Category:South African biologists]]
+[[Category:South African mathematicians]]
+[[Category:South African computer scientists]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Combinatorialists]]
+[[Category:Researchers in geometric algorithms]]
+[[Category:1973 births]]
+[[Category:American bioinformaticians]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:Massachusetts Institute of Technology alumni]]

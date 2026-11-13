@@ -1,0 +1,145 @@
+{{short description|Russian-American physicist (born 1963)}}
+{{Infobox scientist
+| name              = Alexei Yurievich Kitaev
+| native_name       = Алексей Юрьевич Китаев
+| native_name_lang  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date and age|1963|8|23|mf=y}}
+| birth_place       = [[Soviet Union]]
+| death_date        = 
+| death_place       = 
+| nationality       = 
+| fields            = [[Condensed matter theory]]<br />[[Quantum computing]]
+| workplaces        = [[California Institute of Technology]]<br />[[Kavli Institute for Theoretical Physics]]
+| education         = [[Moscow Institute of Physics and Technology]]
+| thesis_title      = Electronic properties of quasicrystals ({{langx|ru|Электронные свойства квазикристаллов}})
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1989
+| doctoral_advisor  = [[Valery Pokrovsky]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Kitaev chain]]<br />[[Quantum spin liquid#Kitaev spin liquids|Kitaev spin liquid]]<br />[[Periodic table of topological invariants|Kitaev's periodic table]]<br />[[Toric code]]<br />[[Sachdev–Ye–Kitaev model]]<br />[[Quantum phase estimation algorithm|Quantum phase estimation]]<br />[[Solovay–Kitaev theorem]]<br />[[Magic state distillation]]<br />[[Gottesman–Kitaev–Preskill code]]<br />[[Quantum threshold theorem]]<br />[[QIP (complexity)|QIP]]<br />[[QMA]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{plainlist|
+* [[Breakthrough Prize in Fundamental Physics]] (2012)
+* [[Dirac Medal (ICTP)|Dirac Medal]] (2015)
+* [[Oliver E. Buckley Condensed Matter Prize]] (2017)
+* [[Henri Poincaré Prize]] (2024)
+}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| website           = 
+}}
+
+'''Alexei Yurievich Kitaev''' ({{langx|ru|Алексей Юрьевич Китаев}}; born August 26, 1963)<ref>{{Cite web |last=Arantes |first=José Tadeu |date=2022-10-12 |title=Study makes spin liquid model more realistic |url=https://agencia.fapesp.br/study-makes-spin-liquid-model-more-realistic/39778 |url-status=live |archive-url=https://web.archive.org/web/20221012144943/https://agencia.fapesp.br/study-makes-spin-liquid-model-more-realistic/39778/ |archive-date=2022-10-12 |access-date=2025-04-01 |website=Agência [[São Paulo Research Foundation|FAPESP]] |language=en}}</ref> is a Russian-American [[Theoretical physics|theoretical physicist]].
+
+He is currently a professor of [[physics|theoretical physics]] and mathematics at the [[California Institute of Technology]].<ref name=":4">{{Cite web |title=Alexei Kitaev - Computing + Mathematical Sciences |url=https://www.cms.caltech.edu/people/kitaev#profile-44119cce-tab |archive-url=https://web.archive.org/web/20250301134118/https://www.cms.caltech.edu/people/kitaev#profile-44119cce-tab |archive-date=2025-03-01 |access-date=2025-03-01 |website=www.cms.caltech.edu}}</ref>
+
+Kitaev has received multiple awards recognizing his contributions to [[quantum information science]] and [[condensed matter physics]], particularly in [[quantum computation]] and [[topological phases of matter]].
+
+== Life ==
+Kitaev was educated in Russia, graduating from the [[Moscow Institute of Physics and Technology]] in 1986,<ref name=":0">{{Cite web |last=Neith |first=Katie |date=2012-08-01 |title=Caltech Physicist Wins $3 Million Fundamental Physics Prize |url=https://www.caltech.edu/about/news/caltech-physicist-wins-3-million-fundamental-physics-prize-23604 |url-status=live |archive-url=https://web.archive.org/web/20240920144829/https://www.caltech.edu/about/news/caltech-physicist-wins-3-million-fundamental-physics-prize-23604 |archive-date=2024-09-20 |access-date=2025-04-01 |website=California Institute of Technology |language=en}}</ref> and with a [[Ph.D.]] from the [[Landau Institute for Theoretical Physics]] under the supervision of [[Valery Pokrovsky]] in 1989.<ref>{{Cite web |title=Диссертации, подготовленные или защищенные в ИТФ им. Л.Д. Ландау |url=http://www.itp.ac.ru/ru/dissertation-council/thesis/ |archive-url=https://web.archive.org/web/20250110095711/http://www.itp.ac.ru/ru/dissertation-council/thesis/ |archive-date=2025-01-10 |access-date=2023-08-29 |website=www.itp.ac.ru |language=ru}}</ref><ref name=":0" />
+
+Kitaev worked as a research associate at the [[Landau Institute for Theoretical Physics|Landau Institute]] between 1989 and 1998. Between 1999 and 2001, he served as a researcher at [[Microsoft Research]].<ref name=":0" /> Since 2002, Kitaev has been a professor at [[Caltech]].<ref name=":0" />
+
+In 2021, Kitaev was elected into the [[National Academy of Sciences]].<ref>{{Cite web |title=National Academy of Sciences Elects New Members — Including a Record Number of Women — and International Members - NAS |url=https://www.nasonline.org/news/national-academy-of-sciences-elects-new-members-including-a-record-number-of-women-and-international-members/ |archive-url=https://web.archive.org/web/20241113182009/https://www.nasonline.org/news/national-academy-of-sciences-elects-new-members-including-a-record-number-of-women-and-international-members/ |archive-date=2024-11-13 |access-date=2025-03-01 |website=NAS Online |language=en-US}}</ref>
+
+== Research ==
+=== Quantum computing and complexity ===
+
+Kitaev has made contributions to [[quantum algorithm]]s, [[Quantum complexity theory|quantum complexity classes]], and [[fault-tolerant quantum computation]].<ref name="PIMS2012">{{cite web |title=PIMS Distinguished Chair Alexei Kitaev receives Fundamental Physics Prize |url=https://pims.math.ca/news/2012/08/pims-distinguished-chair-alexei-kitaev-receives-fundamental-physics-prize |website=Pacific Institute for the Mathematical Sciences |date=21 August 2012 |access-date=24 November 2025}}</ref><ref name="PoincareLaudatio">{{cite web |last=Nachtergaele |first=Bruno |title=2024 Henri Poincaré Prize Laudatio: Alexei Kitaev |url=https://www.iamp.org/poincare/ki24-laud.pdf |website=International Association of Mathematical Physics |date=2024 |access-date=24 November 2025}}</ref><ref name="CaltechCMS">{{cite web |title=Alexei Kitaev |url=https://www.cms.caltech.edu/people/kitaev |website=Computing + Mathematical Sciences, California Institute for the Mathematical Sciences |access-date=24 November 2025}}</ref> He introduced the complexity class [[QMA|QMA (Quantum Merlin–Arthur)]] and proved that the ''k''-local Hamiltonian problem is QMA-complete, linking ground-state energy problems for local Hamiltonians to questions in computational complexity.<ref name="AharonovNaveh2002">{{cite arXiv |last1=Aharonov |first1=Dorit |last2=Naveh |first2=Tomer |title=Quantum NP – A Survey quant-ph/0210077 |date=2002 |eprint=quant-ph/0210077 }}</ref><ref name="KempeLHP2004">{{cite journal |last=Kempe |first=Julia |title=The Complexity of the Local Hamiltonian Problem |journal=Quantum Information & Computation |volume=7 |issue=1 |pages=1–50 |year=2007 |arxiv=quant-ph/0406180}}</ref><ref name="PoincareLaudatio" />
+
+He introduced the [[quantum phase estimation algorithm]], a general procedure for estimating eigenphases of unitary operators,<ref name="Kitaev1995">{{cite arXiv |last=Kitaev |first=A. Yu. |title=Quantum measurements and the Abelian stabilizer problem quant-ph/9511026 |date=1995 |eprint=quant-ph/9511026 }}</ref><ref name="PIMS2012" /><ref name="PoincareLaudatio" /> and independently proved what is now known as the [[Solovay–Kitaev theorem]], which shows that a universal finite gate set can efficiently approximate arbitrary quantum operations on qubits.<ref name="PoincareLaudatio" /><ref name="DawsonNielsen2006">{{cite journal |last1=Dawson |first1=Christopher M. |last2=Nielsen |first2=Michael A. |title=The Solovay–Kitaev algorithm |journal=Quantum Information & Computation |volume=6 |issue=1 |pages=81–95 |year=2006 |doi=10.26421/QIC6.1-6 |arxiv=quant-ph/0505030}}</ref>
+
+He proposed using  [[Topological quantum computer|topological phases of matter and anyons]] for [[fault-tolerant quantum computation]], introducing the [[toric code]] (or surface code) as a paradigmatic error-correcting code. He also contributed to threshold theorems for fault-tolerant codes and co-developed protocols such as the [[Gottesman–Kitaev–Preskill code]] and [[Magic state distillation|Bravyi–Kitaev magic-state distillation]].<ref name="Anyons2003">{{cite journal |last=Kitaev |first=A. Yu. |title=Fault-tolerant quantum computation by anyons |journal=Annals of Physics |volume=303 |issue=1 |pages=2–30 |year=2003 |doi=10.1016/S0003-4916(02)00018-0 |arxiv=quant-ph/9707021 |bibcode=2003AnPhy.303....2K }}</ref><ref name="PoincareLaudatio" /><ref name="CaltechCMS" /><ref name="GKP2001">{{cite journal |last1=Gottesman |first1=Daniel |last2=Kitaev |first2=Alexei |last3=Preskill |first3=John |author-link3=John Preskill |title=Encoding a qubit in an oscillator |journal=Physical Review A |volume=64 |issue=1 |article-number=012310 |year=2001 |doi=10.1103/PhysRevA.64.012310 |arxiv=quant-ph/0008040 |bibcode=2001PhRvA..64a2310G }}</ref><ref name="BravyiKitaev2005">{{cite journal |last1=Bravyi |first1=Sergey |last2=Kitaev |first2=Alexei |title=Universal quantum computation with ideal Clifford gates and noisy ancillas |journal=Physical Review A |volume=71 |issue=2 |article-number=022316 |year=2005 |doi=10.1103/PhysRevA.71.022316 |arxiv=quant-ph/0403025 |bibcode=2005PhRvA..71b2316B }}</ref>
+
+=== Topological phases and lattice models ===
+
+Kitaev introduced exactly solvable lattice Hamiltonians that realize [[Topological order|topologically ordered]] phases and anyonic excitations in two spatial dimensions. His [[toric code]] and related quantum-double models provide toy models realizing anyons and long-range entanglement.<ref name="Anyons2003"/> His [[Kitaev honeycomb model]] is an exactly solvable spin-1/2 model that can realize non-abelian anyons; this model has become a common starting point for the study of "Kitaev quantum spin liquids" in candidate materials.<ref name="Honeycomb2006">{{cite journal |last=Kitaev |first=A. Yu. |title=Anyons in an exactly solved model and beyond |journal=Annals of Physics |volume=321 |issue=1 |pages=2–111 |year=2006 |doi=10.1016/j.aop.2005.10.005 |arxiv=cond-mat/0506438 |bibcode=2006AnPhy.321....2K }}</ref><ref name="Takagi2019">{{cite journal |last1=Takagi |first1=Hidenori |last2=Takayama |first2=Tomohiro |last3=Jackeli |first3=George |last4=Khaliullin |first4=Giniyat |last5=Nagler |first5=Stephen E. |title=Concept and realization of Kitaev quantum spin liquids |journal=Nature Reviews Physics |volume=1 |issue=4 |pages=264–280 |year=2019 |doi=10.1038/s42254-019-0038-2 |arxiv=1903.08081 |bibcode=2019NatRP...1..264T }}</ref>
+
+He has also contributed to the classification of [[Topological order|topological phases]]. He related two-dimensional lattice models of topological order to [[Unitary modular tensor category|algebraic data]] describing the anyon types and their braiding, together with a bulk invariant specifying the chiral central charge.<ref name="Honeycomb2006" /><ref name="KongUMTC">{{cite journal |last1=Ai |first1=Yinghua |last2=Kong |first2=Liang |last3=Zheng |first3=Hao |title=Topological orders and factorization homology |journal=Advances in Theoretical and Mathematical Physics |volume=21 |issue=8 |pages=1845–1894 |year=2017 |doi=10.4310/ATMP.2017.v21.n8.a1 |arxiv=1607.08422}}</ref> His "periodic table for topological insulators and superconductors" uses K-theory and Bott periodicity to classify gapped free-fermion phases in different symmetry classes and spatial dimensions,<ref name="PeriodicTable2009">{{cite journal |last=Kitaev |first=Alexei |title=Periodic table for topological insulators and superconductors |journal=AIP Conference Proceedings |volume=1134 |issue=1 |pages=22–30 |year=2009 |doi=10.1063/1.3149495 |arxiv=0901.2686 |bibcode=2009AIPC.1134...22K }}</ref> and in two dimensions he proposed the "16-fold way" classification of certain topological superconductors.<ref name="SixteenFoldWay">{{cite journal |last1=Bruillard |first1=Paul |last2=Galindo |first2=César |last3=Hagge |first3=Tobias |last4=Ng |first4=Siu-Hung |last5=Plavnik |first5=Julia Yael |last6=Rowell |first6=Eric C. |last7=Wang |first7=Zhenghan |title=Fermionic modular categories and the 16-fold way |journal=Journal of Mathematical Physics |volume=58 |issue=4 |page=041704 |year=2017 |doi=10.1063/1.4982048 |arxiv=1603.09294 |bibcode=2017JMP....58d1704B }}</ref> The so-called <math>E_8</math> state introduced by Kitaev appears as a basic nontrivial 2+1-dimensional invertible phase, and his ideas have been used in generalized-cohomology classifications of [[Symmetry-protected topological order|symmetry-protected topological phases]] with symmetry group ''G''.<ref name="Gaiotto2019">{{cite journal |last1=Gaiotto |first1=Davide |last2=Johnson-Freyd |first2=Theo |title=Symmetry protected topological phases and generalized cohomology |journal=Journal of High Energy Physics |volume=2019 |issue=5 |page=007 |year=2019 |doi=10.1007/JHEP05(2019)007 |arxiv=1712.07950 |bibcode=2019JHEP...05..007G }}</ref><ref name="Xiong2019">{{cite thesis |type=PhD thesis |last=Xiong |first=Charles Zhaoxi |title=Classification and Construction of Topological Phases of Quantum Matter |publisher=Harvard University |year=2019 |arxiv=1906.02892}}</ref>
+
+Kitaev has also contributed to the study of quantum chaos and holography through his work on the [[Sachdev–Ye–Kitaev model|Sachdev–Ye–Kitaev (SYK) model]].<ref name="MaldacenaStanford2016">{{cite journal |last1=Maldacena |first1=Juan |author-link1=Juan Maldacena |last2=Stanford |first2=Douglas |author-link2=Douglas Stanford |title=Remarks on the Sachdev–Ye–Kitaev model |journal=Physical Review D |volume=94 |issue=10 |article-number=106002 |year=2016 |doi=10.1103/PhysRevD.94.106002 |arxiv=1604.07818 |bibcode=2016PhRvD..94j6002M }}</ref><ref name="Rosenhaus2019">{{cite journal |last=Rosenhaus |first=Vladimir |title=An introduction to the SYK model |journal=Journal of Physics A: Mathematical and Theoretical |volume=52 |issue=32 |page=323001 |year=2019 |doi=10.1088/1751-8121/ab2ce1 |arxiv=1807.03334 |bibcode=2019JPhA...52.3001R }}</ref>
+
+==Honors and awards==
+{| class="wikitable"
+|+
+!Year
+!Award
+!Institution
+!Reason
+|-
+|2008
+|[[MacArthur Fellows Program]]
+|[[MacArthur Foundation]]
+|Contributions to the field of quantum computing and quantum physics<ref>{{Cite web |title=Alexei Kitaev |url=https://www.macfound.org/fellows/class-of-2008/alexei-kitaev |archive-url=https://web.archive.org/web/20240421092236/https://www.macfound.org/fellows/class-of-2008/alexei-kitaev |archive-date=2024-04-21 |access-date=2025-03-01 |website=www.macfound.org |language=en}}</ref>
+|-
+|2012
+|[[Breakthrough Prize in Fundamental Physics]]
+|[[Breakthrough Prize]]s Board
+|For the theoretical development of implementing quantum memories and fault-tolerant quantum computation<ref>{{Cite web |title=Breakthrough Prize – Fundamental Physics Breakthrough Prize Laureates – Alexei Kitaev |url=https://breakthroughprize.org/Laureates/1/L3 |archive-url=https://web.archive.org/web/20250110102227/https://breakthroughprize.org/Laureates/1/L3 |archive-date=2025-01-10 |access-date=2025-03-01 |website=breakthroughprize.org |language=en}}</ref>
+|-
+|2015
+|[[Dirac Medal (ICTP)]]
+|[[International Centre for Theoretical Physics]]
+|For the interdisciplinary contributions in condensed matter systems and applications of these ideas to quantum computing.<ref>{{Cite web |title=Dirac Medallists 2015 {{!}} ICTP |url=https://www.ictp.it/home/dirac-medallists-2015 |archive-url=https://web.archive.org/web/20241213153722/https://www.ictp.it/home/dirac-medallists-2015 |archive-date=2024-12-13 |access-date=2025-03-01 |website=www.ictp.it}}</ref>
+|-
+|2017
+|[[Oliver E. Buckley Prize]] (with [[Xiao-Gang Wen]])
+|[[American Physical Society]]
+|For theories of topological order and its consequences in a broad range of physical systems<ref>{{Cite web |title=Oliver E. Buckley Condensed Matter Physics Prize |url=https://www.aps.org/funding-recognition/prize/buckley-prize |url-status=live |archive-url=https://web.archive.org/web/20250329193722/https://www.aps.org/funding-recognition/prize/buckley-prize |archive-date=2025-03-29 |access-date=2025-04-01 |website=American Physical Society}}</ref>
+|-
+|2024
+|[[Henri Poincaré Prize]]
+|[[International Association of Mathematical Physics]]
+|Contributions to the development of quantum computing, the study of quantum many-body systems and quantum information<ref>{{Cite web |last=Nachtergaele |first=Bruno |title=2024 Henri Poincare' Prize Laudatio Kitaev |url=https://www.iamp.org/poincare/ki24-laud.pdf |url-status=live |archive-url=https://web.archive.org/web/20241107214147/https://www.iamp.org/poincare/ki24-laud.pdf |archive-date=2024-11-07 |access-date=2025-03-01 |website=International Association of Mathematical Physics}}</ref>
+|-
+|2024
+|[[Basic Science Lifetime Award]]
+|[[International Congress of Basic Science]]
+|Contributions to the development of quantum computing<ref>{{Cite web |date=2024-07-10 |title=Edward Witten Receives Basic Science Lifetime Award in Theoretical Physics - IAS News {{!}} Institute for Advanced Study |url=https://www.ias.edu/news/edward-witten-receives-basic-science-lifetime-award-theoretical-physics |url-status=live |archive-url=https://web.archive.org/web/20241004040310/https://www.ias.edu/news/edward-witten-receives-basic-science-lifetime-award-theoretical-physics |archive-date=2024-10-04 |access-date=2025-02-11 |website=www.ias.edu |language=en}}</ref>
+|}
+
+== Political activism==
+In March, 2022, he was one of 78 Breakthrough Prize Laureates whose names appeared on an "open letter" criticizing the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref>{{Cite web |title=Breakthrough Prize – An Open Letter From Breakthrough Prize Laureates |url=https://breakthroughprize.org/News/69 |archive-url=https://web.archive.org/web/20250118184948/https://breakthroughprize.org/News/69 |archive-date=2025-01-18 |access-date=2025-03-01 |website=breakthroughprize.org |language=en}}</ref>
+
+==See also==
+
+*[[Kitaev chain]]
+*[[Magic state distillation]]
+*[[Quantum threshold theorem]]
+*[[Quantum Interactive Polynomial time]]
+*[[Solovay–Kitaev theorem]]
+*[[Topological entanglement entropy]]
+*[[Toric code]]
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.macfound.org/fellows/802/
+
+{{Breakthrough Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kitaev, Alexei}}
+[[Category:Living people]]
+[[Category:MacArthur Fellows]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Soviet physicists]]
+[[Category:20th-century American physicists]]
+[[Category:Simons Investigator]]
+[[Category:Quantum information scientists]]
+[[Category:Moscow Institute of Physics and Technology alumni]]
+[[Category:Oliver E. Buckley Condensed Matter Prize winners]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:1963 births]]

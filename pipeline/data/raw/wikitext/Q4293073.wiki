@@ -1,0 +1,50 @@
+{{Infobox scientist
+| name             = Vladimir Michaelovich Miklyukov
+| image            = VladimirMiklyukov07.jpg
+| image_size       = 150px
+| caption          = Miklyukov, 2007
+| birth_date       = 8 January 1944
+| death_date       = October 2013 (aged 69)
+| fields           = [[Mathematics]]
+| workplaces       = [[Volgograd State University]]<br />[[Brigham Young University]]
+| education        = [[Donetsk National University]]
+| doctoral_advisor = [[:ru:Суворов, Георгий Дмитриевич|Georgy Dmitrievich Suvorov]]<ref name="gen">{{MathGenealogy|id=52120}}</ref>
+| known_for        = founding Superslow Processes laboratory
+| awards           = [[Honorary titles of the Russian Federation|Distinguished Scientist of Russian Federation]]<ref name="decr">{{cite web|url=http://www.szrf.ru/doc.phtml?op=1&nb=00_00&year=2009&div_id=5&iss_id=171&doc_id=20983|archive-url=https://web.archive.org/web/20120302012949/http://www.szrf.ru/doc.phtml?op=1&nb=00_00&year=2009&div_id=5&iss_id=171&doc_id=20983|url-status=dead|archive-date=2 March 2012|title=Presidential Decree No.160|date=14 February 2009|language=Russian}}</ref>
+}}
+'''Vladimir Michaelovich Miklyukov''' ({{langx|ru|Миклюков, Владимир Михайлович}}, also spelled Miklioukov or Mikljukov) (8 January 1944 &ndash; October 2013) was a Russian educator in [[mathematics]], and head of the [[Superslow Process]] workgroup based at [[Volgograd State University]].<ref>{{Cite web |url=http://www.uchimsya.info/announc.php |title=Announcements of the workgroup "Superslow Processes" |access-date=2010-01-26 |archive-date=2011-07-22 |archive-url=https://web.archive.org/web/20110722005622/http://www.uchimsya.info/announc.php |url-status=dead }}</ref><!--- I failed to find any official evidence that there is a "laboratory", only "seminar" -->
+
+==Biography==
+In 1970, as a student of [[:ru:Суворов, Георгий Дмитриевич|Georgy D. Suvorov]] at [[Donetsk National University]], he defended his [[Thesis or dissertation|Ph.D. thesis]] ''Theory of Quasiconformal Mappings in Space''.<ref name="gen" /> In 1981 Miklyukov and his family moved to [[Volgograd]]. He was transferred to the newly built [[Volgograd State University]] where he became chairman of the Department of [[Mathematical Analysis]] and [[Complex analysis|Theory of Functions]].<ref>{{cite web|url=http://mf.volsu.ru/index.php?option=com_content&task=view&id=12&Itemid=28|archive-url=https://web.archive.org/web/20110821210706/http://mf.volsu.ru/index.php?option=com_content&task=view&id=12&Itemid=28|url-status=dead|archive-date=2011-08-21|title=Faculty of Mathematics (Past And Present)...|publisher=Department of Mathematics and Computer Science, Volgograd State University|language=Russian}}</ref>
+
+His scientific research focused on geometrical analysis. At the same time, he was studying zero [[mean curvature]] surfaces in [[Euclidean space|Euclidean]] and [[pseudo-Euclidean space]]s, nonlinear elliptic type [[partial differential equations]] and [[quasiregular map]]pings of [[Riemannian manifold]]s. The main results of that work were related to the following groups of questions:
+*The external geometrical structure of zero mean curvature surfaces in Euclidean and pseudo-euclidean spaces; spacelike tubes and bands of zero mean curvature, their stability and instability with respect to small deformations, their life-time, branches, connections between branch points and [[Lorentz invariance|Lorentz invariant]] characteristics of surfaces;
+*Phragmén-Lindelöf type theorems for differential forms; [[Lars Ahlfors|Ahlfors]] type theorems for differential forms with finite or infinite number of different asymptotic tracts; generalizations of Wiman theorem of forms, applications to quasiregular mappings on manifolds; applications of isoperimetric methods to the [[Phragmén–Lindelöf principle]] for quasiregular mappings on manifolds.
+
+From 1998-2000 Miklyukov was a visiting professor at [[Brigham Young University]].<ref>{{cite journal | journal=[[Proceedings of the American Mathematical Society]]|volume=127|issue=9|date=September 1999|pages=2745–2754|title=Hardy's Inequality for W0 1,p-Functions on Riemannian Manifolds | publisher=[[American Mathematical Society]] |first= Vladimir|last= Miklyukov|first2=Matti|last2=Vuorinen|jstor=119576|mr=1600117|doi=10.1090/S0002-9939-99-04849-2|doi-access=free}}</ref> In 2009 Miklyukov was named a [[Honorary titles of the Russian Federation|Distinguished Scientist of Russian Federation]].<ref name="decr" />
+
+==Publications==
+* {{cite book|url=http://www.uchimsya.info/INA.pdf|title=Introduction to Nonsmooth Analysis|edition=2|location=Volgograd|publisher=VolSU|year=2008|language=Russian|isbn=978-5-9669-0457-9|first=Vladimir|last=Miklyukov|access-date=2009-11-16|archive-url=https://web.archive.org/web/20110722005507/http://www.uchimsya.info/INA.pdf|archive-date=2011-07-22|url-status=dead}}
+* {{cite book|url=http://www.uchimsya.info/dfqrm13.pdf|title=Geometrical Analysis. Differential Forms, Almost-solutions, Almost Quasiconformal Mappings|location=Volgograd|publisher=VolSU|year=2007|language=Russian|isbn=978-5-9669-0268-1 |first= Vladimir|last= Miklyukov|author-mask=2}}
+* {{cite book|title=Introduction to Nonsmooth Analysis|location=Volgograd|publisher=VolSU|year=2006|isbn=5-9669-0209-7 |first= Vladimir|last= Miklyukov|author-mask=2}}
+* {{cite book|url=http://www.uchimsya.info/CM05.pdf|title=Conformal Mapping of Irregular Surfaces and Its Application|location=Volgograd|publisher=VolSU|year=2005|language=Russian|isbn=5-9669-0071-X|first=Vladimir|last=Miklyukov|author-mask=2|access-date=2009-11-15|archive-url=https://web.archive.org/web/20110722005543/http://www.uchimsya.info/CM05.pdf|archive-date=2011-07-22|url-status=dead}}
+* {{cite book|title=Tubes and Bands in Space-Time|first2=Vladimir A.|last2=Klyachin|series=Anniversary series: The Scientists of the Volga|location= Volgograd|publisher=VolSU|year=2004|language=Russian|isbn=5-85534-971-3 |first= Vladimir|last= Miklyukov}}
+
+==References==
+{{Portal|Mathematics|Russia}}
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.uchimsya.info}} of Milyukov {{in lang|ru}}
+*[http://volgograd.bezformata.ru/listnews/miklyukov-primer-sluzheniya-nauke/14663732/ Vladimir Miklyukov's obituary] {{Webarchive|url=https://web.archive.org/web/20131017032733/http://volgograd.bezformata.ru/listnews/miklyukov-primer-sluzheniya-nauke/14663732/ |date=2013-10-17 }} {{in lang|ru}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Miklyukov, Vladimir M.}}
+[[Category:1944 births]]
+[[Category:2013 deaths]]
+[[Category:Mathematical analysts]]
+[[Category:Russian mathematics educators]]
+[[Category:20th-century Russian mathematicians]]
+[[Category:21st-century Russian mathematicians]]
+[[Category:Soviet mathematicians]]

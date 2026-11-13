@@ -1,0 +1,62 @@
+{{short description|German biophysicist}}
+{{Use British English|date=June 2026}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox scientist
+|name = Richard A. Neher
+|image = Richard A. Neher, Professor for Computational Modeling at the Biozentrum Basel.jpg
+|image_size =
+|caption = Richard Neher (2025)
+|birth_date = {{Birth date and age|df=y|1979|8|30}}
+|birth_place = [[Göttingen]], [[Germany]]
+|residence =
+|citizenship =
+|ethnicity =
+|field = [[Biophysics|Biophysicist]]
+|workplaces = [[Max Planck Institute for Medical Research|Max-Planck-Institut]], [[Kavli Institute for Theoretical Physics]], [[University of California, Santa Barbara]], [[Biozentrum University of Basel]]
+|doctoral_advisor =
+|doctoral_students =
+|known_for =
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences =
+|influenced =
+|awards =
+|religion =
+|footnotes =
+|signature =
+}}
+'''Richard A. Neher''' (born 30 August 1979) is a German [[Biophysics|biophysicist]] and Professor of Computational Modelling of Biological Processes at the [[Biozentrum University of Basel|Biozentrum]], [[University of Basel]], [[Switzerland]].
+
+== Life and career==
+Richard Neher was born in [[Göttingen]], [[West Germany]]. He studied physics at the [[University of Göttingen]] and [[LMU Munich]] between 1998 and 2003. He obtained his PhD in 2007 with a thesis on the dynamic aspects of  [[DNA replication]].<ref>[https://edoc.ub.uni-muenchen.de/6940/1/Neher_Richard.pdf Dynamic aspects of DNA – DNA-slippage and nucleosome dynamics]</ref> Following his doctoral studies, he worked as a postdoctoral researcher at the [[Kavli Institute for Theoretical Physics]] at the [[University of California, Santa Barbara]] and later led a research group leader at the [[Max Planck Institute for Biology Tübingen]], Germany.<ref>{{cite web |url=https://www.biozentrum.unibas.ch/research/research-groups/research-groups-a-z/own-content/unit/research-group-richard-neher/neher-cv |title=Curriculum Vitae |publisher=Biozentrum.unibas.ch |date= |access-date=2025-08-08}}</ref> In 2017, he joined the Biozentrum of the University of Basel as an Associate Professor for Computational Modelling of Biological Processes, and was promoted to [[Full Professor]] in 2025.<ref>{{cite web |url=https://www.unibas.ch/dam/jcr:110d53f4-c781-4651-8239-e85f9aae99a6/UR%20Beschlussprotokoll%20vom%2016.%20Dezember%202024.pdf |title=Beschlussprotokoll |publisher=unibas.ch |date= |access-date=2025-08-08 |language=de}}</ref>
+
+Richard Neher is the eldest son of Nobel Prize winner [[Erwin Neher]] and his wife [[Eva-Maria Neher]].<ref>{{cite web |url=https://www.nobelprize.org/prizes/medicine/1991/neher/biographical/ |title=Erwin Neher, Biographical |publisher=nobelprize.org |date= |access-date=2025-08-08}}</ref>
+
+== Research ==
+Neher's work focuses on the [[evolution]] of [[virus]]es and [[bacteria]]. His research group develops [[software]] and [[algorithm]]s to track the spreading of these organisms and to analyse their genetic changes. He co-founded [[Nextstrain]], an open-source platform for real-time tracking of viral pathogens, and has developed methods for predicting influenza virus evolution.<ref>.{{cite journal |pmid=29077859 |volume=46 |issue=1 |title=panX: pan-genome analysis and exploration |date=2018-01-09 |journal=Nucleic Acids Research |pages=e5 |doi=10.1093/nar/gkx977 |last1=Ding |first1=Wei |last2=Baumdicker |first2=Franz |last3=Neher |first3=Richard |pmc=5758898 |language=en}}</ref><ref>{{cite journal |pmid=39750749 |volume=42 |issue=1 |title=Quantifying the Evolutionary Dynamics of Structure and Content in Closely Related E. coli Genomes |date=2025-01-06 |journal=Mol Biol Evol. Research |doi=10.1093/molbev/msae272 |last1=Molari |first1=Marco |last2=Shaw |first2=Liam P |last3=Neher|first3=Richard |article-number=msae272 |pmc=11739808 |language=en}}</ref> During the COVID-19 pandemic, he was a member of the Swiss National COVID-19 Science Task Force, advising the [[Federal Council (Switzerland)|federal government]].<ref>{{cite web |url=https://sciencetaskforce.ch/organisation-expertengruppen/ |title=Das Expert:innengremium |publisher=sciencetaskforce.ch| language=de |date= |access-date=2025-08-08}}</ref>
+
+In addition to [[SARS-CoV-2]], Neher also studies the evolution of human viruses such as [[HIV]], [[influenza]], and [[Respiratory syncytial virus|RSV]]. Another focus of his work is on the dynamics of bacterial "accessory genomes" acquired through [[horizontal gene transfer]], which can contribute to environmental adaptation and [[antibiotic]] resistance.<ref>{{cite journal |pmid= 25385532|volume=11 |issue=2 |title=Predicting evolution from the shape of genealogical trees |date=2014-11-11 |journal=eLife |article-number=e03568 |doi= 10.7554/eLife.03568 |last1=Neher |first1=Richard A |last2=Russell |first2=Colin A |last3=Shraiman |first3=Boris I |pmc=4227306 |doi-access=free |language=en}}</ref><ref>{{cite journal |pmid=39728926 |volume=13 |title=Eco-evolutionary dynamics of adapting pathogens and host immunity |date=2024-12-27 |journal=eLife |doi=10.7554/eLife.97350 |last1=Barrat-Charlaix |first1=Pierre |last2=Neher |first2=Richard A |article-number=RP97350 |pmc=11677248 |doi-access=free }}</ref>
+
+== Awards and honours ==
+* 2009: Harvey L. Karp Discovery Award<ref>{{cite web |url=https://www.kitp.ucsb.edu/outreach/chalk-talks/sex-viruses-and-statistical-physics-evolution |title=Sex, Viruses, and the Statistical Physics of Evolution |publisher=ucsb.edu |date=2009-08-06 |access-date=2025-08-11}}</ref>
+* 2011: [[European Research Council]] Starting Grant <ref>{{cite web |url=https://erc.europa.eu/sites/default/files/document/file/erc_2010_stg_results_all%20domains.pdf |title=ERC Starting Grant 2010 |publisher=europa.eu |date= |access-date=2025-08-11}}</ref>
+* 2012: ARCHES award of the German Secretary of Science and Education <ref>{{cite web |url=https://www.minerva.mpg.de/12882/former-awardees |title=Fromer Arches Awardees |publisher=mpg.de |date= |access-date=2025-08-11}}</ref>
+* 2016 Open Science Prize (Phase I, mit Trevor Bedford)<ref>{{cite web |url=https://www.fredhutch.org/en/news/center-news/2016/05/tool-predicts-outbreaks-open-science-prize-nextstrain.html |title=Real-time tool for predicting outbreaks advances in Open Science Prize competition |publisher=fredhutch.org |date= 9 May 2016|access-date=2025-08-08}}</ref>
+* 2017 Open Science Prize (Phase II, mit Trevor Bedford)
+* 2024: National Prize for Open Research Data (ORD), Swiss Academies of Arts and Sciences for the joint project "Pathoplexus"<ref>{{cite web |url=https://ord.swiss-academies.ch/news/open-science-rewarded-four-projects-to-receive-the-national-prize-for-open-research-data |title=Open Science rewarded: Four Projects to receive the National Prize for Open Research Data |publisher=swiss-academies.ch |date= 27 November 2024|access-date=2025-08-08}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.biozentrum.unibas.ch/neher/ Research group website at the Biozentrum]
+* [https://www.biozentrum.unibas.ch/research/research-groups/research-groups-a-z/own-content/unit/research-group-richard-neher/neher-publications Publication list]
+* [https://neherlab.org/ NeherLab website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Neher, Richard A.}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:German biophysicists]]
+[[Category:Biozentrum University of Basel]]

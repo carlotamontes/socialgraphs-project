@@ -1,0 +1,83 @@
+{{short description|British optoelectronics researcher (born 1964)}}
+{{Other people|David Richardson}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = David Richardson
+| honorific_suffix  = {{post-nominals|country=GBR|FRS|FREng|size=100%}}
+| image             = David J. Richardson Royal Society.jpg
+| image_size        =
+| image_upright     =
+| alt               =
+| caption           = Richardson in 2018
+| birth_name        = David John Richardson
+| birth_date        = {{birth year and age|1964}}<ref name=whoswho>{{Who's Who | author=Anon| title=Richardson, Prof. David John | id = U291017 | year = 2019  | edition = online [[Oxford University Press]]|location=Oxford}}</ref>
+| birth_place       =
+| fields            = {{Plainlist|
+* [[Photonics]]<ref name=gs/>
+* [[Optical Fiber]]s<ref name=gs/>
+* [[Optical communication]]s<ref name=gs/>
+* [[Laser]]s<ref name=gs/>
+* [[Nonlinear optics]]<ref name=gs/>}}
+| workplaces        = [[Microsoft]], [[University of Southampton]]
+| education         = [[Richard Taunton Sixth Form College|Taunton’s College]]
+| alma_mater        = [[University of Sussex]]<ref name=soton/><ref name=djphd>{{cite thesis|first=David John|last=Richardson|year=1989|publisher=University of Sussex|title=The production of, and experiments with, monochromatic ultra cold neutrons|url=https://copac.jisc.ac.uk/id/42677383?style=html|website=jisc.ac.uk|id={{copac|42677383}}}}{{Dead link|date=October 2025 |bot=InternetArchiveBot }}</ref>
+| thesis_title      = The production of, and experiments with, monochromatic ultra cold neutrons
+| thesis_url        = https://copac.jisc.ac.uk/id/42677383?style=html
+| thesis_year       = 1989
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors =
+| doctoral_students =
+| notable_students  =
+| known_for         =
+| influences        =
+| influenced        =
+| awards            = [[Royal Society Wolfson Research Merit Award]] (2013); [[John Tyndall Award]]<ref name="Tyndall2024">{{cite web
+ |url         = https://www.optica.org/about/newsroom/news_releases/2023/december/david_richardson_wins_2024_john_tyndall_award/
+ |title       = David Richardson Wins 2024 John Tyndall Award
+ |website     = optica.org
+ |publisher   = Optica
+ |date        = December 2023
+}}</ref> (2024); [[IEEE Photonics Award]]<ref name="IEEEPhotonics2025">{{cite web
+ |url         = https://corporate-awards.ieee.org/recipient/david-richardson/
+ |title       = David Richardson – 2025 IEEE Photonics Award Recipient
+ |website     = ieee.org
+ |publisher   = IEEE
+}}</ref> (2025)
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          =
+| website           = {{URL|https://www.orc.soton.ac.uk/people/djr1}}
+}}
+'''David John Richardson''' (born 1964) is a British optoelectronics researcher and [[fellow]] of both the [[Royal Society]] (FRS) and the [[Royal Academy of Engineering]] (FREng).<ref name="royalSocietyRichardson">{{cite web
+ |url         = https://royalsociety.org/people/david-richardson-13837/
+ |title       = David Richardson
+ |website     = The Royal Society
+ |publisher   = royalsociety.org
+}}</ref> He is currently a '''Partner Researcher at [[Microsoft]]''',<ref>https://www.microsoft.com/en-us/research/project/craft/people/</ref> based in Romsey, UK, where he leads research on '''hollow core optical fiber''' technology—an approach that guides light through an air-filled core rather than conventional solid glass. Before joining Microsoft, he spent 34 years at the Optoelectronics Research Centre (ORC) at the [[University of Southampton]].<ref>https://www.orc.soton.ac.uk/news/7104</ref> While at the ORC, he served as Professor, Deputy Director, and Head of the Fibre and Laser Group, making significant contributions to advanced optical fibre and laser research.<ref name=soton>{{cite web|url=https://www.orc.soton.ac.uk/people/djr1|title=Professor David Richardson - Optoelectronics Research Centre - University of Southampton|website=www.orc.soton.ac.uk}}</ref><ref name=gs>{{Google scholar id}}</ref><ref name="RichardsonNilsson2010">{{cite journal|last1=Richardson|first1=D. J.|last2=Nilsson|first2=J.|last3=Clarkson|first3=W. A.|title=High power fiber lasers: current status and future perspectives [Invited]|journal=Journal of the Optical Society of America B|volume=27|issue=11|year=2010|pages=B63|issn=0740-3224|doi=10.1364/JOSAB.27.000B63|bibcode=2010JOSAB..27B..63R }} {{closed access}}</ref>
+
+==Education==
+Richardson was educated at St George’s [[Catholic School|Roman Catholic School]], [[Southampton]] and [[Richard Taunton Sixth Form College|Taunton’s College]].<ref name=whoswho/> He completed his [[Bachelor of Science]] degree and [[PhD]] in Physics at the [[University of Sussex]] in 1989.<ref name=djphd/>
+
+==Career and research==
+Richardson is a pioneer in the field of [[photonics]], best known for his work on [[fibre optic]]s and their applications.<ref name=frs>{{cite web|url=https://royalsociety.org/people/david-richardson-13837/|publisher=[[Royal Society]]|location=London|author=Anon|year=2018|title=Professor David Richardson FREng FRS}} One or more of the preceding sentences incorporates text from the royalsociety.org website where: {{blockquote|“All text published under the heading 'Biography' on Fellow profile pages is available under [[Creative Commons license|Creative Commons Attribution 4.0 International License]].” --{{Webarchive|url=https://web.archive.org/web/20161111170346/https://royalsociety.org/about-us/terms-conditions-policies/|title=Royal Society Terms, conditions and policies|date=2016-11-11}}}}</ref> He has played a leading role in developing techniques to scale the data-carrying capacity of future [[optical communication]] networks to keep up with society's demand for ever increasing [[Bandwidth (computing)|internet bandwidth]].<ref name=frs/> He has developed [[optical fibre]]s of high performance – capable, for example, of transmitting large quantities of data across the internet at high speed.<ref name=frs/>
+
+Richardson was also one of the first to demonstrate the potential of compact, flexible, pulsed fibre lasers operating over a broad range of powers, pulse durations and wavelengths.<ref name=frs/> Over many years he has extended the performance limits of fibre lasers, making them strong contenders to conventional lasers and contributing to their commercial success.<ref name=frs/> His work extends to fibres capable of delivering [[kilowatt]]s of optical power for manufacturing with lasers.<ref name=frs/>
+
+==References==
+{{reflist}}
+{{CC-notice|cc=by4|url= https://royalsociety.org/people/david-richardson-13837/}}
+
+{{FRS 2018}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Richardson, David}}
+[[Category:Living people]]
+[[Category:British physicists]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:1964 births]]
+[[Category:Alumni of the University of Sussex]]
+[[Category:British fellows of the Royal Society]]
+
+
+{{UK-physicist-stub}}

@@ -1,0 +1,55 @@
+{{Short description|Swiss computer scientist, inventor (born 1938)}}
+{{Infobox scientist
+|name              = Jean-Daniel Nicoud
+|image             = 
+|image_size        = 
+|caption           = 
+|birth_date        = {{Birth date and age|1938|08|31}}
+|birth_place       = 
+|residence         = 
+|citizenship       = [[Switzerland|Swiss]]
+|ethnicity         = 
+|field             = [[Software engineering]]
+|workplaces        = 
+|education         = [[École Polytechnique Fédérale de Lausanne]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = [[computer mouse]]
+|awards            = 
+}}
+[[Image:MiniCeline ultralight aircraft.jpeg|thumb|Picture of the miniCeline ultralight aircraft by Jean-Daniel Nicoud. This remote-controlled plane weighs only 6&nbsp;g and is capable of indoor flying.]]
+
+'''Jean-Daniel Nicoud''' (born 31 August 1938), is a Swiss computer scientist, noted for inventing a [[computer mouse]] with an optical encoder and the CALM (Common [[Assembly Language]] for [[microprocessor]]s).<ref>{{Cite journal|last1=Wagner|first1=F.|last2=Nicoud|first2=J.-D.|date=1987-12-01|title=On the notation of CALM- Common assembly language for microprocessors|url=http://dl.acm.org/citation.cfm?id=40388.40394|journal=Computer Standards & Interfaces|volume=6|issue=4|pages=455–462|doi=10.1016/0920-5489(87)90026-2|issn=0920-5489|url-access=subscription}}</ref>
+
+He obtained a degree in physics at the [[École Polytechnique Fédérale de Lausanne]] (EPFL) in 1963. Around 1965, he became interested in [[logical system]]s. He obtained his PhD at the EPFL in 1970 and became a professor in 1973. 
+
+His laboratory, LAMI (''LAboratoire de Micro-Informatique''), developed the [[Smaky]] computer,<ref>{{Cite journal|last=Nicoud|first=Jean-Daniel|date=1991-01-01|title=Dedicated Tools for Microprocessor Education|url=http://dl.acm.org/citation.cfm?id=623239.623577|journal=IEEE Micro|volume=11|issue=1|pages=62–68|doi=10.1109/40.67739|s2cid=5786607|issn=0272-1732|url-access=subscription}}</ref><ref>{{Cite journal|date=1989-07-01|title=Switzerland|url=http://doi.ieeecomputersociety.org/10.1109/MM.1989.10031|journal=IEEE Micro|language=English|issue=4|doi=10.1109/mm.1989.10031|issn=0272-1732}}</ref> in addition to the optical [[computer mouse]],<ref>[http://www.mutech.co.il/topic/computerhistory_03.htm]{{dead link|date=March 2018}}</ref><ref>{{Cite web|url=http://www.computerhistory.org/events/lectures/mouse_10172001/|archive-url=https://web.archive.org/web/20071219231811/http://www.computerhistory.org/events/lectures/mouse_10172001/|url-status=dead|archive-date=2007-12-19|title=Computer History Museum - Lectures - Early Computer Mouse Encounters|date=2007-12-19|access-date=2018-03-15}}</ref><ref>{{cite web |url=http://www.cnn.com/SPECIALS/2004/explorers/interactive/profiles/computer.mouse/content.html |archive-url=https://web.archive.org/web/20050424150438/http://www.cnn.com/SPECIALS/2004/explorers/interactive/profiles/computer.mouse/content.html |url-status=dead |archive-date=2005-04-24 |title=Data |website=cnn.com}}</ref><ref>{{Cite web|url=http://www.muellerscience.com/ENGLISH/Swiss_Inventions_and_Discoveries.htm|title=Mueller Science - Swiss Firsts - Swiss Discoveries - Swiss Inventions|last=Mueller|first=Dr. phil. Roland|website=www.muellerscience.com|access-date=2018-03-15}}</ref> an update of the traditional kinetic mouse invented by [[Douglas Engelbart]]. The [[Khepera mobile robot]] was also developed at the LAMI.
+
+He left the EPFL in August 2000 and is actively innovating in his private company, DIDEL,<ref>{{Cite web|url=http://www.didel.com/|title=Robotique pédagogique|website=Robotique pédagogique|language=fr-FR|access-date=2018-03-15}}</ref> especially in the area of miniature ultralight aircraft (below 10&nbsp;g airplanes). His airplane was used in a publication that received a best paper award in IROS 2006 conference.<ref>{{Cite journal|url=https://doi.org/10.1163%2F156855307782227417|doi = 10.1163/156855307782227417|title = A 10-gram vision-based flying robot|year = 2007|last1 = Zufferey|first1 = Jean-Christophe|last2 = Klaptocz|first2 = Adam|last3 = Beyeler|first3 = Antoine|last4 = Nicoud|first4 = Jean-Daniel|last5 = Floreano|first5 = Dario|journal = Advanced Robotics|volume = 21|issue = 14|pages = 1671–1684|s2cid = 14951134}}</ref>
+
+==See also==
+* {{annotated link|Scrib}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Google scholar [https://scholar.google.com/scholar?q=author:jd-nicoud publication list]
+
+==External links==
+*[http://www.smaky.ch/ ''A History of Computing in Switzerland'']
+*[https://people.epfl.ch/jean-daniel.nicoud Prof. Jean-Daniel Nicoud @ EPFL]
+*[http://www.didel.com/ DIDEL - Slow flyers, microrobots and educational kits for technical schools and hobby roboticians]
+
+
+{{Authority control}}
+{{DEFAULTSORT:Nicoud, Jean-Daniel}}
+[[Category:Swiss computer scientists]]
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:Academic staff of the École Polytechnique Fédérale de Lausanne]]
+[[Category:École Polytechnique Fédérale de Lausanne alumni]]
+
+
+{{compu-bio-stub}}
+{{Switzerland-scientist-stub}}

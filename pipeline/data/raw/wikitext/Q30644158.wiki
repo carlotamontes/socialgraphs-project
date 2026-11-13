@@ -1,0 +1,116 @@
+{{short description|Russian physicist}}
+{{Use British English|date=October 2013}}
+{{Infobox scientist
+|name              = Vladimir G. Dubrovskii
+|image             = Dubrovskii.jpg
+|image_size        =
+|caption           = 
+|birth_date        = {{birth date and age|df=yes|1965|10|15}}
+|citizenship       = [[Russia]]
+|nationality       =
+|fields            = [[Condensed matter physics]]<br/>[[Semiconductor nanostructures and nanowires]]<br/>[[Classical nucleation theory]]
+|workplaces        = [[St. Petersburg Academic University]] <br/> [[Ioffe Institute]] <br/>[[St. Petersburg State University]] <br/> [[ITMO University]]<br/>
+|education         = [[St. Petersburg State University]]<br/>[[Saint Petersburg State University|Leningrad State University]] ([[diploma]], 1988)<br/>
+|known_for         = [[Theoretical physics]] and [[Physics of nanostructures]]
+}}
+
+'''Vladimir G. Dubrovskii'''  ({{langx|ru|Владимир Германович Дубровский}}; born in 1965) is the head of Laboratory of physics of [[nanostructures]] at [[St. Petersburg Academic University]],<ref>{{Cite web | url=http://phys.spbau.ru/lecturers/dubrovsky |title = Дубровский Владимир Германович &#124; Кафедры физики СПб АУ РАН}}</ref> a leading research scientist at [[Ioffe Institute]],<ref>{{Cite web | url=http://www.ioffe.ru/sem_tech/mbe/mbe_persona.htm | title=The page is inaccessible temporarily}}</ref> and a professor at [[St. Petersburg State University]] and [[ITMO University]].<ref>{{Cite web | url=http://irc.ifmo.ru/en/91549/person/190681/Vladimir_Germanovich_Dubrovskii.htm |title = International Research Laboratory of Physics of Epitaxial Nanostructures}}</ref>
+
+== Educational background ==
+
+Dubrovskii graduated from [[St. Petersburg State University]], Department of Statistical Physics, in 1988, with a diploma in [[theoretical physics]]. In 1991, he was a post-doc [[research fellow]] in [[Oxford University]]. He obtained his PhD in 1990 and a [[Doctor of Sciences|doctor of sciences]] degree in 2002, in condensed matter physics.
+
+== Contributions to physics ==
+
+Dubrovskii has made contributions to several fields of physics.
+;Semiconductor nanostructures and nanowires
+He is best known for growth modeling of semiconductor nanostructures, particularly III-V nanowires.  Starting from 2003, he has been at the forefront of research in this field, collaborating with more than 40 groups in 18 countries (with joint publications). His main area is in kinetically controlled engineering of nanostructures, including morphology, crustal phase, and size distributions. In 2005, he and coauthors proved a diffusion-induced character of gold-assisted vapor-liquid-solid (VLS) growth of GaAs nanowires by [[molecular beam]] [[epitaxy]] [1]. In 2008–2014, following [[Frank Glas]] [2], he developed theoretical approaches for understanding and controlling polytypism of III-V nanowires by the growth parameter tuning [3] and catalyst material [4]. This allowed achieving record small GaAs nanowires (down to 5&nbsp;nm in radius) with pure zincblende structure [5]. Independently of Jerry Tersoff [6], in 2013-2015 he predicted a non-linear focusing effect [7,8] that enabled self-organized ensembles of GaAs [[nanowire]]s with uniform radii [8]. The works of 2016 brought up the new size distributions describing length statistics in nanowire ensembles [9,10]. In 2015–2016, he developed the first theory for the compositional control of ternary III-V nanowires [11], sharpening their axial heterointerfaces [12] and, more generally, nucleation theory of ternary solids from ternary and quaternary liquid alloys. He contributed into understanding the VLS versus selective area growth of nanowires [13] and self-induced nucleation of GaN nanowires on silicon substrates [14].
+
+;[[Classical nucleation theory]]
+In 2009, Dubrovskii discovered fluctuation-induced broadening (the Dubrovskii broadening) of the size distributions described by a Fokker-Planck type kinetic equation in terms of the Kuni invariant variables [15], and presented a map of the power exponents for the spectrum spreading in 2D and 3D systems. Further studies revealed the influence of kinetic fluctuations on the size distributions of islands and droplets in the stages of their nucleation, growth, and [[Ostwald ripening]] [16,17]. He also contributed into binary nucleation theory with a saddle point of the formation energy, with applications in growth theory of strain-induced islands [18] and ternary VLS nanowires.
+
+;Statistical size distributions and scaling properties
+In 1996, he published exact solution for the [[infinite set]] of rate equations for heterogeneous growth with size-linear rate constants [19], reduced to one-parametric Polya distribution. Further investigation of the growth systems with size-linear capture rates led to a two-parametric modified beta-distribution (2015) [20] which acquires the Vicsek-Family scaling form [21] in the [[continuum limit]]. Distributions of this type are now widely used for modeling the growth kinetics of semiconductor nanostructures, surface islands and biological objects.
+
+;Self-regulated nucleation and growth in nanosystems
+Since 2004, Dubrovskii pursued growth theories in confined systems with a limited amount of growth species in the mother phase. He developed concepts of "mononuclear" growth [22,23] whereby individual nucleation events predetermine physical properties of emerging nanomaterials. He developed methods of using different size-dependent effects for narrowing size distributions [8,24-26]. <br/>
+Together with [[Frank Glas]], he predicted narrow sub-Poissonian size distributions [27] in systems with nucleation antibunching [28], and derived analytical asymptotes for their time-independent shapes.
+
+;Elastic relaxation and plastic deformation in nanostructures
+He and coauthors developed semi-analytical models for elastic relaxation and misfit dislocations in nanostructures grown on lattice-mismatched substrates [29] and contributed into development of epitaxial techniques for monolithic integration of high quality optical III-V nanostructures with silicon electronic platform [8,18,30].
+
+;Research style
+Dubrovskii prefers analytical calculations to computers and tries to present theoretical models for complex growth behavior in a simple analytic form with a minimum number of physically transparent parameters.
+
+== Current research interests ==
+Dubrovskii main areas are currently in modeling and shaping of sophisticated nanowire nanoheterostructures, nucleation theory in the nanoscale, [[physical chemistry]] of alloys and compounds, and analytic size distributions. He is working with experimentalists on design and functionalization of optoelectronic nanoheterostructures.
+;Lecture courses and PhD students
+Dubrovskii is lecturing in nucleation theory, epitaxy of nanostructures and growth modeling of nanowires. He has supervised 10 PhD students, 2 of them under European Marie Curie Initial Training Networks.
+
+== Books and book chapters ==
+*V. G. Dubrovskii, Growth kinetics of epitaxial nanostructures, Fizmatlit, Moscow (2009) (in Russian).
+*V. G. Dubrovskii, Nucleation theory and growth of nanostructures. Springer, Heidelberg – New York – Dordrecht – London, 2014.
+*V. G. Dubrovskii, Theory of VLS growth of compound semiconductors. In: A. Fontcuberta i Morral, S. A. Dayeh and C. Jagadish, editors, Semiconductors and Semimetals, v. 93, Burlington: Academic Press, 2015, pp.&nbsp;1–78.
+
+;Articles
+[1] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Cirlin | first2=G. E. | last3=Soshnikov | first3=I. P. | last4=Tonkikh | first4=A. A. | last5=Sibirev | first5=N. V. | last6=Samsonenko | first6=Yu. B. | last7=Ustinov | first7=V. M. | title=Diffusion-induced growth of GaAs nanowhiskers during molecular beam epitaxy: Theory and experiment | journal=Physical Review B | publisher=American Physical Society (APS) | volume=71 | issue=20 | date=2005-05-31 | issn=1098-0121 | doi=10.1103/physrevb.71.205325 | article-number=205325| bibcode=2005PhRvB..71t5325D }}<br/>
+[2] {{cite journal | last1=Glas | first1=Frank | last2=Harmand | first2=Jean-Christophe | last3=Patriarche | first3=Gilles | title=Why Does Wurtzite Form in Nanowires of III-V Zinc Blende Semiconductors? | journal=Physical Review Letters | volume=99 | issue=14 | date=2007-10-05 | issn=0031-9007 | doi=10.1103/physrevlett.99.146101 | article-number=146101| pmid=17930689 | arxiv=0706.0846 | bibcode=2007PhRvL..99n6101G | s2cid=14209075 }}<br/>
+[3] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Sibirev | first2=N. V. | title=Growth thermodynamics of nanowires and its application to polytypism of zinc blende III-V nanowires | journal=Physical Review B | publisher=American Physical Society (APS) | volume=77 | issue=3 | date=2008-01-15 | issn=1098-0121 | doi=10.1103/physrevb.77.035414 | article-number=035414| bibcode=2008PhRvB..77c5414D }}<br/>
+[4] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Cirlin | first2=G. E. | last3=Sibirev | first3=N. V. | last4=Jabeen | first4=F. | last5=Harmand | first5=J. C. | last6=Werner | first6=P. | title=New Mode of Vapor−Liquid−Solid Nanowire Growth | journal=Nano Letters | publisher=American Chemical Society (ACS) | volume=11 | issue=3 | date=2011-03-09 | issn=1530-6984 | doi=10.1021/nl104238d | pages=1247–1253| pmid=21344916 | bibcode=2011NanoL..11.1247D }}<br/>
+[5] {{cite journal | last1=Gil | first1=Evelyne | last2=Dubrovskii | first2=Vladimir G. | last3=Avit | first3=Geoffrey | last4=André | first4=Yamina | last5=Leroux | first5=Christine | last6=Lekhal | first6=Kaddour | last7=Grecenkov | first7=Jurij | last8=Trassoudaine | first8=Agnès | last9=Castelluci | first9=Dominique | last10=Monier | first10=Guillaume | last11=Ramdani | first11=Reda M. | last12=Robert-Goumet | first12=Christine | last13=Bideux | first13=Luc | last14=Harmand | first14=Jean Christophe | last15=Glas | first15=Frank |display-authors=5| title=Record Pure Zincblende Phase in GaAs Nanowires down to 5 nm in Radius | journal=Nano Letters | publisher=American Chemical Society (ACS) | volume=14 | issue=7 | date=2014-06-03 | issn=1530-6984 | doi=10.1021/nl501239h | pages=3938–3944| pmid=24873917 | bibcode=2014NanoL..14.3938G }}<br/>
+[6] {{cite journal | last=Tersoff | first=J. | title=Stable Self-Catalyzed Growth of III–V Nanowires | journal=Nano Letters | publisher=American Chemical Society (ACS) | volume=15 | issue=10 | date=2015-09-21 | issn=1530-6984 | doi=10.1021/acs.nanolett.5b02386 | pages=6609–6613| pmid=26389697 | bibcode=2015NanoL..15.6609T }}<br/>
+[7] {{cite journal | last1=Priante | first1=G. | last2=Ambrosini | first2=S. | last3=Dubrovskii | first3=V. G. | last4=Franciosi | first4=A. | last5=Rubini | first5=S. | title=Stopping and Resuming at Will the Growth of GaAs Nanowires | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=13 | issue=9 | date=2013-08-16 | issn=1528-7483 | doi=10.1021/cg400701w | pages=3976–3984}}<br/>
+[8] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Xu | first2=T. | last3=Álvarez | first3=A. Díaz | last4=Plissard | first4=S. R. | last5=Caroff | first5=P. | last6=Glas | first6=F. | last7=Grandidier | first7=B. | title=Self-Equilibration of the Diameter of Ga-Catalyzed GaAs Nanowires | journal=Nano Letters | publisher=American Chemical Society (ACS) | volume=15 | issue=8 | date=2015-07-22 | issn=1530-6984 | doi=10.1021/acs.nanolett.5b02226 | pages=5580–5584| pmid=26189571 | bibcode=2015NanoL..15.5580D }}<br/>
+[9] {{cite journal | last1=Dubrovskii | first1=Vladimir G. | last2=Berdnikov | first2=Yury | last3=Schmidtbauer | first3=Jan | last4=Borg | first4=Mattias | last5=Storm | first5=Kristian | last6=Deppert | first6=Knut | last7=Johansson | first7=Jonas | title=Length Distributions of Nanowires Growing by Surface Diffusion | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=16 | issue=4 | date=2016-03-21 | issn=1528-7483 | doi=10.1021/acs.cgd.5b01832 | pages=2167–2172}}<br/>
+[10] {{cite journal | last1=Dubrovskii | first1=V G | last2=Sibirev | first2=N V | last3=Berdnikov | first3=Y | last4=Gomes | first4=U P | last5=Ercolani | first5=D | last6=Zannier | first6=V | last7=Sorba | first7=L | title=Length distributions of Au-catalyzed and In-catalyzed InAs nanowires | journal=Nanotechnology | publisher=IOP Publishing | volume=27 | issue=37 | date=2016-08-08 | issn=0957-4484 | doi=10.1088/0957-4484/27/37/375602 | article-number=375602| pmid=27501469 | bibcode=2016Nanot..27K5602D | s2cid=41474044 }}<br/>
+[11] {{cite journal | last=Dubrovskii | first=Vladimir G. | title=Fully Analytical Description for the Composition of Ternary Vapor–Liquid–Solid Nanowires | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=15 | issue=12 | date=2015-11-19 | issn=1528-7483 | doi=10.1021/acs.cgd.5b00924 | pages=5738–5743}}<br/>
+[12] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Sibirev | first2=N. V. | title=Factors Influencing the Interfacial Abruptness in Axial III–V Nanowire Heterostructures | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=16 | issue=4 | date=2016-03-23 | issn=1528-7483 | doi=10.1021/acs.cgd.5b01613 | pages=2019–2023}}<br/>
+[13] {{cite journal | last1=Gao | first1=Qian | last2=Dubrovskii | first2=Vladimir G. | last3=Caroff | first3=Philippe | last4=Wong-Leung | first4=Jennifer | last5=Li | first5=Li | last6=Guo | first6=Yanan | last7=Fu | first7=Lan | last8=Tan | first8=Hark Hoe | last9=Jagadish | first9=Chennupati | title=Simultaneous Selective-Area and Vapor–Liquid–Solid Growth of InP Nanowire Arrays | journal=Nano Letters | publisher=American Chemical Society (ACS) | volume=16 | issue=7 | date=2016-06-06 | issn=1530-6984 | doi=10.1021/acs.nanolett.6b01461 | pages=4361–4367| pmid=27253040 | bibcode=2016NanoL..16.4361G }}<br/>
+[14] {{cite journal | last1=Dubrovskii | first1=Vladimir G. | last2=Consonni | first2=Vincent | last3=Trampert | first3=Achim | last4=Geelhaar | first4=Lutz | last5=Riechert | first5=Henning | title=Scaling thermodynamic model for the self-induced nucleation of GaN nanowires | journal=Physical Review B | publisher=American Physical Society (APS) | volume=85 | issue=16 | date=2012-04-23 | issn=1098-0121 | doi=10.1103/physrevb.85.165317 | article-number=165317| bibcode=2012PhRvB..85p5317D }}<br/>
+[15] {{cite journal | last=Dubrovskii | first=V. G. | title=Fluctuation-induced spreading of size distribution in condensation kinetics | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=131 | issue=16 | date=2009-10-28 | issn=0021-9606 | doi=10.1063/1.3254384 | page=164514| pmid=19894963 | bibcode=2009JChPh.131p4514D }}<br/>
+[16] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Nazarenko | first2=M. V. | title=Nucleation theory beyond the deterministic limit. I. The nucleation stage | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=132 | issue=11 | date=2010-03-21 | issn=0021-9606 | doi=10.1063/1.3354118 | page=114507| pmid=20331305 | bibcode=2010JChPh.132k4507D }}<br/>
+[17] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Kazansky | first2=M. A. | last3=Nazarenko | first3=M. V. | last4=Adzhemyan | first4=L. T. | title=Numerical analysis of Ostwald ripening in two-dimensional systems | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=134 | issue=9 | date=2011-03-07 | issn=0021-9606 | doi=10.1063/1.3556658 | page=094507| pmid=21384985 | bibcode=2011JChPh.134i4507D }}<br/>
+[18] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Sibirev | first2=N. V. | last3=Zhang | first3=X. | last4=Suris | first4=R. A. | title=Stress-Driven Nucleation of Three-Dimensional Crystal Islands: From Quantum Dots to Nanoneedles | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=10 | issue=9 | year=2010 | issn=1528-7483 | doi=10.1021/cg100495b | pages=3949–3955}}<br/>
+[19] {{cite journal | last=Dubrovsky | first=V. G. | title=On an exact solution of master equations for the model of reversible growth | journal=Theoretical and Mathematical Physics | publisher=Springer Science and Business Media LLC | volume=108 | issue=2 | year=1996 | issn=0040-5779 | doi=10.1007/bf02070679 | pages=1110–1118| bibcode=1996TMP...108.1110D | s2cid=123369783 }}<br/>
+[20] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Sibirev | first2=N. V. | title=Analytic scaling function for island-size distributions | journal=Physical Review E | publisher=American Physical Society (APS) | volume=91 | issue=4 | date=2015-04-29 | issn=1539-3755 | doi=10.1103/physreve.91.042408 | article-number=042408| pmid=25974509 | bibcode=2015PhRvE..91d2408D }}<br/>
+[21] {{cite journal | last1=Vicsek | first1=Tamás | last2=Family | first2=Fereydoon | title=Dynamic Scaling for Aggregation of Clusters | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=52 | issue=19 | date=1984-05-07 | issn=0031-9007 | doi=10.1103/physrevlett.52.1669 | pages=1669–1672| bibcode=1984PhRvL..52.1669V }}<br/>
+[22] {{cite journal | last1=Dubrovskii | first1=Vladimir G. | last2=Sibirev | first2=Nickolai V. | title=Growth rate of a crystal facet of arbitrary size and growth kinetics of vertical nanowires | journal=Physical Review E | publisher=American Physical Society (APS) | volume=70 | issue=3 | date=2004-09-15 | issn=1539-3755 | doi=10.1103/physreve.70.031604 | article-number=031604| pmid=15524531 | bibcode=2004PhRvE..70c1604D }}<br/>
+[23] {{cite journal | last1=Dubrovskii | first1=V.G. | last2=Grecenkov | first2=J. | title=Zeldovich Nucleation Rate, Self-Consistency Renormalization, and Crystal Phase of Au-Catalyzed GaAs Nanowires | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=15 | issue=1 | date=2014-12-02 | issn=1528-7483 | doi=10.1021/cg5014208 | pages=340–347}}<br/>
+[24] {{cite journal | last1=Dubrovskii | first1=V. G. | last2=Xu | first2=T. | last3=Lambert | first3=Y. | last4=Nys | first4=J.-P. | last5=Grandidier | first5=B. | last6=Stiévenard | first6=D. | last7=Chen | first7=W. | last8=Pareige | first8=P. | title=Narrowing the Length Distribution of Ge Nanowires | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=108 | issue=10 | date=2012-03-05 | issn=0031-9007 | doi=10.1103/physrevlett.108.105501 | article-number=105501| pmid=22463421 | bibcode=2012PhRvL.108j5501D }}<br/>
+[25] {{cite journal | last=Dubrovskii | first=V. G. | title=Self-regulated pulsed nucleation in catalyzed nanowire growth | journal=Physical Review B | publisher=American Physical Society (APS) | volume=87 | issue=19 | date=2013-05-14 | issn=1098-0121 | doi=10.1103/physrevb.87.195426 | article-number=195426| bibcode=2013PhRvB..87s5426D }} <br/>
+[26] {{cite journal | last=Dubrovskii | first=V. G. | title=Kinetic narrowing of size distribution | journal=Physical Review B | publisher=American Physical Society (APS) | volume=93 | issue=17 | date=2016-05-23 | issn=2469-9950 | doi=10.1103/physrevb.93.174203 | article-number=174203| bibcode=2016PhRvB..93q4203D }}<br/>
+[27] F. Glas and V. G. Dubrovskii, Phys. Rev. B, submitted (2017).{{Full citation needed|date=May 2020}}<br/>
+[28] {{cite journal | last1=Glas | first1=Frank | last2=Harmand | first2=Jean-Christophe | last3=Patriarche | first3=Gilles | title=Nucleation Antibunching in Catalyst-Assisted Nanowire Growth | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=104 | issue=13 | date=2010-03-31 | issn=0031-9007 | doi=10.1103/physrevlett.104.135501 | article-number=135501| pmid=20481891 | bibcode=2010PhRvL.104m5501G }}<br/>
+[29] {{cite journal | last1=Zhang | first1=Xu | last2=Dubrovskii | first2=Vladimir G. | last3=Sibirev | first3=Nickolay V. | last4=Ren | first4=Xiaomin | title=Analytical Study of Elastic Relaxation and Plastic Deformation in Nanostructures on Lattice Mismatched Substrates | journal=Crystal Growth & Design | publisher=American Chemical Society (ACS) | volume=11 | issue=12 | date=2011-12-07 | issn=1528-7483 | doi=10.1021/cg201029x | pages=5441–5448}}<br/>
+[30] {{cite journal | last1=Ng | first1=Kar Wei | last2=Ko | first2=Wai Son | last3=Tran | first3=Thai-Truong D. | last4=Chen | first4=Roger | last5=Nazarenko | first5=Maxim V. | last6=Lu | first6=Fanglu | last7=Dubrovskii | first7=Vladimir G. | last8=Kamp | first8=Martin | last9=Forchel | first9=Alfred | last10=Chang-Hasnain | first10=Connie J. | title=Unconventional Growth Mechanism for Monolithic Integration of III–V on Silicon | journal=ACS Nano | publisher=American Chemical Society (ACS) | volume=7 | issue=1 | date=2012-12-20 | issn=1936-0851 | doi=10.1021/nn3028166 | pages=100–107| pmid=23240995 }}
+
+== Appointments and memberships ==
+*[[Semiconductor Science and Technology]] journal, member of editorial board (since 2017)
+*Nanomaterials and Nanotechnology journal, member of editorial board (since 2016)
+*[[Technical Physics Letters]], member of editorial board (since 2011)
+*International Nano-Optoelectronic Workshop, member of Steering Committee (since 2010)
+*[http://www.nanowireweek.lu.se/home/ Nanowire Week],<ref>{{Cite web | url=http://www.nanowireweek.lu.se/home/ |title = May 29 - June 2, 2017 - Lund, Sweden &#124; Nanowire Week}}</ref> member of Steering Committee (since 2011)
+*Euro MBE conference, member of International Program Committee (since 2017)
+*International symposium "Nanostructures: Physics and Technology", member of International Program Committee (since 2008)
+*French-Russian associated international laboratory "Nanostructures of Compound Semiconductors: Growth, Properties, Devices", Russian scientist-in-charge.
+*Zh. I. Alferov Russian-Chinese joint laboratory of information [[optoelectronics]] and nanoheterostructures, deputy director (from 2010).
+
+== Publication record ==
+Dubrovskii has authored and co-authored more than 600 research papers in leading technical journals and conferences, with more than 250 journal papers indexed by WoS. His Hirsh-index is 40 (WoS).
+
+== Honors ==
+*Chevalier of [[Ordre des Palmes académiques]], France (2017).
+*Guest professor at [[Blaise Pascal University|Clermont Université]], Clermont-Ferrand, France (2014).
+*Regular high-level visiting scientist in the [[International Guest Academic Talents]] (IGAT) Base at [[Beijing University of Posts and Telecommunications]], China (2007–2016).
+*Distinguished Visiting Fellow of [[the Royal Academy of Engineering]], [[Durham University]], UK (2010).
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dubrovskii, Vladimir G.}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:Russian physicists]]
+[[Category:Saint Petersburg State University alumni]]

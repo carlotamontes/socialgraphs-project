@@ -1,0 +1,72 @@
+{{More citations needed|date=June 2019}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox scientist
+| name              = Carel Scholten
+| image             = 
+| caption           = 
+| birth_date        = <!-- {{Birth date|1925||df=yes}} -->
+| birth_place       = <!-- [[Rotterdam]], Netherlands -->
+| death_date        = <!-- {{death date and age|2002|8|6|1930|05|11|df=yes}} -->
+| death_place       = <!-- [[Nuenen]], Netherlands -->
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = {{Plainlist|
+* [[Computing science]]
+* [[Theoretical computer science]]
+}}
+| workplaces        = {{Plainlist|
+* [[Centrum Wiskunde & Informatica|Mathematisch Centrum]]
+* [[Electrologica]]
+* [[Philips Natuurkundig Laboratorium]]
+}}
+| education         = [[University of Amsterdam]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| thesis_title      = 
+| thesis_year       = 
+| influences        = 
+| influenced        = <!-- {{Plainlist|
+*
+}} -->
+| known_for         = <!--Please keep this list short--> <!-- {{Plainlist|
+*
+}} -->
+| awards            = <!-- {{Plainlist
+|}} -->
+| footnotes         = 
+}}
+'''Carel S. Scholten''' (Amsterdam, 1925 – 2009) was a [[physicist]] and a pioneer of [[computing]].
+
+He went to the [[Vossius Gymnasium]] in Amsterdam and then studied [[physics]] from 1945 to 1952 at the [[University of Amsterdam]].
+
+In 1947 he was asked by the Dutch ''Mathematisch Centrum'' (which later became the [[Centrum Wiskunde & Informatica]]) to collaborate in building an automatic calculator with his friend and fellow student [[Bram Loopstra]]. Their first system, the [[ARRA (computer)|ARRA I]] was not a success, but its successor, the [[ARRA II (computer)|ARRA II]], on which [[Gerrit Blaauw]] also collaborated, was.
+
+In 1954 work started on the [[ARMAC (computer)|ARMAC]], which he built together with Loopstra and [[Edsger W. Dijkstra]], who was responsible for the software and collaborated with Scholten for more than 30 years.
+The ARMAC was remarkable for its use of [[transistor]]s.
+
+In 1958 Scholten went to work for [[Electrologica]] (later [[Philips]] Electrologica), where he developed the [[Electrologica X1]] computer with Loopstra; up to 1964, 40 models were installed, mainly at universities. He remained with Philips Electrologica until 1979, when he switched to the [[Philips Natuurkundig Laboratorium]], where he stayed until 1985.
+
+In 1991 he was awarded an [[honorary doctorate]] by [[Technische Universiteit Eindhoven]].
+
+== Publications ==
+* [[Edsger W. Dijkstra]] and Carel S. Scholten (1990). ''Predicate Calculus and Program Semantics''. Springer-Verlag {{ISBN|0-387-96957-8}} – An abstract, formal treatment of [[Predicate transformer semantics]]<ref>{{cite web|title=Edsger Wybe Dijkstra|url=http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Dijkstra.html|work=School of Mathematical and Computational Sciences|publisher=University of St Andrews|accessdate=26 December 2010}}</ref>
+
+==External links==
+* {{Deprecated archive|url=https://archive.today/20130222174602/http://w3.win.tue.nl/nl/nieuws/artikel/?tx_ttnews%5Btt_news%5D=8858&tx_ttnews%5BbackPid%5D=2118&cHash=a359c0c888|title=''Eredoctor  Carel Scholten overleden - TU Eindhoven''|sec=el}}(in Dutch) – Obituary by the [[Technische Universiteit Eindhoven|TU Eindhoven]].
+* [http://www-set.win.tue.nl/UnsungHeroes/heroes/scholten-loopstra.html Unsung Heroes in Dutch Computing History – Carel S. Scholten and Bram Jan Loopstra] {{Webarchive|url=https://web.archive.org/web/20190216110959/http://www-set.win.tue.nl/UnsungHeroes/heroes/scholten-loopstra.html |date=16 February 2019 }} – Illustrated report of his work at the TU Eindhoven.
+* [http://www.electrologica.nl/historie/computers_ontwerpen,_toen.html Computers ontwerpen, toen (Designing computers, back then)] (in Dutch, on the [[Electrologica Foundation]] site) – Retrospective address by Carel Scholten on 23-11-1979.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Scholten, Carel}}
+[[Category:1925 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century Dutch physicists]]
+[[Category:Scientists from Amsterdam]]
+[[Category:Philips employees]]
+[[Category:University of Amsterdam alumni]]

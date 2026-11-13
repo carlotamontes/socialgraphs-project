@@ -1,0 +1,106 @@
+{{Short description|German computer scientist}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox scientist
+| image             = 
+| name              = Bernhard Schölkopf
+| birth_date        = {{birth year and age|1968|2}}
+| education         = {{Plainlist|
+* [[University of London]] (1992, MSc in Mathematics)
+* [[University of Tübingen]] (1994, Diplom in Physics)
+* [[TU Berlin]] (1997, PhD in Computer Science)
+}}
+| known_for         = {{Plainlist|
+* [[Machine Learning]]
+* [[Kernel Methods]]
+* [[Causal Inference]]
+}}
+| awards            = {{Plainlist|
+* J. K. Aggarwal Prize of the International Association for Pattern Recognition (2006)
+* [[Max Planck Society#Max Planck Research Award|Max Planck Research Award (2011)]]
+* Academy Prize of the Berlin-Brandenburg Academy of Sciences and Humanities (2012)
+* [[Milner Award]] (2014)
+* Member of the German National Academy of Science (Leopoldina) (2017)
+* Fellow of the ACM (Association for Computing Machinery) (2018)
+* [[Leibniz Prize]] (2018)
+* Causality in Statistics Education Award, American Statistical Association<ref>{{Cite web|url=https://www.amstat.org/ASA/Your-Career/Awards/Causality-in-Statistics-Education-Award.aspx|title=Causality in Statistics Education Award|website=www.amstat.org}}</ref>
+* [[Körber European Science Prize]] (2019)
+* [[BBVA Foundation Frontiers of Knowledge Awards]] (2020)
+}}
+| workplaces        = [[Max Planck Institute for Intelligent Systems]]
+| caption           = 
+| thesis_title      = Support Vector Learning
+| thesis_url        = 
+| thesis_year       = 1997
+| doctoral_advisor  = {{plainlist|1=
+*{{ill|Stefan Jähnichen|de}}
+*[[Vladimir Vapnik]]
+}}
+| academic_advisors = 
+| doctoral_students = {{plainlist|1=
+*[[Stefanie Jegelka]]
+*[[Ulrike von Luxburg]]
+}}
+| notable_students  = 
+}}
+
+'''Bernhard Schölkopf''' (born 20 February 1968) is a German computer scientist known for his work in machine learning, especially on [[kernel methods]] and [[causality]]. He is a director at the [[Max Planck Institute for Intelligent Systems]] in [[Tübingen]], [[Germany]], where he heads the Department of Empirical Inference. He is also an affiliated professor at [[ETH Zürich]], honorary professor at the [[University of Tübingen]] and [[Technische Universität Berlin]], and chairman of the [[European Laboratory for Learning and Intelligent Systems]] (ELLIS).
+
+==Research==
+===Kernel methods===
+Schölkopf developed [[Support vector machine|SVM]] methods achieving world record performance on the [[MNIST database|MNIST]] pattern recognition benchmark at the time.<ref>{{Cite journal|url=https://doi.org/10.1023/A:1012454411458|title=Training Invariant Support Vector Machines|first1=Dennis|last1=Decoste|first2=Bernhard|last2=Schölkopf|date=1 January 2002|journal=Machine Learning|volume=46|issue=1|pages=161–190|via=Springer Link|doi=10.1023/A:1012454411458|s2cid=85843|hdl=11858/00-001M-0000-0013-E06A-A|hdl-access=free}}</ref> With the introduction of [[kernel PCA]], Schölkopf and coauthors argued that SVMs are a special case of a much larger class of methods, and all algorithms that can be expressed in terms of [[dot product]]s can be generalized to a nonlinear setting by means of what is known as reproducing kernels.<ref name=":0">{{Cite book |last=Schölkopf |first=Bernhard |title=Support vector learning |date=1997 |publisher=Oldenbourg |isbn=978-3-486-24632-2 |series=GMD-Berichte |location=München Wien}}</ref><ref name=":1">{{Cite journal |last1=Schölkopf |first1=Bernhard |last2=Smola |first2=Alexander |last3=Müller |first3=Klaus-Robert |author-link3=Klaus-Robert Müller |date=1998-07-01 |title=Nonlinear Component Analysis as a Kernel Eigenvalue Problem |url=https://doi.org/10.1162/089976698300017467 |journal=Neural Computation |volume=10 |issue=5 |pages=1299–1319 |doi=10.1162/089976698300017467 |s2cid=6674407 |issn=0899-7667|url-access=subscription }}</ref><ref>{{Cite journal|url=https://doi.org/10.1023/A:1009715923555|title=A Tutorial on Support Vector Machines for Pattern Recognition|first=Christopher J.C.|last=Burges|date=1 June 1998|journal=Data Mining and Knowledge Discovery|volume=2|issue=2|pages=121–167|via=Springer Link|doi=10.1023/A:1009715923555|s2cid=221627509|url-access=subscription}}</ref> Another significant observation was that the data on which the kernel is defined need not be vectorial, as long as the kernel [[Gram matrix]] is positive definite.<ref name=":0" /> Both insights together led to the foundation of the field of [[kernel methods]], encompassing SVMs and many other algorithms. Kernel methods are now textbook knowledge and one of the major machine learning paradigms in research and applications.
+
+Developing kernel PCA, Schölkopf extended it to extract invariant features and to design invariant kernels<ref name=":1" /><ref>Schölkopf, P. Simard, A. J. Smola, and V. Vapnik. Prior knowledge in support vector kernels. In M. Jordan, M. Kearns, and [[Sara Solla|S. Solla]], editors, Advances in Neural Information Processing Systems 10, pages 640–646, Cambridge, MA, USA, 1998d. MIT Press</ref><ref>Chapelle and B. Schölkopf. Incorporating invariances in nonlinear SVMs. In T. G. Dietterich, S. Becker, and Z. Ghahramani, editors, Advances in Neural Information Processing Systems 14, pages 609–616, Cambridge, MA, USA, 2002. MIT Press</ref> and showed how to view other major dimensionality reduction methods such as [[Nonlinear dimensionality reduction#Kernel principal component analysis|LLE and Isomap as special cases]]. In further work with Alex Smola and others, he extended the SVM method to regression and classification with pre-specified sparsity<ref>B. Schölkopf, A. J. Smola, R. C. Williamson, and P. L. Bartlett. New support vector algorithms. Neural Computation, 12(5):1207–1245, 2000a</ref> and quantile/support estimation.<ref>B. Schölkopf, J. C. Platt, J. Shawe-Taylor, A. J. Smola, and R. C. Williamson. Estimating the support of a high-dimensional distribution. Neural Computation, 13(7):1443–1471, 2001b</ref> He proved a [[representer theorem]] implying that SVMs, kernel PCA, and most other kernel algorithms, regularized by a norm in a [[reproducing kernel Hilbert space]], have solutions taking the form of kernel expansions on the training data, thus reducing an infinite dimensional optimization problem to a finite dimensional one. He co-developed [[Kernel embedding of distributions|kernel embeddings of distributions methods to represent probability distributions in Hilbert Spaces]],<ref>A. Gretton, K. Borgwardt, M. Rasch, B. Schölkopf and A. Smola. A Kernel Method for the Two-Sample-Problem. Advances in Neural Information Processing Systems 19: 513—520, 2007</ref><ref>A. J.  Smola and A. Gretton and L. Song and B. Schölkopf. A Hilbert Space Embedding for Distributions. Algorithmic Learning Theory: 18th International Conference: 13—31, 2007</ref><ref>B. Sriperumbudur, A. Gretton, K. Fukumizu, B. Schölkopf and G. Lanckriet. Hilbert Space Embeddings and Metrics on Probability Measures. Journal of Machine Learning Research, 11: 1517—1561, 2010</ref><ref>A. Gretton, K. Borgwardt, M. Rasch, B. Schölkopf and A. J. Smola. A Kernel Two-Sample Test. Journal of Machine Learning Research, 13: 723—773, 2012</ref> with links to [[Fraunhofer diffraction]]<ref>S. Harmeling, M. Hirsch, and B. Schölkopf. On a link between kernel mean maps and Fraunhofer diffraction, with an application to super-resolution beyond the diffraction limit. In Computer Vision and Pattern Recognition (CVPR), pages 1083–1090. IEEE, 2013</ref> as well as applications to independence testing.<ref>A. Gretton, R. Herbrich, A. J. Smola, O. Bousquet, and B. Schölkopf. Kernel methods for measuring independence. Journal of Machine Learning Research, 6:2075–2129, 2005a</ref><ref>A. Gretton, O. Bousquet, A. J. Smola and B. Schölkopf. Measuring Statistical Dependence with Hilbert-Schmidt Norms. Algorithmic Learning Theory: 16th International Conference, 2005b</ref><ref>A. Gretton, K. Fukumizu, C.H. Teo, L. Song, B. Schölkopf and A. J. Smola. A Kernel Statistical Test of Independence. Advances in Neural Information Processing Systems 20, 2007</ref>
+
+===Causality===
+
+Starting in 2005, Schölkopf turned his attention to [[causal inference]]. Causal mechanisms in the world give rise to statistical dependencies as epiphenomena, but only the latter are exploited by popular machine learning algorithms. Knowledge about causal structures and mechanisms is useful by letting us predict not only future data coming from the same source, but also the effect of interventions in a system, and by facilitating transfer of detected regularities to new situations.<ref name="auto">B. Schölkopf, D. Janzing, J. Peters, E. Sgouritsa, K. Zhang, and J. Mooij. On causal and anticausal learning. In J. Langford and J. Pineau, editors, Proceedings of the 29th International Conference on Machine Learning (ICML), pages 1255–1262, New York, NY, USA, 2012. Omnipress</ref>
+
+Schölkopf and co-workers addressed (and in certain settings solved) the problem of causal discovery for the two-variable setting<ref>P. O. Hoyer, D. Janzing, J. M. Mooij, J. Peters, and B. Schölkopf. Nonlinear causal discovery with additive noise models. In D. Koller, D. Schuurmans, Y. Bengio, and L. Bottou, editors, Advances in Neural Information Processing Systems 21, pages 689–696, Red Hook, NY, USA, 2009. Curran</ref><ref>D. Janzing, P. Hoyer, and B. Schölkopf. Telling cause from effect based on high-dimensional observations. In J. Fu ̈rnkranz and T. Joachims, editors, Proceedings of the 27th International Conference on Machine Learning, pages 479–486, Madison, WI, USA, 2010. International Machine Learning Society</ref><ref>J.M. Mooij, J. Peters, D. Janzing, J. Zscheischler, and B. Schölkopf. Distinguishing cause from effect using observational data: methods and benchmarks. Journal of Machine Learning Research, 17(32):1–102, 2016</ref><ref>J. Peters, JM. Mooij, D. Janzing, and B. Schölkopf. Causal discovery with continuous additive noise models. Journal of Machine Learning Research, 15:2009–2053, 2014</ref><ref>P. Daniusis, D. Janzing, J. Mooij, J. Zscheischler, B. Steudel, K. Zhang, and B. Schölkopf. Inferring deterministic causal relations. In P. Grünwald and P. Spirtes, editors, 26th Conference on Uncertainty in Artificial Intelligence, pages 143–150, Corvallis, OR, 2010. AUAI Press. Best student paper award</ref> and connected causality to [[Kolmogorov complexity]].<ref>{{Cite journal|title=Causal Inference Using the Algorithmic Markov Condition|first1=Dominik|last1=Janzing|first2=Bernhard|last2=Schölkopf|date=6 October 2010|journal=IEEE Transactions on Information Theory|volume=56|issue=10|pages=5168–5194|doi=10.1109/TIT.2010.2060095|arxiv=0804.3678|bibcode=2010ITIT...56.5168J |s2cid=11867432}}</ref>
+
+Around 2010, Schölkopf began to explore how to use causality for machine learning, exploiting assumptions of independence of mechanisms and invariance.<ref>{{Cite journal |last1=Schölkopf |first1=Bernhard |last2=Janzing |first2=Dominik |last3=Peters |first3=Jonas |last4=Sgouritsa |first4=Eleni |last5=Zhang |first5=Kun |date=2012-06-27 |title=On Causal and Anticausal Learning |url=https://icml.cc/2012/papers/625.pdf |journal=International Conference of Machine Learning |arxiv=1206.6471 }}</ref> His early work on [[causal learning]] was exposed to a wider machine learning audience during his Posner lecture <ref>{{Cite web|url=http://videolectures.net/nips2011_scholkopf_inference/|title=From kernels to causal inference|website=videolectures.net}}</ref>  at [[NeurIPS]] 2011, as well as in a keynote talk at [[ICML]] 2017.<ref>{{Cite web|url=https://vimeo.com/238274659|title=Causal Learning --- Bernhard Schölkopf|date=15 October 2017|via=Vimeo}}</ref>
+He assayed how to exploit underlying causal structures in order to make machine learning methods more robust with respect to distribution shifts<ref name="auto"/><ref>K. Zhang, B. Schölkopf, K. Muandet, and Z. Wang. Domain adaptation under target and conditional shift. In S. Dasgupta and D. McAllester, editors, Proceedings of the 30th International Conference on Machine Learning, volume 28 of JMLR Workshop and Conference Proceedings, pages 819–827, 2013</ref><ref>{{Cite journal|url=https://www.nature.com/articles/518486a|title=Learning to see and act|first=Bernhard|last=Schölkopf|date=6 February 2015|journal=Nature|volume=518|issue=7540|pages=486–487|via=www.nature.com|doi=10.1038/518486a|pmid=25719660|s2cid=4461791|url-access=subscription}}</ref> and systematic errors,<ref>{{Cite journal|title=Modeling confounding by half-sibling regression|first1=Bernhard|last1=Schölkopf|first2=David W.|last2=Hogg|first3=Dun|last3=Wang|first4=Daniel|last4=Foreman-Mackey|first5=Dominik|last5=Janzing|first6=Carl-Johann|last6=Simon-Gabriel|first7=Jonas|last7=Peters|date=5 July 2016|journal=Proceedings of the National Academy of Sciences|volume=113|issue=27|pages=7391–7398|doi=10.1073/pnas.1511656113|pmid=27382154|pmc=4941423|bibcode=2016PNAS..113.7391S|doi-access=free}}</ref> the latter leading to the discovery of a number of new exoplanets<ref>D. Foreman-Mackey, B. T. Montet, D. W. Hogg, T. D. Morton, D. Wang, and B. Schölkopf. A systematic search for transiting planets in the K2 data. The Astrophysical Journal, 806(2), 2015</ref> including [[K2-18b]], which was subsequently found to contain water vapour in its atmosphere, a first for an exoplanet in the [[habitable zone]].
+
+==Education and employment==
+
+Schölkopf studied mathematics, physics, and philosophy in Tübingen and London. He was supported by the [[Studienstiftung]] and won the Lionel Cooper Memorial Prize for the best M.Sc. in Mathematics at the [[University of London]].<ref>{{Cite web |title=Curriculum Vitae Prof. Dr. Bernhard Schölkopf |url=https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Schoelkopf_Bernhard_D.pdf |website=Leopoldina |language=de }}</ref> He completed a [[Diplom]] in Physics, and then moved to [[Bell Labs]] in New Jersey, where he worked with [[Vladimir Vapnik]], who became co-adviser of his PhD thesis at [[Technische Universität Berlin|TU Berlin]] (with Stefan Jähnichen). His thesis, defended in 1997, won the annual award of the [[German Informatics Society|German Informatics Association]].<ref>{{Cite web|url=https://archiv.pressestelle.tu-berlin.de/pi/1998/pi209.htm|title=TU Berlin – Medieninformation Nr. 209 – 17. September 1998|website=archiv.pressestelle.tu-berlin.de}}</ref> In 2001, following positions in Berlin, Cambridge and New York, he founded the Department for Empirical Inference at the [[Max Planck Institute for Biological Cybernetics]], which grew into a leading center for research in machine learning. In 2011, he became founding director at the [[Max Planck Institute for Intelligent Systems]].<ref>{{Cite web|url=https://www.kyb.tuebingen.mpg.de/60587/history|title=History of the Institute|website=www.kyb.tuebingen.mpg.de}}</ref><ref>{{Cite web |date=2011 |title=Prescriptions for the Medicine of Tomorrow |url=https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Schoelkopf_Bernhard_D.pdf |website=The Science Magazine of the Max Planck Society }}</ref>
+
+With Alex Smola, Schölkopf co-founded the series of Machine Learning Summer Schools.<ref>{{Cite web|url=http://mlss.cc/|title=Machine Learning Summer Schools – MLSS|website=mlss.cc}}</ref> He also co-founded a Cambridge-Tübingen PhD Programme<ref>{{Cite web|url=https://mlg.eng.cam.ac.uk/|title=Cambridge Machine Learning Group|website=Cambridge Machine Learning Group}}</ref> and the Max Planck-ETH Center for Learning Systems.<ref>{{Cite web|url=https://cls-staging.is.localnet/|title=Max Planck ETH Center for Learning Systems|first=Jonathan|last=Williams|website=cls-staging.is.localnet}}{{Dead link|date=December 2025 |bot=InternetArchiveBot }}</ref> In 2016, he co-founded the Cyber Valley research consortium.<ref>{{Cite web|url=https://stm.baden-wuerttemberg.de/de/service/media/mid/europaeische-forschungskooperation-cyber-valley-startet-1/|title=Service|website=Baden-Württemberg.de|date=15 December 2016 }}</ref> He participated in the IEEE Global Initiative on "Ethically Aligned Design".<ref>{{Cite web |date=2016-12-13 |title=Ethically Aligned Design |url=https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v1.pdf |website=IEEE }}</ref>
+
+Schölkopf is co-editor-in-Chief of the [[Journal of Machine Learning Research]], a journal he helped found, being part of a mass resignation of the editorial board of [[Machine Learning (journal)]]. He is among the world’s most cited computer scientists.<ref>{{Cite web|url=https://www.guide2research.com/scientists/|title=World's Top Computer Scientists: H-Index Computer Science Ranking|website=www.guide2research.com}}</ref> Alumni of his lab include [[Ulrike von Luxburg]], Carl Rasmussen, Matthias Hein, Arthur Gretton, Gunnar Rätsch, Matthias Bethge, Stefanie Jegelka, Jason Weston, Olivier Bousquet, Olivier Chapelle, Joaquin Quinonero-Candela, and Sebastian Nowozin.<ref>{{Cite web |title=Alumni |url=http://people.tuebingen.mpg.de/bs/alumni.htm |access-date= |website=people.tuebingen.mpg.de}}</ref>
+
+As of late 2023, Schölkopf is also a scientific advisor to French research group Kyutai which is being funded by [[Xavier Niel]], [[Rodolphe Saadé]], [[Eric Schmidt]], and others.<ref>{{Cite web |last=Dillet |first=Romain |date=2023-11-17 |title=Kyutai is a French AI research lab with a $330 million budget that will make everything open source |url=https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/ |access-date=2024-06-16 |website=TechCrunch |language=en-US}}</ref>
+
+==Awards and recognition==
+
+Schölkopf’s awards include the [[Royal Society Milner Award]] and, shared with Isabelle Guyon and Vladimir Vapnik, the [[BBVA Foundation Frontiers of Knowledge Award]] in the Information and Communication Technologies category. He was the first scientist working in Europe to receive this award.<ref>{{Cite web|url=https://ei.is.tuebingen.mpg.de/news/bernhard-scholkopf-receives-frontiers-of-knowledge-award|title=Bernhard Schölkopf receives Frontiers of Knowledge Award &#124; Empirical Inference|first=Jon|last=Williams|website=Max Planck Institute for Intelligent Systems}}</ref> He was elected a [[Fellow of the Royal Society]] in 2026.<ref>{{Cite web |date=2026-05-27|title=Exceptional scientists elected as Fellows of the Royal Society|url=https://royalsociety.org/news/2026/05/new-fellows-announcement-2026/|access-date=2026-05-31|website=Royal Society|language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Scholia|author}}
+* {{Google Scholar id}}
+
+{{Milner Award laureates}}
+
+{{Authority control}}
+
+<!--- Use the DEFAULTSORT magic word to sort this article in all categories --->
+
+{{DEFAULTSORT:Scholkopf, Bernhard}}
+[[Category:German computer scientists]]
+[[Category:Machine learning researchers]]
+[[Category:German artificial intelligence researchers]]
+[[Category:Max Planck Society people]]
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:University of Tübingen alumni]]
+[[Category:Technische Universität Berlin alumni]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Gottfried Wilhelm Leibniz Prize winners]]
+[[Category:Alumni of the University of London]]
+[[Category:Academic staff of ETH Zurich]]
+[[Category:Scientists at Bell Labs]]
+[[Category:Studienstiftung alumni]]
+[[Category:Max Planck Institute directors]]

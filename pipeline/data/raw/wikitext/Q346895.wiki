@@ -1,0 +1,70 @@
+{{Short description|British theoretical physicist (1933–2026)}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = Jeffrey Goldstone
+| birth_date        = {{birth date|1933|9|3|df=y}}
+| birth_place       = [[Manchester]], England
+| death_date        = {{death date and age|2026|10|12|1933|9|3|df=y}}
+| death_place       = 
+| fields            = [[Quantum mechanics]]
+| workplaces        = [[Massachusetts Institute of Technology|MIT]]<br />[[University of Cambridge|Cambridge]]
+| education         = [[Trinity College, Cambridge]]
+| doctoral_advisor  = [[Hans Bethe]]
+| known_for         = [[Goldstone boson]]<br>[[Linked-cluster theorem]]<br>[[Quantum approximate optimization algorithm]]
+| awards= [[Dannie Heineman Prize for Mathematical Physics|Dannie Heineman Prize]] (1981)<br>[[Institute of Physics Michael Faraday Medal and Prize|Guthrie Medal]] (1983)<br>[[Dirac Medal (ICTP)]] (1991)
+}}
+
+'''Jeffrey Goldstone''' (3 September 1933 – 12 October 2026) was a British [[theoretical physicist]] and academic who was an emeritus physics faculty member at the [[MIT]] [[MIT Center for Theoretical Physics|Center for Theoretical Physics]]. Goldstone worked at the [[University of Cambridge]] until 1977. 
+
+He is noted for his work on the mathematical formalism of [[quantum field theory]] and his contributions to [[quantum optimization algorithms]]. The [[Goldstone boson]] and the related Goldstone theorem are named after him. 
+
+==Life and career==
+Born in Manchester, England, on 3 September 1933, Goldstone was educated at [[Manchester Grammar School]] and [[Trinity College, Cambridge]] (B.A. 1954, Ph.D. 1958). He worked on the theory of [[nuclear matter]] under the guidance of [[Hans Bethe]] and developed modifications of [[Feynman diagrams]] for non-relativistic many-fermion systems, which are currently referred to as Goldstone diagrams.<ref name="Atomic Many-Body Theory">{{cite book | author=Lindgren I. & Morrison J. | title=Atomic Many-Body Theory | edition=2nd | page=215 | publisher=Springer-Verlag | year=1986 | isbn=0-387-10504-2}}</ref> In 1957, he proved the [[linked-cluster theorem]], showing that only connected diagrams contribute to the calculation.<ref>{{Cite book |last1=Fetter |first1=Alexander L. |url=https://books.google.com/books?id=0wekf1s83b0C |title=Quantum Theory of Many-particle Systems |last2=Walecka |first2=John Dirk |date=2003-06-20 |publisher=Courier Corporation |isbn=978-0-486-42827-7 |language=en}}</ref>
+
+Goldstone was a research fellow of [[Trinity College, Cambridge]], from 1956 to 1960 and held visiting research posts at [[Copenhagen]], [[CERN]] and Harvard. During this time, his research focus shifted to [[particle physics]] and he investigated the nature of [[Relativistic field theory|relativistic field theories]] with spontaneously broken symmetries. With [[Abdus Salam]] and [[Steven Weinberg]], he proved that in such theories zero-mass particles (Nambu–Goldstone bosons) must exist.
+
+From 1962 to 1976, Goldstone was a faculty member at Cambridge. In the early 1970s, with [[Peter Goddard (physicist)|Peter Goddard]], [[Claudio Rebbi]] and [[Charles Thorn]], he worked out the light-cone quantization theory of relativistic strings. He moved to the [[United States|USA]] in 1977 as Professor of Physics at [[MIT]], where he was appointed the Cecil and Ida Green Professor of Physics in 1983 and was director of the MIT Center for Theoretical Physics in 1983–1989.
+
+He published research on solitons in quantum field theory with [[Roman Jackiw]] and [[Frank Wilczek]], and on the quantum strong law of large numbers with [[Edward Farhi]] and [[Samuel Gutmann]]. Since 1997, he has worked, with Farhi, Gutmann, [[Michael Sipser]] and [[Andrew Childs]], on [[quantum computing]].<ref>{{Cite web |title=Jeffrey Goldstone » MIT Physics |url=https://physics.mit.edu/faculty/jeffrey-goldstone/ |access-date=2024-09-20 |website=MIT Physics |language=en-US}}</ref> Together they introduced [[adiabatic quantum computation]] in 2000 and the [[Quantum optimization algorithms#Quantum approximate optimization algorithm|quantum approximate optimization (QAOA) algorithm]] in 2014.<ref>{{Cite journal |last=Blekos |first=Kostas |last2=Brand |first2=Dean |last3=Ceschini |first3=Andrea |last4=Chou |first4=Chiao-Hui |last5=Li |first5=Rui-Hao |last6=Pandya |first6=Komal |last7=Summer |first7=Alessandro |date=2024-06-02 |title=A review on Quantum Approximate Optimization Algorithm and its variants |url=https://www.sciencedirect.com/science/article/pii/S0370157324001078 |journal=Physics Reports |series=A review on Quantum Approximate Optimization Algorithm and its variants |volume=1068 |pages=1–66 |doi=10.1016/j.physrep.2024.03.002 |issn=0370-1573|arxiv=2306.09198 }}</ref>
+
+Goldstone died on 12 October 2026, aged 93.<ref>{{Cite web |last=Heatley |first=Kim |date=2026-10-14 |title=Jeffrey Goldstone, pioneering theoretical physicist and MIT professor emeritus, dies at 93 |url=https://physics.mit.edu/news/jeffrey-goldstone-pioneering-theoretical-physicist-and-mit-professor-emeritus-dies-at-93/ |access-date=2026-10-16 |website=MIT Physics |language=en-US}}</ref>
+
+==Awards and honours==
+* Fellow of the [[Royal Society]] (elected 1977),<ref>{{Cite web |date=July 2007 |title=List of Fellows of the Royal Society 1660 – 2007 |url=https://people.iith.ac.in/m_vidyasagar/images/royal-society/Fellows1660-2007.pdf |website=The Royal Society}}</ref>
+* Fellow of the [[American Academy of Arts and Sciences]] (1977),{{Citation needed|date=October 2026}}
+* Fellow of the [[American Physical Society]] (1987).<ref>{{Cite web |title=APS Fellows archive |url=https://www.aps.org/funding-recognition/aps-fellowship |access-date=2026-10-17 |website=www.aps.org |language=en}}</ref>
+* Honorary Fellow of [[Trinity College, Cambridge]] (2000).{{Citation needed|date=October 2026}}
+* [[Dannie Heineman Prize for Mathematical Physics]] of the American Physical Society (1981) "For his contribution to nuclear physics, condensed matter physics and to quantum field theory, in establishing the first rigorous diagrammatic technique for the many-body problem and in proving a fundamental theorem on spontaneously broken global symmetry."<ref>[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Jeffrey%20Goldstone&year=1981 APS Citation]</ref>
+* [[Institute of Physics Michael Faraday Medal and Prize|Guthrie Medal]] of the [[Institute of Physics]] (London) (1983)<ref>{{Cite web |title=Michael Faraday Medal and Prize recipients {{!}} Institute of Physics |url=https://www.iop.org/about/awards/gold-medals/michael-faraday-medal-and-prize-recipients |access-date=2026-10-17 |website=www.iop.org |language=en}}</ref>
+* [[Dirac Medal (ICTP)|Dirac Medal]] of the International Center for Theoretical Physics (Trieste) (1991) shared with [[Stanley Mandelstam]], "for his fundamental clarification of the phenomenon of spontaneous symmetry violation in relativistic quantum field theory."<ref>{{Cite web |title=Dirac Medallists 1991 {{!}} ICTP |url=https://www.ictp.it/home/dirac-medallists-1991 |access-date=2026-10-17 |website=www.ictp.it}}</ref>
+
+==See also==
+* [[Adiabatic quantum computation]]
+* [[Effective action]]
+* [[Goldstinos]]
+* [[Sgoldstino]]
+* [[Goldstone's theorem]]
+
+==Notes and references==
+<references/>
+
+==External links==
+* {{MathGenealogy|id=66814}}
+* {{INSPIRE-HEP author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Goldstone, Jeffrey}}
+[[Category:1933 births]]
+[[Category:2026 deaths]]
+[[Category:Scientists from Manchester]]
+[[Category:People educated at Manchester Grammar School]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:British theoretical physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:People associated with CERN]]
+[[Category:Quantum information scientists]]
+[[Category:MIT Center for Theoretical Physics faculty]]
+[[Category:British fellows of the Royal Society]]
+[[Category:Jewish physicists]]

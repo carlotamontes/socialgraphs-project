@@ -1,0 +1,41 @@
+{{Short description|German-Canadian computer scientist}}
+{{hatnote|This article is about the computer scientist. For the landscape and genre artist, see [[Gregor von Bochmann]].}}
+[[File:Gregor_von_Bochmann,2016.jpg|thumb|Gregor von Bochmann, 2016]] 
+'''Gregor von Bochmann''' (born 1941 in [[Schleswig-Holstein]]) is a German-Canadian [[computer scientist]] and emeritus professor of the [[Université de Montréal]] and the [[University of Ottawa]].<ref name="bio">{{cite web |title=Gregor Von Bochmann |url=https://research.uottawa.ca/people/von-bochmann-gregor-0 |website=University of Ottawa Research people directo |publisher=University of Ottawa, Canada |accessdate=28 April 2019 |location=Office of the Vice-President, Research}}</ref> He is known for his work in the area of [[protocol engineering]] and [[distributed applications]].
+
+== Biography==
+Gregor von Bochmann grew up in an artistic family, two of his great-grandfathers being well-known painters ([[Gregor von Bochmann]] and [[:de:Hans Peter Feddersen (Maler)|Hans Peter Feddersen]]). From 1952 to 1961, he attended the Johann-Heinrich-Voß-Gymnasium in [[Eutin]]. Then he studied physics at the universities of Kiel, Tübingen, Grenoble (France) and München. In between, he studied for one year cello and piano at the [[Musikhochschule Lübeck]]. He completed his master's in 1968 with a thesis about his participation in the second [[muon g-2]] experiment at [[CERN]].<ref>{{cite journal |last1=Bailey |first1=J. |last2=Bartl |first2=W. |last3=von Bochmann |first3=G. |last4=Brown |first4=R. C. A. |last5=Farley |first5=F. J. M. |last6=Giesch |first6=M. |last7=Jöstlein |first7=H. |last8=van der Meer |first8=S. |last9=Picasso |first9=E. |last10=Williams |first10=R. W. |title=Precise measurement of the anomalous magnetic moment of the muon |journal=Il Nuovo Cimento A |date=June 1972 |volume=9 |issue=4 |pages=369–432 |doi=10.1007/BF02785248|bibcode=1972NCimA...9..369B |s2cid=122810395 }}</ref> Then he moved to Canada and completed his PhD in 1971 at [[McGill University]] in the field of theoretical [[Particle physics|high-energy physics]]. With programming experience in machine, assembler and [[High-level programming language|high-level languages]] obtained during his work on the master and PhD theses, he used a post-doctoral scholarship from the [[National Research Council of Canada]] to get familiar with certain fields of computer science. 1972 he became assistant professor in the computer science department of the [[Université de Montréal]].
+
+His first research topic in computer science was related to [[neural network]]s.<ref>{{cite journal |last1=Bochmann |first1=G. V. |last2=Armstrong |first2=W. W. |title=Properties of boolean functions with a tree decomposition |journal=BIT |date=March 1974 |volume=14 |issue=1 |pages=1–13 |doi=10.1007/BF01933112|s2cid=115132511 }}</ref> But soon he moved to the field of compiler construction, and wrote a paper on the description of the semantics of programming languages which was much cited.<ref>{{Cite journal|title=Semantic Evaluation from Left to Right|first=Gregor V.|last=Bochmann|date=February 10, 1976|journal=Commun. ACM|volume=19|issue=2|pages=55–62|doi=10.1145/359997.359999|s2cid=8315317|doi-access=free}}</ref> But in 1975 he moved to the very new field of computer networks and concentrated his efforts on the description, verification and implementation of communication protocols.<ref>{{cite journal |last1=Bochmann |first1=Gregor v. |last2=Rayner |first2=Dave |last3=West |first3=Colin H. |title=Some notes on the history of protocol engineering |journal=Computer Networks |date=December 2010 |volume=54 |issue=18 |pages=3197–3209 |doi=10.1016/j.comnet.2010.05.019}}</ref> He wrote a seminal paper on finite state description of protocols <ref>{{cite journal |last1=Bochmann |first1=Gregor V. |title=Finite state description of communication protocols |journal=Computer Networks |date=September 1978 |volume=2 |issue=4–5 |pages=361–372 |doi=10.1016/0376-5075(78)90015-6}}</ref> and proposed the approach of [[reachability analysis]] for the verification of the behavior of distributed systems.
+
+He participated also, in the name of the Canadian government, in the international standardization activities on "Formal Description Techniques for communication protocols and services" that took place in ISO and ITU during the 1980s. He spent a sabbatical year in 1979-80 at [[Stanford University]] and in 1986-87 with [[Siemens]] in [[München]]. From 1989 to 1997, he held the  "Industrial Research Chair" on testing communication protocols at the [[Université de Montréal]]. He was also a scientific director of the {{ill|Centre de recherche en informatique de Montréal|fr}}<ref>{{Cite web|url=https://www.crim.ca/en|title=Home|website=www.crim.ca}}</ref> from 1990 to 1997. During this period, he organized many collaborative research projects with industry and university colleagues.
+
+In 1998 he moved to the [[University of Ottawa]] where he was full professor until 2016. During this time, his research covered several areas, such as software engineering for distributed systems, distributed multimedia applications, peer-to-peer systems, control procedures for optical networks, and Internet security.
+
+== Awards and memberships (selection) ==
+* 1995: Fellow of the [[Institute of Electrical and Electronics Engineers|IEEE]] with the citation "For contributions to the formal specification of protocols for data communications".<ref name="bio"/>
+* 1995: Honorary doctorat from the [[Joseph Fourier University|University of Grenoble]] in France
+* 1996: Fellow of the [[Association for Computing Machinery|ACM]]<ref>{{cite web |title=Gregor V Bochmann |url=https://awards.acm.org/award_winners/bochmann_1191212 |website=Association for Computing Machinery |publisher=ACM |accessdate=28 April 2019 |location=ACM Fellows Canada - 1996}}</ref>
+* 1997: Fellow of the [[Royal Society of Canada]]<ref name="bio"/>
+* 2001: Thomas W. Eadie Medal given by the [[Royal Society of Canada]]<ref name="bio"/>
+* 2002: Award for excellence in research from [[University of Ottawa]]
+* 2008: McNaughton Gold Medal given by IEEE Canada<ref>{{cite web |title=Recipients of A.G.L. McNaughton Award |url=https://www.ieee.ca/en/awards/member-awards/recipients-a-g-l-mcnaughton-award/ |website=IEEE Canada |date=16 October 2015 |publisher=Institute of Electrical and Electronics Engineers |accessdate=28 April 2019 |location=011: Gregor V. Bochmann}}</ref>
+* 2012: Honorary doctorat from the [[University of Rennes 1|University of Rennes]] in France
+
+== References ==
+{{reflist}}
+
+== External links==
+* [https://www.site.uottawa.ca/~bochmann/ home page] at the [[University of Ottawa]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bochmann, Gregor von}}
+[[Category:Canadian computer scientists]]
+[[Category:Academic staff of the University of Ottawa]]
+[[Category:1941 births]]
+[[Category:McGill Faculty of Science alumni]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Fellows of the IEEE]]
+[[Category:Living people]]
+[[Category:People associated with CERN]]

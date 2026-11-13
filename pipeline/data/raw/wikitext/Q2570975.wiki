@@ -1,0 +1,50 @@
+{{Short description|Soviet nuclear physicist}}
+{{infobox scientist
+|image=Vilen_Strutinsky.jpg
+|birth_name=Vilen Mitrofanovich Strutinsky
+|birth_date=16 October 1929 
+|birth_place=[[Odesa]], Ukraine
+|death_date=28 June 1993 (aged 63)
+|death_place=[[Rome]], Italy
+|field=[[Nuclear physics]]
+|known_for=Strutinsky smoothing method<br/>Strutinsky energy theorem
+}}
+'''Vilen Mitrofanovich Strutinsky''' ({{langx|ru|Вилен Митрофанович Струтинский}}; 16 October 1929 – 28 June 1993) was a Soviet nuclear physicist.<ref name=PhysicsTodayObit>{{cite journal|author=Kolomietz, Vladimir|author2=Abrosimov, Valery|title=Obituary. Vilen M. Strutinsky|journal=Physics Today|volume=47|issue=9|date=October 1994|pages=117–118|doi=10.1063/1.2808651|bibcode = 1994PhT....47i.117K |doi-access=free}}</ref>
+
+== Life and career ==
+Strutinsky graduated from secondary school in 1946 in Odesa (after his family during World War II had been evacuated to [[Yekaterinburg]]). He graduated in theoretical physics in 1952 from [[Kharkiv University]]. From 1953 to 1970 he worked at the department of nuclear theory in the [[Kurchatov Institute]] in Moscow. In 1959 he defended his PhD  at the [[National Research Nuclear University MEPhI]], and in 1965 he received the [[habilitation]] from the [[Joint Institute for Nuclear Research]]. He was a visiting scientist in 1956 in the Netherlands, in 1957–1958 at the [[Niels Bohr Institute]] in Copenhagen, in 1960 in Canada, and in 1963–1964 in the United States.
+
+In 1966, Strutinsky made a breakthrough concerning the problem of incorporating [[nuclear shell model|shell effects]] into nuclear deformation energies higher than those of the [[liquid drop model]] (LDM). For this problem he devised an averaging method, now known as the ''Strutinsky smoothing method''. At a 1969 Symposium in Lysekil, Sweden, he presented the results of applying his shell-correction method to calculating [[fission barrier]]s, giving a physical explanation of the ''[[fission isomer]]'' — this was an experimental fact which had not yet been explained theoretically. The ''Strutinsky energy theorem'' and Strutinsky shell-corrections are applicable to various many-[[fermion]] systems, such as metal clusters and semiconductor quantum dots.<ref name=Brackref>Brack, Matthias (2010) [https://arxiv.org/abs/1006.5539 "Vilen Mitrofanovich Strutinsky's impact on nuclear and many particle physics"], Arxiv</ref>
+
+{{blockquote|In 1967–1970 Strutinsky worked at the Niels Bohr Institute in Copenhagen as the head of the group of physicists that was set up to develop his theory of deformed nuclei. In the early 1970s in Kyiv, Strutinsky formulated with his collaborators a general theory of the shell phenomenon. They showed that the shell structure of nucleonic spectra is a characteristic feature of any finite quantum system.<ref name=PhysicsTodayObit/>}}
+
+In the 1970s, Strutinsky led a research group at the Kyiv Institute of Nuclear Research (KINR). They worked on many body theory and various aspects of nuclear dynamics. Strutinsky, in collaboration with Alexander G. Magner, extended Gutzwiller's semiclassical theory of shell structure ([[Martin Gutzwiller#Scientific work|Gutzwiller trace formula]]) to a quasiclassical theory of the nuclear shell structure (1977). This extension enabled physicists to derive new results for realistic shell-model potentials, for systems with continuous symmetries, and for systems with mixed symmetries.<ref name=Brackref/>
+
+In the 1980s, Strutinsky worked on correlations in partial waves in heavy-ion deep inelastic collisions. In 1991, he was a visiting scientist in the nuclear theory group at the [[Technical University of Munich]]. In 1992–1993, he was a visiting professor at the [[Istituto Nazionale di Fisica Nucleare]] in Italy.
+
+==Awards and honors==
+*1978: [[Tom W. Bonner Prize in Nuclear Physics]]
+*1979: Honorary Doctorate from the University of Copenhagen
+*1991: [[Humboldt Prize]] (1991).
+
+==Selected publications==
+*Strutinsky ''Nuclear deformation energy'', Sov. J. Nucl. Phys., vol. 3, 1966, p. 449
+*{{cite journal|doi=10.1016/0375-9474(67)90510-6|bibcode=1967NuPhA..95..420S|title=Shell effects in nuclear masses and deformation energies|journal=Nuclear Physics A|volume=95|issue=2|pages=420–442|year=1967|last1=Strutinsky|first1=V.M.}}
+*{{cite journal|doi=10.1016/0375-9474(68)90699-4|title="Shells" in deformed nuclei|journal=Nuclear Physics A|volume=122|issue=1|pages=1–33|year=1968|last1=Strutinsky|first1=V.M.|bibcode=1968NuPhA.122....1S}}
+*{{cite journal|doi=10.1016/0375-9474(69)90174-2|title=A method for solving the independent-particle Schrödinger equation with a deformed average field|journal=Nuclear Physics A|volume=135|issue=2|pages=432|year=1969|last1=Damgaard|first1=J.|last2=Pauli|first2=H.C.|last3=Pashkevich|first3=V.V.|last4=Strutinsky|first4=V.M.|bibcode=1969NuPhA.135..432D}}
+*{{cite journal|doi=10.1103/RevModPhys.44.320|title=Funny Hills: The Shell-Correction Approach to Nuclear Shell Effects and Its Applications to the Fission Process|journal=Reviews of Modern Physics|volume=44|issue=2|pages=320|year=1972|last1=Brack|first1=M.|last2=Damgaard|first2=Jens|last3=Jensen|first3=A. S.|last4=Pauli|first4=H. C.|last5=Strutinsky|first5=V. M.|last6=Wong|first6=C. Y.|bibcode=1972RvMP...44..320B|url=https://epub.uni-regensburg.de/11946/1/75.pdf}}
+*Strutinsky ''Semiclassical theory of nuclear shell structure'', Nucleonica, vol. 20, 1975, pp. 679–716
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Strutinsky, Vilen}}
+[[Category:1929 births]]
+[[Category:1993 deaths]]
+[[Category:Quantum physicists]]
+[[Category:Soviet physicists]]
+[[Category:20th-century Ukrainian physicists]]
+[[Category:Theoretical physicists]]
+[[Category:National University of Kharkiv alumni]]

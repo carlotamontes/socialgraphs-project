@@ -1,0 +1,56 @@
+{{short description|German computational and evolutionary biologist}}
+{{BLP sources|date=August 2017}}
+{{Infobox scientist
+|name              = Claus Wilke
+|image             = 
+|caption           =
+|birth_date        = {{birth year and age|1972}}
+|birth_place       = [[Germany]]
+|death_date        =
+|death_place       =
+|citizenship       =
+|nationality       = 
+|ethnicity         =
+|fields            = [[Evolutionary Biology]] and [[Computational Biology]]
+|workplaces        = [[University of Texas at Austin]]
+|education         = [[Ruhr University Bochum]]
+|doctoral_advisor  = Thomas Martinetz
+|thesis_title      = Evolutionary Dynamics in Time-Dependent Environments<ref>{{cite web |title=Claus O. Wilke CV |url=https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/3450780/ |website=utdirect.utexas.edu |access-date=31 May 2021}}</ref>
+|thesis_year       = 1999
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  =
+|known_for         = 
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|awards            =  
+|religion          =
+|signature         =  <!--(filename only)-->
+|footnotes         =
+}}
+
+'''Claus O. Wilke''' is a [[Computational Biology|computational]] and [[Evolutionary Biology|evolutionary biologist]] and chair of the Department of Integrative Biology at [[University of Texas at Austin]], where he is the Dwight W. and Blanche Faye Reeder Centennial Fellow in Systematic and Evolutionary Biology, and currently holds the Joseph J. & Jeanne M. Lagowski Regents Professorship in Molecular Bioscience.<ref>{{cite web |url=https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224/ |title=Wilke profile at UT Austin | access-date= 2017-08-26 }}</ref>
+
+==Education and career==
+Wilke obtained a Ph.D. in theoretical physics at the [[Ruhr University Bochum]] in 1999, and subsequently worked as a postdoctoral research fellow at the [[California Institute of Technology]] in the lab of [[Chris Adami]]. He moved to UT Austin as an assistant professor in 2006, where he is now professor, department chair, and director of the Wilke Lab. Wilke studies the evolution of molecules and viruses using theoretical and computational methods. He is also active in the field of [[data visualisation]]<ref name="dataviz">{{cite book |last1=Wilke |first1=C. |title=Fundamentals of data visualization : a primer on making informative and compelling figures |date=2019 |location=Sebastopol, CA |isbn=978-1492031086 |edition=First}}</ref> and is the author of the Cowplot and ggridges [[R (programming language)|R]] packages.<ref name="cowplot">{{cite web |last1=Wilke |first1=Claus O. |title=Introduction to cowplot |url=https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html |website=cran.r-project.org |access-date=31 May 2021}}</ref><ref name="ggridges">{{cite web |last1=Wilke |first1=Claus O. |title=Introduction to ggridges |url=https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html |website=cran.r-project.org |access-date=31 May 2021}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://wilkelab.org/ Wilke Lab web site]
+* [https://scholar.google.com/citations?user=Nc8U6E4AAAAJ List of publications at Google Scholar]
+* [http://serialmentor.com/blog/ Wilke's Blog "The Serial Mentor"]
+
+{{authority control}}
+
+{{DEFAULTSORT:Wilke, Claus O.}}
+[[Category:German expatriate academics in the United States]]
+[[Category:Living people]]
+[[Category:1972 births]]
+[[Category:German bioinformaticians]]
+[[Category:Evolutionary biologists]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:Ruhr University Bochum alumni]]

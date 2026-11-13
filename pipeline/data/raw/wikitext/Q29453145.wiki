@@ -1,0 +1,50 @@
+{{Short description|Scottish chemist}}
+{{Infobox scientist
+| name = Michael Buehl
+| image =
+| birth_name = Michael Bühl
+| education = {{Plainlist|
+* [[University of Erlangen-Nuremberg]]
+* [[University of Georgia]]}}
+| doctoral_advisor = [[Paul von Ragué Schleyer]]
+| website = {{URL|http://chemistry.st-andrews.ac.uk/staff/buehl/group/}}
+| field = [[Computational Chemistry]]
+| workplaces = {{Plainlist|
+* [[University of St. Andrews]]
+* [[University of Wuppertal]]
+* [[University of Zürich]]}}
+}}
+'''Michael Bühl''' is a professor of [[Computational chemistry|Computational and Theoretical Chemistry]] in the School of Chemistry, [[University of St Andrews|University of St. Andrews]]. He has published work on the performance of various [[Density functional theory|density functionals]],<ref name=Buehl2010/> modelling thermal and medium effects,<ref name=Bjornsson2010/><ref name=Bjornsson2010a/> [[Transition metal|transition-metal]] [[Nuclear magnetic resonance|NMR]] of metalloenzymes,<ref name=Geethalakshmi2009/> modelling of [[homogeneous catalysis]],<ref name=Sieffert2014/><ref name=Hagan2010/><ref>{{Cite journal|last1=Ahmad|first1=Shahbaz|last2=Lockett|first2=Ashley|last3=Shuttleworth|first3=Timothy A.|last4=Miles-Hobbs|first4=Alexandra M.|last5=Pringle|first5=Paul G.|last6=Bühl|first6=Michael|date=2019|title=Palladium-catalysed alkyne alkoxycarbonylation with P,N-chelating ligands revisited: a density functional theory study|url=http://xlink.rsc.org/?DOI=C9CP01471C|journal=Physical Chemistry Chemical Physics|language=en|volume=21|issue=16|pages=8543–8552|doi=10.1039/C9CP01471C|pmid=30957820 |bibcode=2019PCCP...21.8543A |issn=1463-9076|hdl=10023/19712|s2cid=102347387 |hdl-access=free|url-access=subscription}}</ref><ref>{{Cite journal|last1=Ahmad|first1=Shahbaz|last2=Crawford|first2=L. Ellis|last3=Bühl|first3=Michael|date=2020|title=Palladium-catalysed methoxycarbonylation of ethene with bidentate diphosphine ligands: a density functional theory study|url=http://xlink.rsc.org/?DOI=D0CP04454G|journal=Physical Chemistry Chemical Physics|language=en|volume=22|issue=42|pages=24330–24336|doi=10.1039/D0CP04454G|pmid=33104152 |bibcode=2020PCCP...2224330A |issn=1463-9076|hdl=10023/20845|s2cid=225072802 |hdl-access=free}}</ref><ref>{{Cite journal|last1=Ahmad|first1=Shahbaz|last2=Bühl|first2=Michael|date=2021|title=Computational modelling of Pd-catalysed alkoxycarbonylation of alkenes and alkynes|url=http://xlink.rsc.org/?DOI=D1CP02426D|journal=Physical Chemistry Chemical Physics|language=en|volume=23|issue=30|pages=15869–15880|doi=10.1039/D1CP02426D|pmid=34318843 |bibcode=2021PCCP...2315869A |issn=1463-9076|hdl=10023/23678|s2cid=236472958 |hdl-access=free}}</ref><ref>{{Cite journal|last1=Ahmad|first1=Shahbaz|last2=Bühl|first2=Michael|date=2019|title=Design of a Highly Active Pd Catalyst with P,N Hemilabile Ligands for Alkoxycarbonylation of Alkynes and Allenes: A Density Functional Theory Study|url=https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201902402|journal=Chemistry – A European Journal|language=en|volume=25|issue=50|pages=11625–11629|doi=10.1002/chem.201902402|pmid=31322770 |issn=1521-3765|hdl=10023/20461|s2cid=197665216 |hdl-access=free|url-access=subscription}}</ref><ref>{{Cite journal|last1=Lorusso|first1=Patrizia|last2=Ahmad|first2=Shahbaz|last3=Schmid)|first3=Karin Brill (née|last4=Cole-Hamilton|first4=David J.|last5=Sieffert|first5=Nicolas|last6=Bühl|first6=Michael|date=2020|title=On the Catalytic Activity of [RuH2(PPh3)3(CO)] (PPh3=triphenylphosphine) in Ruthenium-Catalysed Generation of Hydrogen from Alcohols: a Combined Experimental and DFT study|url=https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.202000159|journal=ChemCatChem|language=en|volume=12|issue=11|pages=2995–3009|doi=10.1002/cctc.202000159|issn=1867-3899|hdl=10023/19775|s2cid=216453350 |hdl-access=free}}</ref> and [[molecular dynamics]] of [[Coordination complex|transition metal complexes]].<ref name=Buehl2011/>
+
+== Biography ==
+Bühl was born in 1962.<ref>{{Cite web|url=http://chemistry.st-andrews.ac.uk/staff/buehl/group/|title=Michael Bühl @ School of Chemistry, University of St. Andrews|website=chemistry.st-andrews.ac.uk|access-date=2017-04-13}}</ref> He earned his PhD at the [[University of Erlangen-Nuremberg]]'s Institute for Organic Chemistry (Institut für organische Chemie), where his thesis advisor was [[Paul von Ragué Schleyer]]. In 1992, he worked as a [[Postdoctoral researcher|post-doctoral researcher]] with [[Henry F. Schaefer, III|Henry F. Schaefer III]] ([[University of Georgia]]). He was an Oberassistent at the Institute of Organic Chemistry, [[University of Zurich|University of Zürich]] between 1993 and 1999. In 1999, he also worked at [[Max Planck Institute for Coal Research|Max-Planck-Institut für Kohlenforschung]], [[Mülheim]]. He was on the faculty at the [[University of Zurich|University of Zürich]] from 1998 to 2000 and then at [[University of Wuppertal]] from 2000 to 2008. He is Chair of Computational Chemistry at the [[University of St Andrews|University of St. Andrews]] since 2008.
+
+== Research interests ==
+Bühl's group applies the tools of [[Computational chemistry|computational quantum chemistry]] to study a variety of chemical and biochemical systems and their properties, focussing on [[Transition metal|transition-metal]] and [[Block (periodic table)|f-element]] chemistry, [[Homogeneous catalysis|homogeneous]] and [[Biocatalysis|bio-catalysis]], and [[Nuclear magnetic resonance|NMR]] properties. The methods employed are mostly rooted in [[Density functional theory|density-functional theory]] (DFT), including [[Quantum mechanics|quantum-mechanical]]/[[Molecular mechanics|molecular-mechanical]] ([[QM/MM]]) calculations and first-principles [[molecular dynamics]] simulations.<ref>{{Cite web|url=https://risweb.st-andrews.ac.uk/portal/en/persons/michael-buehl(dbfea43c-12f5-4f47-8ac4-1f556060020f).html|title=Michael Buehl - University of St Andrews|website=risweb.st-andrews.ac.uk|language=en|access-date=2017-04-13}}</ref><ref>{{Cite web|url=http://www.eastchem.ac.uk/newsandevents/video/prof-michael-buehl-research-nutshell|title=Prof. Michael Buehl - Research in a Nutshell {{!}} EaStCHEM|website=www.eastchem.ac.uk|language=en|access-date=2017-04-13}}</ref><ref>{{Citation|last=EaStCHEM Research School of Chemistry|title=Michael Buehl|date=2014-04-16|url=https://www.youtube.com/watch?v=esEl_xidYW0|accessdate=2017-04-13}}</ref>
+
+== References ==
+<references>
+
+<ref name=Buehl2010>{{Cite journal|last1=Bühl|first1=Michael|last2=Wrackmeyer|first2=Bernd|date=2010-12-01|title=Density-functional computation of 93Nb NMR chemical shifts|journal=Magnetic Resonance in Chemistry|language=en|volume=48|issue=S1|pages=S61–S68|doi=10.1002/mrc.2624|pmid=20552575|s2cid=5328457|issn=1097-458X}}</ref>
+<ref name=Bjornsson2010>{{Cite journal|last1=Bjornsson|first1=Ragnar|last2=Früchtl|first2=Herbert|last3=Bühl|first3=Michael|date=2010-12-16|title=51V NMR parameters of VOCl3: static and dynamic density functional study from the gas phase to the bulk|journal=Physical Chemistry Chemical Physics|language=en|volume=13|issue=2|pages=619–627|doi=10.1039/C0CP01176B|pmid=21031202|issn=1463-9084}}</ref>
+<ref name=Bjornsson2010a>{{Cite journal|last1=Bjornsson|first1=Ragnar|last2=Bühl|first2=Michael|date=2012-02-14|title=Modeling Molecular Crystals by QM/MM: Self-Consistent Electrostatic Embedding for Geometry Optimizations and Molecular Property Calculations in the Solid|journal=Journal of Chemical Theory and Computation|volume=8|issue=2|pages=498–508|doi=10.1021/ct200824r|pmid=26596600|issn=1549-9618}}</ref>
+<ref name=Geethalakshmi2009>{{Cite journal|last1=Geethalakshmi|first1=K. R.|last2=Waller|first2=Mark P.|last3=Thiel|first3=Walter|last4=Bühl|first4=Michael|date=2009-04-02|title=51V NMR Chemical Shifts Calculated from QM/MM Models of Peroxo Forms of Vanadium Haloperoxidases|journal=The Journal of Physical Chemistry B|volume=113|issue=13|pages=4456–4465|doi=10.1021/jp8109308|pmid=19320526|issn=1520-6106|hdl=10023/1757|hdl-access=free}}</ref>
+<ref name=Sieffert2014>{{Cite journal|last1=Sieffert|first1=Nicolas|last2=Réocreux|first2=Romain|last3=Lorusso|first3=Patrizia|last4=Cole-Hamilton|first4=David J.|last5=Bühl|first5=Michael|date=2014-04-01|title=On the Importance of Decarbonylation as a Side-Reaction in the Ruthenium-Catalysed Dehydrogenation of Alcohols: A Combined Experimental and Density Functional Study|journal=Chemistry – A European Journal|language=en|volume=20|issue=14|pages=4141–4155|doi=10.1002/chem.201303722|pmid=24596319|issn=1521-3765|hdl=10023/6180|url=https://research-repository.st-andrews.ac.uk/bitstream/10023/6180/1/Buehl_2014_CAEJ_OntheImportance.pdf}}</ref>
+<ref name=Hagan2010>{{Cite journal|last1=Hagan|first1=Robert M.|last2=Björnsson|first2=Ragnar|last3=McMahon|first3=Stephen A.|last4=Schomburg|first4=Benjamin|last5=Braithwaite|first5=Vickie|last6=Bühl|first6=Michael|last7=Naismith|first7=James H.|last8=Schwarz-Linek|first8=Ulrich|date=2010-11-02|title=NMR Spectroscopic and Theoretical Analysis of a Spontaneously Formed Lys–Asp Isopeptide Bond|journal=Angewandte Chemie International Edition|language=en|volume=49|issue=45|pages=8421–8425|doi=10.1002/anie.201004340|issn=1521-3773|pmc=3315829|pmid=20878961}}</ref>
+<ref name=Buehl2011>{{Cite journal|last1=Bühl|first1=Michael|last2=Sieffert|first2=Nicolas|last3=Chaumont|first3=Alain|last4=Wipff|first4=Georges|date=2011-01-03|title=Water versus Acetonitrile Coordination to Uranyl. Density Functional Study of Cooperative Polarization Effects in Solution|journal=Inorganic Chemistry|volume=50|issue=1|pages=299–308|doi=10.1021/ic101950d|pmid=21126026|issn=0020-1669}}</ref>
+
+</references>
+
+== External links ==
+* [http://chemistry.st-andrews.ac.uk/staff/buehl/group/ Buehl's research group]
+__FORCETOC__
+
+{{authority control}}
+
+{{DEFAULTSORT:Buhl, Michael}}
+[[Category:Scottish chemists]]
+[[Category:Academics of the University of St Andrews]]
+[[Category:Living people]]
+[[Category:1962 births]]
+[[Category:Computational chemistry]]
+[[Category:Chemists of the University of St Andrews]]

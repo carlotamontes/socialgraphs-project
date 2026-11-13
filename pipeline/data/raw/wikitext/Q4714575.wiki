@@ -1,0 +1,69 @@
+{{Short description|Costa Rican physicist}}
+{{family name hatnote|Jenkins|Villalobos|lang=Spanish}}
+{{Infobox scientist
+| name              = Alejandro Jenkins
+| birth_name        = Alejandro Jenkins Villalobos
+| birth_date        = {{birth date|1979|10|17|df=y}}
+| birth_place       = [[San José, Costa Rica]]
+| fields            = [[Theoretical physics]]
+| workplaces        = [[University of Costa Rica]], [[Florida State University]], [[Massachusetts Institute of Technology]], [[California Institute of Technology]]
+| education         = [[California Institute of Technology]], [[Harvard University]], [[University of Costa Rica]]
+| thesis_title      = Topics in particle physics and cosmology beyond the standard model
+| thesis_url        = https://arxiv.org/abs/hep-th/0607239
+| thesis_year       = 2006
+| doctoral_advisor  = [[Mark B. Wise]]
+}}
+'''Alejandro Jenkins''' (born 17 October 1979, in [[San José, Costa Rica]]) is a [[Costa Rica]]n [[theoretical physics|theoretical physicist]].  He is currently a professor at the [[University of Costa Rica]] and a member of Costa Rica's [[Academia Nacional de Ciencias (Costa Rica)|National Academy of Sciences]].<ref name="ANC">{{cite web |url=https://www.anc.cr/alejandro-jenkins-villalobos/ |title=Alejandro Jenkins Villalobos, Académico de Número |publisher= Academia Nacional de Ciencias, Costa Rica |access-date=16 October 2024 |language=es }}</ref>  He has worked on applications of [[quantum field theory]] to [[particle physics]] and [[cosmology]], as well as on [[self-oscillation|self-oscillating]] dynamical systems and [[quantum thermodynamics]].<ref name="ANC" />
+
+== Education and employment ==
+Jenkins entered the [[University of Costa Rica]] in 1997, studying mathematics.  He later attended [[Harvard College]], where he resided in [[Currier House (Harvard College)|Currier House]]. In 2001 he graduated from Harvard with an [[Bachelor of Arts|A.B.]] degree in physics and mathematics.<ref name="ANC" />  He received his [[Doctor of Philosophy|Ph.D.]] in theoretical physics at [[California Institute of Technology|Caltech]] in 2006, working with [[Mark B. Wise|Mark Wise]] on "Topics in [[particle physics]] and [[cosmology]] beyond the [[Standard Model]]".<ref name="thesis">{{cite thesis |last=Jenkins |first=Alejandro |date=2006 |title=Topics in particle physics and cosmology beyond the Standard Model |type=Ph.D. |publisher=Caltech |arxiv=hep-th/0607239 |bibcode=2006PhDT.......131J}}</ref>  Some of the work in Jenkins's doctoral dissertation concerned models of [[dark energy]] in cosmology.<ref>{{cite journal |last1= Hsu |first1= Stephen D. H. |last2= Jenkins |first2= Alejandro |last3= Wise |first3= Mark B. |date= 2004 |title= Gradient instability for <math>w < -1</math> |journal=Physics Letters B |volume= 597 |issue= 3–4 |pages=  270–274 |doi=10.1016/j.physletb.2004.07.025 |arxiv= astro-ph/0406043 | author-link= Stephen Hsu|bibcode= 2004PhLB..597..270H |s2cid= 119456169 }}</ref>
+
+Jenkins was a postdoctoral researcher at Caltech (2006), at the [[MIT Center for Theoretical Physics]] (2006-09), and at [[Florida State University]]'s high-energy physics group (2009–12).  He became a professor of physics at the [[University of Costa Rica]] in 2013 and was elected as a member of Costa Rica's [[Academia Nacional de Ciencias (Costa Rica)|National Academy of Sciences]] in 2015.<ref name="ANC" />
+
+==Research==
+
+===Quark mass and congeniality to life<!--linked from 'Anthropic principle'-->===
+
+====The anthropic principle====
+{{Main|Anthropic principle}}
+
+In physics and cosmology, the anthropic principle is the collective name for several ways of asserting that the observations of the physical Universe must be compatible with the life observed in it. The principle was formulated as a response to a series of observations that the laws of nature and its fundamental physical constants remarkably take on values that are consistent with conditions for life as we know it rather than a set of values that would not be consistent with life as observed on Earth. The anthropic principle states that this apparent coincidence is actually a necessity because living observers would not be able to exist, and hence, observe the universe, were these laws and constants not constituted in this way.<ref name="Acta">{{cite journal |last=Jenkins |first=Alejandro |date=2009 |title=Anthropic constraints on fermion masses |url=http://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=2&page=283 |journal=Acta Physica Polonica B Proceedings Supplement |volume=2 |issue=2 |pages=283–288 |arxiv= 0906.0029|bibcode=2009arXiv0906.0029J }}</ref><ref name="Bennett">{{cite web |url=https://quantumfrontiers.com/2016/05/29/schopenhauer-and-the-geometry-of-evil/ |title=Schopenhauer and the Geometry of Evil |last=Bennett |first=Charles H. |publisher= Institute for Quantum Information and Matter (Caltech) |date=29 May 2016 |website=Quantum Frontiers |access-date=16 June 2017| author-link= Charles H. Bennett (computer scientist)}}</ref>
+
+====Jenkins's contributions====
+To test this hypothesis, [[Robert Jaffe (physicist)|Robert Jaffe]], Jenkins, and Itamar Kimchi used models to "tweak" the values of the [[Quark#Mass|quark masses]] and examined how that would affect the ability of stable isotopes of [[carbon]] and [[hydrogen]] to form, making [[organic chemistry]] possible.  They found that, within the various potential universes they examined, many had very different qualities from our own, but that nonetheless life could still develop.  In some cases, where forms of carbon we find in our universe were unstable, other forms of stable carbon were identified as possible.<ref name="anthropic-quarks">{{cite journal |last1=Jaffe |first1=Robert L. | last2=Jenkins |first2=Alejandro | last3=Kimchi | first3=Itamar |date=2009 |title=Quark Masses: an environmental impact statement |journal=Physical Review D |volume=79 |issue=6 |article-number=065014 |doi=10.1103/PhysRevD.79.065014 |arxiv= 0809.1647|bibcode=2009PhRvD..79f5014J |s2cid=14759915 }}</ref><ref name="MIT-news">{{cite news |last=Trafton |first=Anne |date=22 February 2010 |title=Life beyond our universe |url=https://news.mit.edu/2010/multiple-universes |work=MIT News |location= Cambridge, MA |access-date=16 June 2017 }}</ref>
+
+The work by Jaffe, Jenkins, and Kimchi on anthropic constraints on quark masses was highlighted by the [[American Physical Society]]'s ''[[Physics (American Physical Society magazine)|Physics]]'' magazine.<ref name="APS">{{cite journal |last=Perez |first=Gilad |date=2009 | title=Viewpoint: A guided tour through the wild nuclear landscape |journal=Physics |volume=2 |page=21 |doi=10.1103/Physics.2.21|bibcode=2009PhyOJ...2...21P |doi-access=free }}</ref>  That work, along with research by other theorists on the possibility of an anthropically-allowed "[[Weakless Universe|weakless universe]]", was summarized in ''[[Scientific American]]'' magazine's January 2010 cover story, which Jenkins co-authored with Israeli particle physicist [[Gilad Perez]].<ref name="SciAm">{{cite journal |last1=Jenkins |first1=Alejandro | last2=Perez |first2=Gilad |date=2010 |title=Looking for Life in the Multiverse|journal=Scientific American |volume=302 |issue=1 |pages=42–49 |doi=10.1038/scientificamerican0110-42|pmid=20063635 |bibcode=2010SciAm.302a..42J }}</ref>  Jenkins also explained his work in a 2015 appearance on the TV show ''[[Through the Wormhole]]''.<ref name="Wormhole">
+{{cite episode |title=Are Aliens Inside Us? |series=Through the Wormhole |date=23 April 2015 |url=https://www.sciencechannelgo.com/through-the-wormhole/are-aliens-inside-us/ |network=[[Science (TV network)|Science]] |season=6 |number=1 |last=Freeman |first=Morgan (host)| author-link= Morgan Freeman}}</ref>
+
+=== Self-oscillation and thermodynamics ===
+
+Jenkins's review of the physics of [[self-oscillation|self-oscillators]] was published by ''[[Physics Reports]]'' in 2013.<ref name="self-oscillation">{{cite journal |last=Jenkins |first=Alejandro |date=2013 |title=Self-oscillation |journal=Physics Reports |volume=525 |issue=2 |pages=167–222 |doi=10.1016/j.physrep.2012.10.007 |arxiv=1109.6640|bibcode=2013PhR...525..167J |s2cid=227438422 }}</ref>  Jenkins has also collaborated with mathematical physicist [[:pl:Robert Alicki|Robert Alicki]] and theoretical chemist David Gelbwaser-Klimovsky on applying related ideas in order to arrive at a better understanding of [[non-equilibrium thermodynamics]] and [[quantum thermodynamics]], with a particular application to the microscopic physics of [[solar cell]]s<ref name="solar">{{cite journal |last1=Alicki |first1=Robert |last2=Gelbwaser-Klimovsky |first2=David |last3=Jenkins |first3=Alejandro |date=2017 |title=A thermodynamic cycle for the solar cell |journal=Annals of Physics |volume=378 |pages=71–87 |doi=10.1016/j.aop.2017.01.003 |arxiv=1606.03819|bibcode=2017AnPhy.378...71A |hdl=10669/29417 |s2cid=55071810 }}</ref> and the [[triboelectric effect]].<ref name="triboelectric">{{cite journal |last1=Alicki |first1=Robert | last2=Jenkins |first2=Alejandro |date=2020 |title=Quantum Theory of Triboelectricity |journal=Physical Review Letters |volume=125 |issue=18 |article-number=186101 |doi=10.1103/PhysRevLett.125.186101 |pmid=33196235 |arxiv=1904.11997 |bibcode=2020PhRvL.125r6101A|s2cid=139102854 }}</ref><ref name="PhysWorld-tribo">{{cite news |last=Demming |first=Anna |date= 6 Oct 2020 |title=Quantum treatment sheds fresh light on triboelectricity |url=https://physicsworld.com/a/quantum-treatment-sheds-fresh-light-on-triboelectricity/ |work=Physics World |location= Bristol, UK |access-date=18 Jan 2021}}</ref><ref name="SciPol">{{cite news |last=Tomala |first=Ludwika |date= 19 Oct 2020 |title=Ancient mystery of how bodies electrify solved |url=https://scienceinpoland.pap.pl/node/84372 |work=Science in Poland |location= Warsaw |access-date=9 Mar 2024}}</ref>  With experimentalist [[:de:Elizabeth von Hauff|Elizabeth von Hauff]] they have also presented a new model of the pumping of electrical charge in [[Electric battery|batteries]].<ref name="PCCP-batt">{{cite journal |last1=Alicki |first1=Robert |last2=Gelbwaser-Klimovsky |first2=David |last3=Jenkins |first3=Alejandro |last4=von Hauff |first4=Elizabeth |date=2021 |title=Dynamical theory for the battery's electromotive force |journal=Physical Chemistry Chemical Physics |volume=23 |issue=15 |pages=9428–9439 |doi=10.1039/d1cp00196e |pmid=33885063 |arxiv=2010.16400 |bibcode=2021PCCP...23.9428A |s2cid=226222201}}</ref>  With [[Michał Horodecki]] and others, he was proposed a description of the [[Josephson junction]] as an [[Open quantum system|open system]] (a quantum engine).<ref>{{Cite journal |last=Alicki |first=Robert |last2=Horodecki |first2=Michał |last3=Jenkins |first3=Alejandro |last4=Łobejko |first4=Marcin |last5=Suárez |first5=Gerardo |date=2023-11-01 |title=The Josephson junction as a quantum engine |url=https://iopscience.iop.org/article/10.1088/1367-2630/ad06d8 |journal=New Journal of Physics |volume=25 |issue=11 |pages=113013 |arxiv=2302.04762 |doi=10.1088/1367-2630/ad06d8 |issn=1367-2630|author-link2=Michał Horodecki}}</ref>
+
+==See also==
+{{Div col|colwidth=20em}}
+* [[Quantum thermodynamics]]
+* [[Inflation (cosmology)]]
+* [[Quark]]
+* [[Anthropic principle]]
+* [[Multiverse]]
+* [[Feynman sprinkler]]
+* [[Many-worlds interpretation]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://sites.google.com/site/alejandrojenkins/ Personal website]
+* {{Google scholar id}}
+* {{IMDb name|id=15891585}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jenkins, Alejandro}}
+[[Category:Costa Rican scientists]]
+[[Category:Living people]]
+[[Category:1979 births]]
+[[Category:Harvard University alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Academic staff of the University of Costa Rica]]

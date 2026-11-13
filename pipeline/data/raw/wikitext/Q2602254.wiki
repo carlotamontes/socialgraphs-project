@@ -1,0 +1,123 @@
+{{Short description|French physicist}}
+{{Infobox scientist
+ |honorific_suffix = 
+ |name          = Yves Pomeau
+ |image         = 
+ |caption       = 
+ |alt           = 
+ |birth_name    = Yves Pomeau
+ |birth_date    = 
+ |death_date    = 
+ |birth_place   = 
+ |death_place   = 
+ |resting_place = 
+ |alma_mater    = 
+ |known_for     = [[Lattice gas automaton]]<br>[[HPP model|Hardy–Pomeau–Pazzis model]]<br>[[Hénon map|Hénon–Pomeau map]]<br>[[Pomeau–Manneville scenario]]
+ |spouse        = 
+ |children      = 
+ |awards        = [[Boltzmann Medal]] {{small|(2016)}}<br>[[Prix Jean Ricard]] {{small|(1986)}} <br>[[Prix Paul Langevin]] {{small|(1981)}} <br> [[Three Physicists Prize]] {{small|(2024)}}
+ |framestyle    = 
+ |liststyle     = 
+ |title         = 
+ |field         = 
+ |workplaces    = [[French National Centre for Scientific Research|CNRS]]<br>[[University of Arizona]]
+ |style         = 
+ |thesis_title  = 
+ |thesis_url    = 
+ |thesis_year   = 
+ |doctoral_advisor  = 
+ |academic_advisors = 
+ |doctoral_students = 
+ |notable_students  = 
+ |influences    = 
+ |influenced    = 
+ |signature     =
+}}
+'''Yves Pomeau''', born in 1942, is a French [[mathematician]] and [[physicist]], emeritus research director at the [[French National Centre for Scientific Research|CNRS]] and corresponding member of the [[French Academy of Sciences|French Academy of sciences]]. He was one of the founders of the Laboratoire de Physique Statistique, École Normale Supérieure, Paris. He is the son of literature professor [[René Pomeau]].<ref>{{cite web|title=Notice sur la vie et les travaux de René Pomeau|date=7 April 2003 |url=https://academiesciencesmoralesetpolitiques.fr/2003/04/07/notice-sur-la-vie-et-les-travaux-de-rene-pomeau/}}</ref>
+
+== Career ==
+
+Yves Pomeau did his state thesis in plasma physics, almost without any adviser, at the University of Orsay-France in 1970. After his thesis, he spent a year as a postdoc with [[Ilya Prigogine]] in Brussels.<ref>{{cite journal|title=Introduction: Pattern formation at the turn of the millennium|year=2004|doi=10.1063/1.1786811|pmid=15446987|last1=Coullet|first1=P.|last2=Tresser|first2=C.|journal=Chaos|volume=14|issue=3|pages=774–776|bibcode=2004Chaos..14..774C }}</ref>
+
+He was a researcher at the CNRS from 1965 to 2006, ending his career as DR0 in the Physics Department of the [[École normale supérieure (Paris)|Ecole Normale Supérieure]] (ENS) (Statistical Physics Laboratory) in 2006.
+
+He was a lecturer in physics at the [[École Polytechnique]] for two years (1982–1984), then a scientific expert with the [[Direction générale de l'armement]] until January 2007.
+
+He was Professor, with tenure, part-time at the Department of Mathematics, [[University of Arizona]], from 1990 to 2008.
+
+He was visiting scientist at Schlumberger–Doll Laboratories ([[Connecticut]], USA) from 1983 to 1984.
+
+He was a visiting professor at [[Massachusetts Institute of Technology|MIT]] in Applied Mathematics in 1986 and in Physics at [[University of California, San Diego|UC San Diego]] in 1993.
+
+He was Ulam Scholar at CNLS, [[Los Alamos National Laboratory|Los Alamos National Lab]], in 2007–2008.
+
+He has written 3 books,<ref>Berge P., Pomeau Y. and Vidal C., Order within chaos: towards a deterministic approach to turbulence, Wiley-VCH, 1987 translated from the French edition: Ordre dans le chaos, Hermann, Paris 1984. The book was later translated to Russian, Chinese (Mandarin), Portuguese and Japanese.</ref><ref>Audoly B. and Pomeau Y., Elasticity and Geometry, Oxford University Press, Oxford 2010, x + 586 pages</ref><ref>Pomeau Y. and Tran M.-B., Statistical Physics of Non Equilibrium Quantum Phenomena, Springer, 2019</ref> and published around 400 scientific articles.<ref>{{cite web|title=Publications|url=https://scholar.google.com/citations?hl=en&user=-Mg19tYAAAAJ}}</ref>
+
+== Education ==
+
+* École normale supérieure, 1961–1965.
+* Licence (1962).
+* DEA in Plasma Physics, 1964.
+* Aggregation of Physics 1965.
+* State thesis in plasma physics, University of Orsay, 1970.
+
+== Research ==
+In his thesis<ref>Pomeau, Y., « A new kinetic theory for a dense classical gas », ''Physics Letters A'', 1968. 27a(9), <abbr>p.</abbr> 601–2</ref><ref>Pomeau, Y., « A divergence free kinetic equation for a dense boltzmann gas », ''Physics Letters A'', 1968. a 26(7), <abbr>p.</abbr> 336</ref> he showed that in a dense fluid the interactions are different from what they are at equilibrium and propagate through hydrodynamic modes, which leads to the divergence of transport coefficients in 2 spatial dimensions.
+
+This aroused his interest in fluid mechanics, and in the transition to turbulence. Together with Paul Manneville, Yves Pomeau discovered a new mode of transition to turbulence,<ref>Manneville, P. and Pomeau Y., « Intermittency and the Lorentz model », ''Physics Letters A'', 1979. 75 (1–2), <abbr>pp.</abbr> 1–2</ref> the transition by temporal [[Intermittency]], which was confirmed by numerous [[Logistic map#Behavior dependent on r|experimental observations]] and [[Stellar pulsation#CFD simulations|CFD simulations]]. This is the so-called [[Pomeau–Manneville scenario]], associated with the [[List of chaotic maps|Pomeau-Manneville maps]]
+<ref>Pomeau, Y.; Manneville, P. (1980). "Intermittent Transition to Turbulence in Dissipative Dynamical Systems". Commun. Math. Phys. 74 (2): 189–197</ref>
+
+In papers published in 1973 and 1976, Jean Hardy, Yves Pomeau and Olivier de Pazzis <ref>Hardy, J., Pomeau, Y.,  and De Pazzis,  O.  «Time evolution of a two-dimensional classical lattice system.»  Physical Review Letters 31.5 (1973): 276.</ref><ref>Hardy, J., De Pazzis, O., and Pomeau, Y. « Molecular dynamics of a classical lattice gas: Transport properties and time correlation functions.» Physical review A 13.5 (1976): 1949.</ref> introduced [[Lattice gas automaton|the first lattice Boltzmann model]], which is called the [[HPP model]] after the authors. Generalizing ideas from his thesis, together with [[Uriel Frisch]] and [[Brosl Hasslacher]], Yves Pomeau found<ref>Frisch U., Hasslacher B., and Pomeau Y., « Lattice-gas automata for the Navier–Stokes equation », ''Physical Review Letters'', 1986. 56(14), <abbr>pp.</abbr> 1505–8</ref>   a very simplified microscopic fluid model (FHP model) which allows simulating very efficiently the complex movements of a real fluid.<ref>Frisch, U., d'Humieres, D., Hasslacher, B., Lallemand, P., Pomeau, Y., & Rivet, J. P. (1986). Lattice gas hydrodynamics in two and three dimensions (No. LA-UR-87-2524; CONF-8610281-2). Los Alamos National Lab., NM (USA); Observatoire de Nice, 06 (France); Ecole Normale Superieure, 75-Paris (France).</ref> He was a pioneer of [[lattice Boltzmann methods]] and played a historical role in the [[Timeline of computational physics#1970s|timeline of computational physics]].
+
+Reflecting on the situation of the transition to turbulence in parallel flows, he showed<ref>Pomeau, Y., « Front motion, metastability and subcritical bifurcations in hydrodynamics », ''Physica D'', 1986. 23 (1–3), <abbr>pp.</abbr> 3–11</ref> that turbulence is caused by a contagion mechanism, and not by local instability. [[Front (physics)|Front can be static or mobile]]  depending on the conditions of the system, and the causes of the motion can be the variation of a free energy, where the most energetically favorable state invades the less favorable one. The consequence is that this transition belongs to the class of directed percolation phenomena in statistical physics, which has also been amply confirmed by experimental and numerical studies.
+
+In dynamical systems theory, the structure and length of the attractors of a network corresponds to the dynamic phase of the network. [[Boolean network#Stability|The stability of Boolean network]] depends on the connections of their nodes. A Boolean network can exhibit stable, critical or chaotic behavior. This phenomenon is governed by a critical value of the average number of connections of nodes (<math>K_{c}</math>), and can be characterized by the Hamming distance as distance measure. If <math> p_{i}=p=const. </math> for every node, the transition between the stable and chaotic range depends on <math> p </math>. [[Bernard Derrida]] and Yves Pomeau proved that,<ref>{{Cite journal|title = Random Networks of Automata: A Simple Annealed Approximation|journal = Europhysics Letters|date = 1986-01-15|pages = 45–49|volume = 1|issue = 2|doi = 10.1209/0295-5075/1/2/001|first1 = B|last1 = Derrida|first2 = Y|last2 = Pomeau|bibcode = 1986EL......1...45D| s2cid=160018158 | url=https://hal.archives-ouvertes.fr/hal-03285912/file/Random%20Networks%20of%20Automata%20%20A%20Simple%20Annealed%20Approximation.pdf }}</ref> the critical value of the average  number of connections is <math> K_{c}=1/[2p(1-p)] </math>.
+
+A droplet of nonwetting viscous liquid moves on an inclined plane by rolling along it. Together with [[Lakshminarayanan Mahadevan]], he gave a scaling law for the uniform speed of such a droplet.<ref>Mahadevan, L., and Pomeau, Y., «Rolling droplets », Physics of Fluids, 1999, '''11''', 2449–53.</ref> With Christiane Normand, and [[Manuel García Velarde]], Yves Pomeau studied convective instability.<ref>BCross, M.C. and Hohenberg, P.C., « Pattern formation outside of equilibrium. », ''Reviews of modern physics'', (1993) 65(3), p.851.</ref> Apart from simple situations, capillarity remains an area where fundamental questions remain. He showed<ref>Pomeau Y., « Représentation de la ligne de contact mobile », ''CRAS Série'', iib, t. 328  (2000), <abbr>pp.</abbr> 411–416</ref> that the discrepancies appearing in the hydrodynamics of the moving contact line on a solid surface could only be eliminated by taking into account the evaporation/condensation near this line. Capillary forces are almost always insignificant in [[solid mechanics]]. Nevertheless, with Serge Mora, Ty Phou, Jean-Marc Fromental and Len M. Pismen <ref>Mora S. et al., « Capillarity driven instability of a soft solid », ''Phys Rev. Lett'', 205, (2010)</ref> they have shown theoretically and experimentally that soft gel filaments are subject to Rayleigh-Plateau instability, an instability never observed before for a solid. In collaboration with his former PhD student [[List of Ig Nobel Prize winners#2006|Basile Audoly]] and [[Henri Berestycki]], he studied the speed of the propagation of a reaction front in a fast steady flow with a given structure in space.<ref>Audoly, B., Berestycki, H., & Pomeau, Y. (2000). Réaction diffusion en écoulement stationnaire rapide. Comptes Rendus de l'Académie des Sciences-Series IIB-Mechanics-Physics-Astronomy, 328(3), 255–262.</ref> With [[List of Ig Nobel Prize winners#2006|Basile Audoly]] and Martine Ben Amar, Pomeau developed<ref>Audoly B. and Pomeau Y., Elasticity and Geometry, Oxford University Press, Oxford 2010, x + 586 pages</ref> a theory of large deformations of elastic plates which led them to introduce the concept of "''d''-cone", that is, a geometrical cone preserving the overall developability of the surface, an idea now taken up by the solid mechanics community.
+
+The theory of superconductivity is based on the idea of the formation of pairs of electrons that become more or less bosons undergoing Bose-Einstein condensation. This pair formation would explain the halving of the flux quantum in a superconducting loop. Together with Len Pismen and Sergio Rica <ref>Pismen, L., Pomeau Y., and Rica S., « Core structure and oscillations of spinor vortices », ''Physica D'', 1998. 117 (1/4), <abbr>pp.</abbr> 167–80</ref> they have shown that, going back to Onsager's idea explaining the quantification of the circulation in fundamental quantum states, it is not necessary to use the notion of electron pairs to understand this halving of the circulation quantum. He also analyzed the onset of BEC  from the point of view of kinetic theory. Whereas the kinetic equation for a dilute Bose gas had been known for many years, the way it can describe what happens when the gas is cooled down to reach temperature below the temperature of transition. At this temperature the gas gets a macroscopic component in the quantum ground state, as had been predicted by Einstein long ago. Together with Christophe Josserand and Sergio Rica, Pomeau showed <ref>Josserand C.,  Pomeau Y., and Rica S., Self-similar singularities in the kinetics of condensation. Journal of Low Temperature Physics, 2006. 145(1–4): p. 231-265.</ref> that the solution of the kinetic equation becomes singular at zero energies and we did also find how the density of the condensate grows with time after the transition. Marc-Étienne Brachet, Stéphane Métens, Sergio Rica and Yves Pomeau also derived the kinetic equation for the Bogoliubov excitations of Bose-Einstein condensates,<ref>Y. Pomeau, M. E. Brachet, S. Metens et S. Rica, Théorie cinétique d'un gaz de Bose dilué avec condensat C. R. Acad. Sci. Paris, t. 327, Série II b, p.791-798, 1999</ref> where Yves Pomeau and Minh-Binh Tran found three collisional processes.<ref>Tran M.-B., Pomeau Y. Boltzmann-type collision operators for Bogoliubov excitations of Bose-Einstein condensates: A unified framework. Physical Review E 101 (3), 032119 (2020)</ref> Before the surge of interest in super-solids started by Moses Chan experiments, Sergio Rica and Yves Pomeau had shown in an early simulation <ref>Pomeau  Y. and Rica S. Dynamics of a model of a supersolid. Physical Review Letters, 1994. 72(15): p. 2426-9</ref> that a slightly modified NLS equation yields a fair representation of super-solids. With [[Alan C. Newell]], he studied turbulent crystals in macroscopic systems.<ref>Newell, A. C., and Y. Pomeau. "Turbulent crystals in macroscopic systems." Journal of Physics A: Mathematical and General 26.8 (1993): L429.</ref>
+
+From his more recent work we must distinguish those concerning a phenomenon typically out of equilibrium, that of the emission of photons by an atom maintained in an excited state by an intense field that creates Rabi oscillations. The theory of this phenomenon requires a precise consideration of the statistical concepts of quantum mechanics in a theory satisfying the fundamental constraints of such a theory. With Martine Le Berre and [[Jean Ginibre]], Yves Pomeau showed<ref>Pomeau Y., Le Berre M. and Ginibre J., « Ultimate Statistical Physics, Fluorescence of a single atom », ''J. Stat. Phys. Special Issue'', 26 (2016)</ref> that the right theory was that of a Kolmogorov equation based on the existence of a small parameter, the ratio of the photon emission rate to the atomic frequency itself.
+
+==Known for==
+*[[Timeline of computational physics#1970s|Timeline of computational physics]]
+*[[lattice Boltzmann methods|Lattice Boltzmann Models]]
+*[[Intermittency]]
+*[[Pomeau–Manneville scenario]]
+*[[List of chaotic maps|Pomeau-Manneville maps]]
+*[[Boolean network#Stability|The stability of Boolean network]] 
+*[[Front (physics)|Front]]
+*[[Lattice gas automaton]]
+*[[Logistic map#Behavior dependent on r|Logistic map]]
+*[[Stellar pulsation#CFD simulations|Stellar pulsation]]
+*[[HPP model|Hardy-Pomeau-Pazzis (HPP) model]]
+*[[Ice skating#Physical mechanics of skating|The physics of ice skating]]
+*[[Lorenz system]]
+*[[Saffman–Taylor instability|Saffman-Taylor Fingers]]
+*[[Hénon map|Hénon-Pomeau attractor]]
+
+== Prizes and awards ==
+
+* FPS [[Prix Paul Langevin|Paul Langevin Award]] in 1981.
+* FPS [[Prix Jean Ricard|Jean Ricard Award]] in 1985.
+* Perronnet–Bettancourt Prize (1993) awarded by the Spanish government for collaborative research between France and Spain.
+* Chevalier of the [[Legion of Honour|Légion d'Honneur]] since 1991.
+* Elected corresponding member of the French Academy of sciences in 1987 (Mechanical and Computer Sciences).<ref>{{cite web|title=Académie des sciences|url=https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-P/yves-pomeau.html|date=}}</ref>
+* [[Boltzmann Medal]] (2016)<ref>{{cite web|title=Médaille Boltzmann|url=https://statphys26.sciencesconf.org/resource/page/id/16|date=|access-date=2019-12-20|archive-date=2018-10-31|archive-url=https://web.archive.org/web/20181031174100/https://statphys26.sciencesconf.org/resource/page/id/16|url-status=dead}}</ref><ref>{{cite journal|title=Interview with Yves Pomeau, Boltzmann Medallist 2016|year=2016|doi=10.1140/epje/i2016-16067-8|last1=Pomeau|first1=Yves|last2=Louët|first2=Sabine|journal=The European Physical Journal E|volume=39|issue=6|pages=67|pmid=27349556|s2cid=25538225}}</ref>
+* [[Three Physicists Prize]] (2024)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pomeau, Yves}}
+[[Category:1942 births]]
+[[Category:French mathematicians]]
+[[Category:French physicists]]
+[[Category:Plasma physicists]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Living people]]
+[[Category:Academic staff of the École normale supérieure (Paris)]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+[[Category:Recipients of the Boltzmann Medal]]

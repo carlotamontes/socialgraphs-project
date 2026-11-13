@@ -1,0 +1,103 @@
+{{Short description|Japanese electronics engineer}}{{Use mdy dates|date=May 2026}}
+{{Infobox scientist
+| honorific_prefix  = [[Professor]]
+| name              = Masatoshi Shima
+| honorific_suffix  = [[Doctor of Engineering|Dr.Eng.]]
+| native_name       = 嶋正利
+| native_name_lang  = 
+| image             = Masatoshi Shima (cropped).jpg
+| image_size        = 
+| alt               = 
+| caption           = at the Computer History Museum 2009 Fellow Awards event
+| birth_date        = {{birth date and age|1943|08|22}}
+| birth_place       = [[Shizuoka (city)|Shizuoka]], [[Shizuoka Prefecture]], [[Japan]]
+| death_date        = <!--{{death date and age |202y|mm|dd |1943|08|22}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = [[Japan]]
+| nationality       = 
+| fields            = [[Electronic engineering]]<br/>[[Microprocessor]]
+| workplaces        = [[Busicom]] (1967-1972)<br/>[[Intel]] (1972-1975, 1981-1986)<br/>[[Zilog]] (1975-1980)<ref name="ipsj"/><br/>
+[[VM Technology]] (1986-1991)<br/>
+[[University of Aizu]] (2000)
+| patrons           = 
+| education         = B.S., [[Tohoku University]] (1967)<br/>Dr.Eng., [[Tsukuba University]] (1991)
+| thesis_title      = <!--(or | thesis1_title = and | thesis2_title = )-->
+| thesis_url        = <!--(or | thesis1_url = and | thesis2_url = )-->
+| thesis_year       = <!--(or | thesis1_year = and | thesis2_year = )-->
+| doctoral_advisor  = <!--(or | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Microprocessor]]s: [[Intel 4004]], [[Intel 8080|8080]], [[Zilog Z80]], [[Zilog Z8000|Z8000]]<br/>Peripheral chips: [[Intel 8259]], [[8255]], [[8253]], [[Intel 8257|8257]], [[8251]]
+| influences        = 
+| influenced        = 
+| awards            = [[Kyoto Prize]] (1997)<br/>[[Computer History Museum]] Fellow (2009)<ref>{{cite web |url=https://computerhistory.org/profile/masatoshi-shima/ |title=Masatoshi Shima 2009 Fellow |date=2009 |author=<!-- Unstated. --> |website=Computer History Museum |url-status=live |archive-url=https://web.archive.org/web/20151003084701/http://www.computerhistory.org/fellowawards/hall/bios/Masatoshi,Shima/ |archive-date=2015-10-03}}</ref>
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!-- Filename only. -->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+{{nihongo|'''Masatoshi Shima'''|嶋 正利|Shima Masatoshi|extra=born August 22, 1943}} is a Japanese [[Electronic engineering|electronics engineer]]. He was one of the architects of the world's first [[microprocessor]], the [[Intel 4004]]. In 1968, Shima worked for [[Busicom]] in Japan, and did the logic design for a specialized [[CPU]] to be translated into three-chip custom chips. In 1969, he worked with [[Intel]]'s [[Marcian Hoff|Ted Hoff]] and [[Stanley Mazor]] to reduce the three-chip [[Busicom]] proposal into a one-chip architecture. In 1970, that architecture was transformed into a silicon chip, the [[Intel 4004]], by [[Federico Faggin]], with Shima's assistance in logic design.<ref name="shima"/><ref name=tout1/><ref name="ieee"/>
+
+He later joined [[Intel]] in 1972. There, he worked with Faggin to develop the [[Intel 8080]], released in 1974. Shima then developed several Intel peripheral chips, some used in the [[IBM PC]], such as the [[Intel 8259|8259]] [[interrupt controller]], [[8255]] programmable peripheral interface chip, [[8253]] timer chip, [[Intel 8257|8257]] [[direct memory access]] (DMA) chip and [[8251]] [[serial communication]] [[USART]] chip. He then joined [[Zilog]], where he worked with Faggin to develop the [[Zilog Z80]] (1976) and [[Z8000]] (1979).<ref name="ipsj">[http://museum.ipsj.or.jp/en/pioneer/shima.html Shima Masatoshi], [[Information Processing Society of Japan]]</ref>
+
+==Early life and career==
+He studied [[organic chemistry]] at [[Tohoku University]] in [[Sendai]], [[Miyagi Prefecture]], [[Japan]]. With poor prospects for employment in the field of chemistry, he went to work for [[Busicom]], a business [[calculator]] manufacturer, joining in Spring 1967. There, he learned about software and digital logic design, from 1967 to 1968.<ref name="shima"/>
+
+==Intel 4004==
+After Busicom decided to use [[large-scale integration]] (LSI) circuits in their calculator products, they began work on what later became known as the "Busicom Project",<ref name="ieee">{{cite magazine |last=Faggin |first=Federico |author-link=Federico Faggin |date=Winter 2009 |url=https://ieeexplore.ieee.org/document/4776530 |title=The Making of the First Microprocessor |magazine=IEEE Solid-State Circuits Magazine |publisher=[[IEEE Xplore]] |pages=8–21}}</ref> a chipset for the Busicom 141-PF [[calculator]] that led to creating the first [[microprocessor]], the [[Intel 4004]].<ref name=tout1>{{cite web |url=http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html |title=The Busicom 141-PF calculator and the Intel 4004 microprocessor |last=Tout |first=Nigel |access-date=November 15, 2009}}</ref> In April 1968, Shima was asked to design the logic for what was intended to become a future chipset to be designed and produced by a semiconductor company.<ref name="shima"/> Shima designed a special-purpose LSI chipset, along with his supervisor Tadashi Tanba, in 1968.<ref name=tout1/> His design consisted of seven LSI chips, including a three-chip [[Central processing unit|CPU]].<ref name="ieee"/> Shima's initial design included [[Arithmetic logic unit|arithmetic units]] ([[Adder (electronics)|adders]]), multiplier units, [[Processor register|registers]], [[read-only memory]], and a [[Macro instruction|macro-instruction]] [[Instruction set|set]] to control a [[decimal computer]] system.<ref name=tout1/> Busicom wanted to produce a general-purpose LSI chipset, for not only desktop calculators, but also other equipment such as a [[Automated teller machine|teller machine]], [[cash register]] and [[Change machine|billing machine]]. Shima began work on a general-purpose LSI chipset in late 1968, and Busicom then approached the [[United States|American]] companies [[Mostek]] and [[Intel]] for converting the logic into MOS circuits and the chip's layout for manufacturing. The job was given to Intel, who back then was more of a memory company and had facilities to manufacture the high density [[silicon gate]] metal–oxide–semiconductor ([[MOSFET#Metal–oxide–semiconductor structure|MOS]]) chip Busicom required.<ref name="shima"/>
+
+Shima went to Intel in June 1969 to present the proposal. Due to Intel lacking logic engineers to understand the logic schematics or circuit engineers to convert them, Intel asked Shima to simplify the logic.<ref>[https://ethw.org/Oral-History:Masatoshi_Shima Oral-History:Masatoshi Shima]</ref><ref name="shima"/> This was then formulated by Intel's [[Marcian Hoff|Marcian "Ted" Hoff]] in 1969, simplifying Shima's initial design down to four chips, including a one-chip CPU.<ref name="ieee"/> Due to Hoff's formulation lacking key details, Shima came up with his own ideas to find solutions for its implementation. They both eventually realized the [[4-bit computing|4-bit]] microprocessor concept, with the help of Intel's [[Stanley Mazor]] to interpret the ideas of Shima and Hoff. Shima was responsible for adding a 10-bit static [[shift register]] to make it useful as a printer's buffer and keyboard interface, many improvements in the [[instruction set]], making the [[random-access memory]] (RAM) organization suitable for a calculator, the [[memory address]] information transfer, the key program in an area of performance and program capacity, the functional specification, decimal computer idea, software, desktop calculator logic, real-time [[input/output]] (I/O) control, and data exchange instruction between the [[Accumulator (computing)|accumulator]] and [[general-purpose register]].<ref name="shima"/> The specifications of the four chips were developed over a period of a few months in 1969, between an Intel team led by Hoff and a Busicom team led by Shima.<ref name="ieee"/>
+
+After Shima went back to Japan in late 1969 and then returned to Intel in early 1970, he found that no further work had been done on the 4004 since he left, and that Hoff was no longer working on the project. The project leader had become [[Federico Faggin]], who had only joined Intel a week before Shima arrived. Faggin was hired from Fairchild Semiconductor, where he had developed the original MOS silicon gate technology, the only technology that could be used to design a chip of the complexity and speed of the 4004. Shima worked with him, assisting him with the logic design the 4004 processor <ref name="shima"/> He worked at the Intel offices for six months, from April until October 1970. His company then sold the rights to use the 4004 to Intel, with an exception for use in business calculators.
+
+Shima led the first commercial implementation of the 4004 chipset, developing the Busicom 141-PF calculator, and Busicom went on to make calculators, billing machines, teller machines and cash registers, mostly on an [[Original equipment manufacturer|OEM]] basis with [[NCR Voyix|NCR]], which would sell 100,000 units.<ref name=":1">{{Cite journal |last=Aspray |first=William |date=1997 |title=The Intel 4004 microprocessor: what constituted invention? |url=http://ieeexplore.ieee.org/document/601727/ |journal=IEEE Annals of the History of Computing |volume=19 |issue=3 |pages=4–15 |doi=10.1109/85.601727|url-access=subscription }}</ref>
+
+==Intel 8080 to Zilog Z8000==
+After the 4004, Intel designed the [[Intel 8008|8008]] (architecture by Computer Terminal Corporation, design by Federico Faggin and Hal Feeney). Shima then joined Intel in 1972.<ref name="ipsj"/> He was employed to implement the transistor-level logic of Intel's next microprocessor, which became the [[Intel 8080]] (conception and architecture by Federico Faggin), released in 1974.<ref name="shima"/> Shima then developed several Intel peripheral chips, some used in the [[IBM PC]], such as the [[Intel 8259|8259]] [[interrupt controller]], [[8255]] [[parallel port]] chip, [[8253]] timer chip, [[Intel 8257|8257]] [[Direct memory access|DMA]] chip and [[8251]] [[serial communication]] [[USART]] chip.<ref name="ipsj"/> He was not involved in the creation of the [[Intel 8088]] or [[Intel 8086|8086]]. 
+
+Shima moved to [[Zilog]] in 1975 and, using only a few assistants,<ref>''Zilog had 11 total employees at the time, but grew to more than 1000 in a very short time.''</ref> developed the transistor-level and physical implementation of the [[Zilog Z80]], under the supervision of Faggin, who conceived and designed the Z80 architecture to be an instruction set compatible with the Intel 8080. This was followed by the same task for the [[16-bit computing|16-bit]] [[Zilog Z8000|Z8000]].<ref name="shima">{{Cite web |url=http://www.ieee.org/portal/cms_docs_iportals/iportals/aboutus/history_center/oral_history/pdfs/Shima197.pdf |title=Masatoshi Shima |website=[[Institute of Electrical and Electronics Engineers]] (IEEE) |access-date=2008-12-19 |archive-url=https://web.archive.org/web/20081219113410/http://www.ieee.org/portal/cms_docs_iportals/iportals/aboutus/history_center/oral_history/pdfs/Shima197.pdf |archive-date=2008-12-19 |url-status=dead }}</ref>
+
+According to coworkers from Intel, Faggin's method that Shima used was to design all logic at the transistor level, directly and manually, not at the gate and/or register level. The schematics were thus hard to read, but as transistors were drawn in such a way that they suggested a "floorplan" of the chip,<ref>{{cite web |url=https://groups.google.com/forum/m/#!msg/comp.lang.vhdl/ToCwGkQpCOA/bGJbPvWMZpkJ |title=RTL for Z8000 series CPU? |website=Google Groups: comp.lang.vhdl |last1=Alfke |first1=Peter |last2=Dalrymple |first2=Monte |date=December 23, 2005 |access-date=2020-03-27}}</ref> it helped when making the physical chip layout. However, according to Shima, the logic was first tested on [[Breadboard|breadboards]] using [[transistor–transistor logic]] (TTL) chips, before being manually translated into MOS transistor equivalents.
+
+After returning to Japan, Shima founded the Intel Japan Design Center in 1980, and VM Technology Corporation in 1986. At VM, he developed the 16-bit microprocessor VM860 and 32-bit microprocessor VM 8600 for the Japanese [[word processor]] market. He became a professor at the [[University of Aizu]] in 2000.<ref name="ipsj"/>
+
+==Prizes==
+*1997 [[Kyoto Prize]] (Advanced Technology)
+*2009 Fellow of the [[Computer History Museum]] "for his work as part of the team that developed the Intel 4004, the world's first commercial microprocessor."<ref> {{Cite web |title=Masatoshi Shima: CHM Fellow Award Winner |author=CHM |url=http://www.computerhistory.org/fellowawards/hall/bios/Masatoshi,Shima/ |access-date=March 30, 2015 |url-status=dead |archiveurl= https://web.archive.org/web/20151003084701/http://www.computerhistory.org/fellowawards/hall/bios/Masatoshi,Shima/ |archive-date=October 3, 2015}}</ref>
+
+==See also==
+* [[List of pioneers in computer science]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+*[http://www.ieeeghn.org/wiki/index.php/Oral-History:Masatoshi_Shima#LSI_for_Desktop_Calculators Interview with Masatoshi Shima regarding his role in the design of the 4004]
+
+{{Intel}}{{Zilog}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shima, Masatoshi}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:Scientists from Shizuoka (city)]]
+[[Category:Computer designers]]
+[[Category:Japanese chemists]]
+[[Category:Japanese electronics engineers]]
+[[Category:Japanese inventors]]
+[[Category:Kyoto laureates in Advanced Technology]]
+[[Category:Intel people]]
+[[Category:Tohoku University alumni]]
+[[Category:Zilog people]]

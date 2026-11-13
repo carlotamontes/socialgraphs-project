@@ -1,0 +1,44 @@
+{{Short description|Swedish theoretical physicist}}
+{{Infobox scientist
+| name             = Göran Lindblad
+| image            = Goran-Lindblad-photo.gif
+| birth_date       = {{birth date |1940|7|9|df=y}}
+| birth_place      = [[Boden, Sweden]]
+| death_date       = {{death date and age|2022|11|30|1940|7|9|df=y}}
+| known_for        = [[Lindblad equation]]<br>[[Quantum_relative_entropy#Monotonicity_of_relative_entropy|data-processing inequality]] for [[quantum relative entropy]]
+| footnotes        = 
+| field            = [[Theoretical physics]]
+| workplaces       = [[KTH Royal Institute of Technology]]
+| thesis_title     = The concepts of information and entropy applied to the measurement process in quantum theory and statistical mechanics
+| thesis_year      = 1974
+| doctoral_advisor = Bengt Nagel
+}}
+
+'''Göran Lindblad''' (9 July 1940 – 30 November 2022) was a Swedish theoretical [[physicist]] and a professor at the [[KTH Royal Institute of Technology]], [[Stockholm]].<ref name="Personal Web Page">{{cite web|last1=Lindblad|first1=Göran|title=Göran Lindblad |url=http://theophys.kth.se/~gli/|publisher=KTH AlbaNova|access-date=22 December 2017}}</ref> He made major foundational contributions in [[mathematical physics]] and [[quantum information theory]], having to do with [[open quantum system|open quantum systems]], [[Quantum_relative_entropy#Monotonicity_of_relative_entropy|entropy inequalities]], and [[quantum measurement|quantum measurements]].
+
+==Personal life==
+
+Lindblad was born in [[Boden, Sweden]] on July 9, 1940, and grew up in [[Örebro, Sweden]]. Besides physics, he took an interest in history. He died on November 30, 2022, near his home in [[Johanneshov|Johanneshov, Sweden]].<ref>{{cite web |last1=Bardarson |first1=Jens |title=Göran Lindblad |url=https://www.physics.kth.se/condensed/goran-lindblad-1.1211657 |access-date=December 12, 2022}}</ref>
+
+==Career==
+
+Lindblad spent his entire career, starting from his undergraduate days, at the [[KTH Royal Institute of Technology]]. He defended his PhD thesis, entitled "The concepts of information and entropy applied to the measurement process in quantum theory and statistical mechanics," on May 29, 1974.<ref name="lind-thesis">{{cite book |last1=Lindblad |first1=Göran |title=The concepts of information and entropy applied to the measurement process in quantum theory and statistical mechanics |date=May 1974 |url=https://catalog.crl.edu/Record/e29605c2-2869-5434-a865-9a6f97a09294|publisher=[[KTH Royal Institute of Technology]]}}</ref> His PhD thesis summarized the contents of some important contributions to [[quantum information theory]], including his proof of the [[Quantum_relative_entropy#Monotonicity_of_relative_entropy|data-processing inequality]] for [[quantum relative entropy]], communicated in a series of three research publications.<ref name="dp-qre-1">{{cite journal |last1=Lindblad |first1=Göran |title=Entropy, information and quantum measurements |journal=Communications in Mathematical Physics |date=December 1973 |volume=33 |issue=4 |pages=305–322 |doi=10.1007/BF01646743 |bibcode=1973CMaPh..33..305L |s2cid=119907001 |url=https://link.springer.com/article/10.1007/BF01646743|url-access=subscription }}</ref><ref name="dp-qre-2">{{cite journal |last1=Lindblad |first1=Göran |title=Expectations and entropy inequalities for finite quantum systems |journal=Communications in Mathematical Physics |date=June 1974 |volume=39 |issue=2 |pages=111–119 |doi=10.1007/BF01608390 |bibcode=1974CMaPh..39..111L |s2cid=120760667 |url=https://link.springer.com/article/10.1007/BF01608390|url-access=subscription }}</ref><ref name="dp-qre-3">{{cite journal |last1=Lindblad |first1=Göran |title=Completely positive maps and entropy inequalities |journal=Communications in Mathematical Physics |date=June 1975 |volume=40 |issue=2 |pages=147–151 |doi=10.1007/BF01609396 |bibcode=1975CMaPh..40..147L |s2cid=121650206 |url=https://link.springer.com/article/10.1007/BF01609396|url-access=subscription }}</ref>
+
+Shortly after his PhD thesis work, he derived his most well known scientific contribution, what is known as the [[Lindblad equation]].<ref>{{cite journal |last1=Lindblad |first1=Göran |title=On the generators of quantum dynamical semigroups |journal=Communications in Mathematical Physics |date=June 1976 |volume=48 |issue=2 |pages=119–130 |doi=10.1007/BF01608499 |bibcode=1976CMaPh..48..119L |s2cid=55220796 |url=https://link.springer.com/article/10.1007/bf01608499|url-access=subscription }}</ref> As the [[Schrödinger equation]] describes the evolution of a closed quantum system, the [[Lindblad equation]] is a generalization, describing the evolution of an [[open quantum system]], in which a system of interest is interacting with an uncontrollable environment. The Lindblad equation is a significant theoretical contribution and is widely used in many fields of physics, including [[quantum optics]] and [[condensed matter]]. It is also now the most common method for describing noise that affects various [[quantum technology|quantum technologies]], in the domains of [[quantum communication]] and [[quantum computation|computation]]. 
+
+He published a monograph on two related conceptual problems in the foundations of [[statistical mechanics]], concerning the derivation of the irreversibility of the observed macroscopic behavior from the reversible microscopic laws of motion and the definition of an entropy function on non-equilibrium quantum states.<ref name="lind-book">{{cite book |last1=Lindblad |first1=Göran |title=Non-Equilibrium Entropy and Irreversibility |date=August 1983 |publisher=D. Reidel Publishing Company, Member of Kluwer Academic Publishers Group |location=Dordrecht |isbn=978-9027716408 |url=https://www.amazon.com/gp/product/9027716404/}}</ref>
+
+He retired on July 1, 2005, and was a professor emeritus since that time.
+
+==References==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lindblad, Goran}}
+[[Category:20th-century Swedish physicists]]
+[[Category:Quantum physicists]]
+[[Category:1940 births]]
+[[Category:2022 deaths]]
+[[Category:People from Boden, Sweden]]
+[[Category:21st-century Swedish physicists]]

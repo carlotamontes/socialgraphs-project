@@ -1,0 +1,95 @@
+{{Short description|Swiss experimental physicist and professor}}
+{{Infobox scientist
+| honorific_prefix          =
+| name                      = Christian Schönenberger
+| honorific_suffix          = 
+| native_name               = 
+| native_name_lang          = 
+| image                     = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size                = 
+| image_upright             = 
+| alt                       = 
+| caption                   = 
+| birth_date                = {{birth date |1956|07|05}}
+| birth_place               = [[Zürich]]
+| death_date                = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place               = 
+| death_cause               = 
+| resting_place             = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names               = 
+| pronounce                 = 
+| citizenship               = Swiss
+| fields                    = condensed matter physics
+| workplaces                = [[University of Basel]]
+| patrons                   = 
+| education                 = [[ETH Zurich]]
+| thesis_title              = Understanding Magnetic Force Microscopy
+| thesis_url                = https://doi.org/10.3929/ethz-a-000577986
+| thesis_year               = 1990
+| doctoral_advisor          = [[Heinrich Rohrer]], S. Alvarado
+| academic_advisors         = 
+| doctoral_students         = 
+| notable_students          = 
+| known_for                 = 
+| influences                = 
+| influenced                = 
+| awards                    = 
+| author_abbrev_bot         = 
+| author_abbrev_zoo         = 
+| spouse                    = <!--(or | spouses = )-->
+| partner                   = <!--(or | partners = )-->
+| children                  = 
+| signature                 = <!--(filename only)-->
+| signature_alt             = 
+| website                   = <!--{{URL|www.example.com}}-->
+| footnotes                 =  
+}}
+'''Christian Schönenberger''' (born 5 July 1956 in [[Zürich]]<ref name="Thesis1990">{{cite web|url=https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/139970/eth-37951-01.pdf?sequence=1&isAllowed=y |title=Understanding Magnetic Force Microscopy (PhD Thesis, title page) |date=1990 |access-date=2018-01-31}}</ref>) is a Swiss experimental physicist and professor at the [[University of Basel]] working on [[nanoscience]] and [[nanoelectronics]].
+
+==Biography and career==
+Schönenberger studied electrical engineering and obtained his degree in 1979. While working as an engineer in a research lab at the [[Swiss Federal Institute of Technology in Zurich]], he became interested in natural science and studied physics, obtaining his diploma from the institute in 1986. As a graduate student, he worked under the supervision of [[Heinrich Rohrer]] ([[Nobel Prize]] laureate in 1986) and S. Alvarado at the [[IBM Research – Zurich|IBM Research Laboratory]] at [[Rüschlikon]] and received his PhD in physics with a thesis on [[magnetic force microscopy]] in 1990.<ref name="Thesis1990"/>
+
+He then joined the [[Philips Natuurkundig Laboratorium|Philips Research Laboratories]] at [[Eindhoven]] in the Netherlands as a postdoctoral fellow and later as a permanent staff member. In 1995 he was appointed full professor (of experimental physics) at the University of Basel, where he heads the Nanoelectronics Group. He led the [[Swiss Nanoscience Institute (SNI)]] between 2006 and 2022 and become honorary member of the SNI in 2022.
+
+==Research==
+After his early work on magnetic force microscopy, Schönenberger then used different force microscopy techniques to study single charges and, in particular, single electron tunneling. He studied electron transport in quantum wires and [[shot noise]] and noise reduction in electron transport. Subsequently, he and his group studied transport in increasingly smaller natural and engineered nanoscale devices operating in the quantum regime. These include quasi one-dimensional objects such as [[quantum wires]], [[carbon nanotubes]], and [[DNA]]-molecules or two-dimensional [[graphene]].
+
+In 1999 he published three of his most-cited and most impactful papers that report key experiments in nanoelectronics. He demonstrated electronic quantum interference by measuring the [[Aharonov–Bohm effect]] in multi-walled [[carbon nanotubes]]<ref>{{cite journal |title=Aharonov-Bohm Oscillations in Carbon Nanotubes |first1=A.|last1=Bachtold |first2=C. |last2=Strunk |first3=J.-P. |last3=Salvetat |first4=J.-M. |last4=Bonard |first5=L. |last5=Forro |first6=T. |last6=Nussbaumer |first7=C. |last7=Schönenberger |display-authors=2 |journal=Nature |volume=397 |issue=6721|pages=673–675 |date=1999|bibcode=1999Natur.397..673B |doi=10.1038/17755 |s2cid=4429695}}</ref> and by realizing the [[quantum optics|quantum optical]] [[Hanbury Brown and Twiss effect]] for the first time with [[electron]]s<ref>{{cite journal |title=The Fermionic Hanbury-Brown and Twiss Experiment |first1=M. |last1=Henny |first2=S. |last2=Oberholzer |first3=C. |last3=Strunk |first4=T. |last4=Heinzel |first5=K. |last5=Ensslin |first6=M. |last6=Holland |first7=C. |last7=Schönenberger |display-authors=2 |journal=Science |volume=284 |issue=5412 |pages=296–298 |doi=10.1126/science.284.5412.296 |pmid=10195890 |date=2000|bibcode=1999Sci...284..296H |url=https://epub.uni-regensburg.de/3370/1/ScienceHBT.pdf }}</ref> and demonstrated the anti-bunching effects arising from their [[fermion]]ic statistics and he demonstrated electron transport through [[DNA]] molecules.<ref>{{cite journal |title=Electrical conduction through DNA molecules |first1=H.-W. |last1=Fink |first2=Christian |last2=Schönenberger |journal=Nature |volume=398 |issue=6726 |pages=407–10 |doi=10.1038/18855 |pmid=10201370 |date=1994|bibcode=1999Natur.398..407F |s2cid=4422536 }}</ref>
+
+In particular, he and his group are a leader in the study of electronic properties of "hybrid" devices, that combine normal metals with [[superconductor]]s and [[ferromagnet]]ic elements. The latter introduce by the [[Proximity effect (superconductivity)|proximity effect]] non-trivial correlations such as a pairing or exchange field. This can give rise to new correlated many-body quantum states. Examples are [[topological insulator|topological states]], molecular [[Andreev reflection|Andreev]]-bound states and [[Majorana fermion|Majorana-like states]]. Other applications include the generation of spatially separated [[quantum entanglement|entangled]] electrons using a [[Cooper pair]] splitter.<ref>{{cite journal |title=Cooper-pair splitter realized in a two-quantum-dot Y-junction |first1=L. |last1=Hofstetter |first2=C. |last2=Csonka |first3=J. |last3=Nygard |first4=C. |last4=Schönenberger |display-authors=2 |journal=Nature |volume=461 |issue=7266 |pages=960–963 |doi=10.1038/nature08432 |pmid=19829377 |date=2009|bibcode=2009Natur.461..960H |s2cid=4392161 }}</ref> More recently, the group investigates ultra-clean and suspended devices, which allow to couple the electrical and mechanical [[degree of freedom|degrees of freedom]] of the device at the quantum limit.
+
+== Selected publications ==
+* {{cite journal |title=Aharonov-Bohm Oscillations in Carbon Nanotubes |first1=A.|last1=Bachtold |first2=C. |last2=Strunk |first3=J.-P. |last3=Salvetat |first4=J.-M. |last4=Bonard |first5=L. |last5=Forro |first6=T. |last6=Nussbaumer |first7=C. |last7=Schönenberger |display-authors=2 |journal=Nature |volume=397 |issue=6721|pages=673–675 |date=1999 |doi=10.1038/17755|bibcode=1999Natur.397..673B |s2cid=4429695}}
+* {{cite journal |title=The Fermionic Hanbury-Brown and Twiss Experiment |first1=M. |last1=Henny |first2=S. |last2=Oberholzer |first3=C. |last3=Strunk |first4=T. |last4=Heinzel |first5=K. |last5=Ensslin |first6=M. |last6=Holland |first7=C. |last7=Schönenberger |display-authors=2 |journal=Science |volume=284 |issue=5412 |pages=296–298 |doi=10.1126/science.284.5412.296 |pmid=10195890 |date=2000|bibcode=1999Sci...284..296H |url=https://epub.uni-regensburg.de/3370/1/ScienceHBT.pdf }}
+* {{cite journal |title=A quantum dot in the Kondo regime coupled to superconductors |first1=M. R. |last1=Buitelaar |first2=T. |last2=Nussbaumer |first3=C. |last3=Schönenberger |journal=Phys. Rev. Lett. |volume=89 |issue=25 |article-number=256801 |date=2002 |arxiv=cond-mat/0209048|bibcode=2002PhRvL..89y6801B |doi=10.1103/PhysRevLett.89.256801 |pmid=12484909 |s2cid=27655135 }}
+* {{cite journal |title=Quantum Shot Noise |first1=Carlo |last1=Beenakker |author-link1=Carlo Beenakker |first2=Christian |last2=Schönenberger |journal=Physics Today |volume=56 |issue=5 |pages=37–42 |date=2003 |url=https://openaccess.leidenuniv.nl/bitstream/handle/1887/1281/172_209.pdf |doi=10.1063/1.1583532 |bibcode=2003PhT....56e..37B |s2cid=119339791 |arxiv=cond-mat/0605025 }}
+* {{cite journal |title=Cooper-pair splitter realized in a two-quantum-dot Y-junction |first1=L. |last1=Hofstetter |first2=C. |last2=Csonka |first3=J. |last3=Nygard |first4=C. |last4=Schönenberger |display-authors=2 |journal=Nature |volume=461 |issue=7266 |pages=960–963 |doi=10.1038/nature08432 |pmid=19829377 |date=2009|bibcode=2009Natur.461..960H |s2cid=4392161 }}
+* {{cite journal |title=Ballistic interferences in suspended graphene |first1=Peter |last1=Rickhaus |first2=Romain |last2=Maurand |first3=Ming-Hao |last3=Liu |first4=Markus |last4=Weiss |first5=Klaus |last5=Richter |first6=Christian |last6=Schönenberger |display-authors=2 |date=2013 |journal=Nature Communications |volume=4 |page=2342 |doi=10.1038/ncomms3342 |pmid=23946010 |doi-access=free|arxiv=1304.6590 |bibcode=2013NatCo...4.2342R }}
+* {{cite journal |title=Electrical conduction through DNA molecules |first1=H.-W. |last1=Fink |first2=Christian |last2=Schönenberger |journal=Nature |volume=398 |issue=6726 |pages=407–10 |doi=10.1038/18855 |pmid=10201370 |date=1994|bibcode=1999Natur.398..407F |s2cid=4422536 }}
+* {{cite journal |title=Observation of single charge carriers by force microscopy |first1=Ch. |last1=Schönenberger |first2=S. F. |last2=Alvarado |date=1990 |journal=Phys. Rev. Lett. |volume=65 |issue=25 |pages=3162–3164|bibcode=1990PhRvL..65.3162S |doi=10.1103/PhysRevLett.65.3162 |pmid=10042797 }}
+* {{cite journal |title=Understanding magnetic force microscopy |first1=Christian |last1=Schönenberger |first2=S. F. |last2=Alvarado |date=199 |journal=Zeitschrift für Physik B |volume=80 |issue=3 |pages=373–383|doi=10.1007/BF01323519 |bibcode=1990ZPhyB..80..373S |s2cid=122559812 }}
+
+== Selected honors and awards ==
+* 1991 	[[Swiss Physical Society]] Award in General Physics<ref>{{cite web |url=https://www.sps.ch/en/sps-award/awardsarchive/ |title=SPS Awards 1991 - 2005 |publisher=SPS |access-date=2018-02-01}}</ref> (for his PhD thesis)
+* 2010 	Lifetime member of the [[Swiss Academy of Technical Sciences]] (SATW)<ref>{{cite web |url=http://www.satw.ch/en/ueber-satw/members/ |title=SATW Members |access-date=2018-02-01|date=2017-03-31 }}</ref>
+* 2012 	Fellow of the [[American Physical Society|American Physical Society (APS)]]<ref>{{cite web |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2012&unit_id=DCMP&institution=University+of+Basel |title=APS Fellow Archive |access-date=2018-01-31}}</ref>
+* 2022  Honorary Member of the [[Swiss Nanoscience Institute]]
+
+==External links==
+* {{cite web |url=https://nanoelectronics.unibas.ch/people/christian-schonenberger/ |title=Curriculum Vitae |publisher=Nanoelectronics Group |access-date=2018-01-31}}
+* {{cite web |url=https://www.physik.unibas.ch/personen/prof-schoenenberger.html |title=Homepage at the University of Basel |access-date=2018-01-31}}
+* {{cite web |url=https://scholar.google.ch/citations?user=zAQ3kRAAAAAJ&hl=en |title=profile at Google Scholar |access-date=2018-01-31}}
+* [https://nanoscience.unibas.ch/en/news/details/neues-ehrenmitglied-christian-schoenenberger-immer-auf-der-suche-nach-antworten/ Article in SNI INSIght], retrieved 2023-08-20
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schonenberger, Christian}}
+[[Category:Living people]]
+[[Category:20th-century Swiss physicists]]
+[[Category:21st-century Swiss physicists]]
+[[Category:Nanophysicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:1956 births]]
+[[Category:ETH Zurich alumni]]

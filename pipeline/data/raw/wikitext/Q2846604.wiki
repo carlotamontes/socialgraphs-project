@@ -1,0 +1,87 @@
+{{Short description|British physicist (born 1942)}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = Andrew Lyne
+| birth_name        = Andrew Geoffrey Lyne
+| honorific_suffix  = {{post-nominals|country=GBR|FRS|size=1005}}
+| image             = File:Andrew Lyne cropped from Jodrell Bank Directors.jpg
+| image_size        = 
+| alt               = 
+| caption           = Andrew Lyne in 2007
+| birth_date        = {{Birth date and age|1942|07|13|df=yes}}
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Radio astronomy]]<br>[[Pulsars]]<ref name=gs/>
+| workplaces        = [[Jodrell Bank Observatory]]<br />[[University of Manchester]]<br />[[University of Cambridge]]
+| education         = [[The Portsmouth Grammar School]]
+| alma_mater        = {{Plainlist|
+* [[University of Cambridge]] (BA)<!--St John's College doesn't award degrees-->
+* [[University of Manchester]] (PhD)}}
+| thesis_title      = Interferometric Observations of Lunar Occulations and Pulsars
+| thesis_year       = 1970
+| thesis_url        = https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/1r887gn/alma992983306737101631
+| doctoral_advisor  = [[Francis Graham-Smith]]<ref name=phd/>
+| academic_advisors = 
+| doctoral_students = [[Duncan Lorimer]]<ref name=lorimer>{{cite thesis|degree=PhD|first=Duncan Ross|last=Lorimer |year=1996|title=Galactic population of millisecond and normal pulsars
+| url= https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/1r887gn/alma992983072749501631|website=manchester.ac.uk|oclc=657642507|publisher=University of Manchester}}</ref>
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Herschel Medal]] (1992)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{Official URL}}
+| footnotes         = 
+| spouse            = 
+}}'''Andrew Geoffrey Lyne''' {{post-nominals|country=GBR|FRS}} (born 13 July 1942) is a British [[physicist]]. Lyne is [[Langworthy Professor]] of Physics in the [[School of Physics and Astronomy, University of Manchester]], as well as an ex-director of the [[Jodrell Bank Observatory]]. Despite retiring in 2007 he remains an active researcher within the Jodrell Bank Pulsar Group.<ref>{{Cite journal | last1 = Smith | first1 = F. G.| authorlink1 = Francis Graham-Smith | last2 = Davies | first2 = R. | last3 = Lyne | first3 = A. | authorlink3 = Andrew Lyne| doi = 10.1038/488592a | pmid = 22932377| title = Bernard Lovell (1913–2012) | journal = Nature | volume = 488 | issue = 7413 | pages = 592 | date = 2012 |bibcode = 2012Natur.488..592S | title-link = Bernard Lovell| doi-access = free }}</ref><ref>{{Cite web|url=http://www.jb.man.ac.uk/~pulsar/|title = Pulsar Astrophysics &#124; Jodrell Bank Centre for Astrophysics}}</ref> Lyne writes that he is "mostly interested in finding and understanding radio pulsars in all their various forms and with their various companions. Presently, I am most occupied with the development of new multibeam search systems at  Jodrell  and Parkes, in order to probe deeper into the Galaxy, particularly for millisecond [[pulsar]]s, young pulsars and any that might be in [[binary star|binary]] systems."<ref name=whoswho>{{Who's Who | author=Anon| title = Lyne, Prof. Andrew Geoffrey | id = U25178 | year = 2007 | doi =10.1093/ww/9780199540884.013.U25178 | edition = online [[Oxford University Press]]|location=Oxford}}</ref><ref name=gs>{{Google scholar id}}</ref><Ref name=paper>{{cite Q|Q62779063}}</ref>
+
+==Education==
+Lyne was educated at [[Portsmouth Grammar School]], the Royal Naval School, Tal Handaq, Malta, and the [[University of Cambridge]], where he read the [[Natural Sciences Tripos]] as a student of [[St John's College, Cambridge]].<ref name=whoswho/> After his undergraduate degree from Cambridge, he continued to the [[University of Manchester]] for a [[PhD]] in [[Radio Astronomy]] where his research supervised by [[Francis Graham-Smith]].<ref name=phd>{{cite thesis|last=Lyne|first=Andrew Geoffrey|title=Interferometric observations of lunar occulations and pulsars|degree=PhD|publisher=[[University of Manchester]]| year=1970| url=https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/1r887gn/alma992983306737101631|website=manchester.ac.uk|oclc=643375430}}</ref>
+
+==Career and research==
+In 1991, Andrew Lyne, Setnam Shemar and [[Matthew Bailes]] reported that they had discovered a pulsar orbited by a planetary companion;<ref>{{Cite journal | last1 = Bailes | first1 = M. | last2 = Lyne | first2 = A. G. | authorlink2 = Andrew Lyne| last3 = Shemar | first3 = S. L. | doi = 10.1038/352311a0 |bibcode=1991Natur.352..311B| title = A planet orbiting the neutron star PSR1829–10 | journal = Nature | volume = 352 | issue = 6333 | pages = 311 | date = 1991 | s2cid = 4339517 }}</ref> this would have been the first planet detected around another star.  However, after this was announced, the group went back and checked their work, and found that they had not properly removed the effects of the [[Earth]]'s motion around the [[Sun]] from their analysis, and, when the calculations were redone correctly, the pulse variations that led to their conclusions disappeared, and that there was in fact no planet around [[PSR 1829-10]].  When Lyne announced the retraction of his results at a meeting of the [[American Astronomical Society]], he received thunderous applause from his scientific colleagues for having the intellectual integrity and the courage to admit this error publicly.<ref>{{Cite book | title = Planet Quest | page = 149 | last1 = Croswell | first1 = K. | publisher = Oxford University Press | date = 1997 }}</ref>
+
+===Double pulsar===
+In 2003, Lyne and his team discovered the first binary system found in which both components were pulsed [[neutron star]]s.<ref>{{Cite journal |arxiv = astro-ph/0401086|bibcode = 2004Sci...303.1153L|title = A Double-Pulsar System: A Rare Laboratory for Relativistic Gravity and Plasma Physics|journal = Science|volume = 303|issue = 5661|pages = 1153–1157|last1 = Lyne|first1 = A. G|last2 = Burgay|first2 = M|last3 = Kramer|first3 = M|last4 = Possenti|first4 = A|last5 = Manchester|first5 = R. N|last6 = Camilo|first6 = F|last7 = McLaughlin|first7 = M. A|last8 = Lorimer|first8 = D. R|last9 = d'Amico|first9 = N|last10 = Joshi|first10 = B. C|last11 = Reynolds|first11 = J|last12 = Freire|first12 = P. C. C|year = 2004|doi = 10.1126/science.1094645|pmid = 14716022|s2cid = 18052400|url = https://cds.cern.ch/record/704859}}</ref>  Lyne's colleague Richard Manchester called the [[PSR J0737-3039]] system a "fantastic natural laboratory" for studying specialized effects of the [[General relativity|General Theory of Relativity]].
+Other recent work that Lyne has undertaken includes research on the globular cluster at 47 Tucanae,<ref>{{Cite web |url=http://www2.naic.edu/~pfreire/47Tuc/#New_Paper |title=The 47 Tucanae Pulsars Homepage |access-date=8 January 2005 |archive-date=22 December 2004 |archive-url=https://web.archive.org/web/20041222013947/http://www2.naic.edu/~pfreire/47Tuc/#New_Paper |url-status=dead }}</ref> whose dense stellar population acts as a nursery for millisecond and binary pulsars.
+
+===Awards and honours===
+Lyne was awarded the [[Herschel Medal]] by the [[Royal Astronomical Society]] in 1992 and elected a [[Fellow of the Royal Society]] (FRS) in 1996.<ref name=frs>{{cite web|url=https://royalsociety.org/people/andrew-lyne-11848/|website=royalsociety.org|title=Andrew Lyne FRS|author=Anon|year=1996|publisher=[[Royal Society]]|location=London}}</ref>
+
+{{commons category|Andrew Lyne}}
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before= [[Frank Read]] }}
+{{s-ttl|title=[[Langworthy Professor]] at the [[University of Manchester]]| years=2001–07}}
+{{s-aft|after=  [[Andre Geim]] }}
+{{s-end}}
+
+{{Jodrell Bank Observatory}}
+
+{{FRS 1996}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lyne, Andrew}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:People educated at The Portsmouth Grammar School]]
+[[Category:Scientists from Portsmouth]]
+[[Category:British physicists]]
+[[Category:21st-century British astronomers]]
+[[Category:Physicists of the University of Manchester]]
+[[Category:20th-century British astronomers]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:British fellows of the Royal Society]]

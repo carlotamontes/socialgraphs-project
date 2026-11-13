@@ -1,0 +1,69 @@
+{{short description|Japanese physicist}}
+{{BLP sources|date=August 2025}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox scientist
+| birth_name        = 香取 秀俊
+| image             = Hidetoshi Katori cropped 1 Hidetoshi Katori 20150312.jpg
+| caption           = Katori in 2015
+| birth_date        = {{birth date and age|1964|09|27|df=y}}
+| birth_place       = [[Tokyo]], Japan
+| field             = [[Physics]]
+| workplaces        = [[University of Tokyo]]
+| education         = [[University of Tokyo]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Grating]]<br />Ultra precise [[atomic clock]]<br />[[Optical lattice]]
+| awards            = [[I. I. Rabi Award]] (2008)<br/>[[Asahi Prize]] (2012)<br/>[[Nishina Memorial Prize]] (2013)<br/>[[Medals of Honor (Japan)|Medal with Purple Ribbon]] (2014)<br/>[[Japan Academy Prize (academics)|Japan Academy Prize]] (2015)<br/>[[Micius Quantum Prize]] (2020)<br/>[[Breakthrough Prize in Fundamental Physics]] (2022)
+}}
+{{Nihongo|'''Hidetoshi Katori'''|香取秀俊|Katori Hidetoshi|born 27 September 1964}} is a Japanese [[physicist]] and professor at the [[University of Tokyo]] best known for  having invented the [[magic wavelength]] technique for ultra precise [[Optical lattice clock|optical lattice atomic clocks]].<ref name="japan-acad">{{cite web|url=http://www.japan-acad.go.jp/japanese/news/2015/031201.html|title=日本学士院賞授賞の決定について &#124; 日本学士院|website=japan-acad.go.jp|access-date=10 March 2019}}</ref> Since 2011, Katori is also Chief Scientist at the Quantum Metrology Lab, [[RIKEN]].<ref>{{Cite web|url=http://www.amo.t.u-tokyo.ac.jp/e_ynbw/03_katori.html|title=Katori & Ushijima Laboratory, The University of Tokyo|website=www.amo.t.u-tokyo.ac.jp|access-date=14 December 2021}}</ref>
+
+Recently, Katori's group performed a measurement of [[gravitational redshift]] with two transportable [[strontium]] optical lattice clocks over nearly the entire height of the [[Tokyo Skytree]], setting a new record for the best ground-based test of [[general relativity]].<ref>{{Cite journal|doi = 10.1063/PT.3.4496|title = Transportable atomic clocks achieve laboratory precision|year = 2020|last1 = Middleton|first1 = Christine|journal = Physics Today|volume = 73|issue = 6|pages = 20–21|bibcode = 2020PhT....73f..20M|doi-access = free}}</ref><ref>{{Cite web|url=https://www.katori-project.t.u-tokyo.ac.jp/freedom/2020_1_press/2020_1_press.html|title=光格子時計プロジェクト/プレスリリース「18桁精度の可搬型光格子時計の開発に世界で初めて成功」|website=www.katori-project.t.u-tokyo.ac.jp|access-date=14 December 2021}}</ref>
+
+==Recognition==
+*2005 – [[:ja:日本学術振興会賞|Award of Japan Society for the Promotion of Science]]
+*2005 – [[Springer Nature|Springer Nature Applied Physics Award]]
+*2006 – [[:ja:日本IBM科学賞|Japan IBM Science Prize]]
+*2008 – [[I. I. Rabi Award]]
+*2010 – [[:ja:市村賞|Ichimura Academic Award]]
+*2011 – [[Minister of Education, Culture, Sports, Science and Technology|Award of Minister of MEXT]]
+*2011 – Philipp Franz von Siebold-Preis, Germany
+*2012 – [[Asahi Prize]]
+*2013 – [[Nishina Memorial Prize]]
+*2013 – [[:ja:藤原賞|Fujiwara Prize]]
+*2013 – [[Toray]] Award in Science and Technology
+*2014 – [[Medals of Honor (Japan)|Medal with Purple Ribbon]]
+*2015 – [[Japan Academy Prize (academics)]]
+*2017 – [[:ja:江崎玲於奈賞|Leo Esaki Prize]]
+*2022 – [[Breakthrough Prize in Fundamental Physics]]<ref>{{cite web|url=https://breakthroughprize.org/News/65|title=Winners of the 2022 Breakthrough Prizes in life sciences, fundamental physics and mathematics announced|access-date=9 September 2020}}</ref>
+*2022 – [[Honda Prize]]
+*2022 – [[Asian Scientist 100]], ''[[Asian Scientist]]''
+
+==Selected publications==
+* {{cite journal | last1=Ushijima | first1=Ichiro | last2=Takamoto | first2=Masao | last3=Das | first3=Manoj | last4=Ohkubo | first4=Takuya | last5=Katori | first5=Hidetoshi | title=Cryogenic optical lattice clocks | journal=Nature Photonics | publisher=Springer Science and Business Media LLC | volume=9 | issue=3 | date=9 February 2015 | issn=1749-4885 | doi=10.1038/nphoton.2015.5 | pages=185–189| bibcode=2015NaPho...9..185U }}
+* {{cite journal | last1=Yamaguchi | first1=Atsushi | last2=Fujieda | first2=Miho | last3=Kumagai | first3=Motohiro | last4=Hachisu | first4=Hidekazu | last5=Nagano | first5=Shigeo | last6=Li | first6=Ying | last7=Ido | first7=Tetsuya | last8=Takano | first8=Tetsushi | last9=Takamoto | first9=Masao | last10=Katori | first10=Hidetoshi | title=Direct Comparison of Distant Optical Lattice Clocks at the $10^{-16}$ Uncertainty | journal=Applied Physics Express | publisher=IOP Publishing | volume=4 | issue=8 | date=4 August 2011 | issn=1882-0778 | doi=10.1143/apex.4.082203 | article-number=082203| arxiv=1108.2774 | s2cid=118692461 }}
+* {{cite journal | last1=Katori | first1=Hidetoshi | last2=Hashiguchi | first2=Koji | last3=Il'inova | first3=E. Yu. | last4=Ovsiannikov | first4=V. D. | title=Magic Wavelength to Make Optical Lattice Clocks Insensitive to Atomic Motion | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=103 | issue=15 | date=9 October 2009 | article-number=153004 | issn=0031-9007 | doi=10.1103/physrevlett.103.153004| pmid=19905634 | bibcode=2009PhRvL.103o3004K | arxiv=0908.2848 }}
+* {{cite journal | last1=Takamoto | first1=Masao | last2=Hong | first2=Feng-Lei | last3=Higashi | first3=Ryoichi | last4=Fujii | first4=Yasuhisa | last5=Imae | first5=Michito | last6=Katori | first6=Hidetoshi | title=Improved Frequency Measurement of a One-Dimensional Optical Lattice Clock with a Spin-Polarized Fermionic87Sr Isotope | journal=Journal of the Physical Society of Japan | publisher=Japan Society of Applied Physics | volume=75 | issue=10 | date=15 October 2006 | issn=0031-9015 | doi=10.1143/jpsj.75.104302 | article-number=104302| arxiv=physics/0608212 | bibcode=2006JPSJ...75j4302T | s2cid=17685448 }}
+* {{cite journal | last1=Takamoto | first1=Masao | last2=Hong | first2=Feng-Lei | last3=Higashi | first3=Ryoichi | last4=Katori | first4=Hidetoshi | title=An optical lattice clock | journal=Nature | publisher=Springer Science and Business Media LLC | volume=435 | issue=7040 | year=2005 | issn=0028-0836 | doi=10.1038/nature03541 | pages=321–324| pmid=15902252 | bibcode=2005Natur.435..321T | s2cid=4426565 }}
+* {{cite conference | last=KATORI | first=HIDETOSHI | title=Frequency Standards and Metrology | chapter=SPECTROSCOPY OF STRONTIUM ATOMS IN THE LAMB-DICKE CONFINEMENT | publisher=WORLD SCIENTIFIC | year=2002 | pages=323–330 | doi=10.1142/9789812777713_0036| isbn=978-981-02-4911-3 }}
+* {{cite journal | last1=Katori | first1=Hidetoshi | last2=Ido | first2=Tetsuya | last3=Kuwata-Gonokami | first3=Makoto | title=Optimal Design of Dipole Potentials for Efficient Loading of Sr Atoms | journal=Journal of the Physical Society of Japan | publisher=Physical Society of Japan | volume=68 | issue=8 | date=15 August 1999 | issn=0031-9015 | doi=10.1143/jpsj.68.2479 | pages=2479–2482| bibcode=1999JPSJ...68.2479K }}
+* {{cite journal | last1=Katori | first1=Hidetoshi | last2=Ido | first2=Tetsuya | last3=Isoya | first3=Yoshitomo | last4=Kuwata-Gonokami | first4=Makoto | title=Magneto-Optical Trapping and Cooling of Strontium Atoms down to the Photon Recoil Temperature | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=82 | issue=6 | date=8 February 1999 | issn=0031-9007 | doi=10.1103/physrevlett.82.1116 | pages=1116–1119| bibcode=1999PhRvL..82.1116K }}
+
+==References==
+{{Reflist|1}}
+
+==External links==
+* {{cite web|title=Homepage|periodical=|publisher=University of Tokyo|url=http://www.amo.t.u-tokyo.ac.jp/e_ynbw/03_katori.html|access-date=24 November 2018|last=|date=|year=|language=en|pages=|quote=}}
+* {{cite web|title=Publishing House|periodical=|publisher=Scopus|url=https://www.scopus.com/authid/detail.uri?authorId=35452770200|format=|access-date=24 November 2018|last=|date=|year=|language=|pages=|quote=}}
+
+{{Breakthrough Prize laureates}}
+{{Authority control}}
+
+{{DEFAULTSORT:Katori, Hidetoshi}}
+[[Category:Japanese physicists]]
+[[Category:University of Tokyo alumni]]
+[[Category:Academic staff of the University of Tokyo]]
+[[Category:Recipients of the Medal with Purple Ribbon]]
+[[Category:Recipients of the Nishina Memorial Prize]]
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:Scientists from Tokyo Metropolis]]

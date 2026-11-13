@@ -1,0 +1,102 @@
+{{short description|Canadian mathematician and mathematical physicist}}
+'''Rowan Yeats''' (born 1980){{r|b}} is a Canadian [[mathematician]] and [[Mathematical physics|mathematical physicist]] whose research connects [[combinatorics]] to [[quantum field theory]]. He{{efn|Yeats uses {{pronoun pair|he|him}} and {{pronoun pair|they|them}} pronouns. This article uses he/him for consistency.<ref>{{cite web|url = https://www.math.uwaterloo.ca/~kayeats/index.html|author = Rowan Yeats|title = Rowan Yeats|website = math.uwaterloo.ca|access-date = 2026-05-25}}</ref>}} holds the [[Canada Research Chair]] in Combinatorics in Quantum Field Theory at the [[University of Waterloo]].{{r|crc}}
+{{Infobox academic
+| honorific_prefix  = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name              = Rowan Yeats
+| honorific_suffix  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name        = <!-- use only if different from full/othernames -->
+| birth_date        = {{birth year|1980}}
+| birth_place       = [[Halifax, Nova Scotia]]
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| death_cause       = 
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| other_names       = 
+| occupation        = 
+| years_active      = 
+| known_for         = 
+| title             = 
+| boards            = <!--board or similar positions extraneous to main occupation-->
+| spouse            = 
+| partner           = 
+| children          = 
+| parents           = 
+| relatives         = 
+| awards            = <!--notable national-level awards only-->
+| website           = 
+| education         = [[University of Waterloo]] {{small|([[Bachelor of Mathematics|BMath]])}}<br />[[Boston University]] {{small|([[Doctor of Philosophy|PhD]])}}
+| thesis_title      = Growth Estimates for Dyson-Schwinger Equations
+| thesis_url        = https://arxiv.org/abs/0810.2249
+| thesis_year       = 2008
+| school_tradition  = 
+| doctoral_advisor  = [[Dirk Kreimer]]
+| academic_advisors = 
+| influences        = <!--must be referenced from a third-party source-->
+| era               = 
+| discipline        = [[Mathematics]], [[Physics]]
+| sub_discipline    = [[Combinatorics]]; [[quantum field theory]]
+| institutions      = [[University of Waterloo]]
+| doctoral_students = <!--only those with WP articles-->
+| notable_students  = 
+| main_interests    = 
+| notable_works     = 
+| notable_ideas     = 
+| influenced        = <!--must be referenced from a third-party source-->
+| signature         = 
+| signature_alt     = 
+| signature_size    = 
+| footnotes         = 
+}}
+
+==Biography==
+Yeats is from [[Halifax, Nova Scotia]]. As an undergraduate at the University of Waterloo, he won an honourable mention for the 2003 [[Morgan Prize]] for his research in [[number theory]], the theory of [[Lie group]]s, and [[Non-standard model of arithmetic|non-standard models of arithmetic]]. He graduated in 2003, and went to [[Boston University]] for graduate school,{{r|morgan}} where he completed his Ph.D. in 2008. His dissertation, ''Growth Estimates for Dyson-Schwinger Equations'', was supervised by [[Dirk Kreimer]].{{r|mgp}} In 2016, Yeats was awarded a [[Alexander von Humboldt Foundation|Humboldt Fellowship]] to visit Kreimer at the [[Humboldt University of Berlin]].{{r|humboldt}}
+
+Yeats is the author of the books ''Rearranging Dyson–Schwinger Equations'' (Memoirs of the American Mathematical Society, 2011){{r|asf}}
+and ''A Combinatorial Perspective on Quantum Field Theory'' (Springer, 2017).{{r|cpqft}}
+
+==References==
+
+{{notelist}}
+
+<references>
+
+<ref name=asf>{{citation|title=Review of ''Rearranging Dyson-Schwinger Equations''|journal=[[Mathematical Reviews]]|first=Ali|last=Shojaei-Fard|year=2012|mr=2791969}}</ref>
+
+<ref name=b>Birth year from catalogue data for ''Rearranging Dyson-Schwinger Equations''</ref>
+
+<ref name=cpqft>{{citation|title=Review of ''A Combinatorial Perspective on Quantum Field Theory''|journal=[[zbMATH]]|first=Dimitar A.|last=Kolev|zbl=1360.81007}}</ref>
+
+<ref name=crc>{{citation|url=http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3912|title=Karen A. Yeats|date=29 November 2012 |publisher=Canada Research Chairs|access-date=2018-02-28}}</ref>
+
+<ref name=humboldt>{{citation|url=https://uwaterloo.ca/combinatorics-and-optimization/news/karen-yeats-receives-2016-humboldt-research-fellowship|title=Karen Yeats receives a 2016 Humboldt Research Fellowship|publisher=University of Waterloo|date=September 10, 2016|access-date=2018-03-02}}</ref>
+
+<ref name=mgp>{{mathgenealogy|id=130645}}</ref>
+
+<ref name=morgan>{{citation|url=https://www.ams.org/notices/200404/comm-morgan.pdf|title=2003 Morgan Prize|journal=[[Notices of the American Mathematical Society]]|volume=51|issue=4|pages=438–439|date=April 2004}}</ref>
+
+</references>
+
+==External links==
+*{{Google Scholar id|mswWzTkAAAAJ}}
+*[https://www.math.uwaterloo.ca/~kayeats/ Home page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Yeats, Rowan}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Canadian mathematicians]]
+[[Category:Canadian physicists]]
+[[Category:Combinatorialists]]
+[[Category:Quantum physicists]]
+[[Category:University of Waterloo alumni]]
+[[Category:Boston University alumni]]
+[[Category:Academic staff of the University of Waterloo]]
+[[Category:21st-century Canadian mathematicians]]

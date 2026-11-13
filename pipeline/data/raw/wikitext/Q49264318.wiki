@@ -1,0 +1,107 @@
+{{short description|German neuroscientist}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox academic
+| honorific_prefix  = 
+| name              = Wulfram Gerstner
+| honorific_suffix  = 
+| image             = EPFL_2018_Wulfram_Gerstner_Portrait.jpg
+| image_size        = 
+| alt               = 
+| caption           = Wulfram Gerstner in 2018
+| native_name       = 
+| native_name_lang  = 
+| birth_name        = <!-- use only if different from full/othernames -->
+| birth_date        = {{birth year and age|1963}}
+| birth_place       = 
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| death_cause       = 
+| citizenship       = German<br>Swiss
+| other_names       = 
+| occupation        = 
+| years_active      = 
+| known_for         = 
+| title             = 
+| boards            = <!--board or similar positions extraneous to main occupation-->
+| spouse            = 
+| partner           = 
+| children          = 
+| parents           = 
+| relatives         = 
+| awards            = Valentino Braitenberg Award for Computational Neuroscience 2018
+| website           = https://www.epfl.ch/labs/lcn/
+| education         = [[University of Tübingen]]<br/>[[LMU Munich]]
+| thesis_title      = <!--requires alma_mater-->
+| thesis_url        = <!--requires alma_mater-->
+| thesis_year       = <!--requires alma_mater-->
+| school_tradition  = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| era               = 
+| discipline        = [[Neuroscience]]
+| sub_discipline    = [[Computational neuroscience]]
+| institutions      = [[École Polytechnique Fédérale de Lausanne]] (EPFL)
+| doctoral_students = <!--only those with WP articles-->
+| notable_students  = <!--only those with WP articles-->
+| main_interests    = Dynamic models neural activity <br>
+[[Spike-timing-dependent plasticity]] (STDP) <br>
+Neuronal coding<br>
+Hippocampal models<br>
+Spatial representation
+| notable_works     = 
+| notable_ideas     = 
+| signature         = 
+| signature_alt     = 
+| signature_size    = 
+| footnotes         = 
+}}
+
+'''Wulfram Gerstner''' (born 1963 in [[Heilbronn]]) is a German and Swiss [[Computational neuroscience|computational neuroscientist]]. His research focuses on neural spiking patterns in neural networks, and their connection to learning, spatial representation and navigation.<ref>{{Cite web|title=Sechs neue Mitglieder in der Akademie der Wissenschaften und der Literatur {{!}} Mainz|url=https://idw-online.de/en/news720206|access-date=2020-11-05|website=idw-online.de}}</ref> Since 2006 Gerstner has been a full professor of Computer Science and Life Sciences at [[École Polytechnique Fédérale de Lausanne]] (EPFL), where he also serves as a Director of the Laboratory of Computational Neuroscience.<ref name=":0">{{Cite web|title=Wulfram Gerstner|url=https://people.epfl.ch/wulfram.gerstner|access-date=2020-09-04|website=people.epfl.ch}}</ref>
+
+== Career ==
+
+Gerstner studied physics at the [[University of Tübingen]] and at [[LMU Munich]]. In 1989, he received his Master's degree with a thesis in experimental [[quantum optics]]. He then joined the theoretical [[biophysics]] group of [[William Bialek]] at [[University of California, Berkeley]] as a visiting researcher.<ref>{{Cite journal |last=GERSTNER |first=Wulfram |date=1991 |title=Associative Memory in a Network of 'Biological' Neurons |url=https://papers.nips.cc/paper/371-associative-memory-in-a-network-of-biological-neurons.pdf |url-status=dead |journal=Advances in Neural Information Processing Systems |volume=3 |pages=84–90 |archive-url=https://web.archive.org/web/20200906042455/https://papers.nips.cc/paper/371-associative-memory-in-a-network-of-biological-neurons.pdf |archive-date=6 September 2020 |access-date=29 December 2024 }}</ref> He received  his PhD in [[theoretical physics]] from the [[Technical University of Munich]] in 1993 under supervision from [[Leo van Hemmen]]. He did postdoctoral work at [[Brandeis University]]<ref>{{Cite journal|last1=Gerstner|first1=Wulfram|last2=Abbott|first2=L.F.|date=1 January 1997|title=Learning Navigational Maps Through Potentiation and Modulation of Hippocampal Place Cells|url=https://doi.org/10.1023/A:1008820728122|journal=Journal of Computational Neuroscience|language=en|volume=4|issue=1|pages=79–94|doi=10.1023/A:1008820728122|pmid=9046453|s2cid=6616177|issn=1573-6873|url-access=subscription}}</ref> and at the [[Technical University of Munich]],<ref>{{Cite journal|last1=GERSTNER|first1=Wulfram|date=1995|title=Time structure of the activity in neural network models|url=https://doi.org/10.1103/PhysRevE.51.738|journal=Physical Review E|volume=51|issue=1|pages=738–758|doi=10.1103/PhysRevE.51.738|pmid=9962697|bibcode=1995PhRvE..51..738G|url-access=subscription}}</ref> where he worked in [[Computational neuroscience|theoretical neuroscience]].
+
+In 1996, he was nominated as assistant professor and in February 2001, he was promoted as an associate professor with tenure at [[École Polytechnique Fédérale de Lausanne|EPFL]]. In August 2006, Gerstner was appointed full professor at [[École Polytechnique Fédérale de Lausanne|EPFL]] in both the School of Computer and Communication Sciences and the School of Life Sciences.<ref name=":0" /><ref>{{Cite web|title=Wulfram Gerstner CV|url=https://lcnwww.epfl.ch/gerstner/wg_cv.html|access-date=2020-09-04|website=lcnwww.epfl.ch|archive-date=11 April 2021|archive-url=https://web.archive.org/web/20210411043822/https://lcnwww.epfl.ch/gerstner/wg_cv.html|url-status=live}}</ref>
+
+== Research ==
+Gerstner's research is focused on [[Biological neuron model|models of spiking neurons]],<ref name=":6">{{Cite journal|last1=Brette|first1=Romain|last2=Gerstner|first2=Wulfram|date=1 November 2005|title=Adaptive Exponential Integrate-and-Fire Model as an Effective Description of Neuronal Activity|url=http://infoscience.epfl.ch/record/97829/files/3637.pdf|journal=Journal of Neurophysiology|volume=94|issue=5|pages=3637–3642|doi=10.1152/jn.00686.2005|issn=0022-3077|pmid=16014787|archive-date=18 August 2017|access-date=14 September 2020|archive-url=https://web.archive.org/web/20170818214516/https://infoscience.epfl.ch/record/97829/files/3637.pdf|url-status=live}}</ref><ref name=":7" /> [[spike-timing-dependent plasticity]] (STDP),<ref>{{Multiref2|{{cite journal|last1=Gerstner|first1=Wulfram|last2=Kempter|first2=Richard|last3=van Hemmen|first3=J. Leo|last4=Wagner|first4=Hermann|date=5 September 1996|title=A neuronal learning rule for sub-millisecond temporal coding|url=https://www.nature.com/articles/383076a0|journal=Nature|language=en|volume=383|issue=6595|pages=76–78|doi=10.1038/383076a0|pmid=8779718|bibcode=1996Natur.383...76G|s2cid=4319500|issn=1476-4687|archive-date=23 February 2021|access-date=14 September 2020|archive-url=https://web.archive.org/web/20210223085738/https://www.nature.com/articles/383076a0|url-status=live}}|{{Cite journal|last1=Zenke|first1=Friedemann|last2=Agnes|first2=Everton J.|last3=Gerstner|first3=Wulfram|date=21 April 2015|title=Diverse synaptic plasticity mechanisms orchestrated to form and retrieve memories in spiking neural networks|journal=Nature Communications|volume=6|issue=1|page=6922|doi=10.1038/ncomms7922|doi-access=free|pmid=25897632|pmc=4411307|bibcode=2015NatCo...6.6922Z|issn=2041-1723}}|{{Cite journal|last1=Clopath|first1=Claudia|last2=Büsing|first2=Lars|last3=Vasilaki|first3=Eleni|last4=Gerstner|first4=Wulfram|date=24 January 2010|title=Connectivity reflects coding: a model of voltage-based STDP with homeostasis|journal=Nature Neuroscience|volume=13|issue=3|pages=344–352|doi=10.1038/nn.2479|pmid=20098420|hdl=10044/1/21440|s2cid=8046538|issn=1097-6256|url=http://infoscience.epfl.ch/record/144104/files/nn.2479.pdf|archive-date=17 August 2017|access-date=14 September 2020|archive-url=https://web.archive.org/web/20170817153019/https://infoscience.epfl.ch/record/144104/files/nn.2479.pdf|url-status=live}}
+}}</ref> neuronal coding in single [[neuron]]s and neuron populations.<ref>{{Multiref2|{{Cite journal|last=Gerstner|first=Wulfram|date=1 January 2000|title=Population Dynamics of Spiking Neurons: Fast Transients, Asynchronous States, and Locking|url=https://doi.org/10.1162/089976600300015899|journal=Neural Computation|volume=12|issue=1|pages=43–89|doi=10.1162/089976600300015899|pmid=10636933|s2cid=7832768|issn=0899-7667}}|{{Cite journal|last1=Pozzorini|first1=Christian|last2=Naud|first2=Richard|last3=Mensi|first3=Skander|last4=Gerstner|first4=Wulfram|date=July 2013|title=Temporal whitening by power-law adaptation in neocortical neurons|url=https://www.nature.com/articles/nn.3431|journal=Nature Neuroscience|language=en|volume=16|issue=7|pages=942–948|doi=10.1038/nn.3431|pmid=23749146|s2cid=1873019|issn=1546-1726}}|{{Cite journal|last1=Jimenez Rezende|first1=Danilo|last2=Gerstner|first2=Wulfram|date=4 April 2014|title=Stochastic variational learning in recurrent spiking networks|journal=Frontiers in Computational Neuroscience|volume=8|page=38|doi=10.3389/fncom.2014.00038|pmid=24772078|pmc=3983494|issn=1662-5188|doi-access=free}}|{{Cite journal|last1=Vogels|first1=T. P.|last2=Sprekeler|first2=H.|last3=Zenke|first3=F.|last4=Clopath|first4=C.|last5=Gerstner|first5=W.|date=10 November 2011|title=Inhibitory Plasticity Balances Excitation and Inhibition in Sensory Pathways and Memory Networks|journal=Science|volume=334|issue=6062|pages=1569–1573|doi=10.1126/science.1211095|pmid=22075724|bibcode=2011Sci...334.1569V|hdl=10044/1/21441 |s2cid=45134325|issn=0036-8075|url=http://spiral.imperial.ac.uk/bitstream/10044/1/21441/2/Science_334_6062_2011.pdf}}|{{Cite journal|last1=Hennequin|first1=Guillaume|last2=Vogels|first2=Tim P.|last3=Gerstner|first3=Wulfram|date=18 June 2014|title=Optimal Control of Transient Dynamics in Balanced Networks Supports Generation of Complex Movements|journal=Neuron|volume=82|issue=6|pages=1394–1406|doi=10.1016/j.neuron.2014.04.045|pmid=24945778|pmc=6364799|issn=0896-6273}}}}</ref> He also investigates models of the [[hippocampus]] and their application in the spatial representation for navigation of rat-like autonomous agents.<ref>{{Cite journal|last1=Sheynikhovich|first1=Denis|last2=Chavarriaga|first2=Ricardo|last3=Strösslin|first3=Thomas|last4=Arleo|first4=Angelo|last5=Gerstner|first5=Wulfram|date=1 July 2009|title=Is there a geometric module for spatial orientation? Insights from a rodent navigation model.|journal=Psychological Review|volume=116|issue=3|pages=540–566|doi=10.1037/a0016170|pmid=19618986|issn=1939-1471|url=http://infoscience.epfl.ch/record/140439/files/StArGe09.pdf|archive-date=15 August 2017|access-date=14 September 2020|archive-url=https://web.archive.org/web/20170815195833/https://infoscience.epfl.ch/record/140439/files/StArGe09.pdf|url-status=live}}</ref>
+
+He is also one of the initiators of The Deep Artificial Composer (DAC), a deep-learning algorithm that can generate melodies by imitating a given style of music.<ref>{{Multiref2|{{Cite web|title=From Mozart to Botzart: when machines write our music|url=https://phys.org/news/2017-07-mozard-botzard-machines-music.html|access-date=2020-09-04|website=phys.org|language=en|archive-date=4 December 2020|archive-url=https://web.archive.org/web/20201204181915/https://phys.org/news/2017-07-mozard-botzard-machines-music.html|url-status=live}}|{{Cite web|date=25 July 2017|title=Ein Algorithmus macht Musik – Wer hat's komponiert? Maschine oder Mensch?|url=https://www.srf.ch/kultur/musik/wer-hat-s-komponiert-maschine-oder-mensch|access-date=2020-09-04|website=Schweizer Radio und Fernsehen (SRF)|language=de|archive-date=20 April 2021|archive-url=https://web.archive.org/web/20210420210825/https://www.srf.ch/kultur/musik/wer-hat-s-komponiert-maschine-oder-mensch|url-status=live}}|{{Cite news|date=6 July 2017|title=Ein Algorithmus lernt zu komponieren|url=https://www.nzz.ch/wissenschaft/technik/forschung-am-epfl-ein-algorithmus-lernt-zu-komponieren-ld.1304612|access-date=2020-09-04|website=Neue Zürcher Zeitung|archive-date=11 March 2018|archive-url=https://web.archive.org/web/20180311101601/https://www.nzz.ch/wissenschaft/technik/forschung-am-epfl-ein-algorithmus-lernt-zu-komponieren-ld.1304612|url-status=live}}|{{Cite news|date=25 August 2017|title=Quand les algorithmes donnent le tempo|language=fr|work=Le Temps|url=https://www.letemps.ch/culture/algorithmes-donnent-tempo|access-date=2020-09-04|issn=1423-3967|archive-date=13 April 2021|archive-url=https://web.archive.org/web/20210413095941/https://www.letemps.ch/culture/algorithmes-donnent-tempo|url-status=live}}}}</ref>
+
+== Books ==
+Gerstner is the author of neuroscientific text books such as ''Spiking Neuron Models: Single neurons, populations, plasticity''  (Gerstner, W. and Kistler, W.M., 2002, Cambridge University Press) that introduced the field of [[spiking neural network]]s,<ref name=":7">{{Cite book|last=Gerstner, Wulfram.|title=Spiking neuron models : single neurons, populations, plasticity|date=2002|publisher=Cambridge University Press|others=Kistler, Werner M., 1969–|isbn=0-511-07817-X|location=Cambridge, U.K.|oclc=57417395}}</ref> and ''Neuronal dynamics: From single neurons to networks and models of cognition'' (Gerstner, W., Kistler, W.M., Naud, R. and Paninski, L., 2014, Cambridge University Press) on the field of [[computational neuroscience]] that was also published as an online version including exercises and video lectures.<ref>{{Multiref2|{{Cite book|last=Gerstner, Wulfram.|title=Neuronal dynamics : from single neurons to networks and models of cognition|date=24 July 2014|others=Kistler, Werner M., 1969–, Naud, Richard., Paninski, Liam.|isbn=978-1-107-06083-8|location=Cambridge, United Kingdom|oclc=861774542}}|{{Cite web|title=Neuronal Dynamics - a neuroscience textbook by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski|url=https://neuronaldynamics.epfl.ch/|access-date=2020-11-05|website=neuronaldynamics.epfl.ch|archive-date=26 October 2020|archive-url=https://web.archive.org/web/20201026131551/https://neuronaldynamics.epfl.ch/|url-status=live}}}}</ref>
+
+== Selected publications ==
+* {{cite journal |doi=10.1162/089976600300015899|title=Population Dynamics of Spiking Neurons: Fast Transients, Asynchronous States, and Locking|year=2000|last1=Gerstner|first1=Wulfram|journal=Neural Computation|volume=12|issue=1|pages=43–89|pmid=10636933|s2cid=7832768|url=http://infoscience.epfl.ch/record/97797/files/Gerstner00.pdf}}
+* {{cite journal |doi=10.1038/nn.2479|title=Connectivity reflects coding: A model of voltage-based STDP with homeostasis|year=2010|last1=Clopath|first1=Claudia|last2=Büsing|first2=Lars|last3=Vasilaki|first3=Eleni|last4=Gerstner|first4=Wulfram|journal=Nature Neuroscience|volume=13|issue=3|pages=344–352|pmid=20098420|hdl=10044/1/21440|s2cid=8046538|url=http://infoscience.epfl.ch/record/144104/files/nn.2479.pdf}}
+* {{cite journal |doi=10.1038/383076a0|title=A neuronal learning rule for sub-millisecond temporal coding|year=1996|last1=Gerstner|first1=Wulfram|last2=Kempter|first2=Richard|last3=Van Hemmen|first3=J. Leo|last4=Wagner|first4=Hermann|journal=Nature|volume=383|issue=6595|pages=76–78|pmid=8779718|bibcode=1996Natur.383...76G|s2cid=4319500|url=http://infoscience.epfl.ch/record/97773/files/Gerstner96.pdf}}
+* {{cite journal |doi=10.1152/jn.00686.2005|title=Adaptive Exponential Integrate-and-Fire Model as an Effective Description of Neuronal Activity|year=2005|last1=Brette|first1=Romain|last2=Gerstner|first2=Wulfram|journal=Journal of Neurophysiology|volume=94|issue=5|pages=3637–3642|pmid=16014787|url=http://infoscience.epfl.ch/record/97829/files/3637.pdf}}
+* {{cite journal |doi=10.1103/PhysRevE.59.4498|title=Hebbian learning and spiking neurons|year=1999|last1=Kempter|first1=Richard|last2=Gerstner|first2=Wulfram|last3=Van Hemmen|first3=J. Leo|journal=Physical Review E|volume=59|issue=4|pages=4498–4514|bibcode=1999PhRvE..59.4498K|url=http://infoscience.epfl.ch/record/97790/files/Kempter99.pdf}}
+
+== Distinctions ==
+Gerstner has been an editorial board member of journals such as  [[Science (journal)|Science]],<ref>{{Cite web|date=12 December 2008|title=Science Magazine Masterhead|url=https://www.science.org/toc/science/322/5908|access-date=2020-09-04|archive-date=25 February 2022|archive-url=https://web.archive.org/web/20220225022244/https://www.science.org/toc/science/322/5908|url-status=live}}</ref>  [[The Journal of Neuroscience]],  [[Network: Computation in Neural Systems]], [[Journal of Computational Neuroscience]],<ref name=":0" /> and Neural Computation.
+
+He is the recipient of the Valentino Braitenberg Award for Computational Neuroscience 2018<ref>{{Cite web|title=Wulfram Gerstner receives Valentino Braitenberg Award 2018 — Bernstein Netzwerk Computational Neuroscience|url=https://www.bernstein-network.de/en/news/nachrichten-en/wulfram-gerstner-receives-valentino-braitenberg-award-2018|access-date=2020-09-04|website=www.bernstein-network.de|language=en}}</ref> and in 2010 he was awarded an [[ERC Advanced Grant]] by the [[European Research Council]].<ref>{{Cite web|date=20 January 2010|title=ERC Advanced Grant 2010|url=https://erc.europa.eu/sites/default/files/document/file/erc_2010_adg_results_ls.pdf|access-date=2020-09-10|archive-date=30 August 2020|archive-url=https://web.archive.org/web/20200830234014/https://erc.europa.eu/sites/default/files/document/file/erc_2010_adg_results_ls.pdf|url-status=live}}</ref> Gerstner is an elected member of the [[Akademie der Wissenschaften und der Literatur|Academy of Sciences and Literature Mainz]].<ref>{{Cite web|title=Prof. Dr. Wulfram Gerstner : Akademie der Wissenschaften und der Literatur {{!}} Mainz|url=http://www.adwmainz.de/mitglieder/profil/prof-dr-wulfram-gerstner.html|access-date=2020-09-04|website=www.adwmainz.de}}</ref>
+
+== References ==
+<references />
+
+== External links ==
+* {{Google Scholar id}}
+* [https://www.epfl.ch/labs/lcn/ Web site of Laboratory of Computational Neuroscience]
+*Online version of the textbook [https://neuronaldynamics.epfl.ch/ Neuronal dynamics: From single neurons to networks and models of cognition]
+{{authority control}}
+
+{{DEFAULTSORT:Gerstner, Wulfram}}
+[[Category:German neuroscientists]]
+[[Category:Swiss neuroscientists]]
+[[Category:Living people]]
+[[Category:LMU Munich alumni]]
+[[Category:University of Tübingen alumni]]
+[[Category:Academic staff of the École Polytechnique Fédérale de Lausanne]]
+[[Category:Computational neuroscientists]]
+[[Category:1963 births]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Brandeis University alumni]]

@@ -1,0 +1,54 @@
+{{short description|Dutch programmer and crystallographer}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox scientist
+| honorific_prefix  = 
+| birth_date        = {{birth date|1932|03|07|df=y}}
+| birth_place       = [[The Hague]], [[Netherlands]]
+| death_date        = {{death_date_and_age|2016|07|16|1932|03|07|df=y}}
+| death_place       = 
+| name              = 
+| image             = 
+| caption           = 
+| education         = [[University of Western Australia]]
+| doctoral_advisor  = Edward Norman Maslen
+| academic_advisors = [[Dorothy Hodgkin]]
+| workplaces        = [[Energy Research Centre of the Netherlands]]
+| doctoral_students = 
+| known_for         = [[Rietveld refinement]]
+| website           = 
+}}
+'''Hugo M. Rietveld''' (7 March 1932 – 16 July 2016<ref name="HewatDavid2016">{{cite journal|last1=Hewat|first1=Alan|last2=David|first2=William I. F.|last3=van Eijck|first3=Lambert|title=Hugo Rietveld (1932–2016)|journal=Journal of Applied Crystallography|volume=49|issue=4|year=2016|pages=1394–1395|issn=1600-5767|doi=10.1107/S1600576716012061|doi-access=free}}</ref><ref>{{cite web |url=http://www.familieberichtenopinternet.nl/personen/2e01/2016_07_16/dr_hugo_m_rietveld |title=Dr. Hugo M. Rietveld |website=www.familieberichtenopinternet.nl |url-status=dead |archive-url=https://web.archive.org/web/20160723024027/http://www.familieberichtenopinternet.nl/personen/2e01/2016_07_16/dr_hugo_m_rietveld |archive-date=2016-07-23}} </ref>) was a Dutch [[crystallography|crystallographer]] who is famous for single handedly publishing joint work of Loopstra, van Laar and himself on the full profile refinement method in powder diffraction, which became later known as the [[Rietveld refinement]] method. The method was developed by Loopstra and van Laar and programmed in Algol by Rietveld to refine neutron diffraction data, but is applicable to other diffraction experiments as well, like X-ray diffraction. The Rietveld refinement uses a [[least squares]] approach to refine a theoretical line profile (calculated from a known or postulated crystal structure) until it matches the measured profile. The introduction of this technique which used the full profile instead of individual reflections was a significant step forward in the diffraction analysis of powder samples.
+
+==Biography==
+Rietveld was born in [[the Hague]]. After completing Grammar School in the Netherlands he moved to [[Australia]] and studied physics at the [[University of Western Australia]] in [[Perth]]. In 1964 he obtained his [[Doctor of Philosophy|PhD]] degree under [[Edward Norman Maslen]] with a thesis entitled "The Structure of [[terphenyl|p-Diphenylbenzene]] and Other Compounds", a single crystal [[neutron]] and [[X-ray diffraction]] study. [[Dorothy Hodgkin]] was an external examiner on his thesis. This investigation was the first single crystal [[neutron diffraction]] study in [[Australia]] and was conducted at the [[High Flux Australian Reactor]] ([[HIFAR]]) in the [[Lucas Heights, New South Wales|Lucas Heights]] suburb of [[Sydney]].
+
+In 1964 he became a research officer at the [[Energy Research Centre of the Netherlands]] ([[Energy Research Centre of the Netherlands|Energieonderzoek Centrum Nederland, ECN]]) in [[Petten]], where he worked together with Bert Loopstra and Bob van Laar on the structure solution and refinement of [[uranate]]s and other [[ceramic]] compounds using neutron [[powder diffraction]]. In 1967 he implemented the full profile refinement method in a computer program, which he published as his own achievement under his own name in his 1969 citation classic.<ref>{{cite journal | last=Rietveld | first=H. M. |author-link=Hugo Rietveld| title=A profile refinement method for nuclear and magnetic structures | journal=Journal of Applied Crystallography | publisher=International Union of Crystallography (IUCr) | volume=2 | issue=2 | date=1969-06-02 | issn=0021-8898 | doi=10.1107/s0021889869006558 | pages=65–71| bibcode=1969JApCr...2...65R }}</ref> After publishing this important project alone, Rietveld found his position in the small Petten group increasingly difficult. In 1974 he successfully applied for the post of head of the ECN library, a function that had been vacant for some time, and consequently he left science. He remained with the library until his retirement in 1992.<ref>Obituary Hugo Rietveld (1932–2016), ''[[loc. cit.]]''</ref>
+
+==Awards==
+* [[The Royal Swedish Academy of Sciences]] awarded Hugo M. Rietveld, the [[Gregori Aminoff Prize|Aminoff prize]] in [[Stockholm]], 31 March 1995.
+* Barrett Award on behalf of the [[Denver]] [[X-ray]] Conference Organizing Committee in [[Denver]], [[United States|U.S.]], 6 August 2003.
+* The Royal Award of Officer in the [[Order of Oranje-Nassau]], for his outstanding contribution to the field of [[chemistry]]. [[Alkmaar]], [[Netherlands]], 28 October 2004.
+* Award for Distinguished Powder Diffractionists, awarded by The European Diffraction Conferences, handed out on 30 August 2010 in [[Darmstadt]].
+* Hans-Kühl-Medal 2010, awarded by [[German Chemical Society|Gesellschaft Deutscher Chemiker]] (GDCh), Fachgruppe Bauchemie, handed out on 7 October 2010 in [[Dortmund]].
+
+==Further reading==
+
+* Bob van Laar, Henk Schenk, The development of powder profile refinement at the Reactor Centre Netherlands at Petten. International Union of Crystallography (December 2017).{{Self-published source|date=January 2025|reason=Bob van Laar accuses Rietveld of intellectual theft, should use independent news source for a proper citation}}
+* Young, R. A. (Ed.). (1993). The Rietveld method (Vol. 6). Oxford. Oxford University Press.
+* {{cite journal | last=Rietveld | first=H. M. | title=Line profiles of neutron powder-diffraction peaks for structure refinement | journal=Acta Crystallographica | publisher=International Union of Crystallography (IUCr) | volume=22 | issue=1 | date=1967-01-01 | issn=0365-110X | doi=10.1107/s0365110x67000234 | pages=151–152| bibcode=1967AcCry..22..151R }}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{Crystallography}}
+
+{{DEFAULTSORT:Rietveld, Hugo}}
+[[Category:1932 births]]
+[[Category:2016 deaths]]
+[[Category:Crystallographers]]
+[[Category:Dutch expatriates in Australia]]
+[[Category:20th-century Dutch physicists]]
+[[Category:Scientists from The Hague]]
+[[Category:University of Western Australia alumni]]

@@ -1,0 +1,71 @@
+{{Short description|Japanese mathematician (born 1951)}}
+{{Infobox scientist
+| name          = Michio Jimbo
+| native_name   = 神保 道夫
+| native_name_lang = ja
+| birth_date    = {{birth date and age|1951|11|28}}
+| birth_place   = [[Chiba (city)|Chiba]], Japan
+| fields        = [[Mathematical physics]]
+| workplaces    = [[Rikkyo University]]<br/>[[University of Tokyo]]<br/>[[Kyoto University]]
+| education     = [[University of Tokyo]] (BS)<br/>[[Kyoto University]] (MS, PhD)
+| doctoral_advisor = [[Mikio Sato]]
+| known_for     = [[Quantum group]]s<br/>[[Isomonodromic deformation]]<br/>[[Holonomic quantum field|Holonomic quantum fields]]
+| awards        = [[Japan Academy Prize (academics)|Japan Academy Prize]] (1993)<br/>[[Wigner Medal]] (2010)<br/>[[Dannie Heineman Prize for Mathematical Physics|Heineman Prize]] (2013)
+}}
+{{nihongo|'''Michio Jimbo'''|神保 道夫|Jimbō Michio|extra=born November 28, 1951}} is a Japanese [[mathematician]] working in [[mathematical physics]]. He is known for his introduction of [[quantum group]]s (independently of [[Vladimir Drinfeld]]), his contributions to the theory of [[integrable system]]s and their [[correlation function (statistical mechanics)|correlation functions]], and his work with [[Mikio Sato]] and [[Tetsuji Miwa]] on [[holonomic quantum field]]s and [[isomonodromic deformation]] theory.<ref name="aip">{{cite press release |title=Two Japanese Mathematicians Win 2013 Dannie Heineman Prize for Mathematical Physics |url=https://www.aip.org/news/two-japanese-mathematicians-win-2013-dannie-heineman-prize-mathematical-physics |publisher=[[American Institute of Physics]] |date=March 13, 2013 |access-date=February 10, 2026}}</ref><ref name="group28">{{cite web |title=The 2010 Wigner Medal |url=http://group28.unn.ac.uk/Content/Participation/conference_delegates.html |publisher=GROUP28, [[Northumbria University]] |year=2010 |access-date=February 10, 2026}}</ref>
+
+==Education and career==
+Jimbo was born in [[Chiba (city)|Chiba]], Japan. He received his bachelor's degree from the [[University of Tokyo]] in 1974 and entered graduate study at the [[Research Institute for Mathematical Sciences]] (RIMS) at [[Kyoto University]] under the supervision of [[Mikio Sato]]. He received his master's degree from Kyoto University in 1976 and his doctorate in 1986.<ref name="aip"/>
+Between 1976 and 1988, Jimbo worked as a research associate at RIMS. In 1988 he became an associate professor in the Department of Mathematics at Kyoto University, where he was later promoted to full professor. In 2000 he moved to the [[University of Tokyo]]. He is currently a specially appointed professor at [[Rikkyo University]] in Tokyo.<ref name="aip"/><ref name="rikkyo">{{cite web |title=JIMBO Michio – Researcher Profile |url=https://univdb.rikkyo.ac.jp/view?l=en&u=1448 |publisher=[[Rikkyo University]] |access-date=February 10, 2026}}</ref>
+
+==Research==
+
+===Holonomic quantum fields and isomonodromic deformation===
+In the late 1970s, Jimbo, together with Sato and Miwa, developed the theory of [[holonomic quantum field]]s, establishing an unexpected connection between [[isomonodromic deformation]] theory for linear differential equations and [[quantum field theory]].<ref name="hqf">{{cite journal |last1=Sato |first1=Mikio |last2=Miwa |first2=Tetsuji |last3=Jimbo |first3=Michio |title=Holonomic quantum fields I |journal=[[Publications of the Research Institute for Mathematical Sciences]] |volume=14 |issue=1 |pages=223–267 |year=1978 |doi=10.2977/prims/1195189284|doi-access=free }}</ref> This work provided a field-theoretic framework for the [[correlation function (statistical mechanics)|correlation functions]] of the two-dimensional [[Ising model]] and led to connections with [[Painlevé transcendents]].<ref name="JMU">{{cite journal |last1=Jimbo |first1=Michio |last2=Miwa |first2=Tetsuji |last3=Ueno |first3=Kimio |title=Monodromy preserving deformation of linear ordinary differential equations with rational coefficients. I. General theory and τ-function |journal=[[Physica D]] |volume=2 |issue=2 |pages=306–352 |year=1981 |doi=10.1016/0167-2789(81)90013-0 |bibcode=1981PhyD....2..306J}}</ref>
+
+===Quantum groups===
+In 1985, Jimbo introduced a ''q''-deformation of the [[universal enveloping algebra]] of a [[simple Lie algebra]], independently of Drinfeld's contemporaneous work on [[Hopf algebra]]s and the quantum [[Yang–Baxter equation]].<ref name="qgroup">{{cite journal |last=Jimbo |first=Michio |title=A ''q''-difference analogue of ''U''(𝔤) and the Yang–Baxter equation |journal=[[Letters in Mathematical Physics]] |volume=10 |issue=1 |pages=63–69 |year=1985 |doi=10.1007/BF00704588 |bibcode=1985LMaPh..10...63J |s2cid=120703708}}</ref> These structures, now known as [[quantum group]]s or Drinfeld–Jimbo algebras, have had far-reaching applications in [[representation theory]], [[knot theory]], and [[exactly solvable model|exactly solvable models]] in [[statistical mechanics]].<ref name="group28"/>
+
+===Integrable hierarchies===
+Working with Etsurō Date, [[Masaki Kashiwara]], and Miwa, Jimbo developed the theory of τ-functions for the [[Kadomtsev–Petviashvili equation|KP (Kadomtsev–Petviashvili)]] [[integrable hierarchy]] and related hierarchies, connecting them to the representation theory of infinite-dimensional [[Lie algebra]]s.<ref name="DJKM1">{{cite journal |last1=Date |first1=Etsurō |last2=Jimbo |first2=Michio |last3=Kashiwara |first3=Masaki |last4=Miwa |first4=Tetsuji |title=Operator approach to the Kadomtsev-Petviashvili equation III |journal=[[Journal of the Physical Society of Japan]] |volume=50 |issue=11 |pages=3806–3812 |year=1981 |doi=10.1143/JPSJ.50.3806 |bibcode=1981JPSJ...50.3806D}}</ref><ref name="DJKM2">{{cite journal |last1=Jimbo |first1=Michio |last2=Miwa |first2=Tetsuji |title=Solitons and infinite-dimensional Lie algebras |journal=[[Publications of the Research Institute for Mathematical Sciences]] |volume=19 |issue=3 |pages=943–1001 |year=1983 |doi=10.2977/prims/1195182017 |doi-access=free}}</ref>
+
+==Awards and honours==
+Jimbo has received several major awards for his contributions to mathematical physics, often jointly with his long-time collaborator Tetsuji Miwa:<ref name="aip"/>
+* 1987 – Autumn Prize of the [[Mathematical Society of Japan]] (with [[Tetsuji Miwa]]){{cn|date=February 2026}}
+* 1993 – [[Japan Academy Prize (academics)|Japan Academy Prize]]<ref name="jap">{{cite web |title=Japan Academy Prize recipients (81st–90th) |url=http://www.japan-acad.go.jp/en/activities/jyusho/081to090.html |publisher=[[Japan Academy]]}}</ref>
+* 1999 – [[Asahi Prize]] (with Tetsuji Miwa)<ref name="aip"/>
+* 2010 – [[Wigner Medal]], "for his introduction of quantum groups and his study of affine Lie algebras, in connection with classical and quantum integrable systems"<ref name="group28"/><ref name="msoj">{{cite web |title=Michio Jimbo has been awarded the 2010 Wigner Medal |url=https://www.mathsoc.jp/en/publicity/news20100629-en.html |publisher=[[Mathematical Society of Japan]] |date=June 29, 2010}}</ref>
+* 2013 – [[Dannie Heineman Prize for Mathematical Physics]] (with Tetsuji Miwa), "for profound developments in integrable systems and their correlation functions in statistical mechanics and quantum field theory, making use of quantum groups, algebraic analysis, and deformation theory"<ref name="aip"/><ref name="ams">{{cite journal |title=Jimbo and Miwa Awarded Heineman Prize |journal=[[Notices of the American Mathematical Society]] |volume=60 |issue=6 |page=765 |date=June–July 2013 |url=https://www.ams.org/notices/201306/rnoti-p765.pdf}}</ref>
+
+==Selected publications==
+
+===Books===
+* with [[Tetsuji Miwa]] and Fedor Smirnov: ''Local Operators in Integrable Models I''. American Mathematical Soc, 2021. {{ISBN|978-1-4704-6552-0}}
+* with Tetsuji Miwa and Etsurō Date: ''Solitons: Differential Equations, Symmetries and Infinite Dimensional Algebras''. [[Cambridge University Press]], 2000. {{ISBN|0-521-56161-2}}
+* with Tetsuji Miwa: ''Algebraic Analysis of Solvable Lattice Models''. CBMS Regional Conference Series in Mathematics, No. 85. [[American Mathematical Society]], 1995. {{ISBN|0-8218-0320-4}}
+* Editor: ''Yang–Baxter Equation in Integrable Systems''. Advanced Series in Mathematical Physics, Vol. 10. [[World Scientific]], 1990. {{doi|10.1142/1021}}
+
+===Articles===
+* {{cite journal |last=Jimbo |first=Michio |title=A ''q''-difference analogue of ''U''(𝔤) and the Yang–Baxter equation |journal=[[Letters in Mathematical Physics]] |volume=10 |issue=1 |pages=63–69 |year=1985 |doi=10.1007/BF00704588 |bibcode=1985LMaPh..10...63J |s2cid=120703708}}
+* {{cite journal |last=Jimbo |first=Michio |title=A ''q''-analogue of ''U''(𝔤𝔩(''N''+1)), Hecke algebra, and the Yang–Baxter equation |journal=Letters in Mathematical Physics |volume=11 |issue=3 |pages=247–252 |year=1986 |doi=10.1007/BF00400222 |bibcode=1986LMaPh..11..247J |s2cid=121244606}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MathGenealogy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jimbo, Michio}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:20th-century Japanese mathematicians]]
+[[Category:21st-century Japanese mathematicians]]
+[[Category:Academic staff of Rikkyo University]]
+[[Category:Academic staff of the University of Tokyo]]
+[[Category:Academic staff of Kyoto University]]
+[[Category:University of Tokyo alumni]]
+[[Category:Kyoto University alumni]]
+[[Category:Japanese mathematical physicists]]
+[[Category:People from Chiba (city)]]

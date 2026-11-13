@@ -1,0 +1,81 @@
+{{Short description|Brazilian scientist and philosopher}}
+{{more footnotes|date=January 2016}}
+{{Infobox person
+| name               = Francisco Doria
+| birth_date         = 1945
+| birth_place        = [[Rio de Janeiro]], [[Rio de Janeiro state]], [[Brazil]]
+| education          = [[Federal University of Rio de Janeiro]] ([[Bachelor's degree|BA]])
+}}
+'''Francisco Antônio de Moraes Accioli Dória''' (born 1945) is a Brazilian [[mathematician]], [[philosopher]], and [[genealogist]]. Francisco Antônio Dória received his BS in [[Chemical Engineering]] from the [[Federal University of Rio de Janeiro]] (UFRJ), Brazil, in 1968 and then got his doctorate from the [[Brazilian Center for Research in Physics]] (CBPF), advised by [[Leopoldo Nachbin]] in 1977. Dória worked for a while at the Physics Institute of UFRJ, and then left to become a Professor of the Foundations of Communications at the School of Communications, also at UFRJ. Dória held visiting positions at the [[University of Rochester]], [[Stanford University]] (here as a Senior Fulbright Scholar), and the [[University of São Paulo]] (USP). His most prolific period spawned from his collaboration with [[Newton da Costa|Newton Costa]],<ref>{{Cite book
+| url = https://books.google.com/books?id=EAswiGbShCAC&pg=PA48
+| title = Brazilian Studies in Philosophy and History of Science: An account of recent works
+| last1 = Krause
+| first1 = Décio
+| last2 = Videira
+| first2 = Antonio
+| date = 2011-01-27
+| publisher = Springer Science & Business Media
+| isbn = 9789048194223
+| pages = 48–49
+| language = en
+}}</ref> a Brazilian logician and one of the founders of [[paraconsistent logic]], which began in 1985. He is currently Professor of Communications, Emeritus, at UFRJ and a member of the [[Brazilian Academy of Philosophy]].<ref>{{Cite web | url=http://www.academia.org.br/artigos/o-poder-da-matematica |title = O poder da matemática|date = 2012-03-15}}</ref>
+
+His main achievement (with Brazilian logician and philosopher [[Newton da Costa]]) is the proof that [[chaos theory]] is undecidable (published in 1991), and when properly axiomatized within classical [[set theory]], is [[Gödel's incompleteness theorems|incomplete]] in the sense of [[Gödel]]. The decision problem for [[chaotic dynamical system]]s had been formulated by mathematician [[Morris Hirsch]].
+
+More recently da Costa and Dória introduced a formalization for the [[P = NP]] hypothesis that they called the “exotic formalization,” and showed in a series of papers that axiomatic set theory together with exotic P = NP is [[consistent]] if set theory is consistent. They then prove:
+
+If exotic P = NP together with axiomatic set theory is [[ω-consistent theory|ω-consistent]], then axiomatic set theory + P&nbsp;=&nbsp;NP is consistent.
+
+(So far nobody has advanced a proof of the ω-consistency of set theory + exotic P&nbsp;=&nbsp;NP.) They also showed that the equivalence between exotic P&nbsp;=&nbsp;NP and the usual formalization for P = NP, is independent of set theory and holds of the standard integers. If set theory plus that equivalence condition has the same provably [[total recursive function]]s as plain set theory, then the consistency of P = NP with set theory follows.
+
+Dória is also interested in the theories of [[hypercomputation]] and in the foundations of economic theory.
+
+==References==
+{{Reflist}}
+*N. C. A. da Costa and F. A. Dória, "Undecidability and incompleteness in classical mechanics," ''Int. J. Theor. Physics'' vol. 30, pp.&nbsp;1041–1073 (1991)
+: Proves that [[chaos theory]] is undecidable and, if axiomatized within set theory, incomplete in the sense of [[Gödel]].
+
+*N. C. A. da Costa and F. A. Dória, "An undecidable Hopf bifurcation with an undecidable fixed point," ''Int. J. Theor. Physics'' vol. 33, pp.&nbsp;1885–1903 (1994).
+: Settles a question raised by [[V. I. Arnold]] in the list of problems drawn up at the 1974 [[American Mathematical Society]] Symposium on the [[Hilbert Problems]]: is the stability problem for stationary points algorithmically decidable?
+
+*[[Ian Stewart (mathematician)|I. Stewart]], "Deciding the undecidable," ''Nature'' vol. 352, pp.&nbsp;664–665 (1991).
+*I. Stewart, ''From Here to Infinity'', Oxford (1996).
+: Comments on the undecidability proof for chaos theory.
+
+*J. Barrow, ''Impossibility – The Limits of Science and the Science of Limits'', Oxford (1998).
+: Describes the solution of Arnold's stability problem.
+
+*[[Stephen Smale|S. Smale]], "Problem 14: Lorenz attractor," in V. I. Arnold et al., ''Mathematics, Frontiers and Perspectives'', pp.&nbsp;285–286, AMS and IMU (2000).
+: Summarizes the obstruction to decidability in chaos theory described by da Costa and Dória.
+
+* F. A. Dória and J. F. Costa, "Special issue on hypercomputation," ''Applied Mathematics and Computation'' vol. 178 (2006).
+*N. C. A. da Costa and F. A. Dória, "Consequences of an exotic formulation for P = NP," ''Applied Mathematics and Computation'' vol. 145, pp.&nbsp;655–665 (2003) and vol. 172, pp.&nbsp;1364–1367 (2006).
+: The criticisms to the da Costa–Dória approach appear in the references in those papers.
+
+*N. C. A. da Costa, F. A. Dória and E. Bir, "On the metamathematics of the P vs. NP question," to be published in ''Applied Mathematics and Computation'' (2007).
+: Reviews the evidence for a conjectured consistency of P = NP with some strong axiomatic theory.
+
+*A. Syropoulos, ''Hypercomputation: Computing Beyond the Church–Turing Barrier'', Springer (2008).
+: Describes the contribution to hypercomputation theories by da Costa and Dória, and sketches their contribution to the [[P = NP problem]].
+
+==Book List==
+
+* Francisco Antonio Doria, NCA da Costa, "On the Foundations of Science (LIVRO): Essays, First Series", Editora E-papers, 2013.<ref>{{Cite book | url=https://books.google.com/books?id=Fk55QRLK3JEC&q=francisco+antonio+doria | title=On the Foundations of Science (LIVRO): Essays, First Series| isbn=9788576501824| date=2013-06-10}}</ref>
+* Francisco Antonio Doria, "Chaos, Computers, Games and Time: A quarter century of joint work with Newton da Costa", Editora E-papers.<ref>{{Cite book | url=https://books.google.com/books?id=HWU5CtjQL90C&q=francisco+antonio+doria |title = Chaos, Computers, Games and Time: A quarter century of joint work with Newton da Costa|isbn = 9788576502982|last1 = Doria|first1 = Francisco Antonio}}</ref>
+* Gregory Chaitin, Francisco A Doria, Newton C.A. da Costa, "Goedel's Way: Exploits into an undecidable world", CRC Press, 2011.<ref>{{Cite book | url=https://books.google.com/books?id=EEXRBQAAQBAJ&q=francisco+antonio+doria | title=Goedel's Way: Exploits into an undecidable world| isbn=9780203169575| last1=Chaitin| first1=Gregory| last2=Doria| first2=Francisco A.| last3=Da Costa| first3=Newton C. A.| date=2011-10-14}}</ref>
+* Francisco Antonio Doria (Ed.), "The Limits Of Mathematical Modeling In The Social Sciences: The Significance Of Godel's Incompleteness Phenomenon", World Scientific, 2017.<ref>{{Cite book | url=https://books.google.com/books?id=WvAnDwAAQBAJ&q=francisco+antonio+doria | title=The Limits of Mathematical Modeling in the Social Sciences" The Significance of Godel's Incompleteness Phenomenon| isbn=9781786343178| last1=Antonio| first1=Doria Francisco| date=2017-05-30}}</ref>
+* Shyam Wuppuluri, Francisco Antonio Doria (Eds.), "The Map and the Territory: Exploring the foundations of science, thought and reality", foreword by Sir Roger Penrose, Afterword by Dagfinn Follesdal, Springer — The frontiers Collection, 2018.<ref>{{Cite book | url=https://books.google.com/books?id=mRBMDwAAQBAJ&q=francisco+antonio+doria | title=The Map and the Territory: Exploring the Foundations of Science, Thought and Reality| isbn=9783319724782| last1=Wuppuluri| first1=Shyam| last2=Doria| first2=Francisco Antonio| date=2018-02-13}}</ref>
+* Shyam Wuppuluri, Francisco Antonio Doria (Eds.), "Unravelling Complexity: The Life And Work Of Gregory Chaitin" World Scientific, 2020.<ref>{{Cite book | url=https://www.worldscientific.com/worldscibooks/10.1142/11270 | title=Unravelling Complexity: The Life And Work Of Gregory Chaitin| isbn=978-9811200069| last1=Wuppuluri| first1=Shyam| last2=Doria| first2=Francisco Antonio| date=2020-01-20| doi=10.1142/11270| s2cid=198790362}}</ref>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Doria, Francisco Antonio}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:Brazilian mathematicians]]
+[[Category:20th-century Brazilian philosophers]]
+[[Category:Brazilian genealogists]]
+[[Category:Brazilian chemical engineers]]
+[[Category:20th-century Brazilian engineers]]
+<references />
+[[Category:Academic staff of the Federal University of Rio de Janeiro]]

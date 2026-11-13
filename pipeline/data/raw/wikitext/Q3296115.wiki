@@ -1,0 +1,56 @@
+{{short description|American chemist}}
+{{Infobox scientist
+|name              = Ernest R. Davidson
+|birth_date        = {{birth date and age|1936|10|12}}
+|birth_place       = [[Terre Haute, Indiana]], US
+|field             = [[Theoretical chemistry]]<br>[[Quantum chemistry]]<br>[[Computational chemistry]]
+|workplaces        = [[University of Washington]]<br>[[Indiana University Bloomington]]
+|education         = [[Rose Polytechnic Institute]]<br>[[Indiana University Bloomington]]
+|known_for         = [[Davidson correction]], Davidson diagonalization, computational methods in quantum chemistry
+|awards            = [[National Academy of Sciences]] (1987)<br>[[National Medal of Science]] (2001)<br>[[Schrödinger Medal]] (2001)
+|doctoral_students = [[Philip_Phillips_(physicist) | Philip Phillips]]
+|footnotes         = 
+|signature         = 
+}}
+'''Ernest Roy Davidson''' (born October 12, 1936) is an American theoretical chemist known for the [[Davidson correction]] and the Davidson diagonalization method, both widely used in [[configuration interaction]] calculations. He was a professor of chemistry at the [[University of Washington]] and [[Indiana University Bloomington]], and received the [[National Medal of Science]] in 2001.
+
+==Early life and career==
+He was born in [[Terre Haute, Indiana]], where he graduated from [[Wiley High School]]. He received a BS in [[chemical engineering]] from [[Rose Polytechnic Institute]] and earned a PhD in theoretical chemistry from [[Indiana University]].<ref>{{cite web|url=https://nationalmedals.org/laureate/ernest-r-davidson/|title=Ernest R. Davidson|website=National Science & Technology Medals Foundation}}</ref>
+
+Davidson was a professor of chemistry at the University of Washington from 1961 to 1984 and again from 2002 to 2020,<ref>{{Cite journal |date=2002-02-10 |title=Biography |url=http://www.tandfonline.com/doi/abs/10.1080/00268970110075149 |journal=Molecular Physics |language=en |volume=100 |issue=3 |pages=317–330 |doi=10.1080/00268970110075149 |issn=0026-8976|url-access=subscription }}</ref> and at Indiana University Bloomington from 1984 to 2002.<ref>{{cite web|url=https://www.chem.indiana.edu/faculty/ernest-davidson/|title=Ernest R. Davidson|website=chem.indiana.edu}}</ref>
+
+==Research==
+His name is associated with both the Davidson correction,<ref>{{Cite journal |last=Meissner |first=L. |date=1988-05-06 |title=Size-consistency corrections for configuration interaction calculations |url=https://www.sciencedirect.com/science/article/pii/0009261488874311 |journal=Chemical Physics Letters |volume=146 |issue=3 |pages=204–210 |doi=10.1016/0009-2614(88)87431-1 |issn=0009-2614|url-access=subscription }}</ref> which estimates the effect of higher excitations on the computed energy, and the Davidson diagonalization method, which he developed and applied to configuration interaction. The method finds a few eigenvalues and eigenvectors of very large matrices and has become a standard component of ab initio configuration interaction programs.<ref>{{Cite journal |last=Davidson |first=Ernest R. |date=1975 |title=The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real-symmetric matrices |url=https://linkinghub.elsevier.com/retrieve/pii/0021999175900650 |journal=Journal of Computational Physics |language=en |volume=17 |issue=1 |pages=87–94 |doi=10.1016/0021-9991(75)90065-0|url-access=subscription }}</ref><ref>{{Cite journal |last=Crouzeix |first=Michel |last2=Philippe |first2=Bernard |last3=Sadkane |first3=Miloud |date=1994 |title=The Davidson Method |url=https://epubs.siam.org/doi/10.1137/0915004 |journal=SIAM Journal on Scientific Computing |language=en |volume=15 |issue=1 |pages=62–76 |doi=10.1137/0915004 |issn=1064-8275|url-access=subscription }}</ref><ref name="IAQMS">{{Cite web |title=Ernest R. Davidson |url=https://www.iaqms.org/members/davidson.php |access-date=2026-09-20 |website=International Academy of Quantum Molecular Science}}</ref>
+
+His other computational contributions include an efficient method for evaluating integrals over Cartesian [[Gaussian orbital|Gaussian basis functions]] and the iterative natural orbital method, which has been used worldwide for high-accuracy calculations. He also did pioneering work on the accurate description of spin and momentum distributions and of [[diradical]]s, and contributed to the theory of [[Density matrix|reduced density matrices]].<ref name="IAQMS" />
+
+He is the author of over 400 publications, including the monograph ''Reduced Density Matrices in Quantum Chemistry'' (1976).<ref>{{Cite book |last=Davidson |first=Ernest R. |url=https://books.google.com/books/about/Reduced_Density_Matrices_in_Quantum_Chem.html?id=jFJ5QgAACAAJ |title=Reduced Density Matrices in Quantum Chemistry |date=1976 |publisher=Academic Press |isbn=978-0-12-205850-9 |language=en}}</ref>
+
+==Honors and awards==
+His honors include a [[Guggenheim Fellowship]] (1974),<ref>{{Cite web |title=Meet our Fellows - Guggenheim Fellowship — Guggenheim Fellowships: Supporting Artists, Scholars, & Scientists |url=https://www.gf.org/fellows |access-date=2026-02-17 |website=Guggenheim Foundation |language=en}}</ref> fellowship of the [[American Physical Society]] (1976),<ref name="IAQMS" /> membership in the [[International Academy of Quantum Molecular Science]] (1981),<ref name="IAQMS" /> fellowship of the [[American Association for the Advancement of Science]] (1985), and election to the [[National Academy of Sciences]] (1987).<ref>{{cite web|title=Ernest R. Davidson: Awards and honors|url=https://honorsandawards.iu.edu/awards/honoree/1745.html|website=iu.edu}}</ref> Later honors include the [[American Chemical Society]]'s Award for Computers in Chemistry (1992), fellowship of the [[American Academy of Arts and Sciences]] (1996), the Joseph O. Hirschfelder Prize in Theoretical Chemistry (1997), and the ACS Award in Theoretical Chemistry (2000).<ref name="IAQMS" />
+
+In 2001, he was awarded the National Medal of Science<ref>[https://www.nsf.gov/od/nms/recip_details.cfm?recip_id=97 National Science Foundation - The President's National Medal of Science]</ref><ref>{{Cite web |title=Ernest R. Davidson |url=https://nationalmedals.org/laureate/ernest-r-davidson/ |access-date=2026-02-17 |website=National Science and Technology Medals Foundation |language=en-US}}</ref> and the [[Schrödinger Medal]] of the [[World Association of Theoretical and Computational Chemists]].<ref>{{Cite web |title=WATOC – Schrödinger Medal |url=http://watoc.net/watoc.schroedinger.html |website=World Association of Theoretical and Computational Chemists |access-date=2026-09-20}}</ref>
+
+==References==
+<references/>
+
+==External links==
+* [http://www.iaqms.org/members/davidson.php His International Academy of Quantum Molecular Science page]
+* [http://davidson.pages.iu.edu His home page containing all his publications]
+{{Winners of the National Medal of Science|chemistry}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davidson, Ernest R.}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:National Medal of Science laureates]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:American theoretical chemists]]
+[[Category:Rose–Hulman Institute of Technology alumni]]
+[[Category:Schrödinger Medal recipients]]
+[[Category:American computational chemists]]
+{{US-chemist-stub}}

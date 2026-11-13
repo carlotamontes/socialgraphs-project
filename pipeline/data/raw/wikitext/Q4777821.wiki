@@ -1,0 +1,67 @@
+{{Short description|American physicist}}
+{{Infobox scientist
+|name             = Anupam Garg
+|image            = 
+|fields           = [[Physics]]
+| birth_date        = {{birth date and age|df=yes|1956|8|17}}
+| birth_place       = [[Amritsar]], [[India]]
+|workplaces       = [[Northwestern University]]
+|education        = {{ubl|[[IIT Delhi]]|[[Cornell University]]}}
+|doctoral_advisor = [[N. David Mermin]]<ref>{{cite web|title=Anupam Garg|website=Physics Tree|url=https://academictree.org/physics/peopleinfo.php?pid=180683}}</ref>
+|known_for        = [[Leggett–Garg inequality]]}}
+
+'''Anupam Garg''' is a professor in the department of Physics & Astronomy at [[Northwestern University]], Illinois. He was born on August 17, 1956 in [[Amritsar]], [[India]]. He received a Master's degree from [[IIT Delhi]] in 1977, and a Ph.D. in 1983 from [[Cornell University]]. In 2012, he became a Fellow of the [[American Physical Society]] thanks to his work on molecular magnetism and macroscopic quantum phenomena.
+
+Garg is best known for formulating the [[Leggett–Garg inequality]], named for [[Anthony James Leggett]] and himself, which is a mathematical inequality fulfilled by all macrorealistic physical theories.<ref name="LeggettGarg">{{cite journal | last1=Leggett | first1=A. J. | last2=Garg | first2=Anupam | title=Quantum mechanics versus macroscopic realism: Is the flux there when nobody looks? | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=54 | issue=9 | date=1985-03-04 | issn=0031-9007 | doi=10.1103/physrevlett.54.857 | pages=857–860| pmid=10031639 | bibcode=1985PhRvL..54..857L |url=https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf}}</ref>
+He is also known for the Garg-Onuchic-Ambegaokar model of charge transfer.
+<ref>{{cite journal | last1=Garg | first1=Anupam | last2=Onuchic | first2=José Nelson | last3=Ambegaokar | first3=Vinay | title=Effect of friction on electron transfer in biomolecules | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=83 | issue=9 | year=1985 | issn=0021-9606 | doi=10.1063/1.449017 | pages=4491–4503| bibcode=1985JChPh..83.4491G }}</ref>
+In addition, he discovered the phenomenon of topological quenching of the tunnel splitting in a toy Hamiltonian for spin tunneling,
+<ref>{{cite journal | last1=Garg | first1=Anupam | title=Topologically quenched tunnel splitting in spin systems without Kramers' degeneracy | journal=Europhysics Letters | publisher=IOP Publishing | volume=22 | issue=3 | year=1993 | doi=10.1209/0295-5075/22/3/008 | pages=205–210 
+| bibcode=1993EL.....22..205G }}</ref>
+that was subsequently found experimentally in the magnetic molecule Fe8.
+<ref>{{cite journal | last1=Wernesdorfer | first1=Wolfgang | last2=Sessoli | first2=Roberta |
+title=Quantum Phase Interference and Parity Effects in Magnetic Molecular Clusters |
+journal=Science | volume=284 | year=1999 | issue=5411 | pages=133–135 | doi=10.1126/science.284.5411.133 | pmid=10102810 | bibcode=1999Sci...284..133W }}</ref>
+
+Garg's initial work on spin tunnelling was based on an early and incomplete understanding of spin path integrals, and the experiments on Fe8 led him to an extensive study of the larger field of coherent state path integrals, especially as they pertain to quantum and semi-classical phenomena associated with the orientation of quantum mechanical spin. With his collaborators, Garg has made several original contributions to this field: (1) It was discovered that there is a global anomaly in the integral over the fluctuations around the classical path, whose resolution was also discovered.
+<ref>{{cite journal | last1=Stone | first1=Michael | last2=Park | first2=Kee-Su | last3=Garg | first3=Anupam|
+title=The semiclassical propagator for spin coherent states |
+journal=Journal of Mathematical Physics | volume=41 | year=2000 | issue=12 | page=8025
+| doi=10.1063/1.1320856 | arxiv=cond-mat/0004247 | bibcode=2000JMP....41.8025S }}</ref>
+This resolution means that the Gaussian fluctuations in the semiclassical approximation to the quantum mechanical propagator are unambiguously and completely found, irrespective of which correspondence between the quantum and classical Hamiltonians is employed.
+<ref>{{cite journal | last1=Braun
+ | first1=Carol | last2=Li | first2=Feifei | last3=Garg | first3=Anupam| last4=Stone |first4=Michael|
+title=The Semiclassical Coherent State Propagator in the Weyl Representation |
+journal=Journal of Mathematical Physics | volume=56 | year=2015 | issue=12 |page=122106
+| doi=10.1063/1.4936315 | arxiv=1509.01640 | bibcode=2015JMP....56l2106B }}</ref>
+(2) The experiments on Fe8 did not agree with the initial theoretical predictions in details such as the locations and the number of quenching points. These discrepancies were completely resolved by the discovery that it was necessary to include classical paths with discontinuities at their end points.
+<ref>{{cite journal | last1=Kececio˘glu | first1=Ersin | last2=Garg | first2=Anupam|
+title=SU(2) Instantons with Boundary Jumps and Spin Tunneling in Magnetic Molecules |
+journal=Physical Review Letters | volume=88 | year=2002 | issue=23 | article-number=237205
+| doi=10.1103/PhysRevLett.88.237205 | pmid=12059395 | arxiv=cond-mat/0111143 | bibcode=2002PhRvL..88w7205K }}</ref>
+
+Garg is the author of a graduate physics textbook, ''Classical Electromagnetism in a Nutshell'',<ref>Princeton University Press (2012).</ref>
+and an undergraduate text, ''Mathematics with a Scientific Sensibility''.
+<ref>
+{{cite web| title=Mathematics with a Scientific Sensibility| date=12 September 2023 | url=https://arch.library.northwestern.edu/concern/generic_works/1831ck48m?locale=en}}</ref>
+
+== See also ==
+*[[List of textbooks in electromagnetism]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Garg, Anupam}}
+[[Category:Cornell University alumni]]
+[[Category:21st-century American physicists]]
+[[Category:Northwestern University faculty]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:IIT Delhi alumni]]
+[[Category:Fellows of the American Physical Society]]
+
+
+{{US-physicist-stub}}

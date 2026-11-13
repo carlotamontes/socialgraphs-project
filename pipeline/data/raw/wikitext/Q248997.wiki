@@ -1,0 +1,112 @@
+{{short description|Belgian-French mathematical physicist}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox scientist
+| name              = David P. Ruelle
+| image             = Ruelle, David (1935).jpeg <!--(filename only, i.e. without "File:" prefix)-->
+| caption           = David Ruelle (1973)
+| birth_date        = {{birth date and age |1935|8|20|df=y}}
+| birth_place       = [[Ghent]], [[Belgium]]
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| fields            = [[Mathematical physics]]
+| workplaces        = [[ETH Zurich]]<br> [[Institute for Advanced Study]] <br>[[Institut des Hautes Études Scientifiques]]<br>[[Rutgers University]]
+| education         = [[Free University of Brussels (1834–1969)|Free University of Brussels]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| doctoral_students = [[Giovanni Gallavotti]]
+| known_for         = {{Unbulleted list|[[Dobrushin–Lanford–Ruelle equations]]|[[Haag–Ruelle scattering theory]] |[[Ruelle zeta function]] |[[Sinai–Ruelle–Bowen measure]]}}
+| awards            = {{Unbulleted list|[[Dannie Heineman Prize for Mathematical Physics]] {{small|(1985)}}|{{nowrap|[[Boltzmann Medal]] {{small|(1986)}}}}|{{nowrap|[[Holweck Prize]] {{small|(1993)}}}}|{{nowrap|[[Matteucci Medal]] {{small|(2004)}}}}|{{nowrap|[[Henri Poincaré Prize]] {{small|(2006)}}}}|{{nowrap|[[Max Planck Medal]] {{small|(2014)}}}}|{{nowrap|[[Dirac Medal (ICTP)|Dirac Medal]] {{small|(2022)}}}}}}
+}}
+
+'''David Pierre Ruelle''' ({{IPA|fr|david pjɛʁ ʁɥɛl|lang}}; born 20 August 1935) is a [[Belgians|Belgian]] and naturalized [[French people|French]] [[Mathematical physics|mathematical physicist]]. He has worked on [[statistical physics]] and [[Dynamical system|dynamical systems]]. With [[Floris Takens]], Ruelle coined the term ''[[strange attractor]]'', and developed a new theory of [[turbulence]].<ref>{{cite journal|last1=Ruelle|first1=David|last2=Takens|first2=Floris|date=1971|title=On the nature of turbulence|url=http://projecteuclid.org/euclid.cmp/1103857186|journal=Communications in Mathematical Physics|volume=20|issue=3|pages=167–192|doi=10.1007/bf01646553|bibcode=1971CMaPh..20..167R|s2cid=17074317}}</ref><ref>{{cite web|last=Ruelle|first=David|url=https://www.ams.org/notices/200607/what-is-ruelle.pdf|title='What is a... Strange Attractor?|website=American Mathematical Society|access-date=March 12, 2021}}</ref>
+
+== Biography ==
+Ruelle studied physics at the [[Free University of Brussels (1834–1969)|Free University of Brussels]], obtaining a PhD degree in 1959 under the supervision of [[Res Jost]].<ref>{{MathGenealogy|id=105130|title=David Ruelle}}</ref> He spent two years (1960–1962) at the [[ETH Zurich]], and another two years (1962–1964) at the [[Institute for Advanced Study]] in [[Princeton, New Jersey]]. In 1964, he became professor at the [[Institut des Hautes Études Scientifiques]] in [[Bures-sur-Yvette]], [[France]]. Since 2000, he has been an [[emeritus professor]] at IHES and distinguished visiting professor at [[Rutgers University]].<ref>{{cite web|url=http://www.ihes.fr/~ruelle/CVAnglais|title=Biography from his website|website=ihes.fr|access-date=March 12, 2021}}</ref>
+
+David Ruelle made fundamental contributions in various aspects of mathematical physics. In quantum field theory, the most important contribution is the rigorous formulation of [[scattering]] processes based on [[Wightman axioms|Wightman's axiomatic theory]].<ref>{{Cite journal|last=Ruelle|first=David|title=On the asymptotic condition in quantum field theory|journal=Helvetica Physica Acta|volume=35|pages=147–163|year=1962|doi=10.5169/seals-113272|url=https://www.e-periodica.ch/cntmng?pid=hpa-001:1962:35::790}}</ref> This approach is known as the [[Haag–Ruelle scattering theory]]. Later Ruelle helped to create a rigorous theory of [[statistical mechanics]] of equilibrium, that includes the study of the [[thermodynamic limit]], the equivalence of [[Statistical ensemble (mathematical physics)|ensembles]], and the convergence of Mayer's series.<ref>{{Cite book|last=Ruelle|first=David|date=1999|title=Statistical mechanics: Rigorous results|publisher=World Scientific|isbn=978-9810238629}}</ref> A further result is the Asano-Ruelle lemma,<ref>{{cite journal|last=Ruelle|first=David|title=Extension of the Lee-Yang circle theorem|journal=Physical Review Letters|volume=26|page=303|year=1971|issue=6|doi=10.1103/PhysRevLett.26.303|bibcode=1971PhRvL..26..303R}}</ref> which allows the study of the zeros of certain polynomial functions that are recurrent in statistical mechanics.<ref>{{cite journal|last1=Lebowitz|first1=Joel L.|last2=Pittel|first2=Boris|last3=Ruelle|first3=David|last4=Speer|first4=Eugene R.|title=Central limit theorems, Lee--Yang zeros, and graph-counting polynomials|journal=[[Journal of Combinatorial Theory]]|series=Series A|volume=141|pages=147–183|year=2016|doi=10.1016/j.jcta.2016.02.009|doi-access=free|s2cid=11664411|arxiv=1408.4153}}</ref>
+
+The study of infinite systems led to the local definition of [[Gibbs state]]s or to the global definition of [[equilibrium state]]s. Ruelle demonstrated with [[Roland L. Dobrushin]] and [[Oscar Lanford|Oscar E. Lanford]] that translationally invariant Gibbs states are precisely the equilibrium states.<ref>{{cite journal|last=Ruelle|first=David|title=Thermodynamic formalism. Addison Wesley, Reading|journal=Mass zbMATH|year=1978}}</ref>
+
+Together with [[Floris Takens]], he proposed the description of hydrodynamic [[turbulence]] based on strange attractors with chaotic properties of hyperbolic dynamics.<ref>{{Cite book|last=Ruelle|first=David|date=1993|volume=110|title=Chance and chaos|publisher=Princeton University Press|isbn=978-0691021003}}</ref><ref>{{cite web|last=Gallavotti|first=Giovanni|url=http://www.iamp.org/poincare/dr06-laud.html|title=''Laudatio'' on the occasion of the Henri Poincaré Prize|website=International Association of Mathematical Physics|access-date=March 12, 2021}}</ref>
+
+== Honors and awards ==
+Since 1985 David Ruelle has been a member of the [[French Academy of Sciences]]<ref>{{cite web|url=https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-R/david-ruelle.html|title=French Academy of Sciences member page of David Ruelle|website=French Academy of Sciences|access-date=March 13, 2021|language=fr}}</ref> and in 1988 he was [[Josiah Willard Gibbs Lectureship|Josiah Willard Gibbs Lecturer]] in [[Atlanta, Georgia]].<ref>{{cite web|url=https://www.ams.org/meetings/lectures/meet-gibbs-lect|title=Josiah Willard Gibbs Lectures|website=American Mathematical Society|access-date=March 9, 2021}}</ref> Since 1992 he has been an international honorary member of the [[American Academy of Arts and Sciences]]<ref>{{cite web|url=https://www.amacad.org/person/david-p-ruelle|title=Ruelle's member page of the American Academy of Arts and Sciences|website=American Academy of Arts and Sciences|access-date=March 13, 2021}}</ref> and since 1993 ordinary member of the [[Academia Europaea]].<ref>{{cite web|url=https://www.ae-info.org/ae/User/Ruelle_David|title=Ruelle's member page of Academia Europaea|website=Academia Europaea|access-date=March 13, 2021}}</ref> Since 2002 he has been an international member of the [[United States National Academy of Sciences]]<ref>{{cite web|url=https://www.nasonline.org/directory-entry/david-p-ruelle-c0xjsp/|title=Ruelle's member page of the National Academy od Sciences|website=National Academy od Sciences|access-date=March 13, 2021}}</ref> and since 2003 a foreign member of the [[Accademia Nazionale dei Lincei]].<ref>{{cite web|url=https://www.lincei.it/it/content/ruelle-david|title=Lincei's member page of David Ruelle|website=Accademia Nazionale dei Lincei|access-date=March 12, 2021}}</ref> Since 2012 he has been a fellow of the [[American Mathematical Society]].<ref>{{cite web|url=https://www.ams.org/profession/fellows-list|title=List of Fellows of the American Mathematical Society|website=American Mathematical Society|access-date=March 12, 2021}}</ref>
+
+In 1985 David Ruelle was awarded the [[Dannie Heineman Prize for Mathematical Physics]]<ref>{{cite web|url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Ruelle&first_nm=D.P.&year=1985|title=1985 Dannie Heineman Prize for Mathematical Physics Recipient|website=American Physical Society|access-date=March 12, 2021}}</ref> and in 1986 he received the [[Boltzmann Medal]] for his outstanding contributions to [[statistical mechanics]].<ref>{{cite web|url=https://iupap.org/commissions/c3-commission-on-statistical-physics/c3-awards/|title=C3: Awards - The Boltzmann Medal|website=International Union of Pure and Applied Physics|date=8 March 2021 |access-date=March 12, 2021}}</ref> In 1993 he won the [[Holweck Prize]]<ref>{{cite web|url=https://www.iop.org/fernand-holweck-medal-and-prize-recipients|title=Fernand Holweck Medal and Prize recipients|website=Institute of Physics|access-date=March 12, 2021}}</ref> and in 2004 he received the [[Matteucci Medal]].<ref>{{cite web|url=https://www.accademiaxl.it/medaglia-matteucci/|title=Medaglia Matteucci|website=Accademia Nazionale delle Scienze detta dei XL|access-date=March 12, 2021}}</ref> In 2006 he was awarded the [[Henri Poincaré Prize]]<ref>{{cite web|url=http://www.iamp.org/page.php?page=page_prize_poincare|title=Henri Poincaré Prize winners|website=International Association of Mathematical Physics|access-date=March 9, 2021}}</ref> and in 2014 he was honored with the prestigious [[Max Planck Medal]] for his achievements in [[theoretical physics]].<ref>{{cite web|url=https://www.dpg-physik.de/auszeichnungen/dpg-preise/max-planck-medaille/preistraeger|title=Max Planck Medal Prize winners|website=German Physical Society|language=de|access-date=March 12, 2021}}</ref> In 2022, Ruelle was awarded the ICTP's [[Dirac Medal (ICTP)|Dirac Medal]] for Mathematical Physics, along with Elliott H. Lieb and Joel Lebowitz, "for groundbreaking and mathematically rigorous contributions to the understanding of the statistical mechanics of classical and quantum physical systems".<ref>{{cite web|url=https://www.ictp.it/about-ictp/media-centre/news/2022/8/2022-dirac-medal-winners-announced.aspx|title=ICTP's Dirac Medal for Mathematical Physics Recipient|website=ICTP-date=August 8, 2022}}</ref>
+
+== Selected publications ==
+{{div col|colwidth=35em}}
+* {{Cite book|last=Ruelle|first=David|date=1993|volume=110|title=Chance and chaos|publisher=Princeton University Press|isbn=978-0691021003|url=https://books.google.com/books?id=zJ9_LGhrg6wC|postscript=; pbk}} {{isbn|978-0691085746}}; hbk<ref>{{cite web|title=Review of ''Chance and Chaos'' by David Ruelle|date=December 2, 1991|website=Publishers Weekly|url=https://www.publishersweekly.com/9780691085746}}</ref>
+* {{Cite book|last=Ruelle|first=David|date=1999|title=Statistical mechanics: Rigorous results|publisher=World Scientific|isbn=978-9810238629}} 1st edition 1969<ref>{{cite journal|doi=10.1090/S0002-9904-1970-12505-8|title=Book Review: ''Statistical Mechanics'' by David Ruelle |year=1970 |last1=Lieb |first1=Elliott |author-link=Elliott H. Lieb |journal=Bulletin of the American Mathematical Society |volume=76 |issue=4 |pages=683–689 |doi-access=free }}</ref>
+* {{Cite book|last=Ruelle|first=David|date=2004|title=Thermodynamic formalism: the mathematical structure of equilibrium statistical mechanics|publisher=Cambridge University Press|isbn=978-0521546492}} 1st edition 1978<ref>{{cite journal|doi=10.1090/S0273-0979-1979-14695-0|title=Book Review: ''Thermodynamic formalism: The mathematical structures of classical equilibrium statistical mechanics'' by David Ruelle |year=1979 |last1=Babbitt |first1=D. G. |journal=Bulletin of the American Mathematical Society |volume=1 |issue=6 |pages=931–936 |doi-access=free }}</ref>
+* {{Cite book|last=Ruelle|first=David|date=2004|title=Dynamical zeta functions for piecewise monotone maps of the interval|publisher=American Mathematical Society|isbn=978-0821836019}}
+* {{Cite book|last=Ruelle|first=David|date=1995|title=Turbulence, strange attractors and chaos|publisher=World Scientific|isbn=978-9810223113}}
+* {{Cite book|last=Ruelle|first=David|date=2008|volume=1|title=Chaotic evolution and strange attractors|publisher=Cambridge University Press|isbn=978-0521368308}} [https://books.google.com/books?id=PXm43Y5NaJEC 1989 edition]
+* {{Cite book|last=Ruelle|first=David|date=2014|title=Elements of differentiable dynamics and bifurcation theory|publisher=Elsevier|isbn=978-1483245881}} 1989 1st edition<ref>{{cite journal|doi=10.1090/S0273-0979-1991-15989-6|title=Book Review: ''Elements of differentiable dynamics and bifurcation theory'' by David Ruelle |year=1991 |last1=Shub |first1=Michael |author-link=Michael Shub |journal=Bulletin of the American Mathematical Society |volume=24 |pages=199–212 |doi-access=free }}</ref>
+* {{Cite journal|last1=Ruelle|first1=David|last2=Takens|first2=Floris|title=On the nature of turbulence|journal=Les rencontres physiciens-mathématiciens de Strasbourg|volume=12|pages=1–44|year=1971}}
+* {{Cite journal|last=Ruelle|first=David|title=Turbulence, Strange Attractors, and Chaos|journal=World Scientific|volume=16|page=195|year=1995|bibcode=1995tsac.book.....R}}
+* {{Cite journal|last1=Eckmann|first1=Jean-Pierre|last2=Ruelle|first2=David|title=Ergodic theory of chaos and strange attractors|journal=Reviews of Modern Physics|volume=57|pages=617–656|year=1985|issue=3|doi=10.1103/RevModPhys.57.617|bibcode=1985RvMP...57..617E}}
+* {{Cite journal|last=Ruelle|first=David|title=On the asymptotic condition in quantum field theory|journal=Helvetica Physica Acta|volume=35|pages=147–163|year=1962|doi=10.5169/seals-113272|url=https://www.e-periodica.ch/cntmng?pid=hpa-001:1962:35::790}}
+* {{Cite book|last=Ruelle|first=David|date=2007|title=The mathematician's brain|publisher=Princeton University Press|isbn=978-0691129822}}<ref>{{cite web|author=Boslaugh, Sarah|title=Review of ''The Mathematician's Brain'' by David Ruelle|website=MAA Reviews, Mathematical Association of America|date=August 23, 2007|url=https://www.maa.org/press/maa-reviews/the-mathematicians-brain-a-personal-tour-through-the-essentials-of-mathematics-and-some-of-the-great}}</ref>
+* {{Cite book|last=Ruelle|first=David|date=2011|title=L'Étrange Beauté des mathématiques|publisher=Odile Jacob|isbn=978-2738126245|language=fr}}
+{{div col end}}
+
+== See also ==
+{{Portal|Physics|Biography}}
+{{cols|colwidth=21em}}
+* [[Axiomatic quantum field theory]]
+* [[Chaos theory]]
+* [[Dynamical systems theory]]
+* [[Dobrushin–Lanford–Ruelle equations]]
+* [[Fluid mechanics]]
+* [[Haag–Ruelle scattering theory]]
+* [[Ruelle zeta-function]]
+* [[Sinai–Ruelle–Bowen measure]]
+* [[Statistical physics]]
+* [[Strange attractor]]
+* [[Transfer operator]]
+{{colend}}
+
+== References ==
+<references/>
+
+== External links ==
+{{Commons category}}
+{{Wikiquote|fr:David Ruelle|David Ruelle}}
+* {{MathGenealogy|id=105130|title=David Ruelle}}
+* {{DNB-Portal|113082711}}.
+* {{zbMATH|id=ruelle.david-pierre}}.
+* {{cite web|last=Takens|first=Floris|url=http://www.math.leidenuniv.nl/~naw/serie5/deel01/mrt2000/pdf/takens.pdf|archive-url=https://web.archive.org/web/20090306171359/http://www.math.leidenuniv.nl/~naw/serie5/deel01/mrt2000/pdf/takens.pdf|title=''Laudatio'' for David Ruelle|website=math.leidenuniv.nl|archive-date=March 6, 2009}}
+* {{cite web|last=Gallavotti|first=Giovanni|url=http://www.iamp.org/poincare/dr06-laud.html|title=''Laudatio'' on the occasion of the Henri Poincaré Prize|website=International Association of Mathematical Physics|access-date=March 12, 2021}}
+* {{cite web|last=Ruelle|first=David|url=https://www.ams.org/notices/200607/what-is-ruelle.pdf|title='What is a... Strange Attractor?|website=American Mathematical Society|access-date=March 12, 2021}}
+* {{cite web|url=http://www.ihes.fr/~ruelle/CVAnglais|title=Biography from his website|website=ihes.fr|access-date=March 12, 2021}}
+* {{cite web|title=David Ruelle {{!}} April 7, 2022 {{!}} A Natural Limitation for Properly Human Scientific Progress|publisher=Mathematical Picture Language|website=YouTube|date=7 April 2022 |url=https://www.youtube.com/watch?v=jSul7BRj57k}}
+
+{{chaos theory}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ruelle, David Pierre}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:20th-century French mathematicians]]
+[[Category:21st-century French mathematicians]]
+[[Category:Belgian mathematicians]]
+[[Category:Belgian physicists]]
+[[Category:Chaos theorists]]
+[[Category:Free University of Brussels (1834–1969) alumni]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:International members of the National Academy of Sciences]]
+[[Category:Recipients of the Great Cross of the National Order of Scientific Merit (Brazil)]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Academic staff of ETH Zurich]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Rutgers University faculty]]
+[[Category:Recipients of the Matteucci Medal]]
+[[Category:Belgian emigrants to France]]
+[[Category:Winners of the Max Planck Medal]]
+[[Category:Mathematical physicists]]
+[[Category:Statistical physicists]]
+[[Category:Members of Academia Europaea]]
+[[Category:Recipients of the Boltzmann Medal]]

@@ -1,0 +1,72 @@
+{{short description|Brazilian chemist (born 1971)}}
+{{Infobox scientist
+| name              = Mario Barbatti
+| image             = 
+| caption           = 
+| birth_date        = {{birth date and age text|December 28, 1971}}
+| birth_place       = [[Petropolis, Brazil]]
+| death_date        = 
+| death_place       = 
+| field             = [[Theoretical Chemistry]]
+| workplaces        = [[Aix Marseille University]] (current)
+[[Institut Universitaire de France]] (current)
+[[Max Planck Institute for Coal Research]]
+[[University of Vienna]]
+| education         = [[Federal University of Rio de Janeiro]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Newton-X]] and [[Mixed quantum-classical dynamics]]
+| awards            = Amidex Chair of Excellence
+ERC Advanced Grant
+Institut Universitaire de France
+}}
+'''Mario Barbatti''' (born December 28, 1971) is a Brazilian physicist, [[Theoretical chemistry|computational theoretical chemist]], and writer. He is specialized in the development and application of [[mixed quantum-classical dynamics]] for the study of [[Excited state|molecular excited states]].<ref>{{Cite journal|last1=Crespo-Otero|first1=Rachel|last2=Barbatti|first2=Mario|date=2018-08-08|title=Recent Advances and Perspectives on Nonadiabatic Mixed Quantum–Classical Dynamics|journal=Chemical Reviews|volume=118|issue=15|pages=7026–7068|doi=10.1021/acs.chemrev.7b00577|pmid=29767966|issn=0009-2665|url=https://hal-amu.archives-ouvertes.fr/hal-01965458/file/p126_cresp-otero_namqc_chemrev_2018-preprint.pdf}}</ref> He is also the leading developer of the [[Newton-X]] software package for dynamics simulations. Mario Barbatti held the Amidex Chair of Excellence at [[Aix-Marseille University|Aix Marseille University]] between 2015 and 2019, and has been a professor there since 2015.
+
+== Honors and awards ==
+*2026: Senior member of the [[Institut Universitaire de France]].
+*2021: Fellow of the European Academy of Sciences.<ref>{{cite web |title=European Academy of Sciences - Mario Barbatti |url=https://www.eurasc.org/user/842/mario-barbatti |website=www.eurasc.org}}</ref>
+*2021: Senior member of the [[Institut Universitaire de France]].<ref>{{cite web |title=Les membres - Institut Universitaire de France |url=https://www.iufrance.fr/les-membres-de-liuf/membre/2198-mario-barbatti.html |website=www.iufrance.fr |access-date=1 July 2021}}</ref>
+*2019: Opening lecture of the XX Brazilian Symposium of Theoretical Chemistry.
+*2019: ERC Advanced Grant. Mario Barbatti has been the first Brazilian scientist and the first computational chemist in France to receive this research grant.
+*2015: A*Midex Chair of Excellence.
+
+== Scientific contributions, interests, and production ==
+By the end of 2025, Mario Barbatti had published over 200 scientific works, which had been cited about 16000 times ([[h-index]] 65).<ref>{{Cite web|url=http://scholar.google.de/citations?user=2XyWlWcAAAAJ|title=Mario Barbatti - Google Scholar Citations|website=scholar.google.de|access-date=2019-12-29}}</ref>
+
+Since 2007, Barbatti has been the leading developer of the Newton-X platform,<ref>{{Cite journal|last1=Barbatti|first1=Mario|last2=Ruckenbauer|first2=Matthias|last3=Plasser|first3=Felix|last4=Pittner|first4=Jiri|last5=Granucci|first5=Giovanni|last6=Persico|first6=Maurizio|last7=Lischka|first7=Hans|date=2014|title=Newton-X: a surface-hopping program for nonadiabatic molecular dynamics|journal=WIREs Computational Molecular Science|volume=4|issue=1|pages=26–33|doi=10.1002/wcms.1158|s2cid=60777813|issn=1759-0884|hdl=11104/0230264|hdl-access=free}}</ref> a software collection for dynamics and spectrum simulations, using [[surface hopping]] and the [[nuclear ensemble approach]]. Using dynamics and other [[Quantum chemistry|quantum chemical methods]], his research has focused on simulations of the ultrafast [[Photochemistry|photochemistry and photophysics]] of organic molecules.
+
+Among his main contributions, Barbatti, in collaboration with [[Hans Lischka]], delivered a comprehensive map of the internal conversion channels of nucleobases.<ref>{{Cite journal|last1=Barbatti|first1=Mario|last2=Aquino|first2=Adélia J. A.|last3=Szymczak|first3=Jaroslaw J.|last4=Nachtigallová|first4=Dana|last5=Hobza|first5=Pavel|last6=Lischka|first6=Hans|date=2010-12-14|title=Relaxation mechanisms of UV-photoexcited DNA and RNA nucleobases|journal=Proceedings of the National Academy of Sciences|language=en|volume=107|issue=50|pages=21453–21458|doi=10.1073/pnas.1014982107|issn=0027-8424|pmc=3003128|pmid=21115845|bibcode=2010PNAS..10721453B|doi-access=free}}</ref><ref>{{Citation|last1=Barbatti|first1=Mario|chapter=Photoinduced Processes in Nucleic Acids|date=2014|title=Photoinduced Phenomena in Nucleic Acids I|volume=355|pages=1–32|editor-last=Barbatti|editor-first=Mario|publisher=Springer International Publishing|doi=10.1007/128_2014_569|pmid=25381199|isbn=978-3-319-13370-6|last2=Borin|first2=Antonio Carlos|last3=Ullrich|first3=Susanne|editor2-last=Borin|editor2-first=Antonio Carlos|editor3-last=Ullrich|editor3-first=Susanne}}</ref> These results help to explain how DNA is stabilized after UV excitation.
+
+Although Barbatti's research has been strongly oriented towards photoinduced processes in nucleic acids, he and his co-workers have contributed to many different sub-fields.
+
+In 2013, in collaboration with [[Walter Thiel (chemist)|Walter Thiel]], they showed how UV irradiation can generate nucleobases out of inorganic components.<ref>{{Cite journal|last1=Boulanger|first1=Eliot|last2=Anoop|first2=Anakuthil|last3=Nachtigallova|first3=Dana|last4=Thiel|first4=Walter|last5=Barbatti|first5=Mario|date=2013-07-29|title=Photochemical Steps in the Prebiotic Synthesis of Purine Precursors from HCN|journal=Angewandte Chemie International Edition|language=en|volume=52|issue=31|pages=8000–8003|doi=10.1002/anie.201303246|pmid=23784979|bibcode=2013ACIE...52.8000B |hdl=11858/00-001M-0000-0014-A349-D|hdl-access=free}}</ref> Although this chemical reaction has been known since the 1960s, their work was the first one to unveil the exact [[reaction mechanism]].
+
+Barbatti also discovered a new [[Internal conversion (chemistry)|internal conversion]] mechanism, allowing molecules to quickly return to the ground state. In this mechanism, a [[conical intersection]] between the ground and the excited electronic states is formed by an electron transfer from the solvent to the excited chromophore.<ref>{{Cite journal|last=Barbatti|first=Mario|date=2014-07-23|title=Photorelaxation Induced by Water–Chromophore Electron Transfer|journal=Journal of the American Chemical Society|volume=136|issue=29|pages=10246–10249|doi=10.1021/ja505387c|pmid=25010652|bibcode=2014JAChS.13610246B |issn=0002-7863|hdl=11858/00-001M-0000-0024-A591-C|s2cid=207112041 |url=https://figshare.com/articles/journal_contribution/2271622|hdl-access=free}}</ref> This solvent-chromophore electron-transfer mechanism has been predicted to occur in 7H-adenine in water.
+
+Barbatti and his colleagues at the [[Federal University of Paraíba|Federal University of Paraiba]] have shown that CH...Cl hydrogen bonds can be formed in small molecules in the gas phase.<ref>{{Cite journal|last1=de Medeiros|first1=Vanessa C.|last2=de Andrade|first2=Railton B.|last3=Leitão|first3=Ezequiel F. V.|last4=Ventura|first4=Elizete|last5=Bauerfeldt|first5=Glauco F.|last6=Barbatti|first6=Mario|last7=do Monte|first7=Silmar A.|date=2016-01-13|title=Photochemistry of CH3Cl: Dissociation and CH···Cl Hydrogen Bond Formation|journal=Journal of the American Chemical Society|volume=138|issue=1|pages=272–280|doi=10.1021/jacs.5b10573|pmid=26653216|bibcode=2016JAChS.138..272D |issn=0002-7863|url=https://hal-amu.archives-ouvertes.fr/hal-02288610/file/p109_demedeiros_chcl_jacs_2016.pdf}}</ref> This type of bond had previously been observed only in densely packed crystal structures.
+
+He has also contributed on topics in organic photodevices,<ref>{{Cite journal|last1=Fazzi|first1=Daniele|last2=Barbatti|first2=Mario|last3=Thiel|first3=Walter|date=2017-10-05|title=Hot and Cold Charge-Transfer Mechanisms in Organic Photovoltaics: Insights into the Excited States of Donor/Acceptor Interfaces|journal=The Journal of Physical Chemistry Letters|language=en|volume=8|issue=19|pages=4727–4734|doi=10.1021/acs.jpclett.7b02144|pmid=28903560|bibcode=2017JPCL....8.4727F |issn=1948-7185|hdl=11858/00-001M-0000-002E-9D60-C|s2cid=46862226 |url=https://hal-amu.archives-ouvertes.fr/hal-02288766/file/p121_fazzi_da_jpcl_2017-preprint.pdf}}</ref> astrochemistry,<ref>{{Cite journal|last1=Barbatti|first1=Mario|last2=Nascimento|first2=Marco Antonio Chaer|date=2012-10-05|title=Does the H+5 hydrogen cluster exist in dense interstellar clouds?|journal=International Journal of Quantum Chemistry|language=en|volume=112|issue=19|pages=3169–3173|doi=10.1002/qua.24110}}</ref> and atmospheric photochemistry.<ref>{{Cite journal|last1=Pereira Rodrigues|first1=Gessenildo|last2=Lopes de Lima|first2=Thayana Maria|last3=de Andrade|first3=Railton Barbosa|last4=Ventura|first4=Elizete|last5=do Monte|first5=Silmar Andrade|last6=Barbatti|first6=Mario|date=2019-03-14|title=Photoinduced Formation of H-Bonded Ion Pair in HCFC-133a|journal=The Journal of Physical Chemistry A|language=en|volume=123|issue=10|pages=1953–1961|doi=10.1021/acs.jpca.8b12482|pmid=30786711|issn=1089-5639|bibcode=2019JPCA..123.1953P|s2cid=73466468 |url=https://hal-amu.archives-ouvertes.fr/hal-02288785/file/p137_rodrigues_hcfc133a_jpca_2019.pdf}}</ref>
+
+Currently,{{when|date=May 2026}} Barbatti and his team—the Light and Molecules group —are focusing on method developments,<ref>{{Cite journal|last=Barbatti|first=Mario|date=2020-08-11|title=Simulation of Excitation by Sunlight in Mixed Quantum-Classical Dynamics|journal=Journal of Chemical Theory and Computation|language=en|volume=16|issue=8|pages=4849–4856|doi=10.1021/acs.jctc.0c00501|issn=1549-9618|pmc=7426902|pmid=32579345 |bibcode=2020JCTC...16.4849B }}</ref> attempting to extend the excited-state simulation methods into the nanosecond regime.<ref>{{Cite web|url=https://cdn5.euraxess.org/worldwide/brazil/interview-mario-barbatti-first-brazilian-erc-advanced-grant-awardee|title=Interview with Mario Barbatti, the first Brazilian ERC Advanced grant awardee|date=2019-05-30|website=EURAXESS|language=en|access-date=2019-12-29}}</ref> In a collaboration with Pavlo Dral and [[Walter Thiel (chemist)|Walter Thiel]], they implemented one of the first algorithms for nonadiabatic dynamics using [[machine learning]].<ref>{{Cite journal|last1=Dral|first1=Pavlo O.|last2=Barbatti|first2=Mario|last3=Thiel|first3=Walter|date=2018-10-04|title=Nonadiabatic Excited-State Dynamics with Machine Learning|journal=The Journal of Physical Chemistry Letters|language=en|volume=9|issue=19|pages=5660–5663|doi=10.1021/acs.jpclett.8b02469|issn=1948-7185|pmc=6174422|pmid=30200766 |bibcode=2018JPCL....9.5660D }}</ref>
+
+== Popularization and presence in the media ==
+Some of the main results from Barbatti's work have been picked up by diverse news outlets. These media have dedicated special attention to his research on internal conversion of nucleobases,<ref name=":0">{{Cite web|url=https://www.news-medical.net/news/2009/02/23/46107.aspx|title=Electrons on the fast lane|date=2009-02-23|website=News-Medical.net|language=en|access-date=2019-12-29}}</ref><ref name=":1">{{Cite web|url=https://www.sciencedaily.com/releases/2010/11/101130103829.htm|title=How do DNA components resist damaging UV exposure?|website=ScienceDaily|language=en|access-date=2019-12-29}}</ref><ref name=":2">{{Cite web|url=https://www.sciencedaily.com/releases/2011/08/110818101731.htm|title=Physicists uncover new data on adenine, a crucial building block of life|website=ScienceDaily|language=en|access-date=2019-12-29}}</ref> prebiotic reactions,<ref name=":3">{{Cite web|url=https://www.natureworldnews.com/articles/2629/20130625/scientists-discover-life-formed-out-dead-matter.htm|title=Scientists Discover How Life is Formed Out of Dead Matter|last=|first=|date=2013-06-25|website=Nature World News|language=en-US|access-date=2019-12-29}}</ref><ref name=":4">{{Cite web|url=https://phys.org/news/2013-06-cold-scientists-unveil-secret-reaction.html|title=Excited, but cold: Scientists unveil the secret of a reaction for prebiotic synthesis of organic matter|website=phys.org|language=en-us|access-date=2019-12-29}}</ref><ref name=":5">{{Cite web|url=https://www.telegraphindia.com/science-tech/spark-of-life/cid/283716|title=Spark of life|last=|first=|date=|website=The Telegraph|language=en|access-date=2019-12-29}}</ref> and new chemical reactions and mechanisms.<ref name=":6">{{Cite journal|last=Solvent Matters! Effect of Environment on Photorelaxation|date=2014-08-06|title=Spotlights on Recent JACS Publications|journal=Journal of the American Chemical Society|volume=136|issue=31|pages=10821–10822|doi=10.1021/ja5076508|bibcode=2014JAChS.13610821A |issn=0002-7863}}</ref><ref name=":7">{{Cite web|url=http://archives.cnrs.fr/inc/article/278|title=Quand Chlore et Hydrogène vivent une liaison électrique|last=|first=|date=|website=Archives des actualités de l'INC - CNRS|language=fr-FR|access-date=2019-12-29}}</ref> His work is also popularized through blog posts on his [https://barbatti.org/ group website] and [https://www.youtube.com/user/mbarbatti YouTube channel].
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* The [https://barbatti.org/ Light and Molecules] research group
+
+{{authority control}}
+
+{{DEFAULTSORT:Barbatti, Mario}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Academic staff of Aix-Marseille University]]
+[[Category:Brazilian physicists]]
+[[Category:Brazilian scientists]]
+[[Category:Computational chemists]]
+[[Category:Federal University of Rio de Janeiro alumni]]
+[[Category:People from Petrópolis]]
+[[Category:Theoretical chemists]]

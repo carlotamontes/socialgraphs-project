@@ -1,0 +1,35 @@
+{{Short description|Japanese theoretical physicist (1948–2019)}}
+{{Infobox scientist
+| name = Tohru Eguchi
+| image = File:Photo_of_Professor_Tohru_Eguchi_in_his_office.jpg
+| birth_date = {{birth date|1948|02|02}}
+| death_date = {{death date and age|2019|01|30|1948|02|02}}
+}}
+'''Tohru Eguchi''' (江口 徹, February 2, 1948 – January 30, 2019)<ref>{{Cite web|url=https://www.asahi.com/articles/ASM223JWJM22UBQU00D.html|title=Toru Eguchi, Professor Emeritus, The University of Tokyo|website=asahi.com|date=2 February 2019 |language=ja}}</ref> was a Japanese theoretical physicist.
+
+== Life and career ==
+Tohru Eguchi was a professor at the [[University of Tokyo]], and then at the [[Yukawa Institute for Theoretical Physics]] at [[Kyoto University]], of which he was acting director in 2009. From 2012, he was a specially-appointed professor at Rikkyo University. He dealt in particular with differential geometric methods in physics, with [[Superstring theory]], [[Conformal field theory]], [[Topological quantum field theory]], [[Lattice gauge theory]], [[Quantum gravity]], and the [[Theory of Gravitation]].
+
+While at SLAC in 1978, Eguchi and  [[Andrew J. Hanson]] discovered an exact [[Euclidean space|Euclidean]] [[instanton]] solution<ref>A solution of the [[Einstein equation]]s with self-dual [[Riemannian curvature tensor]] and with positive-definite metric (i.e., not a Lorentz metric).  The metric is non-singular and [[Ricci-flat]], and asymptotically it is a locally Euclidean four-dimensional space (ALE, [[asymptotically locally Euclidean]]). These metrics are examples of non-compact four-dimensional [[Hyperkähler manifold]].</ref> of the vacuum equations of general relativity, the [[Eguchi–Hanson space]] metric.<ref>{{Cite journal|last=Eguchi, Hanson|date=1978|title=Asymptotically flat selfdual solutions to Euclidean gravity|journal=Physics Letters B|volume=74|issue=3|pages=249–251|doi=10.1016/0370-2693(78)90566-X|url=https://escholarship.org/content/qt5qx4k926/qt5qx4k926.pdf?t=p2au96|bibcode=1978PhLB...74..249E|osti=1446816|s2cid=16380482 }}</ref><ref>{{Cite journal|last=Eguchi, Hanson|date=1979|title=Self-dual solutions to Euclidean Gravity|journal=Annals of Physics|volume=120|issue=1|pages=82–106|doi=10.1016/0003-4916(79)90282-3|bibcode=1979AnPhy.120...82E|osti=1447072|s2cid=48866858 |url=https://escholarship.org/uc/item/2qm8r91p|url-access=subscription}}</ref><ref>{{Cite journal|last=Eguchi, Hanson|date=1979|title=Gravitational instantons|url=https://www.cs.indiana.edu/~hansona/papers/EguchiHanson-GenRelGrav1979.pdf|journal=General Relativity and Gravitation|volume=11|issue=5|pages=315–320|doi=10.1007/BF00759271|bibcode=1979GReGr..11..315E|s2cid=123806150}}</ref> This solution has applications, for example, in the construction of smooth compact [[Calabi–Yau manifold]]s in [[superstring theory]].<ref>{{Cite book|title=String Theory: Superstring Theory and Beyond, Vol.2|last=Polchinski|first=Joseph Gerard|date=2002|publisher=Cambridge University Press|isbn=9780521633048|pages=309|language=en|oclc=910023992}}</ref>
+
+In the early 1980s, he published an influential and widely cited review article on differential geometric methods in physics with Andrew J. Hanson and Peter Gilkey.<ref>{{Cite journal|last=Eguchi, Gilkey, Hanson|date=1980|title=Gravitation, Gauge Theories and Differential Geometry|url=http://empg.maths.ed.ac.uk/Activities/GT/EGH.pdf|journal=Physics Reports|volume=66|issue=6|pages=213–393|doi=10.1016/0370-1573(80)90130-1|bibcode=1980PhR....66..213E}}</ref> They extensively treated the physical applications of the [[Atiyah-Singer index theorem]] and related mathematical results.
+
+With Hikaru Kawai, he developed the [[Eguchi-Kawai model]] for lattice theories with an [[SU(N)]] [[gauge group]] in the limit of large N.<ref>{{Cite journal|last1=Eguchi|first1=Tohru|last2=Kawai|first2=Hikaru|date=1982-04-19|title=Reduction of Dynamical Degrees of Freedom in the Large-$N$ Gauge Theory|journal=Physical Review Letters|volume=48|issue=16|pages=1063–1066|doi=10.1103/PhysRevLett.48.1063|bibcode=1982PhRvL..48.1063E}}</ref> They showed that in this limit the lattice gauge theory for an infinite lattice and unit cube are identical and that this correspondence can also be maintained in the [[continuum limit]] of the lattice.  Spacetime is incorporated in this large N limit as though it were an internal degree of freedom.<ref>{{Cite book|url=https://www.cambridge.org/core/books/methods-of-contemporary-gauge-theory/D10AFB40A74838C1C6E951F7D8DE969D|title=Methods of Contemporary Gauge Theory by Yuri Makeenko|last=Makeenko|first=Yuri|date=2002|website=Cambridge Core|doi=10.1017/CBO9780511535147|isbn=9780511535147}}</ref>
+
+== Awards ==
+*Eguchi shared second prize with Hanson in the 1979 Gravity Research Foundation competition.<ref>{{Cite web|url=https://www.gravityresearchfoundation.org/year|title=Gravity Research Foundation|website=Gravity Research Foundation|language=en-US}}</ref>
+*In 1984 he received the Nishina Prize, and in 2009, he received the Imperial Prize and the Prize of the Japanese Academy of Sciences.<ref>{{Cite web|url=https://www.s.u-tokyo.ac.jp/en/awards/2009/03.html|title=Prof. Tohru Eguchi Receives Imperial Prize & Japan Academy Prize 2009 - School of Science, the University of Tokyo|website=www.s.u-tokyo.ac.jp}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Eguchi, Tōru}}
+[[Category:Academic staff of the University of Tokyo]]
+[[Category:Academic staff of Kyoto University]]
+[[Category:Japanese physicists]]
+[[Category:1948 births]]
+[[Category:2019 deaths]]
+[[Category:Scientists from Ibaraki Prefecture]]
+[[Category:Recipients of the Nishina Memorial Prize]]

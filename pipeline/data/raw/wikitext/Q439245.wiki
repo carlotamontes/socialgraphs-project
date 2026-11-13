@@ -1,0 +1,117 @@
+{{short description|American cognitive scientist}}
+{{distinguish|Alan Newell (disambiguation){{!}}multiple researchers in related fields named Alan Newell}}
+{{Infobox scientist
+| name              = Allen Newell
+| image             = Allen Newell.jpg
+| image_size        = 
+| caption           = 
+| birth_date        = {{Birth date|1927|3|19|mf=y}}
+| birth_place       = [[San Francisco, California]]
+| death_date        = {{death date and age|1992|7|19|1927|3|19|mf=y}}
+| death_place       = [[Pittsburgh, Pennsylvania]]
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| field             = [[Computer science]]<br />[[Cognitive psychology]]
+| workplaces        = [[Carnegie Mellon University]]
+| education         = [[Stanford University]] ([[Bachelor of Science|BS]])<br />[[Princeton University]]<br />[[Carnegie Mellon University]] ([[Master of Science|MS]], [[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[Herbert A. Simon]]
+| doctoral_students = [[Hans Berliner]]<br />[[Stuart Card]]<br />[[John E. Laird]]<br />[[Frank Ritter (professor)|Frank Ritter]]<br />[[Milind Tambe]]
+| known_for         = [[Information Processing Language]]<br />[[Logic Theorist]]<br />[[General Problem Solver]]<br />[[Soar (cognitive architecture)|Soar]]<br />''[[Unified Theories of Cognition]]''
+| spouse            = {{marriage|Noel McKenna|1947}}
+| awards            = [[A.M. Turing Award]] {{small|(1975)}}<br />[[IJCAI Award for Research Excellence]] {{small|(1989)}}<br />[[IEEE Emanuel R. Piore Award]] {{small|(1990)}}<br>[[National Medal of Science]] {{small|(1992)}}<br />[[Louis E. Levy Medal]] {{small|(1992)}}
+}}
+'''Allen Newell''' (March 19, 1927 &ndash; July 19, 1992) was an American researcher in [[computer science]] and [[cognitive psychology]] at the [[RAND Corporation]] and at [[Carnegie Mellon University]]'s [[Carnegie Mellon School of Computer Science|School of Computer Science]], [[Tepper School of Business]], and Department of Psychology. He, [[Herbert A. Simon]], and [[Cliff Shaw]] contributed to the [[Information Processing Language]] (1956) and two of the earliest [[Artificial Intelligence|AI]] programs, the [[Logic Theorist]] (1956) and the [[General Problem Solver]] (1957). He and Simon were awarded the [[Association for Computing Machinery|ACM]] [[Turing Award]] in 1975 for their contributions to artificial intelligence and the psychology of human cognition.<ref name="NYT-AllenNewell-died">{{cite web|url=https://www.nytimes.com/1992/07/20/us/allen-newell-65-scientist-founded-a-computing-field.html |title=Allen Newell, 65; Scientist Founded A Computing Field |work=The New York Times |date={{Format date|1992|07|20}} |access-date={{Format date|2010|11|28}}}}</ref><ref name="NAS-AllenNewell-Biography">{{cite web|url=http://www.nap.edu/html/biomems/anewell.html |title=Allen Newell, Biographical Memoirs | author=Herbert A. Simon |publisher=[[United States National Academy of Sciences]] |access-date={{Format date|2010|11|28}}}}</ref>
+
+== Early studies ==
+Newell completed his bachelor's degree in physics from [[Stanford]] in 1949. He was a graduate student at [[Princeton University]] from 1949 to 1950, where he studied mathematics. Due to his early exposure to an unknown field known as [[game theory]] and the experiences from the study of mathematics, he was convinced that he would prefer a combination of experimental and theoretical research to pure mathematics. 
+
+In 1950, he left Princeton and joined the [[RAND]] Corporation in Santa Monica where he worked for "a group that was studying logistics problems of the Air Force".<ref name="NAS-AllenNewell-Biography" /> His work with [[Joseph Kruskal]] led to the creation of two theories: A Model for Organization Theory and Formulating Precise Concepts in Organization Theory.  Newell eventually earned his PhD from the now [[Tepper School of Business]] at [[Carnegie Mellon University|Carnegie Mellon]] with [[Herbert A. Simon|Herbert Simon]] serving as his advisor.
+
+Afterwards, Newell "turned to the design and conduct of laboratory experiments on decision making in small groups".<ref name="NAS-AllenNewell-Biography" /> He was dissatisfied, however, with the accuracy and validity of their findings produced from small-scale laboratory experiments. He joined with fellow RAND teammates John Kennedy, Bob Chapman, and Bill Biel at an Air Force [[Early warning system|Early Warning]] Station to study organizational processes in flight crews. They received funding from the Air Force in 1952 to build a simulator that would enable them to examine and analyze the interactions in the cockpit related to decision-making and information-handling. From these studies, Newell came to believe that [[Information processing (psychology)|information processing]] is the central activity in organizations.<ref>{{Cite web |title=Allen Newell *50 {{!}} Princeton Alumni Weekly |url=https://paw.princeton.edu/memorial/allen-newell-50 |access-date=2024-10-07 |website=paw.princeton.edu |language=en}}</ref>
+
+==Artificial intelligence==
+In September 1954, Newell enrolled in a seminar where [[Oliver Selfridge]] "described a running computer program that learned to recognize letters and other patterns".<ref name="NAS-AllenNewell-Biography" /> This was when Allen came to believe that systems may be created and contain intelligence and have the ability to adapt. With this in mind, Allen, after a couple of months, wrote in 1955 ''The Chess Machine: An Example of Dealing with a Complex Task by Adaptation'', which "outlined an imaginative design for a computer program to play [[chess]] in humanoid fashion".<ref name="NAS-AllenNewell-Biography" />
+
+His work came to the attention of economist (and future nobel laureate) [[Herbert A. Simon]], and, together with programmer [[J. C. Shaw]], they developed the first true [[artificial intelligence]] program<ref>{{Cite book |last=McCorduck |first=Pamela |title=Machines who think: a personal inquiry into the history and prospects of artificial intelligence |date=2018 |publisher=CRC Press |isbn=978-1-56881-205-2 |series=An A K Peters book |location=Boca Raton London New York}}</ref>(see notes), the [[Logic Theorist]]. Newell's work on the program laid the foundations of the field. His inventions included: [[Information Processing Language|list processing]], the most important programming paradigm used by AI ever since;  the application of [[means-ends analysis]] to general reasoning (or "reasoning as search"); and the use of [[heuristics]] to limit the search space.
+
+They presented the program at the [[Dartmouth workshop|Dartmouth conference]] of 1956, an informal gathering of researchers who were interested in simulating intelligence with machines. The conference, now widely considered the "birth of artificial intelligence",<ref>{{Crevier 1993|pages=49–51}}</ref> was enormously influential and those who attended became the leaders of AI research for the next two decades, Newell included.
+
+==Later achievements==
+Newell and Simon formed a lasting partnership. They founded an artificial intelligence laboratory at [[Carnegie Mellon University]] and produced a series of important programs and theoretical insights throughout the late fifties and sixties. This work included the [[General Problem Solver]], a highly influential implementation of [[means–ends analysis]], and the [[physical symbol systems hypothesis]], the controversial philosophical assertion that all intelligent behavior could be reduced to the kind of symbol manipulation that Newell's programs demonstrated.
+
+Newell's work culminated in the development of a [[cognitive architecture]] known as [[Soar (cognitive architecture)|Soar]] and his [[unified theory of cognition]], published in 1990, but their improvement was the objective of his efforts up to his death ([http://erg4146.casaccia.enea.it/Newell-L.htm one of the last Newell's letters] {{Webarchive|url=https://web.archive.org/web/20110514100016/http://erg4146.casaccia.enea.it/Newell-L.htm |date=2011-05-14 }}). The field of cognitive architectures, that he initiated, is still active in both the artificial intelligence and computational cognitive science communities.<ref>{{cite journal |last1=Kotseruba |first1=I. |last2=Tsotsos |first2=JK |date=2020 |title=40 years of cognitive architectures: core cognitive abilities and practical applications|journal=Artificial Intelligence Review |volume=53 |issue=1 |pages=17–94 |doi=10.1007/s10462-018-9646-y|s2cid=51888132 |doi-access=free }}</ref>
+
+== Awards and honors ==
+* 1971 — John Danz Lecturer, University of Washington
+* 1971 — Harry Goode Memorial Award, [[American Federation of Information Processing Societies]]
+* 1972 — Elected to member of the [[United States National Academy of Sciences]]<ref>{{cite web|url=http://www.nasonline.org/site/Dir?sid=1021&view=basic&pg=srch |archive-url=https://web.archive.org/web/20061003034839/http://www.nasonline.org/site/Dir?sid=1021&view=basic&pg=srch |url-status=dead |archive-date=October 3, 2006 |title=Search Deceased Member Data |publisher=United States National Academy of Sciences |access-date={{Format date|2011|7|16}}}} Search with Newell as last name.</ref>
+* 1972 — Elected to Fellow of the [[American Academy of Arts and Sciences]]<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter N|url=http://www.amacad.org/publications/BookofMembers/ChapterN.pdf|publisher=[[American Academy of Arts and Sciences]] |access-date={{Format date|2011|7|16}}}}</ref>
+* 1975 — [[A. M. Turing Award]] (with [[Herbert A. Simon]]), [[Association for Computing Machinery]]<ref>{{cite web|url=http://awards.acm.org/homepage.cfm?srt=all&awd=140 |title=A. M. Turing Award |publisher=[[Association for Computing Machinery]] |access-date={{Format date|2011|2|10}} |url-status=dead |archive-url=https://web.archive.org/web/20091212132624/http://awards.acm.org/homepage.cfm?srt=all&awd=140 |archive-date=2009-12-12 }}</ref>
+* 1976–77 — [[Guggenheim Fellowship]], [[John Simon Guggenheim Memorial Foundation]]<ref>{{cite web |url=http://www.gf.org/fellows/results?query=Newell&lower_bound=1976&upper_bound=1977&competition=ALL&fellowship_category=ALL&x=17&y=9 |title=Search Fellows |publisher=[[John Simon Guggenheim Memorial Foundation]] |access-date={{Format date|2011|7|18}} |url-status=dead |archive-url=https://web.archive.org/web/20120923032248/http://www.gf.org/fellows/results?query=Newell&lower_bound=1976&upper_bound=1977&competition=ALL&fellowship_category=ALL&x=17&y=9 |archive-date=2012-09-23 }} Search for Newell between 1976 and 1977.</ref>
+* 1979 — Alexander C. Williams Jr. Award (with William C. Biel, Robert Chapman and John L. Kennedy), Human Factors Society
+* 1980 — Elected to member of the [[United States National Academy of Engineering]]<ref name="NAE">{{cite web|url=http://www.nae.edu/MembersSection/Directory20412/28821.aspx |title=NAE Members Directory - Dr. Allen Newell |publisher=[[United States National Academy of Engineering]] |access-date={{Format date|2011|1|22}}}}</ref>
+* 1980 — First President, [[American Association for Artificial Intelligence]]
+* 1981 — Charter recipient of the [[Computer Pioneer Award]] from the [[IEEE Computer Society]]<ref>{{cite web |url=http://www.computer.org/portal/web/awards/pioneer#_118_tabs_WAR_pluginsui_INSTANCE_d0QT_tab2 |title=Computer Pioneer Charter Recipients |publisher=[[IEEE Computer Society]] |access-date={{Format date|2011|7|16}} |archive-url=https://www.webcitation.org/6IHEophMr?url=http://www.computer.org/portal/web/awards/pioneer#_118_tabs_WAR_pluginsui_INSTANCE_d0QT_tab2 |archive-date=2013-07-21 |url-status=dead }}</ref>
+* 1985 — Distinguished Scientific Contribution Award, [[American Psychological Association]]
+* 1986 — Doctor of Science (Honorary), [[University of Pennsylvania]]
+* 1987 — William James Lectures, Harvard University
+* 1989 — Award for Research Excellence, International Joint Conference on Artificial Intelligence
+* 1989 — Doctor in the Behavioral and Social Sciences (Honorary), [[University of Groningen]], The Netherlands
+* 1989 — William James Fellow Award (charter recipient), [[American Psychological Society]]
+* 1990 — [[IEEE Emanuel R. Piore Award]]<ref>{{cite web |url=http://www.ieee.org/documents/piore_rl.pdf |title=IEEE Emanuel R. Piore Award Recipients |publisher=IEEE |access-date={{Format date|2010|12|30}} |archive-url=https://web.archive.org/web/20101124232834/http://ieee.org/documents/piore_rl.pdf |archive-date=2010-11-24 |url-status=dead }}</ref>
+* 1990 — [[IEEE W.R.G. Baker Prize Paper Award]]<ref>{{cite web|url=http://www.ieee.org/documents/baker_rl.pdf |title=IEEE W.R.G. Baker Prize Paper Award Recipients |publisher=IEEE |access-date={{Format date|2010|11|28}} |url-status=dead |archive-url=https://www.webcitation.org/5yCQiCmPi?url=http://www.ieee.org/documents/baker_rl.pdf |archive-date=April 25, 2011 }}</ref>
+* 1990 — Fellow of the [[Association for the Advancement of Artificial Intelligence]]<ref>{{Cite web |title=Elected AAAI Fellows |url=https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/ |access-date=2023-12-31 |website=AAAI |language=en-US}}</ref>
+* 1992 — U.S. [[National Medal of Science]]<ref name="AllenNewell-MedalFromBush">{{cite web|url=https://www.nsf.gov/od/nms/recip_details.cfm?recip_id=254 |title=The President's National Medal of Science: Recipient Details Allen Newell |publisher=US National Science Foundation |access-date={{Format date|2010|11|28}}}}</ref>
+* 1992 — [[The Franklin Institute]]'s [[Louis E. Levy Medal]]<ref name="LevyMedal_Laureates">{{cite web|url=http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=LEVY+&sy=1923&ey=1999&name=Submit |title=Franklin Laureate Database - Louis E. Levy Medal Laureates |publisher=[[Franklin Institute]] |access-date={{Format date|2011|1|22}} |url-status=dead |archive-url=https://web.archive.org/web/20110629195033/http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=LEVY+&sy=1923&ey=1999&name=Submit |archive-date=June 29, 2011 }}</ref>
+
+The [[AAAI#ACM - AAAI Allen Newell Award|ACM - AAAI Allen Newell Award]] was named in his honor.  The [[Allen Newell Award for Research Excellence|Award for Research Excellence]] of the [[Carnegie Mellon School of Computer Science]] was also named in his honor.
+
+==See also==
+* [[List of pioneers in computer science]]
+
+== Notes ==
+{{Lower-alpha explanatory footnote|Logic theorist is usually considered the first true AI program, although Arthur Samuel's checkers program was released earlier. Christopher Strachey also wrote a checkers program in 1951|name=i|group=lower-roman}}Logic theorist is usually considered the first true AI program, although Arthur Samuel's checkers program was released earlier. Christopher Strachey also wrote a checkers program in 1951<ref>{{Cite book |last=Crevier |first=Daniel |title=AI: the tumultuous history of the search for artificial intelligence |date=1993 |publisher=Basic books |isbn=978-0-465-02997-6 |location=New York}}</ref>
+
+==References==
+{{Reflist|2}}
+{{reflist|group=lower-roman}}
+
+=== Further reading ===
+*{{MathGenealogy |id=13114 |title=Allen Newell}}
+*{{AIGenealogy |id=297 |title=Allen Newell}}
+*[http://purl.umn.edu/107544 Oral history interview with Allen Newell] at [[Charles Babbage Institute]], University of Minnesota, Minneapolis.  Newell discusses his entry into computer science, funding for computer science departments and research, the development of the Computer Science Department at Carnegie Mellon University, including the work of [[Alan Perlis]] and [https://conservancy.umn.edu/handle/11299/107605 Raj Reddy], and the growth of the computer science and artificial intelligence research communities.  Compares computer science programs at Stanford, MIT, and Carnegie Mellon.
+* [https://web.archive.org/web/20190903025744/http://diva.library.cmu.edu/Newell/index.html Full-text digital archive of Allen Newell papers]
+** [https://web.archive.org/web/20200201103357/http://diva.library.cmu.edu/Newell/biography.html Biography]
+*[https://web.archive.org/web/20120209080433/http://shelf1.library.cmu.edu/IMLS/MindModels/index.html Mind Models] online Artificial Intelligence exhibit
+*[http://www.interaction-design.org/references/authors/allen_newell.html Publications by Allen Newell] from Interaction-Design.org
+*[http://www.umsl.edu/~piccininig/Newell%205.htm ''Allen Newell''] {{Webarchive|url=https://web.archive.org/web/20121007083044/http://www.umsl.edu/~piccininig/Newell%205.htm |date=2012-10-07 }} by [[Gualtiero Piccinini]] in New Dictionary of Scientific Biography, [[Thomson Gale]], ed.
+
+== External links ==
+
+* [https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf Herbert A. Simon, "Allen Newell", Biographical Memoirs of the National Academy of Sciences (1997)]
+* {{wikiquote-inline}}
+
+{{Turing award}}
+{{Winners of the National Medal of Science|math-stat-comp}}
+{{Artificial intelligence navbox}}
+{{Authority control}}
+
+{{DEFAULTSORT:Newell, Allen}}
+[[Category:1927 births]]
+[[Category:1992 deaths]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:American cognitive psychologists]]
+[[Category:Computational psychologists]]
+[[Category:National Medal of Science laureates]]
+[[Category:Turing Award laureates]]
+[[Category:Princeton University alumni]]
+[[Category:Tepper School of Business alumni]]
+[[Category:American consciousness researchers and theorists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Presidents of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Stanford University School of Humanities and Sciences alumni]]
+[[Category:Lowell High School (San Francisco) alumni]]
+[[Category:20th-century American psychologists]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:APA Distinguished Scientific Award for an Early Career Contribution to Psychology recipients]]

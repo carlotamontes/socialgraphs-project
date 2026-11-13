@@ -1,0 +1,62 @@
+{{short description|Soviet Ukrainian mathematician}}
+{{Infobox scientist/Wikidata | fetchwikidata=ALL
+| name              = Rvachev Vladimir Logvinovich
+| image             = Rvachev Vladimir Logvinovich.jpg
+| image_size        = 
+| birth_date        = {{Birth date|1926|10|21}}
+| birth_place       = 
+| death_date        = {{Death date and age|2005|04|26|1926|10|21}}
+| death_place       = 
+
+| citizenship       = 
+| workplaces        = 
+| alma_mater        = 
+
+}}
+'''Volodymyr Lohvynovych Rvachov''' ({{langx|uk|Володимир Логвинович Рвачов}}; 21 October 1926, [[Chyhyryn]] – 26 April 2005, [[Kharkiv]]) was a Soviet and Ukrainian [[Applied mathematics|applied mathematician]] and [[Engineering physics|engineering scientist]].<ref>{{cite book |last=[[Karl-Eugen Kurrer|Kurrer]] |first=K.-E. |date=2018 |title=Rvachev, Vladimir Logvinovich|trans-title=The History of the Theory of Structures. Searching for Equilibrium  |location=Berlin |publisher=[[Wiley (publisher)|Wiley]]|page=1055 |isbn=978-3-433-03229-9}}</ref>
+
+== Early life and education ==
+Rvachov, the son of a teacher Logvin Fedorovich Rvachev, began studying at the [[Kharkiv Polytechnic Institute]] in 1943, but the occupation of his home town by the [[Reichswehr#Transition to the Wehrmacht|German armed forces]] (Wehrmacht) forced him to flee and sign up for military service. After the war Rvachov was able to resume his studies at the [[University of Lviv]], from where he graduated in 1952 and where, three years later, attained his first doctorate with a work on [[Solid mechanics|elastic theory]]. Thereafter, he was in charge of the Department of Higher Mathematics at the Berdiansk Pedagogic Institute until 1963. During this time, he completed his dissertation on three-dimensional contact problems in elastic theory at the [[Institute of Technical Mechanics|Institute for Problems in Mechanics]] at the [[Academy of Sciences of the Soviet Union]], and was appointed professor at the age of 35. 
+
+== Career ==
+Rvachov was in charge of the [[Kharkiv National University of Radioelectronics|Computational Mathematics Department at the Kharkiv Institute of Radioelectronics]] from 1963 to 1967,<ref>{{Cite web|date=2010-06-10|title=В.Л.Рвачёв|url=http://users.kpi.kharkov.ua/apm/All/hist3.htm|access-date=2020-12-11|archive-url=https://web.archive.org/web/20100610044440/http://users.kpi.kharkov.ua/apm/All/hist3.htm|archive-date=2010-06-10}}</ref> and afterwards was head of the Department of Applied Mathematics & Computer Methods at the Institute for Problems in Mechanical Engineering at the [[National Academy of Sciences of Ukraine]] until he retired.
+
+With his theory of [[Rvachev function|R-functions]], Rvachov in 1963 founded a mathematical theory in which mathematical logic was linked with classical methods of mathematics and modern [[Cybernetical physics|cybernetics]]. He summarized his findings in a monograph (1982) which did not gain international recognition until Vadim Shapiro’s English edition appeared six years later.<ref>{{cite book |last=Shapiro |first=V. |date=1988 |title=Theory of R-functions and applications: A primer |trans-title=Tech. report CPA88-3 |location=Ithaca/New York |publisher=Sibley School of Mechanical Engineering}}</ref>
+
+''With R-functions there appears the possibility of creating a constructive mathematical tool which incorporates the capabilities of classical continuous analysis and logic algebra. This allows one to overcome the main obstacle which hinders the use of variational methods when solving boundary problems in domains of complex shape with complex boundary conditions, this obstacle being connected with the construction of so-called coordinate sequences. In contrast to widely used methods of the network type (finite difference, finite and boundary elements), in the R-functions method all the geometric information present in the boundary value problem statement is reduced to analytical form, which allows one to search for a solution in the form of formulae called solution structures containing some indefinite functional components''.<ref>{{cite book |last1=Rvachev |first1=V. L.|last2=Sheiko |first2=T. I.|last3=Sinekop |first3=N. S.|date=1995 |title=R-functions in boundary value problems in mechanics |publisher=Applied Mechanics Reviews Vol. 48, No. 4|pages=151–188 }}</ref> 
+
+Rvachov therefore provided computational mechanics with a new form of mathematical foundation with considerable heuristic potential.
+
+Together with his students, he published more than 500 scientific papers and 17 monographs. He was elected a corresponding (1972) and later (1978) a full member of the [[National Academy of Sciences of Ukraine]].<ref>{{Cite web|last=Курпа|first=Л.|date=2006-10-23|title=Ученый, Учитель, Человек|url=http://polytechnic.kpi.kharkov.ua/ViewArticle.asp?id=1171|access-date=2020-12-11|website=polytechnic.kpi.kharkov.ua}}</ref> He was awarded numerous honors in recognition of his pioneering findings.<ref>{{Cite web|title=Рвачев Владимир Логвинович {{!}} ХНУРЭ - Харьковский национальный университет радиоэлектроники|url=https://nure.ua/ru/branch/rvachev-vladimir-logvinovich|access-date=2020-12-11|website=nure.ua|date=7 March 2019}}</ref>
+
+== Awards and honors ==
+
+* [[Order of the Red Banner of Labour]] (1961)
+* [[Order of Friendship of Peoples]] (1976)
+* [[Order of the Badge of Honour]] (1976)
+* [[State Prize of Ukraine in Science and Technology]] (1980)
+* [[Order of Prince Yaroslav the Wise]], 5th class (2001)
+
+== Works ==
+* Rvachov, V. L., 1982. ''Teoriya R-funktsii i nekotorye ee prilozheniya'' (theory of R-functions and some applications). Kyiv: Naukova Dumka, 1982 (in Russian).
+* Rvachov, V. L.; Sinekop, N. S., 1990. ''Metod R-funktsii v teorii uprugosti i plastichnosti'' (R-functions method in elasticity and plasticity theory). Kyiv: Naukova Dumka (in Russian).
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rvachov, Volodymyr}}
+[[Category:1926 births]]
+[[Category:2005 deaths]]
+[[Category:20th-century Ukrainian mathematicians]]
+[[Category:People from Chyhyryn]]
+[[Category:Academic staff of the School of Physics and Technology of University of Kharkiv]]
+[[Category:Full Members of the National Academy of Sciences of Ukraine]]
+[[Category:University of Lviv alumni]]
+[[Category:Laureates of the State Prize of Ukraine in Science and Technology]]
+[[Category:Recipients of the Order of the Badge of Honour]]
+[[Category:Recipients of the Order of Friendship of Peoples]]
+[[Category:Recipients of the Order of Prince Yaroslav the Wise, 5th class]]
+[[Category:Recipients of the Order of the Red Banner of Labour]]
+[[Category:Soviet mathematicians]]

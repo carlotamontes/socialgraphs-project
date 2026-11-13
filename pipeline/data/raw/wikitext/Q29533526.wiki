@@ -1,0 +1,63 @@
+{{Short description|Danish physicist}}
+{{infobox person
+| name               = Klaus Mølmer
+| image              = 
+| birth_date         = {{birth year and age|1963}}
+| birth_place        = [[Vejle]], [[Denmark]]
+| education          = [[Aarhus University]]
+| occupation         = Physicist
+| known_for          = [[Mølmer–Sørensen gate]] <br>
+| awards             = [[EliteForsk Prize|EliteForsk Award]] (2007) <br> [[Humboldt Research Award]] (2023) <br> [[Dirac Medal and Lecture|Dirac Medal]] (2023)
+}}
+'''Klaus Mølmer''' is a [[Danes|Danish]] physicist who is currently a professor at the [[Niels Bohr Institute]] of the [[University of Copenhagen]].<ref>{{cite web |title=Klaus Mølmer profile page |url=https://nbi.ku.dk/english/staff/?pure=en%2Fpersons%2Fklaus-moelmer(e16f7ac3-6b19-4402-b6f3-fbb887fc7589).html |website=Niels Bohr Institute – University of Copenhagen| date=10 September 2007 }}</ref> From 2000 to 2022, he was a professor of physics at the [[University of Aarhus]].<ref name=":0">{{cite web |title=Curriculum Vitae – Klaus Mølmer |url=https://pure.au.dk/portal/en/persons/klaus-moelmer(860eabfe-1f03-496d-9a90-87b7f29c21bf)/cv.html?id=32504350 |website=Aarhus University |access-date=21 February 2023}}</ref>
+
+In 1999, Mølmer and Anders Sørensen proposed the [[Mølmer–Sørensen gate]] for [[trapped ion quantum computing]], which was one of the first proposals for the implementation of a multi-qubit gate on a physical system.
+
+Mølmer was awarded the status of Fellow in the [[American Physical Society]],<ref>{{Cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=&unit_id=&institution=|title=APS Fellow Archive|website=www.aps.org|language=en|access-date=2017-04-20}}</ref> after he was nominated by their Division of Atomic, Molecular & Optical Physics in 2008,<ref>{{Cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2008&unit_id=&institution=|title=APS Fellows 2008|website=www.aps.org|language=en|access-date=2017-04-20}}</ref> for his outstanding and insightful contributions to theoretical [[quantum optics]], [[quantum information science]] and quantum atom optics, including the development of novel computational methods to treat open systems in [[quantum mechanics]] and theoretical proposals for the quantum logic gates with trapped ions.
+
+== Early life and education ==
+Mølmer was born 1963 in Vejle, Denmark. He received his [[Cand.scient.]] degree (the Danish equivalent of a Master’s) in physics from [[Aarhus University]] in 1987, and subsequently remained at the same institution, where he earned his Ph.D. in physics in 1990.{{citation needed|date=November 2025}}
+
+== Career and research ==
+After completing his Ph.D. in physics at [[Aarhus University]] in 1990, Klaus Mølmer held a postdoctoral fellowship at the [[Max Planck Institute]] for Quantum Optics in Garching, Germany, supported by the [[Alexander von Humboldt Foundation]]. He returned to Aarhus University in 1991 as an associate professor and was promoted to full professor in 2000.<ref>{{Cite web |title=Klaus Mølmer Wins Humboldt Research Prize |url=https://www.uni-bonn.de/en/news/123-2023 |access-date=2025-09-30 |website=Universität Bonn |language=en}}</ref><ref>{{Cite web |title=Meet Prof. Klaus Mølmer on August 9 (Friday) |url=http://en.baqis.ac.cn/events/detail/?cid=2033 |access-date=2025-09-30 |website=en.baqis.ac.cn}}</ref> In 2022, he joined the Niels Bohr Institute at the University of Copenhagen as a professor of physics. Over the course of his career, Mølmer also held visiting professorships at institutions including [[Université Paris-Sud]] in [[France]] and the [[University of Innsbruck]] in [[Austria]].<ref>{{Cite web |title=Klaus Mølmer intensifies collaborations with the Institute of Applied Physics at the University of Bonn {{!}} ML4Q |url=https://ml4q.de/2023/07/klaus-molmer-intensifies-collaborations-with-the-institute-of-applied-physics-at-the-university-of-bonn/ |access-date=2025-09-30 |language=en-US}}</ref>
+
+Mølmer’s research spans theoretical quantum optics, atomic physics, and quantum information science.<ref>{{Cite web |title=Klaus Mølmer |url=https://scholar.google.com/citations?user=AnmFcv8AAAAJ&hl=da |access-date=2025-09-30 |website=scholar.google.com}}</ref> He has made contributions to the understanding of open quantum systems, measurement theory, and conditional dynamics, including the development of the [[Monte Carlo wave function method|Monte Carlo wavefunction method]], a widely used technique for simulating quantum systems subject to dissipation and continuous measurement.<ref>{{Cite journal |last=Mølmer |first=Klaus |last2=Castin |first2=Yvan |last3=Dalibard |first3=Jean |date=1993-03-01 |title=Monte Carlo wave-function method in quantum optics |url=https://opg.optica.org/josab/abstract.cfm?uri=josab-10-3-524 |journal=JOSA B |language=EN |volume=10 |issue=3 |pages=524–538 |doi=10.1364/JOSAB.10.000524 |issn=1520-8540|url-access=subscription }}</ref> Together with Anders Sørensen, he proposed the [[Mølmer–Sørensen gate]], a two-qubit entangling operation for trapped-ion quantum computers that is robust against motional heating.<ref name=":2">{{Cite journal |last1=Sørensen |first1=Anders |last2=Mølmer |first2=Klaus |date=1999-03-01 |title=Quantum Computation with Ions in Thermal Motion |url=https://link.aps.org/doi/10.1103/PhysRevLett.82.1971 |journal=Physical Review Letters |volume=82 |issue=9 |pages=1971–1974 |arxiv=quant-ph/9810039 |bibcode=1999PhRvL..82.1971S |doi=10.1103/PhysRevLett.82.1971 |s2cid=55267020}}</ref><ref name=":3">{{Cite journal |last1=Mølmer |first1=Klaus |last2=Sørensen |first2=Anders |date=1999-03-01 |title=Multiparticle Entanglement of Hot Trapped Ions |url=https://link.aps.org/doi/10.1103/PhysRevLett.82.1835 |journal=Physical Review Letters |volume=82 |issue=9 |pages=1835–1838 |arxiv=quant-ph/9810040 |bibcode=1999PhRvL..82.1835M |doi=10.1103/PhysRevLett.82.1835 |s2cid=49333990}}</ref><ref name=":4">{{Cite journal |last1=Sørensen |first1=Anders |last2=Mølmer |first2=Klaus |date=2000-07-18 |title=Entanglement and quantum computation with ions in thermal motion |url=https://link.aps.org/doi/10.1103/PhysRevA.62.022311 |journal=Physical Review A |language=en |volume=62 |issue=2 |arxiv=quant-ph/0002024 |bibcode=2000PhRvA..62b2311S |doi=10.1103/PhysRevA.62.022311 |issn=1050-2947 |s2cid=37521117 |article-number=022311}}</ref> This gate removed a major experimental obstacle and quickly became a standard tool in ion-trap quantum computing, adopted in laboratories worldwide and implemented in commercial quantum computing platforms.<ref name=":5">{{Cite journal |last1=Cirac |first1=J. I. |last2=Zoller |first2=P. |date=1995-05-15 |title=Quantum Computations with Cold Trapped Ions |url=https://link.aps.org/doi/10.1103/PhysRevLett.74.4091 |journal=Physical Review Letters |language=en |volume=74 |issue=20 |pages=4091–4094 |bibcode=1995PhRvL..74.4091C |doi=10.1103/PhysRevLett.74.4091 |issn=0031-9007 |pmid=10058410 |url-access=subscription}}</ref>
+
+Mølmer has often been recognized as one of the leading voices in Danish and international quantum physics. His theoretical methods and proposals have become textbook material in the fields of quantum optics and quantum information, and his work has influenced both foundational research and applied quantum technologies.<ref>{{Cite web |last=Vestergård |first=Gunver Lystbæk |date=2012-01-23 |title=Denmark's largest research award goes to the 'voice' of quantum mechanics |url=https://medarbejdere.au.dk/en/faculties/arts/currently/single-news/artikel/denmarks-largest-research-award-goes-to-the-voice-of-quantum-mechanics |access-date=2025-09-30 |website=medarbejdere.au.dk |language=en}}</ref><ref>{{Cite web |title=INSPIRE |url=https://inspirehep.net/authors/1949524 |access-date=2025-09-30 |website=inspirehep.net}}</ref>
+
+Over the course of his career he received numerous awards, some of which include the EliteForsk Award (2007), the Alexander von Humboldt Research Award (2023), the Dirac Medal (2023), and the Carlsberg Foundation Research Prize (2025).<ref>{{Cite web |title=Dirac medal {{!}} School of Physics – UNSW Sydney |url=https://www.unsw.edu.au/science/our-schools/physics/engage-with-us/dirac-medal |access-date=2025-09-30 |website=UNSW Sites |language=en}}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?v=Yr6HZYQ15aE |title=2023 Dirac Lecture – Professor Klaus Mølmer |date=2023-11-28 |last=UNSW Community |access-date=2025-09-30 |via=YouTube}}</ref> He is also a Fellow of the American Physical Society (2008).<ref>{{Cite web |title=Honors and Award Winners |url=https://www.aps.org/funding-recognition/winners?first_nm=Jacqueline&last_nm=Hewitt&year=1995 |access-date=2025-09-30 |website=www.aps.org |language=en}}</ref>
+
+== Awards ==
+Mølmer has been awarded several prizes,<ref name=":0" /> some of which are listed below.
+
+* Carlsberg Foundation Research Prize, 2025.
+* Alexander von Humboldt Research Award, 2023.
+* Dirac Medal, University of New South Wales, 2023.
+* Villum Kann Rasmussens Årslegat 2012.
+* Fellow of the American Physical Society (APS), 2008.
+* The EliteForsk Award of the Ministry of Science, Technology and Innovation of Denmark, 2007.
+* Rigmor og Carl Holst-Knudens Videnskabspris (University of Aarhus biennial Research Award) 2004.
+* Biennial Award of the Danish Physical Society, NKT's forsker pris. 1999.
+* Annual Award of the Danish Optical Society, DOPS-prisen. 1998.
+* Rømer Fondets Legat. 1995.
+* PhD Award from the Danish Academy for Natural Sciences. 1993.
+
+==See also==
+*[[List of fellows of the American Physical Society (1998–2010)]]
+*[[Entanglement depth]]
+*[[Quantum jump method]]
+*[[Mølmer–Sørensen gate]]
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mølmer, Klaus}}
+[[Category:Fellows of the American Physical Society]]
+[[Category:21st-century Danish physicists]]
+[[Category:Living people]]
+[[Category:University of Copenhagen]]
+[[Category:Quantum optics]]
+[[Category:Quantum physicists]]
+[[Category:1963 births]]

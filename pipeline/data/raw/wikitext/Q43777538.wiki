@@ -1,0 +1,50 @@
+{{Short description|German physicist}}
+{{Infobox scientist
+| name              = Alexander Szameit
+| image             = Alexander Szameit (2021).jpg
+| birth_date        = {{Birth date and age|1979|1|10|mf=y}}
+| birth_place       = [[Halle (Saale)]], [[Germany]]
+| fields            = [[Physicist]] 
+| workplaces        = [[University of Rostock]]
+| education         = [[University of Jena]]
+| doctoral_advisor  = 
+| known_for         = [[Topological photonics]] <br /> [[Quantum optics]] <br /> [[nonlinear optics]]
+| awards            = 
+| footnotes         = 
+}}
+
+'''Alexander Szameit''' (born 10 January 1979) is a German physicist working in experimental solid-state optics.<ref name="CPR">{{Cite web|url=http://cpr.uni-rostock.de//resolve/id/cpr_person_00003647|title=Szameit, Alexander - JSPDocportal Sample|first=Universitätsbibliothek|last=Rostock|website=cpr.uni-rostock.de}}</ref>
+
+== Biography ==
+Szameit studied physics at the [[Martin Luther University of Halle-Wittenberg]] and the [[University of Jena]], graduating in 2004.<ref name="CPR" /> Following that, from 2004 to 2007 he pursued a doctoral degree at the University of Jena, graduating with the highest honor of "[[summa cum laude]]".<ref name="Krupp">{{Cite web|url=https://www.krupp-stiftung.de/presse/alexander-szamit-erhaelt-alfried-krupp-foerderpreis-fuer-junge-hochschullehrer-2017/|title=Alexander Szameit erhält Alfried Krupp-Förderpreis für junge Hochschullehrer 2017|website=Alfried Krupp von Bohlen und Halbach-Stiftung}}</ref> From 2009 he worked at the [[Technion]] in [[Haifa]] as a [[postdoctoral researcher]] in the group of [[Mordechai Segev]].<ref>{{Cite web|url=https://phsites.technion.ac.il/msegev/students/|title=Students, Post-docs and Group Alumni}}</ref> In 2011 he returned to the University of Jena as a [[junior professor]] and acquired his habilitation in 2015.<ref name="FSUjunprof">{{Cite web|url=https://www.physik.uni-jena.de/en/research/junior-scientists/habilitation/2015-completed-habilitation-procedures/jun-prof-dr-alexander-szameit|title=Habilitation announcement of FSU Jena}}</ref> Since 2016, he is a professor at the [[University of Rostock]], where he leads the Experimental Solid-state Optics group.<ref name="CPR" /> Since 2022, Szameit also serves on the board of the [[German Research Foundation]]'s collaborative research center 1477 "LiMatI"<ref name="LiMatI">{{Cite web|url=https://www.limati.uni-rostock.de/en/team/ |title=Homepage of the CRC 1477 Light-Matter Interactions at Interfaces}}</ref>
+
+== Research==
+Szameit's work focuses on the investigation of optical wave phenomena in discrete systems.<ref name = "GroupWebsite">{{Cite web|url=https://www.optics.physik.uni-rostock.de/|title=Startseite - Experimentelle Festkörperoptik - Universität Rostock|website=www.optics.physik.uni-rostock.de}}</ref><ref name = "SzameitNolte2010">{{cite journal |last1= Szameit |first1=Alexander |last2=Nolte |first2=Stefan  |date= 2010 |title=Discrete optics in femtosecond-laser-written photonic structures |journal=Journal of Physics B: Atomic, Molecular and Optical Physics |volume=43  |issue=16 |article-number= 163001 |doi=10.1088/0953-4075/43/16/163001 |s2cid=116947148 }}</ref> As experimental platforms, he utilizes artificial structured media such as arrays of coupled optical [[waveguide]]s directly inscribed into glass chips by [[ultrafast laser]] pulses,<ref name = "SzameitNolte2010"/> or synthetic mesh lattices implemented by time-multiplexed loops of [[optical fibers]].<ref name = "WeidemannSzameit2022">{{cite journal |last1= Weidemann |first1=Sebastian |last2=Kremer |first2=Mark |last3=Longhi |first3=Stefano |last4=Szameit |first4=Alexander |date= 2022 |title=Topological triple phase transition in non-Hermitian Floquet quasicrystals |journal=Nature |volume=601  |issue=7893 |pages=354–359 |doi=10.1038/s41586-021-04253-0 |pmid=35046602 |pmc=8770143 |bibcode=2022Natur.601..354W }}</ref> Using these techniques, his research<ref name = "GroupWebsite"/> covers a broad range of fields ranging from [[topological photonics]],<ref>{{cite journal |last1= Price |first1= Hannah |last2=Chong |first2=Yidong |last3=Khanikaev |first3=Alexander |last4=Schomerus |first4=Henning |last5=Maczewsky |first5= Lukas J. |last6=Kremer |first6=Mark |last7=Heinrich |first7=Matthias |last8=Szameit |first8=Alexander |last9=Zilberberg |first9=Oded |last10=Yang |first10=Yihao |date= 2022 |title=Roadmap on topological photonics |journal= Journal of Physics: Photonics |volume=4  |issue= 3 |page=032501 |doi=10.1088/2515-7647/ac4ee4|arxiv= 2201.06315 |bibcode= 2022JPhP....4c2501P |s2cid= 246015398 }}</ref> [[Non-Hermitian quantum mechanics|non-Hermitian]]<ref name = "WeidemannSzameit2022"/> and PT-symmetric<ref>{{cite journal |last1= Kremer |first1= Mark |last2=Biesenthal |first2=Tobias |last3=Maczewsky |first3=Lukas J. |last4=Heinrich |first4=Matthias |last5=Thomale |first5=Ronny |last6=Szameit |first6=Alexander |date= 2019 |title=Demonstration of a two-dimensional PT-symmetric crystal |journal=Nature Communications |volume=10  |issue= 1 |page=435 |doi=10.1038/s41467-018-08104-x  |doi-access=free|pmid= 30683867 |pmc= 6347626 |bibcode= 2019NatCo..10..435K }}</ref> optical systems, [[integrated quantum photonics]]<ref>{{cite journal |last1= Ehrhardt |first1=Max |last2=Heinrich |first2=Matthias |last3=Szameit |first3=Alexander |date= 2022 |title=Observation-dependent suppression and enhancement of two-photon coincidences by tailored losses |journal=Nature Physics |volume=16  |issue=3 |pages=191–195 |doi=10.1038/s41566-021-00943-3 |arxiv=2105.05459 |bibcode=2022NaPho..16..191E |s2cid=234469825 }}</ref> and [[nonlinear optics]]<ref>{{cite journal |last1= Maczewsky |first1=Lukas J. |last2=Heinrich |first2=Matthias |last3=Kremer |first3=Mark |last4=Ivanov |first4=Sergey K. |last5=Ehrhardt |first5=Max |last6=Martinez |first6=Franklin |last7=Kartashov |first7=Yaroslav V. |last8=Konotop |first8=Vladimir V. |last9=Torner |first9=Lluis |last10=Bauer |first10=Dieter |last11=Szameit |first11=Alexander |date= 2020 |title=Nonlinearity-induced photonic topological insulator |journal=Science |volume=370  |issue=6517 |pages=701–704 |doi=10.1126/science.abd2033 |pmid=33154138 |arxiv=2010.12250 |bibcode=2020Sci...370..701M |s2cid=225062505 }}</ref> to synthetic [[dimension]]s<ref>{{cite journal |last1= Lustig |first1=Eran |last2=Weimann |first2=Steffen |last3=Plotnik |first3=Yonatan |last4=Lumer |first4=Yaakov |last5=Bandres |first5=Miguel |last6=Szameit |first6=Alexander |last7=Segev |first7=Mordechai |date= 2019 |title= Photonic topological insulator in synthetic dimensions |journal=Nature |volume=567  |issue=7748 |pages=356–360 |doi=10.1038/s41586-019-0943-7|pmid=30778196 |arxiv=1807.01983 |bibcode=2019Natur.567..356L |s2cid=256768164 }}</ref> and the emulation of [[relativistic physics]]<ref>{{cite journal |last1= Dreisow |first1=Felix |last2=Heinrich |first2=Matthias |last3=Keil |first3=Robert |last4=Tuennermann |first4=Andreas |last5=Nolte |first5=Stefan |last6=Longhi |first6=Stefano |last7=Szameit |first7=Alexander|date= 2010 |title= Classical Simulation of Relativistic Zitterbewegung in Photonic Lattices |journal=Physical Review Letters |volume=105  |issue=14 |article-number=143902 |doi=10.1103/PhysRevLett.105.143902 |pmid=21230830 |bibcode=2010PhRvL.105n3902D }}</ref> in on-chip light-based settings.
+
+== Awards and honors ==
+* 2009: Doctoral prize of the DPG ([[German Physical Society]])<ref>[https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop Awardees of the doctoral prize of the DPG], Deutsche Physikalische Gesellschaft</ref>
+* 2014: [[Adolph Lomb Medal]] of the [[Optical Society]]<ref>[https://www.optica.org/en-us/get_involved/awards_and_honors/awards/award_descriptions/adolphlomb/ Adolph Lomb Medal], Optica</ref>
+* 2015: Rudolf Kaiser award for experimental physics<ref>[https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop Rudolf Kaiser award for Szameit], Deutsches Stiftungszentrum</ref>
+* 2017: Alfried Krupp prize of the Alfried Krupp von Bohlen und Halbach Foundation<ref name="Krupp" />
+* 2020: [[Tomassoni award]]<ref>[https://www.phys.uniroma1.it/fisica/node/10215 Tomassoni Chisesi Prize] {{Webarchive|url=https://web.archive.org/web/20211121010515/https://www.phys.uniroma1.it/fisica/node/10215 |date=2021-11-21 }}, Sapienza Università di Roma</ref>
+* 2024: Elected as fellow of [[Optica (society)|Optica]]<ref>[https://www.optica.org/get_involved/awards_and_honors/fellow_members/elected_fellows/ Optica Elected Fellows], Optica</ref>
+
+== Selected publications ==
+* Rechtsman, Mikael C., Julia M. Zeuner, Yonatan Plotnik, Yaakov Lumer, Daniel Podolsky, Felix Dreisow, Stefan Nolte, Mordechai Segev, and Alexander Szameit. "Photonic Floquet topological insulators." Nature 496, no. 7444 (2013): 196–200.
+* Weimann, Steffen, Manuel Kremer, Yonatan Plotnik, Yaakov Lumer, Stefan Nolte, Konstantinos G. Makris, Mordechai Segev, Mikael C. Rechtsman, and Alexander Szameit. "Topologically protected bound states in photonic parity–time-symmetric crystals." Nature materials 16, no. 4 (2017): 433–438.
+* Tillmann, Max, Borivoje Dakić, René Heilmann, Stefan Nolte, Alexander Szameit, and Philip Walther. "Experimental boson sampling." Nature photonics 7, no. 7 (2013): 540–544.
+* Zeuner, Julia M., Mikael C. Rechtsman, Yonatan Plotnik, Yaakov Lumer, Stefan Nolte, Mark S. Rudner, Mordechai Segev, and Alexander Szameit. "Observation of a topological transition in the bulk of a non-Hermitian system." Physical review letters 115, no. 4 (2015): 040402.
+* Szameit, Alexander, and Stefan Nolte. "Discrete optics in femtosecond-laser-written photonic structures." Journal of Physics B: Atomic, Molecular and Optical Physics 43, no. 16 (2010): 163001.
+
+== References ==
+
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Szameit, Alexander}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:21st-century German physicists]]
+[[Category:German optical physicists]]
+[[Category:University of Jena alumni]]

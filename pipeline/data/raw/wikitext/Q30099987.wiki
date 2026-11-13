@@ -1,0 +1,91 @@
+{{Short description|French physicist}}
+'''Pierre Suquet''' (born 22 October 1954) is a French theoretician [[mechanic]] and [[research director]] at the [[Centre national de la recherche scientifique|CNRS]]. He is a member of the [[French Academy of Sciences]].<ref name=":0">{{cite web|title=Académie des sciences|url=https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-S/pierre-suquet.html|date=}}</ref>
+
+== Biography ==
+{{BLP unreferenced section|date=August 2020}}
+He did his preparatory classes in [[Grenoble]] (Maths Sup) then at [[Lycée Louis-le-Grand|Louis-Le Grand]] (Maths Spé), to join the [[École normale supérieure (Paris)|École Normale Supérieure]] (1973) to become an agrégé de Mathématiques in 1975, and [[Doctorate|Doctor]] in 1982.
+
+From 1983 to 1988 he was Professor at the [[University of Montpellier]]. Then [[Centre national de la recherche scientifique|CNRS]] Research Director, Mechanics and Acoustics Laboratory in [[Marseille]], where he was Director from 1993 to 1999. From 2000 to 2001 he was Visiting Professor at the [[Clark Millikan|Clarke Millikan]] of the [[California Institute of Technology]].
+
+Pierre Suquet is a specialist in continuous media and the behaviour of solid materials. His main research interests are [[Elasto-plastic self-consistent modeling|elastoplastic]] structures, homogenization of non-linear composites and numerical simulation in materials mechanics.
+
+== Scientific work ==
+
+=== Existence and regularity of elastic-plastic solutions ===
+In 1978, Pierre Suquet introduced the space of vector fields with bounded deformation<ref>Suquet P., « Sur un nouveau cadre fonctionnel pour les équations de la Plasticité », ''C. R. Acad. Sc. Paris'', 286, a, 1978, <abbr>p.</abbr> 1129–1132</ref><ref>Suquet P., « Un espace fonctionnel pour les équations de la  Plasticité », ''Ann. Fac. Sc. Toulouse'', 1, 1979, <abbr>p.</abbr> 77–87</ref> and established certain properties (existence of internal and external traces on any surface, compact injection...). It shows that the evolution problem for a perfectly plastic elastic body admits a solution in speed (of displacement) in this space under a safe loading condition. It shows that there can be an infinite number of solutions, regular or non-regular.<ref>Suquet P., « Sur les équations de la plasticité : existence et régularité des solutions », ''J. Mécanique'', 20, 1981, pp. 3–39</ref><ref>Suquet P., "Discontinuities and Plasticity".  In J.J. Moreau, P.D. Panagiotopoulos  (eds) ''Non Smooth Mechanics and Applications''. CISM Lecture Notes N°302. Springer-Verlag. Wien. 1988. 279–340.</ref>
+
+=== Homogenization of dissipative media ===
+The framework of generalized standard environments, due to Helphen and Nguyen Quoc Son, allows an easy writing of the laws of macroscopic behaviour.<ref>Germain P., Nguyen Q.S., Suquet P., « Continuum Thermodynamics », ''J. Appl. Mech.'', 50, 1983, <abbr>p.</abbr> 1010–1020</ref> In 1982, Pierre Suquet<ref>Suquet P. : "Plasticité et homogénéisation". Thèse de doctorat d’État. Université Paris 6. 1982</ref> established homogenization results for environments characterized by 2 potentials (free energy and dissipation potentials) and showed in particular that the generalized standard structure is preserved by changing scales when geometric variations are neglected.<ref>Suquet P., « Elements of Homogenization for Inelastic Solid Mechanics », ''In E. Sanchez-Palencia, A. Zaoui (eds),  Homogenization Techniques for Composite Media.  Lecture Notes in Physics N°272. Springer-Verlag. Berlin'', 1987, <abbr>pp.</abbr> 193–278</ref> He notes that the homogenization of short-memory viscoelastic composites can lead to the appearance of long memory effects (an effect already noted by J. & E. Sanchez-Palencia in 1978). More recently, properties of these long memories have been established in relation to order moments 1 and 2 of the local fields.
+
+=== Homogenization and limit loads ===
+In 1983, Pierre Suquet<ref>Suquet P., « Analyse limite et homogénéisation », ''C. R. Acad. Sc. Paris'', 296, ii, 1983, <abbr>p.</abbr> 1355–1358</ref> gave a first upper bound of the resistance domain of a heterogeneous medium by solving a boundary analysis problem on a base cell. This result is improved by Bouchitte and Suquet<ref>Bouchitte G., Suquet P., Boston, in G. Dal Maso and G.F. Dell'Antonio (eds) Composite Media and Homogenization Theory,  Birkhaüser, <abbr>pp.</abbr> 107–133</ref> who show that the homogenized analysis problem is divided into two sub-problems, one purely volumetric for which the resistance domain is that given by the boundary analysis of a base cell, the second, surface area for which a surface homogenization problem (and not on unit cell) must be solved.
+
+=== Terminals for non-linear composites ===
+In 1993, Pierre Suquet<ref>Suquet P., « Overall potentials and flow stresses of ideally plastic  or power law materials », ''J. Mech. Phys. Solids'', 41, 1993, <abbr>pp.</abbr> 981–1002</ref> proposed a series of bollards for non-linear phase composites, using a method different from those available at the time (Willis, 1988, Ponte Castañeda, 1991), then showed in 1995<ref>Suquet P., « Overall properties of nonlinear composites: a modified secant moduli approach and its link with Ponte Casta\~neda's  nonlinear variational procedure », ''C. R. Acad. Sc. Paris, IIb'', 320, 1995, <abbr>pp.</abbr> 563–571</ref><ref>Ponte Castaneda P., Suquet P., « Nonlinear composites », ''Advances in Applied Mechanics'', 34, 1998, <abbr>pp.</abbr> 171–302</ref> that Ponte Castañeda's (1991) variational method is a secant method using the second moment by phase of local fields.
+
+=== Digital method for heterogeneous media based on FFT. ===
+In 1994, H. Moulinec and P. Suquet<ref>Moulinec H., Suquet P., « A fast numerical method for computing the linear and nonlinear properties of composites », ''C. R. Acad. Sc. Paris, II'', 318, 1994, <abbr>pp.</abbr> 1417–1423</ref><ref>Moulinec H., Suquet P., « A numerical method for computing the overall response of nonlinear composites with complex microstructure », ''Computer Meth. Appl. Mech. Engng.'', 157, 1998, <abbr>pp.</abbr> 69–94</ref><ref>Michel J.C., Moulinec H., Suquet P., « A computational method for linear and nonlinear composites  with arbitrary phase  contrast », ''Int. J. Numer. Meth. Engng.'', 52, 2001, <abbr>p.</abbr> 139–160</ref><ref>Moulinec H., P. Suquet and G. Milton, « Convergence of iterative methods based on Neumann series for composite materials : Theory and practice », ''Int. J. Numer. Meth. Engng.'', 2018 (lire en ligne)</ref> introduced a numerical method using massively the Fast [[Fourier transform|Fourier Transform]] (FFT) using only a pixelized image of the study microstructure (without mesh size). By introducing a homogeneous reference medium, the heterogeneity of the medium is transformed into a polarization constraint. The Green operator of the reference medium, known explicitly in Fourier space, can be used to iteratively update the polarization field. Several improvements and accelerations have been made to this method, which is now used internationally in dedicated codes.
+
+=== Homogenization and reduction of models. ===
+Since 2003, J.C. Michel and P. Suquet<ref>Michel J.C., Suquet P., « Nonuniform Transformation Field Analysis », ''Int. J. Solids and Struct.'', 40, 2003, <abbr>pp.</abbr> 6937–6955</ref><ref>Michel JC. and P. Suquet, « A model-reduction approach in micromechanics of materials preserving the variational structure of constitutive relations », ''J. Mech. Phys. Solids'', 90, 2016, <abbr>pp.</abbr> 254–285 (lire en ligne)</ref> have been developing a method to reduce the number of internal variables of homogenized behavioural laws. This Nonuniform Transformation Field Analysis (NTFA) model uses the structuring of microscopic plastic deformation fields. A mode base is first built by the "snapshot POD" method along learning paths. Then the reduced kinetic equations for the field components in these modes are constructed by approaching the effective potentials by techniques derived from non-linear homogenization.
+
+== Books ==
+
+=== Book publishing ===
+
+*    1991 Blanc R., Raous M., Suquet P. (eds.) : Mechanics, Numerical Modeling and Dynamics of Materials, Proceedings of the scientific meetings of the fiftieth anniversary of the LMA. 415 pages.
+*    1994 Buttazzo G., Bouchitte G., Suquet P. (eds.) : Calculus of Variations, Homogenization and Continuum Mechanics, Series in [[Advances in Mathematics]] for Applied Sciences (vol 18). [[World Scientific]], Singapore, ({{ISBN|981-02-1783-8}}). 296 pages.
+*    1997 Suquet P. (ed.) : Continuum Micromechanics, CISM Lecture Notes N0 377. Springer-Verlag. Wien. 347 pages.
+*    2000 Ponte Castañeda P., Suquet P. (eds) : The J.R. Willis 60th Anniversary Volume, J. Mech. Phys. Solids 48, 6/7, 200
+
+=== Participation in synthesis works ===
+
+*    1986 Suquet P. : "A few mathematical aspects of incremental Plasticity". Course Notes at the International Centre for Pure and Applied Mathematics. In Applications of Mathematics to Mechanics. Ed. M. Djaoua. Ed. ENIT.
+*    1987 Suquet P. : "Elements of Homogenization for Inelastic Solid Mechanics". Courses at the International Centre for Mechanical Sciences. Udine. 1985. In E. Sanchez-Palencia, A. Zaoui (eds), Homogenization Techniques for Composite Media. Lecture Notes in Physics N0272. Springer-Verlag. Berlin. 1987. pp.&nbsp;193–278.
+*    1988 Suquet P. : "Discontinuities and Plasticity". Course notes from the International Centre for Mechanical Sciences. Udine. Italy. 1987. In Non Smooth Mechanics and Applications. Ed. J.J. Moreau, P.D. Panagiotopoulos. CISM Course No. 302. Springer-Verlag. Wien. 1988. 279–340.
+*    1991 {{Cite book |author-last1=Bouchitte |author-first1=Guy |author-last2=Suquet |author-first2=Pierre |chapter=Homogenization, Plasticity and Yield design |editor-last1=Dal Maso |editor-first1=Gianni |editor-last2=Dell'Antonio |editor-first2=Gian Fausto |date=1991 |title=Composite Media and Homogenization Theory |publisher=Birkhäuser |location=Boston |isbn=978-1-4684-6789-5 |page=107–133}}
+*    1994 Bouchitte G., Suquet P. : "Equi-coercivity of variational problems. The role of recession functions". Seminar at the [[Collège de France]]. April 1990. In [[Haïm Brezis|H. Brézis]], [[Jacques-Louis Lions|J.L. Lions]] (eds.) Non-linear partial differential equations and their applications. College de France Seminar XII. Longman, Harlow, 1994, 31–54.
+*    1997 a. Suquet P. : "Effective properties of nonlinear composites". in Suquet P. (ed.) Continuum Micromechanics. CISM Reading Notes N0 377. Springer-Verlag. Wien. 1997. pp 197–264.
+*    1997 b. Suquet P., Moulinec H. : "Numerical simulation of the effective properties of a class of cell materials". in K.M. Golden, G.R. Grimmett, R.D. James, G.W. Milton, P.N. Sen (eds.) Mathematics of multiscale materials. IMA Reading Notes 99. Springer-Verlag, New York, 1997, 277–287.
+*    2000 a. Michel J.C., Galvanetto U., Suquet P. : "Constitutive relations involving internal variables based on a micromechanical analysis", in R. Drouot, G.A. Maugin, F. Sidoroff (eds) Continuum Thermodynamics : The Art and Science of Modeling Material Behaviour, Klüwer Acad.
+*    2000 b. Garajeu M., Suquet P : "Micromechanical models for anisotropic damage in creeping materials. In A. Ben Allal (ed.) Continuous Damage and Fracture, Elsevier, 2000, pp. 117–127.
+*    2001 a. Michel J.C., Moulinec H., Suquet P. : "Composites with periodic microstructure". In M. Bornert, T. Bretheau and P. Gilormini (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol. 1, chap. 3, pp.&nbsp;57–94.
+*    2001 b. Bornert M., Suquet P.: "Non-linear properties of composites: potential approaches." In M. Bornert, T. Bretheau and P. Gilormini (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol. 2, chap. 2, pp.&nbsp;45–90.
+*    2001 v. Chaboche J.L., Suquet P., Besson J.: "Damage and change of scale". In M. Bornert, T. Bretheau and P. Gilormini (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol. 2, chap. 3, pp.&nbsp;91–146.
+*    2001 d. Suquet P. : "Nonlinear composites : Secant methods and variational bounds". In J. Lemaître (ed.) Handbook of Materials Behavior Models. Academic Press, 2001, pp.&nbsp;968–98
+
+== Dissemination of knowledge ==
+
+*    1988 Suquet P. : "Les milieux périodiques". in La Mécanique en 1988. Mail from the CNRS. 1988. 63.
+*    1989 Sanchez-Palencia E., Suquet P.: "Simpler materials through homogenization". La Recherche, 214, 1989, XXIV-XXVI.
+*    1990 Suquet P. : "L'homogénéisation et la Mécanique des Matériaux". The Mecamat Gazette. February 1990.
+*    1992 Guillemain P., Suquet P. : "Waves and Structural Dynamics". Science and Defense. January 1992.
+
+== Honours and awards ==
+
+*  Henri de Parville Prize from the French Academy of Sciences (1982).
+*  Jean Mandel Prize from the École des mines (1988).
+*  [[CNRS Silver Medal|CNRS Silver medal]] (1991).
+*  [[Ampère Prize]] of the French Academy of Sciences (2000).
+*  Midwest Mechanics Distinguished Lecturer (2001).<ref>{{cite web|title=Midwest mechanics|url=http://midwestmechanics.org/complete-list-of-speakers-chronological/|date=}}</ref>
+*  French Academy of Sciences: Elected correspondent on 6 June 1994, then member on 30 November 2004 (Section: Mechanical and Computer Sciences).<ref name=":0" /><ref>{{cite web|title=Youscribe|url=https://www.youscribe.com/catalogue/documents/education/etudes-superieures/notice-biographique-de-pierre-suquet-membre-de-l-academie-des-sciences-1717163|date= |author1=Youscribe }}</ref>
+*  Koiter Medals of ASME (2006).
+*  Distinguished International Scholar. [[University of Pennsylvania]] (2009).
+*    Chevallier of the [[Ordre des Palmes académiques|Palmes Académiques]] (2010)
+*  James K. Knowles Lecture and [[California Institute of Technology|Caltech]] Solid Mechanics Symposium (2014).<ref>{{cite web|title=Caltech|url=http://www.mce.caltech.edu/events/knowles_lecture/2014|date=}}</ref>
+*    [[National Academy of Engineering]] Member (2021)
+*    [[Timoshenko Medal]] (2024).
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Suquet, Pierre}}
+[[Category:1954 births]]
+[[Category:École normale supérieure (Paris) alumni]]
+[[Category:French mathematicians]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Academic staff of the University of Montpellier]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+[[Category:Living people]]

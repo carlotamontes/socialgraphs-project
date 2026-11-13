@@ -1,0 +1,78 @@
+{{Short description|British mathematician (1931–2008)}}
+{{Use British English|date=July 2017}}
+{{Use dmy dates|date=July 2017}}
+{{Infobox scientist
+| name              = Philip Saffman
+| image             = Philip_Saffman.png
+| image_size        = 
+| birth_name        = Philip Geoffrey Saffman
+| birth_date        = {{birth date|df=yes|1931|3|19}}
+| birth_place       = [[Leeds]], England
+| death_date        = {{death date and age|df=yes|2008|8|17|1931|3|19}}
+| death_place       = Los Angeles
+| fields            = {{Plainlist|
+* [[Fluid dynamics]]
+* [[Fluid mechanics]]<ref>{{cite journal |doi=10.1017/S0022112093002393 |title=The structure of intense vorticity in isotropic turbulence |journal=Journal of Fluid Mechanics |volume=255 |page=65 |year=1993 |last1=Jiménez |first1=Javier |last2=Wray |first2=Alan A. |last3=Saffman |first3=Philip G. |last4=Rogallo |first4=Robert S. |bibcode=1993JFM...255...65J |s2cid=32410075 }}</ref>}}
+| workplaces        = {{Plainlist|
+* [[California Institute of Technology]]
+* [[Royal Air Force]]<ref name=frs/>
+* [[University of Cambridge]]
+* [[King's College London]]}}
+| education         = {{Plainlist|
+* [[Roundhay School]]
+* [[University of Cambridge]]}}
+| doctoral_advisor  = [[George Batchelor]]<ref name=mathgene/>
+| academic_advisors = 
+| doctoral_students = [[Francis Bretherton]]
+| notable_students  = 
+| spouse            = {{marriage|Ruth Arion|1954}}<ref name=frs/>
+| known_for         = {{Plainlist|
+* Saffman lift<ref name=frs/>
+*  Saffman turbulence<ref name=frs/>
+* [[Viscous fingering|Saffman–Taylor finger]]<ref name=frs/>
+* [[Saffman–Delbrück model]]<ref name=frs/>
+* [[Vorticity|Vortex dynamics]]<ref name=vd/><ref name=vd2/>}}
+| awards            = {{Plainlist|
+* [[Otto Laporte Award]] (1994)
+* [[Fellow of the Royal Society|FRS]] (1988)<ref name=frs/><ref name=royal/>}}
+| footnotes         = 
+}}
+
+'''Philip Geoffrey Saffman''' [[Fellow of the Royal Society|FRS]]<ref name=frs>{{Cite journal | doi = 10.1098/rsbm.2014.0021| title = Philip Geoffrey Saffman 19 March 1931 -- 17 August 2008| journal = [[Biographical Memoirs of Fellows of the Royal Society]]| volume = 60| pages = 375–395| year = 2014| last1 = Crowdy | first1 = Daniel| last2 = Tanveer | first2 = Saleh| doi-access = free}}</ref> (19 March 1931 – 17 August 2008) was a mathematician and the [[Theodore von Kármán]] Professor of [[Applied Mathematics]] and [[Aeronautics]] at the [[California Institute of Technology]].<ref name="lat">{{citation
+ | title = Philip Geoffrey Saffman, 1931–2008
+ | journal = [[Los Angeles Times]]
+ | last = Johnson | first = John Jr. | date = 22 August 2008 | page = B6|url=https://www.latimes.com/archives/la-xpm-2008-aug-22-me-saffman22-story.html| url-status = live
+ |archive-url=https://web.archive.org/web/20150306033230/http://articles.latimes.com/2008/aug/22/local/me-saffman22|archive-date=6 March 2015}}.</ref><ref name="ean"/><ref>{{Cite web |url=http://etc13.fuw.edu.pl/historical-turbulence |title=Dale Pullin's lecture on life and work of Philip Saffman |access-date=18 January 2013 |archive-url=https://web.archive.org/web/20110321043741/http://etc13.fuw.edu.pl/historical-turbulence |archive-date=21 March 2011  }}</ref><ref>{{YouTube|id=rBlaom1yasE|title=Philip Geoffrey Saffman (1931–2008) tribute by Dale Pullin}}</ref><ref>{{cite journal |doi=10.1146/annurev-fluid-011212-140655 |title=Philip G. Saffman |journal=Annual Review of Fluid Mechanics |volume=45 |pages=19–34 |year=2013 |last1=Pullin |first1=D.I. |last2=Meiron |first2=D.I. |bibcode=2013AnRFM..45...19P |doi-access=free }}</ref><ref name="ReferenceA">{{cite journal |doi=10.1017/S0022112099007697 |title=Philip Saffman and viscous flow theory |journal=Journal of Fluid Mechanics |volume=409 |issue=1 |pages=165–183 |year=2000 |last1=Stone |first1=H. A. |bibcode=2000JFM...409..165S |s2cid=120414580 }}</ref><ref name=caltechobit>{{cite web|title=Philip Geoffrey Saffman, 77|year=2008|archive-url=https://web.archive.org/web/20150306032943/https://www.caltech.edu/news/philip-geoffrey-saffman-77-1459|archive-date=6 March 2015|url=https://www.caltech.edu/news/philip-geoffrey-saffman-77-1459|publisher=Caltech}}</ref><ref name=scopus>{{Scopus|id= 7005239441}}</ref>
+
+==Education and early life==
+Saffman was born to a [[Jewish]] family<ref>{{Cite ODNB |first=H. K. |last=Moffatt|title=Saffman, Philip Geoffrey (1931–2008) |url=https://doi.org/10.1093/ref:odnb/99527}}</ref> in [[Leeds]], England, and educated at [[Roundhay School]] and [[Trinity College, Cambridge]] which he entered aged 15.<ref name=frs/> He received his Bachelor of Arts degree in 1953,<ref name=frs/> studied for Part III of the [[Cambridge Mathematical Tripos]] in 1954 and was awarded his PhD in 1956 for research supervised by [[George Batchelor]].<ref name=mathgene>{{MathGenealogy|id=7653}}</ref>
+
+==Career and research==
+Saffman started his academic career as a lecturer at the University of Cambridge, then joined [[King's College London]] as a [[Reader (academic rank)|Reader]].<ref name=frs/> Saffman joined the Caltech faculty in 1964 and was named the Theodore von Kármán Professor in 1995. According to Dan Meiron, Saffman "really was one of the leading figures in fluid mechanics," and he influenced almost every subfield of that discipline. He is known (with his co-author [[Geoffrey Ingram Taylor]]) for the Saffman–Taylor instability in [[viscous fingering]] of fluid boundaries,<ref>{{cite journal |doi=10.1098/rspa.1958.0085 |title=The penetration of a fluid into a porous medium or Hele-Shaw cell containing a more viscous liquid |journal=Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences |volume=245 |issue=1242 |pages=312–329 |year=1958 |bibcode=1958RSPSA.245..312S |last1=Saffman |first1=P. G. |last2=Taylor |first2=Geoffrey |s2cid=95750900 }}</ref> a phenomenon important for its applications in [[enhanced oil recovery]], and for the [[Saffman–Delbrück model]] of [[protein]] [[diffusion]] in membranes which he published with his Caltech colleague and Pasadena neighbour [[Max Delbrück]]. He made important contributions to the theory of [[vorticity]] arising from the motion of ships and aircraft through water and air; his work on [[wake turbulence]] led the airlines to increase the minimum time between takeoffs of aircraft on the same runway.<ref name="lat"/><ref name="psn"/><ref>{{citation|title=Dangerous wake: Wing vortices yield a deadly secret |publisher=[[Science News]] |date=22 June 2002 |url=http://www.sciencenews.org/20020622/fob2.asp |last=Perkins |first=Sid  |archive-url=https://web.archive.org/web/20030903045121/http://www.sciencenews.org/20020622/fob2.asp |archive-date=3 September 2003 }}.</ref> Saffman also studied the flow of [[spheroid]]al particles in a fluid, such as bubbles in a carbonated beverage or corpuscles in blood; his work overturned previous assumptions that inertia was an important factor in these particles' motion and showed instead that [[Non-Newtonian fluid|Non-Newtonian]] properties of fluids play a significant role.<ref name="ReferenceA"/><ref>{{Cite journal | doi = 10.1016/0165-2125(80)90029-3| title = Evolution of a random inhomogeneous field of nonlinear deep-water gravity waves| journal = Wave Motion| volume = 2| pages = 1–16| year = 1980| last1 = Crawford | first1 = D. R. | last2 = Saffman | first2 = P. G. | last3 = Yuen | first3 = H. C.| issue = 1| bibcode = 1980WaMot...2....1C}}</ref>
+
+Along with his many research papers,<ref name=scopus/> Saffman wrote a book, ''Vortex Dynamics'',<ref name=vd>{{citation|last=Saffman|first=Philip G.|title=Vortex Dynamics|publisher=[[Cambridge University Press]]|year=1992|isbn=978-0-521-47739-0}}</ref><ref name=vd2>{{cite journal |doi=10.1017/S0022112093212939 |title=Vortex Dynamics. By P. G. S AFFMAN . Cambridge University Press, 1992. 311 pp. £35 or $69.95 |journal=Journal of Fluid Mechanics |volume=256 |pages=720–722 |year=1993 |last1=Vladimirov |first1=V. A. |bibcode=1993JFM...256..720V |s2cid=122549962 }}</ref> surveying a field to which he had been a principal contributor. [[Russel E. Caflisch]] writes that "This book should be read by everyone interested in vortex dynamics or fluid dynamics in general."<ref>{{Cite journal | doi = 10.1137/1036074| title = Vortex Dynamics (P. G. Saffman)| journal = SIAM Review| volume = 36| issue = 2| pages = 293–297| year = 1994| last1 = Caflisch | first1 = R. E.}}</ref><ref>{{cite journal |doi=10.1002/qj.49712253214 |title=Vortex dynamics. Edited by P. G. Saffman. Cambridge University Press. Pp. 31 1. Price £17.95 (paperback). ISBN 0 521 47739 5 |journal=Quarterly Journal of the Royal Meteorological Society |volume=122 |issue=532 |page=1015 |year=1996 |last1=Cullen |first1=M. J. P. |bibcode=1996QJRMS.122.1015C }}</ref>
+
+==Awards and honours==
+Saffman was elected a [[Fellow]] of the [[American Academy of Arts and Sciences]] and a [[Fellow of the Royal Society]] in 1986,<ref name=frs/> and the recipient of the [[American Physical Society]]'s [[Otto Laporte Award]].<ref name="lat"/><ref name = "ean">{{Citation | title = Obituary Philip G. Saffman 1931–2008
+| journal = Engineering and Science | volume = LXXI | issue = 3 | page = 44 | date = Fall 2008}}</ref><ref name="psn">{{citation|title=Caltech professor, mentor Saffman dies|journal=Pasadena Star-News|date=20 August 2008|last=Williams|first=Janette|url=http://www.pasadenastarnews.com/ci_10261182|access-date=23 August 2008|archive-url=https://web.archive.org/web/20080912042804/http://www.pasadenastarnews.com/ci_10261182|archive-date=12 September 2008}}.</ref><ref>{{citation|title=Pasadena Royal Society Selection|journal=[[Los Angeles Times]]|date=16 June 1988}}.</ref><ref>[http://www.aps.org/programs/honors/awards/laporte.cfm Laporte Award recipients] {{Webarchive|url=https://web.archive.org/web/20081202224934/http://www.aps.org/programs/honors/awards/laporte.cfm |date=2 December 2008 }}. Retrieved 22 August 2008.</ref> His nomination for the Royal Society reads: {{centred pull quote|Distinguished for his important contributions to [[fluid mechanics]] in more than 140 papers characterised by originality, powerful [[mathematical analysis]], and deep physical insight. The problems he has illuminated include the following: dispersion in [[Porous medium|porous media]], fingering in a [[Hele-Shaw flow|Hele-Shaw cell]], the interaction of molecular and macroscopic mixing in turbulent fluid, the forces on a small particle in moving fluid, the effect of dust particles on stability of gas flows, the dynamics of homogeneous [[turbulence]], the shear layers bounding a Taylor column, [[vortex ring]]s, trailing line vortices from aircraft wings, stability of vortex streets, diffusion of [[macromolecule]]s in [[cell wall]]s, nonlinear gravity-[[capillary wave]]s, and instability of finite-amplitude [[water wave]]s.<ref name=royal>{{cite web |url=https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F1988%2F32%27)|title = EC/1988/32: Saffman, Philip Geoffrey |publisher=The Royal Society |archive-date=25 January 2016 |archive-url=https://web.archive.org/web/20160125004158/https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F1988%2F32%27) |location=London}}</ref>}}
+
+==Personal life==
+Saffman was survived by his wife (Ruth Arion whom he married in 1954), three children ([[Mark Saffman|Mark]], Louise, Emma), and eight grandchildren (Timothy, Gregory, Rae, Jenny, Nadine, Aaron, Miriam, Alexandra and Andrey).<ref name=frs/><ref name="ean"/>
+
+==References==
+{{Reflist}}
+* P.A. Davidson, Y. Kaneda, K. Moffatt, and [[K.R. Sreenivasan]] (eds, 2011).  ''A Voyage Through Turbulence'', chapter 12, pp 393–425, [[Cambridge University Press]]  {{ISBN|978-0-521-19868-4}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Saffman, Philip Geoffrey}}
+[[Category:1931 births]]
+[[Category:2008 deaths]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:20th-century British mathematicians]]
+[[Category:21st-century British mathematicians]]
+[[Category:British fluid dynamicists]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Mathematicians of King's College London]]
+[[Category:British fellows of the Royal Society]]

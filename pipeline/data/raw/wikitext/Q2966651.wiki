@@ -1,0 +1,119 @@
+{{Short description|American theoretical physicist}}
+{{Infobox scientist
+| name             = Christopher T. Hill
+| image            = Image: ChristopherTHillphysics.jpg
+| caption          = 
+| birth_date       = {{birth date and age|1951|6|19}}
+| birth_place      = [[Neenah, Wisconsin]]
+| death_date       = 
+| death_place      = 
+| residence        = 
+| known_for        = [[Infrared fixed point]] of the [[top quark]]; [[Topcolor]]; [[Top quark condensate]];  [[Dimensional deconstruction]]; [[Chiral symmetry breaking]] in Heavy-Light Mesons; Theory of UHE Cosmic Rays;  Soft Nambu-Goldstone Boson model of Dark Matter.
+| education        = [[Massachusetts Institute of Technology]] ([[Bachelor of Science|BS]], [[Master of Science|MS]])<br />[[California Institute of Technology]] ([[Doctor of Philosophy|PhD]])
+| thesis_title     = Higgs scalars and the nonleptonic weak interactions
+| thesis_url       = https://thesis.library.caltech.edu/4505/
+| thesis_year      = 1977
+| doctoral_advisor = [[Murray Gell-Mann]]
+| workplaces       = [[Fermilab]]
+| awards           = 
+| footnotes        = 
+}}
+'''Christopher T. Hill''' (born June 19, 1951) is a theoretical physicist, formerly of the [[Fermi National Accelerator Laboratory]], who did undergraduate work in physics at [[M.I.T.]] (B.S., M.S., 1972), and graduate work at [[Caltech]] (Ph.D., 1977, [[Murray Gell-Mann]]<ref>"[[Murray Gell-Mann]]," Physics Today, (2020);  https://physicstoday.scitation.org/doi/10.1063/PT.3.4480 (2020)</ref>). His work mainly focuses on new physics that can be probed in laboratory experiments or cosmology.
+
+Hill is an originator, with [[William A. Bardeen]] and [[Manfred Lindner]], of the idea that the (Brout-Englert-Higgs) [[Higgs boson]] is composed
+of top and anti-top quarks. This emerges from the concept of the
+[[top quark]] [[infrared fixed point]],<ref>{{cite journal| title=Quark and lepton masses from renormalization-group fixed points|journal=Physical Review D|date=1 August 1981|volume=24|issue=3|pages=691–703|doi=10.1103/PhysRevD.24.691|bibcode=1981PhRvD..24..691H|last1=Hill|first1=Christopher T.}}</ref> with
+which Hill predicted (1981) that the top quark would be very heavy, contrary
+to most popular ideas at the time. The fixed point prediction
+lies within 20% of the observed [[top quark]] mass (1995). This implied
+that the top quarks may be strongly coupled at  very short
+distances and could form a composite Brout-Englert-Higgs boson, which led to [[top quark condensates]],<ref>{{cite journal | year = 1990 | title = Minimal dynamical symmetry breaking of the standard model | journal = Phys. Rev. D | volume = 41 | issue = 5| pages = 1647–1660 | bibcode = 1990PhRvD..41.1647B | doi = 10.1103/PhysRevD.41.1647 | pmid = 10012522 | last1 = Bardeen | first1 = William A. | last2 = Hill | first2 = Christopher T. | last3 = Lindner | first3 = Manfred }}</ref> [[topcolor]],<ref>{{cite journal | year = 1995 | title = Topcolor Assisted Technicolor | journal = Phys. Lett. B | volume = 345 | issue = 4| pages = 483–489 | doi=10.1016/0370-2693(94)01660-5| arxiv = hep-ph/9411426 | bibcode = 1995PhLB..345..483H | last1 = Hill | first1 = Christopher T. | s2cid = 15093335 }}</ref><ref>{{cite journal | doi=10.1016/0370-2693(91)91061-Y | volume=266 | issue=3–4 | title=Topcolor: top quark condensation in a gauge extension of the standard model | year=1991 | journal=Physics Letters B | pages=419–424 | bibcode=1991PhLB..266..419H | last1=Hill | first1=Christopher T. | s2cid=121635635 }}</ref> and [[dimensional deconstruction]], a renormalizable lattice description of extra dimensions of space.<ref>{{cite journal | year = 2001 | title = Gauge invariant effective Lagrangian for Kaluza-Klein modes | url = http://inspirehep.net/record/541000 | journal = Phys. Rev. D | volume = 64 | issue = 10| article-number = 105005 | doi=10.1103/physrevd.64.105005| arxiv = hep-th/0104035 | bibcode = 2001PhRvD..64j5005H | last1 = Hill | first1 = Christopher T. | last2 = Pokorski | first2 = Stefan | last3 = Wang | first3 = Jing | s2cid = 7377062 }}</ref> 
+
+The original minimal top condensation model predicted the Brout-Englert-Higgs boson mass to be
+about twice the observed value of 125 GeV. However, this was based upon the  Nambu-Jona-Lasinio model,
+which lacks an
+internal wave-function, <math>\phi(r)</math>, which becomes a large effect when the coupling constant
+is near its critical value and must be included.  Hill has reformulated the NJL model, using 
+"bilocal fields" 
+and "[[topcolor]],"
+which includes <math>\phi(r)</math>. In this theory the <math>\bar{t}t</math> boundstates act as relativistic ``Cooper pairs" with extended wave-functions, and the vacuum becomes the analogue of a relativistically generalized BCS state<ref>Hill, Christopher T., ``The Nontrivial Vacuum Structure of an Extended <math>\bar{t}t</math> BEH boundstate",  (2025), [hep-ph] 2512.16527. </ref>.   This yields excellent agreement with the experimental values of the top quark mass and BEH boson mass (equivalently, the standard model quartic coupling  <math>\lambda</math>). The theory is manifesty Lorentz invariant and requires very little (few percent) fine-tuning. It predicts new gauge bosons ("colorons" ) with a mass scale of about 6 TeV, possibly accessible to the [[CERN]] LHC.<ref>{{cite journal| title=Natural Top Quark Condensation (a Redux) | journal=Nuclear Physics B |date=2025 |article-number=116987| doi=10.1016/j.nuclphysb.2025.116987 |arxiv=2503.21518 |last1=Hill|first1=Christopher T.|s2cid=119192830}}</ref>  
+
+Hill coauthored (with [[Elizabeth H. Simmons]]) a comprehensive review of strong dynamical theories and electroweak symmetry breaking
+that has shaped many of the experimental searches for new physics at the [[Tevatron]] and [[LHC]].<ref>{{cite journal | year = 2003 | title = Strong dynamics and electroweak symmetry breaking. | url = http://inspirehep.net/record/0203079 | journal = Phys. Rep. | volume = 381 | issue = 4–6 | page = 235 | doi = 10.1016/S0370-1573(03)00140-6 | arxiv = hep-ph/0203079 | last1 = Hill | first1 = Christopher T. | last2 = Simmons | first2 = Elizabeth H. | s2cid = 118933166 | bibcode = 2003PhR...381..235H | access-date = 2019-05-03 | archive-date = 2019-05-03 | archive-url = https://web.archive.org/web/20190503124159/http://inspirehep.net/record/0203079 }}</ref>
+
+Heavy-light mesons contain a heavy quark and a light anti-quark, and provide a unique window on the chiral symmetry dynamics of a single light quark. These systems can be viewed as a ball tethered to a pole, where the "pole" is the stationary heavy quark, the "ball" is the single light quark and the "tether" is the gluonic interaction binding them. 
+Hill and Bardeen showed that the (spin)<math>^{parity}</math> <math>(0^-,1^-)</math> ground states are split from  <math>(0^+,1^+)</math>  "chiral partners" by a universal mass gap of about <math>~ \Delta M \approx 350 \text{ MeV,}~</math> due to the light quark [[chiral symmetry breaking]].<ref>{{cite journal| title=Chiral dynamics and heavy quark symmetry in a solvable toy field theoretic model|journal=Physical Review D|date=1994|volume=49|issue=1|pages=409–425|doi=10.1103/PhysRevD.49.409|pmid=10016779|bibcode=1994PhRvD..49..409B |last1 = Bardeen | first1 = William A. |last2 =Hill |first2=Christopher T.|s2cid=1763576|arxiv=hep-ph/9304265}}</ref>   The main decay mode of the excited state to the ground state in (heavy)-strange mesons is blocked by the kaon mass, and this correctly predicted the abnormally long-lived resonance, 
+the <math> D_{s0^+}^*(2317)</math> (and the now confirmed <math> D_{s1^+}^*(2460)</math> and <math> B_{s0^+}^*(5700)</math> in the b-quark sector), ten years before its discovery, and numerous decay modes which have
+been confirmed by experiment.<ref>{{cite journal| title=Chiral multiplets of heavy-light mesons|journal=Physical Review D|date=2003|volume=68|issue=5|article-number=054024|doi=10.1103/PhysRevD.68.054024|bibcode=2003PhRvD..68e4024B |last1 = Bardeen | first1 = William A. |last2 =Eichten | first2=Estia |last3 =Hill |first3=Christopher T.|s2cid=10472717|arxiv=hep-ph/0305049}}</ref>
+Similar phenomena should be seen in the analogous <math>B_s</math> mesons and 
+<math>ccs, bcs, bbs</math> (heavy-heavy-strange baryons).
+
+Hill is a contributor to the theory of topological interactions and, with collaborators,
+was first to obtain the full Wess-Zumino-Witten term for the standard model which describes the physics of the  
+[[chiral anomaly]] in Lagrangians, including pseudoscalars, spin-1 vector mesons, and the <math> W^\pm </math> and  <math>  Z^0 </math>.  The WZW term requires a non-trivial counter-term to map the "consistent" anomaly into the "covariant" anomaly, as
+dictated by the conserved currents of the standard model. With the full WZW-term, 
+new anomalous interactions were revealed such as the <math>\gamma\omega Z^0</math> vertex. This leads to <math> \nu + X \rightarrow \nu+ \gamma + X</math>
+where <math> X </math> is a heavy nucleus, and may contribute
+to excess photons seen in low energy neutrino experiments.<ref>{{cite journal | year = 2007 |volume = 30 | title = Standard Model Gauging of the Wess-Zumino-Witten Term: Anomalies, Global Currents and pseudo-Chern-Simons Interactions| journal = Phys. Rev. D|  article-number = 085017|  doi = 10.1103/PhysRevD.77.085017 |  last1 = Harvey | first1 = Jeffrey A.
+| last2 = Hill| first2 = Christopher T. |  last3 = Hill| first3 = Richard
+| issue = 8 |arxiv = 0712.1230}}</ref>  The result reproduces B+L violation by the anomaly in the standard model, and predicts numerous other anomalous processes.
+Hill has given a derivation of the coefficients of consistent and covariant chiral anomalies (even D), and Chern-Simons terms (odd D), without resorting to fermion loops,  
+from the Dirac monopole construction and its generalization ("Dirac Branes") to higher dimensions.<ref>C. T. Hill,
+"Dirac Branes and Anomalies/Chern-Simons terms in any D,"
+arXiv:0907.1101 [hep-th]. For fermion loops see: "Lecture notes for massless spinor and massive spinor triangle diagrams," arXiv:hep-th/0601155 [hep-th].</ref>
+  
+Hill is an originator of cosmological models of [[dark energy]] and [[dark matter]] based upon ultra-low mass pseudo-Nambu-Goldstone bosons associated with 
+symmetries of neutrino masses. He proposed that the cosmological constant is
+connected to the neutrino mass, as <math>\Lambda\sim m_\nu^4 </math><ref>{{cite journal | year = 1995 | title = Cosmology with ultralight pseudo Nambu-Goldstone bosons | journal = Phys. Rev. Lett. | volume = 75 | issue = 11| pages = 2077–2080 | arxiv = astro-ph/9505060 | bibcode = 1995PhRvL..75.2077F | doi = 10.1103/PhysRevLett.75.2077 | pmid = 10059208 | last1 = Frieman | first1 = Joshua A. | last2 = Hill | first2 = Christopher T. | last3 = Stebbins | first3 = Albert | last4 = Waga | first4 = Ioav | s2cid = 11755173 }}</ref><ref>{{cite book| year = 1989 | chapter= Cosmological Structure Formation from Soft Topological Defects | chapter-url = http://inspirehep.net/record/264619/files/v19-n1-p25.pdf | title= Comments on Nucl. Part. Phys. | volume = 19 | issue = 1| pages = 25–39| last1= Hill | first1= Christopher T. | last2= Schramm | first2= David N. | last3= Fry | first3= James N. }}</ref> and developed modern theories of the origin of ultra-high-energy nucleons and neutrinos from grand unification relics.<ref>{{cite journal|last1=Hill|first1=Christopher T.|last2=Schramm|first2=David N.|title=Ultrahigh-energy cosmic-ray spectrum|journal=Physical Review D|date=1 February 1985|volume=31|issue=3|pages=564–580|doi=10.1103/PhysRevD.31.564|pmid=9955721|bibcode=1985PhRvD..31..564H}}</ref><ref>{{cite journal | year = 1987 | title = Ultrahigh-Energy Cosmic Rays from Superconducting Cosmic Strings | journal = Phys. Rev. D | volume = 36 | issue = 4| pages = 1007–1016 | doi=10.1103/physrevd.36.1007| pmid = 9958264 | bibcode = 1987PhRvD..36.1007H| last1 = Hill | first1 = Christopher T. | last2 = Schramm | first2 = David N. | last3 = Walker | first3 = Terry P. }}</ref><ref>{{cite journal | year = 1992 | title = "Grand unified theories," topological defects and ultrahigh-energy cosmic rays | journal = Phys. Rev. Lett. | volume = 69 | issue = 4| pages = 567–570 | bibcode = 1992PhRvL..69..567B | doi = 10.1103/PhysRevLett.69.567 | pmid = 10046974 | last1 = Bhattacharjee | first1 = Pijushpani | last2 = Hill | first2 = Christopher T. | last3 = Schramm | first3 = David N. | s2cid = 20633612 | hdl = 2060/19920009031 | hdl-access = free }}</ref><ref>{{cite journal| doi=10.1016/0550-3213(83)90386-3 | volume=224 | issue=3 | title=Monopolonium | year=1983 | journal=Nuclear Physics B | pages=469–490 | bibcode=1983NuPhB.224..469H | last1=Hill | first1=Christopher T. | osti=1155484 }}</ref> He has shown that a cosmic axion field will induce an effective oscillating electric dipole moment for any magnet.<ref>{{cite journal| doi=10.1103/PhysRevD.91.111702 | volume=224 | issue=3 | title= Axion Induced Oscillating Electric Dipole Moments| year=2015 | journal=Physical Review D | article-number=111702| bibcode= 2015PhRvD..91k1702H| last1=Hill | first1=Christopher T. | osti=1212736| arxiv=1504.01295 | s2cid=96444192 }}</ref><ref>{{cite journal| doi=10.1103/PhysRevD.93.025007 | volume=224 | issue=3 | title= Axion Induced Oscillating Electric Dipole Moment of the Electron| year=2016 | journal=Physical Review D | article-number=025007| bibcode= 2016PhRvD..93b5007H| last1=Hill | first1=Christopher T.| osti=1223242 | arxiv=1508.04083 | s2cid=119221466 }}</ref>
+
+In an unpublished talk at the Vancouver Workshop on Quantum Cosmology (May, 1990),
+Hill discussed possible roles for Nambu-Goldstone bosons in cosmology and suggested that a pseudo-Nambu-Goldstone boson might provide a "natural inflaton," the
+particle responsible for [[cosmic inflation]]. He noted that this required a spontaneously broken global symmetry, such as U(1), near the Planck scale, and explicit symmetry breaking near the Grand Unification Scale. However, recent 
+work on Weyl invariant theories offers a better rationale for a natural inflation scenario
+connected to Planck scale physics.  With [[Graham Ross (physicist)|Graham Ross]] and [[Pedro G. Ferreira]], Hill focused on spontaneously broken scale symmetry (or [[Weyl symmetry]]), where the scale of gravity ([[Planck mass]]) and the inflationary phase of the ultra-early universe are generated together as a unified phenomenon. This involves a novel symmetry breaking mechanism dubbed "inertial symmetry breaking."  The Weyl symmetry breaking occurs because the Noether current is the derivative of a scalar operator, called the "kernal."  The current red-shifts
+to zero, hence the kernal approaches a constant value
+which determines the Planck mass. The Einstein-Hilbert action of General Relativity is then emergent. The theory is in good agreement with cosmological observation.<ref>{{cite journal|last1=Ferreira|first1=Pedro G.|last2=Hill|first2=Christopher T.|last3=Ross|first3=Graham G.|s2cid=119269154|title=Weyl current, scale-invariant inflation, and Planck scale generation|journal=Physical Review D|date=8 February 2017|volume=95|issue=4|article-number=043507|doi=10.1103/PhysRevD.95.043507|bibcode=2017PhRvD..95d3507F|arxiv=1610.09243}}</ref><ref>{{cite journal|last1=Ferreira|first1=Pedro G.|last2=Hill|first2=Christopher T.|last3=Ross|first3=Graham G.|s2cid=119267087|title=Inertial Spontaneous Symmetry Breaking and Quantum Scale Invariance|journal=Physical Review D|volume=98|issue=11|article-number=116012|arxiv=1801.07676|year=2018|doi=10.1103/PhysRevD.98.116012|bibcode=2018PhRvD..98k6012F}}</ref><ref>{{cite journal|last1=Hill|first1=Christopher T.|last2=Ross|first2=Graham G.|s2cid=222067042|title=Gravitational Contact Terms and the Physical Equivalence of Weyl Transformations in Effective Field Theory|journal=Physical Review D|volume=102|issue=|article-number=125014|arxiv=2009.14782|year=2020|doi=10.1103/PhysRevD.102.125014|bibcode=}}</ref>
+
+==Academic Positions and Honors==
+
+* Distinguished Scientist at [[Fermilab]] (1979 - 2024);  
+* Head of the Fermilab Theoretical Physics Department (2005 - 2012); 
+* Visiting Scientist, CERN-TH, Geneva, Switzerland (1987-1988);
+* Fellow of the [[American Physical Society]] (elected, 1989);<ref>{{cite web|title=APS Fellow Archive|website=American Physical Society|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=1989&unit_id=&institution=Fermi+National+Accelerator+Laboratory}} (search on year=1989 and institution=Fermi National Accelerator Laboratory)</ref>  
+* Arthur H. Compton Lecturer, University of Chicago, Spring (1979);
+* Visiting Scholar, Oxford University (1980);
+* Professor of Physics (adjunct), University of Chicago, (1996–2000);
+* Gambrinus Fellow, University of Dortmund, (2005); 
+* van Winter Lecturer, University of Kentucky (2009); 
+* Visiting Professor, Institut de Fisica Corpuscular, Valencia, Spain (2019)
+* Honorary Fellow, University of Wisconsin, Madison (2024–present).
+
+==Books and Articles==
+
+Hill has authored three popular books with Nobel laureate [[Leon Lederman]]
+about physics and cosmology, and the commissioning of the [[Large Hadron Collider]].
+
+* ''Symmetry and the Beautiful Universe,'' Christopher T. Hill and [[Leon M. Lederman]], Prometheus Books (2005)[https://www.amazon.com/Symmetry-Beautiful-Universe-Leon-Lederman/dp/1591025753/ref=pd_sim_b_1]
+* ''Quantum Physics for Poets,'' Christopher T. Hill and [[Leon M. Lederman]], Prometheus Books (2010)[https://www.amazon.com/Quantum-Physics-Poets-Leon-Lederman/dp/1616142332/ref=sr_1_8?ie=UTF8&s=books&qid=1277121681&sr=1-8]
+* ''Beyond the God Particle,'' Christopher T. Hill and [[Leon M. Lederman]], Prometheus Books (2013)[https://www.amazon.com/Beyond-God-Particle-Leon-Lederman/dp/1616148012/ref=sr_1_1?s=books&ie=UTF8&qid=1380131387&sr=1-1&keywords=Beyond+the+God+Particle].
+* Google Scholar Profile of Christopher T. Hill [https://scholar.google.com/citations?user=B8j_2KAAAAAJ&hl=en&citsig=AMD79oqfDZV1aeezhidiy457uRp1jjqFjg].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://theory.fnal.gov/ Fermilab Theoretical Physics Department]
+* {{INSPIRE-HEP author}} 
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hill, Christopher T.}}
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:American particle physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:California Institute of Technology alumni]]
+[[Category:1951 births]]
+[[Category:MIT School of Science alumni]]
+[[Category:People associated with Fermilab]]
+[[Category:People associated with CERN]]

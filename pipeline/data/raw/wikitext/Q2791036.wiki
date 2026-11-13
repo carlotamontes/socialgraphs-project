@@ -1,0 +1,82 @@
+{{short description|Soviet and American physicist}}
+{{Infobox scientist
+| name             = Valerian Illarionovich Tatarskii
+| native_name      = Валериа́н Илларио́нович Тата́рский
+| image            = 
+| caption          = 
+| birth_date       = {{birth date|1929|2|6}}
+| birth_place      = [[Moscow]], [[Soviet Union]]
+| death_date       = {{death date and age|2020|10|3|1929|2|6}}
+| death_place      = 
+| citizenship      = Soviet, American
+| fields           = [[Wave propagation]] in random media, [[Atmospheric physics]], [[Atmospheric optics]]
+| education        = [[Lomonosov Moscow State University]]
+| doctoral_advisor = [[Alexander Obukhov]]
+| workplaces       = [[Russian Academy of Sciences]] (Institute of Atmospheric Physics) <br/> [[National Oceanic and Atmospheric Administration]] (Environmental Technology Laboratory)
+| known_for        = The theory of wave propagation in random media
+| awards           = [[USSR State Prize]] (1990)<br/> [[Max Born Award]] (1994)
+| footnotes        = 
+}}
+'''Valerian Illarionovich Tatarskii''' (Russian: Валериа́н Илларио́нович Тата́рский) was a Soviet and American physicist who worked on the theory of [[wave propagation]] in random media (WPRM). His theoretical work provided the statistical framework for understanding how turbulence in the atmosphere and ocean affects light, radio, and acoustic waves, used in fields such as [[adaptive optics]], [[remote sensing]], and free-space [[optical communications]].<ref name="Obituary"/>
+
+==Early life and career==
+Tatarskii was born on 6 February 1929 in [[Moscow]]. Following his graduation from [[Lomonosov Moscow State University]] in 1952,<ref name="OSA"/> he joined the [[Institute of Atmospheric Physics]] (IAP) of the [[USSR Academy of Sciences]] in Moscow. His early research on [[turbulence modeling]] was influenced by the work of Soviet scientists like [[Andrey Kolmogorov]] and [[Alexander Obukhov]] (who served as Tatarskii's doctoral advisor).<ref name="Obituary"/><ref name="MGP-Courant"/>
+
+He completed his [[Candidate of Sciences]] (a Ph.D. equivalent) thesis in 1957 and his [[Doctor of Sciences]] (a "higher doctorate") thesis in 1965. Both focused on the statistical theory of wave propagation in turbulent media.<ref name="Chase"/>
+
+==Scientific contributions==
+Tatarskii's contribution was the creation of a comprehensive, rigorous statistical theory explaining the effects of random, small-scale fluctuations (turbulence) in the atmosphere on propagating waves.
+
+===Monographs===
+* ''Wave Propagation in a Turbulent Medium''. New York: McGraw-Hill. (Original Russian edition published 1959; English edition 1961).
+* ''The Effects of the Turbulent Atmosphere on Wave Propagation''. Jerusalem: Israel Program for Scientific Translations. (Original Russian edition published 1967; English edition 1971).
+
+These books developed the mathematical tools required to characterize wave [[distortion]], including [[phase shift]] and intensity fluctuations ([[twinkling|scintillation]]).
+
+===Theoretical methods===
+Tatarskii worked on several theoretical methods for solving WPRM problems:
+* Method of Smooth Perturbations ([[Rytov approximation]]).<ref name="Farrell"/><ref name="Tatarskii1961"/>
+* He adapted the formal mathematical apparatus of [[Feynman diagram]]s from quantum field theory to solve the higher-order [[method of moments (electromagnetics)|moment equations]] for wave fields in strongly random media.<ref name="Farrell"/>
+* He introduced a Markov approximation to simplify the description of [[wave scattering]], enabling the treatment of strong intensity fluctuations.<ref name="Farrell"/>
+* Tatarskii applied [[Richard Feynman]]'s [[path integral formulation]] to the [[parabolic partial differential equation|parabolic wave equation]], offering an alternative approach to problems of strong turbulence.<ref name="Farrell"/>
+
+==Later career and recognition==
+In 1990, Tatarskii emigrated to the United States, where he joined the [[National Oceanic and Atmospheric Administration]] (NOAA) Environmental Technology Laboratory (ETL) in Boulder, Colorado. His work there focused on the application of statistical wave theory to [[remote sensing]] and [[atmospheric sounding]].<ref name="Obituary"/>
+
+He was a founding member and associate editor of the international journal ''[[Waves in Random Media]]''.<ref name="Obituary"/>
+
+===Honors and awards===
+* 1976: Corresponding Member of the [[USSR Academy of Sciences]]<ref name="PhysicsToday"/>
+* 1990: [[USSR State Prize]]<ref name="PhysicsToday"/>
+* 1991: [[Fellow of the Optical Society of America]] (OSA)<ref name="PhysicsToday"/>
+* 1994: [[Max Born Award]] from the OSA, cited for "pioneering and fundamental theoretical contributions to the statistical theory of wave propagation in the atmosphere."<ref name="OSA"/>
+* 1994: Foreign Associate of the [[National Academy of Engineering]] (NAE) of the USA<ref name="NAE_Page"/>
+
+==Selected publications==
+* Tatarskii, V. I., & Zavorotny, V. U. (1980). Strong Fluctuations in the Intensity of Waves Propagating in Random Media. ''Progress in Optics'', 18, 204–256.
+* Tatarskii, V. I., & Galkin, I. G. (1997). The Application of Path Integrals to Wave Propagation in Random Media. ''Waves in Random Media'', 7(1), 1–25.
+
+==Death==
+Valerian Tatarskii died on 3 October 2020, at the age of 91.<ref name="Obituary"/>
+
+==References==
+<references>
+
+<ref name="OSA">{{cite web |title=Valerian I. Tatarskii |website=Optica (formerly OSA) |url=https://www.optica.org/History/Biographies/bios/Valerian_I_Tatarskii |publisher=Optica |access-date=2025-12-07}}</ref>
+<ref name="NAE_Page">{{cite web |last=NAE |title=Professor Valerian I. Tatarskii |url=https://www.nae.edu/30055/Professor-Valerian-I-Tatarskii |website=National Academy of Engineering |access-date=2025-12-07 }}</ref>
+<ref name="Obituary">{{cite journal |last=Zavorotny |first=Valery |date=June 2021 |title=Remembering Prof. Valerian Tatarskii |journal=URSI Radio Science Bulletin |issue=2021 |pages=46–54 |doi=10.23919/URSIRSB.2021.9829347 |doi-access=free|url=https://www.ursi.org/content/RSB/RSB_377_2021_06.pdf|access-date=2025-12-08|quote=His work there focused on the application of statistical wave theory to remote sensing and atmospheric sounding.}}</ref>
+<ref name="Chase">{{cite web |last=Chase |first=Paul |date=April 19, 2020 |title=Valerian Ill'ich Tatarskii |url=https://www.optica.org/about/newsroom/obituaries/2020/valerian_ill_ich_tatarskii/ |publisher=Optica (The Optical Society) |accessdate=2025-12-08 |quote=Tatarskii completed his Ph. D. in 1957 and his thesis would be the basis for the book, ''Wave Propagation in a Turbulent Medium'' (1959). Following his Ph. D., Tatarskii would pursue a D.Sc. degree and publish, ''The Effect of the Turbulent Atmosphere on Wave Propagation'' in 1965, translated into English in 1971. Both of these seminal works focused on the statistical theory of wave propagation in turbulent media.}}</ref>
+<ref name="Tatarskii1961">{{Cite book |last=Valerian Ilich Tatarskii |url=http://archive.org/details/v-i-tatarskii.-wave-propagation-in-a-turbulent-medium |title=Wave propagation in a turbulent medium |date=1961|access-date=2025-12-08}}</ref>
+<ref name="Farrell">{{Cite web |last=Farrell |first=Dan |date=2021-11-22 |title=Valerian Tatarskii and Acoustic Wave Propagation in Random Media - Vladimir E. Ostashev, D. Keith Wilson, and John A. Colosi |url=https://acousticstoday.org/valerian-tatarskii-and-acoustic-wave-propagation-in-random-media-vladimir-e-ostashev-d-keith-wilson-and-john-a-colosi/ |access-date=2025-12-08 |website=Acoustics Today |language=en-US}}</ref>
+<ref name="MGP-Courant">{{cite web |title=Valerian Tatarskii |url=https://www.mathgenealogy.org/id.php?id=208769 |website=Mathematics Genealogy Project |publisher=North Dakota State University Department of Mathematics, in association with the American Mathematical Society |access-date=2025-12-07}}</ref>
+<ref name="PhysicsToday">{{Cite web |date=2020-05-21 |title=Valerian Tatarskii |url=https://physicstoday.aip.org/obituaries/valerian-tatarskii |access-date=2025-12-08 |website=PHYSICS TODAY |language=en|quote=Tatarskii was elected a corresponding member of the USSR/Russian Academy of Sciences in 1976 and was a recipient of the USSR State Prize (1990). In the US, he became a fellow of the Optical Society of America and a member of the National Academy of Engineering (1994), and he received the Max Born Award of the Optical Society of America (1994).}}</ref>
+
+</references>
+
+{{Authority control}}
+{{DEFAULTSORT:Tatarskii, Valerian}}
+[[Category:1929 births]]
+[[Category:2020 deaths]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Russian physicists]]
+[[Category:Soviet physicists]]

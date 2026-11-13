@@ -1,0 +1,42 @@
+{{short description|Austrian physicist}}
+{{Use dmy dates|date=May 2026}}
+'''Barbara Kraus''' (born 26 December 1975)<ref name=cv22>{{cite web |url=https://www.ph.nat.tum.de/fileadmin/w00bya/thphqaa/Documents_CVs/kraus_barbara_cv.pdf |title=Curriculum Vitae |work=tum.de |date=23 February 2022 |access-date=7 August 2025}}</ref> is an Austrian physicist specializing in [[quantum information]], [[quantum entanglement]], and [[quantum key distribution]]. She is a University Professor at the TUM School of Natural Sciences at the [[Technical University of Munich]].
+
+==Education and career==
+Kraus is originally from Innsbruck.{{r|lieben}} She studied mathematics and physics at the [[University of Innsbruck]], earning diplomas in mathematics and physics. She completed her PhD in physics under the supervision of [[Ignacio Cirac]] in 2003. After postdoctoral research at the [[Max Planck Institute of Quantum Optics]], the [[University of Geneva]], and the University of Innsbruck, she became an assistant professor in Innsbruck in 2010, and earned her [[habilitation]] there in 2012.{{r|cv19}} She became full professor in 2020.<ref name=cv22/> In 2023 she was appointed professor of Quantum Algorithms and Applications at the Technical University of Munich.<ref>{{cite web |url=https://www.professoren.tum.de/en/kraus-barbara |title=TUM Professors: Kraus Barbara |work=tum.de |access-date=25 July 2023}}</ref>
+
+==Research==
+Kraus is best known for her work in quantum information and especially in [[entanglement theory]]. Together with her coworkers she developed criteria to decide whether a quantum state is [[Separable state|separable]] or entangled and showed how to construct optimal [[entanglement witness]]es<ref>{{cite journal |title=Optimization of entanglement witnesses |first1=M. |last1=Lewenstein |first2=B. |last2=Kraus |first3=J. I. |last3=Cirac |first4=P. |last4=Horodecki |journal=Phys. Rev. A |volume=62 |article-number=052310 |date=2000 |issue=5 |doi=10.1103/PhysRevA.62.052310 |arxiv=quant-ph/0005014|bibcode=2000PhRvA..62e2310L |s2cid=119458600 }}</ref> and studied the creation of entanglement by unitary [[quantum gate]]s <ref>{{cite journal |title=Optimal creation of entanglement using a two-qubit gate |first1=B. |last1=Kraus |first2=J. I. |last2=Cirac |journal=Phys. Rev. A |volume=63 |article-number=062309  |date=2001 |issue=6 |doi=10.1103/PhysRevA.63.062309 |arxiv=quant-ph/0011050|bibcode=2001PhRvA..63f2309K |s2cid=35720838 }}</ref> and [[dissipation|dissipative]] processes.<ref>{{cite journal |title=Preparation of entangled states by quantum Markov processes |first1=B. |last1=Kraus |first2=H. P. |last2=Büchler |first3=S. |last3=Diehl |first4=A. |last4=Kantian |first5=A. |last5=Micheli |first6=P. |last6=Zoller |journal=Phys. Rev. A |volume=78 |article-number=042307 |date=2007 |issue=4 |doi=10.1103/PhysRevA.78.042307 |arxiv=0803.1463|s2cid=118376008 }}</ref> In 2010 she showed how to decide whether two [[pure state|pure quantum states]] of a many-particle system are equivalent to each other in terms of entanglement.<ref>{{cite journal |title=Local Unitary Equivalence of Multipartite Pure States |author=B. Kraus |journal=Phys. Rev. Lett. |volume=104 |article-number=020504 |date=2010 |issue=2 |doi=10.1103/PhysRevLett.104.020504 |pmid=20366579 |arxiv=0909.5152|bibcode=2010PhRvL.104b0504K |s2cid=29984499 }}</ref> More recently she introduced the notion of "maximally entangled sets" as a new concept generalizing [[maximally entangled state|maximally entangled ''states'']] to the case of considering entanglement between more than two systems ([[multipartite entanglement]]).<ref>{{cite journal  |title=Maximally Entangled Set of Multipartite Quantum States |first1=J. I. |last1=de Vicente |first2=C. |last2=Spee |first3=B. |last3=Kraus |journal=Phys. Rev. Lett. |volume=111 |article-number=110502 |date=2013 |issue=11 |doi=10.1103/PhysRevLett.111.110502 |pmid=24074062 |arxiv=1305.7398|bibcode=2013PhRvL.111k0502D |s2cid=24612228 }}</ref> In the field of [[quantum cryptography]], she studied the security of key-distribution protocols and the achievable secret-key rates. Among other results, she and her collaborators [[Renato Renner]] and [[Nicolas Gisin]] gave an influential information-theoretic security proof for the security of a quantum key distribution protocol.<ref>{{cite journal|last1=Renner|first1=Renato|author-link=Renato Renner|last2=Gisin|first2=Nicolas|last3=Kraus|first3=Barbara|date=2005|title=Information-theoretic security proof for quantum-key-distribution protocols|journal=Phys. Rev. A|volume=72|issue=1 |article-number=012332|arxiv=quant-ph/0502064|doi=10.1103/PhysRevA.72.012332|bibcode=2005PhRvA..72a2332R |s2cid=119052621 }}</ref>
+
+==Recognition==
+Kraus won a [[Start-Preis]] from the [[Austrian Science Fund]] in 2010.{{r|cv22}} She was the 2011 winner of the [[Ludwig Boltzmann Prize]] of the [[Austrian Physical Society]],{{r|boltzmann|boltzmann2}} and the 2013 winner of the [[Lieben Prize]] of the [[Austrian Academy of Sciences]] for her work on many-body entanglement.{{r|lieben}} She became a member of the Young Academy of the Austrian Academy of Sciences in 2014.{{r|oeaw}}
+
+==References==
+<references>
+
+<ref name=boltzmann>{{citation|title=Auszeichnung für Innsbrucker Quantenphysikerin|language=German|newspaper=Der Standard|url=https://www.derstandard.at/story/1304554464288/auszeichnung-fuer-innsbrucker-quantenphysikerin|date=15 June 2011}}</ref>
+
+<ref name=boltzmann2>{{citation|title=Preis für Innsbrucker Quantentheoretikerin|url=https://tirv1.orf.at/stories/521215|publisher=[[ORF (broadcaster)|ORF]]|date=15 June 2011|language=German}}</ref>
+
+<ref name=cv19>{{citation|url=https://www.uibk.ac.at/th-physik/staff/kraus/kraus_barbara.pdf|title=Curriculum vitae|access-date=5 January 2020|date=19 September 2019 |archive-url=https://web.archive.org/web/20211121062041/https://www.uibk.ac.at/th-physik/staff/kraus/kraus_barbara.pdf |archive-date=21 November 2021}}</ref>
+
+<ref name=lieben>{{citation|url=https://iqoqi.at/en/current/news/34-year-2013/339-barbara-kraus-receives-ignaz-l-lieben-prize|title=Barbara Kraus receives Ignaz L. Lieben Prize|date=2 December 2013|publisher=Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences|access-date=5 January 2020|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121062046/https://iqoqi.at/en/current/news/34-year-2013/339-barbara-kraus-receives-ignaz-l-lieben-prize}}</ref>
+
+<ref name=oeaw>{{citation|url=https://www.oeaw.ac.at/en/news-1/neues-direktorium-und-neue-delegierte-der-jungen-akademie-1 |title=Neues Direktorium und neue Delegierte der Jungen Akademie |date=24 June 2016|publisher=Austrian Academy of Sciences|language=de|access-date=7 August 2025}}</ref>
+
+</references>
+
+==External links==
+* {{Google scholar id}}
+* {{cite web |url=https://www.professoren.tum.de/en/kraus-barbara |title=TUM Professors: Kraus Barbara}} at the Technical University of Munich
+
+{{Authority control}}
+{{DEFAULTSORT:Kraus, Barbara}}
+[[Category:Quantum information scientists]]
+[[Category:21st-century Austrian physicists]]
+[[Category:21st-century Austrian women physicists]]
+[[Category:Academic staff of the Technical University of Munich]]
+[[Category:Academic staff of the University of Innsbruck]]
+[[Category:University of Innsbruck alumni]]
+[[Category:1975 births]]
+[[Category:Living people]]

@@ -1,0 +1,52 @@
+{{Short description|Russian mathematician and professor (1947–2021)}}
+{{COI|date=June 2016}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox scientist
+| name        = Vladimir P. Gerdt
+| birth_date  = {{Birth date|1947|1|21|df=y}}
+| birth_place = [[Engels, Saratov Oblast|Engels]], Russia
+| death_date  = {{death date and age|df=yes|2021|1|5|1947|1|21}}
+| death_place = [[Dubna]], [[Moscow Oblast]], Russia
+| field       = [[Mathematics]], [[Computer science]]
+| workplaces  = [[Joint Institute for Nuclear Research]]
+| education   = [[Joint Institute for Nuclear Research]]<br>[[Lomonosov Moscow State University]]<br>[[Saratov State University]]
+}}
+
+'''Vladimir P. Gerdt''' (21 January 1947 – January 5, 2021) was a Russian mathematician and a full professor at the [[Joint Institute for Nuclear Research]] (JINR) where he was the head of the Group of Algebraic and Quantum Computations. His research interests were concentrated in [[computer algebra]], symbolic and algebraic computations, algebraic and numerical analysis of nonlinear [[differential equations]], [[polynomial equations]], applications to mathematics and physics, and [[quantum computation]] with over 210 published articles.<ref>{{cite web|url=http://compalg.jinr.ru/CAGroup/Gerdt/GerdtCV.html#Publ|title=Vladimir Gerdt. Curriculum Vitae}}</ref>
+
+== Biography ==
+Gerdt, who was born in [[Engels, Saratov Oblast|Engels]], earned his [[MSc]] in theoretical physics from [[Saratov State University]] in 1971, his [[PhD]] in theoretical and mathematical physics from JINR in 1976, and his [[D.Sc.]] in mathematics and computer science from JINR in 1992. He also did graduate studies in theoretical physics at the [[Lomonosov Moscow State University]] (1969-1971). After his MSc he worked as an engineer-programmer (1971-1975) and as a junior researcher (1975-1977) at the JINR Department of Radiation Safety developing software for [[neutron spectroscopy]]. In 1977 he moved to the JINR Laboratory of Computing Techniques and Automation renamed in 2000 as Laboratory of Information Technologies for doing research in computer algebra. He worked as a researcher (1977-1980) and as a senior researcher (1980-1983), and since 1983 as the head of the research group on computer algebra, currently the Group of Algebraic and Quantum Computations.
+
+Gerdt designed a number of original algorithms and software packages<ref>{{cite web|url=http://wwwb.math.rwth-aachen.de/~daniel/Recurrence.pdf|title=A Maple Package for Computing Gröbner Bases for Linear Recurrence Relations}}</ref> for the investigation of differential equations as well as for the transformation of polynomial and differential systems into the canonical [[Involution (mathematics)|involutive form]] that alleviates their analysis and the construction of their solutions.<ref>{{cite arXiv|eprint=1108.0817|title=Algorithmic Thomas Decomposition of Algebraic and Differential Systems|last1=Bächler|first1=Thomas|last2=Gerdt|first2=Vladimir|last3=Lange-Hegermann|first3=Markus|last4=Robertz|first4=Daniel|class=math.AC|year=2011}}</ref> In the case of polynomial, differential, and difference systems their involutive form is a [[Gröbner basis]].
+
+He was a member of the editorial board of the [[Journal of Symbolic Computation]],<ref>{{cite web|url=http://www.journals.elsevier.com/journal-of-symbolic-computation/editorial-board|title=Journal of Symbolic Computation Editorial Board}}</ref> the leading international journal specialized in the area of symbolic and algebraic computation, since its foundation in 1985. In 1997 he co-founded the annual international conference Computer Algebra in Scientific Computing with [[Ernst Mayr (computer scientist)|Ernst W. Mayr]] and since that time was a general chair of this conference.
+<ref>{{cite web|url=http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car31.pdf|title=Fachgruppe Computeralgebra}}</ref><ref>{{cite book|url=https://www.springer.com/in/book/9783319240206|title=Computer Algebra in Scientific Computing – 17th – Vladimir P. Gerdt – Springer}}</ref>
+
+Gerdt was married to Evgenia Almazova and had two sons, Anton and Peter.<ref>{{cite web|url=http://compalg.jinr.ru/CAGroup/index_Gerdt.html|title=Vladimir Gerdt|access-date=14 June 2016|archive-date=13 November 2021|archive-url=https://web.archive.org/web/20211113062533/http://compalg.jinr.ru/CAGroup/index_Gerdt.html|url-status=dead}}</ref>
+
+Gerdt died in 2020 of COVID-19.<ref>{{cite journal |last1=Wang |first1=Dongming |title=SMS Nanning and RWTH Aachen: In Memory of Vladimir Gerdt |journal=Mathematics in Computer Science |date=9 November 2022 |volume=16 |issue=4 |article-number=25 |doi=10.1007/s11786-022-00543-6 |pmc=9643914 }}</ref>
+
+==Selected works==
+*{{cite journal | last1 = Gerdt | first1 = Vladimir P. | last2 = Blinkov | first2 = Yuri A. | year = 1998 | title = Involutive bases of polynomial ideals | journal = Mathematics and Computers in Simulation | volume = 45 | issue = 5| pages = 519–541 | doi=10.1016/s0378-4754(97)00127-4| arxiv = math/9912027 | s2cid = 10243294 }}
+*Gerdt, Vladimir P. Involutive algorithms for computing Gröbner bases. Computational Commutative and Non-Commutative Algebraic Geometry, Amsterdam, IOS Press, 2005.
+*Gerdt, Vladimir P., Yuri A. Blinkov, and Denis A. Yanovich. "Construction of Janet Bases I. Monomial Bases." Computer Algebra in Scientific Computing CASC 2001. Springer Berlin Heidelberg, 2001. 233–247.
+*Gerdt, Vladimir P., Aleksey Y.Zharkov. "Solution of Chew-Low Equations in the Quadratic Approximation", Sov. Theor. Math. Phys. (Teor. Mat. Fiz., 52, 3, 1982, 384–392), 52, 3, 1983, 868–874.
+*Gerdt, Vladimir P., Aleksey Y.Zharkov. "A REDUCE Package for Solving of Ordinary Differential Equations", Proceedings of the Second International Conference on Systems and Techniques of Analytical Computing and Their Applications in Theoretical Physics (Dubna, 21–23 September 1982), JINR D11-83-511, Dubna, 1983, 171–177. 
+*Gerdt, Vladimir P., Aleksey Y.Zharkov. "Iterative Method of Construction of General Solution of the Chew-Low Equation", Proceedings of the Second International Conference on Systems and Techniques of Analytical Computing and Their Applications in Theoretical Physics (Dubna, September 21–23, 1982), JINR D11-83-511, Dubna, 1983, 232–241. 
+*Gerdt, Vladimir P., Aleksey Y.Zharkov."Cubic Approximation and Local Limitations on the Functional Arbitrariness in the General Solution of the Chew-Low Equations", Sov. Theor. Math. Phys. (Teor. Mat. Fiz., 55, 3, 1983, 469–474), 52, 3, 1983, 626–639.
+*Gerdt, Vladimir P., Aleksey Y.Zharkov. "Methods of Investigating and Solving Differential Equations by Means of Algebraic Computation", In: "Systems for Analytical Transformations in Mechanics", Gorky, 1984, 16–19.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gerdt, Vladimir}}
+[[Category:1947 births]]
+[[Category:2021 deaths]]
+[[Category:Russian mathematicians]]
+[[Category:Russian people of German descent]]
+[[Category:Sportspeople from Engels, Saratov Oblast]]
+[[Category:Moscow State University alumni]]
+[[Category:Saratov State University alumni]]
+[[Category:Deaths from the COVID-19 pandemic in Russia]]

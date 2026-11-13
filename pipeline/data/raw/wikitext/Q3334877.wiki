@@ -1,0 +1,413 @@
+{{short description|Computer scientist}}
+{{COI|date=December 2021}}
+{{Use mdy dates|date=December 2021}}
+{{Infobox scientist
+| name              = Nadia Magnenat Thalmann
+| image             = Nadia Magnenat Thalmann.jpg
+| alt               = 
+| caption           = Thalmann in 2009
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| residence         = 
+| ethnicity         = 
+| fields            = Computer Graphics <br /> Virtual Humans <br /> Social Humanoid Robotics
+| education         = [[University of Geneva]]<br />[[École Polytechnique Fédérale de Lausanne]] (EPFL)
+| workplaces        = [[Université Laval]]<br />[[HEC Montréal|HEC, University of Montréal]]<br />[[University of Geneva]]<br />[[Nanyang Technological University|Nanyang Technological University (NTU)]]
+| awards            = Humboldt Research Award<br />The Canadian Human Computer Communications Society Award
+}}
+
+'''Nadia Magnenat Thalmann''' is a [[computer graphics]] scientist and roboticist and is the founder and head of MIRALab at the [[University of Geneva]]. She has chaired the Institute for Media Innovation at [[Nanyang Technological University]] (NTU), [[Singapore]] from 2009 to 2021.
+
+==Biography==
+
+Thalmann received an MS in psychology, an MS in biology and a Master in biochemistry at the University of Geneva. She obtained a PhD in Quantum Physics in 1977 from the same university. She started her career as an [[assistant professor]] at the University Laval in Canada, then became a professor at HEC, University of Montreal until 1988. In 1989, she moved to the University of Geneva where she founded the MIRALab laboratory.<ref>{{Cite web |title=About MIRALab |url=https://miralab.ch/about-miralab/ |access-date=2026-10-13 |language=en-US}}</ref>
+
+Thalmann has authored and co-authored more than 600 papers in the area of Virtual Humans, social robots, VR, and 3D simulation of human articulations.{{Citation needed|date=December 2021}} She has participated in more than 45 European research projects.<ref>[http://www.miralab.ch/index.php/completed-projects/ European Research Projects]</ref> She has served the Computer Graphics community by creating the [[Computer Animation and Social Agents]] (CASA) in Geneva in 1988, as well as managing [[Computer Graphics International]] (CGI).{{Citation needed|date=December 2021}} She is the editor-in-chief of the journal ''The Visual Computer'' published by Springer, Germany<ref>{{Cite web|title=The Visual Computer|url=https://www.springer.com/journal/371/editors|access-date=2021-12-15|website=Springer|language=en}}</ref> and co editor-in-chief of the ''Computer Animation Journal'' published by Wiley.<ref>{{Cite web|title=Computer Animation & Virtual Worlds|url=https://www.wiley.com/en-sg/Computer+Animation+%26+Virtual+Worlds-p-9780JNRL33011|access-date=2021-12-15|website=Wiley.com|language=en-sg}}</ref>
+
+==Research==
+Thalmann has made numerous research contributions in the general area of computer graphics and is best known for her work on simulating realistic virtual humans. She also made early contributions in computer graphics during her PhD by simulating and visualizing 3D electronic densities of the [[Schrödinger equation]]'s approximate solutions (1977).<ref>N. Magnenat Thalmann, [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zSucrdMAAAAJ&cstart=600&pagesize=100&citation_for_view=zSucrdMAAAAJ:RZBefGmQYygC A New Computer Program for Generating Three-Dimensional Plots of Electronic Densities and Related Contour Levels], Chimia, Swiss Chemical Society, vol. 31, no. 9, pp.361-362, 1977</ref><ref>N. Magnenat Thalmann and J. Weber, [http://www.sciencedirect.com/science/article/pii/0009261477850239 LCAO Xα calculation of the ionization energies of small molecules], Chemical Physics Letters, Elsevier, vol. 47, no. 3, 1977</ref>
+
+Later on, she pioneered the modelling of realistic Virtual Humans, particularly producing the first simulation of a 3D version of [[Marilyn Monroe]]<ref>{{Cite news|last=Dabby|first=Victor|date=1987-06-16|title=And computer creates Marilyn|page=C6|work=The Ottawa Citizen}}</ref><ref>{{Cite news|date=1987-05-21|title=Marilyn, Bogie star one more time|work=The Gazette|location=Montreal}}</ref><ref>Culture et Société, Montreal, May 21, 1987{{Full citation needed|date=December 2021}}</ref><ref>{{Cite news|last=Talbot|first=Paul-Henri|date=1987-05-23|title=Pour toute la famille|work=La Presse|location=Montreal}}</ref><ref>{{Cite news|date=1987-09-24|title=Elle met Marilyn sur ordinateur!|page=10|work=La Suisse|location=Geneva}}</ref><ref>{{Cite news|last=Sherman|first=David|date=1987-06-01|title=Film stars of the computer screen|work=Playback}}</ref> in the film [[Rendez-vous in Montreal]] (1987)<ref>[https://www.dropbox.com/s/ddau9elmjlo4h9v/28%20Os%20trukes%20da%20vangarda.pdf?dl=0 Os truques da vanguarda, Wednesday, November 25, 1987]</ref><ref>[https://www.dropbox.com/s/fugbw53tmstoisy/29%20Het%20Vrije%20Volk.pdf?dl=0 Het Vrije Volk, Saturday, June 27, 1987]</ref><ref>[https://www.dropbox.com/s/6ab4cnj30oi1mfh/31%20Eurographics.pdf?dl=0 Eurographics, Holland, November, 1987]</ref>
+
+This film was shown in world premiere at the Place des Arts in Montreal to celebrate 100 years of engineering in Canada.<ref>[https://www.dropbox.com/s/w1ir38ml6bjvfrl/23%20Forum%20Premiere%20Mondiale.pdf?dl=0 World Premiere at the Place des Arts]</ref> She also showed her film at the Modern Art Museum in New York in 1988 along with Canadian computer artists.<ref>{{Cite news|last=van der Plas|first=Wim|date=1987|title=Animatie in Canada serieuze onderneming|language=nl|page=27|work=CADCAM}}</ref>
+
+She made several original contributions in MRI segmentation methods correlated with clinical findings.<ref name="MRIsegmentation2010">J. Schmid, J. Kim and N. Magnenat Thalmann, [https://link.springer.com/article/10.1007%2Fs11548-010-0474-z?LI=true Extreme Leg Motion Analysis of Professional Ballet Dancers via MRI Segmentation of Multiple Leg Postures], International Journal of Computer Assisted Radiology and Surgery (IF: 1.659), Springer, vol. 6, no.1, pp.45-57, May 2010</ref><ref>B. Gilles and N. Magnenat Thalmann, [http://www.sciencedirect.com/science/article/pii/S1361841510000150 Musculoskeletal MRI Segmentation Using Multi-resolution Simplex Meshes with Medial Representations], Medical Image Analysis (IF: 3.681), Elsevier, vol.14, pp.291-302, June 2010</ref><ref>B. Gilles, F. Kolo-Christophe, N. Magnenat Thalmann, C. Becker, S. Duc, J. Menetrey and P. Hoffmeyer, [http://www.sciencedirect.com/science/article/pii/S0021929009001560 MRI-based Assessment of Hip Joint Translations], Journal of Biomechanics (IF: 2.496), vol. 42, no.9, pp.1201-1205, June 19, 2009</ref> She also modelled the simulation of Virtual Ballerinas where their hip cartilage deformations can be visualized while dancing.<ref>{{cite journal | url=http://journals.sagepub.com/doi/abs/10.1177/0363546510386002 | doi=10.1177/0363546510386002 | title=Assessment of Congruence and Impingement of the Hip Joint in Professional Ballet Dancers | year=2011 | last1=Charbonnier | first1=Caecilia | last2=Kolo | first2=Frank C. | last3=Duthon | first3=Victoria B. | last4=Magnenat-Thalmann | first4=Nadia | last5=Becker | first5=Christoph D. | last6=Hoffmeyer | first6=Pierre | last7=Menetrey | first7=Jacques | journal=The American Journal of Sports Medicine | volume=39 | issue=3 | pages=557–566 | pmid=21160017 | s2cid=46725738 | url-access=subscription }}</ref><ref name="MRIsegmentation2010" /> She further demonstrates see-through knee articulations of real soccer players.<ref>A. Chincisan, K. Tecante, M. Becker, N. Magnenat Thalmann, C. Hurschler, H.F. Choi, [https://www.ncbi.nlm.nih.gov/pubmed/26137896 A computational approach to calculate personalized pennation angle based on MRI: effect on motion analysis], Journal of Computer Assisted Radiology and Surgery (IF: 1.66), DOI: 10.1007/s11548-015-1251-9, July 2015</ref> Since 2008, she has started at MIRALab, University of Geneva, a research with the humanoid robot EVA and demonstrated a first model of a realistic robot showing emotions and having a memory model.<ref>{{cite journal | url=https://link.springer.com/article/10.1007/s00371-011-0630-7 | doi=10.1007/s00371-011-0630-7 | title=Building long-term relationships with virtual and robotic characters: The role of remembering | year=2012 | last1=Kasap | first1=Zerrin | last2=Magnenat-Thalmann | first2=Nadia | journal=The Visual Computer | volume=28 | pages=87–97 | s2cid=17756628 }}</ref> She has worked on the social autonomous robot [[Nadine Social Robot|Nadine]],<ref>[http://imi.ntu.edu.sg/IMIResearch/ResearchAreas/Pages/NadineSocialRobot.aspx Nadine]</ref><ref>[https://imi.ntu.edu.sg/NewsEvents/News/Press_Releases/Pages/2018.aspx Media coverage on Nadine]</ref> modeled in her image, that is able to speak, recognize people and gestures, express mood and emotions, and remember actions.<ref>J. Zhang J, N. Magnenat Thalmann and J. Zheng, [https://dl.acm.org/citation.cfm?id=2915926.2915952 Combining Memory and Emotion With Dialog on Social Companion: A Review], Proceedings of the ACM 29th International Conference on Computer Animation and Social Agents (CASA 2016), pp. 1-9, Geneva, Switzerland, May 23–25, 2016</ref> Nadine has been shown at the [[ArtScience Museum]], in the exhibition HUMAN+: The Future of our Species, in Singapore, which has attracted more than 100 000 visitors.<ref>[https://www.marinabaysands.com/museum/exhibition-archive/human-plus/life-edges.html Nadine at the Singapore ArtScience Museum]</ref><ref>[https://imi.ntu.edu.sg/IMIResearch/ResearchAreas/Documents/Google/64_Channel_NewsAsia_190517_Singapore%E2%80%99s%20receptionist%20robot%20makes%20her%20public%20debut%20at%20ArtScience%20Museum%E2%80%99s%20futuristic%20show.pdf Media coverage on Nadine exhibition]</ref>
+
+== Honors and awards ==
+
+=== Honorary degrees ===
+* In 2009, she was awarded a Doctor Honoris Causa in Natural sciences from [[Leibniz University Hannover]] (2009).<ref>{{Cite web|title=Ehrendoktoren der Fakultäten|url=https://www.uni-hannover.de/de/universitaet/profil/ehrungen/von-der-leibniz-universitaet-verliehene-auszeichnungen/ehrendoktoren/|access-date=2021-12-15|website=Leibniz Universität Hannover|language=de}}</ref>{{Failed verification|date=December 2021|reason=Source doesn't mention the year}}
+* In 2010, Thalmann was awarded an honorary doctorate from the University of Ottawa.<ref>{{Cite web |url=https://www.uottawa.ca/president/people/magnenat-thalmann-nadia |title=Honorary Doctorate of the University of Ottawa |access-date=August 17, 2017 |archive-date=August 2, 2017 |archive-url=https://web.archive.org/web/20170802124715/http://www.uottawa.ca/president/people/magnenat-thalmann-nadia |url-status=dead }}</ref>
+
+=== Awards ===
+*  In July 1987, Thalmann was named "Woman of the Year" by [[École des hautes études commerciales de Montréal]] for early original contribution in computer graphics in Montreal (1987).<ref>{{Cite journal|date=1987|title=Femme de l'année, catégorie scientifique|journal=HÉCHANGES - Journal de l'École des hautes études commerciales de Montréal|volume=3|issue=6}}</ref><ref>{{Cite journal|date=1987|title=Un film québécois entièrement réalisé par ordinateur|journal=Journal des Ingénieurs|location=Québec}}</ref>
+*In 2007, her film "High Fashion in Equations" has won the CGI 2007 Best International Scientific Video award and was shown at the SIGGRAPH Electronic Theatre.<ref>[http://www.scas.acad.bg/cs2007/index.php?lang=2&section=131&id=2 CGI 2007 Best International Scientific Video award]</ref><ref>[http://www.pauldebevec.com/CAF2007/ SIGGRAPH Electronic Theatre 2007]</ref> 
+* In 2012, she has been a co-recipient of the Career Achievement Award by the Canadian Human Computer Communications Society in Toronto.<ref>{{Cite web|title=Nadia Magnenat Thalmann|url=https://graphicsinterface.org/awards/chccs-scdhm-achievement/nadia-magnenat-thalmann/|access-date=2021-12-15|website=Graphics Interface|language=en-CA}}</ref>
+* In 2012, she received the prestigious [[Humboldt Research Award]] in Germany.<ref>{{Cite web|last=Kaune|first=Juliane|date=2014-02-05|title=Die Vision vom durchsichtigen Menschen|url=https://www.haz.de/Hannover/Aus-der-Stadt/Uebersicht/Die-Vision-vom-durchsichtigen-Menschen|access-date=2021-12-15|website=HAZ – Hannoversche Allgemeine|language=de}}</ref><ref>{{Cite news|date=2012-06-05|title=DER TAG|language=de|pages=22|work=Die Tageszeitung: taz|url=https://taz.de/!587607/|access-date=2021-12-15|issn=0931-9085}}</ref>
+*Thalmann selected as a Pioneer in Information Technology at the Heinz Nixdorf Computer Museum's Electronic Wall of Fame in Germany.<ref>{{Cite web|title=HNF - Pioniere der digitalen Welt|url=https://www.hnf.de/dauerausstellung/ausstellungsbereiche/wall-of-fame-pioniere-der-digitalen-welt/pioniere-der-digitalen-welt.html|access-date=2021-12-15|website=www.hnf.de|language=de}}</ref>
+
+== Bibliography == 
+* {{Cite journal|last1=Magnenat-Thalmann|first1=Nadia|last2=Thalmann|first2=Daniel|date=1987|title=The Direction of Synthetic Actors in the Film Rendez-Vous a Montreal|journal=IEEE Computer Graphics and Applications|volume=7|issue=12|pages=9–19|doi=10.1109/MCG.1987.276934|s2cid=12591680 |issn=1558-1756}}
+* {{Cite journal|last1=Magnenat-Thalmann|first1=N.|last2=Primeau|first2=E.|last3=Thalmann|first3=D.|date=1988-03-01|title=Abstract muscle action procedures for human face animation|url=https://doi.org/10.1007/BF01914864|journal=The Visual Computer|language=en|volume=3|issue=5|pages=290–297|doi=10.1007/BF01914864|s2cid=15791501 |issn=1432-2315|url-access=subscription}}
+* {{Cite journal|last1=Magnenat-Thalmann|first1=N.|last2=Laperrière|first2=R.|last3=Thalmann|first3=D.|date=1989-12-01|title=Joint-dependent local deformations for hand animation and object grasping|url=https://dl.acm.org/doi/10.5555/102313.102317|journal=Proceedings on Graphics Interface '88|location=CAN|publisher=Canadian Information Processing Society|pages=26–33}}
+* {{Cite journal|last1=Kalra|first1=Prem|last2=Mangili|first2=Angelo|last3=Thalmann|first3=Nadia Magnenat|last4=Thalmann|first4=Daniel|date=1992|title=Simulation of Facial Muscle Actions Based on Rational Free Form Deformations|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8659.1130059|journal=Computer Graphics Forum|language=en|volume=11|issue=3|pages=59–69|doi=10.1111/1467-8659.1130059|s2cid=8727599 |issn=1467-8659|url-access=subscription}}
+* {{Cite book|last1=Seo|first1=Hyewon|last2=Thalmann|first2=N.M.|title=Proceedings IEEE Virtual Reality 2000 (Cat. No.00CB37048) |chapter=LoD management on animating face models |date=2000|pages=161–168|doi=10.1109/VR.2000.840494|isbn=0-7695-0478-7 |s2cid=1426606 }}
+* {{Cite book|last1=Carignan|first1=Michel|last2=Yang|first2=Ying|last3=Thalmann|first3=Nadia Magnenat|last4=Thalmann|first4=Daniel|title=Proceedings of the 19th annual conference on Computer graphics and interactive techniques |chapter=Dressing animated synthetic actors with complex deformable clothes |date=1992-07-01|series=SIGGRAPH '92|location=New York, NY, USA|publisher=Association for Computing Machinery|pages=99–104|doi=10.1145/133994.134017|isbn=978-0-89791-479-6|s2cid=7379736 |doi-access=free}}
+* {{Cite book|last1=Volino|first1=Pascal|last2=Courchesne|first2=Martin|last3=Magnenat Thalmann|first3=Nadia|title=Proceedings of the 22nd annual conference on Computer graphics and interactive techniques - SIGGRAPH '95 |chapter=Versatile and efficient techniques for simulating cloth and other deformable objects |date=1995|language=en|location=Not Known|publisher=ACM Press|pages=137–144|doi=10.1145/218380.218432|isbn=978-0-89791-701-8|s2cid=379810 |doi-access=free}}
+
+== Filmography ==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+|-  style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Description
+|-
+| 1982
+| Vol de Rêve (Dream Flight) 
+| 3D Computer-generated film, produced with the MIRA Animation system, 13 min., 16mm color, directed by Philippe Bergeron, Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1985
+| Nirvana
+| 3D Computer-generated film, produced with the MIRANIM system, 4 min., 16mm color, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1987
+| Eglantine
+| 3D Computer-generated film, produced with the HUMAN FACTORY system, 3 min., 35mm color, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1987
+| Rendez-vous à Montreal
+| 3D Computer-generated film, produced with the HUMAN FACTORY system, 6 min., 35mm color, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1987
+| Rendez Vous à Montreal - Making of
+| Documentary on the making of the 3D Computer-generated film Rendez Vous à Montreal, 14 min 48sec, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1988
+| Galaxy Sweetheart
+| 3D Computer-generated film, produced with the HUMAN FACTORY system, 6 min., 35mm color, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1988
+| Les îles ont une âme
+| 3D Computer-generated film, produced with the HUMAN FACTORY system, 2 min., 35mm color, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1990
+| Iad
+| 3D Computer-generated film, in ray tracing, with hand animation, 3 min., 1 inch video, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1990
+| Flashback
+| 3D Computer-generated film, in ray tracing, with cloth animation, 50 sec., 1 inch video, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1991
+| Still Walking
+| 3D Computer-generated film, in ray tracing, with walking model, 1 min., 1 inch video, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1992
+| Fashion Show
+| 3D Computer-generated film, in ray tracing, with cloth animation, 1 min., 1 inch video, directed by Nadia Magnenat Thalmann.
+|-
+| 1993
+| Marilyn singing
+| 3D Computer Animation film festival, opening sequence,  1 inch video,  directed by Nadia Magnenat Thalmann.
+|-
+| 1994
+| Broken dreams
+| 3D Computer-generated film, inspired from the painting made by Hopper, 1 min, directed by Nadia Magnenat Thalmann.
+|-
+| 1995
+| Teleshopping
+| Real-time performance between Singapore and Geneva (Virtual Shopping) at Telecom`95, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1995
+| Mariln by Geneva lake
+| First film to mix virtual people with real ones on a real setting, directed by Nadia Magnenat Thalmann.
+|-
+| 1996
+| Virtual Marilyn receives the Golden Camera Award
+| 2 min, 1 inch video, Berlin, Germany. Program retransmitted on ZDF, Germany, and Marilyn sequence, directed by Nadia Magnenat Thalmann.
+|-
+| 1997
+| Xian Terracotta Army
+| 3D simulation of the Xian Terracotta soldiers, 1 min 27 sec, directed by Nadia Magnenat Thalmann.
+|-
+| 1997
+| Anyone for Tennis
+| Interactive Telecom 97, real time demo between Lausanne and Geneva, 2 min, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 1997
+| Marilyn at the United Nations
+| Mixed Reality film, 41 sec, directed by Nadia Magnenat Thalmann.
+|-
+| 1997
+| Cyberdance
+| Mixed reality show presented at Kursaal, Bern, Switzerland, at the official ceremony of the new members of the Swiss Technical Sciences Academy, directed by Nadia Magnenat Thalmann.
+|-
+| 1998
+| Kathy
+| 3D Fashion Show, 1 min., directed by Nadia Magnenat Thalmann.
+|-
+| 1998
+| Fashion Dreams
+| 3 min 33 sec., Mixed-reality live show, Invited presentation at the "Forum de l'hôtellerie Suisse", in Montreux, Switzerland directed by Nadia Magnenat Thalmann.
+|-
+| 1998
+| Orbit
+| Exhibition of the Marilyn's recreation in 3D in the University of Geneva. This was an interactive project among the Professors from the Research Center. Directed by Nadia Magnenat Thalmann.
+|-
+| 1999
+| Cyborg Frictions
+| Presentation of “Virtual Self”, Mixed-reality live show, at Kulturhalle Dampfzentrale, Bern, Switzerland, directed by Nadia Magnenat Thalmann.
+|-
+| 1999
+| Charleston Party
+| 3 min 22 sec., Mixed-reality performance, “Hannover Region Stand” in Cebit, Hannover, Germany, directed by Nadia Magnenat Thalmann.
+|-
+| 2000
+| Dancing over the Internet
+| EU exhibition and conference (IST days conference), real-time performance between Nice, France, and Geneva, Switzerland, directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 2000
+| S.S. Segius and Bacchus Reconstruction 1
+| Simulation of the Segius and Bacchus mosque in Istanbul. Directed by Nadia Magnenat Thalmann.
+|-
+| 2001
+| The Utopians
+| 2 min 40 sec., Virtual Reality live show, Casino Hilton Geneva, directed by Nadia Magnenat Thalmann.
+|-
+| 2001
+| CAHRISMA
+| 3D modelling of Hagia Sophia Mosque in Istanbul. Directed by Nadia Magnenat Thalmann.
+|-
+| 2001
+| Expressive Speech Animation
+| Principal components of facial animation for showing emotional speech, with different type of expressions: sad, happy and surprised. Directed by Nadia Magnenat Thalmann.
+|-
+| 2001
+| Interactive Hairstyler
+| 3D Recreation of hair movements with a fluid flow. Directed by Nadia Magnenat Thalmann.
+|-
+| 2001
+| UNILEVER - Walking Models
+| Last results of the studying of movements, materials and textures on a dress: different essays and perspectives. Directed by Nadia Magnenat Thalmann.
+|-
+| 2002
+| Virtual Life in Pompeii
+| 2 min 37sec, presented at the Intercontinental Hotel in Geneva, Switzerland, directed by Nadia Magnenat Thalmann.
+|-
+| 2002
+| Best Of MIRALab from 1982 to 2002
+| A video show casing the best productions of MIRALab including some interviews and explanations of our work, directed by Nadia Magnenat Thalmann.
+|-
+| 2003
+| HES Sierre Show
+| MIRALab's projects. Directed by Nadia Magnenat Thalmann.
+|-
+| 2003
+| Making of “Dream of a Model
+| 7 min., 3D fashion simulation in mixed reality, Musée d’art et d’histoire, Geneva, Switzerland, directed by Nadia Magnenat Thalmann.
+|-
+| 2003
+| The Ballet Dancer
+| A Virtual rehearsal of a dancer, directed by Nadia Magnenat Thalmann.
+|-
+| 2004
+| Making Of Life Plus
+| Innovative revival of life in ancient frescos and creation of immersive narrative spaces featuring real scenes with behavioural virtual fauna and flora. Directed by Nadia Magnenat Thalmann and Daniel Thalmann.
+|-
+| 2004
+| Virtual Fashion Show
+| 9 min. 26 sec, live Virtual Fashion show at Athénée 13, Geneva, Switzerland, directed by Nadia Magnenat Thalmann.
+|-
+| 2004
+| PDA Pocket PC
+| Demonstration of Facial Animation for Pocket computer. Directed by Nadia Magnenat Thalmann.
+|-
+| 2004
+| ERATO
+| Creation of a virtual restoration and revival of cultural heritage: The Aspendos theatre. Directed by Nadia Magnenat Thalmann.
+|-
+| 2004
+| Modee Virtual Collection
+| Modee Spring-Summer Collection 2005 from MIRALab: animation video with recreation of a runway. Directed by Nadia Magnenat Thalmann.
+|-
+| 2005
+| High Fashion in Equations
+| 4 min 22 sec, Exhibition at the Musée de la Mode, Yverdon, Switzerland, and presented at SIGGRAPH electronic theatre 2007. Directed by Nadia Magnenat Thalmann.
+|-
+| 2005
+| Reconstruction of bones and muscles
+| 3D reconstruction of bones and muscles is a priority in order to help the medical research. Directed by Nadia Magnenat Thalmann.
+|-
+| 2006
+| Xian Real Time
+| Xian virtual animation about life and human interaction in ancient times. A MIRALab project in the modeling of cultural heritage in 3D. Directed by Nadia Magnenat Thalmann.
+|-
+| 2006
+| Hair Dance
+| Recreation of a dancer's movements: hair simulation, cloths design and virtual reality. Directed by Nadia Magnenat Thalmann.
+|-
+| 2007
+| Virtual Hagia Sophia Reconstruction
+| 3D simulation of the interior of Hagia Sophia Mosque in Istanbul. Directed by Nadia Magnenat Thalmann.
+|-
+| 2007
+| HAPTEX cloth simulation
+| Video showing the Visuo-haptic VR System for interacting with virtual textiles and samples of cloth simulation. Haptic sensing of virtual textiles (HAPTEX) is a European Research project in which MIRALab participates. Directed by Nadia Magnenat Thalmann.
+|-
+| 2008
+| Motion Analysis of the Hip
+| Modelling the human hip joint in extreme postures. Directed by Nadia Magnenat Thalmann.
+|-
+| 2008
+| Facial Motion Capture
+| From motion capture to facial animation. Directed by Nadia Magnenat Thalmann.
+|-
+| 2008
+| Ruban 2
+| Simulation of a textile applied with a waterfall effect. Directed by Nadia Magnenat Thalmann.
+|-
+| 2009
+| A Day in the Life of John Calvin
+| 3D simulation of John Calvin and exhibition at the International Museum of the Reform in Geneva, Switzerland. Directed by Nadia Magnenat Thalmann.
+|-
+| 2009
+| Virtual Hip Joint
+| Eurographics Medical 1st Prize, 2009, directed by Nadia Magnenat Thalmann.
+|-
+| 2009
+| La danse dans tous ses états
+| Live show performed in Geneva for the 450th anniversary of the university. The professional ballet dancer dances with her 3D avatar, directed by Nadia Magnenat Thalmann.
+|-
+| 2010
+| Biomechanical Analysis of the Hip Joint
+| Investigating the link between extreme movements and hip, directed by Nadia Magnenat Thalmann.
+|-
+| 2010
+| Interactive Media with Personal Networked Devices
+| Demonstration on the dynamic reconfigurable wearable interfaces for personal health data analysis, directed by Nadia Magnenat Thalmann.
+|-
+| 2011
+| Virtual and Live Fashion Show
+| New Media Village @ IMI, Singapore directed by Nadia Magnenat Thalmann.
+|-
+| 2011
+| Social Robotics
+| Presentation of Eva Robot, a humanoid robot head with software platform developed at MIRALab, Switzerland, directed by Nadia Magnenat Thalmann.
+|-
+| 2012
+| The Illusion of Intelligence
+| AAAI Video Competition 2012, Best Student Video Award. Produced by Karolina Zawieska, Bart Kevelham, Maher Ben Moussa and Nadia Magnenat Thalmann.
+|-
+| 2012
+| SIGGRAPH ASIA 2012 Fashion Show
+| 5th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia, Singapore. Directed by Nadia Magnenat Thalmann.
+|-
+| 2012
+| IMI Mixed Reality Fashion Show
+| Swissnex Singapore End of 2012 Party, Singapore, directed by Nadia Magnenat Thalmann.
+|-
+| 2013
+| Real-time Interaction with Nadine Humanoid Robot
+| Swissnex Singapore End of 2013 Party, Singapore, directed by Nadia Magnenat Thalmann.
+|-
+| 2013
+| Refurbish a single user 3D application into a multi-user distributed service
+| Demonstration on a single user 3D application into a multi-user distributed service, a software platform developed at MIRALab, University Of Geneva, Switzerland, directed by Nadia Magnenat Thalmann, Yvain Tisserand and Niels Nijdam.
+|-
+
+| 2014
+| A Facebook-aware Virtual Human Interface
+| Demonstration on Virtual Human, a software platform developed at IMI, NTU, Singapore, directed by Nadia Magnenat Thalmann.
+|-
+| 2014
+| Sound Localization and Classification
+| Demonstration on sound localization by Virtual Human, a software platform developed at IMI, NTU, Singapore, directed by Nadia Magnenat Thalmann.
+|-
+| 2014
+| Affective Memory and Dialogue
+| Demonstration of affective memory and dialogue, on Nadine Social Robot, a software platform developed at IMI, NTU, Singapore, directed by Nadia Magnenat Thalmann.
+|-
+| 2015
+| 3D Multiscale Subject Specific Soccer Player
+| MultiScale Human project, directed by Nadia Magnenat Thalmann.
+|-
+| 2015
+| Multiscale Biological Modalities for physiological human articulation
+| MultiScale Human project, directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| Attention Control of Realistic Humanoid Robot
+| Demonstration performed with Nadine Social Robot, directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| Nadine and Nadia
+| Nadia Magnenat Thalmann interacting with Nadine Social Robot by reading a journal together, directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| Nadine Introduction
+| Nadine Social Robot demonstrates her capabilities, directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| Human Robot Interaction by Upper Body Gesture Understanding
+| Recognition of human gestures by Nadine Social Robot, directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| Nadine Interaction
+| Interaction with Nadine Social Robot, directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| 2016 ACI Asia Business Summit - Live Call with Nadine
+| Interaction on stage with Nadine Social Robot during the 2016 ACI Asia Business Summit, Raffles City Convention Centre, Singapore. Directed by Nadia Magnenat Thalmann.
+|-
+| 2016
+| Reusable low-cost platform for digitizing and preserving traditional participative sports
+| Video demonstration on a reusable low-cost platform for digitizing and preserving traditional participative sports. Directed by Nadia Magnenat Thalmann.
+|-
+| 2017
+| The robot EVA playing in the Roten Fabrik theatre at Zurich
+| Robot Eva has also performed in a play in the Roten Fabrik Theatre at Zurich., produced by Nadia Magnenat Thalmann.
+|-
+| 2017
+| Nadine Social Robot
+| A short trailer of Nadine Social Robot at IMI, NTU, Singapore. Directed by Nadia Magnenat Thalmann.
+|-
+| 2017
+| The Making Of Nadine Hand
+| A video showing the process in the making of Nadine's hand. Directed by Nadia Magnenat Thalmann.
+|-
+| 2017
+| ArtScience Museum Human+
+| Nadine Social Robot, at the ArtScience Museum, Singapore. Directed by Nadia Magnenat Thalmann.
+|-
+| 2017
+| Nadine Social Robot conversation with a student, Felix
+| A demonstration on Nadine Social Robot having a conversation with a student. Directed by Nadia Magnenat Thalmann.
+|-
+| 2018
+| Nadine Social Robot at AIA Insurance Company
+| Nadine Social Robot starting work as a receptionist in AIA Insurance Company in Singapore. Directed by Nadia Magnenat Thalmann.
+|-
+| 2018
+| AIA Opening Ceremony
+| Opening Ceremony at AIA Finlayson Green. Directed by Nadia Magnenat Thalmann.
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{google scholar id|zSucrdMAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thalmann, Nadia Magnenat}}
+[[Category:Computer graphics researchers]]
+[[Category:Canadian computer scientists]]
+[[Category:Canadian women computer scientists]]
+[[Category:Computer graphics professionals]]
+[[Category:Swiss computer scientists]]
+[[Category:Swiss women computer scientists]]
+[[Category:Living people]]
+[[Category:Academic staff of Université Laval]]
+[[Category:1946 births]]

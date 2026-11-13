@@ -1,0 +1,200 @@
+{{Short description|American computer scientist (born 1963)}}
+{{Use mdy dates|date=January 2022}}
+{{Infobox scientist
+| image             = Bruce Schneier at CoPS2013-IMG 9174.jpg
+| name              = Bruce Schneier
+| caption           = Schneier in 2013
+| birth_date        = {{Birth date and age|mf=yes|1963|1|15}}<ref name=fb>{{cite web |url=https://www.facebook.com/bruce.schneier |title=Bruce Schneier |publisher=[[Facebook]]}}</ref>
+| birth_place       = [[New York City]], U.S.
+| field             = [[Computer science]]
+| workplaces        = {{plainlist|
+*[[Harvard University]]
+*[[University of Toronto]] [[Munk School of Global Affairs & Public Policy]]
+*[[Counterpane Internet Security]]
+*[[Bell Labs]]
+*[[United States Department of Defense]]
+*[[BT Group]]}}
+| education         = {{plainlist|
+*[[American University]]
+*[[University of Rochester]]}}
+| known_for         = [[Cryptography]], [[security]]
+| website           = {{URL|https://www.schneier.com}}
+| spouse            = Karen Cooper (m. 1997; div. 2022)
+| signature         = Bruce Schneier-signature.jpg
+}}
+
+'''Bruce Schneier''' ({{IPAc-en|ˈ|ʃ|n|aɪ|.|ər}}; born January 15, 1963) is an American [[cryptographer]], [[computer security]] professional, [[privacy]] specialist, and writer. Schneier is an adjunct lecturer in public policy at the [[Harvard Kennedy School]]<ref name=harvard>
+{{ cite web
+| access-date = 30 June 2026
+| title       = Bruce Schneier
+| url         = https://www.hks.harvard.edu/faculty/bruce-schneier
+| website     = [[Harvard Kennedy School]]
+}}</ref> and [[Munk School of Global Affairs & Public Policy]] and a Fellow at the [[Berkman Klein Center for Internet & Society]] as of November, 2013.<ref name=bergman>{{cite web |last=Bergman |first=Kristin |title=Q+A with Bruce Schneier |date=October 9, 2014 |url=https://cyber.harvard.edu/node/95760 |access-date=14 December 2021}}</ref> He is a board member of the [[Electronic Frontier Foundation]], [[Access Now]], and [[The Tor Project]]; and an advisory board member of [[Electronic Privacy Information Center]] and [[VerifiedVoting.org]]. He is the author of several books on general [[security]] topics, computer security and [[cryptography]] and is a [[squid]] enthusiast.<ref>{{Cite web|title=Friday Squid Blogging: Squid Found on Provincetown Sandbar - Schneier on Security|url=https://www.schneier.com/blog/archives/2020/07/friday_squid_bl_737.html|access-date=2020-11-13|website=schneier.com|date=July 17, 2020 }}</ref>
+
+== Early life and education ==
+Bruce Schneier is the son of Martin Schneier, a Brooklyn Supreme Court judge. He grew up in the [[Flatbush, Brooklyn|Flatbush]] neighborhood of [[Brooklyn]], New York, attending P.S. 139 and [[Hunter College High School]].<ref>{{Cite news |url=https://www.schneier.com/news-080.html |title="Schneier on Security;" A Judge's Son Builds a Reputation of Cryptic Fame |date=February 9, 2009 |author=Samuel Newhouse |work=Brooklyn Daily Eagle}}</ref>
+
+After receiving a physics bachelor's degree from the [[University of Rochester]] in 1984,<ref>{{Cite news |url=https://www.schneier.com/news-114.html |title=Interview: BT's Bruce Schneier |author=Drew Amorosi |work=InfoSecurity |date=July 11, 2011}}</ref> he went to [[American University]] in [[Washington, D.C.]], and got his master's degree in computer science in 1988.<ref>{{cite news |last=Mann |first=Charles C. |title=Homeland Insecurity |url=https://www.theatlantic.com/magazine/archive/2002/09/homeland-insecurity/302575/ |access-date=14 December 2021 |work=The Atlantic |issue=September, 2002}}</ref>
+
+==Career==
+[[File:Worldcon 2026 (LAcon V) - Bruce Schneier 03.jpg|thumb|Schneier at [[Worldcon]] 2026]]
+
+In 1991, Schneier was laid off from his job and started writing for computer magazines. Later he decided to write a book on applied cryptography "since [[Books on cryptography|no such book]] existed". He took his articles, wrote a proposal to [[Wiley (publisher)|John Wiley]] and they bought the proposal.<ref name=":1">{{Cite news|date=2020-09-07|title=On starting a career - Special exclusive interview with Bruce Schneier at NoNameCon 2020|work=NoNameCon live conference|url=https://www.youtube.com/watch?v=Vn7wL12qjY0&feature=youtu.be&t=226&ab_channel=NoNameCon}}</ref>
+
+In 1994, Schneier published ''Applied Cryptography'', which details the design, use, and implementation of cryptographic algorithms.
+
+{{blockquote|This book allowed me to write more, to start consulting, to start my companies, and really launched me as an expert in this field, and it really was because no one else has written this book. I wanted to read it so I had to write it. And it happened in a really lucky time when everything started to explode on the Internet.<ref name=":1"/>}}
+
+In 1999, Schneier was a founder and [[chief technology officer]] of Counterpane Internet Security (now [[BT Managed Security Solutions]]).
+
+In 2000, Schneier published ''Secrets and Lies: Digital Security in a Networked World''; in 2003, ''[[Beyond Fear: Thinking Sensibly About Security in an Uncertain World]]'' and in 2012, ''[[Liars and Outliers|Liars and Outliers: Enabling the Trust that Society Needs to Thrive]]''.
+
+As a [[Fellow]] of Berkman Center for Internet & Society at [[Harvard University]] since 2013,<ref name=bergman/> Schneier has been exploring the intersection of security, technology, and people, with an emphasis on power.<ref>{{cite web | url=https://cyber.law.harvard.edu/newsroom/2013_2014_community | title=Berkman Center Announces 2013–2014 Community | publisher=Berkman Center for Internet & Society at Harvard University | date=July 8, 2013 | access-date=8 July 2013}}</ref>
+
+He worked for [[IBM]] when they acquired Resilient Systems in 2016, where he was CTO.<ref name="c3-cto">{{cite web |url=https://www.resilientsystems.com/company/management-team/bruce-schneier |title=Bruce Schneier, CTO of Resilient Systems, Inc |access-date=2015-02-24 |archive-url=https://web.archive.org/web/20150224195700/https://www.resilientsystems.com/company/management-team/bruce-schneier |archive-date=2015-02-24 |url-status=dead }}</ref><ref>{{cite press release |title=IBM Security Closes Acquisition of Resilient Systems |url=http://www-03.ibm.com/press/us/en/pressrelease/49472.wss |archive-url=https://web.archive.org/web/20160407155928/https://www-03.ibm.com/press/us/en/pressrelease/49472.wss |url-status=dead |archive-date=April 7, 2016 |location=Armonk, NY, USA |publisher=IBM Security |date=2016-04-06}}</ref><ref>{{cite web |url=https://www.schneier.com/blog/archives/2016/02/resilient_syste_2.html |title=Resilient Systems News: IBM to Buy Resilient Systems |last=Schneier |first=Bruce |date=2016-02-29 |website=Schneier on Security}}</ref> until he left at the end of June 2019.<ref>{{cite web |url=https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html |title=I'm Leaving IBM |last=Schneier |first=Bruce |date=2019-06-28 |website=Schneier on Security}}</ref>
+
+Schneier has been an adjunct lecturer in public policy at the [[Harvard Kennedy School]].<ref name=harvard/>
+
+==Personal life==
+Schneier was married to Karen Cooper in 1997 and lived in Minneapolis;<ref>{{Cite web |date=2007 |title=Bloggers on Blogging: Bruce Schneier |url=https://www.schneier.com/news/archives/2007/01/bloggers_on_blogging.html |access-date=2025-02-15 |website=Schneier on Security |language=en-US}}</ref> they published restaurant reviews in the Pulse of the Twin Cities. The couple divorced in 2022.{{Citation needed|date=August 2025}}
+
+== Viewpoints ==
+
+=== Blockchains ===
+Schneier has warned about misplaced trust in [[blockchain]]<ref>{{Cite magazine|url=https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/|title=There's No Good Reason to Trust Blockchain Technology|last=SCHNEIER|first=BRUCE|date=2019-02-06|magazine=Wired|access-date=2019-02-06|issn=1059-1028}}</ref> and the lack of use cases, calling blockchain a solution in search of a problem.<ref>{{Cite web|url=https://www.netzwoche.ch/news/2019-02-06/warum-bruce-schneier-keinen-einsatzzweck-fur-die-blockchain-sieht|title=Was Bruce Schneier von Blockchain, IoT und Quantencomputern hält|website=netzwoche.ch|language=de|access-date=2019-02-06}}</ref>
+
+{{poemquote|What blockchain does is shift some of the trust in people and institutions to trust in technology. You need to trust the cryptography, the protocols, the software, the computers and the network. And you need to trust them absolutely, because they're often single points of failure.
+
+I've never seen a legitimate use case for blockchain. I've never seen any system where blockchain provides security in a way that is impossible to provide in any other way.<ref>{{Cite news|title=On blockchain - Special exclusive interview with Bruce Schneier at NoNameCon 2020|work=NoNameCon live 2020|url=https://www.youtube.com/watch?v=Vn7wL12qjY0&feature=youtu.be&t=1893&ab_channel=NoNameCon|access-date=2020-09-07}}</ref>}}
+
+=== Cryptography ===
+To Schneier, peer review and expert analysis are important for the security of cryptographic systems.<ref name="crypto_harder">{{cite web |url=https://www.schneier.com/essay-037.html |title=Why Cryptography Is Harder Than It Looks |year=1997 |author=Schneier, Bruce |access-date=2011-04-08}}</ref> Mathematical cryptography is usually not the weakest link in a security chain; effective security requires that cryptography be combined with other things.<ref name="practical_crypto_preface">{{cite web |url=https://www.schneier.com/book-practical-preface.html |title=Practical Cryptography: Preface |author1=Ferguson, Niels |author2=Schneier, Bruce |access-date=2011-04-08}}</ref>
+
+The term ''Schneier's law'' was coined by [[Cory Doctorow]] in a 2004 speech.<ref name=drm-talk>{{cite web |author=Cory Doctorow |date=2004-06-17 |title=Microsoft Research DRM talk |url=http://www.dashes.com/anil/stuff/doctorow-drm-ms.html |access-date=2006-12-31 |archive-url = https://web.archive.org/web/20061202192720/http://www.dashes.com/anil/stuff/doctorow-drm-ms.html <!-- Bot retrieved archive --> |archive-date = 2006-12-02|author-link=Cory Doctorow }}</ref> The law is phrased as:
+
+{{quote|Any person can invent a security system so clever that she or he can't think of how to break it.}}
+
+He attributes this to Bruce Schneier, who wrote in 1998: "Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can't break. It's not even hard. What is hard is creating an algorithm that no one else can break, even after years of analysis."<ref>{{Cite web|title=Crypto-gram: October 15, 1998 - Schneier on Security|url=https://www.schneier.com/crypto-gram/archives/1998/1015.html#cipherdesign|access-date=2022-01-26|website=schneier.com}}</ref>
+
+Similar sentiments had been expressed by others before. In ''[[The Codebreakers]]'', [[David Kahn (writer)|David Kahn]] states: "Few false ideas have more firmly gripped the minds of so many intelligent men than the one that, if they just tried, they could invent a cipher that no one could break", and in "A Few Words On Secret Writing", in July 1841, [[Edgar Allan Poe]] had stated: "Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve."<ref>{{cite web| url = https://www.schneier.com/blog/archives/2011/04/schneiers_law.html| title = "'Schneier's law'"| date = April 15, 2011}}</ref>
+
+Schneier also coined the term "[[kid sister cryptography]]", writing in the Preface to ''Applied Cryptography''<ref>{{cite book|last=Schneier|first=Bruce|date=1996|title=Applied Cryptography|url=https://www.schneier.com/books/applied-cryptography-2preface/|publisher=John Wiley & Sons|isbn=978-1-119-09672-6}}</ref> that:
+
+{{quote|There are two kinds of cryptography in this world: cryptography that will stop your kid sister from reading your files, and cryptography that will stop major governments from reading your files. This book is about the latter.}}
+
+=== Digital rights management ===
+Schneier is critical of [[digital rights management]] (DRM) and has said that it allows a vendor to increase [[Vendor lock-in|lock-in]].<ref name="iphone_control">{{cite web |url=https://www.schneier.com/essay-204.html |title=With iPhone, 'Security' Is Code for 'Control' |date=2008-02-07 |author=Schneier, Bruce |access-date=2011-04-08}}</ref> Proper implementation of control-based security for the user via [[trusted computing]] is very difficult, and security is not the same thing as control.<ref name="iphone_control"/>
+
+Schneier insists that "owning your data is a different way of thinking about data."<ref>{{Cite news|title=On owning your data - Special exclusive interview with Bruce Schneier at NoNameCon 2020|work=NoNameCon live conference|url=https://www.youtube.com/watch?v=Vn7wL12qjY0&feature=youtu.be&t=2771&ab_channel=NoNameCon|access-date=2020-09-07}}</ref>
+
+=== Full disclosure ===
+Schneier is a proponent of [[Full disclosure (computer security)|full disclosure]], i.e. making security issues public.
+
+{{quote|If researchers don't go public, things don't get fixed. Companies don't see it as a security problem; they see it as a PR problem.<ref>{{Cite web|date=2011-11-16|title=After Apple Punishes Researcher, A Complex Relationship Is Tested|url=https://www.huffpost.com/entry/charlie-miller-apple-cybersecurity-bug-hacker_n_1095330|access-date=2022-01-26|website=HuffPost|language=en}}</ref>}}
+
+=== Homeland security ===
+Schneier has said that [[homeland security]] money should be spent on [[Intelligence agency|intelligence]], investigation, and [[Emergency service|emergency response]].<ref name="movie_plots">{{cite magazine |url=https://www.wired.com/2005/09/terrorists-dont-do-movie-plots/ |title=Terrorists Don't Do Movie Plots |date=2005-09-08 |magazine=[[Wired News]] |author=Schneier, Bruce}}</ref> Defending against the broad threat of terrorism is generally better than focusing on specific potential terrorist plots.<ref name="movie_plots"/> According to Schneier, analysis of intelligence data is difficult but is one of the better ways to deal with global terrorism.<ref name="homeland_insec">{{cite web |url=https://www.schneier.com/essay-032.html |title=Homeland Insecurity |date=2004-01-09 |author=Schneier, Bruce |access-date=2011-04-08}}</ref> Human intelligence has advantages over automated and computerized analysis, and increasing the amount of intelligence data that is gathered does not help to improve the analysis process.<ref name="homeland_insec"/> Agencies that were designed around fighting the [[Cold War]] may have a culture that inhibits the sharing of information; the practice of sharing information is more important and less of a security threat in itself when dealing with more decentralized and poorly funded adversaries such as al Qaeda.<ref>{{cite web |url=https://www.sfgate.com/opinion/article/Fixing-intelligence-failures-3202795.php |author=Schneier, Bruce |publisher=[[SFGate]] |date=2010-01-15 |access-date=2011-04-08 |title=Fixing intelligence failures – SFGate}}</ref>
+
+Regarding [[PETN]]—the explosive that has become terrorists' weapon of choice—Schneier has written that only swabs and dogs can detect it. He also believes that changes to airport security since 11 September 2001 have done more harm than good and he defeated [[Kip Hawley]], former head of the Transportation Security Administration, in an ''[[The Economist|Economist]]'' online debate by 87% to 13% regarding the issue.<ref>"International terrorism: AQAP tries again: Good intelligence work still leaves questions over airport security", ''[[The Economist]]'', dated 12 May 2012.</ref> He is widely credited with coining the term "[[security theater]]" to describe some such changes.
+
+====Movie plot threat====
+"Movie-plot threat" is a term Schneier coined that refers to very specific and dramatic [[terrorism|terrorist]] attack scenarios, reminiscent of the behavior of terrorists in movies, rather than what terrorists actually do in the real world.<ref>{{cite news | url = https://www.vice.com/en/article/2014-will-not-be-the-year-of-online-murder/| title= 2014 Will Not Be the Year of the First 'Online Murder' | author=Ben Makuch | work=Motherboard Vice.com| date= 8 October 2014 |access-date=18 June 2015}}</ref> Security measures created to protect against movie plot threats do not provide a higher level of real security, because such preparation only pays off if terrorists choose that one particular avenue of attack, which may not even be feasible. Real-world terrorists would also be likely to notice the highly specific security measures, and simply attack in some other way. The specificity of movie plot threats gives them power in the public imagination, however, so even extremely unrealistic security theater countermeasures may receive strong support from the public and legislators. Among many other examples of movie plot threats, Schneier described banning [[Baby transport|baby carrier]]s from [[Rapid transit|subway]]s, for fear that they may contain explosives.<ref>{{cite web|url=http://www.schneier.com/blog/archives/2005/10/exploding_baby.html|title=Schneier on Security: Exploding Baby Carriages in Subways|last=Schneier|first=Bruce|date=October 11, 2005 |quote=And if we ban [[baby carriage]]s from the subways, and the terrorists put their bombs in [[duffel bag]]s instead, have we really won anything?}}</ref> Starting in April 2006, Schneier has had an annual contest to create the most fantastic movie-plot threat.<ref>{{cite web|url= http://www.schneier.com/blog/archives/2006/04/announcing_movi.html|title=Schneier on Security: Announcing: Movie-Plot Threat Contest|last=Schneier|first=Bruce|date=April 2006 }}</ref> In 2015, during the 8th and {{as of|2022|February|17|lc=y}} the last one, he mentioned that the contest may have run its course.<ref>{{cite web |last=Schneier |first=Bruce |title=Eighth Movie-Plot Threat Contest Semifinalists |url=https://www.schneier.com/blog/archives/2015/05/eighth_movie-pl.html |website=Schneier on Security |date=May 14, 2015 |access-date=17 February 2022}}</ref>
+
+=== System design ===
+Schneier has criticized security approaches that try to prevent any malicious incursion, instead arguing that designing systems to [[failing badly|fail well]] is more important.<ref name="ATLANTIC">[http://charlesmann.org/articles/Homeland-Insecurity-Atlantic.pdf Homeland Insecurity] {{Webarchive|url=https://web.archive.org/web/20110928002928/http://charlesmann.org/articles/Homeland-Insecurity-Atlantic.pdf |date=September 28, 2011 }}, ''[[Atlantic Monthly]]'', September 2002</ref> The designer of a system should not underestimate the capabilities of an attacker, as technology may make it possible in the future to do things that are not possible at the present.<ref name="crypto_harder"/> Under [[Kerckhoffs's Principle]], the need for one or more parts of a cryptographic system to remain secret increases the fragility of the system; whether details about a system should be obscured depends upon the availability of persons who can make use of the information for beneficial uses versus the potential for attackers to misuse the information.<ref>{{cite web |url=http://www.schneier.com/crypto-gram-0205.html |title=Crypto-Gram: May 15, 2002 |date=2002-05-15 |author=Schneier, Bruce |access-date=2011-04-08}}</ref>
+
+{{quote|Secrecy and security aren't the same, even though it may seem that way. Only bad security relies on secrecy; good security works even if all the details of it are public.<ref>Doctorow, Cory. Little Brother. New York: Tor Teen, 2008, page 129.</ref>}}
+
+===Service and awards===
+Schneier is a board member of the [[Electronic Frontier Foundation]],<ref name="eff_board">{{cite web|url=https://www.eff.org/press/releases/renowned-security-expert-bruce-schneier-joins-eff-board-directors |title=Renowned Security Expert Bruce Schneier Joins EFF Board of Directors |date=2013-06-27 |author=Jeschke, Rebecca |access-date=2013-07-06}}</ref> [[Access Now]], and [[The Tor Project]]; and an advisory board member of [[Electronic Privacy Information Center]] and [[VerifiedVoting.org]].
+
+In 2015, Schneier received the EPIC Lifetime Achievement Award from Electronic Privacy Information Center.<ref>{{Cite web|url=https://epic.org/june1/|url-status=dead|archive-url=
+https://web.archive.org/web/20160710014823/https://epic.org/june1/|archive-date=July 10, 2016|title=EPIC 2015 Champions of Freedom|date=June 1, 2015|website=EPIC}}</ref>
+
+In 2011, he was awarded an honorary Ph.D from the [[University of Westminster]] in [[London|London, England]], by the Department of Electronics and Computer Science in recognition of Schneier's 'hard work and contribution to industry and public life'.{{cn|date=February 2025}}
+
+==Work==
+===Cryptographic algorithms ===
+Schneier has been involved in the creation of many cryptographic algorithms.
+
+[[Hash functions]]:
+* [[Skein (hash function)|Skein]]
+
+[[Stream ciphers]]:
+* [[Solitaire (cipher)|Solitaire]]
+* [[Phelix]]
+* [[Phelix#Helix|Helix]]
+
+[[Pseudo-random number generator]]s:
+* [[Fortuna (PRNG)|Fortuna]]
+* [[Yarrow algorithm]]
+
+[[Block ciphers]]:
+* [[Blowfish (cipher)|Blowfish]]
+* [[Twofish]]
+* [[Threefish]]
+* [[MacGuffin (cipher)|MacGuffin]]
+
+=== Publications ===
+Schneier writes a freely available monthly Internet newsletter on computer and other security issues, ''Crypto-Gram'', as well as a security [[weblog]], ''Schneier on Security''.<ref>{{cite web| url = https://www.schneier.com/| title = schneier.com}}</ref> The blog focuses on the latest threats, and his own thoughts. The weblog started out as a way to publish essays before they appeared in Crypto-Gram, making it possible for others to comment on them while the stories were still current, but over time the newsletter became a monthly email version of the blog, re-edited and re-organized.<ref name="blood">{{cite web |url= http://www.rebeccablood.net/bloggerson/bruceschneier.html |title= Bruce Schneier |access-date= April 19, 2007 |last= Blood |first= Rebecca |date= January 2007 |website= Bloggers on Blogging}}</ref>{{Citation needed|date=December 2008}} <!-- a blog does not count as an independent reliable third party source, especially when it's just an interview with the person in question making claims about himself… please see our reliable sources policy at [[WP:RS]] -->
+Schneier is frequently quoted in the press on computer and other security issues, pointing out flaws in security and cryptographic implementations ranging from [[biometrics]] to [[airline security]] after the [[September 11 attacks]].<ref>{{Cite journal|last=Severance|first=Charles|title=Bruce Schneier: the security mindset|journal=Computer|year=2016|volume=49|issue=2|pages=7–8|doi=10.1109/MC.2016.38}}</ref>
+
+* Schneier, Bruce. ''Applied Cryptography'', John Wiley & Sons, 1994. {{ISBN|0-471-59756-2}}
+* Schneier, Bruce. ''Protect Your Macintosh'', Peachpit Press, 1994. {{ISBN|1-56609-101-2}}
+* Schneier, Bruce. ''E-Mail Security'', John Wiley & Sons, 1995. {{ISBN|0-471-05318-X}}
+* Schneier, Bruce. ''Applied Cryptography'', Second Edition, John Wiley & Sons, 1996. {{ISBN|0-471-11709-9}}
+* Schneier, Bruce; Kelsey, John; Whiting, Doug; Wagner, David; Hall, Chris; Ferguson, Niels. ''The [[Twofish]] Encryption Algorithm'', John Wiley & Sons, 1996. {{ISBN|0-471-35381-7}}
+* Schneier, Bruce; Banisar, David. ''The Electronic Privacy Papers'', John Wiley & Sons, 1997. {{ISBN|0-471-12297-1}}
+* Schneier, Bruce. ''Secrets and Lies: Digital Security in a Networked World'', John Wiley & Sons, 2000. {{ISBN|0-471-25311-1}}
+* Schneier, Bruce. ''[[Beyond Fear: Thinking Sensibly About Security in an Uncertain World]]'', Copernicus Books, 2003. {{ISBN|0-387-02620-7}}
+* Ferguson, Niels; Schneier, Bruce. ''[[Practical Cryptography]]'', John Wiley & Sons, 2003. {{ISBN|0-471-22357-3}}
+* Schneier, Bruce. ''Secrets and Lies: Digital Security in a Networked World'', John Wiley & Sons, 2004. {{ISBN|978-0-471-45380-2}}
+* Schneier, Bruce. ''Schneier on Security'', John Wiley & Sons, 2008. {{ISBN|978-0-470-39535-6}}
+* Ferguson, Niels; Schneier, Bruce; Kohno, Tadayoshi. ''Cryptography Engineering'', John Wiley & Sons, 2010. {{ISBN|978-0-470-47424-2}}
+* Schneier, Bruce. ''[[Liars and Outliers]]: Enabling the Trust that Society Needs to Thrive'', John Wiley & Sons, 2012. {{ISBN|978-1-118-14330-8}}
+* Schneier, Bruce. ''Carry On: Sound Advice from Schneier on Security'', John Wiley & Sons, 2013. {{ISBN|978-1118790816}}
+* Schneier, Bruce. ''Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World'', [[W. W. Norton & Company]], 2015. {{ISBN|978-0-393-24481-6}}
+* Schneier, Bruce. ''[[Click Here to Kill Everybody]]: Security and Survival in a Hyper-connected World'', [[W. W. Norton & Company]], 2018. {{ISBN|978-0-393-60888-5}}
+* Schneier, Bruce. ''We Have Root: Even More Advice from Schneier on Security'', John Wiley & Sons, 2019. {{ISBN|978-1119643012}}
+* Schneier, Bruce. ''A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back'', [[W. W. Norton & Company]], 2023. {{ISBN|978-0-393-86666-7}}
+* Schneier, Bruce; Sanders, Nathan E. Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship. MIT Press, 2025. {{ISBN|9780262049948}} <ref>{{Cite book |last1=Schneier |first1=Bruce |url=https://mitpress.mit.edu/9780262049948/rewiring-democracy/ |title=Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship |last2=Sanders |first2=Nathan E. |date=2025-10-21 |publisher=MIT Press |isbn=978-0-262-04994-8 |series=Strong Ideas |location=Cambridge, MA, USA |language=en}}</ref>
+
+== See also ==
+* [[Attack tree]]
+* [[Failing badly]]
+* [[Snake oil (cryptography)]]
+* [[Alice and Bob]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Bruce Schneier}}
+{{Wikiquote}}
+
+* [https://www.schneier.com/ Personal website, Schneier.com]
+* [https://www.schneier.com/books.html Bruce Schneier's books, Schneier.com/books.html]
+* [https://www.schneierfacts.com/ Bruce Schneier Facts], humorous "facts" about Schneier, in the style of [[Chuck Norris facts]]
+
+{{Authority control}}
+{{Portal bar|United States|Biography}}
+
+{{DEFAULTSORT:Schneier, Bruce}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:American cryptographers]]
+[[Category:American technology writers]]
+[[Category:Berkman Fellows]]
+[[Category:American University alumni]]
+[[Category:University of Rochester alumni]]
+[[Category:Modern cryptographers]]
+[[Category:Cypherpunks]]
+[[Category:Privacy activists]]
+[[Category:American chief technology officers]]
+[[Category:Hunter College High School alumni]]
+[[Category:Writers from New York City]]
+[[Category:Writers from Minneapolis]]
+[[Category:Wired (magazine) people]]
+[[Category:Computer science writers]]
+[[Category:American computer security academics]]
+[[Category:Critics of cryptocurrency]]

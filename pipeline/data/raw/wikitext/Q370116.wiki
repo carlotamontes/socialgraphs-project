@@ -1,0 +1,96 @@
+{{short description|American mathematician}}
+{{Use mdy dates|date=October 2022}}
+{{Infobox scientist
+| name              = James G. Glimm
+| image             = James Glimm, Apr 1972 (headshot).jpg
+| image_size        = 
+| caption           = 
+| birth_name        = James Gilbert Glimm
+| birth_date        = {{birth date and age|1934|3|24}}
+| birth_place       = [[Peoria, Illinois]], U.S.
+| education         = [[Columbia University]]
+| known_for         = {{no wrap|[[Constructive quantum field theory]]}}
+| awards            = [[List of Guggenheim Fellowships awarded in 1963|Guggenheim Fellowship]] {{small|(1963)}}<br>[[List of International Congresses of Mathematicians Plenary and Invited Speakers|ICM Speaker]] {{small|(1974)}}<br>[[Dannie Heineman Prize for Mathematical Physics|Heineman Prize]] {{small|(1980)}}<br />[[Leroy P. Steele Prize]] {{small|(1993)}}<br />[[National Medal of Science]] {{small|(2002)}}
+| fields            = [[Mathematics]]
+| workplaces        = [[Institute for Advanced Study|Institute of Advanced Study]] <br />[[MIT]] <br />[[The Rockefeller University]] <br />[[New York University]] <br /> [[Stony Brook University]]
+| doctoral_advisor  = [[Richard Kadison]]
+| doctoral_students = {{plainlist|
+*[[Sunčica Čanić]]
+*[[Ronald DiPerna]]
+*[[Thomas Spencer (mathematical physicist)|Thomas Spencer]]
+}}
+}}
+
+'''James Gilbert Glimm''' (born March 24, 1934) is an American [[mathematician]], former president of the [[American Mathematical Society]], and distinguished professor at [[Stony Brook University]]. He has made many contributions in the areas of pure and [[applied mathematics]].
+
+== Life and career ==
+[[File:James Glimm - National Medal of Science, 2002.webm|thumb|Glimm discusses his contributions to the world of computer science through mathematical analysis and physics.]]
+James Glimm was born in [[Peoria, Illinois|Peoria]], [[Illinois]], United States on March 24, 1934.<ref name="ams.org">{{Cite web|url=https://www.ams.org/about-us/presidents/59-glimm|title=AMS Presidents: James Glimm|website=American Mathematical Society}}</ref> He received his BA in engineering from [[Columbia University]] in 1956. He continued on to graduate school at Columbia where he received his [[Ph.D.]] in mathematics in 1959; his advisor was [[Richard V. Kadison]].<ref name="personal-webpage">{{Cite web|url=https://www.ams.sunysb.edu/~glimm/Vita%20James%20Glimm.htm|title=Vita: James Glimm}}</ref> Glimm was at [[New York University]], and at [[Rockefeller University]], before arriving at [[Stony Brook University]] in 1989.<ref name="ams.org"/>
+
+He has been noted for contributions to [[C*-algebra]]s, [[quantum field theory]], [[partial differential equation]]s, [[fluid dynamics]], [[scientific computing]], and the modeling of petroleum reservoirs. Together with [[Arthur Jaffe]], he has founded a subject called [[constructive quantum field theory]]. His early work in the theory of operator algebras was seminal, and today the "Glimm algebras" that bear his name continue to play an important role in this area of research.<ref>{{Cite web|url=https://www.ams.org/about-us/presidents/59-glimm#sthash.P2MiH5UG.dpufThe|title=AMS Presidents: James Glimm|website=American Mathematical Society}}</ref> More recently, the [[United States Department of Energy]] adopted Glimm's front-track methodology for shock-wave calculations, e.g., simulating weapons performance.<ref>{{Cite web|url=http://www.ams.sunysb.edu/CAM/CAMpeople.shtml|title=Department of Applied Mathematics and Statistics, Stony Brook|access-date=April 27, 2014|archive-date=June 4, 2014|archive-url=https://web.archive.org/web/20140604170400/http://www.ams.sunysb.edu/CAM/CAMpeople.shtml|url-status=dead}}</ref>
+
+Glimm was elected to the [[United States National Academy of Sciences|National Academy of Sciences]] in 1984. He was an Invited Speaker of the [[International Congress of Mathematicians|ICM]] in 1970 at Nice<ref>Glimm, James. [http://www.mathunion.org/ICM/ICM1970.3/Main/icm1970.3.0003.0008.ocr.pdf "Quantum field theory models."] {{Webarchive|url=https://web.archive.org/web/20171207012812/http://www.mathunion.org/ICM/ICM1970.3/Main/icm1970.3.0003.0008.ocr.pdf |date=December 7, 2017 }} ''Actes, Congrès int. Math.'', Nice, 1970. Tome 3: 3–8.</ref> and a Plenary Speaker of the ICM in 1974 at Vancouver.<ref>Glimm, James. [http://www.mathunion.org/ICM/ICM1974.1/Main/icm1974.1.0119.0126.ocr.pdf "Analysis over infinite-dimensional spaces and applications to quantum field theory."] {{Webarchive|url=https://web.archive.org/web/20131228050400/http://www.mathunion.org/ICM/ICM1974.1/Main/icm1974.1.0119.0126.ocr.pdf |date=2013-12-28 }} ''Proceedings of the International Congress of Mathematicians'', Vancouver, 1974. vol. 1: 119–126.</ref> In 1993, Glimm was awarded the [[Leroy P. Steele Prize]] for his contribution to solving hyperbolic systems of [[partial differential equations]].<ref>[http://www-history.mcs.st-andrews.ac.uk/Societies/AMSSteelePrize.html Timeline AMS Steel Prizes],</ref> He won the [[National Medal of Science]] in 2002 "For his original approaches and creative contribution to an array of disciplines in mathematical analysis and mathematical physics".<ref>{{cite web| url=https://www.ams.org/notices/200508/pres-elect.pdf |title=Nominations for President Elect |publisher=Notices of the AMS}}</ref> Starting January 1, 2007, he served a 2-year term as president of the [[American Mathematical Society]]. In 2012 he became a fellow of the American Mathematical Society.<ref>[https://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved 2013-01-19.</ref>
+
+==Appointments==
+{|class=wikitable
+|-
+!Years !!Appointments
+|- 
+|1999- ||Staff Member, Computational Science Center, [[Brookhaven National Laboratory]]
+|-
+|1989- ||Distinguished Professor, [[SUNY at Stony Brook]]
+|-
+|1982-89 ||Professor, [[Courant Institute of Mathematical Sciences]], [[New York University]]
+|-
+|1974-82 ||Professor, [[The Rockefeller University]]
+|-
+|1968-74 ||Professor, [[Courant Institute of Mathematical Sciences]], [[New York University]]
+|-
+|1960-68 ||Professor, Associate Professor, Assistant Professor, [[MIT]]
+|-
+|1959-60 ||Temporary Member, [[Institute for Advanced Study]]
+|}
+
+==See also==
+*[[Schwinger_function#Axioms_by_Glimm_and_Jaffe|Axioms by Glimm and Jaffe]]
+
+==Selected publications==
+* {{citation |last1=Glimm |first1=James |title=Solutions in the large for nonlinear hyperbolic systems of equations |journal=Communications on Pure and Applied Mathematics |volume=18 |pages=697–715 |year=1965 |issue=4 |doi=10.1002/cpa.3160180408}}
+* {{citation |last1=Glimm |first1=James |title=On a certain class of operator algebras. |journal=Transactions of the American Mathematical Society |volume=95 |issue=2 |date=May 1960 |pages=318–340 |jstor=1993294 |doi=10.2307/1993294 |doi-access=free}}
+* {{citation |last1=Glimm |first1=James |title=A Stone-Weierstrass theorem for C*-algebras. |journal=Annals of Mathematics |series=Second Series |volume=72 |issue=2 |date=September 1960 |pages=216–244 |jstor=1970133 |doi=10.2307/1970133}}
+* {{citation |last1=Glimm |first1=James |title=Type I C*-algebras. |journal=Annals of Mathematics |series=Second Series |volume=73 |issue=3 |date=May 1961 |pages=572–612 |jstor=1970319 |doi=10.2307/1970319}}
+*  {{citation |last1=Glimm |first1=James |title=Three-Dimensional Front Tracking |journal=SIAM J. Sci. Comput. |year=1998 |volume=19 |issue=3 |pages=703–727 |doi=10.1137/S1064827595293600 |bibcode=1998SJSC...19..703G |display-authors=etal |citeseerx=10.1.1.57.569}}
+*  {{citation |last1=Glimm |first1=James |title=Front tracking for hyperbolic systems |journal=Advances in Applied Mathematics |volume=2 |issue=1 |date=March 1981 |pages=91–119 |doi=10.1016/0196-8858(81)90040-3 |display-authors=etal |doi-access=free}}
+* {{citation |last1=Glimm |first1=James |last2=Jaffe |first2=Arthur |title=The λ (φ4) 2 quantum field theory without cutoffs: II. the field operators and the approximate vacuum |journal=Annals of Mathematics |series=Second Series |volume=91 |issue=2 |date=March 1970 |pages=362–401 |jstor=1970582 |doi=10.2307/1970582}}
+* {{citation |last1=Glimm |first1=James |last2=Jaffe |first2=Arthur |title=Positivity of the φ 34 Hamiltonian. |journal=Fortschritte der Physik |volume=21 |issue=7 |pages=327–376 |year=1973 |doi=10.1002/prop.19730210702 |bibcode=1973ForPh..21..327G}} 
+* (Book) {{citation |last1=Glimm |first1=James |last2=Jaffe |first2=Arthur |title=Quantum physics : a functional integral point of view |publisher=Springer |year=1981 |location=New york, NY |isbn=9781468401219}}
+* (Book) {{citation |last1=Glimm |first1=James |last2=Lax |first2=Peter |title=Decay of solutions of systems of nonlinear hyperbolic conservation laws |series=Memoirs of the American Mathematical Society |volume=101 |year=1970 |isbn=0-8218-1801-5}}
+
+== References ==
+<references />
+
+==External links==
+*{{MathGenealogy|id=13386}}
+*[http://www.ams.sunysb.edu/~glimm/ Home Page] {{Webarchive|url=https://web.archive.org/web/20200219003854/http://www.ams.sunysb.edu/~glimm/ |date=February 19, 2020 }}, at Stony Brook
+* {{INSPIRE-HEP author}} 
+{{Authority control}}
+{{Winners of the National Medal of Science|math-stat-comp}}
+{{AMS Presidents|state=collapsed}}
+
+{{DEFAULTSORT:Glimm, James}}
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Stony Brook University faculty]]
+[[Category:Columbia School of Engineering and Applied Science alumni]]
+[[Category:Living people]]
+[[Category:National Medal of Science laureates]]
+[[Category:American fluid dynamicists]]
+[[Category:1934 births]]
+[[Category:Fellows of the Society for Industrial and Applied Mathematics]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Brookhaven National Laboratory staff]]
+[[Category:Presidents of the American Mathematical Society]]
+[[Category:Courant Institute of Mathematical Sciences faculty]]
+[[Category:People from Peoria, Illinois]]
+[[Category:Mathematicians from Illinois]]

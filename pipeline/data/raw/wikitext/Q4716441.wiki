@@ -1,0 +1,158 @@
+{{short description|Italian-American physicist (born 1965)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Alessandro Vespignani
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Alessandro Vespignani 2021.jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|1965|4|4}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         = 
+| other_names       = 
+| pronounce         = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[Leiden University]]<br />[[International Centre for Theoretical Physics]]<br />[[University of Paris-Sud]]<br />
+[[Indiana University]]<br />[[Northeastern University]]
+| patrons           = 
+| education         = [[Sapienza University of Rome]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[network science]]<br /> [[Mathematical modelling of infectious disease]]<br />[[computational epidemiology]]
+| influences        = 
+| influenced        = 
+| awards            = [[List of American Physical Society Fellows]]<br />[[Fellows of the Network Science Society]]<br / >[[Order of the Star of Italy]]<br / >[[Fellow of the American Association for the Advancement of Science]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = 
+| footnotes         = 
+}}
+'''Alessandro Vespignani''' (born April 4, 1965) is an Italian-American physicist, best known for his work on [[complex network]]s, and particularly for work on the applications of [[network theory]] to the [[Mathematical modelling of infectious disease|mathematical modeling of infectious disease]], applications of [[computational epidemiology]], and for studies of the topological properties of the [[Internet]]. He is currently the Sternberg Family Distinguished University Professor of Physics, Computer Science and Health Sciences at [[Northeastern University]],<ref>{{cite web|title=Homepage of Alessandro Vespignani|url=http://www.mobs-lab.org/alessandro-vespignani.html|access-date=17 May 2012}}</ref> where he is the director of the [https://www.networkscienceinstitute.org/ Network Science Institute].
+
+Vespignani and his team have contributed mathematical and computational modeling analysis on several disease outbreaks, including [[H1N1 Swine Flu|2009 H1N1 flu]], [[List of Ebola outbreaks|Ebola epidemic in West Africa]], [[2015–16 Zika virus epidemic|Zika epidemic]], and the [[COVID-19 pandemic]].
+
+Vespignani is author, together with Romualdo Pastor-Satorras, of the book ''Evolution and Structure of the Internet''. Together with Alain Barrat and Marc Barthelemy he has published in 2008 the monograph ''Dynamical Processes on Complex Networks''.
+
+==Career and research==
+Vespignani received his undergraduate degree and Ph.D., both in physics and both from the University of Rome "[[Sapienza University of Rome|La Sapienza]]", in 1990 and 1993, respectively.  Following postdoctoral research at [[Yale University]] and [[Leiden University]], he worked at the [[International Centre for Theoretical Physics]] in [[Trieste]] for five years, and briefly at the [[University of Paris-Sud]], before moving to [[Indiana University]] in 2004,<ref>{{Cite web|url=http://newsinfo.iu.edu/web/page/normal/13163.html|title=Scientist at Work: Alessandro Vespignani: IU News Room: Indiana University|website=newsinfo.iu.edu|access-date=2019-04-17}}</ref> and then to [[Northeastern University]] in 2011.<ref>{{Cite web|url=https://news.northeastern.edu/faculty-experts/alex-vespignani/|title=Alex Vespignani|website=news.northeastern.edu|date=707 |language=en-US|access-date=2019-04-17}}</ref>
+
+Vespignani has worked in a number of areas of physics, including characterization of non-equilibrium phenomena and phase transitions, computer science, [[network science]] and [[computational epidemiology]]. He has collaborated with, among others, [[Luciano Pietronero]], [[Benoit Mandelbrot]], [[Betz Halloran]], [[Ira Longini]], and [[David Lazer]]. He describes his current research as being focused on "interdisciplinary application of statistical and numerical simulation methods in the analysis of epidemic and spreading phenomena and the study of biological, social and technological networks."<ref>{{Cite web|url=https://scholar.google.com/citations?user=U3CXAPsAAAAJ&hl=en|title=Alessandro Vespignani – Google Scholar Citations|website=scholar.google.com|access-date=2018-07-28}}</ref>
+
+He is best known, however, for his work on [[complex network]]s.  Of particular note is his work with [[Romualdo Pastor-Satorras]], in which the two demonstrated that for a disease propagating on a random [[scale-free network]] the transmission probability or [[infectivity]] necessary to sustain an outbreak tends to zero in the limit of large network size. Vespignani's works on modeling the spatial spread of epidemics includes the realistic and data-driven modeling of emerging infectious diseases,<ref>{{Cite web|url=http://www.cidid.org/|title=Home|website=Center for Inference and Dynamics of Infectious Diseases|language=en-US|access-date=2018-07-28}}</ref> and contributions to computational epidemiology by developing specific tools for the analysis of the global spread of epidemics.<ref>{{Cite web|url=http://www.gleamviz.org/|title=GLEAMviz.org|website=www.gleamviz.org|language=en|access-date=2018-07-28}}</ref><ref>{{Cite web|url=https://www.pbs.org/newshour/show/using-power-prediction-halt-ebola-tracks|title=Using the power of prediction to halt Ebola in its tracks|website=PBS NewsHour|language=en-US|access-date=2018-07-28|date=2015-06-11}}</ref>
+
+During the [[COVID-19 pandemic]], Vespignani's team investigated<ref>{{Cite news |last=Carey |first=Benedict |date=2020-03-13 |title=Mapping the Social Network of Coronavirus |language=en-US |work=The New York Times |url=https://www.nytimes.com/2020/03/13/science/coronavirus-social-networks-data.html |access-date=2022-09-21 |issn=0362-4331}}</ref> how travel and quarantine influenced the dynamics of the spread of SARS-CoV-2.<ref>{{Cite journal |last1=Chinazzi |first1=Matteo |last2=Davis |first2=Jessica T. |last3=Ajelli |first3=Marco |last4=Gioannini |first4=Corrado |last5=Litvinova |first5=Maria |last6=Merler |first6=Stefano |last7=Pastore y Piontti |first7=Ana |last8=Mu |first8=Kunpeng |last9=Rossi |first9=Luca |last10=Sun |first10=Kaiyuan |last11=Viboud |first11=Cécile |last12=Xiong |first12=Xinyue |last13=Yu |first13=Hongjie |last14=Halloran |first14=M. Elizabeth |last15=Longini |first15=Ira M. |date=2020-04-24 |title=The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak |journal=Science |language=en |volume=368 |issue=6489 |pages=395–400 |doi=10.1126/science.aba9757 |issn=0036-8075 |pmc=7164386 |pmid=32144116|bibcode=2020Sci...368..395C }}</ref> The modeling analysis mapped the early dispersal of infections and the temporal windows of the introduction of SARS-CoV-2 and onset of local transmission in Europe and the US,<ref>{{Cite journal |last1=Davis |first1=Jessica T. |last2=Chinazzi |first2=Matteo |last3=Perra |first3=Nicola |last4=Mu |first4=Kunpeng |last5=Pastore y Piontti |first5=Ana |last6=Ajelli |first6=Marco |last7=Dean |first7=Natalie E. |last8=Gioannini |first8=Corrado |last9=Litvinova |first9=Maria |last10=Merler |first10=Stefano |last11=Rossi |first11=Luca |last12=Sun |first12=Kaiyuan |last13=Xiong |first13=Xinyue |last14=Longini |first14=Ira M. |last15=Halloran |first15=M. Elizabeth |date=December 2021 |title=Cryptic transmission of SARS-CoV-2 and the first COVID-19 wave |journal=Nature |language=en |volume=600 |issue=7887 |pages=127–132 |doi=10.1038/s41586-021-04130-w |pmid=34695837 |pmc=8636257 |bibcode=2021Natur.600..127D |issn=1476-4687}}</ref> showing that hidden outbreaks were spreading almost completely undetected in major US cities.<ref>{{Cite news |last1=Carey |first1=Benedict |last2=Glanz |first2=James |date=2020-04-23 |title=Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say |language=en-US |work=The New York Times |url=https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html |access-date=2022-09-21 |issn=0362-4331}}</ref> Vespignani research contributed also to covid forecasting<ref>{{Cite journal |last1=Cramer |first1=Estee Y. |last2=Ray |first2=Evan L. |last3=Lopez |first3=Velma K. |last4=Bracher |first4=Johannes |last5=Brennen |first5=Andrea |last6=Castro Rivadeneira |first6=Alvaro J. |last7=Gerding |first7=Aaron |last8=Gneiting |first8=Tilmann |last9=House |first9=Katie H. |last10=Huang |first10=Yuxin |last11=Jayawardena |first11=Dasuni |last12=Kanji |first12=Abdul H. |last13=Khandelwal |first13=Ayush |last14=Le |first14=Khoa |last15=Mühlemann |first15=Anja |date=2022-04-08 |title=Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States |journal=Proceedings of the National Academy of Sciences |volume=119 |issue=15 |article-number=e2113561119 |doi=10.1073/pnas.2113561119 |doi-access=free |issn=0027-8424 |pmc=9169655 |pmid=35394862|bibcode=2022PNAS..11913561C }}</ref><ref>{{Cite web |last=CDC |date=2020-02-11 |title=Coronavirus Disease 2019 (COVID-19) |url=https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html |access-date=2022-09-21 |website=Centers for Disease Control and Prevention |language=en-us}}</ref> and scenario analysis.<ref>{{Cite journal |last=Borchering |first=Rebecca K. |date=2021 |title=Modeling of Future COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination Rates and Nonpharmaceutical Intervention Scenarios — United States, April–September 2021 |url=https://www.cdc.gov/mmwr/volumes/70/wr/mm7019e3.htm |journal=MMWR. Morbidity and Mortality Weekly Report |language=en-us |volume=70 |issue=19 |pages=719–724 |doi=10.15585/mmwr.mm7019e3 |pmid=33988185 |pmc=8118153 |issn=0149-2195}}</ref>
+
+== Honors ==
+Vespignani is an elected fellow of the  [[American Physical Society]] and the [[Fellows of the Network Science Society|Network Science Society]]. He has been inducted in the [[Academia Europaea]] (section Physics and Engineering) in 2011.
+
+* Aspen Institute Italia Award<ref>{{Cite web|url=http://www.aspeninstitute.it/en/aspen-institute-italia-award-scientific-research-and-collaboration-between-italy-and-united-states|title=Aspen Institute Italia Award for scientific research and collaboration between Italy and the United States {{!}} Aspen Institute Italia|website=www.aspeninstitute.it|language=en|access-date=2018-07-24}}</ref> for scientific research and collaboration between Italy and the United States, 2016
+* [[Doctorate Honoris Causa]] from [[Delft University of Technology]] in the Netherlands, 2017 <ref>{{Citation|last=TU Delft|title=TU Delft – 175th Dies Natalis / Honorary Doctorates|date=2017-01-16|url=https://www.youtube.com/watch?v=QSDKbtvsap8 |archive-url=https://ghostarchive.org/varchive/youtube/20211221/QSDKbtvsap8 |archive-date=2021-12-21 |url-status=live|access-date=2018-07-24}}{{cbignore}}</ref>
+* John Graunt award for extraordinary achievements in one of the population sciences, 2018 <ref>{{Cite web|url=https://www.radboudumc.nl/en/research/principles-of-research/grants-and-awards/radboud-institute-for-health-sciences/john-graunt-award|title=John Graunt Award|website=www.radboudumc.nl|language=en|access-date=2019-04-17}}</ref>
+* Senior Scientific award of the [[Complex Systems Society]] for outstanding contributions to Complex Systems & Network sciences, 2018 <ref>{{Cite web|url=https://cssociety.org/community/css-awards|title=CSS Awards|website=cssociety.org|access-date=2019-04-17}}</ref>
+* Premio Nazionale di Divulgazione Scientifica, Associazione Italiana del Libro, 2019<ref>{{Cite web |title=Albo d'oro |url=https://www.premiodivulgazionescientifica.it/albo-doro/ |access-date=2022-09-07 |website=Premio Nazionale di Divulgazione Scientifica {{!}} Giancarlo Dosi |language=en-US |archive-date=2022-10-05 |archive-url=https://web.archive.org/web/20221005172643/https://www.premiodivulgazionescientifica.it/albo-doro/ |url-status=dead }}</ref>
+* Euler Award, Network Science Society, 2020<ref>{{Cite web |title=NetSci – The Network Science Society |url=https://netscisociety.net/award-prizes/euler-award |access-date=2022-07-23 |website=netscisociety.net}}</ref>
+* Knight: ''[[Order of the Star of Italy|Order of the star of Italy]]'', [[File:ITA_OSI_2011_Uff_BAR.svg|left|55x55px]] 9 December 2020<ref>{{Cite web |title=Gazzetta Ufficiale |url=https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-01-30&atto.codiceRedazionale=21A00412&elenco30giorni=false |access-date=2022-07-23 |website=www.gazzettaufficiale.it}}</ref> 
+*Elected honorary fellow of the American Association for the Advancement of Science (AAAS), 2022<ref>{{Cite web |last=n.villacorta |title=For his leadership on COVID-19, Alessandro Vespignani receives 'lifetime honor' from American Association for the Advancement of Science |url=https://news.northeastern.edu/2023/03/02/professors-receive-lifetime-honor-aaas/ |access-date=2023-06-20 |website=Northeastern University College of Science |date=2 March 2023 |language=en-US}}</ref>
+*The 2025 [[EPS Statistical and Nonlinear Physics Prize]] for outstanding research contributions in the area of statistical physics, nonlinear physics, complex systems and complex networks.
+
+==Notable publications==
+* {{cite journal
+ |author1=R. Pastor-Satorras  |author2=A. Vespignani
+  |name-list-style=amp | year = 2001
+ | title = Epidemic spreading in scale-free networks
+ | journal = Physical Review Letters
+ | volume = 86
+ | pages = 3200–3203
+ | doi = 10.1103/PhysRevLett.86.3200
+ | pmid = 11290142
+ | issue = 14
+| bibcode=2001PhRvL..86.3200P
+|arxiv = cond-mat/0010317 |s2cid=16298768
+ }}
+* {{cite journal
+ |author1=R. Pastor-Satorras |author2=A. Vazquez |author3=A. Vespignani  |name-list-style=amp | year = 2001
+ | title = Dynamical and correlation properties of the Internet
+ | journal = Physical Review Letters
+ | volume = 87
+ | article-number = 258701
+ | doi = 10.1103/PhysRevLett.87.258701
+ | pmid = 11736611
+ | issue = 25
+| bibcode=2001PhRvL..87y8701P
+|arxiv = cond-mat/0105161 |s2cid=6232586 }}
+* {{cite journal
+ |author1=A. Barrat |author2=M. Barthélemy |author3=R. Pastor-Satorras |author4=A. Vespignani  |name-list-style=amp | year = 2004
+ | title = The architecture of complex weighted networks
+ | journal = PNAS 
+ | volume = 101
+ | pages = 3747–3752
+ | doi = 10.1073/pnas.0400087101
+ | pmid = 15007165
+ | issue = 11
+ | pmc = 374315
+|arxiv = cond-mat/0311416 |bibcode = 2004PNAS..101.3747B |doi-access=free }}
+*{{cite journal | last1 = Balcan | first1 = D. | last2 = Colizza | first2 = V. | last3 = Gonçalves | first3 = B. | last4 = Hu | first4 = H. | last5 = Ramasco | first5 = J.J. | last6 = Vespignani | first6 = A. | year = 2009 | title = Multiscale mobility networks and the spatial spreading of infectious diseases | journal = PNAS | volume = 106 | issue = 51| pages = 21484–21489 | doi = 10.1073/pnas.0906910106 | pmc = 2793313 | pmid = 20018697 | bibcode = 2009PNAS..10621484B | doi-access = free }}
+* {{cite book
+  | last = Pastor-Satorras
+  | first = R.
+  |author2=Vespignani, A.
+   | title = Evolution and Structure of the Internet
+  | publisher = Cambridge University Press
+  | year = 2004
+  | isbn = 0-521-82698-5 
+}}
+* {{cite book
+  | last =Barrat
+  | first = A.
+  |author2=Barthelemy, M. |author3=Vespignani, A. 
+  | title = Dynamical processes on complex networks
+  | publisher = Cambridge University Press
+  | year = 2008
+  | isbn = 978-0-521-87950-7
+}}
+* Tizzoni, M., Bajardi, P., Poletto, C., Ramasco, J.J., Balcan, D., Goncalves, B., Perra, N., Colizza, V., Vespignani, A.,  Real-time numerical forecast of global epidemic spreading: case study of 2009 A/H1N1pdm. ''BMC Med'' 10, 165 (2012). https://doi.org/10.1186/1741-7015-10-165. 
+* {{cite journal | last1=Merler | first1=Stefano | last2=Ajelli | first2=Marco | last3=Fumanelli | first3=Laura | last4=Gomes | first4=Marcelo F C | last5=Piontti | first5=Ana Pastore y | last6=Rossi | first6=Luca | last7=Chao | first7=Dennis L | last8=Longini | first8=Ira M | last9=Halloran | first9=M Elizabeth | last10=Vespignani | first10=Alessandro | title=Spatiotemporal spread of the 2014 outbreak of Ebola virus disease in Liberia and the effectiveness of non-pharmaceutical interventions: a computational modelling analysis | journal=[[The Lancet#Specialty journals|The Lancet Infectious Diseases]] | volume=15 | issue=2 | year=2015 | issn=1473-3099 | doi=10.1016/s1473-3099(14)71074-6 | pages=204–211 | pmc=4409131 | pmid=25575618 }}
+* {{cite journal | last1=Zhang | first1=Qian | last2=Sun | first2=Kaiyuan | last3=Chinazzi | first3=Matteo | last4=Pastore y Piontti | first4=Ana | last5=Dean | first5=Natalie E. | last6=Rojas | first6=Diana Patricia | last7=Merler | first7=Stefano | last8=Mistry | first8=Dina | last9=Poletti | first9=Piero | last10=Rossi | first10=Luca | last11=Bray | first11=Margaret | last12=Halloran | first12=M. Elizabeth | last13=Longini | first13=Ira M. | last14=Vespignani | first14=Alessandro | title=Spread of Zika virus in the Americas | 
+journal= [[Proceedings of the National Academy of Sciences of the United States of America]] | volume=114 | issue=22 | date=2017-04-25 | issn=0027-8424 | doi=10.1073/pnas.1620161114 | pages=E4334–E4343| pmid=28442561 | pmc=5465916 | bibcode=2017PNAS..114E4334Z | doi-access=free }}
+* Piontti, A. P., Perra, N., Rossi, L., Samay, N., & Vespignani, A. (2019). ''Charting the next pandemic: modeling infectious disease spreading in the data science age''. Heidelberg: Springer.
+
+==References==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vespignani, Alessandro}}
+[[Category:20th-century Italian physicists]]
+[[Category:Complex systems scientists]]
+[[Category:Indiana University faculty]]
+[[Category:Academic staff of Paris-Sud University]]
+[[Category:Sapienza University of Rome alumni]]
+[[Category:Living people]]
+[[Category:1965 births]]
+[[Category:Northeastern University faculty]]
+[[Category:Yale University fellows]]
+[[Category:Network scientists]]
+[[Category:Fellows of the American Physical Society]]

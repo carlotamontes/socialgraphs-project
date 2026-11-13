@@ -1,0 +1,107 @@
+{{Short description|American mathematical physicist (1944–2019)}}
+{{Infobox scientist
+| image             = Mitchell J Feigenbaum - Niels Bohr Institute 2006.jpg <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = Mitchell Feigenbaum in 2006
+|birth_name         = Mitchell Jay Feigenbaum
+| birth_date        = {{Birth date|1944|12|19|mf=yes}}
+| birth_place       = [[Philadelphia]], [[Pennsylvania]], US
+| death_date        = {{death date and age |2019|06|30 |1944|12|19}}
+| death_place       = [[New York City]], New York, US
+| citizenship       = [[United States|American]]
+| fields            = [[Mathematical physics]]
+| workplaces        = [[Rockefeller University]]
+| education         = {{nowrap|[[City College of New York]] <small>([[Bachelor of Science|BS]])</small>}}<br/ >[[Massachusetts Institute of Technology]] <small>([[Doctor of Philosophy|PhD]])</small>
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Francis E. Low]]
+| doctoral_students = 
+| known_for         = [[Feigenbaum constants]]<br />[[Feigenbaum function]]<br />[[Logistic map#Feigenbaum universality of 1-D maps|Feigenbaum universality]]
+| awards            = [[MacArthur Fellows Program|MacArthur Fellow]] {{small|(1984)}}<br/>[[Wolf Prize in Physics|Wolf Prize]] {{small|(1986)}}<br/>[[Dannie Heineman Prize for Mathematical Physics|Heineman Prize]] {{small|(2008)}}
+}}
+
+'''Mitchell Jay Feigenbaum''' {{IPAc-en|ˈ|f|aɪ|ɡ|ə|n|ˌ|b|aʊ|m}} (December 19, 1944 – June 30, 2019) was an American [[mathematical physics|mathematical physicist]] whose pioneering studies in [[chaos theory]] led to the discovery of the [[Feigenbaum constants]].
+
+== Early life ==
+Feigenbaum was born in [[Philadelphia, Pennsylvania]],<ref name="rockefeller">{{Cite news|url=https://www.rockefeller.edu/news/26289-mitchell-feigenbaum-physicist-pioneered-chaos-theory-died/|title=Mitchell Feigenbaum, physicist who pioneered chaos theory, has died|date=July 2, 2019|access-date=July 3, 2019|publisher=[[Rockefeller University]] |archive-url=https://web.archive.org/web/20200121013332/https://www.rockefeller.edu/news/26289-mitchell-feigenbaum-physicist-pioneered-chaos-theory-died/ |archive-date=January 21, 2020 |url-status=live}}</ref> to Jewish emigrants from [[Poland]] and [[Ukraine]]. He attended [[Samuel J. Tilden High School]], in [[Brooklyn]], New York, and the [[City College of New York]].  In 1964, he began his graduate studies at the [[Massachusetts Institute of Technology]] (MIT).  Enrolling for graduate study in [[electrical engineering]], he changed his area of study to [[physics]]. He completed his doctorate in 1970 for a thesis on [[dispersion relation]]s, under the supervision of Professor [[Francis E. Low]].<ref name=sta>{{cite web|url=http://www-history.mcs.st-and.ac.uk/Mathematicians/Feigenbaum.html|title=Mitchell Jay Feigenbaum|publisher=University of St Andrews}}</ref>
+
+== Career ==
+After short positions at [[Cornell University]] (1970–1972) and the [[Virginia Polytechnic Institute and State University]] (1972–1974), he was offered a longer-term post at the [[Los Alamos National Laboratory]] in [[New Mexico]] to study [[turbulence]] in fluids.<ref>{{Cite news |title=Mitchell Feigenbaum, an architect of chaos theory, dies at 74 |url=https://www.washingtonpost.com/local/obituaries/mitchell-feigenbaum-an-architect-of-chaos-theory-dies-at-74/2019/07/12/d0be719a-a2b8-11e9-bd56-eac6bb02d01d_story.html?utm_term=.efbd9ec84c9d |archive-url=https://web.archive.org/web/20190712192921/https://www.washingtonpost.com/local/obituaries/mitchell-feigenbaum-an-architect-of-chaos-theory-dies-at-74/2019/07/12/d0be719a-a2b8-11e9-bd56-eac6bb02d01d_story.html?utm_term=.efbd9ec84c9d |archive-date=2019-07-12 |access-date=2026-06-03 |work=Washington Post |language=en}}</ref> He also worked at the [[Santa Fe Institute]].<ref>{{Cite news |last=Horgan |first=John |title=My Encounter with the Late Mitchell Feigenbaum, Chaos Pioneer and Critic |url=https://www.scientificamerican.com/blog/cross-check/my-encounter-with-the-late-mitchell-feigenbaum-chaos-pioneer-and-critic/ |archive-url=https://web.archive.org/web/20240626063610/https://www.scientificamerican.com/blog/cross-check/my-encounter-with-the-late-mitchell-feigenbaum-chaos-pioneer-and-critic/ |archive-date=2024-06-26 |access-date=2026-06-03 |work=Scientific American |language=en-US}}</ref><ref>{{Cite web |last=Lemonick |first=Michael |date=February 22, 1993 |title=The New Field of Complexity |url=https://time.com/archive/6722468/the-new-field-of-complexity/ |website=Time Magazine}}</ref> He was at Cornell from 1982 to 1986 and then joined [[Rockefeller University]] as Toyota Professor in 1987. Although a complete theory of turbulent fluids remains elusive, Feigenbaum's research paved the way for  [[chaos theory]], providing groundbreaking insight into the many dynamical systems in which scientists and mathematicians find [[List of chaotic maps|chaotic maps]].<ref name=sta/>
+
+In 1983, he was awarded a [[MacArthur Foundation|MacArthur Fellowship]], and in 1986, alongside Rockefeller University colleague [[Albert Libchaber]], he was awarded the [[Wolf Prize in Physics]] "for his pioneering theoretical studies demonstrating the universal character of non-linear systems, which has made possible the systematic study of chaos". He was a member of the Board of Scientific Governors at [[the Scripps Research Institute]]. He remained at [[Rockefeller University]] as Toyota Professor from 1987 until his death.<ref name=sta/>
+[[File:LogisticMap BifurcationDiagram.png|thumb|Bifurcation diagram of the logistic map: Feigenbaum noticed in 1975 that the quotient of successive distances between bifurcation events tends to 4.6692...]]
+
+== Work ==
+Some mathematical mappings involving a single linear parameter exhibit the apparently random behavior known as chaos when the parameter lies within certain ranges.  As the parameter is increased towards this region, the mapping undergoes [[bifurcation (dynamical systems)|bifurcation]]s at precise values of the parameter.  At first, one stable point occurs, then bifurcates to an oscillation between two values, then bifurcating again to oscillate between four values, and so on.  Feigenbaum discovered in 1975, using an [[HP-65]] calculator, that the ratio of the difference between the values at which such successive [[period-doubling bifurcation]]s occur tends to a constant of around 4.6692...<ref name="NKS note c">{{Cite web |title=Note (c) for How the Discoveries in This Chapter Were Made: A New Kind of Science {{!}} Online by Stephen Wolfram [Page 899] |url=https://wolframscience.com/nks/notes-3-12--history-of-experimental-mathematics/ |access-date=2025-02-07 |website=www.wolframscience.com |language=en}}</ref>  He was able to provide a mathematical argument of that fact, and he then showed that the same behavior, with the same mathematical constant, would occur within a wide class of mathematical functions, prior to the onset of chaos.<ref>[http://chaosbook.org/extras/mjf/LA-6816-PR.pdf Feigenbaum, M. J. (1976) "Universality in complex discrete dynamics", Los Alamos Theoretical Division Annual Report 1975-1976]</ref> This universal result enabled mathematicians to take their first steps to unraveling the apparently intractable "random" behavior of chaotic systems.  The "ratio of convergence" measured in this study is now known as the first [[Feigenbaum constants|Feigenbaum constant]].<ref name=sta/>
+
+The [[logistic map]] is a prominent example of the mappings that Feigenbaum studied in his noted 1978 article: "Quantitative Universality for a Class of Nonlinear Transformations".<ref>{{cite journal|title=Quantitative Universality for a Class of Non-Linear Transformations|author=Feigenbaum, M. J.|journal=J. Stat. Phys.|volume=19|issue=1|pages=25–52|year=1978|bibcode = 1978JSP....19...25F |doi = 10.1007/BF01020332 |s2cid=124498882}}</ref>
+
+Feigenbaum's other contributions include the development of important new [[fractal]] methods in [[cartography]], starting when he was hired by Hammond to develop techniques to allow computers to assist in drawing maps.  The introduction to the ''Hammond Atlas'' (1992) states:
+
+<blockquote>
+Using [[fractal geometry]] to describe natural forms such as coastlines, mathematical physicist Mitchell Feigenbaum developed software capable of reconfiguring coastlines, borders, and mountain ranges to fit a multitude of map scales and projections.  Dr. Feigenbaum also created a new computerized type-placement program which places thousands of map labels in minutes, a task that previously required days of tedious labor.<ref>{{cite book|title=Hammond World Atlas|year=1992|isbn=978-0-8437-1604-7|publisher=Hammond Inc.}}</ref>
+</blockquote>
+
+[[File:Joel Lebowitz and Mitchell J. Feigenbaum, Brussels 1998.jpg|thumb|Mitchell Feigenbaum (right) and [[Joel Lebowitz]] (left), 1998]]
+
+In another practical application of his work, he founded [[Numerix]] with [[Michael Goodkin]] in 1996.<ref>{{Cite news |title=Mitchell Feigenbaum, Physicist Who Made Sense of Chaos, Dies at 74 |url=https://www.nytimes.com/2019/07/18/science/mitchell-feigenbaum-dead.html |archive-url=https://web.archive.org/web/20190718205639/https://www.nytimes.com/2019/07/18/science/mitchell-feigenbaum-dead.html |archive-date=2019-07-18 |access-date=2026-06-03 |language=en}}</ref> The company's initial product was a software algorithm that dramatically reduced the time required for [[Monte Carlo method|Monte Carlo]] pricing of exotic [[financial derivatives]] and [[structured products]].
+
+The press release made on the occasion of his receiving the [[Wolf Prize in Physics|Wolf Prize]] summed up his works:
+
+<blockquote>
+The impact of Feigenbaum's discoveries has been phenomenal. It has spanned new fields of theoretical and experimental mathematics ... It is hard to think of any other development in recent theoretical science that has had so broad an impact over so wide a range of fields, spanning both the very pure and the very applied.<ref name=sta/>
+</blockquote>
+
+==Works==
+* {{cite journal |last1=Feigenbaum |first1=Mitchell J. |title=Universal behavior in nonlinear systems |journal=Physica D: Nonlinear Phenomena |date=May 1983 |volume=7 |issue=1–3 |pages=16–39 |doi=10.1016/0167-2789(83)90112-4 |bibcode=1983PhyD....7...16F |url=http://cs.physics.sunysb.edu:80/verbaarschot/html/lectures/phy501-07/chaos/getfile.pdf |archive-url=https://web.archive.org/web/20100107173007/http://cs.physics.sunysb.edu:80/verbaarschot/html/lectures/phy501-07/chaos/getfile.pdf |archive-date=2010-01-07  |quote=A semipopular account of the universal scaling theory for the period doubling route to chaos is presented.<!-- https://www.sciencedirect.com/journal/physica-d-nonlinear-phenomena/vol/7/issue/1  https://ui.adsabs.harvard.edu/abs/1983PhyD....7...16F/abstract 
+ -->}}
+* {{cite web |title=Feigenbaum, Mitchell J. |url=https://ui.adsabs.harvard.edu/search/q=author%3A%22Feigenbaum%2C%20Mitchell%20J.%22&sort=date%20asc%2C%20bibcode%20asc&p_=0 |website=Publications |publisher=[[Astrophysics Data System]] <!-- |access-date=5 May 2022 -->}}
+* {{cite journal |last1=Feigenbaum |first1=Mitchell J. |title=Quantitative universality for a class of nonlinear transformations |journal=Journal of Statistical Physics |date=1 July 1978 |volume=19 |issue=1 |pages=25–52 |doi=10.1007/BF01020332|bibcode=1978JSP....19...25F |s2cid=124498882 }}
+* {{cite journal |last1=Feigenbaum |first1=Mitchell J. |title=Some characterizations of strange sets |journal=Journal of Statistical Physics |date=March 1987 |volume=46 |issue=5–6 |pages=919–924 |doi=10.1007/BF01011148|bibcode=1987JSP....46..919F |s2cid=121418123 }}
+
+==See also==
+* [[Theory of Colours#Reception by scientists|''Theory of Colours'' (book)]]
+
+== References ==
+{{reflist}}
+
+==External links==
+{{commons category|Mitchell Feigenbaum}}
+* {{MacTutor Biography|id=Feigenbaum}}
+* Miller, Antony .D. (2023). "Origins of Chaos Theory in Science and Society: Exploring this Concept in a Troubled Society." Feigenbaum pp. 27-35. Hardcover & Paperback – August 3 & 7, 2023. Otgontenger University, Mongolia. {{ISBN|979-8-3977-8000-1}} (Hardcopy), {{ISBN|979-8-8563-3203-1}} (Paperback)
+* {{Cite arXiv |title=The Theory of Relativity - Galileo's Child |first=Mitchell J. |last=Feigenbaum |date=6 June 2008 |eprint=0806.1234 |class=physics.class-ph }}
+* [http://ChaosBook.org/~predrag/papers/universalFunct.html Cvitanović, P. "A very brief history of universality in period doubling"]
+* [https://chaosbook.blogspot.com/1993/05/acceptance-speech-1993-nkt-research.html Cvitanović, P. "A not so short history of Universal Function"]
+
+{{Wolf Prize in Physics}}
+{{chaos theory}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Feigenbaum, Mitchell}}
+[[Category:1944 births]]
+[[Category:2019 deaths]]
+[[Category:Scientists from Philadelphia]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American people of Polish-Jewish descent]]
+[[Category:American people of Ukrainian-Jewish descent]]
+[[Category:21st-century American physicists]]
+[[Category:Chaos theorists]]
+[[Category:City College of New York alumni]]
+[[Category:Jewish American physicists]]
+[[Category:MacArthur Fellows]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Scripps Research]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:American mathematical physicists]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Samuel J. Tilden High School alumni]]
+[[Category:Mathematicians from New York (state)]]
+[[Category:Cornell University faculty]]
+[[Category:MIT Center for Theoretical Physics people]]
+[[Category:Academics from Los Alamos, New Mexico]]
+[[Category:Scientists from Los Alamos, New Mexico]]

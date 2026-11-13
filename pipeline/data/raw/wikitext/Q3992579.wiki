@@ -1,0 +1,106 @@
+{{Short description|Italian cognitive scientist (born 1947)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox scientist
+| birth_name        = Tomaso Armando Poggio
+| name              = Tomaso A. Poggio
+| image             = Tomaso poggio 2015.png
+| image_size        = 
+| caption           = Poggio in 2015
+| birth_date        = {{Birth date and age|df=yes|1947|09|11}}
+| birth_place       = [[Genoa, Italy]]
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| fields            = {{Plainlist|
+* [[Machine learning]]
+* [[Neural network]]s
+* [[Artificial intelligence]]
+* [[Cognitive science]]
+* [[Visual systems]]
+}}
+| workplaces        = [[Massachusetts Institute of Technology]]
+| education         = {{Plainlist|
+* Istituto Arecco (BA)
+* [[University of Genoa]] (PhD)}}
+| doctoral_advisor  = Prof. A. Borsellino
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = {{Plainlist|
+* [[Anya Hurlbert]]
+* [[Christof Koch]]
+* [[Partha Niyogi]]
+* [[Gabriel Kreiman]]
+}}
+| thesis_title      = 
+| thesis_year       = 
+| thesis_url        = 
+| known_for         = {{Plainlist|
+* Biophysical and behavioral studies of the visual system
+* Computational analyses of vision and learning in humans and machines
+* [[Deep learning]]
+* Visuo-motor control system in the fly
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[Otto Hahn Medal]], 1979.
+* Honorary degree, [[University of Pavia]], 2000.
+* 2003 [http://www.inns.org/ Gabor Award].
+* 2009 Okawa Prize [http://www.okawa-foundation.or.jp/e/oka/index.html#].
+* [[Swartz Prize]] For Theoretical and Computational Neuroscience,[http://www.sfn.org/ The Society for Neuroscience], 2014.
+}}
+| religion          = 
+| signature         = 
+| footnotes         = 
+| website           = 
+}}
+
+'''Tomaso Armando Poggio''' (born 11 September 1947 in [[Genoa]], [[Italy]]) is the Eugene McDermott professor in the [[Department of Brain and Cognitive Sciences]], an investigator at the [[McGovern Institute for Brain Research]], a member of the [[MIT Computer Science and Artificial Intelligence Laboratory]] (CSAIL) and director of both the [[CBCL (MIT)|Center for Biological and Computational Learning]] at [[Massachusetts Institute of Technology|MIT]] and the [[Center for Brains, Minds, and Machines]], a multi-institutional collaboration headquartered at the McGovern Institute since 2013.<ref name="MITSloanCIO">{{cite news |url=http://www.mitcio.com/prof-tomaso-poggio-mit-center-biological-and-computational-learning|title=MIT Sloan CIO Symposium: Tomaso Poggio|work=[[MIT Sloan CIO Symposium]]|date=18 May 2015|accessdate=30 May 2015}}</ref>
+
+== Biography ==
+Born in [[Genoa, Italy]], and educated at Istituto Arecco, Tomaso Poggio completed his doctorate in [[physics]] at the [[University of Genoa]] and received his degree in [[Theoretical Physics]] under professor A. Borsellino.
+
+==Research==
+His interdisciplinary research on the problem of [[intelligence]], between brains and computers, started at the [[Max Planck Institute]] in [[Tübingen]], [[Germany]] in collaborations with [[Werner E. Reichardt]], [[David Marr (neuroscientist)|David C. Marr]] and [[Francis Crick|Francis H.C. Crick]], among others. He has made contributions to learning theory, to the computational theory of vision, to the understanding of the fly's visual system, and to the biophysics of computation. His recent work is focused on [[computational neuroscience]] in close collaboration with several physiology labs, trying to answer the questions of how our visual system learns to see and recognize scenes and objects.<ref>A feedforward architecture accounts for rapid categorization. Serre T, Oliva A, Poggio T. [[Proceedings of the National Academy of Sciences of the United States of America]]. 2007 Apr 10;104(15):6424-9.</ref>
+
+He is one of the most cited computational neuroscientists.<ref>{{cite web|title=1360 Highly Cited Researchers (h>100) according to their Google Scholar Citations public profiles|url=http://www.webometrics.info/en/node/58|website=Ranking Web of Universities}}</ref>  with contributions ranging from the biophysical and behavioral studies of the visual system to the computational analyses of vision and learning in humans and machines. With [[Werner E. Reichardt]] he characterized quantitatively the visuo-motor control system in the fly.  With [[David Marr (neuroscientist)]], he introduced the seminal idea of levels of analysis in computational neuroscience. He and Torre introduced [[regularization (mathematics)|regularization]] as a mathematical framework to approach the ill-posed problems of vision and the key problem of learning from data.<ref>{{cite web|title=Ill-Posed Problems and Regularization Analysis in Early Vision|url=https://apps.dtic.mil/sti/citations/ADA147753|archive-url=https://web.archive.org/web/20210807162027/https://apps.dtic.mil/sti/citations/ADA147753|archive-date=7 August 2021|url-status=live|access-date=7 August 2021}}</ref> The citation for the 2009 Okawa prize mentions his  "…outstanding contributions to the establishment of computational neuroscience, and pioneering researches ranging from the biophysical and behavioral studies of the visual system to the computational analysis of vision and learning in humans and machines."  His research has always been interdisciplinary, between brains and computers. It is now focused on the mathematics of deep learning and on the computational neuroscience of the visual cortex.
+
+==Industry==
+Poggio is a former Corporate Fellow of [[Thinking Machines Corporation]] and a former director of PHZ Capital Partners, Inc., is a director of [[Mobileye]] and was involved in starting, or investing in, several other high tech companies including Arris Pharmaceutical, nFX, [[Imagen (text-to-image model)|Imagen]], Digital Persona and [[DeepMind]]. Among his PhD students and post-docs are some of the today's leaders in the Science and in the Engineering of Intelligence,  from Christof Koch (President and Chief Scientific Officer, Allen Institute) to Amnon Shashua (CEO and founder, Mobileye) and [[Demis Hassabis]] (CEO and founder, Deep Mind, and [[Nobel Prize]] for [[Chemistry]] 2024).
+
+==Honors and awards==
+Poggio is an honorary member of the Neuroscience Research Program, a member of the [[American Academy of Arts and Sciences]] and a founding fellow of [[AAAI]] and a founding member of the [[McGovern Institute for Brain Research]]. He received the Laurea Honoris Causa in Computer Engineering from the [[University of Pavia]] for the Volta Bicentennial in 2000, the 2003 [http://www.inns.org/ Gabor Award], the 2009 Okawa Prize [https://web.archive.org/web/20091217212410/http://www.okawa-foundation.or.jp/e/oka/index.html], and named in 2009 a Fellow of the [[American Association for the Advancement of Science|American Association for the Advancement of Science (AAAS)]] for "distinguished contributions to computational neuroscience, in particular, computational vision learning and regularization theory, biophysics of computation and models of recognition in the visual cortex", the 2014 [[Swartz Prize]] for Theoretical and Computational Neuroscience, in 2020 won the first edition of the international scientific award "Ratio et spes",<ref>{{Cite web |title=Conferenza Stampa di presentazione delle iniziative della Fondazione Vaticana Joseph Ratzinger – Benedetto XVI |url=https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2020/10/01/0500/01147.html |access-date=2023-01-19 |website=press.vatican.va}}</ref> the ICCV 2021 Helmholtz Prize,<ref>{{Cite web |title=ICCV Helmholtz Prize - IEEE Computer Society Technical Committee on Pattern Analysis and Machine Intelligence -IEEE Computer Society Technical Committee on Pattern Analysis and Machine Intelligence |url=https://tc.computer.org/tcpami/2022/08/22/iccv-helmholtz-prize/ |access-date=2023-01-19 |website=tc.computer.org}}</ref> and the Kampe' de F'eriet Award and Plenary Lecture, IMPU 2022, Milan, Italy.<ref>{{Cite web |title=Tomaso Poggio presented with the 2022 Kampe de Feriet award {{!}} The Center for Brains, Minds & Machines |url=https://cbmm.mit.edu/news-events/news/tomaso-poggio-presented-2022-kampe-de-feriet-award |access-date=2023-01-19 |website=cbmm.mit.edu}}</ref>
+
+==Notable students==
+*[[Christof Koch]], President and Chief Scientific Officer, [[Allen Institute for Brain Science]]
+*[[Partha Niyogi]]
+
+==See also==
+* [http://cbmm.mit.edu/ Center for Brains, Minds, and Machines]
+* [[CBCL (MIT)|Center for Biological and Computational Learning]] at [[Massachusetts Institute of Technology|MIT]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://cbcl.mit.edu/ The Center for Biological and Computational Learning (CBCL) at MIT]
+*[http://web.mit.edu/mcgovern McGovern Institute for Brain Research at MIT]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Poggio, Tomaso}}
+[[Category:MIT School of Science faculty]]
+[[Category:Artificial intelligence researchers]]
+[[Category:Italian cognitive neuroscientists]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Living people]]
+[[Category:1947 births]]
+[[Category:University of Genoa alumni]]
+[[Category:Italian computer scientists]]
+[[Category:American computer scientists]]
+[[Category:Computer vision researchers]]

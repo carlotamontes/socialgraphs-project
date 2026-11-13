@@ -1,0 +1,122 @@
+{{short description|American electrical engineer and academic}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Robert Gordon Kouyoumjian <!-- defaults to article title when left blank -->
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Robert G. Kouyoumjian.png
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |1923|04|26}}
+| birth_place       = [[Cleveland]], [[Ohio]], U.S.
+| death_date        = {{death date and age |2011|01|03 |1923|04|26}}
+| death_place       = [[Columbus, Ohio|Columbus]], Ohio, U.S.
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Electrical engineering]]
+| workplaces        = Ohio State University
+| patrons           = 
+| education         = [[Ohio State University]]
+| thesis_title      = The calculation of the echo areas of perfectly conducting objects by the variational method
+| thesis_url        = https://www.proquest.com/dissertations-theses/calculation-echo-areas-perfectly-conducting/docview/302054250/se-2?accountid=210906
+| thesis_year       = 1953
+| doctoral_advisor  = [[Victor H. Rumsey]]
+| academic_advisors = 
+| doctoral_students = {{plainlist|
+*[[Ben Munk]]
+*[[Raphael Tsu]]
+}}
+| notable_students  = 
+| known_for         = [[Uniform theory of diffraction]]
+| awards            = {{plainlist|
+* [[IEEE Centennial Medal]] (1984)
+* [[National Academy of Engineering]] membership (1995)
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Robert Gordon Kouyoumjian''' (April 26, 1923 – January 3, 2011) was an American electrical engineer and physicist who was a professor emeritus at the Department of Electrical Engineering at [[Ohio State University]]. He is best known for the development [[uniform theory of diffraction]] with his doctoral student Prabhakar Pathak.
+
+==Biography==
+Robert Gordon Kouyoumjian was born on April 26, 1923, in [[Cleveland]], [[Ohio]]. During [[World War II]], he served in the [[United States Army Air Forces]] as a captain, and was trained in [[meteorology]]. Attending electronics lectures at [[Harvard University]] and [[Massachusetts Institute of Technology]], he was involved early development of [[radar]] meteorology during this period. After the war, he completed his undergraduate education at [[Ohio State University]], receiving a degree in [[engineering physics]] in 1948. He subsequently completed his doctoral studies under [[Victor H. Rumsey]], receiving a PhD degree in physics in 1953 from Ohio State University. In the following year, he joined the faculty of the Department of Electrical Engineering at the same institution. He was promoted to full professorship in 1962 and retired in 1982 becoming a professor emeritus. While he remained active as an instructor for some years following his retirement, he continued his research work almost until the end of his life. He died on January 3, 2011, and was survived by three children and four grandhcildren.<ref name="ap-memoriam"/><ref name="osu-memoriam"/>
+
+Kouyoumjian's early work during the 1950s involved the development of [[Calculus of variations|variational]] solutions for certain classes of electromagnetic problems, which went on the become early forerunners for [[Method of moments (electromagnetics)|method of moments]]. His other work during this period also featured the areas of [[radar cross section]]s, [[Antenna (radio)|antenna]] [[Polarization (waves)|polarization analysis]], thermal properties of electromagnetic waves, and [[underwater acoustics]].<ref name="ap-memoriam"/> During the 1960s, his work gravitated towards [[Asymptotic analysis|asymptotic]] high-frequency methods, and he sought to extend the geometrical theory of diffraction, developed by [[Joseph Keller]]. Following a series of works on the topic with multiple doctoral students, he introduced the [[uniform theory of diffraction]] with his doctoral student Prabhakar Pathak in the 1970s.<ref name="osu-hf"/><ref name="utd"/><ref name="rahmat-samii"/><ref name="proc-gass-2011"/> The theory was subsequently used in the analysis of various electrically large radiation and scattering problems in engineering, such as indoor and outdoor [[radio propagation]].<ref name="ap-memoriam"/> In 1995, he was elected to the [[National Academy of Engineering]], "for contributions to the development of the uniform geometric theory of diffraction and the analysis and design of antennas and scatterers."<ref name="nae-member"/> He has received [[IEEE Centennial Medal]] in 1984, Antennas and Propagation Society Distinguished Achievement Award in 1999, and the IEEE Third Millennium Medal in 2000. He was a member of the Commission B of the [[International Union of Radio Science]].<ref name="ap-memoriam"/>
+
+==Selected publications==
+;Book chapters
+* {{cite book |last1=Kouyoumjian |first1=R. G. |editor1-last=Mittra |editor1-first=Raj |title=Numerical and Asymptotic Techniques in Electromagnetics |date=2005 |publisher=Springer |isbn=9783540070726 |pages=165–215 |chapter=The geometrical theory of diffraction and its application |editor1-link=Raj Mittra}}
+
+;Journal articles
+* {{cite journal |last1=Kouyoumjian |first1=R.G. |title=Asymptotic high-frequency methods |journal=[[Proceedings of the IEEE]] |date=August 1965 |volume=53 |issue=8 |pages=864–876 |doi=10.1109/PROC.1965.4065 |bibcode=1965IEEEP..53..864K }}
+* {{cite journal |last1=Ott |first1=R. H. |last2=Kouyoumjian |first2=R. G. |last3=Peters |first3=L. |title=Scattering by a two-dimensional periodic array of narrow plates |journal=[[Radio Science]] |date=November 1967 |volume=2 |issue=11 |pages=1347–1359 |doi=10.1002/rds19672111347|bibcode=1967RaSc....2.1347O }}
+* {{cite journal |last1=Pathak |first1=P. H. |last2=Kouyoumjian |first2=R. G. |title=An analysis of the radiation from apertures in curved surfaces by the geometrical theory of diffraction |journal=Proceedings of the IEEE |date=November 1974 |volume=62 |issue=11 |pages=1438–1447 |doi=10.1109/PROC.1974.9650 |bibcode=1974IEEEP..62.1438P }}
+* {{cite journal |last1=Kouyoumjian |first1=R. G. |last2=Pathak |first2=P. H. |title=A uniform geometrical theory of diffraction for an edge in a perfectly conducting surface |journal=Proceedings of the IEEE |date=November 1974 |volume=62 |issue=11 |pages=1448–1461 |doi=10.1109/PROC.1974.9651 |bibcode=1974IEEEP..62.1448K }}
+* {{cite journal |last1=Pathak |first1=P. |last2=Wang |first2=Nan |last3=Burnside |first3=W. |last4=Kouyoumjian |first4=R. |title=A uniform GTD solution for the radiation from sources on a convex surface |journal=[[IEEE Transactions on Antennas and Propagation]] |date=July 1981 |volume=29 |issue=4 |pages=609–622 |doi=10.1109/TAP.1981.1142636|bibcode=1981ITAP...29..609P }}
+* {{cite journal |last1=Tiberio |first1=R. |last2=Kouyoumjian |first2=R. G. |title=An analysis of diffraction at edges illuminated by transition region fields |journal=Radio Science |date=1982 |volume=17 |issue=2 |pages=323–336 |doi=10.1029/RS017i002p00323|bibcode=1982RaSc...17..323T }}
+*{{cite journal |last1=Zhang |first1=Y. P. |last2=Hwang |first2=Y. |last3=Kouyoumjian |first3=R.G. |title=Ray-optical prediction of radio-wave propagation characteristics in tunnel environments. 1. Theory |journal=IEEE Transactions on Antennas and Propagation |date=September 1998 |volume=46 |issue=9 |pages= 1328–1336 |doi=10.1109/8.719976|bibcode=1998ITAP...46.1328H |hdl=10220/6306 |hdl-access=free }}
+*{{cite journal |last1=Zhang |first1=Y. P. |last2=Hwang |first2=Y. |last3=Kouyoumjian |first3=R.G. |title=Ray-optical prediction of radio-wave propagation characteristics in tunnel environments. 2. Analysis and measurements |journal=IEEE Transactions on Antennas and Propagation |date=September 1998 |volume=46 |issue=9 |pages=1337–1345 |doi=10.1109/8.719977|bibcode=1998ITAP...46.1337Z |hdl=10220/5945 |hdl-access=free }}
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="ap-memoriam">{{cite journal |title=In Memoriam: Robert Gordon Kouyoumjian (1923 – 2011) |journal=IEEE Antennas and Propagation Magazine |date=October 2011 |volume=53 |issue=5 |pages=112–113 |doi=10.1109/MAP.2011.6138436 |first=Prabhakar |last=Pathak |bibcode=2011IAPM...53e.112P }}</ref>
+
+<ref name="nae-member">{{cite web |title=Member: Dr. Robert G. Kouyoumjian |url=https://www.nae.edu/30101/Dr-Robert-G-Kouyoumjian |website=nae.edu |access-date=September 7, 2024}}</ref>
+
+<ref name="osu-hf">{{cite conference |url= |title=Brief summary of research in high frequency methods at OSU-ESL |last1=Pathak |first1=P. H. |author-link1= |last2= |first2= |author-link2= |date= 2003 |publisher= |book-title= |pages= |location= |conference=Antennas and Propagation Society International Symposium |id= |doi=10.1109/APS.2003.1220345}}</ref>
+
+<ref name="osu-memoriam">{{cite web |title=In Memoriam: Professor Emeritus Robert Kouyoumjian, 1923-2011 |url=https://electroscience.osu.edu/news/2011/01/memoriam-professor-emeritus-robert-kouyoumjian-1923-2011 |website=electroscience.osu.edu |access-date=September 7, 2024 |date=January 11, 2011}}</ref>
+
+<ref name="proc-gass-2011">{{cite conference |url=https://www.ursi.org/proceedings/procGA11/ursi/B03-1.pdf |title=The Contribution of Prof. Robert Kouyoumjian to Edge Diffraction and Field Transition at and Near Shadow Boundaries Using UTD |last1=Balanis |first1=Constantine A. |author-link1=Constantine A. Balanis |last2= |first2= |author-link2= |date= |publisher= |book-title= |pages= |location= |conference=2011 XXXth URSI General Assembly and Scientific Symposium |doi=10.1109/URSIGASS.2011.6050241 |id=}}</ref>
+
+<ref name="rahmat-samii">{{cite journal |last1=Rahmat-Samii |first1=Yahya |title=GTD, UTD, UAT, and STD: A Historical Revisit and Personal Observations |journal=IEEE Antennas and Propagation Magazine |date=June 2013 |volume=55 |issue=3 |pages=29–40 |doi=10.1109/MAP.2013.6586622 |bibcode=2013IAPM...55...29R |author-link=Yahya Rahmat-Samii}}</ref>
+
+<ref name="utd">{{cite journal |last1=Kouyoumjian |first1=R. G. |last2=Pathak |first2=P. H. |title=A uniform geometrical theory of diffraction for an edge in a perfectly conducting surface |journal=[[Proceedings of the IEEE]] |date=November 1974 |volume=62 |issue=11 |pages=1448–1461 |doi=10.1109/PROC.1974.9651 |bibcode=1974IEEEP..62.1448K }}</ref>
+
+}}
+
+==External links==
+* [https://www.nae.edu/30101/Dr-Robert-G-Kouyoumjian Robert G. Kouyoumjian] at [[National Academy of Engineering]] official website
+
+{{DEFAULTSORT:Kouyoumjian, Robert}}
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:1923 births]]
+[[Category:Ohio State University College of Arts and Sciences alumni]]
+[[Category:Ohio State University faculty]]
+[[Category:American telecommunications engineers]]
+[[Category:American microwave engineers]]
+[[Category:American people of Armenian descent]]
+[[Category:IEEE Centennial Medal laureates]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:Scientists from Cleveland]]
+[[Category:Academics from Columbus, Ohio]]
+[[Category:2011 deaths]]
+[[Category:Fellows of the IEEE]]
+[[Category:Radiophysicists]]

@@ -1,0 +1,60 @@
+{{short description|American theoretical physicist}}
+{{Use American English|date=January 2019}}{{Infobox scientist
+| name              = David P. DiVincenzo
+| image             = 
+| caption           = David P. DiVincenzo
+| birth_date        = {{birth year and age|1959}}
+| birth_place       = [[Philadelphia]], [[Pennsylvania]], U.S.
+| death_date        = 
+| death_place       = 
+| spouse            = [[Barbara Terhal]]<ref>{{Cite web |date=2017-07-31 |title=“Physics is like climbing a mountain” |url=https://www.helmholtz.de/en/newsroom/article/physics-is-like-climbing-a-mountain/ |access-date=2025-11-11 |website=Helmholtz-Gemeinschaft Deutscher Forschungszentren |language=en-GB}}</ref>
+| education         = {{Unbulleted list |item_style=padding:0.15em 0;line-height:1.15em | [[University of Pennsylvania]]<!-- {{smaller|(to 1983)}}--> | [[Cornell University]]<!-- {{smaller|(1984-85)}}-->}}
+| doctoral_advisor  = [[Eugene J. Mele]]
+| doctoral_students = 
+| known_for         = {{ublist|[[Quantum computing]]|[[Loss–DiVincenzo quantum computer]]| [[DiVincenzo's criteria]]}}
+| footnotes         = 
+| field             = [[Physics]] ([[Theoretical physics|theoretical]])
+| workplaces        = {{ublist|[[RWTH Aachen University]]|[[Forschungszentrum Jülich]]}}
+| awards            = [[Alexander von Humboldt Professorship]] (2011)<ref>{{Cite web |url=https://www.humboldt-foundation.de/web/ahp-2011-en.html |title=Alexander von Humboldt Professorship – Award Winners 2011 |access-date=2015-12-14 |archive-date=2018-10-20 |archive-url=https://web.archive.org/web/20181020173217/https://www.humboldt-foundation.de/web/ahp-2011-en.html }}</ref>
+| religion          = 
+}}
+
+'''David P. DiVincenzo''' (born 1959) is an American theoretical physicist. He is the director of the Institute of Theoretical Nanoelectronics at the Peter Grünberg Institute at the [[Forschungszentrum Jülich]] and professor at the Institute for Quantum Information at [[RWTH Aachen University]]. With [[Daniel Loss]] (at the [[University of Basel]]), he proposed the [[Loss–DiVincenzo quantum computer]] in 1997,<ref>D. Loss and D. P. DiVincenzo, "Quantum computation with quantum dots", ''Phys. Rev. A'' '''57''', p120 (1998); [https://arxiv.org/cond-mat/9701055 on arXiv.org in Jan. 1997]</ref> which would use electron spins in [[quantum dots]] as [[qubits]].<ref>{{cite news |last=Hellemans |first=Alexander |title=David DiVincenzo on his Tenure at IBM and the Future of Quantum Computing |url=https://spectrum.ieee.org/david-divincenzo-on-his-tenure-at-ibm-and-the-future-of-quantum-computing |date=2 October 2015 |work=[[IEEE Spectrum]] |access-date=14 December 2015 }}</ref>
+
+== Career ==
+In 1996, during his research at [[IBM]], he published a paper "Topics in Quantum Computing"<ref>{{Cite journal|title = TOPICS IN QUANTUM COMPUTERS|last = DiVincenzo|first = David|date = 16 December 1996|journal = Mesoscopic Electron Transport|arxiv = cond-mat/9612126}}</ref> which outlined the five minimal requirements he predicted were necessary for creating a quantum computer. It has since become known as the "[[DiVincenzo's criteria|DiVincenzo criteria]]"<ref>{{Cite web|title = Proposed modular quantum computer architecture offers scalability to large numbers of qubits|url = http://phys.org/news/2014-02-modular-quantum-architecture-scalability-large.html|website = phys.org|publisher = [[Phys.org]] |access-date = 2015-12-15}}</ref><ref>{{Cite journal|title = Efficient quantum computing using coherent photon conversion|journal = [[Nature (journal)|Nature]]|date = 2011-10-20|issn = 0028-0836|pages = 360–363|volume = 478|issue = 7369|doi = 10.1038/nature10463|first1 = N. K.|last1 = Langford|first2 = S.|last2 = Ramelow|first3 = R.|last3 = Prevedel|first4 = W. J.|last4 = Munro|first5 = G. J.|last5 = Milburn|first6 = A.|last6 = Zeilinger|pmid=21993627|arxiv = 1106.1992|bibcode = 2011Natur.478..360L| s2cid=4426190 }}</ref><ref>{{Cite journal|title = All-photonic quantum repeaters|journal = [[Nature Communications]]|date = 2015-04-15|pmc = 4410623|pmid = 25873153|volume = 6|doi = 10.1038/ncomms7787|doi-access = free|first1 = Koji|last1 = Azuma|first2 = Kiyoshi|last2 = Tamaki|first3 = Hoi-Kwong|last3 = Lo|page=6787|arxiv = 1309.7207|bibcode = 2015NatCo...6.6787A}}</ref><ref>{{Cite web|title = A Blueprint for Building a Quantum Computer|url = http://cacm.acm.org/magazines/2013/10/168172-a-blueprint-for-building-a-quantum-computer/fulltext|website = cacm.acm.org|access-date = 2015-12-15}}</ref> and has influenced much of the experimental research into developing a working quantum computer.<ref>{{Cite journal|title = Quantum computers: Definition and implementations|journal = [[Physical Review A]]|date = 2011-01-13|article-number = 012303|volume = 83|issue = 1|doi = 10.1103/PhysRevA.83.012303|first1 = Carlos A.|last1 = Pérez-Delgado|first2 = Pieter|last2 = Kok|arxiv = 0906.4344|bibcode = 2011PhRvA..83a2303P}}</ref>
+
+The DiVincenzo criteria that a quantum computer implementation must satisfy are as follows:<ref>{{Cite journal|title = The Physical Implementation of Quantum Computation|journal = [[Fortschritte der Physik]]|issn = 0015-8208|pages = 771–783|volume = 48|issue = 9–11|doi = 10.1002/1521-3978(200009)48:9/11<771::aid-prop771>3.0.co;2-e|first = David P.|last = DiVincenzo|arxiv = quant-ph/0002077|year = 2000|bibcode = 2000ForPh..48..771D| s2cid=15439711 }}</ref>
+
+# A scalable physical system with well-characterized [[qubit]]s,
+# The ability to initialize the state of the qubits to a simple fiducial state, such as to <math>|000\cdots\rangle</math>,
+# A "universal" set of [[quantum gate]]s,
+# Long relevant [[Quantum decoherence|decoherence]] times, much longer than the gate-operation time,
+# A qubit-specific measurement capability.
+
+For [[quantum communication]], the act of transmitting intact qubits from place to place, two additional criteria must be satisfied:
+
+&nbsp; &nbsp; &nbsp; &nbsp; 6. The ability to interconvert stationary and flying qubits, and<br />&nbsp; &nbsp; &nbsp; &nbsp; 7. The ability to transmit flying qubits between distant locations.
+
+== See also ==
+
+* [[DiVincenzo's criteria]]
+* [[Quantum computing]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20180421031356/https://www.quantuminfo.physik.rwth-aachen.de/go/id/exwj/lidx/1 CV on RWCC Aachen University staff page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:DiVincenzo, David}}
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:1959 births]]
+[[Category:Scientists from Philadelphia]]
+[[Category:American people of Italian descent]]
+[[Category:American quantum information scientists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Academic staff of RWTH Aachen University]]

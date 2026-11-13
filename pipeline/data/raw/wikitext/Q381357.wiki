@@ -1,0 +1,67 @@
+{{Short description|Russian mathematician (1929–1995)}}
+{{Infobox scientist
+| name        = Roland L. Dobrushin
+| native_name = Рола́нд Л. Добру́шин
+| native_name_lang = ru
+| image       = Roland Dobrushin and Elena Sinai-Vul.jpg <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = Roland Dobrushin and Elena Sinai-Vul
+| birth_date  = {{birth date |1929|7|20|mf=y}}
+| birth_place = [[St Petersburg]]
+| death_date  = {{death date and age |1995|11|12 |1929|7|20|mf=y}}
+| death_place = [[Moscow]]
+| fields      = [[Mathematics]]
+| workplaces  = 
+| education   = [[Moscow State University]]
+| doctoral_advisor = [[Andrey Kolmogorov]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = [[Michel Deza]]
+| known_for   = 
+| awards      = 
+}}
+
+'''Roland Lvovich Dobrushin''' ({{langx|ru|Рола́нд Льво́вич Добру́шин}}) (July 20, 1929 – November 12, 1995) was a [[mathematician]] who made important contributions to [[probability theory]],{{sfn|Ibragimov|1997}}  [[mathematical physics]],{{sfn|Minlos|1997}} and [[information theory]].{{sfn|Prelov|1997}}
+
+==Life and work==
+
+Dobrushin received his Ph.D. at [[Moscow State University]] under the supervision of [[Andrey Kolmogorov]].
+
+In [[statistical mechanics]], he introduced (simultaneously with Lanford and Ruelle) the [[Dobrushin–Lanford–Ruelle equations|DLR equations]] for the [[Gibbs measure]]. Together with Kotecký and Shlosman, he studied the formation of droplets in [[Ising model|Ising-type models]], providing mathematical justification of the [[Wulff construction]].{{sfn|Jaffe|Lebowitz|Sinai|1997}}
+
+He was a foreign member of the [[American Academy of Arts and Sciences]], [[Academia Europæa]] and [[United States National Academy of Sciences|US National Academy of Sciences]].
+
+The Dobrushin prize was established in his honour.<ref>{{cite journal|mr=2489468|title=The International Dobrushin Prize|journal=Probl. Inf. Transm.|volume=44|year=2008|issue=4|pages=395–398|doi=10.1134/s0032946008040108|s2cid=21149495}}</ref>
+
+[[File:Kesten-Peierls-Dobrushin.tif|thumb|350px|with [[Harry Kesten]] and [[Rudolf Peierls]] in Oxford, 1993]]
+
+==Notes==
+
+{{Reflist}}
+
+==References==
+
+* {{cite journal|mr=1480130|last=Ibragimov|first=I. A.|title=The work of R. L. Dobrushin on Markov processes|journal=Russian Math. Surveys|volume=52|year=1997|issue=2|pages=239–243|doi=10.1070/rm1997v052n02abeh001767|bibcode = 1997RuMaS..52..239I |s2cid=250867778 }}
+* {{cite journal|mr=1480016|last1=Jaffe|first1=A.|last2=Lebowitz|first2=J.|last3=Sinai|first3=Ya.|title=Roland L. Dobrushin|journal=Comm. Math. Phys.|volume=189|year=1997|issue=2|pages=259–261|doi=10.1007/s002200050199|bibcode = 1997CMaPh.189..259J |s2cid=121829879}}
+* {{cite journal|mr=1480132|last=Minlos|first=R. A.|title=R. L. Dobrushin—one of the founders of modern mathematical physics|journal=Russian Math. Surveys|volume= 52|year=1997|issue=2|pages=251–256|doi=10.1070/rm1997v052n02abeh001772|bibcode = 1997RuMaS..52..251M |s2cid=250856740 }}
+* {{cite journal|mr=1480131|last=Prelov|first=V. V.|title=Information theory in the scientific work of R. L. Dobrushin.|journal=Russian Math. Surveys|volume=52|year=1997|issue=2|pages=245–249|doi=10.1070/rm1997v052n02abeh001771|bibcode = 1997RuMaS..52..245P |s2cid=250858169 }}
+
+==External links==
+* {{MathGenealogy|id=17505}}
+* [https://web.archive.org/web/20130927140426/http://www.cpt.univ-mrs.fr/dobrushin/ Memorial website].
+* [http://www.computer-museum.ru/connect/dobrushi.htm Biography] (in Russian)
+* [https://www.independent.co.uk/news/people/obituary-professor-roland-dobrushin-1584199.html Obituary from The Independent]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dobrushin, Roland Lvovich}}
+[[Category:1929 births]]
+[[Category:1995 deaths]]
+[[Category:Soviet mathematicians]]
+[[Category:20th-century Russian mathematicians]]
+[[Category:Probability theorists]]
+[[Category:Moscow State University alumni]]
+[[Category:Members of Academia Europaea]]
+[[Category:International members of the National Academy of Sciences]]
+
+
+{{russia-mathematician-stub}}

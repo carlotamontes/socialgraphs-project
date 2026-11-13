@@ -1,0 +1,68 @@
+{{short description|Italian computer scientist}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+|name              = Simone Severini
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| patrons           = 
+| education        = [[University of Bristol]] ([[Doctor of Philosophy|PhD]])
+| alma_mater       = [[University of Florence]] 
+| fields            = [[Physics]], [[Computer Science]], [[Quantum Computing]]
+| workplaces        = [[University College London|UCL]]<br />[[Institute for Quantum Computing]]<br />
+| doctoral_advisor  = [[Richard Jozsa]]<ref>[https://genealogy.math.ndsu.nodak.edu/id.php?id=99574 Mathematics Genealogy Project]</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Braunstein-Ghosh-Severini Entropy]]<br />[[Induced gravity]]<br />[[Quantum contextuality]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            =  [[Royal Society University Research Fellowship]]<br />[[Newton International Fellowship]]<br />
+| religion          = 
+| signature         = <!--(filename only)-->
+| website           =    {{URL|www.ucl.ac.uk/~ucapsse}}
+| footnotes         = 
+}}
+'''Simone Severini''' is an Italian-born British computer scientist. He is currently Distinguished Engineer at [[Google]], and Professor of Physics of Information at [[University College London]]. In 2018 he founded the [[Quantum Computing]] program at [[Amazon Web Services]] and served as its General Manager. In 2015 he was the technical co-founder and one of the first scientific advisors of [[Cambridge Quantum Computing]], with [[Béla Bollobás]], [[Imre Leader]], and [[Fernando Brandão]]. He co-founded [[Phasecraft]],<ref>https://www.phasecraft.io/</ref> with Toby Cubitt, Ashley Montanaro, and John Morton.
+
+His academic research applied graph and network theory to quantum physics. With Adan Cabello and [[Andreas Winter]], he developed a framework for [[quantum contextuality]], and with Tomasz Konopka, [[Fotini Markopoulou]], and [[Lee Smolin]], he introduced [[Quantum Graphity|quantum graphity]],<ref>[[Roberto Mangabeira Unger]], [[Lee Smolin]], [[The Singular Universe and the Reality of Time: A Proposal in Natural Philosophy]], Cambridge University Press (2014).</ref><ref>Shyam Wuppuluri and [[Giancarlo Ghirardi]] (Eds.), Space, Time and the Limits of Human Understanding (Foreword by [[John Stachel]] and Afterword by [[Noam Chomsky]]), Springer (2017).</ref> a [[random graph]] model of spacetime. He also co-introduced the [[Braunstein–Ghosh–Severini entropy]].<ref>{{cite journal | last1=Braunstein | first1=Samuel L. |author-link=Samuel L. Braunstein| last2=Ghosh | first2=Sibasish | last3=Severini | first3=Simone | title=The Laplacian of a Graph as a Density Matrix: A Basic Combinatorial Approach to Separability of Mixed States | journal=[[Annals of Combinatorics]] | publisher=Springer Science and Business Media LLC | volume=10 | issue=3 | year=2006 | issn=0218-0006 | doi=10.1007/s00026-006-0289-3 | pages=291–317|arxiv=quant-ph/0406165| s2cid=14522309 }}</ref> Severini serves on the Strategic Advisory Board of the Lean Focused Research Organization (FRO), a non-profit organization supporting the development of the [[Lean (proof assistant)|Lean]] proof assistant and its ecosystem.<ref>{{cite web |title=Team |website=Lean FRO |url=https://lean-lang.org/fro/team/ |access-date=20 December 2025}}</ref>
+
+== References ==
+<references/>
+
+==External links==
+* {{cite web|url= https://arxiv.org:443/find/all/1/au:+severini_simone/0/1/0/all/0/1?per_page=100 |title=Simone Severini's articles on arXiv |website=Arxiv.org}}
+* {{Cite journal|arxiv=0801.0861 |title=  Quantum graphity: A model of emergent locality| doi=10.1103/PhysRevD.77.104029 | volume=77|journal=Physical Review D |bibcode=2008PhRvD..77j4029K | year=2008|issue= 10|article-number= 104029|last1= Konopka|first1= Tomasz|last2= Markopoulou|first2= Fotini|last3= Severini|first3= Simone|s2cid= 6959359}}
+* {{Cite journal|arxiv=1401.7081 |title= Graph-Theoretic Approach to Quantum Correlations |journal= Physical Review Letters|volume=112|year=2014|issue= 4|article-number= 040401|doi=10.1103/PhysRevLett.112.040401|bibcode=2014PhRvL.112d0401C |pmid=24580419|last1= Cabello |first1= Adán |last2= Severini |first2= Simone |last3= Winter |first3= Andreas |s2cid= 34998358 }}
+* {{Cite web |title=Nella terra dei qubit |url=https://www.flacoedizioni.com/115-fisica-informatica-quantistica.html |access-date=2022-12-23 |website=Trèfoglie |language=it}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Severini, Simone}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:British physicists]]
+[[Category:Quantum physicists]]
+[[Category:Academics of University College London]]
+
+
+{{UK-physicist-stub}}

@@ -1,0 +1,128 @@
+{{Short description|British computer scientist and author (born 1962)}}
+{{Use British English|date=October 2026}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox scientist
+| image = Stuart Russell 01.jpg
+| caption = Russell in 2019
+| name = Stuart Russell
+| honorific_suffix = {{postnominals|country=GBR|size=100%|OBE|FRS}}
+| birth_name = Stuart Jonathan Russell
+| birth_date = {{birth year and age|1962}}
+| birth_place = [[Portsmouth]], England
+| death_date = 
+| death_place = 
+| residence = 
+| citizenship = British; American{{cn|date=October 2025}}
+| nationality = 
+| field = [[Artificial intelligence]]<ref name=nature>{{cite journal|first1=Stuart|last1= Russell
+|first2=Sabine|last2=Hauert|author-link2=Sabine Hauert|first3=Russ|last3= Altman|author-link3=Russ Altman|first4=Manuela|last4= Veloso|author-link4=Manuela M. Veloso|title=Robotics: Ethics of artificial intelligence|journal=Nature|volume=521|issue=7553|year=2015|pages=415–418|issn=0028-0836|doi=10.1038/521415a|pmid= 26017428
+|bibcode= 2015Natur.521..415.
+|doi-access=free|hdl=1983/67756056-c429-4c9d-a89d-0fb7db3168f3|hdl-access=free}}</ref>
+| workplaces = {{Plainlist|
+* [[University of California, Berkeley]]
+* [[University of California, San Francisco]]}}
+| education = [[University of Oxford]] (BA)<br/>[[Stanford University]] (PhD)<!--Wadham College, Oxford does NOT award degrees-->
+| known_for = ''[[Artificial Intelligence: A Modern Approach]]''
+| doctoral_advisor = [[Michael Genesereth]]<ref name=mathgene>{{MathGenealogy}}</ref>
+| doctoral_students = {{Plainlist|
+* [[Marie desJardins]]<ref name=mathgene/>
+* [[Eric Xing]]<ref name=mathgene/>
+* [[Shlomo Zilberstein]]<ref name=mathgene/>}}
+| notable_students = {{Plainlist|
+* [[Nando de Freitas]]<br />([[postdoctoral researcher]])
+* [[Nir Friedman]]<br />([[postdoctoral researcher]])
+* [[Lise Getoor]]<br />([[Master's degree|master's student]])
+* [[Daphne Koller]]<br />([[postdoctoral researcher]])
+}}
+| thesis_title = Analogical and Inductive Reasoning
+| thesis_url = https://dl.acm.org/doi/book/10.5555/39967
+| thesis_year = 1987
+| awards = {{Plainlist
+|<!-- only include prizes notable enough to have a dedicated wikipedia page-->
+* [[IJCAI Computers and Thought Award]] (1995)
+* [[IJCAI Award for Research Excellence]] (2022)
+* [[AAAI Fellow]] (1997)<ref name=faaai>{{Cite web|url=https://www.aaai.org/Awards/fellows-list.php|title=Elected AAAI Fellows|website=aaai.org}}</ref>
+* [[ACM Fellow]] (2003)
+* [[AAAS Fellow]] (2011)
+* [[Blaise Pascal Chair]] (2012)
+* [[Reith Lectures]] (2021)<ref name=reith>{{cite web|url=https://www.bbc.co.uk/programmes/b00729d9|title=Living with Artificial Intelligence - BBC Radio 4|website=bbc.co.uk|publisher=[[BBC]]|first=Stuart |last=Russell|year=2021}}</ref>}}
+| website = {{Official URL}}
+}}
+
+'''Stuart Jonathan Russell''' {{postnominals|country=GBR|OBE|FRS}} (born 1962) is a British [[computer scientist]] known for his contributions to [[artificial intelligence]] (AI).<ref>{{cite news  |last1=Russell |first1=Stuart J. |last2=Tegmark |first2=Max |author-link2=Max Tegmark |last3=Hawking |first3=Stephen |author-link3=Stephen Hawking |last4=Wilczek |first4=Frank |author-link4=Frank Wilczek |title=Transcending Complacency on Superintelligent Machines |year=2014 |website=huffingtonpost.com |url=http://www.huffingtonpost.com/stephen-hawking/artificial-intelligence_b_5174265.html}}</ref><ref name=nature/> He is a professor of computer science at the [[University of California, Berkeley]] and was from 2008 to 2011 an adjunct professor of neurological surgery at the [[University of California, San Francisco]].<ref name=googlescholar>{{Google scholar id}}</ref><ref name=orcid>Stuart Russell's {{ORCID|0000-0001-5252-4306}}</ref> Russell is the co-author with [[Peter Norvig]] of the authoritative textbook of the field of AI: ''[[Artificial Intelligence: A Modern Approach]]'' used in more than 1,500 universities in 135 countries.
+
+==Education and early life==
+Russell was born in [[Portsmouth]], England, and attended [[St Paul's School, London]]. He studied [[physics]] at [[Wadham College, Oxford]], and was awarded a [[Bachelor of Arts]] degree with first-class honours in 1982. He moved to the United States to complete a [[PhD]] in [[computer science]] at [[Stanford University]] in 1986 for research on [[inductive reasoning]] and [[Argument from analogy|analogical reasoning]] supervised by [[Michael Genesereth]].<ref name=mathgene/><ref name=rusphd>{{cite thesis |degree=PhD |first=Stuart Jonathan|last=Russell |title=Analogical and Inductive Reasoning |publisher=Stanford University |year=1987 |oclc=19777975|id={{ProQuest|303637665}}|url=https://dl.acm.org/doi/book/10.5555/39967|website=acm.org}} {{subscription required}}</ref> The PhD was supported by a [[NATO]] studentship from the UK [[Science and Engineering Research Council]].<ref name=rusphd/>
+
+==Career and research==
+He then joined the faculty of the [[University of California, Berkeley]] as a professor of computer science.<ref>{{cite web|url=https://people.eecs.berkeley.edu/~russell/resume.html|title=Stuart Russell's Resumé, Professor of Computer Science and Engineering, University of California, Berkeley|access-date=1 August 2011}}</ref> From 2008 to 2011 he also held an appointment as adjunct professor of Neurological Surgery at the [[University of California, San Francisco]], where he pursued research in computational physiology and [[intensive-care unit]] monitoring.<ref name=googlescholar/><ref name=orcid/> He is also an Honorary Fellow at [[Wadham College, Oxford]].<ref name=Stuart>{{cite web |title=Stuart Russell |url=https://people.eecs.berkeley.edu/~russell/ |website=Berkeley EECS |access-date=2019-07-30 }}</ref>
+His research in the area of [[Artificial Intelligence|artificial intelligence]]<ref>{{Cite journal|last=Russell|first=Stuart|date=2017|title=Artificial intelligence: The future is superintelligent|journal=Nature|language=en|volume=548|issue=7669|pages=520–521|doi=10.1038/548520a|bibcode=2017Natur.548..520R|issn=0028-0836|doi-access=free}}</ref> includes contributions to [[machine learning]],<ref>{{cite web |author = Polonski, Vyacheslav | date = 25 May 2018|title=Here's Why AI Can't Solve Everything |url=https://theconversation.com/why-ai-cant-solve-everything-97022 |publisher=The Conversation |access-date=10 November 2020 }}</ref> [[Probabilistic logic|probabilistic reasoning]], knowledge representation, planning, real-time decision making, multitarget tracking, [[computer vision]],<ref name=Stanford>{{cite web |title=Stuart J. Russell |url=https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html |website=Berkeley EECS |access-date=2019-08-08 }}</ref> and inverse [[reinforcement learning]].<ref name=Berkeley>{{cite web |title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence |url=https://vcresearch.berkeley.edu/news/uc-berkeley-launches-center-human-compatible-artificial-intelligence |website=Berkeley University of California |access-date=2019-07-30 }}</ref> He has also been an active participant in the movement to ban the manufacture and use of [[Lethal autonomous weapon|autonomous weapons]].<ref>{{cite news |title=Pentagon Turns to Silicon Valley for Edge in Artificial Intelligence |url=https://www.nytimes.com/2016/05/12/technology/artificial-intelligence-as-the-pentagons-latest-weapon.html |newspaper=The New York Times |date=12 May 2016 |access-date=2019-08-08 |last1=Markoff |first1=John }}</ref><ref name="Sample">{{cite news |url=https://www.theguardian.com/science/2017/nov/13/ban-on-killer-robots-urgently-needed-say-scientists |title=Ban on killer robots urgently needed, say scientists |first=Ian |last=Sample |date=13 November 2017 |work=[[The Guardian]]}}</ref>
+
+In 2016, he founded the Center for Human-Compatible Artificial Intelligence at UC Berkeley, with co-[[principal investigator]]s [[Pieter Abbeel]], Anca Dragan, [[Tom Griffiths (cognitive scientist)|Tom Griffiths]], [[Bart Selman]], [[Joseph Halpern]], [[Michael Wellman]] and Satinder Singh Baveja.<ref>{{cite web|url=https://news.berkeley.edu/2016/08/29/center-for-human-compatible-artificial-intelligence/|title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence|website=news.berkeley.edu|date=29 August 2016}}</ref> Russell has published several hundred conference and journal articles<ref name=googlescholar/><ref name=dblp>{{DBLP}}</ref><ref>{{cite web |title=Stuart Russell Publications |url=https://people.eecs.berkeley.edu/~russell/publications.html |website=Berkeley EECS |access-date=2019-08-21 }}</ref> as well as several books, including ''The Use of Knowledge in Analogy and Induction'' and ''Do the Right Thing: Studies in Limited Rationality'' (with Eric Wefald).<ref name=Stanford /><ref>{{cite web |title=Professor Stuart Russell - The Long-Term Future of (Artificial) Intelligence |url=http://www.crassh.cam.ac.uk/gallery/audio/professor-stuart-russell-the-long-term-future-of-artificial-intelligence |website=University of Cambridge |access-date=2019-08-21 }}</ref> He and [[Peter Norvig]] were the authors of ''[[Artificial Intelligence: A Modern Approach]]'', a textbook used by over 1,500 universities in 135 countries.<ref>{{Cite web|url=http://aima.cs.berkeley.edu/adoptions.html|title=1542 Schools Worldwide That Have Adopted AIMA|website=aima.cs.berkeley.edu|access-date=2022-09-24}}</ref> He is on the Scientific Advisory Board for the [[Future of Life Institute]]<ref>{{Citation
+ |year         = 2014
+ |title        = Who We Are
+ |publisher    = Future of Life Institute
+ |url          = http://fli.webfactional.com/who
+ |access-date  = 7 May 2014
+ |url-status   = dead
+ |archive-url  = https://archive.today/20140507163856/http://fli.webfactional.com/who
+ |archive-date = 7 May 2014
+ }}</ref> and the advisory board of the [[Centre for the Study of Existential Risk]].<ref>{{Citation
+ |year         = 2014
+ |title        = Who We Are
+ |publisher    = Centre for the Study of Existential Risk
+ |url          = http://cser.org/about/who-we-are/
+ |access-date  = 1 August 2014
+ |url-status   = dead
+ |archive-url  = https://web.archive.org/web/20140718203049/http://cser.org/about/who-we-are/
+ |archive-date = 18 July 2014}}</ref>
+
+In 2017 he collaborated with the [[Future of Life Institute]] to produce a video, ''[[Slaughterbots]]'', about swarms of [[lethal autonomous weapon|drones]] assassinating political opponents, and presented this to a United Nations meeting about the [[Convention on Certain Conventional Weapons]].<ref name="Sample"/><ref>{{citation |url=https://www.economist.com/news/science-and-technology/21732507-soon-they-will-travel-swarms-military-robots-are-getting-smaller-and-more |newspaper=[[The Economist]]|date=14 December 2017 |title=Military robots are getting smaller and more capable|author=Anon}}</ref>
+
+In 2018 he contributed an interview to the documentary ''[[Do You Trust This Computer?]].''<ref>{{cite web |title=Meet the experts |url=https://doyoutrustthiscomputer.org/experts |website=doyoutrustthiscomputer.org |access-date=2019-08-21 |language=en}}</ref>
+
+His book, ''[[Human Compatible: Artificial Intelligence and the Problem of Control]]'', was published by Viking on 8 October 2019.<ref>{{Cite book|title=Human Compatible : Artificial intelligence and the question of control|last=Russell|first=Stuart|date=2019-10-08|publisher=Viking|isbn=978-0525558613|location=[S.l.]|oclc=1083694322|url-access=registration|url=https://archive.org/details/humancompatiblea0000russ}}</ref> His work is aligned with [[Human-Centered Artificial Intelligence]] themes. His former doctoral students include [[Marie desJardins]], [[Eric Xing]] and [[Shlomo Zilberstein]].<ref name=mathgene/>
+
+Russell gave the 2021 [[Reith Lectures]], broadcast on [[BBC Radio 4]], on ''Living with Artificial Intelligence''<ref name=reith/><ref>{{cite news| url = https://www.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4| title = AI weapons pose threat to humanity, warns top scientist| author = Murgia, Madhumita| date = November 29, 2021| access-date = December 1, 2021| work = Financial Times}}</ref> with lectures on "The Biggest Event in Human History",<ref name=reith1>{{cite web |url=https://www.bbc.co.uk/programmes/m001216j |website=bbc.co.uk |first=Stuart |last=Russell |date = December 1, 2021 |title=The Biggest Event in Human History |quote="I think what's happening in social media is already worse than [[Chernobyl disaster|Chernobyl]], it has caused a huge amount of dislocation" |publisher=[[BBC]] |location=London}}</ref> "AI in warfare",<ref name=reith2>{{cite web |url=https://www.bbc.co.uk/programmes/m00127t9 |website=bbc.co.uk |first=Stuart |last=Russell |date = December 8, 2021 |title=AI in warfare |publisher=[[BBC]] |location=London}}</ref> "AI in the economy"<ref name=retith3>{{cite web |url=https://www.bbc.co.uk/programmes/m0012fnc |website=bbc.co.uk |first=Stuart |last=Russell |date = December 15, 2021 |title=AI in the economy |publisher=[[BBC]]|location=London}}</ref> and "AI: A Future for Humans".<ref name=reith4>{{cite web |url=https://www.bbc.co.uk/programmes/m0012q21 |website=bbc.co.uk |first=Stuart |last=Russell |date = December 22, 2021 |title=AI: A Future for Humans |publisher=[[BBC]]| location=London}}</ref>
+
+Along with other leading AI scientists including [[Geoffrey Hinton]], [[Yoshua Bengio]] and [[Max Tegmark]], 
+Russell signed several open letters about the dangers of AI, including the [[Pause Giant AI Experiments: An Open Letter|open letter]] from the [[Future of Life Institute]] calling for "all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than [[GPT-4]]"<ref>{{Cite web |title=An Open Letter Asks AI Researchers To Reconsider Responsibilities |url=https://www.sciencefriday.com/segments/ai-open-letter-chatgpt-ethics/ |access-date=2024-07-01 |website=Science Friday |language=en-US}}</ref><ref>{{Cite web |title=Pause Giant AI Experiments: An Open Letter |url=https://futureoflife.org/open-letter/pause-giant-ai-experiments/ |access-date=2024-07-01 |website=Future of Life Institute |language=en-US}}</ref>, the [[Statement on Superintelligence]], calling for "a prohibition on the development of superintelligence, not lifted before there is 1. broad scientific consensus that it will be done safely and controllably, and 2. strong public buy-in."<ref>{{Cite web |title=Statement on Superintelligence |url=https://superintelligence-statement.org/ | language=en-US}}</ref>, signed by over 130,000 individuals, and the [[Statement on AI Extinction Risk]], stating that "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."<ref>{{Cite web |title=Statement on AI Extinction Risk |url=https://aistatement.com/work/statement-on-ai-extinction-risk | website=Center for AI Safety | language=en-US}}</ref>. In a January 2025 article in ''[[Newsweek]]'', Russell wrote "In other words, the AGI race is a race towards the edge of a cliff."<ref>{{cite magazine |last=Russell |first=Stuart |date=January 31, 2025 |magazine=Newsweek |title=DeepSeek, OpenAI, and the Race to Human Extinction |url=https://www.newsweek.com/deepseek-openai-race-human-extinction-2023482 |access-date=January 31, 2025}}</ref>
+
+==Awards and honors==
+Russell was co-winner, in 1995, of the [[IJCAI Computers and Thought Award]] at the [[International Joint Conferences on Artificial Intelligence]], the premier international award in AI for researchers under 35.<ref>{{cite web|url=http://ijcai.org/awards/|title=International Joint Conferences on Artificial Intelligence – Awards|work=ijcai.org}}</ref> In 2022, he received the [[IJCAI Award for Research Excellence]], only the second person (after [[Hector Levesque]]) to win both of IJCAI's main research awards. He is a fellow of the [[Association for the Advancement of Artificial Intelligence]] (AAAI),<ref name=faaai/> elected in 1997, the [[Association for Computing Machinery]] (ACM)<ref>{{cite web|url=http://fellows.acm.org/|title=ACM Fellows – ACM Award|work=acm.org}}</ref> (2003) and the [[American Association for the Advancement of Science]] (2011).<ref>{{Cite web|url=http://www.aaas.org/aboutaaas/fellows/2011.shtml|archive-url=https://web.archive.org/web/20120113205143/http://www.aaas.org/aboutaaas/fellows/2011.shtml|url-status=dead|title=About AAAS|archive-date=13 January 2012}}</ref> In 2005, he was awarded the ACM Karl V. Karlstrom Outstanding Educator Award.<ref>{{cite web|url=http://awards.acm.org/citation.cfm?id=3816360&srt=alpha&alpha=R&aw=142&ao=KARLSTRM&yr=2005|title=Professor Stuart J Russell – Award Winner|work=acm.org|url-status=dead|archive-url=https://web.archive.org/web/20121002231623/http://awards.acm.org/citation.cfm?id=3816360&srt=alpha&alpha=R&aw=142&ao=KARLSTRM&yr=2005|archive-date=2 October 2012}}</ref> In 2012, he was appointed to the [[Blaise Pascal Chair]] in Paris, awarded to "internationally acclaimed foreign scientists in all disciplines," as well as the senior Chaire d'excellence of France's [[Agence Nationale de la Recherche]].<ref>{{cite web| archive-url=https://web.archive.org/web/20140508061453/http://www.agence-nationale-recherche.fr/fileadmin/user_upload/documents/aap/2012/selection/CHEX-selection-2012.pdf|archive-date=2014-05-08|url=http://www.agence-nationale-recherche.fr/fileadmin/user_upload/documents/aap/2012/selection/CHEX-selection-2012.pdf|website=agence-nationale-recherche.fr|title=Programme : " Chaires d'Excellence " |year= 2012 |author=Anon}}</ref>
+
+Russell served as vice chair of the [[World Economic Forum]]'s Council on AI and Robotics and is currently a member of its Global AI Council. Other awards he has received include the [[National Science Foundation]]'s [[Presidential Young Investigator Award]], the World Technology Award, the Mitchell Prize, and the [[Association for the Advancement of Artificial Intelligence]] Outstanding Educator Award.<ref name=Stanford /> He was appointed [[Officer of the Order of the British Empire]] (OBE) in the [[2021 Birthday Honours]] for services to AI research.<ref>{{London Gazette|issue=63377|supp=y|page=B25|date=12 June 2021}}</ref>
+
+In 2025 Russell was elected [[Fellow of the Royal Society]].<ref>{{Cite web|url=https://www.ox.ac.uk/news/2025-05-20-eight-oxford-scientists-elected-fellows-royal-society|title=Eight Oxford Scientists Elected Fellows of the Royal Society &#124; University of Oxford|date=20 May 2025|website=www.ox.ac.uk}}</ref> He was also elected to the [[National Academy of Engineering]] in 2025.<ref>{{Cite web |title=National Academy of Engineering Elects 128 Members and 22 International Members |url=https://nae.edu/331605/NAENewClass2025 |access-date=2025-09-23 |website=NAE Website |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* with Peter Norvig. ''[[Artificial Intelligence: A Modern Approach]]'' (4th ed.). Prentice Hall, 2020. {{ISBN|0-13-461099-7}}
+* ''[[Human Compatible|Human Compatible: Artificial Intelligence and the Problem of Control]]''. Viking, 2019. {{ISBN|978-0-525-55861-3}}
+
+==External links==
+* [http://people.eecs.berkeley.edu/~russell/ Website]
+
+{{Existential risk from artificial intelligence}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Russell, Stuart J.}}
+[[Category:British artificial intelligence researchers]]
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:Scientists from Portsmouth]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:English computer scientists]]
+[[Category:University of California, San Francisco faculty]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Stanford University School of Engineering alumni]]
+[[Category:English emigrants to the United States]]
+[[Category:Alumni of Wadham College, Oxford]]
+[[Category:AI safety scientists]]

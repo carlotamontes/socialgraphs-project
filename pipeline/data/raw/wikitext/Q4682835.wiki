@@ -1,0 +1,64 @@
+{{Short description|American scientist (born 1974)}}
+{{Infobox scientist
+|name              = Adilson E. Motter
+|image             = Adilson E. Motter photo.JPG
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date and age|1974|1|1}}
+|birth_place       = Brazil
+|death_date        = 
+|death_place       = 
+|nationality       = 
+|field             = [[Physics]], [[applied math]]
+|workplaces        = [[Northwestern University]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = [[Cascading failure]]s in large-scale networks<br /> [[Synthetic rescue]]s in metabolic networks<br /> [[Mechanical metamaterial]]s with negative compressibility<br /> Doubly transient and relativistic [[chaos theory|chaos]] <br /> Converse symmetry breaking in [[network dynamics]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Sloan Research Fellow]] (2009)<br />[[National Science Foundation CAREER Awards|NSF CAREER Award]] (2011)<br />[[w:Category:Fellows of the American Physical Society|APS Fellow]] (2013)<br />[[Erdös-Rényi Prize in Network Science|Erdös-Rényi Prize]] (2013)<br />[[Simons Foundation]] Fellow (2015)<br />[[Fellow of the American Association for the Advancement of Science|AAAS Fellow]] (2015)<br />[[Fellows of the Network Science Society|NetSci Fellow]] (2020)<br />[https://cssociety.org/home CSS Senior Scientific Award] (2022)
+|religion          = 
+|footnotes         = 
+|signature         = 
+}}
+
+'''Adilson E. Motter''' (born January 1, 1974, in Brazil) is the Charles E. and Emma H. Morrison Professor of Physics at [[Northwestern University]], where he has helped develop the concept of [[synthetic rescue]] in network biology as well as methods to control the nonlinear dynamics of [[complex network]]s. In joint work with Takashi Nishikawa, he discovered the phenomenon of converse symmetry breaking (also referred to as asymmetry-induced symmetry).<ref>Nishikawa T. and Motter A. E., [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.114101 Symmetric States Requiring System Asymmetry], Physical Review Letters 117, 114101 (2016).</ref> Motter's research is focused on complex systems and nonlinear phenomena, primarily involving complex networks, [[systems biology]], [[chaos theory|chaos]] and [[statistical physics]].
+
+==Scientific activity==
+
+Motter has contributed to the study of nonlinear phenomena in [[complex systems]]. He and his collaborators have established conditions for the [[synchronization]] of power grids<ref>Motter A. E., Myers S. A.,  Anghel M., and  Nishikawa T., [https://www.nature.com/nphys/journal/v9/n3/abs/nphys2535.html Spontaneous synchrony in power-grid networks], Nature Physics 9, 191 (2013).</ref><ref>[http://phys.org/news/2013-02-power-grid-synchronization-enable-smart.html Better power grid synchronization may enable smart grids to self-recover from failures], Phys.Org, February 22, 2013, by Lisa Zyga.</ref> and other complex networks.<ref>Motter A. E., Zhou C. Z. and Kurths J., [http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PLEEE8000071000001016116000001&idtype=cvips&gifs=yes Network Synchronization, Diffusion, and the Paradox of Heterogeneity], Physical Review E 71, 016116 (2005).</ref><ref>Nishikawa T. and Motter A. E., [http://www.pnas.org/content/107/23/10342 Network Synchronization Landscape Reveals Compensatory Structures, Quantization, and the Positive Effect of Negative Interactions], Proc. Natl. Acad. Sci. USA 107, 10342 (2010).</ref> Together with his former student Z. Nicolaou, he designed a class of mechanical metamaterials that exhibit longitudinal negative compressibility.<ref>Nicolaou Z. G.  and  Motter A. E., [https://www.nature.com/nmat/journal/v11/n7/abs/nmat3331.html Mechanical metamaterials with negative compressibility transitions], Nature Materials 11, 608 (2012).</ref> He has devised local methods for cascade control in distributed systems<ref>Motter A. E., [http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PRLTAO000093000009098701000001&idtype=cvips&gifs=yes Cascade Control and Defense in Complex Networks], Physical Review Letters 93, 098701 (2004).</ref> and his team advanced the large-scale modeling of cascading failures.<ref>Yang Y., Nishikawa T., and Motter A. E., [https://www.science.org/doi/10.1126/science.aan3184 Small Vulnerable Sets Determine Large Network Cascades in Power Grids], Science 358 (6365), eaan3184 (2017).</ref> His group has studied implications of these methods for the recovery of lost function in biological <ref>Motter A. E., Gulbahce N., Almaas E., and Barabasi A.-L., [http://www.nature.com/msb/journal/v4/n1/full/msb20081.html Predicting Synthetic Rescues in Metabolic Networks], Molecular Systems Biology 4, 168 (2008).</ref><ref>{{Cite web |title=Work With Power Grids Leads To Cell Biology Discovery |url=https://www.sciencedaily.com/releases/2008/03/080317164339.htm |access-date=2026-06-22 |website=ScienceDaily |language=en}}</ref> and ecological <ref>{{Cite journal |last=Sahasrabudhe |first=Sagar |last2=Motter |first2=Adilson E. |date=2011-01-25 |title=Rescuing ecosystems from extinction cascades through compensatory perturbations |url=https://www.nature.com/articles/ncomms1163 |journal=Nature Communications |language=en |volume=2 |issue=1 |pages=170 |doi=10.1038/ncomms1163  |doi-access=free|issn=2041-1723|arxiv=1103.1653 }}</ref><ref>[https://www.nsf.gov/news/news_summ.jsp?cntn_id=118384 Mathematical model could help predict and prevent future extinctions], National Science Foundation, January 25, 2011, by Lisa Van Pay.</ref> networks and for the control of complex networks in general.<ref>Cornelius S. P., Kath W. L., and Motter A. E., [https://www.nature.com/ncomms/2013/130627/ncomms2939/full/ncomms2939.html Realistic Control of Network Dynamics], Nature Communications 4, 1942 (2013).</ref><ref>Sun J. and Motter A. E.,[http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.208701 Controllability transition and nonlocality in network control], Phys. Rev. Lett. 110, 208701 (2013).</ref><ref>Cornelius S. P. and Motter A. E., [https://www.nature.com/protocolexchange/protocols/2747 NECO - A scalable algorithm for NEtwork COntrol], Protocol Exchange (2013), doi:10.1038/protex.2013.063.</ref> His first publication in network science established the three degrees of separation for English words.<ref>[https://www.nature.com/news/2002/020701/full/news020701-2.html Small word network], Nature Science Update, July 2, 2002, by Philip Ball.</ref>
+
+In other areas, most noticeably chaos theory, he is known for accommodating the formalism of chaos theory within general relativity.<ref>Motter A. E., [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.231101 Relativistic Chaos is Coordinate Invariant], Physical Review Letters 91, 231101 (2003).</ref> Along with colleagues, he also formalized the concept of doubly transient chaos in dissipative dynamical systems <ref>Motter A. E., Gruiz M., Károlyi G., and  Tel T., [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.194101 Doubly transient chaos: Generic form of chaos in autonomous dissipative systems], Physical Review Letters 111, 194101 (2013).</ref> and discovered that network dynamics can exhibit sensitive dependence on network structure much in the same way chaotic dynamics exhibits sensitive dependence on initial conditions or parameters.<ref>Nishikawa T., Sun J. and Motter A. E., [https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041044 Sensitive dependence of optimal network dynamics on network structure], Physical Review X 7, 041044 (2017).</ref>
+
+Together with Marc Timme, he wrote the review “Antagonistic Phenomena in Network Dynamics”, which discusses a variety of seemly paradoxical or highly counterintuitive effects in collective network dynamics.<ref>{{Cite journal |last=Motter |first=Adilson E. |last2=Timme |first2=Marc |date=2018-03-10 |title=Antagonistic Phenomena in Network Dynamics |url=https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-033117-054054 |journal=Annual Review of Condensed Matter Physics |language=en |volume=9 |pages=463–484 |doi=10.1146/annurev-conmatphys-033117-054054 |issn=1947-5454 |pmc=6089548 |pmid=30116502}}</ref>
+
+==Awards==
+Motter is a Fellow of the [[American Physical Society]].
+He was selected as a [[Sloan Research Fellow]] in 2009, received an [[National Science Foundation|NSF]] CAREER Award in 2011, and was awarded the [[Erdös-Rényi Prize in Network Science]] in 2013. In 2014 he was identified among the 30 most promising scientists under the age of 40 born in Latin America, according to a survey conducted jointly by the magazine Qué Pasa and the blog LatinAmericanScience.org.<ref>[http://www.quepasa.cl/articulo/ciencia/2014/05/3-14327-9-latinoamerica-genial.shtml LatinAmérica Genial], Qué Pasa, May 2, 2014.</ref> In 2015, the Simons Foundation named Motter one of their Fellows in Theoretical Physics. He is an elected Fellow of the [[American Association for the Advancement of Science (AAAS)]] and in 2020 was named a Fellow of the Network Science Society. In 2022, Motter received the Senior Scientific Award of the Complex Systems Society.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.physics.northwestern.edu/people/faculty/core-faculty/adilson-motter.html Home Page]
+* [https://dyn.phys.northwestern.edu/publications.html Publications]
+* {{Google Scholar id|F5TciCcAAAAJ&hl}}
+{{Authority control}}
+
+{{DEFAULTSORT:Motter, Adilson}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Brazilian scientists]]
+[[Category:Brazilian physicists]]
+[[Category:Complex systems scientists]]
+[[Category:American systems biologists]]
+[[Category:Chaos theorists]]
+[[Category:Northwestern University faculty]]
+[[Category:Sloan Research Fellows]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:21st-century American physicists]]
+[[Category:Brazilian people of Italian descent]]
+[[Category:American network scientists]]

@@ -1,0 +1,148 @@
+{{short description|American biophysicist}}
+{{Use mdy dates|date=February 2024}}
+{{Infobox scientist
+| image             = Photo of Margaret Oakley Dayhoff.jpg
+| birth_name        = Margaret Belle Oakley
+| birth_date        = {{birth date|1925|3|11}}
+| birth_place       = [[Philadelphia]], [[Pennsylvania]]
+| death_date        = {{death date and age|1983|2|5|1925|3|11}}
+| death_place       = [[Silver Spring, Maryland]]
+| field             = [[Bioinformatics]]
+| workplaces        = [[University of Maryland]], [[Rockefeller University|Rockefeller Institute]], [[Georgetown University Medical Center]], [[National Association for Biomedical Research|National Biomedical Research Foundation]]
+| education         = [[Columbia University]] (PhD)
+| doctoral_advisor  = [[Duncan A. MacInnes]]
+| doctoral_students = 
+| known_for         = [[substitution matrix|Substitution matrices]]<br/>[[Proteinogenic amino acid|one-letter code]]
+| awards            = 
+| children          = 2, including [[Ruth Dayhoff]]
+}}
+
+'''Margaret Belle''' ('''Oakley''') '''Dayhoff''' (March 11, 1925&nbsp;– February 5, 1983) was an American [[biophysicist]] and a pioneer in the field of [[bioinformatics]].<ref>{{cite journal |last=Hunt |first=Lois T. |year=1983 |title=Margaret O. Dayhoff 1925–1983 |journal=[[DNA and Cell Biology]] |volume=2 |issue=2 |pages=97–98 |doi=10.1089/dna.1983.2.97 |issn=0198-0238 |pmid=6347589 }}</ref> Dayhoff was a professor at [[Georgetown University Medical Center]] and a noted research biochemist at the [[Robert Ledley#National Biomedical Research Foundation|National Biomedical Research Foundation]], where she pioneered the application of mathematics and computational methods to the field of biochemistry.  She dedicated her career to applying the evolving computational technologies to support advances in biology and medicine, most notably the creation of protein and nucleic acid databases and tools to interrogate the databases.  She originated one of the first [[substitution matrix|substitution matrices]], [[point accepted mutation]]s (''PAM''). The [[Proteinogenic amino acid|one-letter code]] used for amino acids was developed by her, reflecting an attempt to reduce the size of the data files used to describe amino acid sequences in an era of punch-card computing.
+
+Her PhD degree was from [[Columbia University]] in the department of chemistry, where she devised computational methods to calculate [[molecular resonance]] energies of several organic compounds.  She did postdoctoral studies at the Rockefeller Institute (now [[Rockefeller University]]) and the [[University of Maryland]], and joined the newly established [[National Association for Biomedical Research|National Biomedical Research Foundation]] in 1959. She was the first woman to hold office in the [[Biophysical Society]] and the first person to serve as both secretary and eventually president.<ref name=":0">{{cite journal |date=July 1, 1984 |title=Margaret Oakley Dayhoff 1925–1983 |journal=Bulletin of Mathematical Biology |volume=46 |issue=4 |pages=467–472 |doi=10.1007/BF02459497 |s2cid=189887501 |issn=0092-8240}}</ref>
+
+==Early life==
+[[File:Washington Square Park (926893372).jpg|thumb|155x155px|[[Washington Square Park]], near where Dayhoff's undergraduate work was conducted]]
+
+Dayhoff was born an only child in [[Philadelphia]], but moved to [[New York City]] when she was ten.<ref name="Windsor2002">{{cite book |url=https://books.google.com/books?id=QtZtkf35CF0C&q=margaret+oakley+dayhoff+husband&pg=PA57 |title=Women in Medicine: An Encyclopedia |last=Windsor |first=Laura Lynn |date=January 1, 2002 |publisher=ABC-CLIO |isbn=978-1-57607-392-6}}</ref> Her academic promise was evident from the outset&nbsp;– she was [[valedictorian]] (class of 1942) at [[Bayside High School (Queens)|Bayside High School]], [[Bayside, New York]], and from there received a scholarship to [[Washington Square College]] of [[New York University]], graduating magna cum laude in mathematics in 1945 and getting elected to [[Phi Beta Kappa]].<ref>{{cite web |url=http://www.anb.org/articles/13/13-02174.html |title=American National Biography Online |website=www.anb.org |access-date=March 16, 2016 |archive-date=April 24, 2020 |archive-url=https://web.archive.org/web/20200424081735/http://www.anb.org/articles/13/13-02174.html |url-status=live }}</ref><ref name=":1">{{cite news |url=https://www.washingtonpost.com/archive/local/1983/02/08/biomedical-researcher-margaret-dayhoff-dies/bc471417-bd61-46ac-8564-cc8dcfd05858/ |title=Biomedical Researcher Margaret Dayhoff Dies |date=February 8, 1983 |newspaper=The Washington Post |issn=0190-8286 |access-date=October 20, 2016 |archive-date=March 28, 2021 |archive-url=https://archive.today/20210328093945/https://www.washingtonpost.com/archive/local/1983/02/08/biomedical-researcher-margaret-dayhoff-dies/bc471417-bd61-46ac-8564-cc8dcfd05858/ |url-status=live }}</ref>
+
+== Research ==
+Dayhoff began a PhD in quantum chemistry under [[George E. Kimball|George Kimball]] in the [[Columbia University]] Department of Chemistry. In her graduate thesis, Dayhoff pioneered the use of computer capabilities&nbsp;– i.e. mass-data processing&nbsp;– to theoretical chemistry; specifically, she devised a method of applying punched-card business machines to calculate the [[resonance|resonance energies]] of several [[Polycyclic compound|polycyclic]] organic molecules. Her management of her research data was so impressive that she was awarded a Watson Computing Laboratory Fellowship. As part of this award, she received access to "cutting-edge IBM electronic data processing equipment" at the lab.<ref name="November">{{Cite book |url=https://books.google.com/books?id=L5CmhBjwMakC&q=Watson+Computing+Laboratory+Fellowship+dayhoff&pg=PT354 |title=Biomedical Computing: Digitizing Life in the United States |last=November |first=Joseph A. |date=May 22, 2012 |publisher=JHU Press |isbn=978-1-4214-0665-7}}</ref><ref>{{cite journal|url=http://www.columbia.edu/cu/computinghistory/krawitz/index.html|title=The Watson Scientific Laboratory|last=Krawitz|first=Eleanor|date=1949|access-date=August 11, 2017|journal=Columbia Engineering Quarterly|archive-date=May 23, 2019|archive-url=https://web.archive.org/web/20190523053146/http://www.columbia.edu/cu/computinghistory/krawitz/index.html|url-status=live}}</ref>
+[[File:Card puncher - NARA - 513295.jpg|thumb|An example of a pre-computer punch card system]]
+After completing her PhD, Dayhoff studied [[electrochemistry]] under [[Duncan A. MacInnes]] at the [[Rockefeller University|Rockefeller Institute]] from 1948 to 1951. In 1952, she moved to Maryland with her family and later received research fellowships from the [[University of Maryland, College Park|University of Maryland]] (1957–1959), working on a model of [[chemical bonding]] with [[Ellis R. Lippincott|Ellis Lippincott]]. At Maryland, she gained her first exposure to a new high-speed computer, the IBM model 7094. After this ended, she joined the National Biomedical Research Foundation in 1960 as associate director (a position she held for 21 years).<ref name=":1"/> At the NBRF, she began to work with [[Robert Ledley]], a dentist who had obtained a degree in physics and become interested in the possibilities of applying computational resources to biomedical problems. He had authored one of the earliest studies of biomedical computation, "Report on the Use of Computer in Biology and Medicine."<ref name=":2">{{cite web |url=http://blog.openhelix.eu/?p=1078 |title=Margaret Dayhoff, a founder of the field of bioinformatics {{!}} The OpenHelix Blog |website=blog.openhelix.eu |access-date=October 20, 2016 |archive-url=https://web.archive.org/web/20190330155958/http://blog.openhelix.eu/?p=1078 |archive-date=March 30, 2019 }}</ref> With their combined expertise, they published a paper in 1962 entitled "COMPROTEIN: A computer program to aid primary protein structure determination" that described a "completed computer program for the [[IBM 7090]]" that aimed to convert peptide digests to protein chain data. They actually began this work in 1958, but were not able to start programming until late 1960.<ref name=":2" />
+
+[[File:Atmosphere composition.gif|thumb|Comparison of Atmosphere Compositions – [[Venus]], [[Atmosphere of Mars|Mars]], [[Atmosphere of Earth|Earth]] (past and present)]]
+
+In the early 1960s, Dayhoff also collaborated with [[Ellis R. Lippincott|Ellis Lippincott]] and [[Carl Sagan]] to develop thermodynamic models of cosmo-chemical systems, including prebiological planetary atmospheres.  She developed a computer program that could calculate equilibrium concentrations of the gases in a planetary atmosphere, enabling the study of the atmospheres of Venus, Jupiter, and Mars, in addition to the present day atmosphere and the primordial terrestrial atmosphere. Using this program, she considered whether the primordial atmosphere had the conditions necessary to generate life. Although she found that numerous small biologically important compounds can appear with no special nonequilibrium mechanism to explain their presence, there were compounds necessary to life that were scarce in the equilibrium model (such as ribose, adenine, and cytosine).<ref name=":0" />
+
+Dayhoff also taught physiology and biophysics at [[Georgetown University Medical Center]] for 13 years, served as a Fellow of the [[American Association for the Advancement of Science]] and was elected councillor of the International Society for the Study of the Origins of Life in 1980 after 8 years of membership. Dayhoff also served on the editorial boards of three journals: ''[[DNA (journal)|DNA]]'', ''[[Journal of Molecular Evolution]]'' and ''[[Computers in Biology and Medicine]]''.<ref name=":0" />
+
+[[File:MAPK-evolutionary-tree.png|thumb|An example of a computer generated phylogeny for MAPK]]
+
+In 1966, Dayhoff pioneered the use of computers in comparing protein sequences and reconstructing their evolutionary histories from [[sequence alignment]]s. To perform this work, she created the single-letter [[amino acid]] code to minimize the data file size for each sequence. This work, co-authored with Richard Eck, was the first application of computers to infer phylogenies from molecular sequences. It was the first reconstruction of a [[phylogeny]] ([[evolutionary tree]]) by computers from molecular sequences using a [[maximum parsimony]] method. In later years, she applied these methods to study a number of molecular relationships, such as the catalytic chain and bovine cyclic AMP-dependent protein kinase and the src gene product of Rous avian and Moloney murine sarcoma viruses; antithrombin-III, alpha-antitrypsin, and ovalbumin; epidermal growth factor and the light chain of coagulation factor X; and apolipoproteins A-I, A-II, C-I and C-III.<ref name=":0" />
+
+Based on this work, Dayhoff and her coworkers developed a set of substitution matrices called the [[Point Accepted Mutation|PAM]] (Accepted Point Mutation), MDM (Mutation Data Matrix), or Dayhoff Matrix. They are derived from global alignments of closely related protein sequences. The identification number included with the matrix (ex. PAM40, PAM100) refers to the evolutionary distance; greater numbers correspond to greater distances. Matrices using greater evolutionary distances are extrapolated from those used for lesser ones.<ref>{{cite web |url=http://arep.med.harvard.edu/seqanal/submatrix.html |title=Substitution Matrices |website=arep.med.harvard.edu |access-date=October 22, 2016 |archive-date=January 30, 1998 |archive-url=https://web.archive.org/web/19980130002730/http://arep.med.harvard.edu/seqanal/submatrix.html |url-status=live }}</ref> To produce a Dayhoff matrix, pairs of aligned amino acids in verified alignments are used to build a count matrix, which is then used to estimate at mutation matrix at 1 PAM (considered an evolutionary unit). From this mutation matrix, a Dayhoff scoring matrix may be constructed. Along with a model of indel events, alignments generated by these methods can be used in an iterative process to construct new count matrices until convergence.<ref>{{cite web |url=http://www.biorecipes.com/Dayhoff/code.html |title=How to Compute Mutation and Dayhoff Matrices |website=www.biorecipes.com |access-date=October 22, 2016 |archive-date=November 27, 2005 |archive-url=https://web.archive.org/web/20051127180456/http://www.biorecipes.com/Dayhoff/code.html |url-status=live }}</ref>
+
+One of Dayhoff's most important contributions to bioinformatics was her ''Atlas of Protein Sequence and Structure'', a book reporting all known protein sequences (totaling 65) that she published in 1965.<ref>{{cite news |url=https://www.nytimes.com/1983/02/09/obituaries/margaret-oakley-dayhoff-57-expert-on-protein-structures.html |title=MARGARET OAKLEY DAYHOFF, 57; EXPERT ON PROTEIN STRUCTURES |date=February 9, 1983 |newspaper=The New York Times |issn=0362-4331 |access-date=March 16, 2016 |archive-date=August 28, 2017 |archive-url=https://web.archive.org/web/20170828063348/http://www.nytimes.com/1983/02/09/obituaries/margaret-oakley-dayhoff-57-expert-on-protein-structures.html |url-status=live }}</ref> This book published a degenerate encoding of amino acids. It was subsequently republished in several editions.  This led to the [[Protein Information Resource]] database of protein sequences, the first online database system that could be accessed by telephone line and available for interrogation by remote computers.<ref>{{cite web |url=http://www.whatisbiotechnology.org/people/Dayhoff |title=Oakley Margaret Dayhoff {{!}} Biographical summary |website=www.whatisbiotechnology.org |access-date=October 20, 2016 |archive-date=January 8, 2018 |archive-url=https://web.archive.org/web/20180108063157/http://www.whatisbiotechnology.org/people/Dayhoff |url-status=live }}</ref> The book has since been cited nearly 4,500 times.<ref name=":0" /> It and the parallel effort by [[Walter Goad]] which led to the [[GenBank]] database of nucleic acid sequences are the twin origins of the modern databases of molecular sequences.  The ''Atlas'' was organized by [[gene family|gene families]], and she is regarded as a pioneer in their recognition. [[Frederick Sanger]]'s determination of the first complete amino acid sequence of a protein (insulin) in 1955, led a number of researchers to sequence various proteins from different species. In the early 1960s, a theory was developed that small differences between homologous protein sequences (sequences with a high likelihood of common ancestry) could indicate the process and rate of evolutionary change on the molecular level. The notion that such molecular analysis could help scientists decode evolutionary patterns in organisms was formalized in the published papers of [[Emile Zuckerkandl]] and [[Linus Pauling]] in 1962 and 1965.
+
+=== Table of Dayhoff's encoding of amino acids ===
+{| class="wikitable"
+|+
+!Amino acids
+!1-letter code
+!3-letter code
+!Property
+!Ambiguous 1-letter code
+|-
+|[[Cysteine]]
+|C
+|Cys
+|Sulfur polymerization
+|a
+|-
+|[[Glycine]], [[Serine]], [[Threonine]], [[Alanine]], [[Proline]]
+|G, S, T, A, P
+|Gly, Ser, Thr, Ala, Pro
+|Small
+|b
+|-
+|[[Aspartic acid]], [[Glutamic acid]], [[Asparagine]], [[Glutamine]]
+|D, E, N, Q
+|Asp, Glu, Asn, Gln
+|Acid and amide
+|c
+|-
+|[[Arginine]], [[Histidine]], [[Lysine]]
+|R, H, K
+|Arg, His, Lys
+|Basic
+|d
+|-
+|[[Leucine]], [[Valine]], [[Methionine]], [[Isoleucine]]
+|L, V, M, I
+|Leu, Val, Met, Ile
+|Hydrophobic
+|e
+|-
+|[[Tyrosine]], [[Phenylalanine]], [[Tryptophan]]
+|Y*, F, W
+|Tyr, Phe, Trp
+|Aromatic
+|f
+|}
+: * Dayhoff and Eck originally proposed O for tyrosine.<ref>{{cite tech report|last=Dayhoff |first=M.O. |author2=R.V. Eck |author3=M.A. Chang |author4=M.R. Sochard |date=1965 |title=ATLAS of PROTEIN SEQUENCE and STRUCTURE |institution=NBRF |LCCN=65-29342 }}</ref>
+
+The one letter code was adopted by [[IUPAC]] and remains in [[Amino Acid#Table of standard amino acid abbreviations and properties|general use]]. Dayhoff's ambiguous one-letter code has been superseded.
+
+== Marriage and family ==
+Dayhoff's husband was Edward S. Dayhoff, an experimental physicist who worked with magnetic resonance and with lasers.<ref name="nlm.nih.gov">{{Cite web|url=https://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_76.html|title=Changing the Face of Medicine {{!}} Dr. Ruth E. Dayhoff|website=www.nlm.nih.gov|access-date=October 20, 2016|archive-date=May 13, 2016|archive-url=https://web.archive.org/web/20160513120305/https://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_76.html}}</ref> They had two daughters who are also academics, [https://en.wikipedia.org/wiki/Ruth_Dayhoff Ruth] and Judith.<ref name="ggstem">{{Cite web|url=https://ggstem.wordpress.com/2013/03/07/margaret-ruth-dayhoff/|title=Margaret & Ruth Dayhoff|first=Rachel|last=Levy|date=March 7, 2013|website=[[Grandma Got STEM]]|access-date=October 20, 2016|archive-date=October 19, 2016|archive-url=https://web.archive.org/web/20161019095818/https://ggstem.wordpress.com/2013/03/07/margaret-ruth-dayhoff/|url-status=live}}</ref>
+
+Judith Dayhoff has a PhD in mathematical biophysics from the [[University of Pennsylvania]] and is the author of ''Neural network architectures: An introduction'' and coauthor of ''Neural Networks and Pattern Recognition''.<ref name="ggstem" /><ref name="judith-dayhoff-mgp">{{MathGenealogy|id=15212|title=Judith Dayhoff}}</ref><ref>{{cite book|last1=Dayhoff|first1=Judith E.|title=Neural network architectures: an introduction|date=1990|publisher=Van Nostrand Reinhold|location=New York, N.Y.|isbn=978-0-442-20744-1|url=https://archive.org/details/neuralnetworkarc00dayh}}</ref><ref>{{cite book|last1=Dayhoff|first1=Judith|editor-last1=Omidvar|editor-first1=Omid|title=Neural networks and pattern recognition|date=1998|publisher=Academic Press|location=San Diego, Calif.|isbn=978-0-12-526420-4}}</ref>
+
+[[Ruth Dayhoff]] graduated summa cum laude in Mathematics from the [[University of Maryland, College Park|University of Maryland]] and focused on [[Medical informatics|Medical Informatics]] while doing her MD at [[Georgetown University School of Medicine]].<ref name="nlm.nih.gov" /> During medical school, she co-authored a paper and a chapter in ''The Atlas of Protein Sequence and Structure'' with her mother, describing a new way to measure how closely proteins are related.<ref name="nlm.nih.gov"/> Her husband Vincent Brannigan is professor emeritus of Law and Technology at the University of Maryland School of Engineering. Ruth was a founding Fellow of the [[American College of Medical Informatics]].  She pioneered the integration of [[Medical Imaging]] and invented the [[VistA imaging|Vista Imaging]] System.  She was chosen for the [[United States National Library of Medicine|National Library of Medicine]]'s project on the 200 women Physicians who "changed the face of medicine."<ref name="nlm.nih.gov"/> She serves as director of Digital Imaging in Medicine for the [[United States Department of Veterans Affairs]].<ref name=":1" />
+
+== Later life ==
+Dayhoff's ''Atlas'' became a template for many indispensable tools in large portions of DNA or protein-related biomedical research. In spite of this significant contribution, Dayhoff was marginalized by the community of sequencers. The contract to manage [[GenBank]] (a technology directly related to her research), awarded in 1983 by the NIH, went to [[Walter Goad]] at the [[Los Alamos National Laboratory]]. The reason for this attitude was unknown, with theories ranging from sexism to a clash of values with the experimental science community.<ref name="strasser">{{cite journal |last1=Strasser |first1=Bruno J. |title=Collecting, Comparing, and Computing Sequences: The Making of Margaret O. Dayhoff's Atlas of Protein Sequence and Structure, 1954–1965 |journal=Journal of the History of Biology |date=December 24, 2009 |volume=43 |issue=4 |pages=623–660 |doi=10.1007/s10739-009-9221-0|pmid=20665074 |s2cid=26875366 }}</ref> Despite the success of Dayhoff's ''Atlas'', experimental scientists and researchers considered their sequence information very valuable and were often reluctant to submit it to such a publicly available database.<ref name="strasser-els">{{cite book |last1=Strasser|first1=Bruno J. |chapter=Dayhoff, Margaret Oakley |title=Encyclopedia of Life Sciences|date=September 17, 2012 |doi=10.1002/9780470015902.a0023939|isbn=978-0-470-01617-6 }}</ref>
+
+During the last few years of her life, she focused on obtaining stable, adequate, long-term funding to support the maintenance and further development of her [[Protein Information Resource]]. She envisioned an online system of computer programs and databases, accessible by scientists all over the world, for identifying protein from sequence or amino acid composition data, for making predictions based on sequences, and for browsing the known information. Less than a week before she died, she submitted a proposal to the Division of Research Resources at [[National Institutes of Health|NIH]] for a Protein Identification Resource. After her death, her colleagues worked to make her vision a reality, and the protein database was fully operational by the middle of 1984.<ref name=":0" />
+
+[[File:BiophysicalSocietyLogo.png|thumb|Logo of the Biophysical Society]]
+
+Dayhoff died of a heart attack at the age of 57 on February 5, 1983.<ref name="Windsor2002"/> A fund was established after her death in 1984 to endow the [[Margaret Oakley Dayhoff Award|Margaret O. Dayhoff Award]], one of the top national honors in biophysics. The award is presented to a woman who "holds very high promise or has achieved prominence while developing the early stages of a career in biophysical research within the purview and interest of the Biophysical Society."<ref>{{cite web |url=http://www.biophysics.org/AwardsFunding/SocietyAwards/tabid/467/Default.aspx |title=Society Awards |last=Society |first=Biophysical |website=www.biophysics.org |access-date=October 20, 2016 |archive-date=October 28, 2016 |archive-url=https://web.archive.org/web/20161028024037/http://www.biophysics.org/AwardsFunding/SocietyAwards/tabid/467/Default.aspx |url-status=live }}</ref> It is presented at the annual meeting of the Biophysical Society and includes an honorarium of $2,000.
+
+She was survived by her husband, Edward S. Dayhoff of Silver Spring; two daughters, [[Ruth Dayhoff|Ruth E. Dayhoff]] Brannigan of College Park, and Judith E. Dayhoff of Silver Spring, and her father, Kenneth W. Oakley of Silver Spring.<ref name=":1"/>
+
+== Legacy ==
+[[David Lipman]], director of the [[National Center for Biotechnology Information]], has called Dayhoff the "mother and father of bioinformatics".<ref>{{cite book |first=Glyn |last=Moody |year=2004 |title=Digital Code of Life: How Bioinformatics is Revolutionizing Science, Medicine, and Business |publisher=John Wiley & Sons |isbn=978-0-471-32788-2 |url=https://archive.org/details/digitalcodeoflif0000mood }}</ref>
+
+Her seminal contributions as the mother of the science of bioinformatics, now routinely used as part of the process for naming bacteria, were acknowledged with a bacterium being named after her in 2020, ''Enemella dayhoffiae''.<ref>{{Cite journal |last1=Bernard |first1=Kathryn A. |last2=Burdz |first2=Tamara |last3=Pacheco |first3=Ana Luisa |last4=Wiebe |first4=Deborah |last5=Patel |first5=Nisha B. |last6=Lawson |first6=Paul A. |last7=Domingo |first7=Marc-Christian |last8=Longtin |first8=Jean |last9=Bernier |first9=Anne-Marie |title=Enemella gen. nov., Enemella evansiae sp. nov., Enemella dayhoffiae sp. nov. and Parenemella sanctibonifatiensis gen. nov., sp. nov., novel taxa assignable to the family Propionibacteriaceae and derived from human clinical samples |journal=International Journal of Systematic and Evolutionary Microbiology |year=2020 |volume=70 |issue=11 |pages=5676–5685 |doi=10.1099/ijsem.0.004461 |pmid=32931407 |s2cid=221746188 |issn=1466-5034|doi-access=free }}</ref>
+
+Dayhoff was inducted into the [[Maryland Women's Hall of Fame]] in March 2026.<ref>{{cite web |title=Maryland Commission for Women Announces 2026 Women's Hall of Fame Inductees |url=https://news.dhs.maryland.gov/reports/that/2026-womens-hall-fame-inductees/ |website=news.dhs.maryland.gov |publisher=Maryland Department of Human Services |access-date=March 31, 2026}}</ref>
+
+==References==
+
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20031018113612/http://www.nlm.nih.gov/changingthefaceofmedicine/gallery/photo_76_7.html Picture of Margaret Oakley Dayhoff, c. 1980.] Owned by her daughter Ruth E. Dayhoff, M.D. Made available by the National Library of Medicine.
+*[http://ggstem.wordpress.com/2013/03/07/margaret-ruth-dayhoff/ Profile and photographs of Margaret O. Dayhoff in Grandma got STEM project.] Information submitted to the project by Margaret Dayhoff's son-in-law Vincent, husband of Ruth E. Dayhoff.  Also contains biographical information about descendants.
+*Baby Joseph and Vrundha M. Nair .2012 Woman Innovator in Bioinformatics: Dr. Margaret Oakley Dayhoff. Adv Bio Tech:12 (01) 32–34
+{{Maryland Women's Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dayhoff, Margaret Oakley}}
+[[Category:1925 births]]
+[[Category:1983 deaths]]
+[[Category:Columbia Graduate School of Arts and Sciences alumni]]
+[[Category:American bioinformaticians]]
+[[Category:20th-century American biochemists]]
+[[Category:20th-century American women biochemists]]
+[[Category:American physical chemists]]
+[[Category:American women computer scientists]]
+[[Category:American computer scientists]]
+[[Category:American women evolutionary biologists]]
+[[Category:American evolutionary biologists]]
+[[Category:American computational chemists]]
+[[Category:New York University alumni]]
+[[Category:Georgetown University faculty]]
+[[Category:Presidents of the Biophysical Society]]

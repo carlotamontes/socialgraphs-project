@@ -1,0 +1,51 @@
+{{short description|New Zealand chemist (born 1962)}}
+{{Use dmy dates|date=October 2023}}
+{{Use New Zealand English|date=October 2023}}
+{{Infobox scientist
+| name              = Peter Gill
+| birth_name        = Peter Malcolm Wallace Gill
+| birth_date        = {{birth_date_and_age|1962|11|09|df=y}}
+| birth_place       = [[Auckland]], New Zealand
+| death_date        = 
+| death_place       = 
+| image             = Peter_Gill.jpg
+| caption           = 
+| education         = [[Australian National University]]
+| thesis_title      = A theoretical approach to hemi-bonded systems and their dicationic analogues
+| thesis_url        = http://hdl.handle.net/1885/140146
+| thesis_year       = 1988
+| doctoral_advisor  = [[Leo Radom]]
+| academic_advisors = [[John Pople]]
+| field             = Chemistry
+| workplaces        = {{ubl|[[Massey University]]|[[University of Cambridge]]|[[University of Nottingham]]|{{nowrap|[[Australian National University]]}}|[[University of Sydney]]}}
+| doctoral_students = 
+| website           = 
+}}
+'''Peter Malcolm Wallace Gill''' (born 9 November 1962)<ref name=IAQMS>{{Cite web |title=Peter Gill, International Academy of Quantum Molecular Science |url=https://www.iaqms.org/members/gill.php |access-date=2023-10-25 |website=www.iaqms.org}}</ref> is a New Zealand theoretical and computational chemist known for his contribution to [[density functional theory]] (DFT). He is an early and main contributor to the computational chemistry software [[Q-Chem]] and was the president of the company during 1998–2013. He is especially known for developing the PRISM algorithm for evaluating two-electron integrals and linear-scaling DFT, as well as [[self-consistent field method]] for [[excited state]] [[electronic structure]].<ref name=FAA>{{Cite web |title=Peter Gill |url=https://www.science.org.au/profile/peter-gill |access-date=2023-10-25 |website=www.science.org.au |language=en}}</ref><ref name=headgordon>{{Cite journal |last1=Head-Gordon |first1=Martin |last2=Gilbert |first2=Andrew T. B. |last3=Loos |first3=Pierre-François |last4=Radom |first4=Leo |date=2023-05-19 |title=Introduction to the Peter M. W. Gill special issue |journal=Molecular Physics |language=en |volume=121 |issue=9–10 |doi=10.1080/00268976.2023.2219934 |bibcode=2023MolPh.12119934H |s2cid=259457084 |issn=0026-8976|doi-access=free }}</ref>
+
+== Education and career ==
+Gill was born in Auckland and received his [[BSc]] in 1983 and [[MSc]] in 1984 from the [[University of Auckland]].<ref name=IAQMS /> He received a [[PhD]] in 1988 from the [[Australian National University]] under the supervision of [[Leo Radom]]. During this time, he investigated hemi-bonding and the convergence of [[Perturbation theory (quantum mechanics)|perturbation theory]] in [[quantum chemistry]].<ref name=headgordon /><ref>{{Cite journal |last=Radom |first=Leo |date=2019-12-05 |title=Autobiography of Leo Radom |url=https://pubs.acs.org/doi/10.1021/acs.jpca.9b07390 |journal=The Journal of Physical Chemistry A |language=en |volume=123 |issue=48 |pages=10348–10358 |doi=10.1021/acs.jpca.9b07390 |pmid=31801352 |bibcode=2019JPCA..12310348R |s2cid=208646496 |issn=1089-5639|url-access=subscription }}</ref> After graduation, he conducted postdoctoral work with [[John Pople]] at [[Carnegie Mellon University]] from 1988 to 1993. Following this stint, Gill accepted a lectureship at [[Massey University]] in 1993. He became a lecturer at the [[University of Cambridge]] in 1996. In 1999, Gill became the inaugural chair of theoretical chemistry at the [[University of Nottingham]]. He moved to Australia and became a professor at the [[Australian National University]] in 2004 and moved to the Schofield Chair in Theoretical Chemistry<ref name="headgordon" /> at the [[University of Sydney]] in 2019.  He resigned from the University of Sydney at the end of 2025.
+
+In 2001, Gill wrote an essay pronouncing the demise of [[density functional theory]] thanks to the rise of [[hybrid functional]]s for [[exchange interaction]]s between electrons.<ref>{{Cite journal |last=Gill |first=Peter M. W. |date=2001 |title=Essay: Obituary: Density Functional Theory (1927-1993) |url=https://www.publish.csiro.au/ch/ch02049 |journal=Australian Journal of Chemistry |language=en |volume=54 |issue=11 |pages=661–662 |doi=10.1071/ch02049 |issn=1445-0038|url-access=subscription }}</ref><ref>{{Cite journal |last=Becke |first=Axel D. |date=2014-04-01 |title=Perspective: Fifty years of density-functional theory in chemical physics |journal=The Journal of Chemical Physics |volume=140 |issue=18 |pages=18A301 |doi=10.1063/1.4869598 |pmid=24832308 |bibcode=2014JChPh.140rA301B |issn=0021-9606|doi-access=free }}</ref>
+
+== Honors and awards ==
+Gill received the [[World Association of Theoretical and Computational Chemists#Dirac Medal|Dirac Medal]]<ref>{{Cite web |title=Dirac - medal |url=http://watoc.net/watoc.dirac.html |access-date=2023-10-25 |website=watoc.net}}</ref> of the [[World Association of Theoretical and Computational Chemists]] (WATOC) in 1999 and its [[Schrödinger Medal]] in 2011.  He was the president of WATOC during 2017 - 2025.  He received the Pople Medal of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC) in 2005 and its Fukui Medal in 2013.  He has been the president of APATCC since 2025.  Gill was elected a [[Fellow of the Australian Academy of Science]] in 2014<ref name=FAA /> and received its David Craig Medal in 2019.<ref>{{Cite web |title=2019 awardees {{!}} Australian Academy of Science |url=https://www.science.org.au/opportunities-scientists/recognition/honorific-awards/honorific-awardees/2019-awardees |access-date=2023-10-25 |website=www.science.org.au |language=en}}</ref> In 2015 Gill was inducted to the International Academy of Quantum Molecular Science<ref>{{Cite web |title=IAQMS news archive |url=https://www.iaqms.org/news.php|access-date=2024-01-06|website=www.iaqms.org}}</ref> and has been its president since 2026.
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Gill, Peter}}
+[[Category:Living people]]
+[[Category:1962 births]]
+[[Category:New Zealand chemists]]
+[[Category:Scientists from Auckland]]
+[[Category:University of Auckland alumni]]
+[[Category:Australian National University alumni]]
+[[Category:Academic staff of the Australian National University]]
+[[Category:Members of the University of Cambridge Department of Chemistry]]
+[[Category:Chemists of the University of Nottingham]]
+[[Category:Academic staff of the University of Sydney]]
+[[Category:Computational chemists]]
+[[Category:Theoretical chemists]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:Academic staff of Massey University]]

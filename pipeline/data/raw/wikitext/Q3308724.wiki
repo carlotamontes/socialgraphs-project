@@ -1,0 +1,69 @@
+{{Short description|American inventor (born 1931)}}
+{{Infobox person
+| name               = James T. Russell
+| image              = 
+| alt                = 
+| caption            = American Inventor
+| birth_date         = {{birth year and age|1931}}
+| birth_place        = [[Bremerton, Washington]], U.S.
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| other_names        = 
+| occupation         = Inventor
+| employer           = [[Pacific Northwest National Laboratory]]
+| education          = [[Bachelor of Arts]] in [[Physics]], [[Reed College]]
+| years_active       = 
+| known_for          = Inventing video recording on an optical medium
+| notable_works      = 
+}}
+
+'''James Torrance Russell''' (born 23 February 1931) is an American physicist and the inventor of compact disc technology. He earned a [[Bachelor of Arts|BA]] in physics from [[Reed College]] in [[Portland, Oregon|Portland]] in 1953. He joined [[General Electric]]'s nearby labs in [[Richland, Washington]], where he devised experimental instrumentation. He designed and built the first [[electron beam welding|electron beam welder]].<ref name="MIT_1999_12">{{cite web|url=http://web.mit.edu/invent/iow/russell.html |title=Inventor of the Week - James T. Russell - The Compact Disc |date=December 1999 |publisher=[[MIT]] |url-status=dead |archiveurl=https://web.archive.org/web/20030417162935/http://web.mit.edu/invent/iow/russell.html |archivedate=April 17, 2003 }}</ref>
+
+In 1965, Russell joined the [[Pacific Northwest National Laboratory]] of [[Battelle Memorial Institute]] in Richland. There, in 1965, Russell invented optical [[digital recording]] and playback.<ref name="MIT_1999_12"/> He built prototypes, with the first was operating in 1973. During 1973, 1974, and 1975 his invention was viewed by about 100 companies, including Philips and Sony, and more than 1500 descriptive brochures were distributed.{{Citation needed|date=September 2007}} The concept was described by many technical and media magazines beginning in 1972.{{Citation needed|date=September 2007}}.
+
+In 2000, Russell received [[Howard Vollum Award|The Vollum Award]] from [[Reed College]].<ref>{{cite press release |date=2000 |publisher=Reed College public affairs office |title=INVENTOR AND PHYSICIST JAMES RUSSELL '53 WILL RECEIVE VOLLUM AWARD AT REED'S CONVOCATION |accessdate=2014-07-24 |url=http://reed.edu/news_center/press_releases/2000-2001/288.html |archive-date=2013-10-09 |archive-url=https://web.archive.org/web/20131009170700/http://www.reed.edu/news_center/press_releases/2000-2001/288.html |url-status=dead }}</ref>
+
+As of 2004, Russell was consulting from an in-home lab in [[Bellevue, Washington]].<ref>{{cite news |newspaper=The Seattle Times |url=http://seattletimes.com/html/businesstechnology/2002103322_cdman29.html |author=Brier Dudley |title=Scientist's invention was let go for a song |date=2004-11-29 |accessdate=2014-07-24}}</ref>
+
+==Patents==
+The earliest patents by Russell, US 3,501,586, and 3,795,902 were filed in 1966, and 1969. respectively.<ref>{{US patent|3,501,586}} Analog to digital to optical photographic recording and playback system, March 1970.</ref><ref>{{US patent|3,795,902}} Method and apparatus for synchronizing photographic records of digital information, March 1974.</ref> Major issues with the original Russell patents:
+
+*The preferred embodiment of the scanning mechanism is awkward since the disc is not rotating but fixed. A scanning mirror with which the light is deflected is attached to a rotating shaft.
+*The entire disc or oblong sheet to be read is illuminated by a large playback light source at the back of the transparent plate instead by focused laser light in reflective mode. There is no objective lens for reading the data.
+*Dynamic track or focus servos are absent.
+*The patent specification mentions the use of a protective layer(s) or coating to prevent scratching during handling, but the layer does not offer significant benefits, as its task is merely to protect. Fingerprints and scratches will obscure the data read. In a CD, on the other hand, where a focused laser beam is used in conjunction with a protective layer at the reading side of the disc, scratches and fingerprints are out of focus, and thus not detected by the reading spot. As a result, the CD/DVD method offers a great resilience against disc anomalies, offering great playability.
+*Low information density. According to the patent specifications the spot diameter is around 10 micrometres. Thus, the areal information density is, according to the patent specifications, around a factor hundred less than that of a regular [[CD]]. This amounts to a capacity of 5&nbsp;Mbytes for a disc of 12&nbsp;cm diameter. The inevitable downside to this is that Russell's disc offers playing time less than one minute of digital CD sound. In case we have digital video at 30&nbsp;Mbit/s, as claimed above, Russell's disc would be read in less than two seconds. How such extremely fast scanning could be implemented was not disclosed.
+*Photographically copying of data.
+*The patents do not address any details of the digital coding techniques used and/or details of methods how to solve the problems associated with extremely high bit rates of digital video signals. Due to limitations of electronics circuitry, there was no (MPEG) source coding at the time to lower the overall bit rates. The uncompressed bit rate of a color video signal is around 200&nbsp;Mbit/s, and it is far from clear how the mechanical (scanning speed) and electronic challenges imposed by these enormous bit rates were solved. The patents do not mention error correction or other digital coding technology.
+
+== Controversy ==
+Whether Russell's concepts, patents, prototypes and literature{{Citation needed|date=August 2008}} instigated and in some measure guided the optical digital revolution is controversial.<ref>{{cite web |author=Dave Franzwa |date=2005-01-12 |title=The Invention of Optical Digital Recording with James T. Russel |url=http://www.aes.org/sections/pnw/pnwrecaps/2005/russell/ |publisher=[[Audio Engineering Society]] Pacific Northwest Section |access-date=2008-06-19 |archive-date=2012-02-22 |archive-url=https://web.archive.org/web/20120222054653/http://www.aes.org/sections/pnw/pnwrecaps/2005/russell/ |url-status=dead }}</ref> Early optical recording technology, which formed the physical basis of [[videodisc]], [[CD]] and [[DVD]] technology, was first published/filed by [[David Paul Gregg|Dr. David Paul Gregg]] in 1958 and [[Philips]] researchers Kramer and Compaan.{{Cn|date=February 2024}} in 1969. Russell's optical digital inventions were available publicly from 1970.
+
+==See also==
+*[[David Paul Gregg]]
+*[[Optical recording]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{webarchive |url=https://web.archive.org/web/20130402201223/http://web.mit.edu/invent/iow/russell.html |date=April 2, 2013 |title=James T. Russell, The Digital Compact Disc }}
+* {{cite web |url=http://www.reed.edu/reed_magazine/Nov2000/a_the_discoverer/ |title=Bet you didn't know Jim Russell '53 pioneered compact disc technology |date=November 2000 |author=Adam Holdorf |work=Reed Magazine |access-date=2014-07-24 |archive-date=2015-09-24 |archive-url=https://web.archive.org/web/20150924085533/http://www.reed.edu/reed_magazine/Nov2000/a_the_discoverer/ |url-status=dead }}
+* {{cite web |url=https://www.easyreadsystem.com/news/famous-dyslexics-james-russell/ |title=Famous Dyslexics: James Russell |author=Sara Forrest |date=2013-03-15}}
+* {{cite web |url=http://history-computer.com/ModernComputer/Basis/compact_disc.html |title=Compact Disk of James Russell |work=History of Computers and Computing |access-date=2014-07-24 |archive-date=2014-10-30 |archive-url=https://web.archive.org/web/20141030093812/http://history-computer.com/ModernComputer/Basis/compact_disc.html |url-status=dead }}
+<!-- Possible Sources: http://seattletimes.com/html/businesstechnology/2002103322_cdman29.html http://web.mit.edu/invent/iow/russell.html http://www.reed.edu/reed_magazine/Nov2000/a_the_discoverer/ -->
+
+{{Authority control}}
+
+{{DEFAULTSORT:Russell, James}}
+[[Category:1931 births]]
+[[Category:Living people]]
+[[Category:Inventors from Washington (state)]]
+[[Category:Reed College alumni]]
+[[Category:People from Bremerton, Washington]]
+[[Category:General Electric employees]]
+[[Category:20th-century American inventors]]
+[[Category:Battelle Memorial Institute people]]
+[[Category:People with dyslexia]]
+[[Category:People from Richland, Washington]]
+[[Category:People from Bellevue, Washington]]

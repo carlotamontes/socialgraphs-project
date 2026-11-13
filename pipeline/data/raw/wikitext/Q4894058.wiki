@@ -1,0 +1,66 @@
+{{Short description|German physicist}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox scientist
+| name        = Bernd Rainer Noack
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{birth date|1966|02|17|df=y}}
+| birth_place = [[Korbach]], [[Weimar Republic|Germany]]
+| education   = [[University of Göttingen]]
+| known_for   = {{Plainlist|
+*[[Machine learning control]]
+*[[Reduced-order modeling]]
+*[[Aerodynamic optimization]]}}
+| field       = [[Closed-loop flow control for transport systems]]
+| workplaces  = {{Plainlist|
+* [[Harbin Institute of Technology, Shenzhen]]
+* [[CNRS]], Paris
+* [[TU Berlin]]
+* UTRC, [[Max Planck Society]]
+* [[German Aerospace Center]]}}
+| awards      = {{Plainlist|
+* [[CNRS Excellence Award]] (2014-2018)
+* [[Fellow of the American Physical Society]] (2012)
+* [[ANR Senior Chair of Excellence]] (2010)
+* [[Richard von Mises Award]] (2005)
+* [[Hugo Denkmeier Award]] (1993)}}
+}}
+'''Bernd Rainer Noack''' (born 17 February 1966, [[Korbach]], [[West Germany]]) is a German [[physicist]]. 
+His research and teaching area is [[Control theory|closed-loop]] [[Fluid dynamics|flow control]] for transport systems. Focus is placed on [[machine learning control]] and model-based nonlinear control using [[reduced-order modelling]] and nonlinear ([[attractor]]) closures. Currently investigated configurations include [[Wake (physics)|wake]]s, [[Viscosity|mixing layers]], [[Nozzle|jets]], [[Combustor|combustor mixing]] and [[Wake turbulence|aerodynamic flows around cars and airplanes]]. 
+
+==Life==
+Bernd R. Noack<ref>{{Cite web | url=http://BerndNoack.com | title=Bernd R. Noack}}</ref> is a National Talent and Distinguished Professor at [[Shenzhen University]], [[China]]. Secondary affiliations include [[Shenzhen Technology University]],  [[Harbin Institute of Technology]], [[Technical University Berlin]] and [[University Carlos III of Madrid]]. He received his degree as diploma physicist from the [[University of Göttingen|Georg-August-University, Göttingen]], in 1989. He stayed on to receive his physics doctorate in 1992 under [[Helmut Eckelmann]]. In the sequel, he had positions at the [[Max Planck Institute for Dynamics and Self-Organization|Max-Planck-Institut für Strömungsforschung, Göttingen]], the [[German Aerospace Center|German Aerospace Center, Göttingen]], the [[University of Göttingen]], and the [[United Technologies Corporation|United Technologies Research Center (East Hartford, CT, USA)]] before he joined [[Technische Universität Berlin]] heading the group "Reduced-Order Modelling for Flow Control" at the School V "Transport and Machine Systems". 
+Later, he was Director of Research [[CNRS]] at Institute PPRIME, [[Poitiers]] and Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur ([[LIMSI]]), [[Paris-Saclay]], France. In 2020, we became National Talent Profesor at Harbin Institute of Technology.
+
+==Scientific work==
+Focus of Noack's work are physical theories and mathematical methods for turbulence control. One direction is the development of control-oriented nonlinear models 
+and associated control design building on the [[Galerkin method]], originally proposed by [[Boris Galerkin]]. He proposed the first mathematical Galerkin model for the two- and three-dimensional cylinder wake from Hilbert space considerations. Subsequent works employ the [[proper orthogonal decomposition]] and propose numerous enablers accounting for the pressure term, subscale turbulence and departures from the training set.
+
+He has distilled three major facets of nonlinearity in dynamical least-order models:
+* The role of the base flow in saturation of fluctuation level building on J. T. Stuart's [[mean field theory]] and generalizing the Landau model for a supercritical [[Hopf bifurcation]].<ref>{{cite journal | doi = 10.1017/jfm.2011.141 | title = Three-dimensional coherent structures in a swirling jet undergoing vortex breakdown: Stability analysis and empirical mode construction | journal = Journal of Fluid Mechanics | volume = 679 | pages = 383–414 | year = 2011 | last1 = Oberleithner | first1 = K. | last2 = Sieber | first2 = M. | last3 = Nayeri | first3 = C. N. | last4 = Paschereit | first4 = C. O. | last5 = Petz | first5 = C. | last6 = Hege | first6 = H.-C. | last7 = Noack | first7 = B. R. | last8 = Wygnanski | first8 = I. | bibcode = 2011JFM...679..383O | s2cid = 53125370 }}</ref>
+* The interaction of two coherent structures at different frequencies via the base flow leading to coupled Landau oscillators.<ref>{{cite journal | doi = 10.1017/S0022112008004965| title = A generalized mean-field model of the natural and high-frequency actuated flow around a high-lift configuration| journal = Journal of Fluid Mechanics| volume = 623| pages = 283–316| year = 2009| last1 = Luchtenburg| first1 = Dirk M.| last2 = Günther| first2 = Bert| last3 = Noack| first3 = Bernd R.| last4 = King| first4 = Rudibert| last5 = Tadmor| first5 = Gilead| bibcode = 2009JFM...623..283L}}</ref>
+* A statistical closure for the energy cascade of broadband dynamics via a finite time [[non-equilibrium thermodynamics]] (FTT) framework.<ref>{{cite journal | author = Bernd R. Noack |author2=Michael Schlegel |author3=Boye Ahlborn |author4=Gerd Mutschke |author5=Marek Moryznski |author6=Pierre Comte |author7=Gilead Tadmor | date = 2008 | title = A finite-time thermodynamics of unsteady fluid flows | journal = Journal of Non-Equilibrium Thermodynamics | volume = 33 | issue = 2 | pages = 103–148 |url=http://berndnoack.com/publications/Noack2008jnet.PDF |doi=10.1515/JNETDY.2008.006|bibcode=2008JNET...33..103N |s2cid=52969155 }}</ref>
+The associated control laws can be derived from energy considerations and have been applied to streamlined and bluff bodies.
+
+Recently, Noack works on implementing the powerful methods of [[machine learning]] in turbulence control. Major breakthroughs are learning the control law in real-world experiments with [[Machine learning control]] (MLC) and an automated learning the control-oriented dynamical gray-box model from experimental data.
+
+Supplementary projects include data visualization, phenomenological models, vortex models and entropy-based optimization in addition to a spectrum of model-free and model-based control approaches. The breadth of this research builds on a network of cross disciplinary collaborations with leading teams.
+
+==Books and review articles==
+* {{cite book | editor = Bernd R. Noack |editor2=Marek Morzynski |editor3=Gilead Tadmor | date = 2011 | title = Reduced-Order Modelling for Flow Control | publisher = Springer-Verlag | isbn = 978-3-7091-0758-4}}
+* {{cite book | author = Thomas Duriez |author2=Steven L. Brunton |author3=Bernd R. Noack | date = 2016 | title = Machine Learning Control - Taming Nonlinear Dynamics and Turbulence | publisher = Springer-Verlag | isbn = 978-3-319-40624-4}}
+* {{cite journal | author = Steven L. Brunton |author2=Bernd R. Noack | date = 2015 | title = Closed-loop turbulence control: Progress and challenges | journal = Applied Mechanics Reviews | volume = 67 | issue = 5 | pages = 050801| bibcode = 2015ApMRv..67e0801B | doi = 10.1115/1.4031175 |s2cid=120783766 }}
+* {{cite journal | author = Steven L. Brunton |author2=Bernd R. Noack | author3=Petros Koumoutsakos | date = 2020 | title = Machine learning for fluid mechanics | journal = Annu. Rev. Fluid Mech. | volume = 52 | pages = 477–508 | doi = 10.1146/annurev-fluid-010719-060214 | arxiv = 1905.11075 |bibcode=2020AnRFM..52..477B |s2cid=166227999 }}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Noack, Bernd R.}}
+[[Category:1966 births]]
+[[Category:21st-century German physicists]]
+[[Category:Living people]]
+[[Category:People from Korbach]]
+[[Category:Academic staff of Technische Universität Berlin]]

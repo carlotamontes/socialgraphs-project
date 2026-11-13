@@ -1,0 +1,116 @@
+{{Short description|American neuroscientist (born 1947)}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox scientist
+| name              = Terry Sejnowski
+| birth_name        = Terrence Joseph Sejnowski
+| image             =
+| image_size        = 
+| caption           = 
+| birth_date        = {{Birth date and age|df=yes|1947|8|13}}
+| birth_place       = [[Cleveland, Ohio]]
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| fields            = [[Computational Neuroscience]]<br />[[Artificial Intelligence]]
+| workplaces        = [[Salk Institute]]<br />[[Princeton University]]
+| education         = {{ indented plainlist |
+*[[Case Western Reserve University]] ([[Bachelor of Science|BS]])
+*[[Princeton University]] ([[Master of Arts|MA]], [[PhD]])
+}}
+| doctoral_advisor  = [[John Hopfield]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = [[Peter Dayan]]<br />[[Zachary Mainen]]<br />[[P. Read Montague]]
+| thesis_title      = A stochastic model of nonlinearly interacting neurons
+| thesis_year       = 1978
+| thesis_url        = https://www.proquest.com/docview/302901295/
+| known_for         = [[Computational Neuroscience]]<br />[[Independent Component Analysis]]<br />[[Boltzmann machine]]<br />[[NETtalk (artificial neural network)|NETtalk]]
+| influences        = 
+| influenced        = 
+| awards            = [[Gruber Neuroscience Prize]] (2022) <br /> [[Brain Prize]] (2024)
+| religion          = 
+| signature         = 
+| website           = {{URL|https://salk.edu/scientist/terrence-sejnowski/}}
+}}
+
+'''Terrence Joseph Sejnowski''' ({{IPAc-en|US|ˌ|s|eɪ|ˈ|n|ɒ|v|s|k|ɪ}}; born 13 August 1947) is the [[Francis Crick]] [[Professor]] at the [[Salk Institute|Salk Institute for Biological Studies]] where he directs the [[Computation]]al Neurobiology [[Laboratory]] and is the director of the Crick-Jacobs center for [[Mathematical and theoretical biology|theoretical]] and [[computational biology]]. He has performed research in [[neural network]]s and [[computational neuroscience]].<ref>{{cite web|url=https://www.salk.edu/scientist/terrence-sejnowski/|title=Terrence Sejnowski|website=Salk.edu|accessdate=28 April 2019}}</ref><ref>{{cite web|url=https://cnl.salk.edu/|title=CNL : The Computational Neurobiology Laboratory|website=Cnl.salk.edu|accessdate=28 April 2019}}</ref><ref>{{cite web|url=http://biology.ucsd.edu/research/faculty/tsejnowski.html|title=Terrence J. Sejnowski|website=Biology.ucsd.edu|accessdate=28 April 2019}}</ref><ref>{{cite web |url=http://sciencestage.com/v/33954/behavior-and-our-brain-mysteries-of-the-brain-terry-sejnowski.html |title=Behavior and Our Brain - Mysteries of the Brain - Terry Sejnowski - Brain, Behavior, Neuroscience, Sejnowski - sciencestage.com Medicine |website=sciencestage.com |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20100612155059/http://sciencestage.com/v/33954/behavior-and-our-brain-mysteries-of-the-brain-terry-sejnowski.html |archive-date=12 June 2010 |url-status=dead}}</ref>
+
+Sejnowski is also Professor of [[Biology|Biological Sciences]] and adjunct professor in the departments of [[neuroscience]]s, [[psychology]], [[cognitive science]], [[computer science]] and [[Computer engineering|engineering]] at the [[University of California, San Diego]], where he is co-director of the [[Institute for Neural Computation]]. In 2025, he was elected to the [[American Philosophical Society]].<ref>{{cite web | title=APS Elects New Members for 2025 &#124; American Philosophical Society | url=https://www.amphilsoc.org/news/aps-elects-new-members-2025 }}</ref>
+
+With [[Barbara Oakley]], he co-created and taught ''Learning How To Learn: Powerful mental tools to help you master tough subjects'', the world's most popular online course,<ref name="Markoff2015">{{Cite web
+| title = The Most Popular Online Course Teaches You to Learn
+| last = Markoff | first = John
+| work = The New York Times
+| date = 29 December 2015
+| accessdate = 3 January 2016
+| url = http://bits.blogs.nytimes.com/2015/12/29/the-most-popular-online-course-teaches-you-to-learn/?_r=0
+| quote = The world’s most popular online course is a general introduction to the art of learning, taught jointly by an educator and a neuroscientist.
+}}</ref> available on [[Coursera]].<ref name="LHTL">{{cite web|title=Learning How to Learn: Powerful mental tools to help you master tough subjects|url=https://www.coursera.org/course/learning}}</ref>
+
+== Early life and education ==
+Sejnowski was born in Cleveland in 1947.<ref>James A. Anderson, Edward Rosenfeld eds. (2000) ''Talking Nets: An Oral History of Neural Networks''. Chapter 14. MIT Press</ref> 
+
+Sejnowski received a [[Bachelor of Science]] with a major in [[physics]] from the [[Case Western Reserve University]] in 1968, a Master of Arts in physics from [[Princeton University]] (advised by [[John Archibald Wheeler]]), and a [[Doctor of Philosophy]] in physics from Princeton University in 1978 (advised by [[John Hopfield]]). 
+
+While in Princeton for his M.A. in physics, he analyzed the strength of gravitational waves from all known sources at the time, and the required sensitivity needed for detection. He noticed that all gravitational wave detectors were 1000x too insensitive to detect, and, thinking that the requisite detectors would not appear until 30 years later, decided to go into a different field.<ref>{{Cite book |last1=Brenner |first1=Sydney |url=https://books.google.com/books?id=D0xxDwAAQBAJ&q=%22Why+do+flies+have+imaginal+discs%3F%22&pg=PA45 |title=In The Spirit Of Science: Lectures By Sydney Brenner On DNA, Worms And Brains |last2=Sejnowski |first2=Terrence |date=2018-09-10 |publisher=World Scientific |isbn=978-981-327-175-3 |pages=47 |language=en}}</ref>
+
+==Career and research==
+From 1978–1979 Sejnowski was a [[postdoctoral researcher|postdoctoral fellow]] in the Department of Biology at Princeton University with Alan Gelperin and from 1979–1981 he was a postdoctoral fellow in the Department of Neurobiology at [[Harvard Medical School]] with [[Stephen Kuffler]]. In 1982, he joined the faculty of the Department of [[Biophysics]] at the [[Johns Hopkins University]], where he achieved the rank of Professor before moving to [[San Diego, California]] in 1988. He was an Investigator at the [[Howard Hughes Medical Institute]] from 1991 to 2018.
+
+He has had a long-standing affiliation with the [[California Institute of Technology]], as a Wiersma Visiting Professor of Neurobiology in 1987, as a Sherman Fairchild Distinguished Scholar in 1993 and as a part-time Visiting Professor 1995–1998. In 2004, he was named the Francis Crick Professor at the Salk Institute and the director of the Crick-Jacobs Center for Theoretical and Computational Biology.
+
+===Honours and awards===
+Sejnowski received a Presidential Young Investigator Award in 1984 from the [[National Science Foundation]] (NSF).  He received the Wright Prize from the [[Harvey Mudd College]] for excellence in [[Interdisciplinarity|interdisciplinary]] research in 1996 and the [[Donald Olding Hebb|Hebb Prize]] for his contributions to [[algorithmic learning theory|learning algorithms]] by the International Neural Network Society in 1999.  He became a Fellow of the [[Institute of Electrical and Electronics Engineers]] in 2000 for fundamental advances in the theory and practice of neural networks and for contributions to computational neuroscience.<ref>
+{{Cite web|
+url=https://www.comsoc.org/membership/ieee-fellows/2000|
+title = IEEE Fellows 2000 |website =IEEE Communications Society}}
+</ref> In the same year, he also received their Neural Network Pioneer Award in 2002. In 2003, he was elected to the Johns Hopkins Society of Scholars. He is a Senior Fellow of the [[Design Futures Council]].<ref>Design Futures Council Senior Fellows {{cite web |url=http://www.di.net/about/senior_fellows/ |title=Senior Fellows :: DesignIntelligence |accessdate=6 November 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20071106072349/http://www.di.net/about/senior_fellows/ |archivedate=6 November 2007  }}</ref> He was elected to the [[National Academy of Medicine]] in 2008.<ref>Institute of Medicine {{cite web |url=http://www.nimh.nih.gov/about/updates/2008/institute-of-medicine-of-the-national-academies-announces-new-members.shtml |title=NIMH · Institute of Medicine of the National Academies Announces New Members |accessdate=7 March 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150402201554/http://www.nimh.nih.gov/about/updates/2008/institute-of-medicine-of-the-national-academies-announces-new-members.shtml |archivedate=2 April 2015  }}</ref> In 2010, he was elected a [[Member of the National Academy of Sciences]] (NAS),<ref name=nasmember>{{cite web|url=https://www.nasonline.org/directory-entry/terrence-j-sejnowski-jaes2l/|title=Terrence Sejnowski|website=Nasonline.org|access-date=28 April 2019}}</ref><ref>{{cite web|url=http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=04272010|title=72 New Members Chosen By Academy|website=8.nationalacademies.org|accessdate=28 April 2019}}</ref> and elected to the [[National Academy of Engineering]] in 2011.<ref>{{cite web|url=https://nae.edu/42133/NAE-Elects-68-Members-and-Nine-Foreign-Members|title=NAE Elects 68 Members and Nine Foreign Members|website=Nae.edu|accessdate=28 April 2019}}</ref> In 2017, he was elected to the [[National Academy of Inventors]].<ref>{{cite web|url=https://academyofinventors.org/press-releases/|title=National Academy of Inventors|website=Academyofinventors.org|accessdate=28 April 2019}}</ref> These achievements place him in a group of only three living people to have been elected to all four of the national academies.<ref>{{cite web |title=Terrence Sejnowski, May 7, 2018 |url=https://www.stonybrook.edu/commcms/ceas/about/office-of-the-dean/lecture_series/Terrence-Sejnowski |website=Engineering-Driven Medicine Distinguished Lecture |publisher=Stony Brook University College of Engineering and Applied Sciences |access-date=13 June 2022}}</ref> In 2013, he was elected to the American Academy of Arts and Sciences<ref>{{cite web |url=http://www.amacad.org/news/alphalist2013.pdf |website=American Academy of Arts and Sciences | title= 2013 Fellows and their affiliations at the time of election |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20130512163719/http://www.amacad.org/news/alphalist2013.pdf |archive-date=12 May 2013 |url-status=dead}}</ref> and was elected Fellow of the American Physical Society in 2014.<ref>{{cite web|url=https://www.aps.org/units/dbp/fellowship/index.cfm|title=APS Fellowship|website=Aps.org|accessdate=28 April 2019}}</ref> He was awarded the 2015 [[Swartz Prize for Theoretical and Computational Neuroscience]] from the [[Society for Neuroscience]].<ref>{{cite web|url=http://www.sfn.org:443/Initiatives/Awards|title=Awards|website=Sfn.org|accessdate=28 April 2019}}</ref> He received an honorary doctorate from the [[University of Zurich]] in 2017. In 2022, he was awarded the [[Gruber Neuroscience Prize]].<ref>[https://gruber.yale.edu/neuroscience Gruber Neuroscience Prize 2022]</ref> In 2024, he was awarded [[The Brain Prize]] for pioneering work in theoretical neuroscience alongside [[Larry Abbott]] and [[Haim Sompolinsky]].<ref>Meyer, M. (2024, March 5). [https://lundbeckfonden.com/news/pioneering-work-in-computational-and-theoretical-neuroscience-is-awarded-the-worlds-largest Pioneering work in computational and theoretical neuroscience is awarded the world’s largest brain research prize. The Lundbeck Foundation. ]</ref> That same year, he was awarded an honorary Doctor of Science from Princeton University.<ref>{{Cite web |date= 28 May 2024 |title=Princeton awards seven honorary degrees |url=https://www.princeton.edu/news/2024/05/28/princeton-awards-seven-honorary-degrees |access-date=2024-06-04 |website=Princeton University |language=en}}</ref> He was appointed a Fellow of the [[Royal Society]] as a Foreign Member in 2025.<ref>{{Cite web |date=2025-05-20 |title=Exceptional scientists elected as Fellows of the Royal Society |url=https://royalsociety.org/news/2025/05/new-fellows/ |access-date=2025-05-22 |website=Royal Society |language=en}}</ref>
+
+=== Neural networks ===
+His research in [[neural network]]s and [[computational neuroscience]] has been pioneering. In the early 1980s, particularly following work by [[John Hopfield]], computer simulations of neural networks became widespread. Early applications, particularly by Sejnowski and [[Geoffrey Hinton]], demonstrated that simple neural networks could be made to learn tasks of at least some sophistication. In 1989, Sejnowski founded Neural Computation, published by the [[MIT Press]], the leading [[scientific journal|journal]] in neural networks and computational neuroscience.  He is also the President of the Neural Information Processing Systems Foundation, a [[non-profit organization]] that oversees the annual [[Conference on Neural Information Processing Systems|NeurIPS]] Conference.  This interdisciplinary meeting brings together [[research]]ers from many disciplines, including biology, physics, [[mathematics]], and [[engineering]].
+
+He co-invented the [[Boltzmann machine]]<ref>Ackley, D. H. Hinton, G. E. Sejnowski, T. J. A Learning Algorithm for Boltzmann Machines*, Cognitive Science, 9, 147–169, 1985</ref> with [[Geoffrey Hinton]] and pioneered the application of learning algorithms to difficult problems in [[Speech communication|speech]] ([[NETtalk (artificial neural network)|NETtalk]])<ref>Sejnowski, T. J. Rosenberg, C. R. Parallel Networks That Learn to Pronounce English Text, Complex Systems, 1, 145–168, 198</ref> and [[visual perception|vision]].<ref>Lehky, S. R. Sejnowski, T. J. Network Model of Shape-from-Shading: Neural Function Arises from Both Receptive and Projective Fields, Nature, 333, 452–454, 1988</ref> He and his postdoctoral fellow, Tony Bell, developed the infomax algorithm for [[Independent Component Analysis]] (ICA)<ref>Bell, A. J. Sejnowski, T. J. An Information-Maximization Approach to Blind Separation and Blind Deconvolution, Neural Computation, 7, 1129–1159, 1995</ref> which  has been widely adopted in machine learning, signal processing and data mining.
+
+=== Research ===
+The long-range goal of Sejnowski's research is to understand the computational resources of [[brain]]s and to build linking principles from brain to [[behavior]] using [[abstract machine|computational models]].  This goal is being pursued with a combination of [[theory|theoretical]] and [[experiment]]al approaches at several levels of investigation ranging from the biophysical level to the [[systems neuroscience|systems]] level.  [[Hippocampus|Hippocampal]] and [[cerebral cortex|cortical]] slice preparations are being used to explore the properties of single neurons and [[synapse]]s, including the precision of [[action potential|spike firing]] and the influence of [[neuromodulator]]s. Biophysical models of [[electricity|electrical]] and [[chemistry|chemical]] [[signal transduction|signal]] processing within neurons are used as an adjunct to [[physiology|physiological]] experiments. New techniques have been developed for [[scientific modelling|modeling]] [[cell (biology)|cell]] [[signal (information theory)|signaling]] using [[Monte Carlo method]]s (MCell).<ref>Coggan, J. S. Bartol, T. M. Jr. Esquenazi, E. I. Stiles, J. R. Lamont, S. Martone, M. E. Berg, D. K. Ellisman, M. H. Sejnowski, T. J. Evidence for Ectopic Neurotransmission at a Neuronal Synapse, Science, 39, 446–451, 2005</ref>
+
+The central issues being addressed are how [[dendrite]]s integrate synaptic signals in neurons, how networks of neurons generate dynamical patterns of activity, how [[sensory system|sensory information]] is represented in the cerebral cortex, how [[memory]] representations are formed and [[memory consolidation|consolidated]] during [[sleep]], and how visuo-[[somatic nervous system|motor]] transformations are adaptively organized. His laboratory has developed new methods for analyzing the sources for electrical and [[magnetism|magnetic]] signals recorded from the [[scalp]] and [[Hemodynamics|hemodynamic]] signals from functional [[neuroimaging]] by [[blind signal separation|blind separation]] using ICA. The [[EEGLAB]] public software which was as of 2012 the most popular software for processing EEG data was originally developed in his laboratory.<ref>Makeig, S., Westerfield, M., Jung, T.-P., Enghoff, S., Townsend, J., Courchesne, E., Sejnowski, T. J. Dynamic brain sources of visual evoked responses. Science, 295: 690–694(2002)</ref>
+
+=== Symposia ===
+He has participated and spoken at the [[Beyond Belief: Science, Religion, Reason and Survival|Beyond Belief]] symposia in 2006 and 2007. He participated in the conference ''Waking Up to Sleep'' at the Salk Institute in February 2007 (online video available).<ref>{{cite web |url= http://thesciencenetwork.org/search.rss?sleep&topics=sleep |title= Waking Up To Sleep |accessdate= 25 January 2008 |last= Bingham |first= Roger |author2=Terrence Sejnowski |author3=Jerry Siegel |author4=Mark Eric Dyken |author5-link= Charles Czeisler |author5=Charles A. Czeisler |author6=Paul Shaw |author7=Ralph Greenspan |author8=Satchin Panda |author9=Philip Low |author10-link= Robert Stickgold |author10=Robert Stickgold |author11-link= Sara Mednick |author11=Sara Mednick |author12=Allan Pack |author13=Luis de Lecea |author14-link= David Dinges |author14=David Dinges |author15=Dan Kripke |author16-link= Giulio Tononi |author16=Giulio Tononi |date=February 2007 |format= Several conference videos |publisher= The Science Network }}</ref>
+
+=== Membership ===
+Sejnowski was a member of the Advisory Committee to the Director of the National Institutes of Health for the Brain Research through Application of Innovative Neurotechnologies (BRAIN) Initiative,<ref>{{cite web | website= National Institutes of Health| title=Advisory Committee to the Director. Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Working Group: Roster |url=http://www.nih.gov/science/brain/acd-roster.pdf  |accessdate=14 April 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20130424042105/http://nih.gov/science/brain/acd-roster.pdf |archivedate=24 April 2013  }}</ref> announced by President Obama on 2 April 2013.  Their BRAIN 2025 report<ref>{{cite web|url=http://www.braininitiative.nih.gov/2025/index.htm|archive-url=https://web.archive.org/web/20141002180017/http://www.braininitiative.nih.gov/2025/index.htm|url-status=dead|archive-date=2 October 2014|title=BRAIN 2025 Report – Brain Initiative|website=Braininitiative.nih.gov|accessdate=28 April 2019}}</ref> was released by NIH on 5 June 2014 and has been used to prioritize NIH BRAIN Initiative projects.  He was previously part of a team of engineers and neuroscientists who developed the Brain Activity Map Project, which served as the template for the BRAIN Initiative.<ref>Alivisatos, A. P., Chun, M., Church, G.M., Deisseroth, K., Donoghue, J.P., Greenspan, R.J., McEuen, P.L., Roukes, M.L., Sejnowski, T. J., Weiss, P.S., Yuste, R., The Brain Activity Map, Science, 339, 1284–1285 (2013).</ref>
+
+=== Authorship ===
+In 1992, Sejnowski co-authored ''The Computational Brain'' with Patricia Churchland<ref>Churchland, P. S. and Sejnowski, T. J., The Computational Brain, Cambridge, MA:  MIT Press (1992).</ref> and in 2002 the book ''Liars, Lovers, and Heroes; What the New Brain Science Reveals About How We Become Who We are'' with Steven R. Quartz.<ref>{{cite book|author1=HarperCollins|authorlink1=HarperCollins|url=http://www.harpercollins.com/9780060001490/liars-lovers-and-heroes|accessdate=27 August 2015|date=23 September 2003|isbn=9780060001490|title=Liars, Lovers, and Heroes|publisher=Harper Collins }}</ref> His book, ''The Deep Learning Revolution'', was published by the [[MIT Press]] in June 2018.  His most recent book, ''ChatGPT and the Future of AI: The Deep Language Revolution'', was published by the [[MIT Press]] in October 2024.  
+
+He has co-created (with Professor Barbara Oakley) and teaches ''Learning How to Learn: Powerful mental tools to help you master tough subjects'', a [[massive open online course]] offered on Coursera. The course had its first three runs in August and October 2014 and January 2015, when it attracted approximately 300,000 students. In 2015, enrollment in the course reached 1 million,<ref name="Markoff2015"/> a total of about 2 million students as of August 2017, 3 million students as of 2021, and 4 million students as of 2024.
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sejnowski, Terry}}
+[[Category:American neuroscientists]]
+[[Category:American computer scientists]]
+[[Category:Case Western Reserve University alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:Harvard Medical School people]]
+[[Category:Howard Hughes Medical Institute Investigators]]
+[[Category:Living people]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:1947 births]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Foreign members of the Royal Society]]
+[[Category:American people of Polish descent]]
+[[Category:Salk Institute for Biological Studies people]]
+[[Category:Members of the National Academy of Medicine]]
+[[Category:Members of the American Philosophical Society]]

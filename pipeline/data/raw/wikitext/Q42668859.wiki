@@ -1,0 +1,87 @@
+{{short description|British biochemist (b. 1947)}}
+{{distinguish|David Fell (politician)|D. Newlin Fell}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+|name              = David Fell
+|image             = 
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date and age|1947|12|16|df=yes}}
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|ethnicity         = 
+|field             = [[systems biology]], [[network biology]], [[genetics]]
+|workplaces        = [[Oxford Brookes University]]
+|education         = [[University of Oxford]]
+|doctoral_advisor  = [[Arthur Peacocke]]
+|doctoral_students = [[Herbert M. Sauro]]
+|thesis_year       = 1974
+|known_for         = [[metabolic control analysis]], [[Metabolic network modelling|elementary modes]], [[flux balance analysis]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|footnotes         = 
+|signature         = 
+}}
+
+'''David A. Fell''' is a British biochemist and professor of systems biology at [[Oxford Brookes University]].<ref name=":0">{{Cite web|url=https://www.brookes.ac.uk/templates/pages/staff.aspx?uid=7940|title=Professor David Fell - Professor of Systems Biology|website=Oxford Brookes University}}</ref> He has published over 200 publications,<ref>{{Cite web|url=https://scholar.google.no/citations?user=KiFdFGQAAAAJ&hl=en&oi=ao|title=David Fell - Google Scholar Citations|website=scholar.google.no|access-date=2020-08-31}}</ref> including a textbook on ''Understanding the control of metabolism''<ref name="Fell 1997">{{Cite book|title=Understanding the control of metabolism|first=David|last=Fell|publisher=Portland Press|year=1997|isbn=9781855780477|oclc=553392040|url-access=registration|url=https://archive.org/details/understandingcon0000fell}}</ref> in 1996.
+
+== Early work ==
+Fell did research on the physical biochemistry of yeast [[pyruvate kinase]].<ref>{{Cite journal|last1=Fell|first1=David A.|last2=Liddle|first2=Peter F.|last3=Peacocke|first3=Arthur R.|last4=Dwek|first4=Raymond A.|date=1974|title=The preparation and properties of pyruvate kinase from yeast|journal=Biochemical Journal|volume=139|issue=3|pages=665–675|doi=10.1042/bj1390665|issn=0264-6021|pmc=1166331|pmid=4369339}}</ref> He obtained a position at Oxford Polytechnic as a lecturer.<ref name=":0" /> His early work at Oxford Polytechnic focussed on haemoglobin where he developed more precise techniques for monitoring oxygen saturation<ref>{{Cite journal|last=Fell|first=David|title=An automated mixing apparatus for determining haemoglobin-oxygen dissociation|pmid=31462|journal=The Journal of Physiology|year=1978|volume=2823|pages=3P–4P|doi=10.1113/jphysiol.1978.sp012483|s2cid=222217462}}</ref> and the breakdown of [[2,3-bisphosphoglyceric acid|2,3-bisphosphoglycerate]] by [[Hemoglobin|Fe(III)-haemoglobin]].<ref>{{Cite journal|last1=El-Yassin|first1=D I|last2=Fell|first2=D A|last3=Lloyd|first3=B B|last4=Fisher|first4=R B|date=1979|title=The breakdown of 2,3-bis(phospho)-<small>D</small>-glycerate by Fe(III)-haemoglobin|journal=Biochemical Journal|volume=177|issue=1|pages=373–375|doi=10.1042/bj1770373|issn=0264-6021|pmc=1186379|pmid=426777}}</ref> At this time he also worked on the first modelling studies related to the functioning of high- and low-''K''<sub>m</sub> cyclic nucleotide phosphodiesterases on the regulation of [[Cyclic adenosine monophosphate|adenosine 3',5'-cyclic monophosphate (cAMP)]]<ref>{{Cite journal|last=Fell|first=David A.|date=1980|title=Theoretical analyses of the functioning of the high- and low-''K''<sub>m</sub> cyclic nucleotide phosphodiesterases in the regulation of the concentration of adenosine 3′,5′-cyclic monophosphate in animal cells|journal=Journal of Theoretical Biology|volume=84|issue=2|pages=361–385|doi=10.1016/s0022-5193(80)80011-7|pmid=6251314|issn=0022-5193}}</ref>
+<!--Volume: Issue: 3 Pages: 555-561
+DOI: -->
+
+== Later career ==
+From the early 1980s David Fell switched his research to [[systems biology]] and was one of the earliest systems biologists in the UK, with publications from 1979<ref>{{Cite journal|last1=Fell|first1=D A|last2=Sauro|first2=H M|date=1986|title=Metabolic control and its analysis: additional relationships between elasticities and control coefficients|journal=European Journal of Biochemistry |volume=148|issue=3|pages=555–5616|doi=10.1111/j.1432-1033.1985.tb08876.x|issn=0014-2956|pmid=3996393|doi-access=free}}</ref> onwards. The other notable systems biologist at time was [[Henrik Kacser]] at the [[University of Edinburgh]]. Given that his early work had a significant mathematical and computational component, he was ideally positioned to consider a more quantitative approach to studying the properties of cellular networks. It was against this background that he turned to the relatively new field called [[metabolic control analysis]] as a means to understand the principles of metabolic regulation. Before the development of metabolic control analysis, understanding metabolism was based on qualitative arguments which resulted in some incorrect conclusions (rate-limiting steps). Much of Fell's research for the next 20 years focussed on extending and applying metabolic control analysis to metabolism. This work culminated in the publication of his textbook, ''Understanding the control of metabolism''.<ref name="Fell 1997"/> In 1986 he published with his graduate student Rankin Small, one of the earliest flux-balance models where they used linear programming to examine the efficiency in the conversion of glucose into fat.<ref>{{Cite journal|last1=Fell|first1=D A|last2=Small|first2=J R|date=1986|title=Fat synthesis in adipose tissue. An examination of stoichiometric constraints|journal=Biochemical Journal|volume=238|issue=3|pages=781–786|doi=10.1042/bj2380781|issn=0264-6021|pmc=1147204|pmid=3800960}}</ref> He was also one of the first researchers to use the [[Gillespie algorithm|Gillespie method]] for stochastic simulation in cellular biology,<ref>{{Citation|last1=Moniz-Barreto|first1=P.|chapter=Simulation of Dioxygen Free Radical Reactions: Their Importance in the Initiation of Lipid Peroxidation|date=1996|title=Biomedical and Life Physics|pages=137–144|publisher=Vieweg+Teubner Verlag|isbn=9783322850195|last2=Fell|first2=D. A.|doi=10.1007/978-3-322-85017-1_12}}</ref> a method that is now routinely used in systems biology.  In the late 1990s his research started shifting more towards stoichiometric analysis with particular emphasis on [[Metabolic network modelling|elementary modes]]<ref>{{Citation|last1=Schuster|first1=S.|chapter=Determining Elementary Modes of Functioning in Biochemical Reaction Networks at Steady State|date=1996|title=Biomedical and Life Physics|pages=101–114|publisher=Vieweg+Teubner Verlag|isbn=9783322850195|last2=Hilgetag|first2=C.|last3=Schuster|first3=R.|doi=10.1007/978-3-322-85017-1_9}}</ref> and the analysis of larger networks such as those involved in photosynthesis<ref>{{Cite journal|last1=Poolman|first1=Mark G.|last2=Fell|first2=David A.|last3=Raines|first3=Christine A.|date=2003|title=Elementary modes analysis of photosynthate metabolism in the chloroplast stroma|journal=European Journal of Biochemistry|volume=270|issue=3|pages=430–439|doi=10.1046/j.1432-1033.2003.03390.x|pmid=12542693|issn=0014-2956|doi-access=free}}</ref> and whole genome scale models in a variety of organisms including one of the first genome scale models of ''Arabidopsis''.<ref>{{Cite journal|last1=Poolman|first1=M. G.|last2=Miguet|first2=L.|last3=Sweetlove|first3=L. J.|last4=Fell|first4=D. A.|date=2009|title=A Genome-Scale Metabolic Model of ''Arabidopsis'' and Some of Its Properties|journal=Plant Physiology|volume=151|issue=3|pages=1570–1581|doi=10.1104/pp.109.141267|pmid=19755544|pmc=2773075|issn=0032-0889}}</ref>
+
+==Publications==
+
+Other than his textbook, which has been cited 1464 times (Sept, 2018), his top ten publications include:<ref>{{Cite web|url=https://scholar.google.no/citations?user=KiFdFGQAAAAJ&hl=en&oi=ao|title=David Fell - Google Scholar Citations|website=scholar.google.no|access-date=2018-09-25}}</ref> two publications related to the evolutionary age of metabolism using [[Small-world network|small-world analysis]], the definition of a pathway in terms of [[Metabolic network modelling|elementary modes]], three reviews on metabolic control analysis including a republication<ref>{{cite journal
+ | last1 = Kacser
+ | first1 = H
+ | last2 = Burns
+ | first2 = JA
+ | last3 = Fell
+ | first3 = DA
+ | title = The control of flux
+ | journal =Biochemical Society Transactions
+ | volume = 23
+ | issue = 2
+ | pages = 341–366
+ | date = 1995
+ | doi = 10.1042/bst0230341
+ | pmid = 7672373
+ }}</ref> of the seminal work, ''Control of Flux'' by Kacser and Burns,<ref>{{cite journal
+ | last1 = Kacser
+ | first1 = H
+ | last2 = Burns
+ | first2 = J A
+ | title = The control of flux
+ | journal = Symposia of the Society for Experimental Biology
+ | volume = 27
+ | pages = 65–104
+ | date = 1973
+ }}</ref> two research papers on [[metabolic control analysis]],  one of the earliest papers on the use of [[Flux balance analysis|flux-balance analysis]], one of the earliest papers that describes a model the [[MAPK/ERK pathway|MAPK pathway]] in EGF signalling, and well as the earliest paper that describes the whole genome-scale model of the plant ''[[Arabidopsis]]''.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://mudshark.brookes.ac.uk/Home Research Web Site]
+
+{{authority control}}
+
+{{DEFAULTSORT:Fell, David}}
+[[Category:Systems biologists]]
+[[Category:Theoretical biologists]]
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:British biochemists]]
+[[Category:Alumni of Mansfield College, Oxford]]
+[[Category:Academics of Oxford Brookes University]]

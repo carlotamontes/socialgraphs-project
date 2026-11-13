@@ -1,0 +1,62 @@
+{{Short description|Brazilian physicist of Greek descent}}{{Primary sources|date=September 2026}}{{Infobox scientist
+| name              = Constantino Tsallis
+| image             = Constantino_Tsallis_February_2010.jpg
+| caption           = Constantino Tsallis in 2010.
+| birth_date        = {{birth_date_and_age|1943|11|04}}
+| birth_place       = [[Athens]], [[Hellenic State|Greece]]
+| death_date        =
+| death_place       = 
+| citizenship       = [[Brazil]]ian
+| ethnicity         = 
+| fields            = [[Theoretical physics]]
+| workplaces        = [[Centro Brasileiro de Pesquisas Físicas]] <br/>(Brazilian Physics Research Center)
+| education         = [[Balseiro Institute]]<br>[[Centro Brasileiro de Pesquisas Físicas]]<br>[[University of Paris-Sud]]
+| doctoral_advisor  = [[Guido Beck]]<br>[[André Guinier]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Tsallis entropy]]<br>[[Tsallis statistics]]<br>[[Tsallis distribution]]
+| influences        = 
+| influenced        = 
+| awards            = [[Premio México de Ciencia y Tecnología]] (2003) 
+}}
+'''Constantino Tsallis''' ({{IPAc-en|ˈ|s|æ|l|ɪ|s}}; {{langx|el|Κωνσταντίνος Τσάλλης}} {{IPA|el|ˈtsalis|}}; born 4 November 1943) is a naturalized [[Brazil]]ian [[physicist]] of [[Greeks|Greek]] descent, working in [[Rio de Janeiro]] at [[Centro Brasileiro de Pesquisas Físicas]] (CBPF), [[Brazil]]. He is known for the development of [[Tsallis statistics]] used in [[non-equilibrium thermodynamics]].
+
+==Biography==
+Tsallis was born in [[Greece]], and grew up in [[Argentina]], where he studied physics at [[Instituto Balseiro]], in [[Bariloche]]. In 1974, he received a ''Doctorat d'État ès Sciences Physiques'' degree from the [[University of Paris-Sud]]. He moved to Brazil in 1975 with his wife and daughter. Tsallis is an External Professor of the [[Santa Fe Institute]].<ref>{{cite web|title=Constantino Tsallis|website=Santa Fe Institute|url=https://www.santafe.edu/people/profile/constantino-tsallis}}</ref>
+
+==Research==
+Tsallis is credited with introducing the notion of what is known as [[Tsallis entropy]] and [[Tsallis statistics]] in his 1988 paper "Possible generalization of Boltzmann–Gibbs statistics" published in the ''[[Journal of Statistical Physics]]''.<ref name=tsallis1988>{{Cite journal | last1 = Tsallis | first1 = C. | doi = 10.1007/BF01016429 | title = Possible generalization of Boltzmann–Gibbs statistics | journal = Journal of Statistical Physics | volume = 52 | issue = 1–2 | pages = 479–487 | year = 1988 |bibcode = 1988JSP....52..479T | hdl = 10338.dmlcz/142811 | s2cid = 16385640 | hdl-access = free }}</ref> The generalization is considered to be a good candidate for formulating a theory of non-[[Intensive and extensive properties|extensive]] [[thermodynamics]]. The resulting theory is not intended to replace [[Boltzmann entropy|Boltzmann–Gibbs statistics]], but rather supplement it, such as in the case of anomalous systems characterised by [[Ergodic theory|non-ergodicity]] or [[metastable state]]s.
+
+One experimental verification of the predictions of Tsallis statistics concerned cold atoms in dissipative [[optical lattice]]s. Eric Lutz made an analytical prediction in 2003<ref>{{Cite journal |last=Lutz |first=Eric |date=2003-05-27 |title=Anomalous diffusion and Tsallis statistics in an optical lattice |url=https://link.aps.org/doi/10.1103/PhysRevA.67.051402 |journal=Physical Review A |publisher=American Physical Society |volume=67 |issue=5 |article-number=051402 |doi=10.1103/PhysRevA.67.051402|arxiv=cond-mat/0210022 |bibcode=2003PhRvA..67e1402L }}</ref> which was verified in 2006 by a team in [[University College London]].<ref>{{Cite journal |last1=Douglas |first1=P. |last2=Bergamini |first2=S. |last3=Renzoni |first3=F. |date=2006-03-24 |title=Tunable Tsallis Distributions in Dissipative Optical Lattices |url=https://link.aps.org/doi/10.1103/PhysRevLett.96.110601 |journal=Physical Review Letters |publisher=American Physical Society |volume=96 |issue=11 |article-number=110601 |doi=10.1103/PhysRevLett.96.110601 |pmid=16605807 |bibcode=2006PhRvL..96k0601D }}</ref>
+
+Tsallis conjectured in 1999 ([http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-97331999000100002&lng=pt&nrm=iso&tlng=en ''Brazilian Journal of Physics'' 29, 1];<ref>{{Cite journal | last1 = Tsallis | first1 = C. | title = Nonextensive statistics: Theoretical, experimental and computational evidences and connections | doi = 10.1590/S0103-97331999000100002 | journal = Brazilian Journal of Physics | volume = 29 | year = 1999 | arxiv = cond-mat/9903356 | s2cid = 16191055 }}</ref>Figure 4): 
+#That a longstanding [[quasi-stationary state]] (QSS) was expected in long-range interacting [[Hamiltonian system]]s (one of the core problems of [[statistical mechanics]]).
+#That this QSS should be described by Tsallis statistics instead of Boltzmann–Gibbs statistics. This was verified in June 2007 by A. Pluchino, A. Rapisarda and Tsallis<ref>{{Cite journal |last1=Pluchino |first1=A. |last2=Rapisarda |first2=A. |last3=Tsallis |first3=C. |date=2007 |title=Nonergodicity and central-limit behavior for long-range Hamiltonians |url=https://iopscience.iop.org/article/10.1209/0295-5075/80/26002 |journal=Europhysics Letters (EPL) |volume=80 |issue=2 |article-number=26002 |doi=10.1209/0295-5075/80/26002 |issn=0295-5075|arxiv=0706.4021 |bibcode=2007EL.....8026002P }}</ref> (in the last figure, instead of the Maxwellian (Gaussian) distribution of velocities (valid for short-range interactions), one sees a [[q-Gaussian]]).
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20121022093434/http://tsallis.cat.cbpf.br/constantino.html Homepage of Constantino Tsallis]
+* [http://tsallis.cat.cbpf.br/biblio.htm The regularly updated link to the literature of nonextensive statistics]
+
+{{Tsallis}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tsallis, Constantino}}
+[[Category:Greek emigrants to Brazil]]
+[[Category:Argentine people of Greek descent]]
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:Brazilian people of Greek descent]]
+[[Category:Brazilian physicists]]
+[[Category:Members of the Brazilian Academy of Sciences]]
+[[Category:Academic staff of the University of Brasília]]
+[[Category:Naturalized citizens of Brazil]]
+[[Category:Commanders of the National Order of Scientific Merit (Brazil)]]
+[[Category:Santa Fe Institute people]]
+[[Category:National University of Cuyo alumni]]
+[[Category:University of Paris alumni]]
+[[Category:20th-century Brazilian physicists]]

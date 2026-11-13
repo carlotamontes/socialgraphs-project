@@ -1,0 +1,103 @@
+{{short description|Dutch mathematician}}
+{{Infobox scientist
+| honorific_prefix  =
+| name              = 
+| honorific_suffix  =
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date|1939|1|19|df=y}}
+| birth_place       = [[Amsterdam]]
+| death_date        = {{death date and age|2009|07|30|1939|01|19|df=y}}
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = 
+| patrons           = 
+| education         = [[Eindhoven University of Technology]]<br>[[University of Amsterdam]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Jacques F. Benders]]
+| academic_advisors = 
+| doctoral_students = {{plainlist|1=
+*[[Eric van Damme]]
+*[[Nelly Litvak]]
+}}
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Jacobus (Jaap) Wessels''' (19 January 1939 – 30 July 2009) was a Dutch [[mathematician]] and Professor of Stochastic Operations Research at the [[Eindhoven University of Technology]],<ref name="NW 2000">[[Jo van Nunen]] and [[Jaap van der Wal]]. "Jaap Wessels–his life with stochastic processes." Statistica Neerlandica 54.2 (2000): 116-126.</ref> known for his contributions in the field of [[Hidden Markov model|Markov decision processes]].<ref name="C09">[http://web.tue.nl/cursor/internet/jaargang52/cursor01/nieuws/index.php?page=n18 In memoriam prof.dr. Jaap Wessels] in: ''Cursor/I'' week 37, 2009. Accessed September 18, 2010.</ref>
+
+== Biography ==
+Born in [[Amsterdam]], Wessels started to study Mathematics and Physics at the [[University of Amsterdam]] in 1956, where in 1963 he received his MA. He graduated in 1968 at the Eindhoven University of Technology advised by [[Jacques F. Benders]] with a thesis entitled "Decision rules in Markovian decision problems with Incompletely known transition probabilities" about [[Hidden Markov model|Markov decision processes]].<ref name="C09"/>
+
+In 1960, Wessels started his academic career at the University of Amsterdam as assistant to [[Jan Hemelrijk]], an authority in the field of [[stochastic process]]es.<ref Name="NW 2000"/> During his doctoral research, Wessels was employed as research assistant at the Technical University of Eindhoven. In 1973, he was appointed Professor of Applied Probability Theory at the Faculty of Mathematics and Computer Science. In 2000, he retired from the Eindhoven University of Technology. He kept participating in [[International Institute for Applied Systems Analysis]] and [[EURANDOM]]. On July 30, 2009 he died in [[Veldhoven]].
+
+Among his doctoral students were [[Jo van Nunen]], [[Kees van Hee]], [[Henk Zijm]], [[Eric van Damme]] and [[Wil van der Aalst]].<ref name="C09"/><ref name="MGP">{{MathGenealogy |name=Jaap Wessels}}</ref>
+
+Wessels was president of the [[Vereniging voor Statistiek]] (VVS), and has contributed to the foundation of the National Network Mathematical Decision Making (LNMB), the research school BETA, and [[European Institute for Statistics, Probability, Stochastic Operations Research and its Applications]] (EURANDOM).
+
+== Work ==
+Wessels' research interests focused on topics such as [[queuing theory]], [[neural networks]] and structured [[Markov process]]es, and more specifically "decision support methodology and he applies his favorite research topics in operations management, communication processes, manpower policy making and environmental problems."<ref>Wierzbicki, Andrzej, Marek Makowski, and Jaap Wessels, eds. Model-based decision support methodology with environmental applications. Vol. 475. Dordrecht: Kluwer Academic Publishers, 2000. p. ix</ref>
+
+=== Model-based decision support methodology ===
+Wessels' most cited work is the 2000 publication ''Model-based decision support methodology with environmental applications'', edited with Andrzej Wierzbicki and Marek Makowski. In the introduction they acknowledge about [[decision making]]:
+<blockquote>
+Decision making is a major component of living and, therefore, a fascinating topic for discussion and investigation. Several fields in science also occupy themselves with the nature of different aspects of decision making: philosophy, psychology, sociology, economics, etc. There are many types of decision making and all types are equally intriguing, e.g., How do people react when they are threatened? How should one select a spouse? What is the most appropriate factory layout? Which markets would be most profitable?...
+
+:In most institutional decision-making problems, there are three main aspects of concern:
+
+:*The information about the current situation and, possibly, about the past.
+:* The processes that are to be influenced by the decisions.
+:* The actual decision-making process
+:... In the history of decision support and decision analysis, one sees that many tools and methods have been developed to help make decisions.<ref>Wierzbicki, Makowski, and Wessels, eds. (2009, p. 1-2)</ref>
+</blockquote>
+
+This publication gives in three parts (Methodology, Decision Support Tools, Environmental Applications) an overview of the field.
+
+== Publications ==
+Wessel authored and co-authored dozens of publications in the field.<ref name="DBLP">{{DBLP |name=Jaap Wessels}}</ref> Books, a selection:
+*1968. ''Decision rules in Markovian decision problems with Incompletely known transition probabilities.''
+*1976. ''Markov decision theory: proceedings of the Advanced Seminar on Markov Decision Theory held at Amsterdam, the Netherlands, 13–17 September 1976.'' With Henk Tijms eds.
+*1991. ''User-oriented methodology and techniques of decision analysis and support: proceedings of the International IIASA Workshop, held in Serock, Poland, 9–13 September 1991.'' With Andrzej Wierzbicki eds.
+*1993. ''Analysing shortest expected delay routing for Erlang servers.'' With Ivo Adan.
+*2000. ''[http://user.iiasa.ac.at/~marek/pubs/book_s.pdf Model-based decision support methodology with environmental applications].'' With Andrzej Wierzbicki and Marek Makowski eds.
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+*[http://web.tue.nl/cursor/internet/jaargang52/cursor01/nieuws/index.php?page=n18 prof.dr. Jaap Wessels] In memoriam (in Dutch)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wessels, Jaap}}
+[[Category:1939 births]]
+[[Category:2009 deaths]]
+[[Category:Dutch mathematicians]]
+[[Category:Dutch operations researchers]]
+[[Category:University of Amsterdam alumni]]
+[[Category:Academic staff of the Eindhoven University of Technology]]
+[[Category:Scientists from Amsterdam]]

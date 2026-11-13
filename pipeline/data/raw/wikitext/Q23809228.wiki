@@ -1,0 +1,86 @@
+{{short description|Computational biologist}}
+{{Infobox scientist
+| honorific_prefix = 
+| name = Debora Marks
+| honorific_suffix = 
+| native_name = 
+| native_name_lang = 
+| image = Debbie_Marks_HR.jpg
+| image_size = 
+| alt = 
+| caption = Debora Marks
+| birth_date = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place = 
+| death_date = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence = 
+| citizenship = 
+| nationality = 
+| fields = [[Artificial Intelligence]], [[Structural Biology]], [[Bioinformatics]]
+| workplaces = [[Harvard Medical School]]
+| patrons = 
+| education = [[University of Bristol]], [[University of Manchester]], [[Humboldt University]]
+| thesis_title = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year = 2010
+| doctoral_advisor = [[Reinhart Heinrich]], [[Hanspeter Herzl]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for = 
+| influences = 
+| influenced = 
+| awards = [[Overton Prize]], [[Ben Barres Early Career Award]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse = <!--(or | spouses = )-->
+| partner = <!--(or | partners = )-->
+| children = 
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = https://marks.hms.harvard.edu/
+| footnotes = 
+}}
+
+'''Debora S. Marks''' is a researcher in [[computational biology]] and a Professor of [[Systems Biology]] at [[Harvard Medical School]].<ref name="homepage">{{cite web|title=Debora S. Marks Lab|url=https://marks.hms.harvard.edu/|access-date=July 11, 2016}}</ref> Her research uses computational approaches to address a variety of biological problems.
+
+== Career and research ==
+
+After an undergraduate degree in medicine she worked in the pharmaceutical industry, coming back to research late in life through a mathematics degree from the [[University of Manchester]].<ref name=":0">{{Cite web|url=http://www.iscb.org/iscb-fellows/89-ISCB%20About%20Us/awards6/2942-2016-overton-prize-debora-marks|title=2016 Overton Prize: Debora Marks|website=www.iscb.org|access-date=2019-01-01}}</ref> She became interested in [[microRNAs]] in the early 2000s<ref name=":0" /><ref>{{cite journal | vauthors = Enright AJ, John B, Gaul U, Tuschl T, Sander C, Marks DS | title = MicroRNA targets in Drosophila | journal = Genome Biology | volume = 5 | issue = 1 | pages = R1 | date = 2003 | pmid = 14709173 | pmc = 395733 | doi = 10.1186/gb-2003-5-1-r1 | doi-access = free }}</ref><ref>{{cite journal | vauthors = John B, Enright AJ, Aravin A, Tuschl T, Sander C, Marks DS | title = Human MicroRNA targets | journal = PLOS Biology | volume = 2 | issue = 11 | pages = e363 | date = November 2004 | pmid = 15502875 | pmc = 521178 | doi = 10.1371/journal.pbio.0020363  | doi-access = free }}</ref> and her work on the biology of microRNAs eventually became a PhD thesis, which she submitted under the guidance of [[Reinhart Heinrich]] to [[Humboldt University of Berlin]] in 2010.<ref name="thesis">{{cite journal | vauthors = Fogg CN, Kovats DE | title = 2016 ISCB Overton Prize awarded to Debora Marks | journal = F1000Research | volume = 5 | pages = 1575 | date = July 5, 2016 | pmid = 27429747 | pmc = 4934501 | doi = 10.12688/f1000research.9158.1 | doi-access = free }}</ref>  One key contribution was her discovery that transfection of microRNAs into cells counter-intuitively increases the expression of some genes, due to competition for the cellular machinery that processes small RNAs.<ref>{{cite journal | vauthors = Khan AA, Betel D, Miller ML, Sander C, Leslie CS, Marks DS | title = Transfection of small RNAs globally perturbs gene regulation by endogenous microRNAs | journal = Nature Biotechnology | volume = 27 | issue = 6 | pages = 549–55 | date = June 2009 | pmid = 19465925 | pmc = 2782465 | doi = 10.1038/nbt.1543 }}</ref> In collaboration with [[Alexander van Oudenaarden]] and Nils Bluthgen, she showed that microRNAs reduce the noise in protein expression when mRNA levels are low, reducing the likelihood of unwanted protein expression as a result of leakage at a gene's promoter.<ref>{{cite journal | vauthors = Schmiedel JM, Klemm SL, Zheng Y, Sahay A, Blüthgen N, Marks DS, van Oudenaarden A | title = Gene expression. MicroRNA control of protein expression noise | journal = Science | volume = 348 | issue = 6230 | pages = 128–32 | date = April 2015 | pmid = 25838385 | doi = 10.1126/science.aaa1738 | bibcode = 2015Sci...348..128S | s2cid = 206633133 }}</ref>
+
+She is best known for her work on protein structure prediction: her method, which draws on an approach from statistical physics, maximum entropy under constraint, uses correlations between the sequences of protein family members from multiple species to build models of protein structure from sequence alone.<ref>{{cite journal | vauthors = Hopf TA, Colwell LJ, Sheridan R, Rost B, Sander C, Marks DS | title = Three-dimensional structures of membrane proteins from genomic sequencing | journal = Cell | volume = 149 | issue = 7 | pages = 1607–21 | date = June 2012 | pmid = 22579045 | pmc = 3641781 | doi = 10.1016/j.cell.2012.04.012 }}</ref> In some cases the predicted models are sufficiently accurate to permit [[molecular replacement]] of the model into [[X-ray crystallography]] data, facilitating phase replacement.<ref>{{cite journal | vauthors = Sjodt M, Brock K, Dobihal G, Rohs PD, Green AG, Hopf TA, Meeske AJ, Srisuknimit V, Kahne D, Walker S, Marks DS, Bernhardt TG, Rudner DZ, Kruse AC | title = Structure of the peptidoglycan polymerase RodA resolved by evolutionary coupling analysis | journal = Nature | volume = 556 | issue = 7699 | pages = 118–121 | date = April 2018 | pmid = 29590088 | pmc = 6035859 | doi = 10.1038/nature25985 | bibcode = 2018Natur.556..118S }}</ref> The algorithm<ref>{{Cite web|url=http://evfold.org/|title=EVcouplings|website=evfold.org|access-date=2019-01-01}}</ref> has been extensively used by other researchers to predict and gain insights into protein structures, for example the structures of the σ2 receptor<ref>{{cite journal | vauthors = Alon A, Schmidt HR, Wood MD, Sahn JJ, Martin SF, Kruse AC | title = 2 receptor | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 114 | issue = 27 | pages = 7160–7165 | date = July 2017 | pmid = 28559337 | pmc = 5502638 | doi = 10.1073/pnas.1705154114 | doi-access = free }}</ref> and the [[tetraspanin]] [[CD81]].<ref>{{cite journal | vauthors = Zimmerman B, Kelly B, McMillan BJ, Seegar TC, Dror RO, Kruse AC, Blacklow SC | title = Crystal Structure of a Full-Length Human Tetraspanin Reveals a Cholesterol-Binding Pocket | journal = Cell | volume = 167 | issue = 4 | pages = 1041–1051.e11 | date = November 2016 | pmid = 27881302 | pmc = 5127602 | doi = 10.1016/j.cell.2016.09.056 }}</ref> Marks and her close collaborator and husband [[Chris Sander (scientist)|Chris Sander]] have shown that this approach can also be used to predict the structures of [[non-coding RNA]]s and RNA-protein complexes,<ref>{{cite journal | vauthors = Weinreb C, Riesselman AJ, Ingraham JB, Gross T, Sander C, Marks DS | title = 3D RNA and Functional Interactions from Evolutionary Couplings | journal = Cell | volume = 165 | issue = 4 | pages = 963–75 | date = May 2016 | pmid = 27087444 | pmc = 5024353 | doi = 10.1016/j.cell.2016.03.030 }}</ref> to identify otherwise undetectable structured states in disordered proteins<ref>{{cite journal | vauthors = Toth-Petroczy A, Palmedo P, Ingraham J, Hopf TA, Berger B, Sander C, Marks DS | title = Structured States of Disordered Proteins from Genomic Sequences | journal = Cell | volume = 167 | issue = 1 | pages = 158–170.e12 | date = September 2016 | pmid = 27662088 | pmc = 5451116 | doi = 10.1016/j.cell.2016.09.010  }}</ref> and to predict the functional effects of sequence mutations.<ref>{{cite journal | vauthors = Hopf TA, Ingraham JB, Poelwijk FJ, Schärfe CP, Springer M, Sander C, Marks DS | title = Mutation effects predicted from sequence co-variation | journal = Nature Biotechnology | volume = 35 | issue = 2 | pages = 128–135 | date = February 2017 | pmid = 28092658 | pmc = 5383098 | doi = 10.1038/nbt.3769 }}</ref>
+
+== Awards ==
+In 2016, Marks was awarded the [[Overton Prize]] by the [[International Society for Computational Biology]].<ref name="overton">{{cite web|title=Feb 17, 2016: ISCB Congratulates 2016 Award Winners, Soren Brunak, Debora Marks, Burkhard Rost, and Serafim Batzoglou|url=https://www.iscb.org/iscb-news-items/2707-2016-feb17-iscb-awards|website=www.iscb.org|access-date=July 11, 2016}}</ref>
+
+In 2018, Marks was awarded the Ben Barres Early Career Award by the [[Chan Zuckerberg Initiative]] as part of the [[Neurodegeneration]] Challenge Network.<ref>{{Cite web|url=https://go.chanzuckerberg.com/NCN|title=Chan Zuckerberg Science Initiative|website=Neurodegeneration Challenge Network|access-date=2019-01-01|archive-date=December 31, 2019|archive-url=https://web.archive.org/web/20191231184610/http://go.chanzuckerberg.com/ncn|url-status=dead}}</ref>
+
+In 2022, Marks was elected as a [[ISCB Fellow|Fellow]] of the [[International Society for Computational Biology]].<ref name="iscb-fellow">{{cite web |title=April 28, 2022: ISCB Congratulates and Introduces the 2022 Class of Fellows! |url=https://www.iscb.org/iscb-news-items/4861-april-28-2022-iscb-congratulates-and-introduces-the-2022-class-of-fellows |website=www.iscb.org |access-date=17 June 2022}}</ref>
+
+In 2025, Marks received the inaugural [https://aiscienceconference.caltech.edu/pritzker-prize Margot and Tom Pritzker Prize for AI in Science Research Excellence]<ref>{{Cite web |title=Inaugural Margot and Tom Pritzker Prize for AI in Science Research Excellence Announces Winners – DSI |url=https://datascience.uchicago.edu/news/inaugural-margot-and-tom-pritzker-prize-for-ai-in-science-research-excellence-announces-winners/ |access-date=2025-11-21 |website=datascience.uchicago.edu}}</ref>
+
+In 2026, it was announced at the Cold Spring Harbor Laboratory 90th Symposium on AI that Marks was elected fellow of the Royal Society of London.<ref>[https://royalsociety.org/news/2026/05/new-fellows-announcement-2026/]</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{google scholar id|qFmoeNkAAAAJ}}
+*[https://marks.hms.harvard.edu/ Official site of D.Marks lab]
+
+{{Overton Prize}}
+{{ISCB Fellows}}
+{{Authority control}}
+{{Use mdy dates|date=December 2018}}
+
+{{DEFAULTSORT:Marks, Debora S.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Harvard University faculty]]
+[[Category:21st-century American biologists]]
+[[Category:American women academics]]
+[[Category:21st-century American women biologists]]

@@ -1,0 +1,97 @@
+{{Use dmy dates|date=November 2019}}
+
+{{Infobox scientist
+| honorific_prefix  = [[Professor]]
+| name              = Brian Spalding
+| honorific_suffix  = {{postnominals|country=GBR|size=100%|FRS|FREng}}
+| image             = Brian Spalding.gif
+| caption           = Brian Spalding
+| alt               = 
+| birth_name        = Dudley Brian Spalding
+| birth_date        = {{Birth date|df=y|1923|1|9}}
+| death_date        = {{nowr|{{Dath date and age|df=y|2016|11|27|1923|1|9}}}}
+| birth_place       = [[New Malden]], [[England]]
+| death_place       = 
+| resting_place     = 
+| education         = [[University of Oxford]]<br>[[University of Cambridge]]
+| known_for         = [[Computational fluid dynamics]]<br>[[Hybrid difference scheme]]<br>[[SIMPLE algorithm]]<br>[[Droplet vaporization|Spalding number]]
+| spouse            = 
+| children          = 
+| awards            = [[Franklin Institute Awards|Franklin Medal]] {{small|(2010)}} <br>[[Global Energy Prize]] {{small|(2009)}} <br>[[Fellow of the Royal Society]] {{small|(1983)}}<br>[[Max Jakob Memorial Award]] {{small|(1978)}}
+| framestyle        = 
+| liststyle         = 
+| title             = 
+| field             = 
+| workplaces        = [[Imperial College London]]
+| style             = 
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = [[Suhas V. Patankar]]<br>
+[[Akshai Runchal]]
+| influences        = 
+| influenced        = 
+| signature         = 
+}}
+
+'''Dudley Brian Spalding''' (9 January 1923 – 27 November 2016) was Professor of [[Heat Transfer]] and Head of the Computational Fluid Dynamics Unit at [[Imperial College London|Imperial College, London]]. He was one of the founders of [[computational fluid dynamics]] (CFD) and an internationally recognized contributor to the fields of heat transfer, fluid mechanics and combustion.<ref>[http://www.cham.co.uk/docs/newssummer07.pdf CFD: Past, Present and Future]</ref> He created the practice of CFD – its application to problems of interest to engineers. Most of today's commercially available CFD software tools trace their origin to the work done by Spalding's group in the decade spanning the mid-60s and mid-70s.<ref>{{cite journal | url=https://www.sciencedirect.com/science/article/pii/S0017931009002282 | doi=10.1016/j.ijheatmasstransfer.2009.03.058 | title=Brian Spalding: CFD and reality – A personal recollection | year=2009 | last1=Runchal | first1=Akshai K. | journal=International Journal of Heat and Mass Transfer | volume=52 | issue=17–18 | pages=4063–4073 | bibcode=2009IJHMT..52.4063R | url-access=subscription }}</ref> Spalding became a [[Fellow of the Royal Society]]<ref>[http://royalsociety.org/uploadedFiles/Royal_Society_Content/about-us/fellowship/Fellows1660-2007.pdf List of Fellows of the Royal Society]</ref> and [[Fellow of the Royal Academy of Engineering]].
+
+== Life ==
+Spalding was born at [[New Malden]], Surrey, England, and educated at [[King's College School]], Wimbledon. He received his BA degree in Engineering Science from Oxford University in 1944 and PhD from Cambridge University in 1952. He joined the Department of Mechanical Engineering at Imperial College in 1954 as a Reader in Heat Transfer. On his promotion to Professor of Heat Transfer in 1958 he gave his inaugural lecture entitled Heat Transfer in Rocket Motors. He was the founder of the company ''Concentration Heat And Momentum Limited'', (CHAM) specialising in computational fluid dynamics and heat transfer processes.<ref>[http://www.cham.co.uk CHAM Home page]</ref> CHAM's major product is the widely used PHOENICS [[Computational fluid dynamics|CFD]] code. Spalding himself was the main creator of, and contributor to, PHOENICS.
+
+Together with his student [[Suhas Patankar]] he developed the [[SIMPLE algorithm]], a widely used numerical procedure to solve the [[Navier–Stokes equations]].
+
+In late 1970s and early 1980s, Brian Spalding was the Reilly Professor of Combustion Engineering at [[Purdue University]].
+
+Though in his 90s, Spalding continued to be active in his field, and was taken ill while at an international conference in Russia.  He died on his return to the UK.
+
+==CHAM==
+Spalding formed Combustion Heat and Momentum Ltd on 14 November 1969, which was renamed to [[Concentration Heat and Momentum Ltd (CHAM)]] in 1974. The company was set up as a means of financing and conducting research and development in the fields of fluid mechanics, heat transfer and combustion, with special emphasis on the development of computer programs for the design of engineering equipment, and for the analysis and prediction of the motion of matter and heat in the environment. From the outset commercial CFD services were provided to industrial and governmental clients based on the technology that had emerged from his research group at Imperial College in the late 1960s.  Later these services were based on PHOENICS, the first commercially available Computational Fluid Dynamics Software, which he created in 1978 and released commercially in 1981.
+
+The first contracts undertaken by CHAM were conducted by members of the academic staff of the Heat Transfer Section of the Mechanical Engineering Department of Imperial College, London. The contracts resulted in the development for industrial organisations of particular versions of certain computer programs, general versions of which had been constructed by Spalding and his colleagues and published in the open scientific literature. The computer programs concerned the analysis of two-dimensional steady fluid-flow phenomena. Subsequently, in the early 1970s, CHAM funds generated from contract work for industrial and governmental clients were used for the development of new families of computer programs, for three-dimensional phenomena as well as two-dimensional ones, and for time-dependent as well as steady flows. At that time CHAM placed a general research contract with Imperial College to develop a complete array of computer programs for predicting all the major types of convective, heat-transfer and chemically reactive processes which are likely to be encountered in engineering and the natural environment. These programs were equipped with mathematical models for turbulence, radiation, chemical reaction and some two-phase effects, such as particle-size change. During this period, CHAM programs were used by arrangement for calculations required in researches sponsored, for example, by the Science Research Council and the Department of Trade and Industry. In addition, CHAM-generated techniques were incorporated into post-graduate and under-graduate teaching curricula at Imperial College.  
+
+Between 1969 and 1980, CHAM developed numerous application-specific CFD computer codes. In 1978, Spalding conceived the idea of a single CFD code capable of handling all fluid-flow processes. Consequently, CHAM abandoned the policy of developing individual application-specific CFD codes, and during late 1978 the company began creating the world's first general-purpose CFD code, PHOENICS, which is an acronym for Parabolic, Hyperbolic Or Elliptic Numerical Integration Code Series. The initial creation of PHOENICS was largely the work of Spalding and [[Harvey Rosten]], and the code was launched commercially in 1981, and so here for the first time, a single CFD code was to be used for all thermo-fluids problems.
+
+==Biographical material ==
+
+* [http://www.cham.co.uk/Docs/CHT-08-012_Runchal_Final_Jun_08.pdf Brian Spalding tribute lecture, CHT-08, Marrakech 2008]
+* [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.558.3392&rep=rep1&type=pdf A tribute to D.B. Spalding and his contributions in science and engineering, Int. J. Heat Mass Transfer, Vol.52, 3884–3905, 2009]
+*{{citation|doi=10.1115/1.4007655|url=https://www.researchgate.net/publication/275088873|title=Emergence of Computational Fluid Dynamics at Imperial College (1965–1975): A Personal Recollection|journal=Journal of Heat Transfer|volume=135|year=2013|last1=Runchal|first1=Akshai K.}}
+
+==Selected books==
+* [[Brian Launder|B. E. Launder]] and D. B. Spalding, ''Mathematical Models of Turbulence'', Academic Press (1972).
+* D. B. Spalding and E. H. Cole, ''Engineering Thermodynamics'', 3rd ed., Hodder Arnold (1973).
+* D. B. Spalding, ''Combustion and Mass Transfer'', Elsevier (1978).
+* D. B. Spalding, ''Convective Mass Transfer- An Introduction'', McGraw Hill (1963).
+
+==Honours and awards==
+* [[Max Jakob Memorial Award]], 1978
+* Fellowship of the [[Royal Society]], 1983
+* [[Fellow#Nonprofit_organizations_and_government|Fellowship]] of the [[Royal Academy of Engineering]],<ref name=royalac>{{cite web|title=List of Fellows|url=http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows|access-date=24 October 2014|archive-date=8 June 2016|archive-url=https://web.archive.org/web/20160608094405/http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows|url-status=dead}}</ref> 1989
+* [[Global Energy Prize]], 2009
+* [[The Franklin Institute Awards|Benjamin Franklin Medal]] in Mechanical Engineering of [[The Franklin Institute]], 2010
+
+==References==
+{{Reflist}}
+
+{{FRS 1983}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spalding, Brian}}
+[[Category:Fluid dynamicists]]
+[[Category:Computational fluid dynamicists]]
+[[Category:Alumni of the Queen's College, Oxford]]
+[[Category:People educated at King's College School, London]]
+[[Category:1923 births]]
+[[Category:2016 deaths]]
+[[Category:Academics of Imperial College London]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Foreign members of the Russian Academy of Sciences]]
+[[Category:Purdue University faculty]]
+[[Category:People from New Malden]]
+[[Category:Benjamin Franklin Medal (Franklin Institute) laureates]]

@@ -1,0 +1,163 @@
+{{Short description|American mathematician (1932–2014)}}
+{{other people}}
+{{Use mdy dates|date=April 2021}}
+{{Infobox scientist
+| name              = Edward Nelson
+| image             = Edward_Nelson.png
+| caption           = Edward Nelson
+| birth_date        = {{birth date|mf=yes|1932|5|4}}
+| birth_place       = [[Decatur, Georgia]]
+| death_date        = {{death date and age|mf=yes|2014|9|10|1932|5|4}}
+| death_place       = [[Princeton, New Jersey]]
+| citizenship       = [[Americans|American]]
+| nationality       = 
+| field             = {{plainlist|
+* [[Physics]]
+* [[Mathematics]]
+}}
+| workplaces        = {{plainlist|
+*[[Institute for Advanced Study]]
+*[[Princeton University]]
+}}
+| education         = {{plainlist|
+*[[University of Chicago]]<small> (MS, 1953)</small>
+*[[University of Chicago]]<small> (PhD, 1955)</small>
+}}
+| doctoral_advisor  = [[Irving Segal]]
+| thesis_title      = On the Operator Theory of Markoff Processes
+| thesis_year       = 
+| thesis_url        = 
+| doctoral_students = 
+| notable_students  = {{Plainlist|
+* [[Eric Anders Carlen]]
+* [[Richard M. Dudley]]
+* [[John D. Lafferty]]
+* [[Greg Lawler]]
+}}
+| known_for         = {{Plainlist|
+*[[Internal set theory]]
+*[[Stochastic quantum mechanics]]
+*[[Stochastic quantization]]
+*[[Hadwiger–Nelson problem]]
+*[[Schwinger function#Nelson's axioms|Nelson's axioms]]
+}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = {{Plainlist|
+*[[Leroy P. Steele Prize]]
+}}
+| religion          = 
+| footnotes         = 
+| spouse            = {{Plainlist|
+*Nancy Wong Nelson
+*Sarah Jones Nelson
+}}
+| children          = 2
+}}
+'''Edward Nelson''' (May 4, 1932 – September 10, 2014) was an American mathematician known for his work on [[mathematical physics]] and [[mathematical logic]]. In mathematical logic, he was noted especially for his [[internal set theory]], and views on [[ultrafinitism]] and the [[consistency]] of [[Peano arithmetic|arithmetic]]. In [[philosophy of mathematics]] he advocated the view of [[Formalism (mathematics)|formalism]] rather than [[Platonism (mathematics)|platonism]] or [[intuitionism]]. He also wrote on the relationship between religion and mathematics.<ref>{{cite web |author=Edward Nelson |title=Mathematics and Faith |date=2000 |url=https://web.math.princeton.edu/~nelson/papers/faith.pdf |access-date=5 March 2020 |location=Presented at the Jubilee for Men and Women from the World of Learning, held at the Vatican, 23–24 May 2000}}</ref><ref>{{cite web |author=Edward Nelson |title=Completed Infinity and Religion |date=2009 |url=http://philoctetes.org/news/completed_infinity_and_religion |access-date=5 March 2020}}</ref><ref>
+{{cite speech
+|title=Mathematics and Religion
+|first=Edward
+|last=Nelson
+|location=The Philoctetes Center for the Multidisciplinary Study of the Imagination
+|date=17 October 2009
+|url=http://philoctetes.org/past_programs/mathematics_and_religion
+|minutes=31
+|quote=In terms of religion, I'm a Christian. Worship and prayer are very important to me.
+}}</ref> He was professor in the [[Department of Mathematics (Princeton University)|Department of Mathematics]] at [[Princeton University]].
+
+==Biography==
+Edward Nelson was born in [[Decatur, Georgia]], in 1932. He spent his early childhood in [[Rome]] where his father worked for the Italian [[YMCA]]. At the advent of [[World War II]], Nelson moved with his mother to [[New York City]], where he attended high school at the [[Bronx High School of Science]]. His father, who spoke fluent [[Russian language|Russian]], stayed in [[St. Petersburg]] in connection with issues related to [[Prisoner of war|prisoners of war]]. After the war, his family returned to Italy and he attended the [[Liceo Scientifico]] Giovanni Verga in Rome.<ref>{{cite web |url=https://www.math.princeton.edu/people/edward-nelson |title=Edward Nelson 1932-2014 |last1=Aizenman |first1=Michael |last2=Kochen |first2=Simon |last3=Lieb |first3=Elliott |last4=Simon |first4=Barry |last5=Gunning |first5=Robert |date=2014 |website=Princeton University Department of Mathematics |publisher=The Trustees of Princeton University |access-date=5 March 2021}}</ref>
+
+He received his Ph.D. in 1955 from the [[University of Chicago]], where he worked with [[Irving Segal]]. He was a member of the [[Institute for Advanced Study]] from 1956 to 1959. He held a position at [[Princeton University]] starting in 1959, attaining the rank of professor there in 1964 and retiring in 2013.
+
+In 2012 he became a fellow of the [[American Mathematical Society]].{{sfn|AMS|2012}} He died in [[Princeton, New Jersey]], on September 10, 2014.{{sfn|Princeton University|2014}}
+
+==Academic work==
+===Stochastic quantum mechanics===
+{{main|Stochastic quantum mechanics}}
+Nelson made contributions to the theory of infinite-dimensional [[group representation]]s, the mathematical treatment of [[quantum field theory]], the use of [[stochastic process]]es in [[quantum mechanics]], and the reformulation of [[probability theory]] in terms of [[non-standard analysis]]. For many years he worked on [[mathematical physics]] and probability theory, and he retained a residual interest in these fields, particularly in connection with possible extensions of stochastic mechanics to [[field theory (physics)|field theory]].
+
+===Four color problem===
+{{main|Hadwiger–Nelson problem|Four color theorem}}
+In 1950, Nelson formulated a popular variant of the [[four color problem]]: What is the [[chromatic number]], denoted <math>\chi</math>, of the plane? In more detail, what is the smallest number of colors sufficient for coloring the points of the Euclidean plane such that no two points of the same color are unit distance apart?{{sfn|Soifer|2009|p=23}} We know by simple arguments that 4&nbsp;≤&nbsp;''χ''&nbsp;≤&nbsp;7. The problem was introduced to a wide mathematical audience by [[Martin Gardner]] in his October 1960 [[Mathematical Games (column)|Mathematical Games]] column. The chromatic number problem, also now known as the [[Hadwiger–Nelson problem]], was a favorite of [[Paul Erdős]], who mentioned it frequently in his problems lectures. In 2018, [[Aubrey de Grey]] showed that ''χ''&nbsp;≥&nbsp;5.<ref>{{citation
+| last1 = de Grey | first1 = Aubrey D.N.J.
+| title = The Chromatic Number of the Plane Is at least 5
+| arxiv = 1804.02385
+| journal = Geombinatorics
+| volume = 28
+| pages = 5–18
+| year = 2018| bibcode = 2016arXiv160407134W}}.</ref>
+
+===Foundations of mathematics===
+{{main|Foundations of mathematics}}
+In the later part of his career, he worked on mathematical logic and the [[foundations of mathematics]]. One of his goals was to extend IST ([[Internal Set Theory]]—a version of a portion of [[Abraham Robinson]]'s [[non-standard analysis]]) in a natural manner that includes external functions and sets, in a way that provides an external function with specified properties unless there is a finitary obstacle to its existence. Other work centered on fragments of arithmetic, studying the divide between those theories interpretable in [[Robinson arithmetic|Raphael Robinson's arithmetic]] and those that are not; [[computational complexity theory|computational complexity]], including the problem of [[P = NP|whether P is equal to NP]]; and [[automated proof checking]].
+
+In September 2011, Nelson announced he had [[mathematical proof|proved]] that [[Peano arithmetic]] was logically inconsistent.{{sfn|Nelson|2011}} An error was found in the proof by [[Terence Tao]], and Nelson retracted the claim.{{sfn|Baez|2011}}
+
+==Publications==
+===Selected papers===
+{{refbegin}}
+* {{cite journal|last1=Nelson|first1=Edward|title=Derivation of the Schrödinger Equation from Newtonian Mechanics|journal=Physical Review|volume=150|issue=4|year=1966|pages=1079–1085|issn=0031-899X|doi=10.1103/PhysRev.150.1079|bibcode=1966PhRv..150.1079N|url=https://physics.utah.edu/~lebohec/ScaleRelativity/Papers/1966_ENelson_Derivation_of_SchrodEq_from_NewtMech.pdf}}
+* {{cite book|last1=Nelson|first1=E.|editor1-last=Albeverio|editor1-first=S.|editor-link=Sergio Albeverio|editor2-last=Casati|editor2-first=G.|editor3-last=Merlini|editor3-first=D.|title=Stochastic Processes in Classical and Quantum Systems|date=1986|publisher=Springer-Verlag|location=Berlin|isbn=978-3-662-13589-1|pages=438–469|chapter=Field Theory and the Future of Stochastic Mechanics|series=Lecture Notes in Physics|volume=262|oclc=864657129|doi=10.1007/3-540-17166-5}}
+{{refend}}
+
+===Books===
+{{refbegin}}
+* {{cite book|last1=Nelson|first1=E.|title=Dynamical theories of Brownian Motion|date=1967|publisher=Princeton University Press|location=Princeton|isbn=978-0-691-07950-9|url=https://press.princeton.edu/titles/2985.html|oclc=769464}}
+* {{cite book|last1=Nelson|first1=E.|title=Tensor Analysis|date=1967|publisher=Princeton University Press|location=Princeton|isbn=9781400879236|url=https://books.google.com/books?id=fEvWCgAAQBAJ|lccn=67028943|oclc=988417}}
+* {{cite book|last1=Nelson|first1=E.|title=Topics in Dynamics: I: Flows|url=https://books.google.com/books?id=QLV9BgAAQBAJ|date=1969|publisher=Princeton University Press|location=Princeton|lccn=79108265|isbn=0-691-08080-1|oclc=59197}}
+* {{cite book|last1=Nelson|first1=E.|title=Quantum Fluctuations|date=1985|publisher=Princeton University Press|location=Princeton|isbn=0-691-08378-9|url=https://press.princeton.edu/titles/2357.html|lccn=84026449|oclc=11549759}}
+* {{cite book|last1=Nelson|first1=E.|title=Predicative Arithmetic|date=1986|publisher=Princeton University Press|location=Princeton|isbn=0-691-08455-6|url=https://books.google.com/books?id=pvr_AwAAQBAJ|lccn=86018730|oclc=14001745}}{{sfn|Wilkie|1990}}
+* {{cite book|last1=Nelson|first1=E.|title=Radically Elementary Probability Theory|date=1987|publisher=Princeton University Press|location=Princeton|isbn=0-691-08473-4|url=https://books.google.com/books?id=A5bKCwAAQBAJ|lccn=87003160|oclc=15591889}}
+{{refend}}
+
+==See also==
+{{Portal|Physics|mathematics}}
+{{div col|small=yes|colwidth=20em}}
+*[[Hidden variable theory]]
+*[[Influence of non-standard analysis]]
+*[[Stochastic process]]
+*[[Stochastic quantum mechanics]]
+*[[Stochastic electrodynamics]]
+{{div col end}}
+
+==References==
+===Notes===
+{{reflist|40em}}
+
+===Sources===
+{{refbegin|40em}}
+* {{cite web|author1=American Mathematical Society|authorlink1=American Mathematical Society|title=List of Fellows of the American Mathematical Society|url=https://www.ams.org/profession/fellows-list|website=ams.org|publisher=American Mathematical Society|archive-url=https://archive.today/20121205081942/http://www.ams.org/profession/fellows-list|archive-date=2012-12-05|date=2012|ref={{harvid|AMS|2012}}|url-status=dead}}
+* {{cite web|last1=Baez|first1=J.|authorlink1=John C. Baez|title=The Inconsistency of Arithmetic|url=https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html#c039590|website=golem.ph.utexas.edu|publisher=The n-Category Café|date=2011}}
+* {{cite journal|last1=Katz|first1=M. G.|authorlink1=Mikhail Katz|last2=Kutateladze|first2=Semen S.|authorlink2=Semën Samsonovich Kutateladze|title=Edward Nelson (1932–2014)|journal=The Review of Symbolic Logic|volume=8|issue=3|year=2015|pages=607–610|issn=1755-0203|doi=10.1017/S1755020315000015|arxiv=1506.01570|bibcode=2015arXiv150601570K|s2cid=42672640}}
+* {{cite web|last1=Kelly|first1=M.|title=Edward Nelson, Nonconformist who Sparked a Quantum Field Theory Revolution, Dies at 82|url=https://www.princeton.edu/news/2014/09/19/edward-nelson-nonconformist-who-sparked-quantum-field-theory-revolution-dies-82?section=topstories|website=princeton.edu|publisher=Princeton University|archive-url=https://archive.today/20170607123303/https://www.princeton.edu/news/2014/09/19/edward-nelson-nonconformist-who-sparked-quantum-field-theory-revolution-dies-82?section=topstories|archive-date=2017-06-07|date=2014|url-status=dead}}
+* {{cite web|last1=Nelson|first1=E.|title=Inconsistency of P|url=http://www.cs.nyu.edu/pipermail/fom/2011-September/015816.html|website=cs.nyu.edu|publisher=Foundations of Mathematics|archive-url=https://archive.today/20170513072922/http://www.cs.nyu.edu/pipermail/fom/2011-September/015816.html|archive-date=13 May 2017|date=2011|url-status=dead}}
+* {{cite web|author1=Princeton University|authorlink1=Princeton University|title=Professor Emeritus Edward Nelson Passed Away September 10th|url=http://www.math.princeton.edu/news/home-page/professor-emeritus-edward-nelson-passed-away-september-10th|website=math.princeton.edu|archive-url=https://archive.today/20140911121108/http://www.math.princeton.edu/news/home-page/professor-emeritus-edward-nelson-passed-away-september-10th|archive-date=2014-09-11|date=2014|ref={{harvid|Princeton University|2014}}|url-status=dead}}
+* {{cite book|last1=Soifer|first1=A.|authorlink1=Alexander Soifer|title=The Mathematical Coloring Book: Mathematics of Coloring and the Colorful Life of its Creators|date=2009|publisher=Springer|location=New York|isbn=978-0-387-74640-1|title-link=The Mathematical Coloring Book|lccn=2008936132|oclc=233933503}}
+* {{cite journal|last1=Wilkie|first1=A. J.|authorlink1=Alex Wilkie|title=Book Review: Predicative Arithmetic|journal=Bulletin of the American Mathematical Society|volume=22|issue=2|year=1990|pages=326–332|issn=0273-0979|doi=10.1090/S0273-0979-1990-15900-2|url=https://www.ams.org/journals/bull/1990-22-02/S0273-0979-1990-15900-2/S0273-0979-1990-15900-2.pdf|doi-access=free}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+* [https://math.princeton.edu/~nelson/cv.pdf Curriculum Vitae – Edward Nelson]
+* [https://web.math.princeton.edu/~nelson/papers/faith.pdf Mathematics and Faith – Edward Nelson]
+* [https://www.math.princeton.edu/~nelson/ Edward Nelson's Homepage]
+** [https://web.math.princeton.edu/~nelson/papers.html On-line papers]
+* [https://www.youtube.com/watch?v=WGe9rcDfAt0 Mathematics and Religion Discussion]
+* [https://www.youtube.com/watch?v=80R3goexOew The Limitation of Mental and Physical Reality Discussion]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nelson, Edward}}
+[[Category:1932 births]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American logicians]]
+[[Category:Set theorists]]
+[[Category:University of Chicago alumni]]
+[[Category:Princeton University faculty]]
+[[Category:2014 deaths]]
+[[Category:American mathematical physicists]]

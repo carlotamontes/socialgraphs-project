@@ -1,0 +1,34 @@
+{{Short description|Italian theoretical chemist}}
+'''Benedetta Mennucci''' (born 1969) is an Italian theoretical chemist who is professor at the [[University of Pisa]].<ref name="dettaglio.php?ri=5580">{{cite web |title=B. Mennucci at unipi |url=https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5580 |access-date=15 June 2021}}</ref><ref name="molecolab">{{cite web |title=Molecolab.dcci.unipi.it |url=https://molecolab.dcci.unipi.it/people/mennucci.html |access-date=15 June 2021}}</ref> She is a developer of the [[polarizable continuum model]].<ref name="10.1002/wcms.1086">{{cite journal |last1=Mennucci |first1=Benedetta |title=Polarizable continuum model |journal=WIREs Computational Molecular Science |date=2012 |volume=2 |issue=3 |pages=386–404 |doi=10.1002/wcms.1086 |s2cid=121504403 |url=https://onlinelibrary.wiley.com/doi/full/10.1002/wcms.1086|url-access=subscription }}</ref>
+
+== Early life and education ==
+Mennucci obtained her Laurea in Chemistry in 1994 and her Ph.D. award in Chemistry in 1999.<ref name="molecolab"/> The PhD thesis had the title "Theoretical Models and Computational Applications of Molecular Phenomena Involving the Environment Effect".
+
+== Research and career ==
+Benedetta Mennucci was appointed Full Professor of [[Physical Chemistry]] in 2012 at the Department of Chemistry at the [[University of Pisa]],<ref name="dettaglio.php?ri=5580"/> where she leads the MoLECoLab research group.<ref name="molecolab"/>
+
+She is Senior Editor for [[The Journal of Physical Chemistry Letters]],<ref>{{cite web |title=Editorial Board JPCL |url=https://pubs.acs.org/page/jpclcd/editors.html |access-date=16 June 2021}}</ref> member of the Editorial Advisory Board of [[Chemical Reviews]],<ref>{{cite web |title=Editorial Advisory Board ChemRev |url=https://pubs.acs.org/page/chreay/editors.html |access-date=16 June 2021}}</ref> [[Journal of Chemical Theory and Computation]],<ref>{{cite web |title=Editorial Board JCTC |url=https://pubs.acs.org/page/jctcce/editors.html |access-date=17 June 2021}}</ref> and [[Cell Reports]] Physical Science,<ref>{{cite web |title=Advisory board cell reports phys sci|url=https://www.cell.com/cell-reports-physical-science/advisory-board |access-date=17 June 2021}}</ref> and member of the Editorial Board of [[Theoretical Chemistry Accounts]].<ref>{{cite web |title=Editorial Board TCA |url=https://www.springer.com/journal/214/editors |access-date=16 June 2021}}</ref>
+
+Her research focuses on the development of computational approaches which integrate [[quantum chemistry]] with classical models to describe processes of chemical and biological systems of increasing complexity. She is a main developer of the [[polarizable continuum model]] to predict solvent effects in [[computational chemistry]].<ref name="10.1002/wcms.1086"/><ref>{{cite journal |last1=Cancès, E., Mennucci, B. and Tomasi, J. |title=A new integral equation formalism for the polarizable continuum model: Theoretical background and applications to isotropic and anisotropic dielectrics |journal=The Journal of Chemical Physics |date=1997 |volume=107 |issue=8 |page=3032 |doi=10.1063/1.474659 |bibcode=1997JChPh.107.3032C |doi-access=free }}</ref> In the last years, her main research activity has moved towards the development and the application of polarizable embedding [[QM/MM]] methods for modelling light-induced processes in proteins.<ref name="ERC786714"/> She is a contributor to the [[Gaussian (software)]] and she has co-authored more than 300 publications, including reviews and book chapters.<ref>{{cite web |title=ORCID B. Mennucci |url=https://orcid.org/0000-0002-4394-0129 |access-date=16 June 2021}}</ref> Mennucci is co-author of the book "Continuum Solvation Models in Chemical Physics: From Theory to Applications".<ref>{{cite book |title=Continuum Solvation Models in Chemical Physics: From Theory to Applications |isbn = 9780470515228|url=https://books.google.com/books?id=6Om2gDR41rwC |access-date=15 June 2021|last1 = Mennucci|first1 = Benedetta|last2 = Cammi|first2 = Roberto|date = 28 February 2008 | publisher=John Wiley & Sons }}</ref>
+
+== Awards and honours ==
+Mennucci is a member of the [[International Academy of Quantum Molecular Science]]<ref>{{cite web |title=IAQMS Members |url=https://www.iaqms.org/members/mennucci.php |access-date=15 June 2021}}</ref> and an elected board member of the [[World Association of Theoretical and Computational Chemists]].<ref>{{cite web |title=Watoc Board |url=http://www.watoc.net/watoc.board.html |access-date=15 June 2021 }}</ref> Mennucci is also listed on [[AcademiaNet]].{{citation needed|date=June 2021}}
+
+* 2011 [[European Research Council]] Starting Grant<ref name="ERC100042">{{cite web |url=https://cordis.europa.eu/project/rcn/100042/it |access-date=15 June 2021 |title=The interplay between quantum coherence and environment in the photosynthetic electronic energy transfer and light-harvesting: a quantum chemical picture}}</ref>
+* 2017 [[European Research Council]] Advanced Grant<ref name="ERC786714">{{cite web |url=https://cordis.europa.eu/project/id/786714 |access-date=15 June 2021 |title=Light-Induced Function: from Excitation to Signal through Time and Space}}</ref>
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+*{{google scholar id|wVJEfIgAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mennucci, Benedetta}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:21st-century Italian chemists]]
+[[Category:Italian women chemists]]
+[[Category:Academic staff of the University of Pisa]]

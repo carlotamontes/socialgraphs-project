@@ -1,0 +1,67 @@
+{{short description|Spanish physicist}}
+{{Infobox person
+| name     = Jesús Gómez-Gardeñes
+| image    = 
+| caption  = 
+| birth_name = 
+| birth_date = 
+<!-- Do not add flag icons to place of birth/death, per [[WP:FLAG]] -->
+| birth_place = Spain
+|death_date  = 
+|death_place = 
+|other_names = 
+|education   = [[University of Zaragoza]] <small>(Ph.D)</small>
+|citizenship = 
+|occupation  = [[Physicist]]
+|years_active    = 
+|employer  = 
+| title    = 
+| boards   = 
+|known for = 
+| spouse = 
+| children = 
+}}
+'''Jesús Gómez-Gardeñes''' is a Spanish physicist, currently Full Professor (Professor Catedrático) in Condensed Matter Physics at the [[University of Zaragoza]] (Spain).<ref name="unizar_personnel_page">[https://fmc.unizar.es/personal/jesus-gomez-gardenes   Jesus Gómez-Gardeñes profile on University of Zaragoza personnel page]. Retrieved May 17, 2023.</ref> He is known for his works on [[complex systems]], in particular on the structure and dynamics of [[complex networks]].
+
+== Academic career ==
+
+Gomez-Gardeñes received a PhD in physics from the University of Zaragoza in Spain, with a thesis entitled "''Complex Systems: Nonlinearity and Structural Complexity in spatially extended and discrete systems''.” After completing his PhD, he conducted postdoctoral research first at the [[Scuola superiore di Catania|Scuola Superiore di Catania]] (Italy) in the group of [[Vito Latora]], and then in the group of Alex Arenas at the [[Rovira i Virgili University|University Rovira i Virgili]] (Spain). After his postdoctoral period, he joined in 2009 the [[King Juan Carlos University]] in Madrid as Lecturer, before returning in 2011 to his alma mater as a Ramón y Cajal fellow. Between 2019 and 2022 Jesús Gómez-Gardeñes was Associate Professor ([[:es:Titular de universidad|Professor Titular]]), whereas since 2023 he is Full Professor ([[:es:Catedrático de universidad|Professor Catedrático]]) in [[Condensed Matter Physics]]. He leads the Group Of Theoretical and Applied Modeling (GOTHAM lab) at the [[Institute for Biocomputation and Physics of Complex Systems|Institute of Biocomputation and Physics of Complex Systems]].
+
+As of July 2020, he is author of more than 120 scientific articles published in peer-reviewed journals. His [[h-index]] is equal to 51 according to Google Scholar.<ref name="google_scholar">[https://scholar.google.com/citations?user=M9cpyEIAAAAJ&hl=en   Jesus Gómez-Gardeñes profile on Google Scholar]. Retrieved August 02, 2020.</ref> His work has been featured in many venues,<ref name="comm_rich_poor_colombia">[https://phys.org/news/2016-10-major-commuting-differences-rich-poor.html   ''Major commuting differences between rich and poor in Colombia.''] Phys.Org (American institute of Physics, October 20, 2016). Retrieved August 02, 2020.</ref><ref name="brutal_comm_colombia">[https://www.bloomberg.com/news/articles/2016-10-19/mapping-mobility-in-medell-n-and-manizales   ''Visualizing the Brutal Commutes of Colombian poorest.'']. Bloomberg Citylab (October 19, 2016). Retrieved August 02, 2020.</ref><ref name="math_viral">[https://phys.org/news/2016-02-mathematical-viral.html   ''First Mathematical model explain how things go viral.''] Phys.Org (American institute of Physics, February 26, 2016). Retrieved August 02, 2020.</ref><ref name="mobility_sci_daily">[https://www.sciencedaily.com/releases/2018/01/180118101224.htm   ''Mobility patterns influence the spread and containment of an epidemic.''] Science Daily (January 18, 2018). Retrieved August 02, 2020.</ref><ref name="close_gates_nphys">[https://www.nature.com/articles/s41567-017-0028-1   ''Don't close the gates.''] Nature Physics (January 1, 2018). Retrieved August 02, 2020.</ref><ref name="soc_det">[https://physics.aps.org/articles/v11/s92   ''Social Determinants of Epidemic Growth.''] Physics (American Physical Society, August 9, 2018). Retrieved August 02, 2020.</ref><ref name="fake_national_geo">[https://web.archive.org/web/20200320171713/https://www.nationalgeographic.com/animals/2020/03/coronavirus-pandemic-fake-animal-viral-social-media-posts/   ''Fake animal news abounds on social media as coronavirus upends life.''] National Geographic (March 20, 2020). Retrieved August 02, 2020.</ref><ref name="brexit_physorg">[https://phys.org/news/2020-06-brexit-networks-efficiency.html   ''Brexit's and research networks: Lower efficiency, reorganization of research communities.''] Phys.Org (American Institute of Physics, June 23, 2020). Retrieved August 02, 2020.</ref><ref name="covid19-phys">[https://physics.aps.org/articles/v13/43   ''Forecasting COVID-19 trajectory.''] Physics (American Physical Society, March 23, 2020). Retrieved August 02, 2020.</ref> including being highlighted on the cover of journals like [[Nature Human Behaviour]] (issue of February 2017<ref name="nhbehav_cover">Nature Human Behaviour Vol. 1, issue 2, February 2017. [https://www.nature.com/nathumbehav/volumes/1/issues/2   Table of contents]. Retrieved August 02, 2020.</ref>), and [[Nature Physics]] (issue of January 2018<ref name="nphys_cover">Nature Physics Vol. 14, issue 1, January 2018. [https://www.nature.com/nphys/volumes/14/issues/1    Table of contents]. Retrieved August 02, 2020.</ref>) for two works that were selected among the most relevant published by the journal ''[[Nature (journal)|Nature]]''<ref name="nature_coll_net_sci">Nature Collection: Networks (December 19, 2019). [https://www.nature.com/collections/adajhgjece   Table of contents]. Retrieved August 02, 2020.</ref> during the first 20 years of [[network science]].
+
+== Research ==
+
+After some initial work in the field of theoretical [[condensed matter physics]], the scientific contributions of Gómez-Gardeñes have focused on the application of [[statistical physics]] methods to the study of [[complex systems]], making him one of the major contributors in the [[network science | network science's]] area of study. Within the latter, he has developed several approaches to investigate the structure and dynamics of networks, in particular to [[multidimensional network]]s. His contributions span a wide range of disciplines ranging from [[mathematical epidemiology]], [[synchronization]], and [[social science]].
+
+Gómez-Gardeñes is well known for his works on the mathematical formulation of multi-scale metapopulation models to integrate human mobility and interaction data on realistic epidemiological frameworks. More specifically, he has studied the spatio-temporal evolution of [[epidemics]], and the evaluation of contention measures.<ref name="brutal_comm_colombia" /><ref name="math_viral" /><ref name="mobility_sci_daily" /> Such a method has been applied to analyze the diffusion of endemic diseases such as the [[Dengue fever]] in Colombia, as well as the diffusion of emergent diseases such as [[COVID-19]] in Spain<ref name="fake_national_geo" /><ref name="article_abc">[https://www.abc.es/ciencia/abci-tres-metodos-matematicos-estan-salvando-vidas-frente-coronavirus-202004062243_noticia.html   ''Los tres métodos matemáticos que están salvando vidas frente al coronavirus.''] ABC (April 7, 2020). Retrieved August 02, 2020.</ref><ref name="article_diario_70">[https://www.eldiario.es/castilla-y-leon/cientificos-espanoles-medidas-sanitario-colapsar_1_1010832.html   ''Un grupo de 70 científicos españoles reclama medidas más duras para evitar que el sistema sanitario colapse''.] ElDiario.es (March 22, 2020). Retrieved August 02, 2020.</ref><ref name="article_natgeo">[https://www.nationalgeographic.com.es/ciencia/este-mapa-calcula-riesgo-epidemico-coronavirus-hasta-18-marzo_15312   ''Este mapa calcula el riesgo epidémico del coronavirus hasta el 18 de marzo.''] National Geographic Spain (March 23, 2020). Retrieved August 02, 2020.
+</ref> and Colombia.<ref name="article_colombia">[https://www.colombia.com/vida-y-estilo/salud-y-bienestar/investigadores-estudian-modelo-matematico-deteccion-covid-19-268423   ''COVID-19: Investigadores estudian nuevo modelo matemático para la detección del virus.''] Colombia.com (April 23, 2020). Retrieved August 02, 2020.</ref>
+
+Within the domain of social science, Gómez-Gardeñes is known for his studies on [[evolutionary game theory]] and human [[cooperation]]<ref name="envious_huffpost">[https://www.huffpost.com/entry/envious-personality-types_n_57daff18e4b0071a6e060be8   ''Envious’ May Just Be The Most Common Personality Type.''] Huffington Post (September 15, 2016). Retrieved August 02, 2020.</ref> and, in particular, for the use of network science tools to analyze human populations, going from large cities<ref name="google_scholar" /><ref name="comm_rich_poor_colombia" /> to small [[hunter-gatherers]] societies.<ref name="article_pais">[https://elpais.com/elpais/2017/08/24/mamas_papas/1503579474_083511.html   ''El juego, clave en los lazos de amistad de los niños.''] El Pais (August 25, 2017). Retrieved August 02, 2020</ref> Finally, he is also known in the field of synchronization theory where he has introduced several approaches to characterize the transition towards dynamical coherence in the [[Kuramoto model]]. In particular, his main achievements include the identification of the mechanism to obtain explosive synchronization transitions in populations of oscillators whose interactions are encoded as a network; and the generalization of the [[Master stability function|Master Stability Function]] to the case of interactions encoded as [[Multidimensional network|multiplex networks]].
+
+== Awards and achievements ==
+
+In 2007, Gómez-Gardeñes was awarded with the ''Investigador Novel'' Prize by the [[Spanish Royal Physics Society]]<ref name="prize_rsef">[https://rsef.es/area-de-miembros/premios-de-la-rsef/item/156-ganadores-del-premio-a-investigadores-noveles   ''Galardonados con el Premio Investigador Novel de la Real Sociedad Española de Física''.] Retrieved August 02, 2020.</ref> for his works on the structure and dynamics of complex networks.
+
+Gómez-Gardeñes has been visiting researcher at the [[Los Alamos National Laboratory]] in New Mexico (USA), [[Weizmann Institute of Science]] (Israel), distinguished visiting professor of the [[National Council for Scientific and Technological Development]] (CNPq) in Brazil, and distinguished visitor of the Scottish Universities Physics Alliance<ref name="supa">[https://www.supa.ac.uk/   Scottish Universities Physics Alliance]. Retrieved August 02, 2020.</ref> (SUPA). In 2019, Gómez-Gardeñes was appointed as Fellow of the Institute for Computational Social Science<ref name="kobe_ccss">[http://ccss.kobe-u.ac.jp/en/index.html#:~:text=Center%20for%20Computational%20Social%20Science%20(CCSS)%20of%20Kobe%20University%20promotes,computational%20science%20and%20data%20science   Center for Computational Social Science Kobe University]. Retrieved August 02, 2020.</ref> of the [[University of Kobe]] (Japan).
+
+He is chair and founder of the Latin American Conference of Complex Networks<ref name="lanet_conf">[http://www.lanetconference.org/   LANET conference homepage]. Retrieved August 02, 2020.</ref> (LANET), an international conference aimed at spurring the field of network science in the Latin American community. Moreover, he serves since 2013 as associated editor of the ''[[Journal of Complex Networks]]'' (Oxford University Press),<ref name="jconn_edboard">[https://academic.oup.com/comnet/pages/Editorial_Board   Journal of Complex Networks -- Editorial board]. Retrieved August 02, 2020.</ref> and also as a member of the editorial board of Journal of Physics: Complexity,<ref name="jopcom_edboard">[https://iopscience.iop.org/journal/2632-072X/page/Editorial_board   Journal of Physics: Complexity -- Editorial board]. Retrieved August 02, 2020.</ref> a scientific journal published by the Institute of Physics.
+
+== References ==
+
+{{Reflist|2}}
+
+== External links ==
+
+* [http://complex.unizar.es/~jesus/ Personal webpage]
+* [http://gotham.bifi.es/ GOTHAM lab webpage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gómez-Gardeñes, Jesús}}
+[[Category:Living people]]
+[[Category:University of Zaragoza alumni]]
+[[Category:Academic staff of the University of Zaragoza]]
+[[Category:Complex systems scientists]]
+[[Category:Network scientists]]
+[[Category:Spanish physicists]]
+[[Category:Year of birth missing (living people)]]

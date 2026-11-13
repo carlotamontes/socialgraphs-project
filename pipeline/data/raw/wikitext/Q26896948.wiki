@@ -1,0 +1,77 @@
+{{short description|South African bioinformatician}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = Janet Kelso
+| birth_name       = 
+| native_name_lang  = 
+| image             = File:Janet Kelso 2015.jpg
+| image_size        = 
+| alt               = 
+| caption           = Janet Kelso speaking at [[Intelligent Systems for Molecular Biology]] conference in 2015
+| birth_date        = {{Birth date and age|1975|03|24}}<ref name="elixir-bio">{{cite web|title=Existing members of ELIXIR SAB.pdf|url=https://www.elixir-europe.org/system/files/Existing%20members%20of%20ELIXIR%20SAB.pdf|access-date=13 September 2016|archive-date=14 September 2016|archive-url=https://web.archive.org/web/20160914054419/https://www.elixir-europe.org/system/files/Existing%20members%20of%20ELIXIR%20SAB.pdf}}</ref>
+| birth_place       = 
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Bioinformatics]]
+* [[Computational biology]]}}
+| workplaces        = [[Max Planck Institute for Evolutionary Anthropology]]
+| education         = {{Plainlist|
+* [[University of Natal]]
+* [[University of Cape Town]]
+* [[University of the Western Cape]]}}
+| thesis_title      = The development and application of informatics-based systems for the analysis of the human transcriptome
+| thesis_url        = http://etd.uwc.ac.za/xmlui/handle/11394/2003
+| thesis_year       = 2003
+| doctoral_advisors  = Winston Hide
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[L'Oréal-UNESCO Awards for Women in Science]] (2004)
+* [[Newcomb Cleveland Prize]] (2010)
+* [[ISCB Fellow]] (2016)<ref name=fellows>{{cite web|archive-url=https://web.archive.org/web/20170320114530/https://www.iscb.org/iscb-fellows |archive-date=2017-03-20 |url=https://www.iscb.org/iscb-fellows |website=iscb.org |title=ISCB Fellows |publisher=[[International Society for Computational Biology]] |author=Anon |year=2017 }}</ref>}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|http://www.eva.mpg.de/genetics/bioinformatics/group-staff.html}}
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+'''Janet Kelso''' (born 1975) is a South African [[computational biology|computational biologist]] and Group leader of the Minerva Research Group for [[Bioinformatics]] at the [[Max Planck Institute for Evolutionary Anthropology]].<ref name="elixir-bio" /><ref name="group-homepage">{{cite web|last1=Leipzig|first1=Max Planck Institute for Evolutionary Anthropology|title=Dept. of Genetics {{!}} Bioinformatics {{!}} Group Staff|url=http://www.eva.mpg.de/genetics/bioinformatics/group-staff.html|website=www.eva.mpg.de|access-date=13 September 2016}}</ref><ref name="DBLP">{{DBLP |name=Janet Kelso}}</ref><ref name="GS">{{Google Scholar id}}</ref> She is best known for her work comparing DNA from previous humans (i.e. Neanderthals) with those of the present (Homo Sapiens).
+
+A previous challenge for computational biologists was the lack of proper DNA preservation and technology to analyze the [[nuclear genome]]s of the ancient humans. This obstacle strengthened Kelso's interest in bioinformatics and initially approached the issue using the reference based method. From there, her and her research team have made advances in research towards ancient DNA.<ref name=":1">{{Citation|title=KAUST Live: Janet Kelso of Max-Planck and Sudhir Kumar of Temple University| date=4 December 2017 |url=https://www.youtube.com/watch?v=RK4zehsiFOo|language=en|access-date=2021-11-27}}</ref>
+
+==Education==
+Kelso gained her [[Bachelor of Science]] degree from the University of Natal in 1995 followed by [[Honours degree|Honours]] and [[Master of Science]] degrees in medical biochemistry and chemical pathology from the [[University of Cape Town]] in 1997 and 2000, respectively.<ref name="elixir-bio" /> She received her PhD in [[bioinformatics]] in 2003, from the [[University of the Western Cape]], supervised by Winston Hide.<ref name=phd>{{cite thesis |degree=PhD |first=Janet|last=Kelso |title=The development and application of informatics-based systems for the analysis of the human transcriptome |publisher=University of the Western Cape |date=2003 |url=http://etd.uwc.ac.za/xmlui/handle/11394/2003 |website=uwc.ac.za |oclc=56536421 |hdl=11394/2003}}</ref><ref name="iscb-women-in-science">{{cite web|title=ISCB Newsletter 17-2|url=https://www.iscb.org/images/stories/newsletter/newsletter17-2/women-in-science.htm|website=www.iscb.org|access-date=13 September 2016}}</ref><ref>{{cite journal|last1=Fogg|first1=Christiana N.|last2=Kovats|first2=Diane E.|title=Computational Biology: Moving into the Future One Click at a Time|journal=PLOS Computational Biology|date=24 June 2015|volume=11|issue=6|article-number=e1004323|doi=10.1371/journal.pcbi.1004323|pmid=26107876|pmc=4481313|bibcode=2015PLSCB..11E4323F |doi-access=free }}</ref>
+
+==Research and career==
+Kelso has carried out research in comparative primate genomics and has contributed to the [[Neanderthal]], [[bonobo]] and [[orangutan]] genome projects.<ref name="iscb-women-in-science" /><ref name="neanderthal-genome">{{cite journal|last1=Green|first1=R. E.|last2=Krause|first2=J.|last3=Briggs|first3=A. W.|last4=Maricic|first4=T.|last5=Stenzel|first5=U.|last6=Kircher|first6=M.|last7=Patterson|first7=N.|last8=Li|first8=H.|last9=Zhai|first9=W.|last10=Fritz|first10=M. H. Y.|last11=Hansen|first11=N. F.|last12=Durand|first12=E. Y.|last13=Malaspinas|first13=A. S.|last14=Jensen|first14=J. D.|last15=Marques-Bonet|first15=T.|last16=Alkan|first16=C.|last17=Prufer|first17=K.|last18=Meyer|first18=M.|last19=Burbano|first19=H. A.|last20=Good|first20=J. M.|last21=Schultz|first21=R.|last22=Aximu-Petri|first22=A.|last23=Butthof|first23=A.|last24=Hober|first24=B.|last25=Hoffner|first25=B.|last26=Siegemund|first26=M.|last27=Weihmann|first27=A.|last28=Nusbaum|first28=C.|last29=Lander|first29=E. S.|last30=Russ|first30=C.|last31=Novod|first31=N.|last32=Affourtit|first32=J.|last33=Egholm|first33=M.|last34=Verna|first34=C.|last35=Rudan|first35=P.|last36=Brajkovic|first36=D.|last37=Kucan|first37=Z.|last38=Gusic|first38=I.|last39=Doronichev|first39=V. B.|last40=Golovanova|first40=L. V.|last41=Lalueza-Fox|first41=C.|last42=de la Rasilla|first42=M.|last43=Fortea|first43=J.|last44=Rosas|first44=A.|last45=Schmitz|first45=R. W.|last46=Johnson|first46=P. L. F.|last47=Eichler|first47=E. E.|last48=Falush|first48=D.|last49=Birney|first49=E.|last50=Mullikin|first50=J. C.|last51=Slatkin|first51=M.|last52=Nielsen|first52=R.|last53=Kelso|first53=J.|last54=Lachmann|first54=M.|last55=Reich|first55=D.|last56=Paabo|first56=S.|title=A Draft Sequence of the Neandertal Genome|journal=Science|date=6 May 2010|volume=328|issue=5979|pages=710–722|doi=10.1126/science.1188021|pmid=20448178|pmc=5100745|bibcode=2010Sci...328..710G}}</ref><ref name="bonobo">{{cite journal|last1=Prüfer|first1=Kay|last2=Munch|first2=Kasper|last3=Hellmann|first3=Ines|last4=Akagi|first4=Keiko|last5=Miller|first5=Jason R.|last6=Walenz|first6=Brian|last7=Koren|first7=Sergey|last8=Sutton|first8=Granger|last9=Kodira|first9=Chinnappa|last10=Winer|first10=Roger|last11=Knight|first11=James R.|last12=Mullikin|first12=James C.|last13=Meader|first13=Stephen J.|last14=Ponting|first14=Chris P.|last15=Lunter|first15=Gerton|last16=Higashino|first16=Saneyuki|last17=Hobolth|first17=Asger|last18=Dutheil|first18=Julien|last19=Karakoç|first19=Emre|last20=Alkan|first20=Can|last21=Sajjadian|first21=Saba|last22=Catacchio|first22=Claudia Rita|last23=Ventura|first23=Mario|last24=Marques-Bonet|first24=Tomas|last25=Eichler|first25=Evan E.|last26=André|first26=Claudine|last27=Atencia|first27=Rebeca|last28=Mugisha|first28=Lawrence|last29=Junhold|first29=Jörg|last30=Patterson|first30=Nick|last31=Siebauer|first31=Michael|last32=Good|first32=Jeffrey M.|last33=Fischer|first33=Anne|last34=Ptak|first34=Susan E.|last35=Lachmann|first35=Michael|last36=Symer|first36=David E.|last37=Mailund|first37=Thomas|last38=Schierup|first38=Mikkel H.|last39=Andrés|first39=Aida M.|last40=Kelso|first40=Janet|last41=Pääbo|first41=Svante|title=The bonobo genome compared with the chimpanzee and human genomes|journal=Nature|date=13 June 2012|doi=10.1038/nature11128|pmid=22722832|pmc=3498939|volume=486|issue=7404|pages=527–31|bibcode=2012Natur.486..527P}}</ref> Since 2004, she has been Group leader of the Minerva Research Group for Bioinformatics at the [[Max Planck Institute for Evolutionary Anthropology]] in Leipzig, Germany.<ref name="elixir-bio" />  At the Institute, Kelso conducted her research in collaboration with the [[UK Biobank|UK Biobank (UKB)]]. UKB holds genetic and medical information at population-scale; through the UKB, Kelso and her colleagues discovered a correlation between Neantherthal variants and certain behaviors and traits. For instance, they could now calculate the probability of being an evening or morning person.<ref name=":0">{{Cite web|title=Genetic data on half a million Brits reveal ongoing evolution and Neanderthal legacy|url=https://www.science.org/content/article/genetic-data-half-million-brits-reveal-ongoing-evolution-and-neanderthal-legacy|access-date=2021-11-26|website=www.science.org|language=en}}</ref>
+
+Since 2013, she has been co-Executive Editor of the [[scientific journal]] ''[[Bioinformatics (journal)|Bioinformatics]]''.<ref name="bioinf-ed">{{cite web|title=ISCB Newsletter 16-1|url=https://www.iscb.org/images/stories/newsletter/newsletter16-1/bioinformatics.htm|website=www.iscb.org|access-date=13 September 2016}}</ref>
+
+==Awards and honors==
+Kelso won a [[L'Oréal-UNESCO Awards for Women in Science]] Fellowship in 2004.<ref>{{cite web|title=Cape Town Student Wins National Award for Women in Science|url=http://www.panapress.com/Cape-Town-Student-Wins-National-Award-for-Women-in-Science--12-553282-146-lang2-index.html|website=www.panapress.com|access-date=13 September 2016}}</ref><ref name="hide-cv">{{cite web|title=Winston Hide {{!}} Harvard School of Public Health - Academia.edu|url=https://hsph-harvard.academia.edu/WinstonHide/CurriculumVitae|website=hsph-harvard.academia.edu|access-date=13 September 2016}}</ref> With her co-authors, she was awarded the [[Newcomb Cleveland Prize]] for the most outstanding paper in ''[[Science (journal)|Science]]'' in 2010: this paper published the draft sequence of the [[Neanderthal]] genome.<ref name="elixir-bio" /><ref name="neanderthal-genome" /> Kelso served as Vice President of the [[International Society for Computational Biology]] (ISCB) from 2011-2013 and in 2016 was elected to serve another 3-year term as vice president, starting in January 2017.<ref name="iscb-vp">{{cite web|title=September 12, 2016 - ISCB Announces Results of the 2016 Officer and Student Council Leadership Elections!|url=https://www.iscb.org/iscb-news-items/2958-2016sept12-2016-officer-student-council-leadership-elections|website=www.iscb.org|access-date=13 September 2016}}</ref>
+She was elected an [[ISCB Fellow]] by the International Society for Computational Biology in 2016.<ref name=fellows>{{cite web|archive-url=https://web.archive.org/web/20170320114530/https://www.iscb.org/iscb-fellows |archive-date=2017-03-20 |url=https://www.iscb.org/iscb-fellows |website=iscb.org |title=ISCB Fellows |publisher=[[International Society for Computational Biology]] |author=Anon |year=2017 }}</ref><ref name="iscb-fellow">{{cite web|title=Feb 22, 2016: ISCB Congratulates & Introduces the 2016 Class of Fellows!|url=https://www.iscb.org/iscb-news-items/2714-2016-feb22-iscb-fellows|website=www.iscb.org|access-date=13 September 2016}}</ref>
+
+==References==
+{{reflist|35em}}
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kelso, Janet}}
+[[Category:Living people]]
+[[Category:1975 births]]
+[[Category:South African bioinformaticians]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:South African women biologists]]
+[[Category:University of Cape Town alumni]]
+[[Category:University of the Western Cape alumni]]
+[[Category:21st-century South African biologists]]
+[[Category:21st-century South African women scientists]]
+[[Category:L'Oréal-UNESCO Awards for Women in Science laureates]]

@@ -1,0 +1,53 @@
+{{short description|American physicist}}
+'''Arthur Brooks Harris''', called Brooks Harris, (March 25, 1935)<ref>biographical information from ''American Men and Women of Science'', Thomson Gale 2004</ref> is an American physicist.
+
+==Biography==
+Harris was born  in [[Boston]], [[Massachusetts]], and studied at [[Harvard University]] with bachelor's degree in 1956, master's degree in 1959, and PhD in experimental solid state physics from [[Horst Meyer (physicist)|Horst Meyer]] in 1962.<ref name=APS>{{cite web|title=2007 Lars Onsager Prize Recipient: A. Brooks Harris, University of Pennsylvania|url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Harris&first_nm=A.&year=2007|website=American Physical Society}}</ref><ref>{{MathGenealogy|id=153334}}</ref> Harris was in 1961/62 at [[Duke University]] to complete his doctoral thesis with Meyer and then was an instructor there from 1962 to 1964. During 1961–1964 at Duke University Harris retrained himself as a theorist in condensed matter physics and then spent the academic year 1964/65 as a researcher working with [[John Hubbard (physicist)|John Hubbard]] in the UK at the [[Atomic Energy Research Establishment]] (Harwell Laboratory) near [[Harwell, Oxfordshire]].<ref name=APS/> At the [[University of Pennsylvania]], Harris became in 1965 an assistant professor and in 1977 a full professor, continuing there until his retirement as professor emeritus.
+
+He was a visiting professor at [[University of British Columbia]] in 1976, at the [[University of Oxford]] in 1973, 1986, and 1994, at [[Tel Aviv University]] in 1987 and 1995, and at [[McMaster University]] in 2005. He was visiting scientist at [[Sandia National Laboratories]] in 1974 and at the National Institute of Standards and Technology (NIST) in 2002.<ref name=APS/>
+
+In 2007 he received the [[Lars Onsager Prize]] for his contributions to the statistical physics of disordered systems, especially for the development of the Harris criterion. From 1967 to 1969 he was [[Sloan Fellow]] and in 1972/73 a [[Guggenheim Fellow]]. In 1989 he was elected a Fellow of the [[American Physical Society]].
+
+Harris was married to Peggy for over 60 years and has three children, eight grandchildren, and three great-grandchildren.
+
+His mother was [[Wilhelmina Harris]]
+
+==Research==
+Upon receiving the Lars Onsager Prize, Harris wrote in 2007:
+
+{{blockquote|My interests have included orientational ordering in solid molecular hydrogen (some with H. Meyer), critical properties of numerous random systems (often in collaboration with T. C. Lubensky), the crystal structure and dynamics of fullerenes (often with T. Yildirim), spin dynamics of frustrated magnets (with A. J. Berlinsky and more recently with [[Amnon Aharony|A. Aharony]], [[Ora Entin-Wohlman|O. Entin-Wohlman]], and T. Yildirim) and the symmetry properties of frustrated magnets which exhibit simultaneous magnetic and ferroelectric ordering.<ref name=APS/>}}
+
+He has also collaborated in theoretical condensed matter physics with R. J. Birgeneau (MIT), J. Yeomans (Oxford), R. D. Kamien (Penn), C. Broholm (Johns Hopkins), and A. Ramirez ([[Bell Labs]]).<ref>{{cite web|title=A. Brooks Harris|website=Physics & Astronomy, University of Pennsylvania|url=https://www.physics.upenn.edu/node/45522}}</ref>
+
+In 1973 he developed at Oxford the Harris criterion,<ref>{{cite journal | author = A. B. Harris | title = Effect of Random Defects on the Critical Behavior of Ising Models | journal = Journal of Physics C: Solid State Physics | volume = 7 | year = 1974 | number = 9 | pages = 1671–1692 | doi = 10.1088/0022-3719/7/9/009| bibcode = 1974JPhC....7.1671H }}</ref><ref>{{cite journal | author = A. Brooks Harris | title = A Brief History of the Harris Criterion | journal = Bulletin of the American Physical Society | volume = 52 | pages = D3.003 | number = 1 | publisher = American Physical Society | year = 2007 | bibcode = 2007APS..MAR.D3003H}}</ref> which indicates the extent to which the critical exponents of a [[phase transition]] are modified by a small amount of randomness (''e.g.'', defects, dislocations, or impurities). Such impurities "smear" the phase transition and lead to local variations in the transition temperature. Let <math>d</math> denote the spatial dimension of the system and let <math> \nu </math> denote the critical exponent of [[correlation length]]. The Harris criterion states that if
+
+: <math> \nu \geq \frac {2} {d} </math>
+
+the impurities do not affect the critical behavior (so that the critical behavior is then stable against the random interference).  For example, in the classical three-dimensional [[Heisenberg model (classical)|Heisenberg model]] <math> \nu = 0 {.} 698 </math> and thus the Harris criterion is satisfied, while the three-dimensional [[Ising model]] has <math> \nu = 0 {. } 627 </math> and thus does not satisfy the criterion (<math> d = 3 </math>).<ref>{{cite journal | author = Thomas Vojta, Rastko Sknepnek | title = Critical points and quenched disorder: From Harris criterion to rare regions and smearing | journal = Physica Status Solidi B | volume = 241 | date = July 2004 | number = 9 | pages = 2118–2127 | doi = 10.1002/pssb.200404798| arxiv = cond-mat/0405070| bibcode = 2004PSSBR.241.2118V | s2cid = 16979505 }}</ref>
+
+==Selected publications==
+* "Effect of Random Defects on the Critical Behaviour of Ising Models,” A. Brooks Harris, J. Phys. C 7, 1671–1692 (1974). {{doi|10.1088/0022-3719/7/9/009}}
+* “Single-Particle Excitations in Narrow Energy Bands,” A. Brooks Harris and Robert V. Lange, Phys. Rev. 157, 295–314 (1967). {{doi|10.1103/PhysRev.157.295}}
+* “Renormalization-Group Approach to the Critical Behavior of Random-Spin Models,” A. Brooks Harris and [[Tom Lubensky|T. C. Lubensky]], Phys. Rev. Lett. 33, 1540–1543 (1974). {{doi|10.1103/PhysRevLett.33.1540}}
+* “Comment on “Orientational Ordering Transition in Solid C<sub>60</sub>”," Ravi Sachidanandam and A. B. Harris, Phys. Rev. Lett. 67, 1467–1467 (1991). {{doi|10.1103/PhysRevLett.67.1467}}
+* “Possible Néel Orderings of the Kagomé Antiferromagnet,” A. B. Harris, [[Catherine Kallin|C. Kallin]], and A. J. Berlinsky, Phys. Rev. B 45, 2899–2919 (1992). {{doi|10.1103/PhysRevB.45.2899}}
+* “Mean Field Theory of the Orientational Properties of (''J'' = 1) Molecules on the Surface of Grafoil,” A. B. Harris and A. J. Berlinsky, Can. J. Phys. 7, 1852–1868 (1979). {{doi|10.1139/p79-256}}
+* “Molecular Chirality and Chiral Parameters,” A. B. Harris, R. D. Kamien, and [[Tom Lubensky|T. C. Lubensky]], Rev. Mod. Phys. 71, 1745–1757 (1999). {{doi|10.1103/RevModPhys.71.1745}}
+* “Magnetically Driven Ferroelectric Order in Ni<sub>3</sub>V<sub>2</sub>O<sub>8</sub>,” G. Lawes, A. B. Harris, T. Kimura, N. Rogado, R. J. Cava, [[Amnon Aharony|A. Aharony]], [[Ora Entin-Wohlman|O. Entin-Wohlman]], T. Yildirim, M. Kenzelmann, C. Broholm, and A. P. Ramirez, Phys. Rev. Lett. 95, 087205 (2005). {{doi|10.1103/PhysRevLett.95.087205}}
+* “Anisotropic Spin Hamiltonians due to Spin-Orbit and Coulomb Exchange Interactions,” T. Yildirim, A. B. Harris, [[Amnon Aharony]], and [[Ora Entin-Wohlman|O. Entin-Wohlman]], Phys. Rev. B 52, 10239–10267 (1995). {{doi|10.1103/PhysRevB.52.10239}}
+* “Observation of the Pair Interaction Between Ortho Molecules in Solid H<sub>2</sub>,” A. Brooks Harris, Larry I. Amstutz, Horst Meyer, and Samuel M. Myers, Phys. Rev. 175, 603–609 (1968). {{doi|10.1103/PhysRev.175.603}}
+
+==References==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harris, A. Brooks}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Sloan Research Fellows]]
+[[Category:Harvard University alumni]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]

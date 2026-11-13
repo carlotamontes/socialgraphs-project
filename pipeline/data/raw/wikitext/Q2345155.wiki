@@ -1,0 +1,66 @@
+{{short description|Physicist and computer security expert (born 1964)}}
+{{BLP sources|date=July 2022}}
+{{Infobox person
+| name = Tsutomu Shimomura
+| image =
+| birth_date = {{birth date and age|1964|10|23}}
+| birth_place =  [[Nagoya]], Japan
+| citizenship = 
+| known_for = Catching [[Kevin Mitnick]]
+| occupation = [[Computer programmer]], [[physicist]]
+| footnotes =
+| education = [[California Institute of Technology]]
+}}
+
+{{nihongo|'''Tsutomu Shimomura'''|下村 努|Shimomura Tsutomu|born October 23, 1964}} is a Japanese-born [[physicist]] and [[computer security]] expert.  He is known for helping the [[FBI]] track and arrest [[Hacker (computer security)|hacker]] [[Kevin Mitnick]]. ''Takedown'', his 1996 book on the subject with [[journalist]] [[John Markoff]], was later adapted for the screen in ''[[Track Down]]'' in 2000.
+
+Shimomura was a founder of semiconductor company Neofocal Systems, and was CEO and CTO until 2016.
+
+==Biography==
+Born in Japan, Shimomura is the son of [[Osamu Shimomura]], winner of the 2008 Nobel Prize in Chemistry. He grew up in [[Princeton, New Jersey]], and attended [[Princeton High School (New Jersey)|Princeton High School]].<ref>[https://web.archive.org/web/20220102135234/https://people.engr.ncsu.edu/efg/379/s01/lectures/wk10/lecture.html Week 10: "Hacking"], [[North Carolina State University]]. Accessed January 2, 2022. "Shimomura was born in 1964 in Nagoya, Japan.... He got into an antiestablishment group at Princeton High School and got expelled for it, even though he had won a local math/science contest."</ref>
+
+At [[Caltech]] <!-- date needed --> he studied under Nobel laureate [[Richard Feynman]].  After Caltech, he went on to work at [[Los Alamos National Laboratory]], where he continued his hands-on education in the position of staff physicist with [[Brosl Hasslacher]] and others on subjects such as [[lattice gas automata]].
+
+In 1989, he became a research scientist in computational physics at the [[University of California, San Diego]], and senior fellow at the [[San Diego Supercomputer Center]]. Shimomura also became a noted computer security expert, working for the [[National Security Agency]].
+
+In 1992, he testified before Congress on issues regarding the privacy and security (or lack thereof) on [[cellular telephones]]. Author [[Bruce Sterling]] described his first meeting with Shimomura in the documentary ''[[Freedom Downtime]]'':
+
+{{quote|It was in front of Congress, and I was testifying to a Congressional subcommittee.  And here was this guy in sandals and, like, ragged-ass cutoffs, and the rest of us were done up in ties <nowiki>[...]</nowiki> giving our best sort of 'yes, we're in front of Congress' thing and Shimomura is there in this surfer gear.}}
+
+He is best known for events in 1995, when he assisted with tracking down the computer hacker [[Kevin Mitnick]]. In that year Shimomura also received prank calls which popularized the phrase "[[My kung fu is stronger than yours]]", equating it with hacking. Shimomura and journalist [[John Markoff]] wrote a book, ''[[Takedown: The Pursuit and Capture of America's Most Wanted Computer Outlaw|Takedown]]'', about the pursuit, and the book was later adapted into a movie with a very similar name, ''[[Track Down]]''. Shimomura, himself, appeared in a brief cameo in the movie. 
+
+Shimomura was a founder of privately held fabless semiconductor company Neofocal Systems, and was CEO and CTO until 2016.<ref>[http://www.sil-ledjapan.com/conference.html LED Japan Conference, October 2013] {{webarchive|url=https://web.archive.org/web/20131031200201/http://www.sil-ledjapan.com/conference.html |date=2013-10-31 }}</ref><ref>[http://www.geekwire.com/2015/led-computer-whiz-tsutomu-shimomura-neofocal-raises-9m-smart-led-technology/ ''"Led by computer whiz Tsutomu Shimomura, Neofocal raises $9M..."''], Jan 23 2015, geekwire.com</ref>
+
+==Criticism==
+[[Kevin Mitnick]] and others have raised legal and ethical questions concerning Shimomura's involvement in his case.<ref name=littman/><ref name=fost/><ref name=mitnick/> California author [[Jonathan Littman (author)|Jonathan Littman]] wrote a 1996 book about the case called ''The Fugitive Game: Online with Kevin Mitnick'', in which he presented Mitnick's side of the story, which was a very different version from the events written in Shimomura and Markoff's ''[[Takedown: The Pursuit and Capture of America's Most Wanted Computer Outlaw|Takedown]]''.<ref name=littman>Jonathan Littman. ''The Fugitive Game: Online with Kevin Mitnick''</ref> In his book, Littman made allegations of journalistic impropriety against Markoff and questioned the legality of Shimomura's involvement in the matter, as well as suggesting that many parts of ''Takedown'' were fabricated by its authors for self-serving purposes.<ref name=fost>{{cite news|title=Movie About Notorious Hacker Inspires a Tangle of Suits and Subplots|last=Fost|first=Dan|date=May 4, 2000|url=http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2000/05/04/BU71498.DTL|archive-url=https://web.archive.org/web/20000608193611/http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2000/05/04/BU71498.DTL|url-status=dead|archive-date=June 8, 2000|work=San Francisco Chronicle|accessdate=2007-04-24}}</ref><ref name=mitnick/> Mitnick's autobiography, ''Ghost in the Wires'', further expands on concerns that Shimomura's involvement in the case was both unethical and illegal.<ref name=mitnick>Kevin Mitnick and William L. Simon, ''Ghost in the Wires: My Adventures as the World's Most Wanted Hacker'', 2011, Hardback {{ISBN|978-0-316-03770-9}}</ref>
+
+==Writing credits==
+* ''Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw—By the Man Who Did It'' (with [[John Markoff]]), 1996, Hyperion Books.  {{ISBN|0-7868-6210-6}}
+** French title: ''Cybertraque'', 1998, {{ISBN|2-259-18402-2}}
+** Dutch title: ''De klopjacht'', 1996, {{ISBN|90-254-0639-4}}
+** German Title: ''Data Zone - Die Hackerjagd im Internet'', 1996, {{ISBN|3-423-15101-3}}
+** Spanish Title: ''Takedown. Persecución y captura de Kevin Mitnick, el forajido informático más buscado de Norteamérica. Una crónica escrita por el hombre que lo capturó.'', 1997, {{ISBN|8403595980}}
+* "Minimal Key Lengths for Symmetric Ciphers to Provide Adequate Commercial Security", January 1996 (co-authors: Shimomura, [[Bruce Schneier]], [[Ronald L. Rivest]], [[Matt Blaze]], [[Whitfield Diffie]], Eric Thompson, Michael Wiener) ([https://web.archive.org/web/20041112152310/http://www.cs.plu.edu/courses/CompSec/arts/minkeylen.pdf pdf])
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.takedown.com/bio/tsutomu.html Shimomura biography]
+*[http://www.takedown.com/ Web site for the book]
+*{{IMDb name|id=0793737|name=Tsutomu Shimomura}}
+*[https://charlierose.com/videos/12141 1996 Charlie Rose interview with Shimomura]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shimomura, Tsutomu}}
+[[Category:Living people]]
+[[Category:American technology writers]]
+[[Category:1964 births]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Scientists from Princeton, New Jersey]]
+[[Category:Princeton High School (New Jersey) alumni]]
+[[Category:Computer security specialists]]
+[[Category:Writers about computer security]]
+[[Category:Scientists from Nagoya]]
+[[Category:Japanese emigrants to the United States]]

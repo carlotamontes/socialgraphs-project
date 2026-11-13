@@ -1,0 +1,110 @@
+{{Short description|Soviet and Russian physicist and electrical engineer (1934–2026)}}
+{{Family name hatnote|Vsevolodovich|Grekhov|lang=Eastern Slavic}}
+{{Use dmy dates|date=September 2026}}
+{{Infobox scientist
+| name              = Igor Grekhov
+| image             = AcademicianIgorGrekhov01.jpg
+| image_size        =
+| caption           = Grekhov in 2017
+| native_name       = Игорь Грехов
+| birth_date        = {{birth date|1934|9|10|df=y}}
+| birth_place       = [[Smolensk]], [[Western Oblast]], [[Russian SFSR]], Soviet Union
+| death_date        = {{death date and age|2026|8|30|1934|9|10|df=y}}
+| death_place       = [[Saint Petersburg]], Russia
+| citizenship       = Russia
+| nationality       = 
+| ethnicity         = 
+| fields            = [[Power electronics]]
+| workplaces        = [[Ioffe Institute]]
+| education         = [[Bauman Moscow State Technical University|Bauman MSTU]]
+| doctoral_advisor  = {{ill|Vladimir Tuchkevich|ru|Тучкевич, Владимир Максимович}}
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Contribution to physics and engineering of power semiconductor devices
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Lenin Prize]] (1966)<br />[[USSR State Prize]] (1987)<br />[[State Prize of the Russian Federation|State Prize of Russia]] (2002)
+| religion          = 
+| signature         = 
+| footnotes         =  
+}}
+{{external media
+| float     = right
+| image1    = [http://www.alpklubspb.ru/persona/100925_01.jpg Igor Grekhov (photo)]
+}}
+
+'''Igor Vsevolodovich Grekhov''' ({{langx|ru|Игорь Всеволодович Грехов}}; 10 September 1934 – 30 August 2026) was a Soviet and Russian physicist and electrical engineer, who was a [[Academician|full member]] of the [[Russian Academy of Sciences]].<ref>[http://www.ras.ru/win/db/show_per.asp?P=.id-695.ln-en Short information about I. V. Grekhov] on the official website of the Russian Academy of Sciences</ref> He is known as one of the founders of the power semiconductor device industry in the Soviet Union. His contributions to the field of pulsed power devices and converter technique were recognized by the awarding of the [[Lenin Prize]], the two State Prizes and several State orders of Russia. He headed the laboratory at the [[Ioffe Institute|Ioffe Physical Technical Institute]] in St. Petersburg over several decades.
+
+== Early life and professional career ==
+Grekhov was born to a family of schoolteachers in Smolensk, but his childhood passed in the city of [[Simferopol]], Crimea.<ref>[[Computer History Museum]], oral history — [http://archive.computerhistory.org/resources/access/text/2013/10/102746432-05-01-acc.pdf Oral History of Igor V. Grekhov] (total 44 pages, interviewed by: R. Remacle, May 15, 2012)</ref>
+
+After finishing secondary school, Grekhov studied electrical engineering at the [[Bauman Moscow State Technical University]]. Then he spent several years (1958–1962) in industry, working as a research engineer and head of the laboratory at the "Electrovipryamitel" factory in [[Saransk]] ([[Mordovian ASSR]], USSR).
+
+In 1962, Grekhov joined the Ioffe Institute in [[Leningrad]] and was an employee of the Institute for more than half a century, sequentially occupying the positions of a junior, ordinary and senior scientist, a group head and a research-sector head. In 1967 and 1974, he earned, respectively, the Ph.D. and [[Doktor nauk]] degrees, both in the physics of semiconductors.<ref name="ieeeps">IEEE Transactions on Plasma Science, v. 38, p. 1123:  [https://ieeexplore.ieee.org/document/5445002/ Short bio of Igor Grekhov]</ref> In 1982–2019, Grekhov headed the Power electronics laboratory. In the period from 2004 to 2014, he also served as a head of the Solid-State Electronics Department of the Institute. Along with his research activity, he taught a course in Semiconductor devices as a professor of [[Peter the Great St. Petersburg Polytechnic University|St. Petersburg Polytechnic University]] (1984–1994).
+
+In 1991 Grekhov was elected to corresponding membership in the [[Russian Academy of Sciences|Academy of Sciences of the USSR]] and in 2008 up-ranked to [[academician|full member]] in the Russian Academy of Sciences.
+
+== Major achievements ==
+Grekhov's research work always concentrated on the physics of [[solid-state electronics|solid-state devices]], with a special point related to their application in [[power electronics]]. His interests covered all the steps from background theoretical studies through a trial sample fabrication up to coordination of mass production of power devices including [[electric power conversion|converters]]. His pioneering contributions in 1960s and 1970s provided a technological breakthrough for the semiconductor industry and gave birth to its new branch – power semiconductor device engineering – in the Soviet Union.
+
+The most important results are:<ref name="melua">{{cite book |last= А. И. Мелуа ([[Arkady Melua|A. I. Melua]]) |date=1997 |title= Инженеры Санкт-Петербурга. Энциклопедия |edition=2nd |language=Russian |trans-title= Engineers of Saint Petersburg: Encyclopedia |url= |access-date= |publisher= Изд-во Международного фонда истории науки (Int’l Foundation for History of Science) |location= St. Petersburg — Moscow |page= 249: Грехов Игорь Всеволодович (Igor Grekhov)}}</ref>  
+* Observation of an effect of a uniform switching of a silicon-based [[thyristor]] structure under excitation with [[Nd:YAG laser|YAG:Nd laser]] pulses, creation of the fast high-power [[switch]]es (10 kV, 30 kA, 20 ns pulse rise time) relying on this effect; 
+* Discovery of [[impact ionization]] fronts in high-voltage pn-junctions triggered by a steep voltage pulse; this phenomenon is used in the superfast switches, such as avalanche diode sharpeners or fast-ionization [[Shockley diode|dynistors]], with the pulse-rise time shorter than 100 ps;
+* Inventions (1982–1983) of the new-type opening switch called the [[Step recovery diode|Drift Step Recovery Diode]] (DSRD) capable of operating in the pulse power range from units to hundreds megawatts, and of a Reversely Switch-on Dynistor (RSD) enabling commutation of the MegaAmpere-range currents within tens of microseconds. The most power semiconductor switch employing RSDs is now in use at the [[All-Russian Scientific Research Institute of Experimental Physics|Russian Federal Nuclear Center]];
+* Prediction of a new physical effect of a [[quantum tunneling|tunneling]]-assisted formation of the ionization front in silicon devices. This front was shown to be responsible for an extremely fast (~20 ps) device switching; 
+* Technical idea of a new device, competitive with [[Insulated-gate bipolar transistor|IGBT]], – the [[Power module|integrated thyristor]] with the external field-effect control. This device exhibits similar characteristics to those of IGBT but does not require such refined technological facilities to produce;
+* Creation of the [[silicon carbide]] (SiC) devices for power electronics, particularly of the SiC-based opening switches.
+
+The research in Grekhov’s laboratory includes also some other problems of the semiconductor device physics: tunneling phenomena in [[MIS capacitor|MIS]]-structures, [[ferroelectricity|ferroelectric]] memories, [[porous silicon]] and [[superconductivity|superconductive]] ceramics.
+
+== Death ==
+Grekhov died in [[Saint Petersburg]] on 30 August 2026, at the age of 91.<ref>[https://m.mathnet.ru/php/person.phtml?personid=44991&option_lang=eng Grekhov Igor' Vsevolodovich (1934–2026)]</ref>
+
+== Awards ==
+{{columns-list|colwidth=30em|
+* 1966 – [[Lenin Prize]] 
+* 1975 – Honoured Inventor of the [[Russian Soviet Federative Socialist Republic|RSFSR]]
+* 1981 – [[Order of Friendship of Peoples]]
+* 1987 – [[USSR State Prize]]
+* 1999 – [[Order of Honour (Russia)]] 
+* 2002 – [[State Prize of the Russian Federation|State Prize of Russia]]
+* 2006 – Russian Government Prize
+* 2010 – [[Order of Friendship]] (Russia)
+* 2010 – St. Petersburg Government Prize
+* 2021 – GEA Honorary Diploma
+[see sources<ref name="ieeeps"/><ref name="melua"/><ref>[https://globalenergyprize.org/en/2021/12/20/the-global-energy-association-presents-honorary-diploma-to-physicist-igor-grekhov/ The Global Energy Association (GEA) presents honorary diploma to physicist Igor Grekhov] on the official website of GEA, 20 Dec. 2021.</ref> for details]
+}}
+
+== Representative publications ==
+* I. V. Grekhov, Pulse power generation in nano- and subnano- second range by means of ionizing fronts in semiconductors: the state of the art and future prospects, ''IEEE Transactions on Plasma Science'', 38:5 (2010), 1118–1123.
+* I. V. Grekhov, [https://link.springer.com/content/pdf/10.1134%2FS1019331608010036.pdf Power Semiconductor Electronics and Pulse Technology], ''Herald of the Russian Academy of Sciences'', 78:1 (2008), 22–30.
+* I. V. Grekhov, G. A. Mesyats, Nanosecond semiconductor diodes for pulsed power switching, ''Physics-Uspekhi'', 48:7 (2005), 703–712.
+* P. Rodin, U. Ebert, W. Hundsdorfer, I. Grekhov, Tunneling-assisted impact ionization fronts in semiconductors, ''Journal of Applied Physics'', 92:2 (2002), 958–964.
+* I. V. Grekhov, New principles of high power switching with semiconductor devices, ''Solid-State Electronics'', 32:11 (1989), 923–930.
+
+Totally, Grekhov has co-authorized four books, about 200 patents and more than 600 scientific papers.
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grekhov, Igor}}
+[[Category:1934 births]]
+[[Category:2026 deaths]]
+[[Category:Russian physicists]]
+[[Category:20th-century Russian inventors]]
+[[Category:Recipients of the Lenin Prize]]
+[[Category:Recipients of the USSR State Prize]]
+[[Category:Recipients of the Order of Friendship of Peoples]]
+[[Category:Recipients of the Order of Honour (Russia)]]
+[[Category:Recipients of the Order of Friendship]]
+[[Category:State Prize of the Russian Federation laureates]]
+[[Category:Corresponding Members of the USSR Academy of Sciences]]
+[[Category:Full Members of the Russian Academy of Sciences]]
+[[Category:Soviet physicists]]
+[[Category:Soviet electrical engineers]]
+[[Category:Bauman Moscow State Technical University alumni]]

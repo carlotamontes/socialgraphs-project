@@ -1,0 +1,65 @@
+{{Short description|Israeli-Russian physicist (1939–1994)}}
+{{Infobox scientist
+| name             = Arkady Aronov
+| native_name      = ארקדי ארונוב
+| native_name_lang = he
+| image            = Aronov.jpg
+| caption          = Arkady Aronov in 1990s
+| birth_date       = July 26, 1939
+| death_date       = {{Death date and age|1994|11|13|1939|7|26}}
+| field            = [[Physics]]
+| workplaces       = [[Karlsruhe Institute of Technology]]
+| education        = [[Saint Petersburg State Electrotechnical University|Leningrad Electrotechnical Institute]]<br />[[Ioffe Institute|Institute of Semiconductors of Russian Academy of Sciences]]
+| thesis_title     = Magnetic phenomena in crossed electric and magnetic fields
+| doctoral_advisor = [[Grigory Pikus]]
+| thesis_year      = 1966
+| notable_students = [[Boris Altshuler]], [[Boris Spivak]]<ref name=Phystoday/>
+| awards           = [[Humboldt Prize]]<br />Hewlett Packard Europhysics Prize
+}}
+'''Arkady Girshevich Aronov''' ({{langx|ru|Аркадий Гиршевич Аронов}}, {{Langx|he|ארקדי ארונוב}}; July 26, 1939 in [[Saint Petersburg|Leningrad]], [[Soviet Union]] – November 13, 1994 in [[Rehovot]], [[Israel]]) was a Russian and Israeli [[theoretical physics|theoretical]] [[condensed matter physics|condensed matter physicist]], notable for his achievements in physics of [[semiconductor]]s and in [[mesoscopic physics]].<ref name=tkm>{{cite web|url=http://www.tkm.uni-karlsruhe.de/events/SA2009/aronov.php|title=Arkady Girshevich Aronov|publisher=[[Karlsruhe Institute of Technology]]|access-date=18 May 2019}}</ref><ref name=Phystoday>{{cite journal|author=Altshuler, Boris L.|author-link=Boris Altshuler|author2=Khmelnitskii, David E.|title=Obituary: Arkady Aronov|journal=Physics Today|date=March 1995|volume=48|issue=3|pages=115–117|doi=10.1063/1.2807954|bibcode=1995PhT....48c.115A|doi-access=free}}</ref>
+
+==Biography==
+Aronov was born in 1939 in Leningrad, currently Saint Petersburg, and in 1962 graduated from the [[Saint Petersburg State Electrotechnical University|Leningrad Electrotechnical Institute]]. He got his PhD degree from the [[Ioffe Institute|Institute of Semiconductors of Russian Academy of Sciences]] in 1966 under supervision of [[Grigory Pikus]]. The title of his thesis was "Magnetic phenomena in crossed electric and magnetic fields".<ref name=tkm/> He stayed to work at the same institute as a researcher. In 1972, the Institute of Semiconductors was merged with into Ioffe Physical-Technical Institute. In 1974, Aronov moved to the [[Petersburg Nuclear Physics Institute|Konstantinov Leningrad Nuclear Physics Institute]], located in [[Gatchina]]. In 1977, he received there his [[Doktor nauk]] degree for the thesis "Behavior of superconductors and polarized conductors under non-equilibrium conditions". In December, 1990 Aronov was elected to be a Corresponding Member of [[Russian Academy of Sciences]].<ref name=ras>{{cite web|url=http://www.ras.ru/win/db/show_per.asp?P=.id-49569.ln-ru|title=Аронов Аркадий Гиршевич|publisher=[[Russian Academy of Sciences]]|language=ru|access-date=18 May 2019}}</ref> In January 1991, he moved back to the Ioffe Institute to head the theoretical physics division, and, still holding this position, in May 1994 he joined the faculty of the [[Weizmann Institute of Science]]. In the 1990s, he visited University of Karlsruhe for extended periods of time, and he also became an Associate Member of the scientific staff of the [[International Centre for Theoretical Physics]], [[Trieste]].<ref name=tkm/> Arkady Aronov died in November 1994 in Rehovot as a result of a heart attack.
+
+During his career, Arkady Aronov supervised a number of PhD theses including these of [[Evgeny Ivchenko]], [[Boris Spivak]], [[Boris Altshuler]], [[Alexey Ioselevich]], [[Aleksander Zyuzin]], and [[Alexander Mirlin]].<ref name=tkm/>
+
+==Research activity==
+The fields in which Arkady Aronov contributed the most are<ref name=tkm/>    
+*optics of semiconductors;
+*spin kinetics and spin-dependent transport phenomena in semiconductors and metals;
+*non-equilibrium phenomena in [[superconductivity|superconductors]];
+*[[mesoscopic physics]], including quantum kinetic theory of disordered electronic structures, disorder, interaction, and quantum coherence phenomena.
+
+===Spin relaxation===
+In 1975, together with late [[Gennady Bir]] and with [[Grigory Pikus]], Aronov suggested a mechanism of spin relaxation in solids,<ref>{{cite journal|author=Bir, G. L.|author2=Aronov, A. G.|author3=Pikus, G. E.|year=1975|title=Spin relaxation of electrons scattered by holes|journal=Soviet Physics JETP|publisher=42|page=705}}</ref> which is currently known as the Bir–Aronov–Pikus mechanism and is considered to be one of three most important [[spin relaxation]] mechanisms, on par with the Dyakonov–Perel and Elliott–Yafet mechanisms.
+
+===Mesoscopic physics===
+Together with Boris Altshuler, a graduate student under his supervision, Aronov developed theory of electron-electron interaction in disordered conductors. In particular, he derived a [[Boltzmann equation|Boltzmann-like equation]] which governs the kinetic behavior of electrons in conductors with weak disorder ([[weak localization]] regime), and discovered that [[Electrical resistivity and conductivity|electrical conductivity]] acquires a correction due to electron-electron interaction.<ref>{{cite journal|author=Altshuler, Boris L.|author2=Aronov, Arkady G.|year=1979|title=Zero bias anomaly in tunnel resistance and electron-electron interaction|journal=Solid State Communications|volume=30|issue=3|page=115|doi=10.1016/0038-1098(79)90967-0|bibcode=1979SSCom..30..115A}}</ref> This term is widely known as [[Altshuler–Aronov correction]].<ref>{{cite book|author=Nazarov, Y. V.|author2=Blanter, Ya. M.|title=Quantum transport: Introduction to Nanoscience|year=2009|publisher=Cambridge University Press|isbn=978-0-521-83246-5|pages=626–630}}</ref> In collaboration with Altshuler and [[Patrick A. Lee]] he applied this theory to explain the experimentally observed phenomenon of [[zero-bias anomaly]] - suppression of density of states by interactions at the [[Fermi surface]].<ref>{{cite journal|author=Altshuler, Boris L.|author2=Aronov, Arkady G.|author3=Lee, Patrick A.|year=1980|title=Interaction effects in disordered Fermi systems in 2 dimensions|journal=Physical Review Letters|volume=44|issue=19|page=1288|doi=10.1103/physrevlett.44.1288|bibcode=1980PhRvL..44.1288A}}</ref>
+
+In 1981, in collaboration with Boris Altshuler and [[David Khmelnitsky]], he investigated decoherence of electrons in the weak localization regime due to electron-electron interaction, and discovered that two distinct time scales, decoherence (dephasing) time and relaxation time, exist in one and two dimensions. (In three dimensions, these time scales coincide).<ref>{{cite journal|last=Altshuler|first=Boris L.|author2=Aronov, Arkady G.|author3=Khmelnitsky, David E.|year=1981|title=Effects of electron-electron collisions with small energy transfers on quantum localization|journal=Journal of Physics C: Solid State Physics|volume=15|issue=36|page=7367|doi=10.1088/0022-3719/15/36/018|bibcode=1982JPhC...15.7367A}}</ref>
+
+In the same year, together with Boris Altshuler and Boris Spivak, Aronov suggested an experiment which by measuring an [[Aharonov–Bohm effect|Aharonov–Bohm oscillations]] in a disordered conductor would reveal the weak localization effect by the existence of oscillations with the halved period as compared with Aharonov–Bohm oscillations in clean conductors.<ref>{{cite journal|author=Altshuler, Boris L.|author2=Aronov, Arkady G.|author3=Spivak, Boris Z.|year=1981|title=The Aharonov-Bohm effect in disordered conductors|journal=JETP Letters|volume=33|page=94|bibcode=1981JETPL..33...94A}}</ref> The experiment by [[Dmitry Sharvin]] and [[Yury Sharvin]] performed in the same year fully confirmed the predictions.
+
+These advances were summarized by Altshuler and Aronov in a review article "Electron-Electron interaction in disordered conductors",<ref>{{cite book|author=Altshuler, Boris L.|author2=Aronov, Arkady G.|editor=A. l. Efros and M. Pollak|title=Electron-Electron interaction in disordered conductors, in: Electron-Electron interaction in disordered systems|series=Elsevier Science Publisher|year=1985|pages=1–153}}</ref> which became a reference material in the field and by 2009 was cited over 1000 times.<ref name=tkm/>
+
+In 1994 Aronov, in collaboration with [[Alexander Mirlin]] and [[Peter Wölfle]], initiated studies of properties of electrons in random magnetic field<ref>{{cite journal|author=Aronov, Arkady G.|author2=Mirlin, Alexander D.|author3=Wölfle, Peter|title=Localization of charged quantum particles in a static random magnetic field|journal=Physical Review B|year=1994|volume=49|issue=23|article-number=16609|doi=10.1103/physrevb.49.16609|arxiv=cond-mat/9404070|bibcode=1994PhRvB..4916609A}}</ref> which eventually opened the whole research field of electrons in random magnetic field, useful for understanding the [[quantum Hall effect]].
+
+==Honors==
+*Corresponding Member of [[Russian Academy of Sciences]], 1990.<ref name=ras/>
+*[[Humboldt Prize|Alexander von Humboldt Research Award]], 1991.<ref name=tkm/>
+*[[EPS Europhysics Prize|Hewlett Packard Europhysics Prize]], 1993, shared with [[Boris Altshuler]], [[David Khmelnitsky]], [[Anatoly Larkin]], and [[Boris Spivak]], awarded for "Theoretical Work on Coherent Phenomena in disordered Conductors".<ref>{{cite journal|title=Agilent Technologies Europhysics Prize|journal=[[Europhysics News]]|volume=37|issue=2|page=27 |url=https://www.europhysicsnews.org/articles/epn/pdf/2006/02/epn2006-37-2.pdf|access-date=March 26, 2012}}</ref>
+*Professorship of the [[Wilhelm and Else Heraeus Foundation]], University of Karlsruhe.<ref name=tkm/>
+
+Two symposia were held in memory of Arkady Aronov, one in [[Zikhron Ya'akov]] by Weizmann Institute of Science, where Aronov was a faculty member, in 1996,<ref>{{cite web|url=https://wis-wander.weizmann.ac.il/world-famous-physicist-arkady-aronov-remembered-weizmann-institute-physics-symposium|title=World-Famous Physicist Arkady Aronov Remembered at Weizmann Institute Physics Symposium|date=7 January 1996}}</ref> and another one in [[Karlsruhe Institute of Technology]], where he spent extensive periods of time, in 2009.<ref name=tkm/>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Aronov, Arkady}}
+[[Category:1939 births]]
+[[Category:1994 deaths]]
+[[Category:Russian people of Jewish descent]]
+[[Category:Israeli people of Russian-Jewish descent]]
+[[Category:20th-century Russian physicists]]
+[[Category:Corresponding Members of the Russian Academy of Sciences]]
+[[Category:Academic staff of Weizmann Institute of Science]]

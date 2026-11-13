@@ -1,0 +1,101 @@
+{{short description|American biologist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Nancy Allbritton
+| honorific_suffix  = 
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| fields            = Biomedical Engineering
+| workplaces        = [[University of Washington]] [[University of North Carolina at Chapel Hill]] and [[North Carolina State University]]
+| patrons           = 
+| education         = [[Louisiana State University]] ([[Bachelor of Science|BS]])<br />[[Johns Hopkins University]] ([[Doctor of Medicine|MD]])<br />[[Massachusetts Institute of Technology]] ([[Doctor of Philosophy|PhD]])
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Single-cell analysis
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+| image             = Nancy Allbritton.jpg
+}}
+
+'''Nancy L. Allbritton''' is a Professor of Bioengineering and  the Frank & Julie Jungers Dean of the College of Engineering at the [[University of Washington]].<ref name="Holtz"/> She was previously a Kenan Professor and Chair in the Joint Department of Biomedical Engineering at the [[University of North Carolina at Chapel Hill]] and [[North Carolina State University]].<ref name="Cellmicrosystems.com">{{cite web |url=https://cellmicrosystems.com/meet-the-team/ |title=Meet the Team &#124; Single-Cell Isolation and Recovery |publisher=Cellmicrosystems.com |date= |access-date=2017-05-01 |archive-date=2020-10-21 |archive-url=https://web.archive.org/web/20201021080447/https://cellmicrosystems.com/meet-the-team/ }}</ref>
+
+She is best known for her work in single-cell analysis. Using engineering methods, Allbritton creates tools for better understanding and manipulating living cells and tissues. Microengineered platforms, microfluidics, and novel biochemical assays enable scientists to study [[cell signaling]] and [[signal transduction]] at the single-cell level.<ref name="UCDavis">{{cite web |date=October 30, 2014 |title=Distinguished Seminar Series: Nancy Allbritton, Professor and Chair Department of Biomedical Engineering University of North Carolina & North Carolina State University |url=https://bme.ucdavis.edu/events/distinguished-seminar-series-nancy-allbritton-professor-chair-department-biomedical-engineering-university-north-carolina-north-carolina-state-university/ |access-date=2 August 2018 |website=UCDavis Biomedical Engineering}}</ref>
+
+==Education==
+Allbritton received a [[Bachelor of Science|bachelor of science]] with a major in physics from [[Louisiana State University]] in 1979. She received a [[Doctor of Medicine|doctor of medicine]] from [[Johns Hopkins University]] in 1985 and a [[Doctor of Philosophy|doctor of philosophy]] in medical physics and medical engineering from the [[Massachusetts Institute of Technology]] in 1987.<ref>{{Cite web |date=2020-04-27 |title=Nancy Allbritton {{!}} UW Bioengineering |url=https://bioe.uw.edu/portfolio-items/nancy-allbritton/ |access-date=2022-10-06 |language=en-US}}</ref> 
+
+== Career ==
+Allbritton was a [[Postdoctoral researcher|postdoctoral fellow]] at [[Stanford University]] from 1989 to 1994.<ref name="Washington" /> She then became a Professor at the [[University of California, Irvine]], teaching in the departments of Physiology and Biophysics, Biomedical Engineering, Chemistry, Chemical Engineering and Materials Science. She remained at UC Irvine for 13 years, from 1994-2007.<ref name="Washington">{{cite web |title=Nancy Allbritton |url=https://www.engr.washington.edu/facultyfinder/nancy-allbritton |website=College of Engineering |publisher=University of Washington |access-date=8 September 2021}}</ref>
+
+In 2007 Allbritton joined the University of North Carolina at Chapel Hill, becoming a Kenan Distinguished Professor.  From 2009-2019 she was the Chair of the Joint Department of Biomedical Engineering at the University of North Carolina at Chapel Hill and North Carolina State University.<ref name="Cellmicrosystems.com"/> 
+She has held faculty appointments in Chemistry, Pharmacology and Applied Physical Sciences at UNC, and in the Department of Materials Science and Engineering at NC State.<ref name="Lancaster">{{cite news |last1=Lancaster |first1=Brent |title=Allbritton leaving Joint Department of Biomedical Engineering |url=https://www.engr.ncsu.edu/news/2019/08/23/allbritton-leaving-joint-department-of-biomedical-engineering/ |access-date=8 September 2021 |work=College of Engineering News |publisher=NC State University |date=August 23, 2019}}</ref>
+
+As of November 1, 2019, Allbritton became a Professor of Bioengineering and the Frank & Julie Jungers Dean of Engineering at the University of Washington College of Engineering.<ref name="AIChE">{{cite web |title=Nancy L. Allbritton |url=https://www.aiche.org/community/bio/nancy-l-allbritton |website=American Institute of Chemical Engineers |date=26 May 2020 |access-date=8 September 2021}}</ref><ref name="Holtz">{{Cite web|title=Dr. Nancy Allbritton named dean of UW's College of Engineering  |first=Jackson |last= Holtz August 13, 2019|date=August 13, 2019 |url=https://www.washington.edu/news/2019/08/13/dr-nancy-allbritton-named-dean-of-uws-college-of-engineering/|access-date=2020-06-24|website=UW News|language=en}}</ref>
+
+Allbritton was appointed a co-[[editor-in-chief|editor]] of the ''[[Annual Review of Analytical Chemistry]]'' in 2021.<ref name="directory">{{cite web| url=https://www.annualreviews.org/db/directory?0000,anchem| website=Annual Reviews| title=Annual Review of Analytical Chemistry, Current Editorial Committee| access-date=9 July 2021}}</ref>
+
+==Research interests==
+Allbritton's interest in single-cell analysis have hinged on the use of [[capillary electrophoresis]] (CE) and microfabricated technologies. Through this work she has studied lipid signaling at the single-cell level, the isolation cytotoxic T-cells with specific properties, and the capture of colonic crypts. In the [[organ-on-a-chip]] field,<ref name="Ma">{{cite journal |last1=Ma |first1=Chao |last2=Peng |first2=Yansong |last3=Li |first3=Hongtong |last4=Chen |first4=Weiqiang |title=Organ-on-a-Chip: A New Paradigm for Drug Development |journal=Trends in Pharmacological Sciences |date=February 2021 |volume=42 |issue=2 |pages=119–133 |doi=10.1016/j.tips.2020.11.009|issn=0165-6147  |pmid=33341248 |pmc=7990030 }}</ref>  Allbritton has used fabrication technologies from [[electronics]] and [[microfluidics]] to develop devices that effectively recreate the environment of both the small and [[large intestine]].<ref name="Landhuis">{{cite journal |last1=Landhuis |first1=Esther |title=Microbial chemistry gains fresh focus |journal=Nature |date=26 September 2019 |volume=573 |issue=7775 |pages=615–616 |doi=10.1038/d41586-019-02853-5 |pmid=31551561 |bibcode=2019Natur.573..615L |doi-access=free }}</ref><ref name="Organs">{{cite news |title=Researchers awarded $5.3 million to develop novel gut-on-a-chip technology |url=https://college.unc.edu/2015/10/gut-on-a-chip-technology/ |access-date=8 September 2021 |work=UNC College of Arts & Sciences |date=October 12, 2015}}</ref>  These include micro [[total analysis system]]s<ref name="Zhuang">{{cite journal |last1=Zhuang |first1=Jianjian |last2=Yin |first2=Juxin |last3=Lv |first3=Shaowu |last4=Wang |first4=Ben |last5=Mu |first5=Ying |title=Advanced "lab-on-a-chip" to detect viruses – Current challenges and future perspectives |journal=Biosensors and Bioelectronics |date=September 2020 |volume=163 |article-number=112291 |doi=10.1016/j.bios.2020.112291 |pmid=32421630 |pmc=7215165 }}</ref><ref name="Kovarik">{{cite journal |last1=Kovarik |first1=Michelle L. |last2=Ornoff |first2=Douglas M. |last3=Melvin |first3=Adam T. |last4=Dobes |first4=Nicholas C. |last5=Wang |first5=Yuli |last6=Dickinson |first6=Alexandra J. |last7=Gach |first7=Philip C. |last8=Shah |first8=Pavak K. |last9=Allbritton |first9=Nancy L. |title=Micro Total Analysis Systems: Fundamental Advances and Applications in the Laboratory, Clinic, and Field |journal=Analytical Chemistry |date=15 January 2013 |volume=85 |issue=2 |pages=451–472 |doi=10.1021/ac3031543 |pmid=23140554 |pmc=3546124 |bibcode=2013AnaCh..85..451K }}</ref> and [[microraft]] arrays.<ref name="Smiddy">{{cite journal |last1=Smiddy |first1=Nicole M. |last2=DiSalvo |first2=Matthew |last3=Allbritton-King |first3=Jules D. |last4=Allbritton |first4=Nancy L. |title=Microraft array-based platform for sorting of viable microcolonies based on cell-lethal immunoassay of intracellular proteins in microcolony biopsies |journal=The Analyst |date=2020 |volume=145 |issue=7 |pages=2649–2660 |doi=10.1039/D0AN00030B |pmid=32048684 |pmc=7117799 |bibcode=2020Ana...145.2649S }}</ref>  In the area of [[dielectrophoresis]] (DEP), Allbritton's lab works on the  transfer of DEP-based systems out of laboratories and into clinical use.<ref name="Çağlayan">{{cite journal |last1=Çağlayan |first1=Zeynep |last2=Demircan Yalçın |first2=Yağmur |last3=Külah |first3=Haluk |title=A Prominent Cell Manipulation Technique in BioMEMS: Dielectrophoresis |journal=Micromachines |date=3 November 2020 |volume=11 |issue=11 |page=990 |doi=10.3390/mi11110990 |pmid=33153069 |pmc=7693018 |doi-access=free }}</ref>
+
+==Awards==
+* 1982-1985: Health Sciences and Technology Fellowship, Massachusetts Institute of Technology<ref>{{cite web |title=Nancy Allbritton |url=https://unclineberger.org/itcms/directory/nancy-allbritton/ |website=UNC Lineberger |access-date=8 September 2021}}</ref>
+* 1995: [[Searle Scholar Award]]<ref>{{Cite web|url=https://searlescholars.net/person/197|title=Searle Scholars Program: Nancy L. Allbritton (1995)|website=searlescholars.net|access-date=2019-04-19}}</ref>
+*1995: [[Beckman Young Investigators Award|Beckman Young Investigator Award]]<ref>{{cite web |title=Nancy Allbritton |url=http://www.beckman-foundation.org/beckman-young-investigators/nancy-allbritton |website=Arnold and Mabel Beckman Foundation |access-date=1 August 2018 |archive-url=https://web.archive.org/web/20180802041101/http://www.beckman-foundation.org/beckman-young-investigators/nancy-allbritton |archive-date=2 August 2018 }}</ref>
+*2003-2004: Distinguished Mid-Career Faculty Award for Research, University of California, Irvine<ref name="Senate">{{cite web |title=Academic Senate - Irvine Division - Committee on Scholarly Honors and Awards |url=https://cpb-us-e2.wpmucdn.com/sites.uci.edu/dist/e/1492/files/2016/08/PastSenAwrdLst.pdf |website=[[University of California, Irvine]] |access-date=8 September 2021}}</ref>
+*2009: Mary K. and Velmer A. Fassel Award,  [[Iowa State University]]<ref>{{cite web|url=https://unclineberger.org/people/nancy-allbritton|title=Nancy Allbritton|publisher= UNC Lineberger|access-date=April 12, 2017}}</ref>
+* 2015: NIH Director's Transformative Award, [[National Institutes of Health]]<ref>{{cite web |title=NIH Director's Transformative Research Award Recipients 2015 Awardees |url=https://commonfund.nih.gov/tra/recipients15 |archive-url=https://web.archive.org/web/20160114125634/http://commonfund.nih.gov/TRA/Recipients15 |archive-date=January 14, 2016 |website=National Institutes of Health |date=18 September 2018 |access-date=8 September 2021}}</ref>
+* 2016:  Award in Chemical Instrumentation, [[American Chemical Society|ACS]] Division of Analytical Chemistry<ref>{{cite news |title=Chemical Instrumentation |url=https://acsanalytical.org/awards-resources/national-acs-awards/chemical-instrumentation/ |website=ACS Division of Analytical Chemistry |date=12 July 2017 |access-date=8 September 2021}}</ref>
+* 2017: Edward Kidder Graham Leadership Award, UNC<ref>{{cite web |title=Edward Kidder Graham Faculty Service Award |url=https://facultygov.unc.edu/awards/edward-kidder-graham-award/ |website=Office of Faculty Governance at the University of North Carolina at Chapel Hill |access-date=8 September 2021}}</ref>
+* 2017: Innovator of the Year, UNC-Chapel Hill<ref>{{cite news |title=Allbritton named 2017 UNC-Chapel Hill Inventor of the Year |url=https://college.unc.edu/2017/06/allbritton-inventor/ |access-date=8 September 2021 |work=UNC College of Arts & Sciences |date=June 16, 2017}}</ref>
+* 2020: Ralph N. Adams Award in Bioanalytical Chemistry, [[Pittcon]]<ref name="Delonas">{{cite web |last1=Delonas |first1=Cindy |title=Nancy L. Allbritton Wins Ralph N. Adams Award |url=https://www.chromatographyonline.com/view/nancy-l-allbritton-wins-ralph-n-adams-award |website=LCGC |access-date=8 September 2021|date=February 27, 2020}}</ref>
+*2021: Pritzker Distinguished Lecture Award, [[Biomedical Engineering Society]]<ref name="Pritzker">{{cite news |title=BME Chair Emeritus Nancy Allbritton to Receive 2021 Pritzker Distinguished Lecture Award |url=https://bioe.uw.edu/nancy-allbritton-to-receive-2021-pritzker-distinguished-lecture-award/ |access-date=8 September 2021 |work=Joint Department of Biomedical Engineering |publisher=University of North Carolina, North Carolina State University |date=May 14, 2021}}</ref>
+
+==Patents==
+*"Fast controllable laser lysis of cells for analysis" Nancy L. Allbritton, Christopher E. Sims, Michael W. Berns, Gavin D. Meredith, Tatiana B. Krasieva, Bruce J. Tromberg U.S. Patent No. US6156576A
+*"Method and apparatus for detecting enzymatic activity using molecules that change electrophoretic mobility" Nancy L. Allbritton, Christopher E. Sims, Michael W. Berns, Gavin D. Meredith, Tatiana B. Krasieva, Bruce J. Tromberg U.S. Patent No. 6335201B1
+*"Method to measure the activation state of signaling pathways in cells" Nancy Allbritton, Christopher Sims U.S. Patent No. 7236888B2
+*"Chemical modifications to polymer surfaces and the application of polymer grafting to biomaterials" Nancy Allbritton, Christopher Sims, Guann-Pyng Li, Mark Bachman, Shuwen Hu, Xueqin Ren U.S. Patent No. 20050237480A1
+*"Systems and methods for efficient collection of single cells and colonies of cells and fast generation of stable transfectants" Nancy Allbritton, Christopher E. Sims, Yuli Wang, Mark Bachman, Guann-Pyng Li, Eric Stanbridge  U.S. Patent No. 7759119B2 
+*"Method and device for cell selection and collection in an isolated culturing environment" Nancy Allbritton, Christopher Sims, Wei Xu U.S. Patent No. 20110294208A1
+*"Array of micromolded structures for sorting adherent cells" Nancy Allbritton, Christopher Sims, Yuli Wang, Pavak Kirit Shah U.S. Patent No. 9068155B2
+
+==References==
+{{reflist}}
+
+== External links ==
+*[https://www.engr.washington.edu/about/officedean Office of the Dean, University of Washington]
+*[https://www.bme.unc.edu/ Joint Department of Biomedical Engineering]
+*[https://www.unc.edu/ University of North Carolina at Chapel Hill]
+*[https://www.ncsu.edu/ North Carolina State University]
+
+{{authority control}}
+
+{{DEFAULTSORT:Allbritton, Nancy}}
+[[Category:Living people]]
+[[Category:American biomedical engineers]]
+[[Category:20th-century American engineers]]
+[[Category:20th-century American women scientists]]
+[[Category:21st-century American biologists]]
+[[Category:MIT School of Engineering alumni]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American academics]]
+[[Category:Annual Reviews (publisher) editors]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:Johns Hopkins School of Medicine alumni]]
+[[Category:Louisiana State University alumni]]
+[[Category:21st-century American women biologists]]

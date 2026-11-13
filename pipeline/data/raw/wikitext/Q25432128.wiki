@@ -1,0 +1,82 @@
+{{Short description|Spanish statistical physicist}}
+{{Infobox scientist
+| name = Marta Sales-Pardo
+| image = 
+| image_size = 
+| caption = 
+| birth_date = 
+| birth_place = 
+| death_date = 
+| death_place = 
+| education  = {{plainlist|1=
+*[[University of Barcelona]] <small>(BS)</small>
+*[[University of Barcelona]] <small>(PhD)</small>
+}}
+| citizenship = 
+| fields = {{plainlist|1=
+*[[Network science]]
+*[[Computational biology]]
+*[[Complex systems]]
+}}
+| workplaces = {{plainlist|1=
+*[[Northwestern University]]
+*[[Universitat Rovira i Virgili]]
+}}
+| thesis_title = 
+| thesis_url = 
+| thesis_year = 
+| doctoral_advisor = [[Felix Ritort]]
+| doctoral_students = 
+| known_for = 
+| awards = [[Fulbright scholar]]
+}}
+
+'''Marta Sales-Pardo''' (born 1976) is a Spanish [[statistical physics|statistical physicist]], [[complex systems]] scientist, and [[network science|network scientist]]. She is an associate professor at [[Rovira i Virgili University]], in the Department of Chemical Engineering.{{r|sage}} She is notable for her contributions to [[complex network]]s, where she has studied both social and biochemical systems, especially the contribution of each node or individual to the overall network. Her research has earned several mentions in the Fulbright Program{{r|seesbio}} and the ICREA Program,{{r|icrea}} among others.
+
+== Education and career ==
+
+Sales-Pardo earned a Bachelors of Science in physics from the [[University of Barcelona]] in 1998. She then earned a PhD in physics from the [[University of Barcelona]] in 2002, advised by [[Felix Ritort]]. In 2003, she became a post-doctoral fellow at the Chemical and Biological Engineering Department at [[Northwestern University]]. She obtained the [[Fulbright scholarship]] in 2004 for two years, and in 2008 became a research assistant professor at [[Northwestern University]]. Since 2010, she has been an associate professor at [[Rovira i Virgili University]].{{r|bio}}
+
+==Research==
+
+Sales-Pardo is most well known for her studies on complex networks, including a paper studying the statistical significance of modularity in randomly-generated complex networks.{{r|paper_modularity}} Her most cited works discuss how to mine data from large complex networks accurately, successfully capturing the properties of the mined distribution.{{r|paper_spurious}}{{r|paper_extracting}}
+
+==Recognition==
+In 2021, Sales-Pardo was named a [[Fellows of the Network Science Society|Fellow of the Network Science Society]], "for her contributions to the understanding of the organisation of large-scale networks and the development of generative models and inference methodologies for complex networks". She was the first Spanish woman to win this honor.{{r|nss}}
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+<references>
+
+<ref name=sage>{{citation|url=https://methods.sagepub.com/video/marta-sales-pardo-discusses-complex-systems-and-network-science|title=Marta Sales Pardo Discusses Complex Systems & Network Science|publisher=SAGE Research Methods|access-date=2020-12-13}}</ref>
+
+<ref name=bio>{{citation|url=https://amaral.northwestern.edu/people/sales-pardo/|title=Marta Sales-Pardo|publisher=Northwestern University|access-date=2020-12-13}}</ref>
+
+<ref name=nss>{{citation|url=https://diaridigital.urv.cat/en/the-network-science-society-recognises-the-research-on-networks-of-the-physicist-marta-sales-pardo/|title=The Network Science Society recognises the research on networks of the physicist Marta Sales Pardo|publisher=University of Rovira i Virgili|date=12 July 2021|access-date=2022-02-26}}</ref>
+
+<ref name=seesbio>{{citation|url=https://seeslab.info/researchers/sales-pardo/|title=Marta Sales-Pardo|publisher=Science and Engineering of Emerging Systems Lab|access-date=2020-12-13}}</ref>
+
+<ref name=icrea>{{citation|url=https://memoir.icrea.cat/2017/academia_awardees/sales-pardo-marta/|title=Marta Sales-Pardo|publisher=Catalan Institution for Research and Advanced Studies|access-date=2020-12-13}}</ref>
+
+<ref name=paper_spurious>{{citation|last1=Guimera |first1=Roger |last2=Sales-Pardo |first2=Marta |title=Missing and spurious interactions and the reconstruction of complex networks |journal=PNAS |year=2009 |volume= 106|issue= 52|pages=22073–22078 |doi= 10.1073/pnas.0908366106|pmid=20018705 |pmc=2799723 |arxiv=1004.4791 |bibcode=2009PNAS..10622073G |s2cid=47399 |doi-access=free }}</ref>
+
+<ref name=paper_extracting>{{citation|last2=Guimera |first2=Roger |last1=Sales-Pardo |first1=Marta |title=Extracting the hierarchical organization of complex systems|journal=PNAS |year=2007 |volume= 104|issue= 39|pages= 15224–9|doi= 10.1073/pnas.0703740104|pmid=17881571 |pmc=2000510 |arxiv=0705.1679 |bibcode=2007PNAS..10415224S |doi-access=free }}</ref>
+
+<ref name=paper_modularity>{{citation|last1=Guimera |first1=Roger |last2=Sales-Pardo |first2=Marta |date=August 19, 2004 |title=Modularity from fluctuations in random graphs and complex networks |journal=Physical Review|volume= 70|issue= 2|article-number=025101 |doi= 10.1103/PhysRevE.70.025101|pmid=15447530 |pmc=2441765 |arxiv=cond-mat/0403660 |bibcode=2004PhRvE..70b5101G }}</ref>
+
+</references>
+
+==External links==
+*[https://seeslab.info/researchers/sales-pardo/ Home page] (SEES lab)
+*{{Google Scholar id|kZ5cedgAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sales-Pardo, Marta}}
+[[Category:Living people]]
+[[Category:Spanish physicists]]
+[[Category:Spanish women physicists]]
+[[Category:University of Barcelona alumni]]
+[[Category:Academic staff of the University of Rovira i Virgili]]
+[[Category:1976 births]]
+[[Category:Women systems scientists]]

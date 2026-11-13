@@ -1,0 +1,38 @@
+{{Infobox scientist
+| name              = Ove Christiansen
+| birth_date        = {{birth date and age|1969|11|13|df=y}}
+| birth_place       = [[Holstebro]], Denmark
+| fields            = [[Chemistry]] ([[Theoretical chemistry]])
+| workplaces        = [[Aarhus University]]
+| doctoral_advisor  = [[Poul Jørgensen (chemist)|Poul Jørgensen]]
+}}
+
+'''Ove Christiansen''' (born November 13, 1969) is professor of chemistry at the Department of Chemistry, [[Aarhus University]] (AU),<ref>{{cite web|url=http://chem.au.dk/forskning/forskningsomraader/teoretiskkemi/midas/ |title=Midas Group|publisher=au.dk}}</ref> Denmark. He is contributor to the [[DALTON]] program package <ref>{{Cite web | url=https://daltonprogram.org/authors/ | title=Dalton/LSDalton program - Authors }}</ref> and initiated the [[MidasCpp]] (Molecular Interactions Dynamics and Simulations in [[C++]]) program <ref>https://midascpp.gitlab.io</ref> for the accurate description of nuclear dynamics with means of Coupled Cluster Theory.
+
+==Research==
+Ove Christiansen made important contributions to [[electronic structure]] theory by introducing the CC2 and CC3 method and by establishing a hierarchy of [[Coupled cluster]] electronic structure models: CCS, CC2, CCSD, CC3, etc..<ref>{{Cite journal|last1=Christiansen|first1=O.|last2=Koch|first2=J.|last3=Jørgensen|first3=P.|title=The second-order approximate coupled cluster singles and doubles model CC2|journal=Chem. Phys. Lett.|volume=234|page=409|year=1995|issue=5–6|doi=10.1016/0009-2614(95)00841-Q|bibcode=1995CPL...243..409C}}</ref>
+He introduced contributions to response theory for the purpose of describing electronic excited states.<ref>{{Cite journal|last1=Christiansen|first1=O.|last2=Jørgensen|first2=P.|last3=Hättig|first3=C.|title=Response functions from Fourier component variational perturbation theory applied to a time-averaged quasienergy|journal=Int. J. Quantum Chem.|volume=68|page=1 |year=1998|doi=10.1002/(SICI)1097-461X(1998)68:1<1::AID-QUA1>3.0.CO;2-Z}}</ref> Later he changed the emphasis of his main research interest towards [[Molecular vibration|vibrational structure theory]] and defined a variant of vibrational Coupled cluster (VCC) and developed the theoretical machinery for automatic derivation and implementation of VCC.<ref>{{Cite journal|last1=Christiansen|first1=O.|title=Vibrational coupled cluster theory |journal=J. Chem. Phys.|volume=120|year=2004|issue=5|pages=2149–59|doi=10.1063/1.1637579|pmid=15268353|bibcode=2004JChPh.120.2149C}}</ref> Moreover, he defined vibrational response theory for various wave function types. All these progress is assembled in the publicly available MidasCpp program suite [https://midascpp.gitlab.io].
+
+==Academic career==
+
+Ove Christiansen received his PhD in Theoretical Chemistry under the supervision of Prof. [[Poul Jørgensen (chemist)|Poul Jørgensen]] at [[Aarhus University]] Denmark in 1997. Afterwards he joined from 1997 to 1999 as Alexander von Humboldt fellow the group of Prof. [[Jürgen Gauß]] in Mainz Germany and later went to the [[University of Lund]] in Sweden, where he became a [[Docent]] in 2000. In 2002 he returned to Aarhus University as associate professor, became Professor MSO (Professor with special obligations) in 2013 and was promoted to a full Professor in 2018.<ref>[https://pure.au.dk/portal/en/persons/ove-christiansen(a6653cc1-29c3-420c-a5ab-cb35eed06fab)/cv.html?id=44902690 CV of Ove Christansen @ au.dk]</ref>
+
+==Awards==
+
+* 2013: EliteForsk award<ref>{{cite web|url=https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2013/ove-christiansen |title=EliteForsk award 2013}}</ref>
+* 2006: [[EURYI|EURYI Award]]<ref>{{cite web|url=http://archives.esf.org/coordinating-research/euryi/awards/2006/ove-christiansen.html |title=EURYI award 2006}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Christiansen, Ove}}
+[[Category:1969 births]]
+[[Category:Living people]]
+
+[[Category:Theoretical chemists]]
+[[Category:Danish chemists]]
+[[Category:Academic staff of Aarhus University]]
+[[Category:Computational chemists]]
+[[Category:People from Holstebro]]

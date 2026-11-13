@@ -1,0 +1,126 @@
+{{short description|French, German, and Israeli researcher in quantum computing}}
+[[File:Julia Kempe.jpg|thumb|Julia Kempe]]
+'''Julia Kempe''' is a French, German, and Israeli researcher in [[quantum computing]].{{r|feo}} She is currently the Director of the [[New York University Center for Data Science]] and Professor at the [[Courant Institute of Mathematical Sciences|Courant Institute]].{{r|cds}}
+
+==Education and career==
+Kempe was born in [[East Berlin]], to a family of Russian descent.{{r|cim}} She moved to Austria in 1990,{{r|pain}} and did her undergraduate studies in mathematics and physics at the [[University of Vienna]] from 1992 to 1995, with a year as an exchange student in physics at the [[University of Technology Sydney]]. She then earned two [[Master of Advanced Studies]] (DEA) degrees in France: one in mathematics in 1996 from [[Pierre and Marie Curie University]] and another in 1997 in physics from the ''[[École normale supérieure]]''. She completed two doctorates in 2001. The dissertation for her Ph.D. in computer science from the ''[[Télécom ParisTech|École nationale supérieure des télécommunications]]'' was entitled ''Quantum Computing: Random Walks and Entanglement'', and was supervised by Gérard Cohen. Her second Ph.D., in mathematics, was from the [[University of California, Berkeley]], with a dissertation entitled ''Universal Noiseless Quantum Computation: Theory and Applications'' and was jointly supervised by [[Elwyn Berlekamp]] and chemist [[K. Birgitta Whaley]].{{r|cv}}
+
+She joined CNRS at the [[University of Paris-Sud]] in 2001
+(overlapping with postdoctoral studies at Berkeley and the Berkeley [[Mathematical Sciences Research Institute]]), joined the [[Tel Aviv University]] faculty in 2007{{r|tau}}, and moved her CNRS position from Paris-Sud to Paris Diderot in 2010.{{r|cv}}.  Between 2011 and 2018 she was a researcher in finance.{{r|cv}} She became director of the Center of Data Science at NYU and a professor at the [[Courant Institute of Mathematical Sciences|Courant Institute]] in September 2018.{{r|cds}}
+
+==Awards and honors==
+In 2006, Kempe won the bronze medal of CNRS and the [[Irène Joliot-Curie Prize]] of the French government.{{r|cim|pijc}} In 2009 she won the Krill Prize of the [[Wolf Foundation]],{{r|krill}} and in 2010 she won the ''Trophée des femmes en or'' (English: {{ill|"Women in Gold" trophy|fr|Trophée des femmes en or}} ) for her research.{{r|feo}} In 1998 she received a reward from ''[[Studienstiftung|Studienstiftung des Deutschen Volkes]]'' (English: "German Academic Scholarship Foundation") which was awarded to only 0.25% of students at the time.{{Ref|doj|[10]|noid=doj}} She became a knight in the [[National Order of Merit (France)|National Order of Merit]] in 2010.{{r|cv}} In 2018, she was elected to the [[Academia Europaea]].{{r|ae}}
+
+==Selected publications==
+*{{citation
+ | last1 = DiVincenzo | first1 = D. P. | author1-link = David DiVincenzo
+ | last2 = Bacon | first2 = D.
+ | last3 = Kempe | first3 = J.
+ | last4 = Burkard | first4 = G.
+ | last5 = Whaley | first5 = K. B.
+ | arxiv = quant-ph/0005116
+ | bibcode = 2000Natur.408..339D
+ | year = 2000
+ | doi = 10.1038/35042541
+ | journal = [[Nature (journal)|Nature]]
+ | pages = 339–342
+ | pmid = 11099036
+ | title = Universal quantum computation with the exchange interaction
+ | volume = 408| issue = 6810 | s2cid = 4326729 }}.
+*{{citation
+ | last1 = Kempe | first1 = J.
+ | last2 = Bacon | first2 = D.
+ | last3 = Lidar | first3 = D. A. | author3-link = Daniel Lidar
+ | last4 = Whaley | first4 = K. B.
+ | arxiv = quant-ph/0004064
+ | doi = 10.1103/physreva.63.042307
+ | issue = 4
+ | article-number = 042307
+ | journal = [[Physical Review A]]
+ | title = Theory of decoherence-free fault-tolerant universal quantum computation
+ | volume = 63
+ | year = 2001| bibcode = 2001PhRvA..63d2307K| s2cid = 44200695
+ }}.
+*{{citation
+ | last = Kempe | first = J.
+ | year = 2003
+ | arxiv = quant-ph/0303081
+ | doi = 10.1080/00107151031000110776
+ | issue = 4
+ | journal = [[Contemporary Physics]]
+ | pages = 307–327
+ | title = Quantum random walks: An introductory overview
+ | volume = 44| bibcode = 2003ConPh..44..307K
+ | s2cid = 17300331
+ }}.
+*{{citation
+ | last1 = Shenvi | first1 = Neil
+ | last2 = Kempe | first2 = Julia
+ | last3 = Whaley | first3 = K. Birgitta
+ | arxiv = quant-ph/0210064
+ | doi = 10.1103/physreva.67.052307
+ | issue = 5
+ | article-number = 052307
+ | journal = [[Physical Review A]]
+ | title = Quantum random-walk search algorithm
+ | volume = 67
+ | year = 2003| bibcode = 2003PhRvA..67e2307S| s2cid = 8688989
+ }}.
+*{{citation
+ | last1 = Aharonov | first1 = Dorit | author1-link = Dorit Aharonov
+ | last2 = van Dam | first2 = Wim
+ | last3 = Kempe | first3 = Julia
+ | last4 = Landau | first4 = Zeph
+ | last5 = Lloyd | first5 = Seth | author5-link = Seth Lloyd
+ | last6 = Regev | first6 = Oded | author6-link = Oded Regev (computer scientist)
+ | arxiv = quant-ph/0405098
+ | doi = 10.1137/S0097539705447323
+ | issue = 1
+ | journal = [[SIAM Journal on Computing]]
+ | mr = 2306288
+ | pages = 166–194
+ | title = Adiabatic quantum computation is equivalent to standard quantum computation
+ | volume = 37
+ | year = 2007}}. Revised, ''[[SIAM Review]]'' 50 (4): 755–787, 2008, {{MR|2460803}}
+
+==References==
+<references>
+
+<ref name="ae">{{citation|url=https://www.ae-info.org/ae/Member/Kempe_Julia|title=Julia Kempe|work=Member profiles|publisher=Academia Europaea|access-date=2020-10-08}}</ref>
+<ref name="cim">{{citation|magazine=CNRS International Magazine|title=Julia Kempe, Quantum Mechanic|url=http://www2.cnrs.fr/en/969.htm|first=Patricia|last=Chairopoulos|volume=7|date=July 2007|archive-url=https://web.archive.org/web/20190108030217/http://www2.cnrs.fr/en/969.htm|archive-date=2019-01-08}}</ref>
+<ref name="cds">{{citation|url=https://medium.com/center-for-data-science/dr-julia-kempe-appointed-as-director-of-the-nyu-center-for-data-science-9b401bd73ee1|title=Dr. Julia Kempe appointed as Director of the NYU Center for Data Science|publisher=NYU Center for Data Science|access-date=2018-11-24|date=2018-04-26}}</ref>
+<ref name="cv">{{citation|url=https://cims.nyu.edu/~kempe/pdf/cv.pdf|title=Curriculum vitae|access-date=2018-10-15}}</ref>
+<ref name="feo">{{citation|url=http://www2.cnrs.fr/presse/communique/1908.htm|title=Julia Kempe élue Femme en Or de la recherche 2010|date=June 8, 2010|publisher=CNRS|access-date=2017-07-20|language=French|archive-url=https://web.archive.org/web/20180825165258/http://www2.cnrs.fr/presse/communique/1908.htm|archive-date=2018-08-25}}</ref>
+<ref name="krill">{{citation|url=http://www.wolffund.org.il/index.php?dir=site&page=winners&cs=545&language=eng|title=Dr. Julia Kempe Winner of Krill Prize in Science - 2009|publisher=[[Wolf Foundation]]|access-date=2017-07-20}}</ref>
+<ref name="pain">{{citation|last=Pain|first=Elisabeth|title=Still learning|journal=[[Science (journal)|Science]]|date=May 11, 2007|doi=10.1126/science.caredit.a0700067|s2cid=219240638 |url=https://www.science.org/content/article/still-learning|url-access=subscription}}</ref>
+<ref name="pijc">{{citation|title=Cinquième édition du Prix Irène Joliot-Curie|url=http://www.enseignementsup-recherche.gouv.fr/cid20476/cinquieme-edition-du-prix-irene-joliot-curie.html|publisher=Ministère de l'Enseignement supérieur de la Recherche et de l'Innovation|access-date=2017-07-20|language=French}}</ref>
+<ref name="tau">{{citation|title=Prof. Julia Kempe|url=https://physics.tau.ac.il/profile/kempe_48|publisher=Raymond & Beverly Sackler Faculty of Exact Sciences, Tel Aviv University|access-date=2017-07-20}}</ref>
+
+</references>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kempe, Julia}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:21st-century German mathematicians]]
+[[Category:21st-century German physicists]]
+[[Category:German computer scientists]]
+[[Category:21st-century French mathematicians]]
+[[Category:21st-century French physicists]]
+[[Category:French computer scientists]]
+[[Category:21st-century French women mathematicians]]
+[[Category:German women physicists]]
+[[Category:French women computer scientists]]
+[[Category:German women computer scientists]]
+[[Category:German people of Russian descent]]
+[[Category:People from East Berlin]]
+[[Category:University of Vienna alumni]]
+[[Category:Pierre and Marie Curie University alumni]]
+[[Category:École normale supérieure (Paris) alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:New York University faculty]]
+[[Category:Knights of the Ordre national du Mérite]]
+[[Category:Quantum information scientists]]
+[[Category:Members of Academia Europaea]]
+[[Category:21st-century French women physicists]]

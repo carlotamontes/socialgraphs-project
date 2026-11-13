@@ -1,0 +1,56 @@
+{{short description|American computer scientist}}
+
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = Anthony C. Hearn
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| residence         = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[Particle physics]]<br />[[Computer science]]
+| workplaces        = [[Stanford University]]<br />[[Rutherford Laboratory]]<br />[[University of Utah]]<br />[[RAND Corporation]]
+| education         = [[University of Adelaide]]<br />[[University of Cambridge]]
+| doctoral_advisor  = 
+| thesis_title      = 
+| thesis_year       = 
+| thesis_url        = 
+| doctoral_students = 
+| known_for         = Gerasimov-Drell-Hearn sum rule<br />[[Reduce (computer algebra system)|REDUCE]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = {{Plainlist|
+* Fellow, [[Association for Computing Machinery]] {{small|(2006)}}
+* [[Jonathan B. Postel Service Award]] {{small|(2009)}}
+}}
+| footnotes         = 
+| spouse            = 
+}}
+'''Anthony C. Hearn''' was an Australian-American computer scientist and adjunct staff member at [[RAND Corporation]] and at the [[Institute for Defense Analyses]] Center for Computing Sciences.<ref name="randprof">{{cite web|title=Anthony C. Hearn - Profile|url=https://www.rand.org/about/people/h/hearn_anthony_c.html|website=RAND Corporation|accessdate=24 August 2017|language=en}}</ref> He was best known for his pioneering contributions in mathematical software development, most notably in developing the [[computer algebra system]] [[Reduce (computer algebra system)|REDUCE]], the oldest such system still in active use.<ref>{{cite web|title=Computer Science History|url=http://www.cs.utah.edu/~rma/hci/cs/cs-history.html|url-status=dead|archive-url=https://web.archive.org/web/20001210085700/http://www.cs.utah.edu/~rma/hci/cs/cs-history.html|archive-date=10 December 2000|website=School of Computing|publisher=University of Utah via Wayback Machine|accessdate=24 August 2017|language=en}}</ref> He was also one of the founders of the [[CSNET]] computer network, for which he shared the [[Jonathan B. Postel Service Award]] with [[Peter J. Denning]], [[David Farber]], and [[Lawrence Landweber]] in 2009.<ref>{{cite web|last1=Wood|first1=Greg|title=Trailblazing CSNET Network Receives 2009 Jonathan B. Postel Service Award|url=https://www.internetsociety.org/news/trailblazing-csnet-network-receives-2009-jonathan-b-postel-service-award|website=Internet Society|accessdate=24 August 2017|language=en|date=29 July 2009}}</ref> He was elected a Fellow of the [[Association for Computing Machinery]] in 2006 "for contributions to computer algebra and symbolic computation."<ref>{{cite web|title=Anthony C Hearn|url=https://awards.acm.org/award_winners/hearn_1069624|website=Awards|publisher=Association for Computing Machinery|accessdate=24 August 2017|language=en}}</ref> In 2010 he received an honorary Doctor Of Laws degree from Brock University, Ontario, Canada. He received an honorary doctorate from the [[University of Erlangen–Nuremberg]] in Germany on November 30, 2012.<ref>{{cite journal|last1=Strehl|first1=V.|title=Ehrenpromotion in der Computeralgebra|journal=Computeralgebra-Rundbrief|date=2013|volume=27|issue=1|pages=23|doi=10.1007/BF03345871 |url=https://dl.gi.de/server/api/core/bitstreams/bebc13f9-060a-40bc-a72d-ea1217e99e3d/content|accessdate=29 December 2023|language=de|url-access=subscription}}</ref>
+
+==Biography==
+Hearn attended the [[University of Adelaide]] for his bachelor's degree, graduating in 1958. He attended the [[University of Cambridge]] for his PhD in theoretical physics and graduated in 1962. From 1962 to 1964, he was a research associate in physics at [[Stanford University]], returning as an assistant professor and [[Sloan Research Fellowship|Sloan Foundation Fellow]] in 1965 after a year at the [[Rutherford Laboratory]] in England.<ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title=Mangers on the Move |magazine=Computerworld |publisher=IDG Enterprise |volume=15 |issue=3 |issn=0010-4841 |page=24 |date=19 January 1981 }}</ref><ref name="randprof"/> While at Stanford, he worked with [[Sidney Drell]] and formulated the Gerasimov-Drell-Hearn sum rule for connecting the [[Compton scattering]] amplitudes to the inclusive [[Cross section (physics)|photoproduction cross sections]] in particle physics.<ref>{{cite journal|last1=Drechsel|first1=Dieter|last2=Tiator|first2=Lothar|title=The Gerasimov-Drell-Hearn Sum Rule and the Spin Structure of the Nucleon|journal=[[Annual Review of Nuclear and Particle Science]]|date=2004|volume=54|issue=1|pages=69–114|doi=10.1146/annurev.nucl.54.070103.181159|doi-access=free| arxiv=nucl-th/0406059|bibcode=2004ARNPS..54...69D|s2cid=33935254}}</ref> In 1969, he joined the faculty at the [[University of Utah]] as an associate professor of physics and became full professor in 1971. Around this period he began using ideas and tools from computer science to help solve problems symbolically in high energy physics.<ref>{{cite journal|last1=Hearn|first1=Anthony C.|title=Applications of Symbol Manipulation in Theoretical Physics|journal=Commun. ACM|date=1971|volume=14|issue=8|pages=511–516|doi=10.1145/362637.362641|s2cid=2413069 |issn=0001-0782|doi-access=free}}</ref><ref>{{cite journal|last1=Campbell|first1=J. A|last2=Hearn|first2=Anthony C|title=Symbolic analysis of Feynman diagrams by computer|journal=Journal of Computational Physics|date=1 April 1970|volume=5|issue=2|pages=280–327|doi=10.1016/0021-9991(70)90064-1|bibcode=1970JCoPh...5..280C}}</ref><ref>{{cite journal|last1=Fox|first1=John A|last2=Hearn|first2=Anthony C|title=Analytic computation of some integrals in fourth order quantum electrodynamics|journal=Journal of Computational Physics|date=1 March 1974|volume=14|issue=3|pages=301–317|doi=10.1016/0021-9991(74)90055-2|bibcode=1974JCoPh..14..301F}}</ref> From 1973 until 1980, he was professor and chair of the [[University of Utah School of Computing]]. He joined [[RAND Corporation]] in 1980 as head of the Information Sciences Department, where he served until 1984.<ref name="randprof"/> He worked at the [[National Science Foundation]] as a member of the Program Advisory Committee for the Office of Advanced Scientific Computing from 1984 to 1986.<ref>{{cite web|last1=Finkbeiner|first1=Ann|title=National Science Foundation Annual Report|url=http://files.eric.ed.gov/fulltext/ED284736.pdf|accessdate=24 August 2017}}</ref> He was a resident scholar at RAND from 1990 to 1996.<ref name="randprof"/>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hearn, Anthony C.}}
+[[Category:American computer scientists]]
+[[Category:Australian computer scientists]]
+[[Category:University of Adelaide alumni]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Stanford University faculty]]
+[[Category:University of Utah faculty]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:RAND Corporation people]]
+[[Category:Sloan Research Fellows]]
+[[Category:Internet pioneers]]
+[[Category:Year of birth missing (living people)]]

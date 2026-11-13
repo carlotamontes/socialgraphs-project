@@ -1,0 +1,567 @@
+{{Short description|Northern Irish physicist (1928–1990)}}
+{{Other people||John Bell (disambiguation)}}
+{{Use dmy dates|date=February 2020}}
+{{Use British English|date=March 2012}}
+{{Infobox scientist
+| name              = John Stewart Bell
+| honorific_suffix  = {{Post-nominals|country=GBR|FRS|size=100%}}
+| image             = John bell 2 (cropped).png
+| image_size        = 
+| caption           = Bell in 1982
+| birth_name        = John Stewart Bell
+| birth_date        = 28 July 1928
+| birth_place       = [[Belfast]], [[Northern Ireland]], UK
+| death_date        = 1 October 1990 (aged 62)
+| death_place       = [[Geneva]], Switzerland
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| fields            = 
+| workplaces        = [[Atomic Energy Research Establishment]]<br />[[CERN]], [[Stanford University]]
+| education         = [[Queen's University of Belfast]] ([[Bachelor of Science|BSc]])<br />[[University of Birmingham]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[Rudolph E. Peierls]]
+| academic_advisors = [[Paul Taunton Matthews]]<ref name="Whitaker2016"/>{{rp|137}}
+| thesis_title      = Contribution to field theory (i. Time reversal in field theory, ii. Some functional methods in field theory.)
+| thesis_year       = 1956
+| thesis_url        = https://birmingham-primo.hosted.exlibrisgroup.com/permalink/f/vmc2c6/44BIR_ALMA_DS21108951700004871
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Bell's theorem]]<br />[[Bell state]]<br />[[Bell's spaceship paradox]]<br />[[Bell–Kochen–Specker theorem]]<br />[[Chiral anomaly]]<br />[[CPT symmetry]]<br />[[Superdeterminism]]<br />[[Quantum entanglement]]
+| influences        = 
+| influenced        = 
+| awards            = [[Dannie Heineman Prize for Mathematical Physics|Heineman Prize]] (1989)<br />[[Hughes Medal]] (1989)<br /> [[Dirac Medal (IOP)|Paul Dirac Medal and Prize]] (1988)
+| signature         = <!--(filename only)-->
+| footnotes         = 
+}}
+
+'''John Stewart Bell''' (28 July 1928 – 1 October 1990)<ref>{{Cite web |title=Bell, John Stewart {{!}} Encyclopedia.com |url=https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/bell-john-stewart |access-date=2023-04-23 |website=www.encyclopedia.com}}</ref> was a [[physicist]] from [[Northern Ireland]] and the originator of [[Bell's theorem]], an important theorem in [[quantum mechanics|quantum physics]] regarding [[hidden-variable theory|hidden-variable theories]].<ref>{{Cite ODNB |last=Llewellyn Smith |first=C. H. |title=The Oxford Dictionary of National Biography |date=2004-09-23 |url=http://www.oxforddnb.com/view/article/40025 |pages=ref:odnb/40025 |editor-last=Matthew |editor-first=H. C. G. |place=Oxford |doi=10.1093/ref:odnb/40025 |access-date=2022-11-25 |author-link=Christopher Llewellyn Smith |editor2-last=Harrison |editor2-first=B.}}</ref><ref name="Shimony1991">{{cite journal
+ | last1 = Shimony 
+ | first1 = Abner
+ | last2 = Telegdi 
+ | first2 = Valentine
+ | last3 = Veltman 
+ | first3 = Martinus
+ | title = John S. Bell
+ | journal = Physics Today
+ | volume = 44
+ | issue = 8
+ | pages = 82–86
+ | year = 1991
+ | doi = 10.1063/1.2810223
+ | bibcode = 1991PhT....44h..82S
+| doi-access = free
+ }}</ref><ref name="mactutor">{{MacTutor|id=Bell_John|title=John Stewart Bell}}</ref><ref name="Whitaker1998">{{cite journal
+ | last = Whitaker
+ | first = Andrew
+ | title = John Bell and the most profound discovery of science
+ | journal = Physics World
+ | volume = 11
+ | issue = 12
+ | pages = 29–34
+ | year = 1998
+ | doi = 10.1088/2058-7058/11/12/24
+ | url = https://physicsworld.com/a/john-bell-profound-discovery-science/
+| url-access = subscription
+ }}</ref><ref name="Stapp1975">{{cite journal
+ | last = Stapp
+ | first = Henry P.
+ | title = Bell's Theorem and World Process
+ | journal = Il Nuovo Cimento B
+ | volume = 29
+ | issue = 2
+ | pages = 270–276
+ | year = 1975
+ | doi = 10.1007/BF02728310
+ | bibcode = 1975NCimB..29..270S
+ | s2cid = 117358907
+ | url = http://www.escholarship.org/uc/item/7m59f6nz
+| url-access = subscription
+ }}</ref>
+
+In 2022, the [[Nobel Prize in Physics]] was awarded to [[Alain Aspect]], [[John Clauser]], and [[Anton Zeilinger]] for work on [[Bell test|Bell inequalities]] and the [[Aspect's experiment|experimental validation]] of Bell's theorem.<ref>{{Cite web |date=4 October 2022 |title=The Nobel Prize in Physics 2022 |url=https://www.nobelprize.org/prizes/physics/2022/press-release/ |access-date=6 October 2022 |publisher=[[Nobel Foundation]] |archive-date=4 October 2022 |archive-url=https://web.archive.org/web/20221004095754/https://www.nobelprize.org/prizes/physics/2022/press-release/ |url-status=live }}</ref>
+
+==Biography==
+
+===Early life and work===
+Bell was born in [[Belfast]], [[Northern Ireland]] to a [[Scottish people|Scottish]] working class family. Due to financial hardship, neither parent and none of his three older siblings completed high school, typically dropping out of school by age 14 to work.<ref name="St. Andrews Bio">{{cite web |last= |first= |title=Biography John Stewart Bell |work=st-andrews.ac.uk |date= |access-date=2025-05-03 |url=https://mathshistory.st-andrews.ac.uk/Biographies/Bell_John/ }}</ref>  When he was 11 years old, he decided to be a scientist, and encouraged by his mother, at 16 he graduated from Belfast Technical High School.<ref name="St. Andrews Bio" /> Then in an exceptionally rare occurrence for someone of his background, Bell attended the [[Queen's University of Belfast]], where, in 1948, he obtained a bachelor's degree in experimental physics and, a year later, a bachelor's degree in mathematical physics.<ref name="St. Andrews Bio" /> He went on to complete a PhD in physics at the [[University of Birmingham]] in 1956, specialising in [[nuclear physics]] and [[quantum field theory]].  In 1954, he married [[Mary Ross Bell|Mary Ross]], also a physicist, whom he had met while working on [[particle accelerator|accelerator]] physics at Malvern, UK.<ref name="Aczel2002">{{cite book
+ | first = Amir D.
+ | last = Aczel
+ | year = 2002
+ | title = Entanglement: The Greatest Mystery in Physics
+ | publisher = [[Basic Books]]
+ | location = New York
+ | url = https://archive.org/details/entanglementgrea00acze_0
+ | url-access = registration
+ | oclc = 49649300
+ | isbn = 978-1-56858-232-0
+}}</ref>{{rp|139}} Bell became a [[vegetarian]] in his teen years.<ref name="Bell2016">{{cite journal
+ | last = Bell
+ | first = Mary
+ | title = Bell the vegetarian
+ | journal = Physics Today
+ | volume = 69
+ | issue = 8
+ | page = 12
+ | year = 2016
+ | doi = 10.1063/pt.3.3252
+ | bibcode = 2016PhT....69h..12B
+| doi-access = free
+ }}</ref> According to his wife, Bell was an [[atheist]].<ref name="Bertlmann2002">{{cite book
+ | last = Bell
+ | first = Mary
+ | title = Quantum &#91;Un&#93;speakables
+ | year = 2002
+ | chapter = Some Reminiscences
+ | editor1-last = Bertlmann
+ | editor1-first = Reinhold A.
+ | editor2-last = Zeilinger
+ | editor2-first = Anton
+ | publisher = Springer
+ | location = Berlin
+ | series = The Frontiers Collection
+ | pages = 3–5
+ | doi = 10.1007/978-3-662-05032-3_1
+ | isbn = 978-3-642-07664-0
+ | quote = Although an atheist for most of his life, while at Queen's University [John Bell] had many discussions with a Catholic friend, Denis McConalogue, about the devil, and even attended some meetings of the Student Christian Movement for the sake of argument.
+}}</ref>
+
+Bell's career began with the UK [[Atomic Energy Research Establishment]], near [[Harwell, Oxfordshire]], known as AERE or Harwell Laboratory. In 1960, he moved to work for the European Organization for Nuclear Research ([[CERN]], ''Conseil Européen pour la Recherche Nucléaire''), in [[Geneva]], [[Switzerland]].<ref>{{Cite book|url=https://cds.cern.ch/record/1731827|title=People and things|date=1990}}</ref> There he worked almost exclusively on theoretical [[particle physics]] and on accelerator design, but found time to pursue a major [[avocation]], investigating the foundations of [[quantum mechanics|quantum theory]]. He was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1987.<ref name=AAAS>
+{{cite book
+ |title = Members of the Academy of Arts & Sciences, 1780–2010
+ |chapter = Bell, John Stewart
+ |url = https://www.amacad.org/multimedia/pdfs/publications/bookofmembers/ChapterB.pdf
+ |page = 41
+ |publisher = [[American Academy of Arts and Sciences]]
+ |access-date = 8 October 2019
+}}</ref> Also of significance during his career, Bell, together with John Bradbury Sykes, M. J. Kearsley, and [[W. H. Reid]], translated several volumes of the ten-volume ''[[Course of Theoretical Physics]]'' of [[Lev Landau]] and [[Evgeny Lifshitz]], making these works available to an English-speaking audience in translation, all of which remain in print.
+
+Bell was a proponent of [[pilot wave]] theory.<ref name="Hardesty2014">{{cite web
+ | last = Hardesty
+ | first = Larry
+ | title = Fluid mechanics suggests alternative to quantum orthodoxy
+ | url = https://phys.org/news/2014-09-fluid-mechanics-alternative-quantum-orthodoxy.html
+ |date = 12 September 2014
+ |website = Phys.org
+ |publisher= Science X
+ |access-date= 8 October 2019
+ }}</ref> In 1987, inspired by [[Ghirardi–Rimini–Weber theory]], he also advocated collapse theories.<ref>Zeh, H. D., "John Bell's Varying Interpretations of Quantum Mechanics: Memories and Comments", in Mary Bell, Shan Gao (ed.), ''Quantum Nonlocality and Reality: 50 Years of Bell's Theorem'', (Cambridge University Press, 2016) {{ISBN|978-1-107-10434-1}}</ref> He said about the interpretation of quantum mechanics: "Well, you see, I don't really know. For me it's not something where I have a solution to sell!"<ref>John S. Bell, interview in ''The Ghost in the Atom: A Discussion of the Mysteries of Quantum Physics'' (1986) edited by P. C. W. Davies and Julian R. Brown</ref>
+
+===Critique of von Neumann's proof===
+Bell was impressed that the formulation of [[David Bohm]]'s [[De Broglie–Bohm theory|nonlocal hidden-variable theory]] did not require a "movable boundary" between the quantum system and the classical apparatus:
+
+<blockquote>A possibility is that we find exactly where the boundary lies. More plausible to me is that we will find that there is no boundary. ... The wave functions would prove to be a provisional or incomplete description of the quantum-mechanical part, of which an objective account would become possible. It is this possibility, of a homogeneous account of the world, which is for me the chief motivation of the study of the so-called "hidden variable" possibility.<ref name="Bell1987">{{cite book
+ | first = John Stewart
+ | last = Bell
+ | year = 1987
+ | title = Speakable and Unspeakable in Quantum Mechanics
+ | publisher = Cambridge University Press
+ | location = Cambridge
+ | isbn = 978-0-521-36869-8
+}}</ref>{{rp|30}}</blockquote>
+
+Bell also criticized the standard formalism of quantum mechanics on the grounds of lack of physical precision:
+
+<blockquote>For the good books known to me are not much concerned with physical precision. This is clear already from their vocabulary. Here are some words which, however legitimate and necessary in application, have no place in a ''formulation'' with any pretension to physical precision: ''system'', ''apparatus'', ''environment'', ''microscopic'', ''macroscopic'', ''reversible'', ''irreversible'', ''observable'', ''information'', ''measurement''. ... On this list of bad words from good books, the worst of all is "measurement".<ref name="Bell1987"/>{{rp|215}}</blockquote>
+
+To thoroughly explore the viability of Bohm's theory, Bell needed to answer the challenge of the so-called impossibility proofs against hidden variables. Bell addressed these in a paper entitled "On the Problem of Hidden Variables in Quantum Mechanics".<ref name="Bell1966">{{cite journal
+ | first = John Stewart
+ | last = Bell
+ | title = On the problem of hidden variables in quantum mechanics
+ | journal = Reviews of Modern Physics
+ | volume = 38
+ | issue = 3
+ | pages = 447–452
+ | year = 1966
+ | doi = 10.1103/RevModPhys.38.447
+| bibcode = 1966RvMP...38..447B
+ | osti = 1444158
+ }}</ref> (Due to publishing delays, this paper did not appear until 1966, two years after his more famous work on the  [[Einstein–Podolsky–Rosen paradox|Einstein–Podolsky–Rosen (EPR) paradox]].<ref name="Aczel2002"/>{{rp|144}})  He showed that [[John von Neumann]]'s [[Mathematical Foundations of Quantum Mechanics#No hidden variables proof|no hidden variables proof]]<ref name="vonNeumann1955">
+{{cite book
+ | last = von Neumann
+ | first = John
+ | year = 1955
+ | title = Mathematical Foundations of Quantum Mechanics
+ | publisher = [[Princeton University Press]]
+ | location = Princeton
+ | title-link = Mathematical Foundations of Quantum Mechanics
+ }} {{ isbn|978-0-691-02893-4 }}.</ref> does not prove the impossibility of hidden variables, as was widely claimed, due to its reliance on a physical assumption that is not valid for quantum mechanics – namely, that the probability-weighted average of the sum of observable quantities equals the sum of the average values of each of the separate observable quantities.<ref name="Aczel2002"/>{{rp|141}} This flaw in von Neumann's proof had been previously discovered by [[Grete Hermann]] in 1935, but did not become common knowledge until after it was rediscovered by Bell.<ref name="soler">{{Cite book| last1=Soler |first1=Léna | chapter=The Convergence of Transcendental Philosophy and Quantum Physics: Grete Henry-Hermann's 1935 Pioneering Proposal|title=Constituting Objectivity |series=The Western Ontario Series in Philosophy of Science |editor=M. Bitbol |editor2=P. Kerszberg |editor3=J. Petitot |publisher=Springer|year=2009|volume=74 |pages = 329–344|doi = 10.1007/978-1-4020-9510-8_20|isbn=978-1-4020-9509-2 }}</ref> Bell reportedly said, "The proof of von Neumann is not merely false but ''foolish''!"<ref name="Omni1988">{{cite journal
+ | first1 = Charles
+ | last1 = Mann
+ | first2 = Robert
+ | last2 = Crease
+ | title = Interview: John Bell
+ | journal = [[Omni (magazine)|Omni]]
+ | volume = 10
+ | issue = 8
+ | pages = 84–86,88,90,92,121
+ | year = 1988
+ | url = https://cds.cern.ch/record/715366/
+}}</ref>{{rp|88}} In this same work, Bell showed that a stronger effort at such a proof (based upon [[Gleason's theorem]]) also fails to eliminate the hidden-variables program.
+
+However, in 2010, [[Jeffrey Bub]] published an argument that Bell (and, implicitly, Hermann) had misconstrued von Neumann's proof, saying that it does not attempt to prove the absolute impossibility of hidden variables, and is actually not flawed, after all.<ref name="Bub2010">{{cite journal
+ | first = Jeffrey
+ | last = Bub
+ | title = Von Neumann's 'no hidden variables' proof: a re-appraisal
+ | journal = Foundations of Physics
+ | volume = 40
+ | issue = 9–10
+ | pages = 1333–1340
+ | year = 2010
+ | doi = 10.1007/s10701-010-9480-9
+ | arxiv = 1006.0499
+ | bibcode = 2010FoPh...40.1333B
+| s2cid = 118595119
+ }}</ref> (Thus, it was the physics community as a whole that had misinterpreted von Neumann's proof as applying universally.) Bub provides evidence that von Neumann understood the limits of his proof, but there is no record of von Neumann attempting to correct the near universal misinterpretation which lingered for over 30 years and exists to some extent to this day.  Von Neumann's proof does not in fact apply to contextual hidden variables, as in Bohm's theory.<ref name="Bacciagaluppi2009">{{cite journal
+ | first1 = Guido
+ | last1 = Bacciagaluppi
+ | first2 = Elise
+ | last2 = Crull | author2-link = Elise Crull
+ | title = Heisenberg (and Schrödinger, and Pauli) on hidden variables
+ | journal = Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics
+ | volume = 40
+ | issue = 4
+ | pages = 374–382
+ | year = 2009
+ | doi = 10.1016/j.shpsb.2009.08.004
+ | quote = Non-contextual hidden variables are those that fix values or probabilities or expectation values for all quantum mechanical observables, independent of any experimental context. The impossibility proofs of von Neumann (1932), Gleason (1957), and Kochen and Specker (1967) refer to this kind of hidden variables.
+ | url = http://philsci-archive.pitt.edu/4759/
+| bibcode = 2009SHPMP..40..374B
+ | s2cid = 13140289
+ }}</ref> Bub's conclusion has, in turn, been questioned.<ref>{{Cite journal |last1=Mermin |first1=N. David |author-link1=N. David Mermin |last2=Schack |first2=Rüdiger |date=September 2018 |title=Homer Nodded: Von Neumann's Surprising Oversight |journal=Foundations of Physics |language=en |volume=48 |issue=9 |pages=1007–1020 |arxiv=1805.10311 |bibcode=2018FoPh...48.1007M |doi=10.1007/s10701-018-0197-5 |doi-access=free |quote=Bub and Dieks both take this to mean that von Neumann uses assumption B' to ''define'' linear combinations of physical quantities that are not simultaneously measurable. This is the entire basis for their criticisms of Bell and Hermann. If B' is just a definition, it cannot also be an invalid assumption, as Hermann and Bell maintain. But [...] the full set of von Neumann's four assumptions contains another way to define linear combinations of physical quantities that are not simultaneously measurable. With that alternative definition, Assumption B' can indeed impose a nontrivial constraint on the values an Exp function can have for such linear combinations. There is no reason to insist that Assumption B' must be taken as a definition.}}</ref>
+
+===Bell's theorem===
+{{Main|Bell's theorem}}
+[[File:John Bell commenting the famous Bell's inequalities (8206241).jpg|left|thumb|Bell discussing Bell's inequality at CERN in 1982]]
+In 1964, after a year's leave from [[CERN]] that he spent at [[Stanford University]], the [[University of Wisconsin–Madison]] and [[Brandeis University]], Bell wrote a paper entitled "On the [[Einstein–Podolsky–Rosen paradox]]".<ref name="Bell1964">{{cite journal
+ | first = John Stewart
+ | last = Bell
+ | title = On the Einstein Podolsky Rosen paradox
+ | journal = [[Physics Physique Физика]]
+ | volume = 1
+ | issue = 3
+ | pages = 195–200
+ | year = 1964
+ | doi = 10.1103/PhysicsPhysiqueFizika.1.195
+ | url = https://cds.cern.ch/record/111654
+| doi-access = free
+ | bibcode = 1964PhyNY...1..195B
+ }}</ref> In this work, he showed that carrying forward EPR's analysis<ref name="EPR1935">{{cite journal
+ | last1 = Einstein
+ | first1 = Albert
+ | last2 = Podolsky
+ | first2 = Boris
+ | last3 = Rosen
+ | first3 = Nathan
+ | title = Can quantum-mechanical description of physical reality be considered complete?
+ | journal = Physical Review
+ | volume = 47
+ | issue = 10
+ | pages = 777–780
+ | year = 1935
+ | doi = 10.1103/PhysRev.47.777
+ | bibcode = 1935PhRv...47..777E
+ | url = https://cds.cern.ch/record/405662
+| doi-access = free
+ }}</ref> permits one to derive the famous [[Bell's theorem]].<ref name="CERN2014">{{cite web
+ |url= https://home.cern/news/news/physics/fifty-years-bells-theorem
+ |title= Fifty years of Bell's theorem 
+ |last = Sutton
+ |first = Christine
+ |date = 4 November 2014
+ |website = CERN official website
+ |publisher = [[CERN]]
+ |access-date = 8 October 2019
+ |quote = A paper by John Bell published on 4 November 1964 laid the foundations for the modern field of quantum-information science}}</ref> The resultant inequality, derived from basic assumptions that apply to all classical situations, is violated by quantum theory.
+
+===Conclusions from experimental tests===
+In 1972 an experiment was conducted&nbsp;that, when extrapolated to ideal detector efficiencies, showed a violation of Bell's inequality.<ref name = "SJF1972">{{cite journal 
+| last1 = Freedman
+| first1 = Stuart J.
+| last2 = Clauser
+| first2 = John F.
+| author-link1 = Stuart Freedman
+| author-link2 = John Clauser
+| journal = Physical Review Letters
+| volume = 28
+| pages = 938–41
+| year = 1972
+| title = Experimental Test of Local Hidden-Variable Theories
+| issue = 14
+| doi = 10.1103/PhysRevLett.28.938
+| bibcode = 1972PhRvL..28..938F
+}}</ref> It was the first of many such experiments. Bell himself concluded from these experiments that "It now seems that the non-locality is deeply rooted in quantum mechanics itself and will persist in any completion."<ref name="Bell1987"/>{{rp|132}} This, according to Bell, also implied that quantum theory is not locally causal and cannot be embedded into any locally causal theory.  Bell regretted that results of the tests did not agree with the concept of local hidden variables:
+
+<blockquote>For me, it is so reasonable to assume that the photons in those experiments carry with them programs, which have been correlated in advance, telling them how to behave. This is so rational that I think that when Einstein saw that, and the others refused to see it, ''he'' was the rational man. The other people, although history has justified them, were burying their heads in the sand. ...  So for me, it is a pity that Einstein's idea doesn't work. The reasonable thing just doesn't work."<ref name="Bernstein1991">{{cite book
+ | first = Jeremy
+ | last = Bernstein
+ | year = 1991
+ | title = Quantum Profiles
+ | publisher = Princeton University Press
+ | location = Princeton
+ | url = https://archive.org/details/quantumprofiles00bern
+ | url-access = registration
+ | oclc = 21971886
+ | isbn = 978-0-691-08725-2
+}}</ref>{{rp|84}}</blockquote>
+
+Bell seemed to have become resigned to the notion that future experiments would continue to agree with quantum mechanics and violate his inequality. Referring to the [[Bell test experiments]], he remarked:
+
+<blockquote>It is difficult for me to believe that quantum mechanics, working very well for currently practical set-ups, will nevertheless fail badly with improvements in counter efficiency ..."<ref name="Bell1987"/>{{rp|109}}</blockquote>
+
+Some people continue to believe that agreement with Bell's inequalities might yet be saved. They argue that in the future much more precise experiments could reveal that one of the known [[Bell test loopholes|loopholes]], for example the so-called "fair sampling loophole", had been biasing the interpretations.  Most mainstream physicists are highly sceptical about all these "loopholes", admitting their existence but continuing to believe that Bell's inequalities must fail.
+
+Bell remained interested in objective "observer-free" quantum mechanics.<ref name="Sudbery2018">{{cite journal
+ | last = Sudbery
+ | first = Anthony
+ | title = John Bell and the Great Enterprise
+ | journal = Quanta
+ | volume = 7
+ | issue = 1
+ | pages = 68–73
+ | year = 2018
+ | doi = 10.12743/quanta.v7i1.79
+ | mr = 3894852
+ | arxiv = 1808.06845
+| s2cid = 53705805
+ }}</ref> He felt that at the most fundamental level, physical theories ought not to be concerned with observables, but with "beables" – "The [[wikt:beable|beables]] of the theory are those elements which might correspond to elements of reality, to things which exist. Their existence does not depend on 'observation'."<ref name="Bell1987"/>{{rp|174}} He remained impressed with Bohm's hidden variables as an example of such a scheme, and he attacked the more subjective alternatives such as the [[Copenhagen interpretation]].<ref name="Bell1987"/>{{rp|92,133,181}}
+
+===Teaching special theory of relativity===
+Bell and his wife, [[Mary Ross Bell]], also a physicist, contributed substantially to the physics of particle accelerators, and with numerous young theorists at CERN, Bell developed particle physics itself. An overview of this work is available in the volume of collected works edited by Mary Bell, Kurt Gottfried, and Martinus Veltman.<ref name="World Scientific">{{cite book
+| editor1-last = Bell
+| editor1-first = Mary
+| editor2-last = Gottfried
+| editor2-first = Kurt
+| editor3-last = Veltman
+| editor3-first = Martinus
+| title = Quantum Mechanics, High Energy Physics and Accelerators: Selected Papers of John S. Bell (With Commentary)
+| series = World Scientific Series in 20th Century Physics
+| year = 1995
+| volume = 9
+| doi = 10.1142/2611
+| isbn = 981-02-2115-0
+| publisher = World Scientific
+| location = Singapore
+| bibcode = 1995qmhe.book.....B
+}}</ref>
+Apart from his particle physics research, Bell often raised an issue of special relativity comprehension, and although there is only one written report on this topic available ("How to teach special relativity"),<ref name="Bell1987"/>{{rp|67–80}} this was a critical subject to him. Bell admired Einstein's contribution to special relativity, but warned in 1985 "Einstein's approach is ... pedagogically dangerous, in my opinion".<ref name="Rafelski2017">{{Cite book
+ | last = Rafelski
+ | first = Johann
+ | author-link = Johann Rafelski
+ | title = Relativity Matters: From Einstein's EMC2 to Laser Particle Acceleration and Quark-Gluon Plasma
+ | publisher = Springer
+ | location = Cham, Switzerland
+ | doi = 10.1007/978-3-319-51231-0
+ | year = 2017
+ | isbn = 978-3-319-51230-3
+ | url={{Google books|plainurl=y|id=8bhZDgAAQBAJ}}}}</ref>{{rp|ix}} In 1989 on the occasion of the centenary of the [[Length contraction|Lorentz-FitzGerald body contraction]] Bell writes "A great deal of nonsense has been written about the FitzGerald contraction".<ref name="World Scientific"/> Bell preferred to think of Lorentz-FitzGerald contraction as a phenomenon that is real and observable as a property of a material body, which was also Einstein's opinion, but in Bell's view Einstein's approach leaves a lot of room for misinterpretation. This situation and the background of Bell's position is described in detail by his collaborator [[Johann Rafelski]] in the textbook "Relativity Matters" (2017).<ref name="Rafelski2017"/> In order to combat misconceptions surrounding Lorentz-FitzGerald body contraction Bell adapted and promoted a relativistic thought experiment which became widely known as [[Bell's spaceship paradox]].
+
+===Death===
+[[File:John Stewart Bell's Blue plaque.JPG|thumb|200px|[[Blue plaque]] honouring John Bell at the [[Queen's University of Belfast]]]]
+Bell died unexpectedly of a [[cerebral hemorrhage]] in Geneva in 1990.<ref>
+{{cite web
+ |last1=Jackiw |first1=R.
+ |last2=Shimony |first2=A.
+ |year=2008
+ |title=Bell, John Stewart
+ |url=http://www.encyclopedia.com/doc/1G2-2830905483.html
+ |work=[[Complete Dictionary of Scientific Biography]]
+ |access-date=8 October 2019
+}}</ref><ref>
+{{cite web
+ |last=Sullivan |first=W.
+ |date=10 October 1990
+ |url=https://www.nytimes.com/1990/10/10/obituaries/john-stewart-bell-is-dead-at-62-physicist-tested-particle-actions.html
+ |title=John Stewart Bell Is Dead at 62; Physicist Tested Particle Actions
+ |work=[[The New York Times]]
+ |access-date=8 October 2019
+}}</ref><ref name="CERNCourier">{{cite journal
+ | first = Gordon
+ | last = Fraser
+ | title = John Stewart Bell 1928–1990
+ | journal = CERN Courier
+ | volume = 30
+ | issue = 8
+ | page = 25
+ | year = 1990
+ | url = https://cds.cern.ch/record/1731828
+}}</ref> Unknown to Bell, he had reportedly been nominated for a Nobel Prize that year.<ref name="Gilder2008">{{cite book
+ | last = Gilder
+ | first = Louisa
+ | year = 2008
+ | title = The Age of Entanglement: When Quantum Physics Was Reborn
+ | publisher = [[Alfred A. Knopf]]
+ | location = New York
+ | url = https://books.google.com/books?id=njtDiBApHnUC
+ | oclc = 608258970
+ | isbn = 978-1-4000-4417-7
+}}</ref>{{rp|3}}<ref name="Bernstein2009">{{cite book
+ | first = Jeremy
+ | last = Bernstein
+ | year = 2009
+ | title = Quantum Leaps
+ | publisher = Belknap Press (An Imprint of Harvard University Press)
+ | location = Cambridge, Massachusetts
+ | url = https://books.google.com/books?id=hlcMpVQjbEwC
+ | oclc = 648759731
+ | isbn = 978-0-674-03541-6
+}}</ref>{{rp|155}}<ref name="Whitaker2016">{{cite book
+ | first = Andrew
+ | last = Whitaker
+ | year = 2016
+ | title = John Stewart Bell and Twentieth-Century Physics: Vision and Integrity
+ | publisher = Oxford University Press
+ | location = Oxford
+ | url = https://books.google.com/books?id=tDtRDAAAQBAJ
+ | doi = 10.1093/acprof:oso/9780198742999.001.0001
+ | oclc = 960219296
+ | isbn = 978-0-19-874299-9 
+}}</ref>{{rp|374}}
+
+==Legacy==
+*In 2008, the [[John Stewart Bell Prize]] was created by the Centre for Quantum Information and Quantum Control at the [[University of Toronto]].<ref name="CQIQC">{{cite web
+ | title = John Stewart Bell Prize
+ | url = http://cqiqc.physics.utoronto.ca/bell_prize/home.html
+ | website = Centre for Quantum Information and Quantum Control
+ | publisher = University of Toronto
+ | access-date = 8 October 2019
+ | archive-date = 4 June 2014
+ | archive-url = https://web.archive.org/web/20140604055027/http://cqiqc.physics.utoronto.ca/bell_prize/home.html
+ }}</ref> The prize is awarded every other year for significant contributions first published during the six preceding years.  The award recognizes major advances relating to the foundations of [[quantum mechanics]] and to the applications of these principles. In 2009, the first award was presented by [[Alain Aspect]] to [[Nicolas Gisin]] for his theoretical and experimental work on foundations and applications of quantum physics &mdash; notably [[quantum nonlocality]], [[quantum cryptography]], and [[quantum teleportation]].<ref name="Bell2009">{{cite web
+ | title = Prof. Nicolas Gisin awarded the First Bell Prize
+ | url = http://cqiqc.physics.utoronto.ca/highlights/prof-nicolas-gisin-awarded-the-first-bell-prize.html
+ | website = Centre for Quantum Information and Quantum Control
+ | publisher = University of Toronto
+ | access-date = 8 October 2019
+ | archive-date = 2 December 2013
+ | archive-url = https://web.archive.org/web/20131202224049/http://cqiqc.physics.utoronto.ca/highlights/prof-nicolas-gisin-awarded-the-first-bell-prize.html
+ }}</ref>
+
+*At the  [[CERN]] site in  [[Meyrin]], close to [[Geneva]], there is a street called Route Bell in honour of John Stewart Bell.
+*In 2016, his colleague from CERN, [[Reinhold Bertlmann]], wrote a lengthy piece, "Bell's Universe: A Personal Recollection",<ref name="Bertlmann2017">{{cite book
+ | last = Bertlmann
+ | first = Reinhold A.
+ | title = Quantum &#91;Un&#93;Speakables II
+ | year = 2017
+ | chapter = Bell's Universe: A Personal Recollection
+ | editor1-last = Bertlmann
+ | editor1-first = Reinhold A.
+ | editor2-last = Zeilinger
+ | editor2-first = Anton
+ | publisher = Springer
+ | location = Cham, Switzerland
+ | series = The Frontiers Collection
+ | pages = 17–80
+ | url = http://inspirehep.net/record/1470816/plots?ln=en
+ | doi = 10.1007/978-3-319-38987-5_3
+ | arxiv = 1605.08081
+| isbn = 978-3-319-38985-1
+ | s2cid = 119259828
+ }}</ref> explaining in some detail his amazement at finding out about Bell's paper on [[Reinhold Bertlmann#Bertlmann.E2.80.99s Socks|Bertlmann's socks]], in which Bell compared the EPR paradox with socks.
+*A day was named after him, referring to the date he released Bell's Theorem, 4 November.<ref name="RIA2019">{{cite web
+ |url= https://www.ria.ie/john-bell-day
+ |title= John Bell Day
+ |date = 2019
+ |website= RIA
+ |publisher= The Royal Irish Academy
+ |access-date= 8 October 2019
+ }}</ref>
+
+===Northern Ireland===
+
+*Since 2015, a street has been named "Bell's Theorem Crescent" in his city of birth, Belfast.<ref name="BBC2015">{{cite web
+ |url= https://www.bbc.com/news/uk-northern-ireland-31536765
+ |title= John Bell: Belfast street named after physicist who proved Einstein wrong
+ |date = 19 February 2015
+ |website= BBC News
+ |publisher= [[BBC]]
+ |access-date= 8 October 2019
+ }}</ref>
+*The John Bell House, named in his honour, finished construction in 2016 and houses over 400 students in Belfast city centre.<ref name="JohnBellHouse">{{cite web
+ |url= https://www.accommodationforstudents.com/student-hall/1863
+ |title= John Bell House, Belfast
+ |date = 2019
+ |website= Accommodation for Students
+ |access-date= 8 October 2019
+ }}</ref>
+*The pedestrian entrance to the Olympia leisure centre in Belfast located 200 meters from Bell's childhood home is named the "John Stewart Bell Entrance" in honour of the local man.<ref name="belfastcity2018">{{cite web
+ |url= http://www.belfastcity.gov.uk/News/News-90587.aspx
+ |title= Sculpture celebrates football and physics links
+ |date = 13 April 2018
+ |publisher= Belfast City Council
+ |access-date= 8 October 2019
+ }}</ref>
+*In the [[Queen's University of Belfast]] one of the Physics lecture theatres is named in honour of John Stewart Bell.<ref name="QUB2019">{{cite web
+ |url= https://www.qub.ac.uk/schools/SchoolofMathematicsandPhysics/Study/StudentHandbook-Welcome/UGStudentHandbook/GeneralInformationforStudents/Location/
+ |title= Location
+ |date= 2019
+ |website= School of Maths and Physics
+ |publisher= Queen's University Belfast
+ |access-date= 8 October 2019
+ |archive-url= https://web.archive.org/web/20190109062114/https://www.qub.ac.uk/schools/SchoolofMathematicsandPhysics/Study/StudentHandbook-Welcome/UGStudentHandbook/GeneralInformationforStudents/Location/
+ |archive-date= 9 January 2019
+ }}</ref>
+* There is a [[blue plaque]] commemorating John Stewart Bell in [[Queen's University of Belfast]] main campus
+* There is a blue plaque commemorating John Stewart Bell at his childhood home in [[Tates Avenue]] in Belfast
+*In 2017 the [[Institute of Physics]] commissioned classical composer [[Matthew Whiteside]]'s Quartet No 4 (Entangled) to be performed at the 2018 NI Science Festival inspired by Bell's work;<ref>{{Cite web|title=Classical CDs Weekly: Haydn, Mahler, Matthew Whiteside {{!}} reviews, news & interviews {{!}} The Arts Desk|url=https://theartsdesk.com/node/84180/view|access-date=2021-04-26|website=theartsdesk.com}}</ref> the piece went on to become the title track on Whiteside's second album and was the inspiration for a short film by Marisa Zanotti.<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/kUX30bwL3gM Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20191205113655/https://www.youtube.com/watch?v=kUX30bwL3gM&feature=youtu.be Wayback Machine]{{cbignore}}: {{Citation|title=Quartet No. 4 (Entangled) composed by Matthew Whiteside and film by Marisa Zanotti| date=2 December 2019 |url=https://www.youtube.com/watch?v=kUX30bwL3gM|language=en|access-date=2021-04-26}}{{cbignore}}</ref>
+
+==Books==
+*{{cite book
+ | first = John Stewart
+ | last = Bell
+ |year=2004
+ |title=Speakable and Unspeakable in Quantum Mechanics
+ |edition=2nd
+ |publisher=[[Cambridge University Press]]
+ | location = Cambridge
+ |isbn=978-0-521-52338-7
+}} 2004 edition with introduction by [[Alain Aspect]] and two additional papers: {{ISBN|0-521-52338-9}}.
+
+==See also==
+{{cols|colwidth=26em}}
+* ''[[Epistemological Letters]]''
+* [[EPR paradox]], a thought experiment by [[Albert Einstein|Einstein]], [[Boris Podolsky|Podolsky]], and [[Nathan Rosen|Rosen]] published in 1935
+* [[Local hidden-variable theory]]
+* [[Quantum entanglement]]
+* [[Bell's theorem]], published in 1964
+* [[Bell state]]
+* [[Bell test experiments]]
+* [[CHSH inequality]], an experiment-practical formulation of Bell's theorem
+* [[GHZ experiment]]
+* [[Superdeterminism]]
+{{colend}}
+
+Other work by Bell:
+* [[Chiral anomaly|Adler–Bell–Jackiw anomaly]], also known as the chiral or Axial anomaly.<ref>{{Cite journal |last=Jackiw |first=Roman W. |date=October 28, 2008 |title=Axial anomaly |journal=Scholarpedia |language=en |volume=3 |issue=10 |page=7302 |doi=10.4249/scholarpedia.7302 |doi-access=free |bibcode=2008SchpJ...3.7302J |issn=1941-6016}}</ref>
+* [[Bell's spaceship paradox]]
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+{{commons category|John Stewart Bell (physicist)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bell, John Stewart}}
+[[Category:1928 births]]
+[[Category:1990 deaths]]
+[[Category:Alumni of Queen's University Belfast]]
+[[Category:Alumni of the University of Birmingham]]
+[[Category:People associated with CERN]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Irish fellows of the Royal Society]]
+[[Category:Atheists from Northern Ireland]]
+[[Category:Particle physicists]]
+[[Category:Scientists from Belfast]]
+[[Category:20th-century physicists from Northern Ireland]]
+[[Category:British quantum physicists]]
+[[Category:Members of the American Academy of Arts and Letters]]
+[[Category:Translators from Russian]]
+[[Category:Translators to English]]
+[[Category:British fellows of the Royal Society]]
+<!--he was one of the translators of the Landau Lifshitz physics course-->

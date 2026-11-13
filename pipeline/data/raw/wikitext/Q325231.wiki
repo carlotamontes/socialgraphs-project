@@ -1,0 +1,49 @@
+{{short description|American linguist}}
+{{Infobox scientist
+| image      = 
+| birth_date = {{Birth date and age|1955|5|5|mf=y}}
+| name       = Paul Smolensky
+| field      = [[Cognitive science]], [[linguistics]], [[computational linguistics]], [[artificial intelligence]]
+| workplaces = [[Johns Hopkins University]], [[Microsoft Research, Redmond]]
+| education  = [[Harvard College]]<br>[[Indiana University Bloomington]]
+| known_for  = [[Optimality theory]], [[phonology]], [[syntax]], [[language acquisition]], [[learnability]], [[artificial neural network]]s, [[restricted Boltzmann machine]]s
+| awards     = [[Rumelhart Prize]] {{small|(2005)}}
+| website    = [https://cogsci.jhu.edu/directory/paul-smolensky/ at JHU], [https://www.microsoft.com/en-us/research/people/psmo/ at MSR]
+}}
+'''Paul Smolensky''' (born May 5, 1955) is Professor Emeritus of [[Cognitive Science]] at the [[Johns Hopkins University]] and a Senior Principal Researcher at [[Microsoft Research]], Redmond Washington.
+
+Along with [[Alan Prince]], in 1993 he developed [[Optimality Theory]], a grammar formalism providing a formal theory of cross-[[linguistic typology]] (or [[Universal Grammar]]) within [[linguistics]].<ref>{{cite report |last1=Prince |first1=Alan |last2=Smolensky |first2=Paul |year=2002 |title=Optimality Theory: Constraint Interaction in Generative Grammar |publisher=Rutgers University |url=https://scholarship.libraries.rutgers.edu/esploro/outputs/991031549929204646 |doi=10.7282/T34M92MV |doi-access=free}} {{emdash}} updated version of July 1993 report </ref>  
+Optimality Theory is popularly used for [[phonology]], the subfield to which it was originally applied, but has been extended to other areas of linguistics such as [[syntax]]<ref>{{cite book |editor-link1=Géraldine Legendre |editor-last1=Legendre |editor-first1=Géraldine |editor-last2=Grimshaw |editor-first2=Jane |editor-last3=Vikner |editor-first3=Sten |year=2001 |title=Optimality-theoretic syntax |publisher=MIT Press |isbn=978-0-262-62138-0}}</ref> and [[semantics]].<ref>{{cite book |editor-last=Legendre |editor-first1=Géraldine |editor-last2=Putnam |editor-first2=Michael T. |editor-last3=De Swart |editor-first3=Henriette |editor-last4=Zaroukian |editor-first4=Erin |year=2016 |title=Optimality-theoretic syntax, semantics, and pragmatics: From uni-to bidirectional optimization |publisher=Oxford University Press |isbn=978-0-19-875711-5}}</ref>
+
+Smolensky is the recipient of the 2005 [[Rumelhart Prize]] for his development of the ICS Architecture, a model of cognition that aims to unify [[connectionism]] and [[Cognitivism (psychology)|symbolism]], where the symbolic representations and operations are manifested as abstractions on the underlying connectionist or [[artificial neural networks]].  
+This architecture rests on [[Tensor Product]] Representations,<ref>{{cite journal |last=Smolensky |first=Paul |date= November 1990 |title=Tensor product variable binding and the representation of symbolic structures in connectionist systems |journal=Artificial Intelligence |volume=46 |issue=1–2 |pages=159–216 |doi=10.1016/0004-3702(90)90007-M |url=https://www.sciencedirect.com/science/article/abs/pii/000437029090007M}}</ref> compositional embeddings of symbolic structures in vector spaces. 
+It encompasses the [[Harmonic Grammar]] framework, a connectionist-based numerical grammar formalism he developed with [[Géraldine Legendre]] and Yoshiro Miyata,<ref>{{cite report |last1=Legendre |first1=Géraldine |last2=Miyata |first2=Yoshiro |last3=Smolensky |first3=Paul |year=1990 |title=Harmonic Grammar: A formal multi-level connectionist theory of linguistic well-formedness: Theoretical foundations |url=https://www.colorado.edu/ics/sites/default/files/attached-files/90-05.pdf}} In ''Proceedings of the twelfth annual conference of the Cognitive Science Society'' (pp.&nbsp;388–395). Cambridge, Massachusetts: Lawrence Erlbaum. Report CU-CS-465-90. Computer Science Department, University of Colorado at Boulder. </ref> which was the predecessor of [[Optimality Theory]]. 
+The ICS Architecture builds on Harmony Theory, a formalism for [[artificial neural network]]s that introduced the [[restricted Boltzmann machine]] architecture. 
+This work, up through the early 2000s, is presented in the two-volume book written with Géraldine Legendre, ''The Harmonic Mind''.<ref>{{multiref2|1={{cite book |last1=Smolensky |first1=Paul |last2=Legendre |first2=Géraldine |year=2006 |title=The Harmonic Mind: From Neural Computation to Optimality-Theoretic Grammar |volume=1: Cognitive Architecture |location=Cambridge, Massachusetts |publisher=MIT Press}} |2={{cite book |last1=Smolensky |first1=Paul |last2=Legendre |first2=Géraldine |year=2006 |title=The Harmonic Mind: From Neural Computation to Optimality-Theoretic Grammar |volume=2: Linguistic and Philosophical Implications |location=Cambridge, Massachusetts |publisher=MIT Press}}}}</ref>
+Subsequent work introduced ''Gradient Symbolic Computation'', in which blends of partially-activated symbols occupy blends of positions in discrete structures such as trees or graphs.<ref>{{cite journal |last1=Smolensky |first1=Paul |last2=Goldrick |first2=Matthew |last3=Mathis |first3=Donald |year=2014 |title=Optimization and quantization in gradient symbol systems: A framework for integrating the continuous and the discrete in cognition |journal=Cognitive Science |volume=38 |issue=6 |pages=1102−1138 |doi=10.1111/cogs.12047 |pmid=23802807 |via=Rutgers Optimality Archive |url=http://roa.rutgers.edu/view.php3?roa=1103}}</ref> 
+This has been successfully applied to numerous problems in theoretical linguistics where traditional discrete linguistic structures have proved inadequate,<ref>{{cite journal |last1=Smolensky |first1=Paul |last2=Rosen |first2=Eric |last3=Goldrick |first3=Matthew |year=2020 |title=Learning a gradient grammar of French liaison |journal=Proceedings of the 2019 Annual Meeting on Phonology |volume=8 |doi=10.3765/amp.v8i0.4680 |url=https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4680|doi-access=free }}</ref> as well as incremental sentence processing in psycholinguistics.<ref>{{cite journal |last1=Cho |first1=Pyeong Whan |last2=Goldrick |first2=Matthew |last3=Smolensky |first3=Paul |year=2017 |title=Incremental parsing in a continuous dynamical system: Sentence processing in Gradient Symbolic Computation |journal=Linguistics Vanguard |volume=3 |issue=1 |doi=10.1515/lingvan-2016-0105|s2cid=67362174 }}</ref>
+In work with colleagues at Microsoft Research and Johns Hopkins, Gradient Symbolic Computation has been embedded in neural networks using deep learning to address a range of problems in reasoning and natural language processing.
+
+Among his other important contributions is the notion of local conjunction of linguistic constraints, in which two constraints combine into a single stronger constraint that is violated only when both of its conjuncts are violated within the same specified local domain.  Local conjunction has been applied to the analysis of various "super-additive" effects in Optimality Theory. With Bruce Tesar ([[Rutgers University]]), Smolensky has also contributed significantly to the study of the learnability of Optimality Theoretic grammars (in the sense of [[computational learning theory]]).
+
+Smolensky was a founding member of the [[Parallel Distributed Processing]] research group at the [[University of California, San Diego]], and is currently a member of the Deep Learning Group at [[Microsoft Research]], Redmond Washington.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://cogsci.jhu.edu/directory/paul-smolensky/ Paul Smolensky Homepage at Johns Hopkins]
+*[https://www.microsoft.com/en-us/research/people/psmo/ Paul Smolensky Homepage at Microsoft Research]
+*[https://web.archive.org/web/20050414173651/http://www.cnbc.cmu.edu/derprize/ David E. Rumelhart Prize]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smolensky, Paul}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:Harvard College alumni]]
+[[Category:Indiana University Bloomington alumni]]
+[[Category:Phonologists from the United States]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:Rumelhart Prize laureates]]
+[[Category:Fellows of the Cognitive Science Society]]

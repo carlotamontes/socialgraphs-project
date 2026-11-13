@@ -1,0 +1,58 @@
+{{Short description|Spanish computational chemist}}
+{{Infobox scientist
+| name              = Maia Vergniory
+| birth_name        = Maia Garcia Vergniory
+| workplaces        =[[Université de Sherbrooke]] <br /> [[Donostia International Physics Center]] <br />[[Ikerbasque]] <br /> [[Max Planck Institute for Chemical Physics of Solids]]
+| thesis_title      = Gorputz anitzen eta banda-egituraren efektuak egoera elektroniko kitzikatuen zein ioi higikorren eta gainazal solidoen arteko elkerrekintzaren gainean
+| thesis_url        = https://worldcat.org/en/title/932565483
+| thesis_year       = 2008
+| education  = [[University of the Basque Country]]<br />[[Joseph Fourier University]]
+| doctoral_advisor  = Jose Maria Pitarke de la Torre and Pedro Miguel Echenique
+| fields = [[Electronic structure]]<br />[[Magnetism]]<br />[[Spin states (d electrons)|Spin]]<br />[[Metal]]s<br />[[Topological insulators]]<ref name=gs/>
+| website = {{Official URL}}
+}}
+
+'''Maia Garcia Vergniory''' is a Spanish computational physicist who is a Professor at the [[University of Sherbrooke]].<ref name=gs>{{Google scholar id}}</ref> Her work in [[topological quantum chemistry]] investigates the phases of topological materials.<ref name=epmc>{{EuropePMC}}</ref> She was elected Fellow of the [[American Physical Society]] in 2022.<ref name=faps/>
+
+== Early life and education ==
+Vergniory was born in [[Getxo]].<ref>{{Cite web |date=2017-07-20 |title="Nuestro logro ha sido desarrollar la teoría que ganó el Premio Nobel" |url=https://www.diariovasco.com/gipuzkoa/portada-nature-hito-20170720002646-ntvo.html |access-date=2022-11-09 |website=El Diario Vasco |language=es}}</ref> She was a doctoral researcher at the [[University of the Basque Country]]. Her research considered [[Many-body problem|many-body]] effects on the interactions between excited electronic states and the mobile ions on surfaces.<ref>{{Cite web |title=Gorputz anitzen eta banda-egituraren efektuak egoera elektroniko kitzikatuen zein oio higikorren eta gainazal solidoen arteko elkerrekintzaren gainean {{!}} WorldCat.org |url=https://www.worldcat.org/title/932565483 |access-date=2022-11-09 |website=www.worldcat.org |language=en}}</ref> She started working on topological materials in 2012.<ref name=":0">{{Cite web |date=2018-12-07 |title=Maia G. Vergniory: "Se han encontrado 200 materiales topológicos, pero aún no tenemos el candidato ideal" |url=https://quo.eldiario.es/ciencia/a25261160/maia-garcia-seleccion-espanola-ciencia-2018/ |access-date=2022-11-09 |website=Quo |language=es}}</ref>
+
+== Research and career ==
+Vergniory worked as a [[research fellow]] at the [[Ikerbasque]] and the Donostia International Physics Center.<ref>{{Cite web |title=Department of Applied Physics Research Seminar: Maia G. Vergniory {{!}} Aalto University |url=https://www.aalto.fi/en/events/department-of-applied-physics-research-seminar-maia-g-vergniory |access-date=2022-11-09 |website=www.aalto.fi |date=29 March 2021 |language=en}}</ref> She studied novel materials and computational strategies to realise new condensed matter systems.<ref>{{Cite web |date=2020-04-22 |title=Research |url=https://maiagv-dipc.org/research/ |access-date=2022-11-09 |website=This is the website of Maia G. Vergniory |language=en}}</ref>
+
+Verginory became interested in the design of new topological materials with optimised functional properties.<ref>{{Cite web |last=Goikoetxea |first=Jakes |title=Ezezaguna bai, exotikoa ez |url=https://www.berria.eus/paperekoa/1931/038/001/2022-06-10/ezezaguna-bai-exotikoa-ez.htm |access-date=2022-11-09 |website=Berria |date=10 June 2022 |language=eu}}</ref><ref>{{Cite web |title="Para el ordenador cuántico queda como mínimo una década" |url=https://www.agenciasinc.es/Entrevistas/Para-el-ordenador-cuantico-queda-como-minimo-una-decada |access-date=2022-11-09 |website=Agencia SINC |language=es}}</ref> Topological materials are insulators in the bulk but conductive on their surfaces.<ref>{{Cite web |title=Donostia International Physics Center –2018/09/05 Maia Garcia Vergniory in the cover of Nature Physics |url=http://dipc.ehu.eus/06anuncios_detalle.php?id=1106&lng=eng |access-date=2022-11-09 |website=dipc.ehu.eus}}</ref> The conducting channels that facilitate current flow are robust and independent of size.
+
+Vergniory studied the [[Inorganic Crystal Structure Database]] to identify topologically nontrivial materials.<ref>{{Cite journal |last1=Vergniory |first1=Maia G. |last2=Wieder |first2=Benjamin J. |last3=Elcoro |first3=Luis |last4=Parkin |first4=Stuart S. P. |last5=Felser |first5=Claudia |last6=Bernevig |first6=B. Andrei |last7=Regnault |first7=Nicolas |date=2022-05-20 |title=All topological bands of all nonmagnetic stoichiometric materials |url=https://www.science.org/doi/10.1126/science.abg9094 |journal=Science |language=en |volume=376 |issue=6595 |article-number=eabg9094 |doi=10.1126/science.abg9094 |pmid=35587971 |arxiv=2105.09954 |s2cid=235125620 |issn=0036-8075}}</ref> She designed a computational effort to simulate real materials and determine whether or not they showed topological properties.<ref>{{Cite web |title=Topological Materials Database |url=https://topologicalquantumchemistry.com/#/ |access-date=2022-11-09 |website=topologicalquantumchemistry.com}}</ref> This included complex theoretical analysis that could classify topological phases, and information from materials scientists on whether materials were suitable or not.<ref name=":1">{{Cite web |date=2022-11-01 |title=A periodic table for topological materials |url=https://physicsworld.com/a-periodic-table-for-topological-materials/ |access-date=2022-11-09 |website=Physics World |language=en-GB}}</ref> Vergniory uses her supercomputers to perform her calculations [[Ab initio quantum chemistry methods|ab initio]].<ref name=":0" /> In an interview with ''[[Physics World]]'', Verginory said that she had been surprised by how many materials she identified with topological properties.<ref name=":1" /> As an output of this work, the high-order topological insulator Bi<sub>4</sub>Br<sub>4</sub> was synthesised and studied experimentally. She showed that if it was possible to identify the symmetry of the crystalline symmetry of a material, she could easily anticipate the behaviour of the charge.<ref name=":1" /> She has since started investigating organic materials.<ref name=":1" /> She believes that topological crystals with a chiral structure will display several exotic physical phenomena.<ref>{{Cite journal |last1=Schröter |first1=Niels B. M. |last2=Pei |first2=Ding |last3=Vergniory |first3=Maia G. |last4=Sun |first4=Yan |last5=Manna |first5=Kaustuv |last6=de Juan |first6=Fernando |last7=Krieger |first7=Jonas A. |last8=Süss |first8=Vicky |last9=Schmidt |first9=Marcus |last10=Dudin |first10=Pavel |last11=Bradlyn |first11=Barry |last12=Kim |first12=Timur K. |last13=Schmitt |first13=Thorsten |last14=Cacho |first14=Cephise |last15=Felser |first15=Claudia |date=August 2019 |title=Chiral topological semimetal with multifold band crossings and long Fermi arcs |url=https://www.nature.com/articles/s41567-019-0511-y |journal=Nature Physics |language=en |volume=15 |issue=8 |pages=759–765 |doi=10.1038/s41567-019-0511-y |arxiv=1812.03310 |bibcode=2019NatPh..15..759S |s2cid=118941556 |issn=1745-2481}}</ref>
+
+=== Awards and honours ===
+* 2017 [[L'Oréal-UNESCO For Women in Science Awards|L'Oréal-UNESCO For Women in Science Award]]<ref>{{Cite web |title=Donostia International Physics Center –2017/11/22 - Maia García-Vergniory, researcher from DIPC and UPV/EHU, winner of the Prize L'Oréal-UNESCO For Women in Science |url=http://dipc.ehu.es/06anuncios_detalle.php?id=1008&lng=eng |access-date=2022-11-09 |website=dipc.ehu.es}}</ref><ref>{{Cite web |last=Taibo |first=Por Marieta |date=2017-11-23 |title=Estas científicas pueden cambiar tu vida |url=https://www.cosmopolitan.com/es/consejos-planes/familia-amigos/a13880824/estas-cientificas-pueden-cambiar-tu-vida/ |access-date=2022-11-09 |website=Cosmopolitan |language=es-ES}}</ref>
+* 2022 Elected a [[Fellow]] of the [[American Physical Society]]<ref name=faps>{{Cite web |title=APS fellowship awarded to Maia G. Vergniory |url=https://www.eurekalert.org/news-releases/968407 |access-date=2022-11-09 |website=EurekAlert! |language=en}}</ref>
+
+=== Selected publications ===
+* {{Cite Q|Q55280643}}
+* {{Cite Q|Q59066613}}
+* {{Cite Q|Q53057429}}
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Vergniory, Maia}}
+[[Category:People from Getxo]]
+[[Category:Living people]]
+[[Category:University of the Basque Country alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Spanish women chemists]]
+[[Category:21st-century Spanish chemists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Computational chemists]]
+[[Category:Materials scientists and engineers]]
+[[Category:Max Planck Institutes researchers]]
+[[Category:Condensed matter physicists]]
+[[Category:Basque people]]
+[[Category:21st-century Spanish physicists]]
+[[Category:Grenoble Alpes University alumni]]
+[[Category:Academic staff of the University of the Basque Country]]
+[[Category:21st-century Spanish women scientists]]
+[[Category:21st-century women physicists]]

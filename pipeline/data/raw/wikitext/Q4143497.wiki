@@ -1,0 +1,154 @@
+{{Short description|Russian-British scientist (1952–2025)}}
+{{Use dmy dates|date=October 2025}}
+{{Infobox scientist
+| native_name       = Александр Горбань
+| image             = Gorban3.jpg
+| workplaces        = Center for Mathematical Modeling, [[University of Leicester]], UK
+| education         = Physics department of [[Novosibirsk State University]] and Mathematics department of [[Omsk State Pedagogical University]]
+| caption           = Gorban in 2012
+| birth_date        = {{birth date|1952|04|19|df=y}}
+| birth_place       = [[Omsk]], Russian SFSR, USSR
+| death_date        = {{death date and age|2025|09|21|1952|04|19|df=y}}
+| death_place       = 
+| doctoral_students = 
+| known_for         = 
+| awards            = [[Isaac Newton Institute]] Research Fellow (2010){{br}}[[Ilya Prigogine|Prigogine's]] medal for the work in non-equilibrium thermodynamics (2003){{br}}[[Clay Mathematics Institute|Clay]] Scholar (2000)
+}}
+
+'''Alexander Nikolaevich Gorban''' ({{langx|ru| Александр Николаевич Горба́нь}}; 19 April 1952 – 21 September 2025) was a scientist of Russian origin, working in the United Kingdom. He was a professor at the [[University of Leicester]], and director of its Mathematical Modeling Centre. Gorban contributed to many areas of fundamental and applied science, including [[statistical physics]], [[non-equilibrium thermodynamics]], [[machine learning]] and [[mathematical biology]].
+
+Gorban was the author of about 20 books and 300 scientific publications.<ref>{{GoogleScholar|id=D8XkcCIAAAAJ|name=Alexander N. Gorban}}</ref> He founded several scientific schools in the areas of physical and [[chemical kinetics]], [[dynamical systems theory]] and [[artificial neural networks]], and is ranked as one of the 1000 most cited researchers of Russian origin.<ref>According to http://www.scientific.ru/, 2012</ref> In 2020, Gorban presented a keynote talk at the [[IEEE]] World Congress on Computational Intelligence.<ref name=WCCI2020>{{Cite journal|last1=Hussain |first1=A|author2-link=Marios M. Polycarpou|last2=Polycarpou|first2=MM|last3=Yao|first3=X|year=2021|title=Conference Report on 2020 IEEE World Congress on Computational Intelligence (IEEE WCCI 2020)|journal=IEEE Computational Intelligence Magazine|volume=16|issue= 1|pages=15–18, 98|doi=10.1109/MCI.2020.3039042|doi-access= free}}</ref>
+
+He supervised six [[habilitation]]s and more than 30 PhD theses.
+
+== Background ==
+Gorban was born in [[Omsk]] on 19 April 1952. His father Nikolai Vasilievich Gorban was a historian and writer exiled to Siberia, and his mother was a literature teacher in [[Omsk State Pedagogical University|Omsk Pedagogical Institute]]. From 1965 to 1966, he studied at the [[Specialized Educational Scientific Center]] on Physics, Mathematics, Chemistry and Biology of Novosibirsk State University (SESC NSU). In 1967, at the age of 15, he entered [[Novosibirsk State University]] but was excluded from it in autumn 1969 because of his participation in January 1968 in political student movements against the convictions of Soviet writers [[Alexander Ginzburg]] and [[Yuri Galanskov]].
+
+After studying for a year in a vocational technical school and following an individual extramural program at Omsk Pedagogical Institute, he obtained a master's degree with a thesis entitled ''Sets of removable singularities in Banach spaces and continuous maps'' under the supervision of Russian mathematician Vladimir B. Melamed.
+
+From 1973 to 1976, he worked in the Omsk Institute Of Transport Engineers and published his first scientific works, but then moved to [[Krasnoyarsk]] where he was permanently employed at the Institute of Computational Modeling. In 1980, Gorban obtained his Candidate of Sciences diploma, corresponding to PhD in the Russian scientific degree hierarchy. His thesis title was ''Slow relaxations and bifurcations of omega-limit sets of dynamical systems'' (translated later into English <ref name="Slorelax" group="a"/>). His viva was organized by [[Olga Ladyzhenskaya]], [[Mark Krasnosel'skii]], and [[George M. Zaslavsky]].
+
+He became the head of the Laboratory of Non-Equilibrium Systems in 1989 and completed his habilitation in 1990. In 1995 he became the deputy director of the Institute of Computational Modeling and head of the Computational Mathematics Department. At the same time, he taught at [[Krasnoyarsk State University]] (1981–1991) and subsequently headed the Neuroinformatics Department at the [[Siberian Federal University|Krasnoyarsk State Technical University]] (1993–2006).
+
+In the 1990s, Gorban visited several mathematical institutes in US and Europe, including the [[Clay Mathematics Institute]], [[Courant Institute of Mathematical Sciences]], [[Institut des Hautes Etudes Scientifiques]], [[ETH]] (2003–2004), [[Isaac Newton Institute]].
+
+In 2004, Gorban became Professor of Applied Mathematics at the [[Leicester University]], UK, and the chair of its Mathematical Modeling Centre.
+
+Gorban died on 21 September 2025, at the age of 73.<ref>[https://www.vgoroden.ru/novosti/ushel-iz-zhizni-pochetnyy-doktor-nngu-aleksandr-gorban-id420279 Ушел из жизни почетный доктор ННГУ Александр Горбань] {{in lang|ru}}</ref> He was a stepbrother of [[Svetlana Kirdina]].
+
+== Research activity ==
+Gorban's scientific contributions have been made in [[theoretical physics]], [[mechanics]], [[functional analysis]], [[theory of natural selection]], theory of adaptation, [[artificial neural networks]], physical kinetics, [[bioinformatics]]. A top level view of scientific activity and the future of applied mathematics have been given in his book "Demon of Darwin: idea of optimality and natural selection",<ref name=Demon  group="b" /> articles and public lectures.<ref name=TheFuture>Gorban A.N., {{YouTube|y7Rl_uRXLjU|The future of applied mathematics. Public lecture}} (Video, in Russian).</ref>
+
+In functional analysis, Gorban investigated the properties of analytical [[Analytic Fredholm theorem|Fredholm subsets]] in Banach spaces, formulated the relevant principle of maximum modulus and proved an analogue of the [[Remmert-Stein theorem]].
+
+In [[mathematical chemistry]], Gorban investigated the thermodynamical properties of chemical systems based on the analysis of Lyapunov's function trees in the polytope of conservation laws.<ref name="EqEnc" group="b" /><ref name=Attainability group="b"  /> He developed a theory of thermodynamically admissible paths for complex multidimensional systems of chemical thermodynamics and kinetics.<ref name="Thermodynamic tree" group="a" />
+
+Together with [[Grigoriy Yablonsky]] and his team he developed methods of mathematical modeling and analysis of chemical system models for kinetics of catalytic reactions.<ref name=CompKin group="b" /> He investigated the relaxation properties of some chemical systems and developed the singularity theory for transient processes of dynamical systems,<ref name="Slorelax" group="a" /> developed the method of path summation for solving the chemical kinetics equations,<ref name=KinPath group="a" /> developed a theory of dynamic limitation and asymptotology of chemical reaction networks<ref name=Asymptot group="a" /> which was applied to modeling of biological signalling networks and mechanisms of microRNA action on translation regulation.<ref name="MicroRNA" group="a" />
+
+Gorban developed a series of methods for solving equations of chemical and physical kinetics, based on constructive methods of invariant manifold approximation.<ref name=MethInvManif group="a" /> This theory has found many applications in the construction of physically consistent [[hydrodynamics]] as a part of [[Hilbert's sixth problem]],<ref name=Hilbert6 group="a" /> modeling non-equilibrium flows, in the kinetic theory of phonons, for model reduction in chemical kinetics, and modeling liquid polymers.<ref name=InvManif group="b" /> He developed new methods for application of the Lattice Boltzmann's Method, based on its thermodynamical properties.<ref name=LatBoltzmann group="a" /> Gorban has developed a mathematical model of the [[Gorlov helical turbine]] and estimated its achievable efficiency in energy capture.<ref name=Turbine group="a" /> He investigated general problems of geometrical interpretation of thermodynamics<ref name=GeomIrrevers group="a" /> 
+and general properties of non-classical entropies.<ref name=Entropy group="a" />
+
+In the mathematical theory of natural selection, Gorban developed a theory of a special class of dynamical systems with inheritance.<ref name=SelectionTheorem group="a" /><ref name=Demon group="b" /> He discovered and explained theoretically the universal phenomenon of system adaptation under stress conditions,
+leading to simultaneous increase of correlations and variance in the multidimensional space of system parameters. The [[Anna Karenina principle]] developed by Gorban is now applied as a method of diagnostics and prognosis for economics and human physiology.<ref name=CorrAdapt group="a" /><ref name=AdaptPhysLifeRev group="a" />
+
+Gorban developed highly efficient parallel methods for artificial neural networks (ANN) learning, based on systematic use of duality of their functioning,<ref name=NeuroLearn group="b" /><ref name=NeuroComp group="b" /> and developed methods of knowledge extraction from data based on sparse ANNs. He proved the theorem of universal approximation properties of ANN.<ref name=ApproxNonLin group="a" /> All these approaches have found numerous applications in existing expert systems. Together with I. Tyukin, he developed a series of methods and algorithms for fast, non-iterative and non-destructive corrections of errors in legacy [[Artificial intelligence]] systems.<ref name=Blessing2018 group="a"/> These methods are based on the [[concentration of measure]] phenomena, ideas of [[statistical mechanics]] and original stochastic separation theorems.<ref name=StochasticSeparation2017 group="a" />
+
+In applied statistics, Gorban developed methods for constructing [[Nonlinear dimensionality reduction#Principal curves and manifolds|principal manifolds]] ([[Elastic map]]s method) and their generalizations (principal graphs, principal trees), based on the mechanical analogy with elastic membrane. The method has found numerous applications for visualization and analysis of economical, sociological and biological data.<ref name=PrincManif group="b" /> In collaboration with E.M. Mirkes and other authors, used machine learning methods for connecting individual psychological characteristics and predisposition to consuming certain types of drugs.<ref name=DrugBook group="b" />
+
+In bioinformatics Gorban was one of the first to apply the method of frequency dictionaries and [[Principle of maximum entropy]] for analysis of nucleotide and amino acid sequences.<ref name=InfoGenome group="a" /> He investigated the general properties of compact genomes and proved the existence of a 7-cluster structure in the genome sequence, which was applied for solving the ''de novo'' gene identification problem.<ref group="a" name=LineMystery/>
+
+== Bibliography ==
+Selected books:
+
+<references group="b">
+
+<ref name="EqEnc">Gorban A.N. [http://thermotree.narod.ru/ObkhodRavnovesiya/ContentsObkhod.htm Equilibrium encircling. Equations of chemical kinetics and their thermodynamic analysis (in Russian)]. Novosibirsk: Science, 1984, 226 p.</ref>
+
+<ref name=Demon>Gorban A.N., Khlebopros R.G. [http://ddarwin.narod.ru Demon of Darwin: Idea of optimality and natural selection (in Russian)] Nauka (FizMatGiz), 1988, 208p.</ref>
+
+<ref name="NeuroComp">Gorban A.N., Rosieev D.A., [https://www.researchgate.net/publication/334971618_Neural_Networks_on_Personal_Computer Neural networks on personal computer] (in Russian). - Novosibirsk: Science, 1996, 276 p.</ref>
+
+<ref name=NeuroLearn>Gorban A.N., [https://dx.doi.org/10.13140/RG.2.1.1784.4724 Training neural networks], Moscow: USSR-USA Paragraph, 1990, 160 p.</ref>
+
+<ref name=Attainability>A.N. Gorban, B.M. Kaganovich, S.P. Filippov, A.V. Keiko, V.A. Shamansky, I.A. Shirkalin, [http://thermotree.narod.ru/GorbKaganBook.htm Thermodynamic Equilibria and Extrema: Analysis of Attainability Regions and Partial Equilibria], Springer, Berlin-Heidelberg-New York, 2006.</ref>
+
+<ref name=CompKin>{{cite book|last=Yablonsky|first=G.S. |author2=V.I. Bykov |author3=A.N. Gorban' |author4=V.I. Elokhin|title=Kinetic Models of Catalytic Reactions|year=1991|publisher=Elsevier|editor1-last= Compton|editor1-first=R.G.|series=Comprehensive Chemical Kinetics|volume=32 |url= https://www.researchgate.net/publication/303921206 |location=Amsterdam–Oxford–New York–Tokyo |access-date=13 June 2016}}</ref>
+ 
+<ref name=InvManif>{{cite book |last1=Gorban |first1= Alexander N.|last2= Karlin |first2= Ilya V. |date=2005 |title= Invariant Manifolds for Physical and Chemical Kinetics|url= https://www.academia.edu/17378865| location= Berlin, Heidelberg |publisher= Springer|series= Lecture Notes in Physics (LNP, vol. 660)| isbn= 978-3-540-22684-0|doi= 10.1007/b98103| archive-url= https://web.archive.org/web/20200819052923/https://www.academia.edu/17378865/Invariant_Manifolds_for_Physical_and_Chemical_Kinetics|archive-date= 19 August 2020}} [https://archive.org/details/gorban-karlin-lnp-2005 Alt URL].</ref>
+
+<ref name=PrincManif>Gorban A.N., Kegl B., Wunch D., Zinovyev A. (eds.) [http://pca.narod.ru Principal Manifolds for Data Visualization and Dimension Reduction], Lecture Notes in Computational Science and Engineering. — Springer, 2008. — Vol. 58. — 340 p.</ref>
+
+<ref name=DrugBook>{{cite book |last1= Fehrman|first1= Elaine|last2=  Egan|first2=Vincent |last3= Gorban|first3= Alexander N. |last4= Levesley|first4= Jeremy |last5= Mirkes|first5= Evgeny M.  |last6= Muhammad|first6=Awaz K. | name-list-style = vanc |date= 2019|title= Personality Traits and Drug Consumption. A Story Told by Data|doi= 10.1007/978-3-030-10442-9|publisher= Springer, Cham|isbn=978-3-030-10441-2 |arxiv= 2001.06520  |s2cid= 151160405}}</ref>
+
+</references>
+
+Selected articles:
+
+<references group="a">
+
+<ref name="Slorelax">Gorban A.N. (2005) [http://www.emis.de/journals/EJDE/Monographs/05/gorban.pdf Singularities Of Transition Processes In Dynamical Systems: Qualitative Theory Of Critical Delays.] 
+Electronic Journal of Differential Equations, Monograph 05, 2004.</ref>
+
+<ref name="Thermodynamic tree">Gorban A.N. (2013)[http://www.math.le.ac.uk/people/ag153/homepage/THermodynamicTreeReprint2.pdf Thermodynamic Tree: The Space of Admissible Paths], SIAM J. Applied Dynamical Systems, Vol. 12, No. 1 (2013), pp. 246–278.</ref>
+ 
+<ref name="Asymptot">Gorban A.N., Radulescu O., Zinovyev A.Y., [https://arxiv.org/abs/0903.5072 Asymptotology of chemical reaction networks], Chemical Engineering Science 65 (2010) 2310–2324.</ref>
+
+<ref name=Entropy>Gorban A.N., Gorban P.A., Judge G., [https://arxiv.org/abs/1003.1377 Entropy: The Markov ordering approach], Entropy 12(5) (2010), 1145–1193.</ref>
+
+<ref name=CorrAdapt>Gorban A.N., Smirnova E.V., Tyukina T.A., [https://arxiv.org/abs/0905.0129 Correlations, risk and crisis: From physiology to finance], Physica A 389 (16) (2010), 3193–3217.</ref>
+
+<ref name=KinPath>Gorban A.N., [https://arxiv.org/abs/1006.4128 Kinetic path summation, multi-sheeted extension of master equation, and evaluation of ergodicity coefficient], Physica A 390 (2011) 1009–1025.</ref>
+
+<ref name=LatBoltzmann>Brownlee R.A., Gorban A.N., Levesley J., [https://arxiv.org/abs/0704.0043 Nonequilibrium entropy limiters in lattice Boltzmann methods], Physica A 387 (2–3) (2008), 385–406.</ref>
+
+<ref name=LineMystery>Gorban A.N., Zinovyev A. Y., [https://arxiv.org/abs/q-bio/0412015 The mystery of two straight lines in bacterial genome statistics], Bulletin of Mathematical Biology 69 (2007), 2429–2442.</ref>
+
+<ref name=MethInvManif>Gorban A.N., Karlin I.V., [http://www.math.le.ac.uk/people/ag153/homepage/ChemEngSci2003.pdf Method of invariant manifold for chemical kinetics], Chem. Eng. Sci.. 58, (2003), 4751–4768.</ref>
+
+<ref name=Turbine>Gorban A.N., Gorlov A.N., Silantyev V.M., [http://www.math.le.ac.uk/people/ag153/homepage/Gorlov2001.pdf Limits of the turbine efficiency for free fluid flow] {{Webarchive|url=https://web.archive.org/web/20240213111444/http://www.math.le.ac.uk/people/ag153/homepage/Gorlov2001.pdf |date=13 February 2024 }}, Journal of Energy Resources Technology 123 (2001), 311–317.</ref>
+
+<ref name=ApproxNonLin>Gorban A.N., [http://www.math.le.ac.uk/people/ag153/homepage/approx98.pdf Approximation of continuous functions of several variables by an arbitrary nonlinear continuous function of one variable, linear functions, and their superpositions], Appl. Math. Lett., Vol. 11 (3) (1998), 45–49.</ref>
+
+<ref name=StochasticSeparation2017>Gorban, A.N.,  Tyukin, I.Y. [https://www.researchgate.net/publication/314237576_Stochastic_Separation_Theorems Stochastic separation theorems.] Neural Networks, 94 (2017), 255–259. {{doi|10.1016/j.neunet.2017.07.014}}</ref>
+
+<ref name=Blessing2018>Gorban, A.N., Tyukin, I.Y. [https://www.researchgate.net/publication/322382965_Blessing_of_dimensionality_mathematical_foundations_of_the_statistical_physics_of_data  Blessing of dimensionality: mathematical foundations of the statistical physics of data.] Phil. Trans. R. Soc. A 376 (2118) (2018), 20170237. {{doi|10.1098/rsta.2017.0237}}</ref>
+
+<ref name=InfoGenome>Bugaenko N.N., Gorban A.N., Sadovsky M.G. Towards the Determination of Information Content of Nucleotide Sequences (in Russian), Molekulyarnaya Biologiya 30(3) (1996), 529–541.</ref>
+
+<ref name=GeomIrrevers>A.N. Gorban, I.V. Karlin Geometry of irreversibility: The film of nonequilibrium states. ArXiv https://arxiv.org/abs/cond-mat/0308331</ref>
+
+<ref name=SelectionTheorem>A.N.Gorban. [http://www.math.le.ac.uk/people/ag153/homepage/GOtborMMNP2(4)2007.pdf Selection Theorem for Systems With Inheritance]. Math. Model. Nat. Phenom. Vol. 2, No. 4, 2007, pp. 1–45.</ref>
+
+<ref name=MicroRNA>Morozova N, Zinovyev A, Nonne N, Pritchard LL, Gorban AN, Harel-Bellan A., [http://rnajournal.cshlp.org/content/18/9/1635.long Kinetic signatures of microRNA modes of action]. RNA 18(9) (2012), 1635–55</ref>
+
+<ref name=Hilbert6>Gorban A.N., Karlin I., [https://www.ams.org/journals/bull/2014-51-02/S0273-0979-2013-01439-3/home.html Hilbert's 6th Problem: exact and approximate hydrodynamic manifolds for kinetic equations], Bulletin of the American Mathematical Society, 51(2), 2014, 186–246</ref>
+
+<ref name=AdaptPhysLifeRev>Gorban A.N., Tyukina T.A., Pokidysheva L.I., Smirnova E.V. [https://www.sciencedirect.com/science/article/abs/pii/S1571064521000129 Dynamic and thermodynamic models of adaptation]. Physics of Life Reviews 37, 2021, 17–64</ref>
+
+</references>
+
+== Notes ==
+{{reflist|group="*"}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.math.le.ac.uk/people/ag153/homepage/ Alexander N. Gorban's homepage]
+* [http://adaptometry.narod.ru/ Correlation adaptometry]
+* [http://thermotree.narod.ru/ Thermodynamics in chemical reaction networks]
+* [http://pca.narod.ru/ Methods of non-linear principal manifolds]
+* [http://ddarwin.narod.ru/ The mathematical theory of natural selection]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gorban, Alexander}}
+[[Category:1952 births]]
+[[Category:2025 deaths]]
+[[Category:People from Omsk]]
+[[Category:Russian physicists]]
+[[Category:Russian mathematicians]]
+[[Category:Russian dissidents]]
+[[Category:Academics of the University of Leicester]]
+[[Category:Novosibirsk State University alumni]]
+[[Category:Transport engineers]]

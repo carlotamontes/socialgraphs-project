@@ -1,0 +1,67 @@
+{{Short description|American data scientist}}
+{{Infobox person
+| name             = Werner G. Krebs
+| image            =
+| caption          =
+| birth_date       = c. 1977
+| birth_place      =
+| death_date       =
+| death_place      =
+| known_for = [[Database of Molecular Motions]], [[GNU]] Queue
+| education = Ph.D. [[Yale University]]
+S.B./S.M. [[University of Chicago]]
+| employer   = Acculation, Inc.
+| occupation = 
+| alma_mater       = 
+| awards           = [[Salzburg Global Seminar|Salzburg Global Fellow]], [[The Founder Institute|Founder Institute Graduate]], [[IBM]] Global Entrepreneur
+| signature        = <!-- file name only -->
+|module = {{Infobox scientist
+|embed = yes
+| doctoral_advisor = [[Mark Bender Gerstein|Mark Gerstein]]<ref name=krebsphd>{{cite thesis |degree=PhD |first=Werner G.|last=Krebs |title=The database of macromolecular motions : a standardized system for analyzing and visualizing macromolecular motions in a database framework |publisher=Yale University |date=2002|oclc=54626123}}</ref>
+| thesis_title = Database of Macromolecular Motions
+| thesis_url = http://wernergkrebs.com/text/thesis-dec-2001-complete.pdf
+| academic_advisors = [[James Heckman]]<br />[[John Keith Moffat|Keith Moffat]]<ref name=krebsms>{{cite thesis |degree=MS |first=Werner G.|last=Krebs |title=Kinetic Analysis and Intermediate Structure Determination from High-Speed Time-Resolved Crystallography|publisher=University of Chicago |date=1996|url=https://www.researchgate.net/publication/281625634|oclc=923013077}}</ref><br />[[Philip Bourne]]<ref name=bourne-lab />
+| workplaces         = [[San Diego Supercomputer Center]]<br />[[University of California, San Diego]]<br />[[Yale University]]<br />[[University of Chicago]]<ref name=krebs-orcid>{{cite web|title=Werner Krebs|url=http://orcid.org/0000-0003-3155-1422|website=OrcId|access-date=2015-10-30}}</ref>
+}}
+| website = https://www.acculation.com/werner-g-krebs-ph-d-speaker-
+}}
+'''Werner G. Krebs''' (born c. 1977) is an American<ref name=krebs-mgp>{{cite web|title=Werner G. Krebs|url=http://www.genealogy.ams.org/id.php?id=69456|publisher=Mathematics Genealogy Project|access-date=2015-11-01}}</ref> [[Data science|data scientist]]. He is currently CEO of data science and artificial intelligence startup Acculation, Inc.<ref name=krebs-spprf>{{cite web|title=Werner G Krebs PhD Speaker Profile|url=https://www.acculation.com/werner-g-krebs-ph-d-speaker-profile/|website=Acculation|access-date=2015-10-30}}</ref> and has previously held positions at what are now [[Virtu Financial]], [[Bank of America]], and the [[San Diego Supercomputer Center]].<ref name="krebs-orcid">{{cite web|title=Werner Krebs|url=http://orcid.org/0000-0003-3155-1422|website=OrcId|access-date=2015-10-30}}</ref><ref name="krebs-linkedin">{{cite web|title=Werner Krebs|url=https://www.linkedin.com/pub/werner-krebs/2/259/755|website=LinkedIn|access-date=2015-10-30}}</ref><ref name="yatedo">{{cite web|title=Werner Krebs|url=http://www.yatedo.com/p/Werner+Krebs/normal/09a372806a6e097727024e62eee65f62|website=Yaetdo|access-date=2015-10-30}}</ref>
+
+He was initially hired out of high school by the Nobel Laureate [[James Heckman]].<ref name="krebs-orcid"/><ref name=heckman1>{{cite web|title=Heckman's Computation Center |url=http://lily.spc.uchicago.edu/ |publisher=University of Chicago |access-date=2015-10-30 |url-status=dead |archive-url=https://web.archive.org/web/19990422042609/http://lily.spc.uchicago.edu/ |archive-date=April 22, 1999 }}</ref><ref name=krebs-wgkjc>{{cite web|title=Werner G Krebs PhD Academic Bio|url=http://www.wernergkrebs.com|website=|publisher=|access-date=2015-10-30}}</ref> A graduate of the [[University of Chicago]] and [[University of Chicago Laboratory Schools]], he is a [[Salzburg Global Seminar|Salzburg Global Fellow]], [[The Founder Institute|Founder Institute Graduate]], and [[IBM]] Global Entrepreneur.<ref name="krebs-orcid"/><ref name="krebs-spprf"/><ref name=salzburg>{{cite web|title=President's Report of the Salzburg Global Seminar|url=http://www.salzburgglobal.org/fileadmin/user_upload/Documents/President_s_Report_2009_REDUCED.pdf|website=salzburgglobal.org|publisher=Salzburg Global Seminar|oclc=6374793|access-date=2015-10-30}}</ref> He resides in Los Angeles.<ref name="krebs-linkedin"/><ref name="fi">{{cite web|title = Founder Institute Graduates|url = http://fi.co/companies?city=Los+Angeles|website = fi.co|publisher = Founder Institute|access-date = 2015-10-30}}</ref>
+
+Krebs and his work have been discussed in news articles in journals,<ref name=science>{{cite journal |author=Anonymous |title=Netwatch |journal=Science |volume=284 |issue= 5416|pages=87 |date=7 May 1999 |doi=10.1126/science.284.5416.871b|s2cid=220104660 }}</ref><ref name=webalert>{{cite journal |author1=Bourne, PE |author2=Murray-Rust, J |author3=Lakey JH |title=Protein-nucleic acid interactions Folding and binding Web alert  |journal=Current Opinion in Structural Biology |volume=9 |issue= 1|pages=9–10 |date=Feb 1999 |doi=10.1016/s0959-440x(99)90000-3}}</ref>
+newspapers,<ref name=ocr>{{Cite news|url = http://www.ocregister.com/jobsearch/search-636847-details-job.html|newspaper = Orange County Register|title=Career Advice|date = 2014-09-30|access-date = 2015-10-29|issn = 0886-4934}}</ref><ref name="nydn">{{Cite news|url = http://www.nydailynews.com/jobs/personal-details-mention-job-search-article-1.1959159|newspaper = New York Daily News|title=Job Advice|date = 2014-10-01|access-date = 2015-10-29}}</ref>
+books,<ref name=sbio>{{cite book |title= Structural Bioinformatics |veditors=Bourne PE, Helge W | year=2003 |location= Hoboken, NJ | publisher=Wiley-Liss | isbn= 978-0-471-20199-1 |oclc= 50199108|page=229}}</ref><ref name=sb2nd>{{cite book| last1= Gu| first1= Jenny| last2 = Bourne| first2 = Philip E.| title= Structural Bioinformatics|edition= 2nd | publisher= Wiley-Blackwell|date=March 2009| isbn= 978-0-470-18105-8}}</ref>
+encyclopedias,<ref name=proteopeida>{{cite web|title=Morphs|url=http://proteopedia.org/wiki/index.php/Morphs|website=Proteopeida|access-date=2015-10-30}}</ref>
+official government publications,<ref name="krebs-orcid"/><ref name=nsfreport>{{cite report|editor1-last=Borner|title=Knowledge Management and Visualization Tools in Support of Discovery (NSF Workshop Report)|publisher=National Science Foundation Workshop|page=5|url=http://vw.slis.indiana.edu/cdi2008/NSF-Report.pdf|access-date=2015-11-01|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304101330/http://vw.slis.indiana.edu/cdi2008/NSF-Report.pdf|url-status=dead}}</ref><ref name=krebs-press-list>{{cite web|title=Press Mentions|url=https://www.acculation.com/press/|website=Acculation|access-date=2015-10-30}}</ref>
+and internationally in multiple languages<ref name=bgnujp>{{cite web|url=https://www.gnu.org/brave-gnu-world/issue-14.ja.html|title=Brave GNU World|website=Brave GNU World Japan|publisher=Brave GNU World|access-date=2015-10-30}}</ref>
+over a period spanning more than one decade.<ref name="krebs-orcid"/><ref name="science"/><ref name="krebs-press-list"/>
+
+Amongst other things, he is noted for the [[Database of Molecular Motions]] which was developed with [[Mark Bender Gerstein|Mark Gerstein]] while a PhD Candidate at [[Yale University]].<ref name="science"/><ref name="webalert"/><ref name="proteopeida"/> He has also been noted<ref name="Google Scholar">{{cite web|title=Werner G. Krebs's Google Scholar Profile|url=https://scholar.google.com/citations?user=zVjmhJ8AAAAJ&hl=en&hl=en|website=Google Scholar|access-date=2015-10-30}}</ref> as the original author of '''[[GNU]] Queue''',<ref name="bgnujp"/><ref name=gnuswho>{{cite web|title=GNU's Who|url=https://www.gnu.org/people/people.en.html#w|publisher=FSF GNU Project|access-date=2015-10-30}}</ref> a 2000s-era [[Load balancing (computing)|load balancing]] and [[parallel computing|parallel processing]] system with a simplified in-line interface.<ref name=bgnujp /><ref name=linuxjournal>{{cite journal|title = GNU Queue|journal=Linux Journal|volume=2000|issue=79|issn=1075-3583|oclc=30034634|url=http://www.linuxjournal.com/article/4208|access-date=2015-10-30}}></ref> Although GNU Queue was decommissioned in 2015 in favor of [[GNU parallel|GNU Parallel]],<ref name=gnuparallel>{{cite web|title=GNU Queue|url=https://www.gnu.org/software/gnu-queue/gnu-queue.html|publisher=FSF GNU Project|access-date=2015-10-30}}</ref> it was originally described in 1998 as having some functionality similar to [[Platform LSF|LSF]], which at the time was closed source commercial software.<ref name=gqlsf>{{cite web|title=How does GNU Queue compare to LSF?|url= http://bioinfo.mbb.yale.edu/fom/cache/31.html |website=Yale University|access-date=2015-12-04}}</ref> A simplified version of LSF was later open sourced circa 2007, eventually named [[OpenLava]] and under a GPL license [[License compatibility|compatible]] with GNU Queue. Thus, both GNU Parallel and OpenLava may be considered related GPL’d projects, although the latter is not formally a GNU project.<ref name=openlava>{{cite web|title=IBM Platform LSF|url=http://www-03.ibm.com/systems/platformcomputing/products/lsf/ |archive-url=https://web.archive.org/web/20140614221813/http://www-03.ibm.com/systems/platformcomputing/products/lsf/ |url-status=dead |archive-date=June 14, 2014 |website=IBM|access-date=2015-12-04}}</ref> He was an academic, on the faculty at [[University of California, San Diego|UCSD]].<ref name="bourne-lab">{{cite web|title = Bourne Laboratory Personnel|url = http://www.sdsc.edu/pb/People.html|website = SDSC|access-date = 2015-10-30}}</ref><ref name="krebs-orcid"/><ref name="krebs-wgkjc"/>
+
+==See also==
+* [[Database of Molecular Motions|Database of Macromolecular Motions]]
+* [[List of free and open-source software packages]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{anchor|GNUQueue}}
+* [http://www.linuxjournal.com/article/4208 ''Linux Journal'' article on GNU Queue]
+* [https://sourceforge.net/projects/queue/ Sourceforge GNU Queue download archive]
+* [https://www.gnu.org/software/gnu-queue/gnu-queue.html Official GNU Queue Project Page (decommissioned)]
+* [https://www.acculation.com/werner-g-krebs-ph-d-speaker-profile/ Werner G Krebs official profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Krebs, Werner G.}}
+[[Category:University of Chicago alumni]]
+[[Category:Yale University alumni]]
+[[Category:American bioinformaticians]]
+[[Category:Living people]]
+[[Category:University of Chicago Laboratory Schools alumni]]
+[[Category:1970s births]]
+[[Category:Scientists from Los Angeles]]
+[[Category:21st-century American biologists]]
+[[Category:Year of birth missing (living people)]]
