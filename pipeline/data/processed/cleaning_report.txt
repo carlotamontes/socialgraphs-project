@@ -1,0 +1,54 @@
+Wikidata people (all fields): 12773
+with downloaded Wikipedia page: 12759
+after removing redirects / disambiguation pages: 12756
+after removing stubs (< 50 words of prose): 12463
+
+Gender (all kept pages): male=10194, female=2255, other=11, multiple=3
+
+MAIN (physics/chemistry): pages: 9680
+  matched to OpenAlex by ID: 3006
+  dropped as doubtful match (name similarity < 0.6): 77
+  usable for comparisons (matched, not doubtful, gender m/f, citations > 0): 2926
+    female: 606 usable of 1464 pages (41.4%); split OpenAlex profiles among matched: 12.2%; doubtful: 1.6%
+    male: 2320 usable of 8209 pages (28.3%); split OpenAlex profiles among matched: 15.5%; doubtful: 0.7%
+
+BIOLOGY (robustness): pages: 2783
+  matched to OpenAlex by ID: 1063
+  dropped as doubtful match (name similarity < 0.6): 30
+  usable for comparisons (matched, not doubtful, gender m/f, citations > 0): 1030
+    female: 344 usable of 791 pages (43.5%); split OpenAlex profiles among matched: 11.2%; doubtful: 1.8%
+    male: 686 usable of 1985 pages (34.6%); split OpenAlex profiles among matched: 13.7%; doubtful: 0.8%
+
+Usable main set, per field x decade (women / men):
+gender                    female  male
+field_group birth_decade              
+chemistry   1920               1    10
+            1930               7    70
+            1940              26   218
+            1950              60   241
+            1960              87   208
+            1970              49    85
+            1980              10     6
+phys+chem   1920               2     1
+            1930               0    10
+            1940               3    21
+            1950               4    22
+            1960               6    16
+            1970               2     3
+physics     1920               1     9
+            1930               3    93
+            1940              25   336
+            1950              91   454
+            1960              91   351
+            1970             133   160
+            1980               5     6
+
+edges between kept pages: 12203
+
+Hand-check of matches (Wilson 95% CI):
+  all     correct           100/100 = 100% [96%, 100%]
+  all     profile_complete  96/100 = 96% [90%, 98%]
+  female  correct           50/50 = 100% [93%, 100%]
+  female  profile_complete  49/50 = 98% [90%, 100%]
+  male    correct           50/50 = 100% [93%, 100%]
+  male    profile_complete  47/50 = 94% [84%, 98%]

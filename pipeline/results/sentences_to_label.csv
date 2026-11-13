@@ -1,0 +1,301 @@
+qid,sent_idx,gender,stratum,stratum_pop,sentence,is_personal,is_professional
+Q15848277,9,female,personal_flag,471,"In 1990, NAME moved to the United States with PRON family, enrolling in the University of Illinois at Chicago as PRON had family nearby.",1,1
+Q22030586,8,male,neither,22059,"PRON was educated at the École Internationale de Genève before studying chemistry at ETH Zurich, where PRON received PRON diploma in 1974.",0,1
+Q42048115,15,female,neither,5083,"Zamble was involved with recreating the biological chemistry curriculum at the University of Toronto, leading a second year course that incorporated PRON enthusiasm for cooking.",0,1
+Q114944,17,female,personal_flag,471,"Awards Bundessieger Jugend forscht (National Youth Research Competition, 1st Place Winner, 1975)  Gottfried Wilhelm Leibniz Prize, 1994  Bundesverdienstkreuz am Bande (Federal Cross of Merit, 1995)  Preis für gute Lehre des Bayerischen Staatsministeriums für Wissenschaft, NAME und NAME (Prize for good teaching of the Bavarian State Ministry of Sciences, Research and the Arts, 2000)  NAME (Bavarian Order of Merit, 2009)  NAME für Wissenschaft und NAME (Bavarian NAME for Science and Art, 2010)   Personal life  NAME met PRON spouse NAME at the Bundessieger Jugend forscht (National Youth Research Competition) in 1975 and was later married in 1979.",1,1
+Q107395028,3,female,neither,5083,PRON scientific contributions were acknowledged by a number of international and national awards.,0,1
+Q89419003,0,male,neither,22059,"NAME (, born 23 November 1955) is a Japanese chemist specializing in the development and physical characterization of molecular conductors and superconductors which is a field of materials science.",0,1
+Q11117673,9,female,professional_flag,7243,"In 2017, NAME was awarded the Chemical Biology Approach to Molecular Medicine in Areas of Excellence Scheme by University Grants Committee.",0,1
+Q1403078,10,female,neither,5083,of the Foundation Council of the Swiss National Science Foundation.,0,1
+Q18643970,27,male,neither,22059,and more than 40 Candidates of Science (Ph.D.).,0,1
+Q7684027,21,female,personal_flag,471,"Professional associations  Fellow, Optical Society of America (FOSA) Fellow, Australian Academy of Science (FAA) Bragg Fellow, RI Aus (Royal Institution Australia)  Personal life NAME was raised in the Sydney suburb of Bankstown.",1,1
+Q26251105,12,male,professional_flag,29881,"On the USAFA Superintendent's List for academic and military excellence, NAME was also a member of Academy Student Section of American Institute of Physics, a member of Pi Mu Epsilon, and PRON earned the Maj.",0,1
+Q7441,10,female,neither,5083,Deyrup encouraged NAME to attend Barnard as an undergraduate.,0,1
+Q16221615,32,female,personal_flag,471,They divorced in 1990.,1,0
+Q55280,27,female,professional_flag,7243,"They discovered how bleomycin induces DNA strand breaks in tumor cells, which in turn induces apoptosis.",0,1
+Q6238077,4,male,professional_flag,29881,"PRON has published more than 200 papers in scientific journals, book chapters and conference proceedings, holds one patent, works on the development of ultra-stable cryocooled sapphire oscillators and participated on a Sapphire Clock Ensemble project (Atomic Clock Ensemble in Space Mission) run by the European Space Agency.",0,1
+Q47311704,5,female,personal_flag,471,PRON was the first member of PRON family to go to university.,1,0
+Q6758818,4,male,personal_flag,1879,"Living with PRON parents and PRON younger sibling NAME in Warsaw, PRON went to primary school in 1964 and graduated from high school in 1976.",1,0
+Q4749367,23,female,professional_flag,7243,"In 2012, PRON was made a full professor.",0,1
+Q59681696,3,male,professional_flag,29881,"In 1985, PRON received PRON PhD in theoretical physics from the University of Stuttgart under Herrmann Haken.",0,1
+Q21264647,14,female,professional_flag,7243,This collaboration led in September 2015 to the detection of gravitational waves for the first time after NAME's prediction.,0,1
+Q26705083,21,female,personal_flag,471,"One child is pursuing the PhD in chemistry at Northwestern University, one is an undergraduate student at Colorado State University, and one works as a financial planner.",1,0
+Q30005864,10,female,personal_flag,471,"PRON has two children, also scientists.",1,0
+Q565544,13,female,professional_flag,7243,"In 1986, L'Huillier obtained a permanent position as a researcher at the CEA, at the Saclay site.",0,1
+Q45606373,16,female,professional_flag,7243,The following year PRON was elected to the Royal Danish Academy of Sciences and Letters.,0,1
+Q56068,20,female,neither,5083,"Doudna was an undergraduate student at Pomona College in Claremont, California, where PRON studied biochemistry.",0,1
+Q56551534,20,female,personal_flag,471,They had two children.,1,0
+Q2590503,31,male,professional_flag,29881,"PRON research on atoms and molecules serves as inspiration for PRON painting; PRON describes PRON own visual language as NAME (""molecularism"").",1,1
+Q21262122,9,female,neither,5083,"Mertig develops these descriptions using green functions, which can be used to describe thin films, surfaces or heterostructures.",0,1
+Q1377481,3,male,professional_flag,29881,"From 1988 to 1991 PRON was responsible for the activities on functional ceramics at the MPI for Metals Research in Stuttgart, and from 1988 to 1996 PRON taught defect chemistry at the Massachusetts Institute of Technology.",0,1
+Q63536795,3,female,professional_flag,7243,"Postdoctoral studies at Oxford University in NAME group were followed by independent research at University of Leeds, King's College London and in Imperial College London.",0,1
+Q374205,37,male,personal_flag,1879,"In 1975, PRON and NAME married.",1,0
+Q41427746,5,female,personal_flag,471,"Early life and education  Born in 1966, NAME grew up on a banana farm in Damour, where PRON was inspired by PRON parent's connection to nature.",1,0
+Q722128,6,male,neither,22059,PRON graduate adviser at Harvard was NAME.,0,1
+Q7614416,62,male,professional_flag,29881,"These tools will allow personalized medicine using ""point-of-care"" genetic analysis, as well as research tools that measure the level of individual mRNA molecules within single processes of single living neurons.",0,1
+Q310798,4,male,personal_flag,1879,"Early life   Family  NAME was born in London in 1959 to Hugo and NAME, both German Jewish refugees to the United Kingdom.",1,0
+Q5042167,53,male,neither,22059,"68, p. 1093 – 1095.",0,0
+Q60339844,4,female,personal_flag,471,PRON parent NAME was a physicist.,1,0
+Q1620293,12,male,professional_flag,29881,PRON led the establishment of the Walter Burke Institute for Theoretical Physics and was appointed its founding director in 2014.,0,1
+Q6504466,6,male,professional_flag,29881,"PRON has made frequent visits, long and short term, at the Institute for Advanced Study, Princeton, New Jersey, the Department of Theoretical Physics, University of Geneva, CERN (Geneva), University of Connecticut (Storrs, Connecticut), ETH (Honggerberg, Zurich), Institut des Hautes Etudes Scientifiques (Bures-sur-Yvette, France), and the Ilya Prigogine Center for Statistical Mechanics and Complex Systems, University of Texas at Austin, United States.",0,1
+Q16876053,6,female,professional_flag,7243,"In 2010, PRON became the founding chair of the Noble Metal Nanoparticles Gordon Research Conference Between 2016 and 2018, PRON was associate director of the International Institute for Nanotechnology.",0,1
+Q16887700,63,female,neither,5083,Indanediones are standardly used in the first stage of forensic identification of latent fingerprints.,0,1
+Q42731052,30,male,professional_flag,29881,"NAME, Weizmann Institute of Science.",0,0
+Q6133731,6,male,neither,22059,"Thus, if the mass of a given object can be varied while being oscillated in a linear or orbital path, such that the mass is high while the mass is moving in one direction and low while moving back, then the net effect should be acceleration in one direction as the inertial drag of the universe upon the object varies as its mass varies.",0,1
+Q202588,13,male,personal_flag,1879,Phillips has since applied PRON bioinformatic scaling methods to several medically important families.,0,1
+Q201513,8,male,personal_flag,1879,Their sibling NAME earned a Ph.D. in mathematics from Stanford University and then an M.D. from the University of Miami.,1,0
+Q1403078,22,female,neither,5083,"B 126 (1983) 398-410 (INSPIRE)   Search for the standard model Higgs boson at LEP ALEPH, DELPHI, L3 and OPAL Collaborations at LEP, NAME.",0,1
+Q16013140,5,male,personal_flag,1879,"Career  2025–present: professor, School of Materials Science and Engineering, Peking University  2024–present: professor and Director of Low-Dimensional Quantum Materials Institute at Hubei University of Technology   2023–present: Distinguished HCR professor, Department of Physics, Sungkyunkwan University  2012–2023: Director of Center for Integrated Nanostructure Physics, Institute for Basic Science  2021–present: Chinese Academy of Sciences, China, NAME: Professor in energy science, Sungkyunkwan University  2007–Present: Korean Academy of Science and Technology (KAST), member  2001–Present: Professor in physics, Sungkyunkwan University, SKKU fellow  1996–1997: Visiting professor in physics, Michigan State University, United States  1993–1993: Visiting researcher, Zurich IBM Research Center, Switzerland  1989–1990: Visiting professor in physics, Iowa State University Ames National Laboratory, United States  1987–2001: Assistant Professor, full professor in physics, Chonbuk National University  Awards  2020: Seongbong Physics Award from the Korean Physical Society  Nov. 2019: Kyung-Ahm Prize in Natural Science, Kyung-Ahm Education & Cultural Foundation  May 2017: NAME, Chinese Academy of Sciences  May 2014: NAMEDecember 2012: Grand Prize for Sungkyun Family (Educational Achievements Parts), Sungkyunkwan University  December 2010: 100 representative researches in all the researches and development done during 2010 in Korea, Ministry of Education, Science and Technology  October 2010: 100 representative research achievements in the R&D of Ministry of Education, Science and Technology  May 2008 Presidential Award in Science and Education  December 2007: Lee Hsun Research Award, IMR, Chinese Academy of Science, China  April 2005: Nominated as ""Representative Research achievement of BK21 (’01.03~’05.12)"", ""Modification of electronic structures of a arbonnanotube by hydrogen functionalization""  May 1997: Award from Foundation of Korea Science and Technology for ""The Best Paper in Physics "" Fellowship and Nominations  June 1997: Nominated as ""GENDERWORD of Jeonbuk National University"" in Science in 50th Anniversary of Jeonbuk National University  September 1999: Nominated for ""GENDERWORD of Jeollabuk-do Province"", in Academia and Public press  September 2004: First Fellow of Sungkyunkwan University  April 2005: Science Award from Korean Physical Society  September 2007: Fellow of Sungkyunkwan University  Other activities November 2009–Present: Associate Editor of European Physical Journal: Appl.",0,1
+Q18166645,4,female,personal_flag,471,"Early life  NAME was born in the Federal People's Republic of Yugoslavia, People's Republic of Croatia and emigrated to Australia with PRON family in 1957.",1,0
+Q64358533,11,female,neither,5083,"Hong's ssNMR studies have provided insights into the proton-conduction mechanism of this channel, by quantifying the proton transfer rates and equilibria between water and the proton-selective histidine residue.",0,1
+Q1174726,30,male,neither,22059,"Hestenes is adamant about calling this mathematical approach “geometric algebra” and its extension “geometric calculus,” rather than referring to it as “Clifford algebra”.",0,1
+Q88524142,29,male,neither,22059,NAME is one of the few Israeli researchers whose H-index exceeds 110.,0,1
+Q25816683,44,female,neither,5083,Billard continues to base PRON computational approaches on biological systems and began to explore how implementing neuromodulatory mechanisms in neural networks produce tune-able pattern generation as they would in the human brain.,0,1
+Q59423923,8,female,professional_flag,7243,"From 1993–1995, NAME was a National Science Foundation Postdoctoral Fellow at Lawrence Berkeley National Lab and UC Berkeley where PRON worked with NAME and NAME.",0,1
+Q57117365,7,female,professional_flag,7243,"D, PRON researched applications of immunoassays in agricultural chemistry.",0,1
+Q6263975,27,male,neither,22059,"SQUID magnetometers  In the 1990s, NAME began developing high spatial resolution SQUID magnetometers for mapping the magnetic field, to use in both biomagnetic studies and in non-destructive testing.",0,1
+Q14946845,23,female,personal_flag,471,"PRON often advocates for GENDERWORD's roles in science, and has spoken about the challenge of having children as a GENDERWORD scientist.",1,1
+Q7473569,17,male,neither,22059,"In 2018, PRON chaired the Expert Working Group of the Australian Council of Learned Academies (ACOLA) preparing a Horizon Scanning Report on the ""Deployment of Artificial Intelligence and what it presents for Australia"" at the request of Australia’s Chief Scientist, Dr NAME, and on behalf of the Commonwealth Science Council.",0,1
+Q29829012,13,male,professional_flag,29881,"In 2015, How won the AeroLion Technologies Outstanding Paper Award for the Journal Unmanned Systems.",0,1
+Q194559,47,male,neither,22059,PRON formerly served on the Senior Editorial Board of Science.,0,1
+Q15989864,31,male,professional_flag,29881,Other activities  Peer Review College of the Engineering and Physical Sciences Research Council; Science and Engineering Fellowships Committee of The Royal Commission for the Exhibition of 1851; Engineering Review Panel of the Newton International Fellowships; Board of Management of the Ian Ramsey Centre; Advisory Board of the McDonald Centre; Board of Electors to the Wilde Lectureship in Natural and Comparative Religion; NAME of the Worshipful Company of Clothworkers and NAME of the City of London; Editorial Board of Science & Christian Belief; International Board of Advisors of the John Templeton Foundation.,0,1
+Q100978619,0,male,professional_flag,29881,NAME is a theoretical astrophysicist who lives and works in the United States.,0,1
+Q6155075,26,female,personal_flag,471,"NAME is the parent of two children, a child born in 2004 and a child born in 2007.",1,0
+Q107395028,13,female,professional_flag,7243,"NAME  NAME returned to the Weizmann Institute of Science in 1987, where PRON joined the Department of Isotope Research as a Scientist, initially supported by a GENDERWORD NAME (1987–1988), PRON was then promoted to Senior Scientist in 1988, Associate Professor in 1992 and full Professor in 1998.",0,1
+Q20203377,13,male,neither,22059,"In 2001 PRON moved to the School of Chemistry at the University of Southampton, UK.",0,1
+Q1879957,16,female,personal_flag,471,"At that time, NAME boyfriend and future spouse, NAME, studied astronomy and finished a course on discoveries of interstellar molecules.",1,0
+Q19662464,4,male,neither,22059,Ansari has recently reported a novel symmetry in quantum computation that helps to liberate quantum bits from fundamental parasitic interactions.,0,1
+Q1510551,1,female,personal_flag,471,"PRON is the child of educationist  and biochemist NAME, and the sibling of NAME, educationist and erstwhile director of the International Bureau of Education of UNESCO.",1,0
+Q21264533,23,female,personal_flag,471,Personal life NAME's spouse is a cardiologist with whom PRON has a child.,1,0
+Q750526,12,female,neither,5083,"From 1994 to 2003, PRON taught mathematics and physics in Lemgo and at Leibniz University Hanover.",0,1
+Q54014340,6,male,professional_flag,29881,Research  Tománek and PRON research group have worked in areas in nanoscience and nanotechnology.,0,1
+Q8998086,28,male,neither,22059,"Since 2015, scholars can organize their own conference for free on the NAME platform.",0,1
+Q23661774,14,female,professional_flag,7243,"Coppersmith won the NSW Premier's Prize for Excellence in Mathematics, Earth Sciences, Chemistry or Physics in 2024, and the Australian Institute of Physics GENDERWORD in Physics medal in 2024.",0,1
+Q26849195,10,female,neither,5083,PRON is currently the chair of the EPS Equal Opportunities Committee.,0,1
+Q85922222,6,female,personal_flag,471,PRON family moved to the United States when PRON was 11 and settled in Massachusetts.,1,0
+Q7293943,6,male,neither,22059,NAME earned PRON Ph.D. at Cambridge University in 1997; PRON doctoral advisor was NAME.,0,1
+Q11171917,15,male,neither,22059,"The reason it's got such a high profile is that other X-ray telescopes see a tiny, tiny part of the sky.",0,1
+Q83477394,23,female,neither,5083,"After retiring from the University of Delaware, NAME worked to establish funding for a UD College of Engineering program supporting science education outreach.",0,1
+Q1510551,9,female,neither,5083,Since 2000 PRON is the chair of the IUPAC subcommittee on photochemistry.,0,1
+Q1210578,163,male,neither,22059,"PRON proposes to ""mine"" Swiss francs to stabilise the exchange against the euro to an economically and politically consensus (that could be around 1.20–1.25 ChF per euro) and buy as much euros and dollars as is necessary for this.",0,1
+Q15966405,12,female,personal_flag,471,"While working on PRON Ph.D., PRON met NAME and the two married on May 15, 1982.",1,0
+Q107395028,57,female,personal_flag,471,"Awards and honours   1976: NAME, The Hebrew University  1981: NAME, Weizmann Institute of Science  1982: NAME, Weizmann Institute of Science  1983: NAME, Weizmann Institute of Science  1991: NAME in Chemistry, Weizmann Institute of Science  2002: Silver Medal for Chemistry, International EPR Society[1]  2007: Bruker Lecture Prize, EPR Group of the Royal Society of Chemistry  2008: Elected Fellow of the International Society of Magnetic Resonance  2009: International Zavoisky Award  2011: Kolthoff Prize, Technion – Israel Institute of Technology  2013: Elected Fellow of the Royal Society of Chemistry  2015: Elected President of the International Society of Magnetic Resonance  2016: Israel Chemical Society Excellence prize  2017: International EPR Society Gold Medal  2019: Ernst Prize in Magnetic Resonance (shared with NAME)  2019: Weizmann Prize in the Exact Sciences, Tel Aviv Municipality  2020: Elected Fellow of the International EPR Society  2025: NAME, NAME on Magnetic Resonance in Solids   Personal life  NAME is married with two children.",1,1
+Q20066521,1,male,personal_flag,1879,"PRON has two children – Yury Gogotsi, world-known professor of chemistry, materials science and nanotechnology at Drexel University, USA, and Oleksiy Gogotsi – engineer and materials scientist, child – Helena Gogotsi, physicist and materials scientist.",1,0
+Q6205839,9,female,neither,5083,PRON returned to Oxford to complete a Doctor of Philosophy (DPhil) degree in atmospheric physics under the supervision of NAME.,0,1
+Q7441,16,female,professional_flag,7243,NAME remained at the University of Pittsburgh for two more years as a postdoctoral research fellow.,0,1
+Q1361534,4,male,professional_flag,29881,"From 1989 to 2020, Hege worked as a scientist at the Zuse Institute Berlin (ZIB), initially in the fields of high-performance computing and computational physics.",0,1
+Q23017063,4,male,professional_flag,29881,"PRON is the author of two books, Losing The Nobel Prize and Into the Impossible.",0,1
+Q6849676,2,male,personal_flag,1879,"Life and career  NAME was born on 20 April 1941 in former NAME, NAME, Soviet Union, into a family of Soviet Jews: NAME and NAME.",1,0
+Q450304,5,female,personal_flag,471,"Of PRON childhood with PRON three siblings, PRON says, ""I learned very young how to make myself heard.""",1,0
+Q51063010,22,female,neither,5083,"PRON has also looked at liquid metals, and demonstrated that applying a low voltage to eutectic gallium-indium can cause it to form snowflake-like crystals.",0,1
+Q25432128,10,female,neither,5083,"PRON most cited works discuss how to mine data from large complex networks accurately, successfully capturing the properties of the mined distribution.",0,1
+Q2056796,14,male,neither,22059,This work militates against the idea that quantum non-locality would ultimately require abandoning the mathematical structure of general relativity.,0,1
+Q5993996,13,male,personal_flag,1879,"NAME and PRON spouse, fellow UNAM faculty member NAME, were the first non-U.S. scientists to win the Hans Bethe Prize.",1,1
+Q1174726,15,male,neither,22059,In 1983 PRON joined with entrepreneur NAME and psychologist NAME in conducting the first ever conference devoted exclusively to neural network modeling of the brain.,0,1
+Q66303617,13,female,neither,5083,GENDERWORD in science promotion  NAME has always been vocal about the detrimental biases faced by GENDERWORD academic scholars.,0,1
+Q112343164,29,male,personal_flag,1879,PRON is married to NAME and has two children and two grandchildren.,1,0
+Q19862281,6,male,neither,22059,PRON work involved exploring the use of carbon nanotube as nanoscale containers for molecules.,0,1
+Q56077,34,female,neither,5083,"Protein Kinase Dynamics:  In NAME's lab, PRON uses hydrogen-exchange mass spectrometry (HX-MS) to discover and better understand protein motions on the inside of kinases, where energy fluctuations occur.",0,1
+Q6709431,12,female,professional_flag,7243,The report earned contributing scientists a share of the Nobel Peace Prize later that year.,0,1
+Q20710990,29,female,personal_flag,471,"Other honours   Fellow, American Association for the Advancement of Science (2013)  Queen NAME NAME (2013)  Fellow, Canadian Academy of Sciences of the Royal Society of Canada  Fellow, Canadian Academy of Engineering  Fellow, Canadian Academy of Health Sciences  Tissue Engineering and Regenerative Medicine International Society (TERMIS) Senior Scientist Award (2014)  Fellow, Royal Society UK  Fellow, National Academy of Inventors   Personal life  PRON sibling, NAME, is a professor at the University of California, San Francisco, where PRON serves as Co-Vice Dean of Graduate Pharmacy Education Programs and faculty in the Department of Pharmaceutical Chemistry.",1,1
+Q28474705,9,male,neither,22059,"PRON attended Princeton University, where PRON earned an undergraduate degree in chemical engineering and mathematics in 1989.",0,1
+Q16221615,4,female,personal_flag,471,"PRON parent, NAME, survived an Auschwitz concentration camp and PRON parent NAME was a political prisoner.",1,0
+Q135180,5,male,personal_flag,1879,"Early life and career NAME was born to parents of Czech origin (PRON grandparent was Czech, PRON other grandparents were first-generation Americans) in Chicago.",1,0
+Q56948614,13,female,professional_flag,7243,PRON was a working group leader for the European Cooperation in Science and Technology String Theory Universe COST action.,0,1
+Q62085,21,male,personal_flag,1879,"Because of PRON spouse's political career, Sauer has received far more media attention than is usual for a research scientist.",1,0
+Q7473569,27,male,professional_flag,29881,"In 2015, the Association for Constraint Programming presented PRON with their Research Excellence Award, which identifies and honours the most influential people in the field.",0,1
+Q3264943,18,male,neither,22059,"Among the many initiatives PRON realized are the development of a new campus and science pavilion project at the Outremont rail yards acquired in 2006, the creation of the School of Public Health, the establishment of the Cité du Savoir in Laval and the founding of the International Forum of Public Universities.",0,1
+Q1678456,1,male,professional_flag,29881,"Henderson shared the Nobel Prize in Chemistry in 2017 with NAME and NAME. """,0,1
+Q1027941,4,male,personal_flag,1879,"Life   Ancestry  NAME's family name comes from French Huguenot ancestors, according to family tradition, with some French bishops, of whom one, NAME, was a Swiss politician and president of the Swiss Appeal Court, and another, NAME, a writer and consultant of NAME, settled in Hungary.",1,0
+Q6696969,15,female,professional_flag,7243,"Career  After gaining PRON PhD, PRON moved to Cardiff University's School of Physics and Astronomy  and became the Project Co-ordinator of the Faulkes Telescope Project.",0,1
+Q8066154,37,male,neither,22059,"and  NAME, SK., """,0,0
+Q15432669,3,male,personal_flag,1879,PRON parent worked as a machinist and opened a business there.,1,0
+Q2436981,10,male,professional_flag,29881,"Articles Instabilities and Chaos in Quantum Optics (1987) I simboli e la realtà (1990) Optical chaos (selected papers on) (1994) Lexicon of Complexity (1996) Determinismo e Complessità (2000) Caos e Complessità nel NAME (2004) Coerenza, Complessità, Creatività (2007)",0,1
+Q450304,18,female,professional_flag,7243,"In 2001, PRON was elected to become president of the American Physical Society for the year 2004.",0,1
+Q7421764,14,female,personal_flag,471,Personal life  PRON is married to NAME and they have two children from PRON first marriage.,1,0
+Q85970310,15,female,neither,5083,PRON was the first to use spin-labelled nanobodies to report cellular membrane potentials.,0,1
+Q1908842,6,female,professional_flag,7243,Between 2000 and 2010 PRON held a C3 position (German equivalent of associate professor) at the Max Planck Institute for Mathematics in Bonn and held an associate professor position (courtesy) at Florida State University in Tallahassee.,0,1
+Q243196,38,male,professional_flag,29881,"Although still an active research professor at Harvard, PRON joined the Texas A&M University faculty September 1, 2005, as a professor of physics, teaching one semester per year in the chemical physics program.",0,1
+Q56875844,15,male,professional_flag,29881,"In 2025, NAME received the NOMIS Award for groundbreaking interdisciplinary research.",0,1
+Q42254003,9,female,professional_flag,7243,"PRON was appointed to the faculty at University of California, Santa Barbara in 1986.",0,1
+Q1265475,15,male,neither,22059,PRON also serves as the founding president of the International Society for Computational Social Science.,0,1
+Q61770184,0,male,neither,22059,NAME (; 19 April 1934 – 29 September 2025) was a Soviet and Russian physicist and academic.,0,1
+Q109816,5,male,professional_flag,29881,"NAME  From 2000 until 2004, PRON was professor for organic chemistry at Marburg University until PRON became professor for organic chemistry at LMU Munich.",0,1
+Q78610,36,male,neither,22059,PRON dream is to put sources of entangled light onto a satellite in orbit.,0,1
+Q59679347,10,male,neither,22059,In 2005 NAME was founding member of the German Association of Ellipsometry (NAME).,0,1
+Q3709781,30,male,personal_flag,1879,"Feltus said PRON was still contacted by people in Europe who believed the GENDERWORD was a missing relative but did not believe an exhumation and finding the GENDERWORD's family grouping would provide answers to relatives, as ""during that period so many war criminals changed their names and came to different countries"".",0,1
+Q10272093,23,female,professional_flag,7243,"In 2018, PRON received a European Research Council grant worth €3.5 million, the largest grant ever awarded to a Portuguese researcher at the time of the award.",0,1
+Q181363,7,male,personal_flag,1879,"Education  NAME was born on 4 January 1940 in Cardiff, Wales, to Jewish parents, NAME (née Weisbard) and NAME.",1,0
+Q9085742,2,female,neither,5083,"PRON was a dedicated educator, training 118 postgraduate and doctoral students.",0,1
+Q67452,74,male,neither,22059,Filmography  Speed climbing The Nose:,1,0
+Q47538727,4,female,neither,5083,"During that time, NAME became an internationally leading climate change scientist.",0,1
+Q2850406,19,female,personal_flag,471,"In 1980, when graduating from Stanford University, PRON and PRON spouse wore colored ribbons to protest Stanford's investments in Apartheid South Africa.",1,0
+Q16214492,54,male,professional_flag,29881,NAME gives away PRON entire salary to the students and biomedical researchers in PRON laboratory every Thanksgiving.,1,1
+Q906529,50,male,neither,22059,PRON held the Virginia H. Cockrell Centennial Chair in Engineering.,0,1
+Q16221615,21,female,personal_flag,471,PRON divorced NAME in 1990.,1,0
+Q1750101,53,male,neither,22059,"Most recently, PRON has demonstrated that this macroporous electronics can be injected by syringe to position devices in a chosen region of the brain.",0,1
+Q21402760,0,female,neither,5083,NAME is a Swiss academic who works on fundamental aerosol science.,0,1
+Q44285979,26,female,personal_flag,471,Awards and honours  1997 NASA/American Society for Engineering Education Visiting Research Fellow 2001 National Academy of Engineering Frontiers in Engineering 2004 NASA Network of Educator Astronaut Teachers 2008 Fulbright Fellow at VTT Technical Research Centre of Finland 2018 Fellow of Optica (formerly the Optical Society) 2019 President of Optica   Personal life  NAME is married to Ulf Österberg who retired in 2024 from the Thayer School of Engineering; they have three children.,1,1
+Q102250,59,male,personal_flag,1879,"Since introduction of artemisinin combination therapy in 2003 and distribution of insecticide treated bed nets in 2007, the burden of malaria in small children has declined in Macha by 96%.",0,1
+Q56068,91,female,neither,5083,They worked together on the project to crystallize and determine the structure of the Tetrahymena Group I intron P4-P6 catalytic region.,0,1
+Q58157865,30,male,personal_flag,1879,"Sarpong's sibling, NAME, is a R&D Director and Project Leader at GlaxoSmithKline Pharmaceuticals.",1,0
+Q61471335,5,female,neither,5083,PRON retired in 2019.,0,1
+Q275604,24,female,professional_flag,7243,"In 1991, Daubechies was appointed as a professor at Rutgers University in New Brunswick, where PRON taught in their mathematics department.",0,1
+Q85922222,21,female,professional_flag,7243,Aprahamian is a fellow of the American Physical Society (APS) since 1999 and the American Association for the Advancement of Science (AAAS) since 2008.,0,1
+Q15145171,11,female,professional_flag,7243,Research interests Plasma instabilities in the equatorial ionosphere Probing the ionosphere with radio waves Effects of space weather on the ionosphere Spatio-temporal variations of the geomagnetic field,0,1
+Q202152,8,male,professional_flag,29881,PRON became a member of the MRC Laboratory of Molecular Biology group headed by Nobel laureate biologist NAME.,0,1
+Q273279,14,male,personal_flag,1879,"Most of the rest of the family was killed in the Holocaust, though one grandparent and a few others survived.",1,0
+Q117195398,4,female,professional_flag,7243,"After education in India in the school of philosopher NAME, PRON returned to the US for PRON higher education, and majored in physics as an undergraduate at Cornell University, with NAME and NAME as faculty mentors, graduating magna cum laude in 1996.",0,1
+Q2357941,20,male,neither,22059,"Magnetoresistive random-access memory (MRAM) promises unique attributes of high speed, high density and non-volatility.",0,1
+Q504303,19,male,professional_flag,29881,"It was during this time that PRON wrote The Secret Knowledge, published in 2013.",0,1
+Q11172658,15,female,professional_flag,7243,In 2018 PRON was elected a Fellow of the Royal Society of Edinburgh (FRSE).,0,1
+Q4143497,8,male,personal_flag,1879,"PRON parent NAME was a historian and writer exiled to Siberia, and PRON parent was a literature teacher in Omsk Pedagogical Institute.",1,0
+Q54860743,10,male,professional_flag,29881,"Research areas  Block is known for PRON research on organosulfur and organoselenium chemistry, particularly that of genus Allium plants, such as garlic and onion.",0,1
+Q59521746,17,female,professional_flag,7243,"In PRON ion trap systems, Northup can control the distance between the ions and the dielectric optical components and makes use of the fluctuation-dissipation theorem to calculate the experimental noise.",0,1
+Q73768451,16,female,professional_flag,7243,"Since 2012, PRON has been Holder of the Canada Research Chair (Tier 1) in Advanced Photonics Technologies for Communications.",0,1
+Q513936,29,female,neither,5083,NAME talks about some of the issues for GENDERWORD in science in this video.,0,1
+Q1382248,14,male,neither,22059,"Scientific contributions  Giessibl established atomic force microscopy as a surface science tool with atomic resolution, launching the field of Non-contact atomic force microscopy.",0,1
+Q22088836,21,female,professional_flag,7243,PRON holds U.S. patents on particular types of bichair oors.,0,1
+Q190756,2,male,neither,22059,"Biography  Phillips was born on November 5, 1948, in Wilkes-Barre, Pennsylvania, to NAME of Juniata, Pennsylvania, and NAME of Ripacandida, Italy.",1,0
+Q2600403,27,male,professional_flag,29881,"It proposes a unified field theory combining a grand unification theory of particle physics with NAME general relativistic description of gravitation, using the largest simple exceptional NAME algebra, E. Lisi stated that gravity, the Standard Model bosons and fermions can be unified as parts of an E superconnection.",0,1
+Q56885638,20,female,neither,5083,"PRON team has worked across diverse classes of nanomaterials, including metallic nanostructures and advanced transformations thereof as well as metal oxides, sulfides, and nitrides.",0,1
+Q135171,23,male,neither,22059,The chloride anion then acts as a base to afford the aldehyde product and chromium(IV).,0,1
+Q15848292,3,female,personal_flag,471,"PRON family frequently moved around the United Kingdom when PRON was a child, living in various locations including NAME, NAME and NAME.",1,0
+Q6766925,12,male,professional_flag,29881,"With the increasing interest in the role of information in physics, Burgess has argued that computer science and physics can be bridged using the concepts of promise theory, through the notion of semantic spacetime, a description of functional aspects of spacetime at multiple scales, which offers an alternative to NAME theory of bigraphs.",0,1
+Q8005525,12,male,professional_flag,29881,Honors NAME received the 2013 Swartz Prize for Theoretical and Computational Neuroscience from the Society for Neuroscience.,0,1
+Q91259802,12,female,professional_flag,7243,"With NAME, Lykknes co-edited the book GENDERWORD in their Element: Selected GENDERWORD's Contributions to the Periodic System, which was published by World Scientific in 2019.",0,1
+Q112343164,28,male,personal_flag,1879,"Personal life Fthenakis is the child of Menelaos Fthenakis and NAME, who died in the sinking of the SS Heraklion in Greece when PRON was 14 years old.",1,0
+Q13439137,9,female,professional_flag,7243,"PRON moved to the University of Chicago in 2003 and was named the Louis Block Professor of Physics in 2011, the Louis Block Distinguished Service Professor in 2017, and the NAME Service Professor in 2024.",0,1
+Q23015069,1,male,professional_flag,29881,PRON is a professor emeritus of materials science and engineering at Northwestern University.,0,1
+Q951543,0,male,professional_flag,29881,"NAME,  (; born 1966) is a Russian physicist who led the team that developed the NAME, a type of mass spectrometer, and received the 2008 American Society for Mass Spectrometry Distinguished Contribution in Mass Spectrometry Award for this development.",0,1
+Q56640438,22,female,neither,5083,PRON observed the interaction of the solar wind with the magnetosphere of Saturn.,0,1
+Q75944,16,male,personal_flag,1879,"PRON had a passion for woodland birds from PRON early childhood, a pastime which PRON parent cherished also.",1,0
+Q1030183,23,male,professional_flag,29881,"In PRON interview with Discover magazine on the question what personal fabrication might be useful for, NAME said, ""There is a surprising need for emergent technologies in many of the least developed places on the planet.",0,1
+Q7173118,1,male,personal_flag,1879,"Life  NAME is the second child of Ludwig Aichelburg (born 1917) and NAME (born 1920), a descendant of the Bohemian line of the  from NAME.",1,0
+Q22005647,3,male,personal_flag,1879,PRON was primarily raised by PRON grandparent.,1,0
+Q91137817,6,female,neither,5083,"Book Cantat is a coauthor of the book Foams: Structure and Dynamics (Oxford University Press, 2013, with NAME, NAME, NAME, NAME, NAME, NAME, Arnaud Saint-Jalmes, and NAME).",0,1
+Q15966405,7,female,personal_flag,471,"Life and career  Takeuchi is the child of Mary (Marija) and NAME (Rūdolfs Sāns), Second World War refugees from Latvia.",1,0
+Q102491,47,male,neither,22059,"NAME ""nanoimages"" of whole living cells currently still take about two minutes, but work to reduce this further is currently under way.",0,1
+Q11172884,5,male,personal_flag,1879,PRON parents were biochemists.,1,0
+Q8003119,10,male,neither,22059,"Steffen was also prominent advocating along with NAME the concept of the Anthropocene, and initiating along with NAME an international debate on planetary boundaries and the ""safe operating space"" for humanity and in 2018 on the possibility of uncontrolled climate evolution, which stirred considerable scientific debate (Hothouse Earth).",0,1
+Q7426881,4,male,neither,22059,"Biography  NAME was born on 1 July 1929, in Najibabad, Uttar Pradesh, India.",1,0
+Q92687140,10,male,professional_flag,29881,The instruments developed for the NAME missions formed the basis for later instruments developed by Economou and PRON collaborators for planetary exploration.,0,1
+Q21062303,1,female,personal_flag,471,"PRON was elected a member of the National Academy of Engineering in 1995 for the discovery, development, and engineering leadership of new families of lithographic materials and processes that enable VLSI manufacturing.",0,1
+Q9081864,6,female,personal_flag,471,"PRON credits PRON parent, a mathematics professor, and PRON Ph.D. supervisor Professor NAME as role models who helped to give PRON confidence in PRON ability to succeed in physics.",1,1
+Q56509096,0,male,professional_flag,29881,"Subir Sarkar (12 September 1953, Ichapore, India) is an Indian astroparticle physicist and cosmologist, known for PRON research on the dark sector and astroparticle physics.",0,1
+Q67452,69,male,neither,22059,"2004 – NAME  (20-metres), Karlstein, Drugwall, Germany, first free solo of route; NAME found it PRON scariest solo (starts at 50m).",1,0
+Q59555622,1,female,personal_flag,471,Early life and education  NAME was inspired to explore STEM fields by PRON parent who was a metallurgical engineer.,1,0
+Q58583855,1,female,professional_flag,7243,"A professor at the University of Oslo, PRON has specialized in catalysts for the petrochemical industry.",0,1
+Q15144906,2,female,professional_flag,7243,"Krishnan won the Shanti Swarup Bhatnagar Prize for science and technology, the highest science award in India in the year 2013 in the Chemical Science category.",0,1
+Q56077,11,female,professional_flag,7243,"In 1985, PRON received PRON PhD in chemistry at the University of California, Berkeley.",0,1
+Q24640452,2,female,neither,5083,PRON also works as illustrator for scientific journals and popular science books and PRON collaborates regularly with artists and designers.,0,1
+Q88565,79,male,neither,22059,"132, 1057-1062 (2001) NAME and NAME, Concerning the Absorption and Photochemical Properties of an w-4-Dimethylaminobenzal Hypericin Derivative.",0,1
+Q15114630,2,male,personal_flag,1879,"Early life and education NAME was born in 1947 in Budapest, Hungary as the child of Hungarian Holocaust survivors.",1,0
+Q6214016,36,male,personal_flag,1879,"Honors and awards  Honorary Doctorates: University of Oulu (2017); Charles University, Prague (2020)  Honorary Professor, Amity University, India (2016); Chinese Academy of Sciences (2005)  Ilanit-Katzir Prize for exceptional achievements in the field of Life Sciences (together with NAME) (2014)  Clarence Broomfield Award for Outstanding Research (2014)  Fellow, American Association for the Advancement of Science (AAAS) (2013)  Teva Founders' NAME for breakthroughs in molecular medicine (together with NAME and NAME) (2005)  NAME and NAME for Outstanding Scientist in the field of medicine in Israel  (together with NAME) (2005)  Elected member, European Molecular Biology Organization (EMBO) (1994)  Personal life Sussman met PRON future spouse, NAME, while PRON was a postdoctoral researcher in Jerusalem.",1,1
+Q134932455,18,male,professional_flag,29881,"NAME educational background is as follows:   Careers  NAME was an expert in various sciences, including mechanics, and held a PhD in nuclear physics.",0,1
+Q74771244,1,female,neither,5083,"PRON worked in ferroelectrics, charge storage in dielectrics, dielectric dynamics in ferroic structures, superprotonic phase transitions and proton transport, and functional ceramic–polymer composites.",0,1
+Q1927126,1,male,neither,22059,PRON cameras have been important scientific instruments in the exploration of Mars.,0,1
+Q6757087,17,female,neither,5083,"When difficulties appeared (and in physics, they always appear) because of how rigorous and challenging it is, I questioned myself.",1,0
+Q15057763,2,female,neither,5083,"Early life and education Yeomans was educated at the University of Oxford where PRON was an undergraduate student of Somerville College, Oxford, for PRON BA and a postgraduate student at Wolfson College, Oxford.",0,1
+Q16193797,37,male,personal_flag,1879,PRON is married to NAME (maiden name Sanetra).,1,0
+Q15433043,24,male,professional_flag,29881,Awards and honors   NAME was granted the Sloan Research Fellowship in 1994.,0,1
+Q1174726,41,male,professional_flag,29881,"After a decade of education research to develop and validate the approach, Hestenes was awarded grants from the National Science Foundation for another decade to spread the Modeling Instruction Program nationwide.",0,1
+Q11596,18,female,professional_flag,7243,"One of PRON largest efforts in the field is the calculation of the complete lower spectra of the beryllium-like to argon-like isoelectronic sequences, amounting to the publication of data covering 400 journal pages and a total of over 150 ions.",0,1
+Q107450,50,male,personal_flag,1879,"Religious views Wilczek was raised Catholic but later ""lost faith in conventional religion"" although PRON told Scientific American that religion ""had meant a lot to me as a teenager"".",1,0
+Q7381697,3,male,personal_flag,1879,PRON parent Merfyn worked as a plumber in Glan Conwy in North Wales.,1,0
+Q83477394,21,female,personal_flag,471,Personal life and death NAME was married with two children.,1,0
+Q8014179,16,male,personal_flag,1879,"PRON described PRON as an adventurous child and directed PRON path toward chemistry without a singular, predefined ambition.",1,0
+Q23750656,1,female,professional_flag,7243,PRON is a professor in the Institute of Mathematics and NAME of the Faculty of Mechanical Engineering and Computer Science at Częstochowa University of Technology in Poland.,0,1
+Q59670711,15,female,professional_flag,7243,"Awards and recognition    2008 - Technology Review's Top Young Innovators Under 35 2010 - Nominee for World Technology Network’s World Technology Award in Materials 2011 - Sia Nemat-Nasser Early Career Award  2011 - DOE Early Career Research Program NAME - The Materials, Metals, and Minerals Society (TMS) Young Leader Professional Development Award 2012 - Popular Mechanics Breakthrough Award 2012 - NASA (inaugural) Early Career Faculty Award   2012 - Invitee to World Economic Forum (WEF) in Davos  2013 - Society of Engineering Science (SES) Young Investigator NAME - The Materials, Metals, and Minerals Society (TMS) Early Career Faculty Award  2013 - Discussion Leader at and invitee to World Economic Forum (WEF) meeting in Davos  2013 - Speaker at the 2013 China-America Frontiers of Engineering Symposium  2013 - American Chemical Society (ACS) Nano Letters Young Investigator NAME and Lectureship  2014 - Speaker at Google’s Solve for X Conference  2014 - Young Global Leader by the World Economic Forum (WEF)  2014 - One of “100 Most Creative People” by Fast Company Magazine  2014 - NAME “Best Paper Prize” by Journal of Materials Science (shared with NAME)  2014 - Kavli Foundation Early Career Lectureship in Materials Science Recipients by the Materials Research Society (MRS) 2015 - Speaker at the 2015 U.S. Frontiers of Engineering Symposium  2015 - Midwest Mechanics Tour Lecturer  2015 - NAME for the National Academy of Engineering  2015 - Technology Review’s Top-10 Emerging Technologies  2016 - CNN's 2020 Visionary  2016 - U.S. Department of Defense's (DOD) National Security Science and Engineering Faculty Fellow 2016 - U.S. Department of Defense's (DOD) Vannevar Bush Faculty Fellow 2018 - Featured in Caltech's Breakthrough Campaign 2019 - AAAFM Heeger Award   Personal life  In addition to being a scientist, NAME is also an accomplished pianist.",1,1
+Q16843449,17,female,professional_flag,7243,"PRON was a staff scientist in the LIGO group at MIT, joined the faculty at Penn State in 1997 and moved to LSU in 2001.",0,1
+Q1348480,1,male,neither,22059,PRON is known for PRON work on the hypothesis that fewer cosmic rays are an indirect cause of global warming via cloud formation.,0,1
+Q59715669,11,male,personal_flag,1879,"2025)   ""Molecular Forces Based on the Baker Lectures of NAME,"" NAME and children, Inc., New York (1967) 176 pp.",0,1
+Q19947657,4,female,personal_flag,471,PRON had to argue the case then with PRON parent to be a GENDERWORD who would leave conservative Morocco to study further.,1,0
+Q122856593,12,female,professional_flag,7243,PRON is also an NAME fellow and a National Academy of Sciences Kavli Frontiers Fellow.,0,1
+Q24239058,31,male,neither,22059,"In 2003, NAME (J. Chem.",0,0
+Q56068,14,female,personal_flag,471,PRON parent enjoyed reading about science and had books on popular science at home.,1,0
+Q52789275,3,female,personal_flag,471,"Early life and education  NAME was born in Delaware in 1957 and raised in Michigan, surrounded by music and science.",1,0
+Q21264647,15,female,neither,5083,"In June 2016, NAME was seconded (part-time) to chief scientific advisor to the Scottish Government, a position vacant since December 2014, when NAME stood down.",0,1
+Q52707485,32,female,professional_flag,7243,PRON is an affiliate of the Perimeter Institute for Theoretical Physics and served as the Institute's first Equity Diversity and Inclusion Specialist from 2018-2019.,0,1
+Q18097437,8,male,neither,22059,PRON also served as president of the International Union of Crystallography between 1996 and 1999.,0,1
+Q1248892,92,male,personal_flag,1879,PRON also said that PRON uses the mobile phone only to talk to PRON spouse.,1,0
+Q56928107,4,male,professional_flag,29881,"In 2005 at the Delft University of Technology in The Netherlands PRON earned PRON PhD, and continued on to a postdoc.",0,1
+Q8556,87,male,personal_flag,1879,Personal life  NAME and PRON spouse NAME had three children: the computer scientist NAME and Marcus and Femke.,1,0
+Q7426,32,female,personal_flag,471,Personal life and death NAME was married to NAME.,1,0
+Q18347805,9,female,neither,5083,NAME moved to Georgia Tech in 2001.,0,1
+Q21448010,8,female,neither,5083,"It reflected that despite the hardships PRON would face PRON hard work would allow PRON to excel in mathematics and science, proving that material poverty does not equate to intellectual poverty.",1,0
+Q205954,4,male,personal_flag,1879,"Here PRON grew up with PRON younger sibling and sibling, with year-long stints in Berkeley, California, and Lisbon, Portugal, accompanying PRON parent whilst on sabbatical.",1,0
+Q18342394,51,male,personal_flag,1879,2021) and has two children.,1,0
+Q13360861,0,male,neither,22059,"NAME (born 24 February 1961) is a German inorganic chemist at LMU Munich, studying explosives.",0,1
+Q19766191,35,female,professional_flag,7243,Awards and recognition    2004: Award from the NAME and NAME foundation.,0,1
+Q106454,6,male,personal_flag,1879,"PRON has two siblings: NAME, a psychiatrist, and NAME, an artist.",1,0
+Q58202734,6,female,professional_flag,7243,Research and career  Caminade's research involves the chemistry of phosphorus.,0,1
+Q509844,35,male,personal_flag,1879,"NAME married Nicola Green Lerner, a physician, in 1981.",1,0
+Q18206807,11,female,personal_flag,471,"NAME decided to enroll in the University of Pennsylvania's College for GENDERWORD, despite pressure from PRON family to become a lab technician and get married.",1,1
+Q10884754,4,female,personal_flag,471,"PRON parent was a civil engineer, although NAME says that neither PRON nor PRON parent steered PRON toward PRON career.",1,0
+Q1174726,9,male,neither,22059,Shortly thereafter PRON recognized that the Dirac algebras and Pauli matrices could be unified in matrix-free form by a device later called a spacetime split.,0,1
+Q2286160,21,female,personal_flag,471,PRON has three children and PRON spouse is also a physicist.,1,0
+Q64039235,13,male,professional_flag,29881,"PRON headed the Department of Organic Chemistry from 1999 to 2003 and again from 2023, and chairs the faculty's ethics commission.",0,1
+Q21264717,2,female,professional_flag,7243,"From 2006 to 2022, PRON was a full professor for inorganic chemistry at the University of Marburg.",0,1
+Q21259815,11,female,neither,5083,"In 2021, PRON created supersolid states along two dimensions.",0,1
+Q27979020,7,female,professional_flag,7243,"In 2015, PRON presented a Tedx Talk in Exeter on ""The Digital Future of Public Health"", in which PRON discussed early warning systems for disease outbreaks – from SARS to Ebola – being developed along the lines of Google Flu Trends, based on anonymised social media chatter from the world's many billion users of smartphones and other digital devices.",0,1
+Q7442403,6,male,personal_flag,1879,"PRON later remarried, to NAME.",1,0
+Q29033549,2,female,personal_flag,471,"Early life  NAME was born in Rugby, England, the child of an engineer and botanist.",1,0
+Q47313455,10,female,professional_flag,7243,"In 2010, Scott joined the Department of Chemistry at the University of Bath.",0,1
+Q54937090,3,female,personal_flag,471,Early life  NAME (later Rubinsztein-Dunlop) was born in Poland to a Jewish family.,1,0
+Q16734810,1,female,professional_flag,7243,PRON is Royal Society Research Professor of Climate Change Science at the University of East Anglia and former Director of Tyndall Centre for Climate Change Research.,0,1
+Q16499829,2,male,professional_flag,29881,PRON did post-doctoral research at the University of Cambridge and Caltech before becoming a professor at Stony Brook University.,0,1
+Q374205,34,male,personal_flag,1879,"When PRON and PRON spouse returned to Moscow, Anh realized that PRON did not love PRON spouse and could not forget PRON former lover.",1,0
+Q6828283,4,male,professional_flag,29881,Awards 1989 Corday–Morgan Medal of the Royal Society of Chemistry 1996 Tilden Prize of the Royal Society of Chemistry 2009 Elected Fellow of the Royal Society,0,1
+Q16888040,8,male,personal_flag,1879,"Not able to afford an express train ticket, PRON would ride three hours each way, and could only see PRON family on weekends.",1,0
+Q3292199,4,female,neither,5083,PRON accomplishments have contributed to several advancements in nanotechnology.,0,1
+Q16196112,14,male,neither,22059,NAME extended the concept of biomimetic nanostructures to inorganic nanoparticles.,0,1
+Q53855494,14,male,professional_flag,29881,"In 1996, PRON was promoted to full professor position in St. Petersburg State Technical University, where PRON also became a director of Complex Media Electromagnetics Laboratory.",0,1
+Q330365,31,male,neither,22059,"Like NAME, Dekker is a proponent of theistic evolution.",1,0
+Q89943157,2,female,neither,5083,"Education and career Popović graduated from the University of Belgrade in 1983, with a bachelor's degree in physics.",0,1
+Q12182466,1,female,personal_flag,471,"PRON is the child of the Egyptian Muslim scholar, NAME.",1,0
+Q102266,8,male,personal_flag,1879,"As Altman reached adulthood, the family's financial situation had become secure enough that PRON was able to pursue a college education.",1,0
+Q30675004,6,male,professional_flag,29881,PRON then was a postdoctoral fellow with Prof. NAME at the Gray Freshwater Biological Institute of the University of Minnesota from 1975 to 1977.,0,1
+Q60061,5,male,personal_flag,1879,"PRON parents,  Prof. NAME and Prof. NAME were both scientists, and PRON parent was head of the department of biochemistry at the Maharaja Sayajirao University of Baroda.",1,0
+Q15281358,11,female,neither,5083,PRON has been a member of the supervisory board of Evonik Industries since 2014 and of the supervisory board of the Schunk Group since 2016.,0,1
+Q7608426,11,female,neither,5083,"In quantum networking, Wehner made fundamental contributions to shaping the field, including setting forth a vision for the road ahead.",0,1
+Q4794835,4,female,personal_flag,471,"A family friend, through the American Friends of Iran, encouraged NAME to come to the United States.",1,0
+Q4750428,23,female,professional_flag,7243,From 2003 to 2010 PRON was Deputy Technical Director of the International Atomic Energy Agency (IAEA).,0,1
+Q30090384,6,female,professional_flag,7243,"Based in the laboratory of NAME, PRON used an optical cavity and magneto-optic trap to study quantum noise.",0,1
+Q19975932,3,male,personal_flag,1879,"NAME attended public schools in Shaker Heights, Ohio, until 1962, when PRON parent became president of Eastern Gas and Fuel Associates of Boston, Massachusetts, and the family moved to nearby Cambridge.",1,0
+Q22003061,2,male,personal_flag,1879,"Amnon's parent is the chemist Prof. NAME, the fifth president of Bar Ilan University (1986-1989) and former president of The Israel Chemical Society (1977-1980).",1,0
+Q1894849,27,female,personal_flag,471,"Personal life  PRON married , a professor of chemistry, also at UCLA.",1,0
+Q26251202,2,female,personal_flag,471,"Early life and education NAME was born in 1957 in Hennepin, Minnesota, the child of two chemists.",1,0
+Q53807254,3,female,personal_flag,471,PRON parents grew up in immigrant farm families and each had completed an eighth grade education.,1,0
+Q85922222,27,female,professional_flag,7243,"PRON has also served as chair of the scientific council at GANIL, the French national nuclear physics research center.",0,1
+Q5585964,17,male,professional_flag,29881,PRON was awarded an ETS Walton Fellowship by Science Foundation Ireland in 2003.,0,1
+Q16194470,4,female,personal_flag,471,"An only child, PRON parent was an Italian immigrant who had immigrated to Argentina in the early 20th century, and PRON parent came from a Spanish family who had previously immigrated to Argentina.",1,0
+Q43436441,11,male,professional_flag,29881,"Then in 2006, Meyer moved to the University of Erlangen-Nürnberg as the Chair of the Institute of Inorganic & General Chemistry.",0,1
+Q8014179,26,male,professional_flag,29881,"This appointment marked PRON entry into academia, where PRON received a modest start-up package of $15,000 and a Dreyfus Teacher-Scholar Award, enabling initial investments in computational equipment such as a Texas Instruments minicomputer and a Tektronix graphics display.",0,1
+Q60641808,2,female,neither,5083,PRON was advised by NAME and Ilya Prigogine.,0,1
+Q510190,16,male,personal_flag,1879,"PRON nomination for the Royal Society reads:   Personal life Friend lives in Cambridge with PRON spouse, NAME (née Beales) with whom PRON has two children.",1,0
+Q22680215,14,male,personal_flag,1879,NAME is married and has three children.,1,0
+Q559334,60,male,neither,22059,"NAME, NAMEFrom 2001 to 2001: NAME and the Mind of HAL  Lenat, NAME (2008-07-10). """,0,1
+Q370022,18,male,professional_flag,29881,"This has resulted in the introduction of class-E high-efficiency power amplifier, and Sokals were awarded the U.S. Patents 3,900,823 and 3,919,656.",0,1
+Q54937090,41,female,professional_flag,7243,"2025 SPIE Gold Medal ""For innovations in the transfer of optical angular momentum to matter, using sculpted light for laser manipulation on atomic, nano- and microscales, and providing a powerful probe to biomedicine.""",0,1
+Q1632961,4,male,personal_flag,1879,"PRON is named after PRON grandparent NAME Zalman NAME, founder of the Torat Emet yeshiva in Hebron.",1,0
+Q16905427,6,male,personal_flag,1879,"Eventually, NAME was inducted into Academia Sinica in 2008, and the Lees became the first family to have three members serve simultaneously as academicians of Academia Sinica.",1,1
+Q27881415,43,male,professional_flag,29881,PRON twice held EU Marie Curie Research Fellowships (1994–1997 at the University of Liverpool  and in 1997 at Trinity College Dublin).,0,1
+Q21264594,2,female,neither,5083,Early life and education  NAME was born in Kerns.,1,0
+Q7385309,18,male,professional_flag,29881,"This synthesis strategy is being evaluated as a creative and innovative approach for synthesis of not only nanoporous carbon, but also other nanoporous materials such as zeolites, polymers and metal oxides.",0,1
+Q61161958,18,female,neither,5083,"In 2022, Whitehead delivered the convocation address at the Carnegie Mellon University.",0,1
+Q667095,82,male,neither,22059,"Attached to a personal computer and to a standard phone line, the CoSystem could automatically handle all the personal voice and data communications of the user, including electronic mail, database access, computer screen transfers during a voice communication, call record keeping, etc.",0,1
+Q73768451,18,female,professional_flag,7243,NAME was elected to the Board of Directors of The Optical Society in 2019 and will serve through 2021.,0,1
+Q56420776,36,male,professional_flag,29881,"Awards and honors   2003: USC Renaissance Scholar  2003: USC Chemistry Alumni Award for Outstanding Undergraduate Research  2006: Student Travel Award for Australian Peptide Society  2008: Poster NAME, Science at the Interface (University of Chicago)  2010: Collier NAME, NAME, NAME and Pathogenicity  2012: Vallee Foundation Travel NAME: NAME Innovation Award  2013: Young Chemical Biologist Award, International Chemical Biology Society  2013: Sontag Distinguished Scientist Award  2014: NSF CAREER Award  2015: Sloan Research Fellowship in Chemistry  2015: Novartis Early Career Award in Organic Chemistry  2016: Amgen Young Investigator NAME2018: Eli Lilly Award in Biological Chemistry  2021: NAME, American Peptide Society  Source:",0,1
+Q1982431,23,male,personal_flag,1879,"They had two children, NAME and NAME.",1,0
+Q45350710,16,female,neither,5083,PRON is on the editorial board of the journals Molecular Systems Design & Engineering and NAME.,0,1
+Q2286160,16,female,neither,5083,Bühler-Paschen contributed to the first identification of Weyl fermions in a strongly correlated NAME semimetal.,0,1
+Q29945750,16,female,neither,5083,Synthetic Materials:  Wennemers utilizes peptides to control the morphology of nanostructured materials for generation of ordered mesoscopic materials.,0,1
+Q29419456,14,female,neither,5083,"PRON has mainly considered transition metals, nanostructure surfaces and nano clusters.",0,1
+Q47688588,17,female,personal_flag,471,Personal life  NAME is married to NAME.,1,0
+Q7174434,0,male,professional_flag,29881,NAME is an American theoretical chemist and physicist.,0,1
+Q18206807,5,female,personal_flag,471,"When NAME was two years old, PRON biological parent left the family.",1,0
+Q15146765,30,female,neither,5083,Why chose a life in science at all?,0,0
+Q1422504,28,male,neither,22059,Other awards Knight was knighted in the Queen's 2005 Birthday Honours.,0,1
+Q30325457,3,female,personal_flag,471,"Biography  Since NAME was a child, PRON showed PRON interest for science.",1,0
+Q51538259,0,female,neither,5083,"NAME (December 27, 1966 in Hanover, Germany) is a German-Swiss chemist and materials scientist.",0,1

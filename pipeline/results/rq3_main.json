@@ -1,0 +1,357 @@
+{
+  "inlinks_from_women": {
+    "edges_between_gender_known": 10556,
+    "share_women_among_linking_pages_overall": 0.09615384615384616,
+    "to_women": {
+      "observed": 0.22126436781609196,
+      "null_mean": 0.1610653822082412,
+      "null_sd": 0.01393335260815149,
+      "z": 4.320495382613965
+    },
+    "to_men": {
+      "observed": 0.08732251521298175,
+      "null_mean": 0.1387631623144704,
+      "null_sd": 0.006092529116010272,
+      "z": -8.443233691950716
+    },
+    "null": "gender shuffled within field x birth decade, network fixed"
+  },
+  "communities": {
+    "lcc_nodes": 4348,
+    "n_communities": 37,
+    "modularity": 0.7510760955064023,
+    "modularity_config_null_mean": 0.593453717207024,
+    "nmi_vs_seed0_mean": 0.6722487263104557,
+    "nmi_vs_seed0_min": 0.6503438542043246,
+    "within_community_rank_by_seed": [
+      {
+        "seed": 0,
+        "mean_pct_women": 0.40200435716999317,
+        "mean_pct_men": 0.5174391473086495,
+        "communities_ge100": 18,
+        "communities_women_lower": 17
+      },
+      {
+        "seed": 1,
+        "mean_pct_women": 0.39927786626102146,
+        "mean_pct_men": 0.5176606492553362,
+        "communities_ge100": 18,
+        "communities_women_lower": 18
+      },
+      {
+        "seed": 2,
+        "mean_pct_women": 0.40066046049469806,
+        "mean_pct_men": 0.5177423107054652,
+        "communities_ge100": 17,
+        "communities_women_lower": 17
+      },
+      {
+        "seed": 3,
+        "mean_pct_women": 0.39851279454638616,
+        "mean_pct_men": 0.5176293279378879,
+        "communities_ge100": 16,
+        "communities_women_lower": 16
+      },
+      {
+        "seed": 4,
+        "mean_pct_women": 0.4043345031104964,
+        "mean_pct_men": 0.5166190453371086,
+        "communities_ge100": 17,
+        "communities_women_lower": 16
+      },
+      {
+        "seed": 5,
+        "mean_pct_women": 0.4021843440833002,
+        "mean_pct_men": 0.5171560720724229,
+        "communities_ge100": 19,
+        "communities_women_lower": 19
+      },
+      {
+        "seed": 6,
+        "mean_pct_women": 0.39945979802620823,
+        "mean_pct_men": 0.5173773233313412,
+        "communities_ge100": 17,
+        "communities_women_lower": 17
+      },
+      {
+        "seed": 7,
+        "mean_pct_women": 0.4006741797905563,
+        "mean_pct_men": 0.517480667054024,
+        "communities_ge100": 18,
+        "communities_women_lower": 18
+      },
+      {
+        "seed": 8,
+        "mean_pct_women": 0.3977383432854806,
+        "mean_pct_men": 0.5177291532563414,
+        "communities_ge100": 17,
+        "communities_women_lower": 17
+      },
+      {
+        "seed": 9,
+        "mean_pct_women": 0.40010707217594993,
+        "mean_pct_men": 0.5175537661644306,
+        "communities_ge100": 17,
+        "communities_women_lower": 17
+      }
+    ],
+    "communities_ge_30": [
+      {
+        "community": 0,
+        "size": 533,
+        "share_women": 0.143,
+        "share_physics": 0.034,
+        "median_birth": 1950.0,
+        "hub": "F. Albert Cotton"
+      },
+      {
+        "community": 1,
+        "size": 377,
+        "share_women": 0.077,
+        "share_physics": 0.958,
+        "median_birth": 1940.0,
+        "hub": "Murray Gell-Mann"
+      },
+      {
+        "community": 2,
+        "size": 377,
+        "share_women": 0.093,
+        "share_physics": 0.958,
+        "median_birth": 1948.0,
+        "hub": "Roger Penrose"
+      },
+      {
+        "community": 3,
+        "size": 274,
+        "share_women": 0.102,
+        "share_physics": 0.934,
+        "median_birth": 1944.0,
+        "hub": "Leon Cooper"
+      },
+      {
+        "community": 4,
+        "size": 245,
+        "share_women": 0.114,
+        "share_physics": 0.951,
+        "median_birth": 1947.0,
+        "hub": "Anton Zeilinger"
+      },
+      {
+        "community": 5,
+        "size": 135,
+        "share_women": 0.111,
+        "share_physics": 0.904,
+        "median_birth": 1943.0,
+        "hub": "Steven Chu"
+      },
+      {
+        "community": 6,
+        "size": 126,
+        "share_women": 0.071,
+        "share_physics": 0.817,
+        "median_birth": 1950.0,
+        "hub": "Gerd Binnig"
+      },
+      {
+        "community": 7,
+        "size": 124,
+        "share_women": 0.194,
+        "share_physics": 0.96,
+        "median_birth": 1936.0,
+        "hub": "Carlo Rubbia"
+      },
+      {
+        "community": 8,
+        "size": 123,
+        "share_women": 0.106,
+        "share_physics": 0.358,
+        "median_birth": 1937.0,
+        "hub": "James Watson"
+      },
+      {
+        "community": 9,
+        "size": 123,
+        "share_women": 0.179,
+        "share_physics": 0.48,
+        "median_birth": 1950.0,
+        "hub": "Malcolm Green (chemist)"
+      },
+      {
+        "community": 10,
+        "size": 119,
+        "share_women": 0.067,
+        "share_physics": 0.975,
+        "median_birth": 1942.0,
+        "hub": "Arthur Wightman"
+      },
+      {
+        "community": 11,
+        "size": 118,
+        "share_women": 0.136,
+        "share_physics": 0.737,
+        "median_birth": 1942.0,
+        "hub": "Martin Rees"
+      },
+      {
+        "community": 12,
+        "size": 111,
+        "share_women": 0.054,
+        "share_physics": 0.901,
+        "median_birth": 1940.0,
+        "hub": "Abdus Salam"
+      },
+      {
+        "community": 13,
+        "size": 110,
+        "share_women": 0.164,
+        "share_physics": 0.3,
+        "median_birth": 1950.0,
+        "hub": "Richard Zare"
+      },
+      {
+        "community": 14,
+        "size": 109,
+        "share_women": 0.138,
+        "share_physics": 0.872,
+        "median_birth": 1949.0,
+        "hub": "John Pendry"
+      },
+      {
+        "community": 15,
+        "size": 104,
+        "share_women": 0.125,
+        "share_physics": 0.971,
+        "median_birth": 1949.5,
+        "hub": "Marlan Scully"
+      },
+      {
+        "community": 16,
+        "size": 105,
+        "share_women": 0.143,
+        "share_physics": 0.257,
+        "median_birth": 1946.0,
+        "hub": "Roald Hoffmann"
+      },
+      {
+        "community": 17,
+        "size": 101,
+        "share_women": 0.119,
+        "share_physics": 0.05,
+        "median_birth": 1942.0,
+        "hub": "Carl Djerassi"
+      },
+      {
+        "community": 18,
+        "size": 99,
+        "share_women": 0.111,
+        "share_physics": 0.707,
+        "median_birth": 1940.0,
+        "hub": "Arthur Leonard Schawlow"
+      },
+      {
+        "community": 19,
+        "size": 93,
+        "share_women": 0.172,
+        "share_physics": 0.409,
+        "median_birth": 1950.0,
+        "hub": "William E. Moerner"
+      },
+      {
+        "community": 20,
+        "size": 94,
+        "share_women": 0.074,
+        "share_physics": 0.851,
+        "median_birth": 1946.5,
+        "hub": "Tim Berners-Lee"
+      },
+      {
+        "community": 21,
+        "size": 90,
+        "share_women": 0.122,
+        "share_physics": 0.989,
+        "median_birth": 1943.5,
+        "hub": "Kip Thorne"
+      },
+      {
+        "community": 22,
+        "size": 89,
+        "share_women": 0.213,
+        "share_physics": 0.258,
+        "median_birth": 1944.0,
+        "hub": "Angela Merkel"
+      },
+      {
+        "community": 23,
+        "size": 78,
+        "share_women": 0.026,
+        "share_physics": 0.769,
+        "median_birth": 1945.5,
+        "hub": "Andrei Sakharov"
+      },
+      {
+        "community": 24,
+        "size": 70,
+        "share_women": 0.1,
+        "share_physics": 0.3,
+        "median_birth": 1936.0,
+        "hub": "Richard Smalley"
+      },
+      {
+        "community": 25,
+        "size": 70,
+        "share_women": 0.071,
+        "share_physics": 0.714,
+        "median_birth": 1940.0,
+        "hub": "Archibald Howie"
+      },
+      {
+        "community": 26,
+        "size": 62,
+        "share_women": 0.177,
+        "share_physics": 0.774,
+        "median_birth": 1949.0,
+        "hub": "Neil deGrasse Tyson"
+      },
+      {
+        "community": 27,
+        "size": 61,
+        "share_women": 0.164,
+        "share_physics": 0.426,
+        "median_birth": 1945.0,
+        "hub": "Rolf Huisgen"
+      },
+      {
+        "community": 28,
+        "size": 57,
+        "share_women": 0.088,
+        "share_physics": 0.947,
+        "median_birth": 1934.0,
+        "hub": "Stuart Thomas Butler"
+      },
+      {
+        "community": 29,
+        "size": 58,
+        "share_women": 0.121,
+        "share_physics": 0.672,
+        "median_birth": 1937.5,
+        "hub": "Pierre-Gilles de Gennes"
+      },
+      {
+        "community": 30,
+        "size": 45,
+        "share_women": 0.0,
+        "share_physics": 0.667,
+        "median_birth": 1939.0,
+        "hub": "Ali Akbar Salehi"
+      },
+      {
+        "community": 31,
+        "size": 33,
+        "share_women": 0.0,
+        "share_physics": 0.848,
+        "median_birth": 1930.0,
+        "hub": "Robert Noyce"
+      }
+    ]
+  }
+}

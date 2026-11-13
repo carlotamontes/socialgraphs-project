@@ -1,0 +1,216 @@
+{
+  "n_pages": 2926,
+  "women": 606,
+  "regression": {
+    "share_personal": {
+      "coef_female": 0.005256408281080464,
+      "ci95": [
+        0.00024428123028683024,
+        0.010268535331874098
+      ],
+      "p": 0.03983181823826447,
+      "mean_men": 0.02893645621608263,
+      "mean_women": 0.03066179737339527
+    },
+    "share_professional": {
+      "coef_female": -0.006550836768632492,
+      "ci95": [
+        -0.02095470006943214,
+        0.007853026532167158
+      ],
+      "p": 0.37272204971674594,
+      "mean_men": 0.6210335038083208,
+      "mean_women": 0.6131465407206775
+    },
+    "explicit_gender_mention": {
+      "coef_female": 0.16605135377244504,
+      "ci95": [
+        0.13539365757889782,
+        0.19670904996599226
+      ],
+      "p": 2.5174374624965993e-26,
+      "mean_men": 0.001293103448275862,
+      "mean_women": 0.1551155115511551
+    }
+  },
+  "share_personal_by_quintile": {
+    "female": {
+      "0": 0.0272,
+      "1": 0.0273,
+      "2": 0.0304,
+      "3": 0.0293,
+      "4": 0.0489
+    },
+    "male": {
+      "0": 0.0267,
+      "1": 0.0313,
+      "2": 0.0289,
+      "3": 0.03,
+      "4": 0.0278
+    }
+  },
+  "fightin_words_within_field": {
+    "top60_same_sign_in_both_fields": 0.9833333333333333,
+    "physics_top_women": [
+      "education",
+      "completed",
+      "recognition",
+      "career",
+      "nomination",
+      "postdoctoral",
+      "earned",
+      "earning",
+      "curie",
+      "researcher",
+      "moved",
+      "considers",
+      "gender",
+      "aps",
+      "named"
+    ],
+    "physics_top_men": [
+      "theory",
+      "received",
+      "books",
+      "called",
+      "quantum",
+      "theoretical",
+      "field",
+      "papers",
+      "other",
+      "introduced",
+      "theories",
+      "mechanics",
+      "non",
+      "founding",
+      "visiting"
+    ],
+    "chemistry_top_women": [
+      "education",
+      "interested",
+      "considers",
+      "studied",
+      "worked",
+      "how",
+      "life",
+      "honours",
+      "here",
+      "works",
+      "career",
+      "looks",
+      "influence",
+      "moved",
+      "earned"
+    ],
+    "chemistry_top_men": [
+      "born",
+      "emeritus",
+      "academic",
+      "nobel",
+      "known",
+      "published",
+      "among",
+      "index",
+      "now",
+      "under",
+      "founded",
+      "three",
+      "discovered",
+      "pioneer",
+      "august"
+    ]
+  },
+  "fightin_words": {
+    "top_women": [
+      "education",
+      "career",
+      "completed",
+      "earned",
+      "considers",
+      "recognition",
+      "nomination",
+      "interested",
+      "postdoctoral",
+      "earning",
+      "moved",
+      "life",
+      "gender",
+      "young",
+      "fellowship",
+      "researcher",
+      "how",
+      "early",
+      "joined",
+      "master",
+      "studied",
+      "curie",
+      "understand",
+      "emmy",
+      "stem"
+    ],
+    "top_men": [
+      "theory",
+      "received",
+      "known",
+      "emeritus",
+      "quantum",
+      "books",
+      "papers",
+      "among",
+      "visiting",
+      "theoretical",
+      "now",
+      "under",
+      "biography",
+      "born",
+      "press",
+      "called",
+      "japan",
+      "many",
+      "subsequently",
+      "discovered",
+      "nobel",
+      "founding",
+      "field",
+      "concept",
+      "shared"
+    ],
+    "top60_same_sign_in_all_terciles": 0.9333333333333333
+  },
+  "validation": {
+    "personal": {
+      "precision": 0.9160340425531914,
+      "precision_ci95": [
+        0.8520670212765956,
+        0.98
+      ],
+      "recall": 0.3585612776206514,
+      "recall_ci95": [
+        0.2531396982620731,
+        0.5840106010497222
+      ],
+      "n_labelled": 300,
+      "precision_female": 0.98,
+      "recall_female": 0.5064404994404336,
+      "precision_male": 0.9,
+      "recall_male": 0.3320935384035316
+    },
+    "professional": {
+      "precision": 0.9780645305697625,
+      "precision_ci95": [
+        0.9435223702510726,
+        0.9972317320278059
+      ],
+      "recall": 0.6104574406831923,
+      "recall_ci95": [
+        0.5877355774895052,
+        0.6362532833266653
+      ],
+      "n_labelled": 300,
+      "precision_female": 0.9948711107965296,
+      "recall_female": 0.6083908516709452,
+      "precision_male": 0.9739735812898174,
+      "recall_male": 0.610973450738856
+    }
+  }
+}
