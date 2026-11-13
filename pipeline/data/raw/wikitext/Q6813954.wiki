@@ -1,0 +1,51 @@
+{{short description|American computer scientist}}
+'''Melvin Edward Conway''' is an American computer scientist, computer programmer, and [[hacker (programmer subculture)|hacker]] who coined what is now known as [[Conway's law]]: "Organizations, who design systems, are constrained to produce designs which are copies of the communication structures of these organizations."<ref name="Conway1968Committees">{{cite journal|last=Conway|first=Melvin E.|date=April 1968|title=How do Committees Invent?|url=http://www.melconway.com/Home/Committees_Paper.html|url-status=live|journal=[[Datamation]]|volume=14|pages=28–31|archive-url=https://web.archive.org/web/20191010021833/http://www.melconway.com/Home/Committees_Paper.html|archive-date=2019-10-10|access-date=2019-10-10|quote=[…] organizations which design systems […] are constrained to produce designs which are copies of the communication structures of these organizations.|number=5}}</ref> Conway developed the concept of [[coroutines]].
+
+==Biography==
+===Coroutines===
+Conway developed the concept of [[coroutines]], having coined the term ''coroutine'' in 1958 and he was the first to apply the concept to an [[assembly language|assembly program]].<ref name="Knuth1997">{{Cite book|first=Donald Ervin|last=Knuth|author-link=Donald Knuth|series=The Art of Computer Programming|volume=1|title=Fundamental Algorithms|edition=3rd|publisher=Addison-Wesley|year=1997|isbn=978-0-201-89683-1|at=Section 1.4.5: History and Bibliography, pp.&nbsp;229|url=https://seriouscomputerist.atariverse.com/media/pdf/book/Art%20of%20Computer%20Programming%20-%20Volume%201%20(Fundamental%20Algorithms).pdf|url-status=live|archive-url=https://web.archive.org/web/20191021162138/https://seriouscomputerist.atariverse.com/media/pdf/book/Art%20of%20Computer%20Programming%20-%20Volume%201%20(Fundamental%20Algorithms).pdf|archive-date=2019-10-21|quote=The word "coroutine" was coined by M. E. Conway in 1958, after he had developed the concept, and he first applied it to the construction of an assembly program. […] The first published explanation of the coroutine concept appeared much later in Conway's article "Design of a Separable Transition-Diagram Compiler," […]}}</ref> He later authored a seminal paper on the subject of coroutines, titled "Design of a Separable Transition-diagram Compiler",<ref name="Conway1963Compiler">{{Cite journal|last=Conway|first=Melvin E.|author-link=Melvin Conway|date=July 1963|title=Design of a Separable Transition-diagram Compiler|url=http://melconway.com/Home/pdf/compiler.pdf|journal=[[Communications of the ACM]]|publisher=ACM|volume=6|issue=7|pages=396–408|doi=10.1145/366663.366704|s2cid=10559786|issn=0001-0782}}</ref> which included the first published explanation of the concept.<ref name="Knuth1997" /> In this paper, he proposed organizing a compiler as a set of coroutines, which allows using separate passes while debugging and then running a single pass compiler in production. Another famous paper is his 1958 proposal of an [[UNCOL]] (Universal Computer Oriented Language),<ref name="Conway1958UNCOL">{{Cite journal|last=Conway|first=Melvin E.|author-link=Melvin Conway|date=October 1958|title=Proposal for an UNCOL|journal=[[Communications of the ACM]]|publisher=ACM|volume=1|issue=10|pages=5–8|doi=10.1145/368924.368928|s2cid=6797697|issn=0001-0782|doi-access=free}}</ref> which attempted to provide a solution to economically produce compilers for new [[programming language]]s and [[computer architecture]]s.
+
+===Conway's law===
+{{main|Conway's law}}
+The [[adage]] remains relevant in modern [[software engineering]] and is still being referenced and investigated.<ref name="Kamola2019">{{Cite journal|last=Kamola|first=Mariusz|date=2019|title=How to Verify Conway's Law for Open Source Projects|journal=IEEE Access|volume=7|pages=38469–38480|doi=10.1109/ACCESS.2019.2905671|bibcode=2019IEEEA...738469K |issn=2169-3536|doi-access=free}}</ref><ref name="Imtiaz2017">{{Cite journal|last1=Imtiaz|first1=Salma|last2=Ikram|first2=Naveed|date=2017-01-27|title=Dynamics of task allocation in global software development: Dynamics of task allocation in global software development|journal=Journal of Software: Evolution and Process|language=en|volume=29|issue=1|article-number=e1832|doi=10.1002/smr.1832|s2cid=27961137 }}</ref>
+
+===SAVE===
+Conway wrote an [[assembly language|assembler]] for the [[Burroughs Corporation|Burroughs]] model 220 computer called SAVE. The name SAVE was not an acronym, but a feature: programmers lost fewer [[punched card]] decks because they all had "SAVE" written on them.<ref name="Raymond1996HackerDict">{{cite book|url=https://books.google.com/books?id=g80P_4v4QbIC|title=The New Hacker's Dictionary|last=Raymond|first=Eric S.|date=October 1996|publisher=MIT Press|isbn=978-0-262-68092-9|edition=3rd|location=Cambridge, Massachusetts|page=124|quote=The name 'SAVE' didn't stand for anything; it was just that you lost fewer card decks and listings because they all had SAVE written on them.|author-link=Eric S. Raymond}}</ref>
+
+===MUMPS===
+In the 1970s, he was involved with the [[MUMPS]] (Massachusetts General Hospital Utility Multi-Programming System) medical programming language standard specification for the [[National Institute of Standards and Technology|National Bureau of Standards]].<ref name="MUMPS2011Standard">{{Cite web|url=http://71.174.62.16/Demo/AnnoStd?Frame=Main&Page=a100004&Edition=1977|title=Foreword: 1977 Version of ANSI Standard|date=29 November 2011|website=The Annotated M[UMPS] Standards|publisher=MUMPS Development Committee|access-date=2019-10-21|quote=MUMPS, an acronym for Massachusetts General Hospital Utility Multi-Programming System, is a high-level, interactive computer programming language […] Part I of this Standard, the MUMPS Language Specification, MDC/28, was prepared by Melvin E. Conway under Contract No. 5–35770 with the National Bureau of Standards.}}</ref> He also wrote a reference book on MUMPS in 1983.<ref name="Conway1983MUMPSReference">{{Cite book|url=https://books.google.com/books?id=APZNAAAACAAJ|title=Mumps Programming Reference Manual|last=Conway|first=Melvin E.|publisher=MUMPS Users' Group|year=1983|isbn=0-918118-25-5|editor-last=Dayhoff|editor-first=Ruth E.|oclc=9862807}}</ref>
+
+===Pascal===
+His work on [[Pascal (programming language)|Pascal]] compiler for Rockwell Semiconductor (an immediate-turnaround Pascal trainer for the Rockwell AIM-65) led to an arrangement between Apple and Think Technologies (where he served as a principal) under which the latter produced the [[Apple II]] Instant Pascal and the 1984 original Macintosh Pascal.
+
+===Other work===
+Conway was granted a [[United States patent law|US patent]] in 2001 on "Dataflow processing with events", concerned with [[computer programming|programming]] using [[graphical user interface]]s. The patent expired in 2019.<ref name="Patent2001">{{US patent|6272672B1}}</ref>
+
+In 2002, Conway obtained a [[licensure|teacher license]] for high school math and physics in [[Massachusetts]]. He taught at [[Chelsea High School (Massachusetts)|Chelsea High School]] from 2002 to 2006.<ref name="ConwayHomepage">{{Cite web|url=http://www.melconway.com/Home/Home.html|title=Mel Conway's Home Page|last=Conway|first=Melvin E.|website=www.melconway.com|access-date=2019-10-06|quote=In 2002 I obtained a license to teach high school math and physics in Massachusetts, and I taught at Chelsea High School from 2002 to 2006.}}</ref>
+
+In 2024, Conway published an article called ''NEEDED: SYSTEMS THINKING IN PUBLIC AFFAIRS''<ref>{{Cite web |last=Conway |first=Melvin |date=2024 |title=Needed: Systems Thinking in Public Affairs |url=https://melconway.com/Home/pdf/UbiquitousConnectivity.pdf |url-status=live |archive-url=https://web.archive.org/web/20260420065039/https://melconway.com/Home/pdf/UbiquitousConnectivity.pdf |archive-date=2026-04-20 |access-date=2026-05-07 |website=melconway.com}}</ref> which summarizes his view that in order to understand human systems, one must focus on networks first, rather than actors. He posits that this is the barrier to building systems that are in alignment with human needs at scale.
+
+== Education ==
+* Ph.D. Mathematics, [[Case Western Reserve University]] (1961). Dissertation: "A Set-Theoretic Model For Logical Systems", Advisor: [[Raymond John Nelson]]<ref name="GenealogyProject">{{Cite web|url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=44295|title=Melvin Edward Conway|website=Mathematics Genealogy Project|access-date=2019-10-06}}</ref>
+* M.S. Physics, [[California Institute of Technology]]<ref name="Conway2009CV">{{Cite web|url=http://www.melconway.com/educator.pdf|title=Mel Conway, Ph.D.|last=Conway|first=Melvin|date=November 7, 2009|website=Mel Conway's Home Page|access-date=2019-10-06}}</ref>
+* B.S. Physics, [[Case Western Reserve University]]<ref name="Conway2009CV" />
+
+== Selected publications ==
+* Conway, Melvin E. (July 1963). [http://melconway.com/Home/pdf/compiler.pdf "Design of a separable transition-diagram compiler"]. ''[[Communications of the ACM]]'', vol. 6, num. 7, pp.&nbsp;396–408. doi: 10.1145/366663.366704
+* Conway, Melvin E. (April 1968). [http://www.melconway.com/Home/Committees_Paper.html "How do Committees Invent?"]. ''[[Datamation]]'', vol. 14, num. 4, pp.&nbsp;28–31.
+
+==References==
+<references/>
+
+==External links==
+*[http://www.melconway.com melconway.com] Conway's personal home page
+*[https://twitter.com/conways_law @conways_law] Conway's [[Twitter]] profile
+*{{MathGenealogy|44295}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Conway, Melvin}}
+[[Category:American computer scientists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Burroughs Corporation people]]

@@ -1,0 +1,76 @@
+{{Use dmy dates|date=December 2021}}
+{{short description|German system biologist (born 1969)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| birth_date        = {{birth_date_and_age|1969|09|02}}
+| birth_place       = [[Braunschweig]], Germany
+| death_date        = 
+| death_place       = 
+| name              = Dirk Brockmann
+| image             = [[File:Re-publica 22 - Tag 2 (52132536792) (cropped).jpg|frameless]]
+| caption           = Brockmann at [[re:publica]] in 2022
+| education         = [[Duke University]]<br />[[University of Göttingen]]<br />[[Max Planck Institute for Dynamics and Self-Organization]]
+| doctoral_advisor  = [[Theo Geisel (physicist)|Theo Geisel]]
+| academic_advisors = 
+| workplaces        = [[Northwestern University]]<br />[[Humboldt University of Berlin]]<br />[[Robert Koch Institute]]<br />[[Technische Universität Dresden]]
+| doctoral_students = 
+| website           = {{URL|https://synosys.github.io/}}
+}}
+'''Dirk Brockmann''' (born September 2, 1969) is a German physicist and Professor in Biology of Complex Systems and the founding director of the Center Synergy of Systems<ref>[https://synosys.github.io/ Center Synergy of Systems], official website of The Center Synergy of Systems, 7 October 2024</ref> at [[Technische Universität Dresden]]. Brockmann is known for his work in [[complex systems]], [[complex networks]], [[computational epidemiology]], human mobility and [[anomalous diffusion]].
+
+==Education and career==
+Brockmann was born in [[Braunschweig]] and studied physics and mathematics at [[Duke University]] and the [[University of Göttingen]] where he received his degree in theoretical physics in 1995 and his PhD in 2003 under the supervision of [[Theo Geisel (physicist)|Theo Geisel]]. 
+After postdoctoral positions at the [[Max Planck Institute for Dynamics and Self-Organization]], Göttingen he became associate professor in the Department of Engineering Sciences and Applied Mathematics at [[Northwestern University]] in 2008.
+
+In 2013 he returned to Germany, where he became professor at the Institute for Biology at Humboldt University of Berlin with a project group at the [[Robert Koch Institute]].
+During the [[COVID-19 pandemic]] Brockmann initiated and led multiple [[big data]] projects to mitigate the pandemic as the mobility monitor,<ref>
+[https://www.covid-19-mobility.org/mobility-monitor/ German mobility monitor], official project website, 7 October 2024
+</ref> contact monitor<ref>
+[https://www.covid-19-mobility.org/contact-index/ German contact monitor], official project website, 7 October 2024
+</ref>
+and the Corona Data Donation Project.<ref>
+[https://corona-datenspende.github.io/en/ Corona Data Donation Project], official project website, 7 October 2024
+</ref>
+
+Since October 2023, he is Professor in Biology of Complex Systems at [[Technische Universität Dresden]] and the founding director of the [[Center Synergy of Systems (SynoSys)]], which promotes complexity research with a trans-/anti-disciplinary approach.
+
+Brockmann worked on a variety of topics ranging from [[computational neuroscience]], [[anomalous diffusion]], [[Levy flights]],<ref>
+{{cite journal | last1=Brockmann | first1=D. | last2=Geisel | first2=T. | title=Lévy Flights in Inhomogeneous Media | journal=Physical Review Letters | volume=90 | issue=17 | date=28 April 2003 | issn=0031-9007 | doi=10.1103/physrevlett.90.170601 | article-number=170601| pmid=12786061 | arxiv=cond-mat/0211111 | bibcode=2003PhRvL..90q0601B | s2cid=3010225 }}
+</ref>
+human mobility, computational epidemiology,<ref>
+{{cite journal | last1=Hufnagel | first1=L. | last2=Brockmann | first2=D. | last3=Geisel | first3=T. | title=Forecast and control of epidemics in a globalized world | journal=Proceedings of the National Academy of Sciences | volume=101 | issue=42 | date=11 October 2004 | issn=0027-8424 | doi=10.1073/pnas.0308344101 | pages=15124–15129| pmid=15477600 | pmc=524041 | arxiv=cond-mat/0410766 | bibcode=2004PNAS..10115124H | doi-access=free }}
+</ref>
+and complex networks.
+
+==Research==
+Brockmann pioneered the scientific use of mass data collected in online games in a 2006 study in which he and his colleagues analyzed the geographic circulation of millions of dollar-bills registered at the online bill tracking website [[Where's George?]]<ref>{{cite journal | last1=Brockmann | first1=D. | last2=Hufnagel | first2=L. | last3=Geisel | first3=T. | title=The scaling laws of human travel | journal=Nature | volume=439 | issue=7075 | year=2006 | issn=0028-0836 | doi=10.1038/nature04292 | pages=462–465| pmid=16437114 | arxiv=cond-mat/0605511 | bibcode=2006Natur.439..462B | s2cid=4330122 }}</ref><ref>[https://www.nytimes.com/2006/12/10/magazine/10Section2b.t-3.html Money-Circulation Science], The New York Times Magazine – The 6th Annual Year in Ideas, 12 October 2006</ref> This study lead to the discovery of universal scaling laws in human mobility, the forecast of spreading routes of the [[2009 flu pandemic]] in the United States and effective geographic borders in the United States. Brockmann also pioneered the development of computational models and forecast systems for the global spread of epidemics based on global air-transportation. In a 2013 study Brockmann and his colleague [[Dirk Helbing]] showed that complex global contagion phenomena can be mapped onto simple propagating wave patterns using the theoretical concept of effective distance.<ref>{{cite journal | last1=Brockmann | first1=D. | last2=Helbing | first2=D. | title=The Hidden Geometry of Complex, Network-Driven Contagion Phenomena | journal=Science | publisher=American Association for the Advancement of Science (AAAS) | volume=342 | issue=6164 | date=12 December 2013 | issn=0036-8075 | doi=10.1126/science.1245200 | pages=1337–1342| pmid=24337289 | bibcode=2013Sci...342.1337B | s2cid=1679990 }}</ref> This method was employed for import risk estimates during the [[Ebola virus epidemic in West Africa]] in 2014.
+
+Brockmann's research has been featured in an episode of the  American crime drama television series ''[[Numbers (TV series)|Numbers]]''.
+
+Since 2017 he has been publishing "Complexity Explorables", which are interactive [[D3.js|D3]] animations of complex systems.<ref>[http://www.complexity-explorables.org/ Complexity Explorables], Complexity Explorables, 3 August 2018</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://synosys.github.io/ SynoSys website], 7 October 2024
+* [https://corona-datenspende.github.io/en/ Corona Data Donation Project website ], 7 October 2024
+* [https://www.covid-19-mobility.org/ Covid-19 Mobility and Contact Project website], 7 October 2024
+
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brockmann, Dirk}}
+[[Category:Complex systems scientists]]
+[[Category:Systems biologists]]
+[[Category:Northwestern University faculty]]
+[[Category:Living people]]
+[[Category:1969 births]]
+[[Category:21st-century German physicists]]
+[[Category:Network scientists]]
+[[Category:University of Göttingen alumni]]
+[[Category:Academic staff of the Humboldt University of Berlin]]
+[[Category:Robert Koch Institute people]]
+[[Category:Max Planck Society alumni]]
+[[Category:Duke University alumni]]
+[[Category:People from Braunschweig]]

@@ -1,0 +1,56 @@
+{{Short description|American mathematical physicist}}
+{{Infobox person
+| image              = 
+| name               = Thomas C. Spencer
+| spouse             = Bridget Murphy
+| caption            = 
+| birth_name         = 
+| birth_date         = {{birth-date and age|December 24, 1946}}
+| birth_place        =
+| death_date         = 
+| death_place        = 
+| resting_place_coordinates = 
+| known_for          = 
+| education          = [[Bachelor of Arts|AB]], [[University of California, Berkeley]]<br /> PhD, [[New York University]]
+| employer           = [[Institute for Advanced Study]]
+| occupation         = 
+| title              = Professor
+| children           = 
+| parents            = 
+| relatives          = 
+| signature          = 
+| website            = 
+| awards             = [[Henri Poincaré Prize]] (2015)<br>[[Dannie Heineman Prize for Mathematical Physics]] (1991)
+| footnotes          = 
+}}
+'''Thomas C. Spencer''' (born December 24, 1946) is an American [[mathematical physicist]], known in particular for important contributions to [[constructive quantum field theory]], [[statistical mechanics]], and [[spectral theory]] of random operators. He is an emeritus faculty member at the [[Institute for Advanced Study]].<ref name=ias>[http://www.ias.edu/people/faculty-and-emeriti/spencer IAS website]</ref>
+
+==Career==
+Spencer earned his doctorate in 1972 from [[New York University]] with a dissertation titled ''Perturbation of the Po2 Quantum Field Hamiltonian'' written under the direction of [[James Glimm]]. Since 1986, he has been a faculty member in the School of Mathematics at the [[Institute for Advanced Study]].{{cn|date=December 2022}}
+
+==Research==
+{{prose|section|date=December 2022}}
+* Together with [[James Glimm]] and [[Arthur Jaffe]] he invented the [[cluster expansion]] approach to quantum field theory that is widely  used in [[constructive quantum field theory|constructive field theory]].<ref>{{cite journal|first1=J|last1=Glimm|last2=Jaffe|first2=A|last3=Spencer|first3=T|title=The Wightman axioms and particle structure in the <math>P(\phi)_{2}</math> quantum field model|journal=Ann. of Math|year=1974|volume=100|issue=3|pages=585&ndash;632|jstor=1970959|doi=10.2307/1970959}}</ref>
+* Together with [[Jürg Fröhlich]] and [[Barry Simon]], he invented the approach of the [[infrared bound]], which has now become a classical tool to derive phase transitions in various models of statistical mechanics.<ref>{{cite journal|last1=Fröhlich|first1=J.|last2=Simon|first2=B.|last3=Spencer|first3=T.|title=Infrared bounds, phase transitions and continuous symmetry breaking|journal=Comm. Math. Phys.|volume=50|issue=1|year=1976|pages=79&ndash;95|doi=10.1007/bf01608557|bibcode = 1976CMaPh..50...79F |citeseerx=10.1.1.211.1865|s2cid=16501561 }}</ref>
+* Together with [[Jürg Fröhlich]], he devised a 'multi-scale analysis' to provide, for the first time, mathematical proofs of: the [[Kosterlitz–Thouless transition]],<ref>{{cite journal|last1=Fröhlich|first1=J.|last2=Spencer|first2=T.|title=The Kosterlitz–Thouless transition in two-dimensional abelian spin systems and the Coulomb gas|journal=Comm. Math. Phys.|year=1981|volume=81|issue=4|pages=527–602|url=http://projecteuclid.org/euclid.cmp/1103920388|doi=10.1007/bf01208273|bibcode = 1981CMaPh..81..527F |s2cid=73555642 }}</ref> the phase transition in the one-dimensional ferromagnetic Ising model with interactions <math> J_{x,y}\sim |x-y|^{-2} </math><ref>{{cite journal|last1=Fröhlich|first1=J.|last2=Spencer|first2=T.|title=The phase transition in the one-dimensional Ising model with 1/''r''<sup>2</sup> interaction energy.|journal=Comm. Math. Phys.|year=1982|volume=84|issue=1|pages=87&ndash;101|doi=10.1007/BF01208373|bibcode = 1982CMaPh..84...87F |s2cid=122722140 |url=http://projecteuclid.org/euclid.cmp/1103921047 }}</ref> and [[Anderson localization]] in arbitrary [[dimension (vector space)|dimension]].<ref>{{cite journal|last1=Fröhlich|first1=J.|last2=Spencer|first2=T.|title=Absence of diffusion in the Anderson tight binding model for large disorder or low energy.|journal=Comm. Math. Phys.|year=1983|volume=88|issue=2|pages=151–184|url=http://projecteuclid.org/getRecord?id=euclid.cmp/1103922279|doi=10.1007/bf01209475|bibcode = 1983CMaPh..88..151F |s2cid=121435596 }}</ref>
+* Together with [[David Brydges]], he proved that the [[scaling limit]] of the [[self-avoiding walk]] in [[dimension (vector space)|dimension]] greater or equal than 5 is [[normal distribution|Gaussian]], with [[variance]] growing linearly in time.<ref>{{cite journal|last1=Brydges|first1=D.|last2=Spencer|first2=T.|title=Self-avoiding walk in 5 or more dimensions|journal=Comm. Math. Phys.|year=1985|volume=97|issue=1&ndash;2|pages=125–148|url=http://projecteuclid.org/euclid.cmp/1103941982|doi=10.1007/bf01206182|bibcode = 1985CMaPh..97..125B |s2cid=189832287 |url-access=subscription}}</ref> To achieve this result, they invented the technique of the [[lace expansion]] that since then has had wide application in probability on graphs.<ref>{{cite book|last1=Slade|first1=G.|title=The lace expansion and its applications |series=Lecture Notes in Mathematics|volume=1879| publisher=Springer|year=2006|url=https://www.springer.com/mathematics/probability/book/978-3-540-31189-8|isbn=9783540311898}}</ref>
+
+==Awards and honors==
+Spencer is a member of the [[United States National Academy of Sciences]],<ref name=ias/> and the recipient of the [[Dannie Heineman Prize for Mathematical Physics]] (joint with [[Jürg Fröhlich]], "''For their joint work in providing rigorous mathematical solutions to some outstanding problems in statistical mechanics and field theory.''").<ref>[http://www.aps.org/programs/honors/prizes/heineman.cfm APS website]</ref><ref>[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Spencer&first_nm=Thomas&year=1991 1991 Dannie Heineman Prize for Mathematical Physics Recipient], [[American Physical Society]]. Accessed June 24, 2011</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spencer, Thomas}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:American mathematical physicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:New York University alumni]]
+[[Category:University of California, Berkeley alumni]]
+
+
+{{US-mathematician-stub}}

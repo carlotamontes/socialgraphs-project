@@ -1,0 +1,74 @@
+{{short description|American data scientist and software engineer}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox scientist
+| name              = Julia Silge
+| image             = Julia Silge for BocoupLLC.jpg
+| caption           = Silge speaks in 2017
+| image_size        = 
+| birth_date        = {{birth date and age |1978|6|10|mf=y}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| workplaces        = {{plainlist|
+* [[Stack Overflow]]
+* [[Posit PBC]]
+}}
+| field             = {{plainlist|
+* [[Data science]]
+* [[R (programming language)]]
+}}
+| education         = {{plainlist|
+* [[Texas A&M University]]
+* [[University of Texas at Austin]]
+}}
+| doctoral_advisor  = 
+| thesis_title      = 
+| thesis_year       = 
+| doctoral_students = 
+| known_for         = {{plainlist|
+* [[Natural language processing]]
+* [[Machine learning]]
+}}
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+| website           = [https://juliasilge.com/ juliasilge.com]
+}}
+
+'''Julia Silge''' (born June 10, 1978) is an American [[data scientist]] and [[software engineer]]. She has developed tools for [[Model (statistics)|statistical modelling]] in the [[R (programming language)|R programming language]],<ref name="rstudio">{{Cite web |title=About RStudio |url=https://rstudio.com/about/ |access-date=2020-11-02 |website=RStudio |language=en |archive-url=https://web.archive.org/web/20210220080117/https://rstudio.com/about/ |archive-date=2021-02-20}}</ref><ref name="bio">{{cite web |title=Stack Overflow profile of Julia Silge |url=https://stackoverflow.com/story/juliasilge |access-date=2021-03-03 |publisher=Stack Overflow }}{{Dead link|date=December 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> including the [[text mining]] [[R package|package]] tidytext.<ref>{{Cite news |url=https://www.oreilly.com/ideas/rs-tidytext-turns-messy-text-into-valuable-insight |title=R's tidytext turns messy text into valuable insight |last=Tache |first=Nicole |date=2017-07-26 |work=O'Reilly Media |access-date=2018-03-22 |language=en}}</ref> Silge currently works for [[Posit PBC]], formerly known as RStudio PBC.<ref name="rstudio"/>
+
+==Education and career==
+Silge studied physics at [[Texas A&M University]], graduating in 2000. She obtained her [[Master of Arts|M.A.]] (2002) and [[Doctor of Philosophy|PhD]] (2005) in [[astronomy]] from the [[University of Texas at Austin]].<ref name="bio"/><ref>{{cite web |url=https://juliasilge.com/resume/ |title=Julia Silge Resume |publisher=Julia Silge |access-date=2018-02-04 |archive-date=June 4, 2023 |archive-url=https://web.archive.org/web/20230604191317/https://juliasilge.com/resume/ |url-status=dead }}</ref> She was an [[adjunct professor]] at [[University of New Haven]] and [[Quinnipiac University]] from 2006 to 2008.{{Citation needed|date=November 2020}}
+
+Silge has worked as a [[data scientist]] for several companies, most recently [[Stack Overflow]] and [[Posit PBC]].<ref name="rstudio"/><ref name="bio"/> At Stack Overflow, she researched the popularity of different programming languages<ref>{{cite web|url=https://www.zdnet.com/article/which-programming-languages-earn-you-most-money-use-this-calculator-to-check/|title=Which programming languages earn you the most money? Use this calculator to check. | publisher= ZDNet|access-date=2018-02-23}}</ref> and skills for technologists.<ref>{{cite web|title=These are the 10 skills to learn if you want to advance in a career in tech.|url=https://www.businessinsider.com/fastest-growing-tech-skills-for-job-seekers-2017-3|access-date=2018-02-23|publisher=Business Insider}}</ref> She also began working on tidytext, an [[R package]] for [[text mining]], with colleague [[David G. Robinson (data scientist)|David Robinson]]. Their book ''Text Mining with R: A Tidy Approach'' (2017) drew on examples of text analysis ranging from [[Jane Austen|Jane Austen novels]],<ref>{{cite web|title=The Life Changing Magic of Tidying Text|url=https://juliasilge.com/blog/life-changing-magic/|access-date=2018-02-23|publisher=Julia Silge}}</ref> popular songs,<ref>{{cite news|title=The states that Americans sing about most.|url=https://www.washingtonpost.com/news/wonk/wp/2016/10/01/the-states-that-americans-sing-about-most/|access-date=2018-02-23|newspaper=The Washington Post}}</ref> [[NASA]] metadata, and Twitter archives.<ref>{{cite news|url=https://www.oreilly.com/ideas/rs-tidytext-turns-messy-text-into-valuable-insight|title=R's tidytext turns messy text into valuable insight.|newspaper=The Washington Post|date=July 26, 2017 |access-date=2018-03-31}}</ref> 
+
+In February 2017, Silge made the news when she used a note attached to a [[pizza delivery]] to contact her senator [[Orrin Hatch]] to object to the nomination of [[Betsy DeVos]] as Secretary of Education, after failing to reach Hatch by phone.<ref>{{cite news|url=https://www.washingtonpost.com/news/the-fix/wp/2017/02/06/she-had-something-to-say-about-betsy-devos-so-she-sent-her-senator-a-pizza-with-a-message/|title=She had something to say about Betsy DeVos. So she sent her senator a pizza — with a message. |newspaper=The Washington Post|access-date=2018-02-04}}</ref><ref>{{Cite web |title=Senator's Voicemail Was Full, So Concerned Woman Sent Pizza to Protest DeVos |url=https://www.vice.com/en/article/senators-voicemail-was-full-so-concerned-woman-sent-pizza-to-protest-devos/ |last=Castrodale |first=Jelisa |date=2017-02-06 |access-date=2020-11-02 |website=Vice |language=en}}</ref>
+
+==Selected publications==
+*{{Cite book|title=Text mining with R : A tidy approach|last1=Silge|first1=Julia|last2=Robinson|first2=David|publisher=O'Reilly|year=2017|isbn= 978-0367554194|edition=First|oclc=993582128}}
+*{{Cite book|url=https://smltar.com/|title= Supervised Machine Learning for Text Analysis in R|  last1=Silge|first1=Julia|last2=Hvitfeldt|first2=Emil|publisher=CRC Press|year=2021|isbn=9781491981658|edition=First}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|https://juliasilge.com}}
+* {{Google Scholar id|lQBVIkkAAAAJ}}
+
+{{R (programming language)}}
+{{authority control}}
+
+{{DEFAULTSORT:Silge, Julia}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:American women data scientists]]
+[[Category:American data scientists]]
+[[Category:Texas A&M University alumni]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:R (programming language) people]]
+[[Category:21st-century American statisticians]]

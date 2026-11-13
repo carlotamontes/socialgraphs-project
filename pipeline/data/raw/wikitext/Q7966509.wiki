@@ -1,0 +1,128 @@
+{{Short description|Dutch physicist (born 1949)}}
+{{Use dmy dates|date=January 2020}}
+{{Dutch name capitalization|De Heer}}
+{{Infobox scientist
+| birth_name              = Walter Alexander de Heer
+| image             = Wdeheer.jpg
+| image_size        = 200px
+| caption           =
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| fields            = [[condensed matter physics]], [[metal cluster]]s, [[carbon nanotube]]s, [[graphene]]
+| workplaces        = [[École Polytechnique Fédérale de Lausanne]], [[Georgia Institute of Technology]]
+| education         = [[University of California, Berkeley]]
+| doctoral_advisor  = [[Walter D. Knight]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| religion          = 
+| signature         = <!--(filename only)-->
+| footnotes         =  
+}}
+
+'''Walter Alexander "Walt" de Heer''' (born November 1949) is a Dutch physicist and [[nanoscience]] researcher known for discoveries in the [[electron shell configuration|electronic shell structure]] of [[metal cluster]]s, magnetism in [[transition metal]] clusters, [[field emission]] and [[ballistic conduction]] in [[carbon nanotube]]s, and [[graphene]]-based electronics.
+
+== Academic career ==
+De Heer earned a [[doctoral]] degree in [[physics]] from the [[University of California, Berkeley]], in 1986 under the supervision of [[Walter D. Knight]]. He worked at the [[École Polytechnique Fédérale de Lausanne]] in [[Switzerland]] from 1987 to 1997, and is currently a [[Regents' Professor]] of Physics at the [[Georgia Institute of Technology]]. He directs the Epitaxial Graphene Laboratory in the School of Physics and leads the Epitaxial Graphene Interdisciplinary Research Group at the Georgia Tech [[Materials Research Science and Engineering Centers|Materials Research Science and Engineering Center]].
+
+== Research ==
+De Heer and his research groups have made significant contributions to several important areas in [[nanoscopic]] physics. As a graduate student at UC-Berkeley, he participated in groundbreaking research on [[alkali metal|alkali]] metal clusters that demonstrated the [[electron shell configuration|electronic shell structure]] of [[metal cluster]]s.<ref name=KnightPRL84>{{Cite journal|last = Knight| first=W.D.|year = 1984|title = Electronic Shell Structure and Abundances of Sodium Clusters|journal = [[Physical Review Letters]]|volume = 52|page = 2141|doi = 10.1103/PhysRevLett.52.2141|bibcode=1984PhRvL..52.2141K|issue = 24|display-authors=etal}}</ref> This is a property of small metal clusters composed of few atoms that develop atom-like electronic properties (these clusters are also referred to as [[superatom]]s). In Switzerland, he developed methods of measuring the magnetic properties of cold metal clusters and described how [[magnetism]] develops in these clusters as their size increases from atomic to bulk.<ref name=BillasSci94>{{Cite journal|last = Billas| first=I. |author2=Chatelain, A. |author3=de Heer, W. |year = 1994|title = Magnetism from the Atom to the Bulk in Iron, Cobalt, and Nickel Clusters|journal = [[Science (journal)|Science]]|volume = 265|doi = 10.1126/science.265.5179.1682|pmid = 17770895|issue = 5179|bibcode = 1994Sci...265.1682B|pages = 1682–4 | s2cid=25787167 }}</ref> He is the author of the most highly cited<ref name=wos>[http://apps.isiknowledge.com/ Web of Science], retrieved 18 November 2010.</ref> review articles on metallic clusters.<ref name=deheerRMP>{{Cite journal|last = de Heer| first=W. |year = 1993|title = The physics of simple metal clusters: experimental aspects and simple models|journal = [[Reviews of Modern Physics]]|volume = 65|page = 611|doi = 10.1103/RevModPhys.65.611|bibcode=1993RvMP...65..611D|issue = 3}}</ref>
+
+De Heer turned to [[carbon nanotube]]s in 1995, showing that they are excellent [[field emitter]]s, with potential application to [[flat panel display]]s.<ref name=deheerSci95>{{Cite journal|last = de Heer| first=W.|author2=Chatelain, A. |author3= Ugarte, D.  |year = 1995|title = A Carbon Nanotube Field-Emission Electron Source|journal = Science|volume = 270|page = 1179|doi = 10.1126/science.270.5239.1179|bibcode = 1995Sci...270.1179D|issue=5239| s2cid=179090084}}</ref> In 1998, he discovered that carbon nanotubes are [[ballistic conduction|ballistic conductors]] at room temperature,<ref name=FrankSci98>{{Cite journal|last = Frank| first=S.|author2=Poncharal, P |author3=Wang, Z.L. |author4= de Heer, W.  |year = 1998|title = Carbon Nanotube Quantum Resistors|journal = Science|volume = 280|doi = 10.1126/science.280.5370.1744|pmid=9624050|bibcode = 1998Sci...280.1744F|issue=5370|pages = 1744–6}}</ref><ref>{{Cite journal
+  | last = Dekker
+  | first = C.
+  | title = Carbon Nanotubes as Molecular Quantum Wires
+  | journal = [[Physics Today]]
+  | year = 1999
+  | volume = 52
+  | issue = 5
+  | page = 22
+  | doi = 10.1063/1.882658|bibcode = 1999PhT....52e..22D }}</ref> meaning that they conduct electrons over relatively large distances without resistance. This is a key selling point of nanotube- and graphene-based electronics.
+
+His nanotube work led to consideration of the properties of "opened" carbon nanotubes and the development of [[graphene]]-based electronics, starting in 2001.<ref name=deheer09>{{Cite journal|last = de Heer| first=W.A. |year = 2009|title = Early development of graphene electronics |journal = SMARTech| hdl=1853/31270}}</ref><ref name=nyt>{{Cite news
+  | last = Chang
+  | first = Kenneth
+  | title = Thin Carbon Is In: Graphene Steals Nanotubes' Allure
+  | newspaper = The New York Times
+  | date = 10 April 2007
+  | url = https://www.nytimes.com/2007/04/10/science/10grap.html?pagewanted=print
+  }}</ref> Anticipating that patterned graphene structures would behave like interconnected carbon nanotubes,<ref name=deheer09 /> he proposed several avenues of graphene preparation, including exfoliation of graphite flakes to oxidized [[silicon wafer]]s and [[epitaxial]] growth on [[silicon carbide]].<ref name=deheer09 /> The latter was deemed most promising for [[integrated circuit|large-scale integrated electronics]], and was funded by [[Intel Corporation]] in 2003.<ref name=nyt /> In 2004, the group was awarded additional funding from the [[National Science Foundation]] for the pursuit of graphene science.<ref name=pressrel>{{Cite news
+  | last = Toon
+  | first = John
+  | title = Carbon-Based Electronics: Researchers Develop Foundation for Circuitry and Devices Based on Graphite
+  | newspaper = Georgia Tech Research News
+  | date = 14 March 2006
+  | url = http://gtresearchnews.gatech.edu/newsrelease/graphene.htm
+  | archive-date = 14 April 2009
+  | access-date = 16 December 2009
+  | archive-url = https://web.archive.org/web/20090414072336/http://gtresearchnews.gatech.edu/newsrelease/graphene.htm
+  }}</ref><ref>{{Cite web
+  | title = NIRT: Electronic Devices from Nano-patterned Epitaxial Graphite
+  | publisher = National Science Foundation
+  | date = 12 August 2004
+  | url = https://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0404084
+  }}</ref> The first paper, "Two dimensional electron gas properties of ultrathin epitaxial graphite", was presented in March 2004<ref name=BergerAPS04>{{Cite conference  | first = C.  | last = Berger  | title = Two dimensional electron gas properties of ultrathin epitaxial graphite
+ | book-title = Bulletin of the American Physical Society  | date = 22 March 2004  | url = http://flux.aps.org/meetings/YR04/MAR04/baps/abs/S170008.html   | id = A17.008   |display-authors=etal}}</ref> at a meeting of the [[American Physical Society]] and published in December under the title, "Ultrathin epitaxial graphite: Two dimensional electron gas properties and a route towards graphene based electronics".<ref name=Berger04>{{Cite journal|last = Berger| first=C.|year = 2004|title = Ultrathin epitaxial graphite: Two dimensional electron gas properties and a route towards graphene based electronics| journal = [[Journal of Physical Chemistry B]]| volume = 108|page = 19912|doi = 10.1021/jp040650f|issue = 52|display-authors=etal|arxiv = cond-mat/0410240| s2cid=848033}}</ref> This paper, based primarily on data documented in 2003,<ref name=deheer09 /> describes the first electrical measurements of epitaxial graphene, reports fabrication of the first graphene [[transistor]], and outlines the desirable properties of graphene for use in graphene-based electronics. De Heer and coworkers [[Claire Berger]] and Phillip First hold the first patent on graphene-based electronics,<ref>{{US patent reference
+ | number = 7015142
+ | y = 2006
+ | m = 03
+ | d = 21
+ | inventor = Walt A. DeHeer, Claire Berger, and Phillip N. First
+ | title = Patterned thin film graphite devices and method for making same
+}}</ref> provisionally filed in June 2003. The approach championed by De Heer has the advantage of producing graphene directly on a high-quality electronic material (silicon carbide) and does not require isolation or transfer to any other substrate.<ref name=Berger04 /> In 2014, De Heer and co-workers demonstrated exceptional ballistic transport properties of epigraphene nanoribbons on silicon carbide substrate steps.<ref>{{Cite journal |last1=Baringhaus |first1=Jens |last2=Ruan |first2=Ming |last3=Edler |first3=Frederik |last4=Tejeda |first4=Antonio |last5=Sicot |first5=Muriel |last6=Taleb-Ibrahimi |first6=Amina |last7=Li |first7=An-Ping |last8=Jiang |first8=Zhigang |last9=Conrad |first9=Edward H. |last10=Berger |first10=Claire |last11=Tegenkamp |first11=Christoph |last12=de Heer |first12=Walt A. |date=February 2014 |title=Exceptional ballistic transport in epitaxial graphene nanoribbons |journal=Nature |volume=506 |issue=7488 |pages=349–354 |doi=10.1038/nature12952 |pmid=24499819 |issn=0028-0836|arxiv=1301.5354 |bibcode=2014Natur.506..349B }}</ref> This work was continued and in 2022 the  transport was demonstrated to  involve a zero-energy edge state with Majorana-fermion-like properties.<ref>{{Cite journal |last1=Makar |first1=A. B. |last2=McMartin |first2=K. E. |last3=Palese |first3=M. |last4=Tephly |first4=T. R. |date=June 1975 |title=Formate assay in body fluids: application in methanol poisoning |journal=Biochemical Medicine |volume=13 |issue=2 |pages=117–126 |doi=10.1016/0006-2944(75)90147-7 |issn=0006-2944 |pmid=1}}</ref>  This novel state is still not theoretically explained. In 2023, De Heer and coworkers demonstrated ultrahigh mobility semiconducting epigraphene.<ref name=":0">{{Cite journal |last1=Zhao |first1=Jian |last2=Ji |first2=Peixuan |last3=Li |first3=Yaqi |last4=Li |first4=Rui |last5=Zhang |first5=Kaimin |last6=Tian |first6=Hao |last7=Yu |first7=Kaicheng |last8=Bian |first8=Boyue |last9=Hao |first9=Luzhen |last10=Xiao |first10=Xue |last11=Griffin |first11=Will |last12=Dudeck |first12=Noel |last13=Moro |first13=Ramiro |last14=Ma |first14=Lei |last15=de Heer |first15=Walt A. |date=January 2024 |title=Ultrahigh-mobility semiconducting epitaxial graphene on silicon carbide |url=https://www.nature.com/articles/s41586-023-06811-0 |journal=Nature |language=en |volume=625 |issue=7993 |pages=60–65 |doi=10.1038/s41586-023-06811-0 |pmid=38172363 |issn=1476-4687|arxiv=2308.12446 |bibcode=2024Natur.625...60Z }}</ref>
+
+== Honors and awards ==
+He was elected a  [[Fellow of the American Physical Society]] in 2003.<ref>{{cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2003&unit_id=&institution=|title=APS Fellow Archive|publisher=APS|access-date=17 September 2020}}</ref>
+
+In 2006, De Heer was named as one of the "[[Scientific American#Scientific American 50 award|Scientific American 50]]", a list of individuals/organizations honored for their contributions to science and society during the preceding year.<ref name=sciam>{{Cite news
+  | title = Scientific American 50: SA 50 Winners and Contributors
+  | newspaper = Scientific American
+  | date = 12 November 2006
+  | url = http://www.scientificamerican.com/article.cfm?id=scientific-american-50-sa-2006-12
+  }}</ref> In 2007, he and his research group were awarded the prestigious [[W.M. Keck Foundation]] grant for continuation of work on "nanopatterned epitaxial graphene electronic devices that work at room temperature."<ref name=keck>{{Cite web
+  | title = Grants Awarded in 2007
+  | publisher = W.M. Keck Foundation
+  | url = http://www.wmkeck.org/contentmanagement/gl_2007.htm
+  }}</ref> De Heer received [[IBM]] Faculty Awards in 2007<ref>{{Cite web| title = 2007 Faculty Award recipients  | publisher = IBM University Research & Collaboration  | year = 2007  | url = http://download.boulder.ibm.com/ibmdl/pub/software/dw/university/facultyawards/2007_faculty_recipients.pdf  }}</ref> and 2008,<ref>{{Cite web| title = 2008 Faculty Award recipients  | publisher = IBM University Research & Collaboration  | year = 2008  | url = http://download.boulder.ibm.com/ibmdl/pub/software/dw/university/facultyawards/2008_faculty_recipients.pdf  }}</ref> and his work on graphene transistors was named as one of ''[[Technology Review]]'''s 10 emerging technologies "most likely to change the way we live" in 2008.<ref name=techrev>{{Cite news
+  | last = Bullis
+  | first = Kevin
+  | title = TR10: Graphene Transistors
+  | newspaper = Technology Review
+  | publisher = MIT
+  | date = Mar–Apr 2008
+  | url = http://www.technologyreview.com/read_article.aspx?ch=specialsections&sc=emerging08&id=20242&a=f
+  }}</ref> In September 2009, De Heer was awarded the ACSIN Nanoscience Prize "for his visionary work in developing the field of graphene nanoscience and technology".<ref name=acsin>"[http://www.grupoaran.com/acsin10/ The Nanoscience Prize]" (24 September 2009) 10th International Conference on Atomically Controlled Surfaces, Interfaces, and Nanostructures. Granada, Spain.</ref> De Heer has been awarded the 2010 [[Materials Research Society]] Medal "for his pioneering contributions to the science and technology of epitaxial graphene".<ref name=MRS>"[http://www.mrs.org/s_mrs/doc.asp?CID=27189&DID=330098 MRS Medal Award]" (1 October 2010). [[Materials Research Society]].</ref> His [[h-index]] is currently 97.<ref>https://scholar.google.com/citations?user=klW4cOMAAAAJ&hl=en, current as of 20 December 2023</ref>
+
+== TICNN ==
+The Tianjin International Center for Nanoparticles and Nanosystems (TICNN) is a research institute on the University of Tianjin (TJU) campus that was established in 2015 by De Heer's ex-postdoc Lei Ma and Walt de Heer, designed by De Heer and constructed by Ma. TICNN has a comprehensive dedicated epigraphene laboratory designed to coordinate with, and complement the Georgia Tech epigraphene effort, with Georgia Tech's endorsement. De Heer was the TICNN director until 2020. De Heer advised epigraphene research at the TICNN and remotely directed experiments that demonstrated ultrahigh mobility semiconducting epigraphene.<ref name=":0" /> The deterioration of US-China relationships in general and the China Initiative specifically, ultimately led to the dissolution of the collaboration.
+
+== Letter to Nobel prize committee ==
+In November 2010, De Heer wrote<ref>"[http://www.nature.com/news/2010/101124/full/468486a.html Nobel document triggers debate]"</ref> to the Nobel prize committee criticising certain inaccuracies of the Scientific Background document relating to the award of the [[Nobel Prize]] to [[Andre Geim]] and [[Konstantin Novoselov]] which led to revisions in the Scientific Background document.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.physics.gatech.edu/npeg/index.html Epitaxial Graphene Laboratory at Georgia Institute of Technology]
+* [http://mrsec.gatech.edu/ Georgia Tech Materials Research Science and Engineering Center]
+
+{{authority control}}
+
+{{DEFAULTSORT:Heer, Walter de}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:20th-century Dutch physicists]]
+[[Category:Carbon scientists]]
+[[Category:Georgia Tech faculty|De Heer, Walter]]
+[[Category:University of California, Berkeley alumni|De Heer, Walter]]
+[[Category:Experimental physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:21st-century American physicists]]

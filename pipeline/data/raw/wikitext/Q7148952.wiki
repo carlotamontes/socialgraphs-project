@@ -1,0 +1,74 @@
+{{short description|American computer scientist (1924–1999)}}
+{{Infobox scientist
+| name              = Paul A. D. de Maine
+| birth_date        = October 11, 1924
+| birth_place       = South Africa
+| death_date        = May 13, 1999
+| death_place       = United States
+| resting_place     = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+*[[Chemistry]]
+*[[Computational chemistry]]
+*[[Computer science]]
+}}
+| workplaces        = {{Plainlist|
+*[[Auburn University]]
+*[[University of Mississippi]]
+}}
+| education         = {{Plainlist|
+*[[University of the Witwatersrand]] <small>([[Bachelor of Science|BS]])</small>
+*[[University of British Columbia]] <small>([[Doctor of Philosophy|PhD]])</small>
+}}
+}}
+
+'''Paul Alexander Desmond de Maine''' (October 11, 1924 – May 13, 1999) was a leading figure in the early development of computer-based automatic indexing and [[information retrieval]] and one of the founders of academic [[computer science]] in the 1960s.
+
+==Early life and education==
+He was born in [[South Africa]] and took his B.Sc. in [[chemistry]] and [[mathematics]] from the [[University of the Witwatersrand|University of Witwatersrand]] in 1948. De Maine emigrated to England in 1949. He later moved to Canada where he completed his Ph.D. in [[physical chemistry]] at the [[University of British Columbia]]. He finally moved to the United States in 1957 and served as professor at the University of Mississippi from 1960 to 1963. In 1982 he settled in [[Auburn, Alabama|Auburn]].{{R|Times}}
+
+==Career==
+During his career he worked in the United States for the [[National Institute of Standards and Technology|National Bureau of Standards]], the Ballistic Missile Defense Advanced Technology Center,{{R|IEEE1982}} and on the campuses of [[University of Mississippi]] and [[Auburn University]].{{R|Times}} He also served on the publication committee of the magazine ''[[Computer (magazine)|Computer]]'' while at Pennsylvania State University.{{R|Computer}}
+
+== Publications ==
+He was the author of 1 patent, two books, and more than 200 published scientific research articles and reports in chemistry, [[computational chemistry]] and [[computer science]].{{R|Google Scholar|Beebe}} His fields of research included [[spectroscopy]], [[charge transfer complex]]es, solution theory, [[data compression]], [[information retrieval]], human-machine interfaces, [[expert systems]] and systems for detecting and correcting computational errors.
+
+=== Selected works ===
+* {{cite conference | last1=Rotwitt | first1=Theodore | last2=deMaine | first2=P. A. D. | title=Proceedings of the 1971 ACM SIGFIDET (Now SIGMOD) Workshop on Data Description, Access and Control - SIGFIDET '71 | chapter=Storage optimization of tree structured files representing descriptor sets | publisher=ACM Press | publication-place=New York, New York, USA | year=1971 | page=207 | doi=10.1145/1734714.1734730}}
+* {{cite journal | last=DeMaine | first=P.A.D. | title=Automatic curve-fitting—I. Test methods | journal=Computers & Chemistry | publisher=Elsevier BV | volume=2 | issue=1 | year=1978 | issn=0097-8485 | doi=10.1016/0097-8485(78)80001-1 | pages=1–6}}
+* {{cite journal | last1=deMaine | first1=P.A.D. | last2=Springer | first2=G.K. | last3=Mikelskas | first3=R.A. | title=Automatic curve-fitting-II. Linear equations | journal=Computers & Chemistry | publisher=Elsevier BV | volume=2 | issue=1 | year=1978 | issn=0097-8485 | doi=10.1016/0097-8485(78)80002-3 | pages=7–13}}
+* {{cite journal | last1=Whitten | first1=Douglas E. | last2=Demaine | first2=Paul A. D. | title=A machine and configuration independent Fortran: Portable Fortran {PFortran} | journal=IEEE Transactions on Software Engineering | publisher=Institute of Electrical and Electronics Engineers (IEEE) | volume=SE-1 | issue=1 | year=1975 | issn=0098-5589 | doi=10.1109/tse.1975.6312825 | pages=111–124| s2cid=16485156 }}
+* {{cite journal | last=deMaine | first=P.A.D. | title=Empirical relationships for random self-avoiding walks on lattices | journal=Computers & Chemistry | publisher=Elsevier BV | volume=2 | issue=2 | year=1978 | issn=0097-8485 | doi=10.1016/0097-8485(78)87002-8 | pages=53–64}}
+
+==References==
+{{Reflist|refs=
+<ref name="Beebe">{{cite book| title=A Bibliography of Publications about the Fortran Programming Language: Part 1: 1956–1980 |first=Nelson H. F. |last=Beebe |date=30 March 2013 |publisher=University of Utah |page=133| citeseerx=10.1.1.294.974 }}</ref>
+
+<ref name="Computer">{{cite journal | title=Computer Magazine - Contents | journal=[[Computer (magazine)|Computer]] | date=July 1976 |volume=9 |issue=7 | doi=10.1109/C-M.1976.218632 }}</ref>
+
+<ref name="Google Scholar">{{cite web | title=Google Scholar search - Paul de Maine | website=Google Scholar | url=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Paul+DeMaine | access-date=28 July 2021}}</ref>
+
+<ref name="IEEE1982">{{cite journal | title=Future Events | journal=Computer | publisher=Institute of Electrical and Electronics Engineers (IEEE) | volume=15 | issue=8 | year=1982 | issn=0018-9162 | doi=10.1109/mc.1982.1654114 | pages=89–96 |url=https://www.computer.org/csdl/magazine/co/1982/08/01654114/13rRUxOvecI |format=pdf| url-access=subscription }}</ref>
+
+<ref name="Times">{{cite news|url=https://news.google.com/newspapers?id=L1weAAAAIBAJ&pg=3845,2089160&hl=en|title=Professor Ready To Return Home|date=March 14, 1990|work=Times Daily|page=3B|accessdate=28 July 2021}}</ref>
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:DeMaine, Paul A. D.}}
+[[Category:South African emigrants to the United States]]
+[[Category:University of Mississippi faculty]]
+[[Category:Auburn University faculty]]
+[[Category:1924 births]]
+[[Category:1999 deaths]]
+[[Category:American physical chemists]]
+[[Category:Place of birth missing]]
+[[Category:American computational chemists]]
+[[Category:University of the Witwatersrand alumni]]
+[[Category:South African chemists]]
+[[Category:White South African people]]
+[[Category:South African expatriates in Canada]]
+[[Category:20th-century American chemists]]
+[[Category:University of British Columbia alumni]]

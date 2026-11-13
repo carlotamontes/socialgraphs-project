@@ -1,0 +1,52 @@
+{{short description|British-Soviet computer scientist and statistician}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name              = Alexander Gammerman
+| image             = Alexander-Gammerman-professor-at-RHUL.jpg
+| birth_date        = {{birth date and age|2 November 1944|df=y}}
+| birth_place       = [[Almaty]], [[Soviet Union]]<ref name="whoswho">{{cite book |title=Who's Who in Scotland |edition=4th |date=1992 |page=152 |url=https://archive.org/details/whoswhoinscotlan0000unse_h2n9/page/152 |publisher=Carrick Media |isbn=094672430X}}</ref>
+| workplaces        = [[Royal Holloway, University of London]]
+| education         = [[Saint Petersburg State University]]<br />[[Russia]]
+| known_for         = [[Conformal prediction]]
+| field             = [[Machine learning]]<br />[[Statistics]]
+}}
+
+'''Alexander Gammerman''' (born 2 November 1944) is a British computer scientist, and professor at [[Royal Holloway University of London]]. He is the co-inventor of [[conformal prediction]]. He is the founding director of the Centre for Machine Learning at Royal Holloway, University of London, and a Fellow of the [[Royal Statistical Society]].
+
+==Career==
+Gammerman's academic career has been pursued in the Soviet Union and the United Kingdom. He started working as a Research Fellow in the [[Agrophysical Research Institute]], St. Petersburg. In 1983, he emigrated to the United Kingdom and was appointed as a lecturer in the Computer Science Department at [[Heriot-Watt University]], [[Edinburgh]].<ref name="whoswho"/> Together with [[Roger Thatcher]], Gammerman published several articles on [[Bayesian inference]].<ref name="Golumbic 1990 pp. 182–218">{{cite book | last=Golumbic | first=Martin Charles | editor1-first=Martin Charles | editor1-last=Golumbic | title=Advances in Artificial Intelligence | publisher=Springer-Verlag | location=New York, NY | year=1990 | isbn=978-1-4613-9054-1 | doi=10.1007/978-1-4613-9052-7 | pages=182–218| hdl=10366/135195 | s2cid=41996809 }}</ref> In 1993, he was appointed to the established chair in Computer Science at [[University of London]] tenable at [[Royal Holloway and Bedford New College]], where he served as the Head of Computer Science department from 1995 to 2005.<ref>{{Cite web |url=https://ieeexplore.ieee.org/author/37586446000 |access-date=2023-11-14 |website=[[IEEE]]| title=Alexander Gammerman - IEEE Author Profile |publisher=IEEE}}</ref> In 1998, the Centre for Reliable Machine Learning was established, and Gammerman became the first director of the centre.
+
+Gammerman has written 7 books.{{citation needed|date=September 2025}}
+
+==Honours and awards==
+In 1996, Gammerman received the P.W. Allen Award from the [[Forensic Science Society]].<ref name="AllenPrize">{{cite web|url=https://www.csofs.org/PW-Allen-Award|title=Winners of the PW Allen Award |year=2020 |publisher=The Chartered Society of Forensic Sciences |access-date={{Format date|2020|09|21}}}}</ref> In 2006, he became an Honorary Professor, at University College London. In 2009, he became a Distinguished Professor at [[Complutense University of Madrid]], Spain. In 2019, he received a research grant funded by the energy company Centrica about predicting the time to the next failure of equipment.<ref name="CentricaRHUL">{{cite web|url=https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/news/centrica-grant-2018/|title=Centrica research grant awarded for Prof. Alex Gammerman |year=2019 |publisher=Royal Holloway University of London|access-date={{Format date|2020|09|27}}}}</ref> In 2020, he received the Amazon Research Award for the project titled Conformal Martingales for Change-Point Detection<ref name="AmazonAward">{{cite web|url=https://www.amazon.science/blog/recipients-of-the-2019-amazon-research-awards-announced|title=Recipients of the 2019 Amazon Research Awards announced |year=2020 |publisher=Amazon |access-date={{Format date|2020|09|21}}}}</ref><ref name="AmazonAwardRHUL">{{cite web|url=https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/news/amazon-research-award/|title=Amazon Research Award for Prof. Alex Gammerman |year=2020 |publisher=Royal Holloway University of London|access-date={{Format date|2020|09|22}}}}</ref><ref name="AmazonAwardPage">{{cite web|url=https://www.amazon.science/research-awards/recipients/alexander-gammerman|title=2019 Amazon Research Award recipient|year=2020 |publisher=Amazon|access-date={{Format date|2021|02|21}}}}</ref>
+
+==Selected books==
+* ''Measures of Complexity'' (2016), Springer, {{ISBN|3319357786}}.
+* ''Algorithmic Learning in a Random World'' (2005), Springer, {{ISBN|0387001522}}.
+* ''Causal Models and Intelligent Data Management'' (1999), Springer, {{ISBN|978-3-642-58648-4}}.
+* ''Probabilistic Reasoning and Bayesian Belief Networks'' (1998), Nelson Thornes Ltd, {{ISBN|1872474268}}.
+* ''Computational Learning and Probabilistic Reasoning'' (1996), Wiley, {{ISBN|0471962791}}.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://cml.rhul.ac.uk/people/alex/ Gammerman's University Website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Gammerman, Alexander}}
+[[Category:Living people]]
+[[Category:Machine learning researchers]]
+[[Category:Soviet computer scientists]]
+[[Category:Soviet mathematicians]]
+[[Category:British mathematicians]]
+[[Category:British computer scientists]]
+[[Category:Academics of Royal Holloway, University of London]]
+[[Category:Soviet emigrants to the United Kingdom]]
+[[Category:Fellows of the Royal Statistical Society]]
+[[Category:British artificial intelligence researchers]]
+[[Category:1949 births]]
+[[Category:Academics of Heriot-Watt University]]
+[[Category:Academic staff of the Complutense University of Madrid]]

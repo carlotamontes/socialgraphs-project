@@ -1,0 +1,172 @@
+{{short description|British geneticist}}
+{{Infobox scientist
+| name              = Jonathan Pritchard
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| imagesize         = 
+| alt               = 
+| caption           = 
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Population genetics]]
+* [[Genomics]]<ref name=googlescholar/>}}
+| workplaces        = {{Plainlist|
+*  [[Stanford University]]
+* [[University of Oxford]] 
+* [[University of Chicago]]}}
+| patrons           = 
+| education         = {{Plainlist|
+* [[Pennsylvania State University]] ([[Bachelor of Science|BS]])
+* [[Stanford University]] ([[PhD]])}}
+| thesis_title      = Methods for inferring human evolutionary history using genetic markers
+| thesis_url        = https://www.proquest.com/docview/304543241
+| thesis_year       = 1998
+| doctoral_advisor  = [[Marcus Feldman]]<ref name=mathgene>{{MathGenealogy|id=133038}}</ref>
+| academic_advisors = [[Peter Donnelly]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = [[Edward Novitski Prize]] (2013)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|http://pritchardlab.stanford.edu}}
+| footnotes         = 
+}}
+
+'''Jonathan Karl Pritchard''' is an English-born professor of genetics at Stanford University, best known for his development of the STRUCTURE algorithm for studying population structure and his work on human genetic variation and evolution.<ref name=":0">Pritchard Lab website:  http://pritchardlab.stanford.edu</ref>  His research interests lie in the study of [[human evolution]], in particular in understanding the association between genetic variation among human individuals and human traits.<ref name=googlescholar>{{GoogleScholar|iopnWAMAAAAJ}}</ref><ref>{{Cite journal
+ | pmid = 24352230
+| year = 2014
+| last1 = Birney
+| first1 = E
+| authorlink1 = Ewan Birney
+| title = Archaic humans: Four makes a party
+| journal = Nature
+| volume = 505
+| issue = 7481
+| pages = 32–4
+| last2 = Pritchard
+| first2 = J. K.
+| authorlink2 = Jonathan K. Pritchard
+| doi = 10.1038/nature12847
+| bibcode = 2014Natur.505...32B
+| doi-access = free
+}}</ref><ref name=structure>{{Cite journal
+ | pmid = 10835412
+| pmc = 1461096
+| year = 2000
+| last1 = Pritchard
+| first1 = J. K.
+| title = Inference of population structure using multilocus genotype data
+| journal = Genetics
+| volume = 155
+| issue = 2
+| pages = 945–59
+| last2 = Stephens
+| first2 = M
+| last3 = Donnelly
+| first3 = P
+| doi = 10.1093/genetics/155.2.945
+}}</ref><ref>{{Scopus|id=7202189487}}</ref><ref>{{Cite journal 
+| last1 = Rosenberg | first1 = N. A. 
+| authorlink = Noah Rosenberg
+| last2 = Pritchard | first2 = J. K. 
+| authorlink2 = Jonathan K. Pritchard
+| last3 = Weber | first3 = J. L. 
+| last4 = Cann | first4 = H. M. 
+| last5 = Kidd | first5 = K. K. 
+| last6 = Zhivotovsky | first6 = L. A. 
+| last7 = Feldman | first7 = M. W. 
+| authorlink7 = Marcus Feldman
+| title = Genetic Structure of Human Populations 
+| journal = Science 
+| volume = 298 
+| issue = 5602
+| pages = 2381–2385
+| year = 2002 
+| url = https://web.stanford.edu/group/rosenberglab/papers/popstruct.pdf
+| doi = 10.1126/science.1078311 | pmid=12493913
+|bibcode = 2002Sci...298.2381R | s2cid = 8127224 
+}}</ref><ref>{{Cite journal | doi = 10.1111/j.1471-8286.2007.01758.x| title = Inference of population structure using multilocus genotype data: Dominant markers and null alleles| journal = Molecular Ecology Notes| volume = 7| issue = 4| pages = 574–578| year = 2007| last1 = Falush | first1 = D. | last2 = Stephens | first2 = M. | last3 = Pritchard | first3 = J. K. | pmc = 1974779 | pmid=18784791}}</ref><ref>{{Cite journal
+ | pmid = 10827107
+| pmc = 1287075
+| year = 2000
+| last1 = Pritchard
+| first1 = J. K.
+| title = Association mapping in structured populations
+| journal = The American Journal of Human Genetics
+| volume = 67
+| issue = 1
+| pages = 170–81
+| last2 = Stephens
+| first2 = M
+| last3 = Rosenberg
+| first3 = N. A.
+| last4 = Donnelly
+| first4 = P
+| doi = 10.1086/302959
+}}</ref>{{Excessive citations inline|date=October 2023}} He was elected a Member of the [[National Academy of Sciences]] in 2025.<ref>{{Cite web | title=National Academy of Sciences Elects Members and International Members - NAS | url=https://www.nasonline.org/news/2025-nas-election/ | access-date=2025-08-26 | website=www.nasonline.org}}</ref>
+
+==Education==
+Pritchard's family moved to the US when he was a teenager. He studied [[biology]] and [[mathematics]] at [[Pennsylvania State University]], and then went on to graduate studies in biology at [[Stanford University]] under the supervision of Marc Feldman, finishing in 1998.<ref name="hhmi"/>
+
+==Career==
+Pritchard conducted [[postdoctoral research]] with [[Peter Donnelly]] at the University of Oxford. It was there that he developed STRUCTURE, a widely used computer program for determining [[population stratification|population structure]] and estimating individual [[Genetic admixture|admixture]].<ref name="structure" /> In 2001, he moved to the [[University of Chicago]]. He was promoted from Assistant Professor to Full Professor in 2006. He stayed there until moving to Stanford in 2013.<ref name=":0" />  He was awarded a [[Howard Hughes Medical Institute]] (HHMI) investigator position in 2008.<ref name="hhmi">[http://www.hhmi.org/news/pritchard_bio.html Jonathan K. Pritchard, Ph.D.], Bios of the 2008 New HHMI Investigators, HHMI, retrieved 2011-07-24.</ref>
+
+==Awards and honours==
+Pritchard was a recipient of the 2013 [[Edward Novitski Prize]] from the [[Genetics Society of America]] and the 2002 [[Mitchell Prize]] from the [[International Society for Bayesian Analysis]].
+
+==Personal life==
+Pritchard ran track and cross country for [[Pennsylvania State University]] from 1989 to 1994. In part because of his running experience, he appeared in the 1998 movie [[Without Limits]] portraying [[David Bedford (athlete)|David Bedford]], an English distance runner who participated in the 1972 Munich Olympics.  As a result of his appearance in ''Without Limits'' and his publication of ″Population Growth of Human Y Chromosomes: A study of Y Chromosome Microsatellites″ with [[Marcus Feldman]],<ref>{{Cite journal
+ | pmid = 10605120
+| year = 1999
+| last1 = Pritchard
+| first1 = J. K.
+| title = Population growth of human Y chromosomes: A study of Y chromosome microsatellites
+| journal = Molecular Biology and Evolution
+| volume = 16
+| issue = 12
+| pages = 1791–8
+| last2 = Seielstad
+| first2 = M. T.
+| last3 = Perez-Lezaun
+| first3 = A
+| last4 = Feldman
+| first4 = M. W.
+ | doi=10.1093/oxfordjournals.molbev.a026091
+| doi-access = free
+}}</ref> he has an [[Erdős–Bacon number]] of 6.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pritchard, Jonathan K.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Howard Hughes Medical Institute Investigators]]
+[[Category:English emigrants to the United States]]
+[[Category:21st-century American biologists]]
+[[Category:American geneticists]]
+[[Category:British population geneticists]]
+[[Category:Eberly College of Science alumni]]
+[[Category:Stanford University alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:Members of the United States National Academy of Sciences]]

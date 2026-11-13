@@ -1,0 +1,60 @@
+{{short description|Swiss computational chemist (born 1964)}}
+{{Infobox scientist
+| name           = Ursula Röthlisberger
+| image          = Ursula Röthlisberger at 11th European Conference on Theoretical and Computational Chemistry.jpg
+| caption        = Röthlisberger speaks at the 11th European Conference on Theoretical and Computational Chemistry in 2018
+| birth_date    = {{birth year and age|1964}}
+| birth_place   = [[Solothurn]], Switzerland
+| death_date   = 
+| death_place = 
+| thesis_title    = Strukturelle und elektronische Eigenschaften von Natriumcluster: Heterocluster aus den Gruppen 1 mit 14
+| thesis_year  = 1991
+| thesis_url     = https://slsp-ube.primo.exlibrisgroup.com/permalink/41SLSP_UBE/s3392g/alma99116925060405511
+| workplaces  = [[ETH Zurich]]<br>[[Ecole polytechnique fédérale de Lausanne|EPFL]]
+| education     = [[University of Bern]] <br> [[IBM Zurich]]
+| doctoral_advisor = [[Wanda Andreoni]]
+| academic_advisors = [[Michael L. Klein]]<br>[[Michele Parrinello]]
+}}
+
+'''Ursula Röthlisberger''' (born 1964)<ref>{{Cite web |title=Röthlisberger, Ursula (1964-....) |url=https://www.idref.fr/236895478 |website=www.idref.fr}}</ref> is a Swiss [[computational chemistry]] and professor at [[École Polytechnique Fédérale de Lausanne]]. She works on [[density functional theory]] using mixed [[QM/MM|quantum mechanical/molecular mechanical methods]]. She is an associate editor of the [[American Chemical Society]] [[Journal of Chemical Theory and Computation]] and a fellow of the [[American Association for the Advancement of Science]].
+
+== Early life and education ==
+Röthlisberger was born in 1964 in [[Solothurn]].<ref>{{Cite web|url=https://people.epfl.ch/ursula.roethlisberger|title=Ursula Röthlisberger|website=people.epfl.ch|access-date=2019-04-25}}</ref> She studied [[physical chemistry]] at the [[University of Bern]]. She earned her diploma under the supervision of Ernst Schumacher in 1988.<ref name=":0">{{Cite web|url=https://lcbc.epfl.ch/roethlisberger/|title=Prof. Ursula Roethlisberger – LCBC|language=en-GB|access-date=2019-04-25}}</ref> She joined [[IBM Research – Zurich]] as a doctoral student with [[Wanda Andreoni]].<ref name=":0" /> She worked in [[IBM Zurich]] as a postdoc until 1992. Röthlisberger moved to the [[University of Pennsylvania]] to work with [[Michael L. Klein]].<ref name=":0" /> In 1995 she moved to Germany and joined the group of [[Michele Parrinello]] at the [[Max Planck Institute for Solid State Research]].<ref name=":0" /> Together they used the [[Car-Parrinello]] method to study nanoscale clusters of [[silicon]].<ref>{{Cite journal|last1=Röthlisberger|first1=Ursula|last2=Andreoni|first2=Wanda|author2-link=Wanda Andreoni|last3=Parrinello|first3=Michele|date=1994-01-31|title=Structure of nanoscale silicon clusters|url=https://link.aps.org/doi/10.1103/PhysRevLett.72.665|journal=Physical Review Letters|volume=72|issue=5|pages=665–668|doi=10.1103/PhysRevLett.72.665|pmid=10056492|bibcode=1994PhRvL..72..665R|url-access=subscription}}</ref>
+
+== Research and career ==
+Röthlisberger was appointed assistant professor at [[ETH Zurich]] in 1996.<ref name=":0" /> She was the first woman to win the [[ETH Zurich]] Ruzicka Prize in 2001.<ref name=":1">{{Cite web|url=https://www.swissinfo.ch/eng/woman-wins-a-top-chemistry-prize/2444592|title=Woman wins a top chemistry prize|last1=swissinfo.ch|first1=S. W. I.|last2=Corporation|first2=a branch of the Swiss Broadcasting|website=SWI swissinfo.ch|date=20 December 2001 |language=en|access-date=2019-04-25}}</ref> She joined [[École Polytechnique Fédérale de Lausanne]] as an associate professor in 2002 and was made full professor in 2009.<ref name=":0" /> In 2005 she was the first woman to be awarded the [[World Association of Theoretical and Computational Chemists]] [[Dirac Medal (WATOC)|Dirac Medal]].<ref name=":2">{{Cite web|url=http://watoc.net/watoc.dirac.html|title=Dirac - medal|website=watoc.net|access-date=2019-04-25}}</ref>
+
+Röthlisberger works on [[density functional theory]], extending the [[Car-Parrinello]] method to include [[QM/MM]] simulations in a code called CPMD.<ref>{{Cite web |last=Papageorgiou |first=Nik |date=March 14, 2016 |title=Ursula Röthlisberger wins 2016 Doron Prize |url=https://actu.epfl.ch/news/ursula-rothlisberger-wins-2016-doron-prize-2/}}</ref><ref>{{Cite web|url=http://cpmd.org/the-code|title=The Code — CPMD.org|website=cpmd.org|access-date=2019-04-25}}{{Dead link|date=January 2026 |bot=InternetArchiveBot }}</ref> [[QM/MM]] systems treat the electronically active part of a molecular structure as a [[Quantum mechanics|quantum mechanical]] system, whereas the rest of the molecule is treated classically using [[molecular mechanics]].<ref name=":3">{{Cite web|url=https://www.euchems.eu/euchems-lecture-award-2015/|title=EuChemS Lecture Award 2015|date=2017-07-19|website=EuChemS|language=en-US|access-date=2019-04-25}}</ref> She uses her hybrid [[Car–Parrinello molecular dynamics|Car–Parrinello]] systems to study enzymatic reactions to design [[Biomimetics|biomimetic]] compounds.<ref name=":3" /> Röthlisberger has also expanded [[QM/MM]] to include ground to excited state transitions, making it possible to predict [[photoinduced charge separation]] and [[Photoinduced electron transfer|electron transfer]].<ref name=":3" /> She also works on [[Ab initio quantum chemistry methods|ab initio]] simulations of [[biological system]]s, and has added the [[Van der Waals force|Van der Waals]] interactions of [[macromolecule]]s to [[density functional theory]].<ref name=":3" /> She has used her simulations for several different applications, including the design of new materials for [[photovoltaics]] and exploring the operational mechanisms of [[chemotherapy]].<ref>{{Cite web|url=https://www.sciencedaily.com/releases/2015/12/151221071648.htm|title='Metal' drugs to fight cancer|website=ScienceDaily|language=en|access-date=2019-04-25}}</ref><ref>{{Cite web|url=https://www.sciencedaily.com/releases/2016/06/160630092623.htm|title=The RNA that snips and stitches RNA|website=ScienceDaily|language=en|access-date=2019-04-25}}</ref><ref>{{Cite web|url=https://www.galileonet.it/spliceosoma-taglia-cuci-genetica/|title=Spliceosoma, il sarto che taglia e cuce l'informazione genetica|last=Galileo|first=Redazione|date=2018-07-05|website=Galileo|language=it-IT|access-date=2019-04-25}}</ref> In 2017 she demonstrated that taking [[Auranofin]] whilst on RAPTA-T enhances the activity of the anti-cancer drug.<ref>{{Cite web|url=https://www.aargauerzeitung.ch/leben/gesundheit/positive-nebenwirkung-bessere-krebstherapie-dank-extra-kick-durch-anti-rheuma-mittel-131173722|title=Positive Nebenwirkung: Bessere Krebstherapie dank extra Kick durch Anti-Rheuma-Mittel|website=az Aargauer Zeitung|language=de-ch|access-date=2019-04-25}}</ref><ref>{{Cite web|url=https://www.20min.ch/ro/news/science/story/26359288|title=Combiner deux médics pour tuer les tumeurs|website=[[20 Minuten|20 Minutes]]|date=30 March 2017 |language=fr|access-date=2019-04-25}}</ref>
+
+She teaches classes in [[Monte Carlo simulations]] and [[molecular dynamics]].<ref>{{Cite web|url=https://lcbc.epfl.ch/page-52438-en-html/page-89186-en-html/|title=Molecular Dynamics and Monte Carlo Simulations – LCBC|language=en-GB|access-date=2019-04-25|archive-date=2019-04-25|archive-url=https://web.archive.org/web/20190425200500/https://lcbc.epfl.ch/page-52438-en-html/page-89186-en-html/|url-status=dead}}</ref>
+
+=== Advocacy and engagement ===
+Röthlisberger supports young women scientists and is involved with mentoring of early career researchers.<ref>{{Cite web|url=https://doron-prize.ch/laureat/professor-dr-ursula-roethlisberger/|title=Professor Dr Ursula Röthlisberger|website=doron|language=en-US|access-date=2019-04-25}}</ref> She contributed to the book A ''Journey into Time in Powers of Ten.''<ref>{{Cite book|url=https://books.google.com/books?id=SxjiCwAAQBAJ&q=ursula+r%C3%B6thlisberger+University+of+Bern&pg=PA7|title=A Journey into Time in Powers of Ten|last1=Garry|first1=Anna|last2=Feurer|first2=Thomas|date=2016-03-23|publisher=vdf Hochschulverlag AG|isbn=9783728137524|language=en}}</ref> She is involved with scientific art, which is regularly used on the journals in which she publishes.<ref>{{Cite web|url=https://lcbc.epfl.ch/page-116358-en-html/page-120008-en-html/|title=LCBC Covers – LCBC|language=en-GB|access-date=2019-04-25}}</ref>
+
+== Awards and honours ==
+* 2001 [[Swiss Federal Institute of Technology at Zurich]] Ruzicka Prize<ref name=":1" />
+* 2004 [[World Association of Theoretical and Computational Chemists]] [[Dirac Medal (WATOC)|Dirac Medal]]<ref name=":2" />
+*2015 [[European Chemical Society (EuChemS)]] Lecture Award<ref name=":3" />
+*2015 [[International Academy of Quantum Molecular Science]] Member<ref>{{Cite web|url=http://www.nccr-must.ch/nccr_must/news_4.html?3329|title=Ursula Röthlisberger elected to the International Academy of Quantum Molecular Sciences :: NCCR MUST|website=www.nccr-must.ch|access-date=2019-04-25}}</ref> 
+*2016 The Swiss Foundation for the Doron Prize<ref>{{Cite web|url=http://nccr-marvel.ch/news/awards/ursula-rothlisberger-received-doron-prize-2016|title=Ursula Röthlisberger received the Doron Prize 2016 - Prizes and awards - News - nccr-marvel.ch :: NCCR MARVEL|website=nccr-marvel.ch|access-date=2019-04-25}}</ref><ref>{{Cite web|url=https://www.luzernerzeitung.ch/zentralschweiz/zug/zug-ein-preis-fuer-die-wohltaetigkeit-ld.106085|title=ZUG: Ein Preis für die Wohltätigkeit|last1=Marks|first1=Bernard|website=[[Luzerner Zeitung]]|date=10 March 2016 |language=de|access-date=2019-04-25}}</ref>
+*2018 [[American Association for the Advancement of Science]] Fellow<ref>{{Cite web|url=http://www.nccr-must.ch/nccr_must/news_4.html?4383|title=Ursula Röthlisberger received a distinction by the American Association for the Advancement of Science :: NCCR MUST|website=www.nccr-must.ch|access-date=2019-04-25}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Rothlisberger, Ursula}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:21st-century Swiss women scientists]]
+[[Category:21st-century Swiss chemists]]
+[[Category:Academic staff of ETH Zurich]]
+[[Category:Academic staff of the École Polytechnique Fédérale de Lausanne]]
+[[Category:University of Pennsylvania fellows]]
+[[Category:Swiss women chemists]]
+[[Category:University of Bern alumni]]
+[[Category:People from Solothurn]]
+[[Category:IBM people]]
+[[Category:Computational chemists]]
+[[Category:Swiss physical chemists]]

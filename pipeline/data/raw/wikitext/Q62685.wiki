@@ -1,0 +1,512 @@
+{{Short description|Scientific misconduct scandal}}
+
+The '''Schön scandal''' was a case of [[academic misconduct]] and [[scientific fraud]] perpetuated by German [[physicist]] '''Jan Hendrik Schön''' (born August 1970). He briefly rose to prominence after a series of apparently successful experiments with [[semiconductor]]s that showed revolutionary results, but were discovered later to be fraudulent.<ref name="DeutscheWelle">{{cite news |publisher=[[Deutsche Welle]] |title= Scandal Rocks Scientific Community |date= 30 September 2002 |url= http://www.deutsche-welle.de/dw/article/0,2144,646321,00.html}}</ref> Before he was exposed, Schön had received the [[Otto-Klung-Weberbank Prize]] for Physics and the Braunschweig Prize in 2001, as well as the Outstanding Young Investigator Award of the [[Materials Research Society]] in 2002, all of which were later rescinded.<ref>{{Cite book |url= https://books.google.com/books?id=IgnNCwAAQBAJ&q=Sch%C3%B6n+had+received+the+Otto-Klung-Weberbank+Prize+for+Physics+and+the+Braunschweig+Prize+in+2001+as+well+as+the+Outstanding+Young+Investigator+Award+of+the+Materials+Research+Society+in+2002%2C&pg=PA120 |title= Science and the Economic Crisis: Impact on Science, Lessons from Science |last=Labini |first= Francesco Sylos |date= 2016-03-21 |publisher= Springer |isbn= 978-3-319-29528-2 |language=en}}</ref> He was also supposed to receive the William L. McMillan Award from the [[University of Illinois Urbana-Champaign|University of Illinois]] in 2002, but due to the intervention of Daniel C. Ralph of [[Cornell University]] (who was on the committee of the McMillan Award), Schön was never given the award.
+
+The scandal provoked discussion in the scientific community about the degree of responsibility which coauthors and reviewers of [[scientific article]]s bear in cases of scientific misbehavior. The discussion mainly concerned whether [[peer review]], traditionally designed to find errors and determine relevance and originality of articles, should also be required to detect deliberate fraud.
+
+==Beginning of fame==
+Schön's topic of research was [[condensed matter physics]] and [[nanotechnology]].<ref name="Agin">{{cite book |last=Agin |first=Dan |title= Junk Science: An Overdue Indictment of Government, Industry, and Faith Groups That Twist Science for Their Own Gain |year=2007 |url= https://books.google.com/books?id=VxcjOL1j8iAC |publisher= Macmillan |isbn= 978-0-312-37480-8}}</ref> He received his [[Doctor of Philosophy|PhD]] from the [[University of Konstanz]] in 1997. During late 1997, he was hired by [[Bell Labs]], where he worked on electronics in which conventional semiconducting elements (such as [[silicon]]) were replaced by crystalline organic (meaning [[carbon]]-based) materials. Schön, however, claimed spectacular ability for changing the conductivity of the organic materials, well beyond anything achieved to date. His measurements in most cases confirmed various theoretical predictions, notably that the organic materials could be made to display [[superconductivity]] or be used in [[laser]]s. The findings were published in prominent scientific publications, including the journals ''[[Science (journal)|Science]]'' and ''[[Nature (journal)|Nature]]'', and gained worldwide attention. However, no research group anywhere in the world succeeded in reproducing the results claimed by Schön.<ref name="Reich">{{cite book |last= Samuel Reich |first= Eugenie |title= Plastic Fantastic: How the Biggest Fraud in Physics Shook the Scientific World  |year=2009 |publisher= St. Martin's Press |isbn= 978-0-230-62384-2}}</ref>
+
+In 2001, he was listed as an author on an average of one newly published research paper every eight days.<ref name="Agin" /> In the same year, he announced in ''[[Nature (journal)|Nature]]'' that he had produced a [[transistor]] on the molecular scale. Schön claimed to have used a thin layer of [[organic compound|organic]] dye molecules to assemble an [[electric circuit]] that, when acted on by an [[electric current]], behaved as a transistor. The implications of his work were significant. It would have been the beginning of a transition from using [[silicon]]-based electronics and toward using [[organic electronics]]. It would have allowed the continued miniaturization of transistors past the point at which silicon breaks down, which would continue [[Moore's law]] for much longer than was then predicted. It also would have drastically reduced the cost of electronics.
+
+A major element of Schön's work claimed that successful observation of various physical phenomena in organic materials was dependent on the transistor setup. Specifically, Schön claimed to use a thin layer of [[aluminium oxide]] which he incorporated into his transistors using laboratory facilities at the [[University of Konstanz]]. However, while the equipment and materials used were common in laboratories all over the world, none succeeded in preparing aluminium oxide layers of similar quality to the ones claimed by Schön.<ref name="Reich" />
+
+==Allegations and investigation==
+Soon after Schön published his work on single-molecule semiconductors, others in the physics community alleged that his data contained anomalies. [[Julia Hsu]] and [[Yueh-Lin Loo|Lynn Loo]] originally noticed problems with Schön's paper describing the assembly of molecular transistors while attempting to patent research concerning [[lithography]], realizing that Schön had duplicated some numbers.<ref>{{Cite web|url=https://phys.org/news/2009-05-lessons-schon-worst-physics.html|title=Lessons from Schon -- the worst physics fraudster?|website=phys.org|language=en-us|access-date=2019-05-05}}</ref> Hsu and Loo had attempted initial experiments to gather evidence for their patent but relied on the scientific outcomes of Schön's work. It was not until April 19, 2002, when Loo and Hsu were meeting with their patent lawyer John McCabe, that they noticed the duplicated data.<ref name="Reich" /> Hsu and Loo both contacted Robert Willett, who then contacted one of his old postdoctoral students, [[Lydia Sohn]], telling her to look out for a correction in one of Schön's papers. Sohn, then of [[Princeton University]], noticed that two experiments carried out at very different [[temperature]]s had identical [[noise (electronics)|noise]].<ref name="Agin" /> When the editors of ''Nature'' mentioned this to Schön, he claimed to have accidentally submitted the same graph twice. [[Paul McEuen]] of [[Cornell University]] then found the same noise in a paper describing a third experiment. More research by McEuen, Sohn, Loo, and other physicists revealed a number of examples of duplicate data in Schön's work. McEuen gathered the six most convincing pieces of evidence regarding Schön's fabrication of data he could find, and sent it to Schön, [[John A. Rogers]], [[Bertram Batlogg]], and editors from the journals ''Science'' and ''Nature''. In response, [[Lucent Technologies]] (which managed Bell Labs) soon began a formal investigation.<ref name=Cassuto>{{cite web |website=[[Salon.com]] |last=Cassuto |first=Leonard |title=Big trouble in the world of "Big Physics" |date=16 September 2002 |url=http://dir.salon.com/story/tech/feature/2002/09/16/physics/index.html# |archive-url=https://web.archive.org/web/20080925065126/http://dir.salon.com/story/tech/feature/2002/09/16/physics/index.html |archive-date=25 September 2008 }}</ref>
+
+During May 2002, Bell Labs established a five-person committee to investigate, with [[Malcolm Beasley|Malcolm R. Beasley]] from [[Stanford University]] as chair. The remaining four members were [[Supriyo Datta]] of [[Purdue University]], [[Herwig Kogelnik]] of [[Bell Labs]], [[Herbert Kroemer]] of the [[University of California, Santa Barbara]], and Don Monroe of [[Agere Systems]].<ref name="BeasleyReport"/>The committee obtained information from all of Schön's coauthors and interviewed the three principal ones ([[Zhenan Bao]], [[Bertram Batlogg]] and Christian Kloc).<ref>{{cite web| url= http://www.mse.ntu.edu.sg/AboutUs/Organisation/Staff/Pages/ckloc.aspx| archive-url= https://web.archive.org/web/20140524003706/http://www.mse.ntu.edu.sg/AboutUs/Organisation/Staff/Pages/ckloc.aspx| archive-date= May 24, 2014| title= Faculty Staff: Professor Christian Kloc | website= mse.ntu.edu.sg| publisher= School of Materials Science and Engineering, [[Nanyang Technological University]]| location= Singapore| access-date= August 7, 2017}}</ref> The committee found that none of the three authors ever saw Schön take measurements from his devices in real time. It examined electronic drafts of the disputed articles, which included processed numeric data. The committee requested copies of the raw data, but found that Schön had kept no laboratory notebooks. His raw data files had been erased from his computer. According to Schön, the files were erased because his computer had limited [[Hard disk drive|hard drive]] space. Additionally, all of his experimental samples, working, and non-working devices had either been discarded or damaged beyond repair, so the committee was unable to conduct examinations of those;<ref name="Agin" /><ref name="BeasleyReport" /> a prior example of poor record-keeping at Bell Labs had been noticed in 1988 by a doctoral student when studying the evolution of the [[Unix]] operating system.<ref name="pirzada88" />
+
+On September 25, 2002, the committee released its report publicly.<ref name="BeasleyReport" /> The report contained details of 24 allegations of misconduct on Schön's part. They found evidence of scientific misconduct in at least 16 of them, while the remaining 8 were either unrelated to publications or were "troubling", but lacked compelling evidence of misconduct. They found that whole data sets had been reused for a number of different experiments. They also found that some of his graphs, which had purportedly been plotted from experimental data, had instead been produced using mathematical functions.<ref name= "BeasleyReport" />
+
+The report found that all of the misdeeds had been performed by Schön alone. All of the coauthors (including Bertram Batlogg, who was the head of the team) were exonerated of scientific misconduct. However, the report was critical of whether or not the coauthors were sufficiently critical in questioning and validating the results of Schön's papers.<ref name="BeasleyReport" /> This caused widespread debate<ref>{{cite journal| title= Cargo-cult science redux| first= Michael R.| last= Norman| journal= [[Nature Physics]]| volume= 5| issue= 7| pages= 451–452 | date= July 2009| doi= 10.1038/nphys1316| bibcode= 2009NatPh...5..451N}}</ref> in the scientific community on how the blame for misconduct should be distributed among co-authors, particularly when they share a significant part of the credit.<ref name="BeasleyReport" /> 
+
+==Aftermath and sanctions==
+Schön acknowledged that the data were incorrect in many of these articles.<ref name="BeasleyReport" /> He claimed that the substitutions could have occurred by honest mistake. He omitted some data and stated that he did so to show more convincing evidence for behavior that he observed. However, he also claimed that he had observed genuine physical effects. 
+
+Researchers at [[Delft University of Technology]] and the [[Thomas J. Watson Research Center]] had since performed experiments similar to Schön's, without achieving similar results.<ref name= "Agin" /> Even before the allegations had become public, several research groups had tried to reproduce most of his spectacular results with respect to the topic of the physics of organic molecular materials, without success.<ref name=Cassuto /><ref name=pw>{{cite journal |title= The rise and fall of a physics fraudster |via= physicsworld.com |date= 1 May 2009 |journal= [[Physics World]] |volume= 22 |number= 5 |page= 24|doi= 10.1088/2058-7058/22/05/37 |last1= Reich |first1= Eugenie Samuel |bibcode= 2009PhyW...22e..24R }} Abridged from {{cite book| last= Reich| first= E. S. | title= Plastic Fantastic: How the Biggest Fraud in Physics Shook the Scientific World| publisher= Macmillan |year= 2009 |isbn= 978-0-230-22467-4}}</ref>
+
+In June 2004, the University of Konstanz issued a press release stating that Schön's doctoral degree had been revoked due to "dishonourable conduct". Department of Physics spokesman Wolfgang Dieterich termed the affair the "biggest fraud in physics in the last 50 years" and said that the "credibility of science had been brought into disrepute".<ref>{{cite press release |year=2004 |publisher=University of Konstanz |title=Universität Konstanz entzieht Jan Hendrik Schön den Doktortitel |url= http://www.newsatelier.de/html/km20040611.html | language= de}}</ref> Schön appealed the ruling, but on October 28, 2009, it was upheld by the university.<ref>{{cite web |url= http://www.spiegel.de/unispiegel/jobundberuf/0,1518,657924,00.html |work = Der Spiegel | language= de |date=2009-10-28 |title=Uni Konstanz bleibt bei Aberkennung des Doktortitels |first= Frank | last= van Bebber}}</ref> In response, Schön sued the University of Konstanz and appeared in court to testify on September 23, 2010. The court overturned the  decision on September 27, 2010. However, in November 2010 the university acted to appeal the court's ruling.<ref>{{cite press release |date= November 30, 2010 |publisher=University of Konstanz |title= Einseitig gewichtet: Die Universität Konstanz geht in Sachen Schön in Berufung | trans-title= Biased: The University of Konstanz is Appealing the Issues of Schön |url=http://www.aktuelles.uni-konstanz.de/presseinformationen/2010/163/}}</ref> The state court ruled in September 2011 that the university was correct in revoking his doctorate.<ref>{{cite news| url= http://www.stuttgarter-zeitung.de/inhalt.urteil-in-mannheim-umstrittener-physiker-ist-doktortitel-los.f8d0b54e-3ce0-4755-a53f-49c06cbca594.html |title= Umstrittener Physiker ist Doktortitel los| work= [[Stuttgarter Zeitung]]| date= 14 September 2011 | language= de| access-date= August 7, 2017 | first= Johanna | last= Eberhardt | trans-title= Controversial Physicist Loses Doctorate}}</ref> The [[Federal Administrative Court of Germany|Federal Administrative Court]] sustained the state court's decision in July 2013,<ref>{{cite web|title=Entziehung des redlich erworbenen Doktorgrades bei späterer Unwürdigkeit wegen Manipulation und Fälschung von Forschungsergebnissen rechtmäßig|url=http://www.bverwg.de/presse/pressemitteilungen/pressemitteilung.php?jahr=2013&nr=56| work= [[Bundesverwaltungsgericht]] |access-date=3 August 2013|date=31 July 2013|language=de| trans-title= Withdrawal of the earned doctorate degree in case of later unworthiness due to manipulation and falsification of research results}}</ref> and the [[Federal Constitutional Court of Germany|Federal Constitutional Court]] confirmed it in September 2014.<ref>{{cite news |last=Abbott |first=Alison |date=October 1, 2014 |title=Schön loses last appeal against PhD revocation |url=http://blogs.nature.com/news/2014/10/schon-loses-last-appeal-against-phd-revocation.html |access-date=August 7, 2017 |website=Newsblog at [[Nature (journal)|Nature.com]]}}</ref> The FCC declined to hear Schön's further complaint.
+
+In October 2014, the [[Deutsche Forschungsgemeinschaft]] (DFG, the German Research Foundation) Joint Committee announced sanctions against him. Schön was deprived of his right to vote in DFG elections or serve on DFG committees for an eight-year period. During that period, Schön was also unable to serve as a peer reviewer or apply for DFG funds.<ref>{{cite press release |url=https://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/2004/ha_jhschoen_1004_en.pdf |year=2004 |publisher=[[Deutsche Forschungsgemeinschaft]] |title=DFG Imposes Sanctions Against Jan Hendrik Schön |access-date=2020-06-04 |archive-date=2016-04-16 |archive-url=https://web.archive.org/web/20160416180237/http://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/2004/ha_jhschoen_1004_en.pdf }}</ref>
+
+Following the scandal, Schön returned to Germany and accepted a job with a company as a process engineer.<ref name="pw" />
+
+==Withdrawn journal articles==
+On October 31, 2002, ''[[Science (journal)|Science]]'' withdrew eight articles written by Schön:<ref>{{cite journal
+ |author=Z. Bao, B. Batlogg, S. Berg, A. Dodabalapur, R. C. Haddon, H. Hwang, C. Kloc, H. Meng and J. H. Schön
+ |year=2002
+ |title=Retraction
+ |journal=[[Science (journal)|Science]]
+ |volume=298 |issue=5595 |pages=961b
+ |doi=10.1126/science.298.5595.961b
+|pmid=12416506
+ |s2cid=220086928
+ }}</ref>
+*{{cite journal
+ |author1=J. H. Schön |author2=S. Berg |author3=Ch. Kloc |author4=B. Batlogg |year=2000
+ |title=Ambipolar Pentacene Field-Effect Transistors and Inverters
+ |journal=Science
+ |volume=287 |issue=5455 |pages=1022–3
+ |bibcode=2000Sci...287.1022S
+ |doi=10.1126/science.287.5455.1022
+ |pmid=10669410
+}} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=R. C. Haddon |author4=B. Batlogg |year=2000
+ |title=A Superconducting Field-Effect Switch
+ |journal=Science
+ |volume=288 |issue=5466 |pages=656–8
+ |doi=10.1126/science.288.5466.656
+ |pmid=10784445
+|s2cid=37783357 }} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2000
+ |title=Fractional Quantum Hall Effect in Organic Molecular Semiconductors
+ |journal=Science
+ |volume=288 |issue=5475 |pages=2338–40
+ |doi=10.1126/science.288.5475.2338
+ |pmid=17769842
+}} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=A. Dodabalapur |author4=B. Batlogg |year=2000
+ |title=An Organic Solid State Injection Laser
+ |journal=Science
+ |volume=289 |issue=5479 |pages=599–601
+ |bibcode=2000Sci...289..599S
+ |doi=10.1126/science.289.5479.599
+ |pmid=10915617
+}} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2000
+ |title=A Light-Emitting Field-Effect Transistor
+ |journal=Science
+ |volume=290 |issue=5493 |pages=963–6
+ |bibcode=2000Sci...290..963S
+ |doi=10.1126/science.290.5493.963
+ |pmid=11062124
+}} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=H. Y. Hwang |author4=B. Batlogg |year=2001
+ |title=Josephson Junctions with Tunable Weak Links
+ |journal=Science
+ |volume=292 |issue=5515 |pages=252–4
+ |doi=10.1126/science.1058812
+ |pmid=11303093
+|s2cid=38719808 }} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=A. Dodabalapur |author3=Ch. Kloc |author4=B. Batlogg |year=2001
+ |title=High-Temperature Superconductivity in Lattice-Expanded C60
+ |journal=Science
+ |volume=293 |issue=5539 |pages=2432–4
+ |bibcode=2001Sci...293.2432S
+ |doi=10.1126/science.1064773
+ |pmid=11533443
+|s2cid=28759665 |doi-access=free}} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=A. Dodabalapur |author4=B. Batlogg |year=2001
+ |title=Field-Effect Modulation of the Conductance of Single Molecules
+ |journal=Science
+ |volume=294 |issue=5549 |pages=2138–40
+ |doi=10.1126/science.1066171
+ |pmid=11701891
+|s2cid=21937245 }} {{Retracted|doi=10.1126/science.298.5595.961b|pmid=12416506|intentional=yes}}
+
+On December 20, 2002, ''[[Physical Review]]'' withdrew six articles written by Schön:<ref>
+{{cite journal
+ |date=15 December 2002
+ |title=Errata
+ |journal=[[Physical Review B]]
+ |url=http://prb.aps.org/toc/PRB/v66/i24#errata
+ |volume=66 |issue=24
+ |article-number=249903
+ |bibcode=2002PhRvB..66x9903S
+ |doi=10.1103/PhysRevB.66.249903
+|last1=Schön
+ |first1=J. H.
+ |last2=Kloc
+ |first2=Ch.
+ |last3=Batlogg
+ |first3=B.
+ }}</ref><ref>
+{{cite journal
+ |date=31 December 2002
+ |title=Errata
+ |journal=[[Physical Review Letters]]
+ |url=http://prl.aps.org/toc/PRL/v89/i28#errata
+ |volume=89 |issue=28 |article-number=289902
+ | doi=10.1103/PhysRevLett.89.289902
+|pmid=12557900
+ |bibcode = 2002PhRvL..89B9902S |last1=Schön
+ |first1=Jan Hendrik
+ |last2=Kloc
+ |first2=Christian
+ |last3=Batlogg
+ |first3=Bertram
+ |doi-access=free
+ }}</ref>
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2001
+ |title=Hole transport in pentacene single crystals
+ |journal=Physical Review B
+ |volume=63 |issue=24 |article-number=245201
+ |bibcode=2001PhRvB..63x5201S
+ |doi=10.1103/PhysRevB.63.245201
+}} {{Retracted|doi=10.1103/PhysRevB.66.249903|https://retractionwatch.com/?s=%22Jan+Hendrik+Schon%22 ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=R. Laudise |author4=B. Batlogg |year=1998
+ |title=Electrical properties of single crystals of rigid rodlike conjugated molecules
+ |journal=Physical Review B
+ |volume=58 |issue=19 |pages=12952–12957
+ |bibcode=1998PhRvB..5812952S
+ |doi=10.1103/PhysRevB.58.12952
+}} {{Retracted|doi=10.1103/PhysRevB.66.249904|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2000
+ |title=Mobile iodine dopants in organic semiconductors
+ |journal=Physical Review B
+ |volume=61 |issue=16 |pages=10803–10806
+ |bibcode=2000PhRvB..6110803S
+ |doi=10.1103/PhysRevB.61.10803
+ }} {{Retracted|doi=10.1103/PhysRevB.66.249905|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=D. Fichou |author4=B. Batlogg |year=2001
+ |title=Conjugation length dependence of the charge transport in oligothiophene single crystals
+ |journal=Physical Review B
+ |volume=64 |issue=3 |article-number=035209
+ |bibcode=2001PhRvB..64c5209S
+ |doi=10.1103/PhysRevB.64.035209
+}} {{Retracted|doi=10.1103/PhysRevB.66.249906|https://retractionwatch.com/?s=%22Jan+Hendrik+Schon%22 ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2001
+ |title=Low-temperature transport in high-mobility polycrystalline pentacene field-effect transistors
+ |journal=Physical Review B
+ |volume=63 |issue=12 |article-number=125304
+ |bibcode=2001PhRvB..63l5304S
+ |doi=10.1103/PhysRevB.63.125304
+ }} {{Retracted|doi=10.1103/PhysRevB.66.249907|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2001
+ |title=Universal Crossover from Band to Hopping Conduction in Molecular Organic Semiconductors
+ |journal=Physical Review Letters
+ |volume=86 |issue=17 |pages=3843–6
+ |bibcode=2001PhRvL..86.3843S
+ |doi=10.1103/PhysRevLett.86.3843
+ |pmid=11329338
+}} {{Retracted|doi=10.1103/PhysRevLett.89.289902|pmid=12557900|http://retractionwatch.com/2010/11/04/nature-comes-clean-about-retractions-and-why-theyre-on-the-rise/ ''Retraction Watch''|intentional=yes}}
+
+On February 24, 2003, ''[[Applied Physics Letters]]'' withdrew four articles written by Schön:<ref name="J. H. Schön, Z. Bao 2003 1313">{{cite journal
+ |author1=J. H. Schön |author2=Z. Bao |year=2003
+ |title=Retraction: "Nanoscale organic transistors based on self-assembled monolayers" [Appl. Phys. Lett. 80, 847 (2002)]
+ |journal=[[Applied Physics Letters]]
+ |volume=82 |issue=8 |page=1313
+ |bibcode=2003ApPhL..82Q1313S
+ |doi=10.1063/1.1553995
+ |doi-access=free
+ }}</ref><ref name="Jan Hendrik Schön, Christian Kloc 2003 1313">{{cite journal
+ |author1=Jan Hendrik Schön |author2=Christian Kloc |year=2003
+ |title=Retraction: "Fast organic electronic circuits based on ambipolar pentacene field-effect transistors" [Appl. Phys. Lett. 79, 4043 (2001)]
+ |journal=[[Applied Physics Letters]]
+ |volume=82 |issue=8 |page=1313
+ |bibcode=2003ApPhL..82R1313S
+ |doi=10.1063/1.1556138
+ |doi-access=free
+ }}</ref><ref name="Jan Hendrik Schön 2003 1313">{{cite journal
+ |author=Jan Hendrik Schön
+ |year=2003
+ |title=Retraction: "Plastic Josephson junctions" [Appl. Phys. Lett. 79, 2208 (2001)]
+ |journal=[[Applied Physics Letters]]
+ |volume=82 |issue=8 |page=1313
+ |bibcode=2003ApPhL..82S1313S
+ |doi=10.1063/1.1556139
+ |doi-access=free
+ }}</ref><ref name="J. H. Schön, Ch. Kloc, B. Batlogg 2003 1313">
+{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2003
+ |title=Retraction: "Perylene: A promising organic field-effect transistor material" [Appl. Phys. Lett. 77, 3776 (2000)]
+ |journal=[[Applied Physics Letters]]
+ |volume=82 |issue=8 |page=1313
+ |bibcode=2003ApPhL..82T1313S
+ |doi=10.1063/1.1556140
+ |doi-access=free
+ }}</ref>
+*{{cite journal
+ |author1=J. H. Schön |author2=Z. Bao |year=2002
+ |title=Nanoscale organic transistors based on self-assembled monolayers
+ |journal=Applied Physics Letters
+ |volume=80 |issue=5 |page=847
+ |bibcode=2002ApPhL..80..847S
+ |doi=10.1063/1.1445804
+}} {{Retracted|doi=10.1063/1.1553995|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |year=2001
+ |title=Fast organic electronic circuits based on ambipolar pentacene field-effect transistors
+ |journal=Applied Physics Letters
+ |volume=79 |issue=24 |page=4043
+ |bibcode=2001ApPhL..79.4043S
+ |doi=10.1063/1.1426684
+}} {{Retracted|doi=10.1063/1.1556138|intentional=yes}}
+*{{cite journal
+ |author=J. H. Schön
+ |year=2001
+ |title=Plastic Josephson junctions
+ |journal=Applied Physics Letters
+ |volume=79 |issue=4 |pages=2208–2210
+ |bibcode=2001ApPhL..79.2208S
+ |doi=10.1063/1.1408277
+|doi-access=free
+ }} {{Retracted|doi=10.1063/1.1556139|http://retractionwatch.com/2014/09/18/is-it-time-for-a-retraction-penalty/#more-22777 ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |author3=B. Batlogg |year=2000
+ |title=Perylene: A promising organic field-effect transistor material
+ |journal=Applied Physics Letters
+ |volume=77 |issue=23 |page=3776
+ |bibcode=2000ApPhL..77.3776S
+ |doi=10.1063/1.1329634
+}} {{Retracted|doi=10.1063/1.1556140|http://retractionwatch.com/?s=Hendrick+Schon ''Retraction Watch''|intentional=yes}}
+
+On March 5, 2003, ''[[Nature (journal)|Nature]]'' withdrew seven articles written by Schön:<ref>
+{{cite journal
+ |title=Letters to Nature
+ |journal=[[Nature (journal)|Nature]]
+ |volume=422 |issue=6927 |page=92
+ | doi=10.1038/nature01462
+|pmid=12621438
+ |year=2003
+ |last1=Schön
+ |first1=J. H.
+ |last2=Dorget
+ |first2=M.
+ |last3=Beuran
+ |first3=F. C.
+ |last4=Zu
+ |first4=X. Z.
+ |last5=Arushanov
+ |first5=E.
+ |last6=Cavellin
+ |first6=C. Deville
+ |last7=Laguës
+ |first7=M.
+ |doi-access=free
+ }}</ref>
+*{{cite journal
+ |author1=J. H. Schön |author2=M. Dorget |author3=F. C. Beuran |author4=X. Z. Zu |author5=E. Arushanov |author6=C. Deville Cavellin |author7=M. Laguës |year=2001
+ |title=Superconductivity in CaCuO<sub>2</sub> as a result of field-effect doping
+ |journal=Nature
+ |volume=414 |issue=6862 |pages=434–6
+ |bibcode=2001Natur.414..434S
+ |doi=10.1038/35106539
+ |pmid=11719801
+|s2cid=4389580 |doi-access=free }} {{Retracted|doi=10.1038/nature01462|pmid=12621438|http://retractionwatch.com/the-retraction-watch-leaderboard/ ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=T. Siegrist |author4=M. Steigerwald |author5=C. Svensson |author6=B. Batlogg |year=2001
+ |title=Superconductivity in single crystals of the fullerene C70.
+ |journal=Nature
+ |volume=413 |issue=6858 |pages=831–3
+ |bibcode= 2001Natur.413..831S
+ |doi=10.1038/35101577
+ |pmid=11677603
+|s2cid=4317548 }} {{Retracted|doi=10.1038/nature01463|pmid=12621439|http://retractionwatch.com/the-retraction-watch-leaderboard/ ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=H. Meng |author3=Z. Bao |year=2001
+ |title=Self-assembled monolayer organic field-effect transistors.
+ |journal=Nature
+ |volume=413 |issue=6857 |pages=713–6
+ |bibcode=2001Natur.413..713S
+ |doi=10.1038/35099520
+ |pmid=11607026
+ |s2cid=4409433 }} {{Retracted|doi=10.1038/nature01464|pmid=12621440|http://retractionwatch.com/the-retraction-watch-leaderboard/ ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=A. Dodabalapur |author3=Z. Bao |author4=Ch. Kloc |author5=O. Schenker |author6=B. Batlogg |year=2001
+ |title=Gate-induced superconductivity in a solution-processed organic polymer film.
+ |journal=Nature
+ |volume=410 |issue=6825 |pages=189–92
+ |bibcode=2001Natur.410..189S
+ |doi=10.1038/35065565
+ |pmid=11242074
+|s2cid=205014750 }} {{Retracted|doi=10.1038/nature01465|pmid=12621441|http://retractionwatch.com/the-retraction-watch-leaderboard/ ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2000
+ |title=Superconductivity at 52 K in hole-doped C60.
+ |journal=Nature
+ |volume=408 |issue=6812 |pages=549–52
+ |bibcode= 2000Natur.408..549S
+ |doi=10.1038/35046008
+ |pmid=11117735
+|s2cid=4396847 }} {{Retracted|doi=10.1038/nature01466|pmid=12621442|http://retractionwatch.com/the-retraction-watch-leaderboard/ ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=B. Batlogg |year=2000
+ |title=Superconductivity in molecular crystals induced by charge injection.
+ |journal=Nature
+ |volume=406 |issue=6797 |pages=702–4
+ |bibcode=2000Natur.406..702S
+ |doi=10.1038/35021011
+ |pmid=10963589
+|s2cid=207845002 }} {{Retracted|doi=10.1038/nature01467|pmid=12621443|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=E. Bucher |author4=B. Batlogg |year=2000
+ |title=Efficient organic photovoltaic diodes based on doped pentacene.
+ |journal=Nature
+ |volume=403 |issue=6768 |pages=408–10
+ |bibcode=2000Natur.403..408S
+ |doi=10.1038/35000172
+ |pmid=10667788
+ |s2cid=4391485 }} {{Retracted|doi=10.1038/nature01468|pmid=12621444|intentional=yes}}
+
+On March 20, 2003, ''[[Advanced Materials]]'' withdrew two articles written by Schön:<ref name="Z. Bao, B. Batlogg, G. Hadziioannou, C. Kloc, H. Meng, J. Wildeman 2003 478">{{cite journal
+ |author1=Z. Bao |author2=B. Batlogg |author3=G. Hadziioannou |author4=C. Kloc |author5=H. Meng |author6=J. Wildeman |year=2003
+ |title=Retraction Adv. Mater. 6/2003
+ |journal=[[Advanced Materials]]
+ |volume=15 |issue=6 |page=478
+ |doi=10.1002/adma.200390130
+|doi-access=free }}</ref>
+*{{cite journal
+ |author1=J. H. Schön |author2=H. Meng |author3=Z. Bao |year=2002
+ |title=Self-Assembled Monolayer Transistors
+ |journal=Advanced Materials
+ |volume=14 |issue=4 |pages=323–326
+ |doi=10.1002/1521-4095(20020219)14:4<323::AID-ADMA323>3.0.CO;2-5
+|doi-access=free}} {{Retracted|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |author3=J. Wildeman |author4=G. Hadziinoannou |year=2001
+ |title=Gate-Induced Superconductivity in Oligophenylenevinylene Single Crystals
+ |journal=Advanced Materials
+ |volume=13 |issue=16 |pages=1273–1274
+ |doi=10.1002/1521-4095(200108)13:16<1273::AID-ADMA1273>3.0.CO;2-P
+|doi-access=free }} {{Retracted|intentional=yes}}
+
+On May 2, 2003, ''[[Science (journal)|Science]]'' withdrew two more articles written by Schön:<ref>{{cite journal
+ |author=Donald Kennedy
+ |year=2003
+ |title=Editorial Retraction (II)
+ |journal=[[Science (journal)|Science]]
+ |volume=300 |issue=5620 |pages=737c–737
+ |doi=10.1126/science.300.5620.737c
+|pmid=12730577
+ |doi-access=free
+ }}</ref>
+<ref>{{cite journal
+ |author=Donald Kennedy
+ |year=2003
+ |title=Editorial Retraction (I)
+ |journal=[[Science (journal)|Science]]
+ |volume=300|issue=5620|page=737
+ |doi=10.1126/science.300.5620.737b
+ |doi-access=free
+ }}</ref>
+*{{cite journal
+ |author1=J. H. Schön |author2=M. Dorget |author3=F. C. Beuran |author4=X. Z. Xu |author5=E. Arushanov |author6=M. Laguës |author7=C. Deville Cavellin |year=2001
+ |title=Field-Induced Superconductivity in a Spin-Ladder Cuprate
+ |journal=Science
+ |volume=293 |issue=5539 |pages=2430–2
+ |bibcode=2001Sci...293.2430S
+ |doi=10.1126/science.1064204
+|pmid=11577230 |s2cid=31378437 }} {{Retracted|doi=10.1126/science.300.5620.737c|pmid=12730577|http://retractionwatch.com/?s=hendrik+schon ''Retraction Watch''|intentional=yes}}
+*{{cite journal
+ |author1=J. H. Schön |author2=E. G. Emberly|author3=G. Kirczenow |year=2002
+ |title=A Single Molecular Spin Valve
+ |journal=Science
+ |volume=296 |issue=5567 
+ |doi=10.1126/science.1070563
+}} {{Retracted|doi=10.1126/science.300.5620.737b|pmid=12730576|http://retractionwatch.com/?s=J+hendrik+Schon ''Retraction Watch''|intentional=yes}}
+
+==Further questionable journal articles==
+The retraction notices from February 24, 2003, in ''[[Applied Physics Letters]]'' relayed concerns about seven articles written by Schön and published in the ''Applied Physics Letters'':<ref name="J. H. Schön, Z. Bao 2003 1313"/><ref name="Jan Hendrik Schön, Christian Kloc 2003 1313"/><ref name="Jan Hendrik Schön 2003 1313"/><ref name="J. H. Schön, Ch. Kloc, B. Batlogg 2003 1313"/>
+*{{cite journal
+ |author1=J. H. Schön |author2=Z. Bao |year=2002
+ |title=Organic insulator/semiconductor heterostructure monolayer transistors
+ |journal=Applied Physics Letters
+ |volume=80 |issue=2 |page=332
+ |doi=10.1063/1.1431697
+|bibcode = 2002ApPhL..80..332S |s2cid=95860889 }}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=A. Dodabalapur |author4=B. Crone |year=2001
+ |title=Grain boundary transport and vapor sensing in α-sexithiophene
+ |journal=Applied Physics Letters
+ |volume=79 |issue=24 |page=3965
+ |doi=10.1063/1.1423787
+|bibcode = 2001ApPhL..79.3965S }}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |year=2001
+ |title=Charge transport through a single tetracene grain boundary
+ |journal=Applied Physics Letters
+ |volume=78 |issue=24 |page=3821
+ |doi=10.1063/1.1379986
+|bibcode = 2001ApPhL..78.3821S }}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |year=2001
+ |title=Organic metal–semiconductor field-effect phototransistors
+ |journal=Applied Physics Letters
+ |volume=78 |issue=22 |page=3538
+ |doi=10.1063/1.1376666
+|bibcode = 2001ApPhL..78.3538S }}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |author3=B. Batlogg |year=2000
+ |title=Efficient photovoltaic energy conversion in pentacene-based heterojunctions
+ |journal=Applied Physics Letters
+ |volume=77 |issue=16 |page=2473
+ |doi=10.1063/1.1318234
+|bibcode = 2000ApPhL..77.2473S }}
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |author3=B. Batlogg |year=1999
+ |title=Reversible gas doping of bulk α-hexathiophene
+ |journal=Applied Physics Letters
+ |volume=75 |issue=11 |page=1556
+ |doi=10.1063/1.124753
+|bibcode = 1999ApPhL..75.1556S }}
+*{{cite journal
+ |author1=J. H. Schön |author2=Ch. Kloc |author3=R. A. Laudise |author4=B. Batlogg |year=1998
+ |title=Surface and bulk mobilities of oligothiophene single crystals
+ |journal=Applied Physics Letters
+ |volume=73 |issue=24 |page=3574
+ |doi=10.1063/1.122828
+|bibcode = 1998ApPhL..73.3574S }}
+
+The retraction notice from March 20, 2003, in ''[[Advanced Materials]]'' mentions concerns about another article written by Schön:<ref name="Z. Bao, B. Batlogg, G. Hadziioannou, C. Kloc, H. Meng, J. Wildeman 2003 478"/>
+*{{cite journal
+ |author1=J. H. Schön |author2=C. Kloc |author3=Z. Bao |author4=B. Batlogg |year=2000
+ |title=Electron Transport in Fluorinated Copper-Phthalocyanine
+ |journal=Advanced Materials
+ |volume=12 |issue=20 |pages=1539–1542
+ |doi=10.1002/1521-4095(200010)12:20<1539::AID-ADMA1539>3.0.CO;2-S
+|doi-access=free }}
+
+==See also==
+* [[Bogdanov affair]] (in 2002)
+* [[Hwang affair]] (in 2005)
+* [[Haruko Obokata]] ([[Stimulus-triggered acquisition of pluripotency|STAP cell]] controversy in 2014)
+* [[List of experimental errors and frauds in physics]]
+* [[List of scientific misconduct incidents]]
+* ''[[Plastic Fantastic: How the Biggest Fraud in Physics Shook the Scientific World]]''
+* [[Scientific misconduct]]
+* [[Victor Ninov]]
+
+==References==
+{{Reflist|30em
+<ref name="BeasleyReport">{{cite web|url=https://www.chem.ucla.edu/~craigim/pdfmanuals/misc/Lucent_researchreview.pdf|title=Report of the Investigation Committee on the possibility of Scientific Misconduct in the work of Hendrik Schon and Coauthors|last1= Beasley |first1= Malcolm R.|date=September 2002|publisher=[[Lucent Technologies]], Bell Labs|first2= Supriyo |last2= Datta |first3= Herwig |last3= Kogelnik|first4= Herbert |last4= Kroemer |first5= Don|last5= Monroe}}</ref>
+<ref name="pirzada88"> {{Cite|last=Pirzada |first=Shamim Sharfuddin |title=A statistical examination of the evolution of the UNIX system (Doctoral dissertation). |url=https://spiral.imperial.ac.uk/entities/publication/700a4f59-117e-4a67-a5be-e1a4c0ef396d|date=1 September 1988 |publisher=[[University of London]] |pages=38,64 |hdl=10044/1/7942}}</ref>
+}}
+
+==Further reading==
+* {{cite book| first= Eugenie Samuel| last= Reich| title= Plastic Fantastic| year= 2009| publisher= St. Martin's Press| isbn= 978-0-230-62384-2}}
+* {{cite journal| url= https://www.americanscientist.org/article/physics-and-pixie-dust |title= Physics and Pixie Dust| first= David| last= Kaiser| journal= [[American Scientist]] |volume=97 |issue=6 |page=496 |date=2009 |doi=10.1511/2009.81.496|url-access=subscription }} Book review of ''Plastic Fantastic''
+* {{cite book| first= Dan| last= Agin| title= Junk Science: How Politicians, Corporations, and Other Hucksters Betray Us| year= 2006| publisher= Macmillan| isbn= 978-0-312-35241-7| url-access= registration| url= https://archive.org/details/isbn_9780312352417}}
+* {{cite book| first= Gianfranco| last= D'Anna| url= http://sites.google.com/site/ilfalsariodidanna/word-search |title= Il Falsario | publisher= Mursia| place= Milano | date= July 2010| isbn= 978-88-425-4197-4| language= it}} Provides a plausible reconstruction
+
+==External links==
+* {{Cite press release |publisher=[[Bell Labs]] |date=25 September 2002 |title=Bell Labs announces results of inquiry into research misconduct |url=http://www.alcatel-lucent.com/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4y3cAsFSYGZzgH6kShiBvGOCJEgfW99X4_83FT9AP2C3NCIckdHRQB02b-I/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X0FfQkdS?LMSG_CABINET=Docs_and_Resource_Ctr&LMSG_CONTENT_FILE=News_Releases_LU_2002/LU_News_Article_004685&lu_lang_code=en_WW |archive-url=https://web.archive.org/web/20160417153012/http://www3.alcatel-lucent.com/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4y3cAsFSYGZzgH6kShiBvGOCJEgfW99X4_83FT9AP2C3NCIckdHRQB02b-I/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X0FfQkdS?LMSG_CABINET=Docs_and_Resource_Ctr&LMSG_CONTENT_FILE=News_Releases_LU_2002%2FLU_News_Article_004685&lu_lang_code=en_WW |archive-date=17 April 2016 }}
+* {{Cite web |publisher=[[BBC]] |date=5 February 2004 |title=The Dark Secret of Hendrik Schön – programme summary |url=http://www.bbc.co.uk/science/horizon/2004/hendrikschon.shtml}}
+* [https://dx.doi.org/10.1063/1.1534995 Investigation Finds that One Lucent Physicist Engaged in Scientific Misconduct] ''Physics Today'', 2002
+* [https://www.npr.org/ramfiles/totn/20021018.totn.01.ram NPR Science Friday report (10/18/2002)]
+* {{Cite web |publisher=[[Sigma Xi]] |date = June 2009|title=An Interview with Eugenie Samuel Reich |url=http://www.americanscientist.org/bookshelf/pub/an-interview-with-eugenie-samuel-reich|archive-url = https://web.archive.org/web/20120907215930/http://www.americanscientist.org/bookshelf/pub/an-interview-with-eugenie-samuel-reich|archive-date = 2012-09-07}} Author who interviewed 126 scientists and journal editors about Schön's frauds.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Scandal, Schon}}
+[[Category:1970 births]]
+[[Category:2001 hoaxes]]
+[[Category:2001 scandals]]
+[[Category:2001 in science]]
+[[Category:2001 in Germany]]
+[[Category:Hoaxes in Germany]]
+[[Category:Hoaxes in science]]
+[[Category:Scientific misconduct incidents]]

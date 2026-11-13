@@ -1,0 +1,247 @@
+{{Short description|Canadian theoretical physicist (1960–2025)}}
+{{Use mdy dates|date=June 2025}}
+{{Infobox scientist
+| name              = Raymond Laflamme
+| image             = Raymond Laflamme.png
+| caption           = Laflamme in 2016
+| birth_name        = Raymond Julien Joseph Laflamme
+| birth_date        = {{birth date|1960|7|19}}
+| birth_place       = [[Quebec City, Quebec]], Canada
+| death_date        = {{death date and age|2025|06|19|1960|7|19}}
+| death_place       = [[Waterloo, Ontario]], Canada
+| other_names       = 
+| fields            = [[Theoretical physics]]<br>[[Quantum information]]
+| workplaces        = [[Institute for Quantum Computing]]<br>[[Los Alamos National Laboratory]]<br>[[University of Waterloo]]<br>[[Perimeter Institute for Theoretical Physics]]
+| education         = [[Université Laval]]<br>[[University of Cambridge]]
+| thesis_title      = Time and quantum cosmology
+| thesis_url        = https://web.archive.org/web/20160125092707/http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=10575
+| thesis_year       = June 17, 1988
+| doctoral_advisor  = [[Stephen Hawking]]
+| known_for         = [[Five-qubit error correcting code]]<br>[[NMR quantum computing]]<br>[[Linear optical quantum computing]]<br>[[One clean qubit]]<br>[[Gregory–Laflamme instability]]<br>[[KLM protocol]]<br>Knill–Laflamme conditions
+| awards            = [[CAP-CRM Prize in Theoretical and Mathematical Physics]]
+}}
+
+'''Raymond Julien Joseph Laflamme''', {{Post-nominals|country=CAN|OC|FRSC|size=95%}} ({{IPA|fr|ʁɛmɔ̃ ʒyljɛ̃ ʒozɛf laflam|lang}}; July 19, 1960 – June 19, 2025) was a Canadian [[Theoretical physics|theoretical physicist]] who was the founder and, until June 2017, the director of the [[Institute for Quantum Computing]] at the [[University of Waterloo]]. He was also a professor in the Department of Physics and Astronomy at the University of Waterloo and an associate faculty member at [[Perimeter Institute for Theoretical Physics]]. Laflamme was a [[Canada Research Chair]] in Quantum Information. In December 2017, he was named as one of the appointees to the [[Order of Canada]].
+
+As [[Stephen Hawking]]'s PhD student, he first became famous for convincing Hawking that time does not reverse in a contracting universe, along with [[Don Page (physicist)|Don Page]]. Hawking told the story of how this happened in his famous book ''[[A Brief History of Time]]'' in the chapter ''[[A Brief History of Time#Chapter 9: The Arrow of Time|The Arrow of Time]]''.<ref name="arrow of time" /> Later on, Laflamme made a name for himself in [[quantum computing]] and [[Quantum information|quantum information theory]], which was what he later became famous for. In 2005, Laflamme's research group created the world's largest [[Quantum computing#Quantum information processing|quantum information processor]] with 12 qubits.<ref>{{cite web |date=March 14, 2012 |title=Dr. Raymond Laflamme: Master of the quantum dance |url=https://uwaterloo.ca/science/research/research-stories/dr-raymond-laflamme |url-status=dead |archive-url=https://web.archive.org/web/20180709095724/https://uwaterloo.ca/science/research/research-stories/dr-raymond-laflamme |archive-date=July 9, 2018 |access-date=January 4, 2013 |work=Science}}</ref> Along with Phillip Kaye and [[Michele Mosca]], he published the book ''An Introduction to Quantum Computing'' in 2006.<ref>{{cite book |last1=Kaye |first1=Phillip |url=https://www.oupcanada.com/catalog/9780198570004.html |title=An Introduction to Quantum Computing |last2=Laflamme |first2=Raymond |last3=Mosca |first3=Michele |date=November 12, 2006 |publisher=Oxford University Press |isbn=9780198570004 |access-date=January 4, 2013}}</ref> In 2024, he published the book ''Building Quantum Computers'' with Shayan Majidy and Christopher Wilson.<ref>
+{{cite book |last1=Majidy |first1=Shayan |url=https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90 |title=Building Quantum Computers |last2=Wilson |first2=Christopher |last3=Laflamme |first3=Raymond |date=September 30, 2024 |publisher=Cambridge University Press |isbn=9781009417013}}
+</ref>
+
+Laflamme's research focused on understanding the impact of manipulating information using the laws of [[quantum mechanics]], the development of methods to protect [[quantum information]] against noise through [[quantum control]] and [[quantum error correction]] for [[quantum computing]] and [[Quantum cryptography|cryptography]], the implementation of ideas and concepts of [[quantum information science|quantum information processing]] using [[nuclear magnetic resonance]] to develop scalable methods of control of [[quantum systems]], and the development of blueprints for quantum information processors such as [[linear optical quantum computing]].<ref name="IQC profile"/>
+
+==Biography==
+Raymond Julien Joseph Laflamme was born on July 19, 1960, in [[Quebec City]],<ref>{{Cite web |last=Erb & Good Funeral Home |date=June 19, 2025 |title=Raymond Julien Joseph Laflamme – 2025 |url=https://www.tributearchive.com/obituaries/43028876/raymond-julien-joseph-laflamme |access-date=June 22, 2025 |website=Tribute Archive}}</ref> to a medical doctor father and a dietician mother. He finished his undergraduate education at the [[Université Laval]] in Canada and went on to study at the Department of Applied Mathematics and Theoretical Physics at the [[University of Cambridge]], where he received the [[Part III of the Mathematical Tripos]] degree in 1984.<ref name="IQC profile">{{cite web |title=IQC People: Raymond Laflamme |url=https://services.iqc.uwaterloo.ca/people/profile/laflamme/ |url-status=dead |archive-url=https://web.archive.org/web/20210902142612/https://services.iqc.uwaterloo.ca/people/profile/laflamme/ |archive-date=September 2, 2021 |access-date=January 4, 2013 |work=Institute for Quantum Computing}}</ref> Subsequently, his PhD supervisor was [[Stephen Hawking]]. Hawking mentioned in his book ''[[A Brief History of Time]]'' that Laflamme and [[Don Page (physicist)|Don Page]] were responsible for convincing him that time does not reverse in a contracting universe.<ref name="arrow of time">{{cite web |title=From correcting errors to building quantum computers |url=https://www.scientific-computing.com/feature/correcting-errors-building-quantum-computers |access-date=February 28, 2012 |website=Scientific Computing World}}</ref><ref name="uwaterloo.ca1">{{cite web |last=Grant |first=Matthew |date=September 14, 2017 |title=New research chair in quantum error correction – Institute for Quantum Computing |url=https://uwaterloo.ca/institute-for-quantum-computing/news/new-research-chair-quantum-error-correction |access-date=March 23, 2018 |website=University of Waterloo}}</ref> Hawking inscribed a copy of the book as follows: "To Raymond, who showed me that the arrow of time is not a boomerang. Thank you for all your help. Stephen."<ref>{{cite web |last=Laflamme |first=Raymond |date=January 8, 2012 |title=My time with Stephen Hawking |url=https://www.theglobeandmail.com/life/facts-and-arguments/my-time-with-stephen-hawking/article4085631/ |url-access=subscription |archive-url=https://web.archive.org/web/20241225064633/https://www.theglobeandmail.com/life/facts-and-arguments/my-time-with-stephen-hawking/article4085631/ |archive-date=December 25, 2024 |access-date=March 23, 2018 |work=[[The Globe and Mail]]}}</ref>
+
+After completing his PhD,<ref name="uwaterloo.ca1"/> Laflamme worked as a Killam Postdoctoral Fellow at the [[University of British Columbia]] and in 1990, moved back to Cambridge as a Research Fellow at [[Peterhouse, Cambridge]].<ref name="IQC profile" /> Laflamme subsequently joined the [[Los Alamos National Laboratory]] where he was an Oppenheimer Fellow.<ref name="uwaterloo.ca2">{{cite web |date=September 14, 2017 |title=New research chair in quantum error correction demonstrates continued leadership by IQC and Waterloo in the pursuit of a quantum computer and in the development of other quantum technologies |url=https://uwaterloo.ca/news/news/new-research-chair-quantum-error-correction-demonstrates |access-date=March 23, 2018 |website=University of Waterloo}}</ref> In 1998, [[quantum teleportation]], including his work demonstrating the protocol with [[Nuclear spin|nuclear spins]], was ranked amongst the Top Ten [[Breakthrough of the Year|Breakthroughs of the Year]] by the journal ''[[Science (journal)|Science]]''.<ref>{{cite journal |last=Bloom |first=Floyd E. |author-link=Floyd E. Bloom |date=December 18, 1998 |title=Breakthroughs 1998 |url=https://www.science.org/doi/10.1126/science.282.5397.2193 |journal=Science |volume=282 |pages=2193 |bibcode=1998Sci...282.2193B |doi=10.1126/science.282.5397.2193 |number=5397|url-access=subscription }} Among the cited works was {{cite journal |last1=Nielsen |first1=M. A. |last2=Knill |first2=E. |last3=Laflamme |first3=R. |date=November 5, 1998 |title=Complete quantum teleportation using nuclear magnetic resonance |url=https://www.nature.com/articles/23891 |journal=[[Nature (journal)|Nature]] |volume=396 |issue=6706 |pages=52–55 |arxiv=quant-ph/9811020 |bibcode=1998Natur.396...52N |doi=10.1038/23891}}</ref> In 2001, he joined the newly founded [[Perimeter Institute for Theoretical Physics]] and the Physics and Astronomy department of the affiliated [[University of Waterloo]], where he founded the [[Institute for Quantum Computing]] in 2002.<ref name="IQC profile"/>
+
+In 2003, he became director of the Quantum Information program at the [[Canadian Institute for Advanced Research]]; he was also the scientific director of QuantumWorks, Canada's national research consortium on quantum information science, and held the [[Canada Research Chair]] in Quantum Information.<ref>{{cite web |date=December 2011 |title=Raymond Laflamme named APS Fellow |url=https://www.perimeterinstitute.ca/News/In_The_Media/Raymond_Laflamme_named_APS_Fellow/ |url-status=dead |archive-url=https://web.archive.org/web/20121031165320/http://www.perimeterinstitute.ca/News/In_The_Media/Raymond_Laflamme_named_APS_Fellow/ |archive-date=October 31, 2012 |access-date=February 28, 2012 |website=Perimeter Institute}}</ref>
+
+In June 2017, Laflamme stepped down as director at the Institute for Quantum Computing<ref>{{cite web |date=June 28, 2017 |title=Laflamme celebrates 15 years at quantum frontier |url=https://insidetheperimeter.ca/15-years-quantum-frontier/ |access-date=March 23, 2018 |website=Perimeter Institute}}</ref> and in September 2017, he was appointed the [[John von Neumann]] Chair in Quantum Information at the University of Waterloo, continuing his research on error correction in quantum systems. Laflamme continued to hold a Canada Research Chair<ref>{{cite web |title=Canada Research Chair Chairholders – Raymond Laflamme |url=https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=747 |url-status=dead |archive-url=https://web.archive.org/web/20230217132156/https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=747 |archive-date=February 17, 2023 |access-date=January 4, 2013 |website=Canada Research Chairs}}</ref> and a position as Associate Faculty at Perimeter Institute.<ref>{{cite web |date=November 20, 2017 |title=Quantum information pioneer Raymond Laflamme takes on new Chair |url=https://www.perimeterinstitute.ca/news/quantum-information-pioneer-raymond-laflamme-takes-new-chair |access-date=March 23, 2018 |website=Perimeter Institute}}</ref><ref name="uwaterloo.ca2"/>
+
+Laflamme died from cancer in [[Waterloo, Ontario]], on June 19, 2025, at the age of 64.<ref name="s620">{{cite web |date=June 21, 2025 |title=IQC and Waterloo mourn the loss of Raymond Laflamme |url=https://uwaterloo.ca/institute-for-quantum-computing/news/legacy-quantum-research-excellence |access-date=June 22, 2025 |website=University of Waterloo}}</ref><ref name="NatPost-obit">{{cite news |last1=Knight |first1=Chris |title=Raymond Laflamme, Canadian pioneer in quantum computing, has died |url=https://nationalpost.com/news/raymond-laflamme-canadian-pioneer-in-quantum-computing-has-died |access-date=June 25, 2025 |work=[[National Post]] |date=June 24, 2025}}</ref><ref>{{citation |title=Obituary of Raymond Julien Joseph Laflamme |date=June 19, 2025 |work=erbgood.com |url=https://erbgood.com/tribute/details/17675/Raymond-Laflamme/obituary.html |access-date=June 21, 2025}}.</ref>
+
+==Scientific work==
+[[File:Raymond Laflamme 2014.png|thumb|Laflamme in 2014, giving a lecture about [[Born rule]]]]
+While Laflamme started his career working in [[quantum gravity]] and [[Quantum cosmology|cosmology]], he was known as a pioneering scientist in [[Quantum information|quantum information theory]]. While at Los Alamos, Laflamme was involved with the experimental implementation of quantum information processing devices using [[nuclear magnetic resonance]].
+
+Laflamme laid down the mathematical framework for [[Quantum error correction|quantum error-correcting codes]], which has since developed into a broad topic of research. With colleagues Cesar Miquel, [[Juan Pablo Paz]] and [[Wojciech H. Zurek]], he constructed the most compact quantum error correcting code.<ref>{{cite web |title=University of Waterloo Physics and Astronomy profile: Raymond Laflamme |url=https://uwaterloo.ca/physics-astronomy/people-profiles/raymond-laflamme |access-date=January 4, 2013 |website=University of Waterloo}}</ref>
+
+Two of his important and highly cited works were concerned with the computational power of a restricted set of states or operations. In joint work with [[Emanuel Knill]], he defined a quantum computational model of [[one clean qubit]] (DQC1) where a [[Quantum logic gate#Universal quantum gates|universal set of quantum gates]] is available, but all but one qubit are in a maximally mixed state.<ref>{{cite journal |first1=E. |last1=Knill |first2=R. |last2=Laflamme |title=Power of one bit of quantum information |journal=Phys. Rev. Lett. |volume=81 |pages=5672–5675 |date=1998 |issue=25 |doi=10.1103/PhysRevLett.81.5672 |arxiv=quant-ph/9802037 |bibcode=1998PhRvL..81.5672K }}</ref> This model defines a [[complexity class]] which is thought to be intermediate between classical computation ([[BPP (complexity)|BPP]]) and full quantum computing ([[BQP]]): it can solve efficiently some problems that are thought to be classically hard, but believed to be strictly weaker than BQP.<ref>{{cite journal |first1=Peter W. |last1=Shor |first2=Stephen P. |last2=Jordan |title=Estimating Jones polynomials is a complete problem for one clean qubit |journal=Quantum Information & Computation |volume=8 |issue=8&9 |date=2008 |pages=681–714 |doi= 10.26421/QIC8.8-9-1|arxiv=0707.2831}}</ref>
+
+Together with Knill and [[Gerard J. Milburn]], he showed that [[linear optics]], together with [[Photon counting|photon-counting]] measurements and [[feed-forward]], allow for efficient [[Universal quantum computer|universal quantum computation]] when acting on a suitable multi-photon [[Fock state]] as initial state ([[KLM protocol]]).<ref>{{cite journal |last1=Knill |first1=Emanuel |last2=Laflamme |first2=Raymond |last3=Milburn |first3=Gerard |title=A scheme for efficient quantum computation with linear optics |year=2001 |journal=Nature |volume=409 |pages=46–52 |doi=10.1038/35051009 |pmid=11343107 |issue=6816 |bibcode=2001Natur.409...46K |s2cid=4362012}}</ref> This was an important result for optics-based approaches to quantum computing since it obviates the need to implement direct photon-photon interactions and laid the foundations for [[Linear optical quantum computing]] and, as a restriction of the KLM-model, to [[boson sampling]].
+
+According to [[Scopus]], Laflamme had an [[h-index]] of 59 as of July 2025, with over 200 articles in scientific journals cited more than 24,000 times.<ref>{{Cite web |title=Laflamme, Raymond – Author details |url=https://www.scopus.com/authid/detail.uri?authorId=56234046800&origin=recordpage |access-date=July 14, 2025 |website=Scopus}}</ref>
+
+In a 2013 interview, Laflamme described the importance of his work as follows: "Quantum information is going to change your life. And the one of your kids. And the one of your grandkids. And this is what I want to see. And this is what I expect to see: before I pass away, I will see that this [[Bohr–Einstein debates#The quantum revolution|quantum revolution]] is in full swing."<ref>{{cite web |last=Olsen |first=Lisa |date=June 25, 2013 |title=Institute for Quantum Computing |url=https://www.therecord.com/community-story/3855521-institute-for-quantum-computing/ |access-date=March 23, 2018 |website=Waterloo Region Record}}</ref>
+
+==Awards and honours==
+* {{Interlanguage link|Glory of the Escolle Medal|fr|Médaille Gloire de l'Escolle}} in 2005 – awarded by the {{Interlanguage link|Université Laval Alumni Association|fr|Université Laval#Distinctions}} to "honor former graduates for their exceptional contribution[s] to their profession and society."<ref>{{Cite web |date=2024 |title=lauréates et lauréats du prix grand diplômé |url=https://www.dprd.ulaval.ca/wp-content/uploads/2024/03/Tous_GD-1952-2024.pdf |access-date=July 14, 2025 |website=Direction de la philanthropie et des relations avec les diplômées et diplômés |publisher=[[Université Laval]] |page=5 |language=French }}</ref>
+* Fellow of the [[Royal Society of Canada]] in 2008<ref>{{cite web |last=Hunter |first=Colin |date=September 18, 2008 |title=Royal Society recognizes achievements of Perimeter Institute Associal Faculty members |url=https://www.perimeterinstitute.ca/news/royal-society-recognizes-achievements-perimeter-institute-associal-faculty-members |url-status=dead |archive-url=https://web.archive.org/web/20200808122326/http://www.perimeterinstitute.ca/news/royal-society-recognizes-achievements-perimeter-institute-associal-faculty-members |archive-date=August 8, 2020 |access-date=January 4, 2013 |website=Perimeter Institute}}</ref>
+* Ontario Premier's Discovery Award in the field of Natural Sciences and Engineering in 2008<ref>{{cite web |title=Premier's Discovery Award |url=https://www.mri.gov.on.ca/english/news/PIA043008_bd4.asp |url-status=dead |archive-url=https://web.archive.org/web/20120210195715/http://www.mri.gov.on.ca/english/news/PIA043008_bd4.asp |archive-date=February 10, 2012 |access-date=February 28, 2012 |website=Ontario Ministry of Economic Development, Job Creation and Trade}}</ref>
+* Fellow of the [[American Physical Society]] in 2011<ref>{{cite web |title=APS Fellow Archive |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2011&unit_id=GQI&institution= |url-status=dead |archive-url=https://web.archive.org/web/20160303214322/http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2011&unit_id=GQI&institution= |archive-date=March 3, 2016 |access-date=February 28, 2012 |website=American Physical Society}}</ref>
+* Fellow of the [[American Association for the Advancement of Science]] in 2011<ref>{{cite web |title=AAAS – 2011 Fellows |url=https://www.aaas.org/aboutaaas/fellows/2011.shtml#b_2011 |url-status=dead |archive-url=https://web.archive.org/web/20120113205143/http://www.aaas.org/aboutaaas/fellows/2011.shtml#b_2011 |archive-date=January 13, 2012 |access-date=February 28, 2012 |website=American Association for the Advancement of Science}}</ref>
+* Honorary degree from [[Université de Sherbrooke]] in 2012<ref>{{cite web |date=September 22, 2012 |title=UdeS en bref: Raymond Laflamme |url=https://www.usherbrooke.ca/accueil/fr/udes-en-bref/docteurs-dhonneur/docteurs/l/raymond-laflamme/ |url-status=dead |archive-url=https://web.archive.org/web/20171201045206/https://www.usherbrooke.ca/accueil/fr/udes-en-bref/docteurs-dhonneur/docteurs/l/raymond-laflamme/ |archive-date=December 1, 2017 |access-date=January 4, 2013 |website=Université de Sherbrooke |language=French}}</ref>
+* [[Queen Elizabeth II Golden Jubilee Medal]] in 2013<ref name="uwaterloo.ca1"/>
+* Awarded the [[CAP-CRM Prize in Theoretical and Mathematical Physics]] in 2017<ref>{{cite web |last=Ford |first=Francine |date=2017 |title=CAP Medal Press Release – 2017 CRM |url=https://www.cap.ca/medal/publicity/press.php?year=2017&medal_id=6 |url-status=dead |archive-url=https://web.archive.org/web/20180324102244/https://awards.cap.ca/medal/publicity/press.php?year=2017&medal_id=6 |archive-date=March 24, 2018 |access-date=March 23, 2018 |website=[[Canadian Association of Physicists]]}}</ref>
+* Appointed to the [[Order of Canada]] in 2017 "for his outstanding achievements as an administrator and researcher who has advanced quantum science and technology in Canada"; invested in 2019.<ref name="OC">{{cite news |last1=Davis |first1=Brent |date=December 31, 2017 |title=Locals honoured with Order of Canada appointments |url=https://www.therecord.com/news/waterloo-region/locals-honoured-with-order-of-canada-appointments/article_e6ba1adb-ca56-52ec-a70f-fc842399e8b8.html |url-status=dead |archive-url=https://web.archive.org/web/20241225134854/https://www.therecord.com/news/waterloo-region/locals-honoured-with-order-of-canada-appointments/article_e6ba1adb-ca56-52ec-a70f-fc842399e8b8.html |archive-date=December 25, 2024 |access-date=June 25, 2025 |newspaper=[[Waterloo Region Record]]}}</ref><ref>{{cite news |last=Laframboise |first=Josephine |date=December 29, 2017 |title=Governor General Announces 125 New Appointments to the Order of Canada |url=https://www.newswire.ca/news-releases/governor-general-announces-125-new-appointments-to-the-order-of-canada-667184403.html |access-date=June 25, 2025 |agency=[[CNW Group|newswire.ca]]}}</ref><ref>{{cite web |title=Dr. Raymond Laflamme |url=https://www.gg.ca/en/honours/recipients/146-1607 |access-date=June 25, 2025 |website=The Governor General of Canada |quote=Officer of the Order of Canada {{!}} Awarded on: December 6, 2017 {{!}} Invested on: February 1, 2019}}</ref>
+* Honoured posthumously by the [[International Year of Quantum Science and Technology|IYQ 2025]], with the [[Wyoming]]-based publication ''Quantum Zeitgeist'' writing: "... [T]he remembrance of Professor Laflamme emphasize[s] the importance of community in quantum science. ... Through textbooks and national initiatives, [Laflamme] helped shape generations of quantum researchers, propelling the global quantum ecosystem forward, supported by IYQ’s partner, TFD."<ref>{{Cite web |title=Quantum 100 Hub |url=https://quantum2025.org/quantum-100-hub/ |access-date=December 23, 2025 |website=IYQ 2025}}</ref><ref>{{Cite web |date=December 17, 2025 |title=Quantum 100. UNESCO Recognizes Quantum Leaders |url=https://quantumzeitgeist.com/unesco-quantum-100/ |access-date=December 17, 2025 |website=Quantum Zeitgeist}}</ref>
+* After his death, The Perimeter Institute established the '''Raymond Laflamme Postdoctoral Fellowship''' in his honour, with an initial {{US dollar|1000000|link=yes}} matching commitment.<ref>{{Cite web |title=Raymond Laflamme Postdoctoral Fellowship |url=https://perimeterinstitute.ca/donate/raymond-laflamme-postdoctoral-fellowship |access-date=December 17, 2025 |website=Perimeter Institute}}</ref>
+* In December 2025, The Perimeter Institute opened applications for the '''Ray Laflamme Early Career Chair in Quantum Computing and Quantum Information''' (a position equivalent to assistant professor in quantum information science) named after Laflamme.<ref>{{Cite web |date=December 28, 2025 |title=The Ray Laflamme Early Career Chair in Quantum Computing and Quantum Information |url=https://perimeterinstitute.ca/jobs/ray-laflamme-early-career-chair-quantum-computing-and-quantum-information |access-date=December 28, 2025 |website=Perimeter Institute}}</ref>
+
+==Media appearances==
+Laflamme was a featured scientist in the award-winning documentary, ''The Quantum Tamers'' which was presented by the Perimeter Institute and saw its Canadian premiere in October 2009 at the [[Perimeter Institute for Theoretical Physics#Quantum to Cosmos: Ideas for the Future festival|Quantum to Cosmos]] festival in [[Waterloo, Ontario]].<ref>{{cite web |last=Biddiscombe |first=Claire |date=October 21, 2009 |title=Quantum Tamers captures prize |url=https://www.iqc.ca/institute/news_fulltext.php?id=131 |url-status=dead |archive-url=https://web.archive.org/web/20100523201428/http://www.iqc.ca/institute/news_fulltext.php?id=131 |archive-date=May 23, 2010 |access-date=February 28, 2012 |website=University of Waterloo}}</ref><ref>{{cite web |title=The Quantum Tamers: Revealing our weird & wired future |url=https://www.perimeterinstitute.ca/outreach/teachers/multimedia-resources/quantum-tamers-revealing-our-weird-wired-future |url-status=dead |archive-url=https://web.archive.org/web/20190109170909/http://www.perimeterinstitute.ca/outreach/teachers/multimedia-resources/quantum-tamers-revealing-our-weird-wired-future |archive-date=January 9, 2019 |access-date=February 28, 2012 |website=Perimeter Institute}}</ref> Laflamme was also a participant in ''[[The Agenda|The Agenda With Steve Paikin]]'' discussion panel, "Wired 24/7", with [[Neil Gershenfeld]], [[Jaron Lanier]], [[Neal Stephenson]], and [[Tara Hunt]] which took place at the festival.<ref>{{Cite web |title=The Agenda With Steve Paikin: Wired 24/7 |url=http://www.q2cfestival.com/play.php?lecture_id=8012 |url-status=dead |archive-url=https://web.archive.org/web/20100128231421/http://www.q2cfestival.com/play.php?lecture_id=8012 |archive-date=January 28, 2010 |access-date=February 28, 2012 |website=Quantum to Cosmos Festival}}</ref> The following year, Laflamme was a contributor at the 2010 [[TED (conference)|TEDx]] event, also in Waterloo, Ontario.<ref>{{cite web |date=February 25, 2010 |title=TEDxWaterloo 2010 |url=https://tedxwaterloo.com/event-details/february-2010/ |url-status=dead |archive-url=https://web.archive.org/web/20160414201244/http://tedxwaterloo.com/event-details/february-2010/ |archive-date=April 14, 2016 |access-date=January 4, 2013 |website=TEDxWaterloo}}</ref>
+
+Laflamme was involved in several events surrounding the grand-opening of the [[Mike & Ophelia Lazaridis Quantum-Nano Centre]] at the University of Waterloo. He was a participant at the "Bridging Worlds" panel discussion with Ivan Semeniuk, [[Mike Lazaridis]], [[Thomas Brzustowski]], and [[Chad Orzel]] at the Mike & Ophelia Lazaridis Quantum-Nano Centre Open House in 2012.<ref>{{cite web |date=September 29, 2012 |title=Mike & Ophelia Lazaridis Quantum-Nano Centre Open House |url=https://uwaterloo.ca/mike-ophelia-lazaridis-quantum-nano-centre/events/mike-ophelia-lazaridis-quantum-nano-centre-open-house |url-status=dead |archive-url=https://web.archive.org/web/20160304111620/https://uwaterloo.ca/mike-ophelia-lazaridis-quantum-nano-centre/events/mike-ophelia-lazaridis-quantum-nano-centre-open-house |archive-date=March 4, 2016 |access-date=January 4, 2013 |work=Mike & Ophelia Lazaridis Quantum-Nano Centre}}</ref>
+
+As part of the grand-opening events, the [[Kitchener–Waterloo Symphony]] performed "Quantum: Music at the Frontier of Science" of which Laflamme was a collaborator in the creation of the concert narrative.<ref>{{cite web |last=Schnarr |first=Nancy |date=September 12, 2012 |title=The Kitchener-Waterloo Symphony Reboots Innovative Concert with Institute for Quantum Computing |url=https://kwsymphony.ca/media/releases/12-13quantum.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160311163829/http://kwsymphony.ca/media/releases/12-13quantum.pdf |archive-date=March 11, 2016 |access-date=January 4, 2013 |website=Kitchener–Waterloo Symphony}}</ref>
+
+Laflamme appeared as a speaker at [[Perimeter Institute for Theoretical Physics#BrainSTEM: Your Future is Now|BrainSTEM: Your Future is Now]] festival which ran from September 30 to October 6, 2013.<ref>{{cite web |date=August 19, 2013 |title=Perimeter Institute Announces BrainSTEM: Your Future is Now Festival Schedule |url=https://www.exchangemagazine.com/morningpost/2013/week34/Monday/13081910.htm |url-status=dead |archive-url=https://web.archive.org/web/20170928215429/http://www.exchangemagazine.com/morningpost/2013/week34/Monday/13081910.htm#anchor |archive-date=September 28, 2017 |access-date=March 23, 2018 |website=Exchange Magazine}}</ref>
+
+==Selected publications==
+*{{cite journal|first1=Ruth|last1=Gregory|author-link1=Ruth Gregory|last2= Laflamme|first2=Raymond|date=May 10, 1993|url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.2837|title=Black Strings and p-Branes are Unstable|journal=Physical Review Letters|volume=70|issue=19 |pages=2837–2840 |doi=10.1103/PhysRevLett.70.2837 |pmid=10053666 |arxiv=hep-th/9301052 |bibcode=1993PhRvL..70.2837G }}
+*{{cite journal|last1=Gregory|first1= Ruth|last2=Laflamme|first2=Raymond|date=October 10, 1994|url=https://www.sciencedirect.com/science/article/abs/pii/0550321394902062|title=The Instability of Charged Black Strings and p-Branes|journal=Nuclear Physics B|volume=428|number=1–2|pages=399–434|doi=10.1016/0550-3213(94)90206-2|arxiv= hep-th/9404071|bibcode= 1994NuPhB.428..399G}}
+*{{cite journal|last1=Knill|first1=Emanuel|last2=Laflamme|first2= Raymond|date=April 26, 1996|title=A Theory of Quantum Error-Correcting Codes|journal=Physical Review Letters|volume=84|issue=11 |pages=2525–2528 |doi=10.1103/PhysRevLett.84.2525 |pmid=11018926 |arxiv=quant-ph/9604034 |bibcode=2000PhRvL..84.2525K }}
+*{{cite journal|last1=Laflamme|first1=Raymond|last2=Miquel|first2=Cesar|last3=Paz|first3=Juan Pablo|last4=Zurek|first4=Wojciech H|date=July 1, 1996|url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.198|title=Perfect quantum error-correcting code|journal=Physical Review Letters|volume=77|issue=1 |pages=198–201 |pmid=10061806 |arxiv=quant-ph/9602019 |bibcode=1996quant.ph..2019L |doi=10.1103/PhysRevLett.77.198 }}
+*{{cite journal|author-link1=Michael Nielsen|last1=Nielsen|first1=Michael Aaron|last2=Knill|first2=Emanuel|last3= Laflamme|first3=Raymond|date=November 5, 1998|url=https://www.nature.com/articles/23891|title= Complete quantum teleportation using nuclear magnetic resonance|journal=Nature|volume=396|number=6706|pages=52–55|doi=10.1038/23891 |arxiv=quant-ph/9811020 |bibcode=1998Natur.396...52N }}
+*{{cite journal|last1=Knill|first1=Emanuel|last2=Zurek|first2=Wojciech H.|last3=Laflamme|first3=Raymond|date=January 16, 1998|url=https://www.science.org/doi/10.1126/science.279.5349.342 |title=Resilient quantum computation|journal= Science|volume=279|issue=5349 |pages=342–345 |doi=10.1126/science.279.5349.342 |bibcode=1998Sci...279..342K |url-access=subscription}}
+*{{cite journal|last1=Knill|first1=Emanuel|last2=Laflamme|first2=Raymond|date=December 21, 1998|url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5672 |title=On the Power of One Bit of Quantum Information|journal=Physical Review Letters|volume=81|issue=25 |page=5672 |doi=10.1103/PhysRevLett.81.5672 |arxiv=quant-ph/9802037 |bibcode=1998PhRvL..81.5672K }}
+*{{cite journal|last1=Knill|first1=Emanuel|last2=Laflamme|first2=Raymond|last3=Viola|first3=Lorenza|date=March 13, 2000|url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.84.2525 |title=Theory of quantum error correction for general noise|journal=Physical Review Letters|volume=84|number=11|pages=2525–2528|doi=10.1103/PhysRevLett.84.2525 |arxiv=quant-ph/9604034 |bibcode=2000PhRvL..84.2525K |pmid=11018926 }}
+*{{cite journal|last1=Knill|first1=Emanuel|last2=Laflamme|first2=Raymond|last3=Milburn|first3=Gerard|date=January 4, 2001|url=https://www.nature.com/articles/35051009 |title=A scheme for efficient quantum computation with linear optics|journal=Nature|volume=409|number=6816|pages=46–52|doi=10.1038/35051009 |pmid=11343107 |bibcode=2001Natur.409...46K |url-access=subscription}}
+*{{cite journal|last1=Knill|first1= Emanuel|last2= Laflamme|first2= Raymond|last3= Martinez|first3= Reynaldo|last4=Negrevergne|first4=Camille|date=June 18, 2001|url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.5811 |title=Benchmarking Quantum Computers: The Five-Qubit Error Correcting Code|journal=Physical Review Letters|volume=86|number=25|publisher= [[American Physical Society]]|pages=5811–5814|doi=10.1103/PhysRevLett.86.5811|pmid= 11415364|arxiv= quant-ph/0101034|bibcode= 2001PhRvL..86.5811K}}
+*{{cite journal|last1=Knill|first1=Emanuel|last2=Laflamme|first2=Raymond|last3=Ashikhmin|first3=Alexei|last4=Barnum|first4= Howard|last5=Lorenza |first5=Viola|author-link5=Lorenza Viola|last6=Zurek|first6= Wojciech H. |date=July 30, 2002|title=Introduction to quantum error correction|journal=[[Los Alamos Science]]|number=27 |arxiv=quant-ph/0207170 |bibcode=2002quant.ph..7170K }}
+*{{cite journal| last1 = Somma | first1 = Rolando D. | last2 = Ortiz | first2 = Gerardo | last3 = Gubernatis | first3 = James E. | last4 = Knill | first4 = Emanuel | last5 = Laflamme | first5 = Raymond | title = Simulating physical phenomena by quantum networks | journal = Physical Review A | volume = 65 | date = April 9, 2002 | issue = 4 | article-number = 042323 | doi = 10.1103/PhysRevA.65.042323 | arxiv = quant-ph/0108146 | bibcode = 2002PhRvA..65d2323S | url = https://journals.aps.org/pra/abstract/10.1103/PhysRevA.65.042323}}
+*{{cite book
+ | last1 = Kaye
+ | first1 = Phillip
+ | last2 = Laflamme
+ | first2 = Raymond
+ | last3 = Mosca
+ | first3 = Michele
+ | title = An Introduction to Quantum Computing
+ | publisher = Oxford University Press
+ | date = November 12, 2006
+ | isbn = 9780198570004
+ | url = https://www.oupcanada.com/catalog/9780198570004.html
+}}
+*{{cite journal
+ | last1 = Sinha
+ | first1 = Urbasi
+ | last2 = Couteau
+ | first2 = Christophe
+ | last3 = Medendorp
+ | first3 = Zachari
+ | last4 = Söllner
+ | first4 = Immo
+ | last5 = Laflamme
+ | first5 = Raymond
+ | last6 = Sorkin
+ | first6 = Rafael
+ | last7 = Weihs
+ | first7 = Gregor
+ | last8 = Accardi
+ | first8 = Luigi
+ | last9 = Adenier
+ | first9 = Guillaume
+ | last10 = Fuchs
+ | first10 = Christopher
+ | last11 = Jaeger
+ | first11 = Gregg
+ | last12 = Khrennikov
+ | first12 = Andrei Yu.
+ | last13 = Larsson
+ | first13 = Jan-Åke
+ | last14 = Stenholm
+ | first14 = Stig
+ | title = Testing Born's Rule in Quantum Mechanics with a Triple Slit Experiment
+ | journal = AIP Conference Proceedings
+ | date = 2009
+ | volume = 1101
+ | issue = 1
+ | pages = 200–207
+ | orig-date = November 13, 2008
+ | doi = 10.1063/1.3109942
+ | arxiv = 0811.2068
+ | bibcode = 2009AIPC.1101..200S
+ | url = https://pubs.aip.org/aip/acp/article-abstract/1101/1/200/862905/Testing-Born-s-Rule-in-Quantum-Mechanics-with-a
+ | oclc = 45060072
+}}
+*{{cite journal
+ | last1 = Sinha
+ | first1 = Urbasi
+ | last2 = Couteau
+ | first2 = Christophe
+ | last3 = Jennewein
+ | first3 = Thomas
+ | last4 = Laflamme
+ | first4 = Raymond
+ | last5 = Weihs
+ | first5 = Gregor
+ | title = Ruling out multi-order interference in quantum mechanics
+ | journal = Science
+ | volume = 329
+ | issue = 5990
+ | pages = 418–421
+ | date = July 1, 2010
+ | orig-date = July 23, 2010
+ | doi = 10.1126/science.1190545
+ | arxiv = 1007.4193
+ | bibcode = 2010Sci...329..418S
+ | issn = 0036-8075
+ | pmid = 20651147
+ | zbl = 1226.81016
+ | url = https://www.science.org/doi/10.1126/science.1190545
+}}
+*{{cite journal
+ | last1 = Kop
+ | first1 = Mauritz
+ | last2 = Aboy
+ | first2 = Mateo
+ | last3 = De Jong
+ | first3 = Eline
+ | last4 = Gasser
+ | first4 = Urs
+ | last5 = Minssen
+ | first5 = Timo
+ | last6 = Cohen
+ | first6 = I. Glenn
+ | last7 = Brongersma
+ | first7 = Mark L.
+ | last8 = Quintel
+ | first8 = Teresa
+ | last9 = Floridi
+ | first9 = Luciano
+ | last10 = Laflamme
+ | first10 = Raymond
+ | title = Ten principles for responsible quantum innovation
+ | journal = Quantum Science and Technology
+ | volume = 9
+ | issue = 3
+ | date = April 22, 2024
+ | page = 035013
+ | doi = 10.1088/2058-9565/ad3776
+ | bibcode = 2024QS&T....9c5013K
+ | url = https://iopscience.iop.org/article/10.1088/2058-9565/ad3776
+| hdl = 11245.1/99eb66de-c086-49dc-ba00-1e96a4893c7a
+ | hdl-access = free
+ }}
+*{{cite book
+ | last1 = Majidy
+ | first1 = Shayan
+ | last2 = Wilson
+ | first2 = Christopher
+ | last3 = Laflamme
+ | first3 = Raymond
+ | title = Building Quantum Computers
+ | publisher = Cambridge University Press
+ | date = September 30, 2024
+ | isbn = 9781009417013
+ | url = https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20210902142612/https://services.iqc.uwaterloo.ca/people/profile/laflamme/ IQC profile: Raymond Laflamme (Archive)]
+* [https://www.youtube.com/watch?v=ecD6C72gNfs TEDxWaterloo: Raymond Laflamme on YouTube]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Laflamme, Raymond}}
+[[Category:1960 births]]
+[[Category:2025 deaths]]
+[[Category:Université Laval alumni]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:University of British Columbia people]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Academic staff of the University of Waterloo]]
+[[Category:Canada Research Chairs]]
+[[Category:Canadian physicists]]
+[[Category:Deaths from cancer in Ontario]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Officers of the Order of Canada]]
+[[Category:People from Quebec City]]
+[[Category:Quantum information scientists]]
+[[Category:Quantum physicists]]

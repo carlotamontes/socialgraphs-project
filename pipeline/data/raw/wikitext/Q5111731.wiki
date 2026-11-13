@@ -1,0 +1,191 @@
+{{Short description|German chemist (born 1966)}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox scientist
+| name              = Christoph Steinbeck
+| image             = Christoph Steinbeck.jpg
+| caption           =
+| birth_date        = {{Birth year and age|1966}}
+| birth_place       = [[Neuwied]], Germany
+| fields            = {{Plainlist|
+* [[Cheminformatics]]
+* [[Bioinformatics]]
+* [[Metabolism]]<ref name="GS"/>}}
+| workplaces        = {{Plainlist|
+* [[Friedrich-Schiller-Universität Jena]]
+* [[European Bioinformatics Institute|EMBL-EBI]]
+* [[Tufts University]]
+* [[Max Planck Institute for Chemical Ecology]]{{citation needed|date=April 2014}}
+* [[Cologne University]]{{citation needed|date=April 2014}}
+* [[University of Bonn]]}}
+| education         = [[University of Bonn]]
+| thesis_title      = LUCY, ein Programm zur Konstitutionsbestimmung aus Korrelations-NMR-Experimenten sowie Beispiele zur Identifizierung von Naturstoffen durch NMR-Spektroskopie
+| thesis_url        = http://d-nb.info/948048905
+| thesis_year       = 1995
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{Plainlist|
+* [[Chemistry Development Kit]]
+* [[Journal of Cheminformatics]]
+* [[JChemPaint]]
+* [[ChEBI]]}}
+| influences        = 
+| influenced        = 
+| awards            = [[Blue Obelisk]] award<ref>[[Peter Murray-Rust|Murray-Rust, P.]] Blue Obelisk Award – Christoph Steinbeck of CDK. http://blogs.ch.cam.ac.uk/pmr/2006/09/14/blue-obelisk-award-christoph-steinbeck-of-cdk/</ref>
+| signature         = 
+| website           = {{URL|steinbeck-molecular.de}}
+| footnotes         = 
+| religion          = 
+}}
+'''Christoph Steinbeck''' (born 1966 in [[Neuwied]]<ref>{{Cite web | title=Archived copy | url=https://jungforscher-thueringen.de/wp-content/uploads/2019/03/20190620_22_SchuleMITWissenschaftThüringen.pdf | archive-url=https://web.archive.org/web/20211219215247/https://jungforscher-thueringen.de/wp-content/uploads/2019/03/20190620_22_SchuleMITWissenschaftTh%C3%BCringen.pdf | access-date=2024-12-15 | archive-date=2021-12-19}}</ref>) is a German chemist and has a professorship for [[analytical chemistry]], [[cheminformatics]] and [[chemometrics]] at the [[Friedrich Schiller Universität Jena|Friedrich-Schiller-Universität Jena]] in [[Thuringia]].<ref>{{Cite Q|Q34313323}}</ref><ref>{{Cite Q|Q34212022}}</ref>
+
+==Education==
+Steinbeck received his [[PhD]] from the [[University of Bonn]]<ref name="steinbeckphd">{{cite thesis |degree=PhD |first=Christoph|last=Steinbeck |title=LUCY, ein Programm zur Konstitutionsbestimmung aus Korrelations-NMR-Experimenten sowie Beispiele zur Identifizierung von Naturstoffen durch NMR-Spektroskopie |publisher=University of Bonn |date=1995 |author-link=Christoph Steinbeck |id={{DNB-IDN|948048905}}}}</ref> in 1995 for work on LUCY, a software program for [[structural elucidation]] from [[Nuclear magnetic resonance|nuclear magnetic resonance (NMR)]] correlation experiments.<ref>{{Cite Q|Q50368945}}</ref> In 2003 he received his [[habilitation]].<ref name="habilitation">{{cite thesis |degree=Habilitation |first=Christoph|last=Steinbeck |title=Zur automatischen Strukturaufklärung organischer Verbindungen |publisher=University of Bonn |date=2003 |author-link=Christoph Steinbeck |id={{DNB-IDN|970193602}}}}</ref>
+
+==Research==
+Steinbeck's research interests<ref name="GS">{{Google Scholar id |name=Christoph Steinbeck}}</ref><ref name="DBLP">{{DBLP |name=Christoph Steinbeck}}</ref><ref name="scopus">{{Scopus}}</ref> have involved the elucidation of chemical structures of [[metabolite]]s. He was one of the first chemists to develop [[Open-source software|open source]] tools for cheminformatics. He initiated [[JChemPaint]],<ref>{{Cite journal | last1 = Krause | first1 = S. | last2 = Willighagen | first2 = E. | last3 = Steinbeck | first3 = C. | author-link3 = Christoph Steinbeck| title = JChemPaint – Using the Collaborative Forces of the Internet to Develop a Free Editor for 2D Chemical Structures | doi = 10.3390/50100093 | journal = Molecules | volume = 5 | issue = 12 | pages = 93–98 | year = 2000 | doi-access = free | hdl = 11858/00-001M-0000-0012-A15A-4 | hdl-access = free }}</ref> was founder of the [[Chemistry Development Kit]],<ref>{{Cite journal | last1 = Steinbeck | first1 = C.| author-link1 = Christoph Steinbeck | last2 = Han | first2 = Y. | last3 = Kuhn | first3 = S. | last4 = Horlacher | first4 = O. | last5 = Luttmann | first5 = E. | last6 = Willighagen | first6 = E. | doi = 10.1021/ci025584y | title = The Chemistry Development Kit (CDK): An Open-Source Java Library for Chemo- and Bioinformatics | journal = Journal of Chemical Information and Modeling | volume = 43 | issue = 2 | pages = 493–500 | year = 2003 | pmid =  12653513| pmc = 4901983}}</ref><ref>{{Cite journal | last1 = Steinbeck | first1 = C. | author-link1 = Christoph Steinbeck| last2 = Hoppe | first2 = C. | last3 = Kuhn | first3 = S. | last4 = Floris | first4 = M. | last5 = Guha | first5 = R. | last6 = Willighagen | first6 = E. | doi = 10.2174/138161206777585274 | title = Recent Developments of the Chemistry Development Kit (CDK) - an Open-Source Java Library for Chemo- and Bioinformatics | journal = Current Pharmaceutical Design | volume = 12 | issue = 17 | pages = 2111–2120 | year = 2006 | pmid =  16796559| hdl = 2066/35445 | url = https://repository.ubn.ru.nl/bitstream/handle/2066/35445/35445_aut.pdf?sequence=3 | hdl-access = free }}</ref> and is responsible for leading the team working on [[ChEBI|Chemical Entities of Biological Interest (ChEBI)]].<ref>{{Cite journal
+| last1 = Hastings | first1 = J.
+| last2 = De Matos | first2 = P.
+| last3 = Dekker | first3 = A.
+| last4 = Ennis | first4 = M.
+| last5 = Harsha | first5 = B.
+| last6 = Kale | first6 = N.
+| last7 = Muthukrishnan | first7 = V.
+| last8 = Owen | first8 = G.
+| last9 = Turner | first9 = S.
+| last10 = Williams | first10 = M.
+| last11 = Steinbeck | first11 = C.
+| title = The ChEBI reference database and ontology for biologically relevant chemistry: Enhancements for 2013
+| doi = 10.1093/nar/gks1146
+| journal = Nucleic Acids Research
+| volume = 41
+| issue = Database issue
+| pages = D456–D463
+| year = 2012
+| pmid = 23180789
+| pmc =3531142
+}}</ref><ref>{{Cite book
+| last1 = Matos | first1 = P.
+| last2 = Adams | first2 = N.
+| last3 = Hastings | first3 = J.
+| last4 = Moreno | first4 = P.
+| last5 = Steinbeck | first5 = C.
+| author-link5 = Christoph Steinbeck
+| doi = 10.1007/978-1-61779-364-6_19
+| chapter = A Database for Chemical Proteomics: ChEBI
+| title = Chemical Proteomics
+| series = Methods in Molecular Biology
+| volume = 803
+| pages = 273–296
+| year = 2012
+| isbn = 978-1-61779-363-9
+| pmid = 22065232
+}}</ref><ref>{{Cite book
+| last1 = Degtyarenko | first1 = K.
+| last2 = Hastings | first2 = J.
+| last3 = De Matos | first3 = P.
+| last4 = Ennis | first4 = M.
+| chapter = ChEBI: An Open Bioinformatics and Cheminformatics Resource
+| doi = 10.1002/0471250953.bi1409s26
+| title = Current Protocols in Bioinformatics
+|editor=Andreas D. Baxevanis
+| volume = 14
+| pages = 14.9.1–14.9.20
+| year = 2009
+| isbn = 978-0471250951
+| pmid = 19496059
+| s2cid = 20115758
+}}</ref><ref>{{Cite journal
+| last1 = Degtyarenko | first1 = K.
+| last2 = De Matos | first2 = P.
+| last3 = Ennis | first3 = M.
+| last4 = Hastings | first4 = J.
+| last5 = Zbinden | first5 = M.
+| last6 = McNaught | first6 = A.
+| last7 = Alcantara | first7 = R.
+| last8 = Darsow | first8 = M.
+| last9 = Guedj | first9 = M.
+| doi = 10.1093/nar/gkm791
+| last10 = Ashburner | first10 = M.
+| title = ChEBI: A database and ontology for chemical entities of biological interest
+| journal = [[Nucleic Acids Research]]
+| volume = 36
+| issue = Database issue
+| pages = D344–D350
+| year = 2007
+| pmid = 17932057
+| pmc =2238832
+}}</ref> He headed the Cheminformatics and [[Metabolomics]] group at the [[European Bioinformatics Institute|European Molecular Biology Laboratory-European Bioinformatics Institute]] in [[Cambridge]], United Kingdom from 2008 to 2016. He became a professor for analytical chemistry, cheminformatics and chemometrics at the Friedrich-Schiller-Universität Jena in Thuringia, Germany in March 2017. Since 2020, Steinbeck is leading the German National Research Data Infrastructure for Chemistry (NFDI4Chem)<ref>{{Cite web |title=Our Consortium |url=https://www.nfdi4chem.de/index.php/konsortium/ |access-date=6 March 2023 |website=NFDI4Chem |language=en-GB}}</ref> and in August 2022, he became vice President for digitalisation of the Friedrich Schiller University.<ref>{{Cite web |title=The University of Jena establishes a new Vice President for Digitalisation |url=https://www.uni-jena.de/en/220719-vpdigitalisierung |access-date=6 March 2023 |website=Friedrich Schiller University Jena |date=19 July 2022 |language=en}}</ref> Together with a few other chemists he was a founder member of the [[Blue Obelisk]]<ref>{{Cite journal
+| last1 = O'Boyle | first1 = N. M.
+| last2 = Guha | first2 = R.
+| last3 = Willighagen | first3 = E. L.
+| last4 = Adams | first4 = S. E.
+| last5 = Alvarsson | first5 = J.
+| last6 = Bradley | first6 = J. C.
+| last7 = Filippov | first7 = I. V.
+| last8 = Hanson | first8 = R. M.
+| last9 = Hanwell | first9 = M. D.
+| last10 = Hutchison
+| doi = 10.1186/1758-2946-3-37 | first10 = G. R.
+| last11 = James | first11 = C. A.
+| last12 = Jeliazkova | first12 = N.
+| last13 = Lang | first13 = A. S. D.
+| last14 = Langner | first14 = K. M.
+| last15 = Lonie | first15 = D. C.
+| last16 = Lowe | first16 = D. M.
+| last17 = Pansanel | first17 = J. R. M.
+| last18 = Pavlov | first18 = D.
+| last19 = Spjuth | first19 = O.
+| last20 = Steinbeck | first20 = C.
+| last21 = Tenderholt | first21 = A. L.
+| last22 = Theisen | first22 = K. J.
+| last23 = Murray-Rust | first23 = P.
+| title = Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on
+| journal = Journal of Cheminformatics
+| volume = 3
+| issue = 1
+| pages = 37
+| year = 2011
+| pmid =  21999342
+| pmc =3205042
+| doi-access = free
+}}</ref><ref>{{Cite journal
+| last1 = Guha | first1 = R.
+| last2 = Howard | first2 = M. T.
+| last3 = Hutchison | first3 = G. R.
+| last4 = Murray-Rust | first4 = P.
+| author-link4 = Peter Murray-Rust
+| last5 = Rzepa | first5 = H.
+| author-link5 = Henry Rzepa
+| last6 = Steinbeck | first6 = C.
+| author-link6 = Christoph Steinbeck
+| last7 = Wegner | first7 = J.
+| last8 = Willighagen | first8 = E. L.
+| doi = 10.1021/ci050400b
+| title = The Blue Obelisk - Interoperability in Chemical Informatics
+| journal = Journal of Chemical Information and Modeling
+| volume = 46
+| issue = 3
+| pages = 991–998
+| year = 2006
+| pmid =  16711717
+| pmc =4878861
+}}</ref> movement in 2005.<ref>{{Cite journal | last1 = Guha | first1 = R. | last2 = Howard | first2 = M. T. | last3 = Hutchison | first3 = G. R. | last4 = Murray-Rust | first4 = P. | author-link4 = Peter Murray-Rust| last5 = Rzepa | first5 = H. | author-link5 = Henry Rzepa| last6 = Steinbeck | first6 = C. | author-link6 = Christoph Steinbeck| last7 = Wegner | first7 = J. | last8 = Willighagen | first8 = E. L. | doi = 10.1021/ci050400b | title = The Blue Obelisk - Interoperability in Chemical Informatics | journal = Journal of Chemical Information and Modeling | volume = 46 | issue = 3 | pages = 991–998 | year = 2006 | pmid =  16711717| pmc =4878861 }}</ref>
+
+Steinbeck was past [[editor-in-chief]] of the ''[[Journal of Cheminformatics]]'', past director of the [[Metabolomics]] Society,<ref>[http://www.metabolomicssociety.org/board_of_directors ''Metabolomics Society Board''] {{webarchive|url=https://web.archive.org/web/20140323164342/http://www.metabolomicssociety.org/board_of_directors |date=23 March 2014 }}, website of Metabolomics Society</ref> past chair of the Computers-Information-Chemistry division of the [[German Chemical Society]], past trustee of the [[Chemical Structure Association]] Trust,<ref>Chemical Structure Association Newsletter, 2006, 12, http://www.csa-trust.org/news06/Issue12.pdf {{Webarchive|url=https://web.archive.org/web/20160326104624/http://www.csa-trust.org/news06/issue12.pdf/ |date=26 March 2016 }}</ref> and a lifetime member of the [[World Association of Theoretically Oriented Chemists]].<ref>{{Cite web|url=http://www.watoc.net/watoc.members.html|title=WATOC – Home|website=www.watoc.net|accessdate=19 December 2021}}</ref>
+
+== References ==
+{{Scholia}}
+{{Reflist}}
+
+== External links ==
+*  {{URL|www.steinbeck-molecular.de}}
+{{Authority control}}
+
+{{DEFAULTSORT:Steinbeck, Christoph}}
+[[Category:Living people]]
+[[Category:21st-century German chemists]]
+[[Category:1966 births]]
+[[Category:Academic staff of the University of Jena]]
+[[Category:People from Neuwied]]

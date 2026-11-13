@@ -1,0 +1,103 @@
+{{Short description|German theoretical spectroscopist}}
+{{Use list-defined references|date=August 2021}}
+{{Use dmy dates|cs1-dates=ly|date=August 2021}}
+{{Infobox person
+| name               = Lucia Reining
+| image              = Lucia Reining en 2013.jpg
+| caption            = Reining in 2013
+| othername          = 
+| birth_name         = 
+| birth_date         = 13 September 1961
+| birth_place        = 
+| death_date         = 
+| death_place        = 
+| burial_place       = 
+| education          = [[RWTH Aachen University]]<br>[[University of Rome Tor Vergata]]
+| occupation         = [[Spectroscopy|Spectroscopist]] Researcher
+| years_active       = 
+| known_for          = Over 150 publications and numerous awards, including CNRS Silver Medal
+| spouse             = 
+}}
+
+'''Lucia Reining''' (born 13 September 1961) is a German theoretical [[Spectroscopy|spectroscopist]] who used to work in France as a director of research with the [[French National Centre for Scientific Research]] (CNRS), in the Laboratoire des Solides Irradiés at the [[École Polytechnique]].<ref>{{Cite web |date=2024-12-18 |title=Direction du Laboratoire des Solides Irradiés (LSI) {{!}} CNRS Physique |url=https://www.inp.cnrs.fr/fr/appel-offres/direction-du-laboratoire-des-solides-irradies-lsi |access-date=2026-06-19 |website=www.inp.cnrs.fr |language=fr}}</ref>
+
+==Education and career==
+Reining studied physics at [[RWTH Aachen University]] beginning in 1980, with 
+Ivan Egry as a faculty mentor, earning a diploma there in 1985. Reining completed her doctoral studies with Rodolfo Del Sole at the [[University of Rome Tor Vergata]], completing her Ph.D. in 1991.{{r|cv}}
+
+After a Marie-Curie postdoctoral fellowship at the [[Centre Européen de Calcul Atomique et Moléculaire]] in [[Orsay]], Reining became a researcher for the CNRS in 1992. She was promoted to director of research in 2002, and to director of research in 2016.{{r|cv}}
+
+Lucia Reining is one of the founding members of the [[European Theoretical Spectroscopy Facility]].<ref>{{Cite web |last=Godby |first=Rex |date=23 April 2019 |title=History |url=https://www.etsf.eu/about-etsf/history |website=European Theoretical Spectroscopy Facility}}</ref>
+
+==Recognition==
+Reining won the [[CNRS Silver Medal]] in 2003.{{r|cv}} She was elected as a [[Fellow of the American Physical Society]] (APS) in 2007, after a nomination from the APS Division of Computational Physics, "for her fundamental contributions to ab initio computation of spectroscopic properties of solids, employing many-electron Green's function and time-dependent density functional approaches".{{r|faps}}
+
+She was the 2020 winner of the {{ill|Gentner-Kastler Prize|de|Gentner-Kastler-Preis|fr|Prix Gentner-Kastler}} of the [[Société Française de Physique]] and [[German Physical Society]].{{r|gkp}}
+
+==Selected publications==
+*{{citation
+ | last1 = Albrecht | first1 = Stefan
+ | last2 = Reining | first2 = Lucia
+ | last3 = Del Sole | first3 = Rodolfo
+ | last4 = Onida | first4 = Giovanni
+ | arxiv = cond-mat/9803194
+ | date = May 1998
+ | doi = 10.1103/PhysRevLett.80.4510
+ | issue = 20
+ | journal = [[Physical Review Letters]]
+ | pages = 4510–4513
+ | title = ''Ab initio'' calculation of excitonic effects in the optical spectra of semiconductors
+ | volume = 80| bibcode = 1998PhRvL..80.4510A
+ }}
+*{{citation
+ | last1 = Onida | first1 = Giovanni
+ | last2 = Reining | first2 = Lucia
+ | last3 = Rubio | first3 = Angel
+ | author-link3 = Ángel Rubio (physicist)
+ | date = June 2002
+ | doi = 10.1103/revmodphys.74.601
+ | issue = 2
+ | journal = [[Reviews of Modern Physics]]
+ | pages = 601–659
+ | title = Electronic excitations: density-functional versus many-body Green's-function approaches
+ | volume = 74| bibcode = 2002RvMP...74..601O
+ | hdl = 10261/98472
+ | hdl-access = free
+ }}
+*{{citation
+ | last1 = Martin | first1 = Richard M.
+ | last2 = Reining | first2 = Lucia
+ | last3 = Ceperley | first3 = David M. | author3-link = David Ceperley
+ | doi = 10.1017/cbo9781139050807
+ | isbn = 978-1-139-05080-7
+ | publisher = Cambridge University Press
+ | title = Interacting Electrons: Theory and Computational Approaches
+ | year = 2016}}
+
+==References==
+<references>
+
+<ref name=cv>{{citation|url=https://etsf.polytechnique.fr/system/files/cv-public_2020_0.pdf|title=Curriculum vitae|year=2020|access-date=2021-09-05}}</ref>
+
+<ref name=faps>{{citation|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2007&unit_id=DCOMP&institution=|title=Fellows nominated in 2007 by the Division of Computational Physics|work=APS Fellows archive|publisher=American Physical Society|access-date=2021-09-05}}</ref>
+
+<ref name=gkp>{{citation|url=https://www.pro-physik.de/nachrichten/gentner-kastler-preis-fuer-lucia-reining|title=Gentner-Kastler-Preis für Lucia Reining|date=April 2, 2020|first=Maike|last=Pfalz|publisher=German Physical Society|via=Pro-physik.de|access-date=2021-09-05}}</ref>
+
+</references>
+
+==External links==
+*[https://etsf.polytechnique.fr/People/Lucia Home page]
+*{{Google Scholar id|8H3XpXEAAAAJ}}
+
+{{Authority control|state=collapsed}}
+
+{{DEFAULTSORT:Reining, Lucia}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:German physicists]]
+[[Category:German women physicists]]
+[[Category:German spectroscopists]]
+[[Category:RWTH Aachen University alumni]]
+[[Category:University of Rome Tor Vergata alumni]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+[[Category:Fellows of the American Physical Society]]

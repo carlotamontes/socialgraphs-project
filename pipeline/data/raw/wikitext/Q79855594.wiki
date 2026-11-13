@@ -1,0 +1,75 @@
+{{Short description|American theoretical ecologist}}
+{{Infobox scientist
+| name              = Ottar Nordal Bjørnstad
+| birth_date        = {{birth date and age|1969|10|24}}
+| birth_place       = [[Uppsala]], Sweden
+| citizenship       = Norwegian–American
+| fields            = [[Theoretical ecology]], [[mathematical epidemiology]], statistical biology
+| workplaces        = [[Pennsylvania State University]]<br />[[University of Oslo]]
+| education         = [[University of Oslo]] (BSc 1991, MSc 1993, PhD 1997)
+| doctoral_advisor  = Nils Chr. Stenseth, [[Rolf Anker Ims]]
+| known_for         = Population synchrony, epidemic modelling, ncf R package
+| awards            = Fellow, [[American Association for the Advancement of Science|AAAS]] (2013)<br />Fellow, [[Ecological Society of America|ESA]] (2019)<br />Fellow, [[Norwegian Academy of Science and Letters]]
+}}
+
+'''Ottar Nordal Bjørnstad''' (born 24 October 1969 in [[Uppsala]], Sweden) is a Norwegian–American theoretical ecologist and mathematical epidemiologist. He holds the position of Distinguished Professor of Entomology and Biology at [[Pennsylvania State University]] (Penn State), where he also holds the J. Lloyd & Dorothy Foehr Huck Chair of Epidemiology.<ref name="psu_faculty">{{cite web |title=Ottar Bjornstad, Ph.D. |url=https://ento.psu.edu/directory/onb1 |publisher=Pennsylvania State University, Department of Entomology |access-date=2025-03-13}}</ref> He is affiliated with Penn State's [https://www.cidd.psu.edu Center for Infectious Disease Dynamics] (CIDD) and has held visiting and research appointments at institutions in Norway, the United States, and Australia.
+
+Bjørnstad's research lies at the intersection of ecology, mathematical biology, and statistics. He is best known for his contributions to the study of spatiotemporal population dynamics, the analysis of epidemic and outbreak cycles, and the development of computational tools for ecological data analysis.<ref name="psu_faculty" /> 
+
+== Education ==
+
+Bjørnstad received his education from the [[University of Oslo]], Norway. He was awarded a Bachelor of Science in Biology in 1991, a Master of Science in Zoology in 1993, and a Doctor of Philosophy in Ecology in 1997, co-supervised by [[Nils Chr. Stenseth]] and [[Rolf Anker Ims]].<ref name="psu_eberly">{{cite web |title=Ottar N. Bjørnstad |url=https://science.psu.edu/bio/people/onb1 |publisher=Pennsylvania State University, Eberly College of Science |access-date=2025-03-13}}</ref> Following his doctorate, he undertook postdoctoral research at the University of Oslo and the [[University of Cambridge]] (1997–1998), and subsequently at the [https://www.nceas.ucsb.edu National Center for Ecological Analysis and Synthesis] (NCEAS), University of California, Santa Barbara (1998–2000).<ref name="psu_eberly" /><ref name="psu_news_nasl">{{cite web |title=Ottar Bjørnstad elected to Norwegian Academy of Sciences and Letters |url=https://www.psu.edu/news/academics/story/ottar-bjornstad-elected-norwegian-academy-sciences-and-letters |publisher=Penn State News |access-date=2025-03-13}}</ref>
+
+== Career ==
+
+Bjørnstad joined [[Pennsylvania State University]] in 2001 as a faculty member in the Department of Entomology. He was appointed Professor in the Departments of Entomology and Biology and Adjunct Professor in the Department of Statistics in 2007.<ref name="psu_stats">{{cite web |title=Ottar Bjornstad |url=http://stat.psu.edu/people/onb1 |publisher=Pennsylvania State University, Department of Statistics |access-date=2025-03-13}}</ref> Since 2014 he has held the J. Lloyd & Dorothy Foehr Huck Chair of Epidemiology.<ref name="huck">{{cite web |title=Ottar N. Bjørnstad |url=https://www.huck.psu.edu/people/ottar-bjornstad |publisher=Penn State Huck Institutes of the Life Sciences |access-date=2025-03-13}}</ref> From 2004 to 2009, Bjørnstad served as co-director of the [https://www.cidd.psu.edu Center for Infectious Disease Dynamics] (CIDD) at Penn State.<ref name="psu_news_nasl" />
+
+Bjørnstad has held several visiting and research positions alongside his primary Penn State appointment. He was a Senior Research Fellow in the Division of International Epidemiology and Population Studies at the NIH Fogarty International Center (2004–2014), and co-director of Penn State's CIDD (2004–2009).<ref name="psu_news_nasl" /> Visiting professorships include the Department of Biostatistics at the University of Oslo (2008–2009), the Department of Arctic and Marine Biology at the [[University of Tromsø]] (2015–2018), and the Marshall Centre for Infectious Diseases Research and Training at the [[University of Western Australia]](2017).<ref name="psu_news_nasl" /> 
+
+== Research ==
+
+Bjørnstad's research spans population dynamics, infectious disease epidemiology, insect pest outbreaks, and the development of statistical methods for ecological data.<ref name="psu_lab">{{cite web |title=Ottar Bjornstad Lab |url=https://ento.psu.edu/research/labs/ottar-bjornstad |publisher=Pennsylvania State University, Department of Entomology |access-date=2025-03-13}}</ref>
+
+With [[Bryan Grenfell]] ([[Princeton University]]) and others, he developed time-series approaches to estimating transmission rates for childhood infections such as measles and whooping cough. Their time-series SIR (TSIR) model became a widely adopted framework for reconstructing epidemic dynamics from case-report data.<ref>{{cite journal |last1=Bjørnstad |first1=O. N. |last2=Finkenstädt |first2=B. F. |last3=Grenfell |first3=B. T. |title=Dynamics of measles epidemics: estimating scaling of transmission rates using a time series SIR model |journal=Ecological Monographs |volume=72 |issue=2 |pages=169–184 |year=2002 |doi=10.1890/0012-9615(2002)072[0169:DOMEES]2.0.CO;2}}</ref> Notable findings from this programme include the demonstration that measles epidemics in pre-vaccination England and Wales propagated as travelling waves from large cities to smaller settlements,<ref>{{cite journal |last1=Grenfell |first1=B. T. |last2=Bjørnstad |first2=O. N. |last3=Kappey |first3=J. |title=Travelling waves and spatial hierarchies in measles epidemics |journal=Nature |volume=414 |pages=716–723 |year=2001 |doi=10.1038/414716a}}</ref> and that persistent epidemic chaos in US pre-vaccination measles arose from small changes in seasonal transmission (with Dalziel and colleagues).<ref>{{cite journal |last1=Dalziel |first1=B. D. |last2=Bjørnstad |first2=O. N. |last3=van Panhuis |first3=W. G. |last4=Burke |first4=D. S. |last5=Metcalf |first5=C. J. E. |last6=Grenfell |first6=B. T. |title=Persistent chaos of measles epidemics in the prevaccination United States caused by a small change in seasonal transmission patterns |journal=PLOS Computational Biology |volume=12 |issue=2 |article-number=e1004655 |year=2016 |doi=10.1371/journal.pcbi.1004655 |doi-access=free|pmc=4741526 }}</ref>
+
+Bjørnstad has contributed to understanding of how temperature affects insect outbreaks<ref>{{cite journal |last1=Nelson |first1=W. A. |last2=Bjørnstad |first2=O. N. |last3=Yamanaka |first3=T. |title=Recurrent insect outbreaks caused by temperature-driven changes in system stability |journal=Science |volume=341 |issue=6147 |pages=796–799 |year=2013 |doi=10.1126/science.1238477}}</ref> and the dynamics of influenza, pertussis (whooping cough), [[Rubella]], [[Hantavirus]], [[Dengue virus]], [[Ebola]], and SARS-CoV-2. During the [[COVID-19 pandemic]], his paper (with Lavine and Antia) on immunological conditions for the transition of COVID-19 to endemicity attracted wide attention.<ref>{{cite journal |last1=Lavine |first1=J. S. |last2=Bjørnstad |first2=O. N. |last3=Antia |first3=R. |title=Immunological characteristics govern the transition of COVID-19 to endemicity |journal=Science |volume=371 |pages=741–745 |year=2021 |doi=10.1126/science.abe6522|pmc=7932103 }}</ref>
+
+=== Software  and teaching ===
+
+Bjørnstad has contributed to the development of statistical methods for analysing spatiotemporal ecological data. He developed the [https://cran.r-project.org/package=ncf ncf] (nonparametric covariance functions) [[R (programming language)|R]] package, used in ecology, epidemiology, and related fields, and is the author or co-author of several other R packages. His textbook ''Epidemics: Models and Data Using R'' (Springer, 2018; 2nd edition 2022) provides a practical introduction to infectious disease modelling using R.<ref>{{cite book |last=Bjørnstad |first=O. N. |title=Epidemics: Models and Data Using R |edition=2nd |publisher=Springer |year=2022 |isbn=978-3-031-12055-8 |series=Use R!}}</ref>
+
+== Awards and honours ==
+
+* Fellow of the [[American Association for the Advancement of Science]] (AAAS), elected 2013.<ref>{{cite web |title=AAAS Council Elects 388 New AAAS Fellows |url=https://www.aaas.org/news/aaas-council-elects-388-new-aaas-fellows |publisher=American Association for the Advancement of Science |access-date=2025-03-13}}</ref>
+* Fellow of the [[Ecological Society of America]] (ESA), elected 2019.<ref name="psu_news_nasl" />
+* Elected Fellow of the [[Norwegian Academy of Science and Letters]].<ref name="psu_news_nasl" />
+* J. Lloyd & Dorothy Foehr Huck Chair of Epidemiology, Penn State (2014–present).<ref name="huck" />
+
+=== Books ===
+
+* Bjørnstad, O. N. (2018). ''[https://link.springer.com/book/9783319974866 Epidemics: Models and Data Using R]''. Springer (Use R! series). {{ISBN|978-3-319-97486-6}}.
+* Bjørnstad, O. N. (2022). ''[https://link.springer.com/book/10.1007/978-3-031-12056-5 Epidemics: Models and Data Using R]'' (2nd ed.). Springer (Use R! series). {{ISBN|978-3-031-12055-8}}.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+
+* [https://ento.psu.edu/directory/onb1 Penn State faculty page]
+* [https://www.mn.uio.no/cees/english/people/researcher-postdoc/ottarnbj/ CEES profile, University of Oslo]
+* [https://github.com/objornstad/ GitHub (R packages)]
+* [https://www.coursera.org/learn/epidemics Coursera MOOC: Epidemics]
+{{authority control}}
+{{DEFAULTSORT:Bjornstad, Ottar Nordal}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Norwegian ecologists]]
+[[Category:American ecologists]]
+[[Category:Norwegian epidemiologists]]
+[[Category:American epidemiologists]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:University of Oslo alumni]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the Ecological Society of America]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Norwegian emigrants to the United States]]

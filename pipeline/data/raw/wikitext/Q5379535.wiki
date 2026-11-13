@@ -1,0 +1,84 @@
+{{Short description|Italian chemist (1931–2021)}}
+{{Use dmy dates|date=October 2025}}
+{{Infobox scientist
+| name                      = Enrico Clementi
+| birth_name             = 
+| image                     = 
+| caption                   = 
+| birth_date               = {{Birth date|1931|11|19|mf=y}}
+| birth_place             = [[Cembra]], [[Italy]]
+| death_date             = {{Death date and age|2021|3|30|1931|11|19|mf=y}}
+| death_place           = [[Como]], Italy
+| fields                      = 
+| known_for              = 
+| workplaces             = [[IBM]]<br>[[Université Louis Pasteur]]
+| education               = [[University of Pavia]]
+| thesis_title             = Spettroscopia dei centri di colore in cristalli alogenuro-alcalini<ref>{{Cite web |date=2017-09-26 |title=Clementi, chimico filosofo che ha conquistato gli Usa - Trento |url=https://www.giornaletrentino.it/cronaca/trento/clementi-chimico-filosofo-che-ha-conquistato-gli-usa-1.1334008 |website=Trentino |language=it}}</ref>
+| thesis_year            = 1954
+| thesis_url               = 
+| doctoral_advisor    = Luigi Giulotto
+| doctoral_students  = 
+| academic_advisors = [[Giulio Natta]]
+| awards                   = 
+| footnotes                = 
+}}
+'''Enrico Clementi''' (19 November 1931 – 30 March 2021) was an Italian chemist, a pioneer in computational techniques for [[quantum chemistry]] and [[molecular dynamics]].<ref>{{cite web |title=Obituary Enrico Clementi |url=https://www.iaqms.org/obituary/EnricoClementi.pdf |publisher=iaqms.org |access-date=13 August 2021}}</ref>
+
+== Education and career ==
+Clementi received his Ph.D. in Chemistry from [[University of Pavia]], where he was a student in the [[Collegio Cairoli]], in 1954. His supervisors were Luigi Giulotto and Gianfranco Chiarotti. His doctoral research was conducted at the Department of Physics at Pavia, focusing on experimental studies of the spectroscopy of [[color centers]] in [[alkali halides]].<ref>{{Cite journal |last=Kampouridis |first=Stylianos |last2=Arabatzis |first2=Theodore |date=2025-06-01 |title=Bytes as Test Tubes |url=https://online.ucpress.edu/hsns/article/55/3/251/212087/Bytes-as-Test-TubesComputational-Predictions-and-a |journal=Historical Studies in the Natural Sciences |language=en |volume=55 |issue=3 |pages=251–286 |doi=10.1525/hsns.2025.55.3.251 |issn=1939-1811|url-access=subscription }}</ref> He went on to conduct research with Nobel laureate [[Giulio Natta]] at [[Polytechnic University of Milan]], [[Michael Kasha]] at [[Florida State University]], [[Kenneth Pitzer]] at [[University of California, Berkeley]], [[Robert Mulliken]] at the [[University of Chicago]].<ref>{{Cite journal |last=Clementi |first=Enrico |date=1992-05-20 |title=Chemistry and computers: On research aims from my preparatory period until early 1991 |url=https://onlinelibrary.wiley.com/doi/10.1002/qua.560420406 |journal=International Journal of Quantum Chemistry |language=en |volume=42 |issue=4 |pages=547–580 |doi=10.1002/qua.560420406 |issn=0020-7608|url-access=subscription }}</ref>
+
+In 1961, Clementi joined [[IBM Research]]. There, he was first responsible for atomic calculations, then manager of a scientific computation department until 1974. As an [[IBM Fellow]] (elected 1969), he led research and development in parallel [[computer architecture]] and fundamental research in [[chemistry]], [[biophysics]] and [[fluid dynamics]]. In 1991, he retired from IBM to join [[Université Louis Pasteur]] in [[Strasbourg]], France, as Professor of Chemistry from 1992 until 2000.
+
+== Honors and awards ==
+Clementi's work has been recognised by awards and honours: IBM Fellow (1969), Fellow of the [[American Physical Society]] (1984), President of the International Society of Quantum Biology, Alexander von Humboldt award (2001), Member of the [[International Academy of Quantum Molecular Science]].
+
+==Selected publications==
+* E. Clementi, "Tables of Atomic Functions",  ''IBM Journal of Research and Development'', Special Supplement, Vol. 9, No. 1, 1965 {{doi|10.1147/JRD.1965.5392159}}
+* {{cite journal | last1 = Clementi | first1 = E. | year = 1965 | title = Ab Initio Computations in Atoms and Molecules | doi = 10.1147/rd.91.0002 | journal = IBM Journal of Research and Development | volume = 9 | issue = 1| pages = 2–19}}
+* E. Clementi, C. Roetti, of "Tables of Roothaan-Hartree-Fock Wavefunctions", Special Issue in ''Atomic Data and Nuclear Data Table'', Academic Press, New York, 1974 {{doi|10.1016/S0092-640X(74)80016-1}}
+* {{cite journal | last1 = Clementi | first1 = E. | last2 = Logan | first2 = D. | last3 = Saarinen | first3 = J. | s2cid = 17604715 | year = 1988 | title = lCAP 3090: Parallel processing for large-scale scientific and engineering problems | doi = 10.1147/sj.274.0475 | journal = IBM Systems Journal | volume = 27 | issue = 4| pages = 475–509}}
+
+== Books ==
+* Enrico Clementi: "Tables of atomic functions", International Business Machines Corp (1965).
+* Enrico Clementi, Carla Roetti:"Atomic Data and Nuclear Data Tables", Academic Press, 1st ed.(1974).
+* Enrico Clementi: "Roothaan-Hartree-Fock atomic wavefunctions: Basic functions and their coefficients for ground and certain excited states of neutral and ionized atoms, Z<54", Academic Press (1974).
+* Enrico Clementi:"Determination of Liquid Water Structure: Coordination Numbers for Ions and Solvation for biological Molecules",(Lecture Notes in Chemistry 2), Springer-Verlag,{{ISBN|978-0387078700}} (1976).
+* Enrico Clementi: "Computational Aspects for Large Chemical Systems", Lecture Notes in Chemistry No.19, Springer-Verlag(1980). 
+* Enrico Clementi (Ed.), Ramaswamy H. Sarma (Ed.):"Structure and Dynamics: Nucleic Acids and Proteins; Lajolla Symposium Proce Edings, 1982", Proceedings of International Symposium on Structure and Dynamics of Nucleic Acids and Protei", Adenine Pr,{{ISBN|978-0940030046}} (1983).
+* Enrico Clementi: "Biological and Artificial Intelligence Systems", Springer; 1st ed., {{ISBN|978-9072199027}} (Sep. 30th, 1988).
+* E. Clementi (Ed.): "Modern Techniques in Computational Chemistry: MOTECC-89", Springer, {{ISBN|978-9072199058}} (1989).
+* E. Clementi (Ed.): "Modern Techniques in Computational Chemistry: MOTECC-90", Springer,{{ISBN|978-9072199072}} (1990).
+* E. Clementi (Ed.): "Modern Techniques in Computational Chemistry: MOTECC-91", Springer, {{ISBN|978-9072199102}} (1991).
+* Enrico Clementi (Ed.):"Methods and Techniques in Computational Chemistry: METECC-94, Volume C: Structure and Dynamics", STEF, {{ISBN|978-8886327015}} (1993).
+* Enrico Clementi (Ed.), Giorgina Corongiu (Ed.):"Methods and Techniques in Computational Chemistry: METECC-95", STEF, Cagliari, {{ISBN|978-8886327022}} (1995).
+* Jean-Marie Andre, David H. Mosley, Marie-Claude Andre, Benoit Champagne, Enrico Clementi, Joseph G. Fripiat, Laurence Leherte, Lorenzo Pisani, Daniel P. Vercauteren, Marjan Vracko :"Exploring Aspects of Computational Chemistry", (in French), Presses Universitaires De Namur, {{ISBN|978-2870372494}} (1997).
+* Enrico Clementi (Ed.), Jean-Marie André (Ed.), J. Andrew McCammon (Ed.):"Theory and Applications in Computational Chemistry: The First Decade of the Second Millennium:: International Congress TACC-2012 (AIP Conference Proceedings)", American Institute of Physics, {{ISBN|978-0735410572}}, (Aug. 29th, 2012).
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.iaqms.org/members/clementi.php Bio at IAQMS] {{Webarchive|url=https://web.archive.org/web/20110718093219/http://www.iaqms.org/members/clementi.php |date=2011-07-18 }}
+* [https://www.youtube.com/watch?v=hE2i_lV0GpI Computer del futuro. Conversazione con Enrico Clementi  (Interview Movie. 1987 at IBM Kingston)]
+* [http://www.qtp.ufl.edu/pdf/Clementi-Booklet.pdf Enrico Clementi: Produced by Quantum Theory Project Dept. Chem. and Phys. Univ. Florida]
+
+{{portal bar |Biography |Chemistry |Physics}}
+{{authority control}}
+
+{{DEFAULTSORT:Clementi, Enrico}}
+[[Category:1931 births]]
+[[Category:2021 deaths]]
+[[Category:People from Trentino]]
+[[Category:IBM Fellows]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:Theoretical chemists]]
+[[Category:20th-century Italian chemists]]
+[[Category:Computational chemists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:21st-century Italian chemists]]
+[[Category:University of Pavia alumni]]
+[[Category:Academic staff of the University of Strasbourg]]
+
+{{physicist-stub}}
+{{chemist-stub}}
+{{Italy-scientist-stub}}

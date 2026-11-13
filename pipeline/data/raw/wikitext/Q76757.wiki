@@ -1,0 +1,153 @@
+{{Short description|German theoretical physicist (1941–2025)}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox scientist
+| name              = Hagen Kleinert
+| image             = Hagmich.jpg
+| image_size        = 200
+| caption           = Photo taken in 2006
+| birth_date        = {{Birth date|df=yes|1941|6|15}}
+| birth_place       = [[Twardogóra|Festenberg]], [[Nazi Germany|Germany]]<br />(now [[Twardogóra]], [[Poland]])
+| death_date        = {{Death date and age|2025|3|7|1941|6|15|df=yes}}
+| death_place       = [[Berlin]], [[Germany]]
+| fields            = Theoretical physics
+| workplaces        = [[Free University of Berlin]]
+| education         = [[Technical University of Hanover]]<br />[[Georgia Institute of Technology]]<br />[[University of Colorado Boulder]]
+| known_for         = [[Path integrals in polymer science]]<br />[[World crystal]]<br />[[Variational perturbation theory]]<br />[[Duru–Kleinert transformation]]
+}}
+'''Hagen Kleinert''' (15 June 1941 – 7 March 2025) was a professor of theoretical physics at the Free University of Berlin, Germany.<ref name=":0" /> 
+
+== Biography ==
+Kleinert was born in [[Festenberg]] on 15 June 1941. Raised in [[Hanover]], he graduated high school in 1960 and obtained his ''[[Vordiplom]]'' with distinction from the [[Technical University of Hanover]] in 1962.<ref name=":0" />
+
+In 1963, Kleinert moved to the United States, earning a Master of Science degree from the [[Georgia Tech|Georgia Institute of Technology]] in 1964. After studying at several intermediate institutions, he obtained his PhD from the [[University of Colorado Boulder]] in 1967 under the supervision of Asim Barut.<ref name=":0" />
+
+He then returned to Germany and joined [[Freie Universität Berlin]], where he finished his [[habilitation]] and became an associate professor in 1969. Promoted to full professor in 1976, he worked there until retiring in 2009. He died on 7 March 2025.<ref name=":0" />
+
+==Research==
+Kleinert collaborated with [[Richard Feynman]]<ref>{{cite journal
+| title = Travailler avec Feynman
+| author = Kleinert H.
+| journal = Pour la Science
+| volume = 19
+| pages = 89–95
+| year = 2004
+| url = http://users.physik.fu-berlin.de/~kleinert/feynman/feynmanw-Dateien/FEYNMAN_CH11_30avr.pdf
+| archive-date = 26 November 2022
+| access-date = 8 May 2009
+| archive-url = https://web.archive.org/web/20221126192251/http://users.physik.fu-berlin.de/~kleinert/feynman/feynmanw-Dateien/FEYNMAN_CH11_30avr.pdf
+}}</ref> in some of Feynman's final work, developing a method to approximate quantum-mechanical [[Partition function (statistical mechanics)|partition functions]] using classical [[Distribution function (physics)|distribution functions]].<ref>{{cite journal
+| title = Effective classical partition functions
+| author = [[Richard P. Feynman|Feynman R.P.]], Kleinert H.
+| journal = Physical Review A
+| volume = 34
+| issue = 6
+| pages = 5080–5084
+| year = 1986
+| doi = 10.1103/PhysRevA.34.5080
+| url = http://www.physik.fu-berlin.de/~kleinert/159/159.pdf
+| pmid = 9897894
+| bibcode = 1986PhRvA..34.5080F
+| archive-date = 12 March 2020
+| access-date = 4 March 2008
+| archive-url = https://web.archive.org/web/20200312135004/http://users.physik.fu-berlin.de/~kleinert/159/159.pdf
+}}</ref><ref name=":0" /> This led to [[variational perturbation theory]], which enables a calculation of [[Critical exponent|critical exponents]]<ref>
+Kleinert, H., [http://www.physik.fu-berlin.de/~kleinert/279/279.pdf "Critical exponents from seven-loop strong-coupling φ4 theory in three dimensions"]. [[Physical Review]] D 60, 085001 (1999)</ref> near second-order [[phase transition]]s. The result was later confirmed for the [[lambda point]] of helium in experiments conducted at zero gravity.<ref>{{cite journal
+ |title        = Specific heat of liquid helium in zero gravity very near the lambda point
+ |author       = Lipa J.A.
+ |journal      = Physical Review B
+ |volume       = 68
+ |issue        = 17
+ |article-number         = 174518
+ |year         = 2003
+ |doi          = 10.1103/PhysRevB.68.174518
+ |url          = http://www.physik.fu-berlin.de/~kleinert/papers/lipa.pdf
+ |last2        = Nissen
+ |first2       = J.
+ |last3        = Stricker
+ |first3       = D.
+ |last4        = Swanson
+ |first4       = D.
+ |last5        = Chui
+ |first5       = T.
+ |arxiv        = cond-mat/0310163
+ |bibcode      = 2003PhRvB..68q4518L
+ |s2cid        = 55646571
+ |archive-date = 12 March 2020
+ |access-date  = 4 March 2008
+ |archive-url  = https://web.archive.org/web/20200312135109/http://users.physik.fu-berlin.de/~kleinert/papers/lipa.pdf
+ }}</ref>
+
+Together with [[İsmail Hakkı Duru|İsmail Duru]], Kleinert developed the [[Duru–Kleinert transformation]], an alternative to Feynman's time-sliced path integral construction, which can be used to solve the [[Path integral formulation|path integral]] formulations of the [[hydrogen]] atom and the centrifugal barrier.<ref>{{cite journal
+| title = Solution of the path integral for the H-atom
+| author1 = Duru I.H.
+| author2 = Kleinert H.
+| journal = Physics Letters B
+| volume = 84
+| issue = 2
+| pages = 185–188
+| year = 1979
+| doi = 10.1016/0370-2693(79)90280-6
+| url = http://www.physik.fu-berlin.de/~kleinert/kleiner_re65/65.pdf
+| bibcode = 1979PhLB...84..185D
+| archive-date = 9 March 2008
+| access-date = 16 February 2005
+| archive-url = https://web.archive.org/web/20080309160840/http://www.physik.fu-berlin.de/~kleinert/kleiner_re65/65.pdf
+}}</ref><ref>{{cite journal
+| title = Quantum Mechanics of H-Atom from Path Integrals
+| author1 = Duru I.H.
+| author2 = Kleinert H.
+| journal = Fortschr. Phys.
+| volume = 30
+| issue = 2
+| pages = 401–435
+| year = 1982
+| doi = 10.1002/prop.19820300802
+| url = http://www.physik.fu-berlin.de/~kleinert/kleiner_re83/83.pdf
+| bibcode = 1982ForPh..30..401D
+| archive-date = 27 June 2007
+| access-date = 16 February 2005
+| archive-url = https://web.archive.org/web/20070627191646/http://www.physik.fu-berlin.de/~kleinert/kleiner_re83/83.pdf
+}}</ref><ref name=":0" />
+
+Kleinert published over 400 articles, half of which were single-author papers.<ref name=":0">{{Cite web |date=2025-08-28 |title=Obituary for Hagen Kleinert |url=https://www.physik.fu-berlin.de/en/fachbereich/nachruf/2025-hagen-kleinert.html |access-date=2026-07-22 |website=www.physik.fu-berlin.de |language=en}}</ref> The topics include [[mathematical physics]] and the [[physics]] of [[elementary particle]]s, [[Atomic nucleus|nuclei]], [[solid|solid state]] systems, [[liquid crystal]]s, [[biomembrane]]s, [[microemulsion]]s, [[polymer]]s, and the theory of [[financial markets]].<ref>{{Cite web |last=Kleinert |first=Michael |title=Homepage of Hagen Kleinert |url=http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=articles&page=all |archive-url=https://web.archive.org/web/20191206130744/http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=articles&page=all |archive-date=2019-12-06 |access-date=2026-07-20 |website=users.physik.fu-berlin.de}}</ref> He also wrote several review articles and multiple monographs.<ref>{{cite journal
+| title = Book Reviews
+| author = Henry B.I.
+| journal = Australian Physics
+| volume = 44
+| issue = 3
+| page = 110
+| year = 2007
+| url = http://www.physik.fu-berlin.de/~kleinert/b5/reviews/picrithenry.doc
+| archive-date = 14 April 2020
+| access-date = 8 February 2008
+| archive-url = https://web.archive.org/web/20200414060953/http://users.physik.fu-berlin.de/~kleinert/b5/reviews/picrithenry.doc
+}}</ref> His book on path integrals has become a standard reference work.<ref name="j441">{{cite book |last=Kleinert |first=Hagen |url=https://www.worldscientific.com/worldscibooks/10.1142/5057 |title=Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets |date=2004 |publisher=World Scientific |isbn=978-981-238-106-4 |edition=3rd |doi=10.1142/5057 |access-date=2026-07-22}}</ref><ref name=":0" />
+
+== Awards ==
+In 2008, Kleinert received the [[Max Born Medal and Prize]] of the [[German Physical Society]] for his contributions to theoretical physics. The award recognized his work on path integrals and gauge field theories in both particle and condensed matter physics.<ref>{{Cite web |title=Preisträgerinnen und Preisträger |url=https://www.dpg-physik.de/auszeichnungen/dpg-preise-mit-anderen-organisationen/max-born-preis-und-medaille/preistraeger |access-date=2026-07-22 |website=DPG |language=en}}</ref>
+
+On the occasion of his 60th birthday in 2001, a [[Festschrift]] titled ''Fluctuating Paths and Fields'' was dedicated to Kleinert.<ref>{{Cite book |title=Fluctuating Paths and Fields: Festschrift Dedicated to Hagen Kleinert on the Occasion of His 60th Birthday |publisher=World Scientific |year=2001 |isbn=978-981-281-124-0 |editor1-last=Janke |editor1-first=Wolfhard |location=Singapore |doi=10.1142/4726 |editor2-last=Pelster |editor2-first=Axel |editor3-last=Schmidt |editor3-first=Hans-Jürgen |editor4-last=Bachmann |editor4-first=Michael}}</ref>
+
+== Books ==
+* ''Gauge Fields in Condensed Matter'', Vol. I,  " Superflow and Vortex Lines", pp.&nbsp;1–742, Vol. II,  "Stresses and Defects", pp.&nbsp;743–1456,  [https://web.archive.org/web/20100113041810/http://worldscibooks.com/physics/0356.html World Scientific (Singapore, 1989)]; Paperback {{ISBN|9971-5-0210-0}} '' (also available online: [http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents1.html Vol. I] {{Webarchive|url=https://web.archive.org/web/20080527174206/http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents1.html |date=27 May 2008 }} and [http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents2.html Vol. II] {{Webarchive|url=https://web.archive.org/web/20080527174211/http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents2.html |date=27 May 2008 }})''
+* ''Critical Properties of φ<sup>4</sup>-Theories'', [https://web.archive.org/web/20080226151023/http://www.worldscibooks.com/physics/4733.html World Scientific (Singapore, 2001)]; Paperback {{ISBN|981-02-4658-7}}'' (also available [http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=6 online] {{Webarchive|url=https://web.archive.org/web/20110716075110/http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=6 |date=16 July 2011 }}) (together with V. Schulte-Frohlinde)''
+* ''Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets'', 5th edition, [https://web.archive.org/web/20090424041920/http://www.worldscibooks.com/physics/7305.html World Scientific (Singapore, 2009)] (also available [http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=11 online] {{Webarchive|url=https://web.archive.org/web/20090101070536/http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=11 |date=1 January 2009 }})
+* ''Multivalued Fields in Condensed Matter, Electromagnetism, and Gravitation'',  [https://web.archive.org/web/20080315225354/http://www.worldscibooks.com/physics/6742.html World Scientific (Singapore, 2008)] (also available [http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=9 online] {{Webarchive|url=https://web.archive.org/web/20090318161544/http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=9 |date=18 March 2009 }})
+* ''Proceedings of the [http://www.icra.it/MG/mg11 Eleventh Marcel Grossmann Meeting] on [[General Relativity]]'',  [https://web.archive.org/web/20110629121210/http://www.worldscibooks.com/physics/6997.html World Scientific (Singapore, 2008)] (together with R.T. Jantzen)
+* ''Particles and Quantum Fields'',  [http://www.worldscientific.com/worldscibooks/10.1142/9915 World Scientific (Singapore, 2016)] (also available [https://web.archive.org/web/20160617145018/http://users.physik.fu-berlin.de/~kleinert/kleinert/?p=booklist&details=12 online])
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kleinert, Hagen}}
+[[Category:1941 births]]
+[[Category:2025 deaths]]
+[[Category:People from Twardogóra]]
+[[Category:People from the Province of Lower Silesia]]
+[[Category:20th-century German physicists]]
+[[Category:Leibniz University Hannover alumni]]
+[[Category:Georgia Tech alumni]]
+[[Category:Academic staff of the Free University of Berlin]]
+[[Category:21st-century German physicists]]

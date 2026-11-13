@@ -1,0 +1,117 @@
+{{Infobox scientist
+| name              = Ran Canetti
+| image             = 
+| image_size        = 
+| birth_date        = {{birth year and age|1962}}
+| birth_place       = [[Israel]]
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| ethnicity         = 
+| field             = [[Cryptography]]
+| workplaces        = {{Plainlist|
+*[[Boston University]]
+*[[Tel Aviv University]]
+}}
+| education         = {{Plainlist|
+*[[Technion]] (BA, MSc)
+*[[Weizmann Institute]] (PhD)
+}}
+| doctoral_advisor  = [[Oded Goldreich]]
+| doctoral_students = 
+| known_for         = Keyed-Hash Message Authentication Code ([[HMAC]])<br>[[Universal composability]] (UC) security
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| religion          = 
+| signature         = 
+| footnotes         = 
+| native_name       = רן קנטי
+}}
+
+'''Ran Canetti''' ({{Langx|he|רן קנטי}}) is an Israeli cryptographer. He is a professor of [[Computer science|Computer Science]] at [[Boston University]],<ref>{{Cite web|url=https://www.bu.edu/cs/ran-canetti/|title=Ran Canetti {{!}} Computer Science}}</ref> a director of the [[Check Point]] Institute for Information Security<ref>{{Cite web|url=http://cpiis.cs.tau.ac.il/people/|title=The Check Point Institute for Information Security |work=CPIIS }}</ref> at [[Tel-Aviv University]], and a director of the Center for Reliable Information System and [[Cyber Security]] at Boston University. 
+He is known for work spanning multiple areas of cryptography, with an emphasis on the design, analysis and use of cryptographic protocols.<ref>{{Cite web|url=https://www.researchgate.net/search?q=ran%20canetti|title=Ran Canetti {{!}} ResearchGate}}</ref>
+
+== Biography ==
+Canetti was born in 1962 in [[Tel Aviv]]. He received a BA in computer science in 1989, a BA in physics in 1990, and an M.Sc. in computer science in 1991, all from the [[Technion – Israel Institute of Technology|Technion]]. He received a PhD in 1995 from the [[Weizmann Institute of Science|Weizmann Institute]] advised by [[Oded Goldreich]].<ref>{{Cite web|url=http://www.genealogy.ams.org/id.php?id=19236|title=Ran Canetti - The Mathematics Genealogy Project|website=www.genealogy.ams.org|access-date=2019-02-27}}</ref> From 1995 to 1996, he was a postdoctoral researcher at [[Massachusetts Institute of Technology|MIT]] working with [[Shafi Goldwasser]]. He then joined [[IBM]]’s [[Thomas J. Watson Research Center|T.J. Watson Research Center]] and was a research staff member until 2008.
+
+Since July 2011, Canetti has been a professor in the Department of Computer Science at Boston University, and since September 2011 he has been the director for research at the Center for Reliable Information Systems and Cyber Security (RISCS) at Boston University.<ref>{{Cite web|url=https://www.bu.edu/hic/profile/ran-canetti/|title=Ran Canetti {{!}} Rafik Hariri Institute for Computing and Computational Science & Engineering|website=www.bu.edu|access-date=2019-02-27}}</ref> He is currently the head of the Check Point Institute of Information Security at Tel Aviv University, an associate editor for the Journal of Cryptology and for Information and Computation,<ref>{{Cite web|url=https://www.springer.com/computer/theoretical+computer+science/journal/145?detailsPage=editorialBoard|title=Journal of Cryptology|access-date=2019-02-27|archive-date=2010-09-15|archive-url=https://web.archive.org/web/20100915034221/http://www.springer.com/computer/theoretical+computer+science/journal/145?detailsPage=editorialBoard|url-status=dead}}</ref> and an advisor at Identiq, a peer-to-peer identity validation network.<ref>{{Cite web|title=About Identiq: Anonymous peer-to-peer identity validation|url=https://www.identiq.com/about|access-date=2021-09-15|website=www.identiq.com|language=en}}</ref>
+
+Canetti is known for contributions to the theory and practice of cryptography. In 1996, along with [[Mihir Bellare]] and Hugo Krawczyk, he introduced the Keyed-Hash [[Message authentication code|Message Authentication Code]] (HMAC)<ref>{{Citation|last1=Bellare|first1=Mihir|chapter=Keying Hash Functions for Message Authentication|date=1996|title=Advances in Cryptology – CRYPTO '96|pages=1–15|publisher=Springer Berlin Heidelberg|isbn=9783540615125|last2=Canetti|first2=Ran|last3=Krawczyk|first3=Hugo|doi=10.1007/3-540-68697-5_1|doi-access=free}}</ref> and the formulation of the Universally Composable Security framework, which allows analyzing security of cryptographic protocols in a modular and robust way.
+
+== Recognition ==
+Canetti is the recipient of the RSA Award for Excellence in Mathematics (2018). He is a Fellow of the Association of Cryptologic Research.<ref>{{Cite web|url=https://www.iacr.org/fellows/2014/canetti.html|title=Ran Canetti, IACR Fellow|website=www.iacr.org|access-date=2019-02-27}}</ref> He received the IBM Research Outstanding Innovation Award in 2006, the IBM Corporate Award in 2005, the IBM Research Division Award in 1999, two IBM Best Paper Awards and the Kennedy Thesis Award from The Weizmann Institute.
+
+=== Awards ===
+* [[RSA Award for Excellence in Mathematics]] 2018<ref>{{Cite web|url=http://www.bu.edu/research/articles/ran-canetti-honored-for-cryptography-innovation/|title=Ran Canetti Honored for Cryptography Innovation|website=www.bu.edu|language=en|access-date=2019-02-27}}</ref>
+* IBM Research Outstanding Innovation Award, 2006. Given for work on sound foundations for modern cryptography.
+* IBM Corporate Award, 2005. Given for the continued impact of the HMAC algorithm. 
+* IBM Research Best Paper Award, 2004<ref>{{Cite web|url=https://researcher.watson.ibm.com/researcher/view_group.php?id=5855&mhq=ran%20canetti&mhsrc=ibmsearch_a|title=Pat Goldberg Memorial Best Paper Awards - IBM|date=2016-07-25|website=researcher.watson.ibm.com|language=en-US|access-date=2019-02-27}}</ref>
+* IBM Research Outstanding Innovation Award, 2004
+* IBM Research Best Paper Award, 2001<ref>{{Cite web|url=https://researcher.watson.ibm.com/researcher/view_group.php?id=5855&mhq=ran%20canetti&mhsrc=ibmsearch_a|title=Pat Goldberg Memorial Best Paper Awards - IBM|date=2016-07-25|website=researcher.watson.ibm.com|language=en-US|access-date=2019-02-27}}</ref>
+* IBM Research Division Award, 1999. Given for contribution to the IPSEC standard. 
+* IBM Innovation Award, 1997. Given for the design of the HMAC message authentication function. 
+* The Kennedy Thesis Award, The Weizmann Institute, 1996
+* The Rothschild post-doctoral scholarship ([[Rothschild Fellowship]]), 1995-6<ref>{{Cite web|url=https://www.yadhanadiv.org.il/rothschild-fellows|title=Rothschild Fellowship|website=www.yadhanadiv.org.il|language=en|access-date=2019-02-27}}</ref>
+* The Gutwirth Special Excellence Fellowship, the Technion, 1992
+
+=== Public appearances ===
+Canetti has spoken at major conferences worldwide including the below selection of keynote talks:
+
+* '''Composable Formal Security Analysis: Juggling Soundness, Simplicity and Efficiency''', given at ICALP 2008, Reykjavik, Iceland 2008. See the accompanying paper<ref>{{Cite web|url=https://www.researchgate.net/publication/220479001|title=Universally Composable Symbolic Security Analysis|website=ResearchGate|language=en|access-date=2019-02-27}}</ref>
+* '''Obtaining Universally Composable Security: Towards the Bare Bones of Trust''', given at AsiaCrypt 2007, Kuching, Malaysia, December 2007,  Slides (PDF). See also accompanying paper.<ref>{{Cite journal|url=https://eprint.iacr.org/2007/475.pdf|title=Obtaining Universally Composable Security: Towards the Bare Bones of Trust|last=Canetti|first=Ran|date=December 15, 2007}}</ref>
+* '''How to Obtain and Assert Composable Security''', given at the 16th Usenix Security Symposium, Boston, MA, August 2007, Slides (PDF)<ref>{{Cite web|url=https://www.cs.tau.ac.il/~canetti/materials/ac07.pdf|title=Obtaining Universally Composable Security: Towards the Bare Bones of Trust|last=Canetti|first=Ran}}</ref> and audio recording (mp3)
+* '''Universally Composable Security with Global Set-Up''', given at IPAM Program on Applications and Foundations of Cryptography and Computer Security UCLA, November 2006, Slides (PDF)<ref>{{Cite web|url=https://www.cs.cornell.edu/~rafael/papers/cdpw.pdf|title=Universally Composable Security with Global Setup|last=Canetti|first=Ran|date=November 20, 2006}}</ref>
+* '''Security and Composition of Cryptographic Protocols: A Tutorial''', given at IPAM Program on Applications and Foundations of Cryptography and Computer Security UCLA, September, 2006. Slides (PDF).<ref>{{Cite web|url=https://www.cs.tau.ac.il/~canetti/materials/sp09-sem-lec9.pdf|title=Security and Composition of Cryptographic Protocols: A Tutorial|last=Canetti|first=Ran}}</ref> See also accompanying paper.<ref>{{Cite web|url=https://www.researchgate.net/publication/220556089|title=Security and composition of cryptographic protocols: A tutorial|website=ResearchGate|language=en|access-date=2019-02-27}}</ref>
+* '''The HMAC Construction: A Decade Later''', given at MIT CIS Seminar, December 2005.<ref>{{Cite web|url=https://calendar.csail.mit.edu/events/936|title=CSAIL Calendar: The HMAC Construction: A Decade Later|website=calendar.csail.mit.edu|access-date=2019-02-27}}</ref> Slides (PDF)<ref>{{Cite web|url=https://www.cs.tau.ac.il/~canetti/materials/hmac-10.pdf|title=The HMAC Construction: A Decade Later|last=Canetti|first=Ran}}</ref>
+
+== Personal life ==
+Canetti lives in Brookline, Massachusetts. He is married to [[Ronitt Rubinfeld]]. They have two daughters.
+
+== Selected works==
+=== Patents ===
+Canetti's registered patents and recognized and authorized standards include:
+
+* R. Canetti, S. Halevi, M. Steiner. Mitigating Dictionary Attacks on Password-Based Local Storage. Patent application submitted August 2006.<ref>{{Citation|title=Mitigating dictionary attacks on password-protected local storage|url=https://patents.google.com/patent/US20080049939A1/en|access-date=2019-02-27}}</ref>
+* R. Canetti, M. Charikar, R. Kumar, S. Rajagopalan, A. Sahai, A. Tomkins. Non-Transferable Anonymous Credentials. U.S. Patent No. 7,222,362, May 2007.<ref>{{Citation|title=Non-transferable anonymous credentials|url=https://patents.google.com/patent/US7222362B1/en|access-date=2019-02-27}}</ref>
+* R. Canetti and A. Herzberg, A Mechanism for Keeping a Key Secret from Mobile Eavesdroppers. US patent No. 5,412,723, May 1995.<ref>{{Citation|title=Mechanism for keeping a key secret from mobile eavesdroppers|url=https://patents.google.com/patent/US5412723A/en|access-date=2019-02-27}}</ref>
+* R. Canetti and A. Herzberg, Secure Communication and Computation in an Insecure Environment. US patent No. 5,469,507, November 1995.<ref>{{Citation|title=Secure communication and computation in an insecure environment|url=https://patents.google.com/patent/US5469507A/en|access-date=2019-02-27}}</ref>
+
+=== Standards ===
+* M. Baugher, R. Canetti, L. Dondeti, F. Lindholm, “Group Key Management Architecture,” Internet Engineering Task Force <nowiki>RFC 4046</nowiki>, 2005.<ref>{{Cite journal|url=https://tools.ietf.org/html/rfc4046.html|title=Multicast Security (MSEC) Group Key Management Architecture|last1=Dondeti|first1=Lakshminath R.|last2=Lindholm|first2=Fredrik|website=tools.ietf.org|language=en|access-date=2019-02-27|last3=Baugher|first3=Mark|year=2005 |doi=10.17487/RFC4046 |url-access=subscription}}</ref>
+* A. Perrig, R. Canetti, B. Briscoe, D. Tygar, D. Song, “TESLA: Multicast Source Authentication Transform”, Internet Engineering Task Force <nowiki>RFC 4082</nowiki>, 2005.<ref>{{Cite web|url=https://www.ietf.org/rfc/rfc4082.txt|title=A. Perrig, R. Canetti, B. Briscoe, D. Tygar, D. Song, "TESLA: Multicast Source Authentication Transform", Internet Engineering Task Force}}</ref>
+* H. Krawczyk, M. Bellare and R. Canetti, “HMAC: Keyed-Hashing for Message Authentication”, Internet Engineering Task Force <nowiki>RFC 2104</nowiki>, February 1997.<ref>{{Cite journal|url=https://tools.ietf.org/html/rfc2104.html|title=HMAC: Keyed-Hashing for Message Authentication|last1=Krawczyk|first1=Hugo|last2=Canetti|first2=Ran|website=tools.ietf.org|language=en|access-date=2019-02-27|last3=Bellare|first3=Mihir|year=1997 |doi=10.17487/RFC2104 |url-access=subscription}}</ref> Also appears as an American National Standard Institute (ANSI) standard X9.71 (2000),<ref>{{Cite web|url=https://webstore.ansi.org/Standards/ASCX9/ANSIX9712000|title=ANSI X9.71-2000 - Keyed Hash Message Authentication Code (MAC)|website=webstore.ansi.org|access-date=2019-02-27}}</ref> and as a Federal Information Processing Standard No. 198,<ref>{{Cite web|url=https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.198-1.pdf|title=Federal Information Processing Standard No. 198}}</ref> National Institute of Standards and Technology (NIST), 2002.
+
+=== Books ===
+Canetti has also authored several books, including: 
+* ''Security and Composition of Cryptographic Protocols''<ref>{{Cite journal|last=Canetti|first=Ran|title=Security and Composition of Cryptographic Protocols: A Tutorial (Part I)|journal=SIGACT News|volume=37|issue=3|pages=67–92|doi=10.1145/1165555.1165570|s2cid=1898931 |issn=0163-5700}}</ref>
+* A Chapter in ''Secure Multiparty Computation'', Ed. Manoj Prabhakaran and Amit Sahai.<ref>{{Cite book|title=Secure Multiparty Computation|id={{ASIN|1614991685|country=ca}}}}</ref>
+* Cryptology and Information Security Series, IOS Press, 2013.<ref>{{Cite web|url=https://www.iospress.nl/bookserie/cryptology-and-information-security-series/|title=Cryptology and Information Security Series|work=IOS Press |date=February 2017 |language=en-US|access-date=2019-02-27}}</ref>
+* A chapter in the ''Journal of Cryptology Special Issue on Byzantine Agreement''. R. Canetti, (Ed.) Vol. 18, No. 3, 2005<ref>{{Cite journal|url=https://eprint.iacr.org/2006/082.pdf|title=Journal of Cryptology Special Issue on the Byzantine Agreement|year=2006|last1=Ramasamy|first1=Harigovind V.|last2=Cachin|first2=Christian}}</ref>
+* ''Chapter on the Decisional Diffie-Hellman Assumption. Encyclopedia of Cryptography and Security'', H. van Tilborg, Henk (Ed.), Springer-Verlag, 2005.<ref>{{Cite book|doi=10.1007/978-1-4419-5906-5|year = 2011|isbn = 978-1-4419-5905-8|last1 = Van Tilborg|first1 = Henk C. A.|last2 = Jajodia|first2 = Sushil|editor-first1=Henk C. A. |editor-first2=Sushil |editor-last1=Van Tilborg |editor-last2=Jajodia |title=Encyclopedia of Cryptography and Security }}</ref>
+
+=== Publications ===
+* [[Mihir Bellare|Bellare, Mihir]]; Canetti, Ran; Krawczyk, Hugo. Keying Hash Functions for Message Authentication, 1996<ref>{{Cite book|last1=Bellare|first1=Mihir|last2=Canetti|first2=Ran|last3=Krawczyk|first3=Hugo|title=Advances in Cryptology — CRYPTO '96 |chapter=Keying Hash Functions for Message Authentication |date=1996|editor-last=Koblitz|editor-first=Neal|volume=1109|series=Lecture Notes in Computer Science|language=en|publisher=Springer Berlin Heidelberg|pages=1–15|doi=10.1007/3-540-68697-5_1|isbn=9783540686972|doi-access=free}}</ref>
+* R. Canetti, Universally Composable Security: A New Paradigm for Cryptographic Protocols. 42nd FOCS, 2001<ref>{{Cite journal|url=https://eprint.iacr.org/2000/067.pdf|title=Universally Composable Security: A New Paradigm for Cryptographic Protocols|last=Canetti|first=Ran|year=2000}}</ref>
+* N. Bitansky, R. Canetti, O. Paneth, A. Rosen. On the Existence of Extractable One-Way Functions, STOC, 2014<ref>{{Cite journal|url=https://eprint.iacr.org/2014/402.pdf|title=On the Existence of Extractable One-Way Functions|last=Canetti|first=Ran|date=May 31, 2014}}</ref>
+* Ran Canetti, Yilei Chen, Leonid Reyzin, Ron D. Rothblum 2018: Fiat-Shamir and Correlation Intractability from Strong KDM-Secure Encryption. EUROCRYPT(1): 91-122.<ref>{{Cite journal|url=https://eprint.iacr.org/2018/131.pdf|title=Fiat-Shamir and Correlation Intractability from Strong KDM-Secure Encryption|last=Canetti|first=Ran|date=February 4, 2018}}</ref>
+* Ran Canetti, Ling Cheung, Dilsun Kirli Kaynar, Moses Liskov, Nancy A. Lynch, Olivier Pereira, Roberto Segala (2018): Task-structured Probabilistic I/O Automata. J. Comput. Syst. Sci. 94: 63-97.<ref>{{Cite web|url=https://perso.uclouvain.be/olivier.pereira/wodes06.pdf|title=Task Structured Probabilistic I/O Automata|last=Canetti|first=Ran}}</ref>
+
+Some of Canetti's past activities include being a co-organizer of the Crypto in the Clouds Workshop at MIT (2009), co-organizer of the CPIIS TAU/IDC Workshop on Electronic voting (2009), co-organizer of the Theoretical Foundations of Practical Information Security workshop (2008). He was also the Program Committee chair for the Theory of Cryptography Conference (2008) and for eight years was the co-chair of the Multicast Security Working Group at the Internet Engineering Task Force (2000–2008).
+
+Ran Canetti's Full List of Publications (1990–2018)<ref>{{Cite web|url=https://dblp.uni-trier.de/pers/hd/c/Canetti:Ran|title=Full List of Publications (1990-2018)|last=Canetti|first=Ran|website=dblp.uni-trier.de|language=en|access-date=2019-02-27}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Canetti, Ran}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:Boston University faculty]]
+[[Category:IBM people]]
+[[Category:Israeli cryptographers]]
+[[Category:Israeli computer scientists]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:Academic staff of Tel Aviv University]]
+[[Category:Weizmann Institute of Science alumni]]

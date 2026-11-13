@@ -1,0 +1,58 @@
+{{short description|Israeli Professor}}
+{{Infobox scientist
+| name              = Nir Friedman
+| native_name       = ניר פרידמן
+| native_name_lang  = he
+| image             = 
+| alt               = 
+| caption           = Do you have a picture of Nir Friedman? Please, post here.
+| birth_date        = <!-- {{Birth date|YYYY|MM|DD}} -->
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Machine Learning]] and [[Computational Biology]]
+| workplaces        = [[Hebrew University of Jerusalem]]
+| education         = [[Tel Aviv University]], [[Weizmann Institute of Science]], [[Stanford University]]
+| doctoral_advisor  = [[Joseph Halpern]]
+| academic_advisors = [[David Harel]], [[Stuart J. Russell|Stuart Russell]]
+| doctoral_students = 
+| notable_students  = [[Dana Pe'er]]
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Michael Bruno (economist)|Michael Bruno]] Memorial Award (2010),<ref>{{cite web|url=http://www.yadhanadiv.org.il/recipient/nir-friedman|title=Nir Friedman - Yad Hanadiv|website=Yadhanadiv.org.il|access-date=25 May 2016|archive-url=https://web.archive.org/web/20160625132958/http://www.yadhanadiv.org.il/recipient/nir-friedman|archive-date=25 June 2016|url-status=dead}}</ref> [[European Research Council]] Research Award (2009–2014),  Juludan Prize (2007), Sir [[Zelman Cowen]] Universities Fund Prize (2007)<ref>{{cite web|url=https://www.jpost.com/Israel/Article.aspx?id=62988|title=Young HU biologist wins Australian award|work=The Jerusalem Post - JPost.com|access-date=25 May 2016}}</ref>
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+'''Nir Friedman''' ({{Langx|he|ניר פרידמן}}; born 1967) is an Israeli [[professor]] of [[computer science]] and [[biology]] at the [[Hebrew University of Jerusalem]].<ref name=":0">{{Cite web |title=Nir Friedman |url=http://www.cs.huji.ac.il/~nir/ |archive-url=https://web.archive.org/web/20060103152702/http://www.cs.huji.ac.il/~nir/ |archive-date=2006-01-03 |access-date=2026-03-18 |website=www.cs.huji.ac.il}}</ref><ref>{{Cite web |title=Nir Friedman’s Lab |url=http://systemsbio.cs.huji.ac.il/Friedmans_Lab/Home.html |archive-url=https://web.archive.org/web/20111214095021/http://systemsbio.cs.huji.ac.il/Friedmans_Lab/Home.html |archive-date=2011-12-14 |access-date=2026-03-18 |website=systemsbio.cs.huji.ac.il |language=en}}</ref>
+
+His research combines [[machine learning]] and [[statistical learning|statistical learning]] with [[systems biology]], specifically in the fields of [[gene regulation|gene regulation]], [[transcription (genetics)|transcription]] and [[chromatin]].
+
+==Education and research==
+Friedman earned his BSc degree from [[Tel Aviv University]] (1987) and his MSc from the [[Weizmann Institute of Science]] (1992).<ref>{{Cite web |last=Friedman |first=Nir |title=Curriculum Vitae—Nir Friedman |url=http://www.cs.huji.ac.il/~nir/resume.pdf |archive-url=https://web.archive.org/web/20060708143806/http://www.cs.huji.ac.il/~nir/resume.pdf |archive-date=2006-07-08 |access-date=2026-03-18 |website=www.cs.huji.ac.il}}</ref> In 1997, he completed his Ph.D. at [[Stanford]] under the supervision of [[Joseph Halpern]], in the field of [[artificial intelligence]].<ref>{{cite web|url=http://www-robotics.stanford.edu/~nir/Abstracts/Thesis.html |title=Modeling Beliefs in Dynamic Systems |access-date=October 22, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120425083007/http://www-robotics.stanford.edu/~nir/Abstracts/Thesis.html |archive-date=April 25, 2012 |date=1997|last=Friedman|first=N.}}</ref>
+
+After some [[postdoctoral]] work at the [[University of California, Berkeley]], he accepted a faculty position at the School of Computer Science,<ref>{{cite web|url=http://www.cs.huji.ac.il|title=The Rachel and Selim Benin School of Computer Science and Engineering|website=Cs.huji.ac.il|access-date=25 May 2016}}</ref> the [[Hebrew University of Jerusalem]].
+
+His highly cited research<ref>{{cite web|url=https://scholar.google.com/scholar?q=nir+friedman|title=nir friedman - Google Scholar|website=Scholar.google.com|access-date=25 May 2016}}</ref><ref>{{PubMedAuthorSearch|Friedman|N}}</ref> includes work on Bayesian network classifiers<ref>{{Cite web |title=Bayesian network classifiers |url=http://www.cs.huji.ac.il/~nir/Abstracts/FrGG1.html |archive-url=https://web.archive.org/web/20080111135522/http://www.cs.huji.ac.il/~nir/Abstracts/FrGG1.html |archive-date=2008-01-11 |access-date=2026-03-18 |website=www.cs.huji.ac.il}}</ref> (with [[Danny Geiger]] and [[Moises Goldszmidt]]), Bayesian Structural EM,<ref>{{Cite web |title=The Bayesian structural EM algorithm |url=http://www.cs.huji.ac.il/~nir/Abstracts/Fr2.html |archive-url=https://web.archive.org/web/20070710163620/http://www.cs.huji.ac.il/~nir/Abstracts/Fr2.html |archive-date=2007-07-10 |access-date=2026-03-18 |website=www.cs.huji.ac.il}}</ref> and the use of [[Bayesian network|Bayesian]] methods to analyzing [[gene expression]] data<ref>{{Cite journal | last1 = Friedman | first1 = N. | last2 = Linial | first2 = M. | last3 = Nachman | first3 = I. | last4 = Pe'er | first4 = D. | title = Using Bayesian Networks to Analyze Expression Data | journal = Journal of Computational Biology | volume = 7 | issue = 3–4 | pages = 601–620 | year = 2000 | pmid = 11108481 | doi = 10.1089/106652700750050961| citeseerx = 10.1.1.191.139 }}</ref><ref>{{cite journal | last1 = Segal | first1 = E. | last2 = Shapira | first2 = M. | last3 = Regev | first3 = A. | last4 = Pe'er | first4 = D. | last5 = Botstein | first5 = D. | last6 = Koller | first6 = D. | last7 = Friedman | first7 = N. | doi = 10.1038/ng1165 | title = Module networks: Identifying regulatory modules and their condition-specific regulators from gene expression data | journal = Nature Genetics | volume = 34 | issue = 2 | pages = 166–176 | year = 2003 | pmid =  12740579| s2cid = 6146032 }}</ref><ref>{{Cite journal | last1 = Friedman | first1 = N. | title = Inferring Cellular Networks Using Probabilistic Graphical Models | doi = 10.1126/science.1094068 | journal = Science | volume = 303 | issue = 5659 | pages = 799–805 | year = 2004 | pmid =  14764868| bibcode = 2004Sci...303..799F | s2cid = 6819971 }}</ref><ref>{{Cite journal | last1 = Segal | first1 = E. | last2 = Friedman | first2 = N. | last3 = Koller | first3 = D. | last4 = Regev | first4 = A. | title = A module map showing conditional activity of expression modules in cancer | pmc=2271138 | doi = 10.1038/ng1434 | journal = Nature Genetics | volume = 36 | issue = 10 | pages = 1090–1098 | year = 2004 | pmid =  15448693 | doi-access = free }}</ref> (with [[Aviv Regev]], [[Dana Pe'er]], [[Eran Segal]], [[Daphne Koller]] and [[David Botstein]]). More recent works focus on [[Graphical model|Probabilistic Graphical Models]], reconstructing [[Gene regulatory network|Regulatory Networks]], [[Genetic interactions|Genetic Interactions]], and the role of [[Chromatin]] in Transcriptional Regulation (with [[Oliver J. Rando|Oliver Rando]])<ref name=":0" />
+
+In 2009, Friedman and [[Daphne Koller|Koller]] published a textbook on [[Graphical model|Probabilistic Graphical Models]].<ref>{{cite book |author=Daphne Koller and Nir Friedman|title=Probabilistic Graphical Models|publisher=MIT Press |year=2009|isbn=978-0-262-01319-2}}</ref> Later that year, he joined the Institute of Life Sciences,<ref>{{cite web|url=http://bio.huji.ac.il/eng|title=The Alexander Silberman Institute of Life Sciences|website=Bio.huji.ac.il|access-date=2016-05-25|archive-url=https://web.archive.org/web/20160426002630/http://bio.huji.ac.il/eng/|archive-date=2016-04-26|url-status=dead}}</ref> and opened an experimental lab where he uses advanced robotic tools to study transcriptional regulation in the yeast [[Saccharomyces cerevisiae]].<ref>{{Cite web |title=Robotic Facility |url=http://systemsbio.cs.huji.ac.il/Friedmans_Lab/Robotic_Facility.html |archive-url=https://web.archive.org/web/20120425083518/http://systemsbio.cs.huji.ac.il/Friedmans_Lab/Robotic_Facility.html |archive-date=2012-04-25 |access-date=2026-03-18 |website=systemsbio.cs.huji.ac.il |language=en}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Friedman, Nir}}
+[[Category:Living people]]
+[[Category:Israeli bioinformaticians]]
+[[Category:Systems biologists]]
+[[Category:1967 births]]
+[[Category:Fellows of the International Society for Computational Biology]]

@@ -1,0 +1,71 @@
+{{Short description|Dutch physicist (born 1972)}}
+
+{{Infobox scientist
+| name               = Pieter Kok
+| image              = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size         = 
+| image_upright      = 
+| alt                = 
+| caption            = 
+| birth_date         = {{birth year and age |1972|6}}
+| birth_place        = [[Friesland]], Netherlands
+| death_date         = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place        = 
+| fields             = [[Quantum information theory]]
+| workplaces         = 
+| education          = [[University of Utrecht]]<br />[[University of Wales, Bangor]]
+| thesis_title       = State Preparation in Quantum Optics
+| thesis_url         = https://arxiv.org/abs/quant-ph/0102070
+| thesis_year        = 2001
+| doctoral_advisor   = [[Samuel L. Braunstein]]
+| doctoral_students  = 
+| known_for          = 
+| awards             = 
+}}
+
+'''Pieter Kok''' (born June 1972) is a Dutch physicist and one of the co-developers of quantum [[interferometry|interferometric]] optical lithography. His research specializations include linear optical implementations of [[quantum communication]] and [[Linear optical quantum computing|computation]] protocols, [[quantum teleportation]] and the interpretation of [[Quantum optics|quantum theory]].  
+<ref>"Quantum Computing" in {{cite web |date=6 April 2006 |title=The Material World |url=https://www.bbc.co.uk/radio4/science/thematerialworld_20060406.shtml |website=BBC Radio 4 }}</ref> 
+He is a Professor of Theoretical Physics at the University of Sheffield.<ref>[https://www.youtube.com/watch?app=desktop&v=uz9eLjO2BrA&autoplay=1&rel=0&showinfo=0 Youtube video: The physics of time travel by the University of Sheffield.]</ref>
+
+Professor Kok was born in [[Friesland]], Netherlands, graduated from the [[University of Utrecht]] with a master's degree in Foundations of Quantum Theory, and later completed a PhD in physics from the [[University of Wales, Bangor]] in 2001. He has previously worked in the Quantum Computing Technologies Group at the [[NASA]]/[[Jet Propulsion Laboratory]], in [[Pasadena, California|Pasadena]], [[California]], [[Hewlett-Packard]] Laboratories in [[Bristol]], England and at the [[Department of Materials, University of Oxford]].
+
+== References ==
+{{Reflist}}
+
+==Selected publications==
+*{{cite book |last1=Kok |first1=Pieter |last2=Lovett |first2=Brendon W. |title=Introduction to Optical Quantum Information Processing |date=2010 |isbn=978-1-139-19365-8 }}
+*{{cite book |last1=Kok |first1=Pieter |title=A First Introduction to Quantum Physics |date=2023|publisher=Springer |isbn=978-3-031-16164-3}}
+
+*{{cite journal |last1=Barrett |first1=Sean D. |last2=Kok |first2=Pieter |title=Efficient high-fidelity quantum computation using matter qubits and linear optics |journal=Physical Review A |date=24 June 2005 |volume=71 |issue=6 |article-number=060310 |doi=10.1103/PhysRevA.71.060310 |arxiv=quant-ph/0408040 |bibcode=2005PhRvA..71f0310B |s2cid=119407129 }}
+
+*{{cite journal |last1=Boto |first1=Agedi N. |last2=Kok |first2=Pieter |last3=Abrams |first3=Daniel S. |last4=Braunstein |first4=Samuel L. |last5=Williams |first5=Colin P. |last6=Dowling |first6=Jonathan P. |title=Quantum Interferometric Optical Lithography: Exploiting Entanglement to Beat the Diffraction Limit |journal=Physical Review Letters |date=25 September 2000 |volume=85 |issue=13 |pages=2733–2736 |doi=10.1103/PhysRevLett.85.2733 |pmid=10991220 |arxiv=quant-ph/9912052 |bibcode=2000PhRvL..85.2733B |s2cid=7373285 }}
+
+*{{cite journal |last1=Campbell |first1=Earl T |last2=Fitzsimons |first2=Joseph |last3=Benjamin |first3=Simon C |last4=Kok |first4=Pieter |title=Efficient growth of complex graph states via imperfect path erasure |journal=New Journal of Physics |date=29 June 2007 |volume=9 |issue=6 |page=196 |doi=10.1088/1367-2630/9/6/196 |arxiv=quant-ph/0702209 |bibcode=2007NJPh....9..196C |s2cid=59127514 }}
+
+*{{cite journal |last1=Kok |first1=Pieter |last2=Barrett |first2=Sean D |last3=Spiller |first3=Timothy P |title=Preparing multi-partite entanglement of photons and matter qubits |journal=Journal of Optics B: Quantum and Semiclassical Optics |date=1 July 2005 |volume=7 |issue=7 |pages=S166–S170 |doi=10.1088/1464-4266/7/7/006 |arxiv=quant-ph/0506164 |bibcode=2005JOptB...7S.166K |s2cid=119546665 }}
+
+*{{cite journal |last1=Kok |first1=Pieter |last2=Lovett |first2=Brendon W. |title=Qubits in the pink |journal=Nature |date=November 2006 |volume=444 |issue=7115 |page=49 |doi=10.1038/444049a |pmid=17080080 |doi-access=free }}
+
+*{{cite journal |last1=Kok |first1=Pieter |last2=Munro |first2=W. J. |last3=Nemoto |first3=Kae|author3-link= Kae Nemoto |last4=Ralph |first4=T. C. |last5=Dowling |first5=Jonathan P. |last6=Milburn |first6=G. J. |title=Linear optical quantum computing with photonic qubits |journal=Reviews of Modern Physics |date=24 January 2007 |volume=79 |issue=1 |pages=135–174 |doi=10.1103/RevModPhys.79.135 |arxiv=quant-ph/0512071 |bibcode=2007RvMP...79..135K |s2cid=119335959 }}
+
+== External links ==
+*[https://books.apple.com/gb/book/first-course-in-quantum-mechanics/id914270538?ls=1&mt=13 A First Course in Quantum Mechanics ebook]
+*[https://www.newscientist.com/article/mg18925441-500-quantum-computers-march-of-the-qubits/ New Scientist]
+*[https://www.sheffield.ac.uk/physics/people/academic/pieter-kok University of Sheffield Staff Profile]
+*[http://www.pieter-kok.staff.shef.ac.uk Pieter Kok's Home Page<!-- Bot generated title -->]
+{{Authority control}}
+
+
+{{DEFAULTSORT:Kok, Pieter}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:21st-century Dutch physicists]]
+[[Category:Alumni of Bangor University]]
+[[Category:People from Friesland]]
+[[Category:Dutch theoretical physicists]]
+[[Category:Utrecht University alumni]]
+[[Category:Academics of the University of Sheffield]]
+
+
+{{netherlands-scientist-stub}}
+{{physicist-stub}}

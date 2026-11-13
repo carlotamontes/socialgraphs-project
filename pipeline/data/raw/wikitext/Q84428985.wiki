@@ -1,0 +1,89 @@
+{{Short description|Indian academic}}
+{{Multiple issues|
+{{Independent sources|date=February 2020}}
+{{BLP sources|date=February 2020}}
+}}
+{{Infobox scientist
+| name             = Surya Ganguli
+| field            = Theoretical Neuroscience<br />Theoretical Physics
+| workplaces       = [[Stanford University]]
+| education        = [[University of California, Berkeley]]<br />[[Massachusetts Institute of Technology]]
+| known_for        = [[Deep Learning]]<br />[[Artificial neural network|Neural Network]]s<br />[[Optimization]]
+| doctoral_advisor = [[Petr Hořava (theorist)|Petr Horava]]
+| awards           = [[National Science Foundation CAREER Award]]<br />Simons Investigator Award<br />McKnight Scholarship<br />McDonnell Scholarship<br />COSYNE Top Abstract Award<br />Terman Award<br />Sloan Research Fellowship<br />NIPS Outstanding Paper Award<br />Swartz Fellowship<br />Burroughs-Wellcome Career Award
+| footnotes        = 
+
+| 
+| citizenship = United States
+| image       = 
+| birth_place = Kolkata, India
+}}
+{{Distinguish|Surya Shekhar Ganguly}}
+'''Surya Ganguli''' (born [[Kolkata]], [[India]]) is a university professor at [[Stanford University]] and a visiting research professor at [[Google]]. Ganguli is primarily known for his work on [[neural networks]] and [[deep learning]], although he has also published papers on [[theoretical physics]]. He presently runs the Neural Dynamics and Computation Lab at Stanford, where he aims to reverse engineer how networks of [[neurons]] and [[synapses]] cooperate across multiple scales of space and time to facilitate [[sensory perception]], [[motor control]], [[memory]], and other cognitive functions. He is also known for being a prolific public speaker and lecturer, having been invited to give over 200 talks at various universities, institutes, workshops, conferences, and symposiums since 2005.<ref>{{Cite web |url=https://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/ |title=Stanford University Department of Applied Physics » Surya Ganguli |language=en |access-date=2020-02-05}}</ref><ref>{{Cite web |url=https://ganguli-gang.stanford.edu/pdf/Ganguli.CV.pdf |title=Surya Ganguli CV |last=Ganguli |first=Surya |date=2020-02-05}}</ref>
+
+Ganguli has received numerous awards for his work in the field including a [[National Science Foundation CAREER Award]], the [[Simons Foundation|Simons]] Investigator Award in MMLS, the [[McKnight]] Scholar Award, the [[James S. McDonnell]] Foundation Scholar Award in Human Cognition, a [[Sloan Research Fellowship]], a [[Swartz Fellowship]], the [[Burroughs Wellcome Fund|Burroughs Wellcome]] Career Award at the Scientific Interface, and the [[Terman Award]]. His publications have also won a number of conference awards, such as the [[Conference on Neural Information Processing Systems|NIPS]] 2014 Outstanding Paper award and the [[Cosyne]] 2014 award for the top ranked abstract. Finally, Ganguli has won a number of awards unrelated to his academic publications, such as the Berkeley Outstanding Graduate Instructor award and the [[National Council of Teachers of English]] Award in Writing.<ref>{{Cite web |url=https://med.stanford.edu/profiles/surya-ganguli |title=Surya Ganguli | publisher=Stanford Medicine Profiles |website=med.stanford.edu |access-date=2020-02-05}}</ref>
+
+==Biography==
+In 1993, Surya Ganguli graduated from [[University High School (Irvine, California)|University High School]] in [[Irvine, California]], at the top of his class at the age of 16. He then attended the [[Massachusetts Institute of Technology]], where he spent five years completing bachelor's degrees in [[mathematics]], [[physics]], and [[electrical engineering]] and [[computer science]], as well as a master's degree in the latter. During that time, Ganguli assumed research positions at the Information Mechanics Group at the [[MIT Laboratory for Computer Science]], at the Center for Space Research and the Center for Theoretical Physics at the [[MIT Department of Physics]], and the Information Systems and Technologies Laboratory and the Dynamics of Computation Group at the [[Xerox Palo Alto Research Center]].<ref name="https://ganguli-gang.stanford....">{{Cite web |url=https://ganguli-gang.stanford.edu/pdf/Ganguli.CV.pdf |title=Surya Ganguli CV |last=Ganguli |first=Surya |date=2020-02-05}}</ref><ref>{{Cite web |url=https://www.f6s.com/suryaganguli |title=Surya Ganguli |website=F6S |access-date=2020-02-05}}</ref>
+
+Ganguli then moved on to the [[University of California, Berkeley]], where he completed a master's degree in physics in 2000 and a master's degree in mathematics in 2004. He also completed a PhD in [[string theory]] under Dr. [[Petr Hořava (theorist)|Petr Horava]] at the [[Lawrence Berkeley National Laboratory]] later that year. While at Berkeley, he taught undergraduate courses on [[quantum mechanics]], [[special relativity]], [[statistical physics]], [[electromagnetism]], and [[analytical mechanics]].<ref>{{Cite web |url=https://ganguli-gang.stanford.edu/surya.html |title=Neural Dynamics and Computation Lab |website=ganguli-gang.stanford.edu |access-date=2020-02-05}}</ref><ref>{{Cite web |url=https://behindthetech.libsyn.com/010-surya-ganguli-innovator-in-artificial-intelligence |title=Behind The Tech with Kevin Scott: Surya Ganguli: Innovator in artificial intelligence |website=behindthetech.libsyn.com |language=en |access-date=2020-02-05}}</ref>
+
+Following the completion of his doctorate, Ganguli became a postdoctoral fellow at the [[University of California, San Francisco]], a position he held until 2012. He had authored and co-authored a number of papers on theoretical neuroscience prior to this in the late 2000s (collaborating with [[Haim Sompolinsky]], [[Peter Latham (neuroscientist)|Peter Latham]], and [[Ken Miller (neuroscientist)|Ken Miller]] in the process) and further taught a course on advanced theoretical neuroscience with [[Larry Abbott]], [[Stefano Fusi]], and Ken Miller in 2008, but it was at this point that Ganguli formally transitioned into theoretical neuroscience, assuming the position at the [[Sloan-Swartz Center for Theoretical Neurobiology]].<ref name="https://ganguli-gang.stanford...." /><ref>{{Cite web |url=http://thesparkacademy.org/surya-ganguli |title=surya-ganguli |website=The Spark Academy |language=en-US |access-date=2020-02-05}}</ref>
+
+As of 2012, Ganguli is an assistant professor at the department of applied physics, the department of neurobiology, the department of computer science, and the department of electrical engineering at [[Stanford University]]. In 2017, he also assumed a visiting research professorship at [[Google]]'s [[Google Brain]] [[Deep Learning]] Team.<ref>{{Cite web |url=https://www.cifar.ca/bio |title=Bio - |website=CIFAR |language=en |access-date=2020-02-05}}</ref><ref>{{Cite web |url=https://profiles.stanford.edu/surya-ganguli |title=Surya Ganguli's Profile | publisher=Stanford Profiles |website=profiles.stanford.edu |language=en |access-date=2020-02-05}}</ref>
+
+==Select publications==
+Surya Ganguli has an [https://scholar.google.com/citations?user=rF2VvOgAAAAJ&hl=en extensive publication record].<ref>{{Cite web |url=https://dblp.org/pers/g/Ganguli:Surya.html |title=dblp: Surya Ganguli |website=dblp.org |language=en |access-date=2020-02-05}}</ref> A selection of works is listed below:
+
+* {{Cite conference |last1=Dauphin |first1=Yann N |last2=Pascanu |first2=Razvan |last3=Gulcehre |first3=Caglar |last4=Cho |first4=Kyunghyun |last5=Ganguli |first5=Surya |last6=Bengio |first6=Yoshua |date=2014 |editor-last=Ghahramani |editor-first=Z. |editor2-last=Welling |editor2-first=M. |editor3-last=Cortes |editor3-first=C. |editor4-last=Lawrence |editor4-first=N. D. |editor5-last=Weinberger |editor5-first=K. Q. |title=Identifying and attacking the saddle point problem in high-dimensional non-convex optimization |url=http://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf |publisher=Curran Associates, Inc. |pages=2933–2941}}
+* {{cite arXiv |last1=Saxe |first1=Andrew M. |last2=McClelland |first2=James L. |last3=Ganguli |first3=Surya |date=2014-02-19 |title=Exact solutions to the nonlinear dynamics of learning in deep linear neural networks |eprint=1312.6120 |class=cs.NE }}
+* {{Cite conference |last1=Piech |first1=Chris |last2=Bassen |first2=Jonathan |last3=Huang |first3=Jonathan |last4=Ganguli |first4=Surya |last5=Sahami |first5=Mehran |last6=Guibas |first6=Leonidas J |last7=Sohl-Dickstein |first7=Jascha |date=2015 |editor-last=Cortes |editor-first=C. |editor2-last=Lawrence |editor2-first=N. D. |editor3-last=Lee |editor3-first=D. D. |editor4-last=Sugiyama |editor4-first=M. |editor5-last=Garnett |editor5-first=R. |title=Deep Knowledge Tracing |url=http://papers.nips.cc/paper/5654-deep-knowledge-tracing.pdf |publisher=Curran Associates, Inc. |pages=505–513}}
+* {{Cite journal |title=On the expressive power of deep neural networks | series=Icml'17 | date=6 August 2017 | pages=2847–2854 | publisher=Proceedings of the 34th International Conference on Machine Learning - Volume 70 |url=https://dl.acm.org/doi/abs/10.5555/3305890.3305975 |language=EN |doi=}}
+* {{Cite journal |last1=Boyda |first1=Edward K. |last2=Ganguli |first2=Surya |last3=Hořava |first3=Petr |last4=Varadarajan |first4=Uday |date=2003-05-19 |title=Holographic protection of chronology in universes of the G\"odel type |journal=Physical Review D |volume=67 |issue=10 |article-number=106003 |doi=10.1103/PhysRevD.67.106003|arxiv=hep-th/0212087 |bibcode=2003PhRvD..67j6003B |s2cid=6502289 }}
+
+==Notable awards==
+
+* [[Simons Foundation|Simons]] Investigator Award in MMLS
+* [[McKnight]] Scholar Award
+* [[James S. McDonnell]] Foundation Scholar Award in Human Cognition
+* [[Cosyne]] 2014, Number 1 Ranked abstract
+* [[Conference on Neural Information Processing Systems|NIPS]] 2014 Outstanding paper award
+* [[Terman Award]]
+* [[Burroughs Wellcome Fund|Burroughs Wellcome]] Career Award at the Scientific Interface
+* [[Sloan Research Fellowship]]
+* Berkeley Outstanding Graduate Instructor
+* [[National Council of Teachers of English]] Award in Writing
+* [[National Science Foundation|NSF]] Career Award
+* [[Swartz Fellowship]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Biography}}
+* [https://ganguli-gang.stanford.edu/index.html Stanford Laboratory page]
+* [https://profiles.stanford.edu/surya-ganguli Stanford Profile page]
+* [https://www.simonsfoundation.org/team/surya-ganguli/ Simons Foundation Profile page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ganguli, Surya}}
+[[Category:Bengali physicists]]
+[[Category:Bengali scientists]]
+[[Category:Living people]]
+[[Category:Indian neuroscientists]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Massachusetts Institute of Technology people]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Stanford University Department of Applied Physics faculty]]
+[[Category:Stanford University Department of Electrical Engineering faculty]]
+[[Category:Stanford University Department of Mathematics faculty]]
+[[Category:Stanford University people]]
+[[Category:University of California, San Francisco alumni]]
+[[Category:Indian theoretical physicists]]
+[[Category:Indian scientists]]
+[[Category:Sloan Research Fellows]]
+[[Category:Simons Investigator]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Scientists from Kolkata]]

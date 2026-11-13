@@ -1,0 +1,138 @@
+[[File:DickGordonUpgraded.jpg|thumb|Richard (Dick) Gordon in 2025]]
+[[File:Richard Gordon (theoretical biologist).jpg|thumb|Richard Gordon during the Open Problems of Computational Biology 3rd International Workshop, Telluride Summer Research Centre, Telluride, Colorado, July 11–25, 1993]]
+
+'''Richard "Dick" Gordon''' (Nov. 6 1943–June 14, 2026) was an American theoretical [[biologist]] whose research spanned developmental biology, medical imaging, mathematical biology, and astrobiology. He was a professor at the [[University of Manitoba]] from 1978 to 2011 and later held an adjunct position at [[Wayne State University]]. His research included computed tomography and image reconstruction, embryonic development and morphogenesis, diatom biology, and interdisciplinary applications of mathematics and physics to biological systems.
+
+== Education ==
+
+Gordon studied at the [[University of Chicago]], where he completed an undergraduate degree in [[mathematics]]. He subsequently earned a PhD in [[chemical physics]] at the [[University of Oregon]] under Terrell L. Hill. His dissertation was titled ''On Stochastic Growth and Form and Steady State Properties of Ising Lattice Membranes''. He did postdoctoral work with [[Robert Rosen (biologist)]] at the [[University of Buffalo]] and in the 'Mathematical Biology in Arthritis' and 'Image Processing in Cancer' sections at the [[National Institute of Health]], before he moved to Winnipeg in 1978 <ref> "Oh Ominvoire, The Path of an Eclectic Theoretical Biologist" World Scientific Publishing Company Pte Ltd, Singapore, 2025</ref> Gordon published his first scientific paper, on stochastic growth and form, in 1966.<ref> Gordon, R. (1966). [https://www.pnas.org/content/56/5/1497 On stochastic growth and form]. ''Proceedings of the National Academy of Sciences of the United States of America'', 56(5), 1497–1504.</ref>
+
+== Academic career ==
+
+Gordon joined the [[University of Manitoba]] in 1978 and remained there until his retirement in 2011. His work was interdisciplinary, drawing on mathematics, physics, engineering, chemistry, computation, and biology.
+
+Following his retirement from University of Manitoba, Gordon continued his scientific work through several affiliations. He volunteered as a consulting scientist at the [[Gulf Specimen Marine Laboratory]] in Panacea, Florida, and later held an adjunct appointment in the Department of Obstetrics and Gynecology at [[Wayne State University]].
+
+Gordon also appeared before committees of the [[Parliament of Canada]] as an expert scientific witness. His testimony included subjects related to health policy and the organization and peer review of scientific research.<ref>Gordon, R.; Poulin, B.J. (1999). Testimony before the Standing Committee on Health, Parliament of Canada.</ref><ref>Poulin, B.J.; Gordon, R. (2001). Statement on peer review to the Standing Committee on Industry, Science and Technology, Parliament of Canada.</ref>
+
+== Research ==
+
+=== Computed tomography and medical imaging ===
+
+Gordon was an early researcher in computational methods for tomographic image reconstruction. In 1970, with Robert Bender and [[Gabor Herman]], he published ''Algebraic Reconstruction Techniques (ART) for three-dimensional electron microscopy and x-ray photography'', describing the [[Algebraic Reconstruction Technique]] for reconstructing images from projection data.<ref name="ART">Gordon, R.; Bender, R.; Herman, G.T. (1970). [https://www.sciencedirect.com/science/article/pii/0022519370901098 Algebraic Reconstruction Techniques (ART) for three-dimensional electron microscopy and x-ray photography]. ''Journal of Theoretical Biology'', 29(3), 471–481.</ref>
+
+Gordon continued working on medical imaging and image-processing methods. With R.M. Rangayyan, he investigated adaptive-neighborhood techniques for enhancing film mammograms.<ref>Gordon, R.; Rangayyan, R.M. (1984). Feature enhancement of film mammograms using fixed and adaptive neighborhoods. ''Applied Optics'', 23(4), 560–564.</ref> With A.P. Dhawan and Rangayyan, he also studied three-dimensional computed tomography of nevi and melanomas using transillumination.<ref>Dhawan, A.P.; Gordon, R.; Rangayyan, R.M. (1984). Nevoscopy: three-dimensional computed tomography for nevi and melanomas in situ by transillumination. ''IEEE Transactions on Medical Imaging'', MI-3(2), 54–61.</ref>
+
+His later work addressed breast-imaging strategies, including proposals for improved detection and imaging of premetastatic breast cancer.<ref>Gordon, R. (2011). Stop breast cancer now! Imagining imaging pathways towards search, destroy, cure and watchful waiting of premetastasis breast cancer. In ''Breast Cancer – A Lobar Disease''. Springer.</ref>
+
+Near the end of his career, Gordon collaborated with Syed Hussain Ather on steerable ray-by-ray computed tomography (RBYRCT), an approach investigating adaptive X-ray acquisition and reconstruction for breast imaging. Their work included research publications and a U.S. patent application concerning electronically steerable X-ray imaging. Gordon and Ather also edited the book ''Steerable Ray-by-Ray X-Ray Computed Tomography: A Plan to End Breast Cancer''.<ref>{{Cite web |title=Steerable Ray-by-Ray X-Ray Computed Tomography |url=https://scrivenerpublishing.com/cart/title.php?id=1414 |website=Scrivener Publishing |access-date=2026-08-09}}</ref> Gordon and Ather also co-founded Janus Sphere Innovations, a company established to further develop their work in adaptive medical imaging. <ref>https://janus-sphere.com</ref>
+
+=== Developmental and theoretical biology ===
+
+A substantial part of Gordon's research concerned biological form and the physical mechanisms of embryonic development. He investigated subjects including embryology, neurulation, cytoskeletal mechanics, tissue morphogenesis, and neural tube defects.
+
+Gordon reviewed competing theories of vertebrate neurulation and their relationships to the mechanics of neural tube defects.<ref>Gordon, R. (1985). A review of the theories of vertebrate neurulation and their relationship to the mechanics of neural tube birth defects. ''Journal of Embryology and Experimental Morphology'', 89(Suppl.), 229–255.</ref> With G.W. Brodland, he studied cytoskeletal mechanics during brain morphogenesis.<ref>Gordon, R.; Brodland, G.W. (1987). The cytoskeletal mechanics of brain morphogenesis. ''Cell Biophysics'', 11(1), 177–238.</ref> Related work examined mechanical surface-contraction waves during neural induction in amphibian embryos.<ref>Brodland, G.W. et al. (1994). Furrowing surface contraction wave coincident with primary neural induction in amphibian embryos. ''Journal of Morphology'', 219(2), 131–142.</ref>
+
+His theoretical work on development also included the concept of [[embryonic differentiation waves]], which became the subject of later articles and books.
+
+=== Diatoms and biotechnology ===
+
+Gordon conducted extensive research on [[diatom]] biology, including morphogenesis and possible technological applications of their highly structured silica shells. In work with B.D. Aguda, he described diatom morphogenesis in the context of naturally fabricated complex microstructures.<ref>Gordon, R.; Aguda, B.D. (1988). Diatom morphogenesis: natural fractal fabrication of a complex microstructure. ''Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society''.</ref>
+
+He later coauthored reviews examining potential applications of diatoms in nanotechnology.<ref>Gordon, R. et al. (2009). The Glass Menagerie: diatoms for novel applications in nanotechnology. ''Trends in Biotechnology'', 27(2), 116–127.</ref> His research on algae also included possible applications in sustainable biofuel production.<ref>Ramachandra, T.V.; Mahapatra, D.M.; Karthick, B.; Gordon, R. (2009). Milking diatoms for sustainable energy: biochemical engineering versus gasoline-secreting diatom solar panels. ''Industrial & Engineering Chemistry Research'', 48(19), 8769–8788.</ref>
+
+=== Astrobiology and origins of life ===
+
+Gordon also published on [[astrobiology]] and questions concerning the origins, evolution, and distribution of life. His work included consideration of the habitability of the universe before the formation of Earth and broader questions about the possibility and transport of biological material beyond Earth.<ref>Gordon, R.; Sharov, A.A. (2018). Habitability of the Universe before Earth. In ''Habitability of the Universe before Earth''. Elsevier Academic Press.</ref>
+
+=== Research policy, medicine and ethics ===
+
+Gordon wrote about scientific policy, research organization, and ethical questions surrounding science and medicine.
+
+With B.J. Poulin, he analyzed the cost and structure of the Natural Sciences and Engineering Research Council of Canada's peer-review system.<ref>Gordon, R.; Poulin, B.J. (2009). Cost of the NSERC science grant peer review system exceeds the cost of giving every qualified researcher a baseline grant. ''Accountability in Research: Policies and Quality Assurance'', 16(1), 1–28.</ref>
+
+He also published a critical review of the declining role of physician-scientists.<ref>Gordon, R. (2012). The vanishing physician scientist: a critical review and analysis. ''Accountability in Research: Policies and Quality Assurance'', 19(2), 89–113.</ref>
+
+Other subjects in his publications included [[HIV/AIDS]] prevention and social ethics.<ref>Gordon, R. (1989). A critical review of the physics and statistics of condoms and their role in individual versus societal survival of the AIDS epidemic. ''Journal of Sex & Marital Therapy'', 15(1), 5–30.</ref>
+
+== Books ==
+
+Gordon authored and edited books across developmental biology and other areas of his research.
+
+Among his books were:
+
+* Gordon, R. (1999). ''The Hierarchical Genome and Differentiation Waves: Novel Unification of Development, Genetics and Evolution''. World Scientific and Imperial College Press.
+* Gordon, N.; Gordon, R. (2016). ''Embryogenesis Explained''. World Scientific. {{ISBN|978-981-4350-48-8}}.
+* Gordon, R.; Ather, S.H., eds. ''Steerable Ray-by-Ray X-Ray Computed Tomography: A Plan to End Breast Cancer''. Scrivener Publishing.
+
+== Personal life ==
+
+Gordon was born in [[Brooklyn]], New York, in 1943, the eldest son of Jack Gordon, a salesman and American handball champion, and artist Diana Gordon. He was married to fellow scientist Natalie K Björklund with whom he  cowrote his book Embryogenesis Explained <ref>Gordon, N. Gordon, R.Embryogenesis Explained World Scientific Publishing, Singapore, 2016 </ref> and was father of Leland, Bryson and Chason Gordon and Justin, Alan and Lana Hunstad. He lived in Winnipeg from 1978 until he retired in Alonsa, Manitoba in 2018 where he lived until his death on June 14, 2026.<ref>https://www.sneathstrilchuk.com/obituary/Richard-Gordon</ref>
+
+== Selected publications ==
+
+* Gordon, R.; Bender, R.; Herman, G.T. (1970). ''Algebraic Reconstruction Techniques (ART) for three-dimensional electron microscopy and x-ray photography.'' ''Journal of Theoretical Biology'', 29(3), 471–481.<ref name="ART" />
+* Gordon, R.; Herman, G.T.; Johnson, S.A. (1975). ''Image reconstruction from projections.'' ''Scientific American'', 233(4), 56–68.
+* Gordon, R. (1976). ''Dose reduction in computerized tomography.'' ''Investigative Radiology'', 11(6), 508–517.
+* Gordon, R.; Jacobson, A.G. (1978). ''The shaping of tissues in embryos.'' ''Scientific American'', 238(6), 106–113.
+* Gordon, R.; Björklund, N.K.; Nieuwkoop, P.D. (1994). ''Dialogue on embryonic induction and differentiation waves.'' ''International Review of Cytology'', 150, 373–420.
+* Gordon, R.; Drum, R.W. (1994). ''The chemical basis of diatom morphogenesis.'' ''International Review of Cytology'', 150, 243–372.
+
+== Other work ==
+
+Gordon founded the Canadian charity [[Books With Wings]], which provided books to universities and educational institutions in Afghanistan.<ref>{{Cite web
+|url=http://www.nationalreviewofmedicine.com/issue/physician_profile/2007/4_profile_19.html
+|title=NRM: Manitoba MDs rebuild Afghan medical libraries
+|date=2015-06-28
+|archive-url=https://web.archive.org/web/20150628112009/http://www.nationalreviewofmedicine.com/issue/physician_profile/2007/4_profile_19.html
+|archive-date=28 June 2015
+|access-date=2018-09-14
+}}</ref>
+
+He began the project after developing an interest in Afghanistan following the [[September 11 attacks]].<ref name="BooksWithWingsAbout">{{cite web
+|author=Staff
+|title=About Books With Wings
+|publisher=Books With Wings
+|url=http://bookswithwings.org/about-us/
+|archive-url=https://web.archive.org/web/20150625112924/http://bookswithwings.org/about-us/
+|archive-date=2015-06-25
+|accessdate=2015-06-25
+}}</ref>
+
+Books With Wings brought together Canadian, British, American, and Afghan participants to provide books to universities throughout Afghanistan. The project continued until 2014.<ref name="BooksWithWings1">{{cite web
+|author=Staff
+|title=Books With Wings: We get books to Afghanistan
+|publisher=Books With Wings
+|url=http://bookswithwings.org/
+|archive-url=https://web.archive.org/web/20150625090812/http://bookswithwings.org/
+|archive-date=2015-06-25
+|accessdate=2015-06-25
+}}</ref><ref name="UniversityManitoba1">{{cite web
+|author=Staff
+|title=Books With Wings
+|publisher=[[University of Manitoba]] Faculty of Health Sciences, College of Medicine
+|date=2010
+|url=http://umanitoba.ca/faculties/health_sciences/medicine/kabul/
+|archive-url=https://web.archive.org/web/20150625095936/http://umanitoba.ca/faculties/health_sciences/medicine/kabul/
+|archive-date=2015-06-25
+|accessdate=2015-06-25
+}}</ref>
+
+Journalist [[Sally Armstrong (journalist)|Sally Armstrong]] described Gordon's early efforts to establish Books With Wings in her book ''Ascent of Women''.<ref>Armstrong, S. (2013). ''Ascent of Women''. Toronto: Random House Canada.</ref>
+
+== References ==
+
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gordon, Richard}}
+[[Category:1943 births]]
+[[Category:2026 deaths]]
+[[Category:Scientists from Brooklyn]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Oregon alumni]]
+[[Category:Academic staff of the University of Manitoba]]
+[[Category:Wayne State University faculty]]
+[[Category:21st-century American biologists]]
+[[Category:21st-century American physicists]]

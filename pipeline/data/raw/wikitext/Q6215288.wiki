@@ -1,0 +1,104 @@
+{{for|the Swedish footballer|Johan Paulsson (footballer)}}
+{{Infobox scientist
+| name              = Johan Paulsson
+| image             = 
+| caption           = 
+| birth_date        = 
+| birth_place       = [[Kristinehamn]], [[Sweden]]
+| death_date        = 
+| death_place       = 
+| citizenship       = [[Sweden]]
+| nationality       = 
+| ethnicity         = 
+| field             = [[Systems biology]], [[Mathematical biology]], [[Stochastic Process]]
+| workplaces        = [[Harvard]]
+| education         = [[Uppsala University]] (M.S., Ph.D.)
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = 
+| footnotes         = 
+}}
+
+'''Johan Paulsson'''  is a Swedish [[mathematician]] and [[systems biology|systems biologist]] at [[Harvard Medical School]]. He is a  researcher in [[systems biology]] and [[stochastic process]]es, specializing in stochasticity in gene networks and plasmid reproduction.
+
+== Biography ==
+Johan Paulsson was born in 1973, in [[Kristinehamn]], a small city in the [[Sweden|Swedish]] province of [[Värmland]]. He studied at [[Uppsala University]], where he obtained a BSc in mathematics in 1996, a Masters of Science in Molecular Biology in 1996, and a Ph.D. in Molecular Biology in 2000 on stochasticity in intracellular circuits, in particular in plasmid copy control, under the supervision of Profs. Mans Ehrenberg and Kurt Nordström. In 2000 he moved to [[Princeton University]], where he was a Lewis-Thomas Fellow in [[Biophysics]], where he did the research for his paper "Summing up the noise in genetic networks", which received wide attention because it gave a firm theoretical footing to the budding field of genetic noise. In 2003 he joined the Dept. of Applied Mathematics and Theoretical Physics at the [[University of Cambridge]] and was tenured the following year. In 2005 he moved to the recently created Department of Systems Biology at [[Harvard]] University, where he focused on the development of experimental techniques for counting plasmids in single cells and on theoretical results on control of fluctuations in gene expression.
+
+He is married with two children.
+
+== Work ==
+Paulsson's lab has made contributions to the development of experimental techniques for counting plasmids, to extend his previous work on the mathematical aspects of plasmid replication<ref>
+{{cite journal | doi=10.1006/plas.1998.1338 | pmid=9571138 | last=Paulsson | first=J |author2=K. Nordström |author3=and M.Ehrenberg | year=1998 | title=Requirements for rapid plasmid copy number adjustments | journal=Plasmid | volume=39 | issue=3 | pages=215–234 }}</ref><ref>
+{{cite journal | doi=10.1006/jmbi.1998.1751 |last=Paulsson | first=J |author2=M.Ehrenberg
+ | year=1998 | title=Trade-off between segregational stability and metabolic burden
+ | journal=J. Mol. Biol. | volume=279 | pages=73–88 | pmid=9636701 | issue=1}}</ref><ref>
+{{cite journal | doi=10.1006/jmbi.2000.3526 |last=Paulsson | first=J |author2=M.Ehrenberg
+ | year=2000 | title=Molecular clocks reduce plasmid losses: the R1 case.
+ | journal=J. Mol. Biol. | volume= 297| pages=179–92 | pmid=10704315 | issue=1}}</ref><ref>
+{{cite journal |last=Paulsson | first=J |author2=M.Ehrenberg
+ | year=2000 | title=Random signal fluctuations can reduce random fluctuations in regulated components of chemical regulatory networks | journal=Phys. Rev. Lett. | volume=84 | pages=5447–50 | pmid=10990965 | doi=10.1103/PhysRevLett.84.5447 | issue=23|bibcode = 2000PhRvL..84.5447P }}</ref><ref>
+{{cite journal |doi=10.1093/emboj/20.24.7323| last=Park  | first=K. |author2=E. Han |author3=J. Paulsson |author4=D. K. Chattoraj | year=2001 | title=Origin pairing ('handcuffing') as a mode of negative control of P1 plasmid copy number | journal=EMBO J.| volume=20 | pages=7323–32 | pmid=11743008 | issue=24 | pmc=125786}}</ref>
+as well as theoretical work on the stochastic processes on gene expression and copy number control<ref>
+{{cite journal |last=Paulsson | first=J |author2=O. G. Berg |author3=M. Ehrenberg
+  | year=2000 | title=Stochastic Focusing: Fluctuation enhanced sensitivity of intracellular regulation  | journal=Proc. Natl. Acad. Sci. U.S.A.| volume=97 | pages=7148–53 | pmc= 16514 | pmid=10852944 | doi=10.1073/pnas.110057697 | issue=13|bibcode = 2000PNAS...97.7148P | doi-access=free }}</ref><ref>
+{{cite journal |doi=10.1016/S0006-3495(00)76377-6 |last=Berg | first=O. G. |author2=J. Paulsson  |author3=M. Ehrenberg | year=2000 | title=Fluctuations and quality of control in biological cells – Zero order ultrasensitivity reinvestigated | journal=Biophys. J.| volume=79 | pages=1228–36 | bibcode=2000BpJ....79.1228B | pmid=10968987 | issue=3 | pmc=1301019}}</ref><ref>
+{{cite journal | last=Berg | first=O. G. |author2=J. Paulsson  |author3=M. Ehrenberg | year=2000 | title=Fluctuations in repressor control: Thermodynamic constraints on Stochastic Focusing | journal=Biophys. J.| volume=79 | pages=2944–53 | pmc=1301173 | pmid=11106602 | doi=10.1016/S0006-3495(00)76531-3 | issue=6|bibcode = 2000BpJ....79.2944B }}</ref><ref>
+{{cite journal |last=Paulsson | first=J |author2=M.Ehrenberg
+ | year=2001 | title=Noise in a minimal regulatory network: plasmid copy number control | journal=Q. Rev. Biophys. | volume=34 | pages=1–59 | pmid=11388089 | issue=1 | doi=10.1017/s0033583501003663|citeseerx = 10.1.1.583.8757| s2cid=31387524 }}</ref><ref>
+{{cite journal | last=Elf | first=J. |author2=J. Paulsson  |author3=O. G. Berg |author4=M. Ehrenberg | year=2003 | title=Near-critical phenomena in intracellular metabolite pools | journal=Biophys. J.| volume=84 | pages=154–70 | pmid=12524272 | doi=10.1016/S0006-3495(03)74839-5 | pmc=1302600 | issue=1|bibcode = 2003BpJ....84..154E }}</ref>
+and work on multi-level selection<ref>
+{{cite journal |last=Paulsson | first=J | year=2002 | title=Noise in a minimal regulatory network: plasmid copy number control | journal=Genetics | volume=161 | pages=1373–84 | pmc=1462198 | pmid=12238464 | issue=4| doi=10.1093/genetics/161.4.1373 }}</ref> by using experimental evolution.
+
+A publication is the analysis of all previous noise data and interpretations in one unified framework,<ref>
+{{cite journal |last=Paulsson | first=J | year=2004 | title=Summing up the noise in gene networks | journal=Nature | volume=427 | pages=415–8 | pmid=14749823 | doi=10.1038/nature02257 | issue=6973|bibcode = 2004Natur.427..415P | s2cid=4355591 }}</ref><ref>
+{{cite journal | doi=10.1016/j.plrev.2005.03.003 |last=Paulsson | first=J | year=2005 | title=Models of Stochastic Gene Expression. | journal= Phys. Life Rev. | volume=2 |issue=2 | pages=157–175 |bibcode = 2005PhLRv...2..157P }}</ref> which later guided many experimental approaches.<ref>
+{{cite journal |last=Golding | first=I |author2=Paulsson J |author3=Zawilski SM |author4=Cox EC.
+ | year=2005 | title=Real-time kinetics of gene activity in individual bacteria.
+ | journal=Cell | volume=123 | pages=1025–36 | pmid=16360033 | doi=10.1016/j.cell.2005.09.031 | issue=6| s2cid=10319035 | doi-access=free }}</ref><ref>
+{{cite journal |  doi=10.1038/ng1807 |last=Bar-Even | first=A |author2=Paulsson J |author3=Maheshri N |author4=Carmi M |author5=O'Shea E |author6=Pilpel Y |author7=Barkai N.
+ | year=2006 | title=Noise in protein expression scales with natural protein abundance.
+ | journal=Nat. Genet. | volume=38 | pages=636–43 | issue=6 | pmid=16715097|s2cid=9276506 }}</ref><ref>
+{{cite journal |last=Rando | first=O J |author2=J. Paulsson
+ | year=2006 | title=Noisy silencing of chromatin.
+ | journal=Cell | volume=11 | pages=134–6 | pmid=16890152 | doi=10.1016/j.devcel.2006.07.012 | issue=2| doi-access=free }}</ref>
+
+More recent results include the effects of partition in phenotypic variability,<ref>
+{{cite journal |last=Huh | first=D |author2=J. Paulsson
+ | year=2011 | title=Non-genetic heterogeneity from stochastic partitioning at cell division.
+ | journal=Nat. Genet. | volume=43 | pages=95–100 | pmid= 21186354 | doi=10.1038/ng.729 | issue=2 | pmc=3208402}}</ref> 
+the details of the stochastic processes that underlie gene expression noise and the limitations of the usual experimental approaches<ref>
+{{cite journal | doi=10.1126/science.1144331  |pmid=18202292 |last=Pedraza | first=J M |author2=J. Paulsson
+ | year=2008 | title=Effects of molecular memory and bursting on fluctuations in gene expression
+ | journal=Science | volume=319|issue=5861 | pages=339–343 |bibcode = 2008Sci...319..339P |s2cid=36135558 }}</ref><ref>
+{{cite journal | doi=10.1073/pnas.1018832108   |last=Hilfinger | first=A |author2=J. Paulsson
+ | year=2011 | title=Separating intrinsic from extrinsic fluctuations in dynamic biological systems
+ | journal=Proc. Natl. Acad. Sci. U.S.A. | volume=108 |issue=29 | pages=12167–12172 | pmid=21730172 | pmc=3141918|bibcode=2011PNAS..10812167H |doi-access=free }}</ref>
+and the fundamental limits of feedback as a noise control mechanism.<ref>
+{{cite journal |last=Lestas | first=I |author2=G. Vinnicombe |author3=J. Paulsson
+ | year=2010 | title=Fundamental limits on the suppression of molecular fluctuations
+ | journal=Nature | volume=467 | pages=174–8 | pmid=20829788 | doi = 10.1038/nature09333 | issue=7312 | pmc=2996232|bibcode = 2010Natur.467..174L }}</ref>  This set of interests led Paulsson to examine the [[repressilator]], a synthetic gene regulatory network that was designed from scratch to oscillate and reported in 2000<ref name="repressilator">A Synthetic Oscillatory Network of Transcriptional Regulators; [[Michael Elowitz]] and [[Stanislas Leibler]]; Nature. 2000 Jan 20;403(6767):335-8.</ref> by [[Michael Elowitz]] and [[Stanislas Leibler]].  Although the repressilator oscillated, and therefore demonstrated the potential of [[synthetic biology]], the oscillations were noisy and quickly became incoherent on the single cell level.  Using an understanding of the causes of noise in cellular networks, Paulsson's team was able to redesign the repressilator, retaining the basic design, to produce a new synthetic circuit that oscillated with some accuracy.<ref>
+{{cite journal | doi=10.1038/nature19841  |pmid=27732583 |pmc=5637407 |last=Potvin-Trottier | first=L |author2=Lord ND | author3=Vinnicombe G. |author4=Paulsson J.
+ | year=2016 | title=Synchronous long-term oscillations in a synthetic gene circuit.
+ | journal=Nature  | volume=538|issue=7626 | pages=514–517 |bibcode = 2016Natur.538..514P }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://paulsson.med.harvard.edu/ Johan Paulsson's Lab @ HMS]
+* [https://web.archive.org/web/20110927181702/https://sysbio.med.harvard.edu/faculty/paulsson/ Johan Paulsson's Faculty Profile @ HMS]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Paulsson, Johan}}
+[[Category:Harvard Medical School faculty]]
+[[Category:Living people]]
+[[Category:Probability theorists]]
+[[Category:21st-century Swedish biologists]]
+[[Category:Swedish biophysicists]]
+[[Category:Systems biologists]]
+[[Category:Uppsala University alumni]]
+[[Category:Year of birth missing (living people)]]

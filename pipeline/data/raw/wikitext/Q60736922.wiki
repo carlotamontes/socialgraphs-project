@@ -1,0 +1,57 @@
+{{Short description|Physicist}}
+{{BLP primary sources|date=January 2019}}
+{{Infobox scientist
+| name              = Mikhail Dyakonov
+| native_name       = 
+| native_name_lang  = 
+| image             = 
+| caption           = 
+| birth_date        = {{birth date and age|1940|04|29}}
+| birth_place       = [[Saint Petersburg|Leningrad]], USSR
+| death_date        = 
+| death_place       = 
+| fields            = 
+| workplaces        = Laboratoire Charles Coulomb (L2C), [[Université Montpellier]]
+| alma_mater        = 
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Dyakonov–Perel spin relaxation mechanism]]<br>[[Dyakonov–Shur plasma wave instability]]<br>[[Dyakonov–Voigt wave]]<br>[[Dyakonov surface waves]]
+| awards            = 
+| website           = 
+| father            = [[Igor Diakonoff]]
+| mother            = [[Nina Dyakonova]]
+| relatives         = {{ill|Dmitry Dyakonov|ru|Дьяконов, Дмитрий Игоревич}} (brother)<br>{{ill|Yakov Magaziner|ru|Магазинер, Яков Миронович}} (grandfather)
+}}
+
+'''Mikhail (Michel) Dyakonov''' (born 1940 in [[Saint Petersburg|Leningrad]]) is a [[Russians|Russian]] professor of physics at Laboratoire Charles Coulomb (L2C), [[Université Montpellier]], [[French National Centre for Scientific Research|CNRS]] in [[France]].
+
+==Career==
+His name is connected with several physical phenomena: Dyakonov–Perel spin relaxation mechanism, Dyakonov–Shur plasma wave instability. In 1971, together with {{Ill|Vladimir Perel|de|Wladimir Idelewitsch Perel}} he predicted the [[spin Hall effect]], which has become a field of intense studies.
+
+He theoretically predicted a new class of [[surface electromagnetic wave]]s, now called [[Dyakonov surface waves]] (DSWs) in 1988.<ref>Takayama, O. et al. Dyakonov Surface Waves: A Review. Electromagnetics, 28:3, 126-145</ref><ref>{{cite journal| last = Dyakonov| first = M. I. | title = New type of electromagnetic wave propagating at an interface|url=http://www.jetp.ac.ru/cgi-bin/dn/e_067_04_0714.pdf|format=Free PDF download|journal =Soviet Physics JETP| volume =67|issue =4| pages =714|date = April 1988| bibcode = 1988JETP...67..714D }}</ref> Unlike other types of [[acoustics|acoustic]] and [[electromagnetic waves|electromagnetic]] surface waves, the DSW's existence is due to the difference in [[symmetry (physics)|symmetry]] of materials forming the interface. These waves are important at the interface of a biaxial anisotropic dielectric with an isotropic medium,<ref>Narimanov, E.E. Dyakonov waves in biaxial anisotropic crystals. Phys. Rev. A 98, 013818 (2018)</ref> metamaterials<ref>Jacob, Z. and Narimanov, E.E.Optical hyperspace for plasmons: Dyakonov states in metamaterials Appl. Phys. Lett. 93, 221109 (2008)[https://aip.scitation.org/doi/full/10.1063/1.3037208]</ref> and they  have also found use in [[Terahertz radiation|terahertz]] applications.<ref>Moradi, M. et al. Terahertz Dyakonov surface waves in plasma metamaterials. Optics Letters, Vol. 43, Issue 3, pp. 519-522 (2018)</ref>
+
+==Awards==
+Professor Dyakonov is a recipient of the [[USSR State Prize|State prize]] (USSR) in physics for theoretical work on spin dynamics (1976), the Frenkel prize of the St. Petersburg Physical Society for theory of streamer discharge (1992), the Ioffe prize of the [[Russian Academy of Sciences]] for the theory of hot luminescence (1993), Beller Lectureship Award from the [[American Physical Society]] (2009), and the Grand prize from the [[Société Française de Physique|French Physical Society]] (2009).
+
+== Critique of quantum computing ==
+Dyakonov is also well known for his critique of implementations of [[quantum computers]].<ref>{{cite journal |title=The Case Against Quantum Computing |journal=IEEE Spectrum |date=15 November 2018 |url=https://spectrum.ieee.org/the-case-against-quantum-computing |access-date=26 March 2022 |language=en}}</ref><ref>{{cite book |last1=Dyakonov |first1=Mikhail I. |title=Will We Ever Have a Quantum Computer? |series=SpringerBriefs in Physics |date=2020 |doi=10.1007/978-3-030-42019-2 |bibcode=2020wweh.book.....D |url=https://link.springer.com/book/10.1007/978-3-030-42019-2 |language=en-gb |isbn=978-3-030-42019-2 |s2cid=216107299 }}</ref> He argues that practical quantum computers are not likely to be implemented. He says: "There is a tremendous gap between the rudimentary but very hard experiments that have been carried out with a few qubits and the extremely developed quantum-computing theory, which relies on manipulating thousands to millions of qubits to calculate anything useful. That gap is not likely to be closed anytime soon."
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Dyakonov, Mikhail}}
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Academic staff of the University of Montpellier]]
+[[Category:20th-century Russian physicists]]
+[[Category:21st-century Russian physicists]]
+[[Category:Russian academics]]
+[[Category:1940 births]]
+[[Category:Optical physicists]]
+
+{{Russia-physicist-stub}}

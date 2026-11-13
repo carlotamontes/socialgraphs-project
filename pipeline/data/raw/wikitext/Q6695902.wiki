@@ -1,0 +1,84 @@
+{{short description|Italian physicist}}
+{{BLP sources|date=February 2017}}
+{{Use dmy dates|date=November 2024}}
+{{Infobox scientist
+| name              = Luca Gammaitoni
+| image             = Luca.gif
+| image_size        = 100px
+| caption           =
+| birth_date        = {{Birth date and age|1961|6|16|df=y}}
+| birth_place       = [[Perugia]], [[Italy]]
+| death_date        = 
+| death_place       = 
+| citizenship       = Italian
+| nationality       = 
+| ethnicity         = 
+| fields            = [[Physicist]]
+| workplaces        = [[University of Perugia]]
+| education         = [[University of Pisa]]
+| doctoral_advisor  = [[Sergio Santucci]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Studies of [[noise]] in physical systems
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| footnotes         =  
+}}
+
+'''Luca Gammaitoni''' (born 16 June 1961 in Perugia) is a scientist in the area of [[noise]] and [[nonlinear dynamics]]. He is currently the Director of the Noise in Physical System Laboratory (NiPS Lab) at the Physics Department of the [[Università di Perugia]], in Italy.<ref name=":0">{{Cite web |title=Luca Gammaitoni, Dipartimento di Fisica Perugia |url=http://www.fisica.unipg.it/~luca.gammaitoni/ |access-date=2023-10-01 |website=www.fisica.unipg.it}}</ref>
+
+==Education and career==
+
+He graduated in physics at the [[University of Perugia]] and obtained his Ph.D. in physics from the [[University of Pisa]] in 1991 (S. Santucci advisor) with a thesis entitled "[[Stochastic Resonance]]". He is currently Professor of Physics at the Faculty of Science of the [[University of Perugia]] in Italy and the Director of The Noise in Physical Systems (NiPS) Laboratory.<ref>{{Cite web |title=NiPS Laboratory – Noise in Physical Systems |url=https://www.nipslab.org/ |access-date=2023-10-01 |language=en-US}}</ref> NiPS, a research facility within the Physics Department of the [[University of Perugia]], has a long-standing tradition in studying physical systems in the presence of noise. 
+
+In 2004	he was awarded the First prize for innovation ideas, a Spin-off competition, of the [[University of Perugia]]. Eventually, this led to the establishment of Wisepower srl.<ref>{{cite web | url=https://www.wisepower.it/en/home/ | title=Home }}</ref> An innovative company devoted to the development of advanced technology in the field of self-powered wireless devices.
+
+In 2016 he received the Special Breakthrough Prize in Fundamental Physics for the observation of gravitational waves, opening new horizons in astronomy and physics,<ref>{{cite web | url=https://breakthroughprize.org/News/32 | title=Breakthrough Prize – Special Breakthrough Prize in Fundamental Physics Awarded for Detection of Gravitational Waves 100 Years After Albert Einstein Predicted Their Existence }}</ref> as a member of the LIGO-Virgo collaboration.
+
+In 2016-2019 he served as President of the Fondazione POST (Museo della Scienza di Perugia).<ref>https://www.perugiapost.it</ref>
+
+During the Covid-19 pandemic, together with Igor Neri, proposed a stochastic model for dealing with fluctuations in epidemic diffusion.<ref>{{cite journal |last1=Neri |first1=I. |last2=Gammaitoni |first2=L. |title=Role of fluctuations in epidemic resurgence after a lockdown |journal=Scientific Reports |date=19 March 2021 |volume=11 |issue=1 |page=6452 |doi=10.1038/s41598-021-85808-z  |doi-access=free|pmid=33742018 |pmc=7979713 |bibcode=2021NatSR..11.6452N }}{{psc|date=May 2024}}</ref>
+
+His scientific papers received more than 100.000 citations.<ref>{{cite web | url=https://scholar.google.com/citations?user=uZet4d0AAAAJ&hl=en | title=Luca Gammaitoni }}</ref>
+
+==Scientific Interests==
+* Stochastic nonlinear dynamics with specific reference to [[Stochastic Resonance]], [[dithering]], resonant trapping, resonant crossing phenomena.
+* Noise limits in the operation of [[Gravitational Waves]] detectors<ref>{{Cite web |last=Neri |first=Igor |last2=López-Suárez |first2=Miquel |last3=Gammaitoni |first3=Luca |date=2017-06-10 |title=Operating Gravitational Wave Detectors far from equilibrium |url=https://arxiv.org/abs/1706.04067v2 |access-date=2026-07-27 |website=arXiv.org |language=en}}</ref>
+* [[Energy Harvesting]], with specific reference to nonlinear vibration harvesting, micro and nanoscale energy management [https://web.archive.org/web/20170811181935id_/http://www.nipslab.org/sites/nipslab.org/files/PhysRevLett_102_080601_0.pdf]
+* [[Efficient energy use|Energy efficiency]] in computing devices, with specific reference to micro and nanoscale logic gate devices {{ISBN|978-9535130116}}
+* [[Thermal noise]] and non-equilibrium relaxation processes in solid state systems {{ISBN|978-1-4799-2069-3}}
+* [[Thermodynamics]] of computing and fundamental limits in the physics of computation<ref>{{Cite journal |last=López-Suárez |first=M. |last2=Neri |first2=I. |last3=Gammaitoni |first3=L. |date=2016-06-28 |title=Sub-kBT micro-electromechanical irreversible logic gate |url=https://www.nature.com/articles/ncomms12068 |journal=Nature Communications |language=en |volume=7 |issue=1 |article-number=12068 |doi=10.1038/ncomms12068  |doi-access=free|issn=2041-1723|pmc=4931245 }}</ref>
+* [[Epidemics]] spreading and the role of fluctuations<ref>{{Cite journal |last=Neri |first=I. |last2=Gammaitoni |first2=L. |date=2021-03-19 |title=Role of fluctuations in epidemic resurgence after a lockdown |url=https://www.nature.com/articles/s41598-021-85808-z |journal=Scientific Reports |language=en |volume=11 |issue=1 |page=6452 |doi=10.1038/s41598-021-85808-z  |doi-access=free|issn=2045-2322|pmc=7979713 }}</ref>
+* [[Artificial Intelligence]] fundamental limits in Big Data and Machine Learning applications<ref>{{Cite web |last=Gammaitoni |first=Luca |date=2021-06-02 |title=Why it is difficult to find something, if you do not know what you are looking for |url=https://medium.com/geekculture/why-it-is-difficult-to-find-something-if-you-do-not-know-what-you-are-looking-for-1e7ca2f69da5 |access-date=2026-07-27 |website=Geek Culture |language=en}}</ref>
+
+==Books==
+* ''On the concept of time and other accidents: simple scientific digressions for curious people'', L. Gammaitoni, 2022, {{ISBN|979-8825591902}}
+* ''The Physics of Computing'', Springer, 2021, {{Doi|10.1007/978-3-030-87108-6}}
+* ''Perché è difficile prevedere il futuro. Il sogno più sfuggente dell'uomo sotto la lente della fisica'' L. Gammaitoni and A. Vulpiani, Dedalo ed. 2019 (in Italian), {{ISBN|978-8822068828}}
+* ''Introduzione  alla scienza dei computer'', L. Gammaitoni, McGraw-Hill, (in Italian), 2004, {{ISBN|978-8838662218}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://www.fisica.unipg.it/gammaitoni – Luca Gammaitoni web page at the Physics Department of the Università di Perugia
+* http://www.nipslab.org – Noise in Physical Systems Laboratory
+* https://orcid.org/0000-0002-4972-7062 - Orcid profile
+* https://lucagammaitoni.medium.com - Articles on Medium.com
+* [https://www.avvenire.it/agora/pagine/un-dialogo-con-chatgpt-la-difficile-arte-di-dire-non-lo-so Un "dialogo" con ChatGPT: la difficile arte di dire «non lo so» in Avvenire (2023)] (in Italian)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gammaitoni, Luca}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Probability theorists]]
+[[Category:21st-century Italian physicists]]
+[[Category:University of Perugia alumni]]
+[[Category:University of Pisa alumni]]
+[[Category:Academic staff of the University of Perugia]]

@@ -1,0 +1,134 @@
+{{short description|American atmospheric scientist (1959–2020)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Michael I. Mishchenko
+| honorific_suffix  = 
+| native_name       = Михаил Иванович Мищенко
+| native_name_lang  = 
+| image             = Michael Mishchenko.jpg
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = Mishchenko c. 2007
+| birth_name        = Mikhail Ivanovich Mishchenko<ref name="thesis"/>
+| birth_date        = {{birth year|1959}}
+| birth_place       = 
+| death_date        = {{death date and age |2020|07|21|1959}}
+| death_place       = 
+| fields            = {{plainlist|
+*[[Atmospheric physics]]
+*[[Optics]]
+}}
+| workplaces        = {{plainlist|
+*[[Goddard Institute for Space Studies]]
+*Main Astronomical Observatory, Kyiv
+}}
+| patrons           = 
+| education         = {{plainlist|
+*[[Moscow Institute of Physics and Technology]]
+*[[National Academy of Sciences of Ukraine]]
+}}
+| thesis_title      = Electromagnetic Scattering in Random Dispersive Media: Fundamental Theory and Applications
+| thesis_url        = https://www.giss.nasa.gov/staff/mmishchenko/books/Thesis.pdf
+| thesis_year       = 1987
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = {{plainlist|
+*[[T-matrix method]]
+*[[atmospheric radiative transfer codes|Radiative transfer theory]]
+*''[[Glory (satellite)|Glory]]''
+}}
+| website           = <!--{{URL|www.example.com}}-->
+}}
+
+'''Michael Ivanovich Mishchenko'''<ref name="thesis"/> (1959 — July 21, 2020) was a [[Ukrainian Americans|Ukrainian American]] atmospheric physicist who was a senior scientist at [[Goddard Institute for Space Studies]]. He is best known for his contributions to the [[T-matrix method]] for the computation of [[light scattering by particles|light scattering by complex particles and clusters]], and [[atmospheric radiative transfer codes|atmospheric radiative transfer]] theory.
+
+==Biography==
+Mishchenko was born in 1959. Graduating from [[Moscow Institute of Physics and Technology]] in 1983, he received his PhD in physics with honors from the [[National Academy of Sciences of Ukraine]] in 1987. Initially being a part of the research staff at the Main Astronomical Observatory in [[Kyiv]], he emigrated to the United States to join the [[Goddard Institute for Space Studies]]. Initially working as a contractor, he became a senior scientist at the institute in 1997. From 1998 to 2002, he  served as project manager for the NASA/[[Global Energy and Water Exchanges|GEWEX]] Global Aerosol Climatology Project.<ref name="giss-nasa"/><ref name="ams-obituary"/>
+
+Mishchenko's research interests included electromagnetic [[scattering]] by morphologically complex particles and particle groups, [[polarimetry]], [[aerosol]] and cloud [[remote sensing]], and [[ocean optics]].<ref name="giss-nasa"/> He was known for his work on the development of efficient [[T-matrix method]]s for the computation of [[light scattering by particles|light scattering by complex particles and clusters]]. The [[Open-source software|open source]] T-matrix package that he developed has been publicly available online since 1997 and has been subject to numerous [[peer review]]ed publications and extensions.<ref name="giss-nasa"/><ref name="moroz2005"/> He has also derived a [[atmospheric radiative transfer codes|radiative transfer]] theory  rigorous directly from the [[Maxwell equations]], which defined the bounds of the radiative transfer equation and explained the nature of measurements taken with directional [[radiometer]]s. He has also worked on retrieval of aerosol properties from space using [[radiance]] and [[Polarization (waves)|polarization]] data; this work led to the development of the NASA [[Glory (satellite)|Glory]] Space Mission, for which he served as a project scientist. His recent work before passing involved the first-principles analysis of [[Effective medium approximations|effective medium approximations]] in remote sensing.<ref name="ams-obituary"/>
+
+During his career, Mishchenko published multiple [[monograph]]s on light scattering, remote sensing and radiative transfer, as well as 23 peer-reviewed book chapters and more than 300 journal papers. Being an elected fellow of [[American Geophysical Union]], [[Optica (society)|Optica]], [[Institute of Physics]] and [[American Meteorological Society]], he has served as a topical editor of the journal ''[[Applied Optics]]'' and was the editor-in-chief of the ''[[Journal of Quantitative Spectroscopy and Radiative Transfer]]'' from 2006 until his death.<ref name="ams-obituary"/> 
+
+Mishchenko died on July 21, 2020.<ref name="ams-obituary"/> Michael I. Mishchenko Medal, given annually by ''Journal of Quantitative Spectroscopy and Radiative Transfer'' to researchers with innovative contributions to radiative transfer, light scattering, and remote sensing, is named after him.<ref name="mishchenko-medal"/>
+
+==Selected publications==
+;Books
+*{{cite book |title=Light Scattering by Nonspherical Particles: Theory, Measurements, and Applications |date=2000 |publisher=Academic Press |location=San Diego |pages=9780124986602 | first1=M. I |last1=Mishchenko | first2=J. W. |last2=Hovenier | first3=L. D. |last3=Travis}}
+*{{cite book |last1=Mishchenko |first1=M. I. |last2=Travis |first2=L. D. |last3=Lacis |first3=A. A. |title=Scattering, Absorption, and Emission of Light by Small Particles |date=2002 |publisher=Cambridge University Press |location=Cambridge |isbn=9780521782524}}
+*{{cite book |last1=Mishchenko |first1=M. I. |last2=Travis |first2=L. D. |last3=Lacis |first3=A. A. |title= Multiple Scattering of Light by Particles: Radiative Transfer and Coherent Backscattering |date=2006 |publisher=Cambridge University Press |location=Cambridge |isbn= 9780521834902}}
+*{{cite book |last1=Mishchenko |first1=M. I. |last2=Rosenbush |first2=V. K. |last3=Kiselev |first3=N. N. |last4=Lupishko |first4=D. F. |last5=Tishkovets |first5=V. P. |last6=Kaydash |first6=V. G. |last7=Belskaya |first7=I. N. |last8=Efimov |first8=Y. S. |last9=Shakhovskoy |first9=N. M. |title=Polarimetric Remote Sensing of Solar System Objects |date=2010 |publisher=Akademperiodyka |location=Kyiv |display-authors=1}}
+*{{cite book |editor-last1=Mishchenko |editor-first1=M. I. |editor-last2=Yatskiv |editor-first2=Ya. S. |editor-last3=Rosenbush |editor-first3=V. K. |editor-last4=Videen |editor-first4=G. |title=Polarimetric Detection, Characterization, and Remote Sensing, Springer |date=2011 |publisher=Springer |location=Dordrecht |isbn=9789400716353}}
+*{{cite book |last1=Mishchenko |first1=M. I. |title=Electromagnetic Scattering by Particles and Particle Groups: An Introduction |date=2014 |publisher=Cambridge University Press |location=Cambridge |isbn=9781139019064}}
+
+;Journal articles
+*{{cite journal |last1=Mishchenko |first1=M. I. |title=Light scattering by randomly oriented axially symmetric particles |journal=[[Journal of the Optical Society of America A]] |date=1991 |volume=8 |issue=6 |pages=871-882 |doi=10.1364/JOSAA.8.000871}}
+*{{cite journal |last1=Mackowski |first1=Daniel W. |last2=Mishchenko |first2=Michael I. |title=Calculation of the T matrix and the scattering matrix for ensembles of spheres |journal=Journal of the Optical Society of America A |date=1996 |volume=13 |issue=11 |pages=2266-2278 |doi=10.1364/JOSAA.13.002266}}
+*{{cite journal |last1=Mishchenko |first1=Michael I. |last2=Travis |first2=Larry D. |last3=Mackowski |first3=Daniel W. |title=T-matrix computations of light scattering by nonspherical particles: A review |journal=[[Journal of Quantitative Spectroscopy and Radiative Transfer]] |date=1996 |volume=55 |issue=5 |pages=535-575 |doi=10.1016/0022-4073(96)00002-7 |url=https://web.gps.caltech.edu/~vijay/Papers/Aerosol/Mishchenko_96_jqsrt_55_5_535-555.pdf}}
+*{{cite journal |first1= Michael I. |last1=Mishchenko |first2= Larry D. |last2=Travis |first3= Ralph A. |last3= Kahn |first4= Robert A. |last4=West |title=Modeling phase functions for dustlike tropospheric aerosols using a shape mixture of randomly oriented polydisperse spheroids |journal=Journal of Geophysical Research: Atmospheres |date=1997 |volume=102 |issue=D14 |pages=16831-16847 |doi=10.1029/96JD02110}}
+*{{cite journal |last1=Mishchenko |first1=Michael I. |last2=Travis |first2=Larry D. |title=Capabilities and limitations of a current FORTRAN implementation of the T-matrix method for randomly oriented, rotationally symmetric scatterers |journal=Journal of Quantitative Spectroscopy and Radiative Transfer |date=1998 |volume=60 |issue=3 |pages=309-324 |doi=10.1016/S0022-4073(98)00008-9}}
+*{{cite journal |first1= Yuanchong |last1= Zhang |first2= William B. |last2=Rossow |first3= Andrew A. |last3=Lacis |first4= Valdar |last4=Oinas |first5= Michael I. |last5=Mishchenko |title=Calculation of radiative fluxes from the surface to top of atmosphere based on ISCCP and other global data sets: Refinements of the radiative transfer model and the input data |journal=Journal of Geophysical Research: Atmospheres |date=2004 |volume=109 |issue=D19 |pages=D19105 |doi=10.1029/2003JD004457}}
+*{{cite journal |last1=Dubovik |first1=Oleg |last2=Sinyuk |first2=Alexander |last3=Lapyonok |first3=Tatyana |last4=Holben |first4=Brent N. |last5=Mishchenko |first5=Michael |last6=Yang |first6=Ping |title=Application of spheroid models to account for aerosol particle nonsphericity in remote sensing of desert dust |journal=Journal of Geophysical Research: Atmospheres |date=2006 |volume=111 |issue=D11 |pages=D11208 |doi=10.1029/2005JD006619|display-authors=1|hdl=11603/33512 |hdl-access=free }}
+
+==Awards==
+*AMS Henry G. Houghton Award<ref name="ams-obituary"/>
+*[[Elsevier]] [[Hendrik C. van de Hulst]] Award<ref name="ams-obituary"/>
+*[[François Arago]] Award in Polarimetric Remote Sensing<ref name="ams-obituary"/>
+*2010 [[State Prize of Ukraine in Science and Technology]]<ref name="ams-obituary"/>
+*[[NASA Exceptional Scientific Achievement Medal]]s<ref name="ams-obituary"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="ams-obituary">{{cite journal |last1=Yang |first1=Ping |last2=Cairns |first2=Brian |last3=Marshak |first3=Alexander |last4=Dubovik |first4=Oleg |last5=Kolokolova |first5=Ludmilla |last6=Lacis |first6=Andrew |last7=Travis |first7=Larry |title=Michael Mishchenko (1959-2020) |journal=[[Bulletin of the American Meteorological Society]] |date=2020 |volume=101 |issue=10 |pages=913-916 |jstor=27137626}}</ref>
+
+<ref name="giss-nasa">{{cite web |title=Dr. Michael I. Mishchenko, 1959-2020 |website=giss.nasa.gov |publisher=[[NASA]] |access-date=October 31, 2025 |archive-url=https://web.archive.org/web/20200813075857/https://www.giss.nasa.gov/research/news/20200727/ |archive-date=August 13, 2020 |date=July 27, 2020 |url=https://www.giss.nasa.gov/research/news/20200727/}}</ref>
+
+<ref name="mishchenko-medal">{{cite web |title=Call for Nominations for the 2025 Michael I. Mishchenko Medal |url=https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/about/news/call-for-nominations-for-the-2025-michael-i-mishchenko-medal |website=sciencedirect.com |publisher=[[Journal of Quantitative Spectroscopy and Radiative Transfer]] |access-date=October 31, 2025 |date=February 14, 2025}}</ref>
+
+<ref name="moroz2005">{{cite journal |last1=Moroz |first1=Alexander |title=Improvement of Mishchenko’s T-matrix code for absorbing particles |journal=[[Applied Optics]] |date=2005 |volume=44 |issue=17 |pages=3604-3609 |doi=10.1364/AO.44.003604}}</ref>
+
+<ref name="thesis">{{cite thesis |last=Mishchenko |first=Mikhail Ivanovich |title=Electromagnetic Scattering in Random Dispersive Media: Fundamental Theory and Applications |url=https://www.giss.nasa.gov/staff/mmishchenko/books/Thesis.pdf |work= |degree=PhD |location=[[National Academy of Sciences of Ukraine]] |publisher= |access-date= |language=Russian |publication-date=2012 |date=1987}}</ref>
+}}
+
+==External links==
+*{{official website|url=https://www.giss.nasa.gov/staff/mmishchenko/}}
+{{Authority control}}
+{{DEFAULTSORT:Mishchenko, Michael I}}
+
+[[Category:1959 births]]
+[[Category:2020 deaths]]
+[[Category:20th-century Ukrainian physicists]]
+[[Category:21st-century Ukrainian physicists]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American atmospheric scientists]]
+[[Category:American meteorologists]]
+[[Category:American optical physicists]]
+[[Category:American computational physicists]]
+[[Category:NASA people]]
+[[Category:Moscow Institute of Physics and Technology alumni]]
+[[Category:American climatologists]]
+[[Category:Ukrainian emigrants to the United States]]
+[[Category:Scientists from Kyiv]]
+[[Category:Ukrainian climatologists]]
+[[Category:Fellows of the American Meteorological Society]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the American Geophysical Union]]
+[[Category:Physicists from New York (state)]]
+[[Category:Scientists from New York City]]
+[[Category:Scientific journal editors]]
+[[Category:American academic journal editors]]
+[[Category:20th-century Ukrainian writers]]
+[[Category:21st-century Ukrainian writers]]
+[[Category:Ukrainian non-fiction writers]]
+[[Category:20th-century American science writers]]
+[[Category:21st-century American science writers]]
+[[Category:American textbook writers]]
+[[Category:Remote sensing professionals]]
+[[Category:Soviet physicists]]
+[[Category:Soviet meteorologists]]

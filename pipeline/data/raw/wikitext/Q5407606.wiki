@@ -1,0 +1,64 @@
+{{Infobox scientist
+| name              = Eugene P. Gross
+| image             = <!--(filename only)-->
+| image_size        = 
+| caption           = 
+| birth_date        = 27 June 1926
+| birth_place       = [[New York City]]
+| death_date        = {{death-date and age|19 January 1991|27 June 1926}}
+| death_place       = [[Boston]]
+| nationality       = 
+| fields            = 
+| workplaces        = [[Harvard]],<br/>[[Massachusetts Institute of Technology]],<br/>[[Syracuse University]],<br/>[[Brandeis University]],<br/>[[Sapienza University of Rome]]
+| education         = [[Princeton University|Princeton]]
+| thesis_title      = Theory of Plasma Oscillations
+| thesis_year       = 1949
+| thesis_url        = https://catalog.princeton.edu/catalog/2701169
+| doctoral_advisor  = [[David Bohm]]
+| doctoral_students = [[Daniel Amit]]
+| known_for         = [[Gross–Pitaevskii equation]],<br/>[[Bhatnagar–Gross–Krook operator]]
+| awards            = 
+}}
+
+'''Eugene Paul Gross''' (27 June 1926 – 19 January 1991) was a theoretical [[physicist]] and Edward and Gertrude Swartz [[professor]] at [[Brandeis University]], known for his contribution to the [[Bhatnagar-Gross-Krook]] (BGK) collision model used in the [[Boltzmann equation]] and in [[lattice Boltzmann methods]] and to the [[Gross–Pitaevskii equation]] which describes the ground state of a quantum system of identical [[boson]]s.
+
+== Education and work ==
+Gross obtained his Ph.D. at [[Princeton University|Princeton]] in 1948, where he was one of the first graduate students of [[David Bohm]].<ref>Russell Olwell: [https://web.archive.org/web/20120106153703/http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_20_Olwell.pdf Physics and Politics in Cold War America: The Two Exiles of David Bohm] (essay that won the 1993 ''Benjamin M. Siegel prize in Science, Technology, and Society'' for the best work by a student on issues in science, technology, and society)</ref>
+
+Gross was [[Carnegie Fellowship|Carnegie Fellow]] at [[Harvard]] from 1948 to 1949 and research associate at the [[Massachusetts Institute of Technology]] from 1950 to 1951. Subsequently, until 1954, he was a staff member at the Laboratory for Insulation Research and from 1954 to 1956 assistant professor at [[Syracuse University]].
+
+In 1956 Gross was appointed associate professor at Brandeis University, where he became full professor in 1961.
+
+From 1963 to 1964 he was a [[Fulbright Scholar]] at the [[Sapienza University of Rome|University of Rome]] in Italy, and from 1969 to 1970 visiting professor at the Massachusetts Institute of Technology. He held the Edward and Gertrude Swartz chair of Theoretical Physics since 1976 and chaired Brandeis University's department of physics from 1977 to 1979.
+
+With [[Prabhu Lal Bhatnagar|Prabhu L. Bhatnagar]] and [[Max Krook]], Gross introduced the [[Bhatnagar–Gross–Krook operator]] in a paper in [[Physical Review]] in 1954.<ref>
+{{cite journal
+ |author1=P.L. Bhatnagar |author2=E.P. Gross |author3=M. Krook |year=1954
+ |title=A Model for Collision Processes in Gases. I. Small Amplitude Processes in Charged and Neutral One-Component Systems
+ |journal=[[Physical Review]]
+ |volume=94 |pages=511–525
+ |doi=10.1103/PhysRev.94.511
+ |bibcode=1954PhRv...94..511B
+ |issue=3
+}}</ref>
+In 1961 Gross<ref>{{cite journal|title=Structure of a quantized vortex in boson systems|journal=Il Nuovo Cimento |volume=20|issue=3|date=May 1961|author=Gross, E.P.|pages=454–457|doi=10.1007/BF02731494|url=https://cds.cern.ch/record/343403/files/CM-P00057235.pdf|bibcode=1961NCim...20..454G }}</ref> and separately [[Lev Pitaevskii]]<ref>{{cite journal|author=L.P. Pitaevskii|url=http://www.citeulike.org/user/ssjjll/article/7001053|journal=[[Soviet Physics JETP]]|title=Vortex Lines in an Imperfect Bose Gas|accessdate=2011-03-31|year=1961|volume=13|issue=2|pages=451–454|archive-url=https://web.archive.org/web/20120320142716/http://www.citeulike.org/user/ssjjll/article/7001053|archive-date=2012-03-20|url-status=usurped}}</ref> presented what is now known as the [[Gross–Pitaevskii equation]].
+
+His fields of research pertained to quantum liquids, [[Plasma (physics)|plasmas]], [[solid-state physics|solids]], [[liquid helium]] and the [[kinetic theory of gases]].
+
+Gross published over 80 scientific articles, including work with Bohm published 1949/1950 and work with P. L. Bhatnagar and M. Krook of 1954.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite web |url=http://physics.clarku.edu/gbasm/gross/gross_vita.html |title=Eugene P. Gross, Curriculum vitae |accessdate=2018-03-29}}
+*{{cite news |url=https://www.nytimes.com/1991/01/25/obituaries/eugene-p-gross-64-theoretical-physicist.html |title=Eugene P. Gross, 64, Theoretical Physicist |work=The New York Times |date=January 25, 1991}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gross, Eugene P.}}
+[[Category:1926 births]]
+[[Category:1991 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:Brandeis University faculty]]
+[[Category:Princeton University alumni]]

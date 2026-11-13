@@ -1,0 +1,120 @@
+{{Short description|American physicist}}
+{{For|the singer|Dan Gillespie Sells}}
+{{Infobox scientist
+| name              = Daniel Thomas Gillespie
+| image             = 
+| image_size        = 
+| caption           = Daniel Thomas Gillespie
+| birth_date        = {{Birth date|df=yes|1938|8|15}}
+| birth_place       = [[Missouri]], U.S.
+| death_date        = {{Death date and age|df=yes|2017|4|19|1938|8|15}}
+| death_place       = 
+| field             = [[Physics]] and [[Stochastic Process]]es
+| workplaces        = [[University of Maryland, College Park]]<br />[[Naval Air Weapons Station China Lake|NAWC China Lake]]
+| education         = [[Rice University]]<br />[[Johns Hopkins University]]
+| doctoral_advisor  = [[Aihud Pevsner]]
+| academic_advisors = Jan Sengers
+| doctoral_students = 
+| known_for         = [[Gillespie algorithm]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+}}
+
+'''Daniel Thomas Gillespie''' ({{IPAc-en|ɡ|ᵻ|ˈ|l|ɛ|s|p|i}} {{respell|ghih|LES|pee}}; 15 August 1938 – 19 April 2017) was a [[physicist]] who is best known for his derivation in 1976 of the '''stochastic simulation algorithm''' (SSA), also called the '''[[Gillespie algorithm]]'''.<ref>{{Cite web |url=http://legacy.newsok.com/obituaries/oklahoman/obituary.aspx?n=daniel-gillespie&pid=185179522 |title=DANIEL GILLESPIE's Obituary on Oklahoman |website=Oklahoman |access-date=2017-11-25}}</ref> Gillespie's broader research has produced articles on cloud physics, random variable theory, Brownian motion, Markov process theory, electrical noise, light scattering in aerosols, and quantum mechanics.
+
+==Education==
+Born in Missouri, Gillespie grew up in Oklahoma where he graduated from Shawnee High School in 1956.  In 1960 he received his B.A. (''[[magna cum laude]]'' and [[Phi Beta Kappa]]) with a major in physics from [[Rice University]].
+
+Gillespie received his Ph.D. from [[Johns Hopkins University]] in 1968 with a dissertation in experimental elementary particle physics under [[Aihud Pevsner]].  Part of his dissertation derived procedures for stochastically simulating high-energy elementary particle reactions using digital computers, and [[Monte Carlo method]]ology would play a major role in his later work.  During his graduate student years at JHU he was also a Jr. Instructor (1960–63) and an Instructor (1966-68) in the sophomore General Physics course.
+
+==Career==
+From 1968 to 1971, Gillespie was a Faculty Research Associate at the [[University of Maryland, College Park|University of Maryland College Park's]] Institute for Molecular Physics.  He did research in classical transport theory with Jan Sengers.  In 1971 he was also an Instructor in the university's Physics Department.
+
+From 1971 to 2001, Gillespie was a civilian scientist at the [[NAWS China Lake|Naval Weapons Center]] in China Lake, California.  Initially he was a Research Physicist in the Earth and Planetary Sciences Division. There his research in cloud physics led to a procedure for simulating the growth of raindrops in clouds,<ref name=R16>{{Cite journal
+| last1 = Gillespie | first1 = D. T.
+| title = An exact method for numerically simulating the stochastic coalescence process in a cloud
+| doi = 10.1175/1520-0469(1975)032<1977:AEMFNS>2.0.CO;2
+| journal = Journal of the Atmospheric Sciences
+| volume = 32
+| pages = 1977–1989
+| year = 1975
+| issue = 10
+| bibcode = 1975JAtS...32.1977G | doi-access = free
+}}</ref> and that prompted his paper on the SSA.<ref name=R1>{{Cite journal
+| last1 = Gillespie | first1 = D. T.
+| title = A general method for numerically simulating the stochastic time evolution of coupled chemical reactions
+| doi = 10.1016/0021-9991(76)90041-3
+| journal = Journal of Computational Physics
+| volume = 22
+| pages = 403–434
+| year = 1976
+| issue = 4
+| bibcode = 1976JCoPh..22..403G }}</ref>  In 1981 he became Head of the Research Department's Applied Mathematics Research Group, and in 1994 he was made a Senior Scientist in the Research Department.  He retired from China Lake in 2001.
+
+From 2001 to 2015, Gillespie was a private consultant in computational biochemistry, working under contract for various periods of time with the [[California Institute of Technology]], the [[Molecular Sciences Institute]] (in Berkeley), the [[Beckman Institute at Caltech]], and the [[University of California, Santa Barbara]].  Most of this was in collaboration with the [[Linda Petzold]] research group in the Computer Sciences Department of UCSB.
+
+==Books by Gillespie==
+*{{cite book
+|title = A Quantum Mechanics Primer
+|last = Gillespie
+|first = Daniel T.
+|year = 1970
+|publisher = International Textbook Co
+|isbn = 0700222901
+|pages = [https://archive.org/details/quantummechanics0000gill/page/137 137]
+|url = https://archive.org/details/quantummechanics0000gill/page/137
+}} Was in print from 1970 to 1986 by International Textbook Co., International Textbook Co. Ltd, Halstead Press, and Editorial Reverte (Spanish translation).
+*{{cite book
+|title = Markov Processes: An Introduction for Physical Scientists
+|last = Gillespie | first = Daniel T.
+|year = 1992
+|publisher = Academic Press
+|location = 
+|isbn = 0122839552
+|pages = 565
+|url = 
+}}
+*{{cite book
+|title = Simple Brownian Diffusion: An Introduction to the Standard Theories
+|last1 = Gillespie | first1 = Daniel T.
+|last2 = Seitaridou | first2 = Effrosyni
+|year = 2012
+|publisher = Oxford University Press
+|location =
+|isbn = 9780199664504
+|pages = 273
+|url = http://ukcatalogue.oup.com/product/9780199664504.do
+}} An Errata List for this book, including a heavily revised Sec. 5.6, can be downloaded free from [http://www.oup.com/pdf/acad/9780199664504_Errata.pdf the book’s webpage on the publisher’s website].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.ipst.umd.edu/ Institute for Physical Science and Technology]
+* [http://www.ipst.umd.edu/researchandfaculty/sengers.php Jan V. Sengers]
+* {{Citation
+| title = Sixteen win NWC Fellows honors
+| newspaper = The NWC Rocketeer
+| location = Naval Weapons Center, China Lake, CA
+| volume = XLVI
+| issue = 21
+| date = June 6, 1991
+| page = 1
+| url = http://chinalakealumni.org/Downloads/Rocketeer/1991/Rktr06.06.1991.pdf
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gillespie, Daniel T.}}
+[[Category:1938 births]]
+[[Category:2017 deaths]]
+[[Category:American physicists]]
+[[Category:American probability theorists]]
+[[Category:Rice University alumni]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:Monte Carlo methodologists]]

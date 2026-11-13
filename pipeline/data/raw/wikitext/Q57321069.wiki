@@ -1,0 +1,45 @@
+{{Short description|German-Romanian biochemist (born 1963)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| birth_date        = {{birth date_and_age|1963|09|06}}
+| birth_place       = [[Bucharest]], [[Romania]]
+| name              = Andrei Lupaș
+| image             = 
+| caption           = 
+| education         = [[Technical University of Munich]]<br />[[Princeton University]]
+| doctoral_advisor  = Jeffry Stock
+| academic_advisors = [[Andreas Plückthun]]<br />[[Wolfgang Baumeister]]
+| workplaces        = [[Beecham (pharmaceutical company)|Beecham Pharmaceuticals]]<br />[[Max Planck Institute for Developmental Biology]] <br />[[Max Planck Institute for Biology]] <br /> [[Max Planck Institute of Biochemistry]]
+| doctoral_students = 
+| website           = {{URL|https://www.eb.tuebingen.mpg.de/de/protein-evolution/}}
+}}
+'''Andrei N. Lupaș''' (born September 6, 1963) is a German-Romanian biochemist, molecular biologist, and bioinformatician.<ref name=MPG>{{Cite web |title=Lupas, Andrei N. |url=https://www.mpg.de/459944/biology-tuebingen-lupas |access-date=2022-12-14 |website=www.mpg.de |language=en}}</ref>
+
+== Education and career ==
+Lupaș was born in Bucharest, Romania, he began his studies in biology at the [[Technical University of Munich]] in 1982 before continuing his studies in molecular biology at [[Princeton University]], where he received his PhD in 1991 with Jeffry Stock on the mechanism of signal transduction in [[Chemotaxis|bacterial chemotaxis]]. He then worked at the [[Max Planck Institute of Biochemistry]] in Martinsried in the [[Wolfgang Baumeister]]'s department until 1997. From 1997 to 2001, he worked at [[SmithKline]] [[Beecham (pharmaceutical company)|Beecham Pharmaceuticals]] in [[Collegeville, Pennsylvania|Collegeville]]. Since 2001, he has been the Director and Scientific Member at the [[Max Planck Institute for Developmental Biology]] (now [[Max Planck Institute for Biology]]).<ref name=MPG /><ref>{{Cite web |date=2021-06-10 |title=The revolution in protein structure prediction |url=https://europe.naverlabs.com/research/seminars/the-revolution-in-protein-structure-prediction/ |access-date=2022-12-14 |website=Naver Labs Europe |language=en-US}}</ref>
+
+== Research ==
+Lupaș' research is largely on bioinformatics in combination with experimental structural biology. His earlier research focused on the prediction of coiled-coil structural elements<ref>{{Cite journal |last1=Lupas |first1=Andrei |last2=Van Dyke |first2=Marc |last3=Stock |first3=Jeff |date=1991-05-24 |title=Predicting Coiled Coils from Protein Sequences |url=https://www.science.org/doi/10.1126/science.252.5009.1162 |journal=Science |language=en |volume=252 |issue=5009 |pages=1162–1164 |doi=10.1126/science.252.5009.1162 |pmid=2031185 |bibcode=1991Sci...252.1162L |s2cid=2442386 |issn=0036-8075|url-access=subscription }}</ref> and of proteins, as well as calculations of structural homologies.<ref>{{Cite journal |last1=Soding |first1=J. |last2=Biegert |first2=A. |last3=Lupas |first3=A. N. |date=2005-07-01 |title=The HHpred interactive server for protein homology detection and structure prediction |journal=Nucleic Acids Research |language=en |volume=33 |issue=Web Server |pages=W244–W248 |doi=10.1093/nar/gki408 |issn=0305-1048 |pmc=1160169 |pmid=15980461}}</ref> Other areas of focus for his research are the origins of early peptides and their evolution into modern domains and ultimately into proteins.<ref>{{Cite web |title=Andrei Lupas fascination for the complex world of proteins |url=https://www.gesundheitsindustrie-bw.de/en/article/news/andrei-lupas-fascination-for-the-complex-world-of-proteins |archive-url=https://web.archive.org/web/20201025031338/https://www.gesundheitsindustrie-bw.de/en/article/news/andrei-lupas-fascination-for-the-complex-world-of-proteins |archive-date=2020-10-25 |access-date=2022-12-14 |website=www.gesundheitsindustrie-bw.de |language=en}}</ref>
+
+In addition, his research group was involved in the development of the MPI Bioinformatics Toolkit.<ref>{{Cite web |title=Bioinformatics Toolkit |url=https://toolkit.tuebingen.mpg.de/ |access-date=2022-12-14 |website=toolkit.tuebingen.mpg.de}}</ref> His research has been funded by the German Research Foundation, the Volkswagen Foundation, the Wellcome Trust, and the Howard Hughes Medical Institute.
+
+Lupaș was one of the judges at CASP14, where [[AlphaFold]] won.<ref>{{Cite web |title=Home - CASP14 |url=https://www.predictioncenter.org/casp14/index.cgi#assessment |access-date=2022-12-14 |website=www.predictioncenter.org}}</ref><ref>{{Cite web |last=Toews |first=Rob |title=AlphaFold Is The Most Important Achievement In AI—Ever |url=https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/ |access-date=2022-12-14 |website=Forbes |language=en}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lupas, A}}
+[[Category:1963 births]]
+[[Category:People from Bucharest]]
+[[Category:Technical University of Munich alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Max Planck Institute directors]]
+[[Category:Max Planck Society alumni]]
+[[Category:GSK plc people]]
+[[Category:German bioinformaticians]]
+[[Category:German biochemists]]
+[[Category:German molecular biologists]]
+[[Category:Romanian biochemists]]
+[[Category:Living people]]

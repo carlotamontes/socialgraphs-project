@@ -1,0 +1,90 @@
+{{short description|American biochemist}}
+{{Infobox scientist
+| honorific_prefix  = Professor
+| name              = Amy C. Rosenzweig
+| native_name       = 
+| image             = 
+| alt               = 
+| caption           = 
+| birth_date        = January 6th <ref>{{cite web | url=https://groups.molbiosci.northwestern.edu/rosenzweig/people.html | title=Welcome to the Rosenzweig Group! }}</ref>{{Birth year and age|1967}}
+| birth_place       = Pittsburgh, PA
+| fields            = Biochemistry and Chemistry
+| workplaces        = 
+| education         = [[Amherst College]] {{small|(B.S.) (1988)}}<br/>[[Massachusetts Institute of Technology]] {{small|(Ph.D) (1994)}}
+| thesis_title      = Structural studies of the hydroxylase component of methane monooxygenase from methyloccous capsulatus
+| thesis_url        = https://dspace.mit.edu/handle/1721.1/17347
+| thesis_year       = 1994
+| doctoral_advisor  = [[Stephen J. Lippard]]
+| academic_advisors = 
+| doctoral_students = 
+| known_for         = 
+| awards            = [[MacArthur Fellowship]]
+| website           = {{URL|https://groups.molbiosci.northwestern.edu/rosenzweig/}}
+| footnotes         = 
+}}
+'''Amy C. Rosenzweig''' is a professor of Chemistry and Molecular Biosciences and director of the Keck Biophysics Facility at [[Northwestern University]].<ref name=":0">{{Cite web|url=http://groups.molbiosci.northwestern.edu/rosenzweig/research.html|title=Welcome to the Rosenzweig Group!|website=groups.molbiosci.northwestern.edu|access-date=2017-06-08}}</ref> She was born in 1967 in Pittsburgh, Pennsylvania. Her current research interests include [[structural biology]] and [[bioinorganic chemistry]], metal uptake and transport, oxygen activation by [[metalloenzyme]]s, and characterization of [[membrane protein]]. For her work, she has been recognized by a number of national and international awards, including the [[MacArthur Fellows Program|MacArthur "Genius" Award]] in 2003.
+
+== Education and training ==
+She received her BA in [[chemistry]] from [[Amherst College]] in 1988, and her Ph.D. from [[Massachusetts Institute of Technology]] in 1994. At MIT, Rosenzweig worked under the supervision of [[Stephen J. Lippard]] where she pioneered the structural studies of the [[hydroxylase]] component of [[methane monooxygenase]] from ''methyloccous capsulatus''.
+
+Her research involves the study of an enzyme that Methanotrophic bacteria use to catalyze a reaction that converts potent greenhouse gases into usable fuel.<ref>{{Cite journal |last=Koo |first=Christopher W. |date=2022 |title=Methane-eating bacteria convert greenhouse gas to fuel |url=https://phys.org/news/2022-03-methane-eating-bacteria-greenhouse-gas-fuel.html |journal=Northwestern University |doi=10.1126/science.abm3282 |via=Northwestern University|pmc=9357287 }}</ref>
+
+==Biological Methane Oxidation==
+[[File:Particulate_Methane_Monoxygenase.png|thumb|Structure of pMMO]]
+Rosenzweig determined the molecular structures of Nature's main methane [[oxidation]] catalysts. Methane monooxygenases ([[Methane monooxygenase|MMO]]) are metalloenzymes found in the family of [[Methanotroph|methanotrophic bacteria]]. These enzymes belong in the [[oxidoreductase]] class. They activate carbon-hydrogen bonds to selectively install oxygen onto their substrate. Two major species of MMO exist—soluble MMO (sMMO) and [[Methane monooxygenase (particulate)|particulate MMO]] (pMMO). Despite mediating the same chemical reaction, these two enzymes' structure and mechanism are significantly different.
+
+Since the early 1990s, Rosenzweig has studied MMO enzymes in various biological systems. Her team was the first to solve the [[crystal structure]] of particulate MMO in 1993. In the following years, she made major advances in determining the enzyme's [[bioactivity]] and chemical constitution, including vast contributions to research on the metal-coordinated [[active site]].<ref name=":1">{{Cite journal|last1=Sirajuddin|first1=Sarah|last2=Rosenzweig|first2=Amy C.|date=2015-04-14|title=Enzymatic Oxidation of Methane|journal=Biochemistry|volume=54|issue=14|pages=2283–2294|doi=10.1021/acs.biochem.5b00198|issn=0006-2960|pmc=5257249|pmid=25806595}}</ref><ref name=":2">{{Cite journal|last1=Rosenzweig|first1=Amy C.|last2=Frederick|first2=Christin A.|last3=Lippard|first3=Stephen J.|last4=P& Auml|last5=Nordlund|first5=R|date=1993-12-09|title=Crystal structure of a bacterial non-haem iron hydroxylase that catalyses the biological oxidation of methane|journal=Nature|language=en|volume=366|issue=6455|pages=537–543|doi=10.1038/366537a0|pmid=8255292|bibcode=1993Natur.366..537R|s2cid=4237249}}</ref>
+
+The currently proposed [[Reaction mechanism|mechanism]] for sMMO involves an [[Iron]] (II) [[coordination complex]] that is twice oxidized to form a [[Peroxide|metalloperoxide]] species. This species then undergoes reduction in the presence of substrate [[methane]] to afford the oxidized alkyl [[methanol]]. The crystal structure of the sMMO protein-protein complex has been determined.<ref name=":2" /><ref>{{Cite journal|last1=Lawton|first1=Thomas J|last2=Rosenzweig|first2=Amy C|date=2016-12-01|title=Biocatalysts for methane conversion: big progress on breaking a small substrate|journal=Current Opinion in Chemical Biology|series=Energy Mechanistic Biology|volume=35|pages=142–149|doi=10.1016/j.cbpa.2016.10.001|pmc=5161620|pmid=27768948}}</ref>
+[[File:PMMO_active_site.png|thumb|Active site of pMMO]]
+Currently, there remains a mystery in the direct understanding of pMMO-substrate interaction, particularly in diagnosing a complex mechanism. According to Rosenzweig, this elusive problem remains "one of the major unsolved problems in bioinorganic chemistry."<ref name=":0" />
+
+== Metal Transport ==
+In her work with pMMOs, Rosenzweig elucidated the molecular basis for safe handling of potentially [[Toxicity|toxic]] metal ions through direct handoff between protein partners. Methanotrophs secrete [[methanobactin]]. Methanobactin [[Chelation|chelated]] with high affinity to [[copper]], and forms a complex (CuMbn) that can be reinternalized by the cell through active transport. There are specific interactions between CuMbn and proteins MbnT and MbnE. These findings reveal mechanisms for recognition and transport of CuMbn.<ref name=":1" />
+
+== Metalloprotein Function ==
+Rosenzweig determined structures of important metalloproteins, exerting sustained influence on the field of bioinorganic chemistry. Particular proteins which she determined the structure of are E. coli Mn (II) 2-NrdF and Fe (II) 2-NrdF, which have different coordination sites. This suggests distinct initial binding sites for oxidants during cofactor activation with E. coli and nucleotides.<ref>{{Cite journal|last1=Boal|first1=Amie K.|last2=Cotruvo|first2=Joseph A.|last3=Stubbe|first3=JoAnne|last4=Rosenzweig|first4=Amy C.|date=2010-09-17|title=Structural Basis for Activation of Class Ib Ribonucleotide Reductase|journal=Science|language=en|volume=329|issue=5998|pages=1526–1530|doi=10.1126/science.1190187|issn=0036-8075|pmc=3020666|pmid=20688982|bibcode=2010Sci...329.1526B}}</ref>
+
+==Awards==
+* Alfred Bader Award in Bioinorganic or Bioorganic Chemistry Recipient [[American Chemical Society]], 2021 <ref>{{Cite web|url=https://www.acs.org/content/acs/en/funding-and-awards/awards/national/bytopic/alfred-bader-award-in-bioinorganic-or-bioorganic-chemistry.html|title=Alfred Bader Award in Bioinorganic or Bioorganic Chemistry}}</ref>
+* Elected Member, [[National Academy of Sciences]], 2017<ref>{{Cite web|url=https://www.nasonline.org/directory-entry/amy-c-rosenzweig-ol8ajv/|title=Amy Rosenzweig|publisher=National Academy of Sciences|access-date=2018-03-22}}</ref>
+* Elected Fellow, [[American Academy of Arts and Sciences]], 2014<ref>{{Cite web|url=https://www.amacad.org/multimedia/pdfs/alphalist2016.pdf|title=Index of Active Members}}</ref>
+* [[Royal Society of Chemistry]] Joseph Chatt Award, 2014<ref>{{Cite web|url=http://www.rsc.org/ScienceAndTechnology/Awards/JosephChatt/2014-Winner.asp|title=Joseph Chatt Award 2014 Winner|website=www.rsc.org|language=en|access-date=2018-04-05}}</ref>
+* Ivano Bertini Award, 2014<ref name=":3">{{Cite web|url=http://groups.molbiosci.northwestern.edu/rosenzweig/images/acr_cv_webOct2017.pdf|title=Amy C. Rosenzweig CV|date=October 2017}}</ref>
+* Elected Fellow, American Association For the Advancement of Science, 2007<ref name=":3" />
+* [[American Chemical Society]] Nobel Laureate Signature Award for Graduate Education, 2006<ref>{{Cite web|url=https://www.acs.org/content/acs/en/funding-and-awards/awards/national/bytopic/nobel-laureate-signature-award-for-graduate-education-in-chemistry.html|title=Nobel Laureate Signature Award for Graduate Education in Chemistry - American Chemical Society|website=American Chemical Society|language=en|access-date=2018-03-22}}</ref>
+* Honorary degree, Doctor of Science, [[Amherst College]], 2005<ref>{{Cite web|url=https://www.amherst.edu/news/specialevents/commencement/awards/name|title=Honorary Degrees & Awards {{!}} Recipients by Name {{!}} Amherst College|website=www.amherst.edu|language=en|access-date=2018-03-23|archive-date=2017-09-10|archive-url=https://web.archive.org/web/20170910175227/https://www.amherst.edu/news/specialevents/commencement/awards/name|url-status=dead}}</ref>
+* MacArthur Fellow, 2003<ref name=":0" />
+* Camille Dreyfus Teacher Scholar Award, 2001<ref name=":4">{{Cite web |title=Amy Rosenzweig: Department of Chemistry - Northwestern University |url=https://chemistry.northwestern.edu/people/faculty/profiles/amy-rosenzweig.html |access-date=2026-03-16 |website=chemistry.northwestern.edu |language=en}}</ref>
+* David and Lucille Packard Fellow, 1999<ref name=":4" />
+
+==Works==
+*Walker, C. B.; de la Torre, J. R.; Klotz, M. G.; Urakawa, H.; Pinel, N.; Arp, D. J.; Brochier-Armanet, C.; Chain, P. S.; Chan, P. P.; Gollabgir, A.; Hemp, J.; Hügler, M.; Karr, E. A.; Könneke, M.; Shin, M.; Lawton, T. J.; Lowe, T.; Martens-Habbena, W.; Sayavedra-Soto, L. A.; Stahl, D. A. ''Nitrosopumilus maritimus'' Genome Reveals Unique Mechanisms for Nitrification and Autotrophy in Globally Distributed Marine Crenarchaea. ''Proc. Natl. Acad. Sci. U.S.A.'' '''2010''', ''107'' (19), 8818–8823.<ref>{{Cite journal |last=Walker |first=C. B. |last2=de la Torre |first2=J. R. |last3=Klotz |first3=M. G. |last4=Urakawa |first4=H. |last5=Pinel |first5=N. |last6=Arp |first6=D. J. |last7=Brochier-Armanet |first7=C. |last8=Chain |first8=P. S. G. |last9=Chan |first9=P. P. |last10=Gollabgir |first10=A. |last11=Hemp |first11=J. |last12=Hügler |first12=M. |last13=Karr |first13=E. A. |last14=Könneke |first14=M. |last15=Shin |first15=M. |date=2010-05-11 |title=Nitrosopumilus maritimus genome reveals unique mechanisms for nitrification and autotrophy in globally distributed marine crenarchaea |url=https://www.pnas.org/doi/abs/10.1073/pnas.0913533107 |journal=Proceedings of the National Academy of Sciences |volume=107 |issue=19 |pages=8818–8823 |doi=10.1073/pnas.0913533107 |pmc=2889351 |pmid=20421470}}</ref>
+*Lieberman, R. L & Rosenzweig, A. C. "Crystal structure of a membrane-bound metalloenzyme that catalyses the biological oxidation of methane", ''Nature'' 2005, 434, 177-182.
+*Lieberman, R. L., Kondapalli, K. C., Shrestha, D. B., Hakemian, A. S., Smith, S. M., Telser, J., Kuzelka, J., Gupta, R., Borovik, A. S., Lippard, S. J., Hoffman, B. M., Rosenzweig, A. C., & Stemmler, T. L. "Characterization of the particulate methane monooxygenase metal centers in multiple redox states by X-ray absorption spectroscopy". ''Inorg. Chem.'' 2006, 45, 8372-8381.
+*Sazinsky, M. H., Mandal, A. L, Argüello, J. M., & Rosenzweig, A. C. "Structure of the ATP binding domain from the Archaeglobus fulgidus Cu1+-ATPase". ''J. Biol. Chem.''. 2006, 281, 11161-11166.
+*Yatsunyk, L. A. & Rosenzweig, A. C. "Copper binding and transfer by the N-terminus of the Wilson disease protein", ''J. Biol. Chem.''. 2007, 282, 8622-8631.
+*Rosenzweig, Lippard, [https://books.google.com/books?id=B3mluVODfjMC&pg=PA257 "Structure and Biochemistry Methane Monooxygenase Enzyme Systems"], ''Transition metals in microbial metabolism'', Editors Günther Winkelmann, Carl J. Carrano, CRC Press, 1997, {{ISBN|978-90-5702-220-3}}
+*Rosenzweig, Feng, Lippard, [https://books.google.com/books?id=ZX5x5ls6VdYC&dq=Amy+Rosenzweig&pg=PA69 "Studies of Methane Monooxygenase and Alkane Oxidation Model Complexes"], ''Applications of enzyme biotechnology'', Editors Jeffery W. Kelly, Thomas O. Baldwin, Springer, 1991, {{ISBN|978-0-306-44095-3}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://f1000biology.com/about/biography/128404296296200 "Amy Rosenzweig"] {{Webarchive|url=https://web.archive.org/web/20090317062005/http://www.f1000biology.com/about/biography/128404296296200 |date=2009-03-17 }}, ''Faculty of 1000''
+
+{{authority control}}
+
+{{DEFAULTSORT:Rosenzweig, Amy}}
+[[Category:American women biochemists]]
+[[Category:Northwestern University faculty]]
+[[Category:Amherst College alumni]]
+[[Category:MIT School of Science alumni]]
+[[Category:Living people]]
+[[Category:1967 births]]
+[[Category:MacArthur Fellows]]
+[[Category:The Ellis School alumni]]
+[[Category:American women academics]]
+[[Category:21st-century American women]]
+[[Category:Chemists from Pennsylvania]]
+[[Category:Scientists from Pittsburgh]]

@@ -1,0 +1,100 @@
+{{Short description|British-American physicist}}
+{{Infobox scientist
+| name              = Piers Coleman
+| image             = Piers Coleman 2018.jpg
+| caption           = Coleman in 2018
+| nationality       = 
+| birth_place       = [[Cheltenham, England]]
+| birth_date        = {{birth year and age|1958}}
+| education         = [[Cheltenham Grammar School]]
+| fields            = [[Condensed matter theory]]
+| workplaces        = [[Rutgers University]]<br />[[Royal Holloway, University of London]]
+| alma_mater        = [[University of Cambridge]]<br />[[Princeton University]]
+| doctoral_advisor  = [[Philip W. Anderson]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[slave boson|Slave Boson]], [[Quantum Critical Point|quantum criticality]], [[Heavy Fermion]] [[superconductivity]]<ref name=aps>{{cite web|title=Author Profile for Piers Coleman|url=http://physics.aps.org/authors/piers_coleman|website=Physics - Piers Coleman|publisher=American Physical Society|access-date=31 January 2011}}</ref>
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = [[Premala Chandra]]<ref name=lily>{{citation|url=https://bhavana.org.in/lalitha-kale-harish-chandra-1934-2019/|title=Lalitha Kale Harish-Chandra (1934–2019)|magazine=Bhāvanā: The mathematics magazine|volume=3|issue=3|date=July 2019|access-date=2025-05-23}}</ref>
+}}
+'''Piers Coleman''' (born 1958)<ref>{{Cite web |last=Coleman |first=Piers |date=2018 |title=Publications and CV |url=https://www.physics.rutgers.edu/~coleman/mycv18.pdf |access-date=2024-08-14 |website=Piers Coleman's home page}}</ref> is a British-born [[theoretical physics|theoretical physicist]], working in the field of theoretical [[condensed matter physics]].<ref name=nano>{{cite web|title=Quantum Mechanical Triplet May Lead to Superconductivity at High Temperatures|url=http://www.azonano.com/news.asp?newsID=6883|publisher=AZNanotechnology|website=Azonano|access-date=31 January 2011|date = 2008-07-22}}</ref> Coleman is professor of physics at  [[Rutgers University]] in [[New Jersey]] and at [[Royal Holloway, University of London]].
+
+==Education and career==
+Coleman was raised in [[Cheltenham, England]], where he attended [[Cheltenham Grammar School]], graduating in 1976.  He completed his undergraduate education at [[Trinity College, Cambridge]], pursuing the [[Natural Sciences Tripos]] and the [[Mathematics Tripos]] part III under the mentorship of [[Gilbert Lonzarich]]. In 1980 he won a [[Jane Eliza Procter Fellowship]] to [[Princeton University]] where he studied [[Condensed matter physics#Theoretical|theoretical condensed matter physics]]<ref name=pugrads>{{cite web|title=Princeton University Graduate Alumni Index, 1839-1998|url=https://static-tables-prod.princeton.edu/princeton-university-graduate-alumni-index}}</ref> with [[Philip Warren Anderson]]. Contemporaries in the Princeton graduate physics program included [[Gabriel Kotliar]], [[Cumrun Vafa]], [[Nathan Mhyrvold]] and [[Jennifer Chayes]]. He was awarded a Junior Research Fellowship at [[Trinity College, Cambridge]], which he held from 1983 to 1988.  He was a postdoctoral fellow at the [[Kavli Institute for Theoretical Physics]] [[Santa Barbara, California|Santa Barbara]] from 1984 to 1986. He joined the faculty at [[Rutgers University]] in 1987. Since 2010 he has also held the position of University of London Chair of Theoretical Condensed Matter Physics at [[Royal Holloway, University of London]]. In 2011, Piers Coleman replaced [[David Pines]] as a director of the [[Institute for Complex Adaptive Matter]].<ref name=icamdir>{{cite web|title=Directors of the Institute for Complex Adaptive Matter (ICAM)|url=
+https://www.icam-i2cam.org/directors}}</ref>
+
+==Research==
+Coleman is known for his work related to [[strongly correlated electrons|strongly correlated electron]] systems, and in particular, the study of [[magnetism]], [[superconductivity]] and [[topological insulators]]. He is the author of the popular text ''Introduction to Many-Body Physics''.
+
+In his early career at [[Princeton University]] Coleman worked on the problem of valence fluctuations in solids.  In the 1960s the physicist [[John Hubbard (physicist)|John Hubbard]] introduced a mathematical operator, the "Hubbard operator"<ref name=hubbard>{{cite journal|last=Hubbard |first=J.|title=Electron correlations in narrow energy bands. II. The degenerate band case|journal=Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences|volume=277|issue=1369|year=1964|pages=237–259|doi=10.1098/rspa.1964.0019|bibcode=1964RSPSA.277..237H|s2cid=122573530}}</ref> for describing the restricted fluctuations in valence between two charge states of an ion.  In 1983 Coleman invented the [[slave boson]] formulation of the Hubbard operators,<ref name=sboson>{{cite journal|year=1984|pages=3035–3044|journal=Physical Review B|volume=29|issue=6|title=A New Approach to the Mixed Valence Problem|doi=10.1103/PhysRevB.29.3035|last1=Coleman|first1=Piers|bibcode=1984PhRvB..29.3035C}}</ref> which involves the factorization of a Hubbard operator into a canonical fermion and a boson <math>X_{\sigma 0}= f^{\dagger}_{\sigma}b</math>. The use of canonical fermions enabled
+the Hubbard operators to be treated within a field-theoretic approach,<ref name=readnewns>{{cite journal|year=1983|pages=L1055–L1060|journal=Journal of Physics C: Solid State Physics|volume=16|issue=29|title=A new functional integral formalism for the degenerate Anderson model |doi=10.1088/0022-3719/16/29/007|last1=Read|first1=N.|last2=Newns|first2=D. M.|bibcode=1983JPhC...16.1055R}}</ref> allowing the first mean-field treatments of the heavy fermion problem. 
+The [[slave boson]] approach has since been widely applied to strongly correlated electron systems, and has proven useful in developing the [[resonating valence bond theory]] (RVB) of high temperature superconductivity<ref name=rvboson>{{cite journal|journal=Physical Review Letters|title=Resonating–valence-bond theory of phase transitions and superconductivity in La2CuO4-based compounds|volume=58|issue=26|pages=2790–2793|year=1987|doi=10.1103/PhysRevLett.58.2790|pmid=10034850|last1=Anderson|first1=P. W.|last2=Baskaran|first2=G.|last3=Zou|first3=Z.|last4=Hsu|first4=T.|bibcode=1987PhRvL..58.2790A}}</ref><ref name=gabi>{{cite journal|journal=Physical Review B|title=Superexchange mechanism and d-wave superconductivity|volume=38|issue=7|pages=5142–5145|year=1988|doi=10.1103/PhysRevB.38.5142|pmid=9946940|last1=Kotliar|first1=Gabriel|last2=Liu|first2=Jialin|bibcode=1988PhRvB..38.5142K}}</ref> and the understanding of [[heavy fermion]] compounds.<ref name=hfmetal>{{cite journal|journal=Physical Review B|volume=35|issue=7|pages=3394–3414|title=Large-orbital-degeneracy expansion for the lattice Anderson model|year=1986|doi=10.1103/PhysRevB.35.3394|pmid=9941843|last1=Millis|first1=A. J.|last2=Lee|first2=P. A.}}</ref>
+
+At Rutgers, he became interested in the interplay of magnetism with strong electron correlations. With [[:de:Natan Andrei|Natan Andrei]] he adapted the [[resonating valence bond theory]] of high temperature superconductivity<ref name=rvboson /> to [[heavy fermion superconductivity]].<ref name=hfsc>{{cite journal|title=Kondo-stabilised spin liquids and heavy fermion superconductivity|journal=Journal of Physics: Condensed Matter|volume=1|issue=26|pages=4057–4080|year=1989|publisher=The Institute of Physics|doi=10.1088/0953-8984/1/26/003|last1=Coleman|first1=P.|last2=Andrei|first2=N.|bibcode=1989JPCM....1.4057C}}</ref>  In 1990 with [[Anatoly Larkin]] and [[Premala Chandra|Premi Chandra]], they explored the effect of thermal and zero-point magnetic fluctuations  on two dimensional frustrated Heisenberg magnets.<ref name=ccl>{{cite journal|title=Ising Transition in Frustrated Heisenberg Models|journal=Physical Review Letters|volume=64|pages=88–91|year=1990|doi=10.1103/PhysRevLett.64.88|last1=Chandra|first1=P.|last2=Coleman|first2=P.|last3=Larkin|first3=A. I.|issue=1|pmid=10041280|bibcode=1990PhRvL..64...88C}}</ref> Conventional wisdom maintained that because of the [[Mermin–Wagner theorem]], two dimensional Heisenberg magnets are unable to develop any form of [[long-range order]].  Chandra, Coleman and Larkin demonstrated that frustration can lead to a finite temperature [[Ising model|Ising]] phase  transition into a striped state with long range spin-nematic order. This kind of order is now known to develop in high temperature [[iron-based superconductors]].<ref name=sachdev>{{cite journal|title=Ising and spin orders in the iron-based superconductors|year=2008 |journal=Physical Review B|volume=79|issue=2|pages=020501(R)|doi=10.1103/PhysRevB.78.020501|arxiv=0804.4293|last1=Xu|first1=Cenke|last2=Müller|first2=Markus|last3=Sachdev|first3=Subir|bibcode=2008PhRvB..78b0501X |s2cid=6815720 }}</ref>
+
+Working with [[Alexei Tsvelik]], Coleman carried out some of the earliest applications of Majorana Fermions to condensed matter problems.  In 1992,
+Coleman, Miranda and Tsvelik examined the application of the Majorana representation of spins <math>\vec S = - \tfrac{i}{2} \vec \eta \times \vec \eta</math> to the Kondo lattice, showing that if local moments fractionalize as Majorana, rather than Dirac fermions, the resulting ground-state is
+an odd-frequency superconductor.<ref name=oddw1>{{cite journal|title= Possible realization of odd-frequency pairing in heavy fermion compounds|year= 1993|journal=Physical Review Letters|volume=70|issue=19|pages=2960–2963|doi=10.1103/PhysRevLett.70.2960|pmid=10053697|last1= Coleman|first1= P.|last2= Miranda|first2= E.|last3= Tsvelik|first3= A.|arxiv= cond-mat/9302018|bibcode= 1993PhRvL..70.2960C|s2cid= 17236854}}</ref><ref name=oddw2>{{cite journal|title=Odd-frequency pairing in the Kondo lattice|year= 1994|journal=Physical Review B|volume=49|issue=13|pages=8955–8982|doi=10.1103/PhysRevB.49.8955|pmid=10009677|last1=Coleman|first1=P.|last2=Miranda|first2=E.|last3=Tsvelik|first3=A.|arxiv=cond-mat/9305017|bibcode= 1994PhRvB..49.8955C|s2cid= 16281393}}</ref> Working with [[Andrew John Schofield|Andrew Schofield]] and Alexei Tsvelik, they later advanced a model to account for the unusual magneto-resistance properties of high temperature superconductors in their normal state, in which the electrons fractionalize into 
+Majorana fermions.<ref name=strange1>{{cite journal|title=Phenomenological Transport Equation for the Cuprate Metals|year= 1996|journal=Physical Review Letters|volume=76|issue=8|pages=1324–1327|doi=10.1103/PhysRevLett.76.1324|pmid=10061692|arxiv=cond-mat/9602001|last1=Coleman|first1=P.|last2=Schofield|first2=A. J.|last3=Tsvelik|first3=A. M.|bibcode= 1996PhRvL..76.1324C|s2cid= 44549797}}</ref>
+
+In the late 1990s, Coleman became interested in the breakdown of [[Fermi liquid]] behavior at a  [[quantum critical point]].  Working with [[Gabriel Aeppli]] and Hilbert von Löhneysen, they demonstrated established the presence of local quantum critical fluctuations in the quantum critical metal CeCu<sub>6-x</sub>Au<sub>x</sub>, identified as a consequence of the break-down of the [[Kondo effect]] that accompanies the development of magnetism.<ref name=aeppli>{{cite journal|title=Onset of antiferromagnetism in heavy-fermion metals|journal=Nature|volume=407|issue=6802| pages=351–355|year=2000|doi=10.1038/35030039|pmid=11014185|arxiv=cond-mat/0011002|last1=Schröder|first1=A.|last2=Aeppli|first2=G.|last3=Coldea|first3=R.|last4=Adams|first4=M.|last5=Stockert|first5=O.|last6=Löhneysen|first6=H.v.|last7=Bucher|first7=E.|last8=Ramazashvili|first8=R.|last9=Coleman|first9=P.|bibcode=2000Natur.407..351S|s2cid=4414169}}</ref> This led to the prediction that the Fermi surface will change discontinuously at a quantum critical point,<ref name=whydo>{{cite journal|title=How do Fermi liquids get heavy and die?|journal= Journal of Physics: Condensed Matter|year=2001|volume=13|issue=35|pages=R723–R738|doi=10.1088/0953-8984/13/35/202|last1=Coleman|first1=P.|last2=Pépin|first2=C.|last3=Si|first3=Qimiao|last4=Ramazashvili|first4=R.|arxiv=cond-mat/0105006|s2cid= 15940806}}</ref> a result later observed in field tuned quantum criticality in the material YbRh<sub>2</sub>Si<sub>2</sub><ref name=silke>{{cite journal|title=Hall-effect evolution across a heavy-fermion quantum critical point|journal=Nature|pages=881–885|year=2004|volume=432|issue=7019|doi=10.1038/nature03129|pmid=15602556|arxiv=cond-mat/0411074|last1 = Paschen|first1 = S.|last2 = Lühmann|first2 = T.|last3 = Wirth|first3 = S.|last4 = Gegenwart|first4 = P.|last5 = Trovarelli|first5 = O.|last6 = Geibel|first6 = C.|last7 = Steglich|first7 = F.|last8 = Coleman|first8 = P.|last9 = Si|first9 = Q.|bibcode=2004Natur.432..881P|s2cid=4415212}}</ref> and in pressure-tuned quantum criticality in the material CeRhIn<sub>5</sub>.<ref name=shishido>{{cite journal|title=A Drastic Change of the Fermi Surface at a Critical Pressure in CeRhIn 5: dHvA Study under Pressure|pages=1103–1106|year=2005|volume=74|issue=4|journal=Journal of the Physical Society of Japan|doi=10.1143/JPSJ.74.1103|last1 = Shishido|first1 = Hiroaki|last2 = Settai|first2 = Rikio|last3 = Harima|first3 = Hisatomo|last4 = Ōnuki|first4 = Yoshichika|bibcode=2005JPSJ...74.1103S}}</ref>
+
+After the discovery of [[topological insulators]], Coleman became interested in whether topological insulating behavior could exist in materials with strong correlation.  In 2008, the team of
+Maxim Dzero, Kai Sun and [[Victor Galitski]] and Piers Coleman predicted that the class of [[Kondo insulator]]s can develop a topological ground-state, proposing [[samarium hexaboride]] (SmB<sub>6</sub>) as a Topological Kondo Insulator.<ref>{{cite journal | title = Topological Kondo Insulators| journal = Physical Review Letters| volume = 104| issue = 10| article-number = 106408| year = 2010| doi = 10.1103/PhysRevLett.104.106408| pmid = 20366446| last1 = Dzero| first1 = Maxim| last2 = Sun| first2 = Kai| last3 = Galitski| first3 = Victor| last4 = Coleman| first4 = Piers| arxiv = 0912.3750| bibcode = 2010PhRvL.104j6408D| s2cid = 119270507}}</ref> The observation of the development of robust conducting surface states in SmB<sub>6</sub> is consistent with this early prediction.<ref>{{cite journal | title = Hopes surface for exotic insulator| journal = Nature| volume = 492| issue = 7428| page = 165| year = 2012| last1 = Reich | first1 = Eugenie Samuel| doi = 10.1038/492165a| pmid = 23235853| bibcode = 2012Natur.492..165S| doi-access = free}}</ref><ref name=quanta>{{cite journal|last=Wolchover|first=Natalie |title=Paradoxical Crystal Baffles Physicists|journal=Quanta Magazine|date=2 July 2015 |url=https://www.quantamagazine.org/samarium-hexaboride-crystal-blurs-metal-insulator-line-20150702/}}</ref>
+
+Notable former research students and postdoctoral fellows in his group include [[Ian Ritchey]],<ref>{{Cite web | url=https://www.raeng.org.uk/about-us/the-fellowship/new-fellows-2017/fellows/ian-ritchey |title = Ian Ritchey - Royal Academy of Engineering}}</ref> [[Eduardo Miranda]],<ref>{{cite web | url=https://sites.ifi.unicamp.br/emiranda/en/ | title=About me | date=6 January 2014 }}</ref>  [[Andrew John Schofield|Andrew Schofield]], [[Maxim Dzero]],<ref>{{Cite web | url=https://www.kent.edu/physics/profile/maxim-dzero | title=Maxim Dzero &#124; Physics &#124; Kent State University}}</ref> [[Andriy Nevidomskyy]]<ref>{{Cite web | url=https://physics.rice.edu/people/andriy-nevidomskyy |title = An9 &#124; Physics and Astronomy &#124; Rice University}}</ref> and [[Rebecca Flint (physicist)|Rebecca Flint]]<ref>{{Cite web |url=https://flint.public.iastate.edu/ |title=Rebecca Flint |access-date=2022-07-15 |archive-date=2019-09-02 |archive-url=https://web.archive.org/web/20190902214656/https://flint.public.iastate.edu/ }}</ref>
+
+==Personal life==
+
+Piers Coleman is married to the American theoretical physicist [[Premi Chandra|Premala Chandra]] and they have two sons. He is the elder brother of musician and composer [[Jaz Coleman]].<ref name=nature>{{cite journal|last=Tomlin|first=Sarah|title=Brothers in Art|journal=Nature|date=2 September 2004|volume=431|pages=14–16|issue=7004|doi=10.1038/431014a|pmid=15343304|s2cid=4379887|doi-access=free}}</ref>
+
+==Science outreach==
+
+Along with his younger brother [[Jaz Coleman|Jaz]], Coleman worked on a concert and physics outreach website ''Music of the Quantum''. The concert has pieces composed by [[Jaz Coleman]], based on themes from physics such as quantum criticality, emergence and symmetry breaking. They delivered performances of ''Music of the Quantum'' at the [[Bethlehem Chapel]] in [[Prague]] and at [[Columbia University]] in [[New York City|New York]].<ref name=nature />  He has also produced a short documentary on Emergence with [[Paul Chaikin]], as part of the Annenberg series Physics in the 21st Century.<ref name=chaikin>{{cite web |last1=Coleman |first1=Piers |last2=Chaikin |first2=Paul |website=Annenburg Learner|title=Emergent Behavior in Quantum Matter|url=https://www.learner.org/courses/physics/unit/unit_sci.html?unit=8|year=2010}}</ref>
+
+==Awards and honors==
+
+Coleman was awarded a [[Sloan Fellowship]] in 1988.  In 2002 he was elected a Fellow of the [[American Physical Society]] "for innovative approaches to the theory of strongly correlated electron systems".<ref>[http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=C&year=&unit_id=&institution= APS Fellows, 1995-present], [[American Physical Society]]. Accessed July 21, 2011</ref> In 2018 he was elected to the board of the [[Aspen Center for Physics]]. His research is supported by the [[National Science Foundation]], Division of Materials Theory, and the Department of Energy, division of Basic Energy Sciences.
+
+==Books==
+* {{Cite book|title=Introduction to Many-Body Physics |publisher=Cambridge University Press|year=2015|isbn=978-0-521-86488-6|location=Cambridge, U.K.|last=Coleman|first=Piers|url=
+https://www.cambridge.org/core/books/introduction-to-manybody-physics/B7598FC1FCEE0285F5EC767E835854C8}}
+
+== See also ==
+* [[Zlatko Tesanovic]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.physics.rutgers.edu/~coleman/}}
+*[http://musicofthequantum.rutgers.edu/ Music of the Quantum] website
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coleman, Piers}}
+[[Category:21st-century American physicists]]
+[[Category:20th-century American physicists]]
+[[Category:20th-century English physicists]]
+[[Category:21st-century English physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Rutgers University faculty]]
+[[Category:Living people]]
+[[Category:1958 births]]
+[[Category:Theoretical physicists]]
+[[Category:English emigrants to the United States]]
+[[Category:American condensed matter physicists]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Princeton University alumni]]
+[[Category:Scientists from Cheltenham]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century English non-fiction writers]]
+[[Category:21st-century English male non-fiction writers]]
+[[Category:American people of Bengali descent]]
+[[Category:Academics of Royal Holloway, University of London]]
+[[Category:Aspen Center for Physics people]]
+[[Category:American male non-fiction writers]]

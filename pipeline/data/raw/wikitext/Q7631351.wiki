@@ -1,0 +1,134 @@
+{{Short description|Indian physicist}}
+{{Use dmy dates|date=February 2026}}
+{{Use Indian English|date=December 2019}}
+{{Infobox scientist
+| name              = Subir Sachdev
+| image             = File:R36C4122s.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = 2 December 1961
+| birth_place       = New Delhi, India
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Condensed matter theory]]
+| workplaces        = 
+| education         = {{plainlist|
+*[[Massachusetts Institute of Technology]] (B.S)
+*[[Harvard University]] (Ph.D)
+}}
+| thesis_title      = Frustration and Order in Rapidly Cooled Metals
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1985
+| doctoral_advisor  = [[David Robert Nelson|D. R. Nelson]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         =[[Sachdev–Ye–Kitaev model]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{plainlist|
+* [[LeRoy Apker Award]] (1982)
+* [[Sloan Research Fellowship|Sloan Fellowship]] (1989)
+* [[Guggenheim Fellowship]] (2003)
+* [[National Academy of Sciences]] (2014)
+* [[Dirac Medal and Lecture|UNSW Dirac Medal]] (2015)
+* [[Lars Onsager Prize]] (2018)
+* [[Dirac Medal (ICTP)|ICTP Dirac Medal]] (2018)
+* [[Royal Society]] (2023)
+}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| website           = {{URL|https://sachdev.physics.harvard.edu}}
+}}
+
+'''Subir Sachdev''' is [[Herchel Smith]] professor of physics<ref>{{cite web |title=Subir Sachdev. Herchel Smith Professor of Physics, Harvard University |url=http://sachdev.physics.harvard.edu/ |publisher=Official website}}</ref> at [[Harvard University]] specializing in [[condensed matter]]. He was elected to the U.S. National
+Academy of Sciences in 2014, received the [[Lars Onsager Prize]] from the [[American Physical Society]] and the [[Dirac Medal (ICTP)|Dirac Medal]] from the [[ICTP]] in 2018, and was elected Foreign Member of the [[Royal Society]] ForMemRS in 2023.
+He was a co-editor of the ''[[Annual Review of Condensed Matter Physics]]'' 2017–2019,<ref>{{cite web |title=Annual Review of Condensed Matter Physics, Planning Editorial Committee – Volume 8, 2017  |url=https://www.annualreviews.org/db/directory?2017,conmatphys |website=Annual Reviews Directory |access-date=14 September 2021}}</ref><ref>{{cite web |title=Annual Review of Condensed Matter Physics, Planning Editorial Committee – Volume 10, 2019  |url=https://www.annualreviews.org/db/directory?2019,conmatphys |website=Annual Reviews Directory |access-date=14 September 2021}}</ref> and is Editor-in-Chief of [[Reports on Progress in Physics]] since 2022.
+
+Sachdev's research describes the consequences of [[quantum entanglement]] on the macroscopic properties of natural systems. He has described diverse varieties of entangled states of quantum matter, and of their behavior near [[quantum phase transitions]]. Many of these contributions have been linked to experiments, especially to the rich phase diagrams of the [[high temperature superconductors]]. Sachdev's research has exposed connections between the nature of quantum entanglement in certain laboratory materials, and the quantum entanglement in astrophysical [[black holes]], and these connections have led to insights on the entropy and radiation of black holes.
+
+==Career==
+Sachdev attended school at [[St. Joseph's Boys' High School, Bangalore]] and [[Kendriya Vidyalaya]], ASC, [[Bangalore]]. He attended college at [[Indian Institute of Technology, Delhi]] for a year. He transferred to [[Massachusetts Institute of Technology]] where he received a BS in Physics. He received his PhD in theoretical physics from  [[Harvard University]]. He held professional positions at [[Bell Labs]] (1985–1987) and at [[Yale University]] (1987–2005), where he was a Professor of Physics, before returning to Harvard, where he is now the [[Herchel Smith]] Professor of Physics. He has also held visiting positions as the [[Cenovus Energy]] [[James Clerk Maxwell]] Chair in Theoretical Physics<ref name="perimeter maxwell">{{cite web | title= Subir Sachdev, Perimeter Institute | url=https://perimeterinstitute.ca/people/subir-sachdev}}</ref> at the [[Perimeter Institute for Theoretical Physics]], and the Dr. [[Homi J. Bhabha]] Chair Professorship<ref>{{cite web | title= Endowment Chairs at TIFR | url=http://www.tifr.res.in/~endowment/endowment-chairs.htm}}</ref> at the [[Tata Institute of Fundamental Research]]. He has been a Visiting Scholar at the [[Flatiron Institute]] since 2019, and Miguel Virasoro Visiting International Chair, at the [[International Centre for Theoretical Physics]] since 2024.  He has also been on the Physical Sciences jury for the [[Infosys Prize]] from 2018.<ref>{{Cite web|title=Infosys Prize – Jury 2020|url=http://www.infosys-science-foundation.com/prize/jury/jury-2020.asp|access-date=10 December 2020|website=www.infosys-science-foundation.com}}</ref>
+
+==Research==
+Sachdev has studied the nature of quantum entanglement in two-dimensional antiferromagnets, as reviewed in his book ''Quantum Phases of Matter''.<ref>{{Cite web |last=Sachdev |first=Subir |title=Quantum Phases of Matter |url=https://www.cambridge.org/universitypress/subjects/physics/condensed-matter-physics-nanoscience-and-mesoscopic-physics/quantum-phases-matter |access-date=5 June 2025 |website=Cambridge University Press & Assessment |language=en}}</ref> This work introduced 
+* the ''Z<sub>2</sub>'' spin liquid, which preserves time-reversal symmetry and has the same anyon structure as the [[toric code]].
+* deconfined quantum critical points which do not have sharp particle-like excitations.
+* the fractionalized Fermi liquid (FL), a metallic state whose Fermi surface does not enclose the Luttinger volume.
+
+Sachdev has developed the theory of quantum criticality (originally introduced by John A. Hertz<ref>{{cite journal |last=Hertz |first=John A. |title=Quantum critical phenomena |journal=Physical Review B |volume=14 |issue=3 |pages=1165–1184 |year=1976 |doi=10.1103/PhysRevB.14.1165}}</ref>), elucidating its implications for experimental observations on materials at non-zero temperature. He described the phenomenon of "Planckian dissipation" in a time scale of order {{math|&hbar;/''kT''}} (where {{math|&hbar;}} is Planck constant, ''k'' is the Boltzmann constant and ''T'' is the absolute temperature), and independent of microscopic energy scales. This theory led to the proposal of hydrodynamic electron flow in graphene and related two-dimensional materials. He proposed a solvable model of complex quantum entanglement in a metal which does not have any particle-like excitations in 1993:<ref>{{Cite journal |last1=Sachdev |first1=Subir |last2=Ye |first2=Jinwu |date=24 May 1993 |title=Gapless spin-fluid ground state in a random quantum Heisenberg magnet |url=https://link.aps.org/doi/10.1103/PhysRevLett.70.3339 |journal=Physical Review Letters |volume=70 |issue=21 |pages=3339–3342 |doi=10.1103/PhysRevLett.70.3339|pmid=10053843 |arxiv=cond-mat/9212030 |bibcode=1993PhRvL..70.3339S }}</ref> an extension of this is now called the [[Sachdev-Ye-Kitaev model]] (SYK). These works have led to a theory of quantum phase transitions in metals in the presence of impurity-induced disorder, and a universal theory of strange metals.<ref name="j790">{{citation | last=Sachdev | first=Subir | title=Oxford Research Encyclopedia of Physics | chapter=Strange Metals and Black Holes: Insights From the Sachdev-Ye-Kitaev Model | publisher=Oxford University Press | date=13 December 2023 | isbn=978-0-19-087199-4 | doi=10.1093/acrefore/9780190871994.013.48 | doi-access=free | page= | arxiv=2305.01001 }}</ref>
+
+Sachdev's theories apply to a variety of correlated electron materials, including the copper-oxide materials exhibiting high temperature superconductivity. Features of the "pseudogap" phase of these materials are addressed by his works on the interplay between antiferromagnetism and superconductivity, using the theory of critical quantum spin liquids without quasiparticles.
+
+A connection between the structure of quantum entanglement in the SYK model and in black holes was first proposed by Sachdev in 2010,<ref>{{Cite journal |last=Sachdev |first=Subir |date=4 October 2010 |title=Holographic Metals and the Fractionalized Fermi Liquid |url=https://link.aps.org/doi/10.1103/PhysRevLett.105.151602 |journal=Physical Review Letters |volume=105 |issue=15 |article-number=151602 |doi=10.1103/PhysRevLett.105.151602|pmid=21230891 |arxiv=1006.3794 |bibcode=2010PhRvL.105o1602S }}</ref> and these connections have led to developments in the quantum theory of black holes.<ref name="j790" />
+
+==Awards and honors==
+* [[LeRoy Apker Award]] Recipient, 1982.<ref>{{cite web |title=LeRoy Apker Award Recipient |url=http://www.aps.org/programs/honors/awards/apker.cfm |access-date=30 June 2010 |publisher=American Physical Society}}</ref>
+* [[Alfred P. Sloan Foundation]] Fellow, February 1989.<ref>{{Cite web |title=Past Fellows |url=https://sloan.org/past-fellows/ |access-date=23 October 2018 |website=sloan.org}}</ref>
+* [[Fellow of the American Physical Society]] ''"for his contributions to the theory of quantum phase transitions and its application to correlated electron materials"''.<ref>{{cite web |title=APS Fellow archive |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2001&unit_id=&institution= |access-date=21 September 2020 |publisher=APS}}</ref>
+* [[John Simon Guggenheim Memorial Foundation]] Fellow, 2003.<ref>{{cite web |title=All Fellows – John Simon Guggenheim Memorial Foundation |url=http://jsgmf.org/fellows/all?index=s |access-date=26 January 2010 |publisher=John Simon Guggenheim Memorial Foundation}}</ref>
+*[[Perimeter Institute for Theoretical Physics]] Distinguished Research Chair, 2009–14.<ref name="perimeter drc">{{cite web |title=Nine Leading Researchers Join Stephen Hawking as Distinguished Research Chairs at PI |url=http://www.perimeterinstitute.ca/News/In_The_Media/Nine_Leading_Researchers_Join_Stephen_Hawking_as_Distinguished_Research_Chairs_at_PI/ |publisher=Perimeter Institute for Theoretical Physics}}</ref>
+*[[Abdus Salam]] Distinguished Lecturer, International Center for Theoretical Physics, Trieste, Italy, 2014.<ref name="Salam">{{cite web |title=Condensed matter physicist Subir Sachdev to deliver Salam Distinguished Lectures 2014 |url=https://www.ictp.it/about-ictp/media-centre/news/news-archive/2014/1/salam-lectures-2014.aspx}}</ref>
+*[[Hendrik Lorentz]] Chair, [[Lorentz Institute]], 2012.<ref name="Lorentz">{{cite web |title=Lorentz Chair |url=http://lorentz.leidenuniv.nl/lorentzchair/lorentzchair.html}}</ref>
+*Elected to the U.S. [[National Academy of Sciences]], 2014.<ref name="NAS">{{cite web |title=Subir Sachdev NAS member |url=http://nrc88.nas.edu/pnas_search/memberDetails.aspx?ctID=20033107}}</ref> Citation: ''Sachdev has made seminal advances in the theory of condensed matter systems near a quantum phase transition, which have elucidated the rich variety of static and dynamic behavior in such systems, both at finite temperatures and at ''T''=0. His book, ''[https://www.cambridge.org/gb/universitypress/subjects/physics/condensed-matter-physics-nanoscience-and-mesoscopic-physics/quantum-phase-transitions-2nd-edition?format=HB Quantum Phase Transitions]'', is the basic text of the field.''
+*[[Dirac Medal and Lecture|Dirac Medal for the Advancement of Theoretical Physics]] ([[University of New South Wales]]), 2015.<ref name="Dirac">{{cite web |title=Dirac Medal awarded to Professor Subir Sachdev |url=https://www.physics.unsw.edu.au/news/dirac-medal-awarded-professor-subir-sachdev}}</ref> Citation: ''The Dirac Medal was awarded to Professor Sachdev in recognition of his many seminal contributions to the theory of strongly interacting condensed matter systems: quantum phase transitions, including the idea of critical deconfinement and the breakdown of the conventional symmetry based Landau–Ginsburg–Wilson paradigm; the prediction of exotic 'spin-liquid' and fractionalized states; and applications to the theory of high-temperature superconductivity in the cuprate materials.''
+*[[Lars Onsager Prize]] ([[American Physical Society]]), 2018, to recognize outstanding research in theoretical statistical physics including the quantum fluids.<ref name="Onsager">{{cite web |title=2018 Lars Onsager Prize Recipient |url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Sachdev&first_nm=Subir&year=2018}}</ref> Citation: ''for his seminal contributions to the theory of quantum phase transitions, quantum magnetism, and fractionalized spin liquids, and for his leadership in the physics community''.
+* [[Dirac Medal (ICTP)|Dirac Medal]] ([[International Center for Theoretical Physics]]), 2018; shared with [[Dam Thanh Son]] and [[Xiao-Gang Wen]] for "independent contributions towards understanding novel phases in strongly interacting many-body systems, introducing original transdisciplinary techniques".<ref>{{Cite web |title=ICTP – Dirac Medallists 2018 |url=https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists/dirac-medallists-2018.aspx |website=www.ictp.it}}</ref> Citation: ''Subir Sachdev has made pioneering contributions to many areas of theoretical condensed matter physics. Of particular importance were the development of the theory of quantum critical phenomena in insulators, superconductors and metals; the theory of spin-liquid states of quantum antiferromagnets and the theory of fractionalized phases of matter; the study of novel deconfinement phase transitions; the theory of quantum matter without quasiparticles; and the application of many of these ideas to a priori unrelated problems in black hole physics, including a concrete model of non-Fermi liquids.''
+*Foreign Fellow of the [[Indian National Science Academy]], 2019.<ref name="INSA">{{cite web |title=INSA Foreign Fellows elected |url=http://insaindia.res.in/fef.php}}</ref> Citation: ''Professor Subir Sachdev is a world renowned condensed matter theorist, with many seminal contributions to the theory of strongly interacting condensed matter systems. He is a pioneer in the study of systems near quantum [[phase transition]]s. He has also pioneered the exploration of the connection between physical properties of modern quantum materials and the nature of quantum entanglement in their many-particle state, elucidating the diverse varieties of entangled states of quantum matter.''
+*Elected to the [[American Academy of Arts and Sciences]], 2019.<ref name="AAAS">{{cite web |date=17 April 2019 |title=New 2019 Academy Members Announced |url=https://www.amacad.org/news/2019-members-announcement}}</ref>
+*Honorary Fellow of the [[Indian Academy of Sciences]], 2019.<ref name="IASc">{{cite web |title=IAS honorary fellows |url=https://www.ias.ac.in/listing/fellows/honorary}}</ref>
+*Jacques Solvay International Chair in Physics, International Solvay Institutes, Brussels, 2023<ref>{{Cite web |title=Solvay Institutes |url=http://solvayinstitutes.be/html/chair.html |archive-url=https://web.archive.org/web/20250127151705/http://solvayinstitutes.be/html/chair.html |archive-date=27 January 2025 |access-date=19 September 2025 |website=www.solvayinstitutes.be}}</ref>
+*Raman Chair, [[Indian Academy of Sciences]], 2023–24.<ref>{{Cite web |title=Raman Chair {{!}} About IASc {{!}} Indian Academy of Sciences |url=https://www.ias.ac.in/About_IASc/Raman_Chair/ |access-date=19 September 2025 |website=www.ias.ac.in}}</ref>
+*Foreign Member of the [[Royal Society]], 2023. Citation: ''Subir Sachdev has made profound contributions to theoretical condensed matter physics research. His main interests have been in quantum magnetism, quantum criticality, and perhaps most innovative of all, links between the nature of quantum entanglement in black holes and strongly interacting electrons in materials.''{{Citation needed|date=September 2025}}
+
+== Publications ==
+* [https://sachdev.physics.harvard.edu/top-5 5 selected papers with commentaries]
+* [https://sachdev.physics.harvard.edu/top-20 20 selected papers with commentaries]
+* [https://sachdev.physics.harvard.edu/Sachdev-pubs List of all publications]
+* [https://arxiv.org/a/sachdev_s_1.html List of Publications] on the [[arXiv]]
+* [https://sachdev.physics.harvard.edu/pre-arxiv List of Publications not on the arXiv]
+* {{Google scholar id}}
+* [https://www.youtube.com/user/subir1961/ YouTube channel of Subir Sachdev with video lectures]
+* [https://pirsa.org/speaker/Subir-Sachdev Video lectures on Perimeter Institute Archive]
+* [https://online.kitp.ucsb.edu/cgi-bin/rcarini/search.py?title_words=&speaker=Sachdev&field=%25&min_scope=0&since_year=1997 Talks at KITP Santa Barbara]
+
+== Books ==
+
+* {{cite book |last=Sachdev |first=Subir |url=https://www.cambridge.org/core/books/quantum-phases-of-matter/1D3F53A6FB1B448CE2484C5F797A1A00 |title=Quantum Phase Transitions |date=7 April 2011 |publisher=Cambridge University Press |isbn=978-1-139-50021-0 |language=en}}
+* {{cite book |last1=Hartnoll |first1=Sean A. |url=https://mitpress.mit.edu/9780262038430/holographic-quantum-matter/ |title=Holographic Quantum Matter |last2=Lucas |first2=Andrew |last3=Sachdev |first3=Subir |date=16 March 2018 |publisher=MIT Press |isbn=978-0-262-34802-7 |language=en}}
+* {{Cite book |last=Sachdev |first=Subir |url=https://www.cambridge.org/core/books/quantum-phase-transitions/33C1C81500346005E54C1DE4223E5562 |title=Quantum Phases of Matter |date=13 April 2023 |publisher=Cambridge University Press |isbn=978-1-009-21269-4 |language=en}}
+
+==External links==
+* [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/46897 Interview of Subir Sachdev by David Zierler on June 11, 2021, Niels Bohr Library & Archives, American Institute of Physics, College Park, MD, USA]
+* {{official website|http://sachdev.physics.harvard.edu/}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sachdev, Subir}}
+[[Category:Living people]]
+[[Category:Harvard University faculty]]
+[[Category:20th-century Indian physicists]]
+[[Category:MIT School of Science alumni]]
+[[Category:Harvard University alumni]]
+[[Category:IIT Delhi alumni]]
+[[Category:Indian theoretical physicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Foreign fellows of the Indian National Science Academy]]
+[[Category:American academics of Indian descent]]
+[[Category:Scientists from Bengaluru]]
+[[Category:Kendriya Vidyalaya alumni]]
+[[Category:Sloan Research Fellows]]
+[[Category:Indian condensed matter physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:1961 births]]
+[[Category:Indian scholars]]
+[[Category:American scientists of Asian descent]]

@@ -1,0 +1,50 @@
+{{Short description|American physicist}}
+{{Infobox scientist
+| name              = Tracy Eleanor Northup
+| image             = Tracy Northup at QIRG.jpg
+| caption           = Northup speaks to the Quantum Internet Proposed Research Group of the [[Internet Engineering Task Force]] in 2019.
+| birth_date        = {{Birth year and age|1978}}
+| workplaces        = [[University of Innsbruck]]
+| education         = [[California Institute of Technology]] <br /> [[Harvard University]]
+| thesis_title      = Coherent control in cavity QED
+| thesis_url        = https://www.worldcat.org/oclc/437167481
+| thesis_year       = 2008
+}}
+
+'''Tracy E. Northup''' (born 1978) is an American physicist who works at the Institute for Experimental Physics, [[University of Innsbruck]], [[Austria]]. Her research considers the development of optical cavities and trapped ions to improve quantum mechanical interactions. She was awarded the 2016 [[Start-Preis]] of the [[Austrian Science Fund]].
+
+== Early life and education ==
+Northup was born in [[Newton, Massachusetts]].<ref name=":0">{{Cite web|last=Flatz|first=Christian|title=START-Preis für Physikerin|url=https://www.uibk.ac.at/newsroom/nanokugeln-im-quantentakt.html.de|access-date=2021-06-14|website=Universität Innsbruck|language=de}}</ref> She received an undergraduate degree in physics at [[Harvard University]]. She then  moved to the [[West Coast of the United States]] and earned her doctoral degree at the [[California Institute of Technology]], where she studied coherent control in cavity [[quantum electrodynamics]] under the supervision of [[H. Jeff Kimble]].<ref>{{Cite thesis|title=Coherent control in cavity QED|publisher=California Institute of Technology|date=2008|place=Pasadena, Calif.|language=English|first=Tracy Eleanor|last=Northup|oclc=437167481}}</ref><ref>{{Cite web|last1=Staffner|first1=Melanie|last2=Brigo|first2=Sabine Hofer|title=Tracy Northup|url=https://www.uibk.ac.at/sp-physik/research-groups/t_northup.html.en|access-date=2021-06-14|website=University of Innsbruck|language=en}}</ref> She then joined [[Rainer Blatt]]'s group at the [[University of Innsbruck]] as an international Marie Curie fellow.<ref name=":0" /><ref>{{Cite web|title=Tracy NORTHUP|url=https://www.alpbach.org/en/person/tracy-northup/|access-date=2021-06-14|website=European Forum Alpbach|language=en-US}}</ref>
+
+== Research and career ==
+In 2015, Northup was appointed to the faculty of the University of Innsbruck, where she leads the Quantum Interfaces group.<ref>{{Cite web|last1=Miskic|first1=Danijela|last2=Dania|first2=Lorenzo|title=Quantum Interfaces Group|url=https://www.uibk.ac.at/exphys/quantum-interfaces/index.html.en|access-date=2021-06-14|website=University of Innsbruck|language=en}}</ref> In an effort to achieve highly precise control of macroscopic objects, she has explored ways to achieve the nonlinear coupling through the use of a levitating glass sphere, a trapped ion and an optical resonator. The levitating glass sphere is isolated from its environment and is brought into a superposition of states.<ref name=":0" /><ref>{{Cite journal|last=Northup|first=Tracy|date=2015|title=Squeezed ions in two places at once|journal=Nature|language=en|volume=521|issue=7552|pages=295–296|doi=10.1038/521295a|pmid=25993955|issn=1476-4687|doi-access=free}}</ref> Northup was awarded the 2016 [[Start-Preis]] of the [[Austrian Science Fund]].<ref>{{Cite web|last1=Hohenwarter|first1=Stefan|last2=Flatz|first2=Christian|title=FWF-Preisträgerinnen und -preisträger der Universität Innsbruck|url=https://www.uibk.ac.at/forschung/preistraegerinnen/fwf-preise.html.de|access-date=2021-06-14|website=Universität Innsbruck|language=de}}</ref> She is a member of the [[Erwin Schrödinger]] Center for Quantum Science & Technology.<ref>{{Cite web|title=Tracy NORTHUP|url=https://www.oeaw.ac.at/esq/home/esq-faculty/tracy-northup|access-date=2021-06-14|website=www.oeaw.ac.at}}</ref>
+
+In the field of quantum computing, one of the candidate technologies are [[ion trap]]s.<ref name=":1">{{Cite web|last1=Flatz|first1=Christian|last2=Hohenwarter|first2=Stefan|title=Insulators turn up the heat on quantum bits|url=https://www.uibk.ac.at/newsroom/insulators-turn-up-the-heat-on-quantum-bits.html.en|access-date=2021-06-14|website=University of Innsbruck|language=de}}</ref> In ion traps charged particles of ultra cold molecules are trapped in electromagnetic field, and manipulated such that they can carry information. However, the quantum mechanical processes that are exploited by ion traps suffer from errors, such as heating up of the molecules themselves.<ref name=":2">{{Cite journal|last1=Teller|first1=Markus|last2=Fioretto|first2=Dario A.|last3=Holz|first3=Philip C.|last4=Schindler|first4=Philipp|last5=Messerer|first5=Viktor|last6=Schüppert|first6=Klemens|last7=Zou|first7=Yueyang|last8=Blatt|first8=Rainer|last9=Chiaverini|first9=John|last10=Sage|first10=Jeremy|last11=Northup|first11=Tracy E.|date=2021-06-11|title=Heating of a Trapped Ion Induced by Dielectric Materials|url=https://link.aps.org/doi/10.1103/PhysRevLett.126.230505|journal=Physical Review Letters|volume=126|issue=23|article-number=230505|doi=10.1103/PhysRevLett.126.230505|pmid=34170180|arxiv=2103.13846|bibcode=2021PhRvL.126w0505T|s2cid=232352499}}</ref> These errors are understood to originate from the weakly conducting materials such as the oxide layers that form on metal surfaces.<ref name=":1" /> Northup has developed approaches to evaluate the impact of dielectric materials on the particles within ion traps.<ref name=":1" /> In her ion trap systems, Northup can control the distance between the ions and the dielectric optical components and makes use of the [[fluctuation-dissipation theorem]] to calculate the experimental noise.<ref name=":2" /> She was involved in the development of the first operating system that allows programming quantum network applications and executing them on quantum network nodes.<ref>{{Cite journal |last1=Delle Donne |first1=C. |last2=Iuliano |first2=M. |last3=van der Vecht |first3=B. |last4=Ferreira |first4=G. M. |last5=Jirovská |first5=H. |last6=van der Steenhoven |first6=T. J. W. |last7=Dahlberg |first7=A. |last8=Skrzypczyk |first8=M. |last9=Fioretto |first9=D. |last10=Teller |first10=M. |last11=Filippov |first11=P. |last12=Montblanch |first12=A. R.-P. |last13=Fischer |first13=J. |last14=van Ommen |first14=H. B. |last15=Demetriou |first15=N. |date=2025-03-13 |title=An operating system for executing applications on quantum network nodes |journal=Nature |language=en |volume=639 |issue=8054 |pages=321–328 |doi=10.1038/s41586-025-08704-w |issn=0028-0836|doi-access=free |pmc=11903313 }}</ref>
+
+Since 2022, Northup is the Deputy Speaker of Austria's Special Research Program ''BeyondC: Quantum Information Systems Beyond Classical Capabilities'', starting in 2019, featuring a cooperation of [[University of Innsbruck]], [[University of Vienna]], [[Johannes Kepler University Linz]], [[Institute of Science and Technology Austria]],<ref>[https://www.beyondc.at/about/ SFB BeyondC - About]</ref> and temporarily the German [[Max Planck Institute of Quantum Optics]].<ref>[https://www.beyondc.at/about/institutions/ SFB BeyondC - About - Institutions]</ref>
+
+== Selected publications ==
+
+* {{Cite Q|Q33218360}}
+* {{Cite Q|Q56882263}}
+* {{Cite Q|Q59714712}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.uibk.ac.at/sp-physik/research-groups/t_northup.html.en Tracy Northup] at the University of Innsbruck
+*{{google scholar id|BHFu0UwAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Northup, Tracy}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Academic staff of the University of Innsbruck]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Harvard College alumni]]
+[[Category:American physicists]]
+[[Category:American women physicists]]
+[[Category:Scientists from Newton, Massachusetts]]
+[[Category:21st-century American women]]

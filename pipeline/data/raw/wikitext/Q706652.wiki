@@ -1,0 +1,71 @@
+{{short description|Israeli American theoretical physicist}}
+{{Distinguish|Atle Selberg}}
+{{Infobox scientist
+| name              = Nathan Seiberg
+| native_name       = נתן סייברג
+| native_name_lang  = he
+| image             = Nathan Seiberg at Harvard cropped.jpg
+| caption           = Nathan Seiberg at Harvard University
+| birth_date        = {{birth date and age|1956|09|22}}
+| birth_place       = [[Tel Aviv]], [[Israel]]
+| death_date        = 
+| death_place       = 
+| fields            = [[Theoretical physics]]
+| workplaces        = [[Weizmann Institute of Science]], [[Rutgers University]], [[Institute for Advanced Study]]
+| education         = [[Tel-Aviv University]], [[Weizmann Institute of Science]]
+| doctoral_advisor  = [[Haim Harari]]
+| doctoral_students = [[Shiraz Minwalla]]
+| known_for         = [[Modular tensor category]]<br>[[Rational conformal field theory]]<br>[[Seiberg–Witten theory]]<br>[[Seiberg–Witten invariants]]<br>[[Seiberg–Witten moduli space]]<br>[[Seiberg–Witten flow]]<br>[[Seiberg–Witten map]]<br>[[Seiberg duality]]<br>[[3D mirror symmetry]]
+| awards            = [[MacArthur Fellow]] {{small|(1996)}}<br>[[Dannie Heineman Prize for Mathematical Physics|Heineman Prize]] {{small|(1998)}}<br>[[Breakthrough Prize in Fundamental Physics]] {{small|(2012)}}<br>[[Dirac Medal (ICTP)|Dirac Medal]] {{small|(2016)}}
+}}
+'''Nathan''' "'''Nati'''" '''Seiberg''' ({{IPAc-en|ˈ|s|aɪ|b|ɜːr|g}}; {{Langx|he|נתן "נתי" זייברג}}; born September 22, 1956) is an [[Israeli American]] [[theoretical physicist]] who works on [[quantum field theory]] and [[string theory]]. He is currently a professor at the [[Institute for Advanced Study]] in Princeton, New Jersey, United States.
+
+==Honors and awards==
+He was recipient of a 1996 [[MacArthur Fellowship]]<ref>{{cite web|url=http://www.aip.org/history/acap/biographies/bio.jsp?seibergn|title=Array of Contemporary American Physicists: Nathan Seiberg|publisher=[[American Institute of Physics]]|access-date=2011-07-20|url-status=dead|archive-url=https://web.archive.org/web/20121007062808/http://www.aip.org/history/acap/biographies/bio.jsp?seibergn|archive-date=2012-10-07}}.</ref> and the [[Dannie Heineman Prize for Mathematical Physics]] in 1998.<ref>{{cite web|url=http://www.aps.org/programs/honors/prizes/heineman.cfm|title=Heineman Prize: Nathan Seiberg|publisher=[[American Physical Society]]|access-date=2011-07-20}}.</ref> In July 2012, he was an inaugural awardee of the [[Breakthrough Prize in Fundamental Physics]], the creation of physicist and internet entrepreneur, [[Yuri Milner]].<ref>[https://breakthroughprize.org/News/15 New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field] {{webarchive|url=https://web.archive.org/web/20120803211628/https://breakthroughprize.org/News/15 |date=2012-08-03 }}, FPP, accessed 1 August 2012</ref>  In 2016, he was awarded the [[Dirac Medal (ICTP)|Dirac Medal of the ICTP]].  He is a Fellow of the [[American Academy of Arts and Sciences]] and a Member of the US [[National Academy of Sciences]].
+
+==Research==
+His contributions include:
+* [[Ian Affleck]], [[Michael Dine]], and Seiberg explored nonperturbative effects in supersymmetric field theories.<ref>Ian Affleck, Michael Dine, Nathan Seiberg ''Dynamical supersymmetry breaking in supersymmetric QCD'', Nucl. Phys. B, vol. 241, 1984, pp. 493–534 {{doi|10.1016/0550-3213(84)90058-0}}; ''Dynamical supersymmetry breaking in four dimensions and its phenomenological implications'', Nucl. Phys. B, vol. 256, 1985, p. 557, {{bibcode|1985NuPhB.256..557A}}.</ref> This work demonstrated, for the first time, that nonperturbative effects in four-dimensional field theories do not respect the [[supersymmetry nonrenormalization theorems]].  This understanding led them to find four-dimensional models with dynamical [[supersymmetry breaking]].
+* In a series of papers, [[Michael Dine]] and Seiberg explored various aspects of string theory.  In particular, Dine, [[Ryan Rohm]], Seiberg, and [[Edward Witten]] proposed a supersymmetry breaking mechanism based on gluino condensation,<ref>Dine, Rohm, Seiberg, Witten ''Gluino condensation in superstring models'', Physics Letters B, vol. 156, 1985, pp. 55–60 {{doi|10.1016/0370-2693(85)91354-1}}.</ref> Dine, Seiberg, and Witten showed that terms similar to [[Fayet–Iliopoulos D-term]]s arise in string theory,<ref>Dine, Seiberg, Witten ''Fayet-Iliopoulos Terms in String Theory'', Nucl. Phys. B, vol. 289, 1987, pp. 589–598 {{doi|10.1016/0550-3213(87)90395-6}}</ref> and Dine, Seiberg, [[Xiao-Gang Wen|X. G. Wen]], and Witten studied instantons on the string [[worldsheet]].<ref>Dine, Seiberg, Wen, Witten ''Nonperturbative effects on the string world sheet'', Nucl. Phys. B, vol. 278, 1986, pp. 769–789 {{doi|10.1016/0550-3213(86)90418-9}}; Nucl. Phys. B, vol. 289, 1987, pp. 319–363 {{doi|10.1016/0550-3213(87)90383-X}}.</ref> 
+* [[Greg Moore (physicist)|Gregory Moore]] and Seiberg studied [[two-dimensional conformal field theory|Rational Conformal Field Theories]].  In the course of doing it, they invented modular tensor categories and described many of their properties.<ref>Moore and Seiberg “Classical and Quantum Conformal Field Theory”, Commun.Math.Phys. 123 (1989), 177 {{doi: 10.1007/BF01238857}}</ref> They also explored the relation between [[Chern–Simons theory]] and the corresponding Rational Conformal Field Theory.<ref>Moore and Seiberg “Lectures on RCFT” in Trieste 1989, Proceedings, Superstrings '89* 1-129 https://www.physics.rutgers.edu/~gmoore/LecturesRCFT.pdf .</ref> This body of work was later used in mathematics and in the study of [[Topological order|topological phases of matter]].
+* In the 90’s, Seiberg realized the significance of holomorphy as the underlying reason for the perturbative [[supersymmetry nonrenormalization theorems]]<ref>Seiberg “Naturalness versus supersymmetric nonrenormalization theorems”, Phys.Lett.B 318 (1993), 469-475 {{doi: 10.1016/0370-2693(93)91541-T}} hep-ph/9309335.</ref> and initiated a program to use it to find exact results in complicated field theories including several N=1 supersymmetric [[gauge theory|gauge theories]] in four dimension. These theories exhibit unexpected rich phenomena like confinement with and without chiral symmetry breaking and a new kind of electric-magnetic duality – [[Seiberg duality]].<ref>Seiberg, “Exact results on the space of vacua of four-dimensional SUSY gauge theories”, hep-th/9402044, {{DOI:10.1103/PhysRevD.49.6857}}, Phys.Rev.D 49 (1994), 6857-6863; “Electric - magnetic duality in supersymmetric non-Abelian gauge theories”, hep-th/9411149, {{DOI: 10.1016/0550-3213(94)00023-8}}, Nucl.Phys.B 435 (1995), 129-146.</ref> [[Kenneth Intriligator]] and Seiberg studied many more models and summarized the subject in lecture notes.<ref>Intriligator and Seiberg “Lectures on supersymmetric gauge theories and electric-magnetic duality” Nucl.Phys.B Proc.Suppl. 45BC (1996), 1-28, Subnucl.Ser. 34 (1997), 237-299, {{ DOI: 10.1016/0920-5632(95)00626-5}}, hep-th/9509066</ref>  Later, Intriligator, Seiberg and David Shih used this understanding of the dynamics to present four-dimensional models with dynamical supersymmetry breaking in a metastable vacuum.<ref>Intriligator, Seiberg, and Shih, “Dynamical SUSY breaking in meta-stable vacua”, hep-th/0602239 [hep-th], JHEP 04 (2006), 021, {{DOI: 10.1088/1126-6708/2006/04/021}}</ref>
+* Seiberg and Witten studied the dynamics of four-dimensional N=2 supersymmetric theories – [[Seiberg–Witten theory]].  They found exact expressions for several quantities of interest.  These shed new light on interesting phenomena like confinement, chiral symmetry breaking, and electric-magnetic duality.<ref>Seiberg and Witten, “Electric - magnetic duality, monopole condensation, and confinement in N=2 supersymmetric Yang-Mills theory”{{ DOI: 10.1016/0550-3213(94)90124-4, 10.1016/0550-3213(94)00449-8 (erratum)}}, Nucl.Phys.B 426 (1994), 19-52, Nucl.Phys.B 430 (1994), 485-486 (erratum), hep-th/9407087; “Monopoles, duality and chiral symmetry breaking in N=2 supersymmetric QCD”, Nucl.Phys.B 431 (1994), 484-550, {{DOI: 10.1016/0550-3213(94)90214-3}}, hep-th/9408099.</ref> This insight was used by Witten to derive the [[Seiberg–Witten invariants]]. Later, Seiberg and Witten extended their work to the four-dimensional N=2 theory compactified to three dimensions.<ref>Seiberg and Witten, “Gauge dynamics and compactification to three-dimensions”, hep-th/9607163, in “Conference on the Mathematical Beauty of Physics (In Memory of C. Itzykson)”.</ref>
+* Intriligator and Seiberg found a new kind of duality in three-dimensional N=4 supersymmetric theories, which is reminiscent of the well-known [[Mirror symmetry (string theory)|2D mirror symmetry]] – [[3D mirror symmetry]].<ref>{{cite journal|last=Intriligator|first=Kenneth|author2=N. Seiberg|title=Mirror symmetry in three-dimensional gauge theories|journal= Physics Letters B|date=October 1996|volume=387|issue=3|pages=513–519|doi=10.1016/0370-2693(96)01088-X|arxiv=hep-th/9607207|bibcode=1996PhLB..387..513I|s2cid=13985843}}</ref> 
+*In a series of papers with various collaborators, Seiberg studied many supersymmetric theories in three, four, five, and six dimensions.  The three-dimensional N=2 supersymmetric theories<ref>Aharony, Hanany, Intriligator, and Seiberg, “Aspects of N=2 supersymmetric gauge theories in three-dimensions”, hep-th/9703110, Nucl.Phys.B 499 (1997), 67-99, {{DOI: 10.1016/S0550-3213(97)00323-4}}</ref> and their dualities were shown to be related to the four-dimensional N=1 theories.<ref>Aharony, Razamat, Seiberg, and Willett, “3d dualities from 4d dualities”, hep-th/1305.3924, {{DOI: 10.1007/JHEP07(2013)149}}, JHEP 07 (2013), 149</ref> And surprising five-dimensional theories with N=2 supersymmetries were discovered<ref>Seiberg, “Five-dimensional SUSY field theories, nontrivial fixed points and string dynamics”, hep-th/9608111 {{DOI: 10.1016/S0370-2693(96)01215-4}}, Phys.Lett.B 388 (1996), 753-760</ref> and analyzed.<ref>Morrison and Seiberg,  “Extremal transitions and five-dimensional supersymmetric field theories”, hep-th/9609070, {{DOI: 10.1016/S0550-3213(96)00592-5}}, Nucl.Phys.B 483 (1997), 229-247; Intriligator, Morrison, and Seiberg, “Five-dimensional supersymmetric gauge theories and degenerations of Calabi-Yau spaces”, hep-th/9702198, {{DOI: 10.1016/S0550-3213(97)00279-4}}, Nucl.Phys.B 497 (1997), 56-100.</ref>
+*As part of his work on the [[Matrix theory (physics)|BFSS matrix model]], Seiberg discovered [[little string theory|little string theories]].<ref>Seiberg “New theories in six-dimensions and matrix description of M theory on T**5 and T**5 / Z(2)” hep-th/9705221,{{DOI: 10.1016/S0370-2693(97)00805-8}} Phys.Lett.B 408 (1997), 98-104</ref>  These are limits of string theory without gravity that are not local quantum field theories.
+* Seiberg and Witten identified a particular low-energy limit (Seiberg–Witten limit) of theories containing [[Open string (physics)|open strings]] in which the dynamics becomes that of [[noncommutative quantum field theory]] – a field theory on a [[non-commutative geometry]].  They also presented a map ([[Seiberg–Witten map]]) between standard gauge theories and gauge theories on a noncommutative space.<ref>Seiberg and Witten “String theory and noncommutative geometry”, JHEP 09 (1999), 032, In *Li, M. (ed.) et al.: Physics in non-commutative world* 327-401, hep-th/9908142, {{DOI:10.1088/1126-6708/1999/09/032}}.</ref>  [[Shiraz Minwalla]], [[Mark Van Raamsdonk]] and Seiberg uncovered a surprising mixing between short-distance and long-distance phenomena in these field theories on a noncommutative space.  Such mixing violates the standard picture of the renormalization group.  They referred to this phenomenon as UV/IR mixing.<ref>Minwalla, Van Raamsdonk, and Seiberg, “Noncommutative perturbative dynamics”, JHEP 02 (2000), 020, In *Li, M. (ed.) et al.: Physics in non-commutative world* 426-451, hep-th/9912072, {{DOI: 10.1088/1126-6708/2000/02/020}}</ref>
+*[[Davide Gaiotto]], [[Anton Kapustin]], Seiberg, and Brian Willett introduced the notion of higher-form global symmetries and studied some of their properties and applications.<ref name="1412.5148">{{cite journal | last1=Gaiotto | first1=Davide | last2=Kapustin | first2=Anton | last3=Seiberg | first3=Nathan  | last4=Willett | first4=Brian | title=Generalized Global Symmetries  | journal=JHEP | volume=2015 | issue=2 | date=February 2015 | page=172 | issn=1029-8479 | doi=10.1007/JHEP02(2015)172 |arxiv=1412.5148| bibcode=2015JHEP...02..172G | s2cid=37178277 }}</ref>
+
+==See also==
+*[[Gauge theory]]
+*[[Instanton]]
+*[[String theory]]
+*[[Two-dimensional conformal field theory]]
+*[[S-duality]]
+*[[Noncommutative quantum field theory]]
+*[[Anomaly (physics)]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{wikiquote}}
+* [http://www.sns.ias.edu/~seiberg/ Nathan Seiberg's web page at the Institute]
+* {{MathGenealogy|id=152217}}
+
+{{Breakthrough Prize laureates}}
+{{Authority control}}
+
+{{DEFAULTSORT:Seiberg, Nathan}}
+[[Category:1956 births]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:Living people]]
+[[Category:American string theorists]]
+[[Category:21st-century American physicists]]
+[[Category:MacArthur Fellows]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Scientists from Tel Aviv]]
+[[Category:Weizmann Institute of Science alumni]]
+[[Category:Tel Aviv University alumni]]
+[[Category:Academic staff of Weizmann Institute of Science]]

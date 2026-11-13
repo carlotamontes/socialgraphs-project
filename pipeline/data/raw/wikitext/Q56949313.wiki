@@ -1,0 +1,69 @@
+{{Short description|American mathematical physicist}}{{Infobox person
+| name               = Laurette Tuckerman
+| other_names        = Stephanie
+| birth_date         = 1956
+| birth_place        = [[New York City]]
+| education          = [[Wesleyan University]], 
+[[Princeton University]], 
+[[Massachusetts Institute of Technology]] (Ph.D) 1984
+| occupation         = Mathematical physicist, 
+Researcher
+| employer           = [[Saclay Nuclear Research Centre]], 
+[[University of Texas at Austin]], 
+[[Centre National de la Recherche Scientifique]], 
+[[Ecole Polytechnique]],
+[[École normale supérieure (Paris)]],
+[[Centre national de la recherche scientifique]]
+| known_for          = Bifurcation analysis for timesteppers using matrix-free Jacobian action, Faraday wave threshold and simulation, analyses of Eckhaus instability and thermosolutal convection
+| awards             = Fellow of the American Physical Society (2002) and of Euromech (2018), Prandtl Memorial Lecture (2024), Émilie Du Châtelet prize (2025)
+}}
+
+'''Laurette Stephanie Tuckerman''' (born 1956) is a mathematical physicist working in the areas of hydrodynamic instability, bifurcation theory, and computational fluid dynamics. She is currently a director of research for the [[Centre national de la recherche scientifique]], at the Physics and Mechanics of Heterogeneous Media Laboratory of [[ESPCI Paris]].<ref name="espci">{{cite web|url=https://www.espci.fr/en/directory?recherche=tuckerman&r_en_cours=on&type=recherche&unique_id=CglMGTcGFSs%3D&lang=en|title=ESPCI Paris : Directory}}</ref>
+
+== Early life ==
+Tuckerman was born in [[New York City]] in 1956. Her mother was a journalist for the [[Agence France Presse]] covering the [[United Nations]] who had left France during World War II, and her father was a New York City union negotiator and devoted amateur pianist. She attended [[Hunter College High School]].
+
+== Education ==
+Tuckerman attended [[Wesleyan University]] and [[Princeton University]] and obtained a PhD in applied mathematics from [[Massachusetts Institute of Technology]] in 1984.
+
+== Career ==
+Tuckerman first worked at the [[Saclay Nuclear Research Centre]] in France and then at [[University of Texas at Austin]], where she was a postdoc at the Center for Nonlinear Dynamics and then a faculty member in the department of mathematics. In 1994, she became a researcher at the [[Centre National de la Recherche Scientifique]] in France. She has also taught at [[Ecole Polytechnique]] and at [[École normale supérieure (Paris)]].
+
+==Research==
+
+Laurette Tuckerman studies hydrodynamic instabilities using the methods of computational fluid dynamics and of bifurcation theory. She has studied large number of these configurations: Couette, Poiseuille and von Karman flows, Rayleigh-Benard and Marangoni convection in simple and binary fluids, and in cylindrical, spherical and planar geometries.  In some of these flows, she made the first observations of more exotic scenarios, including sniper (saddle-node infinite-period) bifurcations, robust heteroclinic cycles, and codimension-two points.  In order to accomplish this, she developed a
+suite of methods for modifying a time-dependent nonlinear code to carry out Newton's method for computing steady states and traveling waves and Arnoldi's method for finding eigenvectors.  These matrix-free methods have been used to study problems not only in fluid dynamics, but also in Bose-Einstein condensates and electrochemistry. She carried out the first linear stability analysis for viscous fluids of Faraday waves, the standing waves which appear on a vertically vibrated
+fluid layer, and their first full numerical simulation.
+She has also studied the laminar-turbulent patterns which occur during transition to turbulence in wall-bounded shear flows.
+
+==Awards==
+
+In 2002, she was elected as fellow of the [[American Physical Society]]<ref name="apsfellow">{{cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2002&unit_id=DFD&institution=|title=APS Fellow Archive}}</ref> and in 2018 she became a fellow of Euromech.<ref name="euromechfellow">{{cite web|url=https://euromech.org/fellows/euromech-fellows-fluids|title=Fluid Mechanics Fellows}}</ref> She gave the Ludwig Prandtl Memorial lecture <ref name="prandtllecture">{{cite web|url=https://jahrestagung.gamm.org/annual-meeting-2024/program/prandtl-lecture|title=Ludwig-Prandtl-Memorial Lecture}}</ref> at the 2024 [[Gesellschaft_für_Angewandte_Mathematik_und_Mechanik|GAMM ]] meeting. She received the Émilie Du Châtelet prize from the [[Société Française de Physique]] in 2025.<ref name="sfpprize">{{cite web|url=https://www.sfpnet.fr/prix/prix-emilie-du-chatelet|title= Prix Emilie du Châtelet}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://blog.espci.fr/laurette/ Home page]
+*{{Google Scholar id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tuckerman, Laurette}}
+[[Category:Living people]]
+[[Category:1956 births]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:21st-century American physicists]]
+[[Category:American mathematical physicists]]
+[[Category:Princeton University alumni]]
+[[Category:MIT School of Science alumni]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:20th-century American women mathematicians]]
+[[Category:21st-century American women mathematicians]]
+[[Category:American fluid dynamicists]]
+[[Category:Jewish scientists]]
+[[Category:21st-century American women physicists]]
+[[Category:20th-century American women physicists]]
+[[Category:20th-century American physicists]]

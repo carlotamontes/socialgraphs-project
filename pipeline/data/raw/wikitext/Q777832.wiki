@@ -1,0 +1,85 @@
+{{Short description|French theoretical physicist (1938–1995)}}
+{{Infobox scientist
+|name              = Claude Georges Itzykson
+|image             = Claude_Georges_ITZYKSON_(1938-1995).jpg
+|fields            = [[Physics]]
+|workplaces        = [[Saclay Nuclear Research Centre]]
+|birth_date        = {{birth date|df=y|1938|04|11}}
+|birth_place       = [[Paris]], France
+|death_date        = {{death date and age|df=y|1995|05|22|1938|04|11}}
+|death_place       = [[Paris]], France
+|education         = [[Lycée Condorcet]]
+|alma_mater        = {{Plainlist|
+* [[École Polytechnique]]
+}}
+|awards            = {{plainlist|
+* [[Prix Paul-Langevin]] (1972)
+* Prix Félix-Robin (1988)
+* [[Ampère Prize]] (1995)
+}}
+|known_for         = {{plainlist|
+* [[Quantum field theory]]
+}}
+}}
+'''Claude Georges Itzykson''' (11 April 1938&nbsp;– 22&nbsp;May 1995) was a French [[theoretical physicist]] who worked in [[quantum field theory]] and [[statistical mechanics]].<ref name="Brezin">{{cite journal| last1=Brezin| first1=E.| author-link1=Édouard Brézin| title=Claude Itzykson| journal=Physics Today| volume=49| issue=3| year=1996| pages=125–126| issn=0031-9228| doi=10.1063/1.2807560| bibcode=1996PhT....49c.125B| doi-access=free}}</ref><ref name="Zuber">{{cite web |last1=Zuber |first1=J-B |title=Claude Georges Itzykson (1938–1995) |url=http://www.annales.org/archives/x/itzykson.html |website=www.annales.org |publisher=Les Annales des Mines |archive-url=https://archive.today/20130112065418/http://www.annales.org/archives/x/itzykson.html |archive-date=12 January 2013 |date=1996 |access-date=28 October 2018 |url-status=live }}</ref>
+
+==Biography==
+Separated from his parents by [[World War II]], his father was taken to a Nazi concentration camp and Itzykson is raised in a Jewish orphanage in [[Maisons-Laffitte]].<ref name="Zuber"/> After studying at the [[Lycée Condorcet]] Itzykson graduated from the [[Ecole Polytechnique]] in 1959. He joined the Theoretical Physics Department of the [[Saclay Nuclear Research Centre|CEA]] in [[Saclay]] in 1962,<ref name="Brezin"/> then headed by [[Claude Bloch]].<ref name="Zuber"/> He spent most of his career at Saclay, except for numerous visiting positions he held throughout his working life, such as at the [[Institute for Advanced Study, Princeton]].<ref name="Brezin"/><ref name="IAS">{{cite web | title=Claude Itzykson | website=Institute for Advanced Study | url=https://www.ias.edu/scholars/claude-itzykson | access-date=5 November 2018}}</ref>
+
+==Works==
+He was a specialist in [[quantum field theory]] and applications of [[group theory]] in physics.<ref>{{cite book |last1=Itzykson |first1=Claude |last2=Drouffe |first2=Jean-Michel |last3=Zuber |first3=Jean Bernard |title=The mathematical beauty of physics: a memorial volume for Claude Itzykson |date=1997 |publisher=World Scientific |location=Singapore |isbn=978-981-02-2807-1|lccn=97003545|oclc=36260869}}</ref> In particular, he worked on the symmetries of the [[hydrogen atom]],<ref>{{harvp|Bander|Itzykson|1966}}</ref> the discretization of network [[gauge theories]],<ref>See for example {{harvs|txt|last=Balian|last2=Drouffe|last3=Itzykson|year=1974|year2=1975}} & {{harvp|Drouffe|Itzykson|1978}}</ref> the integrals on large matrices<ref>See for example {{harvp|Brézin|Itzykson|Parisi|Zuber|1993}} and {{harvp|Itzykson|Zuber|1980b}}</ref> and their applications to problems of combinatorics<ref>{{harvp|Bessis|Itzykson|Zuber|1980}}</ref> and physics of random surfaces,<ref>{{harvp|Drouffe|Itzykson|1984}}</ref> and [[conformal field theories]] and their classification.<ref>{{harvp|Itzykson|Drouffe|1989b}}</ref>
+
+His first works were done in collaboration with Maurice Jacob and [[Raymond Stora]].<ref name="Zuber"/> In 1980 he published a treatise on quantum field theory with [[Jean-Bernard Zuber]] that became a staple textbook on the subject.<ref name="Brezin"/><ref>{{harvp|Itzykson|Zuber|1980}}</ref>
+
+==Awards==
+In 1995 Itzykson received the [[Ampère Prize]] of the [[French Academy of Sciences]].<ref name="Zuber"/>
+
+==Bibliography==
+
+===Textbooks===
+{{refbegin}}
+* {{cite book|last1=Itzykson|first1=C.|last2=Zuber|first2=J.-B.|title=Quantum Field Theory|date=1980|publisher=Dover Publications|location=Mineola, New York|isbn=978-0-486-44568-7|edition=2005|url=https://books.google.com/books?id=4MwsAwAAQBAJ|lccn=2005053026|oclc=61200849}}
+* {{cite book |last1=Itzykson |first1=C. |last2=Drouffe |first2=J.-M. |title=Statistical Field Theory Volume 1. From Brownian Motion to Renormalization and Lattice Gauge Theory. |date=1989a |publisher=Cambridge University Press |location=Cambridge |isbn=0-521-34058-6|oclc=852124007|lccn=88030162}}
+* {{cite book |last1=Itzykson |first1=C. |last2=Drouffe |first2=J.-M. |title=Statistical Field Theory Volume 2. Strong coupling, Monte Carlo Methods, Conformal Field Theory, and Random Systems. |date=1989b |publisher=Cambridge University Press |location=Cambridge |isbn=0-521-37012-4|oclc=852124007|lccn=88030162}}
+{{refend}}
+
+===Selected publications===
+{{refbegin|40em}}
+* {{cite journal|last1=Balian|first1=R.|author-link1=Roger Balian|last2=Drouffe|first2=J. M.|last3=Itzykson|first3=C.|title=Gauge fields on a lattice. I. General outlook|journal=Physical Review D|volume=10|issue=10|year=1974|pages=3376–3395|issn=0556-2821|doi=10.1103/PhysRevD.10.3376|bibcode=1974PhRvD..10.3376B}}
+* {{cite journal|last1=Balian|first1=R.|author-link1=Roger Balian|last2=Drouffe|first2=J. M.|last3=Itzykson|first3=C.|title=Gauge fields on a lattice. II. Gauge-invariant Ising model|journal=Physical Review D|volume=11|issue=8|year=1975|pages=2098–2103|issn=0556-2821|doi=10.1103/PhysRevD.11.2098|bibcode=1975PhRvD..11.2098B}}
+* {{cite journal|last1=Bander|first1=M.|last2=Itzykson|first2=C.|title=Group Theory and the Hydrogen Atom (I)|journal=Reviews of Modern Physics|volume=38|issue=2|year=1966|pages=330–345|issn=0034-6861|doi=10.1103/RevModPhys.38.330|bibcode=1966RvMP...38..330B|url=http://inspirehep.net/record/48744/files/slac-pub-0120.pdf}}
+* {{cite journal|last1=Bauer|first1=M.|last2=Di Francesco|first2=Ph.|last3=Itzykson|first3=C.|last4=Zuber|first4=J.-B.|title=Covariant differential equations and singular vectors in virasoro representations|journal=Nuclear Physics B|volume=362|issue=3|year=1991|pages=515–562|issn=0550-3213|doi=10.1016/0550-3213(91)90541-5|bibcode=1991NuPhB.362..515B|url=https://www.lpthe.jussieu.fr/~zuber/MesPapiers/bdfiz_NP91.pdf}}
+* {{cite journal|last1=Bessis|first1=D|last2=Itzykson|first2=C|last3=Zuber|first3=J.B|s2cid=31392310|title=Quantum field theory techniques in graphical enumeration|journal=Advances in Applied Mathematics|volume=1|issue=2|year=1980|pages=109–157|issn=0196-8858|doi=10.1016/0196-8858(80)90008-1|doi-access=free}}
+* {{cite journal|last1=Brezin|first1=E.|author-link1=Édouard Brézin|last2=Itzykson|first2=C.|title=Pair Production in Vacuum by an Alternating Field|journal=Physical Review D|volume=2|issue=7|year=1970|pages=1191–1199|issn=0556-2821|doi=10.1103/PhysRevD.2.1191|bibcode=1970PhRvD...2.1191B}}
+* {{cite journal|last1=Brézin|first1=E.|author-link1= Édouard Brézin|last2=Itzykson|first2=C.|last3=Zinn-Justin|first3=J.|author-link3=Jean Zinn-Justin|last4=Zuber|first4=J.-B.|title=Remarks about the existence of non-local charges in two-dimensional models|journal=Physics Letters B|volume=82|issue=3–4|year=1979|pages=442–444|issn=0370-2693|doi=10.1016/0370-2693(79)90263-6|bibcode=1979PhLB...82..442B|url=https://www.lpthe.jussieu.fr/~zuber/MesPapiers/bizjz_PL79.pdf}}
+* {{cite journal|last1=Brézin|first1=E.|author-link1=Édouard Brézin|last2=Gross|first2=David J.|author-link2=David Gross|last3=Itzykson|first3=C.|title=Density of states in the presence of a strong magnetic field and random impurities|journal=Nuclear Physics B|volume=235|issue=1|year=1984|pages=24–44|issn=0550-3213|doi=10.1016/0550-3213(84)90146-9|bibcode=1984NuPhB.235...24B}}
+* {{cite book|last1=Brézin|first1=E.|title=The Large N Expansion in Quantum Field Theory and Statistical Physics|last2=Itzykson|first2=C.|last3=Parisi|first3=G.|last4=Zuber|first4=J. B.|chapter=Planar Diagrams|year=1993|pages=567–583|doi=10.1142/9789814365802_0036|isbn=978-981-02-0455-6}}
+* {{cite journal|last1=Derrida|first1=B.|author-link1=Bernard Derrida|last2=De Seze|first2=L.|last3=Itzykson|first3=C.|title=Fractal structure of zeros in hierarchical models|journal=Journal of Statistical Physics|volume=33|issue=3|year=1983|pages=559–569|issn=0022-4715|doi=10.1007/BF01018834|bibcode=1983JSP....33..559D|url=http://www.lps.ens.fr/~derrida/PAPIERS/1983/jsp83-zero.pdf|s2cid=122632661}}
+* {{Cite book|last1=Drouffe|first1=J. M.|title=Facts and Prospects of Gauge Theories|last2=Itzykson|first2=C.|year=1978|pages=203–204|doi=10.1007/978-3-7091-8538-4_5|isbn=978-3-7091-8540-7}}
+* {{cite journal|last1=Drouffe|first1=J. M.|last2=Itzykson|first2=C.|title=Random geometry and the statistics of two-dimensional cells|journal=Nuclear Physics B|volume=235|issue=1|year=1984|pages=45–53|issn=0550-3213|doi=10.1016/0550-3213(84)90147-0|bibcode=1984NuPhB.235...45D}}
+* {{cite journal|last1=Itzykson|first1=C.|last2=Zuber|first2=J.-B.|title=The planar approximation. II|journal=Journal of Mathematical Physics|volume=21|issue=3|year=1980b|pages=411–421|issn=0022-2488|doi=10.1063/1.524438|url=http://www.lpthe.jussieu.fr/~zuber/MesPapiers/bipz_CMP78.pdf|bibcode=1980JMP....21..411I}}
+* {{cite journal|last1=Itzykson|first1=C.|last2=Pearson|first2=R.B.|last3=Zuber|first3=J.B.|title=Distribution of zeros in Ising and gauge models|journal=Nuclear Physics B|volume=220|issue=4|year=1983|pages=415–433|issn=0550-3213|doi=10.1016/0550-3213(83)90499-6|bibcode=1983NuPhB.220..415I|url=https://www.lpthe.jussieu.fr/~zuber/MesPapiers/ipz_NP83.pdf}}
+* {{cite journal|last1=Itzykson|first1=C.|title=Ising fermions (I). Two dimensions|journal=Nuclear Physics B|volume=210|issue=4|year=1982a|pages=448–476|issn=0550-3213|doi=10.1016/0550-3213(82)90173-0|bibcode=1982NuPhB.210..448I}}
+* {{cite journal|last1=Itzykson|first1=C.|title=Ising fermions (II). Three dimensions|journal=Nuclear Physics B|volume=210|issue=4|year=1982b|pages=477–498|issn=0550-3213|doi=10.1016/0550-3213(82)90174-2|bibcode=1982NuPhB.210..477I}}
+* {{Cite book|last1=Itzykson|first1=C.|title=Perspectives on Solvable Models|year=1995|pages=255–276|doi=10.1142/9789812831279_0017|chapter-url=https://www.ipht.fr/Docspht/articles/t94/001/public/publi.pdf|isbn=978-981-02-2107-2|chapter=Counting Rational Curves on Rational Surfaces}}
+{{refend}}
+
+==References==
+{{Reflist}}{{Authority control}}
+{{Portal bar|Biography|Nuclear technology|Physics|Science|History of science}}
+
+{{DEFAULTSORT:Itzykson, Claude}}
+<!--- Categories --->
+[[Category:1938 births]]
+[[Category:1995 deaths]]
+[[Category:20th-century French physicists]]
+[[Category:Quantum physicists]]
+[[Category:French theoretical physicists]]
+[[Category:French mathematical physicists]]
+[[Category:École polytechnique alumni]]
+[[Category:Members of the Académie Française]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Scientists from Paris]]
+
+
+{{France-physicist-stub}}

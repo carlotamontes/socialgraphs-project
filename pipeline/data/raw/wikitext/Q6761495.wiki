@@ -1,0 +1,66 @@
+{{short description|Greek-born British AI researcher (1953–2012)}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox person
+| name        = Maria Petrou
+| native_name   = Μαρία Πέτρου
+| image       =
+| alt         =
+| caption     =
+| birth_name  =
+| birth_date  = 17 May 1953
+| birth_place = [[Thessaloniki]], [[Greece]]
+| death_date  = {{Death date and age|2012|10|15|1953|5|17|df=yes}}
+| death_place = Thessaloniki, Greece<ref name=IAPR/>
+| other_names =
+| known_for   = [[Artificial intelligence]] research
+| occupation  = Professor of Image Analysis, [[University of Surrey]] (1998–2005);<br>Chair of Signal Processing, [[Imperial College London]] (2006–2012)<ref name=ICL>{{cite web|url=http://www.commsp.ee.ic.ac.uk/~mcpetrou/|title=Maria Petrou, FREng|publisher=[[Imperial College London]]|accessdate=12 November 2012}}</ref>
+| education   =  {{Plainlist|
+*[[Aristotle University of Thessaloniki]];
+*[[University of Cambridge]]
+}}
+|spouse        = Phil L. Palmer<ref name=Ob/>
+}}
+'''Maria Petrou''' [[FREng]] ({{langx|el|Μαρία Πέτρου}}; 17 May 1953 – 15 October 2012)<ref name=Ob>{{cite news|url=https://www.telegraph.co.uk/news/obituaries/science-obituaries/9670656/Professor-Maria-Petrou.html|title=Professor Maria Petrou|work=[[The Daily Telegraph]]|date=11 November 2012|accessdate=12 November 2012}}</ref> was a [[Greece|Greek]]-born [[United Kingdom|British]] scientist who specialised in the fields of [[artificial intelligence]] and [[machine vision]]. She developed a number of novel [[image recognition]] techniques, taught at [[Surrey University]] and [[Imperial College London]], and was a prolific author of scientific articles.<ref name=Ob/>
+
+==Early life and education==
+Petrou was born in [[Thessaloniki]], Greece, in 1953, and displayed an aptitude for science from an early age.<ref name=Ob/> She began tutoring children in maths and science at the age of 15. She studied [[physics]] at the [[Aristotle University of Thessaloniki]], before travelling to the United Kingdom to study [[mathematics]] and [[astronomy]] at the [[University of Cambridge]].<ref name=ICL/> In 1983, Petrou began working as a postdoctoral research assistant at [[Oxford University]]'s Department of Theoretical Physics.<ref name=ICL/>
+
+==Artificial intelligence research==
+As British academia gained a more practical focus in the 1980s, Petrou began to study [[machine vision]] and other aspects of [[robot]]ic intelligence. In 1988, she started work at the [[University of Surrey]]'s Department of Electronic and Electrical Engineering, becoming its Professor of Image Analysis in 1998.<ref name=Ob/> She later held the Chair of Signal Processing at [[Imperial College London]], and was the Director of the Informatics and Telematics Institute at Greece's Centre for Research and Technology (CERTH) from 2009 until her death.<ref name=IAPR>{{cite web|url=http://www.iapr.org/news/index.php?id=531|title=In Memoriam – Dr. Maria Petrou|publisher=IAPR|date=16 October 2012|accessdate=12 November 2012}}</ref><ref name=ICL/> Petrou was furthermore elected a Fellow of the [[Royal Academy of Engineering]], authored several books, and was a prolific contributor to scientific journals.<ref name=Ob/>
+
+During her career, Petrou developed a number of important image recognition techniques, including methods for robotic texture analysis, image comparison and 3D measurement.<ref name=Ob/> Most notably, she and Dr Alexander Kadyrov co-invented the trace transform,<ref>{{cite web|url=http://www2.ee.ic.ac.uk/publications/p4673.pdf|title= The Trace transform and its applications|publisher=IEEE|year=2001}}</ref> a method of image representation that allows for more efficient [[facial recognition system]]s.<ref>{{cite book|chapter= A Trace transform based on subspace method for face recognition|publisher=IEEE Xplore|year=2010|doi= 10.1109/ICCASM.2010.5622706|isbn= 978-1-4244-7235-2|title= 2010 International Conference on Computer Application and System Modeling (ICCASM 2010)|last1= Zhan Shi|last2= Minghui Du|last3= Rongbing Huang|pages= V13-170-V13-172|s2cid=17374302}}</ref> Technologies based on Petrou's work have had numerous applications in commerce, medicine and environmental imaging.<ref name=Ob/> She was also an amateur [[cartoon]]ist, and once challenged her colleagues to construct a robot capable of [[ironing]] clothes – a challenge that later developed into a [[European Union]]-funded robotics project.<ref name=Ob/><ref>{{cite web|url=http://www.clopema.eu/|title=CloPeMa|publisher=Clopema.eu|accessdate=12 November 2012}}</ref>
+
+==Personal life==
+Petrou married Phil L. Palmer, a British astronomer, with whom she had one son before divorcing.<ref name=Ob/> She died of [[cancer]] in October 2012, aged 59.<ref name=Ob/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.commsp.ee.ic.ac.uk/~mcpetrou/ Imperial College London webpage] (last updated 2009)
+*[https://web.archive.org/web/20180615135422/http://www.bmva.org/2006_petrou 2006 British Machine Vision Association biography]
+*[https://www.theguardian.com/technology/2012/dec/04/maria-petrou ''Guardian'' obituary]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Petrou, Maria}}
+[[Category:1953 births]]
+[[Category:2012 deaths]]
+[[Category:Greek emigrants to England]]
+[[Category:Scientists from Thessaloniki]]
+[[Category:Greek computer scientists]]
+[[Category:Greek women computer scientists]]
+[[Category:British women computer scientists]]
+[[Category:British computer scientists]]
+[[Category:Academics of Imperial College London]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Academics of the University of Surrey]]
+[[Category:Aristotle University of Thessaloniki alumni]]
+[[Category:British artificial intelligence researchers]]
+[[Category:Deaths from cancer in Greece]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Female fellows of the Royal Academy of Engineering]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Fellows of the International Association for Pattern Recognition]]
+[[Category:20th-century British women engineers]]
+[[Category:Women electrical engineers]]

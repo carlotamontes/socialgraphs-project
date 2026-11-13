@@ -1,0 +1,58 @@
+{{Short description|French researcher}}
+
+{{BLP primary sources|date=July 2023}}
+'''Thierry Poinsot''' (born 22 March 1958), is a French researcher, research director at the [[French National Centre for Scientific Research|CNRS]], researcher at the Institute of Fluid Mechanics in [[Toulouse]], scientific advisor at CERFACS<ref name=":0">{{cite web|title=CERFACS|url=http://www.cerfacs.fr|date=}}</ref> and senior research fellow at [[Stanford University]]. He has been a member of the [[French Academy of Sciences|French Academy of sciences]] since 2019.<ref>{{cite web|title=Communiqué de presse|url=https://www.academie-sciences.fr/fr/Communiques-de-presse/elections-membres-2019.html|date=}}</ref>
+
+== Biography ==
+{{BLP unreferenced section|date=July 2023}}
+Engineer from [[École Centrale Paris|École Centrale de Paris]] (1980, now [[CentraleSupélec|Centralesupelec]]), he obtained a doctorate in engineering in 1983 and a state thesis in 1987 before working at Stanford for two years (1988-1990). He currently works in Toulouse. His areas of expertise are [[fluid mechanics]], [[combustion]], [[propulsion]], [[acoustics]], high performance computing.
+
+== Professional positions ==
+Poinsot has taught since 1980 at Ecole Centrale Paris, Stanford, [[Institut supérieur de l'aéronautique et de l'espace|ISAE]] and [[ENSEEIHT]] in Toulouse, Princeton, [[Tsinghua University|Tsinghua]], [[Kanpur]], CISM,<ref>{{cite web|title=CISM|url=http://www.cism.it/en/|date=}}</ref> and the [[Von Karman Institute for Fluid Dynamics|von Karmann Institute]]. He was head of the MIR group (reactive media) at the Institute of Fluid Mechanics in Toulouse from 2010 to 2017 and member of the scientific council of PRACE<ref>{{cite web|title=PRACE|url=http://www.prace-ri.eu|date=}}</ref> from 2008 to 2013.
+
+He has been a consultant for  [[French Institute of Petroleum|IFP Energies Nouvelles]], [[Air Liquide]], [[Siemens]], [[Daimler AG|Daimler]], and [[John Zink]], Senior research fellow at the Center for Turbulence Research at Stanford<ref>{{cite web|title=CTR Stanford|url=http://www.ctr.stanford.edu|date=}}</ref> since 1990, scientific advisor at CERFACS<ref name=":0" /> since 1992, chief editor (with Pr F. Egofopoulos, [[University of Southern California]]) of [[Combustion and Flame]]<ref>{{cite web|title=Combustion and flame|url=https://www.journals.elsevier.com/combustion-and-flame|date=}}</ref> since 2013, expert at the European Commission for the ERC ([[European Research Council]]) programmes since 2014 and member of the Board of Directors of the [[The Combustion Institute|Combustion Institute]]<ref>{{cite web|title=Combustion Institute|url=https://www.combustioninstitute.org|date=}}</ref> since 2016.
+
+== Scientific contributions ==
+His work focuses mainly on combustion, fluid mechanics and energy. To do this, he uses experiments and theoretical methods. In addition, he relies on high performance [[Computer simulation|numerical simulation]]<ref name="Intercocis">{{cite web |date= 23 November 2021|title=Intercocis |url=https://intecocis.inp-toulouse.fr/en/index.html}}</ref> which consists in creating 'virtual' digital twins of real systems (such as an airplane or helicopter engine) thanks to supercomputers now comprising several million processors (see Top500<ref>{{cite web|title=Top 500|url=http://www.top500.org|date=}}</ref>).
+
+After his [[Doctor of Philosophy|PhD]] thesis on the physical mechanisms controlling the cooking of tyres (for [[Michelin]]), he developed experimental and theoretical studies of combustion instabilities<ref>Poinsot T., Trouvé A., Veynante D., Candel S. et Esposito E., « Vortex driven acoustically coupled combustion instabilities », ''Journal of Fluid Mechanics'', 1987,  177, <abbr>p.</abbr> 265-292</ref> and their control<ref>Poinsot T., Lang W., Bourienne F., Candel S. et Esposito E., « Suppression of combustion instability by active control », ''Journal of Propulsion and Power'', (1989) 5, 1, <abbr>p.</abbr> 14</ref><ref>McManus K., Poinsot T. et Candel S., « A review of active control methods for combustion instabilities », ''Progress in Energy and Combustion Science'', (1992) 19, <abbr>p.</abbr> 1-29</ref> in aeronautical engines under the direction of [[Sébastien Candel]] at the EM2C laboratory at Centrale Paris. He has also developed models for turbulent combustion.<ref>Candel  S.M. et Poinsot T., « Flame stretch and the balance equation for the flame area », ''Comb. Sci. and Tech.'', (1990), 70, <abbr>p.</abbr> 1-15</ref>
+
+During his two-year [[postdoctoral fellowship]] at Stanford, he set up the first direct simulations of turbulent flames.<ref>Meneveau C. et Poinsot T., « Stretching and quenching of flamelets in premixed turbulent combustion », ''Comb. and Flame'', (1991), 86, <abbr>p.</abbr> 311-332</ref><ref>Poinsot T., Veynante D. et Candel S., « Quenching processes and premixed turbulent combustion diagrams », ''Journal of Fluid Mechanics'', (1991), 228, <abbr>p.</abbr> 561-606</ref><ref>Poinsot  T. et Lele S., « Boundary conditions for direct simulations of compressible reacting flows », ''Journal of Computational Physics'', (1992), 101, 1, <abbr>p.</abbr> 104-129</ref><ref>Poinsot T., Echekki T. et Mungal M.G., « A study of the laminar flame tip and implications for premixed turbulent combustion », ''Combustion Science and Technology'', (1991), 81, 1-3, <abbr>p.</abbr> 45</ref> These first academic simulations<ref>Vervisch, L. et Poinsot T., « Direct Numerical Simulation of non-premixed turbulent combustion », ''Annual Review of Fluid Mechanics'', (1998), 30, <abbr>p.</abbr> 655-692</ref> paved the way for numerical simulation tools for real combustion chambers<ref>Moureau, V., Lartigue, G., Sommerer, Y., Angelberger, C., Colin, O. et Poinsot, T., « High-order methods for DNS and LES of compressible multi-component reacting flows on fixed and moving grids », ''J. Comp. Phys.'', (2005), 202, <abbr>p.</abbr> 710-736</ref><ref>G. Daviller, G. Oztarlik et T. Poinsot, « A generalized non-reflecting inlet boundary condition for steady and forced compressible flows with injection of vortical and acoustic waves », ''Comp. Fluids'', (2019), 190, <abbr>p.</abbr> 503-513</ref> which use the largest computers available today and are used to calculate French aeronautical combustion chambers (rockets, helicopters, aircraft, furnaces).<ref>Boudier G., Gicquel L., Poinsot T., Bissières D. et Bérat C., « Comparison of LES, RANS and Experiments in an Aeronautical Gas Turbine Combustion Chamber », ''Proc. Comb. Institute'', (2007), 31, <abbr>p.</abbr> 3075-3082</ref><ref>M. Boileau, G. Staffelbach, [[Bénédicte Cuenot|B. Cuenot]], T. Poinsot, and C. Bérat, « LES of an ignition sequence in a gas turbine engine », ''Combustion and Flame'', (2008), 154, 1-2, <abbr>p.</abbr> 2-22</ref><ref>M. Leyko, F. Nicoud, S. Moreau et T. Poinsot, « Numerical and analytical investigation of the indirect noise in a nozzle », ''Compte Rendus de Mécanique'', (2009) 337, 6-7, <abbr>p.</abbr> 415-425</ref><ref>L.Y.M. Gicquel, G. Staffelbach et T. Poinsot, Large Eddy Simulation of Gaseous Flames in Gas Turbine Combustion Chambers in "Progress in Energy and Combustion Science", (2012), 38, Article de revue sur la LES dans les turbines. 80 pages, <abbr>p.</abbr> 782-817</ref> In addition to this numerical simulation work, he has also developed theoretical<ref>M. Bauerheim, P. Salas, F. Nicoud et T. Poinsot, « Symmetry breaking and control of azimuthal thermoacoustic modes in annular chambers », ''J. Fluid Mech.'', (2014), 760, <abbr>p.</abbr> 431-465</ref><ref>Nicoud F. and Poinsot, T., « Thermoacoustic instabilities:  should the Rayleigh criterion  be extended to include entropy changes ? », ''Comb. Flame'', (2005), 142, <abbr>p.</abbr> 153-159</ref><ref>F. Thiesset, F. Halter, C. Bariki, C. Lapeyre, C. Chauveau, I. Gokalp, L. Selle et T. Poinsot, « Isolating strain and curvature effects in premixed flame/vortex interactions », ''J. Fluid Mech.'', (2017), 831, <abbr>p.</abbr> 618-654</ref> and experimental<ref>T. Kaiser, G. Oztarlik, L. Selle, T. Poinsot, « Impact of symmetry breaking on the flame transfer function of a laminar premixed flame », ''Proc. Comb. Inst.'', (2019), 37, 2, <abbr>p.</abbr> 1953-1962</ref><ref>D. Mejia, M. Miguel-Brebion, A. Ghani, T. Kaiser, F. Duchaine, L. Selle et T. Poinsot, « Influence of flame-holder temperature on the acoustic flame transfer functions of a laminar flame », ''Combustion and Flame'', ( 2018), 188, <abbr>p.</abbr> 5-12</ref><ref>P. Xavier, A. Ghani, D. Mejia, M. Miguel-Brebion, M. Bauerheim,  L. Selle, L. et T.  Poinsot, « Experimental and numerical investigation of flames stabilised behind rotating cylinders: interaction of flames with a moving wall », ''Journal of Fluid Mechanics'', (2017), 813, <abbr>p.</abbr> 127–151</ref> activities on combustion at the [[Institut de Mécanique des Fluides de Toulouse|IMFT]].
+
+He is currently interested in [[Aerospace engineering|aeronautical engines]] and the energy generation systems of the future as well as in the storage of renewable energies using hydrogen.<ref name=":1">{{cite web|title=Stockage des énergies renouvelables par l'hydrogène|url=http://www.cerfacs.fr/scirocco|date=}}</ref> He has made a major contribution to the pooling of major numerical simulation codes for fluid mechanics in France and Europe and his codes are used by hundreds of researchers and engineers. His work has been supported since 2013 by two European ERC (European Research Council) projects: INTECOCIS<ref name="Intercocis"/> and SCIROCCO.<ref name=":1" />
+
+He is the author or co-author<ref>{{cite web|url=https://scholar.google.fr/citations?user=p0_jfwcAAAAJ|title=Google Scholar|date=}}</ref> of ''Theoretical and numerical combustion'' with D. Veynante, a textbook on combustion,<ref>{{cite web |date= |title=Livre combustion |url=https://elearning.cerfacs.fr/combustion/onlinePoinsotBook/buythirdedition/index.php}}</ref> and 220 articles in peer-reviewed journals
+
+== Awards ==
+*   [[CNRS Bronze Medal|CNRS Bronze medal]] in 1988.
+*   Best DRET researcher in 1991.
+*   First Cray prize in 1993.
+*   Edmond Brun Prize of the French Academy of sciences in 1996.
+*   First BMW prize for the supervision of B. Caruelle's thesis in 2002.
+*   Grand Prix de l'Académie des sciences, Paris, 2003.
+*   [[American Institute of Aeronautics and Astronautics|AIAA]] Associate Fellow in 2003.
+*   CNRS 'Prime d'excellence scientifique' in 2009–2013.
+*   ERC advanced grant<ref>{{cite web|title=ERC|url=https://erc.europa.eu|date=}}</ref> in 2013 on thermoacoustic instabilities.<ref>{{cite web|title=Intercocis|url=http://intecocis.inp-toulouse.fr|date=}}</ref>
+*   ERC advanced grant in 2019 on hydrogen storage of renewable energy<ref name=":1" />
+*   Hottel plenary lecture at the 36th Symp.(Int.) Comb. 2016 (Seoul).
+*   Zeldovich Gold medal of the Combustion Institute, 2016.
+*   Fellow of the Combustion Institute in 2018.
+*   EPSC Award in 2021<ref>{{cite web | url=https://epsc.be/About+Us/EPSC+Award.html | title=EPSC - European Process Safety Centre - EPSC Award }}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* http://www.cerfacs.fr/~poinsot
+
+{{Authority control}}
+
+{{DEFAULTSORT:Poinsot, Thierry}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:French physicists]]
+[[Category:French National Centre for Scientific Research awards]]
+[[Category:Fellows of the Combustion Institute]]
+[[Category:Research directors of the French National Centre for Scientific Research]]
+[[Category:École Centrale Paris alumni]]
+[[Category:Members of the French Academy of Sciences]]

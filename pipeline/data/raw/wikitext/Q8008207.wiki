@@ -1,0 +1,91 @@
+{{Use mdy dates|date=January 2023}}
+{{short description|American physicist (1947–2001)}}
+{{redirect|William Caswell}}
+{{Use American English|date=June 2026}}
+{{Infobox scientist
+|name= William E. Caswell
+|image= William E. Caswell (cropped).jpg
+|caption = Caswell {{circa|1999}}
+|birth_date= {{birth date|1947|06|22}}
+|birth_place= [[Boston]], Massachusetts, U.S.
+|death_date= {{death date and age|2001|09|11|1947|06|22}}
+|death_place= [[Arlington County, Virginia|Arlington, Virginia]], U.S.
+|spouse = Jean
+|children= 1
+|thesis_title = Asymptotic Behavior of Non-Abelian Gauge Theories to Two-Loop Order
+|thesis_year = 1975
+|thesis_url = https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.33.244
+|doctoral_advisor = [[Curtis Callan]]
+|fields = Physics
+|known_for = Work in [[quantum gauge theory]]
+|education  = {{ubl|[[University of Maryland, College Park]] ([[Bachelor of Science|BS]])|[[Princeton University]] ([[Doctor of Philosophy|PhD]])}}
+|workplaces = {{ubl|[[Brown University]]|University of Maryland, College Park|[[Naval Surface Weapons Center]]}}
+}}
+
+'''William Edward Caswell''' (June 22, 1947 &ndash; September 11, 2001) was an American physicist. He did work in [[Gauge theory|quantum gauge theory]], most notably, his 1972 calculation of the beta function to two-loop accuracy. His pioneering work in the days of [[FORTRAN]] and punch cards demonstrated the potential of [[computer algebra]]. Caswell died during the [[September 11 attacks]] as a passenger aboard [[American Airlines Flight 77]], which was crashed into the [[The Pentagon|Pentagon]].
+
+==Personal life and background==
+[[File:William E. Caswell 1965 yearbook photo.jpg|left|thumb|Caswell's 1965 senior yearbook photo at [[Montgomery Blair High School]]]]
+William Edward Caswell was born on June 22, 1947,<ref name=National911Memorial>[https://names.911memorial.org/#lang=en_US&page=person&id=35 William E. Caswell]. Memorial Guide: National 9/11 Memorial. Retrieved October 28, 2011.</ref><ref name=NationalPentagonMemorial>[http://pentagonmemorial.org/explore/biographies/william-e-caswell "Biographies: William E. Caswell"] {{Webarchive|url=https://web.archive.org/web/20190403035036/https://pentagonmemorial.org/explore/biographies/william-e-caswell |date=April 3, 2019 }}. [[National 9/11 Pentagon Memorial]]. Retrieved September 11, 2013.</ref> in [[Boston, Massachusetts]], the eldest of six children. He lived most of his life in [[Silver Spring, Maryland]], residing there until his death.<ref name=NationalPentagonMemorial/> He and his wife, Jean, had a daughter.<ref>{{cite news |last1=Whitlock |first1=Craig |title=William E. Caswell |url=https://www.washingtonpost.com/archive/politics/2001/09/13/william-e-caswell/aa39fef1-e792-454e-9597-8ce4efcd2b7a/ |newspaper=[[The Washington Post]]|date=September 13, 2001}}</ref>
+
+===Education===
+Caswell attended the [[University of Maryland]] and graduated [[Phi Beta Kappa]] in three years with a degree in physics in 1968. He then attended graduate school for physics at [[Princeton University]]. His work at Princeton was delayed when he was drafted into the [[US Army|Army]] during the [[Vietnam War]], where he came to admire the [[drill sergeant]] to whom he was assigned for [[basic training]]. When Caswell resumed his studies at Princeton, he chose to work in [[elementary particle theory]]. He received his Ph.D. in physics in January 1975, and subsequently did postdoctoral work at [[Stanford University]] and [[Brown University]].<ref name=NationalPentagonMemorial/><ref name=PhysicsToday/>
+
+==Career==
+With his thesis advisor [[Curtis Callan]], Caswell embarked on an ambitious program for the summation of [[Feynman loop]]s in order to calculate [[elementary particle]] properties. His thesis, published in 1974, was groundbreaking work that encouraged and shaped future research. To quote his obituary in ''Physics Today'': "Today the interpretation of many experiments in high-energy physics requires multiloop quantum chromodynamics calculations, and Bill's result is a prime ingredient in every such calculation. It is also a critical ingredient in calculating the running of the coupling constants of the Standard Model's supersymmetric extensions, calculations that are interpreted these days as evidence for both grand unification and low-energy supersymmetry. Thus Bill's work is also crucial to our thinking about physics beyond the Standard Model."<ref name=PhysicsToday>{{cite journal |last1=Callan |first1=Curtis G. |last2=Wilczek |first2=Frank |title=William Edward Caswell |journal=Physics Today |date=December 2001 |volume=54 |issue=12 |pages=74–75 |doi=10.1063/1.1445564 |doi-access=free }}</ref>
+
+Caswell did work in [[quantum gauge theory]].<ref>{{cite journal |last1=Caswell |first1=William E. |title=Asymptotic Behavior of Non-Abelian Gauge Theories to Two-Loop Order |journal=Physical Review Letters |date=July 22, 1974 |volume=33 |issue=4 |pages=244–246 |doi=10.1103/PhysRevLett.33.244 |bibcode=1974PhRvL..33..244C |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.33.244|url-access=subscription }}</ref> His graduate career coincided with the synthesis of [[gauge symmetry]] and renormalization group ideas, in which he himself made several pioneering contributions, the highpoint of which was his 1972 calculation of the beta function to two-loop accuracy. According to ''[[Physics Today]]'', this effort "required unusual courage and determination, since the calculation simultaneously features all the notorious subtleties of gauge invariance, overlapping divergences, and renormalization."<ref name=PhysicsToday/>
+
+In the age of punchcards, [[FORTRAN]] and paper output, Caswell felt that pure hand calculation was excruciating to perform and impractical to check. Looking into the then-uncharted world of machine symbolic calculation, he adapted Tony Hearn's REDUCE program in order to graph out calculations. Today his work is utilized in the multiloop quantum chromodynamics calculations that are used in high-energy physics experiments.<ref name=PhysicsToday/>
+
+Caswell and [[G. Peter Lepage|Peter Lepage]] did significant work in 1978 to develop new and powerful tools for dealing with bound states such as [[positronium]] and [[charmonium]].<ref name=PhysicsToday/>
+
+Caswell was an assistant professor at Brown University from 1977 to 1979, and an assistant professor at the University of Maryland from 1979 to 1983. In 1983, Caswell left academic work for a position as a civilian scientist in the [[Naval Surface Weapons Center]], first at [[White Oak, Maryland]], formerly the [[Naval Ordnance Laboratory]]. In 1985, he joined a major classified defense technology project and rose to a position of technical responsibility, directing a team of more than 100 scientists.<ref name=PhysicsToday/>
+
+==Death and legacy==
+{{multiple image
+| align             = left
+| total_width       = 300
+| width1            = 407
+| width2            = 425
+| image1            = William E. Caswell remains information.png
+| caption1          = Information about the recovery of Caswell's remains (258 and 259)
+| image2            = 12.6.11WilliamECaswellPanelS-70ByLuigiNovi9.jpg
+| caption2          = Caswell’s name is located on Panel S-70 of the [[National September 11 Memorial & Museum|National September 11 Memorial]]’s South Pool
+}}
+Caswell, on a business trip in Los Angeles, was on [[American Airlines Flight 77]], which was crashed into the Pentagon on September 11, 2001.<ref name=NationalPentagonMemorial/> 
+
+At the [[National September 11 Memorial & Museum|National September 11 Memorial]], he is memorialized at the South Pool, on Panel S-70.<ref name=National911Memorial/> 
+
+His parents were involved in the design of a memorial to 9/11 victims in [[Rockville, Maryland]].<ref>{{cite news |last1=Malin |first1=Marny |title=Memorial park honors victims of 9-11 terrorism |url=https://www.fredericknewspost.com/archives/memorial-park-honors-victims-of---terrorism/article_2513759b-b074-5669-b939-0c7bdb59cdad.html |work=Frederick News-Post |date=September 8, 2003}}</ref>{{-}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.33.244 Caswell's thesis work, 1974]
+* [https://physicstoday.scitation.org/doi/full/10.1063/1.1445564 Obituary in Physics Today]
+* [https://www.washingtonpost.com/archive/politics/2001/09/13/william-e-caswell/aa39fef1-e792-454e-9597-8ce4efcd2b7a/ Washington Post obituary]
+* [http://pentagonmemorial.org/explore/biographies/william-e-caswell National Pentagon Memorial] {{Webarchive|url=https://web.archive.org/web/20190403035036/https://pentagonmemorial.org/explore/biographies/william-e-caswell |date=April 3, 2019 }}
+
+{{authority control}}
+
+{{Casualties of the September 11 attacks}}
+
+{{DEFAULTSORT:Caswell, William E.}}
+[[Category:1947 births]]
+[[Category:2001 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American Airlines Flight 77 victims]]
+[[Category:Brown University faculty]]
+[[Category:People from Silver Spring, Maryland]]
+[[Category:Princeton University alumni]]
+[[Category:Physicists from Maryland]]
+[[Category:United States Army personnel of the Vietnam War]]
+[[Category:United States Army soldiers]]
+[[Category:United States Navy civilians]]
+[[Category:University of Maryland, College Park alumni]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Burials at Baltimore National Cemetery]]

@@ -1,0 +1,58 @@
+{{Short description|Belgian physicist}}
+{{Infobox scientist
+| name              = Nicolas Cerf
+| image             = NicolasCerf.jpg
+| image_size        = 210px
+| caption           = 
+| birth_date        = 1965
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| ethnicity         = 
+| fields            = [[Physicist]]
+| workplaces        = [[Paris-Sud 11 University]]<br />[[California Institute of Technology]]<br />[[Université libre de Bruxelles]]
+| education         = [[Université libre de Bruxelles]]
+| doctoral_advisor  = <!--M. Arnould-->
+| academic_advisors = 
+| doctoral_students = <!--S. Iblisdir<br /> J. Roland<br />L.-Ph. Lamoureux<br /> J. Niset<br />G. Van Assche <br />S. Pironio -->
+| notable_students  = 
+| known_for         = Negative [[quantum conditional entropy|quantum entropy]]<br />Quantum information with continuous variables
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = Caltech President's Fund award (1997)<br />Alcatel-Bell Science Prize (1999) Wernaers Prize of the FNRS (2000) <br />Marie Curie Excellence Award (2006)
+| religion          = 
+| signature         = <!--(filename only)-->
+| footnotes         = 
+}}
+'''Nicolas Jean Cerf''' (born 1965) is a Belgian physicist. He is a professor of [[quantum mechanics]] and [[information theory]] at the [[Université libre de Bruxelles]] and a member of the [[Royal Academies for Science and the Arts of Belgium]]. He received his Ph.D. at the Université libre de Bruxelles in 1993, and was a researcher at the [[Paris-Sud 11 University|Université de Paris 11]] and the [[California Institute of Technology]]. He is the director of the [http://quic.ulb.ac.be/ Center for Quantum Information and Communication] at the Université libre de Bruxelles.
+
+==Research==
+
+Together with [[Christoph Adami]], he defined the quantum version of conditional and mutual entropies,<ref name="negent">{{cite journal | title = Negative entropy and information in quantum mechanics| journal = [[Physical Review Letters]]| volume = 79| issue = 26| pages = 5194–5197| year = 1997| doi = 10.1103/PhysRevLett.79.5194| last1 = Cerf| first1 = N. J.| last2 = Adami| first2 = C.| bibcode = 1997PhRvL..79.5194C| arxiv = quant-ph/9512022| s2cid = 14834430}}</ref><ref>{{cite journal | title = Quantum extension of conditional probability| journal = Physical Review A| volume = 60| issue = 2| pages = 893–897| year = 1999| doi = 10.1103/PhysRevA.60.893| last1 = Cerf| first1 = N. J.| last2 = Adami| first2 = C.| last3 = Gingrich| first3 = R. M.| bibcode = 1999PhRvA..60..893C| arxiv = quant-ph/9710001| s2cid = 119451904}}</ref> which are basic notions of Shannon's [[information theory]], and discovered that quantum information could be negative<ref name="negent"/> (a pair of entangled particles was coined a [[qubit]]-antiqubit pair). This has led to important results in quantum information sciences, for example [[State-merging|quantum state merging]]. He is best known today for his work on [[Continuous-variable quantum information|quantum information with continuous variables]]. He found a Gaussian quantum cloning transformation <ref>{{cite journal | title=Cloning of continuous quantum variables| journal = [[Physical Review Letters]] | volume=85| issue=8| pages=1754–1757| year = 2000| doi=10.1103/PhysRevLett.85.1754| pmid=10970606| last1=Cerf| first1=N. J.| last2=Ipe| first2=A.| last3=Rottenberg| first3=X.| bibcode=2000PhRvL..85.1754C| arxiv=quant-ph/9909037| s2cid = 45617871 }}</ref> (see [[no-cloning theorem]]). He invented a Gaussian [[quantum key distribution]] protocol,<ref>{{cite journal | title = Quantum distribution of Gaussian keys using squeezed states| journal = [[Physical Review A]] | volume = 63| issue = 5| article-number = 052311| year = 2001| doi = 10.1103/PhysRevA.63.052311| last1 = Cerf| first1 = N. J.| last2 = Lévy| first2 = M.| last3 = Assche| first3 = G. Van| bibcode = 2001PhRvA..63e2311C| arxiv = quant-ph/0008058| s2cid = 54534610 }}</ref> which is the continuous counterpart of the so-called [[BB84]] protocol, making a link with [[Claude Shannon|Shannon]]'s theory of [[Gaussian channel]]s. This has led to the first experimental demonstration of continuous-variable quantum key distribution with optical [[coherent states]] and [[homodyne detection]].<ref>{{cite journal | title=Quantum key distribution using gaussian-modulated coherent states | journal=Nature | publisher=[[Nature Magazine]] | year = 2003 | volume=421 | issue=6920 | pages=238–241 | doi=10.1038/nature01289| pmid=12529636 | last1=Grosshans | first1=Frédéric | last2=Van Assche | first2=Gilles | last3=Wenger | first3=Jérôme | last4=Brouri | first4=Rosa | last5=Cerf | first5=Nicolas J. | last6=Grangier | first6=Philippe | bibcode=2003Natur.421..238G | arxiv=quant-ph/0312016 | s2cid=4334808 }}</ref>
+
+==Honors==
+
+He received the Caltech President's Fund Award in 1997,  and the Marie Curie Excellence Award<ref>{{cite news | url=http://ec.europa.eu/research/fp6/mariecurie-actions/news/headline35_en.html| title=2006 Marie Curie Excellence Awards recognise five outstanding researchers | publisher=[[European Commission]] |year= 2006 | access-date =2011-12-08}}</ref>  in 2006.
+
+==Works==
+*{{cite book|first=Nicolas|last=Cerf|author2=Leuchs, G.|author3=E. S. Polzik|title=Quantum information with continuous variables of atoms and light|publisher=World Scientific|year=2007|isbn=978-1-86094-760-5|doi=10.1142/p489|bibcode=2007qicv.book.....C}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website}}
+* {{Google scholar id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cerf, Nicolas}}
+[[Category:Living people]]
+[[Category:Vrije Universiteit Brussel alumni]]
+[[Category:1965 births]]
+[[Category:Academic staff of the Université libre de Bruxelles]]
+[[Category:Belgian physicists]]
+[[Category:Theoretical physicists]]

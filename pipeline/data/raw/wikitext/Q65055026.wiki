@@ -1,0 +1,76 @@
+{{Short description|German academic}}
+{{Multiple issues|
+{{Orphan|date=October 2025}}
+{{Autobiography|date=April 2026}}
+{{Cleanup reorganize|date=April 2026}}
+}}
+{{Infobox scientist
+|name              = Bernd Blobel|
+|image             =
+|caption           = 
+|birth_date        = {{birth date|1947|10|1|df=y}}
+|birth_place       = [[Magdeburg]], [[Germany]]
+|death_date        = 
+|death_place       = 
+|residence         =
+|citizenship       = [[Germany|German]] 
+|nationality       =
+|fields            = [[Health Informatics]], [[natural sciences]], [[electrical engineering]] [[cybernetics]]
+
+|workplaces        = [[Otto von Guericke University Magdeburg]], [[Fraunhofer Institute for Integrated Circuits]], [[University of Regensburg]], [[Charles University Prague]], First Medical Faculty.
+
+|alma_mater        =
+|doctoral_advisor  =
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = 
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|awards            = 
+|signature         =  
+|footnotes         =
+}}
+'''Bernd Blobel''' (born October 1, 1947, in the city of Magdeburg, [[Germany]]) is a scientist recognized for his contributions to the field of health informatics. He is a professor at the Faculty of Medicine of the [[University of Regensburg]], Germany, and visiting professor at the First Faculty of Medicine of the [[Charles University of Prague]], Czech Republic, as well as at the Dept. of Informatics, Bioengineering, Robotics and System Engineering of the [[University of Genoa]], Italy. His main areas of research include electronic medical records, security, privacy and interoperability, information systems architectures in health, telemedicine and biomedicine, engineering, [[translational medicine]], knowledge representation, and ontologies. He has received numerous recognitions for his scientific career, among which are: Fellow of the American College of Medical Informatics (ACMI) (2004), Fellow of HL7 International (2010), Fellow of the Australasian College of Health Informatics (ACHI) (2011), Honorary Fellow of the European Federation of Medical Informatics (EFMI) (2015), Inaugural Fellow of the International Academy of Health Sciences and Informatics (IAHSI) (2017), and Honorary Fellow of the EuroMISE Mentors Association, as well as Honorary Fellow of HL7 Germany and the Society for Biomedical Engineering and Medical Informatics of the Czech Republic. He is the author of more than 600 high-impact scientific articles,<ref>{{cite web |title=Scopus author profile |url=https://www.scopus.com/authid/detail.uri?authorId=55551292000 |publisher=Scopus |accessdate=14 September 2020}}</ref> including the book Analysis, Design and Implementation of Secure and Interoperable Distributed Health Information Systems.<ref>{{cite book |last1=Blobel |first1=Bernd |title=Analysis, Design and Implementation of Secure and Interoperable Distributed Health Information Systems|journal=Studies in Health Technology and Informatics |date=2012 |volume=89 |pages=1–329 |publisher=IOS Press |pmid=15455834 |isbn=978-1-58603-277-7}}</ref><ref>{{Cite web|title=Researchgate Profile Bernd Blobel|url=https://www.researchgate.net/profile/Bernd-Blobel|url-status=live|access-date=2021-05-02|archive-url=https://web.archive.org/web/20210502103357/https://www.researchgate.net/profile/Bernd-Blobel |archive-date=2021-05-02 }}</ref> Over all, he authored/edited more than 50 books and has been advisor of EHR and eHealth/pHealth programs of more than 50 countries around the world.
+
+==Biography==
+From the beginning, he was always comprehensively interested, aiming to truly understand everything. Consequently, during his schooldays, he was the only scholar in the former [[East Germany|German Democratic Republic (GDR)]], receiving the school grade “excellent” in all school subjects. He became inaugural member of the newly launched Club of Young Mathematicians. Thereafter, he was selected as one of the 19 members of the First Special Class for Mathematics and Natural Sciences in the former German Democratic Republic, an elite school aiming to train the most talented scholars in the nation. He started already as scholar his practical engagement in computer science with the first tube-based computer build in the GDR, enabled as his father was the operating engineer for this first computer at the Magdeburg Institute of Technology (now [[Otto von Guericke University Magdeburg]]). He began his university studies at this institution in 1964. He received university degrees and certificates in electronics (1971), computer science (1971), biocybernetics (1974), theoretical physics (1975), biometry and medical informatics (1985), and, theory of education (1989). He obtained a Ph.D. in Physics at the University of Magdeburg with a thesis entitled "About the mechanism of information processing and energy transformation in bio-receptors – a general and membrane structure related transducer model
+" (1976).<ref>{{cite thesis | last1=Blobel |first1=Bernd | title= Zum Mechanismus der Informationsverarbeitung und Energiewandlung in biologischen Rezeptoren: Ein allgemeines membranstrukturbezogenes Transducermodell / On the transaction mechanism in biological sensors [PhD Thesis, Magdeburg, Technische Hochschule].|date=1976 |publisher=Magdeburg, Technische Hochschule |doi=10.5283/epub.4245 |url= https://epub.uni-regensburg.de/4245/}}</ref> The PhD Thesis presents a revolutionary approach to receptor mechanisms by introducing specialized receptor proteins, perceiving the specific mechanical (feeling and hearing), chemical (smelling and tasting) and electro-magnetic (viewing) energy of the signals, resulting in conformational changes through quantum-mechanical mechanisms. This impacts the protein-lipid interactions, leading to action potentials. After his engagement in Biocybernetics at the [[University of Magdeburg]], in 1974 he moved to the Magdeburg Medical University. Here, he thought and researched in the field of [[environmental medicine]]. One investigated aspect was the impact of noise on health, learning and pain management. In that context, he established the first environmental medicine laboratory and related field studies including the first sleep laboratory of the [[East Germany|GDR]], using [[Electrocardiography|ECG]], [[Electroencephalography|EEG]], [[Electromyography|EMG]], [[Electrodermal activity|skin resistance]], skin potential, and many more. One outcome was the innovative audio anesthesia for dental interventions. Consequently, he performed a [[Habilitation]] (post-doctorate qualification as a university professor in Germany) in Environment and Medicine at Magdeburg Medical University with a postdoctoral thesis " Implications of physical environmental factors on health" (1981). In 1984, he was appointed as Head of the Department of Electronic Data Processing at the Research Directorate of the Magdeburg Medical University. Later on, this structure was transformed under his leadership into the Department of Medical Informatics at the Institute of Biometry, advancing the latter to the Institute of Biometry and Medical Informatics. In this position, he established the [[Hospital information system|Hospital Information System]] with the related data processing as well as the first local and regional [[Cancer registry|Cancer Registry]]. Furthermore, he was leadingly involved in the development and installation of the German National Cancer Registry. This engagement resulted in the Qualification in Medical Informatics at the University of Magdeburg with the postdoctoral thesis " Analysis and Design of Secure and Interoperable Distributed Health Information Systems" (2001). Here, he presented his Generic Component Model, reused in many standards at [[International Organization for Standardization|ISO]], [[European Committee for Standardization|CEN]], [[Object Management Group|OMG]] and [[Health Level 7|HL7]] he authored/coauthored. In analogy to his revolutionary generic and interdisciplinary model of structure and functions of bioreceptors, he thereafter advanced the Generic Component Model to an innovative, interdisciplinary approach for designing, developing and managing transformed health and social care ecosystems. The solution is a universal system of systems, formally represented through a mappable system of ontologies for all views of the system development process according to the ISO 10746 Reference Model, extended by a real world business viewpoint. Thereby, any granularity level of the ecosystem components can be represented from elementary particles up to the society or the universe.The outcome is his [http://ISO%2023903%20Interoperability%20and%20Integration%20Reference%20Architecture%20standard ISO 23903 Interoperability and Integration Reference Architecture standard], which is mandatory for any project at ISO, CEN and beyond, covering more than one domain. This approach can be deployed to model any system such as a plant, an organ, a body, a car, a hospital, any ecosystem including health and social care, but also security, privacy ethics, etc.
+
+He developed a large part of his research career within the borders of the former German Democratic Republic, at the Magdeburg University of Medicine (later at the University of Magdeburg, Faculty of Medicine). Blobel was Head of the Laboratory of Environmental Medicine (1974–81), Director of Information Technology (CIO) (1974-2004), Founder and Head of the Medical Informatics Group (1981–87), Founding Director of the Medical Informatics Department, Deputy Director / Acting Director for the Institute of Biometry and Medical Informatics at the Magdeburg University of Medicine (1987-2004). In 2004 he moved as Founder and Head of Health Telematics Group from the Fraunhofer Institute Integrated Circuits in Erlangen (2004–06). From 2006 until his retirement in 2012 he served as founder and director of the National eHealth Competence Center (eHCC) and the globally first International Interdisciplinary PhD and PostDoc College at the Regensburg University Hospital (the [[University of Regensburg]], Faculty of Medicine).<ref>{{cite web |title=Deggendorf Technical University Faculty |url=https://www.th-deg.de/Fakult%C3%A4ten/ecri/digihealth/Bernd%20Blobel_Bio.pdf |accessdate=14 September 2020 |archive-date=13 September 2020 |archive-url=https://web.archive.org/web/20200913074410/https://www.th-deg.de/Fakult%C3%A4ten/ecri/digihealth/Bernd%20Blobel_Bio.pdf |url-status=dead }}</ref>
+
+== International career ==
+* Co-Founder and Vice President of HL7 Germany (1993-2012).
+* Co-Chair of the OMG [[Object Management Group]] Security Working Group (1996-2001)
+* Co-chair of the Working Groups "Security" and "Personnel Management" as well as the International Council at HL7 International (1997-2014)
+* Co-chair, Healthcare Chapter, IFIP / Unesco World IT Forum (WITFOR) (2001–04)
+* Chair, CEN/ISSS eHealth Standardization Focus Group, Brussels, Belgium (2004–06)
+*Vice-Chair/Chair, Working Group “Security, Safety and Ethics” (1997-2014), Chair, Working Group “EHR” (2000–14), and Member of the Council of the European Federation for Medical Informatics (EFMI).
+*Vice President of the Working Group "Security in Health Information Systems" (1998-2004) 
+* Member of the General Assembly of IMIA (2004–06) at the International Medical Informatics Association (IMIA)
+* Author/Co-Author of many standards at ISO, CEN, HL7 and IEEE on security, privacy, architectures, EHR, etc. The most import ones are ISO 22600:2014 Health informatics - Privilege management and access control, ISO 21298:2017 Health informatics — Functional and structural roles, and especially ISO 23903:2021 Health informatics - Interoperability and integration reference architecture – Model and framework.
+
+== Awards and honors ==
+* Recipient of the [[Order of Merit of the Federal Republic of Germany|German Federal Order of Merit]]<ref>{{Cite web|title=Haseloff überreicht Bundesverdienstorden an Professor|url=https://www.rtl.de/cms/haseloff-ueberreicht-bundesverdienstorden-an-professor-4740903.html|access-date=2021-05-02|website=rtl.de|language=de|archive-date=2021-05-02|archive-url=https://web.archive.org/web/20210502103740/https://www.rtl.de/cms/haseloff-ueberreicht-bundesverdienstorden-an-professor-4740903.html|url-status=dead}}</ref><ref>{{Cite web|date=2021-04-14|title=Pressemitteilung: 106/2021|url=https://www.sachsen-anhalt.de/fileadmin/tx_tsarssinclude/staatskanzlei_14_04_2021_pressemitteilung_ministerpraesident-haseloff-ueberreicht-bundesverdienstorden-an-prof-dr-bernd-blobel.pdf|url-status=live|access-date=2021-05-02|archive-url=https://web.archive.org/web/20210502111056/https://www.sachsen-anhalt.de/fileadmin/tx_tsarssinclude/staatskanzlei_14_04_2021_pressemitteilung_ministerpraesident-haseloff-ueberreicht-bundesverdienstorden-an-prof-dr-bernd-blobel.pdf |archive-date=2021-05-02 }}</ref>
+* Fellow of the American College of Medical Informatics (ACMI) (2004)
+* Fellow of HL7 International (2010)
+* Fellow of the Australasian College of Health Informatics (ACHI) (2011)
+* Honorary Fellow of the European Federation of Medical Informatics (EFMI) (2015)
+* Inaugural Fellow of the International Academy of Health Sciences and Informatics (IAHSI) (2017).
+* Honorary Fellow of the EuroMISE Mentors Association
+* Honorary Fellow of HL7 Germany and the Society for Biomedical Engineering and Medical Informatics of the Czech Republic.
+*  Honored by [https://scholargps.com/ ScholarGPS™] as 2022 Highly Ranked Scholar – Lifetime in the Specialties Informatics and Health Informatics with the following ranks: #1 in Semantic Interoperability, #19 in Informatics, #34 in Health Informatics, #57 in Systems Architecture, #115 in eHealth, #395 in Data Security, #792 in Ontology, #985 in mHealth.
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Blobel, Bernd}}
+[[Category:German computer scientists]]
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Recipients of the Cross of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Academic staff of Charles University]]

@@ -1,0 +1,91 @@
+{{Short description|Australian and Canadian physicist and writer (b.1974)}}
+{{for|persons of a similar name|Michael Nielsen (disambiguation)}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox scientist
+| birth_name        = Michael Aaron Nielsen
+| image             = Michael Nielsen (cropped).jpg
+| caption           = Michael Nielsen at Science Online London 2011
+| birth_date        = {{Birth date and age|1974|01|04}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| fields            = [[Physics]], [[Computer science]]
+| workplaces        = [[Los Alamos National Laboratory]]<br>[[Caltech]]<br>[[University of Queensland]]<br>[[Perimeter Institute]]<br>[[Recurse Center]]
+| education         = [[University of New Mexico]]<br>[[University of Queensland]]
+| doctoral_advisor  = [[Carlton M. Caves]]<ref name=mathgen>{{MathGenealogy|id=116803}}</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = ''[[Quantum Computation and Quantum Information]]''<br>[[Nielsen's theorem]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Richard C. Tolman]] Prize Fellow at Caltech, [[Fulbright Program|Fulbright Scholar]]<ref>http://michaelnielsen.org/blog/michael-a-nielsen/ About Michael Nielsen</ref>
+| signature         = <!--(filename only)-->
+| footnotes         = 
+| website           = https://michaelnotebook.com
+| thesis_title      = Quantum Information Theory
+| thesis_year       = 1998
+| thesis_url        = https://cds.cern.ch/record/476522/files/0011036.pdf
+}}
+'''Michael Aaron Nielsen''' (born January 4, 1974) is an Australian-American [[quantum physicist]], science writer, and computer programming researcher living in [[San Francisco]].<ref>{{Cite web|url=https://www.recurse.com/blog/110-pausing-rc-research|title=The Recurse Center|website=Recurse Center|date=23 August 2016 |language=en-US|access-date=2017-03-16}}</ref>
+
+==Work==
+In 1998, Nielsen received his [[PhD]] in physics from the [[University of New Mexico]]. In 2004, he was recognized as Australia's "youngest academic" and was awarded a Federation Fellowship at the [[University of Queensland]].<ref name=football>{{cite news|last=Maiden|first=Samantha|title='Football star' salaries to boost academic research|newspaper=The Australian|date=17 June 2004|location=Canberra, ACT|page=4|id={{ProQuest|357585672}}}}</ref> During this fellowship, he worked at the [[Los Alamos National Laboratory]], [[Caltech]], and at the [[Perimeter Institute]] for Theoretical Physics.<ref name=mathgen/> 
+
+Alongside [[Isaac Chuang]], Nielsen co-authored a [[Quantum Computation and Quantum Information (book)|popular textbook]] on [[quantum computing]],<ref name="nc">
+{{cite book |title=Quantum Computation and Quantum Information |last1=Nielsen |first1=Michael A. |author-link1=Michael Nielsen |last2=Chuang |first2=Isaac L. |author-link2=Isaac Chuang |year=2000 |publisher=Cambridge University Press |location=Cambridge, UK |isbn=978-0-521-63235-5 |oclc=43641333}}
+</ref> which has been cited more than 52,000 times as of July 2023.<ref>{{Cite book|url=https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QKyb_9oAAAAJ&citation_for_view=QKyb_9oAAAAJ:u5HHmVD_uO8C|title=Quantum computation and quantum information|last1=Nielsen|first1=Michael A.|last2=Chuang|first2=Isaac|date=2002|publisher=AAPT}}</ref>
+
+In 2007, Nielsen shifted his focus from quantum information and computation to “the development of new tools for scientific collaboration and publication”,<ref name="Changing fields">
+{{cite web |url=http://michaelnielsen.org/blog/?p=274 |title=Michael Nielsen » Changing fields |date=28 September 2007 |access-date=2009-01-19}}</ref> including the [[Polymath project]] with [[Timothy Gowers]], which aims to facilitate "massively collaborative mathematics."<ref>{{Cite journal 
+| last1 = Gowers | first1 = T. 
+| last2 = Nielsen | first2 = M. 
+| doi = 10.1038/461879a 
+| title = Massively collaborative mathematics 
+| journal = Nature 
+| volume = 461 
+| issue = 7266 
+| pages = 879–881 
+| year = 2009 
+| pmid = 19829354 
+|bibcode = 2009Natur.461..879G | s2cid = 205050360 
+}}</ref> Besides writing books and essays, he has also given talks about [[open science]].<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=DnWocYKqvhw |title=Open science: Michael Nielsen at TEDxWaterloo |date=2011-04-06 |last=TEDx Talks |access-date=2025-01-01 |via=YouTube}}</ref> He was a member of the Working Group on Open Data in Science at the [[Open Knowledge Foundation]].<ref name="Working Group on Open Data in Science">{{cite web |url=http://wiki.okfn.org/wg/science |title=Working Group on Open Data in Science |access-date=2009-04-17 |archive-url=https://web.archive.org/web/20090602092153/http://wiki.okfn.org/wg/science |archive-date=2 June 2009 |url-status=dead }}</ref>
+
+Nielsen is a strong advocate for open science and has written extensively on the subject, including in his book ''[[Reinventing Discovery]]'', which was favorably reviewed in [[Nature (journal)|Nature]] and named one of the [[Financial Times]]' best books of 2011.<ref>{{Cite journal | last1 = Hannay | first1 = T. | title = A new kind of science? | journal = Nature Physics | volume = 7 | issue = 10 | pages = 742 | year = 2011 | doi = 10.1038/nphys2109|bibcode = 2011NatPh...7..742H | doi-access = free }}</ref><ref>{{cite news |url=https://www.ft.com/content/c5f01366-fef3-11e0-9769-00144feabdc0 |archive-url=https://ghostarchive.org/archive/20221211181212/https://www.ft.com/content/c5f01366-fef3-11e0-9769-00144feabdc0#axzz1j00AdfTh |archive-date=11 December 2022 |url-access=subscription |url-status=live |title=Reinventing Discovery |first=James |last=Wilsdon |publisher=Financial Times |date=28 October 2011 |access-date=9 January 2012 }}</ref>
+
+In 2015 Nielsen published the online textbook [http://neuralnetworksanddeeplearning.com ''Neural Networks and Deep Learning''], and joined the [[Recurse Center]] as a Research Fellow for a year.<ref name="recurse.com">{{Cite web|url=https://www.recurse.com/blog/93-why-research|title=Why research - Blog|date=23 October 2015|website=Recurse Center}}</ref><ref>{{Cite web|url=https://www.recurse.com/blog/83-michael-nielsen-joins-the-recurse-center-to-help-build-a-research-lab|title=Michael Nielsen joins the Recurse Center to help build a research lab - Blog|date=11 May 2015|website=Recurse Center}}</ref> He then joined [[Y_Combinator#Research|Y Combinator Research]] as a Research Fellow from 2016 to 2019.<ref name="http://michaelnielsen.org">{{cite web |url=https://michaelnielsen.org/cv_michael_nielsen_06_2020.pdf |title=CV |website=Michael Nielsen |access-date=2024-10-16}}</ref>
+
+In 2019, Nielsen collaborated with [[Andy Matuschak]] to develop [https://quantum.country/qcvc ''Quantum Computing for the Very Curious''], a series of interactive essays explaining [[quantum computing]] and [[quantum mechanics]].<ref>{{cite web|url=https://quantum.country |title=Quantum Computing for the Very Curious |date=2019-03-18 |access-date=2019-11-02}}</ref> With [[Patrick Collison]], he researched whether scientific progress is slowing down.<ref>{{Cite web|url=https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/|title=Science Is Getting Less Bang for Its Buck|last=Nielsen|first=Patrick Collison, Michael|date=2018-11-16|website=The Atlantic|language=en-US|access-date=2019-12-08}}</ref>
+
+Nielsen resides in San Francisco.<ref>{{Cite web|url=https://twitter.com/michael_nielsen|title=michael_nielsen (@michael_nielsen) {{!}} Twitter|website=twitter.com|language=en|access-date=2019-12-08}}</ref>
+
+==Bibliography==
+* {{Citation | last1=Nielsen |first1=Michael A. | last2=Chuang |first2= Isaac L.| title=Quantum Computation and Quantum Information | date=2010 | publisher=Cambridge University Press | edition=New ed., 10th anniversary | isbn=978-1-107-00217-3 | title-link=Quantum Computation and Quantum Information (book) }}
+* {{cite book |author=Nielsen, Michael A. |title=Reinventing Discovery: The New Era of Networked Science |publisher=[[Princeton University Press]] |location=Princeton, N.J |year=2011 |isbn=978-0-691-14890-8 }} This book is based on themes that are also covered in his essay on the ''Future of Science''.<ref name="The Future of Science">{{cite web |url=http://michaelnielsen.org/blog/?p=448 |title=Michael Nielsen » The Future of Science |date=17 July 2008 |access-date=2009-01-19}}</ref>
+* {{cite book|author=Nielsen, Michael A.|title=Neural Networks and Deep Learning|url=http://neuralnetworksanddeeplearning.com|publisher=Determination Press|year=2015}}
+* {{Cite journal | last1 = Nielsen | first1 = M. A. | title = The bits that make up the Universe | doi = 10.1038/427016b | journal = Nature | volume = 427 | issue = 6969 | pages = 16–17 | year = 2004 | bibcode = 2004Natur.427...16N | doi-access = free }} (Review of ''Information: The New Language of Science'' (2003) by Hans Christian von Baeyer)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[https://twitter.com/michael_nielsen Michael Nielsen's account on Twitter]
+*[http://michaelnielsen.org/blog/ Personal website of Nielsen]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nielsen, Michael}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Science bloggers]]
+[[Category:21st-century American science writers]]
+[[Category:Open content activists]]
+[[Category:Theoretical physicists]]
+[[Category:Australian textbook writers]]
+[[Category:Quantum information scientists]]
+[[Category:California Institute of Technology fellows]]
+[[Category:University of New Mexico alumni]]
+[[Category:Los Alamos National Laboratory personnel]]

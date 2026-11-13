@@ -1,0 +1,168 @@
+{{Short description|Laser physicist and author/editor}}
+{{Multiple issues|
+{{Cleanup press release|1=article|date=December 2021}}
+{{BLP primary sources|date=December 2021}}
+}}
+{{Infobox scientist
+| image             = FJ_DUARTE_(2006).jpg
+| caption           = {{no wrap|F. J. Duarte at a meeting of the [[Optical Society]] in 2006}}
+| image_size        = 200px
+| name              = F. J. Duarte
+| birth_date        = c. 1954
+| birth_place       = [[Santiago]], Chile
+| field             = [[Physics]]<br />[[Optics]]
+| workplaces        = {{no wrap|[[Macquarie University]]<br />[[University of New South Wales]]<br />[[University of Alabama]]<br />[[Eastman Kodak Company]]<br />[[State University of New York]]<br />[[University of New Mexico]]<br />[http://www.interferometricoptics.com Interferometric Optics]}}
+| education         = [[Macquarie University]]
+| doctoral_advisor  = [[James A. Piper|J. A. Piper]]
+| academic_advisors = [[John Clive Ward|J. C. Ward]]<br/>[[Ronald Ernest Aitchison|R. E. Aitchison]]
+| known_for         = {{no wrap|[[Tunable laser]]s<br />[[Dye laser|Narrow-linewidth dye lasers]]<br />[[Multiple-prism dispersion theory]]<br />[[N-slit interferometer]]<br />[[N-slit interferometric equation]]}}
+| awards            = [[Paul F. Forman Team Engineering Excellence Award|Paul F. Forman Engineering Excellence Award]] (1995)<br />[https://www.osa.org/en-us/awards_and_grants/awards/award_description/davidrichardson/ David Richardson Medal]  (2016)
+}}
+'''Francisco Javier "Frank" Duarte''' (born c. 1954) is a [[laser]] [[physicist]] and author/editor of several books on [[tunable laser]]s.<ref>{{cite web |title=Francisco J. Duarte |url=https://www.optica.org/History/Biographies/bios/Francisco_J_Duarte |website=Optica |access-date=March 26, 2025}}</ref>
+
+His research on [[physical optics]] and laser development has won several awards, including an [[Paul F. Forman Team Engineering Excellence Award|Engineering Excellence Award]] in 1995 for the invention of the [[N-Slit interferometer|N-slit laser interferometer]].
+
+==Research==
+
+===Laser oscillators===
+
+Duarte and Piper introduced ''multiple-prism near-grazing-incidence grating'' cavities which originally were disclosed as [[Copper vapor laser|copper-laser]]-pumped narrow-linewidth tunable laser oscillators.<ref name=fd81>{{cite journal | last1=Duarte | first1=F. J. | last2=Piper | first2=J. A. | title=Prism preexpanded grazing-incidence grating cavity for pulsed dye lasers | journal=Applied Optics | publisher=The Optical Society | volume=20 | issue=12 | date=1981-06-15 | pages=2113–6 | issn=0003-6935 | doi=10.1364/ao.20.002113 | pmid=20332895 | bibcode=1981ApOpt..20.2113D }}</ref><ref name=dl1>{{cite journal | last1=Duarte | first1=F. J. | last2=Piper | first2=James A. | title=Narrow linewidth, high prf copper laser-pumped dye-laser oscillators | journal=Applied Optics | publisher=The Optical Society | volume=23 | issue=9 | date=1984-05-01 | issn=0003-6935 | doi=10.1364/ao.23.001391 | pages=1391–1394| pmid=18212837 | bibcode=1984ApOpt..23.1391D }}</ref> Subsequently, he developed narrow-linewidth multiple-prism grating configurations for high-power CO<sub>2</sub> laser oscillators<ref>{{cite journal | last=Duarte | first=F. J. | title=Multiple-prism Littrow and grazing-incidence pulsed CO<sub>2</sub> lasers | journal=Applied Optics | publisher=The Optical Society | volume=24 | issue=9 | date=1985-05-01 | issn=0003-6935 | doi=10.1364/ao.24.001244 | pages=1244–1245| pmid=18223701 | bibcode=1985ApOpt..24.1244D }}</ref> and solid-state tunable organic laser oscillators.<ref name=D1994>{{cite journal | last=Duarte | first=F. J. | title=Solid-state multiple-prism grating dye-laser oscillators | journal=Applied Optics | publisher=The Optical Society | volume=33 | issue=18 | date=1994-06-20 | issn=0003-6935 | doi=10.1364/ao.33.003857 | pages=3857–3860| pmid=20935726 | bibcode=1994ApOpt..33.3857D }}</ref>{{citation needed|date=December 2021}}
+
+===Intracavity dispersion theory===
+
+Duarte also conceived the [[Multiple-prism dispersion theory|multiple-prism dispersion theories]] for [[Multiple-prism grating laser oscillators|tunable narrow-linewidth laser oscillators]],<ref name=fjd1982>{{cite journal | last1=Duarte | first1=F.J. | last2=Piper | first2=J.A. | title=Dispersion theory of multiple-prism beam expanders for pulsed dye lasers | journal=Optics Communications | publisher=Elsevier BV | volume=43 | issue=5 | year=1982 | issn=0030-4018 | doi=10.1016/0030-4018(82)90216-4 | pages=303–307| bibcode=1982OptCo..43..303D }}</ref> and multiple-prism laser [[prism compressor|pulse compression]],<ref name=fjd1987>{{cite journal | last=Duarte | first=F. J. | title=Generalized multiple-prism dispersion theory for pulse compression in ultrafast dye lasers | journal=Optical and Quantum Electronics | publisher=Springer Science and Business Media LLC | volume=19 | issue=4 | year=1987 | issn=0306-8919 | doi=10.1007/bf02032516 | pages=223–229| bibcode=1987OQEle..19..223D | s2cid=123209183 }}</ref><ref>{{cite journal | last=Duarte | first=F. J. | title=Generalized multiple-prism dispersion theory for laser pulse compression: higher order phase derivatives | journal=Applied Physics B | publisher=Springer Science and Business Media LLC | volume=96 | issue=4 | date=2009-04-03 | issn=0946-2171 | doi=10.1007/s00340-009-3475-2 | pages=809–814| bibcode=2009ApPhB..96..809D | s2cid=122996664 }}</ref> which are summarized in several of his books.<ref name=DLP /><ref name=TLH>{{cite book |title= Tunable Lasers Handbook | publisher= Academic |location=New York |year=1995 |isbn=978-0-12-222695-3 | author = F. J. Duarte (Ed.)}}</ref><ref name=TLO2 />  The introduction to this theory is the generalized multiple-prism dispersion equation<ref name=fjd1982 />
+
+:<math>\nabla_{\lambda}\phi_{2,m} = H_{2,m}\nabla_{\lambda}n_m + (k_{1,m}k_{2,m})^{-1}\bigg(H_{1,m}\nabla_{\lambda}n_m \pm \nabla_{\lambda}\phi_{2,(m-1)}\bigg)</math>
+
+which has found a variety of applications.<ref name=S2001>{{cite journal | last1=Siegner | first1=U | last2=Achermann | first2=M | last3=Keller | first3=U | title=Spatially resolved femtosecond spectroscopy beyond the diffraction limit | journal=Measurement Science and Technology | publisher=IOP Publishing | volume=12 | issue=11 | date=2001-10-09 | issn=0957-0233 | doi=10.1088/0957-0233/12/11/313 | pages=1847–1857| bibcode=2001MeScT..12.1847S | s2cid=250883209 }}</ref><ref name=F92>{{cite journal | last1=Pang | first1=L. Y. | last2=Kintzer | first2=E. S. | last3=Fujimoto | first3=J. G. | title=Ultrashort-pulse generation from high-power diode arrays by using intracavity optical nonlinearities | journal=Optics Letters | publisher=The Optical Society | volume=17 | issue=22 | date=1992-11-15 | issn=0146-9592 | doi=10.1364/ol.17.001599 | pages=1599–1601| pmid=19798258 | bibcode=1992OptL...17.1599P }}</ref>
+
+===Tunable lasers for isotope separation===
+
+His [[multiple-prism grating laser oscillators|tunable narrow-linewidth laser oscillator]] configurations<ref name=dl1 /><ref name=dl5>{{cite journal | last1=Duarte | first1=F. J. | last2=Piper | first2=J. A. | title=Comparison of prism-expander and grazing-incidence grating cavities for copper laser pumped dye lasers | journal=Applied Optics | publisher=The Optical Society | volume=21 | issue=15 | date=1982-08-01 | pages=2782–6 | issn=0003-6935 | doi=10.1364/ao.21.002782 | pmid=20396117 | bibcode=1982ApOpt..21.2782D }}</ref> have been adopted by various research groups working  on [[uranium]] [[atomic vapor laser isotope separation]] (AVLIS).<ref name=dl2>{{cite journal | last1=Singh | first1=Sunita |first2=K. |last2=Dasgupta|first3=S. |last3=Kumar|first4= K. G.|last4= Manohar|first5= L. G. |last5=Nair|first6= U. K. |last6=Chatterjee| title=High-power high-repetition-rate copper-vapor-pumped dye laser | journal=Optical Engineering | publisher=SPIE-Intl Soc Optical Eng | volume=33 | issue=6 | date=1994-06-01 | issn=0091-3286 | doi=10.1117/12.168243 | pages=1894–1904| bibcode=1994OptEn..33.1894S }}</ref><ref name=dl3>{{cite journal | last1=Sugiyama | first1=Akira |first2=T. |last2=Nakayama|first3= M.|last3= Kato|first4= Y. |last4=Maruyama|first5= T. |last5=Arisawa| title=Characteristics of a pressure-tuned single-mode dye laser oscillator pumped by a copper vapor laser | journal=Optical Engineering | publisher=SPIE-Intl Soc Optical Eng | volume=35 | issue=4 | date=1996-04-01 | issn=0091-3286 | doi=10.1117/1.600726 | pages=1093–1097| bibcode=1996OptEn..35.1093S }}</ref><ref name=dl4>{{cite journal | last=Singh | first=Nageshwar | title=Influence of optical inhomogeneity in the gain medium on the bandwidth of a high-repetition-rate dye laser pumped by copper vapor laser | journal=Optical Engineering | publisher=SPIE-Intl Soc Optical Eng | volume=45 | issue=10 | date=2006-10-01 | issn=0091-3286 | doi=10.1117/1.2363168 | page=104204| bibcode=2006OptEn..45j4204S }}</ref>   This work was supported by the [[Australian Atomic Energy Commission]].<ref name=dl5 /> During the course of this research, Duarte writes that he did approach the then federal minister for energy, [[John Carrick (Australian politician)|Sir John Carrick]], to advocate for the introduction of an [[Atomic vapor laser isotope separation|AVLIS]] facility in Australia.<ref>{{cite journal|url=http://www.tunablelasers.com/F.%20J.%20Duarte%20Australian%20Physics%2047%2038-40%20%282010%29.pdf |first=F. J.|last= Duarte|title=Tunable lasers for atomic vapor laser isotope separation: the Australian contribution|journal=Australian Physics|volume=47|issue=2|pages=38–40|year=2010}}</ref> In 2002, he participated in research that led to the isotope separation of [[lithium]] using narrow-linewidth tunable [[diode lasers]].<ref>{{cite journal | last1=Olivares | first1=Ignacio E. | last2=Duarte | first2=Andrés E. | last3=Saravia | first3=Eduardo A. | last4=Duarte | first4=Francisco J. | title=Lithium isotope separation with tunable diode lasers | journal=Applied Optics | publisher=The Optical Society | volume=41 | issue=15 | date=2002-05-20 | issn=0003-6935 | doi=10.1364/ao.41.002973 | pages=2973–2977| pmid=12027187 | bibcode=2002ApOpt..41.2973O }}</ref>
+
+===Solid state organic dye lasers===
+
+From the mid-1980s to early 1990s Duarte and scientists from the [[United States Army Aviation and Missile Command|US
+Army Missile Command]] developed ''ruggedized'' [[multiple-prism grating laser oscillators|narrow-linewidth laser oscillators]] tunable directly in the visible spectrum.<ref>{{cite journal | last1=Duarte | first1=F. J. | last2=Ehrlich | first2=J. J. | last3=Davenport | first3=W. E. | last4=Taylor | first4=T. S. | title=Flashlamp pumped narrow-linewidth dispersive dye laser oscillators: very low amplified spontaneous emission levels and reduction of linewidth instabilities | journal=Applied Optics | publisher=The Optical Society | volume=29 | issue=21 | date=1990-07-20 | pages=3176–9 | issn=0003-6935 | doi=10.1364/ao.29.003176 | pmid=20567393 | bibcode=1990ApOpt..29.3176D }}</ref><ref name= OC>{{cite journal | last1=Duarte | first1=F.J. | last2=Davenport | first2=W.E. | last3=Ehrlich | first3=J.J. | last4=Taylor | first4=T.S. | title=Ruggedized narrow-linewidth dispersive dye laser oscillator | journal=Optics Communications | publisher=Elsevier BV | volume=84 | issue=5–6 | year=1991 | issn=0030-4018 | doi=10.1016/0030-4018(91)90093-s | pages=310–316| bibcode=1991OptCo..84..310D }}</ref>  This constituted the first disclosure, in the open literature, of a tunable narrow-linewidth laser tested on a rugged terrain.  This research led to experimentation with polymer gain media and in 1994 Duarte reported on the first narrow-linewidth tunable [[Solid state dye lasers|solid state dye laser]] oscillators.<ref name=D1994 />   These dispersive oscillator architectures were then refined to yield single-longitudinal-mode emission limited only by [[Uncertainty principle|Heisenberg's uncertainty principle]].<ref name=D99>{{cite journal | last=Duarte | first=Francisco J. | title=Multiple-prism grating solid-state dye laser oscillator: optimized architecture | journal=Applied Optics | publisher=The Optical Society | volume=38 | issue=30 | date=1999-10-20 | pages=6347–9 | issn=0003-6935 | doi=10.1364/ao.38.006347 | pmid=18324163 | bibcode=1999ApOpt..38.6347D }}</ref>
+
+===Organic gain media===
+
+Joint research, with R. O. James, on solid-state organic-inorganic materials, led to the discovery of polymer-[[nanoparticle]] gain media and to the emission of tunable low-divergence homogeneous laser beams from this class of media.<ref name= DJ2003>{{cite journal | last1=Duarte | first1=F. J. | last2=James | first2=R. O. | title=Tunable solid-state lasers incorporating dye-doped, polymer– nanoparticle gain media | journal=Optics Letters | publisher=The Optical Society | volume=28 | issue=21 | date=2003-11-01 | pages=2088–90 | issn=0146-9592 | doi=10.1364/ol.28.002088 | pmid=14587824 | bibcode=2003OptL...28.2088D }}</ref> In 2005, Duarte and colleagues were the first to demonstrate    directional coherent emission from an electrically excited [[Organic light-emitting diode|organic semiconductor]].<ref name=fjd2005>{{cite journal | last1=Duarte | first1=F. J. | last2=Liao | first2=L. S. | last3=Vaeth | first3=K. M. | title=Coherence characteristics of electrically excited tandem organic light-emitting diodes | journal=Optics Letters | publisher=The Optical Society | volume=30 | issue=22 | date=2005-11-15 | pages=3072–4 | issn=0146-9592 | doi=10.1364/ol.30.003072 | pmid=16315725 | bibcode=2005OptL...30.3072D }}</ref><ref name=fjd2007>{{cite journal | last=Duarte | first=F. J. | title=Coherent electrically excited organic semiconductors: visibility of interferograms and emission linewidth | journal=Optics Letters | publisher=The Optical Society | volume=32 | issue=4 | date=2007-01-26 | pages=412–4 | issn=0146-9592 | doi=10.1364/ol.32.000412 | pmid=17356670 | bibcode=2007OptL...32..412D }}</ref>   These experiments utilized a tandem [[OLED]] within an integrated interferometric configuration.<ref name=fjd2005/><ref name=fjd2007/>
+
+Duarte's work in this area began with the demonstration of narrow-linewidth laser emission using [[coumarin]]-tetramethyl dyes<ref>{{cite journal | last1=Chen | first1=C. H. | last2=Fox | first2=J. L. | last3=Duarte | first3=F. J. | last4=Ehrlich | first4=J. J. | title=Lasing characteristics of new coumarin-analog dyes: broadband and narrow-linewidth performance | journal=Applied Optics | publisher=The Optical Society | volume=27 | issue=3 | date=1988-02-01 | pages=443–5 | issn=0003-6935 | doi=10.1364/ao.27.000443 | pmid=20523615 | bibcode=1988ApOpt..27..443C }}</ref><ref>{{cite journal | last=Duarte | first=F. J. | title=Ray transfer matrix analysis of multiple-prism dye laser oscillators | journal=Optical and Quantum Electronics | publisher=Springer Science and Business Media LLC | volume=21 | issue=1 | year=1989 | issn=0306-8919 | doi=10.1007/bf02199466 | pages=47–54| bibcode=1989OQEle..21...47D | s2cid=122811020 }}</ref> which offer high conversion efficiency and wide tunability in the green region of the electromagnetic spectrum.<ref>{{cite journal | last1=Duarte | first1=F J | last2=Liao | first2=L S | last3=Vaeth | first3=K M | last4=Miller | first4=A M | title=Widely tunable green laser emission using the coumarin 545 tetramethyl dye as the gain medium | journal=Journal of Optics A: Pure and Applied Optics | publisher=IOP Publishing | volume=8 | issue=2 | date=2006-01-13 | issn=1464-4258 | doi=10.1088/1464-4258/8/2/010 | pages=172–174| bibcode=2006JOptA...8..172D | s2cid=120835615 }}</ref>
+
+===Interferometry and quantum optics===
+[[File:FJDUARTE-LASERS-JOPT13-035710(2011).jpg|155 px|thumb|right|Duarte and colleagues demonstrated the superposition of diffraction patterns over ''N''-slit interferograms.  This interferogram corresponds to the interferometric character ''b'' (''N'' = 3 slits) and exhibits a diffraction pattern superimposed on the right outer wing (see text).]]
+
+In the late 1980s, he invented the digital [[N-Slit interferometer|''N''-slit laser interferometer]] for applications in imaging and [[microscopy]].<ref>F. J. Duarte, Electro-optical interferometric microdensitometer system, ''US Patent'' 5255069 (1993).</ref> Concurrently, he applied [[Dirac's notation]] to describe quantum mechanically its interferometric and propagation characteristics.<ref>F. J. Duarte and D. J. Paine, Quantum mechanical description of ''N''-slit interference phenomena, in ''Proceedings of the International Conference on Lasers '88'', R. C. Sze and F. J. Duarte (Eds.) (STS, McLean, Va, 1989) pp. 42-47.</ref><ref>F. J. Duarte, in ''High Power Dye Lasers'' (Springer-Verlag, Berlin,1991) Chapter 2.</ref><ref name=OC1993>{{cite journal | last=Duarte | first=F.J. | title=On a generalized interference equation and interferometric measurements | journal=Optics Communications | publisher=Elsevier BV | volume=103 | issue=1–2 | year=1993 | issn=0030-4018 | doi=10.1016/0030-4018(93)90634-h | pages=8–14| bibcode=1993OptCo.103....8D }}</ref> A further innovation in this interferometer was the use of extremely elongated Gaussian beams, width to height ratios of up to 2000:1, for 
+sample illumination.<ref name=OC1993 />
+
+This research  also led to the generalized [[N-slit interferometric equation]] that was then applied to describe classical optics phenomena such as [[Interference (wave propagation)|interference]], [[diffraction]], [[refraction]], and [[Reflection (physics)|reflection]], in a generalized and unified quantum approach<ref name=TLO>{{cite book |title= Tunable Laser Optics | publisher= Elsevier Academic |location=New York |year=2003 |isbn=978-0-12-222696-0 | author = F. J. Duarte }}</ref><ref>{{cite journal | last=Duarte | first=F. J. | title=Interference, diffraction, and refraction, via Dirac's notation | journal=American Journal of Physics | publisher=American Association of Physics Teachers (AAPT) | volume=65 | issue=7 | year=1997 | issn=0002-9505 | doi=10.1119/1.18613 | pages=637–640| bibcode=1997AmJPh..65..637D }}</ref> that includes positive and negative refraction.<ref>{{cite journal | last=Duarte | first=F.J. | title=Multiple-prism dispersion equations for positive and negative refraction | journal=Applied Physics B | publisher=Springer Science and Business Media LLC | volume=82 | issue=1 | date=2005-11-17 | issn=0946-2171 | doi=10.1007/s00340-005-1996-x | pages=35–38| s2cid=120462686 }}</ref>  He also derived the [[laser linewidth|cavity linewidth equation]], for dispersive laser oscillators, using quantum mechanical principles.<ref>{{cite journal | last=Duarte | first=F. J. | title=Cavity dispersion equation Δλ ≈ Δθ(∂θ/∂λ)<sup>−1</sup>: a note on its origin | journal=Applied Optics | publisher=The Optical Society | volume=31 | issue=33 | date=1992-11-20 | pages=6979–82 | issn=0003-6935 | doi=10.1364/ao.31.006979 | pmid=20802556 }}</ref>
+
+Further developments include very large ''N''-slit laser interferometers to generate and propagate interferometric characters for [[Free-space optical communication|secure free-space optical communications]].<ref name=OC2002>{{cite journal | last=Duarte | first=F.J. | title=Secure interferometric communications in free space | journal=Optics Communications | publisher=Elsevier BV | volume=205 | issue=4–6 | year=2002 | issn=0030-4018 | doi=10.1016/s0030-4018(02)01384-6 | pages=313–319| bibcode=2002OptCo.205..313D }}</ref><ref name=JO2011>{{cite journal | last1=Duarte | first1=F J | last2=Taylor | first2=T S | last3=Black | first3=A M | last4=Davenport | first4=W E | last5=Varmette | first5=P G | title=N-slit interferometer for secure free-space optical communications: 527 m intra interferometric path length | journal=Journal of Optics | publisher=IOP Publishing | volume=13 | issue=3 | date=2011-02-03 | issn=2040-8978 | doi=10.1088/2040-8978/13/3/035710 | article-number=035710| bibcode=2011JOpt...13c5710D | s2cid=6086533 }}</ref>  ''Interferometric characters'' is a term coined in 2002 to link interefometric signals to alphanumerical characters (see figure's legend).<ref name=OC2002 /> 
+These experiments provided the first observation of diffraction patterns superimposed over propagating interference signals, thus demonstrating non-destructive (or soft) interception of propagating interferograms.<ref name=JO2011 />
+
+A spin-off of this research, with applications to the aviation industry, resulted from the discovery that ''N''-slit laser interferometers are very sensitive detectors of [[clear air turbulence]].<ref name=JO2011 /><ref>{{cite journal | last1=Duarte | first1=F J | last2=Taylor | first2=T S | last3=Clark | first3=A B | last4=Davenport | first4=W E | title=TheN-slit interferometer: an extended configuration | journal=Journal of Optics | publisher=IOP Publishing | volume=12 | issue=1 | date=2009-11-25 | issn=2040-8978 | doi=10.1088/2040-8978/12/1/015705 | article-number=015705| s2cid=121521124 }}</ref>
+
+Duarte provides a description of quantum optics, almost entirely via Dirac's notation, in his book ''Quantum Optics for Engineers''.<ref name=QOE>{{cite book |title= Quantum Optics for Engineers | publisher= CRC |location=New York |year=2014 |isbn=978-1-4398-8853-7 | author = F. J. Duarte }}</ref>  In this book he derives the probability amplitude for quantum entanglement,
+
+:<math>\left|\psi\right\rang= {1 \over \sqrt{2}}(\left|x\right\rang_{1} \left|y\right\rang_{2}- \left|y\right\rang_{1} \left|x\right\rang_{2}) </math>
+
+which he calls the [[Maurice Pryce|Pryce]]-[[John Clive Ward|Ward]] probability amplitude, from an [[N-slit interferometric equation|''N''-slit interferometric]] perspective.  It is this <math>\left|\psi\right\rang </math> that becomes the probability <math>\left|\psi\right\rang \left|\psi\right\rang^*</math> disclosed by Pryce and Ward.<ref name=FQE /><ref>{{cite journal | last1=Dombey | first1=Norman | title=John Clive Ward | journal=Biogr. Mem. Fellows R. Soc. | publisher=Royal Society | volume=70 | issue=1 | date=2021 | issn=0080-4606 | doi=10.1098/rsbm.2020.0023| pages=419–440| s2cid=231938446 | doi-access=free }}</ref><ref>{{cite journal |first1=M. H. L. |last1=Pryce |first2=J. C. |last2=Ward |title=Angular Correlation Effects with Annihilation Radiation |journal=[[Nature (journal)|Nature]] |volume=160 |issue=4065 |page=435 |year=1947 |doi=10.1038/160435a0 |bibcode=1947Natur.160..435P |s2cid=4101513 |doi-access=free }}</ref>  Duarte also emphasizes a pragmatic non-interpretational approach to quantum mechanics.<ref name=QOE /><ref name=FQE /><ref name=QEEA />
+
+==Career==
+
+===Macquarie University===
+
+At [[Macquarie University]], Duarte studied quantum physics under [[John Clive Ward]] and semiconductor physics under [[Ronald Ernest Aitchison]].  His PhD research was on laser physics and his supervisor was [[James A. Piper]].
+
+In the area of university politics, he established and led the [[Macquarie science reform movement]],<ref>[[Greg Sheridan|G. Sheridan]], Australian physicist wins Guthrie Medal, ''The Bulletin'' '''101''' (5239)  49-50 (1980).</ref><ref>B. Mansfield and M. Hutchinson, ''Liberality of Opportunity: A history of Macquarie University 1964-1989'' (Hale and Iremonger, Sydney, 1992)</ref> that transformed the degree structure of the university.  Macquarie's science reform, was widely supported by local scientists including physicists [[Ronald Ernest Aitchison|R. E. Aitchison]], [[R. E. B. Makinson]], [[A. W. Pryor]], and [[John Clive Ward|J. C. Ward]].
+In 1980, Duarte was elected as one of the Macquarie representatives to the [[Australian Union of Students]] from where he was expelled, and then reinstated, for "running over the tables."{{citation needed|date=August 2016}}
+
+Following completion of his PhD work, Duarte did post doctoral research, with [[B. J. Orr]] at the [[University of New South Wales]], and then back at [[Macquarie University]].
+
+===American phase===
+
+In 1983, Duarte traveled to the United States to assume a physics professorship at the [[University of Alabama]].  In 1985 he joined the Imaging Research Laboratories, at the [[Eastman Kodak Company]], where he remained until 2006.  While at Kodak he was chairman of [[International Conference of Laser Applications|Lasers '87]] and subsequent conferences in this series.<ref>F. J. Duarte, ''Proceedings of the International Conference on Lasers '87'' (STS Press, Mc Lean, VA, 1988).</ref>  Duarte has had a long association with the US Army Missile Command and the [[United States Army Aviation and Missile Command|US Army Aviation and Missile Command]], where he has participated (with R. W. Conrad and [[Travis S. Taylor|T. S. Taylor]]<ref name= OC />) in [[Directed-energy weapon|directed energy]] research.
+
+He was elected Fellow of the [[Australian Institute of Physics]] in 1987) and a [[OSA Fellow|Fellow of the Optical Society of America]] in 1993.<ref name="OpticaBio">{{Cite web |url=https://www.optica.org//en-us/history/biographies/bios/francisco_j_duarte/
+|title=Francisco J. Duarte  |work=Optica
+|quote=Duarte was elected  Fellow of the Australian Institute of Physics in 1987.  In 1981 he joined the OSA, following publication of one of his papers in Applied Optics, and was elected Fellow in 1993.  He has received the Engineering Excellence Award (1995), 'for the invention of the N-slit laser interferometer,' and the David Richardson Medal (2016) 'for seminal contributions to the  physics and technology of multiple-prism arrays for narrow-linewidth tunable laser oscillators and laser pulse compression'  from Optica.
+|date=September 26, 2018 |access-date=December 5, 2021}}</ref>
+
+In 1995, he received the [[Paul F. Forman Team Engineering Excellence Award|Engineering Excellence Award]] for "the invention of [[N-Slit interferometer|an electrooptic coherent interferometer]] for direct applications to imaging diagnostics of  transparent surfaces, such as photographic film and film substrates.<ref name="1995Award">{{cite journal  |title= OSA Announces Recipients of Several Awards
+|journal= Physics Today
+|volume= 48|issue=11 |pages=104–105
+|date=1995|doi= 10.1063/1.2808274
+|bibcode= 1995PhT....48k.104.
+|quote=There are six recipients of Engineering Excellence Awards from OSA: Francisco J. Duarte, John D. Gonglewski, Gary Guenther, Melvyn H. Kreitzer, Frank Luecke and David G. Voelz. Duarte, a business leader at Eastman Kodak in Rochester, New York, is recognized for "the invention of an electrooptic coherent interferometer for direct applications to imaging diagnostics of transparent surfaces, such as photographic film and film substrates."
+}}</ref><ref>{{cite web |url=http://www.osa.org/en-us/awards_and_grants/awards/award_description/engineeringexcellence/ |title=Paul F. Forman Team Engineering Excellence Award |website=OSA.org |access-date=Dec 13, 2016}}</ref> and in 2016, he was awarded the ''[https://www.osa.org/en-us/awards_and_grants/awards/award_description/davidrichardson/ David Richardson Medal]'' for "seminal contributions to the physics and technology of multiple-prism arrays for narrow-linewidth tunable laser oscillators and laser pulse compression,"<ref>''[[Photonics Spectra]]'' 50 (5), 20 (2016).</ref> from the Optical Society.
+
+===Personal===
+[[File:Duarte's polarization rotator.jpg|290 px|thumb|right|Duarte's [[polarization rotator]]]]
+Duarte was born in [[Santiago, Chile]], and traveled to [[Sydney, Australia]], as a teenager.  There, he lived first in [[Strathfield]] and then in the northern small town of [[Cowan, New South Wales|Cowan]].  In the  United States he resided for a brief period in [[Tuscaloosa, Alabama]], and then moved to [[Western New York]].
+{{citation needed|date=December 2021}}
+
+===Books===
+* ''Dye Laser Principles'' (1990)<ref name=DLP>
+{{cite book |title= Dye Laser Principles | publisher= Academic |location=New York |year=1990 |isbn=978-0-12-222700-4 | author = F. J. Duarte and L. W. Hillman (Eds.)}}
+</ref>
+* ''Tunable Laser Optics, 2nd Ed.'' (2015, Second edition)<ref name=TLO2>{{cite book |title= Tunable Laser Optics, 2nd Ed. | publisher= CRC |location=New York |year=2015 |isbn=978-1-4822-4529-5 | author = F. J. Duarte }}</ref>
+*''Tunable Laser Applications, 3rd Ed'' (1996, 2009, 2016)<ref>{{cite book |title= Tunable Laser Applications, 3rd Ed. | publisher= CRC |location=New York |year=2016 |isbn=978-1-4822-6106-6 | author = F. J. Duarte (Ed.) }}</ref>
+* ''Fundamentals of Quantum Entanglement'' (2019)<ref name=FQE>{{cite book |title= Fundamentals of Quantum Entanglement | publisher= Institute of Physics |location=Bristol |year=2019 |isbn=978-0-7503-2226-3 | author = F. J. Duarte }}</ref> 
+* ''Quantum Entanglement Engineering and Applications'' (2021)<ref name=QEEA>{{cite book |title= Quantum Entanglement Engineering and Applications| publisher= Institute of Physics |location=Bristol |year=2021 |isbn=978-0-7503-3405-1 | author = F. J. Duarte and T. S. Taylor }}</ref>
+
+==See also==
+
+*[[Heat equation]]
+*[[Laser space communication]]s
+*[[Beam expander|Multiple-prism beam expanders]]
+*[[Organic laser]]
+*[[Polarization rotator]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{wikiquote}}
+*[http://www.tunablelasers.com Duarte's home page]
+*[https://web.archive.org/web/20110930035030/http://www.patentgenius.com/inventedby/DuarteFranciscoJRochesterNY.html United States Patents by F. J. Duarte, at Patent Genius]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duarte, F. J.}}
+[[Category:21st-century American physicists]]
+[[Category:American inventors]]
+[[Category:Experimental physicists]]
+[[Category:Quantum physicists]]
+[[Category:Laser researchers]]
+[[Category:Scientific instrument makers]]
+[[Category:American nanotechnologists]]
+[[Category:Microscopists]]
+[[Category:Futurologists]]
+[[Category:Space advocates]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Fellows of the Australian Institute of Physics]]
+[[Category:American science writers]]
+[[Category:American textbook writers]]
+[[Category:20th-century American male non-fiction writers]]
+[[Category:21st-century American male non-fiction writers]]
+[[Category:American male essayists]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:American book publishers (people)]]
+[[Category:21st-century American businesspeople]]
+[[Category:Kodak people]]
+[[Category:Macquarie University alumni]]
+[[Category:Instituto Nacional General José Miguel Carrera alumni]]
+[[Category:American people of Spanish descent]]
+[[Category:Chilean emigrants to the United States]]
+[[Category:Naturalized citizens of the United States]]
+[[Category:Scientists from Santiago, Chile]]
+[[Category:Scientists from Sydney]]
+[[Category:Chilean physicists]]
+[[Category:Living people]]
+[[Category:1950s births]]
+[[Category:Hispanic and Latino American scientists]]
+[[Category:Hispanic and Latino American physicists]]
+[[Category:Year of birth missing (living people)]]

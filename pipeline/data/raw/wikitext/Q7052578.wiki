@@ -1,0 +1,65 @@
+{{short description|Canadian-American physicist and computer scientist}}
+{{Infobox scientist
+| name              = Norman H. Margolus
+| image             = 
+| birth_date        = {{birth year and age|1955}}
+| other_names       = Norm Margolus
+| citizenship       = Canadian, American
+| fields            = Computer Science, Cellular Automata
+| education         = MIT
+| known_for         = [[Block_cellular_automaton#Neighborhoods|Margolus neighborhood]]<br>[[List of quantum logic gates|Margolus gate]]<br>[[Margolus–Levitin theorem]]<br>[[Block cellular automaton]]<br>[[Reversible cellular automaton]]<br>[[CAM-6|CAM-6 accelerator]]<br>[[Computronium]]<br>[[Critters (cellular automaton)|Critters]]
+| website           = {{URL|https://people.csail.mit.edu/nhm/}}
+}}
+
+'''Norman H. Margolus''' (born 1955)<ref>Birth year as given in the index of {{citation|last=Wolfram|first=Stephen|authorlink=Stephen Wolfram|year=2002|title=[[A New Kind of Science]]|publisher=Wolfram Media|isbn=1-57955-008-8}}.</ref> is a Canadian-American<ref>He is described as Canadian in {{citation|title=Did the Universe Just Happen?|journal=[[The Atlantic Monthly]]|first=Robert|last=Wright|url=https://www.theatlantic.com/past/docs/issues/88apr/wright.htm|date=April 1988}}.</ref> [[physicist]] and [[computer scientist]], known for his work on [[cellular automaton|cellular automata]] and [[reversible computing]].<ref name="mmm">{{citation|title=Minds, Machines, and the Multiuniverse: The Quest for the Quantum Computer|first=Julian|last=Brown|publisher=Simon and Schuster|year=2002|isbn=978-0-7432-4263-9|pages=74–76}}.</ref> He is a research affiliate with the [[MIT Computer Science and Artificial Intelligence Laboratory|Computer Science and Artificial Intelligence Laboratory]] at the [[Massachusetts Institute of Technology]].<ref>[http://www.csail.mit.edu/peoplesearch/*/0/*/0/0/ CSAIL directory] {{Webarchive|url=https://web.archive.org/web/20110426152449/http://www.csail.mit.edu/peoplesearch/*/0/*/0/0/ |date=2011-04-26 }}, accessed 2011-02-03.</ref>
+
+== Education and career ==
+Margolus received his Ph.D. in physics in 1987 from the [[Massachusetts Institute of Technology]] (MIT) under the supervision of Edward Fredkin.<ref>{{citation |last=Margolus |first=Norman H. |title=Physics and Computation |url=http://people.csail.mit.edu/nhm/thesis.pdf |year=1987 |series=Ph.D. thesis |publisher=Massachusetts Institute of Technology}}.</ref> He founded and was chief scientist for [[Permabit]], an information storage device company.<ref>{{citation |last=Shread |first=Paul |title=Permabit Makes a Case for CAS |date=October 27, 2003 |url=http://www.enterpriseitplanet.com/storage/news/article.php/3098981 |journal=Enterprise IT Planet}}.</ref>
+
+== Research contributions ==
+Margolus was one of the organizers of a seminal research meeting on the connections between physics and computation theory, held on [[Mosquito Island]] in 1982.<ref>{{citation|title=Who Got Einstein's Office?: Eccentricity and Genius at the Institute for Advanced Study|first=Ed|last=Regis|publisher=Basic Books|year=1988|isbn=978-0-201-12278-7|page=[https://archive.org/details/whogoteinsteinso00regi_0/page/239 239]|url-access=registration|url=https://archive.org/details/whogoteinsteinso00regi_0/page/239}}.</ref> He is known for inventing the [[block cellular automaton]] and the Margolus neighborhood for block cellular automata, which he used to develop cellular automaton simulations of [[billiard-ball computer]]s.<ref name="mmm" /><ref name="m84">{{citation|first=N.|last=Margolus|title=Physics-like models of computation|journal=Physica D|volume=10|year=1984|issue=1–2 |pages=81–95|doi=10.1016/0167-2789(84)90252-5|bibcode=1984PhyD...10...81M}}. Reprinted in {{citation|editor-first=Stephen|editor-last=Wolfram|editor-link=Stephen Wolfram|title=Theory and Applications of Cellular Automata|series=Advanced series on complex systems|volume=1|publisher=World Scientific|year=1986|pages=232–246|bibcode=1986taca.book.....W }}.</ref><ref>{{citation|title=Cellular Automata: A Discrete View of the World|first=Joel L.|last=Schiff|publisher=Wiley|contribution=4.2.1 Partitioning Cellular Automata|pages=115–116|year=2008}}.</ref> 
+
+In the same work, Margolus also showed that the billiard ball model could be simulated by a [[second-order cellular automaton]], a different type of cellular automaton invented by his thesis advisor, [[Edward Fredkin]]. These two simulations were among the first cellular automata that were both reversible (able to be run backwards as well as forwards for any number of time steps, without ambiguity) and [[Turing completeness|universal]] (able to simulate the operations of any computer program);<ref>{{citation|first=Edward|last=Fredkin|authorlink=Edward Fredkin|chapter=Chapter 9: History|title=Introduction to Digital Philosophy (draft)|chapter-url=http://www.digitalphilosophy.org/Home/Papers/TOC/Chapter9History/tabid/73/Default.aspx|url-status=dead|archiveurl=https://web.archive.org/web/20120415084633/http://www.digitalphilosophy.org/Home/Papers/TOC/Chapter9History/tabid/73/Default.aspx|archivedate=2012-04-15}}. A different mechanism for defining reversible universal cellular automata, by embedding ''d''-dimensional irreversible automata into (''d''&nbsp;+&nbsp;1)-dimensional reversible automata, was described earlier by {{citation|first=Tommaso|last=Toffoli|authorlink=Tommaso Toffoli|title=Computation and construction universality of reversible cellular automata|url=http://pm1.bu.edu/~tt/qcl/pdf/toffolit197718176a6b.pdf|journal=Journal of Computer and System Sciences|volume=15|issue=2|year=1977|pages=213–231|doi=10.1016/s0022-0000(77)80007-x|doi-access=free}}.</ref> this combination of properties is important in low-energy computing, as it has been shown that the energy dissipation of computing devices may be made arbitrarily small if and only if they are reversible.<ref>{{citation|title=Reversible Computing: Fundamentals, Quantum Computing, and Applications|first=Alexis|last=De Vos|publisher=Wiley|year=2010|isbn=978-3-527-40992-1}}.</ref> 
+
+In connection with this issue, Margolus and his co-author  Lev B. Levitin proved the [[Margolus–Levitin theorem]] showing that the speed of any computer is limited by the fundamental laws of physics to be at most proportional to its energy use; this implies that ultra-low-energy computers must run more slowly than conventional computers.<ref name="mmm" /><ref>{{citation | first1 = Norman|last1= Margolus|first2= Lev B. |last2=Levitin | arxiv = quant-ph/9710043  | title = The maximum speed of dynamical evolution | journal = Physica D | volume = 120 | year = 1998 |issue= 1–2| pages = 188–195 | doi = 10.1016/S0167-2789(98)00054-2|bibcode= 1998PhyD..120..188M|s2cid= 468290}}.</ref><ref>{{citation|first1=Seth|last1=Lloyd|first2=Y. Jack|last2=Ng|title=Black Hole Computers|journal=[[Scientific American]]|date=November 2004|volume=291 |issue=5 |pages=53–61|doi=10.1038/scientificamerican1104-52 |pmid=15521147 |bibcode=2004SciAm.291e..52L }}.</ref>
+
+With [[Tommaso Toffoli]], Margolus developed the [[CAM-6]] cellular automaton simulation hardware, which he extensively described in his book with Toffoli, ''Cellular Automata Machines'' (MIT Press, 1987),<ref name="mmm"/><ref>{{citation|title=Cellular automata: a discrete universe|first=Andrew|last=Ilachinski|publisher=World Scientific|year=2001|isbn=978-981-238-183-5|pages=713–714|contribution=A.1.1 CAM-6}}.
+</ref> and with [[Tom Knight (scientist)|Tom Knight]] he developed the "Flattop" [[integrated circuit]] implementation of billiard-ball computation.<ref>{{citation|title=A Radical Computer Learns to Think in Reverse|first=George|last=Johnson|journal=[[New York Times]]|date=June 15, 1999|url=https://select.nytimes.com/gst/abstract.html?res=F60816FE3B5C0C768DDDAF0894D1494D81}}.</ref> He has also done pioneering research on the reversible [[quantum gate]] logic needed to support [[quantum computer]]s.<ref>{{citation
+ | last1 = Barenco | first1 = Adriano
+ | last2 = Bennett | first2 = Charles H. | author2-link = Charles H. Bennett (computer scientist)
+ | last3 = Cleve | first3 = Richard | author3-link = Richard Cleve
+ | last4 = DiVincenzo | first4 = David P.
+ | last5 = Margolus | first5 = Norman
+ | last6 = Shor | first6 = Peter | author6-link = Peter Shor
+ | last7 = Sleator | first7 = Tycho
+ | last8 = Smolin | first8 = John A. | author8-link = John A. Smolin
+ | last9 = Weinfurter | first9 = Harald
+ | doi = 10.1103/PhysRevA.52.3457
+ | issue = 5
+ | journal = Physical Review A
+ | pages = 3457–3467
+ | title = Elementary gates for quantum computation
+ | volume = 52
+ | year = 1995 | pmid=9912645
+ | arxiv = quant-ph/9503016| bibcode = 1995PhRvA..52.3457B| s2cid = 8764584
+ }}.</ref>
+
+==See also==
+*[[Programmable matter]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://people.csail.mit.edu/nhm/ Margolus' web site] at MIT
+
+{{authority control}}
+
+{{DEFAULTSORT:Margolus, Norman}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:American computer scientists]]
+[[Category:21st-century American physicists]]
+[[Category:Cellular automatists]]
+[[Category:MIT School of Science alumni]]
+[[Category:University of Alberta alumni]]

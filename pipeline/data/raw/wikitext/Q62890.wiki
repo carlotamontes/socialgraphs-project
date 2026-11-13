@@ -1,0 +1,122 @@
+{{short description|American computer architect and high-tech entrepreneur}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox scientist
+| name              = Gene Amdahl
+| image             = Amdahl march 13 2008.jpg
+| image_size        =
+| caption           = Amdahl addressing a [[University of Wisconsin–Madison|UW–Madison]] Alumni gathering, March 13, 2008
+| birth_date        = {{Birth date|1922|11|16}}
+| birth_place       = [[Flandreau, South Dakota]], U.S.
+| death_date        = {{Death date and age|2015|11|10|1922|11|16}}
+| death_place       = [[Palo Alto, California]], U.S.
+| fields            = Entrepreneur<br />[[Computer science]]
+| workplaces        = Degrees in theoretical physics from the University of Wisconsin
+| education         = [[South Dakota State University]] ([[Bachelor of Science|BS]], 1948)<br />[[University of Wisconsin–Madison|University of Wisconsin]] ([[Master of Science|MS]]; [[PhD]], 1952)
+| doctoral_advisor  = [[Robert G. Sachs]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| thesis_title      = The Logical Design of an Intermediate Speed Digital Computer
+| thesis_url        = http://pages.cs.wisc.edu/~bezenek/Stuff/amdahl_thesis.pdf
+| thesis_year       = 1953
+| known_for         = Founding [[Amdahl Corporation]]; formulating [[Amdahl's law]];  IBM 360, 704
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = [[National Academy of Engineering]] (1967)<br />[[Computer History Museum]] Fellow (1998)<ref name=chbio>{{cite web |url=http://www.computerhistory.org/fellowawards/hall/gene-amdahl |title=Gene Amdahl |publisher=[[Computer History Museum]]}}</ref>
+| religion          = 
+| spouse            = Marian Delaine Quissell
+| children          = {{plainlist|
+*Andrea Leigh Amdahl
+*Beth Delaine Amdahl
+*Carlton Gene Amdahl 
+}}
+| signature         = <!--(filename only)-->
+| footnotes         =  
+}}
+
+'''Gene Myron Amdahl''' (November 16, 1922&nbsp;– November 10, 2015) was an American computer architect and high-tech entrepreneur, known for his work on [[mainframe computer]]s at [[IBM]] and later his own companies, especially [[Amdahl Corporation]]. He formulated [[Amdahl's law]], which states a fundamental limitation of [[parallel computing]].
+
+==Childhood and education==
+Amdahl was born to immigrant parents of Norwegian and Swedish descent in [[Flandreau, South Dakota]]. After serving in the Navy during World War II he completed a degree in [[engineering physics]] at [[South Dakota State University]] in 1948.
+
+He went on to study theoretical physics at the [[University of Wisconsin–Madison]] under [[Robert G. Sachs]].<ref name="CBI1989">{{cite interview |last1=Amdahl |first1=Gene M. |subject-link=Gene Amdahl |interviewer=Arthur L. Norberg |title=Oral history interview with Gene M. Amdahl |url=http://purl.umn.edu/104341 |date=1989 |publisher=[[Charles Babbage Institute]] |hdl=11299/104341 |id=OH 107 |access-date=December 29, 2016}}</ref><ref name="CHM2000">{{cite interview |last1=Amdahl |first1=Gene M. |subject-link=Gene Amdahl |interviewer=William Aspray |title=Amdahl, Gene oral history |url=http://www.computerhistory.org/collections/catalog/102702492 |date=September 24, 2000 |publisher=[[Computer History Museum]] |id=CHM Ref: X5988.2011 |access-date=November 15, 2016}}</ref><ref name="Anderson2007">{{cite journal |last1=Anderson |first1=William S. |title=An Interview with Gene M. Amdahl |journal=IEEE Solid-State Circuits Society Newsletter |volume=12 |issue=3 |year=2007 |pages=10–16 |issn=1098-4232 |doi=10.1109/N-SSC.2007.4785613|s2cid=42621761 }}</ref> However, in 1950, Amdahl and Charles H. "Charlie" Davidson, a fellow PhD student in the Department of Physics, approached Prof. Harold A. Peterson with the idea of a digital computer.<ref name="UWM-1643">{{cite web |title=On the Death of Professor Emeritus Harold A. Peterson |url=https://www.secfac.wisc.edu/senate/2002/0506/1643(mem_res).pdf |date=May 6, 2002 |publisher=[[University of Wisconsin–Madison]] |id=Faculty Document: 1643 |access-date=December 29, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20111209053111/https://www.secfac.wisc.edu/senate/2002/0506/1643(mem_res).pdf |archive-date=December 9, 2011  }}</ref> Amdahl and Davidson gained the support of Peterson and fellow electrical engineering professor Vincent C. Rideout, who encouraged them to build a computer of their unique design.<ref name="UWM-2120">{{cite web |title=On the Death of Professor Emeritus Charles H. Davidson |url=https://www.secfac.wisc.edu/senate/2009/0504/2120(mem_res).pdf |date=May 4, 2009 |publisher=[[University of Wisconsin–Madison]] |id=Faculty Document: 2120 |access-date=December 29, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20111209044016/https://www.secfac.wisc.edu/senate/2009/0504/2120(mem_res).pdf |archive-date=December 9, 2011  }}</ref> Amdahl completed his [[doctorate]] at UW–Madison in 1952 with a thesis titled ''A Logical Design of an Intermediate Speed Digital Computer'' and created his first computer, the [[Wisconsin Integrally Synchronized Computer]] (WISC).<ref name="thesis">{{cite thesis |last1=Amdahl |first1=Gene Myron |date=October 11, 1951 |title=A Logical Design of an Intermediate Speed Digital Computer |url=http://bitsavers.org/pdf/univOfWiscMadison/wisc/Amdahl_WISC_thesis_Oct1951.pdf |degree=PhD |location=[[Madison, Wisconsin]] |publisher=The Library of the University of Wisconsin |oclc=19918241 |access-date=November 10, 2016}}</ref> He then went straight from Wisconsin to a position at IBM in June 1952.
+
+==IBM==
+At IBM, Amdahl worked on the [[IBM 704]], the [[IBM 709]], and then the ''Stretch'' project, the basis for the [[IBM 7030 Stretch|IBM 7030]]. He left IBM in December 1955, but returned in September 1960 (after working at [[TRW Inc.|Ramo-Wooldridge]] and at [[Aeronutronic]]). He had quit out of frustration with the bureaucratic structure of the organization. In an interview<ref name="CBI1989"/> conducted in 1989 for the [[Charles Babbage Institute]], he addressed this:
+{{Blockquote|text=Well, what I felt was that with that kind of an organization I'm not going to be in control of what I want to do any time in the future. It's going to be a much more bureaucratic structure. I'll work in one area of it, and that's all I'll get experience in. And I decided that I didn't want to have that kind of life, basically. It wasn't just Dunwell. It was the way the structure was set up; I was going to be a peg-in-a-hole.}}
+
+On his return, he became the chief architect of [[IBM System/360]] and was named an [[IBM Fellow]] in 1965, and head of the [[Advanced Computing Systems Laboratory]] (ACS) in [[Menlo Park, California]].
+
+== Amdahl Corporation ==
+He left IBM again in September 1970, after his ideas for computer development were rejected, and set up [[Amdahl Corporation]] in [[Sunnyvale, California]] with major financing from [[Fujitsu]].<ref>{{Cite news |date=1972-12-22 |title=Fujitsu Buys Shares Of Amdahl Corp. |pages=10 |work=The Japan Times}}</ref>
+
+Competing with IBM in the mainframe market, the company manufactured "[[Plug compatible|plug-compatible]]" mainframes, shipping its first machine in 1975: the Amdahl 470V/6, a less expensive, more reliable and faster replacement for the System 370/168. By purchasing an Amdahl 470 and plug-compatible peripheral devices from third-party manufacturers, customers could now run S/360 and S/370 applications without buying IBM's hardware. Amdahl's software team developed VM/PE (Virtual Machine/Performance Enhancement), software designed to optimize the performance of IBM's [[MVS]] [[operating system]] when running under IBM's [[VM (operating system)|VM operating system]].{{Citation needed|date=September 2026}}
+
+By 1979, Amdahl Corporation had sold over US$1 billion{{Citation needed|date=November 2010}} of V6 and V7 mainframes and had over 6,000 employees worldwide. The corporation went on to distribute an IBM-plug-compatible [[front-end processor]] (the 4705) as well as high-performance [[Disk storage|disk drives]], both jointly developed with Fujitsu engineers.
+
+At the 1967 [[Joint Computer Conference|Spring Joint Computer Conference]],<ref>{{cite web |last1=Smotherman |first1=Mark |title=IBM Advanced Computing Systems -- Quote from Computing Surveys |url=https://people.cs.clemson.edu/~mark/acs_csur.html |website=clemson.edu |access-date=June 13, 2019}}</ref> Amdahl, along with three other computer architects, most notably [[ILLIAC IV]] architect [[Daniel Slotnick]], engaged in a discussion on future architectural trends. Amdahl articulated his arguments, both orally and in three written pages,<ref>{{cite web |last1=Amdahl |first1=Gene |title=Validity of the single processor approach to achieving large scale computing capabilities |url=http://www-inst.eecs.berkeley.edu/~n252/paper/Amdahl.pdf |website=berleley.edu |publisher=AFIPS spring joint computer conference |access-date=June 13, 2019}}</ref> on the fundamental physical limitations that he theorized would govern the performance of any special feature or mode introduced to new machines. This set of arguments resulted in two, [[Amdahl's law|major and lesser, "laws" of computer performance]] regarding sequential versus [[Parallel computing|parallel processing]].
+
+==1979 onwards: entrepreneur==
+Amdahl left his eponymous company in August 1979 to set up [[Trilogy Systems]], together with his son Carl, and Clifford Madden.<ref>{{cite news  |newspaper=Computerworld  |date=June 15, 1981
+|url=https://books.google.com/books?id=dPLZ7QidjbEC  |page=11  |title=ACSYS - new Amdahl startup}}</ref> Trilogy aimed to design a [[wafer-scale integration|wafer-scale]] [[microprocessor]] for even cheaper mainframes. In contrast to the trouble he had raising development funds for Amdahl Corp, this time there was no issue raising $200 million. The chip development failed within months of the company's $60 million public offering, but the investors told him to keep the money and come up with a new concept. The company then focused on developing its [[Very-large-scale integration|VLSI]] technology. That effort also failed, but he was again told to keep the money and in 1985, Trilogy merged into [[Elxsi]], a computer maker with its own CPU design. Elxsi also did poorly and Amdahl left in 1989, having already founded his next venture, [[Andor International]], in 1987. Andor hoped to compete in the mid-sized mainframe market, using improved manufacturing techniques developed by one of the company's employees, [[Robert F. Brown]], to make smaller, more efficient machines. Production problems and strong competition led the company into bankruptcy by 1995.{{Citation needed|date=September 2026}}
+
+Amdahl co-founded [[Commercial Data Servers]] in 1996, again in Sunnyvale, and again developing mainframe-like machines but this time with new super-cooled processor designs and aimed at physically smaller systems. One such machine, from 1997, was the ESP/490 (Enterprise Server Platform/490), an enhancement of IBM's P/390 of the [[IBM System/390|System/390]] family. Since then, CDS has changed its name and narrowed its focus. As [[Xbridge Systems]], the company now sells software to scan mainframe datasets and database tables for sensitive information such as credit card numbers, social security and other government identification numbers, sensitive medical diagnosis information that can be linked to an individual, and other information such as that needed for electronic discovery.{{Citation needed|date=September 2026}}
+
+In November 2004, Amdahl was appointed to the board of advisors of [[Massively Parallel Technologies]].{{Citation needed|date=September 2026}}
+
+He died on November 10, 2015, in [[Palo Alto, California]], from pneumonia, six days shy of his 93rd birthday.<ref name="nytimes-obituary">{{cite news|url=https://www.nytimes.com/2015/11/13/technology/gene-amdahl-pioneer-of-mainframe-computing-dies-at-92.html|title=Gene Amdahl, Pioneer of Mainframe Computing, Dies at 92|work=New York Times|date=November 12, 2015}}</ref><ref name="computing-obituary">{{cite web|url=http://www.computing.co.uk/ctg/news/2434594/computer-pioneer-gene-amdahl-dies-aged-92|title=Computer pioneer Gene Amdahl dies, aged 92|website=computing.co.uk|date=November 12, 2015|access-date=November 12, 2015|archive-date=November 15, 2015|archive-url=https://web.archive.org/web/20151115010139/http://www.computing.co.uk/ctg/news/2434594/computer-pioneer-gene-amdahl-dies-aged-92|url-status=dead}}</ref> He had [[Alzheimer's disease]] in the last years of his life.<ref>{{cite journal|title=Gene Amdahl, 1922-2015|journal=Communications of the ACM|date=January 2016|volume=59|issue=1|page=29|doi=10.1145/2845948|last1=Cacm Staff}}</ref>
+
+[[File:Gene Amdahl visit to Amdahl 2008.JPG|thumb|Gene and his wife, Marian, in front of the main house at Amdahl, Norway]]
+[[File:Gene and Marian Amdahl in front of the "Amdahl troll".JPG|thumb|On the face of the mountain behind Gene and Marian there is a profile of a face, called the "Amdahl troll"]]
+
+==Awards and recognition==
+Amdahl was named an [[IBM Fellow]] in 1965, became a member of the [[National Academy of Engineering]] in 1967 and was recognized as the Centennial Alumnus of [[South Dakota State University]] in 1986. He has numerous awards and patents to his credit and has received [[Honorary degree|Honorary Doctorate]]s from his two [[alma mater]]s and two other institutions as well.
+
+Amdahl was elected Distinguished Fellow of the [[British Computer Society]] (DFBCS) in 1979, and in 1983 he was awarded the [[Harry H. Goode Memorial Award]] by the [[IEEE Computer Society]] "in recognition of his outstanding contributions to the design, applications and manufacture of large-scale high-performance computers."<ref>{{Cite web
+|url=http://awards.computer.org/ana/award/viewPastRecipients.action?id=17
+|title=Past recipients for Harry H. Goode Memorial Award
+|access-date=January 16, 2008
+|archive-url=https://web.archive.org/web/20090219195840/http://awards.computer.org/ana/award/viewPastRecipients.action?id=17
+|archive-date=February 19, 2009
+|url-status=dead
+}}</ref>
+
+In 1998, he was made a Fellow of the [[Computer History Museum]] "for his fundamental work in computer architecture and design, project management, and leadership."<ref name=chbio/>
+
+In November 2007, Amdahl was recognized with the [[Special Interest Group on Design Automation|SIGDA]] Pioneering Achievement Award.<ref name="SIGDA200711">{{cite web |title=SIGDA sponsors historic event celebrating 40 years of Amdahl's Law |url=http://www.sigda.org/amdahlevent.html |url-status=dead |archive-url=https://web.archive.org/web/20080509094624/http://www.sigda.org/amdahlevent.html |archive-date=May 9, 2008 }}</ref><ref name="SIGDA-PAA">{{cite web |title=SIGDA Pioneering Achievement Award |url=http://www.sigda.org/pioneer |access-date=January 26, 2017 |archive-url=https://web.archive.org/web/20190510232839/http://www.sigda.org/pioneer |archive-date=May 10, 2019 |url-status=dead }}</ref> A banquet dinner in his honor featured a short talk by Amdahl on his career, and a panel debate on the future of parallel processing. Panelists included [[John Gustafson (scientist)|John Gustafson]] (known for [[Gustafson's law]]). The talk and debate were both videotaped, and are available through the SIGDA Web page, and the [[Association for Computing Machinery|ACM]] Digital Library.<ref name="ICCAD2007">{{Cite book |doi=10.1145/1324499 |isbn=978-1-4503-4742-6|year=2007 |editor1-last=Marculescu |editor1-first=Diana |title=2007 ACM/SIGDA Dinner and Open Member Meeting on - }}</ref>
+
+==See also==
+* [[Amdahl's law]]
+* [[IBM mainframe]]
+* [[Fear, uncertainty and doubt|FUD]]&nbsp;– a term coined by Amdahl to describe IBM's competitive tactics
+* [[List of pioneers in computer science]]
+
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* [http://purl.umn.edu/104341 Oral history interview with Gene M. Amdahl] [[Charles Babbage Institute]], [[University of Minnesota]]. Amdahl discusses his graduate work at the University of Wisconsin and his design of [[Wisconsin Integrally Synchronized Computer|WISC]]. Discusses his role in the designing of several computers for IBM including the [[IBM 7030 Stretch]], [[IBM 701]], and [[IBM 704]]. He discusses his work with [[Nathaniel Rochester (computer scientist)|Nathaniel Rochester]] and IBM's management of the design process. Mentions work with [[TRW Inc.|Ramo-Wooldridge]], [[Aeronutronic]], and [[Computer Sciences Corporation]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Amdahl, Gene}}
+[[Category:1922 births]]
+[[Category:2015 deaths]]
+[[Category:American businesspeople in the computer industry]]
+[[Category:American physicists]]
+[[Category:Computer hardware engineers]]
+[[Category:IBM employees]]
+[[Category:IBM Fellows]]
+[[Category:People from Flandreau, South Dakota]]
+[[Category:American people of Norwegian descent]]
+[[Category:American people of Swedish descent]]
+[[Category:University of Wisconsin–Madison College of Letters and Science alumni]]
+[[Category:Fellows of the British Computer Society]]
+[[Category:South Dakota State University alumni]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Deaths from pneumonia in California]]
+[[Category:United States Navy personnel of World War II]]

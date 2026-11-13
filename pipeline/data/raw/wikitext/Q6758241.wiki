@@ -1,0 +1,80 @@
+{{Short description|German computer scientist (born 1967)}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox scientist
+| name              = Marcus Hutter
+| image             = Marcus Hutter.jpg
+| image_size        = 
+| alt               = Portrait of Marcus Hutter
+| caption           = Hutter in 2010
+| birth_date        = {{birth date and age text|14 April 1967}}
+| birth_place       = 
+| citizenship       = 
+| fields            = {{ubl|[[Artificial intelligence]]|[[Bayesian statistics]]|[[Information theory]]|[[Particle physics]]}}
+| workplaces        = [[DeepMind]], [[Google]], [[IDSIA]], [[ANU]], [[BrainLAB]]
+| education         = [[Technical University of Munich]]
+| thesis_title      = Instantons in QCD
+| thesis_url        = https://arxiv.org/abs/hep-ph/0107098
+| thesis_year       = 1996
+| doctoral_advisor  = [[Harald Fritzsch]]
+| academic_advisors = [[Wilfried Brauer]]
+| doctoral_students = [[Shane Legg]], [[Jan Leike]] and [https://scholar.google.com/citations?user=fkDxJxcAAAAJ Tor Lattimore]
+| notable_students  = 
+| known_for         = [[AIXI|Universal artificial intelligence]]<br>[[Artificial general intelligence]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = [https://ijcai-23.org/distinguished-paper-awards/ IJCAI 2023]<br>[http://www.lesswrong.com/posts/SSEyiHaACSYDHcYZz/announcement-ai-alignment-prize-round-2-winners-and-next Alignment 2018]<br>[https://web.archive.org/web/20161004051814/https://agi-conf.org/2016/prizes/ AGI 2016]<br>[http://auai.org/uai2016/program.php UAI 2016]<br>[https://jair.org/index.php/jair/IJCAIJAIR IJCAI-JAIR 2014]<br>[http://agi-conf.org/2009/kurzweilprize.php Kurzweil AGI 2009]<br>[http://bayesian.org/project/lindley-prize/ Lindley 2006]<br>Best Paper Prizes
+| signature         = 
+| signature_alt     = 
+| website           = {{URL|www.hutter1.net}}
+| footnotes         = 
+| spouse            = 
+}}
+
+'''Marcus Hutter''' (born 14 April 1967 in [[Munich]]) is a German computer scientist, professor and [[artificial intelligence]] researcher. As a senior researcher at [[DeepMind]], he studies the mathematical foundations of [[artificial general intelligence]].<ref>{{Cite web |title=HomePage of Marcus Hutter |url=http://www.hutter1.net/index.htm}}</ref><ref name=":1">{{Cite magazine |date=2023-09-07 |title=TIME100 AI 2023: Shane Legg |url=https://time.com/collection/time100-ai/6310659/shane-legg/ |access-date=2024-08-25 |magazine=Time |language=en}}</ref>
+
+Hutter studied [[physics]] and [[computer science]] at the [[Technical University of Munich]]. In 2000, he joined [[Jürgen Schmidhuber]]'s group at the [[Dalle Molle Institute for Artificial Intelligence Research]] in [[Manno]], Switzerland.<ref>{{Cite web |date=2017-05-15 |title=Marcus Hutter |url=https://www.aiandsociety.org/en/marcushutter/ |access-date=2024-08-25 |website=aiandsociety.org |language=en-US}}</ref><ref name=":0" /> He developed a mathematical formalism of [[artificial general intelligence]] named [[AIXI]]. He has served as a professor at the [[ANU College of Engineering, Computing and Cybernetics|College of Engineering, Computing and Cybernetics]] of the [[Australian National University]] in [[Canberra]], Australia.<ref>{{Cite web |title=Professor Marcus Hutter |url=https://researchers.anu.edu.au/researchers/hutter-m |access-date=2024-08-25 |website=[[Australian National University]] |language=en-US}}</ref>
+
+== Research ==
+
+Starting in 2000, Hutter developed and published a mathematical theory of [[artificial general intelligence]], [[AIXI]], based on idealised [[intelligent agents]] and reward-motivated [[reinforcement learning]].<ref>{{cite book |author=Marcus Hutter |url=https://archive.org/details/arxiv-cs0004001 |title=A Theory of Universal Artificial Intelligence based on Algorithmic Complexity |year=2000 |bibcode=2000cs........4001H |arxiv=cs.AI/0004001}}</ref><ref>{{Cite web |last=Hutter |first=Marcus |date=2013-11-28 |title=To create a super-intelligent machine, start with an equation |url=https://theconversation.com/to-create-a-super-intelligent-machine-start-with-an-equation-20756 |access-date=2024-08-25 |website=The Conversation |language=en-US}}</ref><ref name=":0" /> His first book ''Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability'' was published in 2005 by [[Springer Science+Business Media|Springer]].<ref>Marcus Hutter (2005). ''Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability''. Berlin; Heidelberg; New York: Springer. {{ISBN|9783540221395}}.</ref> Also in 2005, Hutter published with his doctoral student [[Shane Legg]] an intelligence test for artificial intelligence devices.<ref name="ns">{{Cite web |last=Graham-Rowe |first=Duncan |date=12 August 2005 |title=IQ test for AI devices gets experts thinking |url=https://www.newscientist.com/article/dn7842-iq-test-for-ai-devices-gets-experts-thinking/ |access-date=2024-08-25 |website=New Scientist |language=en-US}}</ref> In 2009, Hutter developed and published the theory of feature reinforcement learning.<ref name="frl">{{cite journal |author=Marcus Hutter |year=2009 |title=Feature Reinforcement Learning: Part I. Unstructured MDPs |url=http://www.hutter1.net/ai/phimdpx.pdf |journal=Journal of Artificial General Intelligence |volume=1 |issue=1 |page=3 |doi=10.2478/v10229-011-0002-8 |arxiv=0906.1713 |bibcode=2009JAGI....1....3H |issn=1946-0163}}</ref> In 2014, Lattimore and Hutter published an asymptotically optimal extension of the [[AIXI]] agent.<ref name="bexp">{{cite conference |author=Tor Lattimore and Marcus Hutter |title=Algorithmic Learning Theory |chapter=Bayesian Reinforcement Learning with Exploration |series=Lecture Notes in Computer Science |conference=Proc. 25th International Conf. on Algorithmic Learning Theory ({ALT'14}) |year=2014|volume=8776 |pages=170–184 |chapter-url=http://www.hutter1.net/publ/pacbayes.pdf | doi=10.1007/978-3-319-11662-4_13 |hdl=1885/14709 |isbn=978-3-319-11661-7 |hdl-access=free }}</ref>
+
+An accessible podcast with [[Lex Fridman]] about his theory of [[AIXI|Universal AI]] appeared in 2021<ref name="lex">{{Cite web |last=Fridman |first=Lex |date=26 February 2020 |title=Marcus Hutter: Universal Artificial Intelligence, AIXI, and AGI |url=https://www.youtube.com/watch?v=E1AxVXt2Gv4 |via=YouTube |language=en-US}}</ref> and a more technical follow-up with Tim Nguyen in 2024 in the Cartesian Cafe.<ref name="tim">{{Cite web |last=Nguyen |first=Tim |date=10 May 2024 |title=Universal Artificial Intelligence and Solomonoff Induction |url=https://www.youtube.com/watch?v=7TgOwMW_rnk |via=YouTube |language=en-US}}</ref> His new (2024) book<ref>{{cite book |author=Marcus Hutter |title=An Introduction to Universal Artificial Intelligence |url=https://www.routledge.com/An-Introduction-to-Universal-Artificial-Intelligence/Hutter-Catt-Quarel/p/book/9781032607023 |date=2024 |publisher=Taylor & Francis |isbn=9781032607023}}</ref> also gives a more accessible introduction to Universal AI and progress in the 20 years since his first book, including a chapter on [[Superintelligence|ASI]] [[AI safety|safety]], which featured as a keynote at the inaugural workshop on AI safety in Sydney.<ref name="asi">{{Cite web |last=Hutter |first=Marcus |date=9 December 2024 |title=ASI Safety via AIXI |url=https://www.youtube.com/watch?v=qHqv3GvWBTM |via=YouTube |language=en-US}}</ref>
+
+== Hutter Prize ==
+{{Main|Hutter Prize}}
+In 2006, Hutter announced the [[Hutter Prize|Hutter Prize for Lossless Compression of Human Knowledge]], with a total of €50,000 in prize money.<ref>{{Cite magazine |last=Chiang |first=Ted |date=2023-02-09 |title=ChatGPT Is a Blurry JPEG of the Web |url=https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web |access-date=2024-08-25 |magazine=The New Yorker |language=en-US |issn=0028-792X}}</ref><ref>{{cite web|url=http://prize.hutter1.net|title=50'000€ Prize for Compressing Human Knowledge|author=Marcus Hutter |work=hutter1.net|access-date=29 November 2016}}</ref> In 2020, Hutter raised the prize money for the Hutter Prize to €500,000.<ref name=":0">{{Cite web |last=Sagar |first=Ram |date=2020-04-07 |title=Compress Data And Win Hutter Prize Worth Half A Million Euros |url=https://analyticsindiamag.com/hutter-prize-data-compression/ |access-date=2024-03-07 |website=Analytics India Magazine |language=en-US}}</ref>
+
+== See also ==
+
+* [[Solomonoff induction]]
+
+==Published works==
+{{refbegin}}
+*{{cite journal |first=Marcus |last=Hutter |title=The Fastest and Shortest Algorithm for All Well-Defined Problems |journal=International Journal of Foundations of Computer Science |url=https://doi.org/10.1142/S0129054102001199 |date=2002 |volume=13 |issue=3 |pages=431–443 |publisher=World Scientific | doi=10.1142/S0129054102001199 |arxiv=cs/0206022 |s2cid=5496821 }}
+*{{cite book |author-mask=1 |first=Marcus |last=Hutter |title=Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability |url={{GBurl|NP53iZGt4KUC}} |date=2005 |publisher=Springer |isbn=978-3-540-22139-5 |oclc=828802143}}
+*{{cite journal |first1=Joel |last1=Veness |first2=Kee Siong |last2=Ng |first3=Marcus |last3=Hutter |first4=William |last4=Uther |first5=David |last5=Silver |title=A Monte-Carlo AIXI Approximation |journal=Journal of Artificial Intelligence Research |date=2011 |volume=40 |pages=95–142 |doi=10.1613/jair.3125  |doi-access=free|arxiv=0909.0801 |s2cid=206618 }}
+*{{cite journal |first1=Shane |last1=Legg |first2=Marcus |last2=Hutter |title=Universal Intelligence: A Definition of Machine Intelligence |date=2007 |volume=17 |issue=4 |pages=391–444 |journal=Minds and Machines |doi=10.1007/s11023-007-9079-x |arxiv=0712.3329 }}
+*{{cite journal |first=Marcus |last=Hutter |title=A Complete Theory of Everything (will be subjective)|date=2010 |volume=3 |issue=4 |pages=329–350 |journal=Algorithms |doi=10.3390/a3040329 |doi-access=free |arxiv=0912.5434 }}
+*{{cite journal |first1=Samuel |last1=Rathmanner |first2=Marcus |last2=Hutter |title=A Philosophical Treatise of Universal Induction |journal=Entropy |date=2011 |volume=13 |issue=6 |pages=1076–1136 |doi=10.3390/e13061076 |doi-access=free |arxiv=1105.5721 }}
+*{{cite journal |first=Marcus |last=Hutter |title=Can Intelligence Explode? |url=https://www.ingentaconnect.com/content/imp/jcs/2012/00000019/F0020001/art00010 |date=2012 |volume=19 |issue=1–2 |pages=143–166 |journal=Journal of Consciousness Studies |arxiv=1202.6177 }}
+*{{cite journal |first1=Peter |last1=Sunehag |first2=Marcus |last2=Hutter |title=Rationality, Optimism and Guarantees in General Reinforcement Learning |journal=Journal of Machine Learning Research |url=http://jmlr.org/papers/v16/sunehag15a.html |date=2015 |volume=16 |pages=1345–90 }}
+*{{cite journal |first1=Reinhard |last1=Hutter |first2=Marcus |last2=Hutter |title=Chances and Risks of Artificial Intelligence – A Concept of Developing and Exploiting Machine Intelligence for Future Societies |date=2021 |volume=4 |issue=2 |journal=Applied System Innovation |page=37 |doi=10.3390/asi4020037 |doi-access=free |hdl=1885/308753 |hdl-access=free }}
+*{{cite book |first1=Marcus |last1=Hutter |first2=David |last2=Quarel |first3=Elliot |last3=Catt |title=An Introduction to Universal Artificial Intelligence |url=https://www.routledge.com/An-Introduction-to-Universal-Artificial-Intelligence/Hutter-Catt-Quarel/p/book/9781032607023 |date=2024 |publisher=Taylor & Francis |isbn=978-1-032-60702-3 |oclc=1402822701 |doi=10.1201/9781003460299}}
+{{refend}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hutter, Marcus}}
+[[Category:Living people]]
+[[Category:Machine learning researchers]]
+[[Category:Artificial intelligence researchers]]
+[[Category:German computer scientists]]
+[[Category:Technical University of Munich alumni]]
+[[Category:Academic staff of the Australian National University]]
+[[Category:1967 births]]
+[[Category:DeepMind people]]
+[[Category:AI safety scientists]]

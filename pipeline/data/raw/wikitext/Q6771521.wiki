@@ -1,0 +1,77 @@
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Markus W. Covert
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |1973|04|24}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Cellular model]]
+| workplaces        = [[Stanford University]]
+| patrons           = 
+| education         = [[Brigham Young University]], [[University of California, San Diego]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Bernhard Palsson]]
+| academic_advisors = [[David Baltimore]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Markus W. Covert''' (born April 24, 1973) is a researcher and professor of bioengineering at [[Stanford University]] who led the simulation of the first organism in software.<ref>{{cite journal | last1 = Karr | first1 = JR | last2 = Sanghvi | first2 = JC | last3 = Macklin | first3 = DN | last4 = Gutschow | first4 = MV | last5 = Jacobs | first5 = JM | last6 = Bolival | first6 = B | last7 = Assad-Garcia | first7 = N | last8 = Glass | first8 = JI | last9 = Covert | first9 = MW | year = 2012| title = A Whole-Cell Computational Model Predicts Phenotype from Genotype | journal = Cell | volume = 150 | issue = 2| pages = 389–401 | doi = 10.1016/j.cell.2012.05.044 | pmid = 22817898 | pmc = 3413483 }}</ref><ref>{{cite journal | last1 = Freddolino | first1 = PL | last2 = Tavazoie | first2 = S | year = 2012 | title = The Dawn of Virtual Cell Biology | journal = Cell | volume = 150 | issue = 2| pages = 248–250 | doi = 10.1016/j.cell.2012.07.001 | pmid = 22817888 | pmc = 4430847 }}</ref><ref>[https://www.nytimes.com/2012/07/21/science/in-a-first-an-entire-organism-is-simulated-by-software.html?_r=1&hp John Markoff. In a First, an Entire Organism Is Simulated by Software. ''New York Times'' (July 20, 2012)]</ref>
+Covert leads an interdisciplinary lab of approximately 10 graduate students and post-doctoral scholars.<ref>[http://covertlab.stanford.edu/ Covert Lab at Stanford University]</ref>
+
+== Education ==
+Covert received a B.S. in chemical engineering from [[Brigham Young University]].{{cn|date=June 2014}} He received a Ph.D. in bioengineering and bioinformatics from the [[University of California, San Diego]] in 2003{{cn|date=June 2014}} for his investigations into the interaction between microbial metabolism and transcriptional regulation under the supervision of [[Bernhard Palsson]].<ref>{{cite journal| pmid=15129285 | doi=10.1038/nature02456 | volume=429 | title=Integrating high-throughput and computational data elucidates bacterial networks | date=May 2004 | journal=Nature | pages=92–6 | last1 = Covert | first1 = MW | last2 = Knight | first2 = EM | last3 = Reed | first3 = JL | last4 = Herrgard | first4 = MJ | last5 = Palsson | first5 = BO| issue=6987 | bibcode=2004Natur.429...92C | s2cid=4403433 }}</ref> He did his post-doctoral training in mammalian cell signaling at the [[California Institute of Technology]] under the supervision of [[David Baltimore]].<ref>{{cite journal| pmid=16166516 | doi=10.1126/science.1112304 | volume=309 | title=Achieving stability of lipopolysaccharide-induced NF-kappaB activation | year=2005 | journal=Science | pages=1854–7 | last1 = Covert | first1 = MW | last2 = Leung | first2 = TH | last3 = Gaston | first3 = JE | last4 = Baltimore | first4 = D| issue=5742 | bibcode=2005Sci...309.1854C | s2cid=83751012 | url=https://resolver.caltech.edu/CaltechAUTHORS:20141117-143614166 }}</ref>
+
+== Honors and distinctions ==
+* [[NIH Director's Pioneer Award]], 2009<ref>[https://web.archive.org/web/20100527141554/http://commonfund.nih.gov/pioneer/Recipients09.aspx 2009 Pioneer Award Recipients]</ref>
+* Damon Runyon Cancer Research Foundation, Postdoctoral Fellowship
+* Brigham Young University, Ezra Taft Benson Presidential Scholarship, 1991-1997
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+{{DEFAULTSORT:Covert, Markus W.}}
+[[Category:1973 births]]
+[[Category:Stanford University School of Medicine faculty]]
+[[Category:Brigham Young University alumni]]
+[[Category:University of California, San Diego alumni]]
+[[Category:Systems biologists]]
+[[Category:Living people]]
+[[Category:Scientists from the San Francisco Bay Area]]

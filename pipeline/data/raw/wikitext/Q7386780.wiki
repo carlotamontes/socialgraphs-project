@@ -1,0 +1,41 @@
+{{Infobox scientist
+|name = Rütger Wever
+|image =
+|alt = 
+|caption = 
+|birth_date =
+|birth_place =
+|death_date = {{Death date and age|2010|8|13|1923|1|1|df=y}}
+|death_place = Bavaria, Germany
+|fields = [[Chronobiology]]
+|workplaces = [[Max Planck Institute for Behavioral Physiology]]
+|alma_mater = 
+|known_for = Time isolation experiments in humans
+}}
+
+'''Rütger Wever''' was a German scientist, known for his significant contributions to the field of [[Chronobiology]], including some of the first experiments on humans in time isolated environments.
+
+==Time isolation experiments==
+
+Rütger Wever's research focused on the human [[circadian rhythm]], and how humans behave when placed in an environment where they have no external time cues and are free to choose their own sleep/wake and light/dark schedules. Working with his close collaborator [[Jürgen Aschoff]], he had an underground bunker constructed in [[Andechs]], Germany, for use as a laboratory in which human subjects could be shielded from any external time cues, including variations in light, temperature, and electromagnetic fields. Between 1964 and 1989, this bunker was used to conduct 418 studies in 447 human volunteers.<ref>{{Cite journal |last1=Wirz-Justice |first1=A. |last2=Daan |first2=S. |last3=Folkard |first3=S. |last4=Lewy |first4=A. |last5=Lund |first5=R. |last6=Zulley |first6=J. |title=Rutger Wever: An Appreciation |journal=Journal of Biological Rhythms |volume=20 |issue=6 |pages=554–5 |year=2005 |doi=10.1177/0748730405281983 |pmid=16275774}}</ref>
+
+One of the key findings of these experiments was that when free to self-select their schedules, humans run on an approximately 25-h day.<ref>Wever R. (1979) The Circadian System of Man: Results of Experiments under Temporal Isolation. New York: Springer-Verlag. {{doi|10.1002/food.19810250733}}</ref> More recent experiments have shown that the intrinsic period of the human circadian pacemaker is actually 24.1-24.2 h.<ref>{{cite journal | last1 = Czeisler | first1 = CA | last2 = Duffy | first2 = JF | last3 = Shanahan | first3 = TL | last4 = Brown | first4 = EN | last5 = Mitchell | first5 = JF | last6 = Rimmer | first6 = DW | last7 = Ronda | first7 = JM | last8 = Silva | first8 = EJ | last9 = Allan | first9 = JS |display-authors=etal | year = 1999 | title = Stability, precision, and near-24-hour period of the human circadian pacemaker | journal = Science | volume = 284 | issue = 5423| pages = 2177–2181 | pmid = 10381883 | doi=10.1126/science.284.5423.2177}}</ref> However, when subjects are free to self-select their schedules, they choose to go to bed at a much later circadian phase, resulting in a lengthening of the sleep/wake cycle period due to the [[Phase response curve|delaying effects]] of light exposure at these nighttime circadian phases.<ref>{{cite journal | last1 = Zulley | first1 = J | last2 = Wever | first2 = R | last3 = Aschoff | first3 = J. | year = 1981 | title = The dependence of onset and duration of sleep on the circadian rhythm of rectal temperature | journal =  Pflügers Archiv | volume = 391 | issue = 4| pages = 314–318 | pmid = 7312563 | doi=10.1007/bf00581514| url = https://epub.uni-regensburg.de/19866/1/zulley2.pdf }}</ref><ref>{{cite journal | last1 = Klerman | first1 = EB | last2 = Dijk | first2 = DJ | last3 = Kronauer | first3 = RE | last4 = Czeisler | first4 = CA. | year = 1996 | title = Simulations of light effects on the human circadian pacemaker: implications for assessment of intrinsic period | journal = Am J Physiol Regul Integr Comp Physiol | volume = 270 | issue = 1 Pt 2| pages = R271–R282 | pmid = 8769811 | doi = 10.1152/ajpregu.1996.270.1.R271 }}</ref>
+
+Another seminal finding that came out of the Andechs [[Bunker experiment|bunker experiments]], was the discovery that human sleep/wake cycles could desynchronize from the circadian rhythm of core body temperature.<ref>{{cite journal | last1 = Aschoff | first1 = J | last2 = Gerecke | first2 = U | last3 = Wever | first3 = R. | year = 1967 | title = Desynchronization of human circadian rhythms | journal = Jpn J Physiol | volume = 17 | issue = 4| pages = 450–457 | pmid = 5300820 | doi=10.2170/jjphysiol.17.450| s2cid = 33075462 | doi-access = free }}</ref> This phenomenon, called 'Spontaneous Internal Desynchrony', typically occurred in subjects after a duration of days to weeks. Strikingly, the length of the sleep/wake cycle varied significantly (from 12 h in some subjects to 68 h in others), while the core body temperature rhythm maintained a period close to 25 h. Under these conditions, subjects were typically unaware of the change in their sleep/wake cycle period.<ref>{{cite journal | last1 = Aschoff | first1 = J. | year = 1992 | title = Estimates on the duration of sleep and wakefulness made in isolation | journal = Chronobiol Int | volume = 9 | issue = 1| pages = 1–10 | pmid = 1555258 | doi=10.3109/07420529209064511}}</ref> The exact biological basis of this desynchronization remains unknown.
+
+The Andechs bunker was used to study human circadian rhythms under a range of conditions, including visual blindness and depression. The results improved understanding of the mechanisms that synchronize the circadian pacemaker to the environment, and had important implications for understanding the cyclicity of many [[affective disorders]].
+
+==Mathematical models==
+
+Wever's background in [[Physics]] allowed him to develop some of the first mathematical oscillator models of the human circadian rhythm. This work helped to show that coupled oscillator models can reproduce many of the features of Spontaneous Internal Desynchrony,<ref>{{cite journal | last1 = Wever | first1 = R. | year = 1975 | title = The circadian multi-oscillator system of man | journal = Int J Chronobiol | volume = 3 | issue = 1| pages = 19–55 | pmid = 1193771 }}</ref> and set the groundwork for later development of more sophisticated models.
+
+==References==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wever, Rutger}}
+[[Category:2010 deaths]]
+[[Category:Chronobiologists]]
+[[Category:20th-century German biologists]]

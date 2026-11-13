@@ -1,0 +1,65 @@
+{{short description|Australian chemist}}
+{{Use dmy dates|date=November 2019}}
+{{Use Australian English|date=November 2019}}
+{{Infobox person
+| name                = John McCaskill
+| image               = John_McCaskill.jpg
+| caption             =
+| image_size          =
+| birth_name          =
+| alias               =
+| birth_date          = 1957
+| birth_place         = Australia
+| death_date          =
+| occupation          = Chemist
+| education          = [[University of Sydney]]
+| years_active        =
+| website                 =
+|known_for= Information processing in evolving and self-organizing molecular systems
+}}
+'''John S. McCaskill''' (born 1957) is an Australian chemist who works on the evolution of information processing in a wide variety of fields ranging from theoretical biochemistry to novel computation to [[artificial life]] and microrobotics.
+
+==Biography==
+After graduating from [[Sydney University]] in 1978 ([[Robert Gilbert (chemist)|R. G. Gilbert]] advisor) and obtaining his PhD (D. Phil.) in 1982 as a Rhodes Scholar at New College, Oxford, McCaskill joined the group of Nobel prize-winner [[Manfred Eigen]] at the [[Max Planck Society|Max Planck Institute]] for Biophysical Chemistry in Göttingen, Germany. He became Professor for Theoretical Biochemistry at the [[University of Jena|Friedrich Schiller University Jena]] in 1992, founding a multidisciplinary research group in Biomolecular Information Processing (BioMIP) at the Institute for Molecular Biotechnology (imb Jena), a field which he pioneered for 25 years while holding positions at the GMD (National Research Center for Information Technology), the [[Fraunhofer Society]], [[Ruhr University Bochum]], the [[Santa Fe Institute]], and the European Centre for Living Technology at the [[Ca' Foscari University of Venice]].<ref>{{cite web |last1=John |first1=McCaskill |url=http://www.biomip.org/profile/cv_mccaskill_short_aug_2019.pdf |website=biomip.org |title=McCaskill CV |access-date=7 August 2019}}</ref>
+
+== Research ==
+McCaskill is best known  for his work on [[Data processing|information processing]] in [[evolving]] and [[self-organizing]] [[molecular]] systems, spanning theoretical and experimental approaches that include novel devices and systems. His early work on [[molecular evolution]] was theoretical, using non-equilibrium [[statistical mechanics]] to solve Eigen’s equations of [[Quasispecies model|molecular quasispecies]] for realistic [[fitness landscape]]s<ref>{{Cite journal |doi = 10.1063/1.446590|title = A localization threshold for macromolecular quasispecies from continuously distributed replication rates|journal = The Journal of Chemical Physics|volume = 80|issue = 10|pages = 5194–5202|year = 1984|last1 = McCaskill|first1 = J. S.| bibcode=1984JChPh..80.5194M }}</ref>
+.<ref name=QuasiSpecies>Eigen, Manfred, McCaskill, John, and Schuster, Peter. "The molecular quasi-species." Adv. Chem. Phys 75 (1989): 149-263, 1988. [https://dx.doi.org/10.1002/9780470141243.ch4 doi:10.1002/9780470141243.ch4]</ref>  He developed an ensemble approach to [[RNA structure prediction]], now in wide use,<ref name="RNA partition">{{cite journal |last1=McCaskill |first1=John |title=The equilibrium partition function and base pair binding probabilities for RNA secondary structure |journal=Biopolymers |date=1990 |volume=29 |issue=6–7 |pages=1105–1119 | doi=10.1002/bip.360290621 |pmid=1695107 |hdl=11858/00-001M-0000-0013-0DE3-9 |s2cid=12629688 |hdl-access=free }}</ref> and made several contributions, both theoretical and experimental, to the study of spatially-resolved [[molecular evolution]], including the experimental implementation of [[reaction-diffusion systems|spatially-resolved]] capillary and [[microfluidics|microfluidic]] flow [[microreactor|reactors]]
+<ref>{{cite journal |last1=McCaskill |first1=J.S. |last2=Bauer |first2=G.J. |title=Images of evolution: origin of spontaneous RNA replication waves |journal=Proc. Natl. Acad. Sci. USA |date=1993 |volume=90 |issue=9 |pages=4191–4195 |doi=10.1073/pnas.90.9.4191 |pmid=7683426 |pmc=46472 |bibcode=1993PNAS...90.4191M |doi-access=free }}</ref><ref>{{cite journal |last1=McCaskill |first1=John |title=Spatially resolved in vitro molecular ecology |journal=Biophysical Chemistry |date=1997 |volume=66 |issue=2–3 |pages=145–158 |doi=10.1016/s0301-4622(97)00073-2 |pmid=9362557 }}</ref>
+and also including the construction of NGEN and MEREGEN, large-scale reconfigurable [[Systolic array|systolic computers]] for simulating spatial evolution based on reprogrammable [[Field Programmable Gate Array|FPGA]] hardware<ref>Tangen, U., Maeke, Th and McCaskill, J.S. "Advanced simulation in the configurable massively parallel hardware MereGen." Coupling of Biological and Electronic Systems. Springer, Berlin, Heidelberg, 2002. 107-118.</ref>
+
+Since 2000, he has established a [http://www.ruhr-uni-bochum.de/ECCell/work_packages_2/4_eccell_integration/background_2/chemical_microprocessors/index.html chemical microprocessor] technology for electronically [[programmable matter]] via [[microscale chemistry|microscale electrochemistry]], and
+applied it to the development of novel approaches towards [[artificial cell]]s and DNA/RNA processing systems, including ''in vitro'' DNA/RNA processing systems, including [[Spiegelman's Monster|Qß RNA]], [[Autonomously replicating sequence|3SR]], [[Multiple displacement amplification|SDA]], 3SR-Predator-Prey
+,<ref>{{cite journal |last1=Wlotzka |first1=Britta |last2=McCaskill |first2=John |title=A molecular predator and its prey: coupled isothermal amplification of nucleic acids |journal=Chemistry and Biology |date=1996 |volume=4 |issue=25–33 |pages=25–33 |doi=10.1016/s1074-5521(97)90234-9 |pmid=9070425 |url=https://www.cell.com/cell-chemical-biology/pdf/S1074-5521(97)90234-9.pdf |access-date=13 August 2019|doi-access=free }}</ref> CATCH<ref>{{cite journal |last1=Ellinger |first1=Thomas |last2=Ehricht |first2=Ralf |last3=McCaskill |first3=John |title=In vitro evolution of molecular cooperation in CATCH, a cooperatively coupled amplification system |journal=Cell Chemical Biology |date=1998 |volume=5 |issue=12 |pages=729–241 |doi=10.1016/s1074-5521(98)90665-2 |pmid=9862794 |doi-access=free }}</ref> and optical DNA Computing systems based on magnetic beads in microfluidic reactors<ref>{{cite journal |last1=McCaskill |first1=John |title=Optically programming DNA computing in microflow reactors |journal=Bio Systems |date=2001 |volume=59 |issue=2 |pages=125–138 |doi=10.1016/s0303-2647(01)00099-5 |pmid=11267740 |bibcode=2001BiSys..59..125M }}</ref>
+McCaskill led an international initiative to investigate evolvable artificial chemical cells with an EU-funded project, [http://www.istpace.org/Web_Final_Report/the_pace_report/index.html PACE], one of the earliest projects to explore a bottom-up approach to create an artificial living cell<ref>{{cite news |title=Holy Grail of Artificial Life |url=https://www.irishtimes.com/news/holy-grail-of-artificial-life-1.1155883 |agency=The Irish Times |date=2 September 2004}}</ref><ref>{{cite news |title=The God-Machine. Is life to be created anew? (Die Gottes-Maschine. Ist das Leben ganz neu zu erfinden?)|agency=GEO|date=August 2009}}</ref><ref>{{cite web |last1=Lütke-Wissing |first1=Stefan |title=Die geheimen Baupläne der Natur |url=https://www.tib.eu/de/suchen/id/datacite%3Adoi~10.5445%252FDIVA%252F2008-21/Die-geheimen-Baupläne-der-Natur/ |website=TIB Leibniz-Informationszentrum |access-date=13 August 2019}}</ref>
+.<ref>{{cite book |last1=Regis |first1=Ed |title=What is Life? |date=2008 |publisher=Farrar, Straus and Giroux |location=New York |isbn=978-0-374-28851-8 |pages=140–141}}</ref>  Most recently his research has led to the development of novel autonomous and programmable electronic-chemical systems, leading other EU-funded projects, [http://www.biomip.org/eccell ECCell] and [http://www.biomip.org/micreagents/ MICREAgents], and opening a wide range of potential applications in basic and applied research.
+
+McCaskill's current work includes modeling the essential interplay of [[self-organization]] and [[evolution]] in life-like chemical and electronic systems, and exploring the potential of electronic-chemical hybrid [[Information Technology]] based on these properties. He has produced over 100 scientific publications, taught courses and supervised PhD theses in disciplines ranging from chemistry, physics and biology to computer science, and his multidisciplinary work straddling theory and experiment has been recognized in invited lectures at international conferences around the world. He was an inaugural director of the  [[European Centre for Living Technology]], and has since served on its science board. While McCaskill's main work is in basic science, it has helped spawn several start-up companies and continues to involve the coordination of major collaborative projects fostering novel links between science and industry.
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See https://en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+== External links ==
+* [http://www.biomip.org/pacereport/index.html '''PACE'''] (Programmable Artificial Cell Evolution)
+* [http://www.biomip.org/eccell/index.html '''ECCell'''] (Electronic Chemical Cell)
+* [http://www.biomip.org/micreagents/index.html '''MICREAgents'''] (Microscale Chemically Reactive Agents)
+* [http://www.biomip.org J. McCaskill BioMIP page].
+* [http://ecltech.org European Centre for Living Technology]
+
+{{authority control}}
+
+{{DEFAULTSORT:McCaskill, John}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Academic staff of Ruhr University Bochum]]
+[[Category:21st-century Australian chemists]]
+[[Category:Australian expatriates in the United States]]
+[[Category:Academic staff of the University of Jena]]
+[[Category:Australian expatriates in Germany]]
+[[Category:Alumni of New College, Oxford]]
+[[Category:University of Sydney alumni]]
+[[Category:Australian Rhodes Scholars]]
+[[Category:Academic staff of the Ca' Foscari University of Venice]]
+[[Category:Australian expatriates in Italy]]
+[[Category:Researchers of artificial life]]

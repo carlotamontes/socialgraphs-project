@@ -1,0 +1,250 @@
+{{short description|American computer scientist}}
+{{Infobox scientist
+|name              = Cristopher Moore
+|image             = 
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date and age text|March 12, 1968}}
+|birth_place       = [[New Brunswick, New Jersey]]
+|death_date        = 
+|death_place       = 
+|ethnicity         = 
+|field             = [[Computer Science]] and [[Physics]]
+|workplaces        = [[Santa Fe Institute]]
+|education         = Northwestern University (B.S., 1986)<br />[[Cornell University]] (Ph.D., 1991)
+|doctoral_advisor  = [[Philip Holmes]]
+|doctoral_students = [[Aaron Clauset]]
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|footnotes         = 
+|signature         = 
+}}
+
+'''Cristopher David Moore''', known as '''Cris Moore''', (born March 12, 1968, in [[New Brunswick, New Jersey]])<ref name="cv">[https://sites.santafe.edu/~moore/cv.pdf Curriculum vitae], retrieved 2023-05-31.</ref> is an American computer scientist, mathematician, and physicist. He is resident faculty at the [[Santa Fe Institute]], and was formerly a full professor at the [[University of New Mexico]]. He is an elected Fellow of the [[American Physical Society]], the [[American Mathematical Society]], and the [[American Association for the Advancement of Science]].
+
+==Biography==
+Moore did his undergraduate studies at [[Northwestern University]], graduating in 1986.<ref name="cv"/> He earned his Ph.D. in 1991 from [[Cornell University]] under the supervision of [[Philip Holmes]].<ref>{{mathgenealogy|name=Cristopher David Moore|id=111264}}</ref> After postdoctoral studies at the Santa Fe Institute, he joined the institute as a research faculty member in 1998, and moved to the University of New Mexico in 2000 as an assistant professor. He received tenure there in 2005. In 2007 he became a research professor at the Santa Fe Institute again, while retaining his University of New Mexico affiliation, and in 2008 he was promoted to full professor at UNM. His primary appointment was in the Department of Computer Science, with a joint appointment in the UNM Department of Physics and Astronomy. In 2012, Moore left the University of New Mexico and became full-time resident faculty at the [[Santa Fe Institute]].<ref name="cv"/>
+
+Moore has also served on the [[Santa Fe, New Mexico]], city council from 1994 to 2002, affiliated with the [[Green Party of New Mexico]].<ref name="cv"/><ref>{{citation|title=Greens in N.M. weigh Nader presidential bid|journal=[[Denver Post]]|date=April 2, 1996}}.</ref>
+
+==Research==
+In 1993, Moore found a novel solution to the [[three-body problem]], showing that it is possible in [[Newtonian mechanics]] for three equal-mass bodies to follow each other around a shared orbit along a figure-eight shaped curve.{{sfn|Moore|1993}} Moore's results were found through numerical computations, and they were made mathematically rigorous in 2000 by [[Alain Chenciner]] and Richard Montgomery and shown computationally to be [[Stability theory|stable]] by Carlès Simo. Later researchers showed that similar solutions to the three-body problem are also possible under [[general relativity]], Einstein's more accurate description of the effects of gravitation on moving bodies. After his original work on the problem, Moore collaborated with Michael Nauenberg to find many complex orbits for systems of more than three bodies, including one system in which twelve bodies trace out the four equatorial cycles of a [[cuboctahedron]].<ref>{{citation|title=Feature Column: A new solution to the three body problem – and more|first=Bill|last=Casselman|publisher=[[American Mathematical Society]]|url=https://www.ams.org/featurecolumn/archive/orbits1.html}}.</ref><ref>{{citation|title=MathTrek: Strange Orbits|first=Ivars|last=Petersen|url=http://www.sciencenews.org/view/generic/id/6465/title/Strange_Orbits|publisher=[[ScienceNews]]|orig-date=April 7, 2001 |date= August 13, 2005}}.</ref><ref>{{citation|url=http://news.sciencemag.org/sciencenow/2007/05/04-02.html|title=Trick Three-Planet Orbit Remains True|first=Adrian|last=Cho|date=4 May 2007|journal=[[Science (journal)|Science Now]]|archive-url=https://web.archive.org/web/20110814131227/http://news.sciencemag.org/sciencenow/2007/05/04-02.html|archive-date=14 August 2011}}.</ref><ref>{{citation|title=Himmlisches Ballett|first=Christoph|last=Pöppe|journal=[[Spektrum der Wissenschaft]]|date=January 2005|pages=98–99|language=German}}.</ref>
+
+In 2001, Moore and John M. Robson showed that the problem of tiling one [[polyomino]] with copies of another is [[NP-complete]].{{sfn|Moore|Robson|2001}}<ref>{{citation|first=Ivars|last=Petersen|title=Math Trek: Tiling with Polyominoes|date=September 25, 1999|journal=[[Science News]]|url=http://www.sciencenews.org/pages/sn_arc99/9_25_99/mathland.htm}}.</ref>
+
+Moore has also been active in the field of [[complex network|network science]], with many notable publications in the field. In work with [[Aaron Clauset]], [[David Kempe]], and [[Dimitris Achlioptas]], Moore showed that the appearance of [[power law]]s in the [[degree distribution]] of [[complex network|network]]s can be illusory: network models such as the [[Erdős–Rényi model]], whose degree distribution does not obey a power law, may nevertheless appear to exhibit one when measured using [[traceroute]]-like tools.{{sfn|Achlioptas|Clauset|Kempe|Moore|2005}}<ref>{{citation|title=Wanted: An Accurate Map of the Internet|date=June 10, 2005|first=Sara|last=Robinson|journal=SIAM News|volume=38|issue=5}}.</ref> In work with Clauset and [[Mark Newman]], Moore developed a probabilistic model of [[hierarchical clustering]] for complex networks, and showed that their model predicts clustering robustly in the face of changes to the link structure of the network.{{sfn|Clauset|Newman|Moore|2004}}{{sfn|Clauset|Moore|Newman|2008}}<ref>{{citation|title=MathTrek: Communities of Communities of ...|first=Julie|last=Rehmeyer|journal=[[ScienceNews]]|url=http://www.sciencenews.org/view/generic/id/32822/title/Math_Trek__Communities_of_Communities_of_|date=June 2, 2008}}.</ref><ref>{{citation|title=Networks: Teasing out the missing links|first=Sid|last=Redner|journal=[[Nature (journal)|Nature]]|volume=453|issue=7191|pages=47–48|date=1 May 2008|doi=10.1038/453047a|bibcode = 2008Natur.453...47R|pmid=18451851|s2cid=205037682|doi-access=free}}.</ref>
+
+Other topics in Moore's research include
+modeling [[undecidable problem]]s by physical systems,{{sfn|Moore|1990}}<ref>{{citation|title=Undecidable dynamics|last=Bennett|first=Charles H.|author-link=Charles H. Bennett (computer scientist)|journal=[[Nature (journal)|Nature]]|volume=346|issue=6285|pages=606–607|year=1990|doi=10.1038/346606a0|bibcode=1990Natur.346..606B|s2cid=4329071|url=http://tuvalu.santafe.edu/~moore/bennett.pdf|doi-access=free}}.</ref>
+[[phase transition]]s in random instances of the [[Boolean satisfiability problem]],{{sfn|Achlioptas|Moore|2002}}
+the unlikelihood of success in the [[search for extraterrestrial intelligence]] due to the indistinguishability of advanced signaling technologies from random noise,{{sfn|Lachmann|Newman|Moore|2004}}<ref>{{citation|journal=[[ScienceDaily]]|url=https://www.sciencedaily.com/releases/2004/12/041203100937.htm|title=Hello, Hello, Earth?|date=December 3, 2004}}.</ref><ref>{{citation|title=Is It Time to Scrap SETI?|date=December 9, 2004|publisher=[[ABC News (United States)|ABC News]]|url=https://abcnews.go.com/Technology/DyeHard/story?id=311101&page=1}}.</ref>
+the inability of certain types of [[quantum algorithm]] to solve [[graph isomorphism]],{{sfn|Moore|Russell|Sniady|2007}}
+and attack-resistant [[quantum cryptography]].{{sfn|Dinh|Moore|Russell|2011}}<ref>{{citation|first=Julie|last=Rehmeyer|title=Math Trek: New system offers way to defeat decryption by quantum computers|date=July 25, 2011|journal=[[Science News]]|url=http://tuvalu.santafe.edu/~moore/SNPrimeMcEliece.pdf}}.</ref>
+
+==Awards and honors==
+In 2013, Moore became the inaugural member of the [[Zachary%27s_karate_club#Zachary_Karate_Club_Club|Zachary Karate Club Club]].<ref>{{citation|title=Zachary Karate Club CLUB prize|url=http://networkkarate.tumblr.com}}</ref>
+In 2014, Moore was elected as a Fellow of the [[American Physical Society]] for his fundamental contributions at the interface between nonlinear physics, [[statistical physics]] and computer science, including complex network analysis, phase transitions in NP-complete problems, and the computational complexity of physical simulation.
+<ref>{{citation|title=2014 APS Fellow record|date=December 14, 2014|url=http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2014&unit_id=&institution=Santa+Fe+Institute}}</ref> In 2015 he was elected as a [[fellow]] of the [[American Mathematical Society]].<ref>{{citation|url=https://www.ams.org/profession/ams-fellows/new-fellows|title=2016 Class of the Fellows of the AMS|publisher=[[American Mathematical Society]]|access-date=2015-11-16}}.</ref>
+In 2017 he was elected as a [[Fellow_of_the_American_Association_for_the_Advancement_of_Science|Fellow of the American Association for the Advancement of Science]],<ref>{{citation|url=https://www.aaas.org/page/2017-fellows|title=2017 Fellows|publisher=American Association for the Advancement of Science|access-date=2017-11-22|archive-url=https://web.archive.org/web/20171201044752/https://www.aaas.org/page/2017-fellows|archive-date=2017-12-01}}</ref> and in 2024, he was named as a [[Fellows_of_the_Network_Science_Society|Fellow of the Network Science Society]].
+
+==Selected publications==
+*{{citation
+ | last = Moore | first = Cristopher
+ | doi = 10.1103/PhysRevLett.64.2354
+ | issue = 20
+ | journal = Physical Review Letters
+ | pages = 2354–2357
+ | pmid = 10041691
+ | title = Unpredictability and undecidability in dynamical systems
+ | volume = 64
+ | year = 1990|bibcode = 1990PhRvL..64.2354M }}.
+*{{citation
+ | last = Moore
+ | first = Cristopher
+ | bibcode = 1993PhRvL..70.3675M
+ | doi = 10.1103/PhysRevLett.70.3675
+ | issue = 24
+ | journal = Physical Review Letters
+ | pages = 3675–3679
+ | pmid = 10053934
+ | title = Braids in classical dynamics
+ | url = http://tuvalu.santafe.edu/~moore/braids-prl.pdf
+ | volume = 70
+ | year = 1993
+ | access-date = 2012-03-11
+ | archive-date = 2018-10-08
+ | archive-url = https://web.archive.org/web/20181008213647/http://tuvalu.santafe.edu/~moore/braids-prl.pdf
+ }}.
+*{{citation
+ | last1 = Moore | first1 = Cristopher
+ | last2 = Crutchfield | first2 = James P. | author2-link = James P. Crutchfield
+ | doi = 10.1016/S0304-3975(98)00191-1
+ | issue = 1–2
+ | journal = [[Theoretical Computer Science (journal)|Theoretical Computer Science]]
+ | mr = 1756213
+ | pages = 275–306
+ | title = Quantum automata and quantum grammars
+ | volume = 237
+ | year = 2000| arxiv = quant-ph/9707031
+ | s2cid = 3175396
+ }}.
+*{{citation
+ |last1        = Moore
+ |first1       = C.
+ |last2        = Robson
+ |first2       = J. M.
+ |arxiv        = math/0003039
+ |doi          = 10.1007/s00454-001-0047-6
+ |issue        = 4
+ |journal      = [[Discrete and Computational Geometry]]
+ |mr           = 1863810
+ |pages        = 573–590
+ |title        = Hard tiling problems with simple tiles
+ |url          = http://www.santafe.edu/media/workingpapers/00-03-019.pdf
+ |volume       = 26
+ |year         = 2001
+ |s2cid        = 10710727
+ |access-date  = 2012-03-10
+ |archive-url  = https://web.archive.org/web/20130617140921/http://www.santafe.edu/media/workingpapers/00-03-019.pdf
+ |archive-date = 2013-06-17
+ }}.
+*{{citation
+ | last1 = Achlioptas | first1 = D.
+ | last2 = Moore | first2 = C.
+ | arxiv = cond-mat/0209622
+ | contribution = The asymptotic order of the random k-SAT threshold
+ | doi = 10.1109/SFCS.2002.1182003
+ | pages = 779–788
+ | title = Proceedings of the 43rd IEEE Symposium on Foundations of Computer Science (FOCS '02)
+ | year = 2002| title-link = Symposium on Foundations of Computer Science
+ | isbn = 0-7695-1822-2
+ | s2cid = 5206330
+ }}.
+*{{citation
+ | last1 = Lachmann | first1 = Michael
+ | last2 = Newman | first2 = M. E. J. | author2-link = Mark Newman
+ | last3 = Moore | first3 = Cristopher
+ | bibcode = 2004AmJPh..72.1290L
+ | doi = 10.1119/1.1773578
+ | issue = 10
+ | journal = American Journal of Physics
+ | pages = 1290–1293
+ | title = The physical limits of communication or Why any sufficiently advanced technology is indistinguishable from noise
+ | url = http://tuvalu.santafe.edu/~moore/ajp.pdf
+ | volume = 72
+ | year = 2004|arxiv = cond-mat/9907500 | s2cid = 14963488
+ }}.
+*{{citation
+ | last1 = Clauset | first1 = Aaron
+ | last2 = Newman | first2 = M. E. J. | author2-link = Mark Newman
+ | last3 = Moore | first3 = Cristopher
+ | arxiv = cond-mat/0408187
+ | bibcode = 2004PhRvE..70f6111C
+ | doi = 10.1103/PhysRevE.70.066111
+ | pmid = 15697438
+ | issue = 6
+ | journal = Physical Review E
+ | article-number = 066111
+ | title = Finding community structure in very large networks
+ | url = http://www.ece.unm.edu/ifis/papers/community-moore.pdf
+ | volume = 70
+ | year = 2004| s2cid = 8977721
+ }}.
+*{{citation
+ | last1 = Achlioptas | first1 = Dimitris
+ | last2 = Clauset | first2 = Aaron
+ | last3 = Kempe | first3 = David
+ | last4 = Moore | first4 = Cristopher
+ | arxiv = cond-mat/0503087
+ | contribution = On the bias of traceroute sampling: or, power-law degree distributions in regular graphs
+ | doi = 10.1145/1060590.1060693
+ | pages = 694–703
+ | title = Proceedings of the 37th ACM Symposium on Theory of Computing (STOC '05)
+ | year = 2005| title-link = Symposium on Theory of Computing
+ | s2cid = 785270
+ }}.
+*{{citation
+ | last1 = Moore | first1 = Cristopher
+ | last2 = Russell | first2 = Alexander
+ | last3 = Sniady | first3 = Piotr
+ | contribution = On the impossibility of a quantum sieve algorithm for graph isomorphism
+ | doi = 10.1145/1250790.1250868
+ | pages = 536–545
+ | title = Proceedings of the 39th ACM Symposium on Theory of Computing (STOC '07)
+ | year = 2007| arxiv = quant-ph/0612089| title-link = Symposium on Theory of Computing
+ | isbn = 978-1-59593-631-8
+ | s2cid = 8416060
+ }}.
+*{{citation
+ | last1 = Clauset | first1 = Aaron
+ | last2 = Moore | first2 = Cristopher
+ | last3 = Newman | first3 = M. E. J. | author3-link = Mark Newman
+ | arxiv = 0811.0484
+ | bibcode = 2008Natur.453...98C
+ | doi = 10.1038/nature06830
+ | issue = 7191
+ | journal = [[Nature (journal)|Nature]]
+ | pages = 98–101
+ | title = Hierarchical structure and the prediction of missing links in networks
+ | url = http://www-personal.umich.edu/~mejn/papers/cmn08.pdf
+ | volume = 453
+ | year = 2008 | pmid=18451861| hdl = 2027.42/62623
+ | s2cid = 278058
+ }}.
+*{{citation
+ | last1 = Dinh | first1 = Hang
+ | last2 = Moore | first2 = Cristopher
+ | last3 = Russell | first3 = Alexander
+ | contribution = McEliece and Niederreiter cryptosystems that resist quantum Fourier sampling attacks
+ | doi = 10.1007/978-3-642-22792-9_43
+ | pages = 761–779
+ | publisher = Springer
+ | series = Lecture Notes in Computer Science
+ | title = Advances in Cryptology – Crypto 2011
+ | year = 2011| volume = 6841
+ | doi-access = free
+ | isbn = 978-3-642-22791-2
+ }}.
+*{{citation
+ | last1 = Moore | first1 = Cristopher
+ | last2 = Mertens | first2 = Stephan
+ | isbn = 978-0-19-923321-2
+ | location = Oxford
+ | mr = 2849868
+ | publisher = Oxford University Press
+ | title = The Nature of Computation
+ | year = 2011}}.
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[https://sites.santafe.edu/~moore/ Home page] at the Santa Fe Institute
+*[https://scholar.google.com/citations?user=p_837e0AAAAJ Citations] in Google Scholar
+
+{{Authority control}}
+
+{{DEFAULTSORT:Moore, Cris}}
+[[Category:Living people]]
+[[Category:1968 births]]
+[[Category:People from New Brunswick, New Jersey]]
+[[Category:American theoretical computer scientists]]
+[[Category:Cellular automatists]]
+[[Category:American computer scientists]]
+[[Category:New Mexico Greens]]
+[[Category:Northwestern University alumni]]
+[[Category:Cornell University alumni]]
+[[Category:University of New Mexico faculty]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Santa Fe Institute people]]
+[[Category:American network scientists]]
+[[Category:Scientists from Santa Fe, New Mexico]]
+[[Category:Physicists from New Mexico]]
+[[Category:Mathematicians from New Mexico]]
+[[Category:Academics from Santa Fe, New Mexico]]

@@ -1,0 +1,97 @@
+{{short description|British theoretical physicist}}
+{{use dmy dates|date=January 2021}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = 
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = [[File:Jane_Gardener.jpg|230px]]
+| image_size        = 
+| image_upright     = Jane Gardener
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |df=yes|1957|08|25}}
+| birth_place       = [[Cheshire]]
+| death_date        = {{death date and age |df=yes|1988|06|18|1957|08|25}}
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = 
+| fields            = [[Theoretical physics]]
+| workplaces        = 
+| patrons           = 
+| education         = [[University of Edinburgh]]<br>[[University of Oxford]]
+| alma_mater        = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors =  [[Ian Aitchison|I.J.R. Aitchison]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Gardner transition]]
+| influences        = 
+| influenced        = 
+| awards            = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| website           = <!--{{URL|www.example.com}}-->
+}}
+
+'''Elizabeth Gardner''' (25 August 1957 – 18 June 1988) was a British theoretical physicist.<ref name=":0">{{Cite web|url=http://www.baginsky.de/eli/eg_portr.html|title=Elizabeth Gardner Portrait|website=www.baginsky.de|access-date=2019-03-25}}</ref>  She is best known for her groundbreaking work on a [[phase transition]] known as the [[Gardner transition]] and on disordered networks.<ref>{{Cite web|url=https://today.duke.edu/2017/05/breaking-glass-infinite-dimensions|title=Breaking Glass in Infinite Dimensions|website=today.duke.edu|date=30 May 2017 |access-date=2019-03-25}}</ref>
+
+== Early life and education ==
+Gardner was born in Cheshire, UK. Both of her parents were chemical engineers. Gardner was interested in science from an early age.<ref name=":0" /><ref>{{Cite book|date=1995|editor-last=Domany|editor-first=Eytan|editor2-last=van Hemmen|editor2-first=J. Leo|editor3-last=Schulten|editor3-first=Klaus|title=Models of Neural Networks I|series=Physics of Neural Networks | pages=345–358|doi=10.1007/978-3-642-79814-6|issn=0939-3145|isbn=978-3-642-79816-0|bibcode=1995nene.book.....D}}</ref> In 1975, she enrolled in [[University of Edinburgh]] to study [[mathematical physics]]. She graduated with first class honors, and was awarded the [[Tait Medal]] in 1979,<ref>{{cite web |title=List of Tait Medalists |url=http://www.tait.ac.uk/Tait_Medalists.html |website=Tait Medalists |publisher=The Tait Institute |access-date=4 July 2022}}</ref> Robert Schlapp Prize, and the Class medal.{{citation needed|date=February 2021}}
+
+Gardner completed her D.Phil. studies at [[University of Oxford|Oxford]] under the supervision of [[Ian Aitchison|I.J.R. Aitchison]]. Her thesis was in [[particle physics]], and focused on [[Gauge theory|non-Abelian gauge theories]]. Despite fulfilling requirements, Gardner did not formally graduate from Oxford.<ref name=":0" />
+
+== Career ==
+Following her D.Phil., Gardner moved to the [[Saclay Nuclear Research Centre]], where she spent two years, supported by a [[Royal Society]] Fellowship. She worked on a variety of topics in [[Field theory (physics)|field theory]] and the theory of disordered systems, and began to work on [[spin glass]]es.
+
+In 1984, Gardner returned to the University of Edinburgh. She was supported initially by the [[Science and Engineering Research Council]] (SERC) to work on particle physics, and later by the university itself to work on disordered systems and neural networks.
+
+In 1985, Gardner published a paper titled "Spin glasses with ''p''-spin interactions," in which she described a phase transition for the first time that is now known as the Gardner transition.<ref>{{Cite journal|doi=10.1016/0550-3213(85)90374-8|title=Spin glasses with p-spin interactions|journal=Nuclear Physics B|volume=257|pages=747–765|year=1985|last1=Gardner|first1=E.|bibcode=1985NuPhB.257..747G }}</ref> At the Gardner transition, a glass becomes marginally stable.<ref>{{Cite web|url=https://math.duke.edu/events/80271-when-gardner-transition-relevant|title=When is the Gardner transition relevant? {{!}} Department of Mathematics|website=math.duke.edu|access-date=2019-03-25}}{{Dead link|date=October 2025 |bot=InternetArchiveBot }}</ref> The Gardner transition has attracted significant recent attention, as new evidence for it has been discovered through simulations and calculations about jamming of hard spheres.<ref>{{Cite journal|last=O’Hern|first=Corey|date=2016-11-21|title=Viewpoint: Signs of a Gardner Transition in a Granular Glass|url=https://physics.aps.org/articles/v9/133|journal=Physics|volume=9|page=133 |doi=10.1103/Physics.9.133 |doi-access=free}}</ref>
+
+During the last part of her life, she had the opportunity to spend several months in Israel for a program about advances in Neural Networks, which was organized by [[Daniel Amit]], Hanoch [[Hanoch Gutfreund|Gutfreund]] and [[Haim Sompolinsky]]. During that time, she started a fruitful collaboration with [[Annette Zippelius]] leading to a work on a diluted and asymmetric neural network model.<ref>{{Cite journal|last1=Derrida|first1=B|last2=Gardner|first2=E|last3=Zippelius|first3=A|date=1987-07-15|title=An Exactly Solvable Asymmetric Neural Network Model|url=http://dx.doi.org/10.1209/0295-5075/4/2/007|journal=Europhysics Letters|volume=4|issue=2|pages=167–173|doi=10.1209/0295-5075/4/2/007|bibcode=1987EL......4..167D|s2cid=250783982|issn=0295-5075}}</ref>
+
+In 1988, Gardner published two consecutive papers, one with [[Bernard Derrida]], on neural networks.<ref>{{Cite journal|last=Evans|first=Martin R|date=2017-03-03|title=Turning statistical mechanics on its head|journal=Journal of Physics A: Mathematical and Theoretical|volume=50|issue=13|pages=131001|doi=10.1088/1751-8121/aa5c46|issn=1751-8113|bibcode=2017JPhA...50m1001E|s2cid=125642918 }}</ref> It has received significant attention in recent years, and was recently celebrated as one of the 50 most influential papers published in the ''[[Journal of Physics A]]''.<ref>{{Cite journal|last1=Gardner|first1=E.|last2=Derrida|first2=B.|date=January 1988|title=Optimal storage properties of neural network models|journal=Journal of Physics A: Mathematical and General|volume=21|issue=1|pages=271–284|doi=10.1088/0305-4470/21/1/031|issn=0305-4470|bibcode=1988JPhA...21..271G|url=https://hal.archives-ouvertes.fr/hal-03285587/file/Optimal%20storage%20properties%20of%20neural%20network%20models.pdf }}</ref><ref>{{Cite journal|last=Gardner|first=E.|date=January 1988|title=The space of interactions in neural network models|journal=Journal of Physics A: Mathematical and General|volume=21|issue=1|pages=257–270|doi=10.1088/0305-4470/21/1/030|issn=0305-4470|bibcode=1988JPhA...21..257G}}</ref><ref>{{Cite journal|journal= Journal of Physics A: Mathematical and Theoretical|title=Most influential papers from Journal of Physics A: a collection of viewpoints|year=2017|url=https://iopscience.iop.org/journal/1751-8121/page/JPhys50-viewpoints}}</ref>
+
+==Death==
+Gardner was diagnosed with cancer in 1986, and died in June 1988.<ref name=":0" />
+
+== Research ==
+When in Saclay, she started working on problems of field theory defined on random lattices. This contribution allowed to bridge the gap between field theory and disordered systems techniques.
+
+She contributed to many different topics in the field of disordered systems, ranging from localization phenomena to the effect of randomness on the critical behaviour of weakly disordered models up to stereological properties of these materials. Notably, she generalized techniques for a well-known [[Spin glass|spin-glass]] problem, that is the [[Sherrington–Kirkpatrick model]], to systems with p-spin interactions and defined, together with [[Bernard Derrida]], the Generalized [[Random energy model|Random Energy Model]] (GREM).<ref>{{Cite journal|last1=Derrida|first1=B|last2=Gardner|first2=E|date=1986-05-10|title=Solution of the generalised random energy model|url=http://dx.doi.org/10.1088/0022-3719/19/13/015|journal=Journal of Physics C: Solid State Physics|volume=19|issue=13|pages=2253–2274|doi=10.1088/0022-3719/19/13/015|bibcode=1986JPhC...19.2253D|issn=0022-3719}}</ref>
+
+When working on the p-spin, she discovered that in the zero-temperature limit this model can undergo a transition, according to which the [[energy landscape]] splits into many sub-basins hierarchically organized. Such a transition, now called "[[Gardner transition]]" after her pioneering works, turns out to be particularly timely nowadays for the physics of glasses and marginal stability properties in the low-temperature phase.{{citation needed|date=February 2021}}
+
+The deep understanding of the modern ideas developed in the theory of spin glasses allowed her to go far beyond and to extensively contribute also in [[neural network]]s. A typical spin-glass example in this domain is the Hopfield model, for which she realized that a second kind of dynamics could take place (a retrieval dynamics).<ref>{{Cite journal|last1=Gardner|first1=E.|last2=Derrida|first2=B.|last3=Mottishaw|first3=P.|date=1987|title=Zero temperature parallel dynamics for infinite range spin glasses and neural networks|url=http://dx.doi.org/10.1051/jphys:01987004805074100|journal=Journal de Physique|volume=48|issue=5|pages=741–755|doi=10.1051/jphys:01987004805074100|issn=0302-0738}}</ref>
+
+== Awards and honours ==
+
+* She was awarded the [http://www.tait.ac.uk/Tait_Medalists.html Tait Medal] in 1979 by the University of Edinburgh.
+* Her works on the optimal storage of neural networks have been selected as two of the most influential papers in the 50th anniversary of [[Journal of Physics A]].
+* Since 2023, the University of Edinburgh has organized annual Elizabeth Gardner Lectures focused on areas of research in which Gardner made foundational contributions.<ref>{{Cite web|url=https://higgs.ph.ed.ac.uk/events/elizabeth-gardner-lectures/|title=Elizabeth Gardner Lectures|website=Higgs Centre for Theoretical Physics|access-date=2025-05-06}}</ref>
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gardner, Elizabeth}}
+[[Category:20th-century English women physicists]]
+[[Category:1957 births]]
+[[Category:1988 deaths]]
+[[Category:20th-century English physicists]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Deaths from cancer in England]]
+[[Category:Place of death missing]]
+[[Category:British theoretical physicists]]
+[[Category:People from Cheshire (before 1974)]]

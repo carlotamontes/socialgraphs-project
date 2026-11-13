@@ -1,0 +1,76 @@
+{{Short description|American physicist (born 1958)}}
+{{Other people}}
+{{Use mdy dates|date=August 2024}}
+{{Infobox scientist
+| name              = Nicholas Read
+| honorific_suffix  = {{post-nominals|FRS|size=100}}
+| birth_date        = {{birth date and age|mf=y|1958|11|22}}
+| birth_place       = [[London]], England
+| citizenship       = United States
+| fields            = [[Condensed matter theory]]
+| workplaces        = [[Yale University]]
+| education         = [[Imperial College London]]<br />[[University of Cambridge|Cambridge University]]
+| doctoral_advisor  = Dennis M. Newns<ref name="inspire">{{cite web|title=Nicholas Read|url=https://inspirehep.net/authors/992149|publisher=INSPIRE-HEP}}</ref>
+| academic_advisors = 
+| notable_students  = 
+| known_for         = [[Composite fermion]] model for [[Quantum Hall effect|quantum Hall systems]]<br />Moore–Read state<br />[[Hall viscosity]]<br />[[Majorana fermion|Majorana zero modes]] in condensed matter
+| awards            = [[Alfred P. Sloan Foundation|Alfred P. Sloan Research Fellowship]]<br />NSF Presidential Young Investigator Award<br />[[Oliver E. Buckley Condensed Matter Prize]] (2002)<br />[[Dirac Medal (ICTP)|Dirac Medal]] (2015)<br />[[Fellow of the Royal Society|FRS]] (2020)
+| footnotes         = 
+}}
+
+'''Nicholas Read''' {{post-nominals|FRS}} (born November 22, 1958) is a British-born American [[physicist]], noted for his work on [[Strongly correlated material|strongly interacting]] [[Many-body theory|quantum many-body systems]], particularly [[topological phases of matter]] and the [[fractional quantum Hall effect]].
+
+==Biography==
+Read was born in [[London]], England on November 22, 1958.<ref name="acp">{{cite web|title=Array of contemporary American physicists|url=http://www.aip.org/history/acap/biographies/bio.jsp?readn|publisher=American Physical Society|access-date=14 October 2010|archive-url=https://web.archive.org/web/20121005060136/http://www.aip.org/history/acap/biographies/bio.jsp?readn|archive-date=5 October 2012}}</ref> He was educated at [[Langley Park School for Boys]] in [[Beckenham]] and completed his undergraduate education at [[Sidney Sussex College, Cambridge]], where he graduated with a BA in Mathematics in 1980 and a [[Part III of the Mathematical Tripos|Certificate of Advanced Study]] in Mathematics the following year.<ref name="acp"/><ref>{{cite news |title=Tripos results at Cambridge |work=The Times |date=June 27, 1980 |page=10}}</ref> He completed his [[PhD]] at [[Imperial College London]] in 1986,<ref name="acp"/> after which he moved to the United States.<ref name="yale">{{cite news|last=Romanyshyn|first=Jonathan|title=Physics professor wins Buckley Prize|url=http://www.yaledailynews.com/news/2001/dec/07/physics-professor-wins-buckley-prize/|access-date=14 October 2010|newspaper=Yale Daily News|date=December 7, 2001|archive-url=https://web.archive.org/web/20120921233416/http://www.yaledailynews.com/news/2001/dec/07/physics-professor-wins-buckley-prize/|archive-date=21 September 2012}}</ref> Read worked as a post-doctoral researcher, first at [[Brown University]], and then at the [[Massachusetts Institute of Technology]]. He joined [[Yale University]] as an assistant professor in 1988, and was promoted to professor of physics and applied physics in 1995.<ref name="aps">{{cite web|title=2002 Oliver E. Buckley Condensed Matter Prize Recipient |url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Nicholas%20Read&year=2002|publisher=American Physical Society|access-date=14 October 2010}}</ref> In 2012, he was appointed [[Henry Ford II]] Professor of Physics.<ref name="hfii">{{cite web|title=Nicholas Read is designated as the Henry Ford II Professor of Physics|url=https://news.yale.edu/2012/11/05/nicholas-read-designated-henry-ford-ii-professor-physics|publisher=Yale News|date=November 5, 2012}}</ref> He also holds appointments as Professor of Applied Physics and Professor of Mathematics, and is a member of the [[Yale Quantum Institute]].
+
+==Research==
+Read's early work concerned the properties of [[rare-earth element|rare-earth]] "heavy-fermion" compounds, for which he developed a 1/''N'' expansion method using gauge-theory techniques to treat the strongly interacting [[Kondo effect|Kondo]] and [[heavy fermion]] models as constrained systems.<ref name="aps"/><ref name="amacad">{{cite web|title=Nicholas Read|url=https://www.amacad.org/person/nicholas-read|publisher=American Academy of Arts and Sciences}}</ref>
+
+===Fractional quantum Hall effect===
+Read is best known for his work on the [[fractional quantum Hall effect]]. Together with [[Greg Moore (physicist)|Greg Moore]], he proposed the Moore–Read state, a [[Pfaffian]] trial wavefunction for the quantum Hall plateau at filling fraction 5/2 that supports quasiparticle excitations obeying non-[[Abelian group|Abelian]] [[anyon|braiding statistics]].<ref>{{cite journal|last1=Moore|first1=Gregory|last2=Read|first2=Nicholas|title=Nonabelions in the fractional quantum Hall effect|journal=[[Nuclear Physics B]]|volume=360|issue=2–3|pages=362–396|year=1991|doi=10.1016/0550-3213(91)90407-O|bibcode=1991NuPhB.360..362M|doi-access=free}}</ref> Such excitations could in principle be used for [[topological quantum computation]], storing quantum information non-locally and thereby achieving robustness against decoherence. With [[Bertrand Halperin|B. I. Halperin]] and [[Patrick A. Lee|P. A. Lee]], Read developed the HLR theory, a [[Chern–Simons theory|Chern–Simons]] gauge theory of [[composite fermion]] Fermi liquid states at filling fraction ''ν'' = 1/2, which successfully explained a number of experimental puzzles in half-filled [[Landau level]]s.<ref>{{cite journal|last1=Halperin|first1=B. I.|last2=Lee|first2=Patrick A.|last3=Read|first3=Nicholas|title=Theory of the half-filled Landau level|journal=[[Physical Review B]]|volume=47|issue=12|pages=7312–7343|year=1993|doi=10.1103/PhysRevB.47.7312|bibcode=1993PhRvB..47.7312H}}</ref> Read was awarded the 2002 [[Oliver E. Buckley Condensed Matter Prize]] together with [[Jainendra Jain]] and Robert Willet "For theoretical and experimental work establishing the composite fermion model for the half-filled Landau level and other quantized Hall systems".<ref name=aps />
+
+With Edward Rezayi, Read extended the theory to construct a series of non-Abelian quantum Hall states based on [[parafermion]]s in the first excited Landau level.<ref>{{cite journal|last1=Read|first1=N.|last2=Rezayi|first2=E. H.|title=Beyond paired quantum Hall states: Parafermions and incompressible states in the first excited Landau level|journal=Physical Review B|volume=59|issue=12|pages=8084–8092|year=1999|doi=10.1103/PhysRevB.59.8084|bibcode=1999PhRvB..59.8084R|arxiv=cond-mat/9809384}}</ref>
+
+===Majorana zero modes and paired superfluids===
+With Dmitry Green, Read showed that [[p-wave]] (''p''<sub>''x''</sub> + i''p''<sub>''y''</sub>) [[superconductor|paired superfluids]] in two dimensions support [[Majorana fermion|Majorana zero modes]] bound to vortex cores, connecting the physics of paired superfluids to the non-Abelian statistics of the Moore–Read quantum Hall state.<ref>{{cite journal|last1=Read|first1=N.|last2=Green|first2=Dmitry|title=Paired states of fermions in two dimensions with breaking of parity and time-reversal symmetries and the fractional quantum Hall effect|journal=Physical Review B|volume=61|issue=15|pages=10267–10297|year=2000|doi=10.1103/PhysRevB.61.10267|bibcode=2000PhRvB..61E0267R|arxiv=cond-mat/9906453}}</ref>
+
+===Hall viscosity===
+Read introduced the concept of Hall viscosity, a non-dissipative transport coefficient analogous to the [[Quantum Hall effect|Hall conductivity]], and showed that it is quantized in gapped or topological phases of quantum fluids, being related to the mean orbital spin per particle.<ref>{{cite journal|last=Read|first=N.|title=Non-Abelian adiabatic statistics and Hall viscosity in quantum Hall states and ''p''<sub>''x''</sub>+i''p''<sub>''y''</sub> paired superfluids|journal=Physical Review B|volume=79|issue=4|article-number=045308|year=2009|doi=10.1103/PhysRevB.79.045308|bibcode=2009PhRvB..79d5308R|arxiv=0805.2507}}</ref><ref>{{cite journal|last1=Read|first1=N.|last2=Rezayi|first2=E. H.|title=Hall viscosity, orbital spin, and geometry: Paired superfluids and quantum Hall systems|journal=Physical Review B|volume=84|issue=8|article-number=085316|year=2011|doi=10.1103/PhysRevB.84.085316|bibcode=2011PhRvB..84h5316R|arxiv=1008.0210}}</ref>
+
+===Other contributions===
+Using gauge-theory and large-''N'' methods applied to quantum antiferromagnets, Read showed that phases without Néel order can be understood as topological phases, including [[spin-Peierls]] states and featureless [[quantum spin liquid|spin-liquid]] resonating valence bond states that are essentially equivalent to the [[toric code]].<ref name="amacad"/> In [[conformal field theory]], Read obtained exact results on irrational CFTs arising from loop models, particularly for [[percolation theory|percolation]] and the spin quantum Hall transition.<ref name="amacad"/> He has also contributed to the understanding of replica symmetry breaking in short-range [[spin glass]]es.<ref name="nas">{{cite web|title=Nicholas Read|url=https://www.nasonline.org/directory-entry/nicholas-read-bdppus/|publisher=National Academy of Sciences}}</ref>
+
+==Honours and awards==
+*[[Alfred P. Sloan Foundation|Alfred P. Sloan Research Fellowship]]<ref name="hfii"/>
+*NSF Presidential Young Investigator Award<ref name="hfii"/>
+*Shared the 2002 [[Oliver E. Buckley Condensed Matter Prize]]<ref name="aps"/>
+*Fellow of the [[American Physical Society]]<ref name=yale />
+*Fellow of the [[American Academy of Arts and Sciences]]
+*Shared the 2015 [[Dirac Medal (ICTP)|Dirac Medal]] of [[ICTP]]<ref>{{Cite web|url=https://gonitsora.com/2015-dirac-medallists-announced/|title = 2015 Dirac Medallists announced|date = 9 August 2015}}</ref>
+*Member of the [[United States National Academy of Sciences|National Academy of Sciences]] (elected 2017)<ref name="nas_elect">{{cite web|title=Four Yale professors elected to National Academy of Sciences|url=https://news.yale.edu/2017/05/02/four-yale-professors-elected-national-academy-sciences|publisher=Yale News|date=May 2, 2017}}</ref>
+*Member of the [[Connecticut Academy of Science and Engineering]] (elected 2018)<ref>{{cite web|title=Nicholas Read elected a member of CASE|url=https://physics.yale.edu/news/nicholas-read-henry-ford-ii-professor-physics-has-been-elected-member-connecticut-academy|publisher=Yale University Department of Physics}}</ref>
+*Elected a [[Fellow of the Royal Society]] (FRS) in 2020<ref>{{cite web |title=Biography at Royal Society|url=https://royalsociety.org/people/Nicholas-Read-25389/}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://physics.yale.edu/people/nicholas-read Department page]
+*[https://cmtheory.sites.yale.edu/ Research website]
+
+{{FRS 2020}}
+{{Authority control}}
+
+{{DEFAULTSORT:Read, Nicholas}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:Oliver E. Buckley Condensed Matter Prize winners]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Alumni of Sidney Sussex College, Cambridge]]
+[[Category:Alumni of Imperial College London]]
+[[Category:Yale University faculty]]
+[[Category:Rare earth scientists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Sloan Research Fellows]]

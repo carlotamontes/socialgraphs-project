@@ -1,0 +1,49 @@
+{{Short description|Italian physicist}}
+{{Infobox scientist
+| name              = David Vitali
+| image             = David Vitali.jpg
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| fields            = [[Theoretical physics]]<br>[[Quantum optics]]<br>[[Quantum information science]]<br>[[Cavity optomechanics]]
+| workplaces        = [[University of Camerino]]
+| education         = [[University of Pisa]] (Laurea)<br>[[Scuola Normale Superiore di Pisa]] (PhD)
+| known_for         = Research in quantum information processing, decoherence control, and optomechanics
+| awards            = [[Fellow of the American Physical Society]]
+}}
+
+'''David Vitali''' is an Italian physicist and professor of theoretical physics at the [[University of Camerino]]. He is known for his contributions to the fields of [[quantum optics]], [[quantum information science]], and [[cavity optomechanics]]. In 2015, he was elected a [[Fellow of the American Physical Society]].
+
+== Academic career ==
+
+In 1992, Vitali was a visiting lecturer at the [[University of North Texas]]. In 1993, he was a postdoctoral researcher at the Pisa unit of the National Institute for the Physics of Matter (INFM).
+
+He joined the [[University of Camerino]] in 1993 as a researcher in physics. He was appointed associate professor of Physics of Matter in 2001 and became full professor of Theoretical Physics in 2015 at the School of Science and Technology.<ref>{{cite web |title=David Vitali {{!}} UniCam - Physics Division |url=https://fisica.unicam.it/index.php/content/david-vitali |website=University of Camerino}}</ref>
+
+Vitali was elected a [[Fellow of the American Physical Society]] in 2015.<ref>{{cite web |title=Forum on International Physics Fellowship |url=https://www.aps.org/funding-recognition/aps-fellowship/fip-fellowship |website=American Physical Society |access-date=28 February 2026 |language=en}}</ref> In 2021, he was named a Senior Member of [[Optica (society)|Optica]].<ref>{{cite web |title=2021 OSA Senior Members |url=https://www.optica.org/membership/distinguished_honorary/senior/senior_member_classes/2021_optica_senior_members/ |website=Optica.org}}</ref>
+
+== Research ==
+
+Vitali's research is in the fields of [[quantum optics]] and [[quantum information science]]. Since the mid-1990s, his work has addressed theoretical aspects of quantum computation, including the implementation and assessment of [[quantum gate]] operations and [[quantum error correction]].<ref>{{cite journal |last1=Ottaviani |first1=Carlo |last2=Vitali |first2=David |last3=Artoni |first3=Maurizio |last4=Cataliotti |first4=Francesco |last5=Tombesi |first5=Paolo |title=Polarization Qubit Phase Gate in Driven Atomic Media |journal=Physical Review Letters |date=15 May 2003 |volume=90 |issue=19 |doi=10.1103/PhysRevLett.90.197902 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.197902 |language=en |issn=0031-9007|arxiv=quant-ph/0302070 }}</ref> He has also contributed to research on [[quantum communication]],<ref>{{cite web |title=Quantum Sensing and Quantum State Manipulation in Cavity Optomechanics |url=https://viterbi.usc.edu/events/files/2024/c8776e6a_David%20Vitali%20Seminar%20Flyer.pdf|publisher=USC}}</ref> studying protocols based on both single photons and continuous-variable optical fields, including [[quantum teleportation]] and [[quantum cryptography]].<ref>{{cite journal |last1=Vitali |first1=David |last2=Fortunato |first2=Mauro |last3=Tombesi |first3=Paolo |title=Complete Quantum Teleportation with a Kerr Nonlinearity |journal=Physical Review Letters |date=10 July 2000 |volume=85 |issue=2 |pages=445–448 |doi=10.1103/PhysRevLett.85.445 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.445 |issn=0031-9007|arxiv=quant-ph/0003082 }}</ref><ref>{{cite journal |last1=Mancini |first1=Stefano |last2=Vitali |first2=David |last3=Tombesi |first3=Paolo |title=Scheme for Teleportation of Quantum States onto a Mechanical Resonator |journal=Physical Review Letters |date=2 April 2003 |volume=90 |issue=13 |doi=10.1103/PhysRevLett.90.137901 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.137901 |language=en |issn=0031-9007|arxiv=quant-ph/0303011 }}</ref>
+
+A significant part of his research concerns the control and mitigation of [[quantum decoherence]], the loss of quantum coherence due to environmental interactions. He has proposed theoretical techniques for decoherence control using both closed-loop and open-loop strategies and has collaborated on experimental demonstrations involving photon polarization qubits.<ref>{{cite journal |last1=Vitali |first1=D. |last2=Tombesi |first2=P. |title=Using parity kicks for decoherence control |journal=Physical Review A |date=1 June 1999 |volume=59 |issue=6 |pages=4178–4186 |doi=10.1103/PhysRevA.59.4178 |url=https://journals.aps.org/pra/abstract/10.1103/PhysRevA.59.4178 |language=en |issn=1050-2947|arxiv=quant-ph/9808055 }}</ref><ref>{{cite journal |last1=Damodarakurup |first1=S. |last2=Lucamarini |first2=M. |last3=Di Giuseppe |first3=G. |last4=Vitali |first4=D. |last5=Tombesi |first5=P. |title=Experimental Inhibition of Decoherence on Flying Qubits via "Bang-Bang" Control |journal=Physical Review Letters |date=22 July 2009 |volume=103 |issue=4 |doi=10.1103/PhysRevLett.103.040502 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.040502 |language=en |issn=0031-9007|arxiv=0811.2654 }}</ref>
+
+Vitali has also worked extensively in [[cavity optomechanics]],<ref>{{cite journal |last1=Vitali |first1=D. |last2=Gigan |first2=S. |last3=Ferreira |first3=A. |last4=Böhm |first4=H. R. |last5=Tombesi |first5=P. |last6=Guerreiro |first6=A. |last7=Vedral |first7=V. |last8=Zeilinger |first8=A. |last9=Aspelmeyer |first9=M. |title=Optomechanical Entanglement between a Movable Mirror and a Cavity Field |journal=Physical Review Letters |date=19 January 2007 |volume=98 |issue=3 |doi=10.1103/PhysRevLett.98.030405 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.030405 |issn=0031-9007|arxiv=quant-ph/0609197 }}</ref> studying systems in which radiation pressure couples light to micro- and nano-mechanical oscillators. Such systems are investigated as platforms for quantum-limited sensing of forces, masses, and displacements, and for interfacing different physical degrees of freedom across a range of wavelengths.<ref>{{cite journal |last1=Barzanjeh |first1=Sh. |last2=Abdi |first2=M. |last3=Milburn |first3=G. J. |last4=Tombesi |first4=P. |last5=Vitali |first5=D. |title=Reversible Optical-to-Microwave Quantum Interface |journal=Physical Review Letters |date=28 September 2012 |volume=109 |issue=13 |doi=10.1103/PhysRevLett.109.130503 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.130503 |issn=0031-9007|arxiv=1110.6215 }}</ref> His research in this area has included the study of optomechanical devices for applications in quantum information processing and precision measurements.
+
+In addition, he has investigated entanglement-enhanced sensing methods, including [[quantum illumination]], and their potential applications in detection and measurement technologies.<ref>{{cite journal |last1=Barzanjeh |first1=Shabir |last2=Guha |first2=Saikat |last3=Weedbrook |first3=Christian |last4=Vitali |first4=David |last5=Shapiro |first5=Jeffrey H. |last6=Pirandola |first6=Stefano |title=Microwave Quantum Illumination |journal=Physical Review Letters |date=27 February 2015 |volume=114 |issue=8 |doi=10.1103/physrevlett.114.080503 |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.080503 |issn=0031-9007|arxiv=1410.4008 }}</ref>
+
+== References ==
+{{reflist}}
+{{authority control}}
+
+{{DEFAULTSORT:Vitali, David}}
+[[Category:Living people]]
+[[Category:People from Narni]]
+[[Category:Italian physicists]]
+[[Category:Italian theoretical physicists]]
+[[Category:Quantum physicists]]
+[[Category:Academic staff of the University of Camerino]]
+[[Category:University of Pisa alumni]]
+[[Category:Scuola Normale Superiore alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Year of birth missing (living people)]]

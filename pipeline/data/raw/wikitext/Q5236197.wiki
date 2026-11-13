@@ -1,0 +1,100 @@
+{{Short description|American optical physicist (1933–2022)}}
+{{no footnotes|date=June 2014}}
+{{Use mdy dates|date=July 2026}}
+'''David L. Fried''' (April 13, 1933 – May 5, 2022) was an American [[scientist]], best known for his contributions to [[optics]]. Fried described what has come to be known as the '''[[Fried parameter|Fried Parameter]]''', or '''r0''' (often pronounced ''r-naught'', but also ''r-zero'').  The Fried Parameter is a measure of the strength of the [[turbulence]] in the [[atmosphere of Earth]]. The turbulence causes what is known as [[Astronomical seeing|''seeing'']] in [[astronomy]] and usually limits the [[optical resolution]] of ground-based telescopes and the detail in their [[Real image|images]] of [[Astronomical object|astronomical objects]]. The Fried Parameter describes the smallest diameter of a [[Optical telescope|telescope]] [[aperture]] at which the [[Optical image|image]] fidelity starts to suffer significantly from turbulent airflows in the atmosphere of Earth. The Fried Parameter may change quickly on the time scale of minutes, or less. Typical values for the Fried Parameter in the [[visible spectrum]] may range from less than one centimeter (you can detect turbulence with your eye) to some tens of centimeters at good astronomical sites.
+
+==Life and professional career==
+
+David Larry Fried was born in [[Brooklyn]], [[New York (state)|New York]], on April 13, 1933. He received the [[Bachelor of Arts|AB]], [[Master of Science|MS]], and [[Doctor of Philosophy|PhD]] degrees in [[physics]] from [[Rutgers University]], [[New Brunswick, New Jersey|New Brunswick]], [[New Jersey]], in 1957, 1959, and 1962, respectively. From 1957 to 1959 he was with [[RCA Corporation|RCA]] [[RCA Astro-Electronics Division|Astro-Electronics Division]], Princeton, N. J., where he worked on computer applications analysis. In 1961 he was employed by [[Rockwell International]], where he held the position of Manager in the Electro-Optical Laboratory of the [[Autonetics|Autonetics Division]] (Anaheim, Calif.), where, as head of the Laser Techniques Group, he was engaged in the study of devices necessary for [[laser]] applications, and in the analysis of system concepts for laser application. He also did extensive work in the study of optical propagation in a randomly inhomogeneous atmosphere and the consequent effects on optical system performance. In 1966 he joined the technical staff of the North American Aviation Science Center, Thousand Oaks, Calif., where he was engaged in a study of the [[microwave]] [[Reflectance|reflectivity]] and [[emissivity]] of [[Surface roughness|rough surfaces]].
+
+Fried served for 20 years on the [[Army Science Board|U.S. Army Science Board]] (ASB). For many years, he served on the Army Science Board's standing committee on [[Ballistic Missile Defense|ballistic missile defense]]. In the 1960s, Fried published a series of papers on the optical effects of [[Atmosphere of Earth|atmospheric]] [[turbulence]] that provided much of the analytic foundations for the development of [[adaptive optics]] systems, and that resulted in the definition of the quantity now known as [[Astronomical seeing|Fried’s parameter]]. In addition, his 1966 paper, "Limiting Resolution Looking Down Through the Atmosphere," was important in showing a basic limit, about five centimeters, to how sharply space-based telescopes can image objects on the ground. In 1981, Fried carried out the first analysis evaluating and establishing the feasibility of the use of atmospheric laser back scatter to control adaptive optics—a concept which now goes by the name of [[Laser guide star|laser guide-star]]. He then designed, managed the development of the hardware for, and supervised an experiment that successfully demonstrated the validity of the laser guide-star concept.
+
+From 1970 (when he founded the company) until 1993 (when he sold the company), Fried was the president of the Optical Sciences Company (Placentia, California). In 1993, he received the SPIE Technology Achievement Award for his initial laser guide-star work. From 1993 to 1995 he was a professor of physics at the [[Naval Postgraduate School]], [[Monterey, California|Monterey]], [[California]]. Later, he worked as an independent consultant.
+
+In addition to his work related to optical propagation/turbulence effects/adaptive optics, Fried has done work in a variety of other [[electro-optics]] related fields such as the suppression of infrared background clutter in moving target detection systems; analysis of laser speckle statistics; analysis of the effect of photo-detection-event driven shot noise upon the precision of various types of optical measurements; the design and development of low-temperature-optics long-wavelength infrared sensors for use in mid course ballistic missile defense; and in the design and performance analysis for space-based infrared sensors for missile and aircraft detection. He has also been involved in the search for a sound approach to the mid-course decoy discrimination problem for ballistic missile defense.
+
+Fried died at the age of 89 in Monterey, California.<ref>{{Cite web |title=David Fried Obituary - Pacific Grove, CA |url=https://www.dignitymemorial.com/obituaries/pacific-grove-ca/david-fried-10738302 |access-date=May 12, 2022 |website=Dignity Memorial |language=en}}</ref>
+
+==Honors==
+1993 – David L. Fried, Optical Sciences Company, SPIE Technology Achievement Award. [http://spie.org/x3072.xml]
+
+== Research works ==
+* D. Fried and T. Clark, "Extruding Kolmogorov-type phase screen ribbons," J. Opt. Soc. Am. A  25, 463–468 (2008).
+* J. Barchers and D. Fried, "Optimal control of laser beams for propagation through a turbulent medium," J. Opt. Soc. Am. A  19, 1779–1793 (2002).
+* J. Barchers, D. Fried, and D. Link, "Evaluation of the Performance of Hartmann Sensors in Strong Scintillation," Appl. Opt.  41, 1012–1021 (2002).
+* D. Fried, "Branch point problem in adaptive optics," J. Opt. Soc. Am. A  15, 2759–2768 (1998).
+* H. Yura and D. Fried, "Variance of the Strehl ratio of an adaptive optics system," J. Opt. Soc. Am. A  15, 2107–2110 (1998).
+* D. Fried and R. Szeto, "Wind-shear induced stabilization of PCI," J. Opt. Soc. Am. A  15, 1212–1226 (1998).
+* D. Fried, "Analysis of the CLEAN algorithm and implications for superresolution," J. Opt. Soc. Am. A  12, 853–860 (1995).
+* D. Fried, "Horizon irregularity induced by turbulence," J. Opt. Soc. Am. A  12, 950–957 (1995).
+* D. Fried, "Focus anisoplanatism in the limit of infinitely many artificial-guide-star reference spots," J. Opt. Soc. Am. A  12, 939–949 (1995).
+* D. Fried and J. Belsher, "Analysis of fundamental limits to artificial-guide-star adaptive-optics-system performance for astronomical imaging," J. Opt. Soc. Am. A  11, 277–287 (1994).
+* R. Benedict, J. Breckinridge, and D. Fried, "Atmospheric-Compensation Technology," J. Opt. Soc. Am. A  11, 257–262 (1994).
+* D. Fried and J. Vaughn, "Branch cuts in the phase function," Appl. Opt.  31, 2865–2882 (1992).
+* D. Fried, "Time-delay-induced mean-square error in adaptive optics," J. Opt. Soc. Am. A  7, 1224–1225 (1990).
+* D. Fried, "Greenwood frequency measurements," J. Opt. Soc. Am. A  7, 946–947 (1990).
+* D. Fried and J. Vaughn, "Dependence of the Knox-Thompson transfer function on the difference of spatial frequencies," J. Opt. Soc. Am. A  7, 833–837 (1990).
+* G. Tyler and D. Fried, "Image-position error associated with a quadrant detector," J. Opt. Soc. Am.  72, 804–808 (1982).
+* D. Fried and G. Mevers, "Thermal-blooming time constant," J. Opt. Soc. Am.  72, 519–521 (1982).
+* D. Fried, "Anisoplanatism in adaptive optics," J. Opt. Soc. Am.  72, 52–52 (1982).
+* D. Fried, "Laser eye safety: the implications of ordinary speckle statistics and of speckled-speckle statistics," J. Opt. Soc. Am.  71, 914–916 (1981).
+* D. Fried, "Resolution, signal-to-noise ratio, and measurement precision: addendum," J. Opt. Soc. Am.  70, 748–749 (1980).
+* D. Fried, "Resolution, signal-to-noise ration, and measurement precision," J. Opt. Soc. Am.  69, 399–406 (1979).
+* D. Fried, "Probability of getting a lucky short-exposure image through turbulence," J. Opt. Soc. Am.  68, 1651–1657 (1978).
+* D. Fried, "Propagation of the mutual coherence function for an infinite plane wave through a turbid medium," Opt. Lett.  1, 104–106 (1977).
+* D. Fried, "Least-square fitting a wave-front distortion estimate to an array of phase-difference measurements," J. Opt. Soc. Am.  67, 370–375 (1977).
+* D. Fried, "Evaluation of ro for propagation down through the atmosphere: correction 2," Appl. Opt.  16, 549–549 (1977).
+* D. Fried, "Statistics of the laser radar cross section of a randomly rough target," J. Opt. Soc. Am.  66, 1150–1160 (1976).
+* D. Greenwood and D. Fried, "Power spectra requirements for wave-front-compensative systems," J. Opt. Soc. Am.  66, 193–206 (1976).
+* D. Fried, "Evaluation of r? for propagation down through the atmosphere: correction," Appl. Opt.  14, 2567–2567 (1975).
+* D. Fried and G. Mevers, "Evaluation of ro for Propagation Down Through the Atmosphere," Appl. Opt.  13, 2620–2622 (1974).
+* D. Fried, "Signal Processing for a Signal with Poisson Noise: Author?s Reply to Comments," Appl. Opt.  13, 2463–2464 (1974).
+* D. Fried, "Nonlinear Resonance Scanning," Appl. Opt.  13, 1796–1801 (1974).
+* D. Fried, "Signal Processing for a Signal with Poisson Noise," Appl. Opt.  13, 1282–1283 (1974).
+* D. Fried, "Absence of Thermal Blooming for a Uniformly Illuminated Square-Aperture High-Power Laser Transmitter," Appl. Opt.  13, 989–991 (1974).
+* H. Hance and D. Fried, "Experimental test of optical antenna-gain reciprocity," J. Opt. Soc. Am.  63, 1015–1016 (1973).
+* D. Fried, "Statistics of Laser Beam Fade Induced by Pointing Jitter," Appl. Opt.  12, 422–423 (1973).
+* D. Fried, "Binary Signal Demodulation Photon Count Statistics," Appl. Opt.  11, 1268–1269 (1972).
+* D. FRIED and H. YURA, "Telescope-Performance Reciprocity for Propagation in a Turbulent Medium," J. Opt. Soc. Am.  62, 600–602 (1972).
+* D. Fried, "Spectral and Angular Covariance of Scintillation for Propagation in a Randomly Inhomogeneous Medium," Appl. Opt.  10, 721–731 (1971).
+* D. Fried and R. Turner, "Focusing through a Flat Plate; Dependence of Aberration on the Refractive Index," Appl. Opt.  9, 2800–2800 (1970).
+* J. Shaffer and D. Fried, "Bender-Bimorph Scanner Analysis," Appl. Opt.  9, 933–937 (1970).
+* E. TYSON and D. FRIED, "Observation of Very Weak Optical Strength of Atmospheric Turbulence," J. Opt. Soc. Am.  58, 1538–1539 (1968).
+* D. FRIED, "Diffusion Analysis for the Propagation of Mutual Coherence," J. Opt. Soc. Am.  58, 961–969 (1968).
+* D. Fried and R. Schmeltzer, "The Effect of Atmospheric Scintillation on an Optical Data Channel?Laser Radar and Binary Communications," Appl. Opt.  6, 1729–1737 (1967).
+* D. FRIED, "Scintillation of a Ground-to-Space Laser Illuminator," J. Opt. Soc. Am.  57, 980–983 (1967).
+* D. FRIED, G. MEVERS, and M. KEISTER, JR., "Measurements of Laser-Beam Scintillation in the Atmosphere," J. Opt. Soc. Am.  57, 787–797 (1967).
+* D. FRIED, "Test of the Rytov Approximation," J. Opt. Soc. Am.  57, 268–269 (1967).
+* D. FRIED and J. SEIDMAN, "Laser-Beam Scintillation in the Atmosphere," J. Opt. Soc. Am.  57, 181–185 (1967).
+* D. Fried and J. Seidman, "Heterodyne and Photon-Counting Receivers for Optical Communications," Appl. Opt.  6, 245–250 (1967).
+* D. FRIED, "Propagation of a Spherical Wave in a Turbulent Medium," J. Opt. Soc. Am.  57, 175–180 (1967).
+* D. FRIED, "Aperture Averaging of Scintillation," J. Opt. Soc. Am.  57, 169–172 (1967).
+* D. FRIED and J. CLOUD, "Propagation of an Infinite Plane Wave in a Randomly Inhomogeneous Medium," J. Opt. Soc. Am.  56, 1667–1676 (1966).
+* D. FRIED, "Optical Resolution Through a Randomly Inhomogeneous Medium for Very Long and Very Short Exposures," J. Opt. Soc. Am.  56, 1372–1379 (1966).
+* D. FRIED, "Limiting Resolution Looking Down Through the Atmosphere," J. Opt. Soc. Am.  56, 1380–1384 (1966).
+* D. FRIED, "Statistics of a Geometric Representation of Wavefront Distortion," J. Opt. Soc. Am.  55, 1427–1431 (1965).
+* D. Fried, J. Shaffer, and R. Turner, "A Theoretical Analysis of Image Orthicon Performance," Appl. Opt.  4, 785–792 (1965).
+* D. FRIED and G. MEVERS, "Atmospheric Optical Effects?Polarization Fluctuation," J. Opt. Soc. Am.  55, 740–741 (1965).
+* D. Fried, "Noise in Photoemission Current," Appl. Opt.  4, 79–80 (1965).
+* D. Fried, W. Read, and D. Pollock, "An Interferometric Optical Modulator," Appl. Opt.  3, 697–701 (1964).
+
+==See also==
+* [[Astronomical seeing]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+Biographical data extracted from:
+* Optical Sciences Company, SPIE Technology Achievement Award. [http://spie.org/x3072.xml]
+* Proceedings of the IEEE, vol.55, no.1, pp.&nbsp;77, Jan. 1967 [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1447308&isnumber=31092]
+* An Assessment of Concepts and Systems for U.S. Boost-Phase Missile Defense in Comparison to Other Alternatives: Committee Membership Information.  [http://www8.nationalacademies.org/cp/CommitteeView.aspx?key=49178]
+
+{{authority control}}
+
+{{DEFAULTSORT:Fried, David L}}
+[[Category:1933 births]]
+[[Category:2022 deaths]]
+[[Category:21st-century American physicists]]
+[[Category:American optical physicists]]
+[[Category:Scientists from Brooklyn]]

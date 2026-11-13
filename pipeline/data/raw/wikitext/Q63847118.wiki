@@ -1,0 +1,85 @@
+{{Short description|American physical chemist (1947–2016)}}
+{{Infobox scientist
+| name = Branka M. Ladanyi
+| image = Branka Ladanyi.jpg
+| birth_date = {{birth date|1947|9|7}}
+| birth_place = Zagreb
+| death_date = {{death date and age|2016|1|30|1947|9|7}}
+| death_place = Fort Collins
+| doctoral_advisor = [[Marshall Fixman]]
+| fields = Chemistry, Physics, molecular simulations
+| workplaces = [[Colorado State University]], 1979-2016
+}}
+'''Branka Maria Ladanyi''' (September 7, 1947 – January 30, 2016)<ref>{{cite journal | doi = 10.1063/PT.5.6235 | title = Branka Marie Ladanyi | journal = Physics Today | year = 2016 | issue = 6 | page = 10585 | bibcode = 2016PhT..2016f0585. }}</ref> was a Yugoslavian-born Croatian-American physical chemist, who spent her career in the department of chemistry at [[Colorado State University]]. Her research focused on structure and dynamics of liquids, broadly defined, which she studied using theoretical and computational techniques.
+
+Ladanyi was the first female associate editor and then the interim editor-in-chief of ''[[Journal of Chemical Physics]]'' from 2007 to 2008.<ref>{{Cite web|url=https://aip.scitation.org/jcp/info/editors|title=The Journal of Chemical Physics|website=aip.scitation.org|access-date=2019-05-09}}</ref>  In 2015 the [[Journal of Physical Chemistry B|Journal of Physical Chemistry]] published a Festschrift celebrating the career of Branka Ladanyi.<ref>{{Cite journal|url=https://pubs.acs.org/toc/jpcbfk/119/29|title=Tribute to Branka M. Ladanyi|volume=119|issue=29|pages=8811–8812|journal=The Journal of Physical Chemistry B|language=en|access-date=2019-05-09|doi=10.1021/acs.jpcb.5b04727|pmid=26202145|year=2015|last1=Levinger|first1=N. E.|last2=Maroncelli|first2=M.|last3=Stratt|first3=R. M.|doi-access=free|url-access=subscription}}</ref>
+
+== Education and career  ==
+Source:<ref>{{Cite journal |last=Ladanyi |first=Branka M. |date=2015-07-23 |title=Autobiography of Branka M. Ladanyi |url=https://doi.org/10.1021/acs.jpcb.5b06530 |journal=The Journal of Physical Chemistry B |volume=119 |issue=29 |pages=8813–8817 |doi=10.1021/acs.jpcb.5b06530 |issn=1520-6106|url-access=subscription }}</ref>
+
+Branka Ladanyi was born in [[Zagreb]], Yugoslavia (now Croatia) in 1947. As a child, she moved to [[Montréal, Canada|Quebec, Canada]]. She earned  BS in physics in 1969, with First Class Honors from [[McGill University]] in Montréal. She earned the PhD degree from [[Yale University]] in 1973 studying under Prof. [[Marshall Fixman]]. From January to August 1974, she was a Visiting [[Assistant professor|Assistant Professor]] of Chemistry at the University of Illinois and worked with Prof. [[David Chandler (chemist)|David Chandler]]. From 1974 to 1977, Ladanyi worked with Prof. Thomas Keyes at [[Boston University]] as a postdoctoral associate. She returned to Yale as a research associate until joining the faculty as an assistant professor in the department of chemistry at [[Colorado State University]] in fall of 1979.  Ladanyi was tenured and promoted to the rank of associate professor in 1984, and promoted to professor in 1987. Ladanyi remained affiliated with Colorado State University throughout her professional career.
+
+From 1994 to 2007, Ladanyi served as one of the first associate editors for the ''[[Journal of Chemical Physics]]''. In 2007, she was named interim editor-in-chief of the ''Journal of Chemical Physics,'' the first woman to serve in this capacity;  she reverted to associate editor again in 2009 until 2010.
+
+Throughout her career, Ladanyi worked collaboratively with many other scientists worldwide. Ladanyi died in 2016 after a year-long battle with leukemia.
+
+== Research ==
+Ladanyi made significant contributions to the molecular theory and computer simulation of liquids. Extensive collaborations with both theoretical and experimental scientists were the hallmark of her work.  Over her career, she often joined forces with others enriching both her and others' research. Her papers remain relevant and cited; researchers seek her work to model their systems thereby developing deep molecular level understanding of complex systems.
+
+=== Theory and molecular simulation of light scattering and [[optical Kerr effect]] in fluids ===
+Ladanyi developed physically realistic models for the interaction-induced [[polarizability]], their implementation in computer simulation studies, and the analysis of the polarizability response in terms of the underlying fluid structure and dynamics.<ref>{{Cite journal|last1=Geiger|first1=Lynn C.|last2=Ladanyi|first2=Branka M.|date=1987|title=Higher order interaction-induced effects on Rayleigh light scattering by molecular liquids|journal=The Journal of Chemical Physics|language=en|volume=87|issue=1|pages=191–202|doi=10.1063/1.453614|issn=0021-9606|bibcode=1987JChPh..87..191G}}</ref>   Her work elucidated how this response depends on molecular properties such as shape, polarizability anisotropy and polarity, intermolecular interactions such as hydrogen bonding, and fluid thermodynamic parameters such as density, temperature and composition.
+
+===Dielectric properties===
+Early in her career, Ladanyi used molecular theory and computer simulation to explore properties of liquids.<ref>{{Cite journal|last1=Ladanyi|first1=Branka M.|last2=Chandler|first2=David|date=1975|title=New type of cluster theory for molecular fluids: Interaction site cluster expansion|journal=The Journal of Chemical Physics|language=en|volume=62|issue=11|pages=4308–4324|doi=10.1063/1.431001|issn=0021-9606|bibcode=1975JChPh..62.4308L}}</ref><ref>Fonseca, T.; Ladanyi, B. M. Wave vector dependent static dielectric properties of associated liquids: Methanol. J. Chem. Phys. 1990, 93, 8148-8155.</ref>  She developed integral equation techniques to evaluate the structure, thermodynamic properties and dielectric constants of polar mixtures. Her work elucidated the reasons for the differences in the relaxation properties of transverse and longitudinal dipole densities.  She showed how hydrogen-bond stretch dynamics contribute to dielectric relaxation of alcohols, once induced-dipole contributions are included.
+
+===Equilibrium solvation===
+Ladanyi contributed to research on the molecular aspects of solvation thermodynamics in polar liquids. She and her coworkers calculated quantities of significance in electronic spectroscopy and [[electron transfer]] reactions. This work generally found that solvation free energies exhibit relatively weak deviations from linearity, but that nonlinearities are more evident in free energy derivatives. She considered both simple model solutes and realistic representations of chromophores used in experiments in supercritical CO<sub>2</sub> and CHF<sub>3</sub> to investigate how the density- and temperature-dependence of [[solvatochromism|solvatochromic]] shifts in solute electronic spectra relate to local solvation structure and how different types of solute-solvent interactions contribute to the predicted shifts.
+
+===Solvation dynamics===
+Ladanyi's work improved our understanding of the molecular mechanisms of solvation dynamics and their dependence on the solute, the solvent, and the perturbation in solute-solvent interactions.  She was the first to show that the solvent's response is highly nonlinear for a variety of solutes in hydrogen bonding solvents and that solute-solvent hydrogen-bond formation is an important solvation mechanism in these systems.<ref>{{Cite journal|last1=Fonseca|first1=Teresa|last2=Ladanyi|first2=Branka M.|date=1991|title=Breakdown of linear response for solvation dynamics in methanol|journal=The Journal of Physical Chemistry|language=en|volume=95|issue=6|pages=2116–2119|doi=10.1021/j100159a007|issn=0022-3654}}</ref> She developed methods, including instantaneous normal mode analysis, to uncover mechanistic information about solvation in systems that exhibit approximately linear response.<ref>{{Cite journal|last1=Buchner|first1=Michael|last2=Ladanyi|first2=Branka M.|last3=Stratt|first3=Richard M.|date=1992|title=The short-time dynamics of molecular liquids. Instantaneous-normal-mode theory|journal=The Journal of Chemical Physics|language=en|volume=97|issue=11|pages=8522–8535|doi=10.1063/1.463370|issn=0021-9606|bibcode=1992JChPh..97.8522B}}</ref><ref>{{Cite journal|last1=Ladanyi|first1=Branka M.|last2=Stratt|first2=Richard M.|date=1995|title=Short-Time Dynamics of Solvation: Linear Solvation Theory for Polar Solvents|journal=The Journal of Physical Chemistry|language=en|volume=99|issue=9|pages=2502–2511|doi=10.1021/j100009a007|issn=0022-3654}}</ref> With the advent of ultrafast spectroscopic techniques, the short-time nondiffusive dynamics in liquids became experimentally accessible and Ladanyi actively developed and implemented the theoretical framework for identifying and analyzing the molecular mechanisms contributing to the short-time response of fluids to perturbations relevant to experimental probes.
+
+===Liquid interfaces and confined liquids===
+A significant portion of Ladanyi's research after 2000 explored the properties of aqueous interfaces and nanoconfined liquids. Her first paper in this area presented a reduced model, including continuum and atomistic portions, for the interior region of reverse micelles and determined how water structure and mobility varied with reverse micelle water content, i.e., the size of the confining volume, as well as with the proximity to the surfactant interface.  Although quite simple, this model helped to explain many observed trends in water and solute dynamics in reverse micelles. Its importance can be measured by the many and continuing citations it has received and its use by others.<ref>{{Cite journal|last1=Faeder|first1=J.|last2=Ladanyi|first2=B. M.|date=2000|title=Molecular Dynamics Simulations of the Interior of Aqueous Reverse Micelles|journal=The Journal of Physical Chemistry B|language=en|volume=104|issue=5|pages=1033–1046|doi=10.1021/jp993076u|issn=1520-6106}}</ref>   She applied this simple model to solvation dynamics in confined environments, predicting that chromophore-surfactant interactions can lead to dramatically different results for solutes that repelled by and attracted to the surfactant layer.<ref>{{Cite journal|last1=Faeder|first1=James|last2=Ladanyi|first2=Branka M.|s2cid=9889293|date=2001|title=Solvation Dynamics in Aqueous Reverse Micelles: A Computer Simulation Study|journal=The Journal of Physical Chemistry B|language=en|volume=105|issue=45|pages=11148–11158|doi=10.1021/jp010632n|issn=1520-6106}}</ref>  She also showed that solute motion relative to the interface plays a role, opening up a relaxation channel that is absent in bulk liquids.
+
+== Awards ==
+*Invited Professorship, École Normale Supérieure, Paris, France (Spring 2011)
+*Fellowship, [[American Chemical Society]] (2010)<ref>{{Cite web|url=https://www.acs.org/content/acs/en/funding-and-awards/fellows.html|title=ACS Fellows Program|website=American Chemical Society|language=en|access-date=2019-05-09}}</ref>
+*Invited Professorship, Université de Provence, Marseille, France (June 2010)
+*Fellowship, [[American Association for the Advancement of Science]] (2004)<ref>{{Cite web|url=https://www.aaas.org/fellows/listing|title=Elected Fellows|website=American Association for the Advancement of Science|language=en|access-date=2019-05-09}}</ref>
+*National Science Foundation Grant Extension Award for Special Creativity (2003)
+*Fellowship, [[American Physical Society]] (1997)
+*Visiting Fellowship, Joint Institute for Laboratory Astrophysics, Boulder, CO (1993–94)
+*Camille and Henry Dreyfus Teacher-Scholar Grant (1983–87)
+*[[Alfred P. Sloan Fellowship]] (1982–85)
+*Departmental Teaching Prize, Yale University (1973)
+*University Fellowship, Yale University (1969–70)
+*Horace Watson Gold Medal (for highest standing in the Honors Physics Program), McGill University (1969)
+*University Scholarship, McGill University (1968–69)
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Ladanyi, Branka}}
+[[Category:1947 births]]
+[[Category:2016 deaths]]
+[[Category:American physical chemists]]
+[[Category:Women physical chemists]]
+[[Category:20th-century American chemists]]
+[[Category:21st-century American chemists]]
+[[Category:21st-century American women scientists]]
+[[Category:American women chemists]]
+[[Category:Scientists from Zagreb]]
+[[Category:The Journal of Chemical Physics editors]]
+[[Category:American women editors]]
+[[Category:Fellows of the American Chemical Society]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:American people of Croatian descent]]
+[[Category:Deaths from leukemia]]
+[[Category:McGill University alumni]]
+[[Category:Yale University alumni]]
+[[Category:Colorado State University faculty]]
+[[Category:20th-century American women physicists]]
+[[Category:20th-century American physicists]]

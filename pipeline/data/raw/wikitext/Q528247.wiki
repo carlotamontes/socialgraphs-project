@@ -1,0 +1,177 @@
+{{Short description|American physicist (born 1970)}}
+{{Infobox scientist
+| name        = 
+| image       =      <!--(filename only, i.e. without "File:" prefix)-->
+| birth_date  = {{birth year and age|1970}}
+| birth_place = 
+| death_date  =      <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| citizenship = 
+| nationality = 
+| fields      = 
+| workplaces  = {{plainlist|
+* [[Columbia University]]
+* [[Cornell University]]
+* [[MIT]]
+}}
+| education   = {{plainlist|
+* [[University of São Paulo]]
+* [[Technion]] <small>([[Bachelor of Science|BSc]], [[Master of Science|MSc]], [[Doctor of Philosophy|PhD]])</small>
+*
+}}
+| spouse      =      [[Alexander Gaeta]]
+| doctoral_students = {{ubl| [[Amy C. Foster]] | [[Sasikanth Manipatruni]]}}
+}}
+
+'''Michal Lipson''' (born 1970) is an American-Israeli-Brazilian physicist known for her work on [[silicon photonics]]. A member of the [[National Academy of Sciences]] since 2019 and the [[National Academy of Engineering]] since 2025, Lipson was named a 2010 [[MacArthur Fellow]] for contributions to silicon photonics especially towards enabling GHz silicon active devices.<ref name="Macfound.org">{{cite web |url=http://www.macfound.org/site/c.lkLXJ8MQKrH/b.6241257/k.9A04/Michal_Lipson.htm |title=Michal Lipson – MacArthur Foundation |publisher=Macfound.org |date= |access-date=2010-09-29 |archive-date=2010-10-03 |archive-url=https://web.archive.org/web/20101003030108/http://www.macfound.org/site/c.lkLXJ8MQKrH/b.6241257/k.9A04/Michal_Lipson.htm |url-status=live }}</ref> Until 2014, she was the Given Foundation Professor of Engineering at [[Cornell University]] in the school of electrical and computer engineering and a member of the Kavli Institute for Nanoscience at Cornell.<ref>{{cite web |url=https://nanophotonics.ece.cornell.edu/team.html#michal |title=Cornell Nanophotonics Group – Team |publisher=nanophotonics.ece.cornell.edu |date= |access-date=2010-09-29 |archive-date=2010-08-10 |archive-url=https://web.archive.org/web/20100810034232/http://nanophotonics.ece.cornell.edu/team.html#michal |url-status=dead }}</ref> She is now the Eugene Higgins Professor of Electrical Engineering at [[Columbia University]].<ref>{{Cite web|url=https://www.ee.columbia.edu/michal-lipson|title=Michal Lipson &#124; Electrical Engineering|website=www.ee.columbia.edu|access-date=2022-12-09|archive-date=2022-12-09|archive-url=https://web.archive.org/web/20221209092635/https://www.ee.columbia.edu/michal-lipson|url-status=live}}</ref> In 2009 she co-founded the company PicoLuz, which develops and commercializes silicon nanophotonics technologies.<ref>{{Cite web|url=http://www.picoluz.com/about/|title=About PicoLuz – PicoLuz|website=www.picoluz.com|access-date=2016-11-12|archive-url=https://web.archive.org/web/20161113040033/http://www.picoluz.com/about/|archive-date=2016-11-13}}</ref><ref name="lipson.ee.columbia.edu">{{Cite web|url=http://lipson.ee.columbia.edu/people/people-taxonomy/faculty|title=Faculty {{!}} Lipson Nanophotonics Group|website=lipson.ee.columbia.edu|access-date=2016-11-12|archive-url=https://web.archive.org/web/20161025143430/http://lipson.ee.columbia.edu/people/people-taxonomy/faculty|archive-date=2016-10-25}}</ref> In 2019, she co-founded Voyant Photonics, which develops next generation lidar technology based on silicon photonics.<ref>{{Cite web|url=https://voyantphotonics.com/|title=Voyant|website=Voyant|access-date=2022-12-09|archive-date=2022-12-09|archive-url=https://web.archive.org/web/20221209092635/https://voyantphotonics.com/|url-status=live}}</ref> In 2022, Lipson was a co-founder of Xscape photonics to accelerate [[Artificial intelligence|AI]], [[Machine learning|ML]], and simulation hardware. In 2020 Lipson was elected the 2021 vice president of [[Optica (society)|Optica]] (formerly the Optical Society), and she served as the Optica president in 2023.<ref>{{Cite web|last=|first=|date=15 September 2020|title=OSA News Releases|url=https://www.osa.org/en-us/about_osa/newsroom/news_releases/2020/silicon_photonics_pioneer_michal_lipson_elected_20/|url-status=live|archive-url=https://web.archive.org/web/20200918114547/https://www.osa.org/en-us/about_osa/newsroom/news_releases/2020/silicon_photonics_pioneer_michal_lipson_elected_20/|archive-date=18 September 2020|website=The Optical Society}}</ref>
+
+==Education==
+Lipson was born in [[Haifa]], Israel.<ref>{{Cite web |date=2007-03-21 |title=The Lipsons manage dual careers by 'synchronizing' education and research and refusing to compromise |url=https://news.cornell.edu/stories/2007/03/synchronizing-hod-and-michal-lipson-manage-dual-careers |access-date=2026-02-14 |website=Cornell Chronicle |language=en}}</ref> After spending two years as an undergraduate student at the Instituto de Física at the [[University of São Paulo]], she continued at the [[Technion – Israel Institute of Technology]], where she earned a [[Bachelor of Science|BSc]] in physics in 1992, followed by an [[Master of Science|MSc]] in 1994 and a [[Doctor of Philosophy|PhD]] in 1998, both also in physics.<ref>[https://lipson.ee.columbia.edu/sites/lipson.ee.columbia.edu/files/content/michal_cv_bio/CV_LIPSON_2021.pdf CV Lipson] - website of [[Columbia University in the City of New York]]</ref> Her doctoral research focused on "Coupled Exciton-Photon Modes in Semiconductor Optical Microcavities". Lipson then spent 2 years as a postdoctoral associate with [[Lionel Kimerling]] at [[MIT]], and then accepted a position at [[Cornell University]] in 2001.
+
+==Career and research==
+Lipson is best known for her work on silicon photonics. She developed (along with other researchers around the world at IBM, Intel, Ghent University) silicon photonic components such as waveguide couplers, ring resonators, modulators, detectors, WDM wavelength sources and sensors on silicon platform. She published the first paper on a class of versatile waveguides known as [[Slot-waveguide]]s in 2004,<ref>{{Cite web |url=https://nanophotonics.ece.cornell.edu/Publications/voidNanostructure.pdf |title=Guiding and confining light in void nanostructure |access-date=2008-12-04 |archive-date=2007-06-29 |archive-url=https://web.archive.org/web/20070629130103/http://nanophotonics.ece.cornell.edu/Publications/voidNanostructure.pdf }}</ref> which has since been cited over one thousand times. In all her work has been cited 32,373 times (as of January 18, 2018).<ref>{{Cite web|url=https://scholar.google.com/scholar?start=0&q=Michal+Lipson+&hl=en&as_sdt=0,5|title = Google Scholar}}</ref>{{better source needed|date=April 2023}} She was also the first to demonstrate [[optical parametric gain]] in silicon,<ref>{{Cite journal|author=Nature |title=Access: Broad-band optical parametric gain on a silicon photonic chip |journal=Nature |volume=441 |issue=7096 |pages=960–963 |doi=10.1038/nature04932 |pmid=16791190 |year=2006 |bibcode=2006Natur.441..960F |s2cid=205210957 }}</ref> which was considered an important step towards building optical amplifiers in silicon.
+
+Lipson's McArthur fellowship <ref name="Macfound.org"/> citation mentions her work in ring modulators (circular waveguides) as the key contribution of Lipson via the continued refinement of both opto-electronic and purely optical circuits for smaller size,<ref name="mani_2010">{{cite journal
+  |title = Ultra-low voltage, ultra-small mode volume silicon microring modulator
+  |journal = [[Opt. Express]]
+  |year = 2010
+  |volume = 18
+  |issue = 17
+  |doi = 10.1364/OE.18.018235
+  |pmid = 20721214
+  |pages = 18235–18242
+  |author1=Sasikanth Manipatruni |author2=Kyle Preston |author3=Long Chen |author4=Michal Lipson |bibcode = 2010OExpr..1818235M |doi-access = free
+  }}
+.</ref> increased efficiency, and accelerated switching speed <ref name="xu_2007">{{Cite book
+  |chapter= High Speed Carrier Injection 18&nbsp;Gbit/s Silicon Micro-ring Electro-optic Modulator
+  |year = 2007
+  |doi = 10.1109/LEOS.2007.4382517
+  |volume = 
+  |pages=537–538
+  |author1=Sasikanth Manipatruni |author2=Qianfan Xu |author3=Brad Schmidt |author4=Jagat Shakya |author5=Michal Lipson |title = LEOS 2007 - IEEE Lasers and Electro-Optics Society Annual Meeting Conference Proceedings
+ |isbn = 978-1-4244-0924-2
+  |s2cid = 26131159
+ }}
+.</ref> The resulting silicon-based photonic integrated circuits have the potential to improve signal transmission and processing dramatically.
+
+Lipson has received numerous honors, including being the recipient of a [[Fulbright Fellowship]]<ref>{{cite web |url=http://www.cies.org/schlr_directories/usdir07/Engi19.htm |title=2007 – 2008 U.S. Scholar Directory: Engineering |access-date=2008-12-05 |website=[[Fulbright Scholar Program]] web site |archive-url=https://web.archive.org/web/20081009231151/http://www.cies.org/schlr_directories/usdir07/Engi19.htm |archive-date=2008-10-09 }}</ref> and an [[National Science Foundation CAREER Award]]. She is also an elected fellow of Optica. Her current research interests include optical metamaterials, low-power and compact [[optical modulators]], and [[slot waveguide]]s. Her work has appeared in ''Nature'', ''Nature Photonics'', and other journals.
+
+==Awards and honors==
+*2005: [[National Science Foundation CAREER Awards|National Science Foundation Career Award]]<ref>{{Cite web|url=https://news.cornell.edu/stories/2005/04/michal-lipson-wins-nsf-early-career-award-study-photonic-circuits|title=Cornell's Michal Lipson wins NSF 'Early Career' award to study photonic circuits {{!}} Cornell Chronicle|website=www.news.cornell.edu|access-date=2016-11-12|archive-date=2016-11-13|archive-url=https://web.archive.org/web/20161113044018/http://www.news.cornell.edu/stories/2005/04/michal-lipson-wins-nsf-early-career-award-study-photonic-circuits|url-status=live}}</ref>
+*2008: [[Optical Society]] fellow<ref>{{cite news |title=Optica fellows |url=https://www.optica.org/get_involved/awards_and_honors/fellow_members/fellows_search/?pageSize=50&pageNumber=1&search=lipson&gender=All&awardKey=7a8441cb-fa79-4073-9519-4f1e1cdaae90&orderBy=Newest%20Recipients |access-date=August 3, 2025 |publisher=Optica}}</ref> 
+*2010: [[Blavatnik Awards for Young Scientists|Blavatnik Award]]<ref>{{Cite web|url=http://blavatnikawards.org/honorees/profile/michal-lipson/|title=Michal Lipson {{!}} Blavatnik Awards for Young Scientists|website=blavatnikawards.org|access-date=2016-11-12|archive-date=2016-11-13|archive-url=https://web.archive.org/web/20161113113759/http://blavatnikawards.org/honorees/profile/michal-lipson/|url-status=live}}</ref> 
+* 2010: [[MacArthur Fellows Program|MacArthur Fellow]]<ref>{{Cite web|url=https://www.macfound.org/fellows/34/|title=Michal Lipson — MacArthur Foundation|website=www.macfound.org|access-date=2016-11-12|archive-date=2016-11-13|archive-url=https://web.archive.org/web/20161113041144/https://www.macfound.org/fellows/34/|url-status=live}}</ref>
+*2013: [[Fellow of the Institute of Electrical and Electronics Engineers]] "For contributions to design and applications of nanoscale photonic devices" <ref>{{Cite web|url=https://www.ece.cornell.edu/ece/news/index.cfm?news_id=63242&news_back=news_archive&department=10&y=2012|title=News and Events – School of Electrical and Computer Engineering – Cornell Engineering|website=www.ece.cornell.edu|access-date=2016-11-12|archive-date=2016-11-13|archive-url=https://web.archive.org/web/20161113033422/http://www.ece.cornell.edu/ece/news/index.cfm?news_id=63242&news_back=news_archive&department=10&y=2012|url-status=dead}}</ref>
+*2015: [[Thomson Reuters]] top 1 percent highly cited researcher in the field of Physics<ref name="lipson.ee.columbia.edu"/>
+*2017: [[R. W. Wood Prize]] – [[The Optical Society|Optica]]<ref>{{Cite web|url=https://www.osa.org/en-us/awards_and_grants/awards/award_description/rwwood/|title=R. W. Wood Prize – Awards – Optica.org &#124; Optica|access-date=2018-08-05|archive-date=2018-11-01|archive-url=https://web.archive.org/web/20181101231622/https://www.osa.org/en-us/awards_and_grants/awards/award_description/rwwood/|url-status=live}}</ref>
+*2018: Awarded an honorary [[Doctor of Science]] (Sc.D.) by [[Trinity College Dublin]]<ref>{{Cite web|url=https://www.tcd.ie/registrar/honorary-degrees/2018-19/|title=Registrar: Trinity College Dublin, the University of Dublin, Ireland|website=www.tcd.ie|access-date=2020-01-06|archive-date=2020-03-22|archive-url=https://web.archive.org/web/20200322194514/https://www.tcd.ie/registrar/honorary-degrees/2018-19/|url-status=live}}</ref>
+*2019: [[IEEE Photonics Award]]<ref>{{cite web| url=https://engineering.columbia.edu/news/michal-lipson-wins-2019-ieee-photonics-award| title=Michal Lipson Wins the 2019 IEEE Photonics Award &#124; Columbia Engineering| date=28 June 2018| access-date=5 August 2018| archive-date=22 December 2018| archive-url=https://web.archive.org/web/20181222040231/https://engineering.columbia.edu/news/michal-lipson-wins-2019-ieee-photonics-award| url-status=live}}</ref>
+* 2019: [[Comstock Prize in Physics|NAS Comstock Prize in Physics]]<ref>{{cite web |title=Michal Lipson |url=http://www.nasonline.org/programs/awards/2019-nas-awards/Lipson.html |website=www.nasonline.org |access-date=2019-02-05 |archive-date=2019-02-07 |archive-url=https://web.archive.org/web/20190207015832/http://www.nasonline.org/programs/awards/2019-nas-awards/Lipson.html }}</ref>
+*2019: Elected member of the [[National Academy of Sciences]]<ref>{{Cite web|url=http://www.nasonline.org/news-and-multimedia/news/2019-nas-election.html|title=2019 NAS Election|website=www.nasonline.org|access-date=2019-05-14|archive-date=2019-09-15|archive-url=https://web.archive.org/web/20190915232000/http://www.nasonline.org/news-and-multimedia/news/2019-nas-election.html}}</ref>
+*2021: OSA [[John Tyndall Award]] in recognition of her fundamental and technological advances in integrated photonic devices<ref>{{Cite web|title=John Tyndall Award|url=https://www.osa.org/en-us/awards_and_grants/awards/award_description/johntyndall/|url-status=live|website=OSA|access-date=2021-04-02|archive-date=2021-04-13|archive-url=https://web.archive.org/web/20210413014344/https://www.osa.org/en-us/awards_and_grants/awards/award_description/johntyndall/}}</ref>
+*2025: Elected member of the [[National Academy of Engineering]]<ref>{{Cite web |title=National Academy of Engineering Elects 128 Members and 22 International Members |url=https://www.nae.edu/19579/31222/20095/327741/331605/NAENewClass2025 |access-date=2025-02-26 |website=NAE Website |language=en}}</ref>
+
+==Selected works==
+*Slot waveguides:
+**{{cite journal|author1=V. R. Almeida |author2=Qianfan Xu |author3=C. A. Barrios |author4=M. Lipson |title= Guiding and Confining Light in Void Nanostructure | doi=10.1364/OL.29.001209 |pmid=15209249 | bibcode = 2004OptL...29.1209A |journal=Optics Letters| volume=29|issue=11 |pages=1209–11 | year=2004}}
+**{{cite journal|doi=10.1364/OL.31.002133|author=Chen, L., Shakya, J. and Lipson, M.
+|title=Subwavelength confinement in an integrated metal slot waveguide on silicon
+|journal=Optics Letters
+|volume=31
+|pages=2133–2135
+|year=2006|pmid=16794703|issue=14|bibcode = 2006OptL...31.2133C }}
+
+*Frequency combs
+**J. S. Levy, A. Gondarenko, M. A. Foster, [[Amy C. Foster|A. C. Turner-Foster]], [[Alexander Gaeta|A. L. Gaeta]], M. Lipson, "CMOS-compatible multiple-wavelength oscillator for on-chip optical interconnects." ''Nature Photon''ics '''4''', 37–40 (2010).<ref>{{Cite journal|last1=Levy|first1=Jacob S.|last2=Gondarenko|first2=Alexander|last3=Foster|first3=Mark A.|last4=Turner-Foster|first4=Amy C.|last5=Gaeta|first5=Alexander L.|last6=Lipson|first6=Michal|date=January 2010|title=CMOS-compatible multiple-wavelength oscillator for on-chip optical interconnects|journal=Nature Photonics|language=en|volume=4|issue=1|pages=37–40|doi=10.1038/nphoton.2009.259|bibcode=2010NaPho...4...37L|issn=1749-4885|arxiv=0907.1077}}</ref>
+**B. Stern, X. Ji, Y. Okawachi, A. L. Gaeta, M. Lipson, "Battery-operated integrated frequency comb generator". ''Nature''. '''562''', 401 (2018).<ref>{{Cite journal|last1=Stern|first1=Brian|last2=Ji|first2=Xingchen|last3=Okawachi|first3=Yoshitomo|last4=Gaeta|first4=Alexander L.|last5=Lipson|first5=Michal|date=October 2018|title=Battery-operated integrated frequency comb generator|journal=Nature|language=en|volume=562|issue=7727|pages=401–405|doi=10.1038/s41586-018-0598-9|pmid=30297798|arxiv=1804.00357|bibcode=2018Natur.562..401S|s2cid=52936300|issn=0028-0836}}</ref>
+**A. Dutt, C. Joshi, X. Ji, J. Cardenas, Y. Okawachi, K. Luke, A. L. Gaeta, M. Lipson, "On-chip dual-comb source for spectroscopy". ''Science Advances'' '''4''', e1701858 (2018).<ref>{{Cite journal|last1=Dutt|first1=Avik|last2=Joshi|first2=Chaitanya|last3=Ji|first3=Xingchen|last4=Cardenas|first4=Jaime|last5=Okawachi|first5=Yoshitomo|last6=Luke|first6=Kevin|last7=Gaeta|first7=Alexander L.|last8=Lipson|first8=Michal|date=March 2018|title=On-chip dual-comb source for spectroscopy|journal=Science Advances|language=en|volume=4|issue=3|article-number=e1701858|doi=10.1126/sciadv.1701858|issn=2375-2548|pmc=5834308|pmid=29511733|bibcode=2018SciA....4.1858D}}</ref>
+*<span title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1126%2Fsciadv.1701858&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=On-chip%20dual-comb%20source%20for%20spectroscopy&rft.jtitle=Science%20Advances&rft.volume=4&rft.issue=3&rft.aufirst=Avik&rft.aulast=Dutt&rft.au=Avik%20Dutt&rft.au=Chaitanya%20Joshi&rft.au=Xingchen%20Ji&rft.au=Jaime%20Cardenas&rft.au=Yoshitomo%20Okawachi&rft.au=Kevin%20Luke&rft.au=Alexander%20L.%20Gaeta&rft.au=Michal%20Lipson&rft.date=2018-03-01&rft.pages=e1701858&rft.issn=2375-2548&rft.language=en" class="Z3988"></span>Ultralow-loss silicon and silicon nitride
+**<span title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1126%2Fsciadv.1701858&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=On-chip%20dual-comb%20source%20for%20spectroscopy&rft.jtitle=Science%20Advances&rft.volume=4&rft.issue=3&rft.aufirst=Avik&rft.aulast=Dutt&rft.au=Avik%20Dutt&rft.au=Chaitanya%20Joshi&rft.au=Xingchen%20Ji&rft.au=Jaime%20Cardenas&rft.au=Yoshitomo%20Okawachi&rft.au=Kevin%20Luke&rft.au=Alexander%20L.%20Gaeta&rft.au=Michal%20Lipson&rft.date=2018-03-01&rft.pages=e1701858&rft.issn=2375-2548&rft.language=en" class="Z3988"></span>J. Cardenas, C. B. Poitras, J. T. Robinson, K. Preston, L. Chen, M. Lipson, "Low loss etchless silicon photonic waveguides". ''Optics Express''. '''17''', 4752–4757 (2009).<ref>{{Cite journal|last1=Cardenas|first1=Jaime|last2=Poitras|first2=Carl B.|last3=Robinson|first3=Jacob T.|last4=Preston|first4=Kyle|last5=Chen|first5=Long|last6=Lipson|first6=Michal|date=2009-03-16|title=Low loss etchless silicon photonic waveguides|journal=Optics Express|language=en|volume=17|issue=6|pages=4752–7|doi=10.1364/OE.17.004752|pmid=19293905|bibcode=2009OExpr..17.4752C|issn=1094-4087|doi-access=free}}</ref>
+**<span title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1126%2Fsciadv.1701858&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=On-chip%20dual-comb%20source%20for%20spectroscopy&rft.jtitle=Science%20Advances&rft.volume=4&rft.issue=3&rft.aufirst=Avik&rft.aulast=Dutt&rft.au=Avik%20Dutt&rft.au=Chaitanya%20Joshi&rft.au=Xingchen%20Ji&rft.au=Jaime%20Cardenas&rft.au=Yoshitomo%20Okawachi&rft.au=Kevin%20Luke&rft.au=Alexander%20L.%20Gaeta&rft.au=Michal%20Lipson&rft.date=2018-03-01&rft.pages=e1701858&rft.issn=2375-2548&rft.language=en" class="Z3988"></span>K. Luke, A. Dutt, C. B. Poitras, M. Lipson, "Overcoming Si3N4 film stress limitations for high quality factor ring resonators". ''Optics Express''. '''21''', 22829–22833 (2013).<ref>{{Cite journal|last1=Luke|first1=Kevin|last2=Dutt|first2=Avik|last3=Poitras|first3=Carl B.|last4=Lipson|first4=Michal|date=2013-09-23|title=Overcoming Si_3N_4 film stress limitations for high quality factor ring resonators|journal=Optics Express|language=en|volume=21|issue=19|pages=22829–33|doi=10.1364/OE.21.022829|pmid=24104169|arxiv=1306.2994|bibcode=2013OExpr..2122829L|s2cid=26284675|issn=1094-4087}}</ref>
+**<span title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1126%2Fsciadv.1701858&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=On-chip%20dual-comb%20source%20for%20spectroscopy&rft.jtitle=Science%20Advances&rft.volume=4&rft.issue=3&rft.aufirst=Avik&rft.aulast=Dutt&rft.au=Avik%20Dutt&rft.au=Chaitanya%20Joshi&rft.au=Xingchen%20Ji&rft.au=Jaime%20Cardenas&rft.au=Yoshitomo%20Okawachi&rft.au=Kevin%20Luke&rft.au=Alexander%20L.%20Gaeta&rft.au=Michal%20Lipson&rft.date=2018-03-01&rft.pages=e1701858&rft.issn=2375-2548&rft.language=en" class="Z3988"></span>A. Griffith, J. Cardenas, C. B. Poitras, M. Lipson, "High quality factor and high confinement silicon resonators using etchless process". ''Optics Express,'' '''20''', 21341–21345 (2012).<ref>{{Cite journal|last1=Griffith|first1=Austin|last2=Cardenas|first2=Jaime|last3=Poitras|first3=Carl B.|last4=Lipson|first4=Michal|date=2012-09-10|title=High quality factor and high confinement silicon resonators using etchless process|journal=Optics Express|language=en|volume=20|issue=19|pages=21341–5|doi=10.1364/OE.20.021341|pmid=23037257|bibcode=2012OExpr..2021341G|s2cid=8853264|issn=1094-4087|doi-access=free}}</ref>
+**<span title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1126%2Fsciadv.1701858&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=On-chip%20dual-comb%20source%20for%20spectroscopy&rft.jtitle=Science%20Advances&rft.volume=4&rft.issue=3&rft.aufirst=Avik&rft.aulast=Dutt&rft.au=Avik%20Dutt&rft.au=Chaitanya%20Joshi&rft.au=Xingchen%20Ji&rft.au=Jaime%20Cardenas&rft.au=Yoshitomo%20Okawachi&rft.au=Kevin%20Luke&rft.au=Alexander%20L.%20Gaeta&rft.au=Michal%20Lipson&rft.date=2018-03-01&rft.pages=e1701858&rft.issn=2375-2548&rft.language=en" class="Z3988"></span>X. Ji, F. A. S. Barbosa, S. P. Roberts, A. Dutt, J. Cardenas, Y. Okawachi, A. Bryant, A. L. Gaeta, M. Lipson, "Ultra-low-loss on-chip resonators with sub-milliwatt parametric oscillation threshold". ''Optica,'' '''4''', 619–624 (2017).<ref>{{Cite journal|last1=Ji|first1=Xingchen|last2=Barbosa|first2=Felippe A. S.|last3=Roberts|first3=Samantha P.|last4=Dutt|first4=Avik|last5=Cardenas|first5=Jaime|last6=Okawachi|first6=Yoshitomo|last7=Bryant|first7=Alex|last8=Gaeta|first8=Alexander L.|last9=Lipson|first9=Michal|date=2017-06-20|title=Ultra-low-loss on-chip resonators with sub-milliwatt parametric oscillation threshold|journal=Optica|language=en|volume=4|issue=6|page=619|doi=10.1364/OPTICA.4.000619|arxiv=1609.08699|bibcode=2017Optic...4..619J| s2cid=119274616 |issn=2334-2536}}</ref>
+*Nonlinear optics in silicon
+**{{cite journal|
+author=Foster, M.A., Turner, A.C., Sharping, J.E., Schmidt, B.S., Lipson, M. and Gaeta, A.L.
+|journal=Nature
+|title= Broadband Optical Parametric Gain on a Silicon Photonic Chip
+|volume=441
+|doi=10.1038/nature04932
+|year=2006|bibcode = 2006Natur.441..960F
+|pmid=16791190
+|issue=7096
+|pages=960–3|s2cid=205210957
+}}
+**{{cite journal|
+author=Foster, M.A., Salem, R., Geraghty, D.F., Turner-Foster, A.C., Lipson, M. and Gaeta, A.L.
+|title=Silicon-chip-based ultrafast optical oscilloscope
+|journal=Nature
+|volume=456
+|pages=81–84
+|year=2008|
+pmid=18987739|
+issue=7218|
+doi=10.1038/nature07430|bibcode = 2008Natur.456...81F |s2cid=205215220
+}}
+
+*Modulation in silicon
+**{{cite journal|
+author=Almeida, V. R., Barrios, C. A., Panepucci, R. R., Lipson, M.
+|title=All-optical control of light on a silicon chip
+|journal=Nature
+|volume=431
+|pages=1081–1084
+|year=2004|
+pmid=15510144|
+issue=7012|
+doi=10.1038/nature02921
+|bibcode = 2004Natur.431.1081A |s2cid=4404067
+}}
+**{{cite journal|
+author=Xu, Q., Schmidt, B., Pradhan, S. and Lipson, M.
+|title=Micrometre-scale silicon electro-optic modulator
+|journal=Nature
+|volume=435
+|pages=325–327
+|year=2005|
+pmid=15902253|
+issue=7040|
+doi=10.1038/nature03569|bibcode = 2005Natur.435..325X |s2cid=4302523
+}}
+**{{cite journal|
+author1=[[Sasikanth Manipatruni|Manipatruni S]] | author2=Preston, K.| author3=Chen, L. | author4=Lipson, M. |title= Ultra-low voltage, ultra-small mode volume silicon microring modulator
+|journal=Optics Express
+|volume=18
+|pages=18235–18242
+|year=2010|
+issue=17|
+doi=10.1364/OE.18.018235 |pmid= 20721214
+|bibcode = 2010OExpr..1818235M |doi-access=free
+}}
+**[[Sasikanth Manipatruni|Manipatruni S]], Lipson, M. and Young, I.A., 2013. Device scaling considerations for nanophotonic CMOS global interconnects. ''IEEE Journal of Selected Topics in Quantum Electronics'', ''19''(2), pp.&nbsp;8200109-8200109.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://lipson.ee.columbia.edu/ Lipson's group website] at [[Columbia University]].
+* [https://web.archive.org/web/20160504103157/http://lipson.ee.columbia.edu/people/people-taxonomy/faculty Lipson's personal page].
+* {{Deprecated archive|url=https://archive.today/20130131174354/http://www.photonics.com/Content/ReadArticle.aspx?ArticleID=35649|title=Press coverage of Ultrafast Oscilloscope|sec=el}}.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lipson, Michal}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:Cornell University College of Engineering faculty]]
+[[Category:Columbia School of Engineering and Applied Science faculty]]
+[[Category:MacArthur Fellows]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Women in optics]]
+[[Category:Israeli women physicists]]
+[[Category:American women physicists]]
+[[Category:Scientists from Haifa]]
+[[Category:University of São Paulo alumni]]

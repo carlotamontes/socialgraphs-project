@@ -1,0 +1,106 @@
+{{Short description|American theoretical physicist (born 1949)}}
+{{Infobox academic
+| honorific_prefix = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name = David M. Ceperley
+| honorific_suffix = 
+| image = David Ceperley.jpg
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| birth_name = <!-- use only if different from full/othernames -->
+| birth_date = {{birth date and age|1949|12|12}}
+| birth_place = Charleston, West Virginia
+| death_date = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place = 
+| death_cause = 
+| region = 
+| citizenship = 
+| residence = 
+| other_names = 
+| occupation = 
+| years_active = 
+| known_for = 
+| home_town = 
+| title = Professor of Physics
+| boards = <!--board or similar positions extraneous to main occupation-->
+| spouse = 
+| partner = 
+| children = 
+| parents = 
+| relatives = 
+| awards = Fellow of the [[American Physical Society]]<br />Fellow of the [[American Academy of Arts and Sciences]] <br /> Elected member of the [[National Academy of Sciences]] <br /> [[Eugene Feenberg Memorial Medal]] <br /> [[Aneesur Rahman Prize]]
+| website = 
+| education = B.S., [[Physics]] & [[Mathematics]] (1971) <br />Ph.D., [[Theoretical Physics]] (1976)
+| alma_mater = [[University of Michigan]] <br /> [[Cornell University]]
+| thesis_title = 
+| thesis_url = 
+| thesis_year = 
+| school_tradition = 
+| doctoral_advisor = Geoffrey Chester <br /> Malvin Kalos
+| academic_advisors = [[Joel Lebowitz]] <br /> [[Berni Alder]] <br /> [[John Bardeen]] <br /> [[Anthony Leggett]]
+| influences = <!--must be referenced from a third-party source-->
+| era = 
+| discipline = <!--major academic discipline – e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist-->
+| sub_discipline = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| institutions = [[University of Illinois]]
+| doctoral_students = <!--only those with WP articles-->
+| notable_students = <!--only those with WP articles-->
+| main_interests = [[Quantum Monte Carlo]]
+| notable_works = 
+| notable_ideas = 
+| influenced = <!--must be referenced from a third-party source-->
+| signature = 
+| signature_alt = 
+| signature_size = 
+| footnotes =
+}}
+
+{{Use dmy dates|date=February 2020}}
+{{EngvarB|date=February 2020}}
+'''David Matthew Ceperley''' (born 1949) is a theoretical [[physicist]] in the physics department at the [[University of Illinois Urbana-Champaign]] or UIUC. He is a world expert in the area of [[Quantum Monte Carlo]] computations, a method of calculation that is generally recognised to provide accurate quantitative results for [[many-body problem]]s described by quantum mechanics.
+
+==Life, education and career==
+Ceperley was born in [[Charleston, West Virginia]] USA in 1949, and attended George Washington High School there. He was a student at [[Atlantic College]] in Wales UK, received a BS degree in physics and mathematics from the [[University of Michigan]], Ann Arbor in 1971 and a PhD in theoretical physics at [[Cornell University]] in 1976. His advisors were Geoffrey Chester at [[Cornell University]] and Malvin Kalos at the [[Courant Institute]] at [[New York University]]. He had postdoctoral appointments in Orsay, France, [[New York University]] and [[Rutgers University]], where he worked with [[Joel Lebowitz]] on the simulation of polymers. He was a staff scientist at the National Resource for Computational Chemistry at [[Lawrence Berkeley National Laboratory]] and [[Lawrence Livermore National Laboratory]] from 1978 to 1987. Since 1987, he has been a professor at the [[University of Illinois Urbana-Champaign]] and a staff member at the [[National Center for Supercomputing Applications]] from 1987 to 2012. 
+In his development as a leading mathematical and computational physicist Ceperley had a number of acknowledged mentors, many of whom happen to be his former supervisors such as Geoffrey Chester, Malvin Kalos, Joel Lebowitz and [[Berni Alder]]. At UIUC he has been influenced by the physics Nobel Laureates [[Anthony James Leggett|Anthony Leggett]] and [[John Bardeen]].
+
+Ceperley was married to Perine Davis (1950–2015); they have three children.
+
+==Major professional contributions==
+Ceperley's methods have turned the path-integral formulation of the quantum mechanics of strongly interacting many-particle systems into a precise tool to elucidate quantitatively the properties of electrons in solids, superfluids, and other complex quantum systems. His calculation, with [[Berni Alder]], of the equation of state of the 3 dimensional electron gas using a stochastic method<ref>{{cite journal | last=Ceperley | first=D. | title=Ground state of the fermion one-component plasma: A Monte Carlo study in two and three dimensions | journal=Physical Review B | publisher=American Physical Society (APS) | volume=18 | issue=7 | date=1 September 1978 | issn=0163-1829 | doi=10.1103/physrevb.18.3126 | pages=3126–3138| bibcode=1978PhRvB..18.3126C }}</ref><ref>{{cite journal | last1=Ceperley | first1=D. M. | last2=Alder | first2=B. J. | title=Ground State of the Electron Gas by a Stochastic Method | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=45 | issue=7 | date=18 August 1980 | issn=0031-9007 | doi=10.1103/physrevlett.45.566 | pages=566–569| bibcode=1980PhRvL..45..566C | s2cid=55620379 | url=https://digital.library.unt.edu/ark:/67531/metadc1059358/ | url-access=subscription }}</ref> has provided basic and definitive input data for numerical applications of density functional theory to electron systems. Their joint publication is one of the most cited articles in [[Physical Review Letters]].{{citation needed|date=October 2017}} The Tanatar-Ceperley exchange-correlation functional<ref>{{cite journal | last1=Tanatar | first1=B. | last2=Ceperley | first2=D. M. | title=Ground state of the two-dimensional electron gas | journal=Physical Review B | publisher=American Physical Society (APS) | volume=39 | issue=8 | date=15 March 1989 | issn=0163-1829 | doi=10.1103/physrevb.39.5005 | pmid=9948889 | pages=5005–5016| bibcode=1989PhRvB..39.5005T }}</ref> is used for the 2 dimensional electron gas.
+
+Ceperley not only applied [[Feynman]]'s exact mapping of [[superfluid]] 4He onto classical ring polymers but also created the algorithms to make path integration a precise calculational tool to compare theory with experiment. This method has enabled the elucidation of superfluid in terms of winding numbers and to reveal the deep relation between superfluidity and [[Bose-Einstein condensation]].<ref>{{cite journal | last=Ceperley | first=D. M. | title=Path integrals in the theory of condensed helium | journal=Reviews of Modern Physics | publisher=American Physical Society (APS) | volume=67 | issue=2 | date=1 March 1995 | issn=0034-6861 | doi=10.1103/revmodphys.67.279 | pages=279–355| bibcode=1995RvMP...67..279C }}</ref> He derived the exact expression for tunnelling splittings in complex systems and, by computing the exchange in quantum crystals, resolved the origin of magnetism in solid 3He.<ref>{{cite journal | last1=Ceperley | first1=D. M. | last2=Jacucci | first2=G. | title=Calculation of exchange frequencies in bcc <sup>3</sup>He with the path-integral Monte Carlo method | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=58 | issue=16 | date=20 April 1987 | issn=0031-9007 | doi=10.1103/physrevlett.58.1648 | pages=1648–1651| pmid=10034498 | bibcode=1987PhRvL..58.1648C }}</ref> He introduced the restricted path integral method to treat Fermi statistics in finite-temperature many-body quantum systems<ref>{{cite journal | last=Ceperley | first=D. M. | title=Path-integral calculations of normal liquid <sup>3</sup>He | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=69 | issue=2 | date=13 July 1992 | issn=0031-9007 | doi=10.1103/physrevlett.69.331 | pages=331–334| pmid=10046646 | bibcode=1992PhRvL..69..331C }}</ref> and applied this method to the normal 3He liquid and to hydrogen under extreme conditions thus predicting the principal Hugoniot of compressed deuterium<ref>{{cite journal | last1=Militzer | first1=B. | last2=Ceperley | first2=D. M. | title=Path Integral Monte Carlo Calculation of the Deuterium Hugoniot | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=85 | issue=9 | date=28 August 2000 | issn=0031-9007 | doi=10.1103/physrevlett.85.1890 | pages=1890–1893| pmid=10970640 | arxiv=physics/0001047 | bibcode=2000PhRvL..85.1890M | s2cid=16423777 }}</ref> in agreement with [[shock wave]] experiments.
+
+Ceperley has pioneered novel methods for stochastic computation of quantum systems: variational Monte Carlo techniques for fermions,<ref>{{cite journal | last1=Ceperley | first1=D. | last2=Chester | first2=G. V. | last3=Kalos | first3=M. H. | title=Monte Carlo simulation of a many-fermion study | journal=Physical Review B | publisher=American Physical Society (APS) | volume=16 | issue=7 | date=1 September 1977 | issn=0556-2805 | doi=10.1103/physrevb.16.3081 | pages=3081–3099| bibcode=1977PhRvB..16.3081C }}</ref> the fixed-node approximation and nodal release methods, the use of Metropolis steps to enforce reversibility in approximate Green's functions,<ref>{{cite journal | last1=Reynolds | first1=Peter J. | last2=Ceperley | first2=David M. | last3=Alder | first3=Berni J. | last4=Lester | first4=William A. | title=Fixed-node quantum Monte Carlo for molecules | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=77 | issue=11 | year=1982 | issn=0021-9606 | doi=10.1063/1.443766 | pages=5593–5603}}</ref> the development of importance-sampled [[Diffusion Monte Carlo]] (DMC) method that has largely superseded other methods, the use of twist-averaged boundary conditions to reduce systematic size errors,<ref>{{cite journal | last1=Lin | first1=C. | last2=Zong | first2=F. H. | last3=Ceperley | first3=D. M. | title=Twist-averaged boundary conditions in continuum quantum Monte Carlo algorithms | journal=Physical Review E | volume=64 | issue=1 | date=18 June 2001 | issn=1063-651X | doi=10.1103/physreve.64.016702 | article-number=016702| pmid=11461437 | arxiv=cond-mat/0101339 | bibcode=2001PhRvE..64a6702L | s2cid=8494735 }}</ref> the extension of DMC to systems having broken [[time-reversal symmetry]], the fixed phase method.<ref>{{cite journal | last1=Ortiz | first1=G. | last2=Ceperley | first2=D. M. | last3=Martin | first3=R. M. | title=New stochastic method for systems with broken time-reversal symmetry: 2D fermions in a magnetic field | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=71 | issue=17 | date=25 October 1993 | issn=0031-9007 | doi=10.1103/physrevlett.71.2777 | pages=2777–2780| pmid=10054773 | bibcode=1993PhRvL..71.2777O }}</ref> These are essential ingredients to make the methods quantitative and accurate. Ceperley has also introduced and developed the Coupled Electron-Ion Monte Carlo, a first- principles simulation method to perform statistical calculations of finite temperature quantum nuclei using electronic energies<ref>{{cite journal | last1=Ceperley | first1=D. M. | last2=Dewing | first2=M. | title=The penalty method for random walks with uncertain energies | journal=The Journal of Chemical Physics | volume=110 | issue=20 | date=22 May 1999 | issn=0021-9606 | doi=10.1063/1.478034 | pages=9812–9820| arxiv=physics/9812035 | bibcode=1999JChPh.110.9812C | s2cid=8091933 }}</ref> and has established a first-order [[phase transition]] in the [[metal-insulator transition]] of liquid hydrogen.<ref>{{cite journal | last1=Morales | first1=M. A. | last2=Pierleoni | first2=C. | last3=Schwegler | first3=E. | last4=Ceperley | first4=D. M. | title=Evidence for a first-order liquid-liquid transition in high-pressure hydrogen from ab initio simulations | journal=Proceedings of the National Academy of Sciences | volume=107 | issue=29 | date=21 June 2010 | issn=0027-8424 | doi=10.1073/pnas.1007309107 | pages=12799–12803| pmid=20566888 | pmc=2919906 |doi-access=free}}</ref>
+
+Richard Martin and Ceperley started the annual workshop series, Recent Developments in Electronic Structure Methods<ref>{{cite web|url=http://www.mcc.uiuc.edu/workshops/electronicstructure/ |title=Recent Developments in Electronic Structure &#124; Materials Computation Center |publisher=Mcc.uiuc.edu |date=3 April 2014 |access-date=20 May 2014}}</ref> in 1989. Ceperley has also been an organiser of Summer Schools in Computational Materials Science. Videos of Ceperley's lectures<ref>{{cite web|url=https://www.youtube.com/channel/UCbx0t02RzuRsMBkGgxjXipQ |title=MCC Workshops |via=YouTube |access-date=20 May 2014}}</ref> on Quantum Monte Carlo methods can be found on YouTube.
+
+==Selected honours and awards==
+
+Ceperley's pioneering work on the development and application of the [[path integral Monte Carlo]] method for [[Many-body problem|quantum many-body systems]], such as [[superfluid helium]] and [[hydrogen]] [[Metallic hydrogen|under extreme conditions]] has been recognised by several organisations including Fellow of the [[American Physical Society]] (1992), the [[Eugene Feenberg Memorial Medal]]<ref>{{cite web |url=http://www.indiana.edu/~rpmbt/mediawiki/index.php?title=Main_Page#Feenberg_Memorial_Medal |title=Recent Progress in Many Body Theories |publisher=Indiana.edu |access-date=20 May 2014 |archive-date=13 September 2016 |archive-url=https://web.archive.org/web/20160913072429/http://www.indiana.edu/~rpmbt/mediawiki/index.php?title=Main_Page#Feenberg_Memorial_Medal }}</ref> for many-body physics (1994), the [[Aneesur Rahman Prize]] for Computational Physics of the [[American Physical Society]] (1998), a fellow of the [[American Academy of Arts and Sciences]] (1999) and elected member of the US [[National Academy of Sciences]] (2005).  He became the Founder Professor of Engineering (2006), a Center for Advanced Studies Professor (2009) and a [[Blue Waters]] Professor (2014) at the University of Illinois Urbana-Champaign. He was awarded the [[Berni Alder]] prize by [[CECAM]] (Lausanne, Switzerland) in 2016.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.mcc.uiuc.edu/workshops/electronicstructure/] Recent Development of Electronic Structure Workshop
+*[https://www.youtube.com/channel/UCbx0t02RzuRsMBkGgxjXipQ] Ceperley lectures on YouTube
+* [http://www.indiana.edu/~rpmbt/mediawiki/index.php?title=Main_Page#Feenberg_Memorial_Medal] {{Webarchive|url=https://web.archive.org/web/20160913072429/http://www.indiana.edu/~rpmbt/mediawiki/index.php?title=Main_Page#Feenberg_Memorial_Medal |date=13 September 2016 }} Feenberg Memorial Medal
+* [https://web.archive.org/web/20181031173901/https://www.cecam.org/bja_prize.html] Berni J. Alder CECAM prize
+{{Authority control}}
+
+{{DEFAULTSORT:Ceperley, David}}
+[[Category:21st-century American physicists]]
+[[Category:Living people]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:People educated at Atlantic College]]
+[[Category:American computational physicists]]
+[[Category:Scientists from Charleston, West Virginia]]
+[[Category:Cornell University alumni]]
+[[Category:University of Illinois Urbana-Champaign faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:1949 births]]
+[[Category:People educated at a United World College]]

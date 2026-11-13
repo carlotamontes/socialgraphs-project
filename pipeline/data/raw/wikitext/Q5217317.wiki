@@ -1,0 +1,40 @@
+{{Short description|American physicist}}
+{{Use American English|date=January 2019}}
+
+{{Use mdy dates|date=January 2019}}{{Infobox scientist
+| birth_date = {{birth-date and age|January 16, 1970}}<ref name="link1">[http://www.perimeterinstitute.ca/personal/dgottesman/resume.html Daniel Gottesman's resume]</ref>
+| name = Daniel Gottesman
+| field = [[Physics]]
+| doctoral_advisor = [[John Preskill]]
+| education  = [[Caltech]]
+| known_for = [[Gottesman–Knill theorem]]<br />[[Gottesman–Kitaev–Preskill code]]<br />[[Clifford gates]]
+}}
+
+'''Daniel Gottesman''' is a physicist, known for his work regarding [[quantum error correction]],<ref name="CaltechHeritage">{{cite web |title=Daniel Gottesman (PhD '97), Theoretical Quantum Physicist |url=https://heritageproject.caltech.edu/interviews-updates/daniel-gottesman |publisher=Caltech Heritage Project |date=2023-01-08 |access-date=2025-08-17}}</ref> in particular the invention of the stabilizer formalism for quantum error-correcting codes, [[Gottesman–Kitaev–Preskill code]]<ref name="GKP">{{Cite journal |arxiv=quant-ph/0008040 |doi=10.1103/PhysRevA.64.012310 |title=Encoding a qubit in an oscillator |date=2001 |last1=Gottesman |first1=Daniel |last2=Kitaev |first2=Alexei |author-link2=Alexei Kitaev |last3=Preskill |first3=John |journal=Physical Review A |volume=64 |issue=1 |article-number=012310 |bibcode=2001PhRvA..64a2310G }}</ref> and the [[Gottesman–Knill theorem]].<ref name="CaltechHeritage"/><ref name="Nielsen2010">{{cite book |last1=Nielsen |first1=Michael A. |last2=Chuang |first2=Isaac L. |title=Quantum Computation and Quantum Information |edition=10th Anniversary |publisher=Cambridge University Press |year=2010 |isbn=978-1-107-00217-3}}</ref> He is a faculty member at the University of Maryland.
+
+Gottesman completed a B.A. in physics at Harvard University (1992) and a Ph.D. in physics at Caltech (1997). He is a Fellow of the American Physical Society (2013). In 2003, he was named to the [[Massachusetts Institute of Technology|MIT]] ''[[Technology Review]]'' [[TR35|TR100]] as one of the top 100 innovators in the world under the age of 35.<ref>{{cite web|url=https://www.technologyreview.com/innovators-under-35/2003/ |title=2003 Young Innovators Under 35 |publisher=[[Technology Review]] | year=2003 | access-date=August 8, 2023}}</ref>
+
+==See also==
+*[[Clifford gates]]
+*[[Continuous-variable quantum information]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.perimeterinstitute.ca/personal/dgottesman/index.html Gottesman's homepage at the Perimeter Institute for Theoretical Physics in Waterloo, Ontario]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gottesman, Daniel}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:American quantum information scientists]]
+[[Category:Harvard College alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Fellows of the American Physical Society]]
+
+
+{{US-physicist-stub}}

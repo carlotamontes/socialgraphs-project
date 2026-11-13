@@ -1,0 +1,37 @@
+{{Short description|Austrian physicist (b. 1973)}}
+
+{{infobox scientist
+| image             = Wolfgang_Dür.jpg
+| birth_date        = {{birth date and age|1973|10|25}}
+| fields            = [[Quantum information]]
+| workplaces        = [[University of Innsbruck]]
+| education         = [[University of Innsbruck]] (PhD)
+| doctoral_advisor  = [[Ignacio Cirac]]
+| known_for         = [[W state]]
+}}
+'''Wolfgang Dür''' (born 25 October 1973) is an Austrian theoretical physicist and conducts research in the field of [[Quantum information|quantum information theory]] and [[quantum communication]].<ref>{{Cite web |title=Wolfgang Dür |url=https://scholar.google.at/citations?view_op=list_works&hl=en&hl=en&user=YZZSOsoAAAAJ |access-date=2024-11-29 |website=scholar.google.at}}</ref> He is a full professor at the [[University of Innsbruck]], [[Austria]].<ref name=":0">{{Cite web |last= |first= |title=Dür, Wolfgang |url=https://www.uibk.ac.at/th-physik/staff/duer/ |access-date=2024-11-29 |website=Universität Innsbruck |language=de}}</ref>
+
+== Biography ==
+Dür studied physics at the [[University of Innsbruck]] and earned his doctorate [[Sub auspiciis Praesidentis|sub auspiciis praesidentis]] in 2001 <ref>{{Cite web |title=Promotionen sub auspiciis praesidentis – Universität Innsbruck |url=https://www.uibk.ac.at/de/universitaet/profil/geschichte/sub-auspiciis/ |access-date=2024-12-02 |website=www.uibk.ac.at |language=de}}</ref><ref>{{Cite web |last=Admin |first=C. I. |date=2001-11-09 |title=Bundespräsident ehrt kreativen Kopf |url=https://www.uibk.ac.at/archive/ipoint/news/menschen_und_wissenschaft/20011109.html |access-date=2024-11-29 |website=Universität Innsbruck |language=de}}</ref> under the supervision of [[Juan Ignacio Cirac Sasturain|Ignacio Cirac]]. Following his PhD, he pursued postdoctoral research at [[LMU Munich]] before returning to Innsbruck, where he earned his [[habilitation]] in 2008. He became full professor in 2023.<ref name=":0" /> He also studied physics and mathematics to become a high school teacher. He is married and has two children.
+
+== Research and career ==
+Wolfgang Dür work focuses on topics such as [[quantum network]]s, [[quantum metrology]], and [[One-way quantum computer|measurement-based quantum computation]].<ref>{{Cite journal |last1=Briegel |first1=H. J. |last2=Browne |first2=D. E. |last3=Dür |first3=W. |last4=Raussendorf |first4=R. |last5=Van den Nest |first5=M. |date=January 2009 |title=Measurement-based quantum computation |url=https://www.nature.com/articles/nphys1157 |journal=Nature Physics |volume=5 |issue=1 |pages=19–26 |doi=10.1038/nphys1157 |issn=1745-2481|arxiv=0910.1116 }}</ref> Dür is well-known for his contributions to the development of [[Entanglement swapping|quantum repeaters]], a key concept for enabling [[quantum communication]] over long distances. Alongside collaborators such as [[Hans Jürgen Briegel|Hans Briegel]], Ignacio Cirac, and [[Peter Zoller]], he provided the theoretical foundation for using quantum repeaters to establish global [[quantum network]]s.<ref>{{Cite journal |last=Briegel |first=H.-J. |date=1998 |title=Quantum Repeaters: The Role of Imperfect Local Operations in Quantum Communication |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5932 |journal=Physical Review Letters |volume=81 |issue=26 |pages=5932–5935 |doi=10.1103/PhysRevLett.81.5932|url-access=subscription |arxiv=quant-ph/9803056 }}</ref>
+
+Dür is also widely recognized for his research on [[multipartite entanglement]]. He co-introduced the [[W state]],<ref>{{Cite journal |last=Dür |first=W. |date=2000 |title=Three qubits can be entangled in two inequivalent ways |url=https://journals.aps.org/pra/abstract/10.1103/PhysRevA.62.062314 |journal=Physical Review A |volume=62 |issue=6 |article-number=062314 |doi=10.1103/PhysRevA.62.062314|arxiv=quant-ph/0005115 }}</ref> a specific class of multipartite entangled states named after him, which are notable for their distinct properties and practical applications in quantum information theory. These states are critical in scenarios requiring robustness against particle loss and feature prominently in studies of distributed quantum systems.
+
+In addition to his research, he has been dedicated to mentoring the next generation of quantum physicists.<ref>{{Cite web |last=Gritsch |first=Simone |title=Team Physik {{!}} TSNweb |url=https://recc.tsn.at/physik/team-physik |access-date=2024-11-29 |website=recc.tsn.at |language=de}}</ref> He is responsible for teacher education at the University of Innsbruck since 2011.<ref>{{Cite web |last1=Embacher |first1=Hans |last2=Maier |first2=Judith |title=AG Lehramtsstudium |url=https://www.uibk.ac.at/th-physik/las/ |access-date=2024-11-29 |website=Universität Innsbruck |language=de}}</ref> His commitment to education extends to developing innovative approaches for teaching [[quantum mechanics]] to high school and undergraduate students. Beyond academia, he actively engages in [[didactics]] and [[science outreach]], simplifying quantum technologies for broader audiences and inspiring public interest in quantum advancements.
+
+== Awards ==
+
+* [[Marie Curie Fellowship|Marie-Curie individual fellowship]] of the [[European Union]] 2001.<ref name=":0" />
+* APART fellowship of [[Austrian Academy of Sciences]] 2003.<ref name=":0" />
+* Felix Kuschenitz award 2007 of [[Austrian Academy of Sciences]]<ref>{{Cite web |last=Staubmann |first=Valentin |date=2007-10-12 |title=Felix Kuschenitz-Preis für Wolfgang Dür – IQOQI of the OEAW |url=https://iqoqi.at/de/aktuelles/news/50-archive/13-year-2007/81-felix-kuschenitz-preis-fuer-wolfgang-duer |access-date=2024-11-29 |website=iqoqi.at |language=de-de}}</ref>
+* Outstanding referee award of the [[American Physical Society]] 2009.<ref name=":0" />
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Dür, Wolfgang}}
+[[Category:Austrian physicists]]
+[[Category:1973 births]]
+[[Category:Living people]]

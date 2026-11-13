@@ -1,0 +1,100 @@
+{{Short description|British computer scientist (born 1959)}}
+{{Other uses|Chris Bishop (disambiguation)}}
+{{Use dmy dates|date=August 2026}}
+{{Use British English|date=June 2017}}
+{{Infobox scientist
+| name = Christopher Bishop
+| image = Christopher Bishop Royal Society (cropped).jpg
+| alt = 
+| caption = Bishop in 2017
+| birth_date = {{Birth date and age|1959|4|7|df=y}}
+| birth_place = [[Norwich]], England
+| death_date = <!-- {{Death date and age|YYYY|MM|DD|1959|4|7|df=y}} (death date then birth date) -->
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| fields = [[Machine learning]]<ref name=googlescholar>{{Google scholar id}}</ref>
+| workplaces = {{Plainlist|
+* [[University of Oxford]]
+* [[Culham Centre for Fusion Energy]]
+* [[AEA Technology]]
+* [[Aston University]]
+* [[University of Edinburgh]]
+* [[Microsoft Research]]
+}}
+| education = {{Plainlist|
+* Earlham School
+* [[St Catherine's College, Oxford]] (BA) 
+* [[University of Edinburgh]] (PhD)
+}}
+| thesis_title = The semi-classical technique in field theory: some applications
+| thesis_url = http://hdl.handle.net/1842/11984
+| thesis_year = 1983
+| doctoral_advisor = {{Plainlist|
+* [[Peter Higgs]]<ref name=theburgh/>
+* [[David Wallace (physicist)|David Wallace]]<ref name=phd/>
+}}
+| honorific_suffix = {{post-nominals|country=GBR|FRS|FRSE|FREng|size=100%}}
+| academic_advisors = 
+| doctoral_students = {{Plainlist|
+* [[Neil Lawrence]]<ref name=mathgene>{{MathGenealogy}}</ref><ref name=nphd>{{cite thesis|url=http://thelawrences.net/neil/thesis.pdf|degree=PhD|publisher=University of Cambridge|title=Variational Inference in Probabilistic Models|first=Neil David|last=Lawrence|date=2000|id={{EThOS|uk.bl.ethos.621104}}|website=thelawrences.net|oclc=894596569|archiveurl=https://web.archive.org/web/20030418233723/http://thelawrences.net/neil/thesis.pdf|archivedate=2003-04-18}} {{free access}}</ref>
+* [[Danielle Belgrave]]}}
+| notable_students = 
+| known_for = ''Pattern Recognition and Machine Learning'' (PRML) book
+| influences = 
+| influenced = 
+| awards = {{Plainlist|
+* [[Royal Institution Christmas Lectures]] (2008)<ref name=xmas>[http://www.rigb.org/christmas-lectures/watch/2008/hi-tech-trek 2008 Royal Institution Christmas Lectures]</ref>
+* [[Turing Lecture]] (2010)}}
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = {{URL|https://www.microsoft.com/en-us/research/people/cmbishop/}}
+| footnotes = 
+| spouse = {{marriage|Jennifer Morris|1988}}
+| children = 2
+}}
+'''Christopher Michael Bishop''' (born 7 April 1959) is a British computer scientist. He is a Microsoft technical fellow and director of Microsoft Research AI4Science. He is also honorary professor of computer science at the University of Edinburgh, and a fellow of Darwin College, Cambridge. Bishop was a founding member of the UK AI Council, and in 2019 he was appointed to the prime minister's [[Council for Science and Technology]].<ref>{{Cite web |title=Membership - Council for Science and Technology |url=https://www.gov.uk/government/organisations/council-for-science-and-technology/about/membership |access-date=2026-10-14 |website=GOV.UK |language=en}}</ref>
+
+==Early life and education==
+Christopher Michael Bishop was born on 7 April 1959 in [[Norwich]], England, to Leonard and Joyce Bishop.<ref name=WW>{{Who's Who|title=Bishop, Prof. Christopher Michael|year=2021|id=U249776|doi=10.1093/ww/9780199540884.013.U249776}}</ref> He was educated at Earlham School in Norwich, and obtained a [[Bachelor of Arts]] degree in physics from [[St Catherine's College, Oxford]], and later a PhD in theoretical physics from the [[University of Edinburgh]],<ref name=WW/> with a thesis on quantum field theory supervised by [[David Wallace (physicist)|David Wallace]] and [[Peter Higgs]].<ref name=theburgh>{{cite web|publisher=[[University of Edinburgh School of Informatics]]|title=Professor Christopher Bishop elected Fellow of the Royal Society of Edinburgh|access-date=8 September 2020|url=https://www.inf.ed.ac.uk/events/news/chrisbishopfrse.html}}</ref><ref name=phd>{{cite thesis|degree=PhD|publisher=University of Edinburgh|title=The semi-classical technique in field theory : some applications|first= Christopher Michael|last=Bishop|date=1983|id={{EThOS|uk.bl.ethos.346542}}|hdl=1842/11984|oclc=59284998}} {{free access}}</ref>
+
+==Research and career==
+Bishop investigates [[machine learning]],<ref name=frs>{{cite web|url=https://royalsociety.org/people/christopher-bishop-13381/|title=Christopher Bishop|year=2017
+|author=Anon|website=royalsociety.org|publisher=[[Royal Society]]|location=London}}</ref> in which computers are made to learn from data and experience.<ref name="cmbishop">{{cite web |title=Microsoft Research Cambridge |url=https://www.microsoft.com/en-us/research/people/cmbishop/ |website=[[Microsoft]]}}</ref><ref name=nn>{{cite book|title=Neural Networks for Pattern Recognition|publisher=Oxford University Press|first=Christopher Michael|last=Bishop|year=1995|isbn=9780198538646}}</ref><ref name="TippingBishop1999">{{cite journal|last1=Tipping|first1=Michael E.|last2=Bishop|first2=Christopher M.|title=Probabilistic Principal Component Analysis|journal=Journal of the Royal Statistical Society, Series B|volume=61|issue=3|year=1999|pages=611–622|issn=1369-7412|doi=10.1111/1467-9868.00196|s2cid=15538672}}</ref> His former doctoral students include [[Neil Lawrence]]<ref name=mathgene/><ref name=nphd/> and [[Danielle Belgrave]].
+
+===Publications===
+Bishop is the author of two highly cited and widely adopted machine learning text books: Neural Networks for Pattern Recognition<ref>Neural Networks for Pattern Recognition (1995) {{ISBN missing}}</ref> and Pattern Recognition and Machine Learning.<ref>Pattern Recognition and Machine Learning https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/ (2006) {{ISBN missing}}</ref>
+His latest book, Deep Learning, Foundations and Concepts, was published in 2023 by Springer.<ref>{{Cite book |last=Bishop |first=Christopher M. |url=https://www.bishopbook.com/ |title=Deep Learning, Foundations and Concepts |publisher=Springer |year=2023}}</ref>
+
+===Awards and honours===
+Bishop was awarded the [[Tam Dalyell]] prize in 2009<ref>[http://www.ed.ac.uk/news/all-news/bishop-011209 Tam Dalyell Prize]</ref> and the Rooke Medal from the [[Royal Academy of Engineering]] in 2011.<ref>{{Cite web |url=http://www.raeng.org.uk/news/news-releases/2011/May/world-leading-engineer-set-to-collect-top-prize |title=Royal Academy of Engineering, Rooke Medal |access-date=1 September 2015 |archive-date=14 September 2021 |archive-url=https://web.archive.org/web/20210914095625/https://www.raeng.org.uk/news/news-releases/2011/May/world-leading-engineer-set-to-collect-top-prize |url-status=dead }}</ref> He gave the [[Royal Institution Christmas Lectures]] in 2008<ref name=xmas/> and the [[Turing Lecture]] in 2010. Bishop was elected a [[Fellow of the Royal Academy of Engineering]] (FREng) in 2004,<ref>{{Cite web|url=https://www.raeng.org.uk/news/news-releases/2011/May/world-leading-engineer-set-to-collect-top-prize|title=Royal Academy of Engineering|archive-url=https://web.archive.org/web/20210914095625/https://www.raeng.org.uk/news/news-releases/2011/May/world-leading-engineer-set-to-collect-top-prize|archive-date=14 September 2021|access-date=1 February 2018|url-status=dead}}</ref> a [[Fellow of the Royal Society of Edinburgh]] (FRSE) in 2007,<ref>{{Cite news|url=https://www.rse.org.uk/fellow/christopher-bishop/|title=Professor Christopher M Bishop FREng FRSE, FRS - The Royal Society of Edinburgh|work=The Royal Society of Edinburgh|access-date=2018-02-01|language=en-GB}}</ref> and [[Fellow of the Royal Society]] (FRS) in 2017.<ref name=frs/>
+
+==Personal life==
+Bishop married Jennifer Mary Morris in 1988. They have two sons.<ref name=WW/>
+
+==References==
+{{reflist}}
+
+{{FRS 2017}}
+{{Microsoft Research}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bishop, Christopher}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:British physicists]]
+[[Category:British computer scientists]]
+[[Category:Computer science educators]]
+[[Category:Alumni of St Catherine's College, Oxford]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Academics of Aston University]]
+[[Category:Fellows of the British Computer Society]]
+[[Category:Fellows of Darwin College, Cambridge]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:British fellows of the Royal Society]]
+[[Category:Microsoft employees]]
+[[Category:Microsoft Research people]]
+[[Category:Computer science writers]]
+[[Category:People from Norwich]]

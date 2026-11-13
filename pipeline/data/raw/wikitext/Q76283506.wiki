@@ -1,0 +1,131 @@
+{{Short description|Japanese theoretical physicist (1922–2019)}}
+{{Infobox scientist
+| name              = Hiroshi Enatsu
+| image             = 
+| birth_date        = {{birth date|1922|09|12}}
+| birth_place       = Miyakonojō, Japan
+| death_date        = {{death date and age|2019|08|04|1922|09|12}}
+| death_place       = Kyoto, Japan
+| citizenship       = {{JPN}}
+| ethnicity         = 
+| field             = [[theoretical physics]]
+| workplaces        = [[Kyoto University]]<br />[[Columbia University]]<br />[[Niels Bohr Institute]]<br />[[Ritsumeikan University]]
+| education         = [[Kyoto University|Kyoto Imperial University]]
+| doctoral_advisor  = [[Hideki Yukawa]]
+| doctoral_students = 
+| known_for         = 
+| religion          = 
+}}
+
+'''Hiroshi Enatsu''' (12 September 1922  – 4 August 2019) was a Japanese [[theoretical physics|theoretical physicist]] who contributed to a [[special relativity|relativistic]] [[Hamiltonian mechanics|Hamiltonian formalism]] in [[quantum field theory]].
+
+== Academic works ==
+Enatsu has found<ref>[[Matej Pavšič]], [http://www-f1.ijs.si/~pavsic/Book1Corr.pdf  "The Landscape of Theoretical Physics: A Global View, From Point Particles to the Brane World and Beyond, in Search of a Unifying Principle", Kluwer Academic, 2001]</ref> that the [[Canonical commutation relation|commutation relation]]<ref>[https://academic.oup.com/ptp/article/30/2/236/1868993 Relativistic Hamiltonian Formalism in Quantum Field Theory and Micro-Noncausality, August 1963]</ref>
+
+<math>[\psi (x, \tau), \psi ^*(x', \tau)] = \delta ( x - x' )</math>
+
+in a relativistic Hamiltonian formalism  
+is equivalent to that in the conventional non-relativistic Hamiltonian formalism of quantum field theory, 
+where <math>[\psi, \phi] = \psi \phi - \phi \psi</math> is the [[commutator]], 
+<math> x </math> is [[spacetime|space-time]] coordinates, 
+<math>\tau</math> is [[proper time]], 
+<math>\psi ^*</math> is [[Hermitian adjoint]] of <math>\psi</math>, 
+and <math>\delta (x)</math> is the [[Dirac delta function]], 
+with the aid of the relation
+
+<math>\epsilon ( x - x' ) \epsilon ( \tau - \tau' )=1</math>.
+
+Here, 
+a [[step function]] <math>\epsilon ( x ) </math> follows <math>\epsilon ( x )=1</math> for <math> 0 < x </math>, 
+and <math>\epsilon ( x )=-1</math> for <math>x <  0</math>.
+
+==Biography==
+===Early stage===
+Enatsu was born on 12 September 1922 in [[Miyakonojō]] as a son of Eizo and Fumi (Kuroiwa) Enatsu.  
+Miyakonojō is a town within the territory of the former [[Satsuma Domain]], 
+and it was rather natural for Enatsu to receive an education in [[Kagoshima]]. 
+So, he spent in Kagoshima for secondary education and [[junior college]].
+
+===Encounter with Hideki Yukawa===
+In the last year of junior college, 
+Hideki Yukawa made a lecture on meson theory at Kagoshima. 
+After listening to the lecture, 
+Enatsu became interested in Yukawa and meson theory,
+so he decided to study under Yukawa.  
+He studied on meson theory under Yukawa in undergraduate course.  
+He received Bachelor of Science from [[Kyoto University|Kyoto Imperial University]] in 1944.  
+He received [[Doctor of Science]].<ref>[https://translate.google.co.jp/translate?hl=en&sl=ja&u=http://hakase.site/article/29086&prev=search Doctoral dissertation on nucleon self-energy and mass spectrum of elementary particles ]</ref> from [[Kyoto University|Kyoto Imperial University]] in 1953 under Yukawa.
+Enatsu was an assistant under Yukawa at Kyoto University<ref>[https://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=search&rurl=translate.google.co.jp&sl=ja&sp=nmt4&u=https://www.jstage.jst.go.jp/article/soken/3/4/3_KJ00004821908/_article/-char/ja/&xid=17259,15700022,15700186,15700191,15700256,15700259,15700262,15700265,15700271,15700283&usg=ALkJrhh5LDxnsFGDxUAXj4rD6yVQ0sUvhQ Prof. Yukawa to Hiroshi Enatsu (Overseas News)]</ref><ref>[https://translate.google.co.jp/translate?hl=en&sl=ja&u=https://ci.nii.ac.jp/naid/110006550361&prev=search Prof. Yukawa to Hiroshi Enatsu (Overseas News)]</ref> from 1946 to 1957.  
+Enatsu was a research assistant at Columbia University <ref>[https://journals.aps.org/pr/abstract/10.1103/PhysRev.95.263 Theory of Unstable Heavy Particles, received May 1953, published July 1954]</ref> in New York City from 1952 to 1953.
+
+===Encounter with Niels Bohr===
+Enatsu was a visiting member of the Institute for Theoretical Physics in Copenhagen<ref>[http://archon.nbi.dk/?p=digitallibrary/digitalcontent&id=5413 Niels Bohr Private Correspondence]</ref><ref>[http://archon.nbi.dk/?p=digitallibrary/digitalcontent&id=5414 Niels Bohr Private Correspondence]</ref> from 1955 to 1956.  
+During his stay in Copenhagen, 
+he could ask some questions to Bohr almost every week.
+It was a special treatment.
+
+===Professor at Ritsumeikan University===
+In 1957, 
+Enatsu was an assistant professor and inaugurated a professor at [[Ritsumeikan University]] in Kyoto.  
+From 1971 to 1972, 
+he was also the dean of faculty of science and engineering at Ritsumeikan University.  
+In 1988, 
+he retired from a professor at Ritsumeikan University in Kyoto, and has been a professor emeritus.  
+In 1997. 
+he received the 3rd class of the [[Order of the Sacred Treasure]].  
+Enatsu died on 4 August 2019 in Kyoto<ref>[https://translate.google.co.jp/translate?hl=en&sl=ja&u=https://www.subutsu.com/%3Fp%3D476&prev=search Intelligence: Dr. Hiroshi Enatsu]</ref>
+
+== Notes ==
+{{reflist}}
+
+== Research articles ==
+* [https://academic.oup.com/ptp/article/4/4/543/1844155 On the Photodisintegration of the Deuteron (Pseudoscalar Meson Theory.), December 1949]
+* [https://academic.oup.com/ptp/article/5/1/102/1856850 On the Nuclear Forces, February 1950]
+* [https://academic.oup.com/ptp/article/5/5/883/1850344 On the Interaction of Mesons and Nucleons, September 1950]
+* [https://academic.oup.com/ptp/article/6/2/261/1911376 On the Mass of Cohesive Meson and the Mass Difference Of Nucleon, April 1951]
+* [https://academic.oup.com/ptp/article/6/3/435/1852629 On the Mass of Cohesive Meson and the Mass Difference of Nucleons, II, June 1951]
+* [https://academic.oup.com/ptp/article/6/5/665/1843336 On the Mass Difference of Nucleons and the Cohesive Mesons, October 1951]
+* [https://academic.oup.com/ptp/article/6/5/731/1843606 On the Self-energies of Mesons, October 1951]
+* [https://academic.oup.com/ptp/article/6/5/643/1843282 On the Self-Energies of Nucleons, October 1951]
+* [https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.483.2 Self-Energies of Nucleons and the Mass Spectra of Heavy Particles, February 1952]
+* [https://academic.oup.com/ptp/article/11/2/125/1860340 Mass Spectrum of Elementary Particles I: Eigenvalue Problem in Space-time, February 1954]
+* [https://academic.oup.com/ptp/article/12/3/363/1866591?login=true Mass Spectrum of Elementary Particles, II, September 1954]
+* [https://journals.aps.org/pr/abstract/10.1103/PhysRev.95.263 Theory of Unstable Heavy Particles, July 1954]
+* [https://link.springer.com/article/10.1007/BF02744331 Relativistic quantum mechanics and mass-quantization, 1956]
+* [https://academic.oup.com/ptp/article/30/2/236/1868993 Relativistic Hamiltonian Formalism in Quantum Field Theory and Micro-Noncausality, August 1963]
+* [https://www.osti.gov/biblio/4796385  Covariant Hamiltonian Formalism for Particles of any Spin and Nonzero Mass, 1968]
+* [https://ci.nii.ac.jp/naid/110004862885/ Micro-noncausal theory of the hydrogen atom 1971]
+* [https://link.springer.com/article/10.1007%2FBF02778255 Covariant Hamiltonian formalism for quantized fields and the hydrogen mass levels, 1975]
+* [https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=7261664 On the hyperfine structure splittings of hydrogen, 1975]
+* [https://inis.iaea.org/search/search.aspx?orig_q=RN:8314535 Proton-proton scattering problem in a covariant Hamiltonian formalism, 1976]
+* [https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=8314634 Four-dimensional tensor forces and electric quadrupole moments in the bound-states of the deuteron, 1976]
+* [https://link.springer.com/article/10.1007/BF02730345 Micrononcausal euclidean wave functions for hadrons, February 1978]
+* [https://inis.iaea.org/search/search.aspx?orig_q=RN:15054213 Hyperfine structure splittings of the hydrogen atom in a covariant Hamiltonian formalism, 1983]
+* [https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902093025503023 Bethe-Salpeter type equations for a covariant Hamiltonian formalism in quantum field theory, 1984]
+* [https://link.springer.com/article/10.1007/BF02905819 Quantization of masses of elementary particles with micrononcausal structures, October 1986]
+* [https://ui.adsabs.harvard.edu/abs/1987NCimA..97..595E/abstract Quantization of masses of elementary particles with micrononcausal structures 1987]
+* [https://link.springer.com/article/10.1007/BF02730608#auth-H_-Enatsu  Quantization of the mass of the W-boson in the Weinberg-Salam theory, 1988]
+
+== References ==
+
+* Levere Hostler, [https://aip.scitation.org/doi/10.1063/1.524767  "Quantum field theory of particles of indefinite mass. II. An electromagnetic model", 1981]
+* John R. Fanchi & Weldon J. Wilson, [https://link.springer.com/article/10.1007/BF00730099  "Relativistic many-body systems: Evolution-parameter formalism", 1983]
+* Matej Pavsic, [https://inspirehep.net/literature/480963  "PseudoEuclidean signature harmonic oscillator, quantum field theory and vanishing cosmological constant", 1998]
+* Juan P. Aparcio, Fabian H. Gaioli, and Edgardo T. Garcia Alvarez, [https://core.ac.uk/download/pdf/25243267.pdf "Proper Time Derivatives in Quantum Mechanics", 1998]
+* Edgardo T. Garcia Alvarez & Fabian H. Gaioli, [https://link.springer.com/article/10.1023/A:1026649611260 "Covariant Hamiltonian Formalisms for Particles and Antiparticles", 1999]
+* (Eds.) Rosolino Buccheri, Metod Saniga & William Mark Stuckey, "The Nature of Time: Geometry, Physics and Perception", pp.&nbsp;173-pp.&nbsp;174, 2003 (Springer).
+* Ed Seidewitz, [https://www.researchgate.net/publication/2195972_Foundations_of_a_spacetime_path_formalism_for_relativistic_quantum_mechanics#fullTextFileContent "Foundations of a Spacetime Path Formalism for Relativistic Quantum Mechanics", November 2006]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Enatsu, Hiroshi}}
+[[Category:Japanese physicists]]
+[[Category:Academic staff of Ritsumeikan University]]
+[[Category:Academic staff of Kyoto University]]
+[[Category:Japanese expatriates in the United States]]
+[[Category:Kyoto University alumni]]
+[[Category:Kagoshima University alumni]]
+[[Category:People from Miyakonojō]]
+[[Category:1922 births]]
+[[Category:2019 deaths]]
+[[Category:Scientists from Miyazaki Prefecture]]

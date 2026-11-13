@@ -1,0 +1,47 @@
+'''Harvey S. Gellman''' (1924–2003) was born in [[Poland]] and emigrated to Canada when he was very young. After getting a Ph.D., he launched a successful career as a consultant in [[Toronto]]. He was remembered as being "one of Canada's computer pioneers and most distinguished consultants".<ref name="itworldcanada.com">{{cite web|url=http://www.itworldcanada.com/news/remembering-harvey/119204|archive-url=https://web.archive.org/web/20110927161227/http://www.itworldcanada.com/news/remembering-harvey/119204|url-status=usurped|archive-date=September 27, 2011|title=Remembering Harvey|work=IT World Canada|date=2 June 2003 }}</ref>
+
+==Studies==
+H. S. Gellman got his doctorate in Applied Mathematics at the [[University of Toronto]] in 1951.  While working on his thesis, he worked at the first computer center in Canada at the University of Toronto, a Ferranti (one of 9 made according to the [[Computer History Museum]]), and did the programming.  His Ph. D. work was on the origins of the [[Earth's magnetic field]] and his thesis was "Computation of the magnetic field produced by a moving liquid",<ref>{{Cite web|url=https://www.ams.org/bull/1952-58-03/S0002-9904-1952-09602-6/S0002-9904-1952-09602-6.pdf|title=Bulletin of the American Mathematical Society}}</ref> with his supervisor [[Edward Crisp Bullard|Edward Bullard]].<ref>This work is summarized in ''Encyclopedia of Geomagnetism and Paleomagnetism'', by David Gubbins, Emilio Herrero-Bervera, 2007:166.</ref> The Bullard-Gellman Dynamo, presented in a pioneering paper in 1954, was the first convincing qualitative model for dynamo action in a fluid sphere.<ref>{{cite book|url=https://books.google.com/books?id=O-wA0ocxAiIC&dq=Harvey+Gellman&pg=PA166|title=Encyclopedia of Geomagnetism and Paleomagnetism| isbn=9781402044236|last1=Gubbins|first1=David|last2=Herrero-Bervera|first2=Emilio|date=19 July 2007|publisher=Springer }}</ref>
+
+Harvey reported to his coauthor, Alistair Davidson, that the Ferranti computer cost approximately $300,000. At that time, he was earning $3,000 as a graduate student.
+
+==Career==
+He got his first consulting job in 1955 with Adalia Ltd. in association with Sir [[Robert Watson-Watt]], the British radar pioneer. Adalia's initial work for TCA (Trans Canada Airlines) seems to have been as a working group for Adalia Ltd.[IEEE The Annals of the History of Computing Volume:16 Issue:2 Date:Summer 1994]  In 1956, he formed his own company, H. S. Gellman & Co. Although KCS Data Control Ltd. of Toronto developed the system design for the Gemini (later renamed Reservec) system, but seems to have lost the bid for the later programming contract to H.S. Gellman and Company Ltd. of Toronto. H.S. Gellman & Company worked on the Reservec System for TCA until the early 60's.  Another of his early consulting jobs was with [[Atomic Energy of Canada]], where he wrote analytical programs for the scientists at [[Chalk River Laboratories]].  One of his early employees, W.K. Hastings, recalls him as a great mentor.<ref>{{cite web|url=http://www.probability.ca/hastings/|title=W.K. Hastings, Statistician and Developer of the Metropolis-Hastings Algorithm|work=probability.ca}}</ref>
+
+In 1964, H.S. Gellman & Co. Ltd. was bought by DCF Systems Limited to strengthen their analytical talent.<ref>The Globe and Mail, Nov. 11, 1966, B7</ref> DCF was a consortium founded by [[De Havilland Aircraft of Canada Ltd|de Havilland Canada]], CAE and Ferranti to bid on the installation of Bomarc missile bases in Canada in the mid early 1960s. Gellman then became  vice-president<ref>''The Toronto Star'', May 7, 1964, 13</ref> and soon afterwards president of DCF. On Nov. 8, 1966, in association with Ronald C. Carroll (vice-president of DCF), Gellman purchased DCF from the de Havilland.<ref>''The Globe and Mail'', Nov. 8, 1966. B6.</ref>
+ 
+Harvey Gellman was a founding member of the [[Canadian Information Processing Society]] (CIPS), and served as its president in 1965.<ref name="itworldcanada.com"/> He was named International Systems Man of the Year in 1967 by The Association for Systems Management. He also helped found the Institute of Certified Management Consultants of Ontario, holding the post of president in 1968.<ref name="itworldcanada.com"/> He was president of the [[Canadian Association of Management Consultants]] from June 1970 to July 1971.<ref>''The Globe and Mail'', July 20, 1971. B16.</ref>
+
+He understood quite early that computers would play a major role in everyday life: "Eventually, Dr. Gellman believes, computers may be as available as telephones and electricity, and on somewhat the same basis".<ref>Fraser Robertson, "Computers program some questions, too, for all to ponder", ''The Globe and Mail'', April 26, 1966. B5</ref> He also foresaw the commodification of computer software: "the computer use of pre-programmed application packages will become more widespread as managers realize their organizations are not entirely different from others".<ref>''The Globe and Mail'', June 27, 1968. B3.</ref>
+
+DCF merged with AGT Data Systems in 1969. AGT/DCF was now a large computer system consulting firm. His clients included many of the biggest firms in Canada (Eaton's, Maclean-Hunter, Imperial Oil, [[Air Canada]], [[Bank of Canada]], Bank of Montreal, etc.) as well as various provincial governments. Harvey Gellman, Jim Hayward, Burry Foss and Michael Asner founded  Gellman-Hayward & Partners Ltd. in 1974 as a limited partnership. In 1992, this company was acquired by the [[CGI Group]]. Harvey retired from CGI in 1997.
+
+==Social responsibility==
+While he was president of DCF Systems Ltd, H.S. Gellman insisted in public conferences on the social responsibility of management consultants.<ref>Murray Guest, "Management consultants' president hopes to gain trust of businessmen", ''The Globe and Mail'', Nov. 17, 1970. B4</ref> He also insisted on the importance of developing secure systems for the protection of data.<ref>W. Cheveldayoff, "Banking system being forced into more use of automation", ''The Globe and Mail'', Aug. 31, 1972. B1.</ref> He was a mentor and coach to many people.
+
+He developed his philosophy of information management in a book published in 1995 in collaboration with Alistair Davidson and Mary Chung: ''Riding the Tiger''.<ref>{{cite book|first1=Alistair |last1=Davidson|first2=Harvey |last2=Gellman|first3=Mary|last3=Chung|url=https://www.amazon.com/exec/obidos/ASIN/1571120998/alistadavidsshom|title=Riding the Tiger}}</ref> The book was published in [[Hardcover|hardback]] by HarperCollins Canada, with Don Loney as the editor in 1997. The second edition, a paperback was published in the US in 1999 under the imprint, Jist Publications.
+
+Alistair Davidson, a co-author on the book, Riding the Tiger, comments that Harvey is best known for an important rule he had developed over decades. "If the Chief Information Officer in a company reports to the Chief Financial Officer, the company will typically end up with bad information management. If the CIO reported to the CEO, it was more likely that the company would end up with good information management."
+
+==Publications==
+
+Harvey Gellman was a prolific author of articles published in many journals.  A couple of early articles on computer security are list below:
+
+*Gellman, Harvey S., ''How The Computer Can Be Used To Rob You Blind'', Risk Management (August/September 1971).
+*Gellman, Harvey S., ''Using The Computer To Steal'', Computers & Automation (April 1971) p.&nbsp;16.<ref>{{cite journal|url=http://portal.acm.org/citation.cfm?id=1017537|title=Computer security|website=acm.org|date=1972 |doi=10.1145/1017536.1017537 |last1=Browne |first1=Peter S. |volume=4 |issue=3 |pages=1–12 |doi-access=free }}</ref>
+
+He also co-authored a book called ''Riding the Tiger'', a classic book filled with timeless lessons about information management.<ref>{{cite web|url=http://www.eclicktick.com/reviews_of__riding_the_tiger_.htm|title=Reviews of "Riding the Tiger"|work=eclicktick.com|access-date=2010-03-13|archive-url=https://web.archive.org/web/20081212061949/http://www.eclicktick.com/reviews_of__riding_the_tiger_.htm|archive-date=2008-12-12|url-status=dead}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{MathGenealogy|id=16013}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gellman, Harvey S.}}
+[[Category:Canadian management consultants]]
+[[Category:2003 deaths]]
+[[Category:1924 births]]
+[[Category:Polish emigrants to Canada]]

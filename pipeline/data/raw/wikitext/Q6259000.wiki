@@ -1,0 +1,43 @@
+{{BLP sources|date=August 2010}}
+{{Infobox scientist
+| name =John Steinhoff
+| image =
+| caption = 
+| birth_date={{Birth date and age|1942|09|15}}
+| death_date =
+| death_place =
+| residence = 
+| field =[[Physics]]
+| workplaces =[[University of Tennessee Space Institute]]
+| doctoral_advisor =
+| doctoral_students =
+| known_for =Vorticity Confinement method
+| awards = 
+| religion = 
+| footnotes =
+}}
+
+'''John Steinhoff''' (born 15 September 1942) is a classical physicist, best known for his important contributions to [[computational fluid dynamics]] field. He invented a physics based method called [[vorticity confinement]] to compute the numerical solution of [[partial differential equation]]s.
+
+== Biography ==
+
+Steinhoff studied at [[University of Chicago]] where he was awarded a M.S. degree in physics. Later, in 1972, [[University of Chicago]] awarded him with a Ph.D. degree. He later held a faculty position in the department of aerospace engineering, [[University of Tennessee]] Space Institute from 1981 to 2011.<ref>{{cite web|title=John Steinhoff|url=https://www.researchgate.net/profile/John-Steinhoff-2|accessdate=5 July 2022}}</ref>
+
+Most of his research has been involved the treatment of vortex-dominated flows in computational fluid dynamics and the treatment of short wave equation pulses, including the solution of real problems of engineering importance. The recent development of the vorticity confinement method that eliminates effects of numerical diffusion, for computations on Eulerian grids, without the use of Lagrangian markers.  This technique has recently been used in many applications involving computation of: Helicopter Blade—Vortex Interaction, Delta Wing Flow, Helicopter Rotor/Body Flow, Helicopter Body—Vortex Interaction, Dynamic Stall, Aircraft Trailing Vortices, Supersonic Flow Over Missiles. Steinhoff also developed another computational technique, wave confinement, for propagating short wave equation pulses over long distances without the use of Lagrangian markers, which require the use of complex [[logic]] and are not feasible for intersecting pulses. This has major applications in communications, radar wave scattering, etc. His methods have also been used in creating special effects for movies such as [[Harry Potter]] and [[The Core]].{{Citation needed|date=May 2010}}
+
+He also authored many scholarly articles and chapters on Vorticity Confinement. He was awarded the Arnold Research award for his major accomplishments in [[Computational fluid dynamics|CFD]] field.
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Steinhoff, John}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:University of Tennessee faculty]]
+[[Category:American computational physicists]]
+[[Category:University of Chicago alumni]]
+[[Category:20th-century American physicists]]
+[[Category:American fluid dynamicists]]

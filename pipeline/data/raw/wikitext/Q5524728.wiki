@@ -1,0 +1,101 @@
+{{Short description|New Zealand physicist (1938–2018)}}
+{{Use dmy dates|date=May 2022}}
+'''Gary Edward John Bold''' (1938 – 3 July 2018){{R|Herald notice}} was a New Zealand [[physicist]], {{as of|2009|lc=on}} an Honorary Associate Professor in physics at the [[University of Auckland]]. After gaining a PhD in 1961, Bold became a lecturer who taught across all courses in the physics department at the University. His research areas included [[underwater acoustics]] and application of physics theory to understanding [[human consciousness]]. He was highly regarded as a teacher and won the Prime Minister's Supreme Award at the 2004 Tertiary Teaching Excellence Awards. Bold had an interest in amateur radio and as an active member of the New Zealand Association of Radio Transmitters (NZART), won a prize for the quality of his columns in the organisation's newsletters.
+
+== Education ==
+Bold received a doctoral degree in 1970 from the [[University of Auckland]]. His doctoral thesis was titled ''Antipodal HF radio propagation''.<ref>{{cite thesis |last=Bold |first=Gary |year=1970 |type=Doctoral thesis |title=Antipodal HF radio propagation. |publisher=ResearchSpace@Auckland, University of Auckland |hdl=2292/2595 |url=https://researchspace.auckland.ac.nz/handle/2292/2595}}</ref>
+
+==Teaching==
+While not becoming a lecturer until 1961, Bold began teaching in 1960 as an MSc student.{{R|Beginning}} Over his career, he taught every course in the physics department at the University of Auckland, including [[geophysics]], [[signal processing]] and [[network theory]].  He also revised experiments and "designed the curriculum for many second- and third-year physics courses". in 2004, Bold told the [[NZ Herald]] that every year he had adapted and improved his teaching.{{R|Best and brightest}} He wrote on pedagogy and in 1996 co-authored an article for the [[American Journal of Physics]] that proposed a top-down model for teaching physics.  The writers acknowledged that this "reversed the traditional model and was based on beginning all lecture treatments with discussions of complex, yet familiar phenomena and working backward to discussions of the simple physical laws underlying them".{{R|Pedagogy article}} Early in his teaching career Bold realised that to be an effective lecturer he needed to develop his verbal skills so that the sessions were interesting for the students.  He held that it was crucial for an educator to critically examine their delivery and look for and accept feedback.{{R|Beginning}}
+
+Many students and colleagues have attested to Bold's teaching expertise. In 2004, one student Bernadette Waller said of Bold:<blockquote> He makes learning the material easy and interesting. He lectures in such an entertaining manner, inserting jokes, competitions and even songs into the work. He is one of the only lecturers who has managed to get responses to questions from students in class.{{R|Ingenio article|page=p.12}}</blockquote>
+
+Tom Barnes, University of Auckland Deputy Vice-chancellor (Research) at the time, claimed that Bold taught him how to teach and because "his knowledge [was] encyclopaedic and his enthusiasm boundless...[his]... lecture preparation [was] simply the best I have ever come across." Barnes added that Bold had a commitment to his students that went beyond the lecture hour and "time and again I have seen him surrounded at the end by a group of animated young people eager to bounce ideas off him and know more."{{R|Ingenio article|page=p.12}}
+
+==Selected research==
+===Environmental underwater acoustics===
+Bold co-authored an article in the ''Marine Technology Society Journal'' that summarises the work of the New Zealand group in the Acoustic Thermometry of Ocean Climate (ATOC) programme from 1991 to 1996. The article explains in the introduction that underwater sound could be a way of measuring global [[ocean warming]] and earlier research had noted "that a sound source placed at Heard Island in the southern Indian Ocean would allow uninterrupted straight line paths for underwater sound to travel to great distances, including both coasts of North America...[and]...a  feasibility experiment was conducted in 1991 leading to the Acoustic Thermometry of Ocean Climate (ATOC) program." The article traces the involvement of the New Zealand group, beginning with the Heard Island Feasibility Test (RIFT) which attempted to see whether underwater sound from a sound projecting source could be detected at long ranges. The results were mixed with a lack of detectable signals at times, attributed to internal waves and a larger source being needed.  A strong signal from Heard Island was however, observed close to Tasmania.{{R|ATOC}}
+
+Bold was involved in research that looked at ways to determine oceanic acoustic transfer functioning and co-authored a study ''"Signals for optimum band limited system interrogation with application to underwater acoustics"'' which gives an illustration of the use of [[Continuous-wave radar|Stepped frequency chirps]] in an underwater experiment.{{R|Stepped frequency}}
+
+===High frequency radio propagation===
+Bold's thesis in 1970, follows up the work of previous researchers into the problems around the propagation of [[HF radio]] and explores the effects happening at antipodal distances, with a goal of developing a model of propagation that reflects these.  The research concludes that it is possible to calculate the "distribution of power near the antipode of an HF transmitter", and factors such as "frequency fluctuations" can be included into a realistic model.{{R|Thesis|page =p.136}}
+
+===Numerical ray tracing===
+A paper co-authored by Bold in 1986, showed evidence that when a system is broken down into its compositional parts, (top down approach) [[Ray tracing (graphics)|ray tracing]] is accurate and easy to apply. The authors note that compared to a more traditional approach of mixing rather than isolating the steps in the process, the top down approach  using computing power has the potential to develop knowledge of "powerful integration subroutines...[and]...their extraordinary accuracy makes the payoff worth the effort expended in understanding their use."{{R|Ray tracing}} In 1981 Bold collaborated on a project that explored an improved model at the time, for getting better ray calculations by using bounded beams to modify ray paths with a uniform sound speed profile in the Pekeris channel. The authors concluded that this can affect the eigenray yields, [and appeared] "to be as good as [[normal mode]] theory for practical calculations in shallow water".{{R|Ray calculations}}
+
+===Human consciousness===
+A study in 2009 used EEG to measure simultaneous occurrence at two electrode sites of brainwaves within a broad frequency band, and notes "episodic global phase synchrony" [is] widely identified. The study said the data validated using EEG in this process, and concludes: "If long-range phase synchrony really is a hallmark of consciousness, it should be present most of the time the subject is conscious. Our results confirm this prediction, and suggest that consciousness may involve not only gamma frequencies, but the whole range from theta to epsilon."{{R|Cognitive task}}
+
+Bold contributed to research that explored the [[hypothesis]] that a person's [[consciousness]] may not be continuous. The paper published in 2011 and co-authored by Bold, said in the introduction that the concept had been around a long time and the question asked was whether an individual's consciousness could be a "series of "discrete chunks or perceptual moments...[similar to]... cinematographic frames".{{R|Consciousness research}}  Data from waking and unconscious people were gathered  to compare the "frequency of local [[Maxima and minima|minima]] in the analytic power (AP) using [[Electrocorticography|intracranial EEG (ECoG)]]." The results indicated that local minima in AP could have acted as a "shutter", and  that  consciousness may be discontinuous because of the consequence of oscillations that are widely found in nature, and "not due to some specifically biological factor".{{R|Consciousness research}}
+
+==Associations==
+Bold was a life member of the New Zealand Association of Radio Transmitters (NZART) and contributed regularly to ''Break-In'', the journal of that organisation.{{R|NZART}} He was acknowledged as a "well known [[Continuous wave|CW]] operator...[and]...a great teacher...who was a long time member of the Chicken Fat Operators club, devoted entirely to [[Morse Code]]."{{R|Acknowledgements}} Bold - known at the time as Morseman - is credited with writing the software for TeachMorse, a [[Windows]] application that provided a means of playing practice text at different speeds.{{R|Teach Morse}}
+
+==Further publications==
+
+C.T. Tindle, M.K. Guthrie, G.E.J. Bold, T.G. Birdsall et al.: "Measurements of the frequency dependence of normal modes", Journal of the [[Acoustical Society of America]], 64, number 4, 1978, pp 1178–1185.
+
+G.E.J. Bold: "Power distribution near the antipode of a short-wave transmitter", Journal of Atmospheric and Terrestrial Physics, 31, 1969, pp 1391–1411.
+
+Gary E.J. Bold: "Simple [[computer network]] analysis", IEEE Transactions on Education, E-30(2), May 1987, pp 99 – 102. Summary
+
+Gary E.J. Bold, and Sze M. Tan: "Teaching simulation with a "digital" [[analog computer]] ". American Journal of Physics, 53(4), 1985, pp 437 – 442
+
+==Awards==
+For what was noted as his "articles throughout the year and the previous thirty odd years before!", Bold won the New Zealand Association of Radio Transmitters (NZART) Break-In Award for the ''Best Columnist Article'' in 2017.{{R|Break in award}}
+
+Bold won the Prime Minister's Supreme Award at the 2004 Tertiary Teaching Excellence Awards, which included a prize of NZD$30,000. Upon receiving the award, his advice was to "seek out the excellent practitioners, and shamelessly adapt their ideas.  They'll be delighted."{{R|advice}} He also told the NZ Herald, that after 43 years of teaching he was "getting the hang of university teaching" and working with the "best and brightest young minds had kept him young...[and been]...an amazing experience."{{R|Best and brightest}}
+
+==References==
+<references>
+
+<ref name="Herald notice">{{cite web|url=http://notices.nzherald.co.nz/obituaries/nzherald-nz/obituary.aspx?n=gary-edward-john-bold&pid=189461612|title=Gary Edward John BOLD |date=5 July 2018|publisher=[[New Zealand Herald]] |url-status=live|archive-url=https://web.archive.org/web/20180705033216if_/http://notices.nzherald.co.nz/obituaries/nzherald-nz/obituary.aspx?n=gary-edward-john-bold&pid=189461612|archive-date=5 July 2018|access-date= 5 July 2018}}</ref>
+
+<ref name="Beginning">{{Cite web |date=2003 |title=Tertiary Teaching Excellent Awards 2004. Nomination for: Gary Bold |url=https://cdn.auckland.ac.nz/assets/central/about/teaching-and-learning/excellence-and-innovation/national-tertiary-teaching-excellence-awards/documents/bold-ttea-portfolio-2004.pdf |url-status=live|archive-url=https://web.archive.org/web/20160213024648if_/https://cdn.auckland.ac.nz/assets/central/about/teaching-and-learning/excellence-and-innovation/national-tertiary-teaching-excellence-awards/documents/bold-ttea-portfolio-2004.pdf|archive-date=13 February 2016}}</ref>
+
+<ref name="Best and brightest">{{Cite news |last=Dye |first=Stuart |date=24 June 2004 |title=Veteran lecturer masters his craft |work=[[The New Zealand Herald]] |url=https://www.nzherald.co.nz/nz/veteran-lecturer-masters-his-craft/ETRB4UEC3QC6YINSAKBUXMNM2U/?c_id=1&objectid=3574480 |url-status=live|archive-url=https://web.archive.org/web/20220515094855if_/https://www.nzherald.co.nz/nz/veteran-lecturer-masters-his-craft/ETRB4UEC3QC6YINSAKBUXMNM2U/?c_id=1&objectid=3574480|archive-date=15 May 2022|access-date=15 May 2022}}</ref>
+
+<ref name="Pedagogy article">{{Cite journal |last1=Dudley |first1=J.M.|last2=Bold|first2=G.E.J. |date=April 1996 |title=''Top-down teaching'' in noncalculus-based introductory physics classes |url=https://ui.adsabs.harvard.edu/abs/1996AmJPh..64..418D/abstract |url-status=live|archive-url=https://web.archive.org/web/20220516105343if_/https://ui.adsabs.harvard.edu/abs/1996AmJPh..64..418D/abstract|archive-date=16 May 2022|journal=American Journal of Physics |volume=64|issue= 4|pages=414–421|doi=10.1119/1.18257 |bibcode=1996AmJPh..64..418D }}</ref>
+
+<ref name="Ingenio article">{{Cite journal |last=Guy |first=Camille |date=2004 |title=Getting the hang of it |url=https://cdn.auckland.ac.nz/assets/alumni/publications/ingenio/ingenio_spring04.pdf |url-status=live|archive-url=https://web.archive.org/web/20150124180441if_/https://cdn.auckland.ac.nz/assets/alumni/publications/ingenio/ingenio_spring04.pdf|archive-date=24 January 2015|journal=Ingenio Magazine of the University of Auckland |volume=Spring |pages=12–13}}</ref>
+
+<ref name="ATOC">{{Cite journal |last1=Tindle |first1=C.T. |last2=Bold|first2=G.E.J.|date=1999 |title=ATOC and Other Acoustic Thermometry Observations in New Zealand |url=https://www.ingentaconnect.com/contentone/mts/mtsj/1999/00000033/00000001/art00007|url-status=|archive-url=https://web.archive.org/web/20220515223948if_/https://docserver.ingentaconnect.com/deliver/connect/mts/00253324/v33n1/s7.pdf?expires=1652656150&id=0000&titleid=41000011&checksum=9FACF9BB5ACEDEFF74E9E84AFFFFB724&host=https%3A%2F%2Fwww.ingentaconnect.com|archive-date=15 May 2022|journal=Marine Technology Society Journal |volume=55-60|number=1}}</ref>
+
+<ref name="Stepped frequency">{{Cite journal |last1=Bold |first1=Gary E.J. |last2=Johns|first2=Murray D.|date=1987 |title=Signals for optimum bandlimited system interrogation with application to underwater acoustics |journal=The Journal of the Acoustical Society of America |volume=82|issue=4|pages=991–999|doi=10.1121/1.394526 |bibcode=1987ASAJ...81..991B |doi-access=free}}</ref>
+
+<ref name="Thesis">{{Cite thesis |last=Bold |first=Gary E.J. |date=1970 |title=Antipodal HF radio propagation |url=https://researchspace.auckland.ac.nz/handle/2292/2595 |url-status=live|archive-url=https://web.archive.org/web/20180228172036if_/https://researchspace.auckland.ac.nz/handle/2292/2595|archive-date=28 February 2018|location=Thesis (PhD Radio Science) University of Auckland, 1970.|type=Thesis }}</ref>
+
+<ref name="Ray tracing">{{Cite journal |last1=Bold |first1=Gary E.J. |last2=Birdsall|first2=Theodore G.|date=1986 |title=A top-down philosophy for accurate numerical ray tracing |url=https://asa.scitation.org/doi/10.1121/1.394060 |url-status=live|archive-url=https://archive.today/20220517010341/https://asa.scitation.org/doi/10.1121/1.394060|archive-date=17 May 2022|journal=The Journal of the Acoustical Society of America |volume=80|issue=2|pages=656–660 |doi=10.1121/1.394060 |bibcode=1986ASAJ...80..656B |url-access=subscription }}</ref>
+
+<ref name="Ray calculations">{{Cite journal |last=Tindle |first=C.T. |date=1981 |title=Improved ray calculations in shallow water |url=https://asa.scitation.org/doi/abs/10.1121/1.386921?journalCode=jas |journal=The Journal of the Acoustical Society of America |volume=70|issue=3 |pages=813–819 |doi=10.1121/1.386921 |bibcode=1981ASAJ...70..813T |url-access=subscription }}</ref>
+
+<ref name="Cognitive task">{{Cite journal |last1=Pocket |first1=Susan |last2=Bold|first2=Gary E.J.|last3=Freeman|first3=Walter J.|date=April 2009 |title=EEG synchrony during a perceptual-cognitive task: widespread phase synchrony at all frequencies |journal=Clinical Neurophysiology |volume=120 |issue=4 |pages=695–708|doi=10.1016/j.clinph.2008.12.044 |pmid=19250863 |s2cid=11797761 }}</ref>
+
+<ref name="Consciousness research">{{Cite journal |last1=Pockett |first1=Susan |last2=Brennan|first2=B.J.|last3=Bold|first3=Gary|last4=Holmes|first4=Mark D.|date=December 2011 |title=A Possible Physiological Basis for the Discontinuity of Consciousness |url=https://www.researchgate.net/publication/51954178 |journal=Frontiers in Psychology |volume=2|issue=377 |page=377 |doi=10.3389/fpsyg.2011.00377 |doi-access=free |pmid=22203811 |pmc=3241343 |url-status=live|archive-url=https://web.archive.org/web/20220516064427if_/https://www.researchgate.net/publication/51954178_A_Possible_Physiological_Basis_for_the_Discontinuity_of_Consciousness|archive-date=16 May 2022}}</ref>
+
+<ref name="NZART">{{Cite web |title=Gary ZL1AN, Auckland, New Zealand |url=https://www.qsl.net/zl1an/ |url-status=live |archive-url=https://web.archive.org/web/20121031130653if_/https://www.qsl.net/zl1an/ |archive-date=31 October 2012 |access-date=16 May 2022 |website=Gary ZL1AN}}</ref>
+
+<ref name="Teach Morse">{{Cite web |title=Morse Code Learning Tools |url=https://www.nzart.org.nz/learn/morse-code/learning-tools |url-status=live |archive-url=https://web.archive.org/web/20220306194423if_/https://www.nzart.org.nz/learn/morse-code/learning-tools |archive-date=6 March 2022 |access-date=17 May 2022 |website=NZART New Zealand Association of Radio Transmitters Inc.}}</ref>
+
+<ref name="Acknowledgements">{{Cite web |title=Gary Bold ZL1AN |url=https://forums.qrz.com/index.php?threads/gary-bold-zl1an.619319/ |url-status=live |archive-url=https://web.archive.org/web/20220516033457if_/https://forums.qrz.com/index.php?threads/gary-bold-zl1an.619319/ |archive-date=16 May 2022 |access-date=16 May 2022 |website=QRZ}}</ref>
+
+<ref name="Break in award">{{Cite web |title=Break-In Awards |url=https://www.nzart.org.nz/news/break-in/break-in-awards |url-status=live |archive-url=https://web.archive.org/web/20200925061503if_/https://www.nzart.org.nz/news/break-in/break-in-awards |archive-date=25 September 2020 |access-date=16 May 2022 |website=NZART New Zealand Association of Radio Transmitters Inc.}}</ref>
+
+<ref name="advice">{{Cite web |date=2004 |title=Tertiary Teaching Excellence Awards 2004|url=http://pep.massey.ac.nz/massey/fms//Colleges/College%20of%20Humanities%20and%20Social%20Sciences/PEP/PDF_documents/Politics/Shaw/teaching_awards.pdf|url-status=live|archive-url=https://web.archive.org/web/20081014131836/http://pep.massey.ac.nz/massey/fms//Colleges/College%20of%20Humanities%20and%20Social%20Sciences/PEP/PDF_documents/Politics/Shaw/teaching_awards.pdf |archive-date=14 October 2008|format=TTEA catalogue}}</ref>
+
+</references>
+
+==External links==
+*[https://web.archive.org/web/20070123183708/http://www.phy.auckland.ac.nz/html/g_bold.html Staff entry] - University of Auckland
+
+{{authority control}}
+
+{{DEFAULTSORT:Bold, Gary}}
+[[Category:Amateur radio people]]
+[[Category:University of Auckland alumni]]
+[[Category:Academic staff of the University of Auckland]]
+[[Category:1938 births]]
+[[Category:2018 deaths]]
+[[Category:20th-century New Zealand physicists]]
+[[Category:21st-century New Zealand physicists]]

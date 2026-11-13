@@ -1,0 +1,88 @@
+{{short description|American physicist (1921–2002)}}
+{{Infobox scientist
+| name              = Felix Villars
+| image             = 
+| caption           = 
+| birth_date        = {{birth date|1921|1|6|df=y}}
+| birth_place       = [[Biel]], [[Switzerland]]
+| death_date        = {{death date and age|2002|4|27|1921|1|6|df=y}}
+| death_place       = [[Belmont, Massachusetts]]
+| education         = [[ETH Zurich]]
+| workplaces        = [[ETH Zurich]], [[Institute for Advanced Study]], [[MIT]]
+| notable_students  = [[Konstantina M. Stankovic]]
+| known_for         = [[Pauli–Villars regularization]]
+| doctoral_advisor  = [[Gregor Wentzel]]
+| doctoral_students = [[David Finkelstein]]<br>[[Frederick L. Scarf]]
+| spouse            = Jacqueline Dubois
+}}
+
+'''Felix Villars''' ({{IPA|fr|vilaʁ|lang}}; 6 January 1921 – 27 April 2002) was a [[Swiss people|Swiss]]-born [[Americans|American]] emeritus professor of [[physics]] at [[MIT]].  He is best known for the [[Pauli–Villars regularization]], an important principle in [[quantum field theory]].<ref>{{cite journal|author=Benedek, George|author2=Negele, John W.|title=Obituary: Felix Marc Hermann Villars|journal=Physics Today|date=March 2003|volume=56|issue=3|pages=102|doi=10.1063/1.1570793|bibcode = 2003PhT....56c.102B |doi-access=free}}</ref>
+
+==Early life==
+Villars was born in [[Biel]], [[Switzerland]] and served in the Swiss Army during the [[Second World War]], working as a meteorologist.  In 1945, he graduated from the [[ETH Zurich|Swiss Federal Institute of Technology]] with degrees in physics and mathematics.  His undergraduate thesis earned him the institute's Kern Medal for Excellence.  The following year, Villars earned his doctorate in physics from the same institution.<ref>{{MathGenealogy|id=91124}}</ref>
+
+From 1946 to 1949, Villars worked as a research assistant at the Swiss Federal Institute.  While there, he collaborated with [[Wolfgang Pauli]] on work in quantum electrodynamics.  They developed a method of dealing with mathematical singularities in quantum field theory, in order to extract finite physical results.  This method, Pauli–Villars regularization, is used by physicists when working with field theory.
+
+In 1949, Villars married the former Jacqueline Dubois and moved to the United States.  He worked for a year at the [[Institute for Advanced Study]] in [[Princeton, New Jersey]].
+
+==MIT career==
+In 1950, Villars was hired as a research associate at MIT and eventually became a full professor in 1959.  Along with [[Victor Weisskopf]], he studied the scattering of radio waves owing to atmospheric turbulence.  With [[Herman Feshbach]], he studied the effect of the Earth's magnetic field on the [[ionosphere]].
+
+It was biology, however, that captured his imagination.  Villars applied mathematical methods to studying the functioning of biological systems, yielding insights that had been missed by biologists and medical researchers who had been studying them for years.
+
+Villars was a key figure in creating the [[Harvard-MIT Division of Health Sciences and Technology]], a collaboration between [[Harvard University]] and MIT.  Villars was also a visiting lecturer at [[Harvard Medical School]].  With MIT physics professor [[George B. Benedek]], he wrote a three-volume undergraduate textbook, ''Physics with Illustrative Examples from Medicine and Biology''.<ref>{{cite journal|author=Hobbie, Russell K.|title=Review of ''Physics with illustrative examples from medicine and biology'' by George B. Benedek and Felix M. H. Villars|journal=Physics Today|volume=54|issue=7|year=2001|pages=53–54|doi=10.1063/1.1397395|bibcode=2001PhT....54g..53B|doi-access=free}}</ref>
+
+Villars died of cancer at his home in [[Belmont, Massachusetts]] on 27 April 2002.  He was 81.
+
+==Books==
+<!--  Commented out because image was deleted: [[image:Villars-statphys.jpg|right|250px]] -->
+
+* {{cite book
+|title=Physics with Illustrative Examples from Medicine and Biology: Mechanics
+|first=Felix
+|last=Villars
+|author2=George B. Benedek
+|publisher=[[Springer Verlag]]
+|year=2000
+|isbn=0-387-98769-X
+|url=https://books.google.com/books?id=GeALYXiy9sMC
+|edition=second }}; 1st edition, 1973<ref>{{cite journal|doi=10.1119/1.2350408|title=Book and Film Reviews, Preliminary Reviews: ''Physics: With Illustrative Examples from Medicine and Biology, Vol. 1 Mechanics'' by George B. Benedek and Felix M. H. Villars |year=1974 |journal=The Physics Teacher |volume=12 |issue=5 |page=320 |bibcode=1974PhTea..12..320B |last1=Benedek |first1=George B. |last2=Villars |first2=Felix M. H. }}</ref>
+
+* {{cite book
+|title=Physics with Illustrative Examples from Medicine and Biology: Electricity and Magnetism
+|first=Felix
+|last=Villars
+|author2=George B. Benedek
+|publisher=Springer Verlag
+|year=2006
+|isbn=0-387-98770-3
+|edition=second}}
+
+* {{cite book
+|title=Physics with Illustrative Examples from Medicine and Biology: Statistical Physics
+|first=Felix
+|last=Villars
+|author2=George B. Benedek
+|publisher=Springer Verlag
+|year=2006
+|isbn=0-387-98952-8
+|url=https://books.google.com/books?id=uMA9TW5tg6oC
+|edition=second }}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://web.mit.edu/newsoffice/2002/villars.html Obituary of Felix Villars from the MIT News Office]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Villars, Felix}}
+[[Category:1921 births]]
+[[Category:2002 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:Swiss physicists]]
+[[Category:ETH Zurich alumni]]
+[[Category:People from Biel/Bienne]]
+[[Category:MIT Center for Theoretical Physics faculty]]
+[[Category:Swiss emigrants to the United States]]

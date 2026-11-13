@@ -1,0 +1,86 @@
+{{Short description|Indian theoretical chemist}}
+{{Use dmy dates|date=February 2020}}
+{{Use Indian English|date=September 2018}}
+{{Infobox scientist
+| name = Debashis Mukherjee
+| image = DMukherjee.jpg
+| image_size = 250px
+| caption = At the 12th ICQC in Kyoto, 2006
+| birth_date = {{birth date and age|1946|12|17|df=y}}
+| birth_place = [[Naihati]],  [[Kolkata]], [[West Bengal]]
+| citizenship = [[Indian people|Indian]]
+| field = [[Chemistry]], [[theoretical chemistry]]
+| workplaces = [[Indian Association for the Cultivation of Science]]
+| education = [[Presidency College, Kolkata]] (B.Sc.)<br>[[Rajabazar Science College]] (M.Sc.) & (Ph.D.)<br>[[University of Calcutta]]
+| known_for = Multireference Coupled Cluster Theories
+| footnotes =
+}}
+
+'''Debashis Mukherjee''' (born 17 December 1946) is an [[Indian people|Indian]] [[theoretical chemist]], well known for his research in the fields of molecular many body theory, theoretical spectroscopy, finite temperature non-perturbative many body theories. Mukherjee has been the first to develop and implement a class of many-body methods for electronic structure which are now standard works in the field. These methods, collectively called '''multireference coupled cluster formalisms''', are versatile and powerful methods for predicting with quantitative accuracy the energetics and cross-sections of a vast range of molecular excitations and ionization.
+
+==Academic background==
+
+* Bachelor of Science with Honours in Chemistry, [[Presidency College, Kolkata]]. As an undergraduate, he won the Ashutosh Mukherjee Award of Presidency College, Calcutta for scoring the highest mark in the introductory examination, a feat usually achieved by a mathematics student.
+* Masters and Ph.D. in Chemistry from [[Rajabazar Science College]], [[University of Calcutta]]. He began his PhD work under the supervision of [[Mihir Chowdhury]], a fine spectroscopist and an inspirational teacher. He obtained his PhD from Calcutta University.
+
+==Research highlights==
+
+===Molecular electronic structure and theoretical spectroscopy===
+
+Mukherjee was among the early pioneers of a family of electron correlation methods known as multireference coupled cluster (MRCC) approaches. Such methods are applied in the determination of the energetics of molecular excitations and ionizations and have properties of size-extensivity and compactness.<ref name="mrcc1"/> He developed a linear response theory based on coupled cluster formalism (CCLRT), analogous to SAC-CI, in which the concept of the dressed Hamiltonian is utilized in evaluating energy differences.<ref name="cclrt"/> Furthermore, he developed size-extensive theories with arbitrary reference functions.
+
+===Quantum many-body dynamics===
+
+Mukherjee developed a general time – dependent perturbative theory which remains valid for arbitrarily large time range and is free from secular divergences Later, he generalized this in the many – body regime and formulated the first general time-dependent coupled cluster theory for wave functions of arbitrary complexity. First applications to photo-excitations and energy transfer were highly successful. The method should prove to be useful to study photo-fragmentation and dissociation processes.
+
+===Statistical field theory===
+
+Mukherjee has developed a rigorous finite – temperature field theory to study Statistical Mechanics of Many-Body systems. Unlike the traditional Thermofield Dynamics formulations, which maps a finite temperature theory to a zero-temperature one, the method has the advantage of working directly with the physical variables in the finite temperature range and is thus both more natural and compact. Applications on partition functions for strongly coupled correlated systems have shown promise of the method. A useful spin-off of the method is the combined use of time-dependent coupled cluster method and boson-mapping of stochastic variables to provide a rigorous and systematic cluster expansion method for monitoring quantum dynamics of systems strongly perturbed by colored noise.
+
+===Cumulant based quantum chemistry===
+
+Mukherjee has also formulated an electron correlation theory for strongly correlated systems by starting from a combination of reference functions using a generalization of the usual Ursell-Meyer cluster expansion. In order to achieve this, he developed a Wick-like reduction formula using the concept of generalized normal ordering for arbitrary reference functions. An important spin-off from the '''Generalized [[Wick's theorem]]'''<ref name="gwt1"/> had been the methods of directly determining the various reduced density matrices via generalized Brillouin's theorem and the contracted Schrödinger equations. Mukherjee in collaboration with [[Werner Kutzelnigg]] developed such methods starting from his generalized Wick's theorem.
+
+===State-specific multireference coupled cluster theory===
+
+Recently Mukherjee has developed a suite of state-specific many-body formalisms<ref name="ssmrcc1"/> like coupled cluster and perturbative theories which bypass the difficulty of the notorious intruder problem for computing potential energy surfaces. These methods do not share the shortcomings of the previously used '''Effective Hamiltonian formalisms''' applied to cases warranting a multireference description. The current applications of the methods clearly indicate the potentiality of the developments. This is considered a fundamental contribution to the molecular many-body methods, and it has attracted wide international recognition. This theory has been extensively implemented by the group of [[Henry F. Schaefer, III]], who coined the name '''Mk-MRCC''' for this method. Currently, this is widely recognized as one of the most promising methods in Quantum Chemistry.
+
+===Relativistic coupled cluster theory===
+
+Mukherjee has developed one of the most versatile many-body methods which can predict with quantitative accuracy the energetics, hyperfine interactions and transition probabilities of heavy atoms and ions where relativistic effects are important. These are regarded as the state-of-the art contributions in this field. He has also formulated a highly correlated coupled cluster method for understanding optical activity in atoms generated by the Parity Violating Weak – interaction, which is one of the first theoretical formulations of this phenomenon.
+
+==Professional background==
+
+Debashis Mukherjee is currently Professor Emeritus at the Raman Centre for Atomic, Molecular and Optical Sciences at the [[Indian Association for the Cultivation of Science]], Kolkata, the oldest centre for scientific research in the whole of Asia. He served as a lecturer at the [[Indian Institute of Technology, Bombay]]. Then, in 1978, he returned to Calcutta as Reader in the Department of Physical Chemistry at the Indian Association for the Cultivation of Science (IACS) where he has stayed to this day. He rose through the ranks to Professor in 1985, and served as department Head. He has served as the Director of IACS from 1999 to 2008. He retired from IACS as a Chair Professor in 2010.
+
+==Academic distinctions==
+
+Mukherjee is a fellow of the [[International Academy of Quantum Molecular Science]]. He is a recipient of the prestigious [[Humboldt Prize]], the first Theoretical Chemist from India to be conferred this distinction. He has also received the [[Chemical Pioneer Award]] of the American Institute of Chemistry, and has been elected as its Fellow. He has been awarded the Fellowship of the [[Indian Academy of Sciences]] in 1987, and of the [[Indian National Science Academy]] in 1991. He became a Founder Fellow of the [[West Bengal Academy of Science and Technology]] in 1988. He is a founder member of the Asia-Pacific Association for THeoretical Chemistry '''(APATCC)''' and has been elected its fellow. He has also been awarded the prestigious '''Fukui Medal''' for his outstanding contributions in Theoretical Chemistry. He has also received the Senior Medal of the CMOA (Centre de Mécanique Ondulatoire Appliquée). He has delivered several named international lectures such as the Charles Coulson Memorial Lecture of the Centre for Computational Chemistry, University of Georgia and the Kapuy Memorial Lecture at the Eötvos Loránd University, Budapest apart for the several plenary talks and keynote addresses at important international theoretical chemistry meetings. He has many other honors and awards to his credit including the Jagadish Shankar Memorial Award and the Sadhan Basu Memorial Award in Chemistry from the Indian National Science Academy, and the [[Shanti Swarup Bhatnagar Prize for Science and Technology|Shanti Swarup Bhatnagar Prize]] from the Council of Scientific and Industrial Research, India.
+
+==References==
+{{Reflist|refs=
+<ref name="mrcc1">{{cite book | last1=Mukherjee | first1=Debashis | last2=Pal | first2=Sourav | title=Advances in Quantum Chemistry |volume=20 | chapter=Use of Cluster Expansion Methods in the Open-Shell Correlation Problem | publisher=Elsevier | year=1989 | isbn=978-0-12-034820-6 | issn=0065-3276 | doi=10.1016/s0065-3276(08)60629-2 | pages=291–373}}</ref>
+<ref name="cclrt">{{cite journal | last1=Mukherjee | first1=D. | last2=Mukherjee | first2=P.K. | title=A response-function approach to the direct calculation of the transition-energy in a multiple-cluster expansion formalism | journal=Chemical Physics | publisher=Elsevier BV | volume=39 | issue=3 | year=1979 | issn=0301-0104 | doi=10.1016/0301-0104(79)80153-6 | pages=325–335}}</ref>
+<ref name="gwt1">{{cite journal | last=Mukherjee | first=Debashis | title=Normal ordering and a Wick-like reduction theorem for fermions with respect to a multi-determinantal reference state | journal=Chemical Physics Letters | publisher=Elsevier BV | volume=274 | issue=5–6 | year=1997 | issn=0009-2614 | doi=10.1016/s0009-2614(97)00714-8 | pages=561–566}}</ref>
+<ref name="ssmrcc1">{{cite journal | last1=Mahapatra | first1=Uttam Sinha | last2=Datta | first2=Barnali | last3=Mukherjee | first3=Debashis | title=A size-consistent state-specific multireference coupled cluster theory: Formal developments and molecular applications | journal=The Journal of Chemical Physics | publisher=AIP Publishing | volume=110 | issue=13 | year=1999 | issn=0021-9606 | doi=10.1063/1.478523 | pages=6171–6188}}</ref>
+}}
+
+==External links==
+* [http://www.iaqms.org/members/mukherjee.php His International Academy of Quantum Molecular Science page]
+* [http://www.ias.ac.in/currsci/feb102005/371.pdf His article on Role of Mathematics in Chemistry]
+* [https://web.archive.org/web/20110721042341/http://www.iacs.res.in/physchem/pcdm/pcdm.html His Homepage]
+* [https://web.archive.org/web/20110721042359/http://www.iacs.res.in/rcamos/RCAMOS.htm RCAMOS Homepage]
+{{SSBPST recipients in Chemical Science}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mukherjee, Debashis}}
+[[Category:Living people]]
+[[Category:1946 births]]
+[[Category:20th-century Indian chemists]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:University of Calcutta alumni]]
+[[Category:Indian computational chemists]]
+[[Category:Scientists from Kolkata]]
+[[Category:Presidency University, Kolkata alumni]]
+[[Category:Indian scientists]]

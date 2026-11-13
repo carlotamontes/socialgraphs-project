@@ -1,0 +1,88 @@
+{{Short description|Physicist, sailor and councillor}}
+{{Use dmy dates|date=April 2022}}
+{{use British English |date=December 2021}}
+{{Infobox person
+| honorific_prefix   = 
+| name               = Harold George Jerrard
+| honorific_suffix   = [[Institute of Physics|FInstP]]
+| image              = 
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| pronunciation      = 
+| birth_date         = {{birth date|1921|10|26|df=yes}}{{r|WWBS}}
+| birth_place        = 
+| death_date         = {{Death date and age|2013|4|10|1921|10|26|df=yes}}{{r|WWBS|Echo}}
+| death_place        = [[Exeter]]
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| other_names        = 
+| siglum             = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = University lecturer
+| years_active       = 
+| era                = 
+| employer           = {{ubl|[[Southampton University]]|Public Servant}}
+| organization       = 
+| known_for          = {{ubl|Physics textbooks|Mayor of [[Fareham]]}}
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+}}
+__NOTOC__
+'''Harold George "Jerry" Jerrard''' (26 October 1921 – 10 April 2013)<ref name=Echo/> was a British physicist known for his books with [[Donald Burgess McNeill]]. His research concerned [[optics]], and included reviving the theory of the [[Polarization (waves)#Poincaré sphere|Poincaré sphere]] for modeling the behavior of polarised light, 60 years after it was suggested by [[Henri Poincaré]] and then largely forgotten.<ref name=Collett/> He was a [[Reader (academic rank)|reader]] of physics at the [[University of Southampton]], a professor of physics at [[Oklahoma State University–Stillwater]], and a [[Fellow of the Institute of Physics]].<ref name=Affil/> He also enjoyed sailing on [[the Solent]], and served for 20 years in local politics in the [[Borough of Fareham]], becoming leader of the borough council, mayor, and a member of the [[Hampshire County Council]].<ref name=Echo/>
+
+==Selected publications==
+===Books===
+*Jerrard, H. G., and McNeill, D. B. (1960). ''Theoretical and Experimental Physics''. United Kingdom: [[Chapman & Hall]].<ref>Reviews of ''Theoretical and Experimental Physics'': R. C. Brown, ''Science Progress'', {{JSTOR|43425236}}; F. Stöckmann, ''Physikalische Blätter'', {{doi|10.1002/phbl.19610171108}}; D. H. Trevena, ''Nature'', {{doi|10.1038/192491c0}}</ref>
+*Jerrard, H. G., and McNeill, D. B. (1963). ''A Dictionary of Scientific Units, Including Dimensionless Numbers and Scales.'' United Kingdom: [[Chapman & Hall]]. 6th ed., 1992.<ref>Reviews of ''A Dictionary of Scientific Units'': D. N. Baron, ''Journal of Anatomy'', {{doi|10.1046/j.1469-7580.1997.191304771.x}}; E. Brüche, ''Physikalische Blätter'', {{doi|10.1002/phbl.19720280808}}; Eric Deeson, ''Physics Bulletin'', {{doi|10.1088/0031-9112/24/1/026}}; A. S. G., ''Current Science'', {{JSTOR|24073954}}; [[C. A. Hogarth]], ''Physics Bulletin'', {{doi|10.1088/0031-9112/14/12/018}}; Elisabeth Weber, ''Angewandte Chemie'', {{bibcode|1987AngCh..99..281W}}, {{doi|10.1002/anie.198709381}}; D. O. Wharmby, ''Physics Bulletin'', {{doi|10.1088/0031-9112/37/12/034}}; Eric Ziegel, ''Technometrics'', {{doi|10.2307/1268849}}, {{JSTOR|1268849}}</ref>
+
+===Articles===
+*{{citation
+ | last = Jerrard | first = H. G.
+ | date = January 1948
+ | doi = 10.1364/JOSA.38.000035
+ | issue = 1
+ | journal = Journal of the Optical Society of America
+ | pages = 35–59
+ | title = Optical compensators for measurement of elliptical polarization
+ | volume = 38}}
+*{{citation
+ | last = Jerrard | first = H. G.
+ | date = August 1954
+ | doi = 10.1364/JOSA.44.000634
+ | issue = 8
+ | journal = Journal of the Optical Society of America
+ | pages = 634–640
+ | title = Transmission of light through birefringent and optically active media: the Poincaré sphere
+ | volume = 44}}
+
+==References==
+<references>
+
+<ref name=Affil>Listing of affiliations from [https://books.google.com/books?id=tjz6CAAAQBAJ&pg=PP3 title page], 6th edition of ''A Dictionary of Scientific Units''</ref>
+<ref name=Collett>{{citation|title=Polarized Light in Fiber Optics|series=SPIE monographs|first=Edward|last=Collett|publisher=SPIE Press|year=2003|isbn=978-0-8194-5761-5|page=46|url=https://books.google.com/books?id=I3lBS7RBX3oC&pg=PA46}}</ref>
+<ref name=Echo>{{citation |url=https://www.dailyecho.co.uk/news/10431950.JERRY_JERRARD/?ref=arc |newspaper=[[Southern Daily Echo|Daily Echo]] |date=23 May 2013 |title=Jerry Jerrard}}</ref>
+<ref name=WWBS>{{citation |work=Who's Who of British Scientists |publisher=[[Ohio University Press]] |year=1969 |page=439 |title=Jerrard, Harold George}}</ref>
+
+</references>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jerrard, Harold George}}
+[[Category:1921 births]]
+[[Category:2013 deaths]]
+[[Category:British physicists]]
+[[Category:20th-century British sailors]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Oklahoma State University faculty]]
+[[Category:Mayors of places in Hampshire]]
+[[Category:20th-century mayors of places in the United Kingdom]]
+[[Category:Fellows of the Institute of Physics]]
+
+{{UK-physicist-stub}}

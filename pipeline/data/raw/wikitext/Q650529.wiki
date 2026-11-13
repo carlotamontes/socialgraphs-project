@@ -1,0 +1,46 @@
+{{short description|Dutch physicist and computer scientist (born 1962)}}
+{{Infobox scientist
+| name             = Peter Hofstee
+| image            = Peter portrait.jpg
+| caption          = Hofstee in 2014
+| birth_date       = 1962
+| birth_place      = [[Groningen]], Netherlands
+| death_date       =
+| death_place      = 
+| education        = [[University of Groningen]]<br>[[California Institute of Technology|Caltech]]
+| thesis_title     = Synchronizing processes
+| thesis_url       = https://thesis.library.caltech.edu/4036/
+| thesis_year      = 1995
+| doctoral_advisor = [[Jan L. A. van de Snepscheut]]<br>[[K. Mani Chandy]] 
+}}
+
+'''Harm Peter Hofstee''' (born 1962) is a Dutch physicist and computer scientist who currently is a distinguished research staff member at [[IBM]] Austin, USA, and a part-time professor in Big Data Systems at [[Delft University of Technology]], Netherlands.
+
+==Biography ==
+Hofstee was born in [[Groningen]] and obtained his master's degree in [[theoretical physics]] of the [[University of Groningen]] in 1988. He continued to study  at the [[California Institute of Technology]] where he wrote a master's thesis ''Constructing Some Distributed Programs'' in 1991<ref>[https://authors.library.caltech.edu/26758/2/postscript.pdf Master Thesis PDF: Constructing Some Distributed Programs]</ref> and obtained a Ph.D. with a thesis titled ''Synchronizing Processes'' in 1995.<ref>[https://authors.library.caltech.edu/26874/2/94-19.pdf PhD Thesis PDF: Synchronizing Processes]</ref> He joined Caltech as a lecturer for two years and moved to IBM in the [[Austin, Texas]] Research Laboratory, where he had staff member, senior technical staff member and distinguished engineer positions.
+
+Hofstee is best known for his contributions to [[Heterogeneous computing]] as the chief architect of the Synergistic Processor Elements in the [[Cell Broadband Engine]] processor used in the Sony [[PlayStation 3]],<ref>{{cite news|url=http://www.cnet.com/news/playstation-3-chip-goes-easy-on-developers/|author=David Becker|title=PlayStation 3 chip goes easy on developers|publisher=[[CNET]]|date=December 3, 2004|accessdate=January 13, 2019}}</ref><ref>Scarpino, M. (2008). Programming the cell processor: for games, graphics, and computation. Pearson Education.</ref> and the [[Roadrunner (supercomputer)|first supercomputer to reach sustained Petaflop operation]]. After returning to IBM research in 2011 he has focused on optimizing the system roadmap for [[big data]], analytics, and cloud, including the use of accelerated compute. His early research work on coherently attached reconfigurable acceleration on [[POWER7]] paved the way for the new [[Coherent Accelerator Processor Interface]] on [[POWER8]] through [[POWER10]].<ref>{{cite web|url=https://www.ibm.com/blogs/research/2014/05/making-power-open-to-the-enterprising-masses/|title=IBM Research Blog: Making Power Open to the Enterprising Masses|publisher=[[IBM]]|date=May 15, 2014|accessdate=January 13, 2019}}</ref> Hofstee is an IBM Master Inventor with more than 100 issued patents.<ref>[http://patents.justia.com/inventor/harm-peter-hofstee JUSTIA Patents, Patents by Inventor Harm Peter Hofstee]</ref>
+
+Since 2011, Peter is leading the Big Data system design work at IBM. In March 2016, Peter was appointed as professor to the chair of Big Data Computer Systems at the Faculty of Electrical Engineering, Mathematics and Computer Science at Delft University of Technology.
+
+==References==
+{{Reflist}}
+
+{{Cell microprocessor segments}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hofstee, Peter}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:Cell BE architecture]]
+[[Category:Computer architects]]
+[[Category:Computer designers]]
+[[Category:Dutch computer scientists]]
+[[Category:21st-century Dutch physicists]]
+[[Category:IBM employees]]
+[[Category:Scientists from Groningen (city)]]
+[[Category:University of Groningen alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Academic staff of the Delft University of Technology]]
+[[Category:Dutch expatriates in the United States]]

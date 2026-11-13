@@ -1,0 +1,81 @@
+{{Short description|Danish bioinformatics professor, scientist}}
+{{Infobox scientist
+| name         = Søren Brunak
+| image        = File:Soren_Brunak-ISMB2016_(29036238545).jpg
+| caption      = Søren Brunak speaking at the [[Intelligent Systems for Molecular Biology]] conference in 2016
+| birth_date   = {{Birth year and age|1958}}<ref name="viaf">{{cite web|url=http://viaf.org/viaf/200207241/ |title=Brunak, Søren |website=Viaf.org |access-date=2017-03-28}}</ref>
+| education    = [[University of Copenhagen]]<br/>[[Technical University of Denmark]]
+| known_for    = Development of computational tools for data integration across molecular and phenotypic levels{{citation needed|date=March 2017}}
+| thesis_title = Computerens fysik
+| thesis_year  = 1987
+| thesis_url   = http://www.worldcat.org/oclc/476113238
+| website      = {{URL|1=https://www.cpr.ku.dk/research/disease-systems-biology}}
+| field        = [[Bioinformatics]]<br/>[[Systems Biology]]<br/>[[Medical Informatics]]<ref name=googlescholar>{{Google scholar id}}</ref>
+| workplaces   = [[University of Copenhagen]] [[Technical University of Denmark]]
+| awards       = {{Plainlist|
+* [[EMBO Member]] (2009)<ref name=membo>{{cite web|author=Anon|year=2009|url=http://people.embo.org/profile/soren-brunak |title=Soren Brunak |website=people.embo.org |publisher=[[European Molecular Biology Organization]]|access-date=2017-03-28}}</ref>
+* [[ISCB Senior Scientist Award]] (2016)<ref name=senior>{{cite journal|last1=Fogg|first1=Christiana N.|last2=Kovats|first2=Diane K.|title=Message from the ISCB: 2016 ISCB Accomplishment by a Senior Scientist Award Given to Søren Brunak|journal=[[Bioinformatics (journal)|Bioinformatics]]|volume=32|issue=11|year=2016|pages=1758–1759|issn=1367-4803|doi=10.1093/bioinformatics/btw291|pmid= 27246924}} {{subscription required}}</ref>
+* [[ISCB Fellow]] (2011)<ref name=fellows>{{cite web|archive-url=https://web.archive.org/web/20170320114530/https://www.iscb.org/iscb-fellows|archive-date=2017-03-20|url=https://www.iscb.org/iscb-fellows|website=iscb.org|title=ISCB Fellows|publisher=[[International Society for Computational Biology]]|author=Anon|year=2017}}</ref>}}
+}}
+'''Søren Brunak''' (born 1958) is a [[Danish people|Danish]] biological and physical scientist working in [[bioinformatics]], [[systems biology]], and [[medical informatics]].<ref name=googlescholar/>  He is a professor of Disease Systems Biology at the University of Copenhagen and professor of bioinformatics at the Technical University of Denmark. As Research Director at the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen Medical School, he leads a research effort where molecular-level systems biology data are combined with phenotypic data from the healthcare sector, such as electronic patient records, registry information, and biobank questionnaires. A major aim is to understand the network biology basis for time-ordered comorbidities and discriminate between treatment-related disease correlations and other comorbidities in disease trajectories. Søren Brunak also holds a position as a Medical Informatics Officer at Rigshospitalet, the Capital Region of Denmark.{{citation needed|date=March 2017}}
+
+==Education==
+Søren Brunak obtained his [[Master of Science]] degree in [[Physics]], in 1987 from the [[Niels Bohr Institute]] at the [[University of Copenhagen]]<ref name=msc>{{cite thesis |degree=MSc |first=Søren|last=Brunak |title=Computerens fysik |publisher=København : Niels Bohr Institutet|date=1987 |oclc=476113238 }}</ref> and his [[Ph.D.]] in [[Computational Biology]] in 1991 at the Department of Structural Properties of Materials, [[Technical University of Denmark]],{{citation needed|date=March 2017}} and in 2002 a Dr.Phil. (''[[Honoris causa]]'') from the [[Natural Science]] Faculty of the [[Stockholm University]].{{citation needed|date=March 2017}}
+
+==Career==
+Søren Brunak was in 1993 the founding director of the Center for Biological Sequence Analysis at the [[Technical University of Denmark]].<ref>{{cite web|url=http://www.cbs.dtu.dk/staff/show-staff.php?id=514 |title=Staff - DTU Bioinformatics |website=Cbs.dtu.dk |access-date=2017-03-28}}</ref><ref>{{cite web|url=http://www.mva.org/content/us/about_us/board_of_directors/soren_brunak|title=Soren Brunak|website=www.mva.org|archive-url=https://web.archive.org/web/20071121044504/http://www.mva.org/content/us/about_us/board_of_directors/soren_brunak|archive-date=2007-11-21}}</ref><ref name="scopus">{{Scopus|id=7005477388}}</ref> A major, early center in bioinformatics that has existed for more than 20 years. In 2007, Søren Brunak was, with [[Matthias Mann]], a founding research director of the [[Novo Nordisk Foundation Center for Protein Research]] at the Faculty for Health and Medical Sciences of the University of Copenhagen, a leading center for the study of human proteins of therapeutic value.
+
+He has been participating in scientific advisory committees of several scientific organizations, such as the [[European Molecular Biology Laboratory]] (EMBL, Heidelberg), [[Ensembl]] at the [[European Bioinformatics Institute]] and [[Wellcome Trust Sanger Institute]] (chairman),{{citation needed|date=March 2017}} the Bioinformatics Advisory Committee at the [[European Bioinformatics Institute]] (chairman), [[Pasteur Institute|Institut Pasteur]], the [[Max Planck Institute for Molecular Genetics]] (Berlin), the [[Science for Life Laboratory]] (Stockholm) and the Swiss Institute of Bioinformatics.
+
+==Research==
+Brunak's main research is in [[bioinformatics]], [[systems biology]], and [[medical informatics]]. In particular, machine learning-based prediction and the general area of integrative systems biology where heterogeneous data from the molecular level are combined with phenotypic data from the healthcare sector. A general aim is to understand disease mechanisms at the level of protein network biology.  An additional focus area is human proteome variation and precision medicine, where patient-specific adverse drug reaction profiles and the discrimination between treatment-related disease correlations and other comorbidities are investigated. The group engages in non-hypothesis-driven research, where massive amounts of data from widely different experimental technologies are combined and analysed with the objective of making discoveries that emerge from the data rather than being the result of specific experiments designed to confirm or disprove given hypotheses. The Brunak group has also over the years been highly within [[machine learning]] and has produced numerous, highly used prediction methods, including SignalP, TargetP, NetGene, NetPhos, NetOglyc, NetNES, distanceP, and many others.<ref name=identification>{{Cite journal | last1 = Nielsen | first1 = H. | last2 = Engelbrecht | first2 = J. | last3 = Brunak | first3 = S. | last4 = Von Heijne | first4 = G. | title = Identification of prokaryotic and eukaryotic signal peptides and prediction of their cleavage sites | doi = 10.1093/protein/10.1.1 | journal = Protein Engineering Design and Selection | volume = 10 | pages = 1–6 | year = 1997 | pmid =  9051728| doi-access = free }}</ref><ref name=improved>{{Cite journal | last1 = Dyrløv Bendtsen | first1 = J. | last2 = Nielsen | first2 = H. | last3 = Von Heijne | first3 = G. | author-link3 = Gunnar von Heijne| last4 = Brunak | first4 = S. | author-link4 = Søren Brunak| title = Improved Prediction of Signal Peptides: SignalP 3.0 | doi = 10.1016/j.jmb.2004.05.028 | journal = [[Journal of Molecular Biology]] | volume = 340 | issue = 4 | pages = 783–795 | year = 2004 | pmid =  15223320}}</ref><ref>{{Cite journal
+| last1 = Brunak | first1 = S.
+| last2 = Engelbrecht | first2 = J.
+| last3 = Knudsen | first3 = S.
+| title = Neural network detects errors in the assignment of mRNA splice sites
+| journal = [[Nucleic Acids Research]]
+| volume = 18
+| issue = 16
+| pages = 4797–4801
+| year = 1990
+| pmid = 2395643
+| pmc = 331948
+| doi=10.1093/nar/18.16.4797
+}} {{open access}}</ref><ref>{{Cite journal
+| last1 = Brunak | first1 = S.
+| last2 = Engelbrecht | first2 = J.
+| last3 = Knudsen | first3 = S.
+| doi = 10.1038/343123a0
+| title = Cleaning up gene databases
+| journal = Nature
+| volume = 343
+| issue = 6254
+| page = 123
+| year = 1990
+| pmid = 2296305
+| bibcode = 1990Natur.343..123B
+| s2cid = 4353367
+| doi-access = free
+}}</ref> {{As of|2017}}, according to [[Google Scholar]],<ref name=googlescholar/> his most [[Citation|highly cited]] [[peer review|peer-review]]ed publications have been published in the ''[[Journal of Molecular Biology]]'',<ref name=improved/><ref name="EmanuelssonNielsen2000">{{cite journal|last1=Emanuelsson|first1=Olof|last2=Nielsen|first2=Henrik|last3=Brunak|first3=Søren|last4=von Heijne|first4=Gunnar|title=Predicting Subcellular Localization of Proteins Based on their N-terminal Amino Acid Sequence|journal=Journal of Molecular Biology|volume=300|issue=4|year=2000|pages=1005–1016|issn=0022-2836|doi=10.1006/jmbi.2000.3903|pmid=10891285}}</ref> ''Protein Engineering'',<ref name=identification/> and ''[[Nature (journal)|Nature]]''<ref name="QinLi2010">{{cite journal|last1=Qin|first1=Junjie|last2=Li|first2=Ruiqiang|last3=Raes|first3=Jeroen|last4=Arumugam|first4=Manimozhiyan|last5=Burgdorf|first5=Kristoffer Solvsten|last6=Manichanh|first6=Chaysavanh|last7=Nielsen|first7=Trine|last8=Pons|first8=Nicolas|last9=Levenez|first9=Florence|last10=Yamada|first10=Takuji|last11=Mende|first11=Daniel R.|last12=Li|first12=Junhua|last13=Xu|first13=Junming|last14=Li|first14=Shaochuan|last15=Li|first15=Dongfang|last16=Cao|first16=Jianjun|last17=Wang|first17=Bo|last18=Liang|first18=Huiqing|last19=Zheng|first19=Huisong|last20=Xie|first20=Yinlong|last21=Tap|first21=Julien|last22=Lepage|first22=Patricia|last23=Bertalan|first23=Marcelo|last24=Batto|first24=Jean-Michel|last25=Hansen|first25=Torben|last26=Le Paslier|first26=Denis|last27=Linneberg|first27=Allan|last28=Nielsen|first28=H. Bjørn|last29=Pelletier|first29=Eric|last30=Renault|first30=Pierre|last31=Sicheritz-Ponten|first31=Thomas|last32=Turner|first32=Keith|last33=Zhu|first33=Hongmei|last34=Yu|first34=Chang|last35=Li|first35=Shengting|last36=Jian|first36=Min|last37=Zhou|first37=Yan|last38=Li|first38=Yingrui|last39=Zhang|first39=Xiuqing|last40=Li|first40=Songgang|last41=Qin|first41=Nan|last42=Yang|first42=Huanming|last43=Wang|first43=Jian|last44=Brunak|first44=Søren|last45=Doré|first45=Joel|last46=Guarner|first46=Francisco|last47=Kristiansen|first47=Karsten|last48=Pedersen|first48=Oluf|last49=Parkhill|first49=Julian|last50=Weissenbach|first50=Jean|last51=Antolin|first51=Maria|last52=Artiguenave|first52=François|last53=Blottiere|first53=Hervé|last54=Borruel|first54=Natalia|last55=Bruls|first55=Thomas|last56=Casellas|first56=Francesc|last57=Chervaux|first57=Christian|last58=Cultrone|first58=Antonella|last59=Delorme|first59=Christine|last60=Denariaz|first60=Gérard|last61=Dervyn|first61=Rozenn|last62=Forte|first62=Miguel|last63=Friss|first63=Carsten|last64=van de Guchte|first64=Maarten|last65=Guedon|first65=Eric|last66=Haimet|first66=Florence|last67=Jamet|first67=Alexandre|last68=Juste|first68=Catherine|last69=Kaci|first69=Ghalia|last70=Kleerebezem|first70=Michiel|last71=Knol|first71=Jan|last72=Kristensen|first72=Michel|last73=Layec|first73=Severine|last74=Le Roux|first74=Karine|last75=Leclerc|first75=Marion|last76=Maguin|first76=Emmanuelle|last77=Melo Minardi|first77=Raquel|last78=Oozeer|first78=Raish|last79=Rescigno|first79=Maria|last80=Sanchez|first80=Nicolas|last81=Tims|first81=Sebastian|last82=Torrejon|first82=Toni|last83=Varela|first83=Encarna|last84=de Vos|first84=Willem|last85=Winogradsky|first85=Yohanan|last86=Zoetendal|first86=Erwin|last87=Bork|first87=Peer|last88=Ehrlich|first88=S. Dusko|last89=Wang|first89=Jun|title=A human gut microbial gene catalogue established by metagenomic sequencing|journal=Nature|volume=464|issue=7285|year=2010|pages=59–65|issn=0028-0836|doi=10.1038/nature08821|pmid=20203603|pmc=3779803|bibcode=2010Natur.464...59.}} {{subscription required}}</ref> and ''[[Nature Methods]]''.<ref name="PetersenBrunak2011">{{cite journal|last1=Petersen|first1=Thomas Nordahl|last2=Brunak|first2=Søren|last3=von Heijne|first3=Gunnar|last4=Nielsen|first4=Henrik|title=SignalP 4.0: discriminating signal peptides from transmembrane regions|journal=Nature Methods|volume=8|issue=10|year=2011|pages=785–786|issn=1548-7091|doi=10.1038/nmeth.1701|pmid=21959131|s2cid=16509924|doi-access=free}}</ref>
+
+===Selected book publications===
+*''Neural Networks - Computers with Intuition''<ref>{{cite book |year=1990 |title=Neural Networks - Computers with Intuition |author=Brunak S, [[Benny Lautrup|Lautrup B]] |publisher=World Scientific Publishing |isbn=978-9971-5-0939-2}} (also published in Danish and German)</ref>
+*''Bioinformatics: The Machine Learning Approach''<ref>{{cite book |year=2001 |title=Bioinformatics: The Machine Learning Approach|edition=2nd |vauthors=Baldi P, Brunak S |publisher=MIT Press}}{{ISBN missing}}</ref>
+*''Immunological Bioinformatics''<ref>{{cite book |year=2005 |title=Immunological Bioinformatics|vauthors=Lund O, Nielsen M, Lundegaard C, Kesmir C, Brunak S |publisher=MIT Press}}{{ISBN missing}}</ref>
+
+===Awards and honors===
+Brunak has been a member of the Danish Academy for the [[Natural Science]]s since 1997, a member of the Board of directors of the [[International Society for Computational Biology]] (ISCB) 2001–2004, of the Danish Academy of Technical Sciences since 2002, the Danish Royal Society of Sciences and Letters since 2004, and of the Royal Swedish Academy of Sciences from 2016. He is a fellow of the International Society for Computational Biology (2009), and a Member of the [[European Molecular Biology Organization]] in 2009.<ref name=membo/> Brunak received the [[ISCB Senior Scientist Award]]<ref name=senior/> from the International Society for Computational Biology in 2016 and elected an [[ISCB Fellow]] in 2011.<ref name=fellows/> He was awarded the Julius Thomsen's gold medal in 2013<ref>{{Cite web | url=http://www.dtu.dk/nyheder/nyhed?id=%7B652F425E-8C89-41A1-AB3A-FAB24549E781%7D | title=Commemoration Day 2013 - DTU}}</ref> and Dir. Ib Henriksens Prize for Outstanding Science Achievement in 2002.<ref>{{Cite web | url=http://dihfond.dk/Forskerpriser.html | title=Forskerpriser}}</ref> He was awarded the Villum Kann Rasmussen Prize for Research within the Natural and Technical Sciences (2006).<ref>{{Cite web | url=http://veluxfoundations.dk/da/node/4229 | title=Previous recipients of the annual award| date=2017-03-22}}</ref>
+
+==References==
+{{Reflist|30em}}
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Brunak, Soren}}
+[[Category:Living people]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:Danish bioinformaticians]]
+[[Category:Members of the European Molecular Biology Organization]]
+[[Category:Systems biologists]]
+[[Category:1958 births]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]

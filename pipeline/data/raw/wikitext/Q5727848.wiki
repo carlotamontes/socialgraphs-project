@@ -1,0 +1,124 @@
+{{Short description|Computational organic chemist at Imperial College London}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name                      = Henry Rzepa
+| birth_name                = Henry Stephen Rzepa
+| image                     = Henry Rzepa.jpg
+| image_size                =
+| alt                       = 
+| caption                   = 
+| birth_date                = {{Birth year and age|1950|06}}<ref name=dob>{{cite web|archive-url=https://web.archive.org/web/20170425104833/https://beta.companieshouse.gov.uk/officers/Rb-Spj4_WlYGstiIDb_waJg3amQ/appointments|archive-date=2017-04-25|url=https://beta.companieshouse.gov.uk/officers/Rb-Spj4_WlYGstiIDb_waJg3amQ/appointments|website=companieshouse.gov.uk|publisher=[[Companies House]]|location=London|title=Henry Stephen RZEPA, June 1950|author=Anon|year=2017|url-status=dead}}</ref>
+| birth_place               = 
+| death_date                = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place               = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence                 = 
+| citizenship               = 
+| nationality               = 
+| fields                    = [[Chemistry]]<ref name=googlescholar/>
+| workplaces                = {{Plainlist|
+* [[Imperial College London]]
+* [[University of Texas at Austin]]
+}}
+| education                 = [[Imperial College London]] (PhD)
+| thesis_title              = Hydrogen Transfer Reactions of Indoles
+| thesis_url                = http://hdl.handle.net/10044/1/20860
+| thesis_year               = 1974
+| doctoral_advisor          = 
+| academic_advisors         = 
+| doctoral_students         = 
+| notable_students          = 
+| known_for                 = 
+| awards                    = [[Herman Skolnik Award]] (2012)<ref name=skol/>
+| signature                 = <!--(filename only)-->
+| signature_alt             = 
+| website                   = {{Plainlist|
+* {{URL|rzepa.net}}
+* {{URL|imperial.ac.uk/people/h.rzepa}}
+}}
+| spouse                    =  
+}}
+'''Henry Stephen Rzepa''' (born 1950)<ref name=dob/> is a chemist and [[Emeritus]] [[Professor]] of [[Computational Chemistry]] at [[Imperial College London]].<ref name="interview">{{cite web|url=http://www.rsc.org/Publishing/ChemScience/Volume/2009/05/Henry_Rzepa_interview.asp |title=A Royal Society of Chemistry interview with Henry Rzepa |url-status=dead |archive-url=https://web.archive.org/web/20121019053740/http://www.rsc.org/Publishing/ChemScience/Volume/2009/05/Henry_Rzepa_interview.asp |archive-date=2012-10-19 }}</ref>{{cn|date=September 2024}}
+
+==Education==
+Rzepa was born in 1950 and was educated at [[Wandsworth Comprehensive School]] in London. He then entered the chemistry department at [[Imperial College London]] where he graduated in 1971. He stayed to do a [[Ph.D.]] on the [[physical organic]] chemistry of [[indole]]s supervised by Brian Challis.<ref name=rzphd>{{cite thesis|degree=PhD|publisher=[[University of London]]|title=Hydrogen transfer reactions of indoles|first= Henry Stephen|last=Rzepa|date=1974|url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.471287|website=ethos.bl.uk|oclc=930651784|hdl=10044/1/20860|doi=10.5281/zenodo.18777}}</ref><ref name=ChallisRzepa1975>{{cite journal|last1=Challis|first1=Brian C.|last2=Rzepa|first2=Henry S.|title=Heteroaromatic hydrogen exchange reactions. Part VIII. The ionisation of 1,3-dimethylindolin-2-one|journal=Journal of the Chemical Society, Perkin Transactions 2|issue=15|year=1975|pages=1822|issn=0300-9580|doi=10.1039/p29750001822|url=http://spiral.imperial.ac.uk/bitstream/10044/1/21275/2/p29750001822.pdf|hdl=10044/1/21275}}</ref>
+
+==Career and research==
+After spending three years doing [[postdoctoral research]] at [[University of Texas at Austin]], Texas with [[Michael J. S. Dewar|Michael Dewar]]<ref name=dewar>{{cite journal|last1=Dewar|first1=M. J. S.|author-link1=Michael J. S. Dewar|last2=Mckee|first2=M. L.|last3=Rzepa|first3=H. S.|title=ChemInform Abstract: MNDO Parameters for third period elements|journal=Chemischer Informationsdienst|volume=9|issue=34|year=1978|issn=0009-2975|doi=10.1002/chin.197834001}}</ref> in the emerging field of [[computational chemistry]], he returned to Imperial College and was eventually appointed as [[Professor]] of the college in 2003. {{As of|2017}} he is Emeritus Professor of Computational Chemistry.<ref>{{cite web|url=http://www.ukoln.ac.uk/web-focus/events/workshops/wiki-workshop-2006/people/|title= Information on conference speakers|website=ukoln.ac.uk}}</ref><ref>{{cite web|url=http://rzepa.net/cv_bio.html|title=Rzepa Biography|website=rzepa.net}}</ref>{{cn|date=September 2024}}
+
+His research interests<ref name="googlescholar">{{Google scholar id}}</ref> directed towards combining different types of chemical information tools for solving structural, mechanistic and [[stereochemical]] problems in [[organic chemistry|organic]], [[bioorganic chemistry|bioorganic]], [[organometallic chemistry]] and [[catalysis]], using techniques such as [[Computational Chemistry#Semi-empirical methods|semiempirical]] [[molecular orbital]] methods (the [[MNDO]] family), [[Nuclear magnetic resonance|Nuclear Magnetic Resonance (NMR)]] spectroscopy, [[X-ray crystallography]] and ''[[ab initio quantum chemistry methods|ab initio]]'' quantum theories. Aware of the complex semantic issues involved in converging different areas of chemistry to address modern multidisciplinary problems, he started investigating the use of the [[Internet]] as an information and integrating medium around 1987, focusing in 1994 on the [[World Wide Web]] as having the most potential.<ref name="Rzepa1994">{{cite journal|last1=Rzepa|first1=Henry S.|last2=Whitaker|first2=Benjamin J.|last3=Winter|first3=Mark J.|title=Chemical applications of the World-Wide-Web system|journal=Journal of the Chemical Society, Chemical Communications|issue=17|year=1994|pages=1907|issn=0022-4936|doi=10.1039/c39940001907|s2cid=95897719}}</ref> [[Peter Murray-Rust]] and he first introduced [[Chemical Markup Language|Chemical Markup Language (CML)]] in 1995 as a rich carrier of semantic chemical information and data; and they coined the term ''Datument'' as a [[portmanteau]] word to better express the evolution from the [[document]]s produced by traditional [[academic publishing]] methods to the [[Semantic Web]] ideals expressed by [[Tim Berners-Lee]].<ref>[http://pubs.acs.org/4librarians/livewire/2008/9.3/news1.html ACS Publications News]</ref><ref>{{YouTube|id=bvgM6TEArOQ|title=Professor Henry Rzepa discusses the launch of Imperial College London's iTunes U}}, Imperial College London</ref><ref>{{YouTube|title=Chemical Science and Data Repository Design with Prof. Henry Rzepa|id=bOkpf7SeNQ8}}, Science & Engineering South</ref>
+
+His contributions to chemistry<ref>{{Cite journal 
+| last1 = O'Boyle | first1 = N. M. 
+| last2 = Guha | first2 = R. 
+| last3 = Willighagen | first3 = E. L. 
+| last4 = Adams | first4 = S. E. 
+| last5 = Alvarsson | first5 = J. 
+| last6 = Bradley | first6 = J. C. 
+| last7 = Filippov | first7 = I. V. 
+| last8 = Hanson | first8 = R. M. 
+| last9 = Hanwell | first9 = M. D. 
+| last10 = Hutchison 
+| doi = 10.1186/1758-2946-3-37 | first10 = G. R. 
+| last11 = James | first11 = C. A. 
+| last12 = Jeliazkova | first12 = N. 
+| last13 = Lang | first13 = A. S. D. 
+| last14 = Langner | first14 = K. M. 
+| last15 = Lonie | first15 = D. C. 
+| last16 = Lowe | first16 = D. M. 
+| last17 = Pansanel | first17 = J. R. M. 
+| last18 = Pavlov | first18 = D. 
+| last19 = Spjuth | first19 = O. 
+| last20 = Steinbeck | first20 = C. 
+| last21 = Tenderholt | first21 = A. L. 
+| last22 = Theisen | first22 = K. J. 
+| last23 = Murray-Rust | first23 = P. 
+| title = Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on 
+| journal = [[Journal of Cheminformatics]]
+| volume = 3 
+| issue = 1 
+| pages = 37 
+| year = 2011 
+| pmid = 21999342
+| pmc =3205042 
+| doi-access = free 
+}}</ref><ref>{{Cite journal 
+| last1 = Guha | first1 = R. 
+| last2 = Howard | first2 = M. T. 
+| last3 = Hutchison | first3 = G. R. 
+| last4 = Murray-Rust | first4 = P. 
+| author-link4 = Peter Murray-Rust
+| last5 = Rzepa | first5 = H. 
+| author-link5 = Henry Rzepa
+| last6 = Steinbeck | first6 = C. 
+| author-link6 = Christoph Steinbeck
+| last7 = Wegner | first7 = J. 
+| last8 = Willighagen | first8 = E. L. 
+| doi = 10.1021/ci050400b 
+| title = The Blue Obelisk - Interoperability in Chemical Informatics 
+| journal = [[Journal of Chemical Information and Modeling]]
+| volume = 46 
+| issue = 3 
+| pages = 991–998 
+| year = 2006 
+| pmid = 16711717
+| pmc = 4878861
+}}</ref><ref>{{Cite journal | last1 = Rzepa | first1 = H. S. | title = A Double-Twist Möbius-Aromatic Conformation of [14]Annulene | doi = 10.1021/ol0518333 | journal = [[Organic Letters]] | volume = 7 | issue = 21 | pages = 4637–4639 | year = 2005 | pmid = 16209498}}</ref><ref>{{cite journal|pmid= 16633661|year= 2006|last1= Fowler|first1= P. W.|title= Aromaticity rules for cycles with arbitrary numbers of half-twists|journal= [[Physical Chemistry Chemical Physics]]|volume= 8|issue= 15|pages= 1775–7|last2= Rzepa|first2= H. S.|doi= 10.1039/b601655c|bibcode= 2006PCCP....8.1775F}}</ref><ref>{{cite journal|pmid=15839705|year=2005|last1=Marshall|first1=E. L.|title=A computational analysis of the ring-opening polymerization of rac-lactide initiated by single-site beta-diketiminate metal complexes: Defining the mechanistic pathway and the origin of stereocontrol|journal=[[Journal of the American Chemical Society]]|volume=127|issue=16|pages=6048–51|last2=Gibson|first2=V. C.|last3=Rzepa|first3=H. S.|doi=10.1021/ja043819b}}</ref><ref>{{cite journal|pmid= 15032525|year= 2004|last1= Murray-Rust|first1= P|title= Chemical markup, XML, and the World Wide Web. 5. Applications of chemical metadata in RSS aggregators|journal= [[Journal of Chemical Information and Modeling]]|volume= 44|issue= 2|pages= 462–9|last2= Rzepa|first2= H. S.|last3= Williamson|first3= M. J.|last4= Willighagen|first4= E. L.|doi= 10.1021/ci034244p|citeseerx= 10.1.1.477.524}}</ref><ref>{{cite conference | author = H. S. Rzepa and M. E. Cass | title = Progress towards a Holistic Web: Integrating OpenSource programs, Semantic data, Wikis and Podcasts | url = http://www.ch.ic.ac.uk/wiki/index.php/People:rzepa | conference-url = http://www.stolaf.edu/depts/chemistry/bh/confchem/confchem_s2006.htm | conference = Spring ConfChem | date = May–June 2006}}</ref><ref name=allan>{{Cite journal | last1 = Allan | first1 = C. S. M. | last2 = Rzepa | first2 = H. S. | doi = 10.1039/b810147g | title = A computational investigation of the structure of polythiocyanogen | journal = [[Dalton Transactions]] | issue = 48 | pages = 6925–6932 | year = 2008 | pmid = 19050778}}</ref><ref>{{Cite journal | last1 = Rzepa | first1 = H. S. | title = Wormholes in chemical space connecting torus knot and torus link π-electron density topologies | doi = 10.1039/b810301a | journal = [[Physical Chemistry Chemical Physics]] | volume = 11 | issue = 9 | pages = 1340–1345 | year = 2009 | pmid = 19224034|bibcode = 2009PCCP...11.1340R }}</ref> include exploration of [[Möbius aromaticity]], highlighted by the theoretical discovery of relatively stable forms of cyclic conjugated molecules which exhibit two and higher half-twists in the topology rather than just the single twist associated with Mobius systems. He is responsible for unraveling the mechanistic origins of stereocontrol in a variety of [[catalytic]] [[polymerisation]] reactions, including that of [[lactide]] to polylactide, a new generation of bio-sustainable polymer not dependent on oil. He is also known for the integration of chemistry (in the form of CML) with emergent Internet technologies and trends such as [[RSS (file format)|RSS]] and [[podcasting]], for the introduction of the Chemical [[MIME]] types in 1994, and for organizing the ECTOC online conferences in [[organic chemistry]], which ran from 1995 to 1998.<ref>{{Cite web |last=Rzepa |first=Henry S. |date=1998-03-13 |title=Electronic Conferences on Trends in Organic Chemistry |url=https://www.ch.ic.ac.uk/ectoc/ |access-date=2024-01-15 |website=www.ch.ic.ac.uk |language=English}}</ref>
+
+===Awards and honours===
+Rzepa was awarded the [[Herman Skolnik Award]] in 2012 by the [[American Chemical Society]].<ref name=skol>{{cite web|author=Anon|year=2011|title=CCL Archives|url=http://www.ccl.net/cgi-bin/ccl/message-new?2011+09+26+014|website=ccl.net}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rzepa, Henry Stephen}}
+[[Category:Chemists of Imperial College London]]
+[[Category:Living people]]
+[[Category:British chemists]]
+[[Category:Theoretical chemists]]
+[[Category:1950 births]]
+[[Category:Computational chemists]]
+[[Category:Alumni of Imperial College London]]

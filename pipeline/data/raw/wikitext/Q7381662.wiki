@@ -1,0 +1,46 @@
+{{Short description|American theoretical chemist and educator (1938–2026)}}
+'''Russell Mosher Pitzer''' (May 10, 1938 – May 25, 2026) was an American [[theoretical chemist]] and educator.
+
+==Life and career==
+Russell Mosher Pitzer was born in [[Berkeley, California]], on May 10, 1938. He attended public schools in this and the Washington, D.C. area.  He received his [[Bachelor of Science|B.S.]] in [[chemistry]] in 1959 from the [[California Institute of Technology]], his [[Master of Arts|A.M.]] in [[physics]] from [[Harvard University]] in 1963, and his [[Doctor of Philosophy|Ph.D.]] in [[chemical physics]] from [[Harvard University]] in 1963.
+
+[[File:Lilpscomb-ethane-barrier.png|thumb|right|Ethane barrier to rotation about the carbon-carbon bond, first accurately calculated by Pitzer and Lipscomb.]]
+
+At Harvard, Pitzer worked with [[William Lipscomb|William N. Lipscomb, Jr.]] in cooperation with the research group of [[John C. Slater]] at [[M.I.T.]] to develop computer programs to use [[Slater orbitals]] to produce [[Hartree–Fock method|self-consistent field (SCF)]] [[molecular orbital]]s.
+
+The [[ethane]] barrier (see diagram at right) was first calculated accurately by Pitzer and Lipscomb<ref name=Pitzer1963Ethane/> using [[Hartree–Fock method|Hartree Fock Self-Consistent Field (SCF) theory]].  Ethane gives a classic, simple example of such a [[rotational barrier]], the minimum energy to produce a 360-degree bond rotation of a molecular substructure.  The three hydrogens at each end are free to pinwheel about the central carbon-carbon bond, provided that there is sufficient energy to overcome the barrier of the carbon-hydrogen bonds at each end of the molecule bumping into each other by way of overlap (exchange) repulsion.<ref>{{Cite journal |last=Pitzer |first=Russell M. |date=1983-06-01 |title=The barrier to internal rotation in ethane |journal=Accounts of Chemical Research |volume=16 |issue=6 |pages=207–210 |doi=10.1021/ar00090a004 |issn=0001-4842}}</ref><ref>{{Cite book |last=Schaefer |first=Henry F. |title=The Electronic Structure of Atoms and Molecules: A Survey of Rigorous Quantum Mechanical Results |date=1972 |publisher=Addison-Wesley Publishing Company |isbn=978-0-201-06726-2 |pages=398–401 |language=en}}</ref>
+
+Also at Harvard, Pitzer also helped formulate the perturbed [[Hartree–Fock method|Hartree–Fock]] equations in a form for calculating the effects of external electric and magnetic fields on molecules.<ref name=Stevens1963/>
+
+He was a [[Postdoctoral researcher|postdoctoral]] fellow at [[Massachusetts Institute of Technology|M.I.T.]] and a faculty member at [[California Institute of Technology|Caltech]] before joining the chemistry department at [[Ohio State University]] in 1968. He was promoted to professor in 1979 and served as department chair from 1989 to 1994.
+
+His group wrote computer software to enable calculation of molecular energies and other properties. In 1979, with John Yates, he published the first Jahn-Teller-Effect study (on [[cobalt trifluoride]], CoF<sub>3</sub>) to use a computed energy surface.<ref>{{Cite journal |last1=Yates |first1=J. H. |last2=Pitzer |first2=R. M. |date=1979-05-01 |title=Molecular and electronic structures of transition metal trifluorides |journal=The Journal of Chemical Physics |volume=70 |issue=9 |pages=4049–4055 |doi=10.1063/1.438027 |bibcode=1979JChPh..70.4049Y |issn=0021-9606}}</ref> An early application with A. Chang was the first assignment of the visible spectrum of [[uranocene]].<ref>{{Cite journal |last1=Chang |first1=Agnes H. H. |last2=Pitzer |first2=Russell M. |date=1989-03-01 |title=Electronic structure and spectra of uranocene |journal=Journal of the American Chemical Society |volume=111 |issue=7 |pages=2500–2507 |doi=10.1021/ja00189a022 |bibcode=1989JAChS.111.2500C |issn=0002-7863}}</ref>
+
+During 1986–87 he served as acting associate director of the [[Ohio Supercomputer Center]], cofounding the center and the [[OARnet|Ohio Academic Resources Network]]. During 2001–03 he served as interim director of the Ohio Supercomputer Center. In 2004 he received the Faculty Award For Distinguished University Service. He retired in 2008.<ref>{{cite journal |last=Shavitt |first=Isaiah |title=Tribute to Russell M. Pitzer |journal=J. Phys. Chem. A |year=2009 |volume=113 |issue=45, Russell M. Pitzer Festschrift |pages=12339–12341 |doi=10.1021/jp9085393|pmid=19888767 |bibcode=2009JPCA..11312339S }}</ref><ref>[https://web.chemistry.ohio-state.edu/department/personnel/faculty/pitzer Pitzer bio on OSUChem website]</ref>
+
+His father was former Stanford University president [[Kenneth Pitzer]] and his grandfather, [[Russell K. Pitzer]], founded [[Pitzer College]], one of the seven [[Claremont Colleges]] in [[California]]. Russell M. Pitzer served as a trustee of Pitzer College from 1988 to 2012, and in 2003 received a Doctor of Humane Letters honorary degree in recognition of this service. In 2018 the Ohio Supercomputer Center named their newly purchased supercomputer Pitzer in honor of his role in founding the center.
+
+Pitzer died on May 25, 2026, at the age of 88.<ref>{{cite web |title=Russell Mosher Pitzer |url=https://www.ohiocremation.org/obituaries/Russell-Mosher-Pitzer?obId=48535292#/obituaryInfo |website=Ohio Cremation & Memorial Society |access-date=29 May 2026}}</ref>
+
+==References==
+<references>
+
+<ref name=Stevens1963>Stevens, RM, Pitzer, RM, and Lipscomb, WN. Perturbed Hartree–Fock Calculations. I. Magnetic Susceptibility and Shielding in the LiH Molecule. ''J. Chem. Phys. 38'', 550-560 (1963).</ref>
+
+<ref name=Pitzer1963Ethane>Pitzer, RM and Lipscomb, WN, "Calculation of the Barrier to Internal Rotation in Ethane", ''J. Chem. Phys., 39'', 1995–2004 (1963)</ref>
+
+</references>
+
+{{authority control}}
+
+{{DEFAULTSORT:Pitzer, Russell M.}}
+[[Category:1938 births]]
+[[Category:2026 deaths]]
+[[Category:Harvard University alumni]]
+[[Category:Massachusetts Institute of Technology fellows]]
+[[Category:Ohio State University faculty]]
+[[Category:21st-century American chemists]]
+[[Category:American theoretical chemists]]
+[[Category:California Institute of Technology alumni]]
+[[Category:20th-century American chemists]]
+[[Category:Scientists from Berkeley, California]]

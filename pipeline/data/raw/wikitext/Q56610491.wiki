@@ -1,0 +1,52 @@
+{{Short description|Canadian theoretical physicist}}
+{{Infobox scientist
+| name              = Matthew W. Choptuik
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth year and age |1961}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| fields            = [[Theoretical physics]]
+| workplaces        = 
+| education         = [[University of British Columbia]]
+| thesis_title      = A Study of Numerical Techniques for Radiative Problems in General Relativity
+| thesis_url        = https://open.library.ubc.ca/collections/ubctheses/831/items/1.0085044
+| thesis_year       = 1986
+| doctoral_advisor  = [[W. G. Unruh]]
+| doctoral_students = [[Frans Pretorius]]
+| known_for         = 
+| awards            = 
+}}
+'''Matthew William Choptuik''' (born 1961) is a Canadian theoretical physicist specializing in numerical relativity.
+
+Choptuik graduated from [[University of British Columbia]] with a master's degree in 1982 and a Ph.D. advised by [[William Unruh]] in 1986. He became an associate professor in 1995 at the [[University of Texas at Austin]]. In 1999 he became a member of the [[Kavli Institute for Theoretical Physics|Institute for Theoretical Physics]] at the [[University of California, Santa Barbara]] and in the same year he became a professor at University of British Columbia.
+
+In 1993,<ref>{{cite journal | url=https://doi.org/10.1103/PhysRevLett.70.9 | doi=10.1103/PhysRevLett.70.9 | title=Universality and scaling in gravitational collapse of a massless scalar field | date=1993 | last1=Choptuik | first1=Matthew W. | journal=Physical Review Letters | volume=70 | issue=1 | pages=9–12 | pmid=10053245 | bibcode=1993PhRvL..70....9C | url-access=subscription }}</ref> he discovered critical phenomena in gravitational collapse<ref>{{cite journal | doi=10.12942/lrr-2007-5 | doi-access=free | title=Critical Phenomena in Gravitational Collapse | date=2007 | last1=Gundlach | first1=Carsten | last2=Martín-García | first2=José M. | journal=Living Reviews in Relativity | volume=10 | issue=1 | page=5 | pmid=28179820 | pmc=5256106 | arxiv=0711.4620 | bibcode=2007LRR....10....5G }}</ref> via numerical studies. He showed—under non-generic initial conditions <ref>Only with precise fine tuning of the initial conditions, which is lost even with small perturbations</ref>—the possibility of the occurrence of [[naked singularity]] in general relativity with scalar matter. This had previously been the subject of a bet between [[Stephen Hawking]], [[Kip Thorne]] and [[John Preskill]]. Hawking lost the bet after Choptuik's publication, but renewed it under non-generic initial conditions.<ref>{{Cite news |last=Crenson |first=Matt |title=The naked truth: Astrophysicist Stephen Hawking loses a bet |url=https://www.apnews.com/7e02e4d3e6c9cc569aeb229e0e47efaf |archive-url=https://web.archive.org/web/20190512162621/https://www.apnews.com/7e02e4d3e6c9cc569aeb229e0e47efaf |url-status=dead |archive-date=May 12, 2019 |work=AP News |date=February 12, 1997}}</ref>
+
+Choptuik was the 2001 awardee of the [[Rutherford Memorial Medal]]. In 2003 he received the [[CAP-CRM Prize in Theoretical and Mathematical Physics]]. In 2003 he became a fellow of the [[American Physical Society]]. In 2002, he became an honorary doctor of Brandon University.
+
+== References ==
+<references />
+
+== External links ==
+*[http://laplace.physics.ubc.ca/People/matt/ Homepage]
+
+{{authority control}}
+
+{{DEFAULTSORT:Choptuik, Matthew}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Canadian expatriate academics in the United States]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:20th-century Canadian physicists]]
+[[Category:Theoretical physicists]]
+[[Category:21st-century Canadian physicists]]
+[[Category:University of British Columbia Faculty of Science alumni]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:University of California, Santa Barbara faculty]]
+[[Category:Academic staff of the University of British Columbia]]
+[[Category:Numerical relativists]]

@@ -1,0 +1,55 @@
+{{Short description|British-American atmospheric scientist (born 1965)}}{{BLP sources|date=December 2025}}{{Infobox scientist
+ |name             = David John Lary
+ |image            = DavidLarySmile.jpg
+ |caption          = 
+ |birth_date       = {{Birth date and age|1965|12|7|mf=yes}}
+ |field            = [[Physics]], [[chemistry]], [[computing]], [[remote sensing]]
+ |education        = [[King's College London]] and  <br />[[University of Cambridge]]
+ |doctoral_advisor = [[John A Pyle]]
+ |known_for        = Chemical [[data assimilation]] and [[machine learning]]
+ |website          = 
+ |footnotes        =
+}}
+
+'''David J. Lary''' (born 7 December 1965) is a British-American [[atmospheric scientist]] whose work focuses on applying [[computation|computer]] and [[information systems]] in [[Earth system science|Earth science]]. His main contributions have been to highlight the role of [[aerosols]] in the atmosphere<ref>Lary et al., Carbon aerosols and atmospheric photochemistry, ''Journal of Geophysical Research-Atmospheres'',  Volume 102, Issue D3, Pages 3671-3682, 1997 http://www.mendeley.com/research/carbon-aerosols-atmospheric-photochemistry/</ref> and their reactions with [[bromine]],<ref>{{Cite journal |last=Lary |first=D. J. |last2=Chipperfield |first2=M. P. |last3=Toumi |first3=R. |last4=Lenton |first4=T. |date=1996 |title=Heterogeneous atmospheric bromine chemistry |url=https://onlinelibrary.wiley.com/doi/abs/10.1029/95JD02839 |journal=Journal of Geophysical Research: Atmospheres |language=en |volume=101 |issue=D1 |pages=1489–1504 |doi=10.1029/95JD02839 |issn=2156-2202|url-access=subscription }}</ref> the use of data assimilation for validating satellite data,<ref>Fisher & Lary, Lagrangian 4-Dimensional Variational Data Assimilation of Chemical-Species, ''Quarterly Journal of the Royal Meteorological Society'', Volume 121, Issue 527, Pages 1681-1704, 1995 http://www.mendeley.com/research/lagrangian-4dimensional-variational-data-assimilation-chemical-species/ {{Webarchive|url=https://web.archive.org/web/20110726205839/http://www.mendeley.com/research/lagrangian-4dimensional-variational-data-assimilation-chemical-species/ |date=2011-07-26 }}</ref> and the use of [[machine learning|AI]] for monitoring [[remote sensing|remote satellite sensors]].<ref>{{Cite book | doi=10.1007/978-3-319-65633-5_8|chapter = Machine Learning Applications for Earth Observation|title = Earth Observation Open Science and Innovation| pages=165–218|year = 2018|last1 = Lary|first1 = David J.| last2=Zewdie| first2=Gebreab K.| last3=Liu| first3=Xun| last4=Wu| first4=Daji| last5=Levetin| first5=Estelle| last6=Allee| first6=Rebecca J.| last7=Malakar| first7=Nabin| last8=Walker| first8=Annette| last9=Mussa| first9=Hamse| last10=Mannino| first10=Antonio| last11=Aurin| first11=Dirk| isbn=978-3-319-65632-8| s2cid=58569362 }}</ref> 
+
+He is author of the [[AutoChem]],<ref>{{cite web | url=http://www.science-softcon.de/autochem/download.html | title=Download AutoChem}}</ref> NASA software for modeling [[atmospheric chemistry]] and chemical [[data assimilation]], which has been approved for use outside the agency. [[AutoChem]] has won five [[NASA]] awards and been cited in numerous [[peer review]]ed articles. Lary has also written more than 200 publications receiving more than 7,500 citations.<ref>{{Cite web|url=https://scholar.google.com/citations?user=gqR4v14AAAAJ|title=David John Lary}}</ref>
+
+== Education ==
+David Lary completed his [[education]] in the United Kingdom. He received a first class double honors BSc in [[physics]] and [[chemistry]] from [[King's College London]] (1987) with the Sambrooke Exhibition Prize in Natural Science, and a PhD in [[atmospheric chemistry]] from the [[University of Cambridge]], Department of [[Chemistry]] while at [[Churchill College]] (1991). His thesis described the first chemical scheme for the [[ECMWF]] [[numerical weather prediction]] model. 
+
+== Career ==
+He then held post-doctoral research assistant and associate positions at the [[University of Cambridge]] until receiving a [[Royal Society]] [[research fellow]]ship in 1996 (also at Cambridge). From 1998 to 2000 he held a joint position at [[Cambridge]] and the [[University of Tel-Aviv]] as a senior lecturer and [[Alon fellow]]. In 2001 he joined [[NASA]]/[[UMBC]]/GEST as the first distinguished Goddard fellow in [[earth science]]. Between 2001 and 2010 he was part of various branches at [[NASA]] [[Goddard Space Flight Center]] including the Global Modeling and Assimilation Office, the Atmospheric Chemistry and Dynamics Branch, the Software Integration and Visualization Office, and the Goddard Earth Sciences (GES) Data and Information Services Center (DISC).
+
+In 2010 he moved to the William B. Hanson Center for Space Sciences as a professor of [[physics]] at the [[University of Texas at Dallas]], where he has focused on the [[health effects]] of [[atmospheric particulates]], and developing a fleet of [[unmanned aerial vehicles]] for a variety of [[agricultural]], [[Environment (biophysical)|environmental]], and [[meteorological]] applications. He is also adjunct professor in data science and machine learning at [[Southern Methodist University]], adjunct professor at [[Baylor University]] Center for Astrophysics, Space Physics & Engineering Research, a scholar of the [[Institute for Integrative Health]], adjunct professor at the School of [[Public health|Public Health]], [[University of North Texas Health Science Center]], and the departments of [[electrical engineering]],  [[geographic information systems]], and [[bioengineering]]  at the [[University of Texas at Dallas]], and a [[United States Special Operations Command]] Fellow at [[SOFWERX]] by J5, the Futures Mission Directorate. In 2021 David was appointed adjunct professor of military/emergency medicine at the [[Uniformed Services University of the Health Sciences]], a UT Dallas Center for Brain Health Investigator, and research scholar at the U.S. Department of Veterans Affairs' Complex Exposure Threats Center Network (CETC), part of the War Related Illness and Injury Study Center.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://scholar.google.com/citations?user=gqR4v14AAAAJ Google Scholar page]
+*[http://www.researcherid.com/ProfileView.action?queryString=KG0UuZjN5WlbNDYeE9y49LB%2BS4dzrwlmHE3QXDiVRl8%3D&SrcApp=CR&returnCode=ROUTER.Unauthorized& ISI publication list]
+*[http://www.mendeley.com/profiles/david-lary/ Mendeley publication list] {{Webarchive|url=https://web.archive.org/web/20110726205315/http://www.mendeley.com/profiles/david-lary/ |date=2011-07-26 }}
+*[http://utdallas.edu/~david.lary/ UTD faculty page]
+*[http://davidlary.info/ Personal page]
+*[http://utdmints.info/ UTD Mints (His consortium)]
+*[https://web.archive.org/web/20131203021455/http://www.build-uas.org/ Build UAS (Website run by his students)]
+
+{{authority control}}
+
+{{DEFAULTSORT:Lary, David J}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:Alumni of King's College London]]
+[[Category:Alumni of Churchill College, Cambridge]]
+[[Category:American atmospheric scientists]]
+[[Category:21st-century American chemists]]
+[[Category:British chemists]]
+[[Category:21st-century American physicists]]
+[[Category:British physicists]]
+[[Category:University of Texas at Dallas faculty]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Atmospheric chemists]]
+[[Category:American computational chemists]]
+[[Category:British atmospheric scientists]]
+[[Category:British computational chemists]]

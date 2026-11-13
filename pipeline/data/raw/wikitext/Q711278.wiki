@@ -1,0 +1,129 @@
+{{Short description|Canadian mathematician}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox scientist
+| name              = Robert Langlands <br /> {{nobold| {{postnominals|CC|FRS|FRSC}} }}
+| image             = Langlands2 (cropped).jpg
+| image_size        = 
+| caption           = Langlands in front of chalkboard
+| birth_date        = {{birth date and age|1936|10|06}}
+| birth_place       = [[New Westminster]], British Columbia, Canada
+| death_date        = 
+| death_place       = 
+| fields            = Mathematics
+| workplaces        = [[Princeton University]]<br />[[Middle East Technical University]]<br /> [[University of California, Berkeley]]<br /> [[Yale University]] <br />[[Institute for Advanced Study]]
+| education         = [[University of British Columbia]] ([[Bachelor of Science|BSc]], [[Master of Science|MSc]])<br />[[Yale University]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[Cassius Ionescu-Tulcea]]
+| thesis_title      = Semi-Groups and Representations of Lie Groups
+| thesis_url        = 
+| thesis_year       = 1960
+| doctoral_students = [[James Arthur (mathematician)|James Arthur]]<br />[[Thomas Callister Hales]]<br />[[Diana Shelstad]]
+| known_for         = [[Langlands program]]
+| awards            = [[Jeffery–Williams Prize]] (1980)<br />[[Cole Prize]] (1982)<br />[[Wolf Prize in Mathematics|Wolf Prize]] (1995–96)<br />[[Leroy P. Steele Prize#The Leroy P. Steele Prize for Seminal Contribution to Research|Steele Prize]] (2005)<br />[[Nemmers Prize in Mathematics|Nemmers Prize]] (2006)<br />[[Shaw Prize]] (2007)<br />[[Abel Prize]] (2018)<br />[[Order of Canada]] (2019)
+}}
+'''Robert Phelan Langlands''' ({{IPAc-en|ˈ|l|æ|ŋ|l|ə|n|d|z}}; born October 6, 1936) is a Canadian mathematician.<ref name="TG"/><ref>{{Cite web|url=https://www.nasonline.org/directory-entry/robert-p-langlands-0ocbep/|title=Robert Phelan Langlands|work=NAS|access-date=March 26, 2018}}</ref> He is best known as the founder of the [[Langlands program]], a vast web of conjectures and results connecting [[representation theory]] and [[automorphic form]]s to the study of [[Galois group]]s in [[number theory]],<ref name=star>{{citation | last = Contento | first = Sandro |  title=The Canadian Who Reinvented Mathematics|url=http://projects.thestar.com/math-the-canadian-who-reinvented-mathematics/| newspaper=[[Toronto Star]] |date=March 27, 2015}}</ref><ref>D Mackenzie (2000) ''Fermat's Last Theorem's First Cousin'', [[Science (journal)|Science]] 287(5454), 792–793.</ref> for which he received the 2018 [[Abel Prize]]. He is [[:wikt:emeritus|emeritus]] professor and occupied [[Albert Einstein]]'s office at the [[Institute for Advanced Study]] in Princeton, until 2020 when he retired.<ref name="EF">{{cite book |last=Edward Frenkel |author-link=Edward Frenkel |date=2013 |title=Love and Math: The Heart of Hidden Reality |chapter-url=http://www.loveandmathbook.com/ |publisher=Basic Books |chapter=preface |quote=Robert Langlands, the mathematician who currently occupies Albert Einstein's office at the Institute for Advanced Study in Princeton |isbn=978-0-465-05074-1 |url-access=registration |url=https://archive.org/details/lovemathheartofh0000fren }}</ref>
+
+==Early life and career==
+Langlands was born in New Westminster, British Columbia, Canada, in 1936 to Robert Langlands and Kathleen J Phelan. He has two younger sisters (Mary b. 1938; Sally b. 1941). In 1945, his family moved to [[White Rock, British Columbia|White Rock]], near the US border, where his parents had a building supply and construction business.<ref name=ubc>{{cite web| title=UBC Newsletter: Robert Langlands Interview| url=https://www.math.ubc.ca/Dept/Newsletters/Robert_Langlands_interview_2010.pdf| year=2010| access-date=June 22, 2018| archive-date=April 7, 2014| archive-url=https://web.archive.org/web/20140407083054/http://www.math.ubc.ca/Dept/Newsletters/Robert_Langlands_interview_2010.pdf}}</ref><ref name=star/><ref name="TG">{{Cite web|url=https://www.theguardian.com/science/alexs-adventures-in-numberland/2018/mar/20/abel-prize-2018-robert-langlands-wins-for-unified-theory-of-maths|title=Abel Prize 2018: Robert Langlands wins for 'unified theory of maths'|work=The Guardian|author=Alex Bellos|date=March 20, 2018|access-date=March 26, 2018}}</ref>
+
+He graduated from [[Semiahmoo Secondary School]] and started enrolling at the [[University of British Columbia]] at the age of 16, receiving his undergraduate degree in mathematics in 1957;<ref name="nyt20180320">{{cite news|last1=Kenneth|first1=Chang|title=Robert P. Langlands Is Awarded the Abel Prize, a Top Math Honor|url=https://www.nytimes.com/2018/03/20/science/robert-langlands-abel-prize-mathematics.html|newspaper=[[The New York Times]]|access-date=March 20, 2018|date=March 20, 2018}}</ref> he continued at UBC to receive a M.Sc. in 1958. He then went to [[Yale University]], where he received a Ph.D. in 1960.<ref>{{cite web|url=https://www.newindianexpress.com/world/2018/mar/21/canadian-mathematician-robert-langlands-wins-abel-prize-for-2018-1790351.html|newspaper=[[The New Indian Express]]|title=Canadian mathematician Robert Langlands wins Abel Prize for 2018|date=March 21, 2018|access-date=March 26, 2018}}</ref>
+
+His first academic position was at [[Princeton University]] from 1960 to 1967, where he worked as an associate professor.<ref name=star /> He spent a year in Turkey at [[Middle East Technical University|METU]] during 1967–68 in an office next to [[Cahit Arf]]'s.<ref>{{Cite web|title=Robert Langlands wins Abel Prize 2018 for 'unified theory of maths' {{!}} Mathematics Department|url=https://math.metu.edu.tr/en/announcement/robert-langlands-wins-abel-prize-2018-unified-theory-maths|access-date=July 26, 2021|website=math.metu.edu.tr}}</ref> He was a Miller Research Fellow at the [[University of California, Berkeley]], from 1964 to 1965, then was a professor at [[Yale University]] from 1967 to 1972. He was appointed Hermann Weyl Professor at the [[Institute for Advanced Study]] in 1972, and became professor emeritus in January 2007.<ref name=EF/>
+
+==Research==
+Langlands's Ph.D. thesis was on the analytical theory of [[Lie group|Lie]] [[semigroup]]s,<ref>For context, see the note by Derek Robinson at the [http://publications.ias.edu/rpl/section/3 IAS site]</ref> but he soon moved into [[representation theory]], adapting the methods of [[Harish-Chandra]] to the theory of [[automorphic form]]s. His first accomplishment in this field was a formula for the dimension of certain spaces of automorphic forms, in which particular types of Harish-Chandra's discrete series appeared.<ref>{{Cite web|url=http://publications.ias.edu/rpl/section/14|work=IAS|title=IAS publication paper 14|access-date=March 26, 2018}}</ref><ref>{{Cite journal |author=R. P. Langlands |date=January 1963 |title=The dimension of spaces of automorphic forms |journal=American Journal of Mathematics |volume=85 |issue=1 |pages=99–125 |doi=10.2307/2373189 |jstor=2373189 |mr=156362}}</ref>
+
+He next constructed an analytical theory of [[Eisenstein series]] for [[reductive group]]s of [[Linear algebraic group#Tori|rank]] greater than one, thus extending work of [[Hans Maass]], Walter Roelcke, and [[Atle Selberg]] from the early 1950s for rank one groups such as <math>\mathrm{SL}(2)</math>. This amounted to describing in general terms the continuous [[Spectral geometry|spectra]] of arithmetic quotients, and showing that all automorphic forms arise in terms of cusp forms and the residues of Eisenstein series induced from cusp forms on smaller subgroups. As a first application, he proved the [[Weil conjecture on Tamagawa numbers]] for the large class of arbitrary simply connected [[Chevalley group]]s defined over the rational numbers. Previously this had been known only in a few isolated cases and for certain classical groups where it could be shown by induction.<ref>Langlands, Robert P. (1966), "The volume of the fundamental domain for some arithmetical subgroups of Chevalley groups", Algebraic Groups and Discontinuous Subgroups, Proc. Sympos. Pure Math., Providence, R.I.: Amer. Math. Soc., pp. 143–148, MR 0213362</ref>
+
+As a second application of this work, he was able to show [[meromorphic function|meromorphic]] continuation for a large class of [[L-function|<math>L</math>-functions]] arising in the theory of automorphic forms, not previously known to have them. These occurred in the constant terms of Eisenstein series, and meromorphicity as well as a weak [[functional equation (L-function)|functional equation]] were a consequence of functional equations for Eisenstein series. This work led in turn, in the winter of 1966–67, to the now well known conjectures<ref name="publications.ias.edu">{{Cite web|url=http://publications.ias.edu/rpl/paper/43|title=IAS paper 43|work=IAS|access-date=March 26, 2018}}</ref> making up what is often called the [[Langlands program]]. Very roughly speaking, they propose a huge generalization of previously known examples of reciprocity, including (a) classical [[class field theory]], in which characters of local and arithmetic abelian [[Galois group]]s are identified with characters of local [[multiplicative group]]s and the idele quotient group, respectively; (b) earlier results of [[Martin Eichler]] and [[Goro Shimura]] in which the [[Hasse–Weil zeta function]]s of arithmetic quotients of the [[upper half plane]] are identified with <math>L</math>-functions occurring in [[Erich Hecke|Hecke]]'s theory of [[Holomorphic function|holomorphic]] automorphic forms. These conjectures were first posed in relatively complete form in a famous letter to Weil,<ref name="publications.ias.edu"/> written in January 1967. It was in this letter that he introduced what has since become known as the <math>L</math>-group and along with it, the notion of functoriality.
+
+The book by [[Hervé Jacquet]] and Langlands on <math>\mathrm{GL}(2)</math> presented a theory of automorphic forms for the [[general linear group]] <math>\mathrm{GL}(2)</math>, establishing among other things the [[Jacquet–Langlands correspondence]] showing that functoriality was capable of explaining very precisely how automorphic forms for <math>\mathrm{GL}(2)</math> related to those for [[quaternion algebra]]s. This book applied the adelic [[Selberg trace formula|trace formula]] for <math>\mathrm{GL}(2)</math> and quaternion algebras to do this. Subsequently, [[James Arthur (mathematician)|James Arthur]], a student of Langlands while he was at Yale, successfully developed the trace formula for groups of higher rank. This has become a major tool in attacking functoriality in general, and in particular has been applied to demonstrating that the [[Hasse–Weil zeta function]]s of certain [[Shimura variety|Shimura varieties]] are among the <math>L</math>-functions arising from automorphic forms.<ref>{{Cite web|url=http://publications.ias.edu/rpl/paper/60|work=Institute of Advanced Studies|title=IAS paper 60|access-date=March 26, 2018}}</ref>
+
+The functoriality conjecture is far from proven, but a special case (the octahedral [[Artin L-function#The Artin conjecture|Artin conjecture]], proved by Langlands<ref>Langlands, Robert P, Base change for GL(2). Annals of Mathematics Studies, 96. Princeton University Press, Princeton, N.J.; {{ISBN|0-691-08263-4}}; MR [https://mathscinet.ams.org/mathscinet-getitem?mr=574808 574808]</ref> and Tunnell<ref>Tunnell, Jerrold, Artin's conjecture for representations of octahedral type, [[Bulletin of the American Mathematical Society]] (N.S.) 5 (1981), no. 2, 173–175.</ref>) was the starting point of [[Andrew Wiles]]'s attack on the [[Taniyama–Shimura conjecture]] and [[Fermat's Last Theorem]].
+
+In the mid-1980s Langlands turned his attention<ref>{{Cite web|url=http://publications.ias.edu/rpl/section/27|title=IAS publication|access-date=March 26, 2018}}</ref> to [[physics]], particularly the problems of [[percolation]] and conformal invariance. In 1995, Langlands started a collaboration with [[Bill Casselman (mathematician)|Bill Casselman]] at the [[University of British Columbia]] with the aim of posting nearly all of his writings—including publications, preprints, as well as selected correspondence—on the Internet. The correspondence includes a copy of the original letter to Weil that introduced the <math>L</math>-group. In recent years he has turned his attention back to automorphic forms, working in particular on a theme he calls "beyond [[Endoscopic group|endoscopy]]".<ref>{{Cite web|url=http://publications.ias.edu/rpl/section/25|title=IAS paper 25|access-date=March 26, 2018|work=IAS}}</ref>
+
+==Awards and honors==
+Langlands has received the 1996 [[Wolf Prize]] (which he shared with [[Andrew Wiles]]),<ref>{{cite web| url = https://www.ams.org/notices/199602/people.pdf| title = AMS Notices}}</ref> the 2005 AMS [[Steele Prize]], the 1980 [[Jeffery–Williams Prize]], the 1988 [[NAS Award in Mathematics]] from the [[United States National Academy of Sciences|National Academy of Sciences]],<ref name=NASMath>{{cite web|title=NAS Award in Mathematics|url=http://www.nasonline.org/site/PageServer?pagename=AWARDS_mathematics|archive-url=https://web.archive.org/web/20060102132528/http://www.nasonline.org/site/PageServer?pagename=AWARDS_mathematics|archive-date=January 2, 2006|publisher=National Academy of Sciences|access-date=February 13, 2011}}</ref> the 2000 grande médaille de l'Académie des sciences de Paris, the 2006 [[Nemmers Prize in Mathematics]], the 2007 [[Shaw Prize]] in Mathematical Sciences (with [[Richard Taylor (mathematician)|Richard Taylor]]) for his work on automorphic forms. In 2018, Langlands was awarded the [[Abel Prize]] for "his visionary program connecting representation theory to number theory".<ref>{{Cite web |date= |title=2018: Robert P. Langlands |url=https://abelprize.no/abel-prize-laureates/2018 |access-date=July 22, 2022 |website=The Abel Prize}}</ref>
+
+He was elected a [[Fellow of the Royal Society of Canada]] in 1972 and a [[Fellow of the Royal Society]] in 1981.<ref>{{cite web|url=https://www.rsc-src.ca/en/search-fellows?keywords_44=&first_name=robert&last_name=langlands&display_name=&election_year_21=&academy_25=All&division_24=All&discipline_23=All&is_deceased=0&sort_by=last_name&sort_order=ASC|title=Search Fellows|author=<!--Not stated-->|publisher=[[Royal Society of Canada]]|access-date=April 3, 2018|archive-date=April 4, 2018|archive-url=https://web.archive.org/web/20180404000115/https://www.rsc-src.ca/en/search-fellows?keywords_44=&first_name=robert&last_name=langlands&display_name=&election_year_21=&academy_25=All&division_24=All&discipline_23=All&is_deceased=0&sort_by=last_name&sort_order=ASC}}</ref><ref>{{cite web|url=https://royalsociety.org/people/robert-langlands-11784/|title=Robert Langlands|publisher=[[Royal Society]]|access-date=April 3, 2018}}</ref> In 2012, he became a fellow of the [[American Mathematical Society]].<ref>[https://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved January 27, 2013.</ref> Langlands was elected as a member of the [[American Academy of Arts and Sciences]] in 1990.<ref>{{Cite web|title=Robert Phelan Langlands|url=https://www.amacad.org/person/robert-phelan-langlands|access-date=March 22, 2021|website=American Academy of Arts & Sciences|language=en}}</ref> He was elected as a member of the [[National Academy of Sciences]] in 1993<ref>{{Cite web|title=Robert Langlands|url=https://www.nasonline.org/directory-entry/robert-p-langlands-0ocbep/|access-date=March 22, 2021|website=www.nasonline.org}}</ref> and a member of the [[American Philosophical Society]] in 2004.<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=Robert+P.+Langlands&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|access-date=June 14, 2021|website=search.amphilsoc.org}}</ref>
+
+Among other honorary degrees, in 2003, Langlands received a doctorate ''honoris causa'' from [[Université Laval]].<ref>{{cite web
+ |url          = https://www.ulaval.ca/notre-universite/prix-et-distinctions/doctorats-honoris-causa-de-luniversite-laval/recipiendaires-doctorat-honoris-causa-2002-2003/robert-langlands.html
+ |title        = Robert Langlands, Université Laval
+ |access-date  = March 1, 2017
+ |archive-url  = https://web.archive.org/web/20160629104739/http://www2.ulaval.ca/notre-universite/prix-et-distinctions/doctorats-honoris-causa-de-luniversite-laval/recipiendaires-doctorat-honoris-causa-2002-2003/robert-langlands.html
+ |archive-date = June 29, 2016
+ |url-status     = live
+}}</ref>
+
+In 2019, Langlands was appointed a Companion of the [[Order of Canada]].<ref>{{Cite web|url=https://www.gg.ca/en/media/news/2019/governor-general-announces-83-new-appointments-order-canada|title=Governor General Announces 83 New Appointments to the Order of Canada|author=Office of the Secretary to the Governor General|date=June 20, 2019|website=The Governor General of Canada|access-date=June 27, 2019|archive-date=June 28, 2019|archive-url=https://web.archive.org/web/20190628034534/https://www.gg.ca/en/media/news/2019/governor-general-announces-83-new-appointments-order-canada}}</ref><ref>{{Cite news|url=https://montrealgazette.com/news/local-news/16-quebecers-to-receive-order-of-canada-honours|title=Alanis Obomsawin, 15 other Quebecers to receive Order of Canada |newspaper=Montreal Gazette|last=Dunlevy|first=T'Cha|date=June 27, 2019|language=en|access-date=July 4, 2019|archive-date= July 4, 2019 |archive-url=https://web.archive.org/web/20190704041620/https://montrealgazette.com/news/local-news/16-quebecers-to-receive-order-of-canada-honours|url-status=live}}</ref>
+
+On January 10, 2020, Langlands was honoured at [[Semiahmoo Secondary School|Semiahmoo Secondary]], which installed a mural to celebrate his contributions to mathematics.
+
+==Personal life==
+Langlands has been married to Charlotte Lorraine Cheverie (b 1935) since 1957. They have four children (2 daughters and 2 sons).<ref name="star" /> He holds Canadian and American citizenships. 
+
+In addition to his mathematical studies, Langlands likes to learn foreign languages, both for better understanding of foreign publications on his topic and as a hobby. He speaks English, French, Turkish and German, and reads (but does not speak) Russian.<ref name="Interview">[http://www.math.ubc.ca/Dept/Newsletters/Robert_Langlands_interview_2010.pdf Interview with Robert Langlands], UBC Dept. of Math., 2010; last accessed April 5, 2014.</ref>
+
+==Publications==
+*{{Citation |title=Euler Products |year=1967 |location=New Haven |publisher=Yale University Press |isbn=0-300-01395-7 }}
+*{{Citation |title=On the Functional Equations Satisfied by Eisenstein Series |year=1976 |location=Berlin |publisher=Springer |isbn=3-540-07872-X }}
+*{{Citation |title=Base Change for GL(2) |year=1980 |location=Princeton |publisher=Princeton University Press |isbn=0-691-08272-3 |url=https://books.google.com/books?id=Tt6cmSdgVdcC}}
+*{{Citation |title=Automorphic Representations, Shimura Varieties, and Motives. Ein Märchen |year=1979 |publisher=Chelsea Publishing Company |url=http://www.sunsite.ubc.ca/DigitalMathArchive/Langlands/pdf/autoreps-ps.pdf}}
+
+==See also==
+{{Div col|colwidth=25em}}
+*[[Automorphic L-function]]
+*[[Endoscopic group]]
+*[[Geometric Langlands correspondence]]
+*[[Jacquet–Langlands correspondence]]
+*[[Langlands classification]]
+*[[Langlands decomposition]]
+*[[Langlands–Deligne local constant]]
+*[[Langlands dual]]
+*[[Langlands group]]
+*[[Langlands–Shahidi method]]
+*[[Local Langlands conjectures]]
+*[[Standard L-function]]
+*[[Taniyama group]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+*{{MacTutor Biography|id=Langlands}}
+*{{MathGenealogy |id=31056 }}
+*[http://publications.ias.edu/rpl/ The work of Robert Langlands (a nearly complete archive)]
+*[http://www.math.ias.edu/people/faculty/rpl Faculty page at IAS]
+*{{YouTube|49anoCJOJ9I|Robert Langlands – The Abel Prize interview 2018}}
+*{{cite news|url=http://projects.thestar.com/math-the-canadian-who-reinvented-mathematics/|title=The Canadian who reinvented mathematics|last=Contenta|first=Sandro|newspaper=[[Toronto Star]]|access-date=March 28, 2015}}
+* Julia Mueller, [https://www.ams.org/journals/bull/2018-55-04/S0273-0979-2018-01609-1/supplementary-information/S0273-0979-2018-01609-1-original-version.pdf On the genesis of Robert P. Langlands' conjectures and his letter to André Weil], Bull. Amer. Math. Soc., January 25, 2018
+
+{{Wolf Prize in Mathematics}}
+{{Shaw Prize}}
+{{Abel Prize laureates}}
+{{FRS 1981}}
+{{Authority control}}
+
+{{DEFAULTSORT:Langlands, Robert}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:20th-century Canadian mathematicians]]
+[[Category:Abel Prize laureates]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Canadian fellows of the Royal Society]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Foreign members of the Russian Academy of Sciences]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Number theorists]]
+[[Category:People from New Westminster]]
+[[Category:Princeton University faculty]]
+[[Category:University of British Columbia alumni]]
+[[Category:Wolf Prize in Mathematics laureates]]
+[[Category:Yale University alumni]]
+[[Category:Companions of the Order of Canada]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Academic staff of Middle East Technical University]]

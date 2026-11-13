@@ -1,0 +1,101 @@
+{{Short description|Argentine physicist (born 1968)}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox scientist
+| name              = Juan Maldacena
+| image             = JuanMaldacena.jpg
+| caption           = 
+| birth_date        = {{birth date and age|1968|9|10|df=y}}
+| birth_place       = [[Buenos Aires]], Argentina
+| field             = [[Theoretical physics]]
+| workplaces        = [[Institute for Advanced Study]]
+| education         = [[Balseiro Institute]] ([[Bachelor of Science|BS]])<br />[[Princeton University]] ([[PhD]])
+| thesis_title      = Black Holes in String Theory <ref>{{cite arXiv |title=Black Holes in String Theory (PhD Thesis) |eprint=
+hep-th/9607235 |last1=Maldacena |first1=Juan M. |date=June 1996 }} [[Princeton University]]</ref>
+| thesis_year       = 1996
+| doctoral_advisor  = [[Curtis Callan]]
+| doctoral_students = [[Henry Lin (astronomer)|Henry Lin]]
+| known_for         = [[AdS/CFT correspondence]]<br />[[ER = EPR]]<br />[[ABJM superconformal field theory]]
+| awards            = [[Alfred P. Sloan Foundation]] Fellowship <br /> [[Sackler Prize]] <br /> [[MacArthur Fellowship]] <br /> [[Basilis C. Xanthopoulos|Xanthopoulos]] Award<br /> [[Pius XI Medal]] <br /> [[Dirac Medal (ICTP)|Dirac Medal]] <br /> [[Pomeranchuk Prize]] <br / > [[Breakthrough Prize in Fundamental Physics]] <br / > [[Lorentz Medal]]<br /> [[Albert Einstein Medal]] <br /> [[St. Albert Award]] <br /> [[Galileo Galilei Medal]]
+| footnotes         = 
+}}
+
+'''Juan Martín Maldacena''' ({{IPA|es-419|maldaˈsena|lang}}; born 10 September 1968) is an Argentine theoretical physicist and the Carl P. Feinberg Professor in the School of Natural Sciences at the [[Institute for Advanced Study]], Princeton.<ref>{{Cite web|title=Juan Maldacena|url=https://www.ias.edu/scholars/maldacena|website=Institute for Advanced Study|date=9 December 2019|language=en|access-date=13 May 2020}}</ref> He has made significant contributions to the foundations of [[string theory]] and [[quantum gravity]]. His most famous discovery is the [[AdS/CFT correspondence]], a realization of the [[holographic principle]] in string theory. He has been described by [[Leonard Susskind]] as "certainly the greatest theoretical physicist of his generation".
+
+==Biography==
+ [[File: InstitutoBalseiro.JPG|277x277px|thumb|left|Instituto Balseiro at which Maldacena obtained his Physics ''licenciatura'']]
+Maldacena studied between 1986 and 1988 in the [[University of Buenos Aires]] and then moved to Bariloche to obtain his ''licenciatura'' (a six-year degree) in 1991<ref>{{Cite web |title=Curriculum Vitae: Juan Maldacena |year=2020 |url=https://www.ias.edu/sites/default/files/sns/files/Maldacena_CV2020.pdf}}</ref> at the [[Instituto Balseiro]], [[Bariloche]], Argentina, under the supervision of Gerardo Aldazábal. He then obtained his Ph.D. in physics at [[Princeton University]] after completing a doctoral dissertation titled "Black holes in string theory" under the supervision of [[Curtis Callan]] in 1996, and went on to a post-doctoral position at [[Rutgers University]]. In 1997, he joined [[Harvard University]] as associate professor, being quickly promoted to Professor of Physics in 1999. Since 2001 he has been a professor at the [[Institute for Advanced Study]] in [[Princeton, New Jersey]] and in 2016 became the first Carl P. Feinberg Professor of Theoretical Physics in the institute's School of Natural Sciences.
+
+Maldacena is a member of the [[Society of Catholic Scientists]].<ref>{{Cite web |title=Juan Martín Maldacena |url=https://catholicscientists.org/st-albert-award/juan-martin-maldacena/ |access-date=2024-11-03 |website=The Society of Catholic Scientists |language=en-US}}</ref>
+
+== Contributions to physics ==
+Maldacena has made numerous discoveries in theoretical physics. [[Leonard Susskind]] called him "perhaps the greatest physicist of his generation... certainly the greatest theoretical physicist of his generation".<ref>
+{{cite speech
+|title=Black Holes, the Conservation of Information, and the Holographic Principle
+|first=Leonard
+|last=Susskind
+|author-link=Leonard Susskind
+|event=Messenger Lectures on "The Birth of the Universe and the Origin of Laws of Physics"
+|location=Cornell University
+|date=30 April 2014
+|url=https://vod.video.cornell.edu/media/1_ta1908f8
+|minutes=68
+}}</ref> His most famous discovery is the most reliable realization of the [[holographic principle]] – namely the [[AdS/CFT correspondence]], a conjecture about the equivalence of [[string theory]] on [[Anti-de Sitter space|Anti-de Sitter (AdS) space]], and a [[conformal field theory]] defined on the boundary of the AdS space.<ref>{{cite journal|author=Juan Martin Maldacena|year=1998|title=The Large N Limit of Superconformal Field Theories and Supergravity|journal=Adv. Theor. Math. Phys.|volume=2|issue=2|pages=231–252|arxiv=hep-th/9711200|bibcode=1998AdTMP...2..231M|doi=10.4310/atmp.1998.v2.n2.a1}}</ref> According to the conjecture, certain theories of quantum gravity are equivalent to other quantum mechanical theories (with no gravitational force) in one fewer spacetime dimensions.
+
+In subsequent works, Maldacena elucidated several aspects of the AdS/CFT correspondence, describing how certain physical observables defined in one theory can be described in the equivalent theory. Shortly after his original work on the AdS/CFT correspondence, Maldacena showed how [[Wilson loop|Wilson lines]] can be computed in a corresponding string theory by considering the area swept by an evolving fundamental string.<ref>{{Cite journal|last=Maldacena|first=Juan M.|date=1 June 1998|title=Wilson loops in large N field theories|journal=Physical Review Letters|volume=80|issue=22|pages=4859–4862|doi=10.1103/PhysRevLett.80.4859|arxiv=hep-th/9803002|bibcode=1998PhRvL..80.4859M|s2cid=14386667|issn=0031-9007}}</ref> Wilson lines are non-local physical observables defined in [[gauge theory]]. In 2001, Maldacena proposed that an eternal [[black hole]], an object defined in a gravitational theory, is equivalent to a certain [[Quantum entanglement|entangled state]] involving two copies of the corresponding quantum mechanical theory.<ref>{{Cite journal|last=Maldacena|first=Juan M.|date=12 April 2003|title=Eternal Black Holes in AdS|journal=Journal of High Energy Physics|volume=2003|issue=4|pages=021|doi=10.1088/1126-6708/2003/04/021|arxiv=hep-th/0106112|s2cid=7767700|issn=1029-8479}}</ref> Ordinary black holes emit [[Hawking radiation]] and eventually evaporate. An eternal black hole is a type of black hole that survives forever because it eventually re-absorbs the radiation it emits.
+
+In 2013, Maldacena co-authored an analysis of the 2012 [[firewall (physics)|black hole firewall paradox]] with [[Leonard Susskind]], arguing that the paradox can be resolved if [[quantum entanglement|entangled]] particles are connected by minor [[wormhole]]s."<ref name="nytimes/Mystery Wrapped">{{cite news|url=https://www.nytimes.com/2013/08/13/science/space/a-black-hole-mystery-wrapped-in-a-firewall-paradox.html|title=A Black Hole Mystery Wrapped in a Firewall Paradox|last=Overbye|first=Dennis|date=12 August 2013|newspaper=New York Times|access-date=29 October 2013|author-link=Dennis Overbye}}</ref><ref>{{cite news|url=https://www.nytimes.com/interactive/2013/08/13/science/0813-sci-blackhole.html|title=The Firewall Paradox|date=12 August 2013|newspaper=New York Times|access-date=29 October 2013}}</ref><ref>{{cite journal|last1=Maldacena |first1=J. |last2=Susskind |first2=L. |title=Cool horizons for entangled black holes |journal=Fortschritte der Physik |date=2013 |volume=61 |issue=9 |pages=781–811 |doi=10.1002/prop.201300020 |arxiv=1306.0533 |bibcode=2013ForPh..61..781M }}</ref>
+
+==Publications==
+*{{Cite journal|last1=Berenstein|first1=David|author1-link=David Berenstein|first2=Juan|last2= Maldacena|author2-link=Juan Maldacena|first3=Horatiu|last3=Nastase|author3-link=Horațiu Năstase|date=2002|title=Strings in flat space and pp waves from N = 4 Super Yang Mills|journal=[[AIP Conference Proceedings]]|language=en|location=Waterloo, Ontario (Canada)|volume=646|pages=3–14|doi=10.1063/1.1524550|arxiv=hep-th/0202021|bibcode=2002AIPC..646....3B}}
+* {{Cite journal |last=Maldacena |first=Juan |date=1999-04-01 |title=The Large-N Limit of Superconformal Field Theories and Supergravity |url=https://doi.org/10.1023/A:1026654312961 |journal=International Journal of Theoretical Physics |language=en |volume=38 |issue=4 |pages=1113–1133 |doi=10.1023/A:1026654312961 |issn=1572-9575|arxiv=hep-th/9711200 |bibcode=1999IJTP...38.1113M }} Full list of Maldacena's publications and scientific literature content can be found on INSPIRE-HEP<ref>{{Cite web |title=INSPIRE |url=https://inspirehep.net/authors/999108 |access-date=2026-06-23 |website=inspirehep.net}}</ref> and NASA ADS or SciX (Science Explorer database)  https://inspirehep.net/authors/999108 https://scixplorer.org/search?p=1&q=author%3A%22Juan+Maldacena
+
+==Awards==
+Maldacena has received these awards:
+
+* [[Alfred P. Sloan Foundation]] Fellowship, 1998
+* Packard Fellowship in Science and Engineering, 1998
+* [[MacArthur Fellowship]], 1999<ref>{{cite web |url=http://www.macfound.org/fellows/class/july-1999/|title=Meet the 1999 MacArthur Fellows|access-date=25 November 2013}}</ref>
+* UNESCO Husein Prize for Young Scientists, 1999
+* [[Sackler Prize]] in Physics, 2000
+* [[Basilis C. Xanthopoulos|Xanthopoulos]] International Award for Research in Gravitational Physics, 2001<ref>{{Cite web|url=https://www.physics.uoc.gr/Xanthopoulos/|title=Basilis Xanthopoulos International Award|website=www.physics.uoc.gr}}</ref>
+* [[Pius XI Medal]], 2002
+* Edward A. Bouchet Award<ref>{{cite web |url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=Juan&last_nm=Maldacena&year=2004 |title=2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena |access-date=24 August 2011}}</ref> of the [[American Physical Society]], 2004
+*Member of the [[American Academy of Arts and Sciences]], elected 2007<ref>{{Cite web|title=Juan Martin Maldacena|url=https://www.amacad.org/person/juan-martin-maldacena|website=American Academy of Arts & Sciences|language=en|access-date=13 May 2020}}</ref>
+* [[Dannie Heineman Prize for Mathematical Physics|Dannie Heineman Prize]], 2007<ref>{{cite web|url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Maldacena&first_nm=Juan&year=2007 |title=2007 Dannie Heineman Prize for Mathematical Physics Recipient: Juan Maldacena, Institute for Advance Study |access-date=3 August 2018 |publisher=[[American Physical Society]]}}</ref>
+* [[Dirac Medal (ICTP)|Dirac Medal]] of the ICTP, 2008
+* [[Pomeranchuk Prize]], 2012
+* [[Breakthrough Prize in Fundamental Physics]], 2012.<ref>[https://breakthroughprize.org/News/15 New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field] {{webarchive|url=https://web.archive.org/web/20120803211628/https://breakthroughprize.org/Prize/1 |date=3 August 2012 }}, FPP, accessed 1 August 2012</ref>
+*Member of the [[National Academy of Sciences]], elected 2013<ref>{{Cite web|title=Juan Maldacena|url=https://www.nasonline.org/directory-entry/juan-maldacena-xc5rwh/|website=www.nasonline.org|access-date=13 May 2020}}</ref>
+* Diamond [[Konex Award]] as the most important scientist in the last decade in Argentina, 2013
+* [[Lorentz Medal]], 2018<ref>{{cite web |url=https://www.knaw.nl/en/news/news/lorentz-medal-awarded-to-physicist-juan-martin-maldacena |title=LORENTZ MEDAL AWARDED TO PHYSICIST JUAN MARTÍN MALDACENA |date=27 March 2018 |access-date=3 August 2018 |publisher=[[Royal Netherlands Academy of Arts and Sciences]] |archive-date=20 July 2021 |archive-url=https://web.archive.org/web/20210720163807/https://www.knaw.nl/en/news/news/lorentz-medal-awarded-to-physicist-juan-martin-maldacena |url-status=dead }}</ref>
+* [[Albert Einstein Medal]], 2018<ref>{{Cite web|url=https://www.ias.edu/news/juan-maldacena-receives-2018-einstein-medal-albert-einstein-society|title = Juan Maldacena Receives 2018 Einstein Medal from the Albert Einstein Society - IAS News &#124; Institute for Advanced Study|date = 3 August 2018}}</ref>
+* [[Society of Catholic Scientists|St. Albert Award]], 2018<ref>{{Cite web|url=https://www.catholicscientists.org/about/St.-Albert-Award/Maldacena-bio|title=Juan Martin Maldacena|access-date=6 October 2018|archive-date=18 January 2021|archive-url=https://web.archive.org/web/20210118091002/https://www.catholicscientists.org/about/St.-Albert-Award/Maldacena-bio|url-status=dead}}</ref>
+* [[Galileo Galilei Medal]], 2019
+* [[Les Houches School of Physics]] prize 2020<ref>{{Cite web |last=Peyla |first=Philippe |title=2020 Prize: Juan Martin Maldacena |url=https://www.houches-school-physics.com/prize/2020-prize/2020-prize-juan-martin-maldacena-764797.kjsp?RH=1606314527588 |access-date=2023-12-20 |website=Ecole des Houches |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.sns.ias.edu/~malda Maldacena's web page at the Institute]
+* [http://xstructure.inr.ac.ru/x-bin/search_e3.py?au=Maldacena_J&start=0&max_results=100 Maldacena Theme tree]
+* [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/47184 Interview of Juan Maldacena by David Zierler on January 15, 2021, Niels Bohr Library & Archives, American Institute of Physics, College Park, MD USA]
+
+{{Breakthrough Prize laureates}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maldacena, Juan Martin}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Argentine physicists]]
+[[Category:Harvard University faculty]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:MacArthur Fellows]]
+[[Category:National University of Cuyo alumni]]
+[[Category:Scientists from Buenos Aires]]
+[[Category:Princeton University alumni]]
+[[Category:String theorists]]
+[[Category:Theoretical physicists]]
+[[Category:Members of the Pontifical Academy of Sciences]]
+[[Category:Mathematical physicists]]
+[[Category:Albert Einstein Medal recipients]]

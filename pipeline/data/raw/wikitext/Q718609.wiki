@@ -1,0 +1,91 @@
+{{Short description|Israeli electrical engineer and business executive}}
+{{BLP sources|date=December 2019}}
+{{Infobox scientist
+| name              = Dov Frohman
+| native_name       = דב פרוהמן
+| native_name_lang  = he
+| image             = Dov Frohman.jpg
+| caption           = 
+| birth_date        = {{Birth date and age|1939|3|28}}
+| birth_place       = [[Amsterdam]]
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| ethnicity         = 
+| fields            = [[Electrical engineering]]
+| workplaces        = 
+| education         = [[University of California, Berkeley]], [[Technion - Israel Institute of Technology]]
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[EPROM]]
+| influences        = 
+| influenced        = 
+| awards            = [[IEEE Edison Medal]] {{small|(2008)}}<br />[[Israel Prize]]
+| signature         = 
+| footnotes         = 
+}}
+
+'''Dov Frohman''' ({{Langx|he|דב פרוהמן}}, also  '''Dov Frohman-Bentchkowsky'''; born March 28, 1939) is an Israeli [[electrical engineering|electrical engineer]] and [[management|business executive]]. A former vice president of [[Intel Corporation]], he is the inventor of the erasable programmable read only memory ([[EPROM]]) and the founder and first general manager of Intel Israel.  He is also the author (with Robert Howard) of ''Leadership the Hard Way'' ([[Jossey-Bass]], 2008).<ref>{{cite web |url=http://www.leadershipthehardway.com |title=Dov Frohman with Robert Howard {{!}} Leadership the Hard Way}}</ref>
+
+==Biography==
+Dov Frohman was born in March 1939 in [[Amsterdam]], five months before the start of [[World War II]]. His parents were Abraham and Feijga Frohman, Polish Jews who had emigrated to the [[Netherlands]] in the early 1930s to escape rising anti-Semitism in [[Poland]]. In 1942, after the German invasion of the Low Countries and as the Nazi grip on Holland's Jewish community tightened, his parents decided to give their child to acquaintances in the [[Dutch resistance]] who placed him with the Van Tilborghs, an orthodox Christian farming family that lived in the village of [[Sprang-Capelle]] in the region of [[North Brabant]] near the Belgian border. The Van Tilborghs hid Frohman for the duration of the war. His parents were murdered in [[the Holocaust]].<ref>[http://db.yadvashem.org/names/nameDetails.html?itemId=1675086&language=en The Central Database of Shoah Victims' Names]</ref>
+
+Located by relatives in Israel after the war, Frohman spent a few years in orphanages for Jewish children whose parents had died in the war, before emigrating to Israel in 1949, after the founding of the Jewish state. Adopted by relatives, he grew up in [[Tel Aviv]] and served in the Israeli army. In 1959, he enrolled for the [[Technion - Israel Institute of Technology]] to study electrical engineering. After graduating from the Technion in 1963, Frohman traveled to the United States to study for his master's and Ph.D. at the [[University of California, Berkeley]].  After receiving his master's degree in 1965, he took a job in the R&D labs of [[Fairchild Semiconductor]].
+
+==EPROM development ==
+In 1969, after completing his [[Ph.D.]], he followed former Fairchild managers [[Gordon Moore]], [[Robert Noyce]], and [[Andrew Grove]] to Intel Corporation, which they had founded the previous year.<ref>{{cite web |url=https://ethw.org/Dov_Frohman-Bentchkowsky |title=Dov Frohman-Bentchkowsky |website=Engineering and Technology History Wiki |date=14 September 2017 |access-date=21 March 2023}}</ref>
+
+It was while troubleshooting a fault in an early Intel product that Frohman in 1970 developed the concept for the EPROM, the first non-volatile semiconductor memory that was both erasable and easily reprogrammable. At the time, there were two types of semiconductor memories. [[Random access memory|Random-access memory]] (RAM) chips were easy to program, but a chip would lose its charge (and the information encoded on the chip) when its power source was turned off. In industry parlance, RAM chips were ''volatile''. [[Read-only memory]] (ROM) chips, by contrast, were ''nonvolatile''—that is, the information encoded in the chip was fixed and unchangeable. But the process for programming ROM memories was time-consuming and cumbersome. Typically, the data had to be “burned in” at the factory: physically embedded on the chip through a process called “masking” that generally took weeks to complete. And once programmed, the data in the ROM chip could not be altered.
+
+The EPROM was nonvolatile and reprogrammable. It was the catalyst for innovations and developments that led to  [[flash memory]] technology. The EPROM was also a key innovation in  the personal computer industry. Intel founder Gordon Moore called it  “as important in the development of the microcomputer industry as the [[microprocessor]] itself.”<ref>As quoted in ''A Revolution in Progress:  A History of Intel to Date'', (Intel Corporation, 1984), p. 22.</ref> It remained Intel's most profitable product well into the 1980s.
+
+==Intel Israel==
+After inventing the EPROM, Frohman left Intel to teach electrical engineering at the University of Science and Technology in [[Kumasi]], [[Ghana]]. He returned to Intel in 1973, but his long-term vision was to return to Israel to create a center of high-tech research there.<ref>{{cite web |url=http://news.com.com/A+culture+of+survival+drives+growth+-+page+2/2009-1008_3-6102135-2.html?tag=st.next |title=A culture of survival drives growth - CNET News |website=news.com.com |access-date=19 March 2022 |archive-url=https://archive.today/20130119135136/http://news.com.com/A+culture+of+survival+drives+growth+-+page+2/2009-1008_3-6102135-2.html?tag=st.next |archive-date=19 January 2013 |url-status=dead}}</ref> In 1974, he helped Intel establish a small chip design center in [[Haifa]]—Intel's first outside the United States. On his return to Israel, Frohman taught at the School of Applied Sciences at [[Hebrew University of Jerusalem]] and worked as a consultant to Intel on the side. In 1985, after negotiations with the Israeli government on the establishment of a semiconductor plant in [[Jerusalem]], Intel's first outside the United States, he left Hebrew University to become general manager of Intel Israel.
+
+In 1991, during the [[Gulf War|First Gulf War]], when [[Iraq]] attacked Israel with [[Scud]] missiles, Frohman kept Intel Israel open despite recommendations from the Israel Civil Defense authority that all non-essential businesses close down. As a result, Intel Israel was one of the few businesses, and the only manufacturing business, in the country to remain open throughout the war. Frohman described his experience during the war in an article in the ''[[Harvard Business Review]]''.<ref>{{cite magazine |first=Dov |last=Frohman |title=Leadership Under Fire |magazine=[[Harvard Business Review]] |date=December 2006}}</ref> In 1995, he led Intel's efforts to establish a second semiconductor fab in Israel, in the town of [[Kiryat Gat]] in the south of Israel on the edge of the [[Negev|Negev Desert]].
+
+Today, Intel Israel is the headquarters for the corporation's global R&D for wireless technology. It developed the company's [[Centrino]] mobile computing technology, which powers  laptops,  and advanced microprocessor products.<ref>{{cite web |first=Ian |last=King |title=Intel's Israelis Make Chip to Rescue Company From Profit Plunge |website=Bloomberg News |date=March 27, 2007 |url=http://www.bloomberg.com/apps/news?pid=newsarchive&sid=a2mgYutwVFnM&refer=home |archive-url=https://web.archive.org/web/20121020220557/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=a2mgYutwVFnM&refer=home |archive-date=20 October 2012 |url-status=dead}}</ref> It is also a major center for chip manufacture. In 2008, the company opened a second semiconductor fab in Kiryat Gat - a  $3.5 billion investment,  with seven thousand employees. In 2007, Intel Israel's exports totaled $1.4 billion and represented roughly 8.5 percent of the total exports of Israel's electronics and information industry.
+
+Frohman retired from Intel in 2001.
+
+==Awards and recognition==
+* In 1982, Frohman was the recipient of the [[Institute of Electrical and Electronics Engineers|IEEE]] Jack Morton Award for meritorious achievement in the field of solid state devices.
+* In 1991, he was awarded the [[Israel Prize]] for exact sciences in Engineering.<ref name=prize>{{Cite web| title = Israel Prize Official Site - Recipients in 1991 (in Hebrew)| url = http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashmag/Tashnab_Tashmag_Rikuz.htm?DictionaryKey=Tashna}}</ref><ref>Intel Corporation, "NewsBit: Frohman Wins Israel Prize in Engineering", Microcomputer Solutions, March/April 1991, page 1</ref>
+* In 2008, he received the IEEE's [[Edison Medal]], honoring a career of meritorious achievement in electrical engineering.
+* In 2009, he was inducted into the [[National Inventors Hall of Fame]].
+* In 2018, he was made Fellow of the [[Computer History Museum]].<ref>{{cite web|title=Dov Frohman-Bentchkowsky {{!}} Computer History Museum|url=http://www.computerhistory.org/fellowawards/hall/dov-frohman-bentchkowsky/|website=www.computerhistory.org|date=18 August 2025 |language=en}}</ref>
+
+He is also a member of the [[Israel Academy of Sciences and Humanities]].
+
+==References==
+{{Reflist}}
+
+==See also==
+* [[List of Israel Prize recipients]]
+
+{{IEEE Edison Medal Laureates 2001-2025}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Frohman, Dov}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:Dutch emigrants to Israel]]
+[[Category:Dutch Jews]]
+[[Category:IEEE Edison Medal recipients]]
+[[Category:Intel people]]
+[[Category:Israel Prize in exact science recipients]]
+[[Category:Israeli electrical engineers]]
+[[Category:21st-century Israeli engineers]]
+[[Category:Israeli Jews]]
+[[Category:Israeli people of Dutch-Jewish descent]]
+[[Category:Members of the Israel Academy of Sciences and Humanities]]
+[[Category:Israeli inventors]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Academic staff of Kwame Nkrumah University of Science and Technology]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]
+[[Category:Dutch Holocaust survivors]]

@@ -1,0 +1,46 @@
+{{Short description|Australian inorganic chemist}}
+{{EngvarB|date=July 2017}}
+{{Use dmy dates|date=July 2017}}
+
+{{Infobox person
+| name               = Martin A. Bennett
+| honorific_suffix   = {{Post-nominals|country=GBR|FRS|FAA|size=100%}}
+| birth_date         = {{Birth date and age|1935|08|11|df=y}}
+| birth_place        = [[Harrow, London|Harrow]], England
+| education          = Imperial College
+| employer           = [[Australian National University]]
+}}
+
+'''Martin Arthur Bennett''' {{Post-nominals|country=GBR|FRS|FAA}} (born 11 August 1935) is an Australian [[inorganic chemist]].  He gained recognition for studies on the [[co-ordination chemistry]] of tertiary phosphines, olefins, and acetylenes, and the relationship of their behaviour to [[homogeneous catalysis]].
+
+==Professional career==
+Born in [[Harrow, London|Harrow]], London on 11 August 1935,<ref name=":0">{{Cite web |title=Bennett, Martin Arthur – Person |url=https://www.eoas.info/biogs/P004597b.htm |access-date=2025-09-08 |website=Encyclopedia of Australian Science and Innovation |language=en-gb}}</ref> Bennett studied at [[The Haberdashers' Aske's Boys' School]] and received his PhD under the supervision of [[Geoffrey Wilkinson]] at [[Imperial College]].  He was subsequently a researcher at [[University College, London|University College]], London with [[Ronald Nyholm]] and then with Arthur Adamson.  While in London, he prepared the rhodium complex [RhCl(PPh<sub>3</sub>)<sub>3</sub>], now known as [[Wilkinson's catalyst]].<ref name=Bennett>{{cite journal|last1 = Bennett|first1 = M. A.|authorlink1 = Martin A. Bennett|last2 = Longstaff|first2 = P. A.|title = Complexes of Rhodium(I) with Triphenylphosphine|journal = [[Chem. Ind. (London)|Chem. Ind.]]|year = 1965|page = 846}}</ref> In the 1960s he took a position in the Research School of Chemistry at the [[Australian National University]] in Canberra.
+
+Bennett was elected a [[List of fellows of the Australian Academy of Science|Fellow of the Australian Academy of Science]] in 1980 and of the [[Fellow of the Royal Society|Royal Society]] in 1995.<ref name=":0" />
+
+==Contributions==
+At ANU, Bennett developed several lines of research broadly on themes in [[organometallic chemistry]].  This included extending work on the iridium [[analogue (chemistry)|analogue]] of Wilkinson's catalyst which he began at University College with Milner.<ref name = IrClPPh3-ChemComm /> Wilkinson's catalyst can be prepared by reducing [[rhodium(III) chloride]] in boiling ethanol in the presence of an excess of [[triphenylphosphine]],<ref>{{cite journal|last1 = Osborn|first1 = J. A.|last2 = Jardine|first2 = F. H.|last3 = Young|first3 = J. F.|last4 = Wilkinson|first4 = G.|authorlink4 = Geoffrey Wilkinson|title = The Preparation and Properties of Tris(triphenylphosphine)halogenorhodium(I) and Some Reactions Thereof Including Catalytic Homogeneous Hydrogenation of Olefins and Acetylenes and Their Derivatives|journal = [[J. Chem. Soc. A]]|year = 1966|volume = 1966|pages = 1711–1732|doi = 10.1039/J19660001711}}</ref><ref>{{cite book|last1 = Osborn|first1 = J. A.|last2 = Wilkinson|first2 = G.| title=Inorganic Syntheses | chapter=Tris(triphenylphosphine)halorhodium(I) |authorlink2 = Geoffrey Wilkinson|year = 1967|journal = [[Inorg. Synth.]]|volume = 10|pages = 67–71|doi = 10.1002/9780470132418.ch12|isbn = 9780470132418}}</ref> but the equivalent preparative conditions lead not to [IrCl(PPh<sub>3</sub>)<sub>3</sub>] but instead to a mixture of iridium(III) products, primarily the hydrogen chloride adduct of the analogue:<ref name = IrClPPh3-ChemComm>{{cite journal|title = Chlorotris(triphenylphosphine)iridium(I): An example of hydrogen transfer to a metal from a co-ordinated ligand|first1 = M. A.|last1 = Bennett|authorlink = Martin A. Bennett|first2 = D. L.|last2 = Milner|journal = [[Chem. Commun. (London)|Chem. Commun.]]|year = 1967|issue = 12|pages = 581–582|doi = 10.1039/C19670000581}}</ref>
+
+::IrCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> &nbsp; + &nbsp; 4&nbsp;PPh<sub>3</sub> &nbsp; → &nbsp; [HIrCl<sub>2</sub>(PPh<sub>3</sub>)<sub>3</sub>] &nbsp; + &nbsp; [[triphenylphosphine oxide|OPPh<sub>3</sub>]] &nbsp; + &nbsp; HCl &nbsp; + &nbsp; 2&nbsp;H<sub>2</sub>O
+
+Bennett prepared the analogue from the [[1,5-cyclooctadiene]] (1,5-cod) iridium(I) [[dimer (chemistry)|dimer]], [[Cyclooctadiene iridium chloride dimer|[(η<sup>4</sup>-1,5-cod)Ir(μ-Cl)]<sub>2</sub>]], using an excess of triphenylphosphine in [[ligroin]] under [[reflux]].  The product is isomorphous with Wilkinson's catalyst but does not lose a triphenylphosphine ligand through dissociation in organic solvents anywhere near as readily.<ref name = IrClPPh3-ChemComm /> A phosphine is lost under oxidative conditions with chlorine, affording initially [IrCl<sub>3</sub>(PPh<sub>3</sub>)<sub>2</sub>] and with excess chlorine, the iridium(IV) complex [IrCl<sub>4</sub>(PPh<sub>3</sub>)<sub>2</sub>] is obtained.  [IrCl(PPh<sub>3</sub>)<sub>3</sub>] rearranges on heating via an [[insertion reaction]], an ''ortho''-metalation of one of the phenyl [[moiety (chemistry)|moieties]], to produce the six-co-ordinate [[organometallic compound|organometallic]] iridium(III) hydride [HIrCl(PPh<sub>3</sub>)<sub>2</sub>(Ph<sub>2</sub>PC<sub>6</sub>H<sub>4</sub>)]<ref name = JACS1969 /> &ndash; an example of iridium(I)-iridium(III) [[tautomerism]] involving the formation of a [[denticity|bidentate]] phosphine ligand with a carbon [[donor atom]]:<ref name = IrClPPh3-ChemComm /><ref name = JACS1969>{{cite journal|last1 = Bennett|first1 = M. A.|authorlink = Martin A. Bennett|first2 = D. L.|last2 = Milner|title = Chlorotris(triphenylphosphine)iridium(I) and related complexes. Oxidative addition reactions and hydrogen abstraction from the coordinated ligand|journal = [[J. Am. Chem. Soc.]]|year = 1969|volume = 91|issue = 25|pages = 6983–6994|doi = 10.1021/ja01053a016}}</ref>
+
+::[(η<sup>4</sup>-1,5-cod)Ir(μ-Cl)]<sub>2</sub> &nbsp; + &nbsp; 4&nbsp;PPh<sub>3</sub> &nbsp; → &nbsp; 2&nbsp;[IrCl(PPh<sub>3</sub>)<sub>3</sub>] &nbsp; + &nbsp; 2&nbsp;1,5-cod
+
+[[File:RuCymCl2.png|thumb|right|The [[(cymene)ruthenium dichloride dimer]] ]]
+Bennett was the first to prepare complexes of cyclooctyne, cycloheptyne, and cyclohexyne.  He developed rare examples of metal-alkene complexes that exist in two oxidation states.  His group first prepared the now-popular reagent [[(cymene)ruthenium dichloride dimer]],<ref>{{cite book|first1 = M. A.|last1 = Bennett|authorlink1 = Martin A. Bennett|first2 = T.-N.|last2 = Huang|first3 = T. W.|last3 = Matheson|first4 = A. K.|last4 = Smith| chapter=16. (η <sup>6</sup> -Hexamethylbenzene)Ruthenium Complexes | title=Inorganic Syntheses |journal = [[Inorg. Synth.]]| date=2007 |volume = 21|pages = 74–78|doi = 10.1002/9780470132524.ch16|isbn = 9780470132524}}</ref> which is converted into a [[monomer]] by reaction with [[1,1'-bis(diphenylphosphino)ferrocene]] for use in [[borrowing hydrogen]] catalysis<ref>{{cite journal|title = Borrowing Hydrogen in the Activation of Alcohols|first1 = Malai Haniti S.A.|last1 = Hamid|first2 = Paul A.|last2 = Slatford|first3 = Jonathan M.J.|last3 = Williams|journal = [[Adv. Synth. Catal.]]|volume = 349|issue = 10|pages = 1555–1575|year = 2007|doi = 10.1002/adsc.200600638}}</ref>
+
+==References==
+{{reflist}}
+
+{{FRS 1995}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bennett, Martin}}
+[[Category:20th-century Australian chemists]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:Living people]]
+[[Category:1935 births]]
+[[Category:Inorganic chemists]]
+[[Category:Australian fellows of the Royal Society]]
+[[Category:Chemists of University College London]]

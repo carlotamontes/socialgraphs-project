@@ -1,0 +1,68 @@
+{{Infobox scientist
+|birth_name=
+|image = William Craig Reynolds.jpg
+|name   = William C. Reynolds
+|caption = 
+|birth_date  = March 16, 1933
+|birth_place = [[Berkeley, California]]
+|death_date  = {{D-da|January 3, 2004|March 6, 1933}}
+|death_place = [[Los Altos, California]]
+|nationality = 
+|fields   = [[Fluid mechanics]]
+|workplaces        = [[Stanford University]]
+|education         = [[Stanford University]]
+|doctoral_advisor  = [[William M. Kays]]<ref name="thesis">{{cite journal|last=Reynolds|first=William Craig|date=September 1957|title=''Ph.D Dissertation:'' Heat Transfer in the Turbulent Incompressible Boundary Layer with Constant and Variable Wall Temperature|publisher=[[Stanford University]]|pages=i–iii}}</ref><br>[[Stephen J. Kline]]<ref name="thesis" />
+|doctoral_students = [[Fazle Hussain]]<br>[[Parviz Moin]]
+|influences = 
+|influenced = 
+|known_for         =
+|awards            = [[Otto Laporte Award]] {{small|(1992)}}
+}}
+'''William Craig Reynolds''' (March 16, 1933 – January 3, 2004) was a [[Fluid mechanics|fluid physicist]] and [[Mechanical engineering|mechanical engineer]] who specialized in [[Turbulence|turbulent flow]] and [[computational fluid dynamics]].<ref name="Moin">{{cite journal |last1=Moin |first1=Parviz |last2=Homsy |first2=G.M. |title=An Appreciation of the Life and Work of William C. Reynolds (1933–2004) |journal=Annual Review of Fluid Mechanics |date=3 January 2017 |volume=49 |issue=1 |pages=1–21 |doi=10.1146/annurev-fluid-122414-034434 |language=en |issn=0066-4189|doi-access=free |bibcode=2017AnRFM..49....1M }}</ref><ref name="Bradshaw">{{Citation
+| doi = 10.1063/1.1955501
+| volume = 58
+| issue = 4
+| pages = 85–86
+| last = Bradshaw
+| first = Peter
+| title = William Craig Reynolds
+| journal = Physics Today
+| year = 2005
+|bibcode = 2005PhT....58R..85B }}</ref>
+
+Reynolds completed his undergraduate degrees, as well as his doctorate, all at [[Stanford University]], in 1954, 1955, and 1957, respectively, after which he joined the faculty. He was chairman of the Mechanical Engineering Department from 1972 to 1982 and again from 1989 to 1992.<ref name="moin_2007">{{citation |author-link=Parviz Moin |last=Moin |first=P. |year=2007 |title=William C. Reynolds |journal=Memorial Tributes: National Academy of Engineering |volume=11 |pages=266–269 |url=http://www.nap.edu/openbook.php?record_id=11912&page=266}}</ref>
+
+Reynolds was one of the pioneers in [[Large eddy simulation]] for fluid modeling.<ref name="Moin"/><ref name="moin_2007"/> He was elected to the [[National Academy of Engineering]] in 1979.<ref name="Moin"/> He won the Fluid Engineering Award of the [[American Society of Mechanical Engineers]] in 1989<ref>{{cite web |title=Fluids Engineering Award |url=https://www.asme.org/about-asme/honors-awards/achievement-awards/fluids-engineering-award |website=American Society of Mechanical Engineers |access-date=27 March 2023 |language=en}}</ref> and the [[Otto Laporte Award]] by the [[American Physical Society]] in 1992.<ref>{{cite web |title=Prize Recipient |url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=William&last_nm=Reynolds&year=1992 |website=American Physical Society |access-date=27 March 2023 |language=en}}</ref>
+
+Following his death, the Department of Mechanical Engineering at Stanford established the William C. Reynolds Memorial Award and Lecture.<ref>{{Cite web |date=November 3, 2004 |title=Stanofrd report |url=https://searchworks.stanford.edu/view/3057057 |access-date=2026-06-05 |website=searchworks.stanford.edu}}</ref>
+
+==Selected publications==
+* {{Citation
+| doi = 10.1146/annurev.fl.08.010176.001151
+| volume = 8
+| pages = 183–208
+| last = Reynolds
+| first = W.C.
+| title = Computation of Turbulent Flows
+| journal = Annual Review of Fluid Mechanics
+| year = 1976
+|bibcode = 1976AnRFM...8..183R | hdl = 2060/19750022392
+| s2cid = 122972588
+| hdl-access = free
+}}
+
+== References ==
+{{reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Reynolds, William}}
+[[Category:1933 births]]
+[[Category:2004 deaths]]
+[[Category:Fluid dynamicists]]
+[[Category:Stanford University Department of Mechanical Engineering faculty]]
+[[Category:Scientists from the San Francisco Bay Area]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:20th-century American engineers]]
+[[Category:Fellows of the American Physical Society]]
+
+{{US-engineer-stub}}

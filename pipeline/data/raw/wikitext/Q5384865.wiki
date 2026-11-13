@@ -1,0 +1,79 @@
+{{Short description|Israeli computational biologist}}
+{{about|a biologist|the heavy metal guitarist|Aborted}}
+{{Infobox scientist
+| name              = Eran Segal
+| native_name       = ערן סגל
+| native_name_lang  = he
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date and age|1973|11|15}}
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| fields            = [[Computational biology]]<br />[[Systems biology]]<br />[[Microbiome]]<br />[[Personalized medicine]]
+| workplaces        = [[Rockefeller University]]<br />[[Weizmann Institute of Science]]<br />[[Mohamed bin Zayed University of Artificial Intelligence]]
+| education         = [[Stanford University]]<br>[[Tel Aviv University]]
+| thesis_title      = Rich Probabilistic Models for Genomic Data
+| thesis_url        = https://searchworks.stanford.edu/view/5764166
+| thesis_year       = 2004
+| doctoral_advisor  = [[Daphne Koller]]<ref name="biog">{{cite web |title=Eran Segal biography |url=https://www.wisdom.weizmann.ac.il/~eran/biography.html |publisher=Weizmann Institute of Science |access-date=27 April 2026}}</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = Fellow, [[International Society for Computational Biology|ISCB]] (2026)<ref name="iscb-fellow" /><br />[[Overton Prize]] (2007)<ref name="overton" />
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+'''Eran Segal''' ({{langx|he|ערן סגל}}; born 15 November 1973) is a [[computational biologist]] professor at the [[Weizmann Institute of Science]].<ref name="biog"/> He works on developing quantitative models for all levels of [[gene regulation]],<ref>{{Cite journal | last1 = Kaplan | first1 = N. | last2 = Moore | first2 = I. K. | last3 = Fondufe-Mittendorf | first3 = Y. | last4 = Gossett | first4 = A. J. | last5 = Tillo | first5 = D. | last6 = Field | first6 = Y. | last7 = Leproust | first7 = E. M. | last8 = Hughes | first8 = T. R. | last9 = Lieb | first9 = J. D. | last10 = Widom | doi = 10.1038/nature07667 | first10 = J. | last11 = Segal | first11 = E. | title = The DNA-encoded nucleosome organization of a eukaryotic genome | journal = Nature | volume = 458 | issue = 7236 | pages = 362–366 | year = 2008 | pmid =  19092803| pmc =2658732 |bibcode = 2009Natur.458..362K }}</ref> including [[Transcription (genetics)|transcription]], [[chromatin]], and [[Translation (biology)|translation]].<ref>{{Cite journal | last1 = Segal | first1 = E. | last2 = Fondufe-Mittendorf | first2 = Y. | last3 = Chen | first3 = L. | last4 = Thåström | first4 = A. | last5 = Field | first5 = Y. | last6 = Moore | first6 = I. K. | last7 = Wang | first7 = J. P. Z. | last8 = Widom | first8 = J. | doi = 10.1038/nature04979 | title = A genomic code for nucleosome positioning | journal = Nature | volume = 442 | issue = 7104 | pages = 772–778 | year = 2006 | pmid =  16862119| pmc =2623244 |bibcode = 2006Natur.442..772S }}</ref><ref>{{Cite journal | last1 = Segal | first1 = E. | last2 = Shapira | first2 = M. | last3 = Regev | first3 = A. | last4 = Pe'er | first4 = D. | last5 = Botstein | first5 = D. | last6 = Koller | first6 = D. | last7 = Friedman | first7 = N. | doi = 10.1038/ng1165 | title = Module networks: Identifying regulatory modules and their condition-specific regulators from gene expression data | journal = Nature Genetics | volume = 34 | issue = 2 | pages = 166–176 | year = 2003 | pmid =  12740579| s2cid = 6146032 }}</ref><ref>{{Cite journal | last1 = Segal | first1 = E. | last2 = Widom | first2 = J. | doi = 10.1038/nrg2591 | title = From DNA sequence to transcriptional behaviour: A quantitative approach | journal = Nature Reviews Genetics | volume = 10 | issue = 7 | pages = 443–456 | year = 2009 | pmid =  19506578| pmc =2719885 }}</ref> In 2006, Segal and Jonathan Widom of [[Northwestern University]] published a model of [[nucleosome]] positioning along DNA in ''[[Nature (journal)|Nature]]''.<ref name="nyt-nucleosome">{{cite news |last=Wade |first=Nicholas |title=Scientists Say They've Found a Code Beyond Genetics in DNA |url=https://www.nytimes.com/2006/07/25/science/25dna.html |work=The New York Times |date=25 July 2006 |access-date=27 April 2026}}</ref>
+Segal also works as an epidemiologist.<ref name="TOI">{{cite news |title=Epidemiologist estimates nearly half of Israeli population caught Omicron |url=https://www.timesofisrael.com/epidemiologist-estimates-nearly-half-of-israeli-population-caught-omicron/ |access-date=13 September 2022 |publisher=Times of Israel |date=February 19, 2022}}</ref>
+
+== Education ==
+Segal earned a [[Bachelor of Arts|BA]] in [[Computer Science]] and [[Economics]] from [[Tel Aviv University]] in 1998.<ref name="biog" />
+
+He earned a [[PhD]] from [[Stanford University]] in 2004 advised by [[Daphne Koller]] with a dissertation titled: ''Rich Probabilistic Models for Genomic Data''.<ref name="thesis">{{cite thesis |last=Segal |first=Eran |title=Rich Probabilistic Models for Genomic Data |degree=PhD |publisher=Stanford University |year=2004 |url=https://searchworks.stanford.edu/view/5764166}}</ref> In support of his graduate study at Stanford he received a [[Fulbright Program|Fulbright]] Foreign Student Program grant in 1999.<ref name="fulbright">{{cite web |title=Grantee Directory |url=https://foreign.fulbrightonline.org/alumni/grantee-directory |website=Fulbright Foreign Student Program |publisher=Institute of International Education |access-date=1 June 2026 |quote=Eran Segal — Foreign Grantee; Stanford University; California; Computer Science; Israel; 1999}}</ref>
+
+== Career ==
+After completing his Ph.D., Segal held a postdoctoral research position at [[Rockefeller University]] from 2004 to 2005 before joining the Departments of Computer Science and Applied Mathematics and of Molecular Cell Biology<ref name="wis-people">{{cite web |title=Prof. Eran Segal |url=https://www.weizmann.ac.il/pages/search/people?keywords=eran%20segal |website=Weizmann Institute of Science |access-date=22 April 2026}}</ref> at the [[Weizmann Institute of Science]] in 2005.<ref name="iias-segal-profile">{{cite web |title=Eran Segal |url=https://iias.huji.ac.il/people/eran-segal |website=Israel Institute for Advanced Studies |publisher=Hebrew University of Jerusalem |access-date=22 April 2026}}</ref>
+
+A 2015 study in ''[[Cell (journal)|Cell]]'' by Segal and colleagues showed that glucose responses to identical foods vary substantially between individuals.<ref name="zeevi-2015">{{cite journal |doi=10.1016/j.cell.2015.11.001 |pmid=26590418 |title=Personalized Nutrition by Prediction of Glycemic Responses |journal=Cell |volume=163 |issue=5 |pages=1079–1094 |year=2015 |last1=Zeevi |first1=David |last2=Korem |first2=Tal |last3=Zmora |first3=Niv |display-authors=etal |doi-access=free}}</ref><ref name="nyt-personalized-diet">{{cite news |last=Murphy |first=Kate |title=A Personalized Diet, Better Suited to You |url=https://archive.nytimes.com/well.blogs.nytimes.com/2016/01/11/a-personalized-diet-better-suited-to-you/ |work=The New York Times |date=11 January 2016 |access-date=27 April 2026}}</ref> In 2018, Segal launched the Human Phenotype Project at the Weizmann Institute. The longitudinal cohort study collects genomic, microbiome, continuous glucose monitoring, imaging, and lifestyle data from participants across 17 body systems over a 25-year period, with more than 28,000 participants enrolled as of 2025.<ref name="hpp-jpost">{{cite news |last=Siegel-Itzkovich |first=Judy |title=An AI model from Weizmann Institute can predict your future health – and help you change it |url=https://www.jpost.com/business-and-innovation/article-863709 |work=The Jerusalem Post |date=10 August 2025 |access-date=27 April 2026}}</ref><ref name="hpp-natmed">{{cite journal |last1=Reicher |first1=Lee |last2=Shilo |first2=Smadar |last3=Godneva |first3=Anastasia |last4=Lutsker |first4=Guy |display-authors=etal |title=Deep phenotyping of health–disease continuum in the Human Phenotype Project |journal=Nature Medicine |volume=31 |issue=9 |pages=3191–3203 |year=2025 |doi=10.1038/s41591-025-03790-9 |pmid=40665053}}</ref>
+
+As of 2025, Segal serves as Acting Dean of the School of Digital Public Health and Professor of Computational Biology at the [[Mohamed bin Zayed University of Artificial Intelligence]] (MBZUAI).<ref name="fastco-hpp">{{cite news |title=Can AI-powered digital twins revolutionize healthcare? This MBZUAI professor thinks so |url=https://fastcompanyme.com/impact/can-ai-powered-digital-twins-revolutionize-healthcare-this-mbzuai-professor-thinks-so/ |work=Fast Company Middle East |date=8 September 2025 |access-date=27 April 2026}}</ref><ref name="zawya-mbzuai">{{cite news |title=MBZUAI opens applications for first Master's and Ph.D. cohorts in computational biology |url=https://www.zawya.com/en/press-release/companies-news/mbzuai-opens-applications-for-first-masters-and-phd-cohorts-in-computational-biology-ypn18mct |publisher=Zawya |date=26 November 2025 |access-date=27 April 2026}}</ref>
+
+== Awards and honors ==
+* Elected Fellow of the [[International Society for Computational Biology]] (2026)<ref name="iscb-fellow">
+{{cite web |title=April 21, 2026: ISCB Announces the 2026 Class of Fellows! |url=https://www.iscb.org/about-iscb/society-communications/announcements/april-21-2026-iscb-announces-the-2026-class-of-fellows |website=International Society for Computational Biology |date=21 April 2026 |access-date=12 May 2026}}</ref>
+* Elected Member of the [[European Molecular Biology Organization]] (2015).<ref name="embo-profile">{{cite web |title=Eran Segal |url=https://people.embo.org/profile/eran-segal?permalink=e9477b20-3e40-11f1-a295-6d5b38d4b9ad |website=EMBO People |publisher=European Molecular Biology Organization |access-date=22 April 2026}}</ref>
+* Michael Bruno Memorial Award, [[Israel Institute for Advanced Studies]], [[Hebrew University of Jerusalem]] (2015).<ref name="iias-bruno">{{cite web |title=Bruno Laureates |url=https://iias.huji.ac.il/brunolaureates |website=Israel Institute for Advanced Studies |publisher=Hebrew University of Jerusalem |access-date=22 April 2026}}</ref>
+* Recipient of three [[European Research Council]] (ERC) grants: a Consolidator Grant (2013),<ref name="erc-cog-2013">{{cite web |title=ERC Consolidator Grants 2013 Results: List of Principal Investigators |url=https://erc.europa.eu/sites/default/files/document/file/erc_2013_cog_full_results_by_domain.pdf |publisher=European Research Council |date=18 February 2014 |access-date=2 June 2026 |format=PDF}}</ref> an Advanced Grant (2017),<ref name="erc-adg-cordis">{{cite web |title=Discovering microbiome-based disease risk factors |url=https://cordis.europa.eu/project/id/786344 |website=CORDIS |publisher=European Commission |access-date=2 June 2026}}</ref> and a Proof of Concept Grant (2018).<ref name="erc-covid-list">{{cite web |title=List of ERC-funded research projects related to coronavirus |url=https://erc.europa.eu/list-erc-funded-research-projects-related-coronavirus |website=European Research Council |publisher=European Commission |access-date=2 June 2026}}</ref>
+* Selected for the [[European Molecular Biology Organization]] Young Investigator Programme (2007).<ref name="embo-yip-2007">{{cite web |title=Eighteen young scientists join EMBO Young Investigator network |url=https://cordis.europa.eu/article/id/109691-eighteen-young-scientists-join-embo-young-investigator-network |website=CORDIS |publisher=Publications Office of the European Union |date=23 October 2007 |access-date=1 June 2026}}</ref>
+* Recipient of the [[Overton Prize]], [[International Society for Computational Biology]] (2007).<ref name="overton">{{Cite journal |last1=Maisel |first1=M. |title=ISCB Honors Temple F. Smith and Eran Segal |journal=PLOS Computational Biology |volume=3 |issue=6 |pages=e128 |year=2007 |doi=10.1371/journal.pcbi.0030128 |pmid=17604447 |pmc=1904388 |bibcode=2007PLSCB...3..128M |doi-access=free}}</ref>
+* Best Paper by a Young Scientist Award, [[RECOMB|Research in Computational Molecular Biology (RECOMB)]] (2004).<ref name="recomb-awards">{{cite web |title=RECOMB Awards |url=https://recomb.org/awards/ |website=RECOMB Conference Series |access-date=22 April 2026}}</ref>
+
+==References==
+{{Reflist}}
+{{Overton Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Segal, Eran}}
+[[Category:Living people]]
+[[Category:Overton Prize winners]]
+[[Category:Members of the European Molecular Biology Organization]]
+[[Category:Israeli bioinformaticians]]
+[[Category:Stanford University alumni]]
+[[Category:Tel Aviv University alumni]]
+[[Category:Academic staff of Weizmann Institute of Science]]
+[[Category:1973 births]]
+[[Category:Israeli epidemiologists]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:Computational biologists]]

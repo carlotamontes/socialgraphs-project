@@ -1,0 +1,94 @@
+{{Short description|Polish theoretical physicist (born 1951)}}
+{{Infobox scientist
+|name              = Wojciech H. Zurek
+|birth_name        = Wojciech Hubert Żurek
+|image             = Wojciech H. Zurek.gif
+|caption           = 
+|birth_date        = {{Birth year and age|1951}}
+|birth_place       = [[Bielsko-Biała]], [[People's Republic of Poland|Poland]]
+|death_date        = 
+|death_place       = 
+|residence         =
+|citizenship       = 
+|nationality       = 
+|fields            = [[Quantum physics]]
+|workplaces        = [[California Institute of Technology]]<br>[[Los Alamos National Laboratory]]<br>[[Santa Fe Institute]]<br>[[University of California, Santa Barbara]]
+|education         = [[AGH University of Science and Technology]], [[Kraków]] (M.Sc., 1974)<br>[[University of Texas at Austin]] (PhD, 1979)
+|doctoral_advisor  = [[William C. Schieve]]
+|academic_advisors = 
+|doctoral_students =
+|notable_students  = 
+|known_for         = [[Quantum decoherence]]<br>[[No-cloning theorem]]<br>[[Quantum Darwinism]]<br>[[Pointer state]]<br>[[Einselection]]<br>Envariance<br>[[Quantum discord]]<br>[[Kibble–Zurek mechanism]]<br>[[Kibble–Zurek scaling laws]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|signature         =  <!--(filename only)-->
+|footnotes         =
+}}
+'''Wojciech Hubert Zurek'''<ref name=CV/> ({{langx|pl|Żurek}}; born 1951) is a Polish and American [[theoretical physics|theoretical]] [[physicist]] and a leading authority on [[Quantum mechanics|quantum theory]], especially [[decoherence]] and non-equilibrium dynamics of symmetry breaking and resulting defect generation (known as the [[Kibble–Zurek mechanism]]).
+
+==Education==
+He attended the I Liceum Ogólnokształcące im. Mikołaja Kopernika (1st Secondary High School of [[Mikołaj Kopernik]]) in [[Bielsko-Biała]].
+
+Zurek earned his M.Sc. in [[physics]] at [[AGH University of Science and Technology]], [[Kraków]], Poland in 1974 and completed his Ph.D. under advisor [[William C. Schieve]] at the [[University of Texas at Austin]] in 1979.<ref name=CV>[https://public.lanl.gov/whz/ CV]</ref> 
+
+==Career==
+Zurek spent two years at [[Caltech]] as a [[Tolman Fellow]], and started at the [[Los Alamos National Laboratory]] [[LANL]] as a [[J. Oppenheimer Fellow]].
+
+He was the leader of the Theoretical Astrophysics Group at Los Alamos from 1991 until he was made a laboratory fellow (a prestigious distinction for a US National Laboratory scientist) in the theory division in 1996. Zurek is currently a foreign associate of the [[physical cosmology|''Cosmology'']]'' Program'' at the [[Canadian Institute for Advanced Research]]. He served as a member of the external faculty of the [[Santa Fe Institute]], and has been a visiting professor at the [[University of California, Santa Barbara]]. Zurek co-organized the programs ''Quantum Coherence and Decoherence'' and ''Quantum Computing and Chaos'' at [[Kavli Institute for Theoretical Physics|UCSB's Institute for Theoretical Physics]].
+
+== Work ==
+He researches decoherence, physics of quantum and classical information, non-equilibrium dynamics of defect generation, and [[astrophysics]]. He is also the co-author, along with [[William Wootters]] and [[Dennis Dieks]], of a proof stating that a single [[quantum]] cannot be cloned (see the [[no-cloning theorem]]). He also coined the terms [[einselection]] and [[quantum discord]].
+
+Zurek with his colleague [[Tom W. B. Kibble]] pioneered a paradigmatic framework for understanding defect generation in non-equilibrium processes, particularly, for understanding topological defects generated when a second-order phase transition point is crossed at a finite rate. The paradigm covers phenomena of enormous varieties and scales, ranging from structure formation in the early Universe to vortex generation in [[Superfluidity|superfluids]].<ref>{{Cite journal |last=Zurek |first=W. H.|date=October 1985 |title=Cosmological experiments in superfluid helium? |journal=Nature |volume=317 |issue=6037 |pages=505–508 |doi=10.1038/317505a0 |issn=0028-0836 |bibcode=1985Natur.317..505Z |s2cid=4253800 |url=https://zenodo.org/record/1233041}}</ref> The key mechanism of critical defect generation is known as the [[Kibble–Zurek mechanism]], and the resulting scaling laws known as the ''[[Kibble–Zurek scaling laws]]''.
+
+He pointed out the fundamental role of environment in determining a set of special basis states immune to environmental decoherence ([[pointer basis]]) which defines a classical measuring apparatus unambiguously. His work on decoherence paves a way towards the understanding of emergence of the classical world from the quantum mechanical one, getting rid of ad hoc demarcations between the two, like the one imposed by [[Niels Bohr]] in the famous [[Copenhagen interpretation]] of [[quantum mechanics]]. The underlying mechanism proposed and developed by Zurek and his collaborators is known as [[quantum Darwinism]]. His work also has a lot of potential benefit to the emerging field of [[quantum computing]].
+
+He is a pioneer in information physics, edited an influential book on "Complexity, Entropy and the Physics of Information",<ref>{{Cite book |url=https://books.google.com/books?id=tdUuweSIMg4C&q=++ |title=Complexity, Entropy, and the Physics of Information: The Proceedings of the 1988 Workshop on Complexity, Entropy, and the Physics of Information Held May-June, 1989, in Santa Fe, New Mexico |isbn=9780201515091 |last1=Zurek |first1=Wojciech Hubert |year=1990|publisher=Avalon }}</ref> and spearheaded the efforts that finally exorcised [[Maxwell's demon]]. Zurek showed that the demon can extract energy from its environment for "free" as long as it (a) is able to find structure in the environment, and (b) is able to compress this pattern (whereas the remaining code is more succinct than the brute-force description of the structure). In this way the demon can exploit thermal fluctuations. However, he showed that in thermodynamic equilibrium (the most likely state of the environment), the demon can at best break even, even if the information about the environment is compressed. As a result of his exploration, Zurek suggested redefining [[entropy]] and distinguishing between two parts: the part that we already know about the environment (measured in [[Kolmogorov complexity]]), and, conditioned on our knowledge, the remaining uncertainty (measured in [[Shannon entropy]]).
+
+==Honors==
+* 1996 Laboratory Fellow at the Los Alamos National Laboratory
+* 2004 Phi Beta Kappa Visiting Lecturer
+* 2005 [[Alexander von Humboldt Prize]]
+* 2009 Fellow of the [[American Physical Society]]<ref name="aps">{{cite news|title=2009 Fellows of the American Physical Society|url=http://www.aps.org/units/gqi/fellowship/index.cfm?year=2009}}</ref>
+* 2009 [[Marian Smoluchowski Medal]], highest prize of the Polish Physical Society
+* 2010 Albert-Einstein Professorship, honorary professorship at the University of Ulm
+* 2012 [[Order of Polonia Restituta]], the Commander's Cross - one of Poland's highest Orders
+* 2014 Los Alamos Medal, the highest honor bestowed by the Los Alamos National Laboratory<ref>[https://www.lanl.gov/discover/news-release-archive/2015/April/04.23-la-medal-recipients.php lanl.gov]</ref>
+* 2019 Doctor Honoris Causa, Jagiellonian University, Krakow
+* 2021 Doctor Honoris Causa, University of Science and Technology (AGH), Krakow
+* 2024 National Academy of Sciences, USA
+
+==Books==
+* as editor with John Wheeler: ''Quantum theory of measurement.'' Princeton University Press 1983<ref>{{cite journal|doi=10.1086/289264| title=Review of ''Quantum Theory and Measurement'' edited by John Archibald Wheeler and Wojciech Hubert Zurek| year=1985 | last1=Cartwright | first1=Nancy | author-link=Nancy Cartwright (philosopher) | journal=Philosophy of Science | volume=52 | issue=3 | pages=480–481 }}</ref> {{isbn|978-0691613161}}; [https://books.google.com/books?id=L7r_AwAAQBAJ 2014 edition]
+* as editor with [[Alwyn Van der Merwe|A. van der Merwe]], W. A. Miller: ''Between Quantum and Cosmos.'' Princeton University Press, 1988 {{isbn|978-0691605548}}
+* as editor: ''Complexity, Entropy and Physics of Information.'' Addison-Wesley 1990; {{cite book|title=2018 pbk edition|isbn=978-0-201-51506-0|url=https://books.google.com/books?id=RQpQDwAAQBAJ|last1=Zurek |first1=Wojciech H. |date=8 March 2018 |publisher=CRC Press }}
+* as editor with J. J. Halliwell, J. Pérez-Mercader: ''Physical Origins of Time Asymmetry.'' Cambridge Univ. Press, Cambridge, 1994 {{isbn|0-521-43328-2}}<ref>{{cite journal|doi=10.1063/1.2808167| title=Review of ''Physical Origins of Time Asymmetry'' edited by J. J. Halliwell, J. Pérez-Mercader, and W. H. Zurek | year=1995 | last=Segrè | first=Gino | journal=Physics Today | volume=48 | issue=9 | page=90 | bibcode=1995PhT....48i..90H }}</ref> {{cite book|title=1996 pbk edition| date=21 March 1996 | publisher=Cambridge University Press |url=https://books.google.com/books?id=kv-evuvt5c4C|isbn=0-521-56837-4}}
+* as editor with H. Arodz and J. Dziarmaga: ''Patterns of Symmetry Breaking'', NATO ASI series volume (Kluwer Academic, Dordrecht, 2003) {{isbn|978-1-4020-1745-2}}; {{cite book|title=2012 edition| date=6 December 2012 | publisher=Springer | isbn=9789400710290 |url=https://books.google.com/books?id=cIpqCQAAQBAJ}} e-book {{isbn|978-94-007-1029-0}}
+* {{cite book|title=Decoherence and Quantum Darwinism: From Quantum Foundations to Classical Reality|year=2025|place=Cambridge|author=Zurek, Wojciech Hubert|publisher=Cambridge University Press|url=https://www.cambridge.org/us/universitypress/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/decoherence-and-quantum-darwinism-quantum-foundations-classical-reality?format=HB&isbn=9781009552905}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://public.lanl.gov/whz/ Wojciech H. Zurek's webpage] {{Webarchive|url=https://web.archive.org/web/20070210031622/http://public.lanl.gov/whz/ |date=2007-02-10 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zurek, Wojciech H.}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Polish emigrants to the United States]]
+[[Category:Quantum information scientists]]
+[[Category:Quantum physicists]]
+[[Category:Santa Fe Institute people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:AGH University of Kraków alumni]]
+[[Category:University of California, Santa Barbara faculty]]

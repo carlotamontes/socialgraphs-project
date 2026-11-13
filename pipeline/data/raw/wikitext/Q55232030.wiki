@@ -1,0 +1,130 @@
+{{Short description|Belgian engineer}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Jean van Bladel
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Jean van Bladel.jpg
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |1922|07|24}}
+| birth_place       = [[Antwerp]], [[Belgium]]
+| death_date        = {{death date and age |2018|01|24 |1922|07|24}}
+| death_place       = [[Westende]], Belgium
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = [[Electrical engineering]]
+| workplaces        = {{plainlist|
+*[[Ghent University]]
+*University of Wisconsin–Madison
+}}
+| patrons           = 
+| education         = {{plainlist|
+*[[Université libre de Bruxelles]]
+*[[University of Wisconsin–Madison]]
+}}
+| thesis_title      = Wave Propagation in Cylindrical Structures Containing Several Longitudinal Media
+| thesis_url        = https://www.proquest.com/docview/301801441/D4B619FCEF9945DCPQ/
+| thesis_year       = 1950
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = [[Kenneth K. Mei]]
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = [[IEEE Heinrich Hertz Medal]] (1995)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Jean G. van Bladel''' (July 24, 1922 – January 24, 2018) was a Belgian electrical engineer, physicist and academician, who was a Professor Emeritus at [[Ghent University]]. He was best known for his contributions to [[electromagnetics]] and [[Antenna (radio)|antenna]] theory.
+
+==Biography==
+Jean van Bladel was born on July 24, 1922, in [[Antwerp]], [[Belgium]] to a [[French Community of Belgium|French-speaking family]]. His father was a barrister. In 1939, he was accepted to the [[Royal Military Academy (Belgium)|Belgian Royal Military Academy]]. In the same year and at the beginnings of [[World War II]], he and his military cohort was forced to flee to southern France during the [[German invasion of Belgium (1940)|invasion of Belgium]]; during his return, he became a [[prisoner of war]] as his train was intercepted by [[Nazi Germany|German]] forces. Returning to Belgium later in 1940, he resumed his engineering studies at [[Université libre de Bruxelles]]. Soon, he had to transfer to [[University of Liège]] when the rector of the university refused to collaborate with [[German occupation of Belgium during World War II|German occupiers]], after which the university was closed.<ref name="ursi-gass"/> He obtained his bachelor's degrees in electromechanical and radio engineering from Université libre de Bruxelles in 1947 and 1948, respectively.<ref name="guest-editor"/>
+
+In 1948, van Bladel moved to the United States to pursue his graduate studies under a scholarship by [[Belgian American Educational Foundation]]. He received masters and PhD degrees in electrical engineering from the [[University of Wisconsin–Madison]] in 1949 and 1950, respectively. He worked as the head of the Radar Department at Manufacture BeIge de Lampes et de Materiel Electronique in between 1950 and 1954; following this, he worked as an assistant professor at [[Washington University in St. Louis]] for two years.  In 1956, he returned to his alma mater, University of Wisconsin–Madison, to become an associate professor and was promoted to full professorship in 1960. In 1964, he returned to Belgium to become a professor at [[Ghent University]], where he founded the Laboratory of Electromagnetism and Acoustics.<ref name="guest-editor"/> Between 1976 and 1978, he served as the Dean of the Faculty of Applied Science of the university and retired in 1987.<ref name="ursi-memoriam"/> 
+
+Van Bladel died on January 24, 2018, in [[Westende]], Belgium.<ref name="uw-madison"/> He was survived by his wife Hjördis Van Bladel, his three children and four grandchildren.<ref name="ursi-gass"/>
+
+==Research and teaching==
+Van Bladel's research work focused on [[electromagnetics]], [[Antenna (radio)|antenna]] theory, [[special relativity]], electromagnetic [[Singularity (mathematics)|singularities]] and [[dyadics]]. His 1963 work on the numerical characterization of [[scattering]] with his PhD student K. K. Mei was one of the first works in [[computational electromagnetics]] literature to use [[method of moments (electromagnetics)|method of moments]].<ref name="ursi-gass"/><ref name="mom"/> He has also adopted special relativity in his research to solve engineering problems, such as those pertaining to interactions in rotational and translational media, and scattering from moving objects.<ref name="guest-editor"/> In 1995, he received [[IEEE Heinrich Hertz Medal]] for "major contributions in fundamental electromagnetic theory and its application to electrical engineering."<ref name="ursi-gass"/>
+
+In addition to his research work, he is known for his textbook, ''Electromagnetic Fields'' (1964). He has also authored the textbooks, ''Les Applications du Radar à I'Astronomie et à la Météorologie'' (1955), ''Relativity and Engineering'' (1984), ''Singular Electromagnetic Fields and Sources'' (1991).<ref name="ursi-gass"/><ref name="guest-editor"/>
+
+==Publications==
+===Journal articles===
+* {{cite journal |first1=K. |last1=Mei |first2=J. |last2=Van Bladel |title=Scattering by perfectly-conducting rectangular cylinders |journal=[[IEEE Transactions on Antennas and Propagation]] |date=1963 |volume=11 |issue=2 |pages= 185–192|doi=10.1109/TAP.1963.1137996|bibcode=1963ITAP...11..185M }}
+* {{cite journal |last1=Van Bladel |first1=J. |title=On the resonances of a dielectric resonator of very high permittivity |journal=[[IEEE Transactions on Microwave Theory and Techniques]] |date=1975 |volume=23 |issue=2 |pages=199–208 |doi=10.1109/TMTT.1975.1128528|bibcode=1975ITMTT..23..199V }}
+* {{cite journal |last1=Van Bladel |first1=J. |title=Electromagnetic fields in the presence of rotating bodies |journal=[[Proceedings of the IEEE]] |date=1976 |volume=64 |issue=3 |pages=301–318 |doi=10.1109/PROC.1976.10111 |bibcode=1976IEEEP..64..301V }}
+* {{cite journal |last1 = De Meulenaere |first1= F. |last2=Van Bladel |first2=J. |title=Polarizability of some small apertures |journal=IEEE Transactions on Antennas and Propagation |date=1977 |volume=25 |issue=2 |pages=198–205 |doi=10.1109/TAP.1977.1141568|bibcode= 1977ITAP...25..198D }}
+
+===Books===
+* {{cite book |last1=Van Bladel |first1=J. |title=Les Applications du Radar à l'Astronomie et à la Météorologie |date=1955 |publisher= Gauthier-Villars}}
+* {{cite book |last1=Van Bladel |first1=J. |title=Electromagnetic Fields |date=1964 |publisher= John Wiley & Sons |isbn= 9783540125617}}
+* {{cite book |last1=Van Bladel |first1=J. |title=Relativity and Engineering |date=1984 |publisher= Springer |isbn= 9783540125617}}
+* {{cite book |last1=Van Bladel |first1=J. |title=Singular Electromagnetic Fields and Sources |date=1991 |publisher=Oxford University Press |isbn=9780780311534}}
+
+==See also==
+*[[List of textbooks in electromagnetism]]
+
+==References==
+{{Reflist|
+
+<ref name="guest-editor">{{cite journal |last1=Butler |first1=Chalmers M. |last2=De Zutter |first2=Daniël |last3=Mei |first3=Kenneth K. |last4=Lagasse |first4=Paul |title=Guest Editors' Comments |journal=URSI Radio Science Bulletin |date=September 2003 |issue=306 |pages=4–5 |doi=10.23919/URSIRSB.2003.7909767  |doi-access=free|doi-broken-date=17 August 2026 |url=https://ieeexplore.ieee.org/document/7909767}}</ref>
+
+<ref name="mom">{{cite journal |first1=K. |last1=Mei |first2=J. |last2=Van Bladel |title=Scattering by perfectly-conducting rectangular cylinders |journal=IEEE Transactions on Antennas and Propagation |date=1963 |volume=11 |issue=2 |pages= 185–192|doi=10.1109/TAP.1963.1137996|bibcode=1963ITAP...11..185M }}</ref>
+
+<ref name="ursi-gass">{{cite journal |title=Professor Jean Van Bladel: A True Gentleman, Book Writer and Researcher |journal=Ursi Gass 2021 |date=28 August – 4 September 2021 |url=https://www.ursi.org/proceedings/procGA21/papers/URSIGASS2021-We-B05-PM3-2.pdf |first1=Yahya |last1=Rahmat-Samii}}</ref>
+
+<ref name="ursi-memoriam">{{cite journal |last1=Lagasse |first1=Paul |title=In memoriam: Jean Van Bladel |journal=URSI Radio Science Bulletin |date=2017 |issue=363 |pages=65 |url=https://ieeexplore.ieee.org/document/8409428 |doi=10.23919/URSIRSB.2017.8409428  |doi-access=free|doi-broken-date=17 August 2026 }}</ref>
+
+<ref name="uw-madison">{{cite web |last1=Million-Weaver |first1=Sam |title=Distinguished former faculty member dies |url=https://engineering.wisc.edu/news/distinguished-former-faculty-member-dies/ |website=engineering.wisc.edu |access-date=September 1, 2023 |date=March 9, 2018}}</ref>
+
+}}
+{{DEFAULTSORT:Bladel, Jean van}}
+[[Category:1922 births]]
+[[Category:2018 deaths]]
+[[Category:Belgian electrical engineers]]
+[[Category:20th-century Belgian engineers]]
+[[Category:21st-century Belgian engineers]]
+[[Category:Engineers from Antwerp]]
+[[Category:Electrical engineering academics]]
+[[Category:20th-century Belgian non-fiction writers]]
+[[Category:21st-century Belgian non-fiction writers]]
+[[Category:Belgian male non-fiction writers]]
+[[Category:Belgian science writers]]
+[[Category:Belgian technology writers]]
+[[Category:Textbook writers]]
+[[Category:Academic staff of Ghent University]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:University of Wisconsin–Madison College of Engineering alumni]]
+[[Category:Université libre de Bruxelles alumni]]
+[[Category:University of Liège alumni]]
+[[Category:Royal Military Academy (Belgium) alumni]]
+[[Category:Washington University in St. Louis faculty]]
+[[Category:Microwave engineers]]
+[[Category:Radiophysicists]]

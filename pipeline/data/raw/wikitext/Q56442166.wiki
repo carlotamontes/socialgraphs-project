@@ -1,0 +1,51 @@
+{{Infobox scientist
+| name = David Sherrill
+| image = Sherrill-2017-md.jpg
+| birth_date = April 5, 1970
+| citizenship = [[United States]]
+| fields = [[Theoretical chemistry]], computational [[quantum chemistry]]
+| workplaces = [[Georgia Institute of Technology]]
+| education  = [[Massachusetts Institute of Technology]] and [[University of Georgia]]
+| thesis_title = 
+| thesis_url = 
+| website = [https://chemistry.gatech.edu/people/david-sherrill Georgia Tech faculty profile]
+}}
+
+'''Charles David Sherrill''' is a professor of [[chemistry]] and [[computational science and engineering]] at [[Georgia Institute of Technology|Georgia Tech]] working in the areas of [[theoretical chemistry]], computational [[quantum chemistry]], and scientific computing.  His research focuses on the development and application of theoretical methods for non-covalent interactions between molecules.  He is the lead principal investigator of the [[PSI (computational chemistry)|Psi]] open-source quantum chemistry program.
+
+== Life and education ==
+Born in [[Chattanooga]], Tennessee (April 5, 1970), Sherrill received his S.B. in [[chemistry]] from [[Massachusetts Institute of Technology|MIT]].  He received his [[Ph.D.]] in 1996 from the [[University of Georgia]], working with Professor [[Henry F. Schaefer III|Henry F. Schefer, III]] on highly correlated configuration interaction methods.  He was an NSF Postdoctoral Fellow in the laboratory of [[Martin Head-Gordon]] at the [[University of California, Berkeley]].
+
+== Career ==
+In 1999, Sherrill joined the faculty of the school of chemistry and biochemistry at [[Georgia Institute of Technology|Georgia Tech]]. He joined the school of computational science and engineering as a joint faculty member in 2006.  He became associate director of Georgia Tech's Institute for Data Engineering and Science (IDEaS) in 2017.  He has been an associate editor of ''[[The Journal of Chemical Physics]]'' since 2009.
+
+=== Research ===
+Sherrill develops methods, algorithms, and software<ref>{{cite news |title=Quantum Chemistry's Modular Movement |url=https://cen.acs.org/articles/92/i34/Quantum-Chemistrys-Modular-Movement.html |website=Chemical and Engineering News |volume=92 |issue=34 |page=26 |date=August 25, 2014 |access-date=22 June 2020}}</ref> for [[quantum chemistry]].  He has introduced efficient density-fitting techniques into several [[quantum chemistry]] methods, speeding up computations.  His research group obtains highly-accurate results for important prototype chemical systems, and uses these results to develop computational protocols that are faster yet still accurate.  Sherrill focuses on intermolecular interactions, and has published definitive studies of the strength, geometric dependence, and substituent effects in prototype interactions including π-π, CH/π, S/π, and cation-π interactions.<ref>{{cite journal |last1=Armgstrong |first1=Gavin |title=Another piece of the π |journal=Nature Chemistry|date=January 23, 2009 |doi=10.1038/nchem.117}}</ref><ref>{{cite journal|last1=Sherrill |first1=C. David |last2=Sumpter |first2=Bobby G.|last3=Sinnokrot |first3=Mutasem O. |last4=Marshall |first4=Michael S. |last5=Hohenstein |first5=Edward G. |last6=Walker |first6=Ross C. |last7=Gould |first7=Ian R. |title=Assessment of standard force field models against high-quality ab initio potential curves for prototypes of π-π, CH/π, and SH/π interactions |journal=Journal of Computational Chemistry|volume=30|year=2009|issue=14 |pages=2187–2193 |doi= 10.1002/jcc.21226 |pmid=19242959|s2cid=6727897 }}</ref>  He has developed extensions of [[symmetry-adapted perturbation theory]] (SAPT) to analyze these interactions in terms of their fundamental physical forces (electrostatics, exchange/steric repulsion, induction/polarization, and London dispersion forces).<ref>{{cite journal|last1=Hohenstein|first1=Edward G.|last2=Sherrill|first2=C. David|title=Wavefunction methods for noncovalent interactions|journal=WIREs Computational Molecular Science|volume=2|year=2012|issue=2|pages=304–326|doi=10.1002/wcms.84|s2cid=136516319}}</ref>  A fragment-based partitioning of SAPT allows analyses of which non-bonded contacts are most important for binding, and has been used to understand substituent effects in protein-drug binding.<ref>{{cite journal|last1=Parrish |first1=Robert M.|last2=Sitkoff |first2=Doree F.|last3=Cheney |first3=Daniel L.|last4=Sherrill |first4=C. David |title=The surprising importance of peptide bond contacts in drug-protein interactions|journal= Chemistry - A European Journal|volume=23|year=2017|issue=33|pages=7887–7890|doi=10.1002/chem.201701031 |pmid=28378374|doi-access=free}}</ref>
+Sherrill has published over 200 peer-reviewed articles on these topics, and presented over 130 invited lectures, including the 2011 Robert S. Mulliken Lecture at the University of Georgia, the keynote talk for the 2015 Workshop on Control of London Dispersion Interactions in Molecular Chemistry in Göttingen, and keynote talks at the 2015 and 2016 meetings of the Southeast Theoretical Chemistry Association.
+
+Sherrill's methods and algorithms are made publicly available to the [[quantum chemistry]] community through the open-source quantum chemistry program [[PSI (computational chemistry)|Psi]], developed by his group and collaborators worldwide.
+
+=== Awards ===
+Sherrill is a Fellow of the [[American Physical Society]],<ref>{{cite web |title=APS Fellow Archive (S) |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=S&year=2010&unit_id=DCP&institution= |website=American Physical Society |access-date=22 June 2020}}</ref> the [[American Chemical Society]],<ref>{{cite web |title=Two Georgia Tech Faculty Named Fellows by the American Chemical Society |url=https://www.news.gatech.edu/2011/08/08/two-georgia-tech-faculty-named-fellows-american-chemical-society |website=Georgia Tech News Center |access-date=22 June 2020 |archive-date=23 June 2020 |archive-url=https://web.archive.org/web/20200623085019/https://www.news.gatech.edu/2011/08/08/two-georgia-tech-faculty-named-fellows-american-chemical-society |url-status=dead }}</ref> and the [[American Association for the Advancement of Science]].<ref>{{cite web |title=Elected Fellows |url=https://www.aaas.org/fellows/listing?field_last_name_value=S&name_combine=&field_institutional_affiliation_value=&field_address_city=All&field_address_administrative_area=All&field_address_country_code=All&field_year_elected=&field_primary_aaas_section=All&page=4 |website=American Association for the Advancement of Science |access-date=22 June 2020}}</ref>
+
+=== Education ===
+Sherrill is active in promoting education in [[chemistry]], [[quantum chemistry]], and [[data science]].  He has published an extensive set of notes<ref>{{cite web |title=Notes on Quantum Chemistry |url=http://vergil.chemistry.gatech.edu/notes/index.html |website=Sherrill Group Website |access-date=22 June 2020}}</ref> and lectures<ref>{{cite web |title=David Sherrill YouTube Channel |url=https://www.youtube.com/channel/UCEMOc0ULNNdqX30gNbHfaTg |website=YouTube |access-date=22 June 2020}}</ref> on fundamentals of quantum chemistry.  His educational efforts have been recognized by his being named the Outreach Volunteer of the Year by the Georgia Section of the American Chemical Society in 2017,<ref>{{cite web |title=ACS Names Volunteers of the Year |url=https://cen.acs.org/articles/95/i23/ACS-names-volunteers-year.html |website=Chemical and Engineering News |access-date=22 June 2020}}</ref> and the Class of 1940 W. Howard Ector Outstanding Teacher at [[Georgia Institute of Technology|Georgia Tech]] in 2006.
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+==External links==
+* [https://scholar.google.com/citations?user=PN-rzYUAAAAJ&hl=en/ David Sherrill: Google Scholar]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sherrill, David}}
+[[Category:Theoretical chemists]]
+[[Category:Computational chemists]]
+[[Category:Fellows of the American Chemical Society]]
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Georgia Tech faculty]]

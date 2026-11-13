@@ -1,0 +1,59 @@
+{{Short description|American chemist}}
+{{Infobox scientist
+|name = Peter Andrew Kollman
+|birth_date = {{Birth date|1944|7|24}}
+|birth_place = [[Iowa City]], Iowa
+|death_date = {{Death date and age|2001|5|25|1944|7|24}}
+
+|death_place = [[San Francisco]], California
+|education  = [[Grinnell College]]<br>[[Princeton University]]
+|fields = [[Chemistry]]
+|workplaces = [[University of California, San Francisco]]
+
+|doctoral_advisor = Leland C. Allen
+
+|thesis_title = A Theory of Anomalous Water: A cyclic, symmetrically bonded form of water and related species have a stability comparable to their liquids.
+|thesis_url=https://www.science.org/doi/10.1126/science.167.3924.1443
+
+|thesis_year = 1970
+}}
+
+'''Peter Andrew Kollman''' (July 24, 1944&ndash;May 25, 2001<ref>{{Cite journal|last1=Levitt|first1=Michael|last2=Daggett|first2=Valerie|date=2001-08-01|title=Peter Kollman|journal=Nature Structural Biology|language=en|volume=8|issue=8|pages=662|doi=10.1038/90356|issn=1545-9985|doi-access=free}}</ref>) was a [[professor]] of [[chemistry]] and [[pharmaceutical chemistry]] at the [[University of California, San Francisco]].
+
+He is known for his work in [[computational chemistry]], [[molecular modeling]] and [[bioinformatics]], especially for his role in the development of the [[AMBER]] [[force field (chemistry)|force field]] and [[molecular dynamics]] software package.<ref>{{Cite journal|last=Bayly|first=Christopher I.|date=2001-10-01|title=Peter A. Kollman, 1945–2001|journal=Biophysical Journal|language=en|volume=81|issue=4|pages=2422|doi=10.1016/S0006-3495(01)75889-4|bibcode=2001BpJ....81.2422B|issn=0006-3495|doi-access=free|pmc=1301713}}</ref>
+
+==Biography==
+Kollman obtained his B.A. from [[Grinnell College]] in 1966 and his M.A. and Ph.D. from [[Princeton University]] in 1967 and 1970 respectively. His PhD supervisor was [[Leland C. Allen]], who had received his PhD in 1956 from [[MIT]] supervised by [[John C. Slater]]. After a post-doctoral position at the [[University of Cambridge]] with [[A. David Buckingham|David Buckingham]], Kollman was hired as an assistant professor by UCSF, where he spent the rest of his career.
+
+In 1995, he was distinguished with the Computers in Chemistry Award from the [[American Chemical Society]].
+
+In 2000, Kollman authored a seminal review in ''Accounts of Chemical Research'' introducing the Molecular Mechanics Poisson–Boltzmann Surface Area (MM-PBSA) method as a general framework for calculating free energies of biomolecular systems.<ref>{{Cite journal |last=Kollman |first=Peter A. |last2=Massova |first2=Irina |last3=Reyes |first3=Carolina |last4=Kuhn |first4=Bernd |last5=Huo |first5=Shuanghong |last6=Chong |first6=Lillian |last7=Lee |first7=Matthew |last8=Lee |first8=Taisung |last9=Duan |first9=Yong |last10=Wang |first10=Wei |last11=Donini |first11=Oreola |last12=Cieplak |first12=Piotr |last13=Srinivasan |first13=Jaysharee |last14=Case |first14=David A. |last15=Cheatham |first15=Thomas E. |date=2000-12-01 |title=Calculating Structures and Free Energies of Complex Molecules: Combining Molecular Mechanics and Continuum Models |url=https://pubs.acs.org/doi/10.1021/ar000033j |journal=Accounts of Chemical Research |language=en |volume=33 |issue=12 |pages=889–897 |doi=10.1021/ar000033j |issn=0001-4842|url-access=subscription }}</ref> This approach combined explicit-solvent molecular dynamics trajectories with continuum electrostatics, allowing solvation and binding free energies to be computed with greater efficiency and physical rigor than was previously possible. The review articulated MM-PBSA as the defining advance of what Kollman termed the "fourth era" of computational chemistry, following the establishment of stable explicit-solvent simulations in the "third era". MM-PBSA proved widely applicable, spanning protein folding, nucleic acid stability, protein–protein and protein–RNA recognition, and ligand binding.
+
+In 1998, Kollman's group reported the first microsecond-scale molecular dynamics simulation of a protein, the villin headpiece subdomain.<ref>{{Cite journal |last=Duan |first=Yong |last2=Kollman |first2=Peter A. |date=1998-10-23 |title=Pathways to a Protein Folding Intermediate Observed in a 1-Microsecond Simulation in Aqueous Solution |url=https://www.science.org/doi/10.1126/science.282.5389.740 |journal=Science |language=en |volume=282 |issue=5389 |pages=740–744 |doi=10.1126/science.282.5389.740 |issn=0036-8075|url-access=subscription }}</ref> This was the longest biomolecular simulation ever reported at the time and MM-PBSA energetic analysis of the trajectory compared to that of the crystal structure suggested a folding half-life of approximately 1 μs and a total folding time of ~4.2 μs,<ref>{{Cite journal |last=Lee |first=Matthew R. |last2=Duan |first2=Yong |last3=Kollman |first3=Peter A. |date=2000-06-01 |title=Use of MM-PB/SA in estimating the free energies of proteins: Application to native, intermediates, and unfolded villin headpiece |url=https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0134(20000601)39:43.0.CO;2-S |journal=Proteins: Structure, Function, and Genetics |language=en |volume=39 |issue=4 |pages=309–316 |doi=10.1002/(SICI)1097-0134(20000601)39:4<309::AID-PROT40>3.0.CO;2-S |issn=0887-3585|url-access=subscription }}</ref> the first physics-based prediction of a protein folding time.  This prediction was later corroborated experimentally by laser temperature-jump (T-jump) kinetics, which measured villin folding of 4.3 μs.<ref>{{Cite journal |last=Kubelka |first=Jan |last2=Eaton |first2=William A. |last3=Hofrichter |first3=James |date=June 2003 |title=Experimental Tests of Villin Subdomain Folding Simulations |url=https://linkinghub.elsevier.com/retrieve/pii/S0022283603005199 |journal=Journal of Molecular Biology |language=en |volume=329 |issue=4 |pages=625–630 |doi=10.1016/S0022-2836(03)00519-9|url-access=subscription }}</ref> The work provided an atomistic view of folding dynamics and established a benchmark for long-timescale MD simulations.
+
+Following the results of the CASP3 protein structure prediction experiment, Kollman collaborated with David Baker's group to apply MD and MM-PBSA energetic analysis to Rosetta-generated models, using these physics-based methods to evaluate and refine candidate structures. Together they showed that MD could refine some Rosetta-generated models and that MM-PBSA could discriminate near-native structures by predicted free energy, providing a physics-based filter in the "endgame" of structure prediction.<ref>{{Cite journal |last=Lee |first=Matthew R. |last2=Baker |first2=David |last3=Kollman |first3=Peter A. |date=2001-02-01 |title=2.1 and 1.8 Å Average C α RMSD Structure Predictions on Two Small Proteins, HP-36 and S15 |url=https://pubs.acs.org/doi/10.1021/ja003150i |journal=Journal of the American Chemical Society |language=en |volume=123 |issue=6 |pages=1040–1046 |doi=10.1021/ja003150i |issn=0002-7863|url-access=subscription }}</ref><ref>{{Cite journal |last=Lee |first=Matthew R. |last2=Tsai |first2=Jerry |last3=Baker |first3=David |last4=Kollman |first4=Peter A. |date=October 2001 |title=Molecular dynamics in the endgame of protein structure prediction |url=https://linkinghub.elsevier.com/retrieve/pii/S0022283601950326 |journal=Journal of Molecular Biology |language=en |volume=313 |issue=2 |pages=417–430 |doi=10.1006/jmbi.2001.5032|url-access=subscription }}</ref> These findings motivated subsequent versions of Rosetta to incorporate increasingly detailed physics-based energy terms, including explicit Coulombic electrostatics, Lennard-Jones potentials for van der Waals interactions, and implicit solvation.
+
+The legacy of Kollman's AMBER force field extends further into modern structure prediction methods. AlphaFold—recognized alongside Rosetta with a share of the 2024 Nobel Prize in Chemistry for breakthroughs in protein structure prediction—applied deep learning and multiple sequence alignments to advance comparative modeling, while Rosetta pioneered ''de novo'' prediction and protein design. In AlphaFold's workflow, an AMBER-based relaxation step is used to correct local geometry, resolve steric clashes, and improve physical plausibility. This integration of physics-based energy terms into Rosetta's assembly and scoring, and into AlphaFold's refinement pipeline, underscores how Kollman's contributions continue to shape the forefront of computational structural biology.
+
+He was awarded the [[UCSF]] medal in 2018.<ref>{{cite web |title=UCSF Medal |url=https://chancellor.ucsf.edu/chancellor-awards/ucsf-medal |website=Office of the Chancellor |access-date=1 July 2020 |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.nature.com/nsmb/journal/v8/n8/full/nsb0801_662.html Nature obituary of Peter Kollman]
+*[https://web.archive.org/web/20050220190558/http://www.biophysj.org/cgi/content/full/81/4/2422 Biophysical Journal obituary of Peter Kollman]
+*[http://www.sfgate.com/default/article/Peter-Kollman-2915891.php San Francisco Chronicle obituary of Peter Kollman]
+*[http://membership.acs.org/C/COMP/press%20releases/kollman.html American Chemical Society Division of Computers in Chemistry obituary of Peter Kollman]
+*[https://web.archive.org/web/20110927232549/http://www.staff.uni-marburg.de/~germano/peter.html <!-- http://pub.ucsf.edu/today/news.php?news_id=200105291 --> UCSF today obituary of Peter Kollman]
+*[https://academictree.org/chemistry/tree.php?pid=62372 Peter Kollman at the Academic Family Tree]
+*{{MathGenealogy|154344}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kollman, Peter Andrew}}
+[[Category:1944 births]]
+[[Category:2001 deaths]]
+[[Category:20th-century American chemists]]
+[[Category:University of California, San Francisco faculty]]
+[[Category:American computational chemists]]

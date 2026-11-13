@@ -1,0 +1,176 @@
+{{Short description|Russian mathematician (1937–2023)}}
+{{Use British English|date=January 2023}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox scientist
+| birth_name       = Yuri Ivanovich Manin
+| native_name      = Юрий Манин
+| native_name_lang = ru
+| image            = Yuri Manin, 2006 (cropped).jpeg
+| caption          = Manin in 2006
+| birth_date       = {{birth date|1937|02|16|df=y}}
+| birth_place      = [[Simferopol]], Crimean ASSR<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->, Russian SFSR<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->, Soviet Union<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->
+| death_date       = {{death date and age|2023|1|7|1937|2|16|df=yes}}
+| death_place      = [[Bonn]], Germany<ref name=AMSNotices>{{cite journal|editor1=Fedor Bogomolov|editor2=
+Yuri Tschinkel|title=Memorial Article for Yuri Manin|journal=[[Notices of the American Mathematical Society]]|date=December 2023|volume=70|issue=11|pages=1831–1849|url=https://www.ams.org/notices/202311/rnoti-p1831.pdf|doi=10.1090/noti2814|doi-access=free}}</ref>
+
+| 
+| field             = Mathematics
+| workplaces        = {{Plainlist|
+* [[Max-Planck-Institut für Mathematik]]
+* [[Northwestern University]]
+}}
+| education         = {{Plainlist|
+* [[Moscow State University]]
+* [[Steklov Mathematics Institute]] (PhD)
+}}
+| doctoral_advisor  = [[Igor Shafarevich]]
+| doctoral_students = {{Plainlist|
+* {{ill|Arend Bayer|de}}
+* [[Alexander Beilinson]]
+* [[Vladimir Berkovich]]
+* [[Ivan Cherednik]]
+* [[Mariusz Wodzicki]]
+* [[Vladimir Drinfeld]]
+* [[Ha Huy Khoai]]
+* [[Vasilii Alekseevich Iskovskikh|Vasilli Iskovskikh]]
+* [[Mikhail Kapranov]]
+* [[Ralph Kaufmann]]
+* [[Victor Kolyvagin]]
+* [[Alexander L. Rosenberg]]
+* [[Vyacheslav Shokurov]]
+* [[Alexei Skorobogatov]]
+* [[Yuri Tschinkel]]
+* [[Boris Tsygan]]
+}}
+| known_for         = [[Manin conjecture]]<br>[[Manin matrix]]<br>[[Manin obstruction]]<br>[[Manin triple]]<br>[[Manin–Drinfeld theorem]]<br>[[Arithmetic of abelian varieties#Manin–Mumford conjecture|Manin–Mumford conjecture]]<br>[[ADHM construction]]<br>[[Gauss–Manin connection]]<br>[[Hasse–Witt matrix#Cohomology|Cartier–Manin operator]]<br>[[CH-quasigroup]]<br>[[Modular symbol]]<br>[[Quantum simulator]]
+| awards            = {{Plainlist|
+* [[Nemmers Prize in Mathematics]] (1994)
+* [[Schock Prize]] (1999)
+* [[Cantor Medal]] (2002)
+* [[Bolyai Prize]] (2010)
+* [[King Faisal International Prize]] (2002)
+}}
+}}
+
+'''Yuri Ivanovich Manin''' ({{langx|ru|link=no|Ю́рий Ива́нович Ма́нин}}) (16 February 1937 – 7 January 2023) was a Russian mathematician, known for work in [[algebraic geometry]] and [[diophantine geometry]], and many expository works ranging from [[mathematical logic]] to [[theoretical physics]].
+
+== Life and career ==
+Manin was born on 16 February 1937 in [[Simferopol]], Crimean ASSR<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->, Soviet Union<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->.<ref name="mpim-death"/>
+
+He received a doctorate in 1960 at the [[Steklov Mathematics Institute]] as a student of [[Igor Shafarevich]]. He became a professor at the [[Max-Planck-Institut für Mathematik]] in [[Bonn]], where he was director from 1992 to 2005 and then director emeritus.<ref>{{Cite web|url=https://www.mpim-bonn.mpg.de/node/99|title=Yuri Manin {{!}} Max Planck Institute for Mathematics|website=www.mpim-bonn.mpg.de|language=en|access-date=6 August 2018}}</ref><ref name="mpim-death"/> He was also a Trustee Chair Professor at [[Northwestern University]] from 2002 to 2011.<ref>{{Cite web |title=Yuri Manin – Northwestern University |url=https://apps.math.northwestern.edu/yuri_manin/ |access-date=20 May 2024 |website=math.northwestern.edu |language=en}}</ref>
+
+He had over the years more than 50 doctoral students, including [[Vladimir Berkovich]], [[Mariusz Wodzicki]], [[Alexander Beilinson]], [[Ivan Cherednik]], [[Alexei Skorobogatov]], [[Vladimir Drinfeld]], [[Mikhail Kapranov]], [[Vyacheslav Shokurov]], [[Ralph Kaufmann]],  [[Victor Kolyvagin]], [[Alexander L. Rosenberg]], [[Alexander A. Voronov]], and [[Hà Huy Khoái]].<ref>{{MathGenealogy |id=44207}}</ref>
+
+Manin died on 7 January 2023 in Bonn.<ref name="mpim-death">{{cite web |title=Max Planck Institute for Mathematics in Bonn Mourns Death of Yuri Manin |url=https://www.mpim-bonn.mpg.de/node/11864 |website=[[Max Planck Institute for Mathematics]] |date=8 January 2023 |access-date=8 January 2023}}</ref>
+
+== Research ==
+Manin's early work included papers on the arithmetic and [[formal group]]s of [[abelian varieties]], the [[Mordell conjecture]] in the [[global function field|function field]] case, and [[algebraic differential equation]]s. The [[Gauss–Manin connection]] is a basic ingredient of the study of [[cohomology]] in families of [[algebraic varieties]].<ref>{{Citation | last1=Manin | first1=Ju. I. | author-link=Yuri Manin| title=Algebraic curves over fields with differentiation | url=http://mi.mathnet.ru/eng/izv/v22/i6/p737 | language=Russian | mr=0103889 | year=1958 | journal=Izvestiya Akademii Nauk SSSR. Seriya Matematicheskaya | volume=22 | pages=737–756}} English translation in {{Citation | last1=Manin | first1=Ju. I. | title=American Mathematical Society translations: 22 papers on algebra, number theory and differential geometry | year=1964| url=https://books.google.com/books?id=fZ7ms3db_cMC | publisher=[[American Mathematical Society]] | location=Providence, R.I. | isbn=978-0-8218-1737-7 | mr=0103889 | volume=37 | chapter=Algebraic curves over fields with differentiation | pages=59–78}} English translation published by the AMS in 1964.</ref><ref>{{eom|title=Gauss-Manin connection}}</ref>
+
+He developed the [[Manin obstruction]], indicating the role of the [[Brauer group]] in accounting for obstructions to the [[Hasse principle]] via [[Grothendieck]]'s theory of global [[Azumaya algebra]]s, setting off a generation of further work.<ref>{{cite book | author=Serge Lang | authorlink=Serge Lang | title=Survey of Diophantine geometry | publisher=[[Springer-Verlag]] | year=1997 | isbn=978-3-540-61223-0 | zbl=0869.11051 | pages=250–258 }}</ref><ref>{{cite journal | author=Alexei N. Skorobogatov | title=Beyond the Manin obstruction | journal=[[Inventiones Mathematicae]] | others=Appendix A by S. Siksek: 4-descent | volume=135 | issue=2 | pages=399–424 | year=1999 | doi=10.1007/s002220050291 | zbl=0951.14013 | arxiv=alg-geom/9711006 | bibcode=1999InMat.135..399S | s2cid=14285244 }}</ref>
+
+Manin pioneered the field of [[arithmetic topology]] (along with [[John Tate (mathematician)|John Tate]], [[David Mumford]], [[Michael Artin]], and [[Barry Mazur]]).<ref>{{cite book |last=Morishita |first=Masanori |year=2012 |chapter=Introduction |title=Knots and Primes |series=Universitext |pages=1–7 |publisher=[[Springer Science+Business Media|Springer]] |location=London |doi=10.1007/978-1-4471-2158-9_1|isbn=978-1-4471-2157-2 }}</ref> He also formulated the [[Manin conjecture]], which predicts the asymptotic behaviour of the number of rational points of bounded height on algebraic varieties.<ref>
+{{cite journal
+  | last1=Franke | first1 = J. | last2 = Manin | first2 = Y. I. | author2-link = Yuri I. Manin | last3 = Tschinkel | first3 = Y.
+  | title = Rational points of bounded height on Fano varieties
+  | journal = [[Inventiones Mathematicae]]
+  | volume = 95
+  | year = 1989
+  | issue = 2
+  | pages = 421–435
+  | mr = 974910
+  | zbl = 0674.14012 | doi=10.1007/bf01393904| bibcode = 1989InMat..95..421F | s2cid = 121044839 }}
+</ref>
+
+In mathematical physics, Manin wrote on [[Yang–Mills theory]], [[quantum information]], and [[mirror symmetry (string theory)|mirror symmetry]].<ref>{{cite journal |first1=Michael |last1=Atiyah |authorlink=Michael Atiyah |first2=Vladimir |last2=Drinfeld |authorlink2=Vladimir Drinfeld |first3=Nigel |last3=Hitchin |authorlink3=Nigel Hitchin |first4=Yuri |last4=Manin |title=Construction of instantons |journal=[[Physics Letters A]] |volume=65 |year=1978 |issue=3 |pages=185–187|doi=10.1016/0375-9601(78)90141-X |bibcode=1978PhLA...65..185A }}</ref><ref>{{cite book |last1=Devchand |first1=Chandrashekar |last2=Ogievetsky |first2=Victor I. |chapter=Integrability of N=3 super Yang-Mills equations |title=Topics in statistical and theoretical physics |pages=51–58 |series=Amer. Math. Soc. Transl. Ser. 2 |volume=177 |publisher=[[American Mathematical Society]] |location=Providence, RI |year=1996}}</ref> He was one of the first to propose the idea of a [[quantum computer]] in [[Timeline of quantum computing|1980]] with his book ''Computable and Uncomputable''.<ref name="manin1980vychislimoe">{{cite book| author=Manin, Yu. I.| title=Vychislimoe i nevychislimoe|trans-title=Computable and Noncomputable| year=1980| publisher=Sov.Radio| url=http://publ.lib.ru/ARCHIVES/M/MANIN_Yuriy_Ivanovich/_Manin_Yu.I..zip| pages=13–15| language=ru| access-date=4 March 2013| url-status=dead| archive-url=https://web.archive.org/web/20130510173823/http://publ.lib.ru/ARCHIVES/M/MANIN_Yuriy_Ivanovich/Manin_Yu.I._Vychislimoe_i_nevychislimoe.%281980%29.%5Bdjv%5D.zip| archive-date=10 May 2013}}</ref>
+
+He wrote a book on [[cubic surface]]s and [[cubic form]]s, showing how to apply both classical and contemporary methods of algebraic geometry, as well as [[nonassociative algebra]].<ref>{{cite book | last=Manin | first=I͡U. I. | title=Cubic Forms: Algebra, Geometry, Arithmetic | publisher=North Holland | publication-place=Amsterdam; New York : New York, NY, U.S.A | date=1986 | url= https://www.sciencedirect.com/bookseries/north-holland-mathematical-library/vol/4 | isbn=978-0-444-87823-6 }}</ref>
+
+== Awards ==
+He was awarded the [[Brouwer Medal]] in 1987, the first [[Nemmers Prize in Mathematics]] in 1994, the [[Schock Prize]] of the [[Royal Swedish Academy of Sciences]] in 1999, the [[Cantor Medal]] of the [[German Mathematical Society]] in 2002, the [[King Faisal International Prize]] in 2002, and the [[Bolyai Prize]] of the [[Hungarian Academy of Sciences]] in 2010.<ref name="mpim-death"/>
+
+In 1990, he became a foreign member of the [[Royal Netherlands Academy of Arts and Sciences]].<ref>{{cite web |url=https://www.knaw.nl/en/members/foreign-members/4514 |title=Y.I. Manin |publisher=Royal Netherlands Academy of Arts and Sciences |access-date=19 July 2015 |archive-date=8 August 2020 |archive-url=https://web.archive.org/web/20200808001426/https://www.knaw.nl/en/members/foreign-members/4514 |url-status=dead }}</ref> He was a member of eight other academies of science and was also an honorary member of the [[London Mathematical Society]].<ref name="mpim-death"/>
+
+== Selected works ==
+<!--* ''Selected works with commentary'', World Scientific 1996 {{cn}}-->
+* {{Cite book |url=https://bookstore.ams.org/cworks-20/ |title=Mathematics as metaphor – selected essays |publisher=American Mathematical Society |year=2009}}
+* {{Cite book |contribution-url=http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=im&paperid=3174&option_lang=eng |contribution=Rational points of algebraic curves over function fields |title=AMS translations 1966 (Mordell conjecture for function fields)}}
+* {{Cite journal |url=https://iopscience.iop.org/article/10.1070/RM1965v020n06ABEH001192 |title=Algebraic topology of algebraic varieties |journal=Russian Mathematical Surveys |year=1965|doi=10.1070/RM1965v020n06ABEH001192 |last1=Manin |first1=Yu I. |volume=20 |issue=6 |pages=183–192 |bibcode=1965RuMaS..20..183M |s2cid=250895773 |url-access=subscription }}
+<!--* ''Modular forms and Number Theory''. International Congress of Mathematicians, Helsinki 1978{{cn}}-->
+* {{Cite book |url=https://bookstore.ams.org/coll-47 |title=Frobenius manifolds, quantum cohomology, and moduli spaces |publisher=American Mathematical Society |year=1999}}<ref>{{cite journal |last=Getzler |first=Ezra |title=Review: ''Frobenius manifolds, quantum cohomology, and moduli spaces'' by Yuri I. Manin |journal=Bull. Amer. Math. Soc. (N.S.) |year=2001 |volume=38 |issue=1 |pages=101–108 |doi=10.1090/S0273-0979-00-00888-0 |doi-access=free}}</ref>
+* {{Cite book |url=https://www.springer.com/gp/book/9783319979861 |title=Quantum groups and non commutative geometry |location=Montreal |publisher=Centre de Recherches Mathématiques |year=1988}}
+* {{Cite book |url=https://press.princeton.edu/books/hardcover/9780691635781/topics-in-non-commutative-geometry |title=Topics in non-commutative geometry |publisher=Princeton University Press |year=1991|isbn=978-0-691-63578-1 }}<ref>{{cite journal |last=Penkov |first=Ivan |title=Review: ''Topics in non-commutative geometry'' by Yuri I. Manin |journal=Bull. Amer. Math. Soc. (N.S.) |year=1993 |volume=29 |issue=1 |pages=106–111 |doi=10.1090/S0273-0979-1993-00391-4 |doi-access=free}}</ref>
+* {{Cite book |url=https://www.springer.com/gp/book/9783540613787 |title=Gauge field theory and complex geometry |publisher=Springer |year=1988 |series=Grundlehren der mathematischen Wissenschaften}}<ref>{{cite journal |last=LeBrun |first=Claude |author-link=Claude LeBrun |title=Review: ''Gauge field theory and complex geometry'' by Yuri I. Manin; trans. by N. Koblitz and J. R. King |journal=Bull. Amer. Math. Soc. (N.S.) |year=1989 |volume=21 |issue=1 |pages=192–196 |doi=10.1090/S0273-0979-1989-15816-3 |doi-access=free}}</ref>
+* {{Cite book |url=https://www.sciencedirect.com/bookseries/north-holland-mathematical-library/vol/4 |title=Cubic forms - algebra, geometry, arithmetics |publisher=North Holland |year=1986}}
+* {{Cite book |url=https://www.springer.com/gp/book/9781475743852 |title=A course in mathematical logic |publisher=Springer |year=1977}},<ref>{{cite journal |last=Shoenfield |first=J. R. |title=Review: ''A course in mathematical logic'' by Yu. I Manin |journal=Bull. Amer. Math. Soc. (N.S.) |year=1979 |volume=1 |issue=3 |pages=539–541 |doi=10.1090/s0273-0979-1979-14613-5 |doi-access=free }}</ref> second expanded edition with new chapters by the author and [[Boris Zilber]], Springer 2010.
+<!-- * Manin: ''The provable and the unprovable'' (Russ.), Moscow 1979{{cn}}-->
+* {{Cite book |title=Computable and Uncomputable |location=Moscow | publisher=Sovetskoye Radio | language=Ru |year=1980}}<ref name="manin1980vychislimoe" />
+* {{Cite book |url=https://www.springer.com/gp/book/9781489967848 |title=Mathematics and physics |publisher=Birkhäuser |year=1981}}
+* {{Cite book |chapter-url=https://link.springer.com/chapter/10.1007%2FBFb0084585 |chapter=New dimensions in geometry |title=Arbeitstagung |location=Bonn |year=1984 |series=Lectures Notes in Mathematics |volume=1111 |publisher=Springer|doi=10.1007/BFb0084585 |last1=Manin |first1=Yu. I. |pages=59–101 |isbn=978-3-540-15195-1 }}
+* {{Cite book |last1=Manin |first1=Yuri |last2=Kostrikin |first2=Alexei I. |author-link2=Alexei Ivanovich Kostrikin |doi=10.1201/9781466593480 |title=Linear algebra and geometry |location=London, England |publisher=Gordon and Breach |year=1989|isbn=978-0-429-07381-6 |s2cid=124713118 }}
+* Manin, Yu. I. (1968) ''Lectures on Algebraic Geometry.'' Moscow: Moscow University Press. Translated by Dimitry Leites and edited by Andrei Iacob as ''[https://link.springer.com/book/10.1007/978-3-319-74316-5 Introduction to the Theory of Schemes]'' Moscow Lectures, Vol. 1, Cham, Switzerland: Springer. 2018.
+* {{Cite book |last1=Manin |first1=Yuri |last2=Gelfand |first2=Sergei |url=https://www.springer.com/gp/book/9783540533733 |title=Homological algebra |publisher=Springer |year=1994 |series=Encyclopedia of Mathematical Sciences}}
+* {{Cite book |last1=Manin |first1=Yuri |last2=Gelfand |first2=Sergei |url=https://link.springer.com/book/10.1007/978-3-662-12492-5 |title=Methods of Homological algebra |series=Springer Monographs in Mathematics |publisher=Springer |year=1996|doi=10.1007/978-3-662-12492-5 |isbn=978-3-642-07813-2 }}
+* {{Cite book |last1=Manin |first1=Yuri |last2=Kobzarev |first2=Igor |url=https://www.springer.com/gp/book/9780792300984 |title=Elementary Particles: mathematics, physics and philosophy |location=Dordrecht |publisher=Kluwer |year=1989}}
+* {{Cite book |last1=Manin |first1=Yuri |last2=Panchishkin |first2=Alexei A. |url=https://www.springer.com/gp/book/9783540203643 |title=Introduction to Number theory |publisher=Springer |year=1995}}
+* {{Cite book |chapter-url=https://link.springer.com/chapter/10.1007/978-3-0348-8268-2_4 |chapter=Moduli, Motives, Mirrors |title=European Congress of Mathematics |location=Barcelona |series=Progress in Mathematics | publisher=Birkhäuser |doi=10.1007/978-3-0348-8268-2_4 |last1=Manin |first1=Yuri I. |date=2001 |pages=53–73 |hdl=21.11116/0000-0004-357E-4 |isbn=978-3-0348-9497-5 }}
+* {{Cite web |url=http://www.numdam.org/article/SB_1998-1999__41__375_0.pdf | website=Numdam |title=Classical computing, quantum computing and Shor´s factoring algorithm |location=Bourbaki Seminar |year=1999}}
+* {{Cite book |first1=Hans |last1=Rademacher |author1-link=Hans Rademacher |first2=Otto |last2=Toeplitz |author2-link=Otto Toeplitz |url=https://link.springer.com/book/10.1007/978-3-662-36239-6 |title=Von Zahlen und Figuren |year=2002 |doi=10.1007/978-3-662-36239-6 |isbn=978-3-662-35411-7 |trans-title=From Numbers and Figures |language=de}}
+* {{Cite journal |last1=Manin |first1=Yuri |last2=Marcolli |first2=Matilde |author-link2=Matilde Marcolli |title=Holography principle and arithmetic of algebraic curves |year=2002 |doi=10.4310/ATMP.2001.v5.n3.a6 |location=Max-Planck-Institut für Mathematik, Bonn |journal=Advances in Theoretical and Mathematical Physics |volume=5 |issue=3 |pages=617–650 |publisher=International Press |s2cid=25731842 |doi-access=free |arxiv=hep-th/0201036 }}
+* {{cite journal |title=Three-dimensional hyperbolic geometry as ∞-adic Arakelov geometry |journal=Inventiones Mathematicae |date=December 1991 |volume=104 |issue=1 |pages=223–243 |doi=10.1007/BF01245074 |url=https://link.springer.com/article/10.1007/BF01245074 |bibcode=1991InMat.104..223M |s2cid=121350567 |last1=Manin |first1=Yu. I. |url-access=subscription }}
+* {{Cite book |url=https://www.e-enterprise.de/Mathematik-Programm/Mathematik-Kunst-und-Zivilisation.html?language=de |title=Mathematik, Kunst und Zivilisation |trans-title=Mathematics, Art and Civilisation |publisher=e-enterprise |year=2014 |volume=3 |series=Die weltweit besten mathematischen Artikel im 21. Jahrhundert |isbn=978-3-945059-15-9}}
+
+== See also ==
+* [[Arithmetic topology]]
+* [[Noncommutative residue]]
+
+== References ==
+{{reflist}}
+* {{Cite web |title=Boris Tsygan - The Mathematics Genealogy Project |url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=37984 |access-date=2025-11-04 |website=www.genealogy.math.ndsu.nodak.edu}}
+
+== Further reading ==
+* {{cite journal|last1=Némethi|first1=A.|url=https://www.renyi.hu/~nemethi/nemethi1175.pdf|title=Yuri Ivanovich Manin|journal=[[Acta Mathematica Hungarica]]|date=April 2011|volume=133|issue=1–2|pages=1–13|doi=10.1007/s10474-011-0151-x|doi-access=free}}
+* {{cite book|author=Jean-Paul Pier|title=Development of Mathematics 1950–2000|url=https://books.google.com/books?id=rB7BjYsD2j4C&pg=PA1116|date=1 January 2000|publisher=Springer Science & Business Media|isbn=978-3-7643-6280-5|pages=1116}}
+* {{cite book | last=Papadopoulos | first=Athanase | editor-last=Sriraman | editor-first=Bharath | title=Handbook of the History and Philosophy of Mathematical Practice | chapter=Yuri Ivanovich Manin (1937–2023): Mathematics, Philosophy, and Poetry | publisher=Springer International Publishing | publication-place=Cham | date=2024 | pages=13–33 | isbn=978-3-031-40845-8 | doi=10.1007/978-3-031-40846-5_143 | chapter-url=https://link.springer.com/10.1007/978-3-031-40846-5_143 |chapter-url-access=subscription| access-date=2026-02-17}}
+
+== External links ==
+{{Wikiquote}}
+
+* [http://www.mpim-bonn.mpg.de/node/99/ Manin's page at Max-Planck-Institut für Mathematik website]
+* ''[http://www.ega-math.narod.ru/Math/Manin.htm Good Proofs are Proofs that Make us Wiser]'', interview by [[Martin Aigner]] and Vasco A. Schmidt
+* [http://www-history.mcs.st-andrews.ac.uk/Biographies/Manin.html Biography]
+* [https://www.simonsfoundation.org/2012/01/27/yuri-manin/ Interviewed by David Eisenbud for Simons Foundation "Science Lives"]
+* {{cite journal|editor1=Fedor Bogomolov|editor2=Yuri Tschinkel|title=Memorial Article for Yuri Manin |journal=Notices of the American Mathematical Society|date=December 2023|volume=70|issue=11|pages=1831–1849 |url=https://www.ams.org/journals/notices/202311/rnoti-p1831.pdf|doi=10.1090/noti2814|doi-access=free}}
+* {{cite journal|editor1=Jean-Pierre Bourguignon|editor2=Michel Demazure|title=Yuri Ivanovich Manin |journal=Gazette de la Société Mathématique de France|date=July 2023 |volume=177|pages=75–82 |url=https://smf.emath.fr/system/files/filepdf/issue_compressed.pdf|issn=2826-3235}}
+
+{{Schock Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Manin, Yuri}}
+[[Category:1937 births]]
+[[Category:2023 deaths]]
+[[Category:Scientists from Simferopol]]
+[[Category:Algebraic geometers]]
+[[Category:Algebraists]]
+[[Category:Moscow State University alumni]]
+[[Category:Northwestern University faculty]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:Members of Academia Europaea]]
+[[Category:Members of the German National Academy of Sciences Leopoldina]]
+[[Category:Members of the Göttingen Academy of Sciences and Humanities]]
+[[Category:Members of the Pontifical Academy of Sciences]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Corresponding Members of the USSR Academy of Sciences]]
+[[Category:Corresponding Members of the Russian Academy of Sciences]]
+[[Category:Rolf Schock Prize laureates]]
+[[Category:Brouwer Medalists]]
+[[Category:Soviet mathematicians]]
+[[Category:21st-century Russian mathematicians]]
+[[Category:20th-century Russian mathematicians]]
+[[Category:Recipients of the Lenin Prize]]
+[[Category:Knights Commander of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:Quantum information scientists]]
+[[Category:Max Planck Institute directors]]
+[[Category:Russian scientists]]

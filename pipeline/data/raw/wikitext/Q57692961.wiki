@@ -1,0 +1,75 @@
+{{short description|American mathematician}}
+{{Infobox scientist
+| name = Stephen Albert Fulling
+| birth_date = {{birth date|1945|4|29|df=y}}
+| birth_place = [[Evansville, Indiana]]
+| field = [[Mathematics]], [[Physics]]
+| known_for = [[Fulling–Davies–Unruh effect]]
+| workplaces = {{Unbulleted list|[[University of Wisconsin-Milwaukee]]|[[King's College London]]|[[Texas A&M University]]}}
+| education = {{Unbulleted list|[[Harvard University]]|[[Princeton University]]}}
+| academic_advisors = [[Arthur Wightman]]
+| thesis_title = Scalar Quantum Field Theory in a Closed Universe of Constant Curvature
+| thesis_year = 1972
+}}
+'''Stephen Albert Fulling''' (born 29 April 1945, [[Evansville, Indiana]]) is an American [[mathematician]] and [[mathematical physicist]], specializing in the [[mathematical formulation of quantum mechanics|mathematics of quantum theory]], [[general relativity]], and the [[spectral theory|spectral]] and [[asymptotic theory]] of [[differential operator]]s.<ref>{{cite web|title=Stephen Fulling, Texas A&M University|website=community.wolfram.com|url=https://community.wolfram.com/web/fulling}}</ref> He is known for preliminary work that led to the discovery of the hypothetical [[Unruh effect]] (also known as 
+the Fulling-Davies-Unruh effect).<ref name="FullingWilson2019">Fulling, Davies, and Unruh were in communication, and the full significance of the mathematical phenomenon was unclear until Unruh related it to both temperature and particle detectors. In 2019 Fulling and Wilson suggested that what Davies discovered is a separate effect. {{cite journal|last1=Fulling|first1=S A|last2=Wilson|first2=J H|title=The equivalence principle at work in radiation from unaccelerated atoms and mirrors|journal=Physica Scripta|volume=94|issue=1|year=2019|pages=014004|issn=0031-8949|doi=10.1088/1402-4896/aaecaa|arxiv=1805.01013 |bibcode=2019PhyS...94a4004F |s2cid=21706009|url=https://authors.library.caltech.edu/91180/1/1805.01013.pdf}}</ref>
+
+==Education and career==
+After secondary education at Missouri's [[Lindbergh High School (Missouri)|Lindbergh High School]],<ref name=APSFellow/> Fulling graduated in 1967 with A.B. in physics from [[Harvard University]]. At [[Princeton University]] he became a graduate student in physics and received M.S. in 1969 and Ph.D. in 1972.<ref name=homepage>{{cite web|title=Stephen Fulling|website=Mathematics, Texas A&M University (math.tamu.edu)|url=https://www.math.tamu.edu/~stephen.fulling/}}</ref> His thesis ''Scalar Quantum Field Theory in a Closed Universe of Constant Curvature'' was supervised by [[Arthur Wightman]].<ref>{{MathGenealogy|id=95880|title=Stephen Albert Fulling}}</ref> Fulling was a postdoc from 1972 to 1974 at the [[University of Wisconsin-Milwaukee]] and from 1974 to 1976 at [[King's College London]]. At [[Texas A&M University]] he joined the mathematics faculty in 1976<ref name=APSFellow>{{cite web|title=Texas A&M Mathematician Stephen Fulling Elected as American Physical Society Fellow|date=31 October 2018|website=Texas A&M, Science (science.tamu.edu)|url=https://science.tamu.edu/news/2018/10/texas-am-mathematician-stephen-fulling-elected-as-american-physical-society-fellow/}}</ref> and was promoted to full professor in 1984. In addition to mathematics, he holds a joint appointment in physics and astronomy.<ref name=homepage/>
+
+In addition to more than a hundred papers and publications, he has authored two books, ''Aspects of Quantum Field Theory in Curved Space-Time'' ([[Cambridge University Press]], 1989) and ''Linearity and the Mathematics of Several Variables'' ([[World Scientific]], 2000).<ref name=APSFellow/>
+
+In 2018 Fulling was elected a fellow of the [[American Physical Society]].<ref name=APSFellow/> He has also been elected a foreign member of the [[Royal Society of Sciences in Uppsala]].<ref>{{cite web|title=Fulling's Curriculum Vitae|url=https://www.math.tamu.edu/~stephen.fulling/vita.pdf|website=math.tamu.edu|access-date=March 5, 2022}}</ref>
+
+==Selected publications==
+===Books===
+{{div col|colwidth=35em}}
+*{{cite book|url=https://books.google.com/books?id=Zo5_3cmtFEUC|title = Aspects of Quantum Field Theory in Curved Spacetime|isbn = 9780521377683|last1 = Fulling|first1 = Stephen A.|date = 1989-08-24| publisher=Cambridge University Press }}
+*{{cite book|author1=Fulling, Stephen A.|author2=Sinyakov, Michael N.|author3=Tischchenko, Sergei V.|title=Linearity and the Mathematics of Several Variables|url=https://books.google.com/books?id=Eo3mcd_62DsC|year=2000|publisher=World Scientific|isbn=978-981-02-4196-4}}
+{{div col end}}
+===Articles===
+{{div col|colwidth=35em}}
+*{{cite journal|doi=10.1103/PhysRevD.7.2850|title=Nonuniqueness of Canonical Field Quantization in Riemannian Space-Time|journal=Physical Review D|volume=7|issue=10|pages=2850–2862|year=1973|last1=Fulling|first1=Stephen A.|bibcode=1973PhRvD...7.2850F}}
+*{{cite journal|doi=10.1098/rspa.1976.0045|title=Radiation from a Moving Mirror in Two Dimensional Space-Time: Conformal Anomaly|journal=Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences|volume=348|issue=1654|pages=393–414|year=1976|last1=Fulling|first1=S. A.|last2=Davies|first2=P. C. W.|bibcode=1976RSPSA.348..393F|s2cid=122176090}}
+*{{cite journal|doi=10.1103/PhysRevD.15.2088|title=Trace anomalies and the Hawking effect|journal=Physical Review D|volume=15|issue=8|pages=2088–2104|year=1977|last1=Christensen|first1=S. M.|last2=Fulling|first2=S. A.|bibcode=1977PhRvD..15.2088C}}
+*{{cite journal|doi=10.1103/PhysRevD.9.341|title=Adiabatic regularization of the energy-momentum tensor of a quantized field in homogeneous spaces|journal=Physical Review D|volume=9|issue=2|pages=341–354|year=1974|last1=Parker|first1=Leonard|last2=Fulling|first2=S. A.|bibcode=1974PhRvD...9..341P}}
+*{{cite journal|doi=10.1103/PhysRevD.13.2720|title=Energy-momentum tensor near an evaporating black hole|journal=Physical Review D|volume=13|issue=10|pages=2720–2723|year=1976|last1=Davies|first1=P. C. W.|last2=Fulling|first2=S. A.|last3=Unruh|first3=W. G.|bibcode=1976PhRvD..13.2720D|s2cid=124632555}}
+*{{cite journal|doi=10.1103/PhysRevD.7.2357|title=Quantized Matter Fields and the Avoidance of Singularities in General Relativity|journal=Physical Review D|volume=7|issue=8|pages=2357–2374|year=1973|last1=Parker|first1=Leonard|authorlink=Leonard Parker|last2=Fulling|first2=S. A.|bibcode=1973PhRvD...7.2357P}}
+*{{cite journal|doi=10.1103/PhysRevD.10.3905|title=Conformal energy-momentum tensor in curved spacetime: Adiabatic regularization and renormalization|journal=Physical Review D|volume=10|issue=12|pages=3905–3924|year=1974|last1=Fulling|first1=S. A.|last2=Parker|first2=Leonard|last3=Hu|first3=B. L.|bibcode=1974PhRvD..10.3905F}}
+{{div col end}}
+
+== See also ==
+{{Portal|Mathematics|Physics|Biography}}
+{{cols|colwidth=21em}}
+* [[Differential operator]]
+* [[Fulling–Davies–Unruh effect]]
+* [[General relativity]]
+* [[Mathematical formulation of quantum mechanics]]
+* [[Quantum Field Theory]]
+{{colend}}
+
+==References==
+<references/>
+
+== External links ==
+
+* [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/46816 Oral history interview transcript with Stephen Fulling on 8 July 2021, American Institute of Physics, Niels Bohr Library & Archives]
+{{authority control}}
+
+{{DEFAULTSORT:}}
+
+{{DEFAULTSORT:Fulling, Stephen A.}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American mathematical physicists]]
+[[Category:Harvard College alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Texas A&M University faculty]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:People from Evansville, Indiana]]
+[[Category:Mathematicians from Missouri]]
+[[Category:Physicists from Missouri]]

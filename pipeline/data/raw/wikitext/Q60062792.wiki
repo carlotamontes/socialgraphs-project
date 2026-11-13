@@ -1,0 +1,441 @@
+{{Short description|German theoretical physicist}}
+{{Infobox scientist
+| name              = Michael Bonitz
+| image             = Michael_Bonitz_2025.jpg
+| image_upright     = 1.0
+| caption           = Bonitz at Kiel University, 2025
+| birth_date        = {{Birth date and age|1960|7|9}}
+| birth_place       = [[Leningrad]], [[Soviet Union]] (now [[Saint Petersburg]], [[Russia]])
+| fields            = [[Theoretical physics]] · [[Plasma physics]]
+| workplaces        = Institute for Theoretical Physics and Astrophysics (2003–present), [[Kiel University]]
+| education         = [[Moscow State University]] (Diploma, 1987)<br />[[University of Rostock]] (doctorate, 1991)
+| doctoral_advisor  = [[Dietrich Kremp]]
+| academic_advisors = [[Yuri Klimontovich|Yuri L. Klimontovich]]
+| known_for         = [[Keldysh formalism|Nonequilibrium Green's functions]] · [[Path integral Monte Carlo]] · [[Warm dense matter]] · [[Complex plasma]]s
+| awards            = [[Gustav Hertz Prize]] (2002) · [[Fellow of the American Physical Society|APS Fellow]] (2011) · [[John Dawson Award for Excellence in Plasma Physics Research|John Dawson Award]] (2021)
+| website           = {{URL|https://www.itap.uni-kiel.de/theo-physik/bonitz}}
+}}
+
+'''Michael Bonitz''' (born 9 July 1960) is a German theoretical physicist and professor, holding the Chair of [[Statistical physics|Statistical Physics]] at [[Kiel University]]'s Institute for Theoretical Physics and Astrophysics.<ref name="KielProfile">{{cite web
+ |title=Prof. Dr. Michael Bonitz – Chair of Statistical Physics
+ |url=https://www.itap.uni-kiel.de/theo-physik/bonitz
+ |website=Kiel University
+ |access-date=2025-06-19
+}}</ref>
+
+He is known for advancing nonequilibrium quantum many‑body theory, most notably the [[Keldysh formalism|nonequilibrium Green's function]] approach and [[path integral Monte Carlo]] methods. Among his research topics are strongly coupled classical systems, such as [[complex plasma]]s, strongly coupled quantum systems, including [[Wigner crystal]]s and [[warm dense matter]], as well as laser excitation of atoms, solids, and two-dimensional nanomaterials.
+
+For his research results he received the [[Gustav Hertz Prize]] of the German Physical Society (2002) <ref name="Hertz2002">{{cite web
+ |title=Gustav-Hertz-Preis fur Michael Bonitz
+ |url=https://www.dpg-physik.de/auszeichnungen/dpg-preise/gustav-hertz-preis/preistraeger
+ |publisher=Deutsche Physikalische Gesellschaft
+ |language=de
+ |date=2002-03-15
+ |access-date=2025-06-19
+}}</ref> and the [[John Dawson Award for Excellence in Plasma Physics Research]] of the American Physical Society (2021).<ref name="Dawson2021">{{cite web
+ |title=2021 John Dawson Award for Excellence in Plasma Physics Research
+ |url=https://www.aps.org/programs/honors/prizes/dawson.cfm
+ |publisher=American Physical Society
+ |date=2021-10-13
+ |access-date=2025-06-19
+}}</ref>
+
+== Education and academic career ==
+Michael Bonitz studied physics at [[M. V. Lomonosov Moscow State University]] from 1981 to 1987, earning a Diploma with distinction under [[Yuri Klimontovich|Yuri L. Klimontovich]].<ref name="CV2025">{{cite web
+ |title=Curriculum Vitae – Michael Bonitz
+ |url=https://www.itap.uni-kiel.de/theo-physik/bonitz/cv_bonitz.pdf
+ |website=Kiel University
+ |publisher=Institute for Theoretical Physics and Astrophysics
+ |date=June 2025
+ |language=en
+ |access-date=2025-06-20
+}}</ref>
+He then moved to the [[University of Rostock]], where he obtained his doctoral degree in theoretical physics in 1991 under [[Dietrich Kremp]].<ref name="CV2025" />
+After two post‑doctoral fellowships at the [[Wyant College of Optical Sciences|Optical Sciences Center]] of the [[University of Arizona]] (1992–1993 with [[Stephan W. Koch]] and 1995-1996),<ref name="CV2025" />
+he completed his [[habilitation]] at the [[University of Rostock]] in 1998 with the thesis ''Quantum Kinetic Theory of Ultrafast Relaxation Processes: From Density Operators to Kadanoff–Baym Equations''; the first edition of his monograph ''Quantum Kinetic Theory'' appeared the same year.<ref name="BonitzPapers">{{cite web
+ |title=Publications – Michael Bonitz
+ |url=https://www.itap.uni-kiel.de/theo-physik/bonitz/papers.html
+ |website=Kiel University
+ |publisher=Institute for Theoretical Physics and Astrophysics
+ |language=en
+ |access-date=2025-06-20
+}}</ref>
+
+Since 2003 Bonitz has been professor and Chair of Statistical Physics at the Institute for Theoretical Physics and Astrophysics, [[Kiel University]].<ref name="KielProfile" />
+He has also held visiting appointments at the [[University of Florida]] (2003, 2009, 2014), the [[Kavli Institute for Theoretical Physics]] (2010), and [[Lawrence Livermore National Laboratory]] (2014, 2019).<ref name="CV2025" /> As of June 2025 he has supervised more than 20 doctoral theses.<ref name="BonitzTheses">{{cite web
+ |title=Theses – Michael Bonitz
+ |url=https://www.itap.uni-kiel.de/theo-physik/bonitz/theses.html
+ |website=Kiel University
+ |publisher=Institute for Theoretical Physics and Astrophysics
+ |language=en
+ |access-date=2025-06-20
+}}</ref>
+
+== Research ==
+According to his public Google Scholar profile, Michael Bonitz's publications have been cited more than 17 000 times, giving him an ''h''‑index of 72 as of June 2025.<ref name="GoogleScholar">{{cite web
+ |title=Michael Bonitz – Citations
+ |url=https://scholar.google.com/citations?user=Mhy-tq0AAAAJ
+ |website=Google Scholar
+ |access-date=2025-06-20
+}}</ref>
+
+*'''Quantum kinetic theory''' Bonitz co‑developed the real‑time Kadanoff–Baym approach for correlated quantum systems out of equilibrium, including the electron gas,<ref name="PRL2000">{{cite journal
+ |last1=Kwong |first1=N. H.
+ |last2=Bonitz |first2=M.
+ |title=Real‑time Kadanoff–Baym approach to plasma oscillations in a correlated electron gas
+ |journal=Physical Review Letters
+ |year=2000 |volume=84 |issue=8
+ |pages=1768–1771
+ |doi=10.1103/PhysRevLett.84.1768
+|pmid=21923209
+ |arxiv=cond-mat/9912053
+ |bibcode=2000PhRvL..84.1768K
+ }}</ref> electron-hole plasmas,<ref name="Physica1998">{{cite journal
+ |last1=Kwong |first1=N. H.
+ |last2=Bonitz |first2=M.
+ |last3=Binder |first3=R.
+ |last4=Köhler |first4=H.S.
+ |title=Semiconductor Kadanoff-Baym Equation Results for Optically Excited Electron–Hole Plasmas in Quantum Wells
+ |journal=Physica Status Solidi B
+ |year=1998 |volume=206 |issue=1
+ |pages=197–203
+ |doi=10.1002/(SICI)1521-3951(199803)206:1<197::AID-PSSB197>3.0.CO;2-9
+ |bibcode=1998PSSBR.206..197K
+ }}</ref> and dense quantum plasmas,<ref name="PRE1999">{{cite journal
+ |last1=Kremp |first1=D.
+ |last2=Bornath |first2=Th.
+ |last3=Bonitz |first3=M.
+ |last4=Schlanges |first4=M.
+ |title=Quantum kinetic theory of plasmas in strong laser fields
+ |journal=Physical Review E
+ |year=1999 |volume=60 |issue=4
+ |pages=4725–4732
+ |doi=10.1103/PhysRevE.60.4725
+ |pmid=11970338
+ |bibcode=1999PhRvE..60.4725K
+ }}</ref> a method that laid the groundwork for modern simulations of plasma oscillations in correlated systems and ultrafast dynamics following laser excitation or potential quenches. More recently, his group introduced a linear‑scaling algorithm — the G1-G2 scheme — that extends [[Keldysh formalism|nonequilibrium Green's functions]] calculations to systems with thousands of orbitals and long simulation times.<ref name="PRL2020">{{cite journal
+ |last1=Schlünzen |first1=N.
+ |last2=Joost |first2=J.‑P.
+ |last3=Bonitz |first3=M.
+ |title=Achieving the scaling limit for nonequilibrium Green‑function simulations
+ |journal=Physical Review Letters
+ |year=2020 |volume=124 |issue=7
+ |article-number=076601
+ |doi=10.1103/PhysRevLett.124.076601
+|pmid=32142347
+ |arxiv=1909.11489
+ }}</ref>
+
+*'''Warm dense matter and the uniform electron gas''' To avoid the fermion sign problem in [[path integral Monte Carlo]] (PIMC) simulations of high density electrons, Bonitz and collaborators developed the configurational PIMC (CPIMC), which is the PIMC in Slater determinant space.<ref name="CPP2011">{{cite journal
+ |last1=Schoof |first1=T.
+ |last2=Bonitz |first2=M.
+ |last3=Filinov |first3=A.
+ |last4=Hochstuhl |first4=D.
+ |last5=Dufty |first5=J.W.
+ |title=Configuration Path Integral Monte Carlo
+ |journal=[[Contributions to Plasma Physics]]
+ |year=2011 |volume=51 |issue=8
+ |article-number=687-697
+ |doi=10.1002/ctpp.201100012
+ |bibcode=2011CoPP...51..687S
+ }}</ref> By combining CPIMC and real-space PIMC, Bonitz and collaborators produced the first ''ab initio'' thermodynamic tables for the warm dense electron gas.<ref name="PRL2015">{{cite journal
+ |last1=Schoof |first1=T.
+ |last2=Groth |first2=S.
+ |last3=Vorberger |first3=J.
+ |last4=Bonitz |first4=M.
+ |title=Ab initio thermodynamic results for the degenerate electron gas at finite temperature
+ |journal=Physical Review Letters
+ |year=2015 |volume=115 |issue=13
+ |article-number=130402
+ |doi=10.1103/PhysRevLett.115.130402
+|pmid=26451539
+ |arxiv=1502.04616
+ |bibcode=2015PhRvL.115m0402S
+ }}</ref><ref name="PRL2017">{{cite journal
+ |last1=Groth |first1=S.
+ |last2=Dornheim |first2=T.
+ |last3=Sjostrom |first3=T.
+ |last4=Malone |first4=F. D.
+ |last5=Foulkes |first5=W. M. C.
+ |last6=Bonitz |first6=M.
+ |title=Ab initio exchange‑correlation free energy of the uniform electron gas at warm dense matter conditions
+ |journal=Physical Review Letters
+ |year=2017 |volume=119 |issue=13
+ |article-number=135001
+ |doi=10.1103/PhysRevLett.119.135001
+|pmid=29341671
+ |arxiv=1703.08074
+ |bibcode=2017PhRvL.119m5001G
+ }}</ref><ref name="PhysRep2018">{{cite journal
+ |last1=Dornheim |first1=T.
+ |last2=Groth |first2=S.
+ |last3=Bonitz |first3=M.
+ |title=The uniform electron gas at warm dense matter conditions
+ |journal=Physics Reports
+ |year=2018 |volume=744 |pages=1–86
+ |doi=10.1016/j.physrep.2018.04.001
+|arxiv=1801.05783
+ |bibcode=2018PhR...744....1D
+ }}</ref> The methodology underpins simulations of dense hydrogen and other high‑energy‑density systems,<ref name="PhysPlasmas2024">{{cite journal
+ |last1=Bonitz|first1=M.
+ |last2=Vorberger|first2=J.
+ |display-authors=1
+ |title=Towards first principles‑based simulations of dense hydrogen
+ |journal=Physics of Plasmas
+ |year=2024 |volume=31 |page=110501
+ |doi=10.1063/5.0219405
+|arxiv=2405.10627
+ }}</ref> and was cited by the American Physical Society in awarding him the 2021 [[John Dawson Award for Excellence in Plasma Physics Research]].<ref name="Dawson2021"/>
+
+*'''Complex plasmas and Coulomb crystallization''' Bonitz and collaborators have explored strongly correlated Coulomb systems ranging from mesoscopic electron clusters to [[complex plasma|dusty (complex) plasmas]]. His 2001 prediction of Wigner crystallization in two‑dimensional quantum dots, together with A. Filinov and Yu. Lozovik,<ref name="PRL2001">{{cite journal
+ |last1=Filinov |first1=A. V.
+ |last2=Bonitz |first2=M.
+ |last3=Lozovik |first3=Yu. E.
+ |title=Wigner crystallization in mesoscopic two‑dimensional electron systems
+ |journal=Physical Review Letters
+ |year=2001 |volume=86 |issue=17
+ |pages=3851–3854
+ |doi=10.1103/PhysRevLett.86.3851
+|pmid=11329340
+ |arxiv=cond-mat/0012265
+ }}</ref> and subsequent prediction of crystallization in two‑component Coulomb plasmas<ref name="PRL2005">{{cite journal
+ |last1=Bonitz |first1=M.
+ |last2=Filinov |first2=V. S.
+ |last3=Fortov |first3=V. E.
+ |last4=Levashov |first4=P. R.
+ |last5=Fehske |first5=H.
+ |title=Crystallization in two‑component Coulomb systems
+ |journal=Physical Review Letters
+ |year=2005 |volume=95 |issue=23
+ |article-number=235006
+ |doi=10.1103/PhysRevLett.95.235006
+|pmid=16384315
+ |arxiv=cond-mat/0507230
+ |bibcode=2005PhRvL..95w5006B
+ }}</ref> helped to understand the physical mechanisms of the phase transition and establish the critical parameters. His subsequent work on finite complex plasmas (Coulomb and Yukawa balls) helped establish complex plasmas as tunable laboratories for many‑body physics, a perspective summarised in his 2010 ''Reports on Progress in Physics'' article.<ref name="RPP2010">{{cite journal
+ |last1=Bonitz |first1=M.
+ |last2=Henning |first2=C.
+ |last3=Block |first3=D.
+ |title=Complex plasmas – a laboratory for strong correlations
+ |journal=Reports on Progress in Physics
+ |year=2010 |volume=73 |issue=6
+ |article-number=066501
+ |doi=10.1088/0034-4885/73/6/066501
+|bibcode=2010RPPh...73f6501B
+ }}</ref> 
+
+== Service and outreach ==
+; Conferences and scientific committees  
+Since 1999 Bonitz has organized or co-organized a dozen international meetings, including the ''Progress in Nonequilibrium Green Functions'' series (Rostock 1999, Dresden 2002, Kiel 2005, Glasgow 2009, 
+Jyväskylä 2012, Lund 2015, Frascati 2018, Örebro 2023), the ''Kinetic Theory of Non-Ideal Plasmas'' workshop (Kiel 2004), and the 2017 ''Strongly Coupled Coulomb Systems'' conference in Kiel.<ref name="CV2025"/> He organized international graduate summer schools on complex plasmas (Hoboken 2008, Greisfwald 2010, South Orange 2012 and 2014, and Kiel 2016).<ref name="SummerSchoolKiel">{{cite web
+ |title=5th Summer Institute Complex Plasmas
+ |url=https://www.itap.uni-kiel.de/theo-physik/si16/index.html
+ |publisher=University of Kiel
+ |language=en
+ |access-date=2025-07-17
+}}</ref> He chaired program committees for the ongoing conference series ''Physics of Non-Ideal Plasmas'' and ''Progress in Nonequilibrium Green Functions'', and served as chair of the executive committee of the ''Strongly Coupled Coulomb Systems'' series.<ref name="CV2025"/> He also was a member of the 2015 U.S. Panel on Frontiers of Plasma Science.<ref name="FrontiersPanel">{{cite report
+ |title=Plasma: at the frontier of scientific discovery
+ |url=https://www.osti.gov/servlets/purl/1615243
+ |publisher=U.S. Department of Energy
+ |date=2016
+ |osti=1615243
+ |access-date=2025-06-29
+}}</ref>
+
+; Editorial work and peer review  
+Bonitz was editor-in-chief of the journal ''Contributions to Plasma Physics'' from 2014 to 2023,<ref name="CPPEditor">{{cite journal
+ |last=Krieger |first=K.
+ |title=Editorial
+ |journal=Contributions to Plasma Physics
+ |year=2024
+ |volume=64
+ |issue=4
+ |article-number=e202400034
+ |doi=10.1002/ctpp.202400034
+ |url=https://onlinelibrary.wiley.com/doi/10.1002/ctpp.202400034
+ |publisher=Wiley
+ |bibcode=2024CoPP...64E0034K
+ |type=Editorial
+|url-access=subscription
+ }}</ref> and since 2016 has edited the Springer book series ''Plasma Science and Technology''.<ref name="Springer2016">{{cite web
+ |title=Book series Springer Series in Plasma Science and Technology
+ |url=https://link.springer.com/series/15614
+ |publisher=Springer
+ |language=en
+ |access-date=2025-06-29
+}}</ref><ref name="CV2025"/> He acts as referee for more than 30 journals as well as national and international funding agencies, including the [[German Research Foundation]] (DFG), the [[National Science Foundation|U.S. National Science Foundation]] (NSF), and the [[Austrian Science Fund]] (FWF).<ref name="CV2025"/>
+
+; University service
+At [[Kiel University]], Bonitz chaired the Physics Department from 2006 to 2008 and was an elected member of the University Senate during 2008–2012 and 2016–2018.<ref name="CV2025"/>
+
+; Popularization of Max Planck and quantum theory  
+Bonitz has long promoted the scientific legacy of [[Max Planck]], who was born in Kiel and was a professor of theoretical physics at Kiel University from 1885 to 1889. He initiated and organized the Max Planck museum at Kiel University in 2013 and has since given public lectures and written popular articles on Planck's life and work.<ref name="PlanckExhibit">{{cite web
+ |title=Max Planck in Kiel
+ |url=https://www.itap.uni-kiel.de/theo-physik/bonitz/planck.html
+ |website=Kiel University
+ |publisher=Institut für Theoretische Physik und Astrophysik
+ |language=en
+ |access-date=2025-06-29
+}}</ref> In 2023 he launched a digital Max Planck museum as an interactive online resource.<ref name="PlanckMuseum2023">{{cite web
+ |title=Digital Max Planck Museum
+ |url=https://planck.kiel.city
+ |language=de
+ |access-date=2025-06-29
+}}</ref> To deepen public engagement, Bonitz and historian Oliver Auge founded the book series ''Kieler Beiträge zu Max Planck'' in 2024 and the first two volumes appeared that year.<ref name="PlanckVolume1">{{cite book
+ |title=Max Planck, Kiel und der Beginn der Quantentheorie
+ |series=Kieler Beiträge zu Max Planck
+ |editor1-last=Bonitz |editor1-first=Michael
+ |editor2-last=Auge |editor2-first=Oliver
+ |edition=1
+ |year=2024
+ |volume=1
+ |publisher=Christian-Albrechts-Universität zu Kiel
+ |url=https://macau.uni-kiel.de/receive/macau_mods_00005461
+ |doi=10.38071/2024-01159-0
+ |language=de
+ |type=Open-access monograph
+ |access-date=2025-06-29
+}}</ref><ref name="PlanckVolume2">{{cite book
+ |title=Die Kondolenzen von Wissenschaftlerinnen und Wissenschaftlern zum Tode Max Plancks 1947
+ |series=Kieler Beiträge zu Max Planck
+ |year=2024
+ |volume=2
+ |editor1-last=Bonitz |editor1-first=Michael
+ |editor2-last=Schroedter |editor2-first=Erik
+ |editor3-last=Pittschellis |editor3-first=Clara
+ |edition=2
+ |publisher=Christian-Albrechts-Universität zu Kiel
+ |url=https://macau.uni-kiel.de/receive/macau_mods_00005160
+ |doi=10.38071/2024-00863-8
+ |language=de
+ |type=Open-access monograph
+ |access-date=2025-06-29
+}}</ref> Bonitz and co-workers explore the historic Planck estate and work on its digitization, making it publicly freely accessible.<ref name="PlanckRepositorium">{{cite web
+ |title=Max Planck Estate
+ |url=https://opendata.uni-kiel.de/collections/max_planck
+ |language=en
+ |access-date=2025-07-17
+}}</ref> 
+
+; Science advocacy
+
+In 2017 Bonitz organized the opening of the international [[March for Science]] in [[Kiel]], an event to highlight academic freedom and the societal value of science.<ref name="MarchScience2017">{{cite web
+ |title=Universität Kiel lädt ein zur Auftaktveranstaltung "March for Science"
+ |url=https://www.uni-kiel.de/de/detailansicht/news/universitaet-kiel-laedt-ein-zur-auftaktveranstaltung-march-for-science
+ |date=2017-04-20
+ |language=de
+ |access-date=2025-06-29
+}}</ref> that was repeated in 2018<ref name="MarchScience2018">{{cite web
+ |title=Universität Kiel unterstützt wieder "March for Science"
+ |url=https://www.uni-kiel.de/pressemeldungen/index.php?pmid=2018-085-marchforscience
+ |date=2018-04-03
+ |language=de
+ |access-date=2025-07-17
+}}</ref> and 2019.<ref name="MarchScience2019">{{cite web
+ |title=Universität Kiel unterstützt wieder "March for Science" 
+ |url=https://www.uni-kiel.de/de/detailansicht/news/130-march-for-science
+ |date=2019-04-29
+ |language=de
+ |access-date=2025-07-17
+}}</ref> Since then he regularly organizes a lecture series "Science and Alternative Facts," which invites scholars to discuss controversial topics of broad interest with a general audience. By 2025 the series had hosted more than 60 talks and produced nearly 50 videos.<ref name="FaktsOderFake">{{cite web
+ |title=FaktOderFake
+ |url=https://www.faktoderfake.org/
+ |language=de
+ |access-date=2025-06-29
+}}</ref>
+
+; Science outreach for children
+
+Bonitz has offered computer experiments for female high school students to introduce them to quantum physics as part of the Physik Projekt Tage at Kiel University. He is also an author of science-based science fiction novels for children published with ifub-Verlag.<ref name=ChildrensBook>{{cite web
+ |title=Michael Bonitz: Abenteuer im All
+ |url=https://www.ifubshop.com/kinder-jugendliche/abenteuer-im-all-1/
+ |language=de
+ |access-date=2025-07-17
+}}</ref>
+
+== Honours ==
+* 2002 – [[Gustav Hertz Prize]] of the German Physical Society, for his work on correlation effects in plasmas, optically excited semiconductors and low-dimensional systems.<ref name="Hertz2002"/>
+* 2011 – [[Fellow of the American Physical Society]], for "pioneering contributions to the field of strongly correlated classical and quantum plasmas."<ref name="APS2011">{{cite web
+ |title=Division of Plasma Physics Fellowship
+ |url=https://www.aps.org/funding-recognition/aps-fellowship/dpp-fellowship
+ |website=American Physical Society
+ |access-date=2025-06-29
+}}</ref>
+* 2012 – Honorary doctorate (''Doctor honoris causa'') of the [[Russian Academy of Sciences]]; Bonitz refrained from holding the title in 2022 following the Russian invasion of Ukraine.<ref name="RASResign2022">{{cite web
+ |title=Honorary doctorate awarded by the Russian Academy of Sciences
+ |url=https://www.itap.uni-kiel.de/theo-physik/bonitz/russia_22/RR_MB_RAS_2022.pdf
+ |date=2022-03-07
+ |language=en
+ |access-date=2025-06-29
+}}</ref>
+* 2021 – [[John Dawson Award for Excellence in Plasma Physics Research]] of the American Physical Society, for "developing Monte Carlo methods that overcome the fermion sign problem."<ref name="Dawson2021"/>
+
+== Selected publications ==
+* M. Bonitz, "Quantum Kinetic Theory", 2nd edition, Springer, Cham, 2016;<ref name="QKT2016">{{cite book
+ |last=Bonitz |first=Michael
+ |title=Quantum Kinetic Theory
+ |edition=2
+ |year=2016
+ |publisher=Springer
+ |doi=10.1007/978-3-319-24121-0
+|bibcode=2016qkt..book.....B
+ |isbn=978-3-319-24119-7
+ |url=http://ci.nii.ac.jp/ncid/BA5130137X
+ }}</ref> 1st edition, Teubner, Stuttgart, 1998.
+* K. Balzer and M. Bonitz, "Nonequilibrium Green's Functions Approach to Inhomogeneous Systems", Lecture Notes in Physics, Springer, Heidelberg, 2013.<ref name="BalzerBonitz2013">{{cite book
+ |last1=Balzer |first1=Karsten
+ |last2=Bonitz |first2=Michael
+ |title=Nonequilibrium Green's Functions Approach to Inhomogeneous Systems
+ |series=Lecture Notes in Physics
+ |volume=867
+ |year=2013
+ |publisher=Springer
+ |doi=10.1007/978-3-642-35082-5
+|isbn=978-3-642-35081-8
+ }}</ref>
+* M. Bonitz, N. Horing, and P. Ludwig (Eds.), "Introduction to Complex Plasmas", Springer Series "Atomic, Optical and Plasma Physics", Springer, Berlin, 2010.<ref name="ComplexPlasmas2010">{{cite book
+ |editor1-last=Bonitz |editor1-first=Michael
+ |editor2-last=Horing |editor2-first=Norman
+ |editor3-last=Ludwig |editor3-first=Patrick
+ |title=Introduction to Complex Plasmas
+ |series=Atomic, Optical and Plasma Physics
+ |year=2010
+ |volume=59
+ |publisher=Springer
+ |doi=10.1007/978-3-642-10592-0
+|bibcode=2010icp..book.....B
+ |isbn=978-3-642-10591-3
+ }}</ref>
+* M. Bonitz and D. Semkat (Eds.), "Introduction to Computational Methods in Many-Body Physics", Rinton Press, Princeton, 2006.<ref name="CompMethods2006">{{cite book
+ |editor1-last=Bonitz |editor1-first=Michael
+ |editor2-last=Semkat |editor2-first=Daniel
+ |title=Introduction to Computational Methods in Many-Body Physics
+ |year=2006
+ |publisher=Rinton Press
+ |url=https://www.rintonpress.com/books/mbonitz.html
+ |access-date=2025-06-29
+}}</ref>
+* M. Bonitz, J. Lopez, K. Becker, and H. Thomsen (Eds.), "Complex Plasmas: Scientific Challenges and Technological Opportunities", Springer Series "Atomic, Optical and Plasma Physics", Springer, 2014.<ref name="BonitzLopez2014">{{cite book
+ |last1=Bonitz |first1=Michael
+ |last2=Lopez |first2=Jose
+ |last3=Becker |first3=Kurt
+ |last4=Thomsen |first4=Hauke
+ |title=Complex Plasmas: Scientific Challenges and Technological Opportunities
+ |series=Atomic, Optical and Plasma Physics
+ |year=2014
+ |publisher=Springer
+ |doi=10.1007/978-3-319-05437-7
+|isbn=978-3-319-05437-7
+ }}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Bonitz, Michael}}
+[[Category:Living people]]
+[[Category:German theoretical physicists]]
+[[Category:1960 births]]
+[[Category:Moscow State University alumni]]
+[[Category:University of Rostock alumni]]
+[[Category:Academic staff of Kiel University]]

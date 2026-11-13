@@ -1,0 +1,60 @@
+{{short description|American scientist}}
+{{Infobox scientist
+| name              = Robert J. Cotter
+| image             = RJCotter.jpg
+| birth_date        = {{Birth date|1943|7|15}}
+| birth_place       = [[Washington, D.C.]], U.S.
+| death_date        = {{Death date and age|2012|11|12|1943|7|15}}<ref name="Cotter Obit">{{cite news | url=https://www.baltimoresun.com/2012/11/18/robert-j-cotter-johns-hopkins-medical-school-professor/ | title=Robert J. Cotter, Johns Hopkins medical school professor | newspaper=Baltimore Sun | date=November 18, 2012 | access-date=November 21, 2012 | author=Siegel, Andrea}}</ref>
+| death_place       = [[Baltimore, Maryland]], U.S.
+| field             = [[Mass spectrometry]]
+| spouse            = [[Catherine Clarke Fenselau]]
+| workplaces        = [[Towson University]]<br />[[Gettysburg College]]<br />[[Johns Hopkins University]]
+| education         = [[College of the Holy Cross]] ([[Bachelor of Science|BS]])<br> [[Johns Hopkins University]] ([[PhD]])
+| doctoral_advisor  = W.S. Koski
+| doctoral_students = 
+| known_for         = [[Time-of-flight mass spectrometry]]
+| awards            = Field and Franklin Award (2011)<br/>ASMS Distinguished Contribution in Mass Spectrometry Award (2011)
+| religion          = 
+| footnotes         = 
+}}
+
+'''Robert J. Cotter''' (July 15, 1943 – November 12, 2012) was an American [[chemist]] and [[mass spectrometrist]]. His research contributed to many early advances in the field of [[time-of-flight mass spectrometry]]. From 1998 to 2000 he was president of the [[American Society for Mass Spectrometry]].<ref>[http://www.asms.org/Publications/Historical/PastPresidents/tabid/386/Default.aspx Past presidents], ASMS, retrieved 2010-11-17.</ref> Cotter was also a co-investigator on the Mars Organic Molecule Analyzer (MOMA) project, developing a miniaturized, low power consumption ion trap/time-of-flight mass spectrometer that was to be deployed with the ExoMars rover, now the [[Rosalind Franklin (rover)|''Rosalind Franklin'' rover]].<ref name="MomaJournal">{{cite journal | title=Time-of-flights and traps: from the Histone Code to Mars. |vauthors=Cotter RJ, Swatkoski S, Becker L, Evans-Nguyen T | journal=Eur J Mass Spectrom | year=2010 | volume=16 | issue=3 | pages=331–340 | doi=10.1255/ejms.1082|pmid=20530839 |pmc=3401572 }}</ref>
+
+==Early life and education==
+Cotter was raised in [[Abington, Massachusetts]], and was the oldest of seven children.  After graduating from [[Boston College High School]] in 1961, he attended the [[College of the Holy Cross]] in [[Worcester, Massachusetts]], and graduated from Holy Cross with a [[Bachelor of Science]] in 1965. He then pursued graduate studies at [[Johns Hopkins University]] under W.S. Koski, earning his [[Ph.D.]] in 1972. After receiving his doctorate, he joined the faculty of [[Towson University]] and [[Gettysburg College]].<ref name="Cotter Obit"/>
+
+==Academic research career==
+From 1978 until his death in 2012, Robert Cotter was a member of the faculty at [[Johns Hopkins University]] in the departments of Pharmacology and Molecular Sciences and Biophysics and Biophysical Chemistry.<ref name="Faculty Page">{{cite web | url=http://www.hopkinsmedicine.org/mams/ | title=Robert Cotter | accessdate=November 21, 2012 | url-status=dead | archiveurl=https://web.archive.org/web/20121117195430/http://www.hopkinsmedicine.org/mams/ | archivedate=November 17, 2012 }}</ref>
+
+===Curved-field reflectron===
+{{Main|Reflectron#Gridless Reflectron|l1=Reflectron}}
+To increase the [[Resolution (mass spectrometry)|mass resolution]] in time-of-flight mass spectrometry, a [[reflectron]] is often employed.  Traditional, single-stage or linear reflectrons suffered from a lack of sensitivity and resolving power when ion velocities (and thus [[kinetic energy|kinetic energies]] were not equal.  In [[Matrix-assisted laser desorption/ionization|MALDI]] mass spectrometry, metastable ions generated spontaneously after ionization (post-source decay) exhibit a wide spectrum of kinetic energies.<ref name="PSD">{{cite journal | title=Metastable Decay of Peptides and Proteins in Matrix-assisted Laser-desorption Mass Spectrometry |vauthors=Spengler B, Kirsch D, Kaufmann R | journal=Rapid Comm. Mass Spec. | year=1991 | volume=5 |issue=4 | pages=198–202 | doi=10.1002/rcm.1290050412|bibcode=1991RCMS....5..198S }}</ref> This is also known to occur during [[collision-induced dissociation]].<ref name="Cotter Book">{{cite book | title=Time-of-Flight Mass Spectrometry: Instrumentation and Applications in Biological Research | publisher=American Chemical Society | author=Cotter, Robert J. | year=1997 | location=Washington, DC | isbn=978-0841234741}}</ref> In 1993, Cotter's research group discovered that, using a non-linear electric field, the spread of ion kinetic energies could be compensated, increasing the resolution of time-of-flight mass spectrometers and forming the basis for many modern TOF/TOF mass spectrometers.<ref name="CF">{{cite journal | title=A curved-field reflectron for improved energy focusing of product ions in time-of-flight mass spectrometry. | author=Cornish T, Cotter, RJ | journal=Rapid Comm. Mass Spec. | year=1993 | volume=7 | issue=11 | pages=1037–1040 | doi=10.1002/rcm.1290071114 | pmid=8280914| bibcode=1993RCMS....7.1037C }}</ref>
+
+===Ionization and biological mass spectrometry===
+While he is primarily known for his contributions to the field of time-of-flight mass spectrometry,<ref name="tof">{{cite journal | title=Time-of-Flight Mass-Spectrometry for the Structural-Analysis of Biological Molecules | author=Cotter, RJ | journal=Anal. Chem. | year=1992 | volume=64 | issue=21 | pages=A1027–A1039 | doi=10.1021/ac00045a002| pmid=1443622 }}</ref> his research in the development and application of new [[Ion source|ionization techniques]] for complex biomolecules.  These include thermal desorption,<ref name="TDMS">{{cite journal | title=Thermally Produced Ions in Desorption Mass Spectrometry |author1=Cotter, RJ |author2=Yergey, AL |name-list-style=amp | journal=Anal. Chem. | year=1981 | volume=53 | issue=8 | pages=1306–1307 | doi=10.1021/ac00231a039}}</ref> laser desorption,<ref name="LDMS">{{cite journal | title=Laser Desorption Chemical Ionization Mass-Spectrometry | author=Cotter, RJ | journal=Anal. Chem. | year=1980 | volume=52 | issue=11 | pages=1767–1770 | doi=10.1021/ac50061a055}}</ref> [[fast atom bombardment]],<ref name="FABMS">{{cite journal | title=Comparison of Thermospray and Fast Atom Bombardment Mass-spectrometry as Solution-Dependent Ionization Techniques | author=Fenselau, C, Liberato, DJ, Yergey, JA, Cotter, RJ, Yergey, AL | journal=Anal. Chem. | year=1984 | volume=56 | issue=14 | pages=2759–2762 | doi=10.1021/ac00278a030| pmid=6098190 }}</ref> [[thermospray]]<ref name="TMOSp">{{cite journal | title=Adaptation of a Thermospray Liquid-Chromatography Mass-Spectrometry Interface For Use with Alkaline Anion-Exchange Liquid-Chromatography of Carbohydrates |vauthors=Simpson RC, Fenselau CC, Hardy MR, Townsend RR, Lee YC, Cotter RJ | journal=Anal. Chem. | year=1990 | volume=62 | issue=3 | pages=248–252 | doi=10.1021/ac00202a005|pmid=2305955 }}</ref> and [[Plasma-desorption mass spectrometry|plasma desorption]].<ref name="PDMS">{{cite journal | title=Glutathione as a Matrix For Plasma Desorption Mass-Spectrometry of Large Peptides | author=Alai M, Demirev P, Fenselau C, Cotter, RJ | journal=Anal. Chem. | year=1986 | volume=58 | issue=7 | pages=1303–1307 | doi=10.1021/ac00298a008| pmid=3728989 }}</ref>
+
+His research into ionization sources also enabled many other discoveries in biomedical sciences.<ref name="Cotter Book"/>  In 1993, he was part of the research team responsible for implicating the 42 amino acid form of the protein [[Beta amyloid|Aβ]] in the pathology of [[Alzheimer's disease]].<ref name="Abeta Ref">{{cite journal | title=Beta-Amyloid-(1-42) is a Major Component of Cerebrovascular Amyloid Deposits – Implications for the pathology of Alzheimer-Disease | author=Roher, AE, Lowenson, JD Clarke, S, Woods, AS, Cotter, RJ, Gowing, E, Ball, MJ | journal=Proc. Natl. Acad. Sci. USA | year=1993 | volume=90 | issue=22 | pages=10836–10840 | doi=10.1073/pnas.90.22.10836 | pmid=8248178 | pmc=47873| bibcode=1993PNAS...9010836R | doi-access=free }}</ref>
+<!-- This section could and should be expanded-->
+
+===Mars organic molecule analyzer===
+{{Main|ExoMars rover#Pasteur instrument suite|l1=Pasteur instrument suite}}
+
+The Mars Organic Molecule Analyzer (MOMA) project is part of a collaboration to search for potential signatures of Martian life.  Cotter was a deputy principal investigator and responsible for the design and development of a low-power, ion trap-time-of-flight mass spectrometer to be deployed with the ESA ExoMars rover.<ref name="MomaJournal"/>  However, in February 2012, NASA cancelled its participation in the rover and defunded projects related to it.<ref>{{cite web | url=http://www.nasa.gov/mission_pages/mars/news/exo20100826.html | title=Tracing the Big Picture of Mars' Atmosphere | accessdate=November 21, 2012}}</ref> By November 2012 NASA reestablished the funding for the US part of MOMA.<ref>{{cite journal | url = http://www.spaceflightnow.com/news/n1211/21exomars/#.ULCc6GfWE64 | title = European states accept Russia as ExoMars partner| author= STEPHEN CLARK|publisher =SPACEFLIGHT NOW| date= November 21, 2012}}</ref>
+
+==References==
+{{reflist}}
+
+{{Recipients of the Distinguished Contribution in Mass Spectrometry Award}}
+{{Field and Franklin Award}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cotter, Robert}}
+[[Category:20th-century American chemists]]
+[[Category:Mass spectrometrists]]
+[[Category:1943 births]]
+[[Category:2012 deaths]]
+[[Category:College of the Holy Cross alumni]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:Towson University faculty]]

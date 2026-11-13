@@ -1,0 +1,96 @@
+{{Short description|German bioinformatician and evolutionary biologist}}
+{{Infobox scientist
+| name        = Arndt von Haeseler
+| native_name_lang = 
+| image       = 
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_name = 
+| birth_date  = {{birth date and age|df=yes|1959|02|28}}
+| birth_place = Bremen<ref name="Inaugural" />
+| death_date  = 
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = 
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = 
+| fields      = {{Plainlist|
+* [[Computational phylogenetics]]
+}}
+
+|workplaces  = {{Plainlist|
+* [[University of Düsseldorf]]
+* [[University of Vienna]]
+* [[Medical University of Vienna]]
+* [[Max F. Perutz Laboratories]]
+}}
+| thesis_title = Rekonstruktion phylogenetischer Bäume mit Hilfe von Varianten der Vier-Punkt-Bedingung<ref name="MGP" />
+| thesis_url  = 
+| thesis_year = 1988
+| doctoral_advisor = {{Plainlist|
+* [[Andreas Dress]]
+* Hans-Georg Carstens
+}}
+| academic_advisors = 
+| doctoral_students = {{Plainlist|
+* [[Korbinian Strimmer]]
+}}
+| notable_students = 
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      =
+| signature   = 
+| signature_alt = 
+| website     = {{URL|http://www.cibiv.at/~haeseler/}}
+| footnotes   = 
+| spouse      =         <!--(or | spouses = )-->
+| children    = 
+| death_cause = 
+| education   = {{Plainlist|
+* [[Bielefeld University]] (PhD)
+}}
+| partner     =         <!--(or | partners = )-->
+}}
+
+'''Arndt von Haeseler''' (born 28 February 1959) is a German [[bioinformatics|bioinformatician]] and [[evolutionary biology|evolutionary biologist]]. He is the scientific director of the [[Max F. Perutz Laboratories]] at the [[Vienna Biocenter]] and a professor of bioinformatics at the [[University of Vienna]] and the [[Medical University of Vienna]].
+
+== Education ==
+Arndt von Haeseler obtained a doctorate in mathematics from [[Bielefeld University]] in 1988 under the supervision of [[Andreas Dress]] and Hans-Georg Carstens.<ref name="Inaugural">{{cite web | title=Prof. von Haeseler hält seine Antrittsvorlesung an der VUW | website=Veterinärmedizinische Universität Wien| language = de | url=https://www.vetmeduni.ac.at/fileadmin/_migrated/content_uploads/PA_Professur_Bioinformatik.pdf}}</ref><ref name="MGP">{{mathgenealogy|id=24675|name=Arndt von Haeseler}}</ref> He [[habilitation|habilitated]] in 1994 at the Department of Zoology of [[LMU Munich]],<ref name="Inaugural" /> where he remained as a lecturer until 1998.<ref name="ACSD2016" />
+
+== Research and career ==
+From 1998 until 2001, von Haeseler was a group leader at the [[Max Planck Institute for Evolutionary Anthropology]] in [[Leipzig]].<ref name="ACSD2016" /> From 2001 until 2005, he was professor of bioinformatics at the [[University of Düsseldorf]].<ref name="Inaugural" /> He was a group leader in bioinformatics at [[Forschungszentrum Jülich]].<ref name="ACSD2016" /> In 2005, he joined the [[Max F. Perutz Laboratories]] (MFPL) in Vienna, where he leads the Center for Integrative Bioinformatics Vienna (CIBIV).<ref name="Inaugural" />  He is a professor of bioinformatics at the [[University of Vienna]] and the [[Medical University of Vienna]].<ref name="MFPLHome">{{cite web | title=Organisation | website=Max F. Perutz Laboratories | url=https://www.mfpl.ac.at/about-us/organisation.html | access-date=2018-02-11}}</ref> From 2017 to 2020, he was the scientific director of the MFPL (since 2019 Max Perutz Labs).<ref name="MFPLHome" /><ref>{{cite web | title=History of the Max Perutz Labs | website=Home | url=https://www.maxperutzlabs.ac.at/about/history | access-date=2023-05-30}}</ref> At the University Vienna, he was the dean of the Center for Molecular Biology.<ref name="Zentrum für molekulare Biologie (ZMB)">{{cite web | title=Center for molecular biology | website=Zentrum für molekulare Biologie (ZMB) | url=http://zmb.univie.ac.at/en/?gf_page=upload | access-date=2018-02-11}}</ref> At the Medical University of Vienna, he was the head of the Department for Medical Biochemistry.<ref name="MedicalVienna">{{cite web | last=Vienna | first=Medical University of | title=Zentrum für Medizinische Biochemie | website=Medical University of Vienna | url=https://www.meduniwien.ac.at/web/en/about-us/organisation/medical-science-divisions/department-for-medical-biochemistry/ | access-date=2018-02-17}}</ref>
+
+His research focuses on developing computational methods for the reconstruction of [[phylogenetic tree]]s.<ref name="ACSD2016">{{cite web | title=Arndt von Haeseler – Austrian Computer Science Day 2016 | website=Austrian Computer Science Day 2016 | url=http://acsd2016.jku.at/?speaker=arndt-von-haeseler | access-date=2018-02-17}}</ref> He co-authored the [[phylogenetics]] software packages [[Treefinder|TREEFINDER]],<ref>{{Cite web |title=TREEFINDER |url=https://www.treefinder.de/ |access-date=2024-06-22 |website=www.treefinder.de}}</ref> [[Tree puzzle|TREE-PUZZLE]],<ref name="Schmidt Strimmer Vingron Haeseler 2002 pp. 502–504">{{cite journal | last1=Schmidt | first1=Heiko A. | last2=Strimmer | first2=Korbinian | last3=Vingron | first3=Martin | last4=Haeseler | first4=von | title=TREE-PUZZLE: maximum likelihood phylogenetic analysis using quartets and parallel computing | journal=Bioinformatics | volume=18 | issue=3 | date=2002-03-01 | issn=1367-4803 | doi=10.1093/bioinformatics/18.3.502 | pmid=11934758 | pages=502–504 | url=https://academic.oup.com/bioinformatics/article/18/3/502/237049 | access-date=2018-02-17| doi-access=free }}</ref> and its successor, [[IQ-TREE]].<ref name="Nguyen Schmidt Haeseler Minh 2014 pp. 268–274">{{cite journal | last1=Nguyen | first1=Lam-Tung | last2=Schmidt | first2=Heiko A. | last3=Haeseler | first3=von | last4=Minh | first4=Bui Quang | title=IQ-TREE: A Fast and Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies | journal=Molecular Biology and Evolution | volume=32 | issue=1 | date=2014-11-03 | issn=0737-4038 | doi=10.1093/molbev/msu300 | pmid=25371430 | pages=268–274 | url= | pmc=4271533 }}</ref><ref name="Trifinopoulos Nguyen von Haeseler Minh 2016 pp. W232–W235">{{cite journal | last1=Trifinopoulos | first1=Jana | last2=Nguyen | first2=Lam-Tung | last3=von Haeseler | first3=Arndt | last4=Minh | first4=Bui Quang | title=W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis | journal=Nucleic Acids Research | volume=44 | issue=W1 | date=2016-04-15 | issn=0305-1048 | doi=10.1093/nar/gkw256 | pmid=27084950 | pmc=4987875 | pages=W232–W235 | url=}}</ref> However, the 2004 article about TREEFINDER in ''[[BMC Evolutionary Biology]]'' was retracted in 2015 due to the license change.<ref>{{Cite journal |last1=Jobb |first1=Gangolf |last2=von Haeseler |first2=Arndt |last3=Strimmer |first3=Korbinian |date=2015-11-05 |title=Retraction Note: TREEFINDER: a powerful graphical analysis environment for molecular phylogenetics |journal=BMC Evolutionary Biology |volume=15 |issue=1 |pages=243 |doi=10.1186/s12862-015-0513-z |doi-access=free |issn=1471-2148 |pmc=4635604 |pmid=26542699|bibcode=2015BMCEE..15..243J }}</ref> More precisely, coauthor [[Gangolf Jobb]] had forbidden use of the software in the USA and several European countries as an [[anti-immigration]] political statement.<ref>{{Cite news |last=Kupferschmidt |first=Kai |date=29 September 2015 |title=Scientist says researchers in immigrant-friendly nations can't use his software |url=https://www.science.org/content/article/scientist-says-researchers-immigrant-friendly-nations-cant-use-his-software |access-date=22 June 2024 |work=[[Science.org]]}}</ref>
+
+He sits on the editorial boards of ''[[Molecular Biology and Evolution]]'' and ''[[BMC Evolutionary Biology]]''.<ref name="ÖAW" /><ref name="BMC Evolutionary Biology">{{cite web | title=BMC Evolutionary Biology | website=BMC Evolutionary Biology | url=https://bmcevolbiol.biomedcentral.com/about/editorial-board/editor-profiles | access-date=2018-02-16}}</ref><ref name="Oxford Academic">{{cite web | title=Editorial Board - Molecular Biology and Evolution | website=Oxford Academic | url=https://academic.oup.com/mbe/pages/Editorial_Board | access-date=2018-02-16}}</ref>
+
+=== Awards and honours ===
+In 2021, 2022 and 2023, Arndt von Haeseler was awarded "Highly Cited Researcher".
+<ref name="Univie2023">{{cite web | title=Elf 'Highly Cited Researchers' an der Universität Wien | website=University of Vienna | url=https://medienportal.univie.ac.at/media/aktuelle-pressemeldungen/detailansicht/artikel/elf-highly-cited-researchers-an-der-universitaet-wien-1/ | access-date=2024-09-04}}</ref><ref name="HighlyCited2023">{{cite web | title=Highly Cited Researchers 2023 | website=Web of Science | url=https://recognition.webofscience.com/awards/highly-cited/2023/ | access-date=2024-09-04}}</ref><ref name="Univie">{{cite web | title=Ten highly cited researchers at the University of Vienna | website=University of Vienna | url=https://medienportal.univie.ac.at/en/media/recent-press-releases/detailansicht-en/artikel/ten-highly-cited-researchers-at-the-university-of-vienna/ | access-date=2023-05-30}}</ref><ref name="HighlyCited2022">{{cite web | title=Highly Cited Researchers 2022 | website=Web of Science | url=https://recognition.webofscience.com/awards/highly-cited/2022/ | access-date=2023-05-30}}</ref><ref name="HighlyCited2021">{{cite web | title=Highly Cited Researchers 2021 | website=Web of Science | url=https://recognition.webofscience.com/awards/highly-cited/2021/ | access-date=2023-05-30}}</ref>
+
+In 2015, von Haeseler was elected as a corresponding member of the mathematics and science class of the [[Austrian Academy of Sciences]].<ref name="ÖAW">{{cite web | title=ÖAW Mitglieder Detail | website=Österreichische Akademie der Wissenschaften | url=https://www.oeaw.ac.at/m/von-haeseler-arndt/ | language=de | access-date=2018-02-16}}</ref><ref name="Academy2015">{{cite web | title=Three MFPL group leaders elected as members of the Austrian Academy of Sciences ÖAW | website=Home | date=2015-10-15 | url=http://www.mfpl.ac.at/about-us/news/article/news-detail/three-mfpl-group-leaders-elected-as-members-of-the-austrian-academy-of-sciences-oeaw.html | access-date=2018-02-16}}</ref>
+
+Since 1999, he holds an [[Honorary title (academic)|honorary professorship]] in [[theoretical biology]] at the [[University of Leipzig]].<ref name="ÖAW" /><ref name="Leipzig">{{cite web | title=Bericht des Rektoratskollegiums 1999/2000 | website=University of Leipzig | language=de | url=https://www.uni-leipzig.de/fileadmin/user_upload/Service/oeffentlichkeitsarbeit/Jahresberichte/jahresbericht_2000.pdf }}{{Dead link|date=June 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== References ==
+{{reflist|35em}}
+
+== External links ==
+* {{Google scholar id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Haeseler, Arndt von}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:German bioinformaticians]]
+[[Category:20th-century German mathematicians]]
+[[Category:20th-century German biologists]]
+[[Category:Academic staff of the University of Vienna]]
+[[Category:Bielefeld University alumni]]
+[[Category:21st-century German mathematicians]]
+[[Category:Scientists from Bremen (city)]]

@@ -1,0 +1,89 @@
+{{short description|Dutch-born American physicist}}
+{{COI|date=December 2024}}
+{{Infobox scientist
+| name              = Eric Mazur
+| image             = Ericmazur2.jpg
+| image_size        = 200px
+| caption           = Eric Mazur in 2004
+| birth_date        = {{Birth date and age|1954|11|14|mf=y}}
+| birth_place       = [[Amsterdam]], [[Netherlands]]
+| death_date        = 
+| death_place       = 
+| field             = [[Optical physics]]<br>[[Nanophotonics]]<ref name=gs/>
+| workplaces        = [[Harvard University]]
+| education         = [[Leiden University]] (PhD)
+| thesis_title      = The structure of non-equilibrium angular momentum polarizations in polyatomic gases
+| thesis_url        = https://www.worldcat.org/oclc/45924648
+| thesis_year       = 1981
+| doctoral_advisor  = [[Jan Beenakker]] {{citation needed|date=November 2020}}
+| website           = {{Official URL}}
+| doctoral_students = [[Ka Yee Christina Lee]]{{citation needed|date=November 2020}}
+| known_for         = [[Peer Instruction]]<br>[[Black silicon]]
+| awards            = {{Plainlist
+|<!--only those notable enough to have a dedicated wiki page--->
+* [[Presidential Young Investigator Award]] (1988)
+* [[Esther Hoffman Beller Medal]] (2008)}}
+| footnotes         = 
+}}
+'''Eric Mazur''' (born November 14, 1954) is a Dutch-born American [[physicist]] and [[educator]] at [[Harvard University]],<ref name=gs>{{Google scholar id}}</ref> and an entrepreneur in technology start-ups for the educational and technology markets.<ref>[https://web.archive.org/web/19990125090822/http://mazur-www.harvard.edu/ Mazur Group] at [[Harvard University]]</ref><ref>{{Official URL}}</ref> Mazur's research is in experimental [[ultrafast|ultrafast optics]], [[condensed matter physics]] and [[peer instruction]].<ref name=manual>Mazur, Eric (1997).  ''Peer Instruction: A User's Manual'', Prentice Hall.  {{ISBN|0-13-565441-6}}</ref><ref name=ten>{{cite journal|last1=Crouch|first1=Catherine H.|last2=Mazur|first2=Eric|title=Peer Instruction: Ten years of experience and results|journal=American Journal of Physics|volume=69|issue=9|year=2001|pages=970–977|issn=0002-9505|doi=10.1119/1.1374249|bibcode=2001AmJPh..69..970C |s2cid=1893994 }}</ref> Born in [[Amsterdam]], [[Netherlands]], he received his undergraduate and graduate degrees from [[Leiden University]]. He served as the President of [[Optica (society)|Optica (formerly the Optical Society)]] in 2017.<ref>{{Cite web |title=Eric Mazur {{!}} Optica |url=https://www.optica.org/history/biographies/bios/eric_mazur/ |access-date=2024-10-26 |website=www.optica.org}}</ref>
+
+==Education==
+Mazur studied physics and astronomy at [[Leiden University]]. He passed his "doctoraal examen" (equivalent to a [[master's degree]]) in 1977 and continued his graduate studies at the same institution. His PhD thesis investigated the structure of [[non-equilibrium statistical mechanics|non-equilibrium]] [[angular momentum]] polarizations in [[polyatomic]] gases.<ref>{{cite thesis|degree=PhD|first=Eric|last=Mazur|year=1981|publisher=Leiden University|oclc=45924648|title=The structure of non-equilibrium angular momentum polarizations in polyatomic gases|url=https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA21207499370002711|website=leidenuniv.nl}}</ref>
+
+==Career and research==
+{{BLP unreferenced section|date=December 2024}}
+Although he intended to go on to a career in industry with [[Philips|Philips N.V.]] in [[Eindhoven]], he left Europe at the urging of his father, [[Peter Mazur]], to pursue a postdoctoral study with Nobel laureate [[Nicolaas Bloembergen]] at [[Harvard University]]. After two years as a [[postdoctoral researcher]] working with Bloembergen, Mazur was offered a position of [[assistant professor]] at [[Harvard University]]. In 1987 he was promoted to [[associate professor]] and obtained [[tenure]] three years later in 1990. Mazur currently holds a chair as Balkanski Professor of Physics and [[Applied Physics]] jointly in the Harvard School of Engineering and Applied Sciences and in the Physics Department. He was Dean of Applied Physics from 2010 to 2021 and Academic Dean for Applied Science and Engineering from 2021 to 2024. Mazur served as President of Optica (formerly the Optical Society) in 2017 and serves as Chair of the Board of Directors of the Optica Foundation since 2021.
+
+Mazur's early work at Harvard focused on the use of short-pulse [[lasers]] to carry out [[spectroscopy]] of highly vibrationally excited [[molecules]]. Mazur and his group have made many pioneering contributions to the field of ultrashort laser pulses and their interactions with matter ("femtosecond material science"). In 1989 his group was one of the first in academia to build a colliding-pulse mode-locked [[laser]], which generated pulses of only 70 [[femtosecond]] duration. After early measurements by Mazur's group demonstrated conclusively that solids can undergo a structural phase transition without appreciable heating of the [[crystal structure|lattice]], Mazur's group developed a technique to measure the full [[dielectric function]] of highly excited [[semiconductors]]. Since then the group's use of this technique and various nonlinear optical probes to study laser-induced structural [[phase transitions]].
+
+In parallel to the work on semiconductors, Mazur began studying the interaction of intense femtosecond pulses with [[Transparency (optics)|transparent]] materials. By tightly focusing a laser pulse in the bulk of a transparent material [[nonlinear optics|nonlinear optical]] [[absorption (electromagnetic radiation)|absorption]] occurs inside the material, leading to extreme high temperatures and material changes at the focus. This femtosecond laser [[micromachinery|micromachining]] technique is now widely used for [[data storage device|data storage]], fabrication of integrated optical components, and microsurgery.
+
+[[Image:LightHair.jpg|thumb|right|240px|A light-conducting silica nanowire wraps a beam of light around a strand of human hair. The nanowire is about one-thousandth the width of the hair. Credit: Limin Tong, Harvard University]]In 1998 a serendipitous discovery in Mazur's laboratory led to the development of a new method to form a [[silicon]] surface modification, called "[[black silicon]]" because of its very low reflectivity. After irradiation by a train of femtosecond laser pulses in the presence of a [[halogen]] containing gas, the surface of silicon develops a self-organized microscopic structure of micrometer-sized cones. The resulting material has many remarkable properties, such as an enhanced [[absorption (electromagnetic radiation)|absorption]] that extends to the [[infrared]] below the [[band gap]] of silicon. The material has found commercial applications in a number of photodetectors.
+
+Mazur's research continues to focus on optics and photonics and the fabrication of novel nonlinear optical devices. In collaboration with a group from [[Zhejiang University]] in [[Hangzhou]], [[China]], Mazur's group was the first to develop a  technique for pulling subwavelength diameter [[silica]] [[optical fibers]]. These wires guide light in the form of an [[evanescent wave]], permit very sharp bending of the light. Currently his research group works on fabricating optical metamaterials that exhibit optical properties that do not occur in nature.
+
+===Peer instruction===
+In 1991, Mazur began designing an instructional strategy for teaching called [[peer instruction]].<ref name=ten/>  In 1997, he published a book called ''Peer Instruction: A User's Manual''<ref name=manual/> which provides details on this strategy.
+
+[[Peer Instruction]] (PI) has been found{{By whom|date=January 2024}} to be more beneficial than class-wide discussion or lecture.{{Citation needed|date=January 2024|reason=Unsourced qualitative assertion}}  In fact, according to an article in the March/April 2009 edition of ''[[Complexity (journal)|Complexity]]'', over 90% of instructors who have tried PI plan to continue to use it and incorporate it more into teaching.<ref>{{cite journal | title=Characterizing the Effect of Seating Arrangement on Classroom Learning Using Neural Networks |author1=Monterola, C. |author2=Roxas, R.M. |author3=Carreon-Monterola, S. |name-list-style=amp | journal=[[Complexity (journal)|Complexity]] | date=March 2009 | volume=14 | issue=4 | pages=26–33 | doi=10.1002/cplx.20237 | issn=1076-2787|bibcode=2009Cmplx..14d..26M }}</ref> The seating arrangement plays an important role in the outcome of this method.  For example, when low-performing students are seated in the front, their chance to do better increases.  Meanwhile, the results of high-performing students who are seated in the back are not affected.  In addition, when high-performing students are seated in the outer four corners of the classroom, the performance of the class as a whole increases.{{Citation needed|date=December 2024}}
+
+'''Assessment: The Silent Killer of Learning'''
+
+Through his famous lecturing tour in Europe, the US and other continents, Mazur became famous in the fields of Learning Sciences and Educational Psychology for his firm evidence given that many types of assessments are harmful to students and assessments should be reduced and replaced by 'dialogic feedback'.<ref>{{Cite book |last=Dochy |first=F.J. |title=Dialogic Feedback for High Impact Learning: Key to PCP-Coaching and Assessment-as-Learning. |last2=Segers |first2=M. |last3=Arikan |first3=S. |publisher=Routledge Publishers. |year=2023 |isbn=9781032277981 |location=London/ New York}}</ref> Only real feedback could lead to so-called 'high impact learning that lasts'. Mazur explained in his tour that 'Assessment kills learning'. Many hours of video footage of his lecture are available on Youtube when searching for 'The silent killer of learning' by Eric Mazur.{{Citation needed|date=December 2024}}
+
+===Entrepreneurship===
+
+Mazur has founded or co-founded three technology start-ups: SiOnyx, which makes [[infrared sensors]],<ref>{{cite web |url=http://www.bizjournals.com/boston/blog/startups/2013/05/sionyx-image-sensor-tech-night-vision.html?page=all |title=Sionyx Image Sensor|date=2013 |website=www.bizjournals.com|access-date=2020-11-04}}</ref> and Learning Catalytics, which in April 2013 he sold to the [[Pearson educational corporation]].<ref>{{Cite web | url=https://techcrunch.com/2013/04/22/education-giant-pearson-continues-digital-push-acquires-flipped-classroom-startup-learning-catalytics/ | title=Education Giant Pearson Continues Digital Push, Acquires Flipped Classroom Managers, Learning Catalytics| date=23 April 2013}}</ref> In 2015 Mazur co-founded the social learning platform Perusall.<ref>{{cite web |url=http://perusall.com |title=Perusall.com}}</ref>
+
+===Awards and honors===
+Mazur has been widely recognized for his scientific work and leadership.{{Citation needed|date=December 2024}}
+
+* 1988 – Awarded the [[Presidential Young Investigator Award]] by President [[Ronald Reagan]].{{Citation needed|date=December 2024}}
+* 1989 – Elected a [[Fellow]] of the [[American Physical Society]].{{Citation needed|date=December 2024}}
+* 1999 – Award for excellence in educational research by the Council of Scientific Society Presidents{{citation needed|date=November 2020}}
+* 2006 – selected as one of 75 most outstanding American [[physicists]] by the [[American Association of Physics Teachers]]
+* 2008 – Awarded the [[Esther Hoffman Beller Medal]] by the [[Optical Society of America]] and elected a Fellow of that Society
+* 2008 - Correspondent of the [[Royal Netherlands Academy of Arts and Sciences]]<ref>{{cite web |url=https://www.knaw.nl/en/members/correspondents/7967 |title=Eric Mazur |publisher=Royal Netherlands Academy of Arts and Sciences |date= |accessdate=4 August 2015 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304053421/https://www.knaw.nl/en/members/correspondents/7967 |url-status=dead }}</ref>
+* 2014 - Minerva Prize for Advancement in Higher Education by [[Minerva University]]<ref>{{cite web|url=https://news.harvard.edu/gazette/story/2014/05/eric-mazur-wins-minerva-prize/|title=Eric Mazur wins Minerva Prize|date=20 May 2014 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mazur, Eric}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:20th-century Dutch physicists]]
+[[Category:Dutch emigrants to the United States]]
+[[Category:Laser researchers]]
+[[Category:Leiden University alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Scientists from Amsterdam]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Optical physicists]]

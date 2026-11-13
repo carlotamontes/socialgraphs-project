@@ -1,0 +1,82 @@
+{{Short description|American physicist}}
+{{Infobox scientist 
+| name  = John P. Perdew
+| image =John Perdew.jpg 
+| caption =  John Perdew gives a talk at the Tulane University 2007 School of Science and Engineering (SSE) Research Day.
+| birth_date = {{Birth date and age|1943|08|30}}
+| birth_place =  [[Cumberland, Maryland]], US
+| fields =  [[solid-state physics]], [[density functional theory]], [[quantum chemistry]]
+| workplaces  = [[Temple University]], [[Tulane University]]
+| education   =  [[Cornell University]] (Ph.D., M.S.), [[Gettysburg College]] (A.B.)
+| awards =  Elected to [[National Academy of Sciences]]
+}}
+
+'''John P. Perdew''' (born August 30, 1943) is a theoretical [[condensed matter]] physicist known for his contributions to the fields of [[solid-state physics]] and [[quantum chemistry]]. His work on [[density functional theory]] has led to him being one of the world's most cited physicists.<ref name="Chemical Theory">{{Cite journal | last = Scuseria | first = Gus |author2=Mel Levy |author3=Kieron Burke
+ | title = Editorial | journal = [[Journal of Chemical Theory and Computation]]
+| volume = 5 | issue = 4 | pages = 675–678 | date = March 16, 2009 | doi = 10.1021/ct900098q | pmid = 26609571 | issn = 
+| doi-access = free }} Special Issue in Honor of John P. Perdew for His 65th Birthday
+</ref> Perdew currently teaches and conducts research at [[Tulane University]].<ref>{{cite web|title=John P. Perdew, Ph.D.|url= https://sse.tulane.edu/john-p-perdew-phd|accessdate=18 May 2024}}</ref>
+
+==Early life and education==
+John Perdew was born and raised in [[Cumberland, Maryland]]. After showing an aptitude for mathematics in high school, Perdew received a [[National Merit Scholarship]] and attended [[Gettysburg College]], where he developed his interest in [[physics]].
+
+Perdew graduated [[Summa cum laude]] from Gettysburg College with a [[Bachelor of Arts]] in physics in 1965. He then received a [[Ph.D.]] in physics from [[Cornell University]] in 1971. His doctoral advisor was John W. Wilkins, who introduced Perdew to solid-state theory.<ref name="Chemical Theory" />
+
+==Academic career==
+Perdew began his academic career as a postdoctoral fellow under Sy Vosko at the [[University of Toronto]] from 1971 to 1974, and then with David Langreth at [[Rutgers University]] from 1975 to 1977.<ref name="Chemical Theory" />
+
+Perdew started his teaching career in 1977 at [[Tulane University]], where he taught until 2013. During his time at Tulane, Perdew taught physics and supervised nine completed Ph.D.'s as well as 11 postdoctoral fellows. He received the Outstanding Researcher Award from Tulane's [[Tulane School of Science and Engineering|School of Science and Engineering]] in 2007<ref name="Outstanding Researcher">{{cite web|title=Science and Engineering Outstanding Researcher Award|url=http://tulane.edu/sse/news/oustanding-researcher-perdew.cfm|publisher=Tulane University School of Science and Engineering|accessdate=22 March 2014|archive-date=22 March 2014|archive-url=https://web.archive.org/web/20140322200448/http://tulane.edu/sse/news/oustanding-researcher-perdew.cfm|url-status=dead}}</ref> and the President's Awards for Excellence in Professional and Graduate Teaching in 2009.<ref name="Teaching Award">{{cite news|last=Simon|first=Fran|title=Tetlow and Perdew Win Teaching Honors|url=http://tulane.edu/news/newwave/051909_teaching_awards.cfm|accessdate=22 March 2014|newspaper=Tulane University New Wave|date=19 May 2009|url-status=dead|archiveurl=https://web.archive.org/web/20140322200430/http://tulane.edu/news/newwave/051909_teaching_awards.cfm|archivedate=22 March 2014}}</ref>
+
+In 2013, Perdew moved to [[Temple University]], where he is a [[Laura H. Carnell]] Professor of Physics and Chemistry at Temple's [[Temple University College of Science and Technology|School of Science and Technology]], as well as the founding director of the Center for Materials Theory.<ref>{{cite web|title=Temple welcomes new faculty|url=http://news.temple.edu/news/2013-09-19/temple-welcomes-new-faculty|publisher=Temple University|accessdate=22 March 2014|date=2013-09-19}}</ref> In 2023, Perdew returned to Tulane University as a Professor of Physics.
+
+==Work in density functional theory==
+John Perdew's best-known scientific contributions are in the field of [[density functional theory]] (DFT). He was introduced to DFT by his postdoctoral supervisors at University of Toronto and Rutgers, before it became widely used.
+
+Perdew was one of the early pioneers of density functional theory, helping it become accurate enough for calculations in [[quantum chemistry]], [[materials science]], and [[geoscience]]. He made important contributions to the exact [[adiabatic connection fluctuation dissipation theorem]] (ACFD) for the (exchange)-correlation energy, the derivative discontinuity and its contribution to the fundamental gap, scaling and other exact constraints on the functionals, the self-interaction correction, the nonempirical generalized gradient approximation (GGA), and the nonempirical meta-GGA.<ref name="Chemical Theory" /> In 1984 he derived the Levy-Perdew-Sahni (LPS) equation, the analogue to the [[Kohn-Sham equations]] for [[Orbital-free density functional theory]].
+
+Visualizing DFT functionals to be a succession of ladder steps, Perdew formulated the Jacob's Ladder strategy for constructing improved density functionals for the exchange-correlation energy. Perdew first presented this theory at the [[International Congress of Quantum Chemistry]]'s DFT2000 symposium in June 2000, describing five generations of functionals in a sequence he called the Jacob's Ladder.<ref>{{cite journal|last=Sousa|first=Sérgio Filipe|author2=Pedro Alexandrino Fernandes |author3=Maria João Ramos |title=General Performance of Density Functionals|journal=The Journal of Physical Chemistry|date=25 August 2007|volume=111|issue=42|pages=10439–10452|doi=10.1021/jp0734474|pmid=17718548|bibcode=2007JPCA..11110439S}}</ref> Perdew's Jacob's Ladder scheme has been picked up by other researchers in DFT<ref>{{cite journal|last=Janesko|first=Benjamin G.|title=Rung 3.5 Density Functionals: Another Step on Jacob's Ladder|journal=International Journal of Quantum Chemistry|date=26 June 2012|volume=113|issue=2|pages=83–88|doi=10.1002/qua.24256|doi-access=}}</ref> and progress higher up the ladder continue to appear in the field's scientific literature.<ref>{{cite book|last=Casida|first=Mark E.|title=Low-Lying Potential Energy Surfaces|volume=828|date=14 August 2012|publisher=American Chemical Society|pages=Chapter 9, pp 199–220|doi=10.1021/bk-2002-0828.ch009|chapter=Jacob's Ladder for Time-Dependent Density-Functional Theory: Some Rungs on the Way to Photochemical Heaven|series=ACS Symposium Series|isbn=978-0-8412-3792-6}}</ref>
+
+Perdew continues DFT research in his role at Tulane University. His current research interests include the construction of a better [[Hybrid functional|meta-GGA]] and improved descriptions for strong correlation and for the [[Van der Waals force|van der Waals]] interaction.<ref>{{cite web|title=Solid State Physics and Quantum Chemistry/Density Functional Theory|url=https://phys.cst.temple.edu/~perdew/solid_state_density_function.html|publisher=Temple University Department of Physics|accessdate=22 March 2014|archive-date=23 March 2014|archive-url=https://web.archive.org/web/20140323015148/https://phys.cst.temple.edu/~perdew/solid_state_density_function.html|url-status=dead}}</ref>
+
+==Impact on field==
+John Perdew is one of the world's most cited physicists, with over 410,000 Google Scholar citations referring to his work in the field of density functional theory. A study identifies him as possibly the world's most-cited physicist for articles published between 1981 and 2010. Of Perdew's more than 260 published works, a 1996 paper titled "Generalized Gradient Approximation Made Simple" from the journal [[Physical Review Letters]] has been cited more than 147,000 times and was the most-cited paper in the field of physics from 1996 to 2010. In total, Perdew has five works among the 10 most-cited physics papers of the past 30 years.<ref>{{cite news|last=Hobgood Ray|first=Kathryn|title=Physics Professor Is One of World's Most Cited|url=http://tulane.edu/news/newwave/112910_perdew.cfm|accessdate=23 March 2014|newspaper=Tulane University New Wave|date=29 November 2010|url-status=dead|archiveurl=https://web.archive.org/web/20130912124234/http://tulane.edu/news/newwave/112910_perdew.cfm|archivedate=12 September 2013}}</ref>
+
+Many of Perdew's peers recognize his influence on the field of density functional theory. He was elected to the National Academy of Sciences (USA) in 2011. Upon naming Perdew as the recipient of the 2012 Materials Theory Award, the [[Materials Research Society]] cited Perdew's "pioneering contributions" that resulted in thousands of other researchers being able to perform DFT calculations and simulations.<ref name="Materials Award">{{cite web|title=Materials Research Society Bulletin|url=http://onlinedigeditions.com/article/Society_News/1198839/128833/article.html|publisher=Materials Research Society|accessdate=23 March 2014|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304004019/http://onlinedigeditions.com/article/Society_News/1198839/128833/article.html|url-status=dead}}</ref>
+
+==Honors and awards==
+
+John Perdew was elected to the [[National Academy of Sciences]] in 2011, and is one of 2,000 distinguished scientists from all fields that help advise the U.S. government on scientific policy.<ref>{{cite web|title=Perdew Chosen for Top Scientific Honor|url=https://tulane.edu/research/imagination/story-john-perdew.cfm|publisher=Tulane University|accessdate=23 March 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140825023742/http://tulane.edu/research/imagination/story-john-perdew.cfm|archivedate=25 August 2014}}</ref> Other notable awards and honors include:
+
+* 2003 Elected to the [[International Academy of Quantum Molecular Science]]<ref>{{cite web|title=John P. Perdew|url=http://www.iaqms.org/members/perdew.php|publisher=International Academy of Quantum Molecular Science|accessdate=23 March 2014}}</ref>
+* 2007 Outstanding Researcher Award from Tulane's School of Science and Engineering<ref name="Outstanding Researcher" />
+* 2009 April issue of ''[[Journal of Chemical Theory and Computation]]'' dedicated to Perdew in honor of his 65th birthday<ref name="Chemical Theory" />
+* 2009 Tulane University President's Awards for Excellence in Professional and Graduate Teaching<ref name="Teaching Award" />
+* 2012 Received Materials Theory Award from the Materials Research Society<ref name="Materials Award" />
+* 2015 Alexander von Humboldt Professorship
+* 2015 Doctor Honoris Causa, Budapest University of Technology and Economics
+* 2015 [[John Scott Medal]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Scholia|author}}
+* [https://phys.cst.temple.edu/~perdew/ John Perdew] {{Webarchive|url=https://web.archive.org/web/20200504123319/https://phys.cst.temple.edu/~perdew/ |date=2020-05-04 }} at Temple University Department of Physics
+* Temple University [https://phys.cst.temple.edu/~perdew/solid_state_density_function.html Center for Materials Theory] {{Webarchive|url=https://web.archive.org/web/20140323015148/https://phys.cst.temple.edu/~perdew/solid_state_density_function.html |date=2014-03-23 }}
+* [https://www.nasonline.org/directory-entry/john-p-perdew-rjwniy/ John Perdew] at National Academy of Sciences
+*[http://www.arxiv.org/find/hep-ph,cond-mat,physics,hep-th,hep-ex,gr-qc,hep-lat,nucl-th,nucl-ex,quant-ph,astro-ph,math-ph/1/au:+Perdew_J/0/1/0/all/0/1 arXiv.org preprints for J. Perdew]
+*[https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=john+perdew&as_publication=&as_ylo=&as_yhi=&btnG=&hl=en&as_sdt=0%2C11 search on author John Perdew] from [[Google Scholar]]
+
+{{authority control}}
+
+{{DEFAULTSORT:Perdew, John P.}}
+[[Category:Living people]]
+[[Category:1943 births]]
+[[Category:21st-century American physicists]]
+[[Category:Gettysburg College alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Tulane University faculty]]
+[[Category:Temple University faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:People from Cumberland, Maryland]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]

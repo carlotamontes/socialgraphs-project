@@ -1,0 +1,239 @@
+{{Short description|Italian-American physicist and inventor (born 1941)}}
+{{Use American English|date=September 2026}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox scientist
+| name              = Federico Faggin
+| image             = Federico Faggin (cropped).jpg
+| alt               = A photograph of Federico Faggin, taken in September 2011.
+| caption           = Faggin in September 2011
+| birth_date        = {{birth date and age|df=yes|1941|12|01}}
+| birth_place       = [[Vicenza]], Italy
+| death_date        = 
+| death_place       = 
+| citizenship       = {{hlist|Italy|United States}}
+| fields            = {{hlist|[[Physics]]|[[electrical engineering]]}}
+| workplaces        = {{ubli|[[Società Generale Semiconduttori|SGS-Fairchild]]|[[Fairchild Semiconductor]]|[[Intel]]|[[Zilog]]|[[Synaptics]]|[[Foveon]]}}
+| education         = [[University of Padua]] (''[[laurea]]'')
+| known_for         = {{Plainlist|
+* [[MOSFET|MOS]] [[silicon-gate]] technology
+* [[Intel 4004]]
+* [[Intel 8008]]
+* [[Intel 8080]]
+* [[Zilog Z80]]
+* Synaptics Touchpad
+* [[Touchscreen]]
+}}
+| awards            = {{Plainlist|
+* [[Marconi Prize]] (1988)
+* [[W. Wallace McDowell Award]] (1994)
+* [[Kyoto Prize]] (1997)
+* [[National Medal of Technology and Innovation]] (2009)
+* [[Computer History Museum]] Fellow (2009)
+* [[Enrico Fermi Prize]] by IFS (2014)
+}}
+| children          = 3
+}}
+'''Federico Faggin''' ({{IPA|it|fedeˈriːko fadˈdʒin}}, {{IPA|vec|faˈdʒiŋ|lang}}; born 1 December 1941) is an [[Italian-American]] physicist, engineer, inventor and entrepreneur. He is best known for designing the first commercial [[microprocessor]], the [[Intel 4004]]. He led the [[Intel 4004|4004 (MCS-4) project]] and the design group during the first five years of [[Intel]]'s microprocessor effort. Faggin also created, while working at [[Fairchild Semiconductor]] in 1968, the [[self-aligned gate|self-aligned]] MOS ([[MOSFET|metal–oxide–semiconductor]]) silicon-gate technology (SGT), which made possible MOS [[semiconductor memory|semiconductor memory chips]], [[Charge-coupled device|CCD]] [[image sensor]]s, and the [[microprocessor]]. After the 4004, he led development of the [[Intel 8008]] and [[Intel 8080|8080]], using his SGT methodology for random logic chip design, which was essential to the creation of early [[List of Intel processors|Intel microprocessors]]. He was co-founder (with [[Ralph Ungermann]]) and CEO of [[Zilog]], the first company solely dedicated to microprocessors, and led the development of the [[Zilog Z80]] and [[Zilog Z8|Z8]] processors.<ref>{{cite web|url=https://www.invent.org/inductees/federico-faggin | title= "Inductee Detail" |website=National Inventors Hall of Fame | date=2016-07-25 | access-date=2017-02-11}}</ref> He was later the co-founder and CEO of Cygnet Technologies, and then [[Synaptics]].
+
+In 2010, he received the 2009 [[National Medal of Technology and Innovation]], the highest honor the United States confers for achievements related to technological progress.<ref>{{cite web | url = http://www.intel4004.com/2009_national_medal.htm | title = "The 2009 National Medal of Technology and Innovation" | access-date=2017-02-11}}</ref> In 2011, Faggin founded the Federico and Elvia Faggin Foundation to support the scientific study of consciousness at US universities and research institutes. In 2015, the Faggin Foundation helped to establish a $1 million endowment for the Faggin Family Presidential Chair in the Physics of Information at [[University of California, Santa Cruz|UC Santa Cruz]] to promote the study of "fundamental questions at the interface of physics and related fields including mathematics, complex systems, biophysics, and cognitive science, with the unifying theme of information in physics."<ref>{{cite web|last1=Stephens|first1=Tim|title="Gift to UC Santa Cruz funds new presidential chair for physics of information"|url=http://news.ucsc.edu/2015/09/faggin-chair.html|website=UC Santa Cruz Newscenter|date=8 September 2015}}</ref>
+
+==Early life and education==
+Federico Faggin was born on 1 December 1941 in [[Vicenza]], [[Italy]], and grew up in an intellectual environment. His father, Giuseppe Faggin,<ref>{{Cite book|last = Gallippi| first = Angelo | title = ''Faggin, il padre del chip intelligente''| publisher = adnkronos libri|date = September 2002| location = Rome|pages = 10|language = it| isbn=88-7118-149-2}}</ref> was a scholar who wrote many academic books and translated, with commentaries, the Enneads of [[Plotinus]] from the original [[Ancient Greek|Greek]] into modern Italian. Federico had a strong interest in technology from an early age. He attended a [[technical school|technical high school]] in Vicenza, I.T.I.S. Alessandro Rossi, and later earned a ''[[laurea]]'' degree in [[physics]], ''[[summa cum laude]]'', from the [[University of Padua]].<ref>{{Cite book|last=Gallippi|first=Angelo|title=''Faggin, il padre del chip intelligente''|date=September 2002|publisher=adnkronos libri|isbn=88-7118-149-2|location=Rome|page=47|language=it}}</ref>
+
+==Career==
+===Olivetti R&D Labs===
+Faggin joined [[Olivetti]] at the age of 19. There he co-designed and led the implementation of a small digital transistor computer with 4 K × 12 bit of magnetic memory (1960).<ref name = "career">{{cite web | url = http://www.intel4004.com/faggin_career.htm | title = Federico Faggin Career Leading to the Design of the Intel 4004
+ | access-date=2017-02-11}}</ref> The Olivetti R&D department subsequently developed one of the world's first programmable desktop electronic calculators, the Olivetti [[Programma 101]] (1964).<ref>{{cite web|url=https://www.oldcalculatormuseum.com/c-programma101.html|title=Olivetti Programma 101 Electronic Calculator|website=The Old Calculator Web Museum|quote=technically, the machine was a programmable calculator, not a computer.}}</ref><ref>{{Cite web
+ | title= 2008/107/1 Computer, Programma 101, and documents (3), plastic / metal / paper / electronic components, hardware architect Pier Giorgio Perotto, designed by Mario Bellini, made by Olivetti, Italy, 1965–1971
+ | website= www.powerhousemuseum.com
+ | language= en
+ | url= https://www.powerhousemuseum.com/collection/database/?irn=378406
+ | access-date= 2016-03-20
+}}
+</ref><ref>{{cite web|url=https://www.oldcalculatormuseum.com/c-programma101.html|title=Olivetti Programma 101 Electronic Calculator|website=The Old Calculator Web Museum|quote=It appears that the Mathatronics Mathatron calculator {{sic|prec|eeded|nolink=y}} the Programma 101 to market.}}</ref> After this first work experience, Faggin studied physics at the University of Padua and taught the electronics laboratory course for 3rd year physics students in the academic year 1965–1966.
+
+===SGS-Fairchild===
+In 1967, Faggin joined SGS-Fairchild, an Italy-based joint venture between the Italian company [[Società Generale Semiconduttori]] and the American firm [[Fairchild Semiconductor]]. There, he pioneered the MOS [[Metal gate|metal-gate]] process technology and designed the first two commercial [[MOSFET|MOS]] integrated circuits. Impressed by his achievements, the company transferred Faggin to Fairchild's [[Palo Alto, California]] offices in February 1968. When Fairchild exited the joint venture, he accepted a job offer to stay on with Fairchild.
+
+===Fairchild Semiconductor===
+In Palo Alto, Faggin led the development of [[silicon-gate]] technology (SGT), designing its unique process architecture.<ref>See also: Faggin, F., Klein, T., and Vadasz, L. (1968). ''Insulated Gate Field Effect Transistor Integrated Circuits With Silicon Gates''. Paper presented by Faggin at the IEDM Conference, 23 October 1968</ref><ref>Faggin, F., Klein T. (1970). Silicon Gate Technology. Solid State Electronics, Vol. 13, pp.&nbsp;1125–1144.</ref><ref>{{Cite book |last=Gallippi |first=Angelo |title=''Faggin, il padre del chip intelligente'' |date=September 2002 |publisher=adnkronos libri |isbn=88-7118-149-2 |location=Rome |pages=45–55 |language=it}}</ref><ref>{{cite web |title="The MOS Silicon Gate Technology" |url=http://www.intel4004.com/mosgate.htm |access-date=2017-02-11}}</ref> SGT, a [[MOSFET]] with a silicon [[self-aligned gate]], became one of the most transformative advancements in microelectronics.
+
+SGT laid the foundation for all modern [[NMOS logic|NMOS]] and [[CMOS]] [[integrated circuit]]s. It enabled key innovations, including MOS semiconductor [[memory chip]]s, the first [[microprocessor]], and the first [[Charge-coupled device|CCD]] and [[EPROM]] with [[Floating-gate MOSFET|floating silicon gates]]. Replacing the earlier metal-gate MOS technology, SGT was rapidly adopted worldwide, and within a decade, it rendered [[bipolar transistor]]s-based integrated circuits obsolete.
+
+===Fairchild 3708===
+At Fairchild, Faggin designed the first commercial integrated circuit using [[silicon-gate]] technology with self-aligned [[MOSFET]] transistors: the Fairchild 3708.<ref name="electronics">{{Cite news |title=The New Wave: Silicon Gate IC's (cover) |format=[[JPG]] |date=29 September 1969 |publisher=[[Electronics (magazine)|Electronics]] |access-date=2012-04-18 |url=http://www.intel4004.com/images/elect_cov_pg1.jpg |at=[http://www.intel4004.com/images/elect_pg2_pg3.jpg pages 2 + 3], [http://www.intel4004.com/images/elect_pg4_pg5.jpg pages 4 + 5], [http://www.intel4004.com/images/elect_pg6_pg7.jpg pages 6 + 7]}}</ref> The 3708 was an 8-bit analog [[multiplexer]] with decoding logic, replacing the equivalent Fairchild 3705 that used [[metal gate|metal-gate]] technology. The 3708 was 5 times faster,<ref name="career" /> had 100 times less junction leakage and was much more reliable than the 3705, demonstrating the superiority of SGT over metal-gate MOS. See also: Faggin, F., Klein T. (1969). "A Faster Generation of MOS Devices With Low Threshold Is Riding The Crest of the New Wave, Silicon-Gate IC's". Electronics, 29 Sep. 1969.<ref name="electronics" />
+
+===Intel===
+[[File:Federico Faggin.jpg|right|thumb|Faggin at the Computer History Museum's 2009 Fellows Award event]]
+
+Federico Faggin joined Intel from Fairchild in 1970 as the project leader and designer of the MCS-4 family of microprocessors, which included the 4004, the world's first single-chip microprocessor.<ref>{{cite web|url=https://www.youtube.com/watch?v=Qt1PCLZAPyk  |archive-url=https://ghostarchive.org/varchive/youtube/20211221/Qt1PCLZAPyk |archive-date=2021-12-21 |url-status=live|title=Interview with Gordon Moore on First Microprocessor |publisher=[[YouTube]] |date=2014-02-19 |access-date=2017-01-02}}{{cbignore}}</ref> Fairchild was not taking advantage of the SGT and Faggin wanted to use his new technology to design advanced chips.
+
+The 4004 (1971) was made possible by the advanced capabilities of the silicon gate technology (SGT) being enhanced through the novel [[random logic]] chip design methodology that Faggin created at Intel. It was this new methodology, together with his several design innovations, that allowed him to fit the microprocessor in one small chip.<ref name="Gallippi 158–159">{{Cite book|last = Gallippi| first = Angelo | title = ''Faggin, il padre del chip intelligente''| publisher = adnkronos libri|date=September 2002| location = Rome|pages = 158–159|language = it| isbn=88-7118-149-2}}</ref><ref name="intel1">{{cite web|url=http://www.intel4004.com/mrld.htm |title=The New Methodology for Random Logic Design |website=Intel4004.com |access-date=2017-01-02}}</ref> A single-chip microprocessor – an idea that was expected to occur many years in the future – became possible in 1971 by using SGT with two additional innovations: (1) "buried contacts" that doubled the circuit density, and (2) the use of [[bootstrap load]]s with 2-phase clocks—previously considered impossible with SGT— that improved the speed 5 times, while reducing the chip area by half compared with metal-gate MOS.<ref>
+[https://archive.computerhistory.org/resources/text/Oral_History/Intel_8008/Intel_8008_1.oral_history.2006.102657982.pdf "Oral History Panel on the Development and Promotion of the Intel 8008 Microprocessor"].
+2006.
+p.8-9.
+</ref>
+
+The design methodology created by Faggin<ref name="intel1"/> was utilized for the implementation of all Intel's early microprocessors and later also for Zilog's [[Z80]].<ref>{{cite web|title=The Intel4004| publisher= Intel4004.com| url=http://www.intel4004.com/mrld.htm |access-date=2012-08-21}}</ref>
+
+The [[Intel 4004]] – a 4-bit CPU ([[central processing unit]]) on a single chip – was a member of a family of 4 custom chips designed for [[Busicom]], a Japanese calculator manufacturer. The other members of the family (constituting the MCS-4 family) were: the 4001, a 2k-bit metal-mask programmable ROM with programmable input-output lines; the 4002, a 320-bit dynamic RAM with a 4-bit output port; and the 4003, a 10-bit serial input and serial/parallel output, static shift register to use as an I/O expander.  Faggin promoted the idea of broadly marketing the MCS-4 to customers other than Busicom by showing Intel management how customers could design a control system using the 4004. He designed and built a 4004 tester using the 4004 as the controller of the tester, thus convincing Bob Noyce to renegotiate the exclusivity clause with Busicom that didn't allow Intel to sell the MCS-4 line to other customers.
+
+In 2009, the four contributors to the 4004 were inducted as Fellows of the Computer History Museum. [[Ted Hoff]], head of Application Research Department, formulated the architectural proposal and the instruction set with assistance from [[Stan Mazor]] and working in conjunction with Busicom's [[Masatoshi Shima]].  However, none of them was a chip designer and none was familiar with the new Silicon Gate Technology (SGT). The silicon design was the essential missing ingredient to making a microprocessor since everything else was already known. Federico Faggin led the project in a different department without Hoff's and Mazor's involvement. Faggin had invented the original SGT at Fairchild Semiconductor in 1968 and provided additional refinements and inventions to make possible the implementation of the 4004 in a single chip. With routine help from Shima, Faggin completed the chip design in January 1971.
+
+The '''Intel 2102A''' is a redesign of the Intel 2102 static RAM, where Federico Faggin introduced to Intel, for the first time, the depletion load, combining the silicon gate technology with ionic implantation.  The design was done toward the end of 1973 by Federico Faggin and Dick Pashley. The 2102A was 5 times faster than the 2102, opening a new direction for Intel.<ref>{{Cite book|last = Gallippi| first = Angelo | title = ''Faggin, il padre del chip intelligente''| publisher = adnkronos libri|date=September 2002| location = Rome|pages = 162–168|language = it| isbn=88-7118-149-2}}</ref>
+
+===Early Intel microprocessors===
+Faggin's silicon design methodology was used for implementing all Intel's early microprocessors.<ref name="Gallippi 158–159"/>
+
+The [[Intel 8008]] was the world's first single-chip 8-bit CPU and, like the 4004, was built with p-channel SGT. The 8008 development was originally assigned to Hal Feeney in March 1970 but was suspended until the 4004 was completed. It was resumed in January 1971 under Faggin's direction utilizing the basic circuits and methodology he had developed for the 4004, with Hal Feeney doing the chip design. The CPU architecture of the 8008 was originally created by [[Computer Terminal Corporation|CTC Inc.]] for the [[Datapoint 2200]] intelligent terminal, in which it was implemented in discrete IC logic.
+
+The [[Intel 4040]] microprocessor (1974) was a much improved, machine-code-compatible version of the 4004 CPU allowing it to interface directly with standard memories and I/O devices. Federico Faggin created the architecture of the 4040 and supervised Tom Innes who did the design work.
+
+The [[Intel 8080|8080]] microprocessor (1974) was the first high-performance 8-bit microprocessor in the market, using the faster n-channel SGT. The 8080 was conceived and architected by Faggin, and designed by [[Masatoshi Shima]] under Faggin's supervision.<ref name = "contract">{{cite web | url = http://www.intel4004.com/images/8080_review.jpg | title = Exempt performance and salary Review | format=JPG | access-date=2017-02-11}}</ref> The 8080 was a major improvement over the 8008 architecture, yet it retained software compatibility with it. It was much faster and easier to interface to external memory and I/O devices than the 8008. The high performance and low cost of the 8080 let developers use microprocessors for many new applications, including the forerunners of the personal computer.<ref>{{cite patent | inventor1-last = Faggin |  inventor1-first = Federico | inventor2-last = Shima |  inventor2-first = Masatoshi | inventor3-last = Mazor |  inventor3-first = Stanley | title = MOS computer employing a plurality of separate chips | issue-date = 1977 | patent-number = 4010449 | country-code = US}}</ref><ref>{{Citation | last = Faggin | first = Faggin | title = The MOS silicon gate technology and the first microprocessors | journal = Rivista del Nuovo Cimento | volume = 38 | issue = 12 | year = 2015 | pages = 575–620 | doi = 10.1393/ncr/i2015-10119-7 | bibcode = 2015NCimR..38..575F | url = https://www.sif.it/riviste/ncr/econtents/2015/038/12/article/0}}</ref>
+
+When Faggin left Intel at the end of 1974 to found Zilog with Ralph Ungermann, he was R&D department manager responsible for all MOS products, except for dynamic memories.<ref name="contract" />
+
+===Zilog===
+The [[Zilog Z80]] was the first microprocessor created by [[Zilog]], the first company entirely dedicated to microprocessors. It was started by Federico Faggin and Ralph Ungermann in November 1974. Faggin was Zilog's president and CEO until the end of 1980 and he conceived and designed the [[Z80]] CPU and its family of programmable peripheral components. He also co-designed the CPU whose project leader was [[Masatoshi Shima]].<ref>Shima M., Faggin F., Ungermann, R. (1976).'' Z80: Chip Set Heralds Third Microprocessor Generation.'' Electronics, 19 August 1976.</ref> 
+The Z80-CPU was a major improvement over the 8080, yet it retained software compatibility with it. Much faster and with more than twice as many registers and instructions of the 8080, it was part of a family of components that included several intelligent peripherals (the Z80-PIO, a programmable parallel input-output controller; the Z80-CTC, a programmable counter-timer; the Z80-SIO, programmable serial communications interface controller, and the Z80-DMA,<ref>{{Cite web |url=http://www.bitsavers.org/components/zilog/z80/Z80_DMA_Product_Specification_Feb80.pdf |title=Z80® DMA Direct Memory Access Controller |access-date=2024-01-08}}</ref> programmable [[direct memory access]] controller). This chip family allowed the design of powerful and low-cost microcomputers with performance comparable to minicomputers. The Z80-CPU had a substantially better bus structure and interrupt structure than the 8080 and could interface directly with dynamic RAM, since it included an internal memory-refresh controller. The Z80 was used in many of early [[personal computer]]s, as well as in [[video game]] systems such as the [[MSX]], [[ColecoVision]], [[Master System]]. The Z80 ceased production in 2024.
+
+The [[Zilog Z8]] micro controller (1978) was one of the first single-chip microcontrollers in the market. It integrated an 8-bit CPU, RAM, ROM and I/O facilities, sufficient for many control applications. Faggin conceived the Z8 in 1974, soon after he founded Zilog, but then decided to give priority to the Z80. The Z8 was designed in 1976–78 and ended production in 2024.<ref>{{Cite news |title=Zilog to end standalone sales of the legendary Z80 CPU: The processor that gave the world the ZX Spectrum and so much more is out of wafers |url=https://www.theregister.com/2024/04/22/z80_cpu_end_of_sales/ |date=22 April 2024 |author=Simon Sharwood}}</ref>
+
+===The Communication CoSystem===
+The Communication CoSystem (1984). The Cosystem was conceived by Faggin and designed and produced by Cygnet Technologies, Inc., the second startup company of Faggin. Attached to a personal computer and to a standard phone line, the CoSystem could automatically handle all the personal voice and data communications of the user, including electronic mail, database access, computer screen transfers during a voice communication, call record keeping, etc. The patent covering the CoSystem<ref>{{cite web |url=http://www.freepatentsonline.com/4524244.html |title=United States Patent 4524244: Digital and Voice Telecommunication Apparatus |author=Faggin, Federico |date=18 June 1985 |work=FreePatentsOnline |publisher=USPTO |access-date=8 August 2011|display-authors=etal}}</ref> is highly cited in the personal communication field.
+
+===Synaptics===
+In 1986 Faggin co-founded and was CEO of [[Synaptics]]<ref>{{cite web|title=Human Interface Technology Synaptics | url=http://www.synaptics.com |access-date=2017-02-11}}</ref> until 1999, becoming chairman from 1999 to 2009. Synaptics was initially dedicated to R&D in artificial neural networks for pattern-recognition applications using analog VLSI. Synaptics introduced the I1000, the world's first single-chip optical character recognizer in 1991. In 1994, Synaptics introduced the touchpad to replace the cumbersome trackball then in use in laptop computers. The touchpad was broadly adopted by the industry. Synaptics also introduced the early touchscreens that were eventually adopted for intelligent phones and tablets; applications that now dominate the market. Faggin came up with the general product idea and led a group of engineers who further refined the idea through many brainstorming sessions. Faggin is a co-inventor of ten patents assigned to Synaptics. He is chairman emeritus of Synaptics.
+
+===Foveon===
+During his tenure as president and CEO of [[Foveon]], from 2003 to 2008, Faggin revitalized the company and provided a new technological and business direction resulting in image sensors superior in all critical parameters to the best sensors of the competition, while using approximately half the chip size of competing devices.{{citation needed|date=May 2018}} Faggin also oversaw the successful acquisition of Foveon by the Japanese [[Sigma Corporation]] in November 2008.
+
+===Federico and Elvia Faggin Foundation===
+Founded in 2011 the "Federico and Elvia Faggin Foundation" supports the scientific study of consciousness at US universities and research institutes.  The purpose of the Foundation is to advance the understanding of consciousness through theoretical and experimental research.  Faggin's interest in consciousness has his roots in the study of artificial neural networks at Synaptics, a company he started in 1986, that prompted his inquiry into whether or not it is possible to build a conscious computer.<ref>{{cite web|url=http://www.fagginfoundation.org |title=Home |publisher=Faggin Foundation |date=2014-06-20 |access-date=2017-01-02}}</ref>
+
+==The theory of consciousness==
+In the book ''Irreducible'' - ''Consciousness, life, computers, and human nature'' (Essentia Books, 2024), Federico Faggin proposed a [[theory of consciousness]] according to which consciousness is a purely [[Quantum mechanics|quantum phenomenon]], unique to each of us. This theory is supported by two quantum physics theorems: the [[no-cloning theorem]] and [[Holevo's theorem]]. The first states that a pure quantum state is not reproducible; the second limits the amount of measurable information to one classical bit for each [[qubit]] that describes the state. Therefore, it is possible to postulate that a quantum system that is in a pure state is aware of its state, since conscious experiences ([[qualia]]) have all the essential properties of [[Quantum state#Eigenstates and pure states|pure states]], i.e., it is private knowledge only minimally knowable from the outside. However, the mathematical representation of the experience (the pure state) does not describe the experience, which remains private and knowable only from within by the system that is in that state. No classical machine can ever be conscious given that classical information is reproducible (program and data can be copied perfectly), while the quantum state is private. Consciousness is therefore not linked to the functioning of the body and can continue to exist even after the death of the body. The body behaves like a drone controlled "top down" by consciousness. The new D'Ariano-Faggin theory is based on the theoretical studies of Professor [[Giacomo Mauro D'Ariano|Giacomo D'Ariano]], who derived quantum theory from  principles based on [[information theory]], and on the experiential, philosophical and scientific studies of Federico Faggin on the nature of consciousness.<ref>{{Cite web |title=Federico Faggin. Irriducibile – Filosofia |url=https://www.raicultura.it/filosofia/articoli/2022/11/Federico-Faggin-Irriducibile--10f11b52-4e16-4b30-a8fb-200b353b933d.html |access-date=2023-04-27 |website=Rai Cultura |language=it}}</ref><ref>{{Citation |last=D’Ariano |first=Giacomo Mauro |chapter=Hard Problem and Free Will: An Information-Theoretical Approach |date=2022 |title=Artificial Intelligence Versus Natural Intelligence |pages=145–192 |editor-last=Penrose |editor-first=Roger |chapter-url=https://doi.org/10.1007/978-3-030-85480-5_5 |access-date=2025-07-09 |place=Cham |publisher=Springer International Publishing |language=en |doi=10.1007/978-3-030-85480-5_5 |isbn=978-3-030-85480-5 |last2=Faggin |first2=Federico |editor2-last=Severino |editor2-first=Emanuele |editor3-last=Scardigli |editor3-first=Fabio |editor4-last=Testoni |editor4-first=Ines}}</ref>
+
+==Personal life==
+Federico Faggin has a daughter, born 1970, and two sons, born 1979 and 1980, respectively.<ref name="hist">{{cite web |url=http://archive.computerhistory.org/resources/text/Oral_History/Faggin_Federico/Faggin_Federico_1_2_3.oral_history.2004.102658025.pdf |title=Oral History of Federico Faggin |last=Hendrie |first=Gardner |date=2006 |publisher=Computer History Museum |access-date=2017-01-24 |archive-url=https://web.archive.org/web/20170110232713/http://archive.computerhistory.org/resources/text/Oral_History/Faggin_Federico/Faggin_Federico_1_2_3.oral_history.2004.102658025.pdf |archive-date=10 January 2017 |url-status=dead}}</ref>
+
+==Original documents==
+===On the MOS silicon-gate technology (SGT) for IC and the Fairchild 3708 (the first application of SGT)===
+* [http://www.intel4004.com/papers.htm Faggin, F., Klein, T., and Vadasz, L.: ''Insulated Gate Field Effect Transistor Integrated Circuits with Silicon Gates'']. The Silicon Gate Technology with self-aligned gates was presented by its developer Federico Faggin at the IEEE International Electron Device Meeting on 23 October 1968, in Washington D.C. This new technology empowered the design of dynamic RAM memories, non-volatile memories, CCD sensors and the microprocessor.
+* [http://www.intel4004.com/papers.htm Federico Faggin and Thomas Klein.: "A Faster Generation of MOS Devices with Low Thresholds is Riding the Crest of the New Wave, Silicon-Gate IC's"]. The article published in ''Electronics'' (29 September 1969) introduces the Fairchild 3708, the world's first commercial integrated circuit using Silicon Gate Technology, designed by Federico Faggin at Fairchild in 1968.
+* F. Faggin, T. Klein: ''Silicon-Gate Technology''. "Solid State Electronics", 1970, Vol.&nbsp;13, pp.&nbsp;1125–1144
+
+===On the Intel 4004 microprocessor===
+* F. Faggin and M. E. Hoff: "Standard Parts and Custom Design Merge in a Four-chip Processor Kit". ''Electronics'', 24 April 1972
+* F. Faggin, et al.: "The MCS-4 An LSI [[Microcomputer]] System". ''IEEE 1972 Region Six Conference''.
+* Faggin, Federico; Capocaccia, F. "A New Integrated MOS Shift Register", Proceedings XV International Electronics Scientific Congress, Rome, April 1968, pp.&nbsp;143–152. This paper describes a novel static MOS shift register, developed at SGS-Fairchild (now ST Micro) at the end of 1967, before Federico Faggin joined Fairchild's R&D in Palo Alto (Ca) in February 1968. Faggin later used this new shift register in the MCS-4 chips, including the 4004.
+* [http://www.intel4004.com/sign.htm Initials F.F. (Federico Faggin) on the 4004 design (1971)]. The 4004 bears the initials F.F. of its designer, Federico Faggin, etched on one corner of the chip. Signing the chip was a spontaneous gesture of proud authorship and was also an original idea imitated after him by many Intel designers.
+* [https://www.computerhistory.org/revolution/digital-logic/12/285/1534 Busicom 141-PF Printing Calculator Engineering Prototype (1971)]. (Gift of Federico Faggin to the Computer History Museum, Mountain View, CA). The CHM collection catalog shows pictures of the engineering prototype of the Busicom 141-PF desktop calculator. The engineering prototype used the world's first microprocessor to have ever been produced. This one-of-a-kind prototype was a personal present by Busicom's president Mr. Yoshio Kojima to Federico Faggin for his successful leadership of the design and development of the 4004 and three other memory and I/O chips (the MCS-4 chipset). After keeping it in his home for 25 years, Faggin donated it to the CHM in 1996.
+
+==Publications==
+===Articles===
+* "The Birth of the Microprocessor" by Federico Faggin.  Byte, March 1992, vol.17, no.3, pp.&nbsp;145–150.
+* "The History of the 4004" by Federico Faggin, Marcian E. Hoff Jr., Stanley Mazor, [[Masatoshi Shima]].  IEEE Micro, December 1996, Volume 16 Number 6.
+* "The 4004 microprocessor of Faggin, Hoff, Mazor, and Shima". IEEE Solid State Circuits Magazine, Winter 2009, vol.1 no.1.
+* "The MOS silicon gate technology and the first microprocessors" by Federico Faggin. La Rivista del Nuovo Cimento, year 2015, issue 12-December. SIF (Italian Physical Society)
+* "How we made the microprocessor" by Federico Faggin. Nature Electronics, vol. 1, January 2018.  Published online: 8 January 2018
+* "Hard Problem and Free Will: an information-theoretical approach" by Giacomo Mauro D'Ariano and Federico Faggin. arXiv:2012.06580 28. January 2021
+
+===Books===
+* ''Silicon: From the Invention of the Microprocessor to the New Science of Consciousness'' by Federico Faggin. Waterside Productions (February 2021)
+* ''Artificial Intelligence Versus Natural Intelligence''. Springer International Publishing, January 2022
+* ''Irriducibile'' - ''La coscienza, la vita, i computer e la nostra natura'' by Federico Faggin. Mondadori (August 2022) "Sono convinto che quando capiremo che la fisica quantistica non descrive la realtà esteriore ma quella interiore essa cesserà di essere incomprensibile.”
+* ''Irreducible'' - ''Consciousness, life, computers, and human nature'', by Federico Faggin. Essentia Books 2024. 
+* ''Oltre l'invisibile. Dove scienza e spiritualità si uniscono''  Mondadori (June 2024).
+
+==Awards==
+{{Format|date=February 2022}}
+{{div col}}
+* 1988: [[Marconi Foundation|Marconi International Fellowship Award]] "for his pioneering contributions to the implementation of the microprocessor, a principal building block of modern telecommunications"<ref>{{cite web|url=http://www.marconisociety.org/fellows/bios/federico_faggin.html|title=The Marconi Society Fellows Biography - Federico Faggin|date=8 June 2010|access-date=1 December 2017|url-status=dead|archive-url=https://web.archive.org/web/20100608141555/http://www.marconisociety.org/fellows/bios/federico_faggin.html|archive-date=8 June 2010|df=dmy-all}}</ref><ref>{{cite news|last=Henkel|first=Robert W.|title = It takes time, but justice does triumph (Editor's Letter)|newspaper=Electronics|location=New York|page=3|date = 14 April 1988}}</ref>
+* 1988: Gold Medal for Science and Technology from the Italian Prime Minister
+* 1988: title of "Grande Ufficiale" from the President of the Italian Republic
+* 1994: [[W. Wallace McDowell Award]] "For the development of the Silicon Gate Process, and the first commercial microprocessor."<ref>{{cite web|url=http://www2.computer.org/portal/web/awards/wallace|title=Wallace McDowell|date=12 October 2009|access-date=1 December 2017|url-status=dead|archive-url=https://web.archive.org/web/20091012142312/http://www2.computer.org/portal/web/awards/wallace|archive-date=12 October 2009|df=dmy-all}}</ref>
+* 1994: Laurea honoris causa in Computer Science from the [[University of Milan]] (Italy).
+* 1996: Ronald H. Brown American Innovator Award, with [[Marcian Hoff|M. Hoff]] and [[Stanley Mazor|S. Mazor]]
+* 1996: a Lifetime Achievement Award by P.C. Magazine for "technical excellence".<ref>{{cite web|last=Miller |first=Michael J. |url=http://forwardthinking.pcmag.com/none/290586-the-microprocessor-turns-40 |title=The Microprocessor Turns 40 &#124; PCMag.com |website=Forwardthinking.pcmag.com |date=2011-11-15 |access-date=2017-01-02}}</ref>
+* 1996: inducted into [[National Inventors Hall of Fame]],<ref>{{cite web |url=http://invent.org/inductee-detail/?IID=55 |title=Inductee Detail &#124; National Inventors Hall of Fame |website=Invent.org |date=2014-06-20 |access-date=2017-01-02 |archive-url=https://web.archive.org/web/20160924015734/http://invent.org/inductee-detail/?IID=55 |archive-date=24 September 2016 |url-status=dead }}</ref> with M. Hoff and S. Mazor 
+* 1997: [[Kyoto Prize]], with [[Marcian Hoff|M. Hoff]], S. Mazor and M. Shima
+* 1997: George R. Stibitz Computer Pioneer Award by the [[American Computer & Robotics Museum]], with M. Hoff and S. Mazor.<ref>{{Cite web|url=https://acrmuseum.org/1997|title = Stibitz-Wilson Awards 1997}}</ref>
+* 1997: Masi Civilta' Veneta Prize
+* 2001: Dr. Robert Noyce Memorial Award by the Semiconductor Industry Association, with M. Hoff and S. Mazor
+* 2002: Laurea honoris causa in Electronic Engineering from the [[University of Rome Tor Vergata]] (Italy)<ref>{{cite web|url=https://web.uniroma2.it/it/contenuto/lauree_honoris_causa-2592|title=Lauree Honoris Causa|language=it|website=Tor Vergata|date=6 May 2016|access-date=18 July 2024}}</ref>
+* 2003: AeA/[[Stanford University|Stanford]] Executive Institute Award for Outstanding Achievement in the High Tech Industry by an Alumnus<ref>{{cite press release|url=http://www.businesswire.com/news/home/20030820005039/en/Synaptics-Co-Founder-Chairman-Board-Receives-AeAStanford-Executive |title=Synaptics Co-Founder and Chairman of the Board Receives AeA/Stanford Executive Institute Alumnus Award |publisher=[[Business Wire]] |date=2003-08-20 |access-date=2017-01-02}}</ref>
+* 2006: [[European Inventor of the Year]] Lifetime Achievement Award by EPO (European Patent Office)
+* 2007: Laurea honoris causa in Electronic Engineering from the [[University of Pavia]] (Italy)<ref>{{cite web|author=Pubblicato da Andrea Rossetti |url=https://fildir.blogspot.com/2007/09/lauree-honoris-causa-alluniversit-di.html |title=(Filosofia e Informatica) Giuridica: Lauree honoris causa all'Università di Pavia |website=Fildir.blogspot.com |access-date=2017-01-02}}</ref>
+* 2008: Laurea honoris causa in Electronic Engineering from the [[University of Palermo]] (Italy)
+* 2009: Laurea honoris causa in Computer Sciences from the [[University of Verona]] (Italy)<ref>{{cite web |url=http://www.univr.it/documenti/Documento/allegati/allegati787823.pdf |title=Federico Faggin |website=Univr.it |access-date=2017-01-02 |archive-date=31 July 2013 |archive-url=https://web.archive.org/web/20130731224807/http://www.univr.it/documenti/Documento/allegati/allegati787823.pdf |url-status=dead }}</ref>
+* 2009: Fellow of the [[Computer History Museum]] "for his work as part of the team that developed the Intel 4004, the world's first commercial microprocessor."<ref>{{cite web
+ |url         = https://www.computerhistory.org/fellowawards/hall/bios/Federico,Faggin/
+ |title       = Federico Faggin
+ |publisher   = Computer History Museum
+ |access-date  = 2013-05-23
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20130509235621/http://www.computerhistory.org/fellowawards/hall/bios/Federico,Faggin/
+ |archive-date = 9 May 2013
+ |df          = dmy-all
+}}</ref>
+* 2009: [[National Medal of Technology and Innovation]] from U.S. President [[Barack Obama]]<ref>{{cite web|url=http://www.uspto.gov/about/nmti/recipients/2009.jsp |title=National Medal of Technology and Innovation (NMTI) &#124; USPTO |website=Uspto.gov |date=2007-08-09 |access-date=2017-01-02}}</ref>
+* 2011: The 2011 George R. Stibitz Lifetime Achievement Award by the American Computer Museum (Bozeman, MT):<ref>{{cite web|url=http://www.compustory.com/PreviousAwardees.html|title=Previous Awardees|date=29 June 2010|access-date=1 December 2017|url-status=dead|archive-url=https://web.archive.org/web/20100629143704/http://www.compustory.com/PreviousAwardees.html|archive-date=29 June 2010|df=dmy-all}}</ref> "For foundational contributions to the development of the modern technological world, including the MOS silicon gate technology that led to the realization of the world's first Microprocessor in 1971."
+* 2019: [[Knight Grand Cross of the Order of Merit of the Italian Republic]] from the President of the Italian Republic [[Sergio Mattarella]]<ref>{{cite web|url=https://www.quirinale.it/onorificenze/insigniti/360244 |title=Cavaliere di Gran Croce Ordine al Merito della Repubblica Italiana |website=www.quirinale.it |date=2019-11-27 |access-date=2020-05-27}}</ref>
+{{div col end}}
+
+Source for the above-mentioned awards:<ref>the book written by Angelo Gallippi titled: ''Faggin, Il padre del chip intelligente'' (Faggin, the father of the intelligent chip).  Editor Adnkronos, Rome, first edition September 2002, covers the above-mentioned awards (pp.&nbsp;279–285).  Its second edition, February 2012, titled ''Federico Faggin, il padre del microprocessore'' (Federico Faggin, the father of the microprocessor).  Editor Tecniche nuove, Milan, covers also the topic of Faggin's interest in consciousness and his ''Federico and Elvia Faggin Foundation'' (pp.&nbsp;182–187).  Angelo Gallippi, a physicist, has been teaching Scientific and Technical Communication at the University ''La Sapienza'' in Rome.  He is author of a dozen books and of an English-Italian Dictionary of informatics and multimedia (text translated from book cover in Italian)</ref>
+
+* 2012: Global Information Technology Award from the President of [[Armenia]].<ref>{{cite web|url=https://globalitaward.am/en/laureates/federico-faggin|title=Global IT Award Laureates}}</ref>
+* 2012: Honorary PhD from the Polytechnic University (Armenia)
+* 2012: Premio Franca Florio, given by Ministro Francesco Profumo and Prof. Ing. Patrizia Livreri
+* 2013: Honorary PhD in science from Chapman University (CA)<ref>{{cite web|url=http://ibc.chapman.edu/Mediasite/Play/0e85bffe0c8646488c679301a15184c01d|title=Mediasite Player Loading|date=2 September 2013|access-date=1 December 2017|url-status=dead|archive-url=https://web.archive.org/web/20130902075936/http://ibc.chapman.edu/Mediasite/Play/0e85bffe0c8646488c679301a15184c01d|archive-date=2 September 2013|df=dmy-all}}</ref>
+* 2014: Enrico Fermi Award, given by the Italian Society of Physics: "For the invention of the MOS silicon gate technology that led him to the realization in 1971 of the first modern microprocessor."
+* 2018: 2018 IEEE Italy Section Honorary Award to Federico Faggin for his outstanding contributions to the self aligned MOS silicon gate theory & technology and to the development of the first microprocessor
+* 2018: 2018 AAAS Fellow by the American Association for the Advancement of Science
+* 2019: PhD (Dottorato di ricerca) honoris causa in computer engineering from the University of Pisa (Italy) [[Università di Pisa]].
+* 2023: Sigillum Magnum from the University of Bologna
+
+==See also==
+* [[List of pioneers in computer science]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* the autobiography book: "Silicon: From the Invention of the Microprocessor to the New Science of Consciousness" 2019 - https://www.amazon.com/Silicon-Invention-Microprocessor-Science-Consciousness-ebook/dp/B08W742297
+* [http://www.intel4004.com/ The Intel 4004 Microprocessor and the Silicon Gate Technology, A testimonial from Federico Faggin, designer of the 4004 and developer of its enabling technology] – Federico Faggin personally gives details, history and nitty-gritty details about the Intel 4004's development and his inventions, innovations and ideas that made it all possible.
+* [https://www.foveon.com/article.php?a=65 "Executive Profile"] from Foveon.com
+* [https://www.ieeeghn.org/wiki/index.php/Federico_Faggin IEEE Global History Network Biography of Federico Faggin]
+* [https://web.archive.org/web/20140109062749/http://archive.computerhistory.org/resources/access/text/2012/07/102658025-05-01-acc.pdf Oral History of Federico Faggin] [[Computer History Museum]]. Recorded 2004–05
+* [https://www.computerhistory.org/collections/accession/X1320.97 Busicom Calculator Engineering Prototype] (Gift of Federico Faggin to the Computer History Museum, Mountain View, California).
+* {{YouTube|RNpdQToWPOk|Video of the Intel Intellec 4 microcomputer}}
+* [https://web.archive.org/web/20111117034801/http://freepress.intel.com/community/news/blog/2011/11/03/computers-still-no-match-for-human-intelligence "Computers Still No Match for Human Intelligence"] Video and article interview with Federico Faggin 40 years after the release of the Intel 4004 microprocessor
+
+{{Zilog}}
+{{Authority control}}
+
+{{DEFAULTSORT:Faggin, Federico}}
+[[Category:1941 births]]
+[[Category:20th-century American businesspeople]]
+[[Category:20th-century American engineers]]
+[[Category:American computer scientists]]
+[[Category:European Inventor Award winners]]
+[[Category:20th-century Italian businesspeople]]
+[[Category:Italian computer scientists]]
+[[Category:Italian emigrants to the United States]]
+[[Category:20th-century Italian engineers]]
+[[Category:20th-century Italian inventors]]
+[[Category:Intel people]]
+[[Category:Kyoto laureates in Advanced Technology]]
+[[Category:Living people]]
+[[Category:MOSFETs]]
+[[Category:Knights Grand Cross of the Order of Merit of the Italian Republic]]
+[[Category:National Medal of Technology recipients]]
+[[Category:People from Vicenza]]
+[[Category:Silicon Valley people]]
+[[Category:University of Padua alumni]]
+[[Category:Zilog people]]
+[[Category:Quantum mind]]

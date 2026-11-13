@@ -1,0 +1,89 @@
+{{Short description|American chemist}}
+{{Like resume|date=January 2022}}
+{{Infobox scientist
+| name        = Professor Stefan Bernhard
+| image       = Stefan Bernhard Jan 2009.jpg
+| caption     = Bernhard, January 2009
+| birth_date  = {{birth date and age|1966|6|02}}
+| birth_place = [[Bern]], [[Switzerland]]
+}}
+
+'''Stefan Bernhard''' (born 1966) is a Swiss scientist who has worked in fields related to the interaction between light and [[transition metal complex]]es. His involvement in the prediction, generation, and spectroscopy of [[Circular polarization|circularly polarized]] luminescence from synthesized [[Chirality (chemistry)|chiral]] [[phosphors]] have significantly advanced the state-of-the-art in this relatively young sub-field of photophysical chemistry.<ref>{{cite journal
+| title      = Synthesis, Separation, and Circularly Polarized Luminescence Studies of Enantiomers of Iridium(III) Luminophores
+| journal       =  Inorganic Chemistry
+|volume = 47| issue       = 6
+| pages       = 2039–2048
+| last1       = Oyler
+| first1      = Karl
+| last2      = Coughlin
+| first2     = Frederick
+| last3      = Bernhard
+| first3     = Stefan
+| last4      = Westrol
+| first4     = Michael
+| date       = 2008-02-14
+| doi      = 10.1021/ic701747j
+| pmid       = 18271527
+}}</ref><ref>{{cite journal
+| title      = Controlling the Helicity of 2,2'-Bipyridyl Ruthenium(II) and Zinc(II) Hemicage Complexes
+| journal       =  Journal of the American Chemical Society
+|volume = 129| issue       = 1
+| pages       = 210–217
+| last1       = Oyler
+| first1      = Karl
+| last2      = Coughlin
+| first2     = Frederick
+| last3      = Bernhard
+| first3     = Stefan
+| date       = 2006-12-09
+| doi      = 10.1021/ja067016v
+| pmid       = 17199301
+}}</ref>  Other contributions involve work in [[artificial photosynthesis]] and [[organic light-emitting diode]]s.
+
+==Contributions==
+'''Circularly Polarized Luminescence Spectroscopy (CPL)'''<ref>{{Cite journal |last1=Riehl |first1=James P. |last2=Richardson |first2=Frederick S. |date=1986-02-01 |title=Circularly polarized luminescence spectroscopy |url=https://pubs.acs.org/doi/abs/10.1021/cr00071a001 |journal=Chemical Reviews |volume=86 |issue=1 |pages=1–16 |doi=10.1021/cr00071a001 |issn=0009-2665|url-access=subscription }}</ref>
+
+Capable of measuring dissymmetry factors of even weakly luminescent materials to within a reported error as small as 10<sup>−6</sup>,<ref>{{Cite journal |last1=Oyler |first1=Karl D. |last2=Coughlin |first2=Frederick J. |last3=Bernhard |first3=Stefan |date=2007-01-01 |title=Controlling the Helicity of 2,2'-Bipyridyl Ruthenium(II) and Zinc(II) Hemicage Complexes |url=https://pubs.acs.org/doi/abs/10.1021/ja067016v |journal=Journal of the American Chemical Society |volume=129 |issue=1 |pages=210–217 |doi=10.1021/ja067016v |pmid=17199301 |bibcode=2007JAChS.129..210O |issn=0002-7863|url-access=subscription }}</ref> the home-built CPL spectrometer created and used by the Bernhard lab is more sensitive than any previously demonstrated CPL spectrometer. In addition, it was shown that CPL dissymmetry factors can be predicted computationally<ref>{{Cite journal |last1=Coughlin |first1=Frederick J. |last2=Westrol |first2=Michael S. |last3=Oyler |first3=Karl D. |last4=Byrne |first4=Neal |last5=Kraml |first5=Christina |last6=Zysman-Colman |first6=Eli |last7=Lowry |first7=Michael S. |last8=Bernhard |first8=Stefan |date=2008-03-01 |title=Synthesis, Separation, and Circularly Polarized Luminescence Studies of Enantiomers of Iridium(III) Luminophores |url=https://pubs.acs.org/doi/abs/10.1021/ic701747j |journal=Inorganic Chemistry |volume=47 |issue=6 |pages=2039–2048 |doi=10.1021/ic701747j |pmid=18271527 |issn=0020-1669|url-access=subscription }}</ref> over a diverse sampling of known luminophore architectures, validating a new and facile tool for directing synthetic efforts in the search for anisotropic emitters.
+
+'''[[Artificial photosynthesis]]'''
+
+Efforts in this field have focused on solution-based water photolysis. Breaking the problem into smaller components, the Bernhard lab has distinguished its efforts in photosensitization,<ref>{{Cite journal |last1=Goldsmith |first1=Jonas I. |last2=Hudson |first2=William R. |last3=Lowry |first3=Michael S. |last4=Anderson |first4=Timothy H. |last5=Bernhard |first5=Stefan |date=2005-05-25 |title=Discovery and High-Throughput Screening of Heteroleptic Iridium Complexes for Photoinduced Hydrogen Production |url=https://pubs.acs.org/doi/abs/10.1021/ja0427101 |journal=Journal of the American Chemical Society |volume=127 |issue=20 |pages=7502–7510 |doi=10.1021/ja0427101 |pmid=15898800 |bibcode=2005JAChS.127.7502G |issn=0002-7863|url-access=subscription }}</ref><ref>{{Cite journal |last1=Lowry |first1=Michael S. |last2=Goldsmith |first2=Jonas I. |last3=Slinker |first3=Jason D. |last4=Rohl |first4=Richard |last5=Pascal |first5=Robert A. |last6=Malliaras |first6=George G. |last7=Bernhard |first7=Stefan |date=2005-11-01 |title=Single-Layer Electroluminescent Devices and Photoinduced Hydrogen Production from an Ionic Iridium(III) Complex |url=https://pubs.acs.org/doi/abs/10.1021/cm051312+ |journal=Chemistry of Materials |volume=17 |issue=23 |pages=5712–5719 |doi=10.1021/cm051312+ |issn=0897-4756|url-access=subscription }}</ref><ref>{{Cite web |date=2013-01-05 |title=Visible Light Induced Catalytic Water Reduction without an Electron R… |url=http://www3.interscience.wiley.com/journal/114295454/abstract?CRETRY=1&SRETRY=0 |archive-url=https://archive.today/20130105064500/http://www3.interscience.wiley.com/journal/114295454/abstract?CRETRY=1&SRETRY=0 |url-status=dead |archive-date=2013-01-05 |access-date=2025-02-21 }}</ref><ref>{{Cite journal |last1=Curtin |first1=Peter N. |last2=Tinker |first2=Leonard L. |last3=Burgess |first3=Christine M. |last4=Cline |first4=Eric D. |last5=Bernhard |first5=Stefan |date=2009-11-16 |title=Structure−Activity Correlations Among Iridium(III) Photosensitizers in a Robust Water-Reducing System |url=https://pubs.acs.org/doi/abs/10.1021/ic9007763?prevSearch=eric+cline+stefan+bernhard&searchHistoryKey=& |journal=Inorganic Chemistry |volume=48 |issue=22 |pages=10498–10506 |doi=10.1021/ic9007763 |pmid=19606847 |issn=0020-1669|url-access=subscription }}</ref><ref>{{Cite journal |last1=Tinker |first1=Leonard L. |last2=Bernhard |first2=Stefan |date=2009-11-16 |title=Photon-Driven Catalytic Proton Reduction with a Robust Homoleptic Iridium(III) 6-Phenyl-2,2′-bipyridine Complex ([Ir(C/\N/\N)2]+) |url=https://pubs.acs.org/doi/abs/10.1021/ic900777g?prevSearch=eric+cline+stefan+bernhard&searchHistoryKey=& |journal=Inorganic Chemistry |volume=48 |issue=22 |pages=10507–10511 |doi=10.1021/ic900777g |pmid=19606846 |issn=0020-1669|url-access=subscription }}</ref> water photoreduction catalysis,<ref>{{Cite journal |last1=Cline |first1=Eric D. |last2=Adamson |first2=Samantha E. |last3=Bernhard |first3=Stefan |date=2008-11-17 |title=Homogeneous Catalytic System for Photoinduced Hydrogen Production Utilizing Iridium and Rhodium Complexes |url=https://pubs.acs.org/doi/abs/10.1021/ic800988b?prevSearch=eric+cline+stefan+bernhard&searchHistoryKey=& |journal=Inorganic Chemistry |volume=47 |issue=22 |pages=10378–10388 |doi=10.1021/ic800988b |pmid=18939819 |issn=0020-1669|url-access=subscription }}</ref> and water oxidation catalysis.<ref>{{Cite journal |last1=McDaniel |first1=Neal D. |last2=Coughlin |first2=Frederick J. |last3=Tinker |first3=Leonard L. |last4=Bernhard |first4=Stefan |date=2008-01-01 |title=Cyclometalated Iridium(III) Aquo Complexes: Efficient and Tunable Catalysts for the Homogeneous Oxidation of Water |url=https://pubs.acs.org/doi/abs/10.1021/ja074478f |journal=Journal of the American Chemical Society |volume=130 |issue=1 |pages=210–217 |doi=10.1021/ja074478f |pmid=18062690 |bibcode=2008JAChS.130..210M |issn=0002-7863|url-access=subscription }}</ref><ref>{{Cite journal |last1=Sartorel |first1=Andrea |last2=Carraro |first2=Mauro |last3=Scorrano |first3=Gianfranco |last4=Zorzi |first4=Rita De |last5=Geremia |first5=Silvano |last6=McDaniel |first6=Neal D. |last7=Bernhard |first7=Stefan |last8=Bonchio |first8=Marcella |date=2008-04-01 |title=Polyoxometalate Embedding of a Tetraruthenium(IV)-oxo-core by Template-Directed Metalation of [γ-SiW10O36]8−: A Totally Inorganic Oxygen-Evolving Catalyst |url=https://pubs.acs.org/doi/abs/10.1021/ja077837f |journal=Journal of the American Chemical Society |volume=130 |issue=15 |pages=5006–5007 |doi=10.1021/ja077837f |pmid=18345628 |bibcode=2008JAChS.130.5006S |issn=0002-7863|url-access=subscription }}</ref> These contributions consist primarily of advancement beyond prior art in catalyst longevity and electronic control.
+
+'''Organic light emitting devices'''
+
+The primary outcome of work in this field has been ionic transition metal complex devices with improved turn-on times, achieved by A) [http://pubs.acs.org/doi/abs/10.1021/cm050314r employing ionic liquids], or B) [http://cat.inist.fr/?aModele=afficheN&cpsidt=20000207 attaching cationic tails of varying lengths to the luminophores].
+
+==Education==
+
+* '''Lab Technician Apprenticeship''' ''(1982-1985)'' at [http://everything2.com/title/Tobler Suchard Tobler Chocolates]
+* '''Diploma in Chemical Engineering''' ''(1985-1988)'' from the School of Engineering in [[Burgdorf, Switzerland]]
+* '''Diploma in Chemistry''' ''(1988-1993)'' from the [[University of Fribourg]], Switzerland
+* '''Doctorate of Philosophy in Chemistry''' ''(1993-1996)'' from the [[University of Fribourg]] for "synthesis and properties of [[adamantane]] bridged diimine ligands and their Ru(II) and Os(II) complexes" under Prof. Dr. [http://www.chem.unifr.ch/pb/ Peter Belser]
+* '''Postdoctoral Research Associate''' ''(1996-1998)'' at [[Los Alamos National Laboratory]] under Dr. Jon Schoonover.  Supported by fellowships from the [[Swiss National Science Foundation]] and the Novartis Foundation
+* '''Postdoctoral Research Associate''' ''(1998-2002)'' at [[Cornell University]] under Prof. Dr. [[Héctor D. Abruña]].  Supported by the Swiss National Science Foundation Fellowship for Advanced Researchers
+
+==Career==
+
+* '''Assistant Professorship''' ''(2002-2009)'' in the Department of Chemistry at [[Princeton University]].  During this assignment, Prof. Dr. Bernhard was awarded A) the Dreyfus New Faculty award, B) the NSF Career award, and C) Princeton's graduate mentoring award, as well as endorsement for promotion from Princeton's existing chemistry faculty.
+* '''Associate Professorship''' ''(2009-present)'' in the Department of Chemistry at [[Carnegie Mellon University]].<ref>{{cite web
+| url        = http://www.chem.cmu.edu/groups/bernlab/
+| title      = Bernlab: Chemistry With a Twist
+| accessdate = 2014-08-16
+}}</ref>
+
+==Collaborations==
+
+* [https://web.archive.org/web/20031016010712/http://people.ccmr.cornell.edu/~george/ George Malliaras, Cornell University]
+* [http://www.princeton.edu/mae/people/faculty/craigarnold/ Craig Arnold, Princeton University]
+* [https://web.archive.org/web/20091212061957/http://www.itm.cnr.it/Marcella%20Bonchio.htm Marcella Bonchio, University of Padova]
+* [http://www.princeton.edu/che/people/faculty/loo/ Lynn Loo, Princeton University]
+* [http://www.ucd.ie/research/people/chemistrychemicalbiology/professormartinalbrecht/ Martin Albrecht, UC Dublin]
+
+==References==
+{{reflist}}{{authority control}}
+
+{{DEFAULTSORT:Bernhard, Stefan}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:21st-century American chemists]]

@@ -1,0 +1,128 @@
+{{short description|American musician (born 1934)}}
+
+{{Use shortened footnotes|date=November 2020}}
+
+{{Infobox person
+| name               = John Chowning
+| image              = Chowning.jpg
+| caption            = 
+| birth_name         = John M. Chowning
+| birth_date         = {{birth date and age|1934|8|22}}
+| birth_place        = [[Salem, New Jersey]], U.S.
+| occupation         = Composer<br />Musician<br />Inventor
+| education          = [[Stanford University]]
+| spouse             = 
+| relatives          = 
+}}
+
+'''John M. Chowning''' ({{IPAc-en|ˈ|tʃ|aʊ|n|ɪ|ŋ}}; born August 22, 1934) is an American composer and acoustician. He is best known for developing a digital implementation of [[frequency modulation synthesis]].
+
+==Technical innovations==
+Chowning is known for having developed the frequency modulation (FM) synthesis algorithm in 1967.{{sfn|Johnstone|1994}}{{sfn|Schottstaedt|n.d.}}{{sfn|Chowning|1973}} In FM synthesis, one audio wave modulates the frequency of another, producing a resultant sound that can be periodic or non-periodic depending upon the ratio of their frequencies. He spent six years turning his breakthrough into a system of musical importance and eventually was able to simulate a large number of musical sounds. In 1974, [[Stanford University]] licensed the discovery to [[Yamaha Corporation|Yamaha]],{{sfn|Mattis|2001}} with whom Chowning worked in developing a family of synthesizers and organs. This was Stanford's most lucrative patent at one time.{{sfn|Pinch|Trocco|2004|loc={{Page needed|date=July 2020}}}}
+
+The first commercial musical instrument to incorporate FM synthesis was the [[Synclavier]] I, introduced by [[New England Digital]] in 1977. Their Synclavier II, introduced in 1980, was frequently used in the production of popular music beginning that year. The first Yamaha product to incorporate the FM algorithm was the GS1, a digital synthesizer that first shipped in 1981. Yamaha introduced their first commercially successful FM synthesizer, the much less expensive [[Yamaha DX7|DX7]], in 1983. The DX7 was used on a host of popular songs throughout the 1980s, including [[Prince (musician)|Prince]]'s "[[When Doves Cry]]", [[A-ha]]'s "[[Take On Me]]", [[George Michael]]’s "[[Careless Whisper]]", and [[Sade (singer)|Sade]]’s "[[Smooth Operator]]". It has also been used extensively by composer [[Brian Eno]].<ref>{{Cite news |last=Monroe |first=Jazz |date=2024-10-09 |title=John Chowning, godfather of digital pop: 'My wife told me: I didn't think I'd have to compete with a computer' |url=https://www.theguardian.com/music/2024/oct/09/john-chowning-godfather-of-digital-pop-my-wife-told-me-i-didnt-think-id-have-to-compete-with-a-computer |access-date=2024-10-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+Another important aspect of Chowning's work is [[sound spatialization]].{{sfn|Chowning|1970}} Chowning developed an influential spatialization algorithm during the decade between 1962 and 1972. This period coincides with his initial years at Stanford University, first as a graduate student and later as assistant professor, an exceptional historical period during which he built a series of important collaborations with [[Leland Smith]], [[Max Mathews]], [[Manfred R. Schroeder]], [[Karlheinz Stockhausen]], David Poole, Andy Moorer, who all influenced his work.<ref>Zattra – Féron 2024b, pp.357–390.</ref><ref>Ibidem.</ref> In 1972, in his composition ''Turenas'', he was first able to create the illusion of a continuous 360-degree space using [[quadraphonic sound]].{{sfn|Mattis|2001}}
+
+==Early life==
+The first instrument Chowning learned was the violin, which he picked up after finding one in the attic of his family home; he then studied drums in high school. The [[Korean War]] had begun by the time he graduated, and instead of enlisting, Chowning auditioned for the [[United States Armed Forces School of Music|Navy School of Music]], which led to him performing in an 18-piece band on a Mediterranean aircraft carrier.<ref>{{Cite news |last=Monroe |first=Jazz |date=2024-10-09 |title=John Chowning, godfather of digital pop: 'My wife told me: I didn't think I'd have to compete with a computer' |url=https://www.theguardian.com/music/2024/oct/09/john-chowning-godfather-of-digital-pop-my-wife-told-me-i-didnt-think-id-have-to-compete-with-a-computer |access-date=2024-10-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> After the war, Chowning graduated from [[Wittenberg University]] with a [[Bachelor of Music]] degree in 1959.{{sfn|Nelson|2015|loc=19}} He studied music composition with [[Nadia Boulanger]] in Paris from 1959 to 1961 before enrolling at Stanford, where he received his [[Doctor of Musical Arts]] degree in 1966, studying under [[Leland Smith]]. He was the founding director of the Center for Computer Research in Music and Acoustics ([[CCRMA]]) at Stanford, established in 1975.{{sfn|Mattis|2001}}
+
+Chowning also worked for a number of years at [[IRCAM]] in Paris, and he and CCRMA were influential reference points in the founding of the French centre, with Chowning having repeated meetings and exchanges with [[Pierre Boulez]] in the 1970s.<ref>Féron – Zattra 2023, pp.123–132.</ref><ref>Féron – Zattra 2024a, pp.173–187.</ref>
+
+==Compositions==
+One of Chowning's most famous pieces is called ''[[Stria (composition)|Stria]]'' (1977). It was commissioned by IRCAM for the Institute's first major concert series called ''Perspectives of the 20th Century''. His composition was noted for its inharmonic sounds due to his famous FM algorithm and his use of the [[golden ratio|golden mean]] in music. With ''Phoné'' (1980–1981), he became the first to put FM over [[speech synthesis]].{{sfn|Anon.|2001}}
+
+=== List of works ===
+* ''Sabelithe'' (1966, revised 1971)
+* ''Turenas'', (1972)
+* ''Stria'' (1977)
+* ''Phoné'' (1980–1981)
+* ''Voices'' (2005)
+
+==Awards & Honors==
+* [https://computerhistory.org/about/awards/fellow-awards/ Computer History Museum Fellow Award] (2026)<ref>{{Cite web |date=2026-01-09 |title=John Chowning |url=https://computerhistory.org/profile/john-chowning-2/ |url-status=live |access-date=2026-09-12 |website=CHM Fellows Award -- John Chowning |language=en}}</ref>
+* [[Technical Grammy Award]] (2026)<ref>{{cite web |title=Technical Grammy Award |url=https://www.grammy.com/awards/technical-grammy-award
+ |website=Grammy Awards |publisher=Recording Academy |access-date=16 January 2026}}</ref>
+* Fellow, [[American Academy of Arts and Sciences]] (1988)<ref>{{cite web |title=AAAS Fellows |url=https://www.amacad.org/fellows
+ |website=American Academy of Arts and Sciences |publisher=AAAS |access-date=16 January 2026}}</ref>
+* Officer of the [[Ordre des Arts et des Lettres]] (1995): Awarded by the French [[Ministry of Culture (France)|Ministry of Culture]].<ref>{{cite web |title=Ordre des Arts et des Lettres |url=https://www.culture.gouv.fr/Thematiques/Arts-plastiques/Ordre-des-Arts-et-des-Lettres
+ |website=Ministère de la Culture |language=fr |access-date=16 January 2026}}</ref>
+
+* Honorary degrees from [[Leuphana University of Lüneburg]] (1990), [[University of the Mediterranean]] (2002), and [[Queen's University Belfast]] (2010).<ref>{{cite web |title=Honorary Degrees Awarded |url=https://www.leuphana.de/en/university/organisation/presidium/honorary-doctorates.html
+ |website=Leuphana University of Lüneburg (Wittenberg affiliation) |access-date=16 January 2026}}</ref><ref>{{cite web |title=Honorary Doctorates |url=https://www.univ-amu.fr/en/public/honorary-doctorates
+ |website=Aix-Marseille University |access-date=16 January 2026}}</ref><ref>{{cite web |title=Honorary Graduates |url=https://www.qub.ac.uk/about/Leadership-and-structure/Offices/Corporate-Communications/HonoraryGraduates/
+ |website=Queen's University Belfast |access-date=16 January 2026}}</ref>
+
+* Giga-Hertz Award Laureate (2013): For computer music.<ref>{{cite web |title=Giga-Hertz Award |url=https://www.zkm.de/en/about-the-zkm/organization/giga-hertz-award
+ |website=ZKM Center for Art and Media Karlsruhe |access-date=16 January 2026}}</ref>
+
+* Yamaha "Man of the Year" (1986)<ref>{{cite web |title=Yamaha and FM Synthesis History |url=https://usa.yamaha.com/innovation/technology/sound/fm_synthesis.html
+ |website=Yamaha Corporation |access-date=16 January 2026}}</ref>
+==Fellowships & Commissions==
+
+* [[National Endowment for the Arts]] Fellowships.<ref>{{cite web |title=National Endowment for the Arts – Grants |url=https://www.arts.gov/grants
+ |website=National Endowment for the Arts |access-date=16 January 2026}}</ref>
+
+* DAAD Artist-in-Residence in Berlin (1974).<ref>{{cite web |title=DAAD Artists-in-Berlin Program |url=https://www.daad.de/en/the-daad/postdocnet/fellows/
+ |website=German Academic Exchange Service (DAAD) |access-date=16 January 2026}}</ref>
+
+* Invited Composer/Researcher at [[IRCAM]] (1978, 1985)<ref>{{cite web |title=IRCAM – Visiting Artists and Researchers |url=https://www.ircam.fr/about/
+ |website=IRCAM |publisher=Centre Pompidou |access-date=16 January 2026}}</ref>
+
+* Commissions from IRCAM and the [[Groupe de recherches musicales|Groupe de Recherches Musicales]] (GRM)<ref>{{cite web |title=Groupe de Recherches Musicales (GRM) |url=https://www.ina.fr/ina-grm
+ |website=Institut national de l'audiovisuel |language=fr |access-date=16 January 2026}}</ref>
+==Academic Recognition==
+
+* Osgood Hooker Professorship of Fine Arts, Stanford University (1992)<ref>{{cite web |title=Osgood Hooker Professorship of Fine Arts |url=https://news.stanford.edu/1992/
+ |website=Stanford University |access-date=16 January 2026}}</ref>
+
+* Founding Director of [[CCRMA]]<ref>{{cite web |title=Center for Computer Research in Music and Acoustics (CCRMA) |url=https://ccrma.stanford.edu/about
+ |website=Stanford University |access-date=16 January 2026}}</ref>
+==References==
+{{Reflist}}
+
+===Works cited===
+* {{wikicite|ref={{harvid|Anon.|2001}}|reference=Anon. 2001. "[https://web.archive.org/web/20070715135156/http://musicweb.koncon.nl/ircam/en/artificial/phone.html Artificial Voice]", translated by Niiki Halpern. Ircam Centre Pompidou archive from 15 July 2007, accessed 26 March 2015).}}
+* {{wikicite|ref={{harvid|Chowning|1973}}|reference=Chowning, John M. 1973. "The Synthesis of Complex Audio Spectra by Means of Frequency Modulation". ''Journal of the Audio Engineering Society'' 7, no. 21:526–34.}} {{issn|0004-7554}}
+* {{wikicite|ref={{harvid|Johnstone|1994}}|reference=Johnstone, Robert. 1994. "[https://www.academia.edu/2680140/The_sound_of_one_chip_clapping_Yamaha_and_FM_synthesis The Sound of One Chip Clapping: Yamaha and FM Synthesis]".}}
+*{{wikicite|ref={{harvid|Mattis|2001}}|reference=Mattis, Olivia. 2001. "Chowning, John M(acLeod)". ''The New Grove Dictionary of Music and Musicians'', second edition, edited by [[Stanley Sadie]] and [[John Tyrrell (musicologist)|John Tyrrell]]. London: Macmillan Publishers.}}
+*{{wikicite|ref={{harvid|Nelson|2015}}|reference=Nelson, Andrew J. 2015. ''The Sound of Innovation: Stanford and the Computer Music Revolution''. Cambridge, MA: MIT Press.}}
+*{{wikicite|ref={{harvid|Pinch|Trocco|2004}}|reference=Pinch, Trevor, and Frank Trocco. 2004. ''Analog Days: The Invention and Impact of the Moog Synthesizer''. Cambridge, Massachusetts: [[Harvard University Press]].}}{{ISBN|978-0674016170}}
+* {{wikicite|ref={{harvid|Schottstaedt|n.d.}}|reference=Schottstaedt, Bill. n.d. "[https://ccrma.stanford.edu/software/snd/snd/fm.html An Introduction To FM – Bill Schottstaedt: "John Chowning tells me that he stumbled on FM when he sped up vibrato to the point that it was creating audible sidebands (perceived as a timbral change) rather than faster warbling (perceived as a frequency change).]" }}
+* {{wikicite|ref={{harvid|Tyranny|n.d.}}|reference=Tyranny, "Blue" Gene. n.d. "[http://www.allmusic.com/album/phone-1980-1981-turenas-1972-stria-1977-sabelithe-1971-mw0000931823 Review: John Chowning: ''Phone'' <nowiki>[</nowiki>''sic''<nowiki>]</nowiki> (1980–1981) / ''Turenas'' (1972) / ''Stria'' (1977)/ ''Sabelithe'' (1971)]". Allmusic website (accessed 26 March 2015).}}
+* {{wikicite|ref={{harvid|Chowning|1970}}|reference=Chowning, John M. "Method and apparatus for simulating location and movement of sound" [https://patents.google.com/patent/US3665105A/en?inventor=john+M.+chowning&oq=john+M.+chowning] (accessed 07 July 2021).}}
+* François-Xavier Féron, Laura Zattra, [https://hal.science/IRCAM/halshs-04140906v2 "L’empreinte de John Chowning dans la construction de l’Ircam: de sa rencontre avec Pierre Boulez en 1973 à la création de Stria en 1977"], Les journées d'Informatique Musicale, pp.123–132, 2023, ⟨halshs-04140906v2⟩.
+* François-Xavier Féron, Laura Zattra (2024a), [https://hal.science/IRCAM/halshs-04622447v1 "John Chowning à l'Ircam: de la création de Stria en 1977 à ses recherches dans le studio MIDI en 1985"], Les journées d'Informatique Musicale, PRISM, May 2024, Marseille, France. pp.173–187, ⟨halshs-04622447⟩.
+* Laura Zattra, François-Xavier Féron (2024b), “A history of the first computer sound spatialization system: John Chowning’s investigations at Stanford University (1962–1972)”, in [https://www.brepols.net/products/IS-9782503611839-1 ''Sound, Music and Architecture''], Roberto Illiano ed., series “Music, Science and Technology”, Brepols, pp. 357–390.
+
+==Further reading==
+* [http://www.oac.cdlib.org/findaid/ark:/13030/kt0v19r72c/ John M. Chowning Papers]
+* [https://mitpress.mit.edu/books/sound-innovation Andrew Nelson, ''The Sound of Innovation'', Cambridge MA, MIT Press, 2015]
+* [http://www.editions-delatour.com/fr/musicologie-analyses/1802-pionniers-de-la-musique-numerique-9782752101259.html Olivier Baudouin, ''Pionniers de la musique numérique'', Sampzon, Delatour, 2012]
+* John Chowning. Portraits polychromes. P.A. Castanet, É. Gayou, J.C. Risset et al. (eds). Paris: Ina – Michel de Maule, 2005.
+* Computer Music Journal (The Reconstruction of Stria), Computer Music Journal, Fall 2007, Vol. 31.
+* Roads, C., [https://web.archive.org/web/20120429053842/http://www.o-art.org/history/LongDur/Chowning.html “John Chowning on composition”], Composers and the computer. Los Altos CA: Kaufman, pp.&nbsp;18–25, 1985. 
+* Zelli, Bijan. “Interview with John Chowning.” [www.bijanzelli.com/Chowning_Interview_Published.pdf] (April 2010). Montréal: [[Canadian Electroacoustic Community|CEC]].
+* Zelli, Bijan. “Reale und virtuelle Räume in der Computermusik: Theorien, Systeme, Analysen.” Unpublished PhD dissertation. Kommunikations- und Geschichtswissenschaft, Technische Universität Berlin, 2001. Available on [https://web.archive.org/web/20100615231721/http://www.bijanzelli.com/Publications.htm the author’s website], the dissertation includes an analysis of ''Turenas''. {{in lang|de}}
+
+==External links==
+* {{BrahmsOnline|863}}
+* Chaiken, Alison and Ann Arbor. [[:Image:JohnChowning041306 part1.ogg|Interview with John Chowning]] (audio). 13 April 2006.
+* Portraits Polychromes, [https://web.archive.org/web/20120402110836/http://www.institut-national-audiovisuel.fr/sites/ina/medias/upload/grm/portraits-polychromes/extraits/chowning/index.html John Chowning], INA (Institut National Audiovisuel).
+* [http://rwm.macba.cat/en/sonia/john-chowning-/capsula Interview with John Chowning (2015)] charting a historical overview of the different branches of his artistic career, focusing on his interest in the human voice, the creation of new sonorities, and being a pioneer in a discipline at a time when using computers to generate music was a leap into the void between creative eccentricity and scientific adventure.
+*[https://www.namm.org/library/oral-history/john-chowning John Chowning talks about the importance of velocity sensitivity of the DX7 as well as the data cartridge to store voices – NAMM Oral History Library (2001)] {{Webarchive|url=https://web.archive.org/web/20151208074945/https://www.namm.org/library/oral-history/john-chowning |date=2015-12-08 }}
+
+{{Computer music}}
+{{SEAMUS Lifetime Achievement Award}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chowning, John}}
+[[Category:American male classical composers]]
+[[Category:American experimental composers]]
+[[Category:1934 births]]
+[[Category:Living people]]
+[[Category:Wittenberg University alumni]]
+[[Category:20th-century American classical composers]]
+[[Category:20th-century American male composers]]
+[[Category:People from Salem, New Jersey]]

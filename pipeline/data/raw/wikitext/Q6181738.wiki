@@ -1,0 +1,71 @@
+{{short description|Australian physicist}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox scientist
+| name              = Jeremy L. O'Brien
+| image             = Jeremy O'Brien (born 1975) at World Economic Forum Davos 2022.png
+| image_size        =
+| alt               = 
+| caption           = O'Brien in 2022
+| birth_date        = {{birth date and age|1975|11|7|df=y}}
+| birth_place       = Australia
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[quantum optics]], optical [[quantum metrology]], [[quantum information science]]
+| workplaces        = [[University of Queensland]], [[University of Bristol]], [[University of Western Australia]]
+| education         = [[University of New South Wales]]
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Variational quantum eigensolver]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         =  
+}}
+
+'''Jeremy O'Brien''' (born 1975, Australia<ref>{{cite book|last=Barrow|first=John D.|title=Science and ultimate reality: quantum theory, cosmology, and complexity|year=2004|publisher=[[Cambridge University Press]]|isbn=978-0-521-83113-0|url=https://books.google.com/books?id=K_OfC0Pte_8C&pg=PA695|author-link=John D. Barrow |author2=Davies, Paul C. W. |author2-link=Paul C. W. Davies |author3=Harper, Charles L. |page=695}}</ref>) is a  physicist who researches in [[quantum optics]], optical [[quantum metrology]] and [[quantum information science]].<ref name="opn">{{cite news|title=2010 OSA Awards |url=http://www.osa.org/awards_and_grants/Awards/42-OSAAwards_june_v2.pdf |access-date=29 May 2010 |newspaper=Optics and Photonics News |date=June 2010 |archive-url=https://web.archive.org/web/20100612210105/http://osa.org/awards_and_grants/Awards/42-OSAAwards_june_v2.pdf |archive-date=12 June 2010 }}</ref> He co-founded and is [[Chief executive officer|CEO]] of the quantum computing firm [[PsiQuantum]].<ref name=":0" /><ref>{{Cite news|last=Titcomb|first=James|date=2021-07-27|title=Quantum computing start-up founded by British academics worth $3.2bn|language=en-GB|work=The Telegraph|url=https://www.telegraph.co.uk/technology/2021/07/27/quantum-computing-start-up-founded-british-academics-worth-32bn/|access-date=2021-07-27|issn=0307-1235}}</ref> Formerly, he was Professorial [[Research Fellow]] in Physics and Electrical Engineering at the [[University of Bristol]], and director of its Centre for Quantum Photonics.<ref>{{cite web|title=Bristol University Physics—Centre for Quantum Photonics—Academic Staff|url=http://www.phy.bris.ac.uk/groups/cqp/people.php|archive-url=https://web.archive.org/web/20100208160740/http://www.phy.bris.ac.uk/groups/cqp/people.php|archive-date=8 February 2010|publisher=University of Bristol|access-date=29 May 2010}}</ref><ref name=":0">{{Cite news|last=Titcomb|first=James|date=2019-11-16|title=Bristol professor's secretive quantum computing start-up raises £179m|language=en-GB|work=The Telegraph|url=https://www.telegraph.co.uk/technology/2019/11/16/bristol-professors-secretive-quantum-computing-start-up-raises/|access-date=2021-07-27|issn=0307-1235}}</ref>
+
+His work in optical [[quantum computing]] has included the demonstration of the first optical quantum [[controlled NOT gate]].<ref name="nature2003">{{cite journal|last=O'Brien|first=JL|author2=Pryde, GJ |author3=White, AG |author4=Ralph, TC |author5= Branning, D |title=Demonstration of an all-optical quantum controlled-NOT gate|journal=Nature| year=2003|volume=426|issue=6964|pages=264–267|doi=10.1038/nature02054|pmid=14628045 |arxiv = quant-ph/0403062 |bibcode = 2003Natur.426..264O |s2cid=9883628}}</ref>
+
+==Honours and awards==
+*2009 European Quantum Information Young Investigator Award<ref>{{cite web|title=QIPC Young Investigator Award 2009 |url=http://www.qurope.net/Q_Confs/q_confs.php?type=confs&trig_id=6 |publisher=QUROPE (Quantum Information Processing and Communication in Europe) |access-date=29 May 2010 |archive-url=https://web.archive.org/web/20100916084158/http://www.qurope.net/Q_Confs/q_confs.php?type=confs&trig_id=6 |archive-date=16 September 2010 }}</ref>
+*2010 [[Adolph Lomb Medal]] of the [[Optical Society of America]]<ref name="opn"/>
+*2010 [[IUPAP]] Prize in Atomic Molecular and Optical Physics<ref>{{cite web|title=Double honour for Professor O'Brien|url=http://bristol.ac.uk/news/2010/7040.html|publisher=[[University of Bristol]]|access-date=29 May 2010}}</ref>
+*2010 Moseley medal and prize of the [[Institute of Physics]]<ref>{{cite web|title=2010 Moseley medal and prize|url=http://www.iop.org/about/awards/career/moseley/medallists/page_43973.html|publisher=Institute of Physics|access-date=5 July 2010}}</ref>
+*2010 [[Daiwa Adrian Prize]]
+*2011 Elected to the [[Global Young Academy]] {{cite web|title=PsiQuantum Valuation|url=https://www.eutechfuture.com/innovation/psiquantum-valuation-a-deep-dive-into-the-quantum-computing-pioneer/|access-date=25 September 2025}}
+
+==Selected publications==
+*{{cite journal|doi=10.1103/PhysRevB.64.161401|last=O'Brien|first=JL|author2=Schofield, S. R. |author3=Simmons, M. Y. |author4=Clark, R. G. |author5=Dzurak, A. S. |author6=Curson, N. J. |author7=Kane, B. E. |author8=McAlpine, N. S. |author9=Hawley, M. E. |author10= Brown, G. W. |title=Towards the fabrication of phosphorus qubits for a silicon quantum computer |journal=[[Physical Review B]]| volume=64| issue=16| article-number= 161401| year=2001| bibcode=2001PhRvB..64p1401O|arxiv = cond-mat/0104569 |s2cid=119494991}}
+*{{cite journal|last=O'Brien|first=JL|author2=Pryde, GJ |author3=White, AG |author4=Ralph, TC |author5= Branning, D |title=Demonstration of an all-optical quantum controlled-NOT gate|journal=[[Nature (journal)|Nature]]| year=2003|volume=426|issue=6964|pages=264–267|doi=10.1038/nature02054|pmid=14628045 |arxiv = quant-ph/0403062 |bibcode = 2003Natur.426..264O |s2cid=9883628}}
+*{{cite journal| title = Optical Quantum Computing| first=Jeremy L.|last=O'Brien|journal=[[Science (journal)|Science]]| volume=318 | issue=5856 |pages=1567–1570 | doi=10.1126/science.1142892|year=2007| pmid=18063781|bibcode = 2007Sci...318.1567O |arxiv = 0803.1554 | s2cid=15701944}}
+*{{cite journal| title=Silica-on-Silicon Waveguide Quantum Circuits | first=Alberto |last=Politi |author2=Cryan, Martin J. |author3=Rarity, John G. |author4=Yu, Siyuan |author5= O'Brien, Jeremy L. | journal=[[Science (journal)|Science]]| year=2008 | volume=320 |pages=646–9| doi=10.1126/science.1155441 | pmid=18369104 | issue=5876|bibcode = 2008Sci...320..646P|arxiv = 0802.0136 | s2cid=3234732 }}
+*{{cite journal | journal = Physics| title=Quantum computing over the rainbow | first=Jeremy L.|last=O'Brien | volume=1|issue=23| year=2008| page=23 | doi=10.1103/Physics.1.23|bibcode = 2008PhyOJ...1...23O | doi-access=free}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.phy.bris.ac.uk/people/jeremy_obrien/ Jeremy O'Brien: Home page.] Department of Physics, University of Bristol.
+* [https://web.archive.org/web/20100909221721/http://www.bristol.ac.uk/eeng/department/staff/jlob.html   Professor Jeremy O'Brien.] Department of Electrical & Electronic Engineering, University of Bristol.
+* [http://www.cs.bris.ac.uk/Research/QuantumComputing/member.jsp?member=Jeremy%20O%27Brien Jeremy O'Brien: Recent publications.] Quantum Computation & Information Group, University of Bristol.
+* [https://www.eutechfuture.com/innovation/psiquantum-valuation-a-deep-dive-into-the-quantum-computing-pioneer/ PsiQuantum Valuation] The Quantum Computing Pioneer
+
+{{Authority control}}
+
+{{DEFAULTSORT:Obrien, Jeremy}}
+[[Category:Physicists of the University of Bristol]]
+[[Category:Living people]]
+[[Category:1975 births]]
+[[Category:Australian physicists]]
+[[Category:Quantum physicists]]
+[[Category:Quantum information scientists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:University of New South Wales alumni]]

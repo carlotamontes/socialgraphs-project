@@ -1,0 +1,81 @@
+{{short description|British meteorologist}}
+{{EngvarB|date=August 2017}}
+{{Use dmy dates|date=August 2017}}
+{{Infobox scientist
+| name             = Tim Palmer
+| honorific_suffix = {{post-nominals|country=GBR|size=100%|CBE|FRS}}
+| image            = Tim Palmer World Economic Forum 2013.jpg
+| caption          = Palmer at the [[World Economic Forum]] Annual Meeting in Davos 2013
+| birth_name       = Timothy Noel Palmer
+| birth_date       = {{birth date and age|df=yes|1952|12|31}}{{citation needed|date=November 2022}}
+| birth_place      = [[Kingston upon Thames]], [[Surrey]], England
+| education        = {{Plainlist|
+* [[University of Bristol]] (BSc)
+* [[University of Oxford]] (DPhil)}}
+| thesis_url       = http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.468089
+| thesis_title     = Covariant conservation equations and their relation to the energy- momentum concept in general relativity
+| thesis_year      = 1977
+| doctoral_advisor = [[Dennis William Sciama]]<ref name="BristolHonorary"/>
+| awards           = {{Plainlist|
+* [[Fellow of the Royal Society]] (2003)<ref name=frs/>
+* [[Dirac Medal (IOP)|Dirac Gold Medal]] (2014)
+* [[Carl-Gustaf Rossby Research Medal]] (2010)
+* [[Gold Medal of the Royal Astronomical Society|Royal Astronomical Society Gold Medal for Geophysics]] (2023)
+* Honorary Member, Royal Irish Academy (2023)}}
+| website          = {{URL|www2.physics.ox.ac.uk/contacts/people/palmer}}
+}}
+'''Timothy Noel Palmer''' {{post-nominals|country=GBR|CBE|FRS}}<ref name=frs/> (born 31 December 1952) is a [[Mathematical physics|mathematical physicist]] by training. He has spent most of his career working on the dynamics and predictability of weather and climate.  Among various research achievements, he pioneered the development of probabilistic [[ensemble forecasting]] techniques for weather and climate prediction (at the [[Met Office]] and the [[European Centre for Medium-Range Weather Forecasts]]).<ref>{{Cite journal|last=Palmer|first=Tim|title=The ECMWF ensemble prediction system: Looking back (more than) 25 years and projecting forward 25 years|journal=Quarterly Journal of the Royal Meteorological Society|language=en|doi=10.1002/qj.3383|issn=1477-870X|year=2018|volume=145 |pages=12–24 |arxiv=1803.06940|s2cid=4944687}}</ref>  These techniques are now standard in operational weather and climate prediction around the world, and are central for reliable decision making for many commercial and humanitarian applications.
+
+==Early life and education==
+Palmer was born in [[Kingston upon Thames]], [[Surrey]] in 1952.<ref>{{cite web | url=https://www.bl.uk/voices-of-science/interviewees/tim-palmer | title=Tim Palmer }}</ref> He received a 1st Class [[Bachelor of Science|Joint Honours Degree]] in Mathematics and Physics from the [[University of Bristol]]<ref name="BristolHonorary">{{cite web |url=http://www.bristol.ac.uk/graduation/honorary-degrees/2016.html/palmer/ |title=Professor Tim Palmer, CBE, FRS |work=Honorary Graduates 2016 |publisher=[[University of Bristol]] |date=21 July 2016 |access-date=2016-10-17 }}</ref> and a [[Doctor of Philosophy]] in General Relativity Theory from the [[University of Oxford]].<ref>{{cite thesis|degree=DPhil|publisher=University of Oxford|title=Covariant Conservation Equations and their Relation to the Energy-Momentum Concept in General Relativity|first= Timothy Noel|last=Palmer|year=1977|url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.468089|oclc=500534804}}</ref>
+
+==Research==
+Palmer's research has focused on the nonlinear predictability and dynamics of the climate system. He co-discovered the world's largest breaking waves,<ref>McIntyre, M.E. and T.N. Palmer, 1983:  Breaking planetary waves in the stratosphere. Nature, 305, 593‑600.</ref> and proposed a nonlinear framework for the regional manifestation of climate change, based on the nonlinear dynamics of quasi-stationary weather regimes.<ref>Palmer, T.N., 1998: Climate change from a nonlinear dynamical perspective. J.Clim.,12, 575-591.</ref> He was among the first to propose the importance of developing unified or "seamless" weather and climate prediction models.<ref>Palmer, T.N. and P.J. Webster, 1993: Towards a unified approach to climate and weather prediction.  Proceedings of 1st Demetra Conference on Climate Change.  European Community Press</ref> {{as of|2016}} Palmer's research is focussed on the development of stochastic parametrisations in weather and climate simulators,<ref name=frs/> and the application of inexact computing<ref>{{cite journal|last1=Palem|first1=K.V.|title=Energy Aware Computing through Probabilistic Switching: A Study of Limits|journal=IEEE Transactions on Computers|date=September 2005|volume=54|issue=9|pages=1123–1137|doi=10.1109/TC.2005.145|bibcode=2005ITCmp..54.1123P |s2cid=3245545}}</ref> techniques for developing ultra-high resolution climate models.<ref name="royalsoc_inexactComputing">{{cite journal|last1=Duben|first1=P. D.|last2=Joven|first2=J.|last3=Lingamneni|first3=A.|last4=McNamara|first4=H.|last5=De Micheli|first5=G.|last6=Palem|first6=K. V.|last7=Palmer|first7=T. N.|title=On the use of inexact, pruned hardware in atmospheric modelling|journal=Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences|date=19 May 2014|volume=372|issue=2018|article-number=20130276|doi=10.1098/rsta.2013.0276|pmid=24842031|pmc=4024232|bibcode=2014RSPTA.37230276D}}</ref> Palmer believes strongly that human and computing resources must be pooled internationally to develop reliable climate prediction systems.{{Citation needed|date=May 2020}} He remains active in the area of fundamental physics, promoting the synergistic "Cosmological Invariant Set Postulate" as a primitive geometric principle for physics of the large and small.<ref>Palmer T.N. (2020). Discretization of the Bloch sphere, fractal invariant sets and Bell's theorem. Proc. Roy. Soc. A, 476, {{doi|10.1098/rspa.2019.0350}}.</ref>{{clarify|date=August 2025}}
+
+==Career==
+After a chance meeting with geophysicist [[Raymond Hide]], he became interested in climate and was employed by the Met Office – including a year at the [[University of Washington]].{{Citation needed|date=May 2020}} In 1986 he joined the European Centre for Medium-Range Weather Forecasts where he led the newly formed Predictability and Diagnostics Division, where he led the development of the ECMWF medium-range ensemble prediction system and the European DEMETER multi-model ensemble seasonal climate prediction system.<ref>Palmer, T.N.. A. Alessandri, U. Anderson  and co-authors. 2004. The Development of a European Multi-model Ensemble System for Seasonal to Interannual Prediction (DEMETER). Bulletin of the American Meteorological Society, 85, 853-872.[7]</ref> In 2010 Palmer became a Professor of Climate Physics at the University of Oxford,<ref name="OxPhys">{{cite web |url=https://www2.physics.ox.ac.uk/contacts/people/palmer |title=Tim Palmer |publisher=[[University of Oxford]] Department of Physics |access-date=2014-11-07 }}</ref> being one of the "2010 Anniversary" Royal Society Research Professors, created to celebrate the Royal Society's 350th Anniversary.  At Oxford, Palmer is additionally co-director of the Oxford Martin Programme on Modelling and Predicting Climate<ref name="OxMartinSchool">{{cite web |url=http://www.oxfordmartin.ox.ac.uk/people/74 |title=Professor Tim Palmer Co-Director, Programme on Modelling and Predicting Climate |work=Oxford Martin School |publisher=[[Oxford Martin School]] |access-date=2014-11-07 }}</ref> and is a professorial fellow at Jesus College, Oxford.<ref name="JesusCollege">{{cite web |url=http://www.jesus.ox.ac.uk/fellows-and-staff/fellows/professor-tim-palmer |title=Professor Tim Palmer |publisher=[[Jesus College, Oxford]] |access-date=2014-11-07 }}</ref>
+
+==Awards and honours==
+Palmer was elected a [[List of Fellows of the Royal Society elected in 2003|Fellow of the Royal Society (FRS) in 2003]],<ref name=frs>{{cite web|archive-url=https://web.archive.org/web/20151117113046/https://royalsociety.org/people/tim-palmer-12036/|archive-date=2015-11-17|url=https://royalsociety.org/people/tim-palmer-12036/|website=royalsociety.org|title=Professor Tim Palmer CBE FRS|author=Anon|year=2003|publisher=[[Royal Society]]|location=London}} One or more of the preceding sentences incorporates text from the royalsociety.org website where: {{blockquote|"All text published under the heading 'Biography' on Fellow profile pages is available under [[Creative Commons license|Creative Commons Attribution 4.0 International License]]." --{{cite web |url=https://royalsociety.org/about-us/terms-conditions-policies/ |title=Royal Society Terms, conditions and policies |access-date=2016-03-09 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20150925220834/https://royalsociety.org/about-us/terms-conditions-policies/ |archive-date=25 September 2015 }}}}</ref> and was appointed [[Commander of the Order of the British Empire]] (CBE) in the 2015 New Year Honours for services to science.<ref>{{London Gazette|issue=61092|supp=y|page=N10|date=31 December 2014}}</ref><ref>[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/391413/New_Year_Honours_List_2015.pdf 2015 New Year Honours List]</ref> Other awards include:
+
+* World Meteorological Organisation Norbert Gerbier-Mumm International Award (2006)<ref name="WMOMedal">{{cite web |url=http://www.wmo.int/pages/about/awards/winners_mumm_en.html |title=Winners of the Norbert Gerbier-MUMM International Award |publisher=[[World Meteorological Organization]] |access-date=2014-11-07 |archive-url=https://web.archive.org/web/20141028150730/http://www.wmo.int/pages/about/awards/winners_mumm_en.html |archive-date=28 October 2014 }}</ref>
+* American Meteorological Society [[Carl-Gustaf Rossby Research Medal]] (2010)<ref name="RossbyMedal">{{cite web |url=http://www.rmets.org/double-success-dr-tim-palmer |title=Double Success for Dr Tim Palmer |publisher=[[Royal Meteorological Society]] |date=20 October 2009 |access-date=2014-11-07 }}</ref>
+* Institute of Physics [[Dirac Medal (IOP)|Dirac Gold Medal]] (for theoretical physics) (2014)<ref name="DiracMedal">{{cite web |url=https://www.iop.org/about/awards/gold-medals/paul-dirac-medal-and-prize-recipients |title=2014 Dirac medal |publisher=[[Institute of Physics]] |access-date=2014-11-07 }}</ref>
+* International member of the [[American Philosophical Society]] (2015)<ref name="APhilS">{{cite web |url=https://www.amphilsoc.org/members/electedApril2015 |title=Newly Elected – April 2015 |publisher=[[American Philosophical Society]] |access-date=2015-04-28 |archive-url=https://web.archive.org/web/20150816203936/https://amphilsoc.org/members/electedApril2015 |archive-date=16 August 2015 }}</ref>
+* Honorary Doctor of Science, University of Bristol (2016)<ref>{{Cite web|title=University of Bristol Honorary Degree|url=https://www.youtube.com/watch?v=OwWyYYocP0Q|last=|first=|date=28 September 2016|website=[[YouTube]]}}</ref>{{Citation needed|date=May 2020}}
+* International member of the [[Accademia dei Lincei]] (2017){{Citation needed|date=May 2020}}<ref>{{Cite web|title=International member Academy Lincei|url=https://www.lincei.it/it/content/palmer-timothy-noel|last=|first=|date=|website=}}</ref>
+* [[European Geosciences Union]] [[Lewis Fry Richardson]] Medal (for Nonlinear Processes in Geosciences (2018)<ref name="EGU">{{cite web |url=https://www.egu.eu/news/359/egu-announces-2018-awards-and-medals/ |title=EGU announces 2018 awards and medals |last1=Karatekin |first1=Özgür |last2=Ferreira |first2=Bárbara |publisher=[[European Geosciences Union]] |date=2017-10-09 |access-date=2017-10-10 }}</ref>
+* Honorary member of the [[American Meteorological Society]] (2019)<ref name="AMS2019">{{cite web |url=https://www.ametsoc.org/ams/index.cfm/about-ams/ams-awards-honors/2019-awards-and-honors-recipients/ |title=2019 Awards and Honors Recipients |publisher=[[American Meteorological Society]] |access-date=2018-07-24 }}</ref>
+* International Honorary Member of the American Academy of the Arts and Sciences (2019){{Citation needed|date=May 2020}}<ref>{{Cite web|title=International membership AAAS|url=https://www.amacad.org/person/timothy-n-palmer|last=|first=|date=6 December 2023|website=}}</ref>
+* Honorary Member, Royal Meteorological Society (2020){{Citation needed|date=May 2020}}
+*Member of the Foundational Questions Institute (2020){{Citation needed|date=May 2020}}
+* International Member of the U.S. [[National Academy of Sciences]] (2020)<ref>{{cite web|url=http://www.nasonline.org/news-and-multimedia/news/2020-nas-election.html|archive-url=https://web.archive.org/web/20200428010617/http://www.nasonline.org/news-and-multimedia/news/2020-nas-election.html|url-status=dead|archive-date=28 April 2020|title=2020 NAS Election|website=National Academy of Sciences|access-date=2020-04-28}}</ref>
+* [[Gold Medal of the Royal Astronomical Society|Royal Astronomical Society Gold Medal]] (for Geophysics) (2023)<ref>{{Cite web |last=Simion @Yonescat |first=Florin |title=Royal Astronomical Society unveils 2023 award winners |url=https://ras.ac.uk/news-and-press/news/royal-astronomical-society-unveils-2023-award-winners |access-date=2023-02-28 |website=The Royal Astronomical Society |date=14 January 2023 |language=en}}</ref>
+* Honorary member, [[Royal Irish Academy]] (2023)<ref>{{cite web|title=Admittance Day 2023 |url=https://www.ria.ie/news/membership/admittance-day-2023 |website=www.ria.ie |date=26 May 2023 | publisher=Royal Irish Academy |access-date=27 May 2023}}</ref>
+
+== ''The Primacy of Doubt'' ==
+In October 2022 Palmer published a popular science book on the science of uncertainty called ''The Primacy of Doubt.''<ref>{{Cite book |last=Palmer |first=Tim N. |title=The primacy of doubt: from quantum physics to climate change, how the science of uncertainty can help us understand our chaotic world |date=2022 |isbn=978-1-5416-1971-5 |edition=First |location=New York |oclc=1296943687}}</ref>  Without equations, it describes the physics and mathematics of chaos, applying it to weather, climate, economics, pandemics, conflict, human creativity, free will and consciousness. The book also discusses the question of whether quantum uncertainty is different from chaotic uncertainty. The book received favourable blurbs from [[Roger Penrose]], [[Martin Rees]], [[Syukuro Manabe]] and [[Sabine Hossenfelder]]. [[Brian Clegg (writer)|Brian Clegg]] of ''[[Popular Science]]'' wrote "This is quite possibly the best popular science book I've ever read (and I've read many hundreds)."<ref>{{Cite web |title=The Primacy of Doubt - Tim Palmer ***** |url=https://popsciencebooks.blogspot.com/2022/10/the-primacy-of-doubt-tim-palmer.html |access-date=2023-02-28 |website=popsciencebooks.blogspot.com}}</ref>
+
+==See also==
+* [[Superdeterminism]]
+
+== References==
+{{reflist}}
+
+{{FRS 2003}}
+{{Authority control}}
+
+{{DEFAULTSORT:Palmer, Tim}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:People from Kingston upon Thames]]
+[[Category:English meteorologists]]
+[[Category:British climatologists]]
+[[Category:Fellows of Jesus College, Oxford]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Royal Meteorological Society]]
+[[Category:Alumni of the University of Bristol]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:International members of the American Philosophical Society]]
+[[Category:Honorary members of the Royal Irish Academy]]
+[[Category:UK Met Office staff and researchers]]

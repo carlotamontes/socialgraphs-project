@@ -1,0 +1,45 @@
+{{Short description|Italian geophysicist and geodesist (born 1927)}}
+{{Expand language|langcode=it|otherarticle=Michele Caputo (geodeta)|date=September 2026}}
+{{Infobox scientist
+| name = Michele Caputo
+| image = [[File:Michele Caputo (geofisico).jpg|Michele Caputo (geofisico)]]
+| native_name = 
+| native_name_lang =
+| birth_date = {{Birth date and age|1927|5|5|df=y}}
+| birth_place = [[Ferrara]], Italy
+| fields = [[Geophysics]]<br />[[Geodesy]]<br />[[Fractional calculus]]
+| workplaces = [[University of Trieste]]<br />
+[[Sapienza University of Rome]]<br />[[Texas A&M University]]<br />
+| education  =
+[[University of Bologna]]
+| known_for = [[Caputo fractional derivative]]
+}}
+
+'''Michele Caputo''' (born 5 May 1927) is an Italian [[geophysicist]], [[geodesist]], and [[mathematician]].<ref name="bio">Lamberto Luminari, "''[https://www.treccani.it/enciclopedia/michele-caputo_%28Enciclopedia-Italiana%29/ Caputo, Michele]''", in ''[[Enciclopedia Italiana]]'', Appendix IV, [[Treccani]], 1978.</ref>
+
+Caputo is known for his formulation of the [[Caputo fractional derivative]].
+
+== Education ==
+Caputo obtained degrees in mathematics and physics from the [[University of Bologna]].<ref name="acad">{{Cite web |url=https://www.ae-info.org/ae/Member/Caputo_Michele |title=Caputo, Michele |website=Academy of Europe |access-date=2 September 2026}}</ref>
+
+== Career ==
+In his research on [[Q models (seismology)|seismological Q-models]], Caputo introduced a notion of [[fractional derivative]] which now bears his name. For a nonnegative [[integer]] <math>m</math> and [[fractional part]] <math>0 < z < 1</math>, the Caputo fractional derivative of order <math>m + z</math> is defined by
+<math display="block">\frac{\operatorname{d}^{m+z}}{\operatorname{d}x^{m + z}}\left[ f\left( x \right) \right] = \frac{1}{\operatorname{\Gamma} \left( 1 - z \right)} \int_0^x \frac{f^{\left( m + 1 \right)}\left( t \right)}{\left( x - t \right)^{z}} \, \operatorname{d}t</math>
+provided that <math>f</math> is [[smooth function|smooth]] on <math>(0, \infty)</math>.<ref>{{Cite journal |last=Caputo |first=Michele |date=1967 |title=Linear Models of Dissipation whose Q is almost Frequency Independent-II |url=https://www.researchgate.net/publication/229523286 |journal=ResearchGate |volume=13 |issue=5 |pages=530|doi=10.1111/j.1365-246X.1967.tb02303.x |doi-access=free |bibcode=1967GeoJ...13..529C }}</ref>
+
+Caputo conducted [[geomagnetic]], [[gravimetric]], and [[glaciological]] research during the [[1954 Italian Karakoram expedition]].<ref>{{cite book |last1=Marussi |first1=Antonio |title=Geophysics of the Karakorum |date=1964 |publisher=Brill Archive |url=https://ia801802.us.archive.org/26/items/dli.pahar.3256/1964%20Geophysics%20of%20the%20Karakorum%20by%20Marussi%20s.pdf |access-date=2 September 2026}}</ref>
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Caputo, Michele}}
+[[Category:1927 births]]
+[[Category:Living people]]
+[[Category:20th-century Italian mathematicians]]
+[[Category:20th-century Italian physicists]]
+[[Category:Italian geodesists]]
+[[Category:University of Bologna alumni]]
+
+{{Italy-scientist-stub}}

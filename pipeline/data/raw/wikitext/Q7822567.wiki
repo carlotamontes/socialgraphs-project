@@ -1,0 +1,103 @@
+{{Short description|British physicist and computer scientist}}
+{{Use British English|date=November 2017}}
+{{Use dmy dates|date=September 2026}}
+{{Infobox scientist
+|name              = Tony Hey
+|honorific_suffix  = {{post-nominals|country=GBR|CBE|FREng|FACM|FIET|FInstP|FBCS|size=100%}}
+|birth_name        = Anthony John Grenville Hey
+|image             = Tony Hey - Pop!Tech 2009 - Camden, ME (4037476952).jpg
+|image_size        = 200px
+|caption           = Tony Hey talking at Pop!Tech 2009
+|birth_date        = {{birth date and age|df=yes|1946|8|17}}<ref name=whoswho>{{Who's Who | author=Anon| title=Hey, Prof. Anthony John Grenville | id = U4000785 | year = 2007 | doi =10.1093/ww/9780199540884.013.4000785 | edition = online [[Oxford University Press]]|location=Oxford}}</ref><ref name="cv">{{Cite web |title= Curriculum Vitae |url= http://users.ecs.soton.ac.uk/ajgh/ajgh.htm |publisher= University of Southampton ECS |access-date= 20 September 2011 }}</ref>
+|birth_place       = England, UK
+|death_date        = 
+|death_place       = 
+|residence         = 
+|field             = {{Plainlist|
+*[[Parallel computing]]<ref name=googlescholar/>
+* [[e-Science]]<ref name=googlescholar/>
+* [[Supercomputer|High performance computing]] (HPC)<ref name="googlescholar"/>}}
+|workplaces        = {{Plainlist|
+*[[University of Southampton]]
+* [[Microsoft Research]]
+*[[California Institute of Technology|Caltech]]
+* [[CERN]]
+* [[Inmos]]
+* [[University of Oxford]]
+* [[Science and Technology Facilities Council]]}}
+|education         = [[King Edward's School, Birmingham]]
+|alma_mater        = [[University of Oxford]] (BA, DPhil)<!-- Neither St John's College, Oxford or Worcester College actually award degrees--><ref name="whoswho"/>
+|doctoral_advisor  = P. K. Kabir<ref name=dphil/>
+|thesis_title      = Polarization in electron-proton scattering
+|thesis_url        = http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.644638
+|thesis_year       = 1970
+|awards            = [[ACM Fellow]] (2017)<ref name=facm/><br>[[Pinkerton Lecture]] (2006)
+|doctoral_students = 
+|known_for         = 
+|footnotes         = 
+}}
+'''Anthony John Grenville Hey''' (born 17 August 1946)<ref name="whoswho"/> was vice-president of Microsoft Research Connections, a division of [[Microsoft Research]], until his departure in 2014.<ref name="googlescholar">{{Google scholar id}}</ref><ref name="dblp">{{DBLP|name=Anthony J. G. Hey}}</ref><ref name="scopus">{{Scopus|id=7004072107
+}}</ref><ref name="acm">{{ACMPortal|id=81100468754}}</ref><ref>[http://blogs.nature.com/wp/nascent/2007/02/tony_hey_visits_nature_1.html Tony Hey visits Nature]</ref>
+
+== Education ==
+Hey was educated at [[King Edward's School, Birmingham]]<ref name="whoswho"/> and the [[University of Oxford]]. He graduated with a [[Bachelor of Arts]] degree in [[physics]] in 1967, and a Doctor of Philosophy in [[theoretical physics]]<ref name=dphil>{{cite thesis|degree=DPhil|publisher=University of Oxford|url=http://ora.ox.ac.uk/objects/uuid:3fdbc7c8-4afd-4f8d-a7e3-8436b595e58a|title=Polarization in electron-proton scattering|first= Anthony John Grenville|last=Hey|date=1970|id={{EThOS|uk.bl.ethos.644638}}|website=ora.ox.ac.uk}} {{free access}}</ref> in 1970 supervised by P. K. Kabir. He was a student of [[Worcester College, Oxford]] and [[St John's College, Oxford]].<ref name="whoswho"/>
+
+==Career and research==
+From 1970 through 1972, Hey was a [[Postdoctoral research|postdoctoral fellow]] at [[California Institute of Technology]] (Caltech).
+Moving to [[Pasadena, California]], he worked with [[Richard Feynman]] and [[Murray Gell-Mann]], both winners of the [[Nobel Prize in Physics]].<ref name="newcastle"/>
+He then moved to [[Geneva]], Switzerland and worked as a fellow at [[CERN]] (the European organisation for nuclear research) for two years.
+Hey worked about thirty years as an academic at [[University of Southampton]], starting in 1974 as a [[Particle physics|particle physicist]].
+He spent 1978 as a visiting fellow at [[Massachusetts Institute of Technology]].{{cn|date=October 2026}}
+In 1981, he returned to Caltech as a visiting research professor. There he learned of [[Carver Mead]]'s work on [[very-large-scale integration]] and become interested in applying [[parallel computing]] techniques to large-scale scientific simulations.{{cn|date=October 2026}}
+
+Hey worked with British semiconductor company [[Inmos]] on the [[Transputer]] project in the 1980s. 
+He switched to [[computer science]] in 1985, and in 1986 became professor of computation in the department of electronics and computer science at Southampton. While there, he was promoted to head of the school of electronics and computer science in 1994 and dean of engineering and applied science in 1999. 
+Among his work was "doing research on [[Unix]] with tools like [[LaTeX]]."<ref>{{Cite web |title= A Conversation with Microsoft's Tony Hey |work= Open and Shut? blog |author= Richard Poynder |date= 12 December 2006 |url= https://poynder.blogspot.com/2006/12/conversation-with-microsofts-tony-hey.html |access-date= 20 September 2011 }} [http://dialspace.dial.pipex.com/town/parade/df04/Hey.pdf Full transcript] {{Webarchive|url=https://web.archive.org/web/20120325075802/http://dialspace.dial.pipex.com/town/parade/df04/Hey.pdf |date=25 March 2012 }} updated 15 December 2006.</ref> 
+In 1990 he was a visiting fellow at the [[Thomas J. Watson Research Center]] of [[IBM Research]].
+He then worked with [[Jack Dongarra]], Rolf Hempel and David Walker, to define the [[Message Passing Interface]] (MPI)<ref>{{Cite book | last1 = Getov | first1 = V. | last2 = Hernández | first2 = E. | last3 = Hey | first3 = T. | doi = 10.1007/BFb0002845 | chapter = Message-passing performance of parallel computers | title = Euro-Par'97 Parallel Processing | series = Lecture Notes in Computer Science | volume = 1300 | pages = 1009 | year = 1997 | isbn = 978-3-540-63440-9 }}</ref> which became a de facto open standard for parallel scientific computing.<ref>{{Cite journal |title= A Draft Standard for Message Passing in a Distributed Memory Environment |author1= Jack Dongarra |author2= Rolf Hempel |author3= A. J. G. Hey |author4= David Walker |journal= Parallel Supercomputing in Atmospheric Science: Proceedings of the Fifth ECMWF Workshop on the Use of Parallel Processors in Meteorology |location= Reading, UK |publisher= World Scientific Press |date= November 1992 |author1-link= Jack Dongarra }}</ref>
+In 1998 he was a visiting research fellow at [[Los Alamos National Laboratory]] in the USA.<ref name="mscv">{{Cite web |title= Tony Hey |work= Microsoft research biography |url= http://research.microsoft.com/en-us/people/tonyhey/ |access-date= 20 September 2011 }}</ref>
+
+Hey led the [[e-Science#The UK e-Science programme|UK's e-Science Programme]] from March 2001 to June 2005.
+He was appointed corporate vice-president of technical computing at [[Microsoft]] on 27 June 2005.<ref>[http://www.microsoft.com/presspass/press/2005/may05/05-17HeyPR.mspx Microsoft Names Tony Hey Corporate Vice President for Technical Computing: Hey brings over 25 years of experience in concurrent computing to Microsoft's efforts to deepen collaboration with top scientists and researchers<!-- Bot generated title -->]</ref>
+Later he became corporate vice-president of external research, and in 2011 corporate vice-president of Microsoft Research Connections until his departure in 2014.<ref>{{Cite web |title= Corporate Vice President of Microsoft Research Connections |date= 27 June 2011 |work= Microsoft executive biography |url= http://www.microsoft.com/presspass/exec/tonyhey/ |access-date= 20 September 2011 }}</ref>
+
+Since 2015, Hey has held the position of Chief Data Scientist at the UK's [[Science and Technology Facilities Council]],<ref>{{cite web|url=https://www.scd.stfc.ac.uk/Pages/Tony-Hey.aspx|title=STFC Chief Data Scientist}}</ref> and is a Senior Data Science Fellow<ref>{{cite web|url=http://escience.washington.edu/about-us/people/|title=Data Science Fellow at UWashington}}</ref> at the University of Washington eScience Institute.
+
+Hey is the editor of the journal ''Concurrency and Computation: Practice and Experience''.<ref name="ccpe1">{{Cite journal | last1 = Tolle | first1 = K. M. | last2 = Hey | first2 = A. J. G. | doi = 10.1002/cpe.1559 | title = Special Issue: Concurrency and Computation: Practice and Experience from the Microsoft eScience Workshop | journal = Concurrency and Computation: Practice and Experience | volume = 22 | issue = 17 | pages = 2297 | year = 2010 | s2cid = 205689384 | doi-access = free }}</ref><ref name="ccpe2">{{Cite journal | last1 = Gurd | first1 = J. | last2 = Hey | first2 = T. | last3 = Papay | first3 = J. | last4 = Riley | first4 = G. | title = Special Issue: Grid Performance | doi = 10.1002/cpe.922 | journal = Concurrency and Computation: Practice and Experience | volume = 17 | issue = 2–4 | pages = 95 | year = 2005 | s2cid = 6659375 }}</ref> Among other scientific advisory boards in Europe and the United States, he is a member of the [[Global Grid Forum]] (GGF) Advisory Committee.{{citation needed|date=February 2018}}
+
+=== Publications ===
+Hey has authored or co-authored a number of books including ''[[The Fourth Paradigm|The Fourth Paradigm: Data-Intensive Scientific Discovery]]'',<ref name="fourthparadigm">{{cite book |author1=Kristin Tolle |author2=Tony Hey |author3=Stewart Tansley |title=The Fourth Paradigm: Data-Intensive Scientific Discovery (Volume 1) |publisher=Microsoft Research |year=2009 |isbn=978-0-9825442-0-4 }}</ref> ''The Quantum Universe'',<ref name="quantumu">{{cite book |author=Hey, Anthony J. G. |title=The quantum universe |publisher=Cambridge University Press |location=Cambridge, UK |year=1987 |isbn=978-0-521-31845-7 }}</ref>''The New Quantum Universe'',<ref name="newquantum">{{cite book |author1=Walters, Patrick |author2=Tony Hey |author3=Hey, Anthony J. G. |title=The new quantum universe |publisher=Cambridge University Press |location=Cambridge, UK |year=2005 |isbn=978-0-521-56457-1 }}</ref> ''The Feynman Lectures on Computation''<ref name="feynmanlectures1">{{cite book |author1=Tony Hey |author2=Feynman, Richard Phillips |author3=Allen, Robin W. |title=Feynman Lectures on Computation |publisher=Perseus Publishing |location=Cambridge, Mass |year=2000 |isbn=978-0-7382-0296-9 }}</ref><ref name="feynmanlectures2">{{cite book |author1=Feynman, Richard Phillips |author2=Hey, Anthony J. G. |title=Feynman and computation: exploring the limits of computers |publisher=Westview Press, a member of the Perseus Books Group |location=Boulder, Colo |year=2002 |isbn=978-0-8133-4039-5 }}</ref> and ''Einstein's Mirror''.<ref name="einsteinsmirror">{{cite book |author1=Walters, Patrick |author2=Hey, Anthony J. G. |title=Einstein's mirror |publisher=Cambridge University Press |location=Cambridge, UK |year=1997 |isbn=978-0-521-43532-1 |url=https://books.google.com/books?id=_X5nbOSHuAMC}}</ref> Hey has also authored numerous peer-reviewed journal papers.<ref name="googlescholar"/><ref name="dblp"/><ref name="scopus"/><ref name="acm"/><ref>{{Cite journal | last1 = Hey | first1 = T. | last2 = Trefethen | first2 = A. E. | title = Cyberinfrastructure for e-Science | doi = 10.1126/science.1110410 | journal = Science | volume = 308 | issue = 5723 | pages = 817–821 | year = 2005 | pmid =  15879209|bibcode = 2005Sci...308..817H | s2cid = 44827922 }}</ref><ref>{{Cite journal | last1 = Hey | first1 = T. | last2 = Trefethen | first2 = A. E. | doi = 10.1016/S0167-739X(02)00082-1 | title = The UK e-Science Core Programme and the Grid | journal = Future Generation Computer Systems | volume = 18 | issue = 8 | pages = 1017 | year = 2002 | s2cid = 14930437 | url = https://eprints.soton.ac.uk/257644/1/UKeScienceCoreProg.pdf }}</ref><ref>{{Cite journal | last1 = Bell | first1 = G. | last2 = Hey | first2 = T. | last3 = Szalay | first3 = A. | doi = 10.1126/science.1170411 | title = COMPUTER SCIENCE: Beyond the Data Deluge | journal = Science | volume = 323 | issue = 5919 | pages = 1297–1298 | year = 2009 | pmid =  19265007| s2cid = 9743327 }}</ref><ref>{{Cite journal | last1 = Hey | first1 = T. | last2 = Hey | first2 = J. | doi = 10.1108/07378830610715383 | title = E-Science and its implications for the library community | journal = Library Hi Tech | volume = 24 | issue = 4 | pages = 515 | year = 2006 | url = http://eprints.rclis.org/9202/1/heyhey_final_web.pdf }}</ref>
+His latest book is a popular book on computer science called ''The Computing Universe: A Journey through a Revolution''.<ref>The Computing Universe: A Journey through a Revolution published by Cambridge University Press in 2015 {{cite book |title=The Computing Universe: A Journey through a Revolution |author1=Tony Hey |author2=Gyuri Pápay |date=8 December 2014 |publisher=Cambridge University Press |isbn=978-0521766456}}</ref>
+
+=== Awards and honours===
+Hey had an open scholarship to [[Worcester College, Oxford]], from 1963 to 1967, won the Scott Prize for Physics in 1967, senior scholarship to [[St John's College, Oxford]], in 1968 and was a [[Harkness Fellow]] from 1970 through 1972.<ref name="cv"/>
+Hey was made a Commander of the [[Order of the British Empire]] (CBE) in 2005. He was elected a [[Fellow]] of the [[British Computer Society]] (FBCS) in 1996, the [[Institute of Physics]] (FInstP) and the [[Institution of Electrical Engineers]] in 1996 and the [[Royal Academy of Engineering]] (FREng) in 2001.<ref name="cv"/>
+In 2006, he presented the IET [[Pinkerton Lecture]]. In 2007, he was awarded an honorary Doctor of Civil Law degree from [[Newcastle University]].<ref name="newcastle">{{Cite web |title= Anthony John Grenville ("Tony") Hey |work= Citation for honorary degree |publisher= University of Newcastle |year= 2012 |author= Professor Paul Younger |url= http://www.ncl.ac.uk/computing/research/hon/hey/ |access-date= 26 March 2014 }}</ref> In 2017, he was elected a Fellow of the [[Association for Computing Machinery]] (ACM).<ref name=facm>{{citation|title=ACM Recognizes New Fellows|journal=[[Communications of the ACM]]|year= 2017|volume=60|issue=3|page=23|doi=10.1145/3039921|author=Anon|s2cid=31701275}}.</ref>
+
+==References==
+{{reflist|35em}}
+
+== External links ==
+
+* {{INSPIRE-HEP author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hey, Tony}}
+[[Category:E-Science]]
+[[Category:20th-century English physicists]]
+[[Category:English science writers]]
+[[Category:Living people]]
+[[Category:Harkness Fellows]]
+[[Category:Fellows of the British Computer Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Institution of Engineering and Technology]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:1946 births]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Alumni of Worcester College, Oxford]]
+[[Category:People associated with CERN]]
+[[Category:Data scientists]]
+[[Category:Microsoft people]]

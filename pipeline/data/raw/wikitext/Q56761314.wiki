@@ -1,0 +1,95 @@
+{{Short description|Indian physicist (1973-)}}
+{{Use dmy dates|date=February 2020}}
+{{Use Indian English|date=December 2019}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Ambarish Ghosh
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = 
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = Ambarish Ghosh receiving SSB award from Prime Minister Modi
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|df=yes|1973|12|18}}
+| birth_place       = [[Kolkata]], India
+| death_date        = <!--{{death date and age |df=yes|YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| pronounce         =
+| citizenship       = 
+| fields            = {{ublist | [[Nanorobotics]] | [[Plasmonics]] | [[Quantum Fluids]]}}
+| workplaces        = {{ublist | [[Indian Institute of Science]]}}
+| patrons           = 
+| education         = {{ublist | [[IIT, Kharagpur]] | [[Brown University]] | [[Harvard University]]}}
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = Humphrey Maris
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = {{ublist| [[Shanti Swarup Bhatnagar Prize]] |Fellow of [[National Academy of Sciences]]|Fellow of [[Indian National Science Academy]]| Tata Transformation Prize (2025) |Sree Ramakrishna Paramahamsa Translational Biomedical Research Award }}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = http://www.cense.iisc.ac.in/ambarish/
+| footnotes         = 
+}}
+
+'''Ambarish Ghosh''' is an Indian scientist, a faculty member at the Centre for Nano Science and Engineering (CeNSE), [[Indian Institute of Science]], [[Bangalore]]. He is also an associate faculty at the Department of Physics. He is known for his work on [[nanorobots]], [[active matter physics]], [[plasmonics]], [[metamaterials]] and electron bubbles in [[liquid helium]].
+
+== Research work==
+[[File:IISc Admin Building.jpg|thumb|left|Indian Institute of Science]]
+
+===Magnetic nanorobots===
+In 2009, he along with [[Peer Fischer]] demonstrated the use of glancing-angle deposition to fabricate magnetic helical nanorobots.<ref>{{cite journal |last1=Ghosh |first1=Ambarish |last2=Fischer |first2=Peer |title=Controlled Propulsion of Artificial Magnetic Nanostructured Propellers |journal=Nano Letters |date=10 June 2009 |volume=9 |issue=6 |pages=2243–2245 |doi=10.1021/nl900186w |pmid=19413293 |bibcode=2009NanoL...9.2243G }}</ref> His group worked out the theoretical formulae to describe the dynamics of such nanorobots<ref>{{cite journal |last1=Ghosh |first1=Arijit |last2=Mandal |first2=Pranay |last3=Karmakar |first3=Suman |last4=Ghosh |first4=Ambarish |title=Analytical theory and stability analysis of an elongated nanoscale object under external torque |journal=Physical Chemistry Chemical Physics |date=2013 |volume=15 |issue=26 |page=10817 |doi=10.1039/c3cp50701g |pmid=23694848 |bibcode=2013PCCP...1510817G }}</ref> and presented techniques for their independent control.<ref>{{cite journal |last1=Mandal |first1=Pranay |last2=Chopra |first2=Vaishali |last3=Ghosh |first3=Ambarish |title=Independent Positioning of Magnetic Nanomotors |journal=ACS Nano |date=17 April 2015 |volume=9 |issue=5 |pages=4717–4725 |doi=10.1021/acsnano.5b01518 |pmid=25824608 }}</ref>
+
+In recent years his group has managed to demonstrate various applications of helical nanorobots including techniques to move in important biological environments, such as [[blood]].<ref>{{cite journal |last1=Ghosh |first1=Souvik |last2=Ghosh |first2=Ambarish |title=Mobile nanotweezers for active colloidal manipulation |journal=Science Robotics |date=10 January 2018 |volume=3 |issue=14 |article-number=eaaq0076 |doi=10.1126/scirobotics.aaq0076 |doi-access=free }}</ref> and as probes for sensing<ref name="Sensing">{{Cite web |url=https://www.youtube.com/watch?v=yBifxe57_74|title=Nanorobots as Mobile Viscometers}}</ref> the environment inside living cells.<ref>{{cite journal |last1=Pal |first1=Malay |last2=Somalwar |first2=Neha |last3=Singh |first3=Anumeha |last4=Bhat |first4=Ramray |last5=Eswarappa |first5=Sandeep M. |last6=Saini |first6=Deepak K. |last7=Ghosh |first7=Ambarish |title=Maneuverability of Magnetic Nanomotors Inside Living Cells |journal=Advanced Materials |date=May 2018 |volume=30 |issue=22 |article-number=1800429 |doi=10.1002/adma.201800429 |pmid=29635828 }}</ref><ref>{{cite journal |last1=Ghosh |first1=Arijit |last2=Dasgupta |first2=Debayan |last3=Pal |first3=Malay |last4=Morozov |first4=Konstantin I. |last5=Leshansky |first5=Alexander M. |last6=Ghosh |first6=Ambarish |title=Helical Nanomachines as Mobile Viscometers |journal=Advanced Functional Materials |date=June 2018 |volume=28 |issue=25 |article-number=1705687 |doi=10.1002/adfm.201705687 |arxiv=1608.02253 }}</ref>
+
+His group is also developing magnetic nanorobots for targeted cancer therapy. Such treatments would be less invasive, with fewer side effects, and would be lower in cost as well.<ref>{{Cite web |title=2025 Tata Transformation Prize Recognizes Three Indian Scientists Driving Global Solutions for People and the Planet |url=https://www.nyas.org/press-release/2025-tata-transformation-prize-recognizes-three-indian-scientists-driving-global-solutions-for-people-and-the-planet/ |access-date=2026-04-14 |publisher=New York Academy of Sciences}}</ref>
+
+===Plasmonics and Metamaterials===
+Ambarish Ghosh and his group demonstrated a wafer scale technology to fabricate porous 3D plasmonic metamaterials which can be used over a wide range of wavelengths, including the visible. These metal-dielectric nanostructured films can be made in various geometries<ref>{{cite journal |last1=Johnson Singh |first1=Haobijam |last2=Ghosh |first2=Ambarish |title=Porous Three Dimensional Arrays of Plasmonic Nanoparticles |journal=The Journal of Physical Chemistry C |date=4 September 2012 |volume=116 |issue=36 |pages=19467–19471 |doi=10.1021/jp3062702 }}</ref><ref>{{cite journal |last1=Singh |first1=Johnson Haobijam |last2=Nair |first2=Greshma |last3=Ghosh |first3=Arijit |last4=Ghosh |first4=Ambarish |title=Wafer scale fabrication of porous three-dimensional plasmonic metamaterials for the visible region: chiral and beyond |journal=Nanoscale |date=2013 |volume=5 |issue=16 |page=7224 |doi=10.1039/C3NR02666C |bibcode=2013Nanos...5.7224S }}</ref><ref>{{cite journal |last1=Singh |first1=Haobijam Johnson |last2=Ghosh |first2=Ambarish |title=Harnessing magnetic dipole resonance in novel dielectric nanomaterials |journal=Nanoscale |date=2018 |volume=10 |issue=34 |pages=16102–16106 |doi=10.1039/C8NR04666B }}</ref> and configurations. Very recently, they have demonstrated a novel technique to integrate plasmonic nanoparticles with graphene in a sandwich configuration, allowing them to achieve unprecedented electromagnetic field enhancement and photodetection sensitivity.<ref>{{cite journal |last1=Paria |first1=Debadrita |last2=Roy |first2=Kallol |last3=Singh |first3=Haobijam Johnson |last4=Kumar |first4=Shishir |last5=Raghavan |first5=Srinivasan |last6=Ghosh |first6=Arindam |last7=Ghosh |first7=Ambarish |title=Ultrahigh Field Enhancement and Photoresponse in Atomically Separated Arrays of Plasmonic Dimers |journal=Advanced Materials |date=March 2015 |volume=27 |issue=10 |pages=1751–1758 |doi=10.1002/adma.201404312 }}</ref> In 2019, his group showed the application of metal-dielectric hybrid nanorods in active opto-fluidic manipulation of sub-micron colloids.
+
+===Electron bubbles in Liquid Helium===
+The group led by Ambarish Ghosh demonstrated trapping<ref>{{cite journal |last1=Vadakkumbatt |first1=Vaisakh |last2=Joseph |first2=Emil |last3=Pal |first3=Anustuv |last4=Ghosh |first4=Ambarish |title=Studying electrons on curved surfaces by trapping and manipulating multielectron bubbles in liquid helium |journal=Nature Communications |date=1 August 2014 |volume=5 |issue=1 |page=4571 |doi=10.1038/ncomms5571 |pmid=25081283 |bibcode=2014NatCo...5.4571V |doi-access=free }}</ref> of multielectron bubbles in liquid helium-4, which can open up new avenues in the study of two-dimensional electron systems at high densities, and on curved surfaces. The same group also performed high speed imaging<ref name="EB">{{Cite web |url=https://www.youtube.com/watch?v=bjDl23xBdyE|title=Electron Bubble Explosion in Liquid Helium}}</ref> of the "explosion" of an electron bubbles triggered by focused ultrasound.
+
+== Recognition ==
+[[File:AMBARISH-1600x800.jpg|thumb|Ambarish Ghosh receiving SSB award from Prime Minister Modi]]
+Ambarish received the Young Career Award in Nano Science and Technology for 2017 from DST Nanomission, India. The [[Council of Scientific and Industrial Research]] awarded him the [[Shanti Swarup Bhatnagar Prize for Science and Technology]] in 2018.<ref name="Bhatnagar">{{Cite web |url=http://ssbprize.gov.in/WriteReadData/LatestUpdates/201809260331397455401SSBPrize2018.pdf |title=Shanti Swarup Bhatnagar Prize (SSB) for Science and Technology 2018 |date=26 September 2018 |publisher=Shanti Swarup Bhatnagar Prize |access-date=2018-09-26}}</ref> He held the *Prof. Ramakrishna Rao Chair Professorship* from 2017 to 2020. He was elected as a Fellow of INAE in 2020.<ref>{{cite web |title=Umanand L, Ambarish Ghosh, & Pramod Kumar have been Elected as Fellows of The Indian National Academy of Engineering w.e.f. Nov. 1, 2020 |url=https://www.iisc.ac.in/events/umanand-l-ambarish-ghosh-pramod-kumar-have-been-elected-as-of-fellows-of-the-indian-national-academy-of-engineering-w-e-f-nov-1-2020/ |website=Indian Institute of Science, Bengaluru |access-date=25 January 2021}}</ref> He was elected Fellow of the Indian Academy of Sciences in 2023. He received the P. K. Iyengar Memorial Award for Excellence in Experimental Physics (2022) and the Lam Research Unlock Idea Award (2022).  
+
+In 2023, he received the Sree Ramakrishna Paramahamsa Translational Biomedical Research Award from the Sree Padmavathi Venkateswara Foundation<ref>{{Cite web |title=Biomedical Research Grant Awardee 2023: Dr. Ambarish Ghosh |url=https://sreepvf.org/biomedical-research-grant-awardee-2023/ |access-date=2025-10-01}}</ref><ref>{{Cite web |title=SreePVF's Research Award Ceremony 2023 |url=https://sreepvf.org/sktevents/award-ceremony-2023/ |access-date=2025-10-01}}</ref> and the IISc Research Award 2023.<ref>{{Cite web |title=Recognition: Prof. Ambarish Ghosh – CeNSE |url=https://www.cense.iisc.ac.in/ambarish/recognition/ |access-date=2025-10-01}}</ref> He was elected Fellow of the Indian National Science Academy (INSA) in 2024<ref>{{Cite web |title=Fellow Detail: Professor Ambarish Ghosh |url=https://insajournal.in/intranetinsa/fellow_detail.php?id=P25-2048 |access-date=2025-10-01}}</ref> and Fellow of the National Academy of Sciences, India (NASI) in 2024.<ref>{{Cite web |title=Six faculty members have been elected as NASI Fellows 2024 |url=https://www.iisc.ac.in/events/six-faculty-members-have-been-elected-as-nasi-fellows-2024/ |access-date=2025-10-01}}</ref>
+
+In 2025, he was awarded the Tata Transformation Prize by the [[New York Academy of Sciences]] for his work on magnetic nanorobots for targeted cancer therapy.<ref>{{Cite web |title=2025 Tata Transformation Prize Recognizes Three Indian Scientists Driving Global Solutions for People and the Planet |url=https://www.nyas.org/press-release/2025-tata-transformation-prize-recognizes-three-indian-scientists-driving-global-solutions-for-people-and-the-planet/ |access-date=2026-04-14 |publisher=New York Academy of Sciences}}</ref> In 2026, he received the Alumni Award for Excellence in Research for Engineering from the [[Indian Institute of Science]].<ref>{{Cite web |title=Congratulations to Prof. Ambarish Ghosh on receiving the Alumni Award for Excellence in Research for Engineering, 2026 from IISc |url=https://x.com/GroupGhosh/status/2033583708947812449 |access-date=2026-04-14 |website=X (formerly Twitter)}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{SSBPST recipients in Physical Science |state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ghosh, Ambarish}}
+[[Category:Recipients of the Shanti Swarup Bhatnagar Award in Physical Science]]
+[[Category:Scientists from West Bengal]]
+[[Category:Indian physicists]]
+[[Category:Bengali physicists]]
+[[Category:Bengali scientists]]
+[[Category:Academic staff of the Indian Institute of Science]]
+[[Category:Living people]]
+[[Category:Scientists from Kolkata]]
+[[Category:IIT Kharagpur alumni]]
+[[Category:Brown University alumni]]
+[[Category:1973 births]]

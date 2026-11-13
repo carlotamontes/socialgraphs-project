@@ -1,0 +1,96 @@
+{{Short description|Italian theoretical physicist}}
+{{Use dmy dates|date=August 2025}}
+{{Infobox scientist
+| name              = Eugenio Bianchi
+| image             =
+| birth_date        = {{birth date and age|df=yes|1979|02|16}}
+| birth_place       = [[Faicchio]], [[Italy]]
+| fields            = [[Theoretical physics]]
+| workplaces        = [[Pennsylvania State University]],<br />[[Perimeter Institute for Theoretical Physics|Perimeter Institute]],<br />[[Aix-Marseille University|Aix-Marseille Université]]
+| education         = [[Scuola Normale Superiore di Pisa]]
+| doctoral_advisor  = Pietro Menotti
+| known_for         = [[Bekenstein-Hawking formula]]<br />[[Loop quantum gravity]]
+| awards            = [[Buchalter Cosmology Prize]] (2019)<br />Bronstein Prize (2013)<br />[[Banting Postdoctoral Fellowship|Banting Fellowship]] (2012)<br />[[Marie Skłodowska-Curie Actions|Marie Curie Fellowship]] (2009)
+}}
+
+'''Eugenio Bianchi''' is an Italian [[theoretical physicist]] and professor of physics at the [[Pennsylvania State University]]<ref name="promotion" /> who works on [[loop quantum gravity]] and [[black hole thermodynamics]].<ref name="psu" /> He has derived the [[Bekenstein-Hawking formula]] <math>S=\frac{A}{4}</math> for the [[entropy]] of non-extremal black holes from [[loop quantum gravity]],<ref name="Bianchi2012">{{cite arXiv |last=Bianchi |first=Eugenio |year=2012 |title=Entropy of Non-Extremal Black Holes from Loop Gravity |eprint=1204.5122 |class=gr-qc}}</ref><ref>{{cite news |last=Diener |first=R. |year=2012 |title=How to build a black hole |journal=Perimeter Newsletter |url=http://www.perimeterinstitute.ca/newsletter/2012/fall/#/30/ |access-date=2012-11-04 |archive-date=2017-04-28 |archive-url=https://web.archive.org/web/20170428051203/http://www.perimeterinstitute.ca/newsletter/2012/fall/#/30/ |url-status=dead }}</ref> for all values of the [[Immirzi parameter]].
+
+== Education and career ==
+
+Bianchi studied at the [[Scuola Normale Superiore di Pisa]], completing his doctorate in 2010 under the supervision of Pietro Menotti.<ref name="psu" /> He was a postdoctoral researcher at the Centre de Physique Théorique in [[Marseille]] from 2009 to 2011, and at the [[Perimeter Institute for Theoretical Physics]] in Canada from 2011 to 2014.<ref name="inspire" />
+
+He joined the faculty of [[Pennsylvania State University]] in 2014, where he is a member of the Institute for Gravitation and the Cosmos.<ref name="inspire" /><ref name="psu" /> He was promoted to professor of physics with effect from 1 July 2026.<ref name="promotion" />
+
+== Research ==
+
+Bianchi works on the quantum nature of spacetime geometry, drawing on [[general relativity]], [[quantum field theory]] and [[quantum information]]. [[Quantum entanglement|Entanglement]] is central to this work, which he has applied to the primordial state of the universe, the late stages of [[black hole]] evaporation, and the thermalisation of isolated quantum systems.<ref name="psu" />
+
+Within loop quantum gravity he has studied the discrete geometry of quantum spacetime, including the description of grains of space as [[polyhedron|polyhedra]],<ref name="polyhedra" /> and the propagation of [[graviton|gravitons]] on such a background.<ref name="graviton" /> In 2012 he derived the Bekenstein–Hawking entropy formula for non-extremal black holes within the theory, obtaining it for all values of the [[Immirzi parameter]] rather than for a single tuned value.<ref name="Bianchi2012" /> He has also proposed, with collaborators, that [[white hole]]s could form the end state of black hole evaporation.<ref name="whiteholes" />
+
+In 2026, with Monica Rincon-Ramirez, Nathan K. Johnson-McDaniel, Ish Gupta, Vaishak Prasad and [[B. S. Sathyaprakash]], he proposed a maximum entropy conjecture for black hole mergers. The conjecture holds that the remnant of a merger settles into the configuration of maximum entropy once the energy and angular momentum carried away by [[gravitational wave|gravitational waves]] are accounted for, and the resulting predictions agree with [[numerical relativity]] simulations to within a few per cent.<ref name="maxent" /><ref name="essay" /><ref name="physorg" />
+
+With [[Abhay Ashtekar]] he wrote a review of loop quantum gravity for ''[[Reports on Progress in Physics]]'' in 2021.<ref name="review" />
+
+== Awards ==
+
+Bianchi was the inaugural recipient of the Bronstein Prize in 2013. The prize is administered by the International Society for Loop Quantum Gravity and recognises postdoctoral researchers in the field. It was established at a meeting in Madrid marking twenty-five years of loop quantum gravity and is named after the Soviet physicist [[Matvei Bronstein]], who argued that a quantum theory of gravity would require a fundamental revision of classical ideas about spacetime.<ref name="bronstein" /> His citation was "for his insightful contributions to black hole entropy, the discrete geometry of quantum spacetime and the propagation of gravitons thereon".<ref name="islqg" />
+
+In 2019 he shared second prize in the [[Buchalter Cosmology Prize]] with Anuradha Gupta, Hal M. Haggard and [[B. S. Sathyaprakash]], for work proposing a test of Bekenstein–Hawking entropy using the spins of black holes measured in gravitational-wave observations.<ref name="buchalter" />
+
+He held a Banting Postdoctoral Fellowship in 2012 and a Marie Curie Fellowship in 2009.<ref name="psu" />
+
+== Selected publications ==
+
+* {{cite journal |last1=Bianchi |first1=Eugenio |last2=Modesto |first2=Leonardo |last3=Rovelli |first3=Carlo |last4=Speziale |first4=Simone |title=Graviton propagator in loop quantum gravity |journal=Classical and Quantum Gravity |volume=23 |issue=23 |pages=6989–7028 |year=2006 |doi=10.1088/0264-9381/23/23/024 |arxiv=gr-qc/0604044 |bibcode=2006CQGra..23.6989B }}
+* {{cite journal |last1=Bianchi |first1=Eugenio |last2=Doná |first2=Pietro |last3=Speziale |first3=Simone |title=Polyhedra in loop quantum gravity |journal=Physical Review D |volume=83 |issue=4 |article-number=044035 |year=2011 |doi=10.1103/PhysRevD.83.044035 |arxiv=1009.3402 |bibcode=2011PhRvD..83d4035B }}
+* {{cite journal |last1=Bianchi |first1=Eugenio |last2=Myers |first2=Robert C. |title=On the architecture of spacetime geometry |journal=Classical and Quantum Gravity |volume=31 |issue=21 |article-number=214002 |year=2014 |doi=10.1088/0264-9381/31/21/214002 |bibcode=2014CQGra..31u4002B }}
+* {{cite journal |last1=Bianchi |first1=Eugenio |last2=Christodoulou |first2=Marios |last3=D'Ambrosio |first3=Fabio |last4=Haggard |first4=Hal M. |last5=Rovelli |first5=Carlo |title=White holes as remnants: a surprising scenario for the end of a black hole |journal=Classical and Quantum Gravity |volume=35 |issue=22 |pages=225003 |year=2018 |doi=10.1088/1361-6382/aae550 |arxiv=1802.04264 |bibcode=2018CQGra..35v5003B }}
+* {{cite journal |last1=Ashtekar |first1=Abhay |last2=Bianchi |first2=Eugenio |title=A short review of loop quantum gravity |journal=Reports on Progress in Physics |volume=84 |issue=4 |pages=042001 |year=2021 |doi=10.1088/1361-6633/abed91 |pmid=33691292 |arxiv=2104.04394 |bibcode=2021RPPh...84d2001A }}
+
+== References ==
+{{Reflist|refs=
+
+<ref name="psu">{{cite web |title=Eugenio Bianchi |url=https://science.psu.edu/physics/people/eugenio-bianchi |publisher=Eberly College of Science, Pennsylvania State University |access-date=15 September 2026}}</ref>
+
+<ref name="promotion">{{cite web |title=Penn State announces tenure-line faculty promotions, effective July 1, 2026 |url=https://www.psu.edu/news/academics/story/penn-state-announces-tenure-line-faculty-promotions-effective-july-1-2026 |publisher=Pennsylvania State University |date=20 May 2026 |access-date=15 September 2026}}</ref>
+
+<ref name="inspire">{{cite web |title=Eugenio Bianchi |url=https://inspirehep.net/authors/1032605 |publisher=INSPIRE-HEP |access-date=15 September 2026}}</ref>
+
+<ref name="bronstein">{{cite web |title=The Bronstein Prize in Loop Quantum Gravity |url=https://relativity.phys.lsu.edu/bronsteinprize.html |publisher=Louisiana State University |access-date=15 September 2026}}</ref>
+
+<ref name="islqg">{{cite web |title=Past recipients of the Bronstein Prize |url=https://www.islqg.com/awardees/past-recipients-of-the-bronstein-prize |publisher=International Society for Loop Quantum Gravity |access-date=15 September 2026}}</ref>
+
+<ref name="buchalter">{{cite web |title=Penn State physicists earn second place in annual Buchalter Cosmology Prize |url=https://science.psu.edu/news/penn-state-physicists-earn-second-place-annual-buchalter-cosmology-prize |publisher=Eberly College of Science, Pennsylvania State University |access-date=15 September 2026}}</ref>
+
+<ref name="review">{{cite journal |last1=Ashtekar |first1=Abhay |last2=Bianchi |first2=Eugenio |title=A short review of loop quantum gravity |journal=Reports on Progress in Physics |volume=84 |issue=4 |pages=042001 |year=2021 |doi=10.1088/1361-6633/abed91 |pmid=33691292 |arxiv=2104.04394 |bibcode=2021RPPh...84d2001A }}</ref>
+
+<ref name="polyhedra">{{cite journal |last1=Bianchi |first1=Eugenio |last2=Doná |first2=Pietro |last3=Speziale |first3=Simone |title=Polyhedra in loop quantum gravity |journal=Physical Review D |volume=83 |issue=4 |article-number=044035 |year=2011 |doi=10.1103/PhysRevD.83.044035 |arxiv=1009.3402 |bibcode=2011PhRvD..83d4035B }}</ref>
+
+<ref name="graviton">{{cite journal |last1=Bianchi |first1=Eugenio |last2=Modesto |first2=Leonardo |last3=Rovelli |first3=Carlo |last4=Speziale |first4=Simone |title=Graviton propagator in loop quantum gravity |journal=Classical and Quantum Gravity |volume=23 |issue=23 |pages=6989–7028 |year=2006 |doi=10.1088/0264-9381/23/23/024 |arxiv=gr-qc/0604044 |bibcode=2006CQGra..23.6989B }}</ref>
+
+<ref name="whiteholes">{{cite journal |last1=Bianchi |first1=Eugenio |last2=Christodoulou |first2=Marios |last3=D'Ambrosio |first3=Fabio |last4=Haggard |first4=Hal M. |last5=Rovelli |first5=Carlo |title=White holes as remnants: a surprising scenario for the end of a black hole |journal=Classical and Quantum Gravity |volume=35 |issue=22 |pages=225003 |year=2018 |doi=10.1088/1361-6382/aae550 |arxiv=1802.04264 |bibcode=2018CQGra..35v5003B }}</ref>
+
+<ref name="maxent">{{cite journal |last1=Rincon-Ramirez |first1=Monica |last2=Johnson-McDaniel |first2=Nathan K. |last3=Bianchi |first3=Eugenio |last4=Gupta |first4=Ish |last5=Prasad |first5=Vaishak |last6=Sathyaprakash |first6=B. S. |title=Maximum Entropy Conjecture for Black Hole Mergers |journal=Physical Review Letters |volume=137 |issue=2 |pages=021406 |date=7 July 2026 |doi=10.1103/hvp6-ydbq |pmid=42503102 |arxiv=2601.22388 |bibcode=2026PhRvL.137b1406R }}</ref>
+
+<ref name="essay">{{cite journal |last1=Prasad |first1=Vaishak |last2=Rincon-Ramirez |first2=Monica |last3=Johnson-McDaniel |first3=Nathan K. |last4=Bianchi |first4=Eugenio |last5=Gupta |first5=Ish |last6=Sathyaprakash |first6=B. S. |title=Do black hole mergers maximize entropy? |journal=International Journal of Modern Physics D |article-number=2641013 |date=27 August 2026 |doi=10.1142/S0218271826410130}}</ref>
+
+<ref name="physorg">{{cite news |title=Black hole collisions may follow entropy law, offering simpler remnant predictions |url=https://phys.org/news/2026-07-black-hole-collisions-entropy-law.html |work=Phys.org |date=July 2026 |access-date=15 September 2026}}</ref>
+
+}}
+
+== External links ==
+* [https://science.psu.edu/physics/people/eugenio-bianchi Faculty page] at [[Pennsylvania State University]]
+* [https://ebianchi.org/ Personal website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bianchi, Eugenio}}
+[[Category:Loop quantum gravity researchers]]
+[[Category:Italian relativity theorists]]
+[[Category:1979 births]]
+[[Category:People from the Province of Benevento]]
+[[Category:Living people]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Scuola Normale Superiore alumni]]
+[[Category:21st-century Italian physicists]]
+[[Category:Italian emigrants to the United States]]

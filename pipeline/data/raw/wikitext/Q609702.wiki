@@ -1,0 +1,70 @@
+{{Short description|Finnish mathematician and physicist}}
+{{Infobox person
+| name          = Antti Kupiainen
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- use only if different from name -->
+| birth_date    = {{Birth date and age|1954|06|23|df=y}}
+| birth_place   = [[Varkaus]], [[Finland]]
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place   = 
+| other_names   = 
+| education     = Technical University of Helsinki (undergrad)<br/>[[Princeton University]] (PhD)<br/>[[Harvard University]] (postdoc)
+| occupation    = [[mathematical physicist]]
+| years_active  = 
+| known_for     = [[constructive quantum field theory]] and [[statistical mechanics]]
+| notable_works = 
+}}
+'''Antti Kupiainen''' (born 23 June 1954, [[Varkaus]], [[Finland]]) is a Finnish [[mathematical physicist]].
+
+==Education and career==
+Kupiainen completed his undergraduate education in 1976 at the Technical University of Helsinki and received his Ph.D. in 1979 from [[Princeton University]] under [[Thomas Spencer (mathematical physicist)|Thomas C. Spencer]] (and [[Barry Simon]]) with thesis ''Some rigorous results on the 1/n expansion''.<ref>{{MathGenealogy|id=6185}}</ref> As a postdoc he spent the academic year 1979/80 at [[Harvard University]] and then did research at the University of Helsinki. He became a professor of mathematics in 1989 at [[Rutgers University]] and in 1991 at the University of Helsinki.
+
+In 1984/85 he was the Loeb Lecturer at Harvard. He was several times a visiting scholar at the [[Institute for Advanced Study]].<ref>[https://www.ias.edu/people/cos/users/4994 Kupiainen, Antti | Institute for Advanced Study]</ref> He was a visiting professor at a number of institutions, including [[IHES]], [[University of California, Santa Barbara]], [[Mathematical Sciences Research Institute|MSRI]], [[École normale supérieure]], and [[Institut Henri Poincaré]]. He was twice an [[invited speaker at the International Congress of Mathematicians]]; his ICM talks were in 1990 at Kyoto on ''Renormalization group and random systems'' and in 2010 at Hyderabad on ''Origins of Diffusion''.
+
+From 2012 to 2014 he was the president of the [[International Association of Mathematical Physics]]. From 1997 to 2010 he was on the editorial board of ''Communications in Mathematical Physics''. In 2010 he received the Science Award of the city of Helsinki. He received an Advanced Grant from the European Research Council (ERC) for 2009–2014. In 2022 he received (with Gawedzki) the [[Dannie Heineman Prize for Mathematical Physics]]. In 2024, he received the [[Henri Poincaré Prize]] from the [[International Association of Mathematical Physics]].<ref>{{Cite web |title=ICMP 2024 |url=https://icmp2024.org/program-by-session.html |access-date=2024-07-14 |website=icmp2024.org}}</ref>
+
+==Research==
+Kupiainen works on [[constructive quantum field theory]] and [[statistical mechanics]]. In the 1980s he developed, with [[Krzysztof Gawedzki]], a [[renormalization group]] method (RG) for mathematical analysis of field theories and [[phase transition]]s for spin systems on lattices.<ref>{{cite journal  |doi=10.1007/BF01212281 |title=Massless lattice φ<sub>4</sub><sup>4</sup> theory: Rigorous control of a renormalizable asymptotically free model |journal=Communications in Mathematical Physics |volume=99 |issue=2 |pages=197–252 |year=1985 |last1=Gawedzki |first1=K |last2=Kupiainen |first2=A|bibcode=1985CMaPh..99..197G |s2cid=121722023 }}</ref><ref>{{cite journal  |doi=10.1007/BF01208817 |title=Gross-Neveu model through convergent perturbation expansions |journal=Communications in Mathematical Physics |volume=102 |issue=1 |pages=1–30 |year=1985 |last1=Gawȩdzki |first1=K |last2=Kupiainen |first2=A|bibcode=1985CMaPh.102....1G |s2cid=122720270 |url=https://projecteuclid.org/euclid.cmp/1104114300 }}</ref><ref>{{cite journal  |doi=10.1016/0550-3213(85)90062-8 |title=Renormalization of a non-renormalizable quantum field theory |journal=Nuclear Physics B |volume=262 |issue=1 |pages=33–48 |year=1985 |last1=Gawȩdski |first1=K |last2=Kupiainen |first2=A|bibcode=1985NuPhB.262...33G }}</ref><ref>{{cite journal  |doi=10.1103/PhysRevLett.55.363 |pmid=10032331 |title=Renormalizing the nonrenormalizable |journal=Physical Review Letters |volume=55 |issue=4 |pages=363–365 |year=1985 |last1=Gawedzki |first1=K |last2=Kupiainen |first2=A|bibcode=1985PhRvL..55..363G }}</ref><ref>{{cite journal  |doi=10.1007/BF01224901 |title=Phase transition in the 3d random field Ising model |journal=Communications in Mathematical Physics |volume=116 |issue=4 |pages=539–572 |year=1988 |last1=Bricmont |first1=J |last2=Kupiainen |first2=A|bibcode=1988CMaPh.116..539B |s2cid=117021659 |url=http://projecteuclid.org/euclid.cmp/1104161515 }}</ref> In addition in the 1980s he and Gawedzki did research on [[conformal field theory|conformal field theories]], in particular the [[Wess–Zumino–Witten model|WZW (Wess-Zumino-Witten) model]]. Then he was involved in applications of the RG method to other problems in probability theory, the theory of partial differential equations (for example, pattern formation, blow up, and moving fronts in asymptotic solutions of nonlinear parabolic differential equations),<ref>{{cite journal
+ | last1 = Bricmont | first1 = J.
+ | last2 = Kupiainen | first2 = A.
+ | last3 = Lin | first3 = G.
+ | arxiv = chao-dyn/9306008
+ | doi = 10.1002/cpa.3160470606
+ | issue = 6
+ | journal = Communications on Pure and Applied Mathematics
+ | mr = 1280993
+ | pages = 893–922
+ | title = Renormalization group and asymptotics of solutions of nonlinear parabolic equations
+ | volume = 47
+ | year = 1994}}</ref><ref>{{cite book |chapter=Renormalization of Partial Differential Equations |editor-last=Rivasseau |editor-first=Vincent |isbn=9783662140611 |title=Constructive Physics |publisher=Springer Verlag |year=1995 |pages=83–117}}</ref> and dynamical systems (''e.g.'' [[Kolmogorov-Arnold-Moser Theorem|KAM theory]]<ref>{{cite journal  |arxiv=chao-dyn/9807029 |last1=Bricmont |first1=J |title=KAM Theorem and Quantum Field Theory |journal=Communications in Mathematical Physics |volume=201 |issue=3 |pages=699–727 |last2=Kupiainen |first2=A |last3=Lin |first3=G |year=1999 |doi=10.1007/s002200050573|bibcode=1999CMaPh.201..699B }}</ref>).
+
+As an application of RG in probability theory, Kupiainen and [[Jean Bricmont]] showed that the random walk with asymmetric random transition probabilities in three or more spatial dimensions leads to diffusion (and therefore time-irreversible behavior).<ref>{{cite journal  |doi=10.1007/BF02102067 |title=Random walks in asymmetric random environments |journal=Communications in Mathematical Physics |volume=142 |issue=2 |pages=345–420 |year=1991 |last1=Bricmont |first1=J |last2=Kupiainen |first2=A|bibcode=1991CMaPh.142..345B |url=http://projecteuclid.org/euclid.cmp/1104248589 }}</ref> Kupiainen continued his investigations into the origins of diffusion and time-irreversibility in various model systems (such as coupled chaotic mappings and weakly coupled anharmonic oscillations).<ref>See Kupiainen's lecture at the ICM 2010 in Hyderabad.</ref>
+
+He also did research on the turbulent flow problem in hydrodynamic models.<ref>{{Cite book  |doi=10.1007/978-3-0346-0422-2_11 |chapter=Lessons for Turbulence |title=Visions in Mathematics |pages=316–333 |year=2010 |last1=Kupiainen |first1=Antti |isbn=978-3-0346-0421-5}}</ref> With Gawedzki, he established "anomalous inertial range scaling of the structure functions for a model of homogeneous, isotropic advection of a passive scalar by a random vector field." (Kolmogorov's theory of homogeneous turbulence breaks down for a particular model.)<ref>{{cite journal  |arxiv=chao-dyn/9506010 |last1=Bricmont |first1=J |title=Anomalous Scaling of the Passive Scalar |journal=Physical Review Letters |volume=75 |issue=21 |pages=3834–3837 |last2=Kupiainen |first2=A |last3=Lin |first3=G |year=1995 |doi=10.1103/PhysRevLett.75.3834 |pmid=10059743|bibcode=1995PhRvL..75.3834G  }}</ref><ref>{{Cite book  |arxiv = chao-dyn/9504002  |doi = 10.1007/BFb0102553  |isbn = 978-3-540-60990-2 |chapter = University in turbulence: An exactly solvable model  |title = Low-Dimensional Models in Statistical Physics and Quantum Field Theory  |volume = 469  |pages = 71–105  |series = Lecture Notes in Physics  |year = 1996  |last1 = Gawedzki  |first1 = K  |last2 = Kupiainen  |first2 = A  |last3 = Lin  |first3 = G  }}</ref>
+
+In 1996 Kupiainen and Bricmont applied high temperature methods from statistical mechanics to chaotic dynamical systems.<ref>{{cite journal  |doi=10.1007/BF02108821 |title=High temperature expansions and dynamical systems |journal=Communications in Mathematical Physics |volume=178 |issue=3 |pages=703–732 |year=1996 |last1=Bricmont |first1=J |last2=Kupiainen |first2=A |arxiv=chao-dyn/9504015|bibcode=1996CMaPh.178..703B }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.helsinki.fi/~ajkupiai/ Kupiainen's homepage at the University of Helsinki]
+* {{Deprecated archive|url=https://archive.today/20130106181315/http://www.math.helsinki.fi/mathphys/old/antti.html|title=Kupiainen's alternate homepage at the U. of Helsinki, dealing with his research|sec=el}}
+* [https://www.youtube.com/watch?v=dLn_50Tpdf8&t=2937s An Introduction to Liouville Theory, Talk at Institute for Advanced Study, may 2018]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kupiainen, Antti}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:20th-century Finnish mathematicians]]
+[[Category:21st-century Finnish mathematicians]]
+[[Category:20th-century Finnish physicists]]
+[[Category:21st-century Finnish physicists]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Princeton University alumni]]
+[[Category:Rutgers University faculty]]
+[[Category:Academic staff of the University of Helsinki]]
+[[Category:Presidents of the International Association of Mathematical Physics]]

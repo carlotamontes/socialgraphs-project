@@ -1,0 +1,37 @@
+{{short description|American mathematician}}
+'''Theodore Frankel''' (June 17, 1929 &ndash; August 5, 2017)<ref>[http://adminrecords.ucsd.edu/Notices/2017/2017-8-31-2.html UC San Diego Campus Notice: Passing of Professor Emeritus Ted Frankel]</ref> was a mathematician who introduced the [[Andreotti–Frankel theorem]] and the [[Frankel conjecture]].
+
+Frankel received his Ph.D. from the [[University of California, Berkeley]] in 1955. His doctoral advisor was [[Harley Flanders]].<ref>{{MathGenealogy|id=12424}}</ref> A professor emeritus of mathematics at [[University of California, San Diego]], Frankel was a longtime member of the [[Institute for Advanced Study]] in [[Princeton, New Jersey]]. He is known for his work in [[global differential geometry]], [[Morse theory]], and [[relativity theory]]. He joined the UC San Diego mathematics department in 1965, after serving on the faculties at [[Stanford University]] and [[Brown University]].
+
+==Research==
+In the 1930s, [[John Lighton Synge|John Synge]] established what is now known as [[Synge's theorem]], by applying the second variation formula for arclength to a minimal loop. Frankel adapted Synge's method to higher-dimensional objects. As a consequence, he was able to prove that, when given a positively curved [[Riemannian metric]] on a [[closed manifold]], any two [[totally geodesic]] compact submanifolds must intersect if their dimensions are large enough. The idea is to apply Synge's method to a minimizing geodesic between the two submanifolds. By  the same approach, Frankel proved that complex submanifolds of positively curved [[Kähler manifold]]s must intersect if their dimensions are sufficiently large. These results were later extended by Samuel Goldberg and [[Shoshichi Kobayashi]] to allow positivity of the holomorphic bisectional curvature.<ref>{{cite journal|mr=0227901|author-link2=Shoshichi Kobayashi|last1=Goldberg|first1=Samuel I.|last2=Kobayashi|first2=Shoshichi|title=Holomorphic bisectional curvature|journal=[[Journal of Differential Geometry]]|volume=1|issue=3–4|year=1967|pages=225–233|zbl=0169.53202|doi=10.4310/jdg/1214428090|doi-access=free}}</ref>
+
+Inspired by work of [[René Thom]], Frankel and [[Aldo Andreotti]] gave a new proof of the [[Lefschetz hyperplane theorem]] using [[Morse theory]]. The crux of the argument is the algebraic fact that the [[eigenvalue]]s of the [[real part]] of a complex [[quadratic form]] must occur in pairs of the form {{math|±''z''}}. This becomes relevant in the context of Lefschetz's theorem, by considering a Morse function given by the distance to a fixed point. The second-order analysis at [[Critical point (mathematics)|critical point]]s is immediately aided by the above algebraic analysis, and the homology vanishing phenomena follows via the [[Morse inequalities]].<ref>John Milnor, ''Morse theory'' (1963), section 7</ref>
+
+Given a [[Killing vector field]] for which the corresponding one-parameter group of isometries acts by [[holomorphic mapping]]s, Frankel used the [[Interior product|Cartan formula]] to show that the [[interior product]] of the vector field with the Kähler form is closed. Assuming that the first [[Betti number]] is zero, the [[de Rham theorem]] applies to construct a function whose critical points coincide with the zeros of the vector field. A second-order analysis at the critical  points shows that the set of zeros of the vector field is a nondegenerate critical manifold for the function. Following [[Raoul Bott]]'s development of Morse theory for critical manifolds, Frankel was able to establish that the Betti numbers of the manifold are fully encoded by the Betti numbers of the critical manifolds, together with the index of his Morse function along these manifolds. These ideas of Frankel were later important for works of [[Michael Atiyah]] and [[Nigel Hitchin]], among others.<ref>{{cite journal|last1=Atiyah|first1=M. F.|title=Convexity and commuting Hamiltonians|journal=[[Bulletin of the London Mathematical Society]]|volume=14|year=1982|author-link1=Michael Atiyah|issue=1|pages=1–15|mr=0642416|doi=10.1112/blms/14.1.1|zbl=0482.58013}}</ref><ref>{{cite journal|last1=Hitchin|first1=N. J.|title=The self-duality equations on a Riemann surface|journal=[[Proceedings of the London Mathematical Society]]|series=3|volume=55|year=1987|issue=1|pages=59–126|mr=0887284|author-link1=Nigel Hitchin|doi=10.1112/plms/s3-55.1.59|zbl=0634.53045}}</ref>
+
+==Major publications==
+'''Articles'''
+*{{cite journal|mr=0177422|last1=Andreotti|author-link1=Aldo Andreotti|first1=Aldo|last2=Frankel|first2=Theodore|title=The Lefschetz theorem on hyperplane sections|journal=[[Annals of Mathematics]] |series=Second Series|volume=69|issue=3|year=1959|pages=713–717|zbl=0115.38405|doi=10.2307/1970034|jstor=1970034 }}
+*{{cite journal|mr=0131883|last1=Frankel|first1=Theodore|doi=10.2307/1969889|title=Fixed points and torsion on Kähler manifolds|journal=[[Annals of Mathematics]] |series=Second Series|volume=70|issue=1|year=1959|pages=1–8|jstor=1969889 |zbl=0088.38002}}
+*{{cite journal|mr=0123272|last1=Frankel|first1=Theodore|title=Manifolds with positive curvature|journal=[[Pacific Journal of Mathematics]]|volume=11|issue=1|doi=10.2140/pjm.1961.11.165
+|doi-access=free|year=1961|pages=165–174|zbl=0107.39002}}
+'''Textbooks'''
+*{{cite book|last=Frankel|first= Theodore|year= 1979| url=https://books.google.com/books?id=ryPyfLsgmhsC |zbl=0427.53009|mr=0518868|title=Gravitational Curvature. An Introduction to Einstein's Theory|publisher=[[W. H. Freeman and Company|W. H. Freeman and Co.]]|location=San Francisco|isbn= 0-7167-1062-5}}<ref>{{cite journal|author=Trautman, Andrzej|authorlink=Andrzej Trautman|title=Review: ''Gravitational Curvature'', by Theodore Frankel|journal=Bull. Amer. Math. Soc. (N.S.)|year=1986|volume=14|issue=1|pages=152–158|url=http://projecteuclid.org/euclid.bams/1183552796|doi=10.1090/s0273-0979-1986-15425-x|doi-access=free}}</ref>
+*{{cite book|last=Frankel|first=Theodore|year=2011|doi=10.1017/CBO9781139061377|title=The Geometry of Physics: An Introduction|edition=Third|orig-date=First published 1997|publisher=[[Cambridge University Press]]|location=Cambridge|isbn=978-1-107-60260-1|mr=2884939|zbl=1250.58001}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Frankel, Theodore}}
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:University of California, San Diego faculty]]
+[[Category:1929 births]]
+[[Category:2017 deaths]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Institute for Advanced Study people]]
+[[Category:Brown University faculty]]
+[[Category:Stanford University faculty]]

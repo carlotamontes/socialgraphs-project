@@ -1,0 +1,70 @@
+{{short description|American academic (1922–1998)}}
+{{Infobox scientist
+| name              = E. T. Jaynes
+| image             = ETJaynes1.jpg
+| caption           = Edwin Thompson Jaynes, {{circa}} 1960.
+| birth_date        = {{Birth date|1922|7|5}}
+| birth_place       = [[Waterloo, Iowa]], U.S.
+| death_date        = {{Death date and age|mf=yes|1998|4|30|1922|7|5}}
+| death_place       = [[St. Louis, Missouri]], U.S.
+| field             = [[Physicist]]
+| workplaces        = [[Washington University in St. Louis]]
+| education         = [[Cornell College]]<br />[[Princeton University]]
+| doctoral_advisor  = [[Eugene Wigner]]
+| thesis_title      = An electronic theory of ferroelectricity
+| thesis_year       = 1948
+| doctoral_students = [[Fred Cummings]]<br />[[Joseph H. Eberly]]<br />[[Douglas James Scalapino]]
+| known_for         = [[Maximum entropy thermodynamics]]<br />[[Bayesian probability|Bayesian theory]]<br />[[Jaynes–Cummings model]]<br />[[Mind projection fallacy]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+}}
+[[Image:ETJaynes2.jpg|right|thumb|Jaynes around 1982]]
+'''Edwin Thompson Jaynes''' (July 5, 1922 – April 30,<ref>{{cite journal |author1=Clark J.W. |author2=Norberg R.E. |author3=Bretthorst G.L. |title=Edwin Thompson Jaynes |journal=[[Physics Today]] |volume=53 |page=71 |date=January 2000 |issue=1 |doi=10.1063/1.882948 |url=http://library.wustl.edu/units/spec/exhibits/crow/jaynesbio.html |bibcode=2000PhT....53a..71. |archive-url=https://web.archive.org/web/20070806181215/http://library.wustl.edu/units/spec/exhibits/crow/jaynesbio.html |archive-date=2007-08-06 |url-access=subscription }}</ref> 1998) was the Wayman Crow Distinguished Professor of Physics at [[Washington University in St. Louis]]. He wrote extensively on [[statistical mechanics]] and on foundations of [[probability]] and [[statistical inference]], initiating in 1957 the [[maximum entropy thermodynamics|maximum entropy interpretation of thermodynamics]]<ref>{{cite journal |author=Jaynes, E.T. |title=Information theory and statistical mechanics |journal=Physical Review |volume=106 |issue=4 |pages=620–630 |year=1957 |doi=10.1103/PhysRev.106.620 |url=http://bayes.wustl.edu/etj/articles/theory.1.pdf |bibcode=1957PhRv..106..620J|s2cid=17870175 }}</ref><ref>{{cite journal |author=Jaynes, E.T. |author-mask=1 |title=Information theory and statistical mechanics II |journal=Physical Review |volume=108 |issue=2 |pages=171–190 |year=1957 |doi=10.1103/PhysRev.108.171 |url=http://bayes.wustl.edu/etj/articles/theory.2.pdf |bibcode=1957PhRv..108..171J}}</ref> as being a particular application of more general [[Bayesian inference|Bayesian]]/[[information theory]] techniques (although he argued this was already implicit in the works of [[Josiah Willard Gibbs]]). Jaynes strongly promoted the interpretation of [[probability theory]] as an extension of [[logic]].
+
+In 1963, together with his doctoral student [[Fred Cummings]], he [[Scientific modelling|modeled]] the evolution of a [[Two-level system|two-level atom]] in an electromagnetic field, in a fully quantized way.<ref name=":0">{{Cite journal |last=Cummings |first=Frederick W |date=2013-11-01 |title=Reminiscing about thesis work with E T Jaynes at Stanford in the 1950s |url=https://iopscience.iop.org/article/10.1088/0953-4075/46/22/220202 |journal=Journal of Physics B: Atomic, Molecular and Optical Physics |volume=46 |issue=22 |article-number=220202 |doi=10.1088/0953-4075/46/22/220202 |bibcode=2013JPhB...46v0202C |issn=0953-4075}}</ref> This model is known as the [[Jaynes–Cummings model]].
+
+A particular focus of his work was the construction of logical principles for assigning [[prior probability]] distributions; see the [[principle of maximum entropy]], the [[principle of maximum caliber]], the [[principle of transformation groups]]<ref>{{cite journal |author=Jaynes, E.T. |author-mask=1 |title=Prior Probabilities |journal=IEEE Transactions on Systems Science and Cybernetics |volume=4 |issue=3 |pages=227–241 |date=September 1968 |doi=10.1109/TSSC.1968.300117 |bibcode=1968IJSSC...4..227J |url=http://bayes.wustl.edu/etj/articles/prior.pdf }}</ref><ref>{{cite journal |author=Jaynes, E.T. |author-mask=1 |title=The Well-Posed Problem |journal=Found. Phys. |volume=3 |issue=4 |pages=477–492 |date=December 1973 |doi=10.1007/BF00709116 |url=http://bayes.wustl.edu/etj/articles/well.pdf |bibcode=1973FoPh....3..477J|s2cid=2380040 }}</ref> and [[Pierre-Simon Laplace|Laplace]]'s [[principle of indifference]]. Other contributions include the [[mind projection fallacy]].
+
+Jaynes' book, ''Probability Theory: The Logic of Science'' (2003) gathers various threads of modern thinking about [[Bayesian probability]] and [[statistical inference]], develops the notion of [[probability theory as extended logic]], and contrasts the advantages of Bayesian techniques with the results of other approaches. This book, which he dedicated to [[Harold Jeffreys]], was published posthumously in 2003 (from an incomplete manuscript that was edited by [[Larry Bretthorst]]).
+Jaynes coined the term 'mind projection fallacy' to describe the error of confusing subjective states of knowledge with objective properties of physical systems. This idea became influential in debates over the interpretation of probability and quantum mechanics.
+
+Other of his doctoral students included [[Joseph H. Eberly]] and [[Douglas James Scalapino]].<ref name=":0" />
+
+==See also==
+*[[Differential entropy]]
+*[[Limiting density of discrete points]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{MathGenealogy|id=91282}}
+* Edwin Thompson Jaynes. [http://www.cambridge.org/gb/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science ''Probability Theory: The Logic of Science''.] Cambridge University Press, (2003).  {{ISBN|0-521-59271-2}}.
+* [http://omega.math.albany.edu:8008/JaynesBook.html Early (1994) version] {{Webarchive|url=https://web.archive.org/web/20181024011719/http://omega.math.albany.edu:8008/JaynesBook.html |date=2018-10-24 }} (fragmentary) of ''Probability Theory: The Logic of Science''. Book no longer downloadable for copyright reasons.
+* A comprehensive [http://bayes.wustl.edu web page] on E. T. Jaynes's life and work.
+* [http://libguides.wustl.edu/c.php?g=338660&p=2280769 ET Jaynes' obituary at Washington University]
+* [http://bayes.wustl.edu/etj/articles/entropy.concentration.pdf http://bayes.wustl.edu/etj/articles/entropy.concentration.pdf] Jaynes' analysis of [[Rudolph Wolf]]'s dice data
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jaynes, Edwin Thompson}}
+[[Category:1922 births]]
+[[Category:1998 deaths]]
+[[Category:American agnostics]]
+[[Category:20th-century American physicists]]
+[[Category:Washington University in St. Louis mathematicians]]
+[[Category:Washington University in St. Louis physicists]]
+[[Category:Scientists from Missouri]]
+[[Category:Statistical physicists]]
+[[Category:Information theorists]]
+[[Category:American probability theorists]]
+[[Category:Cornell College alumni]]
+[[Category:Bayesian statisticians]]
+[[Category:Philosophers of probability]]
+[[Category:20th-century American statisticians]]

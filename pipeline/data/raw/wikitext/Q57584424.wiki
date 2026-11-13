@@ -1,0 +1,56 @@
+{{Short description|American physicist}}
+{{Orphan|date=December 2018}}
+{{Infobox person
+| name          = Charles R. Legéndy
+| image         = Charles Legendy 2008.jpg
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = C. R. Legéndy – photograph taken in 2008
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = {{birth date and age|1936|11|02}}
+| birth_place   = 
+| death_date    = 
+| death_place   = 
+| other_names   = 
+| occupation    = Scientist
+| years_active  = 
+| known_for     = Physics: helicons – Neuroscience: Poisson surprise, brain capacity
+| notable_works = 
+}}
+
+'''Charles Rudolf Legéndy''' (Hungarian: Legéndy Károly Rudolf, born November 2, 1936), is a Hungarian-born American engineer, theoretical physicist, and neuroscientist.
+
+In physics, Legéndy is known for his theoretical work on the [[Helicon (physics)|helicon]] phenomenon,<ref>Boswell, R. W. and Chen F. F. (December 1997) "Helicons – the early years".  IEEE Transactions on Plasma Science 25 (6): 1229–1244.  DOI: 10.1109/27.650898.</ref> In neuroscience, he is known for introducing the "Poisson surprise" test used for burst detection in neuronal spike trains,<ref name="poisson surprise">Gourévitch, B. and Eggermont, J. J.  (2007) “A nonparametric approach for detection of bursts in spike trains.”  Journal of Neuroscience Methods 160:349-358. DOI:10.1016/j.jneumeth.2006.09.024</ref><ref name="Cotterill" /> and for his calculations of brain capacity.<ref name="Hebb 1976" />
+
+== Biography ==
+Legéndy began his university studies at the [[Budapest University of Technology and Economics|Budapest University of Technology]] (Műegyetem). After emigrating to the United States in 1956, he obtained a bachelor's degree in engineering physics from [[Princeton University]] (1959) and a PhD in theoretical physics from [[Cornell University]] (1964).
+
+In his postdoctoral years, Legéndy switched from physics to neuroscience and took a series of research positions in the US and overseas, publishing both theoretical and experimental papers.  In 1985 he lost his research funding and returned to engineering, working in aerospace design ([[ITT Inc.#ITT Avionics|ITT Avionics]], [[Kearfott Guidance & Navigation|Singer-Kearfott]]), and in database management, until his retirement (2001).  In retirement, Legéndy joined the Psychology Department at [[Columbia University]] in an unpaid position as an adjunct researcher,<ref>{{cite web |url=https://psychology.columbia.edu/content/charles-legendy |title=Charles Legendy {{!}} Department of Psychology |website=psychology.columbia.edu |url-status=dead |archive-url=https://web.archive.org/web/20161220194144/https://psychology.columbia.edu/content/charles-legendy |archive-date=2016-12-20}}</ref> and (after a 26-year hiatus in publications) resumed work in theoretical neuroscience.
+
+While in Germany, Legéndy met his future wife Annemarie; they married in 1977, and settled down to raise their children in New York City.
+
+== Physics: helicon waves ==
+As a graduate student at Cornell, Legéndy joined an experimental team which had just discovered an electromagnetic resonance phenomenon at unexpectedly low frequencies (32&nbsp;Hz and below) inside a metal sample in a magnetic field.  Legéndy showed that the resonance was the manifestation of solid-state plasma wave propagation inside the metal,<ref name="Bowers Legendy">{{cite journal|author1=Bowers, R|author2=Legéndy, C|author3=Rose, F|date=November 1961 |title=Oscillatory galvanomagnetic effect in metallic Sodium |journal=Physical Review Letters| volume=7 |issue=9 |pages=339-341 |doi=10.1103/PhysRevLett.7.339}}</ref> mathematically comparable to radio whistlers <ref>Storey, L. R. O. (9 July 1953) "An investigation of whistling atmospherics". Philosophical Transactions of the Royal Society A. 246 (908): 113.  DOI: 10.1098/rsta.1953.0011.</ref> in the [[ionosphere]].
+
+== Neuroscience: general design of data processing in the brain ==
+Legéndy's theory of the brain develops certain additions to the [[Hebbian theory]]; in particular, to the theory of cell assemblies.<ref>Palm, G. (February 1981) “Towards a theory of cell assemblies” Biological Cybernetics 39 (3): 181-194. DOI: 10.1007/BF00342771</ref>  He estimated the maximum number of stable cell assemblies that could fit into the network. Under the most optimistic set of assumptions available at the time, the brain model could contain up to 10<sup>9</sup> "mental entities," the figure later used by Hebb<ref name="Hebb 1976">Hebb, D. O. (December 1976) "Physiological learning theory".  Journal of Abnormal Child Psychology 4 (4): 309-314.  DOI: 10.1007/BF00922529, {{PMID|187637}}, print ISSN 0091-0627, online ISSN 1573-2835.</ref> in illustrating the large capacity of the brain.  (Recent data shows that the estimate must be greatly reduced; and Legéndy now believes that the large capacity of brains cannot be explained in terms of synaptic weights alone; synapse-based memory must be supplemented by a molecular backup system.<ref name="synaptic and extrasynaptic">Legéndy, C. R. (August 2016) "Synaptic and extrasynaptic traces of long-term memory: the ID molecule theory". Reviews in the Neurosciences 27 (6): 575-598.  DOI: 10.1515/revneuro-2016-0015.</ref>)
+
+Legéndy's work on brain circuitry and ignitions led to the “Poisson surprise” analysis of neuronal spike trains<ref name="legendy and salcman">Legéndy, C. R. and Salcman M. (April 1985) "Bursts and recurrences of bursts in the spike trains of spontaneously active striate cortex neurons". Journal of Neurophysiology 53 (4): 926-939. DOI: 10.1152/jn.1985.53.4.926.   {{PMID|3998798}}.</ref> a method of burst detection.<ref name="Cotterill">Cotterill, E. and Eglen, S. J. (February 2018) “Burst detection methods”. q-bio.NC (Quantitative Biology - Neurons and Cognition) arXiv:1802.01287v1</ref><ref name="poisson surprise" />  (Poisson surprise is defined as –log P, where P is the probability of a spike pattern under the assumed baseline distribution of spiking — in this case the [[Poisson distribution]].)  The test can quickly detect and quantify bursts in neuronal spike trains; and it is used, for instance, as a way to detect loss of functionality in certain brain regions. The critique of the Poisson surprise test<ref name="Cotterill" /><ref name="poisson surprise" /> is that actual spike distributions differ from the Poisson distribution to varying degrees (for instance for interspike intervals smaller than the refractory period); the critique generally suggests changing the underlying probability distribution, not the principle of surprise-based burst detection.  The concept of surprising events in neuronal spike trains was originally introduced on theoretical grounds,<ref>Palm, G. (November 1981) “Evidence, information, and surprise” Biological Cybernetics 42 (1): 57-68.  {{PMID|7326283}}, DOI: 10.1007/BF00335160</ref> in view of the large number of unplanned contacts present in the brain which necessitate statistical methods for distinguishing the useful signals from random firing.<ref name="circuits in the brain">Legéndy, C. R. (2009) Circuits in the Brain: A Model of Shape Processing in the Primary Visual Cortex.  New York: Springer, 2009.  DOI: 10.1007/978-0-387-88849-1, {{ISBN|978-0-387-88848-4}}, e-{{ISBN|978-0-387-88849-1}}.</ref><ref name="circuits in the brain 3rd ed">Legéndy, C. R. (2025) Circuits in the Brain, Third Edition. Amazon KDP, 2025, Independently published. {{ISBN|979-8298463942}}, {{ISBN|979-8271082719}}.</ref>
+
+
+
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Legendy, Charles}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:American engineers]]
+[[Category:American neuroscientists]]
+[[Category:Budapest University of Technology and Economics alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Hungarian emigrants to the United States]]
+[[Category:Princeton University alumni]]

@@ -1,0 +1,158 @@
+{{Use mdy dates|date=January 2015}}
+{{short description|American engineer and academic}}
+{{Infobox scientist
+| image             = 
+| caption           = 
+| birth_name        = Daniel Amihud Lidar
+| birth_date        = 1968
+| birth_place       = Jerusalem
+| death_date        = 
+| death_place       = 
+| fields            = [[Electrical Engineering]] and [[Chemistry]] and [[Physics]]
+| workplaces        = [[UC Berkeley]]<br />[[University of Toronto]]<br />[[University of Southern California]]
+| education         = [[Hebrew University of Jerusalem]]
+| doctoral_advisor  = [[Robert Benny Gerber]]<br />[[Ofer Biham]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| footnotes         = 
+}}
+
+'''Daniel Amihud Lidar'''<ref>{{Cite web | url=https://viterbi.usc.edu/directory/faculty/Lidar/Daniel | title=USC - Viterbi School of Engineering - Viterbi Faculty Directory}}</ref>; born 1968) is the holder of the Viterbi Professorship of Engineering at the [[University of Southern California]], where he is a professor of electrical engineering, chemistry, physics & astronomy. He is the director and co-founder of the [[University of Southern California|USC]] [[Center for Quantum Information Science & Technology]] (CQIST), the director of the USC-IBM Quantum Innovation Center,<ref>{{Cite web|url=https://viterbischool.usc.edu/mediacoverage/usc-opens-first-ibm-quantum-innovation-center-on-the-west-coast/|title=USC-IBM Quantum Innovation Center}}</ref> as well as scientific director of the [[USC-Lockheed Martin Quantum Computing Center]], notable for his research on control of [[quantum system]]s and [[quantum information processing]].
+
+==Education==
+He is a class of 1986 graduate of the [[Armand Hammer United World College of the American West]]. He obtained his PhD from the [[Hebrew University of Jerusalem]] in 1997 under Robert Benny Gerber <ref>{{Cite web|url=https://scholars.huji.ac.il/robertbennygerber/biocv/cv|title=Robert Benny Gerber}}</ref> and [[Ofer Biham]], with a thesis entitled ''Structural Characterization of Disordered Systems''.
+
+==Career==
+In 1997–2000, he was a postdoc at [[UC Berkeley]], having been awarded Rothschild Foundation<ref>{{Cite web | url=http://www.yadhanadiv.org.il/fellowship-prize/rothschild-fellowship |title = Rothschild Fellows &#124; Yad Hanadiv}}</ref> and [[Fulbright Program]] fellowships (the latter of which he declined){{citation needed|date=June 2018}}; in 2000–2005, he was an assistant professor and then later an associate professor of chemistry at the [[University of Toronto]], with cross-appointments in physics and mathematics. He moved to the [[University of Southern California]] in 2005, where he is a professor of [[electrical engineering]], [[chemistry]], and [[physics]].
+
+==Honors==
+He was a 2017 [[Guggenheim Fellowship]] recipient,<ref>[http://www.gf.org/fellows/all-fellows/daniel-a-lidar/ Guggenheim Fellow]</ref> a 2007 Fellow of the [[American Physical Society]],<ref name="aps">{{cite news|title=2007 Fellows of the American Physical Society|url=http://www.aps.org/units/gqi/fellowship/index.cfm?year=2007|archive-date=September 29, 2012|access-date=March 3, 2011|archive-url=https://web.archive.org/web/20120929210018/http://www.aps.org/units/gqi/fellowship/index.cfm?year=2007}}</ref> a 2012 Fellow of the [[American Association for the Advancement of Science]], and 2015 Fellow of the [[IEEE]]. He is listed as one of the top 20 authors of the decade 2000–2009 in [[Quantum Computing]] by [[Thomson Reuters]]' Sciencewatch.<ref>{{cite news|title=2010 ScienceWatch Quantum Computer interviews|url=http://archive.sciencewatch.com/ana/st/quantum/interview/}}</ref> In 2009 he was elected an Outstanding Referee <ref>{{cite news|title=List of Outstanding Referees of the APS|url=https://journals.aps.org/OutstandingReferees}}</ref> of the [[American Physical Society]]. His early career awards include a [[Sloan Foundation]] Fellowship, the Young Explorer Award given by the [[Canadian Institute for Advanced Research]] for the top 20 researchers in Canada under age 40, and the [[John Charles Polanyi]] Prize in Chemistry awarded by the Ontario Council of Graduate Studies.<ref name="jcp">{{cite news|title=List of John Charles Polanyi prize winners |url=http://ocgs.cou.on.ca/_bin/home/polanyi/prizeWinners.cfm |archive-url=https://web.archive.org/web/20110706192502/http://ocgs.cou.on.ca/_bin/home/polanyi/prizeWinners.cfm |archive-date=July 6, 2011 }}</ref>
+
+==Research==
+He has made numerous contributions to [[quantum computing]] and [[quantum control]], and is the coeditor and coauthor of a book<ref>Daniel A. Lidar (editor) and Todd A. Brun (editor) (2013). "Quantum Error Correction". Cambridge University Press.</ref> on [[quantum error correction]]. His current work focuses on [[adiabatic quantum computing]] and [[quantum annealing]], areas where he has made widely cited contributions to studying the capabilities of the [[D-Wave Systems]] processors.<ref>{{cite journal|title= Defining and detecting quantum speedup |volume=345 |issue= 6195 |journal=Science |pages=420–424 |doi=10.1126/science.1252319 |pmid= 25061205 | last1 = Ronnow | first1 = T. F.|arxiv=1401.2910 |bibcode=2014Sci...345..420R |year= 2014 |s2cid=5596838 }}</ref> His past interests include [[scattering theory]] and [[fractals]]. Lidar's research in quantum information processing has focused primarily on methods for overcoming [[decoherence]]. He wrote some of the founding papers on [[decoherence-free subspaces]], most notably his widely cited paper "Decoherence-free subspaces for quantum computation",<ref>{{cite journal|title= Decoherence-Free Subspaces for Quantum Computation| doi=10.1103/PhysRevLett.81.2594 |bibcode=1998PhRvL..81.2594L |volume=81 |issue= 12|journal=Physical Review Letters |pages=2594–2597|year= 1998|last1= Lidar|first1= D. A.|last2= Chuang|first2= I. L.|last3= Whaley|first3= K. B.|arxiv=quant-ph/9807004| s2cid=13979882 }}</ref> and their generalization, noiseless subsystems. These contributions were noted in his APS Fellow citation.<ref>{{cite web|url=http://www.aps.org/units/gqi/fellowship/index.cfm?year= |title=APS Fellow citation |publisher=Aps.org |date=July 27, 2011 |access-date=January 4, 2012}}</ref> He has also made major contributions to [[dynamical decoupling]], in particular the invention of the concatenated dynamical decoupling (CDD) method.<ref>{{Cite journal|title=K. Khodjasteh and D.A. Lidar, "Fault-Tolerant Quantum Dynamical Decoupling", Phys. Rev. Lett. '''95''', 180501 (2005) |journal=Physical Review Letters |volume=95 |issue=18 |article-number = 180501|doi=10.1103/PhysRevLett.95.180501 |pmid=16383882 |year=2005 |last1=Khodjasteh |first1=K. |last2=Lidar |first2=D. A. |bibcode=2005PhRvL..95r0501K|arxiv=quant-ph/0408128 |s2cid=9754216 }}</ref> He has made a proposal to protect [[adiabatic quantum computation]] against decoherence, using dynamical decoupling, one of the only proposals to date dealing with error correction for the adiabatic model.<ref>{{cite journal|url=http://link.aps.org/doi/10.1103/PhysRevLett.100.160506 |title=Daniel A. Lidar, "Towards Fault Tolerant Adiabatic Quantum Computation", Phys. Rev. Lett. '''100''', 160506 (2008) |doi=10.1103/PhysRevLett.100.179904 |access-date=January 4, 2012 |bibcode=2008PhRvL.100q9904L |volume=100 |issue=17 |article-number=179904 |journal=Physical Review Letters | last1 = Lidar | first1 = Daniel A.|year=2008 |doi-access=free }}</ref> Lidar has also worked on quantum algorithms, having written some of the pioneering papers in the subject on simulation of classical statistical mechanics<ref>{{Cite journal|title=D.A. Lidar and O. Biham, "Simulating Ising Spin Glasses on a Quantum Computer", Phys. Rev. E '''56''', 3661 (1997) |journal=Physical Review E |volume=56 |issue=3 |page=3661 |publisher=Link.aps.org |date=February 12, 1997 |doi=10.1103/PhysRevE.56.3661 |last1=Lidar |first1=Daniel A. |last2=Biham |first2=Ofer |arxiv=quant-ph/9611038 |bibcode=1997PhRvE..56.3661L |s2cid=3686104 }}</ref> and quantum chemistry.<ref>{{Cite journal|title=D.A. Lidar and H. Wang, "Calculating the Thermal Rate Constant with Exponential Speedup on a Quantum Computer", Phys. Rev. E '''59''', 2429 (1999) |journal=Physical Review E |volume=59 |issue=2 |page=2429 |year=1999 |doi=10.1103/PhysRevE.59.2429 |last1=Lidar |first1=Daniel A. |last2=Wang |first2=Haobin |arxiv=quant-ph/9807009 |bibcode=1999PhRvE..59.2429L |s2cid=3735955 }}</ref> In his PhD work he made a widely cited observation on the limited scaling range of empirically observed [[fractals]],<ref>{{cite journal|author1=David Avnir |author2=Ofer Biham |author3=Daniel Lidar |author4=Ofer Malcai |title=  APPLIED MATHEMATICS:Is the Geometry of Nature Fractal?|date=January 2, 1998 |doi=10.1126/science.279.5347.39 |volume=279 |issue=5347 |journal=Science |pages=39–40|arxiv=cond-mat/9801038 |bibcode=1998Sci...279...39A |s2cid=3680350 }}</ref> which led to an exchange with [[Benoit Mandelbrot]].<ref>{{cite journal|url=http://www.sciencemag.org/cgi/content/full/279/5352/783c |title= Is Nature Fractal?|date=February 6, 1998 |access-date=January 4, 2012 |doi=10.1126/science.279.5352.783c |volume=279 |issue= 5352|journal=Science |pages=783c–783|last1= Mandelbrot|first1= B. B.|bibcode=1998Sci...279..783M|s2cid= 122791263|url-access=subscription}}</ref>
+
+==Patents==
+He holds several U.S. patents in the areas of quantum computing and optimization.<ref name="pat1">{{cite patent
+ | inventor1-last = Wu
+ | inventor1-first = Lian-Ao
+ | inventor2-last = Lidar
+ | inventor2-first = Daniel
+ | inventor3-last = Blais 
+ | inventor3-first = Alexandre 
+ | title = Methods for single qubit gate teleportation
+ | url = https://www.freepatentsonline.com/7018852.html 
+ | issue-date = 2006
+ | patent-number = 7018852
+ | country-code = US}}</ref><ref name="pat2">{{cite patent
+ | inventor1-last = Whaley
+ | inventor1-first = K. Birgit
+ | inventor2-last = Lidar
+ | inventor2-first = Daniel
+ | inventor3-last = Kempe
+ | inventor3-first = Julia  | inventorlink3 = Julia Kempe
+ | inventor4-last = Bacon 
+ | inventor4-first = David 
+ | title = Quantum computation
+ | url = https://www.freepatentsonline.com/7184555.html 
+ | issue-date = 2007
+ | patent-number = 7184555
+ | country-code = US}}</ref><ref name="pat3">{{cite patent
+ | inventor1-last = Lidar
+ | inventor1-first = Daniel
+ | inventor2-last = Wu
+ | inventor2-first = Lian-Ao
+ | inventor3-last = Blais 
+ | inventor3-first = Alexandre  
+ | title = Encoding and error suppression for superconducting quantum computers
+ | url = https://www.freepatentsonline.com/7307275.html  
+ | issue-date = 2007
+ | patent-number = 7307275
+ | country-code = US}}</ref><ref name="pat4">{{cite patent
+ | inventor1-last = Lidar
+ | inventor1-first = Daniel
+ | inventor2-last = Wu
+ | inventor2-first = Lian-Ao
+ | title = Dressed qubits
+ | url = https://www.freepatentsonline.com/7364923.html
+ | issue-date = 2008
+ | patent-number = 7364923
+ | country-code = US}}</ref><ref name="pat5">{{cite patent
+ | inventor1-last = Lidar
+ | inventor1-first = Daniel
+ | inventor2-last = Albash
+ | inventor2-first = Tameem
+ | inventor3-last = Vinci
+ | inventor3-first = Walter
+ | title = Nested quantum annealing correction
+ | url = https://www.freepatentsonline.com/10296352.html
+ | issue-date = 2019
+ | patent-number = 10296352
+ | country-code = US}}</ref><ref name="pat6">{{cite patent
+ | inventor1-last = Lidar
+ | inventor1-first = Daniel
+ | inventor2-last = Vinci
+ | inventor2-first = Walter
+ | title = Optimally stopped optimization systems having heuristic optimizer and methods using the same
+ | url = https://www.freepatentsonline.com/11308400.html
+ | issue-date = 2022
+ | patent-number = 11308400
+ | country-code = US}}</ref>
+
+== Publications ==
+* [[Quantum Aspects of Life|''Quantum Aspects of Life'' (book)]], 2008, section co-author
+* "Attack of the quantum worms", [[New Scientist]], October 29, 2005, pp.&nbsp;30–33
+* "Single field shapes quantum bits", Technology Research News, November 3/10, 2004
+* "Sturdy quantum computing demoed", Technology Research News, April 7/14, 2004
+* "World Computations", Lifestyles Magazine Vol. 31, No. 182, 2002, pp.&nbsp;38–40 (an interview)
+* "Quantum Protection", NSERC Newsbureau Bulletin No. 46, published April 25, 2002
+* "A quantum leap in the way computers think", [[Toronto Star]], March 28, 2002, National Report section
+* "Alternative quantum bits go natural", Technology Research News, April 2001
+* "Quantum Computers", [[Chemical & Engineering News]] cover story, November 2000
+* "Haven for Quantum Computation", [[Science (journal)|''Science'']], Editor's Choice, September 2000
+* "Quantum Computing for Chemists", [[New Scientist]], August 1998
+
+== References ==
+{{reflist}}
+
+* [http://sciencewatch.com/ana/st/quantum/authors/ Sciencewatch lists of top 20 authors in Quantum Computing]
+* [http://www.yadhanadiv.org.il/node/615/view/recipients?field_rp_first_name_value=Daniel&field_rp_last_name_value=Lidar&date_filter%5Bvalue%5D%5Byear%5D=&date_filter%5Bvalue%5D%5Bmonth%5D=0&date_filter%5Bvalue%5D%5Bday%5D=0&date_filter%5Bvalue%5D%5Bhour%5D=0&date_filter%5Bvalue%5D%5Bminute%5D=0&date_filter%5Bvalue%5D%5Bsecond%5D=0&field_rp_search_disciplines_value_many_to_one=All Rothschild Fellowship] {{Webarchive|url=https://web.archive.org/web/20150128112827/http://www.yadhanadiv.org.il/node/615/view/recipients?field_rp_first_name_value=Daniel&field_rp_last_name_value=Lidar&date_filter%5Bvalue%5D%5Byear%5D=&date_filter%5Bvalue%5D%5Bmonth%5D=0&date_filter%5Bvalue%5D%5Bday%5D=0&date_filter%5Bvalue%5D%5Bhour%5D=0&date_filter%5Bvalue%5D%5Bminute%5D=0&date_filter%5Bvalue%5D%5Bsecond%5D=0&field_rp_search_disciplines_value_many_to_one=All |date=January 28, 2015 }}
+* [https://sloan.org/past-fellows Sloan Research Fellowship] {{Webarchive|url=https://web.archive.org/web/20180314000756/https://sloan.org/past-fellows |date=March 14, 2018 }}
+* [http://www.aps.org/units/gqi/fellowship/index.cfm?year=2007 APS Fellowship] {{Webarchive|url=https://web.archive.org/web/20120929210018/http://www.aps.org/units/gqi/fellowship/index.cfm?year=2007 |date=September 29, 2012 }}
+* [http://membercentral.aaas.org/fellows?LastName=&Section=All&Country=All&State=All&name=lidar&company= AAAS Fellowship]{{Dead link|date=July 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [https://services27.ieee.org/fellowsdirectory/getdetailprofile.html?custNum=kgJLiOfC4B2rbD5PN0JlMA==&bccaptions=Alphabetical%20Listing%20&bclocations=/fellowsdirectory/home.html IEEE Fellowship]
+
+==External links==
+* [https://www.wired.com/2013/06/d-wave-quantum-computer-usc/ Wired interview with Lidar]
+* [http://archive.sciencewatch.com/ana/st/quantum/10maySTQuanLida/ Sciencewatch interview with Lidar]
+* [https://web.archive.org/web/20080823011403/http://college.usc.edu/faculty/faculty1008189.html  Lidar's USC profile]
+* [https://qserver.usc.edu/group/index.php/people/daniel-lidar/ Lidar's homepage]
+* [http://portal.acm.org/author_page.cfm?id=81100034396&coll=GUIDE&dl=GUIDE&trk=0&CFID=81898675&CFTOKEN=67795786 Lidar at the ACM portal]
+* [https://www.genealogy.math.ndsu.nodak.edu/id.php?id=114528 Lidar's math genealogy]
+* [https://web.archive.org/web/20080808142207/http://qwiki.stanford.edu/wiki/Daniel_Lidar Lidar's Qwiki profile]
+* [http://cqist.usc.edu/ Center for Quantum Information Science & Technology (CQIST) at USC]
+* [http://www.isi.edu/research_groups/quantum_computing/home USC Lockheed-Martin Quantum Computation Center]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lidar, Daniel}}
+[[Category:Living people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the IEEE]]
+[[Category:American quantum physicists]]
+[[Category:American people of Israeli descent]]
+[[Category:21st-century American physicists]]
+[[Category:21st-century American engineers]]
+[[Category:University of Southern California faculty]]
+[[Category:Academic staff of the University of Toronto]]
+[[Category:1968 births]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Scientists from Jerusalem]]
+[[Category:People educated at a United World College]]

@@ -1,0 +1,175 @@
+{{Short description|American physicist (1936–2023)}}
+{{Use British English|date=April 2026}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox scientist
+| name          = Terence James Elkins
+| image         = Terence James Elkins in 1976.jpg
+| image_upright = 0.8
+| caption       = Elkins in 1976
+| birth_date    = {{birth date|1936|3|8|df=y}}
+| birth_place   = [[Melbourne]], Australia
+| death_date    = {{death date and age|2023|11|27|1936|3|8|df=y}}
+| death_place   = [[Williamsburg, Virginia]], US
+| citizenship   = United States
+| field         = [[Physics]]<br/>[[Astronomy]]
+| workplaces    = [[Air Force Research Laboratory|Air Force Cambridge Research Laboratory]]<br/>[[Rome Laboratory|Rome Air Development Center]]<br/>[[Mitre Corporation]]
+| education     = [[University of Melbourne]]<br/>[[Boston University]]
+| known_for     = First ascent of [[Mount Elkins]]
+| awards        = [[Harold Brown Award]], 1979
+}}
+'''Terence James Elkins''' (8 March 1936 – 23 November 2023) was an Australian-born American [[physicist]]. In 1960, he participated in an expedition from [[Mawson Station]] which conducted the first geological surveys of the [[Napier Mountains]] in [[Enderby Land]], [[East Antarctica]]. The highest of this group of mountains, [[Mount Elkins]], was subsequently named after him.<ref name=AAD1965/><ref name=USGS1989/><ref name=Gazetteer124767/><ref name=GNIS4431/> In 1979, he received the [[Harold Brown Award]], the [[United States Air Force]]'s highest honour for research and development, for research he conducted that contributed to the development of the [[PAVE PAWS|AN/FPS-115]], [[AN/FPS-117]] and AN/FPS-118 [[Over-the-horizon radar|over-the-horizon]] [[backscatter]] (OTH-B) air defence [[radar]] system.<ref name=Elkins1991/> Designed to replace the ageing [[Ballistic Missile Early Warning System]], these systems are among the most powerful [[early-warning radar]] systems ever developed.<ref name=GlobalFPS/><ref name=FAS1999/>
+
+==Education==
+Elkins earned his [[Bachelor of Electrical Engineering]] degree from the [[University of Melbourne]] in 1957. He earned his master's degree in [[Physics]] and [[Astronomy]] from [[Boston University]] in 1967.<ref name=BUMaster/> He earned his Ph.D. from the same institution in 1970,<ref name=BUPhD/> publishing a thesis entitled ''Studies of Ionospheric Irregularity Using Radio Astronomical Techniques''.<ref name=Elkins1970/>
+
+==Mawson Station (1960–1961)==
+After completion of his bachelor's degree, Elkins joined the [[Australian National Antarctic Research Expeditions|ANARE]] team that wintered over at [[Mawson Station]] in [[Australian Antarctic Territory]] in 1960.<ref name=ANARE/><ref name=Schneider2023/><ref name=Barrett2020/> The wintering party comprised 33 expeditioners including 12 members of the [[Antarctic Flight RAAF]]; the Officer-in-Charge was Hendrick Geysen. That year, Elkins was part of a 400 km sledging field party that travelled from Mawson Station to the [[Napier Mountains]] in [[Enderby Land]].<ref name=Enderby1960/> The men of this expedition, led by fellow Antarctic explorer [[Sydney Kirkby (explorer)|Syd Kirkby]], conducted the first geological surveys of that area of the continent. The highest of this small group of mountains, [[Mount Elkins]], was subsequently named after Dr. Elkins.<ref name=AAD1965/><ref name=USGS1989/><ref name=Gazetteer124767/><ref name=GNIS4431/> Other survey teams that year visited the [[Framnes Mountains]], conducted geological and survey work in the [[Prince Charles Mountains]], and visited the [[Emperor penguin]] colonies at [[Taylor Glacier]] and [[Fold Island]].<ref name=ANARE/>
+
+ANARE has since been renamed the Australian Antarctic Program, managed by the [[Australian Antarctic Division]], itself a division of the [[Department of the Environment, Water, Heritage and the Arts]].
+
+==Emigration to the United States and early career==
+[[Image:OTH-B coverage.gif|right|thumb|300px|coverage of [[Moscow, Maine|ECRS]] and WCRS AN/FPS-118 over-the-horizon backscatter (OTH-B) radar systems]]
+Elkins emigrated from his native Australia to the United States in 1963, at the height of the [[Space Race]], after being recruited by the scientific research program of the [[United States Air Force]]. Beginning in the early 1960s, he conducted research focused mainly on the [[upper atmosphere]] and [[ionosphere]], and improvements to ground, airborne, and space-based [[Intelligence, surveillance, target acquisition, and reconnaissance|ISTAR systems]], including [[over-the-horizon radar]] systems.
+
+In addition to his work at [[Hanscom Air Force Base]], much of his early research was also conducted at [[Sagamore Hill Radio Observatory]], a ground-based [[solar observatory]] located in [[Hamilton, Massachusetts]]. Sagamore Hill Solar Radio Observatory is a functional component of the [[Radio Solar Telescope Network]] (RSTN).
+
+In 1980, he developed and published an [[aurora]]l echo-scattering model to predict the obscuration of targets when the radar transmission path is through the [[polar regions of Earth]].<ref name=Elkins1980/><ref name=Headrick2008/>
+
+==Development of the AN/FPS-118 air defence radar system==
+Under the universal classification system for electronic radar and tracking systems, the letters “AN” (for Army-Navy) are placed ahead of a three-letter code. The first letter of the three-letter code denotes the type of platform hosting the electronic device, where A=Aircraft; F=Fixed (land-based); S=Ship-mounted; T=Ground transportable. The second letter indicates the type of device, where P=Radar (pulsed); Q=Sonar; R=Radio. The third letter indicates the function of the radar system device, where G=Fire control; R=Receiving; S=Search; T=Transmitting. Thus, the AN/FPS-115 represents the 115th design of an Army-Navy “Fixed, Radar, Search” electronic device.<ref name=Winkler1997/>
+
+Elkins was part of a team of [[Rome Laboratory|Rome Air Development Center]] (RADC) engineers that developed and constructed components for [[frequency modulation]]/[[Continuous-wave radar|continuous wave]] (FM/CW) radars capable of detecting and tracking objects at over-the-horizon ranges. A prototype radar was installed and evaluated on 15 September 1970. The system incorporated a [[Beverage antenna|Beverage array receiving antenna]] located at [[Columbia Falls Air Force Station]], a high-power transmitter array located at [[Moscow Air Force Station]], and an operations center located at [[Bangor International Airport]]. This prototype became operational on 30 October of that year. Experimental transmissions from the Maine site covered a 60° sector from 16.5° to 76.5° [[azimuth]] and from 900 to 3,300 km in range from the radar.
+
+Based on the success of these early experiments, the [[United States Department of Defense]] proposed to deploy a fully operational radar system. This radar system, covering 180° in azimuth, was built at the same locations in Maine. Initial testing was conducted from June 1980 to June 1981. [[GE Aerospace]] (now Lockheed Martin Ocean, Radar and Sensor Systems) received a contract in mid-1982 for full-scale development of the AN/FPS-118 program.<ref name=GlobalMoscow/>
+
+The operational system consisted of multiple [[Over-the-horizon radar|OTH-B radars]] functioning as an [[early-warning radar|early warning system]] to detect incoming enemy bombers, [[Intercontinental ballistic missile|ICBMs]], and [[cruise missile]]s. The system, as initially envisioned, was to consist of four sectors:
+* East Coast Sector (ECRS): facing east, including a group of three transmitters at Moscow Air Force Station, a group of three receivers at Columbia Falls Air Force Station, also in Maine, and an operations center located at Bangor International Airport.
+* West Coast Sector (WCRS): facing west, including a group of three transmitters at [[Christmas Valley, Oregon]], a group of three receivers at [[Tule Lake]], near [[Alturas, California]], and an operations center at [[Mountain Home Air Force Base]] in [[Idaho]].
+* North Sector (in [[Alaska]]): facing north, cancelled prior to completion
+* Central Sector (in [[Texas]]): facing south
+
+Only months after the system became fully operational, the [[Cold War]] came to an end. The military requirement for the OTH-B radar network was therefore greatly diminished. The mission of the ECRS radar system was redirected to counter-narcotics surveillance and [[War on drugs|drug interdiction]], and the ECRS operated in this capacity for several years. The three OTH radars of the WCRS were mothballed, and the incomplete North Sector in Alaska was cancelled.<ref name=GlobalMoscow/>
+
+The Air Force currently maintains the six East Coast and West Coast OTH-B radars in a state called ''warm storage'', which preserves the physical and electrical integrity of the system and permits recall, should a need arise. It would require at least 24 months to bring these first-generation OTH-B radars into operational status.<ref name=GlobalMoscow/>
+
+==Later career==
+Dr. Elkins spent much of his career at [[Hanscom Air Force Base]] in [[Bedford, Massachusetts]], where he conducted research at several of the tenant commands, including the [[Air Force Research Laboratory|Air Force Cambridge Research Laboratories]] (AFCRL) and the Air Force Geophysics Laboratory. He also conducted research at the [[Rome Laboratory|Rome Air Development Center]], located at [[Griffiss Air Force Base]] in [[Rome, New York]]. The Geophysics Laboratory is now known as the [[Phillips Laboratory]], while the Rome Air Development Center is now known as the [[Rome Laboratory]]. Both research laboratories operate under the [[Air Force Materiel Command]] (AFMC).
+
+Throughout a career that spanned nearly five decades, Dr. Elkins' research focused on development and deployment of electronic systems for the gathering and dissemination of [[military intelligence]], including [[Command and control|Command, Control, Communications, and Intelligence]] (C3I), [[satellite imagery]], [[Electromagnetic warfare|electronic warfare]], and systems for [[remote sensing]] of the environment from surface, airborne, space and undersea based platforms.
+
+After more than 20 years in [[research and development]] for the United States Air Force, he joined the [[Mitre Corporation]] in [[McLean, Virginia]], where he continued his research for another 25 years. The majority of his work at MITRE was for the C3I [[Federally funded research and development centers|Federally Funded Research and Development Center]] (FFRDC) supporting the [[United States Department of Defense]].
+
+==Awards and recognition==
+Elkins was the recipient of the 1979 [[Harold Brown Award]]. The Harold Brown Award is the Air Force's highest honour for research and development.
+
+==Publications==
+Elkins has published many scientific journal articles, including:
+
+*{{cite journal|last1=Elkins|first1=Terence J.|last2=Egeland|first2=Alv|title=Ionospheric effects associated with nuclear weapon tests, July–December 1962: a scientific report|journal=Kiruna Geophysical Observatory|volume=63|issue=|pages=2|date=1 March 1963|url=|pmid=|pmc=|doi=|bibcode=|oclc=|jstor=}}
+
+*{{cite journal|last=Elkins|first=Terence J.|title=Influence of solar protons on high-latitude ionospheric disturbance|journal=Radio Science|volume=1|issue=10|pages=1195–1200|date=October 1966|url=https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/rds19661101195|pmid=|pmc=|doi=10.1002/rds19661101195|bibcode=1966RaSc....1.1195E|oclc=|jstor=|url-access=subscription}}
+
+*{{cite journal|last1=Aarons|first1=Jules|last2=Allen|first2=Richard S.|last3=Elkins|first3=Terence J.|title=Frequency dependence of radio star scintillations|journal=Journal of Geophysical Research|volume=72|issue=11|pages=2891–2902|date=1 June 1967|url=https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ072i011p02891|pmid=|pmc=|doi=10.1029/JZ072i011p02891|bibcode=1967JGR....72.2891A|oclc=|jstor=|url-access=subscription}}
+
+*{{cite book|last1=Aarons|first1=Jules|last2=Elkins|first2=Terence J.|last3=Papagiannis|first3=Michael D.|title=Studies of irregular atmospheric refraction using stationary satellites|series=Space Research VIII|pages=405–412|publisher=North Holland Publishing Company|location=Amsterdam|year=1968|url=|pmid=|pmc=|doi=|bibcode=|oclc=|jstor=}}
+
+*{{cite tech report|title=Horizon studies of ATS-1 beacon signals|series=ATS Monthly Technical Data Report|number=|pages=|publisher=|location=|date=1 March 1968}}
+
+*{{cite journal|last1=Elkins|first1=Terence J.|last2=Papagiannis|first2=Michael D.|title=Measurement and interpretation of power spectrums of ionospheric scintillation at a sub-auroral location|journal=Journal of Geophysical Research|volume=74|issue=16|pages=4105–4115|date=1 August 1969|url=https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA074i016p04105|pmid=|pmc=|doi=10.1029/JA074i016p04105|bibcode=1969JGR....74.4105E|oclc=|jstor=|url-access=subscription}}
+
+*{{cite journal|last1=Elkins|first1=Terence J.|last2=Slack|first2=F.F.|title=Observations of travelling ionospheric disturbances using stationary satellites|journal=Journal of Atmospheric and Terrestrial Physics|volume=31|issue=3|pages=421–439|date=1 March 1969|url=https://www.sciencedirect.com/science/article/abs/pii/0021916969900671|pmid=|pmc=|doi=10.1016/0021-9169(69)90067-1|bibcode=1969JATP...31..421E|oclc=|jstor=|url-access=subscription}}
+
+*{{cite journal|last1=Papagiannis|first1=Michael D.|last2=Elkins|first2=Terence J.|title=Dispersive motions of ionospheric irregularities|journal=Journal of Atmospheric and Terrestrial Physics|volume=32|issue=3|pages=383–395|date=1 March 1970|url=https://www.sciencedirect.com/science/article/abs/pii/0021916970900103|pmid=|pmc=|doi=10.1016/0021-9169(70)90010-3|bibcode=1970JATP...32..383P|oclc=|jstor=|url-access=subscription}}
+
+*{{cite tech report|author1=D.L. Evans|author2=P.M. Kalaghan|author3=J. Short|author4=W. Swider|author5=W. Pfister|author6=J. Buchau|author7=G.J. Gassmann|author8=T.J. Elkins|author9=R.A. Wagner|author10=C.P. Pike|title=Ionospheric and tropospheric limitations to radar accuracy|series=Air Force Surveys in Geophysics|number=231|pages=1-102|publisher=Air Force Cambridge Research Laboratories, Air Force Systems Command, United States Air Force
+|location=L.G. Hanscom Field, Bedford, Massachusetts|date=5 February 1971}}
+
+*{{cite tech report|last=Elkins|first=Terence J.|title=A model of auroral substorm absorption (AFCRL-TR-72-0413)|series=Environmental Research Papers|number=404|pages=1-23|publisher=Air Force Cambridge Research Laboratories, Air Force Systems Command, United States Air Force|location=L.G. Hanscom Field, Bedford, Massachusetts|date=18 July 1972|url=https://apps.dtic.mil/sti/trecms/pdf/AD0749859.pdf|access-date=3 December 2023}}
+
+*{{cite tech report|last1=Elkins|first1=Terence J.|last2=Rush|first2=Charles M.|editor-last=Elkins|editor-first=Terence J.|title=An empirical model of the polar ionosphere (AFCRL-TR-73-0331)|chapter=A statistical predictive model of the polar ionosphere|series=Air Force Surveys in Geophysics|number=267|pages=1-153|publisher=Air Force Cambridge Research Laboratories, Air Force Systems Command, United States Air Force|location=L.G. Hanscom Field, Bedford, Massachusetts|date=23 May 1973|url=https://apps.dtic.mil/sti/pdfs/AD0766240.pdf|access-date=3 December 2023}}
+
+*{{cite tech report|last=Elkins|first=Terence J.|title=An analysis of polar cap backscatter radar data (AFCRL-TR-74-0457)|series=Air Force Surveys in Geophysics|volume=74|number=457|pages=1-21|publisher=Air Force Cambridge Research Laboratories, Air Force Systems Command, United States Air Force|location=L.G. Hanscom Field, Bedford, Massachusetts|date=16 September 1974|url=https://apps.dtic.mil/sti/tr/pdf/ADA003346.pdf|access-date=3 December 2023}}
+
+*{{cite journal|last1=Rush|first1=Charles M.|last2=Elkins|first2=Terence J.|title=An assessment of the magnitude of the F-region absorption on HF radio waves using realistic electron density and collision frequency models|journal=ITU Telecommunication Journal|volume=42|issue=|pages=476–488|date=August 1975|url=|pmid=|pmc=|doi=|bibcode=1975ITUTJ..42..476R|oclc=|jstor=}}
+
+*{{cite tech report|last1=Elkins|first1=Terence J.|last2=Gibbs|first2=Joseph|title=Coordinate conversion technique for OTH backscatter radar (RADC-TR-77-183)|pages=1-111|date=1 May 1977|publisher=Rome Air Development Center, Air Force Systems Command, United States Air Force|location=Griffiss Air Force Base, Rome, New York|url=https://apps.dtic.mil/sti/pdfs/ADA057206.pdf|access-date=3 December 2023}}
+
+*{{cite book|last=Elkins|first=Terence J.|editor-last=Coyne|editor-first=Vincent J.|title=Special topics in HF propagation|chapter=Recent advances in HF propagation simulation|pages=21.1–21.5|publisher=Advisory Group for Aerospace Research and Development|location=Neuilly-sur-Seine, France|year=1979|isbn=92-835-0253-1|url=https://apps.dtic.mil/sti/tr/pdf/ADA080855.pdf}}
+
+*{{cite tech report|last=Elkins|first=Terence J.|title=A model for high-frequency radar auroral clutter (RADC-TR-80-122)|pages=1-112|date=1 March 1980|publisher=Rome Air Development Center, Air Force Systems Command, United States Air Force|location=Griffiss Air Force Base, Rome, New York|url=https://apps.dtic.mil/sti/pdfs/ADA091049.pdf|access-date=3 December 2023}}
+
+*{{cite tech report|last1=Elkins|first1=Terence J.|last2=Toman|first2=Kurt|last3=Sales|first3=Gary S.|title=Theoretical and experimental studies of HF ducted propagation (RADC-TR-80-360)|number=81|pages=1-64|date=1 December 1980|publisher=Rome Air Development Center, Air Force Systems Command, United States Air Force|location=Griffiss Air Force Base, Rome, New York|url=https://apps.dtic.mil/sti/citations/ADA098944|access-date=3 December 2023}}
+
+*{{cite tech report|last1=Providakes|first1=Jason|last2=Elkins|first2=Terence J.|last3=Godwin|first3=R.B.|last4=Kelley|first4=M.C.|title=An OTH radar clutter simulation|series=ESD/RADC OTH Radar Symposium|date=1 December 1991|publisher=The MITRE Corporation|location=Bedford, Massachusetts|url=https://apps.dtic.mil/sti/pdfs/ADA248054.pdf|access-date=3 December 2023}}
+
+*{{cite tech report|last1=Elkins|first1=Terence J.|last2=Providakes|first2=Jason|title=HFRAD Hindcast: An OTH-B Radar and Model Comparison Study|series=NASA STI/Recon Technical Report N|number=92|publisher=The MITRE Corporation|location=Bedford, Massachusetts|date=1 December 1991|url=https://apps.dtic.mil/sti/tr/pdf/ADA248065.pdf|access-date=2 December 2023}}
+
+*{{cite book|last1=Earp|first1=Samuel L.|last2=Elkins|first2=Terence J.|last3=Conrath|first3=Bartley C.|chapter=Detection of random minefields in clutter |editor-first1=Abinash C. |editor-first2=Ivan |editor-first3=James M. |editor-first4=Kelly A. |editor-last1=Dubey |editor-last2=Cindrich |editor-last3=Ralston |editor-last4=Rigano |title=Detection Technologies for Mines and Minelike Targets|series=Proceedings of the SPIE|volume=2496|pages=543–555|date=20 June 1995|chapter-url=https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2496/1/Detection-of-random-minefields-in-clutter/10.1117/12.211350.short|pmid=|pmc=|doi=10.1117/12.211350|bibcode=|oclc=|jstor=|s2cid=61021811 }}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=ANARE>{{cite web|author=<!--not stated-->|title=Australian Antarctic Winterers|publisher=ANARE Club|location=Melbourne, Victoria, Australia|year=2023|url=https://www.anareclub.org/who-wintered-in-antarctica/#tab-id-7|access-date=2 December 2023}}</ref>
+
+<ref name=AAD1965>{{cite tech report|last=McKinnon|first=Graeme William|title=Gazetteer of the Australian Antarctic Territory (ANARE Interim Reports)|series=A (II) Geography|volume=2|number=75|page=48|publisher=[[Australian Antarctic Division]]|location=Maribyrnong, Victoria, Australia|year=1965|url=https://www.antarctica.gov.au/site/assets/files/64898/ar_seriesa_geog_vol2_75.pdf|access-date=2 December 2023}}</ref>
+
+<ref name=Barrett2020>{{cite report|last=Barrett|first=Evlyn|title=List of voyages and station parties between 1947 and 1989 in which Australians participated, including winter and some summer personnel|edition=2|publisher=Australian Antarctic Data Centre|location=Kingston Tasmania, Australia|year=2020|doi=10.4225/15/5ab2de9c3fe7f|url=https://researchdata.edu.au/list-voyages-station-summer-personnel/702008|access-date=2 December 2023}}</ref>
+
+<ref name=BUMaster>{{cite web|author=<!--not stated-->|title=Masters Awards|department=Astronomy Department|publisher=Boston University|location=Boston, Massachusetts|date=|url=http://www.bu.edu/dbin/astronomy/ast_alumni.php?id=3|archive-url=https://web.archive.org/web/20110605042315/http://www.bu.edu/dbin/astronomy/ast_alumni.php?id=3 |access-date=2 December 2023|archive-date=5 June 2011 }}</ref>
+
+<ref name=BUPhD>{{cite web|author=<!--not stated-->|title=Doctorate Awards|department=Astronomy Department|publisher=Boston University|location=Boston, Massachusetts|date=|url=http://www.bu.edu/dbin/astronomy/ast_alumni.php?id=2|archive-url=https://web.archive.org/web/20110605042341/http://www.bu.edu/dbin/astronomy/ast_alumni.php?id=2 |access-date=2 December 2023|archive-date=5 June 2011 }}</ref>
+
+<ref name=Elkins1970>{{cite thesis|last=Elkins|first=TJ|title=Dissertation Abstracts International|volume=31|issue=6|chapter=Studies of ionospheric irregularity using radio astronomical techniques|page=3130|degree=PhD|publisher=Boston University|location=Boston, Massachusetts|year=1970|bibcode=|oclc=3592253}}</ref>
+
+<ref name=Elkins1980>{{cite tech report|last=Elkins|first=TJ|title=A model for high frequency radar auroral clutter|series=RADC Technical Reports|volume=1980|number=RADC-TR-80-122|publisher=Rome Air Development Center|location=Rome, New York|date=March 1980|url=https://apps.dtic.mil/sti/pdfs/ADA091049.pdf|access-date=2 December 2023}}</ref>
+
+<ref name=Elkins1991>{{cite tech report|last1=Elkins|first1=Terence J.|last2=Providakes|first2=Jason|title=HFRAD Hindcast: An OTH-B Radar and Model Comparison Study|series=NASA STI/Recon Technical Report N|number=92|publisher=The MITRE Corporation|location=Bedford, Massachusetts|date=1 December 1991|url=https://apps.dtic.mil/sti/tr/pdf/ADA248065.pdf|access-date=2 December 2023}}</ref>
+
+<ref name=Enderby1960>{{cite web|author=<!--not stated-->|title=Sydney L. Kirkby (1933 - )|website=Australian Antarctic Program|department=History|series=Pioneers in Antarctica|publisher=Australian Antarctic Division|location=Kingston, Hobart, Tasmania|date=29 October 2018|quote=In 1960, his party undertook a remarkable 400km sledging traverse through Enderby Land from the Napier Mountains to Mawson station.|url=https://www.antarctica.gov.au/about-antarctica/history/people/syd-kirkby/|access-date=2 December 2023}}</ref>
+
+<ref name=FAS1999>{{cite web|author=<!--not stated-->|title=AN/FPS-118 Over-The-Horizon-Backscatter (OTH-B) Radar|series=Strategic Air Defense Systems|publisher=Federation of American Scientists|location=Washington, D.C.|date=29 June 1999|url=https://nuke.fas.org/guide/usa/airdef/an-fps-118.htm|access-date=2 December 2023}}</ref>
+
+<ref name=Gazetteer124767>{{cite web|author=<!--not stated-->|title=Mount Elkins|work=Gazetteer of the Australian Antarctic Data Centre|publisher=Australian Antarctic Division|location=Kingston, Hobart, Tasmania|year=2023|url=http://data.aad.gov.au/aadc/gaz/display_name.cfm?gaz_id=124767|access-date=2 December 2023}}</ref>
+
+<ref name=GlobalFPS>{{cite web|author=<!--not stated-->|title=AN/FPS-118 Over-The-Horizon-Backscatter (OTH-B) Radar|series=Strategic Air Defense Systems|publisher=[[GlobalSecurity.org]]|location=Alexandria, Virginia|date=16 June 2019|url=http://www.globalsecurity.org/wmd/systems/an-fps-118.htm|access-date=2 December 2023}}</ref>
+
+<ref name=GlobalMoscow>{{cite web|author=<!--not stated-->|title=Moscow Air Force Station|series=Strategic Air Defense Facilities|publisher=[[GlobalSecurity.org]]|location=Alexandria, Virginia|date=24 July 2011|url=http://www.globalsecurity.org/wmd/facility/moscow.htm|access-date=2 December 2023}}</ref>
+
+<ref name=GNIS4431>{{cite web|author=<!--not stated-->|title=Mount Elkins|website=[[Geographic Names Information System]]|department=United States Board on Geographic Names|series=Antarctica Geographic Names Database|publisher=[[United States Geological Survey]]|location=Reston, Virginia|year=2023|url=https://edits.nationalmap.gov/apps/gaz-antarctica/public/search/names/2817383|access-date=2 December 2023}}</ref>
+
+<ref name=Headrick2008>{{cite book|author1=James M. Headrick|author2=Stuart J. Anderson|editor=Merrill I. Skolnik|title=Radar Handbook|edition=3|chapter=Chapter 20: HF Over-the-Horizon Radar|page=20.40|publisher=McGraw Hill|location=New York|year=2008|url=https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/Radar%20Handbook.pdf}}</ref>
+
+<ref name=Schneider2023>{{cite web|author=Darryn Schneider|title=ANARE Expeditioners 1948–1997|work=Antarctic History|year=2023|url=http://antarctica.kulgun.net/History/anare_expeditioners.shtml|access-date=2 December 2023}}</ref>
+
+<ref name=USGS1989>{{cite tech report|author=United States Geological Survey|author-link=United States Geological Survey|title=Gazeteer of the Antarctic|series=89-98|edition=4|page=37|publisher=United States Department of the Interior, United States Geological Survey, National Mapping Division|location=Washington, D.C.|year=1989|url=https://pubs.usgs.gov/msb/7000091/report.pdf|access-date=2 December 2023}}</ref>
+
+<ref name=Winkler1997>{{cite book|last=Winkler|first=David F.|title=Searching the Skies: The Legacy of the United States Cold War Defense Radar Program|chapter=Radar Systems Classification Methods|page=73|publisher=United States Air Force Headquarters Air Combat Command|location=Langley AFB, Virginia|year=1997|lccn=97020912|url=https://nuke.fas.org/guide/usa/airdef/1997-06-01955.pdf}}{{PD-notice}}</ref>
+}}
+
+==Further reading==
+*{{Cite tech report|last=Riddolls|first=Ryan J|title=A Canadian Perspective on High-Frequency Over-the-Horizon Radar|number=DRDC Ottawa TM 2006-285|page=38|publisher=Defence Research and Development Canada|location=Ottawa, Ontario, Canada|date=December 2006|url=https://cradpdf.drdc-rddc.gc.ca/PDFS/unc81/p527279.pdf|access-date=2 December 2023}}
+
+*{{cite book|last=Sinnott|first=Donald Hugh|title=The development of over-the-horizon radar in Australia|series=DSTO Bicentennial History Series|publisher=[[Defence Science and Technology Group|Defence Science and Technology Organisation]], Australian Department of Defence|location=Fairbairn, Canberra, Australia|year=1988|isbn=0-642-13561-4|bibcode=|url=https://www.researchgate.net/publication/234524230}}
+
+==External links==
+* [http://www.aad.gov.au/default.asp?casid=12388 Australian Antarctic Names and Medals Committee (AANMC)]
+* [http://www.scar.org/information/ Scientific Committee on Antarctic Research (SCAR)] {{Webarchive|url=https://web.archive.org/web/20100818063123/http://www.scar.org/information/ |date=18 August 2010 }}
+* [http://aadc-maps.aad.gov.au/database/mapcat/antarctica/v4_99_00.pdf PDF Map of the Australian Antarctic Territory]
+* [http://www.aad.gov.au/default.asp?casid=6909 Stations of the Australian Antarctic Division: Mawson Station]
+* [http://www.peakbagger.com/range.aspx?rid=8210 Major Peaks of the Enderby Land Coast Range]
+* [http://www.mitre.org/ MITRE Corporation Fact Sheet]
+
+{{authority control}}
+
+{{DEFAULTSORT:Elkins, Terence James}}
+[[Category:1936 births]]
+[[Category:2023 deaths]]
+[[Category:21st-century American physicists]]
+[[Category:Australian physicists]]
+[[Category:American explorers of Antarctica]]
+[[Category:Scientists from Melbourne]]
+[[Category:University of Melbourne alumni]]
+[[Category:Boston University Graduate School of Arts & Sciences alumni]]
+[[Category:Australian emigrants to the United States]]
+[[Category:Australian Antarctic scientists]]
+[[Category:Australian explorers of Antarctica]]

@@ -1,0 +1,46 @@
+{{Short description|Russian-American physicist}}
+{{Infobox scientist
+| name              = Nikolay Prokof'ev
+| image             = 
+| image_size        = 200px
+| caption           = 
+| birth_place       = [[Moscow]], [[Russia]]
+| ethnicity         = 
+| fields            = [[Physics]], [[Condensed matter physics|Condensed Matter Theory]]
+| workplaces        = [[University of Massachusetts Amherst]]
+| education         = [[Moscow Engineering Physics Institute]]
+| doctoral_advisor  = 
+| academic_advisors = [[Yuri Kagan]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Diagrammatic Monte Carlo]]
+| awards            = Fellow of the [[American Physical Society]]
+| footnotes         = 
+}}
+'''Nikolay Victorovich Prokof'ev''' is a Russian-American physicist known for his works on supersolidity and strongly correlated systems and pioneering numerical approaches.
+
+== Biography ==
+He received his MSc in physics in 1982 from Moscow Engineering Physics Institute, Moscow, Russia. In 1987, he received his PhD in theoretical physics from Kurchatov Institute (Moscow), under the supervision of Yuri Kagan, where he worked from 1984 to 1999. In 1999, he became a professor at the physics department of the [[University of Massachusetts Amherst]].<ref>{{Cite web|url=https://www.physics.umass.edu/people/nikolai-prokofev|title=Nikolai Prokof'ev {{!}} Physics Department {{!}} UMass Amherst|website=Physics Department at UMass Amherst|access-date=2018-09-30}}</ref>
+
+=== Research ===
+He is recognised for his  research on strongly correlated states in electronic and bosonic systems, critical phenomena, and quantum Monte Carlo methods.<ref>{{Cite web|url=https://scholar.google.com/citations?user=f4_hn9oAAAAJ&hl=en|title=Nikolay Prokofiev - Google Scholar Citations|website=scholar.google.com|access-date=2018-09-28}}</ref>
+
+His and his coauthors have made key contributions to the theory of [[supersolid]]s, including the theory of [[superfluidity]] of crystalline defects, such as the emergence of superfluidity at grain boundaries and in dislocation cores,<ref>{{Cite journal|last1=Prokof'ev|first1=Nikolay|last2=Svistunov|first2=Boris|date=2005-04-20|title=Supersolid State of Matter|journal=Physical Review Letters|volume=94|issue=15|article-number=155302|doi=10.1103/PhysRevLett.94.155302|pmid=15904155|arxiv=cond-mat/0409472|bibcode=2005PhRvL..94o5302P |s2cid=45498667 }}</ref><ref>{{Cite web|url=https://www.crcpress.com/Superfluid-States-of-Matter/Svistunov-Babaev-Prokofev/p/book/9781439802755|title=Superfluid States of Matter|date=2015-04-15|website=CRC Press|access-date=2018-10-04}}</ref> and the theory of the [[superglass]] state.<ref>{{Cite journal|last1=Boninsegni|first1=Massimo|last2=Prokof'ev|first2=Nikolay|last3=Svistunov|first3=Boris|date=2006-03-16|title=Superglass Phase of $^{4}\mathrm{He}$|journal=Physical Review Letters|volume=96|issue=10|article-number=105301|doi=10.1103/PhysRevLett.96.105301|pmid=16605751|arxiv=cond-mat/0512103|s2cid=118886810 }}</ref> Together with [[Boris Svistunov]] and Igor Tupitsyn, he co-invented the widely used [[Monte Carlo method|Monte Carlo]] worm algorithm. With Svistunov, he also developed the [[diagrammatic Monte Carlo]] method,<ref>{{Cite web|url=https://wiki.phys.ethz.ch/quantumsimulations/_media/svistunov1_1.pdf|title=slides}}</ref> a technique for the stochastic summation of Feynman diagrams that is free from the [[numerical sign problem]].<ref>{{Cite journal|last1=Rossi|first1=R.|last2=Prokof'ev|first2=N.|last3=Svistunov|first3=B.|last4=Van Houcke|first4=K.|last5=Werner|first5=F.|date=2017-04-01|title=Polynomial complexity despite the fermionic sign|journal=EPL (Europhysics Letters)|volume=118|issue=1|article-number=10004|doi=10.1209/0295-5075/118/10004|issn=0295-5075|arxiv=1703.10141|bibcode=2017EL....11810004R|s2cid=17929942 }}</ref>
+
+He is an elected Fellow of the [[American Physical Society]],  for "pioneering contributions to theories of dissipative quantum dynamics and for innovative Monte Carlo approaches to quantum and classical studies of critical phenomena."<ref>{{Cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=P|title=APS Fellow Archive|website=www.aps.org|access-date=2018-09-28}}</ref>
+
+He coauthored the book on modern theory of superfluidity.<ref>{{Citation|date=2015-04-15|pages=523–544|publisher=CRC Press|isbn=978-1-4398-0275-5|doi=10.1201/b18346-21|title = Superfluid States of Matter|chapter = Superfluid States in Nature and the Laboratory}}</ref>
+
+== References ==
+{{reflist}}
+{{authority control}}
+
+{{DEFAULTSORT:Prokof'ev, Nikolay}}
+[[Category:20th-century American physicists]]
+[[Category:Russian physicists]]
+[[Category:Scientists from Moscow]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:University of Massachusetts Amherst faculty]]
+[[Category:Russian emigrants to the United States]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

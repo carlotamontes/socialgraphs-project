@@ -1,0 +1,62 @@
+{{short description|Finnish researcher and professor}}
+{{independent sources|date=August 2023}}
+{{Infobox scientist
+| name              = Ville Topias Pulkki
+| image             = Ville_Pulkki_2023.jpg
+| image_size        = 240px
+| image_upright     = 
+| alt               = 
+| caption           = Prof. Ville Pulkki speaking at Aalto University in 2023.
+| birth_date        = {{birth date and age |1969|5|10}}
+| birth_place       = [[Jyväskylä]], [[Finland]]
+| death_date        =
+| death_place       =
+| fields            = [[Spatial sound]],<br>[[Psychoacoustics]]
+| workplaces        = [[Aalto University]]
+| education         = [[Helsinki University of Technology]]
+| doctoral_advisor  = [[Matti Antero Karjalainen|Matti Karjalainen]]
+| thesis_title      = Spatial Sound Generation and Perception by Amplitude Panning Techniques
+| thesis_url        = http://lib.tkk.fi/Diss/2001/isbn9512255324/
+| thesis_year       = 2001
+| doctoral_students =
+| known_for         = [[Spatial sound]]
+| awards            = [[Audio Engineering Society|AES Fellow]] (2010),<br>[[Society of Motion Picture and Television Engineers|Samuel L. Warner Memorial Medal]] (2014),<br>[[Audio Engineering Society|AES Silver Medal]] (2017)
+}}
+
+'''Ville Topias Pulkki''' (born May 10, 1969) is a Finnish acoustics researcher and professor at [[Aalto University]] 2015–. <ref name=cv/>  
+
+== Education ==
+Pulkki studied at the Helsinki University of Technology (TKK), now Aalto University. He obtained a Master of Science in Technology in 1994 studying in the Dept. of Physics under the supervision of Prof. [[Teuvo Kohonen]], best known for inventing the Kohonen Self-Organizing Map. He obtained and a Doctor of Science in Technology in 2001, from the Acoustics Laboratory of TKK under the supervision of Prof. [[:fi:Matti_Karjalainen_(professori)|Matti Karjalainen]].
+
+==Career==
+During the period of his Master's degree at TKK, Pulkki was also studying for a music Master’s degree at the [[Sibelius Academy]], where he undertook technical duties, assisting with a system for panning signals to the multiple loudspeakers of the Chamber music hall. After unsuccessful attempts to apply a pair-wise panning approach based on the [[Panning la|sine/tangent principles]] he adopted a vector-based approach, leading to the development of Vector Base Amplitude Panning method <ref>{{cite journal |last1=Pulkki |first1=Ville |title=Virtual Sound Source Positioning Using Vector Base Amplitude Panning |journal=Journal of the Audio Engineering Society|date=1997 |volume=45 |issue=6 |page=456-466 |url=https://aes2.org/publications/elibrary-page/?id=7853}}</ref> which was formalized during his Doctoral thesis research (1994-2001). Initially, open-access VBAP implementations were provided for C language, Max/MSP, CSound and PureData platforms (http://legacy.spa.aalto.fi/software/vbap/) and a have attracted significant interest within the audio research and academic community. The VBAP method was subsequently adopted by many widely used 3D multi-channel formats, systems and platforms (e.g. the [[ISO MPEG-H standard]] / DTS / Sony Playstation VR / 3GPP IVAS). After completing his PhD in 2001, Pulkki and his co-workers at the Acoustics Laboratory developed the DirAC method for spatial audio coding and synthesis <ref>{{cite journal |last1=Pulkki |first1=Ville |title=Spatial Sound Reproduction with Directional Audio Coding |journal=Journal of the Audio Engineering SocietyusID:106824330} } |date=2007 |volume=55 |issue=6 |page=503-516 |url=https://secure.aes.org/forum/pubs/journal/?elib=14170}}</ref>. 
+
+Pulkki was appointed docent of spatial sound at Aalto University in 2007–2012, an assistant professor in 2012–2015 and a professor in 2015. <ref name=cv/>
+
+Pulkki has received funding for his research from, for example, European Research Council (ERC), Fraunhofer institut and Academy of Finland.  Pulkki is a fellow member of the Audio Engineering Society.  In 2014, Pulkki was awarded the Samuel L. Warner Memorial Medal for his significant research work surround and multichannel audio.
+
+Pulkki has co-authored Communication Acoustics with [[Matti Antero Karjalainen|Matti Karjalainen]] textbook ''Communication Acoustics: An Introduction to Speech, Audio and Psychoacoustics'' (2015), published by [[John Wiley & Sons]]. <ref name=p1/>
+
+== Awards and honors ==
+* [[Audio Engineering Society|Audio Engineering Society Fellow]] (2010) <ref name=cv/>
+* [[Society of Motion Picture and Television Engineers|Samuel L. Warner Memorial Medal]] (2014). [[Society of Motion Picture and Television Engineers]] (SMPTE) ''The award is given of outstanding contributions in the field of spatial sound reproduction and multi-channel audio rendering'' <ref name=cv/>
+* [[Audio Engineering Society|AES Silver Medal]] (2017) ''Exceptional contributions in the understanding and development of spatial audio techniques'' <ref name=cv/>
+
+== Selected publications ==
+* {{cite thesis |url=http://lib.tkk.fi/Diss/2001/isbn9512255324/ | title=Spatial Sound Generation and Perception by Amplitude Panning Techniques| year=2001 | isbn= 951-22-5532-4| accessdate=}}
+* {{cite book | author=Pulkki, Ville & [[Matti Antero Karjalainen|Karjalainen, Matti]]| title=Communication Acoustics: An Introduction to Speech, Audio and Psychoacoustics |publisher=John Wiley & Sons, Ltd | year=2015 | isbn= 978-1-118-86654-2}}
+
+== References ==
+{{Reflist|refs=
+<ref name=cv>{{cite web |url= https://people.aalto.fi/ville.pulkki#cv | title= Ville Pulkki CV| accessdate=August 2, 2019}}</ref>
+<ref name=p1>{{cite web |url= https://people.aalto.fi/ville.pulkki/publications.html | title= Aalto People – Ville Pulkki| accessdate=August 2, 2019}}</ref>
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pulkki, Ville Topias}}
+[[Category:1969 births]]
+[[Category:People from Jyväskylä]]
+[[Category:Finnish inventors]]
+[[Category:Academic staff of Aalto University]]
+[[Category:Living people]]

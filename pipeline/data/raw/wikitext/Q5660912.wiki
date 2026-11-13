@@ -1,0 +1,62 @@
+{{Short description|American computer scientist}}
+{{Infobox scientist
+| name             = Harold Herbert Seward
+| birth_date       = {{Birth date|1930|7|24|mf=yes}}
+| birth_place      = [[Rutland (city), Vermont|Rutland]], [[Vermont]], [[United States]]
+| death_date       = {{Death date and age|2012|6|19|1930|7|14|mf=yes}}<ref>{{cite web|url=http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=harold-h-seward&pid=158131069 |title=HAROLD H. SEWARD Obituary: View HAROLD SEWARD's Obituary by The Boston Globe |publisher=Legacy.com |date=2012-06-19 |accessdate=2012-06-30}}</ref>
+| death_place      = [[Arlington, Massachusetts|Arlington]], [[Massachusetts]], [[United States]]
+| spouse           = Janet Seward
+| fields           = [[Computer Science]]
+| workplaces       = {{Plainlist|
+* [[MIT Instrumentation Laboratory]]
+* [[MIT Lincoln Laboratory]]
+* HH Controls
+}}
+| education        = {{Plainlist|
+* [[Norwich University]]
+* [[Massachusetts Institute of Technology]]
+}}
+| doctoral_advisor = Charles W. Adams
+| known_for        = {{Plainlist|
+* [[Radix sort]] and [[Counting sort]]
+* [[Whirlwind Computer]]
+}}
+}}
+
+'''Harold H. Seward''' (July 24, 1930 – June 19, 2012) was a [[computer scientist]], [[engineer]], and [[inventor]]. Seward developed the [[radix sort]] and [[counting sort]] algorithms in 1954 at [[Massachusetts Institute of Technology|MIT]].<ref>{{Cite web |last1=Huang |first1=Chenn-Jung |last2=Guan |first2=Chih-Tai |last3=Chuang |first3=Yi-Ta |date= |title=Enhanced Generic Key-Address Mapping Sort Algorithm |url=http://par.cse.nsysu.edu.tw/~algo/paper/paper06/C15.pdf |url-status=dead |archive-url=https://web.archive.org/web/20170705082052/http://par.cse.nsysu.edu.tw/~algo/paper/paper06/C15.pdf |archive-date=5 July 2017 |archive-format=PDF |access-date=2023-04-20 |page=2 }}</ref> He also worked on the [[Whirlwind Computer]] and developed instruments that powered the guidance systems for the [[Apollo spacecraft]] and [[Polaris missile]].<ref>{{ cite patent
+ |country=US
+ |number=3137794
+ |status= patent
+ |title=Directionally Sensitive Light Detector
+ |gdate=1964-06-16
+ |fdate=1960-06-28
+ |invent1= Seward, Harold H.
+}}</ref><ref>{{ cite patent
+ |country=US
+ |number=3657549
+ |status= patent
+ |title=Two-Color Horizon Sensor
+ |gdate=1972-04-18
+ |fdate=1970-5-21
+ |invent1= Low, George M.
+ |invent2= Seward, Harold H.
+ |invent3= Gorstein, Mark
+ |invent4= McWilliams, Ian G.
+}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Seward, Harold H.}}
+[[Category:American computer scientists]]
+[[Category:Norwich University alumni]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:American inventors]]
+[[Category:American physicists]]
+[[Category:20th-century American engineers]]
+[[Category:1930 births]]
+[[Category:2012 deaths]]
+
+{{US-compu-scientist-stub}}

@@ -1,0 +1,231 @@
+{{Short description|American-born cell biologist}}
+{{Infobox scientist
+| name = Jason R. Swedlow
+| image = 
+| caption = 
+| birth_date = {{Birth date and age|1961|06|20}}
+| birth_place = Los Angeles, CA
+| death_date = 
+| death_place = 
+| residence = 
+| citizenship = 
+| ethnicity = 
+| field = [[Cell Biology]] & [[Bioimage informatics]]
+| workplaces = [[University of Dundee]], [[Chan Zuckerberg Biohub]]
+| education = [[University of California, San Francisco]]
+| doctoral_advisor = [[David Agard]] & John Sedat
+| thesis_title = Distribution and Dynamics of DNA Topoisomerase II in Drosophila Chromosomes
+| thesis_url = https://books.google.com/books?id=EkrdNwAACAAJ
+| thesis_year = 1994
+| doctoral_students = 
+| known_for = Open Microscopy Environment (OME)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences = 
+| influenced = 
+| awards = [[BBSRC]] Innovator of the Year,  [[Fellow of the Royal Society of Edinburgh]], Honorary [[Order of the British Empire]]
+| religion = 
+| footnotes = 
+| signature = 
+| website = https://openmicroscopy.org
+}}
+
+'''Jason Swedlow''' is an [[United States|American]]-born [[cell biologist]] and light microscopist who is Professor of Quantitative Cell Biology at the [[School of Life Sciences (University of Dundee)|School of Life Sciences]], [[University of Dundee]], [[Scotland]]. He is a co-founder of the [[Open Microscopy Environment]] and [https://www.glencoesoftware.com/ Glencoe Software]. In 2021, he joined [[Wellcome Leap]] as a Program Director of [https://wellcomeleap.org/programs/delta-tissue/ Delta Tissue]. In 2025, he joined the [[Chan Zuckerberg Biohub]] as Senior Director, BioImaging Data.
+==Education and career==
+Swedlow received a B.A. in Chemistry from [[Brandeis University]] in [[Waltham, Massachusetts]], in 1982. He then earned a Ph.D. in [[Biophysics]] from [[UCSF]] in 1994, under the direction of [[David Agard]] and John Sedat. After a postdoctoral fellowship with [[Tim Mitchison]] at UCSF and then [[Harvard Medical School]], Swedlow established his own laboratory in 1998 at the Wellcome Trust Biocentre, [[University of Dundee]], as a Wellcome Trust Career Development Fellow. He was awarded a Wellcome Trust Senior Research Fellowship in 2002 and named Professor of Quantitative Cell Biology in 2007. From 2021 to 2024, he served in a part-time secondment as a Program Director at [[Wellcome Leap]]. He was named a Fellow of the [[Royal Society of Edinburgh]] in 2012 and appointed an [https://www.gov.uk/government/publications/honorary-british-awards-to-foreign-nationals-2021/honorary-awards-to-foreign-nationals-in-2021 Honorary OBE] in 2021.
+==Research==
+Swedlow's research<ref name="googlescholar">{{GoogleScholar|wlaX20IAAAAJ}}</ref> focuses on mechanisms and regulation of [[chromosome]] segregation during mitotic [[cell division]]<ref>{{Cite journal
+| last1 = Andrews | first1 = P. D.
+| last2 = Ovechkina | first2 = Y.
+| last3 = Morrice | first3 = N.
+| last4 = Wagenbach | first4 = M.
+| last5 = Duncan | first5 = K.
+| last6 = Wordeman | first6 = L.
+| last7 = Swedlow | first7 = J. R.
+| title = Aurora B regulates MCAK at the mitotic centromere
+| journal = Developmental Cell
+| volume = 6
+| issue = 2
+| pages = 253–268
+| year = 2004
+| pmid = 14960279 | doi=10.1016/s1534-5807(04)00025-5
+| doi-access = free
+}}</ref><ref>{{Cite journal
+| last1 = Posch | first1 = M.
+| last2 = Khoudoli | first2 = G. A.
+| last3 = Swift | first3 = S.
+| last4 = King | first4 = E. M.
+| last5 = Deluca | first5 = J. G.
+| last6 = Swedlow | first6 = J. R.
+| doi = 10.1083/jcb.200912046
+| title = Sds22 regulates aurora B activity and microtubule-kinetochore interactions at mitosis
+| journal = The Journal of Cell Biology
+| volume = 191
+| issue = 1
+| pages = 61–74
+| year = 2010
+| pmid = 20921135
+| pmc =2953433
+| url = https://discovery.dundee.ac.uk/ws/files/852006/Posch_2010.pdf}}</ref><ref>{{Cite journal
+| last1 = Jaqaman | first1 = K.
+| last2 = King | first2 = E. M.
+| last3 = Amaro | first3 = A. C.
+| last4 = Winter | first4 = J. R.
+| last5 = Dorn | first5 = J. F.
+| last6 = Elliott | first6 = H. L.
+| last7 = McHedlishvili | first7 = N.
+| last8 = McClelland | first8 = S. E.
+| last9 = Porter | first9 = I. M.
+| doi = 10.1083/jcb.200909005
+| last10 = Posch | first10 = M.
+| last11 = Toso | first11 = A.
+| last12 = Danuser | first12 = G.
+| last13 = McAinsh | first13 = A. D.
+| last14 = Meraldi | first14 = P.
+| last15 = Swedlow | first15 = J. R.
+| title = Kinetochore alignment within the metaphase plate is regulated by centromere stiffness and microtubule depolymerases
+| journal = The Journal of Cell Biology
+| volume = 188
+| issue = 5
+| pages = 665–679
+| year = 2010
+| pmid = 20212316
+| pmc =2835940
+}}</ref><ref>{{Cite journal
+| last1 = Moser | first1 = S. C.
+| last2 = Bensaddek | first2 = D.
+| last3 = Ortmann | first3 = B.
+| last4 = Maure | first4 = J. F.
+| last5 = Mudie | first5 = S.
+| last6 = Blow | first6 = J. J.
+| last7 = Lamond | first7 = A. I.
+| last8 = Swedlow | first8 = J. R.
+| last9 = Rocha | first9 = S.
+| doi = 10.1016/j.devcel.2013.06.014
+| title = PHD1 Links Cell-Cycle Progression to Oxygen Sensing through Hydroxylation of the Centrosomal Protein Cep192
+| journal = Developmental Cell
+| volume = 26
+| issue = 4
+| pages = 381–392
+| year = 2013
+| pmid = 23932902
+| pmc =3757158
+}}</ref><ref>{{Cite journal
+| last1 = Porter | first1 = I. M.
+| last2 = Schleicher | first2 = K.
+| last3 = Porter | first3 = M.
+| last4 = Swedlow | first4 = J. R.
+| title = Bod1 regulates protein phosphatase 2A at mitotic kinetochores
+| doi = 10.1038/ncomms3677
+| doi-access = free| journal = Nature Communications
+| volume = 4
+| page = 2677
+| year = 2013
+| pmid = 24157919
+| pmc = 3826647
+| bibcode = 2013NatCo...4.2677P
+}}</ref><ref>{{cite journal|last1=Esmaeeli-Nieh|first1=Sahar|last2=Fenckova|first2=Michaela|last3=Porter|first3=Iain M.|last4=Motazacker|first4=M. Mahdi|last5=Nijhof|first5=Bonnie|last6=Castells-Nobau|first6=Anna|last7=Asztalos|first7=Zoltan|last8=Weißmann|first8=Robert|last9=Behjati|first9=Farkhondeh|last10=Tzschach|first10=Andreas|last11=Felbor|first11=Ute|last12=Scherthan|first12=Harry|last13=Sayfati|first13=Seyed Morteza|last14=Ropers|first14=H. Hilger.|last15=Kahrizi|first15=Kimia|last16=Najmabadi|first16=Hossein|last17=Swedlow|first17=Jason R.|last18=Schenck|first18=Annette|last19=Kuss|first19=Andreas W.|title=BOD1 Is Required for Cognitive Function in Humans and Drosophila|journal=PLOS Genetics|date=2016|volume=12|issue=5|article-number=e1006022|doi=10.1371/journal.pgen.1006022|pmid=27166630|pmc=4864283 |doi-access=free }}</ref><ref>{{cite journal |last1=Zdańkowski |first1=Piotr |last2=Trusiak |first2=Maciej |last3=McGloin |first3=David |last4=Swedlow |first4=Jason R. |title=Numerically Enhanced Stimulated Emission Depletion Microscopy with Adaptive Optics for Deep-Tissue Super-Resolved Imaging |journal=ACS Nano |date=2020 |volume=14 |issue=1 |pages=394–405 |doi=10.1021/acsnano.9b05891 |pmid=31841303|s2cid=209388232 |url=https://www.biorxiv.org/content/biorxiv/early/2019/06/02/653394.full.pdf }}</ref>{{Excessive citations inline|date=January 2025}}
+and the development of software tools for accessing, processing, sharing and publishing large scientific image datasets.<ref>{{Cite journal
+| last1 = Swedlow | first1 = J. R.
+| last2 = Goldberg | first2 = I.
+| last3 = Brauner | first3 = E.
+| last4 = Sorger | first4 = P. K.
+| title = Informatics and Quantitative Analysis in Biological Imaging
+| doi = 10.1126/science.1082602
+| journal = Science
+| volume = 300
+| issue = 5616
+| pages = 100–102
+| year = 2003
+| pmid = 12677061
+| pmc =3522889
+| bibcode = 2003Sci...300..100S
+}}</ref><ref>{{Cite journal
+| last1 = Goldberg | first1 = I. G.
+| last2 = Allan | first2 = C.
+| last3 = Burel | first3 = J. M.
+| last4 = Creager | first4 = D.
+| last5 = Falconi | first5 = A.
+| last6 = Hochheiser | first6 = H.
+| last7 = Johnston | first7 = J.
+| last8 = Mellen | first8 = J.
+| last9 = Sorger | first9 = P. K.
+| last10 = Swedlow | first10 = J. R.
+| title = The Open Microscopy Environment (OME) Data Model and XML file: Open tools for informatics and quantitative analysis in biological imaging
+| journal = Genome Biology
+| volume = 6
+| issue = 5
+| pages = R47
+| doi = 10.1186/gb-2005-6-5-r47
+| year = 2005
+| pmid = 15892875
+| pmc =1175959
+| doi-access = free
+}}</ref><ref>{{Cite journal
+| last1 = Swedlow | first1 = J. R.
+| last2 = Goldberg | first2 = I. G.
+| last3 = Eliceiri | first3 = K. W.
+| last4 = Ome | first4 = C.
+| title = Bioimage Informatics for Experimental Biology*
+| doi = 10.1146/annurev.biophys.050708.133641
+| journal = Annual Review of Biophysics
+| volume = 38
+| pages = 327–346
+| year = 2009
+| pmid = 19416072
+| pmc =3522875
+}}</ref><ref>{{Cite journal
+| last1 = Allan | first1 = C.
+| last2 = Burel | first2 = J. M.
+| last3 = Moore | first3 = J.
+| last4 = Blackburn | first4 = C.
+| last5 = Linkert | first5 = M.
+| last6 = Loynton | first6 = S.
+| last7 = MacDonald | first7 = D.
+| last8 = Moore | first8 = W. J.
+| last9 = Neves | first9 = C.
+| last10 = Patterson
+| doi = 10.1038/nmeth.1896 | first10 = A.
+| last11 = Porter | first11 = M.
+| last12 = Tarkowska | first12 = A.
+| last13 = Loranger | first13 = B.
+| last14 = Avondo | first14 = J.
+| last15 = Lagerstedt | first15 = I.
+| last16 = Lianas | first16 = L.
+| last17 = Leo | first17 = S.
+| last18 = Hands | first18 = K.
+| last19 = Hay | first19 = R. T.
+| last20 = Patwardhan | first20 = A.
+| last21 = Best | first21 = C.
+| last22 = Kleywegt | first22 = G. J.
+| last23 = Zanetti | first23 = G.
+| last24 = Swedlow | first24 = J. R.
+| title = OMERO: Flexible, model-driven data management for experimental biology
+| journal = Nature Methods
+| volume = 9
+| issue = 3
+| pages = 245–253
+| year = 2012
+| pmid = 22373911
+| pmc =3437820
+}}</ref><ref>{{cite journal|last1=Burel|first1=JM|last2=Besson|first2=S|last3=Blackburn|first3=C|last4=Carroll|first4=M|last5=Ferguson|first5=RK|last6=Flynn|first6=H|last7=Gillen|first7=K|last8=Leigh|first8=R|last9=Li|first9=S|last10=Lindner|first10=D|last11=Linkert|first11=M|last12=Moore|first12=WJ|last13=Ramalingam|first13=B|last14=Rozbicki|first14=E|last15=Tarkowska|first15=A|last16=Walczysko|first16=P|last17=Allan|first17=C|last18=Moore|first18=J|last19=Swedlow|first19=JR|title=Publishing and sharing multi-dimensional image data with OMERO.|journal=Mammalian Genome|date=2015|volume=26|issue=9–10|pages=441–7|doi=10.1007/s00335-015-9587-6|pmid=26223880|pmc=4602067}}</ref><ref>{{cite journal|last1=Li|first1=S|last2=Besson|first2=S|last3=Blackburn|first3=C|last4=Carroll|first4=M|last5=Ferguson|first5=RK|last6=Flynn|first6=H|last7=Gillen|first7=K|last8=Leigh|first8=R|last9=Lindner|first9=D|last10=Linkert|first10=M|last11=Moore|first11=WJ|last12=Ramalingam|first12=B|last13=Rozbicki|first13=E|last14=Rustici|first14=G|last15=Tarkowska|first15=A|last16=Walczysko|first16=P|last17=Williams|first17=E|last18=Allan|first18=C|last19=Burel|first19=JM|last20=Moore|first20=J|last21=Swedlow|first21=JR|title=Metadata management for high content screening in OMERO.|journal=Methods|date=2016|volume=96|pages=27–32|doi=10.1016/j.ymeth.2015.10.006|pmid=26476368|pmc=4773399}}</ref><ref name="pmid28775673">{{cite journal| vauthors=Williams E, Moore J, Li SW, Rustici G, Tarkowska A, Chessel A|display-authors=etal| title=The Image Data Resource: A Bioimage Data Integration and Publication Platform. | journal=Nat Methods | year= 2017 | volume= 14 | issue= 8 | pages= 775–781 | pmid=28775673 | doi=10.1038/nmeth.4326 | pmc=5536224 }}</ref><ref>{{cite journal |last1=Ellenberg |first1=Jan |last2=Swedlow |first2=Jason R. |last3=Barlow |first3=Mary |last4=Cook |first4=Charles E. |last5=Sarkans |first5=Ugis |last6=Patwardhan |first6=Ardan |last7=Brazma |first7=Alvis |last8=Birney |first8=Ewan |title=A call for public archives for biological image data |journal=Nature Methods |date=2018 |volume=15 |issue=11 |pages=849–854 |doi=10.1038/s41592-018-0195-8 |pmid=30377375|pmc=6884425 |doi-access=free }}</ref><ref>{{cite book |last1=Besson |first1=Sébastien |last2=Leigh |first2=Roger |last3=Linkert |first3=Melissa |last4=Allan |first4=Chris |last5=Burel |first5=Jean-Marie |last6=Carroll |first6=Mark |last7=Gault |first7=David |last8=Gozim |first8=Riad |last9=Li |first9=Simon |last10=Lindner |first10=Dominik |last11=Moore |first11=Josh |last12=Moore |first12=Will |last13=Walczysko |first13=Petr |last14=Wong |first14=Frances |last15=Swedlow |first15=Jason R. |chapter=Bringing Open Data to Whole Slide Imaging |title=Digital Pathology |journal=Digital Pathology: 15th European Congress, Ecdp 2019, Warwick, UK, April 10–13, 2019: Proceedings. European Congress on Digital Pathology (15Th: 2019: Warwick, England) |series=Lecture Notes in Computer Science |date=2019 |volume=11435 |pages=3–10 |doi=10.1007/978-3-030-23937-4_1 |pmid=31579322|pmc=6774793 |isbn=978-3-030-23936-7 }}</ref><ref>{{cite journal |last1=Moore |first1=Josh |last2=Allan |first2=Chris |last3=Besson |first3=Sébastien |last4=Burel |first4=Jean-Marie |last5=Diel |first5=Erin |last6=Gault |first6=David |last7=Kozlowski |first7=Kevin |last8=Lindner |first8=Dominik |last9=Linkert |first9=Melissa |last10=Manz |first10=Trevor |last11=Moore |first11=Will |last12=Pape |first12=Constantin |last13=Tischer |first13=Christian |last14=Swedlow |first14=Jason R. |title=OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies |journal=Nature Methods |date=December 2021 |volume=18 |issue=12 |pages=1496–1498 |doi=10.1038/s41592-021-01326-w|doi-access=free |pmid=34845388 |pmc=8648559 }}</ref>{{Excessive citations inline|date=January 2025}} He co-founded and led the [[Open Microscopy Environment]], an international consortium that develops and releases open source software for biological imaging and Glencoe Software, which commercialises and customises OME technology for use in academic and biopharmaceutical research (e.g., Columbus from [[PerkinElmer]], [https://www.yokogawa.com/sg/solutions/products-and-services/life-science/high-content-analysis/analysis-software/celllibrarian/ CellLibrarian] from Yokogawa, and Amira from [[Thermo Fisher Scientific]]. He participated in [https://www.eurobioimaging.eu/ Euro-BioImaging], [https://globalbioimaging.org/ Global BioImaging], and is co-Founder of [https://www.rms.org.uk/community/networks-affiliates/bioimaginguk-network.html BioImagingUK], a consortium of UK imaging scientists that develop, use, or administer imaging solutions for life sciences research. Using OME technology, he collaborated with [[EMBL-EBI]] to develop the [https://idr.openmicroscopy.org/ Image Data Resource], a public data resource for reference images from bioimaging.
+
+==Teaching==
+Swedlow has served as Faculty (since 1997) and Co-Director (2009{{ndash}}2014) of the Analytical and Quantitative Light Microscopy Course at the [[Marine Biological Laboratory]] in [[Woods Hole]], Massachusetts, and participates as Faculty in the [[National Centre for Biological Sciences|NCBS]] Bangalore Microscopy Course.
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Swedlow, Jason}}
+[[Category:Living people]]
+[[Category:Harvard Medical School alumni]]
+[[Category:21st-century American biologists]]
+[[Category:Brandeis University alumni]]
+[[Category:University of California, San Francisco alumni]]
+[[Category:American emigrants to Scotland]]
+[[Category:1961 births]]
+[[Category:Academics of the University of Dundee]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Scientists from Los Angeles]]

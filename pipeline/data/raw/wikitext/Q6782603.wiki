@@ -1,0 +1,91 @@
+{{short description|Japanese polymer physicist}}
+{{Infobox scientist
+| honorific_prefix   = 
+| name               = Masao Doi
+| honorific_suffix   = {{postnom|country=GBR|HonFInstP|size=100%}}
+| native_name        = 
+| native_name_lang   = 
+| image              = <!-- just the name, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt                = 
+| caption            = 
+| birth_name         = 
+| birth_date         = March 29, 1948
+| birth_place        = 
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| other_names        = 
+| education          = [[University of Tokyo]] (Ph.D.)
+| fields = [[Soft matter]]
+| years_active       = 
+| employer           = [[Nagoya University]]
+| organization       = 
+| known_for          = [[Doi–Peliti field theory]]
+| notable_works      = ''The Theory of Polymer Dynamics'' (1978)
+| style              = 
+| height             = <!-- {{height|m=}} -->
+| television         = 
+| title              = 
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = 
+| relatives          = 
+| callsign           = 
+| awards             = APS Polymer Physics Prize (2001)<br>[[Bingham Medal]] (2001)
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| module             = 
+| module2            = 
+| module3            = 
+| website            = {{URL|http://mdoi.jp/index_E.html}}
+| footnotes          = 
+}}
+
+{{Nihongo|'''Masao Doi'''|土井正男|Doi Masao}} (born 29 March 1948) is a Professor Emeritus at [[Nagoya University]] and The [[University of Tokyo]]. He is a Fellow of the Toyota Physical and Chemical Research Institute.<ref name="home">{{citation|title=Home Page of Masao Doi|url=http://www11.ocn.ne.jp/~masaodoi/index_E.html|access-date=2013-03-01|archive-url=https://web.archive.org/web/20150712150409/http://www11.ocn.ne.jp/~masaodoi/index_E.html|archive-date=2015-07-12|url-status=dead}}</ref> In 1976, he introduced [[Second quantization|second quantized formalism]] for studying [[Reaction-diffusion system|reaction-diffusion]] systems, which is now known as the [[Doi–Peliti field theory]].<ref name="1976a">{{citation|title = Second quantization representation for classical many-body system|last1= Doi|first1= M.|journal=J. Phys. A: Math. Gen.|year=1976|doi=10.1088/0305-4470/9/9/008|volume=9|issue=9|page=1465}}</ref><ref name="1976b">{{citation |title = Stochastic theory of diffusion-controlled reaction|last1= Doi|first1= M.|journal=J. Phys. A: Math. Gen.|year=1976|doi=10.1088/0305-4470/9/9/009|volume=9|issue=9|page=1479|bibcode= 1976JPhA....9.1479D}}</ref> In 1978 and 1979 he wrote a series of papers with [[Sam Edwards (physicist)|Sir Sam Edwards]] expanding on the concept of [[reptation]] introduced by [[Pierre-Gilles de Gennes]] in 1971.<ref name="flow">{{Cite journal | last1 = Doi | first1 = M. | last2 = Edwards | first2 = S. F. | doi = 10.1039/f29787401789 | title = Dynamics of concentrated polymer systems. Part 1.?Brownian motion in the equilibrium state | journal = Journal of the Chemical Society, Faraday Transactions 2 | volume = 74 | pages = 1789–1801 | year = 1978 }}</ref><ref name="flow2"/><ref name="flow3"/><ref name="flow4"/>  In 1996 he authored the textbook ''Introduction to Polymer Physics''.<ref name="tbook">{{cite book | title=Introduction to Polymer Physics | author=Doi, M. | isbn=9780198517894 | lccn= <!-- 95014969 wrong number --> | series=Oxford Science Publications | year=1996 | publisher=Clarendon Press }}</ref>
+
+== Recognition and awards ==
+In 2001 the [[American Physical Society]] awarded Doi the Polymer Physics Prize for "pioneering contributions to the theory of dynamics and rheology of entangled polymers and complex
+fluids."<ref name="aps">{{citation|title=2001 Polymer Physics Prize Recipient|url=http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=Masao&last_nm=Doi&year=2001|access-date=2013-03-01}}</ref>
+
+He was also awarded the [[Bingham Medal]] in 2001 by the [[Society of Rheology]].<ref name= "BM"/>
+
+In 2016, he was elected a member of the [[National Academy of Engineering]] for contributions to the rheology of polymeric liquids, especially the entanglement effect in concentrated solutions and melts.
+
+==References==
+<references>
+
+<!-- Use list-defined references function to reduce editing clutter per WP:LDR -->
+<ref name="flow2">{{Cite journal | last1 = Doi | first1 = M. | last2 = Edwards | first2 = S. F. | doi = 10.1039/F29787401802 | title = Dynamics of concentrated polymer systems. Part 2.?Molecular motion under flow | journal = Journal of the Chemical Society, Faraday Transactions 2 | volume = 74 | pages = 1802–1817 | year = 1978 }}</ref>
+<ref name="flow3">{{Cite journal | last1 = Doi | first1 = M. | last2 = Edwards | first2 = S. F. | doi = 10.1039/F29787401818 | title = Dynamics of concentrated polymer systems. Part 3.?The constitutive equation | journal = Journal of the Chemical Society, Faraday Transactions 2 | volume = 74 | pages = 1818–1832 | year = 1978 }}</ref>
+<ref name="flow4">{{Cite journal | last1 = Doi | first1 = M. | last2 = Edwards | first2 = S. F. | doi = 10.1039/F29797500038 | title = Dynamics of concentrated polymer systems. Part 4.?Rheological properties | journal = Journal of the Chemical Society, Faraday Transactions 2 | volume = 75 | pages = 38–54 | year = 1979 }}</ref>
+<ref name= "BM">{{cite web|url=https://www.rheology.org/SoR/Awards/Bingham/Medalists|title=Bingham Medalist|publisher=Society of Rheology|access-date=15 December 2018}}</ref>
+
+</references>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Doi, Masao}}
+[[Category:Living people]]
+[[Category:Academic staff of Nagoya University]]
+[[Category:University of Tokyo alumni]]
+[[Category:Academic staff of the University of Tokyo]]
+[[Category:20th-century Japanese scientists]]
+[[Category:Polymer scientists and engineers]]
+[[Category:1948 births]]
+[[Category:21st-century Japanese scientists]]
+
+
+{{edu-bio-stub}}

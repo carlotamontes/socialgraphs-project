@@ -1,0 +1,68 @@
+{{short description|German physicist and computer scientist}}
+{{Infobox scientist
+| image             = 
+| caption           = 
+| birth_date        = {{birth date and age|df=yes|1977|5|8}}
+| birth_place       = Würzburg, Germany
+|fields            = [[Physics]]<br />[[Cryptography]]<br />[[Computer Science]]
+|workplaces        = [[University of Amsterdam]]<br />[[California Institute of Technology]]<br />[[National University of Singapore]]<br />[[Delft University of Technology]]
+| education         = University of Amsterdam
+| thesis_title      = Cryptography in a Quantum World
+| thesis_year       = 2008
+| doctoral_advisor  = Harry Buhrman
+}}
+
+'''Stephanie Dorothea Christine Wehner'''  (born 8 May 1977 in [[Würzburg]])<ref>[http://albumacademicum.uva.nl/id/id090056 S.D.C. Wehner, 1977 -] at the University of Amsterdam ''Album Academicum'' website.</ref> is a German [[physicist]] and [[computer scientist]].
+
+She is director and co-founder of the European [http://quantuminternetalliance.org Quantum Internet Alliance], a Professor 
+at [[QuTech]], [[Delft University of Technology]].<ref name="page">{{cite web|url=http://qutech.nl/person/stephanie-wehner-roadmap/|title=Stephanie Wehner's Webpage}}</ref> and a member of the [[Royal Netherlands Academy of Arts and Sciences]].
+
+== Education and early life ==
+She studied at the [[University of Amsterdam]] and obtained her Ph.D. at [[Centrum voor Wiskunde en Informatica|CWI]]. Following this, she moved to [[Caltech]] as a postdoctoral researcher (under [[John Preskill]]).<ref name="page" /><ref>{{cite web|title=IQI Caltech|url=http://www.iqi.caltech.edu/people.html}}</ref>
+
+Wehner was involved in [[computer security]], for example, kernel [[rootkit]]s,<ref>{{cite web|url=http://packetstormsecurity.org/files/25297/fbsdfun.htm|title=Fun and Games with FreeBSD Kernel Modules}}</ref><ref>{{cite web|archive-url=https://web.archive.org/web/20130327083229/http://www.r4k.net|archive-date=2013-03-27|url=http://www.r4k.net/|title=Atrak home page}}</ref> and worked as a professional [[Hacker (computer security)|hacker]].<ref>{{Cite journal|last=Castelvecchi|first=Davide|date=2018-02-15|title=The quantum internet has arrived (and it hasn't)|journal=Nature|language=EN|volume=554|issue=7692|pages=289–292|doi=10.1038/d41586-018-01835-3|pmid=29446394|issn=0028-0836|bibcode=2018Natur.554..289C|doi-access=free}}</ref>
+
+== Career ==
+From 2010 to 2014, Wehner was an [[assistant professor]] and later [[associate professor]] at the Department of Computer Science at the [[National University of Singapore]] and a principal investigator at the [[Centre for Quantum Technologies]]. In 2014, she started as [[associate professor]] at [[QuTech]], [[Delft University of Technology]] and as of 2016, she is  [[Antoni van Leeuwenhoek]] professor at the [[Delft University of Technology]].
+
+== Research ==
+Wehner's research extends over a broad spectrum of information processing in quantum mechanical systems, with a special focus on [[quantum cryptography]], [[quantum communications]] and [[quantum network]]ing. 
+In quantum cryptography, she is best known for introducing the [[noisy-storage model]] in [[quantum cryptography]].<ref>{{cite journal|last=Wehner|first=S.|author2=C. Schaffner|author3=B. Terhal|year=2008|title=Cryptography from noisy-storage|journal=Physical Review Letters|volume=100|issue=22|article-number=220502|arxiv=0711.2895|bibcode=2008PhRvL.100v0502W|doi=10.1103/PhysRevLett.100.220502|pmid=18643410|s2cid=2974264}}</ref> Wehner's research focuses mainly on [[quantum cryptography]] and [[quantum communications]].
+
+In [[quantum network]]ing, Wehner made fundamental contributions to shaping the field, including setting forth a vision for the road ahead.<ref>{{cite journal|last=Wehner|first=S.|author2=D. Elkouss|author3=R. Hanson|year=2018|title=Quantum Internet: A vision for the road ahead|journal=Science|volume=362|issue=6412|page=9288 |doi=10.1126/science.aam9288 |pmid=30337383 |bibcode=2018Sci...362.9288W |url=https://www.science.org/doi/10.1126/science.aam9288|url-access=subscription}}</ref> She has developed the first [[link layer]] for quantum networks,<ref>{{cite book|last= Dahlberg|display-authors=etal|first=A. |chapter=A link layer protocol for quantum networks |title=Proceedings of the ACM Special Interest Group on Data Communication |date=2019 |pages=159–173 |doi=10.1145/3341302.3342070|arxiv=1903.09778|isbn=978-1-4503-5956-6 }}</ref> as well as the first operating system that allows programming quantum network applications and executing them on quantum network nodes.<ref>{{cite journal|last=Delle Donne|display-authors=etal|first=D.|year=2025|title="An operating system for executing applications on quantum network nodes"|journal=Nature|volume=639|issue=8054 |pages=321–328|doi=10.1038/s41586-025-08704-w|doi-access=free|pmid=40075182 |pmc=11903313|arxiv=2407.18306 |bibcode=2025Natur.639..321D }}</ref>
+
+Wehner has also worked on using the perspective of information processing to understand physics. Together with [[Jonathan Oppenheim]], she discovered that the amount of [[Action at a distance|non-locality]] in [[quantum mechanics]] is limited by the [[uncertainty principle]].<ref name=":0">{{cite journal|last=Oppenheim|first=J.|author2=Wehner, S.|date=18 November 2010|title=The Uncertainty Principle Determines the Nonlocality of Quantum Mechanics|journal=Science|volume=330|issue=6007|pages=1072–1074|arxiv=1004.2507|bibcode=2010Sci...330.1072O|doi=10.1126/science.1192065|pmid=21097930|s2cid=10166642}}</ref><ref>{{cite web|url=https://www.newscientist.com/article/dn19797-quantum-uncertainty-controls-action-at-a-distance.html|title=Quantum uncertainty controls 'action at a distance'}}</ref><ref>{{cite web|url=http://www.cosmosmagazine.com/node/3872/full|title=Quantum world more ordered than thought|archive-url=https://web.archive.org/web/20120403162611/http://www.cosmosmagazine.com/node/3872/full|archive-date=2012-04-03}}</ref>
+
+== QCRYPT conference ==
+In 2011, Wehner and [[Matthias Christandl]] founded the [[QCRYPT]]<ref>{{Cite web|url=http://2017.qcrypt.net/qcrypt-charter/|title=QCrypt Charter|website=QCrypt 2017|language=en-GB|access-date=2019-02-15}}</ref> conference series. [http://qcrypt.net QCrypt] is held once a year, with a location rotating between Europe, Asia and America.
+
+== Quantum Internet Alliance ==
+Stephanie Wehner is the director and co-founder of the [https://quantuminternetalliance.org/ Quantum Internet Alliance], a European initiative founded in 2017 with the goal to build a prototype Quantum Internet. Currently, the Quantum Internet Alliance is supported by the [[European Commission]] via a Framework Partnership Agreement.
+
+== Publications ==
+Her publications include:
+
+* Oppenheim, Jonathan, and Stephanie Wehner. "The uncertainty principle determines the nonlocality of quantum mechanics." ''Science'' 330.6007 (2010): 1072–1074.<ref name=":0" />
+*Hensen, Bas, et al. "Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres." ''Nature'' 526.7575 (2015): 682.<ref>{{Cite journal|last1=Hensen|first1=B.|last2=Bernien|first2=H.|last3=Dréau|first3=A. E.|last4=Reiserer|first4=A.|last5=Kalb|first5=N.|last6=Blok|first6=M. S.|last7=Ruitenberg|first7=J.|last8=Vermeulen|first8=R. F. L.|last9=Schouten|first9=R. N.|date=October 2015|title=Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres|journal=Nature|language=En|volume=526|issue=7575|pages=682–686|doi=10.1038/nature15759|pmid=26503041|issn=0028-0836|bibcode=2015Natur.526..682H|arxiv=1508.05949|s2cid=205246446}}</ref>
+
+== Awards ==
+Wehner received the Ammodo Science Award in 2019.<ref>{{Cite web|url=https://qutech.nl/stephanie-wehner-wins-ammodo-science-award-2019/|title=Stephanie Wehner wins Ammodo Science Award 2019|date=2019-01-29|website=QuTech|language=en-US|access-date=2019-02-15}}</ref><ref>{{Cite web|url=https://ammodo-science-award.org/en/|title=Home|website=Ammodo Science Award|language=en-US|access-date=2019-02-15}}</ref> In 2022 she was elected to the [[Royal Netherlands Academy of Arts and Sciences]].<ref>{{cite web|publisher=Royal Netherlands Academy of Arts and Sciences|title=Royal Academy selects 22 members|date=12 May 2022|url=https://www.knaw.nl/leden/smets|archive-url=https://web.archive.org/web/20220802150138/https://www.knaw.nl/leden/smets |access-date=2023-11-11|archive-date=2022-08-02 }}</ref><ref>{{cite web|url=https://www.knaw.nl/leden/wehner |archive-url=https://web.archive.org/web/20230312045935/https://www.knaw.nl/leden/wehner |title=Stephanie Wehner |language=nl |publisher=Royal Netherlands Academy of Arts and Sciences |date= |archive-date=12 March 2023}}</ref> In 2025, she was awarded the [[Körber European Science Prize]].<ref>{{cite web | last=Kerckhoff | first=Jan | title=Wofür Stephanie Wehner den Körber-Preis bekommt | website=tagesschau.de | date=19 September 2025 | url=https://www.tagesschau.de/wissen/forschung/koerber-preis-wehner-100.html | language=de | access-date=20 September 2025}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wehner, Stephanie}}
+[[Category:1977 births]]
+[[Category:21st-century German physicists]]
+[[Category:21st-century German women scientists]]
+[[Category:Academic staff of the Delft University of Technology]]
+[[Category:German computer scientists]]
+[[Category:Quantum information scientists]]
+[[Category:Living people]]
+[[Category:Scientists from Würzburg]]
+[[Category:University of Amsterdam alumni]]
+[[Category:German women computer scientists]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:21st-century German women physicists]]

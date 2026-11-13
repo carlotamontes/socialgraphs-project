@@ -1,0 +1,74 @@
+{{short description|American evolutionary biologist}}
+{{Infobox scientist
+| image   = <!--(filename only)-->
+| caption  = 
+| birth_name   = <!-- if different from "name" -->
+| birth_date  = 1966
+| birth_place  = 
+| death_date   = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place  = 
+| fields    = Evolutionary biology 
+| workplaces   = [[Uniformed Services University of the Health Sciences]], [[National Center for Biotechnology Information]]
+| education =  [[Russian National Research Medical University|Moscow Medical Institute]], [[Novosibirsk State University]], [[Institute of Cytology and Genetics]] of the [[Russian Academy of Sciences]] in Novosibirsk (doctorate 1996)
+| known_for         = Research on the biology of CRISPR and Cas9
+}}
+'''Kira S. Makarova''' ({{langx|ru|Кира Макарова}}) is an American [[evolutionary biology|evolutionary biologist]] known for her research on the biology of [[CRISPR]] and [[Cas9]]. She is a staff scientist at the [[National Center for Biotechnology Information]].
+
+==Early life and education==
+Makarova grew up in [[Narva]], then part of the [[Soviet Union]] and later in [[Estonia]], and competed at the national level in the Soviet Biology Olympiad. After completing high school she tried unsuccessfully for several years to enter [[Moscow State University]]. She instead entered the [[Russian National Research Medical University|Moscow Medical Institute]], but after marrying and having a child she moved to [[Novosibirsk State University]] to be closer to her husband's family. There, the shortages of laboratory supplies led her to work in [[computational biology]]. She completed a master's degree in 1991,{{r|focus}} and in 1996 completed a doctorate at the [[Institute of Cytology and Genetics]] of the [[Russian Academy of Sciences]] in Novosibirsk.{{r|profile}} Her work at the institute involved the design of synthetic [[oligonucleotide]]s and, separately, the use of [[oligopeptide]] frequency data to classify [[protein]]s.{{r|focus}}
+
+==Later career and research==
+When Makarova's husband moved to the US to work with [[Eugene Koonin]] in the [[National Center for Biotechnology Information]], Koonin found Makarova a position as research fellow at the [[Uniformed Services University of the Health Sciences]], studying ''[[Deinococcus radiodurans]]'', a bacterium that can survive several different extreme conditions. In 2001, Koonin hired Makarova to join him at NCBI. At the center, beginning in 2006, Makarova and her co-workers investigated the CRISPR-Cas9 system and its biological function as a bacterial [[immune system]]. Interest in the system heightened after other researchers subsequently used it to perform [[genome editing]].{{r|timeline|heroes}}
+
+Makarova's ongoing research involves [[comparative genomics]], and the genetics and protein functions of [[archaea]]. She is the maintainer of a database of archaeal proteins and their relations.{{r|focus}}
+
+==Notable publications==
+* {{Cite journal | issue=3 | year=2015 | volume=163 | publisher=[[Cell Press]] | journal=[[Cell (journal)|Cell]] | issn=0092-8674 | pages=759–771 | last1=Zetsche | first1=Bernd | last2=Gootenberg | first2=Jonathan S. | last3=Abudayyeh | first3=Omar O. | last4=Slaymaker | first4=Ian M. | last5=Makarova | first5=Kira S. | last6=Essletzbichler | first6=Patrick | last7=Volz | first7=Sara E. | last8=Joung | first8=Julia | last9=van der Oost | first9=John | last10=Regev | first10=Aviv | last11=Koonin | first11=Eugene V. | last12=Zhang | first12=Feng | title=Cpf1 Is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System | s2cid=3628765 | doi=10.1016/j.cell.2015.09.038 | author-link11=Eugene V. Koonin | author-link5=Kira S. Makarova| doi-access=free | pmid=26422227 | pmc=4638220 }}
+** – Cited by
+*** {{Cite journal | issue=1 | volume=9 | year=2018 | publisher=[[Nature Portfolio]] | journal=[[Nature Communications]] | issn=2041-1723 | last=Adli | first=Mazhar | s2cid=21692417 | doi=10.1038/s41467-018-04252-2 | title=The CRISPR tool kit for genome editing and beyond| article-number=1911 | doi-access=free | pmid=29765029 | pmc=5953931 | bibcode=2018NatCo...9.1911A }}
+*** {{Cite journal | issue=7 | year=2020 | publisher=[[Nature Portfolio]] | volume=38 | journal=[[Nature Biotechnology]] | issn=1087-0156 | last1=Anzalone | first1=Andrew V. | last2=Koblan | first2=Luke W. | last3=Liu | first3=David R. | pages=824–844 | s2cid=21692417 | pmid=32572269 | doi=10.1038/s41587-020-0561-9 | title=Genome editing with CRISPR–Cas nucleases, base editors, transposases and prime editors | bibcode=2020NatBi..38..824A }}
+
+==References==
+<references>
+
+<ref name=focus>{{citation|url=https://infocus.nlm.nih.gov/2018/01/08/focus-on-nlm-scientists-dr-kira-makarova/|title=Focus on NLM Scientists: Dr. Kira Makarova Makes Her Mark|work=NLM in Focus: A look inside the US National Library of Medicine|publisher=National Library of Medicine|accessdate=2019-09-23|date=January 8, 2018|first=Kathryn|last=McKay}}</ref>
+
+<ref name=heroes>{{citation
+ | last = Lander | first = Eric S. | authorlink = Eric Lander
+ | date = January 2016
+ | doi = 10.1016/j.cell.2015.12.041
+ | issue = 1–2
+ | journal = Cell
+ | pages = 18–28
+ | publisher = Elsevier {BV}
+ | title = The Heroes of CRISPR
+ | url = https://www.broadinstitute.org/files/news/pdfs/PIIS0092867415017055.pdf
+ | volume = 164| pmid = 26771483 | doi-access = free
+ | bibcode = 2016Cell..164...18L }}</ref>
+
+<ref name=profile>{{citation|url=https://www.ncbi.nlm.nih.gov/research/staff/makarova/|title=Kira S. Makarova, PhD|publisher=National Center for Biotechnology Information|work=Research staff|accessdate=2019-09-23}}</ref>
+
+<ref name=timeline>{{citation|url=https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline|title=CRISPR Timeline|date=25 September 2015 |publisher=Broad Institute|accessdate=2019-09-23}}</ref>
+
+</references>
+
+==External links==
+*{{Google Scholar id|VFwH26kAAAAJ}}
+
+{{Authority control}}
+{{DEFAULTSORT:Makarova, Kira}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Soviet biologists]]
+[[Category:20th-century American biologists]]
+[[Category:20th-century American women biologists]]
+[[Category:21st-century American biologists]]
+[[Category:National Institutes of Health people]]
+[[Category:Soviet women biologists]]
+[[Category:20th-century American women scientists]]
+[[Category:Novosibirsk State University alumni]]
+[[Category:Computational biologists]]
+[[Category:American evolutionary biologists]]
+[[Category:Women computational biologists]]
+[[Category:American women evolutionary biologists]]
+[[Category:21st-century American women biologists]]

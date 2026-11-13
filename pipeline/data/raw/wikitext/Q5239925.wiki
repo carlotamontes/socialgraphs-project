@@ -1,0 +1,266 @@
+{{Short description|US-American solid state physicist}}
+{{Infobox scientist
+|name       = David W. Snoke
+|image      = 
+|image_size = 150px
+|fields     = [[Physics]]
+|workplaces = [[University of Pittsburgh]] in [[Pennsylvania]]<br />[[American Physical Society]]
+}}
+'''David W. Snoke''' is a Distinguished Professor<ref>{{Cite web |title=Distinguished Faculty {{!}} Office of the Provost {{!}} University of Pittsburgh |url=https://www.provost.pitt.edu/faculty-affairs/distinguished-faculty |access-date=2024-08-25 |website=www.provost.pitt.edu}}</ref> of Physics at the [[University of Pittsburgh]] and co-director of the [[Pittsburgh Quantum Institute]] . In 2006 he was elected a [[Fellow]] of the [[American Physical Society]] "for his pioneering work on the experimental and theoretical understanding of dynamical optical processes in semiconductor systems."<ref>[http://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=S&year=2006&nom_unit=Condensed+Matter+Physics+%28DCMP%29&institution=University+of+Pittsburgh Archive (1995-present)], [[American Physical Society]]</ref> In 2004 he co-wrote a controversial paper with prominent [[intelligent design]] proponent [[Michael Behe]]. In 2007, his research group was the first to report [[Bose-Einstein condensation of polaritons]] in a trap.<ref name="ReferenceA">{{cite journal
+ | author1 = R. Balili |author2 = V. Hartwell |author3 = D.W. Snoke |author4 = L. Pfeiffer |author5 = K. West |s2cid = 2682022 | year = 2007
+ | title   = Bose-Einstein Condensation of Microcavity Polaritons in a Trap
+ | journal = [[Science (journal)|Science]]
+ | volume  = 316
+ | issue   = 5827
+ | pages   = 1007–10
+ | doi     = 10.1126/science.1140990
+ | pmid    = 17510360
+ | bibcode = 2007Sci...316.1007B }}</ref>
+David Snoke and theoretical physicist Jonathan Keeling recently published an article announcing a new era for polariton condensates saying that polaritons are arguably the "...best hope for harnessing the strange effects of quantum condensation and [[superfluidity]] in everyday applications."
+<ref>{{cite journal
+ | author1 = David Snoke |author2 = Jonathan Keeling|s2cid = 125773659|year = 2017
+ | title   = The new era of polariton condensates
+ | journal = Physics Today
+ | volume  = 70
+ | issue   = 10
+ | page   = 54
+ | doi     = 10.1063/PT.3.3729
+ | bibcode = 2017PhT....70j..54S}}</ref>
+
+==Academic career==
+Snoke received his bachelor's degree in physics from [[Cornell University]] and his PhD in physics from the [[University of Illinois at Urbana-Champaign]]. He has worked for [[The Aerospace Corporation]] and was a visiting scientist and Fellow at the [[Max Planck Institute]].<ref name=ASANews>{{cite journal
+ | title = ASA newsletters, November/December 2006
+ | url   =http://www.asa3.org/ASA/newsletter/novdec06.pdf
+}}</ref>
+
+His experimental and theoretical research has focused on fundamental quantum mechanical processes in semiconductor optics, i.e. phase transitions of electrons and holes. Two main thrusts have been [[Bose-Einstein condensation]] of [[excitons]]
+<ref>{{cite journal
+ | author1=D.W. Snoke |author2=W.W. Ruehle |author3=Y.-C. Lu |author4=E. Bauser | year = 1992
+ | title = Nonthermal Distribution of Electrons on Picosecond Timescale in GaAs
+ | journal = [[Physical Review Letters]]
+ | volume = 68
+ | issue = 7
+ | pages = 990–993
+ | doi = 10.1103/PhysRevLett.68.990
+ | pmid = 10046050
+ | bibcode=1992PhRvL..68..990S
+}}</ref><ref>{{cite journal
+ | author = D.W. Snoke
+ | year = 1992
+ | title = Density dependence of electron scattering at low density
+ | journal = [[Physical Review B]]
+ | volume = 50
+ | issue = 16
+ | pages = 11583–11591
+ | doi = 10.1103/PhysRevB.50.11583
+ | pmid = 9975291
+ | bibcode = 1994PhRvB..5011583S }}</ref>
+<ref>{{cite journal
+ | author1=D.W. Snoke |author2=D. Braun |author3=M. Cardona | year = 1991
+ | title = Carrier thermalization in Cu2O: Phonon emission by excitons
+ | journal = [[Physical Review B]]
+ | volume = 44
+ | issue = 7
+ | pages=2991–3000 | doi = 10.1103/PhysRevB.44.2991
+ | pmid=9999890 |bibcode = 1991PhRvB..44.2991S }}</ref>
+<ref>{{cite journal
+ | author1=D.W. Snoke |author2=J.D. Crawford | year = 1995
+ | title = Hysteresis in the Mott transition between plasma and insulating gas
+ | journal = [[Physical Review E]]
+ | volume = 52
+ | issue = 6
+ | pages=5796–5799 | doi = 10.1103/PhysRevE.52.5796
+ | pmid=9964092 |arxiv = cond-mat/9507116 |bibcode = 1995PhRvE..52.5796S |s2cid=5995968 }}</ref><ref>{{cite journal
+ | author = D.W. Snoke
+ | year = 2008
+ | title = Hysteresis in the Mott transition between plasma and insulating gas
+ | journal = Solid State Communications
+ | volume = 146
+ | issue =1
+ | page = 73
+ | arxiv = 0709.1415 |bibcode = 2008SSCom.146...73S |doi = 10.1016/j.ssc.2008.01.012 | s2cid = 17313346
+ }}</ref> 
+and [[polaritons]].<ref>
+{{cite journal
+ | author1 = Z. Voros |author2 = D. Snoke |author3 = L. Pfeiffer |author4 = K. West | year = 2006
+ | title   = Trapping Excitons in a Two-Dimensional In-Plane Harmonic Potential: Experimental Evidence for Equilibration of Indirect Excitons
+ | journal = [[Physical Review Letters]]
+ | volume  = 97
+ | issue   = 1
+ | article-number   = 016803
+ | doi     = 10.1103/PhysRevLett.97.016803
+ | pmid    = 16907396
+ | bibcode = 2006PhRvL..97a6803V
+}}</ref>
+<ref name="ReferenceA"/> He has also had minor efforts in numerical biology, and has published on the topic of the interaction of science and theology.
+
+==Bose-Einstein Condensation of Polaritons==
+[[File:EnergyDistPolaritonsInEquilibrium.png|thumb|right| Figure 1: Energy distribution of polaritons in equilibrium, at various densities. The solid lines are fits to the equilibrium Bose-Einstein distribution. The two sets of data at the highest densities are not fit to the Bose-Einstein distribution because they have a condensate which is strongly altered in its momentum distribution by interactions of the particles. From Ref.<ref name="ReferenceB">{{cite journal
+ |author1= Y. Sun |display-authors=etal | year= 2017
+ |title = Bose-Einstein Condensation of long-lifetime polaritons in thermal equilibrium
+ |journal = Physical Review Letters
+ |volume = 118
+ |issue= 1
+ |article-number = 016602
+ |doi = 10.1103/PhysRevLett.118.016602
+ |pmid= 28106443
+ |arxiv= 1601.02581
+ |bibcode= 2017PhRvL.118a6602S
+ |s2cid=5668343 }}</ref> ]]
+In 2007, Snoke's research group at the [[University of Pittsburgh]] used stress to trap polaritons in confined regions,
+<ref name="ReferenceA"/> similar to the way atoms are confined in traps for [[Bose–Einstein condensation]] experiments. The observation of polariton condensation in a trap was significant because the polaritons were displaced from the laser excitation spot, so that the effect could not be attributed to a simple nonlinear effect of the laser light. Later milestones from Snoke and collaborators include showing a clear difference between polariton condensation and standard lasing,
+<ref>{{cite journal
+ |author1=B. Nelsen |author2=R. Balili |author3=D.W. Snoke |author4=L. Pfeiffer |author5= K. West | year= 2009
+ |title = Lasing and polariton condensation: Two distinct transitions in GaAs microcavities with stress traps
+ |journal    =Journal of Applied Physics
+ |volume = 105
+ |issue=12 |pages = 122414–122414–5
+ |doi = 10.1063/1.3140822
+ |bibcode=2009JAP...105l2414N|doi-access=free}}</ref> showing quantized circulation of a polariton condensate in a ring, 
+<ref>{{cite journal
+ |author1=G.Q. Liu |author2=D.W. Snoke |author3=A. Daley |author4=L. Pfeiffer |author5= K. West | year= 2015
+ |title = A new type of half-quantum circulation in a macroscopic polariton spinor ring condensate
+ |journal = Proc. Natl. Acad. Sci.
+ |volume = 112
+ |issue=9 |pages = 2676–81
+ |doi = 10.1073/pnas.1424549112
+ |pmid=25730875 |pmc=4352789|arxiv=1402.4339|bibcode=2015PNAS..112.2676L|doi-access=free }}</ref> and the first clear demonstration of Bose-Einstein condensation of polaritons in equilibrium 
+<ref name="ReferenceB"/> (see Figure 1), in collaboration with the Keith Nelson group at MIT. Prior to this result, polariton condensates were always observed out of equilibrium. 
+<ref>{{cite journal
+ |author1= See e.g.|author2= T. Byrnes |author3=Na Young Kim |author4=Y. Yamamoto | year= 2014
+ |title = Exciton=-polariton condensates
+ |journal = Nature Physics
+ |volume = 10
+ |issue= 11 |page = 803
+ |doi = 10.1038/nphys3143
+ |arxiv= 1411.6822|bibcode= 2014NatPh..10..803B|s2cid= 118545281 }}</ref>
+<ref>{{cite journal
+ |author1= See also |author2= D. Sanvitto |author3= S. Kéna-Cohen | year= 2016
+ |title = The road towards polaritonic devices
+ |journal = Nature Materials
+ |volume = 15
+ |issue= 10 |pages = 1061–73
+ |doi = 10.1038/nmat4668
+ |pmid= 27429208 |bibcode= 2016NatMa..15.1061S}}</ref> For a general discussion of Bose-Einstein condensation of polaritons, see [[Bose-Einstein condensation of polaritons|this page]].
+
+==Nonequilibrium dynamics==
+The basic questions of how systems out of equilibrium approach equilibrium ("equilibration", or "thermalization") have involved longstanding deep questions of physics, sometimes called the thermodynamic "[[arrow of time]]," with debates going back to [[Boltzmann]]. In 1989 Snoke was one of the first to perform simulations of the equilibration of a Bose-Einstein condensate, using numerical solution of the [[quantum Boltzmann equation]]
+.<ref>{{cite journal
+ |author1= D.W. Snoke |author2= J.P. Wolfe | year= 1989
+ |title = Population-Dynamics of a Bose-Gas Near Saturation
+ |journal = Physical Review B
+ |volume = 39
+ |issue= 7 |pages = 4030–4037
+ |doi = 10.1103/PhysRevB.39.4030
+ |pmid= 9948737 |bibcode= 1989PhRvB..39.4030S}}</ref> In 1994 Snoke showed agreement of time-resolved experimental measurements of a particle distribution to solution of the quantum Boltzmann equation
+.<ref>{{cite journal
+ |author1= D.W. Snoke |author2=D. Braun |author3=M. Cardona | year= 1991
+ |title = Carrier thermalization in Cu_2O: Phonon emission by excitons
+ |journal = Physical Review B
+ |volume = 44
+ |issue = 7
+ |pages = 2991–3000
+ |doi = 10.1103/PhysRevB.44.2991
+ |pmid=9999890 |bibcode = 1991PhRvB..44.2991S
+}}</ref> In 2012 he and theorist Steve Girvin published a seminal paper
+<ref>{{cite journal
+ |author1=D.W. Snoke |author2=G.Q. Liu |author3=S.M. Girvin |year= 2012
+ |title = The basis of the Second Law of thermodynamics in quantum field theory
+ |journal = Annals of Physics
+ |volume = 327
+ |issue=7 |page = 1825
+ |doi = 10.1016/j.aop.2011.12.016
+ |arxiv=1112.3009|bibcode=2012AnPhy.327.1825S|s2cid=118666925 }}</ref> on the justification of the [[second law of thermodynamics]] based on analysis of the quantum Boltzmann equation, which has impacted the philosophy of the second law.
+<ref>{{cite web |url= http://philsci-archive.pitt.edu/13008/ |last= Brown |first= Harvey R. |year=2017 |title= Section 8: Once and for all: the curious role of probability in the Past Hypothesis}}</ref> Other work by Snoke has included nonequilibrium dynamics of electron plasma 
+<ref>{{cite journal
+ |author1=D.W. Snoke |year= 1992
+ |title = Density dependence of electron scattering at low density
+ |journal = Physical Review B
+ |volume = 50
+ |issue = 16
+ |pages = 11583–11591
+ |doi = 10.1103/PhysRevB.50.11583
+ |pmid= 9975291
+ |bibcode = 1994PhRvB..5011583S
+}}</ref> and  the Mott transition from exciton gas to electron-hole plasma.
+<ref>{{cite journal
+ |author1=D.W. Snoke |year= 2008
+ |title = Predicting the ionization threshold for carriers in excited semiconductors
+ |journal = Solid State Communications
+ |volume = 146
+ |issue= 1–2
+ |pages = 73–77
+ |doi = 10.1016/j.ssc.2008.01.012
+ |bibcode=2008SSCom.146...73S
+ |arxiv= 0709.1415
+ |s2cid= 17313346
+ }}</ref>
+
+==Numerical biology==
+In 2004, Snoke co-authored an article with [[Michael Behe]], a senior fellow of the [[Discovery Institute]]'s [[Center for Science and Culture]], in the [[scientific journal]] ''Protein Science'',<ref>{{cite journal| author = Michael Behe and [[David W. Snoke]]| year = 2004| title = Simulating evolution by gene duplication of protein features that require multiple amino acid residues| journal = Protein Science| volume = 13| issue = 10| pages = 2651–2664 | doi = 10.1110/ps.04802904| pmid = 15340163| pmc = 2286568}}</ref> which received widespread criticism. Snoke's contribution to the paper was an appendix which verified the numerical results with analytical calculations that showed the relevant power law, namely that for a novel feature requiring multiple neutral mutations, the time to fixation has a sublinear dependence on population size.
+
+Behe has stated that the results of the paper support his notion of [[irreducible complexity]], based on the calculation of the probability of mutations required for evolution to succeed. However, the published version did not address the concept directly; according to Behe, all references to irreducible complexity were eliminated prior to the paper's publication at the behest of the reviewers.<ref>Michael J. Behe, Day 10, morning testimony, in Kitzmiller v. Dover Area School District, trial transcript page 46 [http://www.aclupa.org/downloads/Day10AMSession.pdf] {{Webarchive|url=https://web.archive.org/web/20080820065204/http://www.aclupa.org/downloads/Day10AMSession.pdf|date=2008-08-20}}</ref> [[Michael Lynch (geneticist)|Michael Lynch]] authored a response,<ref>{{cite journal| author = Michael Lynch| year = 2005| title = Simple evolutionary pathways to complex proteins| journal = Protein Science| volume = 14| issue = 9| pages = 2217–2225 | doi = 10.1110/ps.041171805| pmid = 16131652| pmc = 2253472| author-link = Michael Lynch (geneticist)}}</ref> to which Behe and Snoke responded.<ref>{{cite journal|author1=Michael Behe |author2=David W. Snoke | year = 2005| title = A response to Michael Lynch| journal = Protein Science| volume = 14| issue = 9| pages = 2226–2227 | doi = 10.1110/ps.051674105| pmc = 2253464}}</ref> ''Protein Science'' discussed the papers in an editorial.<ref name=editorial>{{cite journal| author = Mark Hermodson| year = 2005| title = Editorial and position papers| journal = Protein Science| volume = 14| issue = 9| pages = 2215–2216 | doi = 10.1110/ps.051654305| pmc = 2253483}}</ref> ''Protein Science'' received letters that "contained many points of disagreement with the Behe and Snoke article", including the points that:<ref name=editorial/>
+{{quotation|
+* Substantial variation in the rate of mutation fixation occurs, both between lineages and between sites on a protein during evolution. This is a central concept of modern population genetics [citations removed]
+* Changes in one site are known to cause changes in the mutation and acceptance rate at other sites in a protein, generally called "compensatory" changes [citations removed]
+* Recombination strongly accelerates the rate of joining of independent mutations at multiple sites and of grafting new domains with additional functions and sites of interaction to proteins to create new modes of action or regulation [citations removed]
+* Selection acts continuously, and cumulative effects, rather than a single strongly adaptive change, are the basis of evolution under a Darwinian model. Thus, intermediate states must also be assumed to be selected.}}
+
+The paper's assumptions have been severely criticised and the conclusions it draws from its mathematical model have been both criticised and contradicted:
+* An essay criticised the paper for an "over-simplified the process, resulting in questionable conclusions", that "[t]heir assumptions bias their results towards more pessimistic numbers", including one assumption that is "probably false under all circumstances", another that is "probably false as a general rule" and assuming "much too high" a level of substitutions that would destroy the protein's function. It concludes "[a]nd ironically, despite these faulty assumptions, Behe and Snoke show that the probability of small multi-residue features evolving is extremely high, given the types of organisms that Behe and Snoke's model applies to."<ref>[http://www.talkreason.org/articles/tiatd.cfm Theory is as Theory Does] {{Webarchive|url=https://web.archive.org/web/20071021061826/http://www.talkreason.org/articles/tiatd.cfm |date=2007-10-21 }}, Ian F. Musgrave, Steve Reuland, and Reed A. Cartwright, Talk Reason</ref>
+* More recent research suggests that Behe and Snoke's model, and even Lynch's response, may have been "substantial underestimates" "of the rate of obtaining an adaptive combination of mutations".<ref>{{cite journal| last = Masel| first = Joanna | title = Cryptic Genetic Variation Is Enriched for Potential Adaptations| journal = [[Genetics (journal)|Genetics]] | volume = 172| issue = 3| pages = 1985–1991 | date = March 2006 | doi = 10.1534/genetics.105.051649 | pmid = 16387877| pmc = 1456269 }}</ref>
+* Biochemical analysis of the question has supported an orthodox evolutionary view and rejected Behe and Snoke's approach as an "unreasonable model which assume[s] 'leaps in thin air', such as the evolution of completely novel activities via multiple and simultaneous amino acid changes".<ref>{{cite journal| last = Afriat| first = Livnat|author2=Cintia Roodveldt |author3=Giuseppe Manco |author4=Dan S. Tawfik | title = The Latent Promiscuity of Newly Identified Microbial Lactonases Is Linked to a Recently Diverged Phosphotriesterase| journal = [[Biochemistry (journal)|Biochemistry]] | volume = 45| issue = 46| pages = 13677–86| date = November 21, 2006| url = http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/papers/(52)Afriat2006Biochemistry.pdf | doi=10.1021/bi061268r| pmid = 17105187}}</ref>
+
+On May 7, 2005, Behe described the paper in presenting arguments for irreducible complexity in his testimony at the [[Kansas evolution hearings]].<ref>{{cite web |url=http://www.talkorigins.org/faqs/kansas/kangaroo10.html |title=Kansas Evolution Hearings: Michael Behe and John Calvert |access-date=2008-03-10 }}</ref> At the ''[[Kitzmiller v. Dover Area School District]]'' trial later that year it was the one article referenced by both Behe and Scott Minnich as supporting intelligent design. In his ruling, [[John E. Jones III|Judge Jones]] noted that "A review of the article indicates that it does not mention either irreducible complexity or ID. In fact, Professor Behe admitted that the study which forms the basis for the article did not rule out many known evolutionary mechanisms and that the research actually might support evolutionary pathways if a biologically realistic population size were used."<ref>{{cite court  |litigants=Kitzmiller v. Dover Area School District  |vol=400  |reporter=F. Supp. 2d |opinion=707  |pinpoint=745 |court=M.D.Pa |date=December 20, 2005 }}, docket # 04cv2688, [[s: Kitzmiller v. Dover Area School District/4:Whether ID Is Science#Page 88 of 139|Ruling, page 88]]</ref>
+
+In 2014 David Snoke, along with coauthors Jeffrey Cox and Donald Petcher, published a numerical study of the evolution of novel structures, in the journal Complexity.<ref>{{cite journal
+ |author1=David W. Snoke |author2=Jeffrey Cox |author3= Donald Pletcher |year= 2014
+ |title = Suboptimality and Complexity in Evolution
+ |journal = Complexity
+ |volume = 21
+ |issue=1 |pages = 322–327
+ |doi = 10.1002/cplx.21566|bibcode= 2015Cmplx..21a.322S}}</ref> The model claimed to address the fundamental problem of the tradeoff of the cost of allowing novel structures which are not yet functional, versus the benefit of the eventual new function.
+
+==Science and theology==
+His book, ''A Biblical Case for an Old Earth'' (Baker Books, 2006) was described in a review by Law Professor David W. Opderbeck, in the American Scientific Affiliation's ''Perspectives on Science and Christian Faith'' as "succeed[ing] admirably" in "establish[ing] that the 'day-age' view is a valid alternative for Christians who hold to [[biblical inerrancy]]", but as "less persuasive" at "argu[ing] for a concordist understanding of the Genesis texts and modern science."<ref>{{cite web
+  | last = Opderbeck
+  | first = David W.
+  | year = 2007
+  | title = Review of 'A Biblical Case for an Old Earth'
+  | work = [[Perspectives on Science and Christian Faith]]
+  | publisher = [[American Scientific Affiliation]]
+  | url = http://www.asa3.org/asa/topics/Book%20Reviews2005-/6-07.html
+  | access-date = 2008-03-09
+  | archive-date = 2008-12-22
+  | archive-url = https://web.archive.org/web/20081222143542/http://www.asa3.org/ASA/topics/Book%20Reviews2005-/6-07.html
+  | url-status = dead
+  }}</ref> Snoke was elected a Fellow of the [[American Scientific Affiliation]] in 2006.<ref name=ASANews/> In 2014 he published a [[review article]] for the [[Discovery Institute]],<ref>{{cite journal
+ |author1=D.W. Snoke
+ |s2cid = 54870446 |title = Systems Biology as a Research Program for Intelligent Design |journal = BIO-Complexity
+ |volume = 2014 |issue = 3 |doi = 10.5048/BIO-C.2014.3
+ |year = 2014 }}</ref> arguing that the prevailing paradigm of modern systems biology favors an intelligent design perspective, namely that systems biologists commonly assume a "good design" paradigm.
+
+==Bibliography==
+* ''Solid State Physics: Essential Concepts'', published by Addison-Wesley (2008). {{ISBN|978-0-8053-8664-6}}; [https://books.google.com/books?id=EnG9DwAAQBAJ 2nd edition, 2020] {{ISBN|978-1-1071-9198-3}}
+* ''A Biblical Case for an Old Earth'', published by Baker Books (2006). {{ISBN|0-8010-6619-0}}
+* ''Natural Philosophy: Physics and Western Thought'', distributed by Access Research Network (2003).
+* as editor with Allan Griffin and [[Sandro Stringari]]: ''Bose–Einstein Condensation'', published by Cambridge University Press (1996).  {{ISBN|978-0-521-58990-1}}; {{ISBN|0-521-58990-8}}<ref>{{cite journal|date=October 1995|volume=48|issue=10|page=63|title=Review of ''Bose–Einstein Condensation'', edited by Allan Griffin, David W. Snoke, and Sandro Stringari|author=Greytak, Thomas|author-link=Thomas Greytak|journal=Physics Today|doi=10.1063/1.2808208}}</ref>
+* with {{ill|S. A. Moskalenko|ru|Москаленко, Святослав Анатольевич}}: ''Bose-Einstein Condensation of Excitons and Biexcitons: and Coherent Nonlinear Optics with Excitons'', published by Cambridge University Press (1999). {{ISBN|978-0521580991}}; {{ISBN|0521580994}}<ref>{{cite journal|date=May 2001|volume=54|issue=5|page=60|doi=10.1063/1.1381109|title=Review of ''Bose-Einstein Condensation of Excitons and Biexcitons: and Coherent Nonlinear Optics with Excitons'' by Sviatoslav A. Moskalenko and David W. Snoke|author=Burnett, Keith|author-link=Keith Burnett|doi-access=free}}</ref>
+* as editor with Nick P. Proukakis and [[Peter Littlewood|Peter B. Littlewood]]: ''Universal Themes of Bose-Einstein Condensation'', published by Cambridge University Press (2017). {{ISBN|978-1107085695}}; {{ISBN|1107085691}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.snokelab.com Snoke Lab] – Official website
+* {{cite web|title=Physical Seminar {{!}} David Snoke|date=September 15, 2020|publisher=NYUspms|website=YouTube|url=https://www.youtube.com/watch?v=ABX4hiKD3P0}}
+* {{cite web|title=Superfluids of light (David Snoke, Pittsburgh)|date=November 23, 2021|publisher=FLEET Centre|website=YouTube|url=https://www.youtube.com/watch?v=ldwv2xOgqMs}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Snoke, David}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:Grainger College of Engineering alumni]]

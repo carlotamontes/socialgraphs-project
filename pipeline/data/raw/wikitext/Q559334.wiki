@@ -1,0 +1,151 @@
+{{short description|Computer scientist and AI pioneer}}
+{{use mdy dates|date=September 2023}}
+{{infobox person
+| name               = Douglas Lenat
+| image              = Dbl4.jpg
+| caption            = 
+| birth_date         = {{birth date|1950|09|13}}
+| birth_place        = [[Philadelphia, Pennsylvania]], U.S.
+| death_date         = {{death date and age|2023|08|31|1950|09|13}}
+| death_place        = [[Austin, Texas]], U.S.
+| other_names        = 
+| education          = [[University of Pennsylvania]], [[Stanford University]] (Ph.D.)
+| occupation         = [[Computer scientist]]
+| employer           = [[Cycorp, Inc.]]
+| known_for          = [[Lisp programming language]], [[CEO]] of [[Cycorp, Inc.]], [[Automated Mathematician|AM]], [[Eurisko]], [[Cyc]]
+| awards             = 1977 [[IJCAI Computers and Thought Award]]
+}}
+
+'''Douglas Bruce Lenat''' (September 13, 1950 – August 31, 2023) was an American [[computer scientist]] and researcher in [[artificial intelligence]]<ref name="OotM" /><ref name="SciAm" /> who was the founder and [[CEO]] of [[Cycorp, Inc.]] in [[Austin, Texas]].
+
+Lenat was awarded the biannual [[IJCAI Computers and Thought Award]] in 1976 for creating the machine-learning program [[Automated Mathematician|AM]].  He has worked on (symbolic, not statistical) [[machine learning]] (with his AM and [[Eurisko]] programs),  knowledge representation,<ref name="RLL" /> "cognitive economy",<ref name="CE" /> [[blackboard system]]s, and what he dubbed in 1984 "[[ontological engineering]]"<ref name="OvsKE" /> (with his [[Cyc]] program at [[Microelectronics and Computer Technology Corporation|MCC]] and, since 1994, at [[Cycorp]]).  He has also worked in military simulations,<ref name="KSMA" /> and numerous projects for the US government, military, intelligence, and scientific organizations.  In 1980, he published a critique of conventional random-mutation Darwinism.<ref name="HoN" /><ref name="ML" />  He authored a series of articles<ref name="NoH" /><ref name="NoH2" /><ref name="NoH3" /><ref name="NoH4" /> in the [[Artificial Intelligence (journal)|Journal of Artificial Intelligence]] exploring the nature of heuristic rules.
+
+Lenat was one of the original Fellows of the [[Association for the Advancement of Artificial Intelligence|AAAI]], and is the only individual to have served on the Scientific Advisory Boards of both Microsoft and Apple.  He was a Fellow of the [[American Association for the Advancement of Science|AAAS]], AAAI, and [[Cognitive Science Society]], and an editor of the [[Journal of Automated Reasoning|J. Automated Reasoning]], [[The Journal of the Learning Sciences|J. Learning Sciences]], and [[Applied ontology|J. Applied Ontology]]. He was one of the founders of [[TTI/Vanguard]] in 1991 and member of its advisory board.<ref>{{Webarchive|url=https://web.archive.org/web/20171012144614/http://www.ttivanguard.com/board/index.html|date=October 12, 2017}}</ref>  He was named one of the Wired 25.<ref name="W98" />
+
+==Background and education==
+Lenat was born in [[Philadelphia]], United States, on September 13, 1950.{{r|NYT}} When he was 5, the family moved to [[Wilmington, Delaware]], where his father, Nathan Lenat, owned a [[Bottling company|bottling plant]].{{r|NYT}}  His father died when he was 13 and the family then returned to Pennsylvania, where he attended [[Cheltenham High School]].{{r|NYT}}  His after-school job was cleaning rat cages and goose pens at [[Beaver College]] which motivated him to learn programming as a better occupation.{{r|NYT}}
+
+He attended the [[University of Pennsylvania]], supporting himself by programming, including the design and development of a [[natural language interface]] for a [[United States Navy]] online [[operations manual]].  He graduated with [[bachelor's degree]]s in Mathematics and Physics, and a [[master's degree]] in Applied Mathematics, all in 1972.{{r|NYT}}
+
+<!-- For his senior thesis, advised in part by [[Dennis Gabor]], was to bounce acoustic waves in the 40 MHz range off real-world objects, record their interference patterns on a 2-meter square plot, photo-reduce those to a 10-mm square film image, shine a laser through the film, and thus project the three-dimensional imaged object—i.e., the first known acoustic [[Holography|hologram]].{{cn|date=September 2023}} To settle an argument with Dr. Gabor, Lenat computer-generated a five-dimensional hologram, by photo-reducing computer printout of the interference pattern of a globe rotating and expanding over time, reducing the large two-dimensional paper printout to a moderately large 5-cm square film surface through which a conventional laser beam was then able to project a three-dimensional image, which changed in two independent ways (rotating and changing in size) as the film was moved up-down or left-right.{{cn|date=September 2023}} 
+
+(I have done an extensive search and can't find any information about his holograms, or his senior thesis, or his relation to Gabor, so unless someone can find a good citation, I'm making it invisible.)
+-->
+
+Lenat was a Ph.D. student in Computer Science at Stanford University, where his published research included automatic [[program synthesis]] from input/output pairs and from natural language clarification dialogues.<ref name="PR" />
+
+==Research==
+In 1976, Lenat received his [[Doctor of Philosophy|Ph.D.]] in Computer Science from [[Stanford University]], "AM: Discovery in mathematics as heuristic search" sponsored by [[DARPA|ARPA]].<ref>{{Cite thesis |last=Lenat |first=Douglas B. |title=AM, an artificial intelligence approach to discovery in mathematics as heuristic search |date=1976 |degree=PhD |url=https://apps.dtic.mil/sti/citations/ADA155378}} DTIC Accession Number: ADA155378</ref> It was republished as ''Knowledge-based systems in artificial intelligence'',<ref name="KBS" /> along with the Ph.D. thesis of Randall Davis, McGraw-Hill, 1982. His thesis advisor was Professor [[Cordell Green]].
+
+His thesis, [[Automated Mathematician|AM (Automated Mathematician)]] was one of the first computer programs that attempted to make discoveries, i.e., to be a theorem ''proposer'' rather than a theorem ''prover''. Experimenting with the program fueled a cycle of criticism and improvement. Many issues had to be dealt with in constructing such a program: how to represent knowledge formally, expressively, and concretely, how to program hundreds of heuristic "interestingness" rules to judge the worth of new discoveries, heuristics for when to reason symbolically and inductively ''versus'' when to reason statistically from frequency data, what the architecture—the design constraints—of such reasoning programs might be, why heuristics work, and what their "inner structure" might be. AM was one of the first steps toward demonstrating that computer programs can make novel and creative discoveries.<ref name="DRS" />
+
+In 1976, Lenat started teaching as an assistant professor of computer science at [[Carnegie Mellon]] and commenced his work on the AI program [[Eurisko]]. The limitation with AM was that it was locked into following a fixed set of interestingness heuristics; Eurisko, by contrast, represented its heuristic rules as first class objects and hence it could explore, manipulate, and discover new heuristics just as AM explored, manipulated, and discovered new domain concepts.{{cn|date=September 2023}}
+
+Lenat returned to Stanford as an assistant professor of computer science in 1978 and continued his research building the Eurisko automated discovery and heuristic-discovery program. Eurisko made many interesting discoveries and enjoyed significant acclaim, with Lenat's paper "Heuretics: Theoretical and Experimental Study of Heuristic Rules"<ref name="Heur" /> winning the Best Paper award{{cn|date=September 2023}} at the 1982 [[Association for the Advancement of Artificial Intelligence|AAAI conference]].
+
+==A call for "common sense"==
+Lenat (working with John Seely Brown at Xerox PARC) published in 1984 an analysis of what were the limitations of his AM and Eurisko lines of research.<ref name="Why" />  It concluded that progress toward real, general, symbolic AI would require a vast knowledge base of "common sense", suitably formalized and represented, and an inference engine capable of finding tens- or hundreds-deep conclusions and arguments that followed from the application of that knowledge base to specific questions and applications.<ref name="Knoes" />
+
+The successes, and analysis of the limitations, of this AM and Eurisko approach to AI, and the concluding plea for the massive (multi-thousand-person-year, decades-long) R&D effort would be required to break that bottleneck to AI, led to attention in 1982 from [[Bobby Ray Inman|Admiral Bob Inman]] and the then-forming [[Microelectronics and Computer Technology Corporation|MCC]] research consortium in [[Austin, Texas]], culminating in Lenat's becoming principal scientist of MCC from 1984–1994, though he continued even after this period to return to Stanford to teach approximately one course per year.  At the 400-person MCC, Lenat was able to have several dozen researchers work on that [[Commonsense knowledge (artificial intelligence)|common sense knowledge]] base, rather than just a few graduate students.{{cn|date=September 2023}}
+
+==Cycorp==
+The fruits of the first decade of R&D on [[Cyc]]<ref name="HAL" /> were spun out of MCC into a company, Cycorp, at the end of 1994. In 1986, he estimated the effort to complete Cyc would be at least 250,000 rules and 1,000 [[man-year|person-year]]s of effort,<ref name="UC" /> probably twice that, and by 2017, he and his team had spent about 2,000 person-years of effort building Cyc, creating approximately 24 million rules and assertions (not counting "facts").{{cn|date=September 2023}}
+
+Lenat continued to work on Cyc as CEO of Cycorp until his death. While the first decade of work on Cyc (1984–1994) was funded by large American companies pooling long-term research funds to compete with the Japanese [[Fifth generation computer|Fifth Generation Computer]] Project, and the second decade (1995–2006) of work on Cyc was funded by US government agencies' research contracts, the third decade up through the present (2007–2023) has been largely supported through commercial applications of Cyc, including in the financial services, energy, and healthcare areas.<ref name="Harness" />  One of these later projects was a [[learning by teaching]] application called Mathcraft.{{r|RMK}}
+
+==Personal life and death==
+Lenat was married to Merle Baruch, with whom he had a daughter;<ref name=STANMAG>{{citation |url=https://stanfordmag.org/contents/he-taught-ai-the-facts-of-life |newspaper=Stanford Magazine |date=16 November 2023 |title=He Taught AI the Facts of Life |author=Kali Shiloh}}</ref> they divorced and he later married Cycorp business manager Mary Shepherd.<ref name="W16" /> He died of [[bile duct cancer]] on August 31, 2023, at the age of 72.<ref name="RR" /><ref name="NYT" />
+
+==Quotes==
+[[File:Dbl-smiling.jpg|thumb|Doug Lenat in his office at Cycorp]]
+* "Intelligence is ten million rules."<ref name="CfI" /> This refers to the prior and tacit knowledge that authors presume their readers all possess (such as "if person x knows person y, then x's date of death can't be earlier than y's date of birth") ''not counting the vastly larger number of "facts" such as one might find in Wikipedia or by Googling.''
+* "The time may come when a greatly expanded Cyc will underlie countless software applications. But reaching that goal could easily take another two decades."<ref name="Cost" />
+* "Once you have a truly massive amount of information integrated as knowledge, then the human-software system will be superhuman, in the same sense that mankind with writing is superhuman compared to mankind before writing."{{r|LAT}}
+* "Sometimes the ''veneer'' of intelligence is not enough."<ref name="Veneer" />
+* “If computers were human, they’d present themselves as autistic, schizophrenic, or otherwise brittle. It would be unwise or dangerous for that person to take care of children and cook meals, but it’s on the horizon for home robots. That’s like saying, ‘We have an important job to do, but we’re going to hire dogs and cats to do it.'”<ref name="MAAI" />
+* "What we needed, he says, is nothing less than an “AI [[Manhattan Project]]”, a full frontal assault on common sense: the challenge is to create an [[Commonsense knowledge (artificial intelligence)|Encyclopédia of Common sense]]", [[Michio Kaku]] citing Lenat.<ref name="Visions" />
+
+==Writings==
+* {{cite journal |last1=Brown |first1=John Seely |last2=Lenat |first2=Douglas |date=August 1983 |title=Why AM and Eurisko Appear to Work |url=https://aaai.org/papers/00236-AAAI83-059-why-am-and-eurisko-appear-to-work/ |journal=Proceedings of National Conference on AI (AAAI–83) |volume=Book One |issue=Proceedings of the AAAI Conference on Artificial Intelligence, 3 |pages=236–240 |doi= |access-date=3 May 2024}}
+* {{cite book |last1=Davis |first1=Randall |last2=Lenat |first2=Douglas B. |title=Knowledge-Based Systems in Artificial Intelligence |location=New York |publisher=McGraw-Hill International Book Co |year=1982 |isbn=978-0-07-015557-2 |url=https://archive.org/details/knowledgebasedsy0000davi }}
+* {{cite book |editor-last1=Hayes-Roth |editor-first1=Frederick |editor-last2=Waterman |editor-first2=Donald Arthur |editor-last3=Lenat |editor-first3=Douglas B. |title=Building Expert Systems |location=Reading, Mass |publisher=Addison-Wesley Pub. Co |year=1983 |isbn=978-0-201-10686-2 |url=https://archive.org/details/buildingexpertsy00temd }}
+* Lenat, Douglas B. "Computer Software for Intelligent Systems:  An Underview of AI," in ''Scientific American,'' September 1984.
+* Lenat, Douglas B.; Clarkson, Albert; Kircmidjian, Garo (1983). "An Expert System for Indications & Warning Analysis". ''Proceedings of the Eighth International Joint Conference on Artificial Intelligence - Volume 1''. IJCAI'83. San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.: 259–262.<ref name="Expert" />
+* Lenat, Douglas B.; Feigenbaum, Edward A. (February 1991). "On the Thresholds of Knowledge". ''Artif. Intell''. '''47''' (1-3): 185–250. {{doi|10.1016/0004-3702(91)90055-O}}. {{ISSN|0004-3702}}.<ref name="Thresh" />
+* Lenat, Douglas B.; Guha, R. V. (1990-01-01). ''Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project''. Reading, Mass.: Addison-Wesley. {{ISBN|9780201517521}}.<ref name="Build" />
+* Lenat, Douglas B.  ''From 2001 to 2001: Common Sense and the Mind of HAL''<ref name="HALb" />
+* Lenat, Douglas B. (2008-07-10). "The Voice of the Turtle: Whatever Happened to AI?". ''AI Magazine''. '''29'''(2). [[Digital object identifier|doi]]:10.1609/aimag.v29i2.2106. [[International Standard Serial Number|ISSN]]&nbsp;0738-4602<ref name="Turtle" />
+* Blackstone E.H., Lenat, D.B. and Ishwaran H. ''Infrastructure required to learn which care is best: methods that need to be developed'',  in (Olsen L., Grossman, C., and McGinnis, M., eds.) ''Learning What Works: Infrastructure Required for Comparative Effectiveness Research''. Institute of Medicine Learning Health System Series, The National Academies Press, pp.&nbsp;123–144, 2011.
+* Lenat DB, Durlach P.  “Reinforcing Math Knowledge by Immersing Students in a Simulated Learning-By-Teaching Experience.” ''  J. International Journal of Artificial Intelligence in Education.'', 2014
+* Lenat, Douglas B. (2016-04-13). "WWTS (What Would Turing Say?)". ''AI Magazine''. '''37''' (1): 97–101. [[Digital object identifier|doi]]:10.1609/aimag.v37i1.2644. [[International Standard Serial Number|ISSN]]&nbsp;0738-4602<ref name="WWTS" /> 
+* See also many of the References, below.
+
+==References==
+<references>
+
+<ref name="OotM">{{Cite book|url=https://www.springer.com/us/book/9780387982694|title=Out of their Minds - The Lives and Discoveries of 15 Great Computer Scientists {{!}} Dennis Shasha {{!}} Springer|publisher=Copernicus|year=1998|isbn=9780387982694|language=en|series=Copernicus}}</ref>
+<ref name="SciAm">{{Cite journal|last=Lenat|first=Douglas B.|date=1995|title=Artificial Intelligence|jstor=24981725|journal=Scientific American|volume=273|issue=3|pages=80–82}}</ref>
+<ref name="RLL">{{Cite journal|last1=Lenat |first1=Douglas |last2=Greiner |first2=Russell|date=1980|title=RLL: A Representation Language Language|journal=Proceedings of the First AAAI Conference|volume=1}}</ref>
+<ref name="CE">{{Cite journal|last1=Lenat|first1=Douglas B.|last2=Hayes-Roth|first2=Frederick|last3=Klahr|first3=Philip|date=1979|title=Cognitive Economy in Artificial Intelligence Systems|url=https://dl.acm.org/citation.cfm?id=1624861.1624982|journal=Proceedings of the 6th International Joint Conference on Artificial Intelligence - Volume 1|series=IJCAI'79|location=San Francisco, CA, USA|publisher=Morgan Kaufmann Publishers Inc.|pages=531–536|isbn=978-0934613477}}</ref>
+<ref name="OvsKE">{{Cite journal|last=Lenat|first=D. B.|date=March 1989|title=Ontological versus knowledge engineering|journal=IEEE Transactions on Knowledge and Data Engineering|volume=1|issue=1|pages=84–88|doi=10.1109/69.43405|issn=1041-4347}}</ref>
+<ref name="KSMA">{{Cite journal|last1=Lenat |first1=DB |last2=Fishwick |first2=PA |last3=Modjeski |first3=RB |last4=Oresky |first4=CM |last5=Clarkson |first5=A |last6=Kaisler |first6=S|date=1991|title=STRADS: A Strategic Automatic Discovery System|journal=Knowledge-based Simulation: Methodology and Application}}</ref>
+<ref name="HoN">Lenat, Douglas. "The Heuristics of Nature: The Plausible Mutation of DNA." Stanford Heuristic Programming Project, 1980, technical report HPP-80-27.</ref>
+<ref name="ML">{{Cite book|title=Machine Learning|last=Lenat|first=Douglas B.|date=1983|publisher=Springer, Berlin, Heidelberg|isbn=9783662124079|series=Symbolic Computation|pages=243–306|language=en|doi=10.1007/978-3-662-12405-5_9|chapter = The Role of Heuristics in Learning by Discovery: Three Case Studies}}</ref>
+<ref name="NoH">{{Cite journal|last=Lenat|first=Douglas|date=1982|title=The Nature of Heuristics|journal=Journal of Artificial Intelligence|volume=19}}</ref>
+<ref name="NoH2">{{Cite journal|last=Lenat|first=Douglas|date=1983|title=The Nature of Heuristics II: Theory formation by heuristic search|journal=Journal of Artificial Intelligence|volume=20}}</ref>
+<ref name="NoH3">{{Cite journal|last=Lenat|first=Douglas|date=1983|title=The Nature of Heuristics III: Eurisko|journal=Journal of Artificial Intelligence|volume=20}}</ref>
+<ref name="NoH4">{{Cite journal|last=Lenat|first=Douglas|date=1984|title=The Nature of Heuristics IV: Why AM and Eurisko Appear to Work|journal=Journal of Artificial Intelligence|volume=23}}</ref>
+<ref name="W98">{{Cite magazine|url=https://www.wired.com/1998/11/wired25/|title=The Wired 25|author=Wired Staff|magazine=WIRED|access-date=2017-11-29|language=en-US}}</ref>
+<ref name="PR">“Progress Report on Program Understanding Systems.” [[C. Cordell Green]], Richard J. Waldinger, David R. Barstow, Robert Elschlager, Douglas B. Lenat, Brian P. McCune, David E. Shaw, and Louis I. Steinberg. Memo AIM-240, Report STAN-CS-74-444, Artificial Intelligence Laboratory, Computer Science Department, Stanford University, Stanford, California, August 1974</ref>
+<ref name="KBS">{{Cite book|url=https://archive.org/details/knowledgebasedsy0000davi|title=Knowledge-Based Systems in Artificial Intelligence: 2 Case Studies|last1=Davis|first1=Randall|last2=Lenat|first2=Douglas B.|date=1982|publisher=McGraw-Hill, Inc.|isbn=978-0070155572|location=New York, NY, USA}}</ref>
+<ref name="DRS">{{Cite web|last1=Lenat|first1=Douglas B.|last2=Gregory|first2=Harris|date=1977-04-01|title=Designing a rule system that searches for scientific discoveries|url=https://apps.dtic.mil/sti/citations/tr/ADA042157|language=en}}</ref>
+<ref name="Heur">{{Cite web|url=https://www.aaai.org/Library/AAAI/1982/aaai82-038.php|title=Heuretics: Theoretical and Experimental Study of Heuristic Rules|website=www.aaai.org|access-date=2017-11-06}}</ref>
+<ref name="Why">{{Cite journal|last1=Lenat|first1=Douglas B.|last2=Brown|first2=John Seely|date=1984-08-01|title=Why am and eurisko appear to work|journal=Artificial Intelligence|volume=23|issue=3|pages=269–294|doi=10.1016/0004-3702(84)90016-X|citeseerx=10.1.1.565.8830}}</ref>
+<ref name="Knoes">{{Cite journal|last1=Lenat|first1=Douglas B.|last2=Borning|first2=Alan|last3=McDonald|first3=David|last4=Taylor|first4=Craig|last5=Weyer|first5=Steven|date=1983|title=Knoesphere: Building Expert Systems with Encyclopedic Knowledge|url=https://dl.acm.org/citation.cfm?id=1623373.1623410|journal=Proceedings of the Eighth International Joint Conference on Artificial Intelligence - Volume 1|series=IJCAI'83|pages=167–169}}</ref>
+<ref name="HAL">{{cite web |last = Lenat |first = Douglas |author-link = Douglas Lenat |title = Hal's Legacy: 2001's Computer as Dream and Reality. From 2001 to 2001: Common Sense and the Mind of HAL |publisher = [[Cycorp, Inc.]] |url = https://www.cyc.com/cyc/technology/halslegacy.html |access-date = 2006-09-26 |url-status = dead |archive-url = https://web.archive.org/web/20061006002537/https://www.cyc.com/cyc/technology/halslegacy.html |archive-date = 2006-10-06}}</ref>
+<ref name="UC">{{cite book | last = | title = Understanding Computers: Artificial Intelligence | publisher = [[Time-Life Books]] | year = 1986 | location = Amsterdam | pages = 84 | isbn = 978-0-7054-0915-5}}</ref>
+<ref name="Harness">{{Cite journal|last1=Lenat|first1=Douglas|last2=Witbrock|first2=Michael|last3=Baxter|first3=David|last4=Blackstone|first4=Eugene|last5=Deaton|first5=Chris|last6=Schneider|first6=Dave|last7=Scott|first7=Jerry|last8=Shepard|first8=Blake|date=2010-07-28|title=Harnessing Cyc to Answer Clinical Researchers' Ad Hoc Queries|url=https://www.aaai.org/ojs/index.php/aimagazine/article/view/2299|journal=AI Magazine|language=en|volume=31|issue=3|pages=13–32|doi=10.1609/aimag.v31i3.2299|issn=0738-4602|doi-access=free}}</ref>
+<ref name="RMK">{{Cite journal|last1=Lenat|first1=Douglas B.|last2=Durlach|first2=Paula J.|date=2014-09-01|title=Reinforcing Math Knowledge by Immersing Students in a Simulated Learning-By-Teaching Experience|journal=International Journal of Artificial Intelligence in Education|language=en|volume=24|issue=3|pages=216–250|doi=10.1007/s40593-014-0016-x|s2cid=72571|issn=1560-4292|doi-access=free}}</ref>
+<ref name="W16">{{cite magazine| title=One Genius' Lonely Crusade to Teach a Computer Common Sense |magazine=[[Wired (magazine)|Wired]]| date=24 March 2016 | url=https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/ | access-date=2 September 2023}}</ref>
+<ref name="RR">[https://www.rebellionresearch.com/douglas-lenat-obituary Douglas Lenat obituary]</ref>
+<ref name="NYT">{{cite web|title=Douglas Lenat, Who Tried to Make A.I. More Human, Dies at 72|url=https://www.nytimes.com/2023/09/04/technology/douglas-lenat-dead.html|work=The New York Times|last=Metz|first=Cade|date=September 4, 2023|accessdate=September 4, 2023}}</ref>
+<ref name="CfI">{{Cite journal|last=Lenat|first=Douglas|date=1988|title=The Case for Inelegance|journal=Proceedings of the International Workshop on Artificial Intelligence for Industrial Applications, Tokyo, May 1988.}}</ref>
+<ref name="Cost">Wood, Lamont. [https://www.technologyreview.com/article/16264/ Cycorp: The Cost of Common Sense], [[Technology Review]], March 2005</ref>
+<ref name="Veneer">{{Cite web|url=https://cognitiveworld.com/article/sometimes-veneer-intelligence-not-enough|title=Sometimes the Veneer of Intelligence is Not Enough {{!}} CogWorld|website=cognitiveworld.com|language=en|access-date=2017-11-29}}</ref>
+<ref name="MAAI">{{cite web |url= https://www.businessinsider.com/cycorp-ai-2014-7 |title= The Most Ambitious Artificial Intelligence Project In The World Has Been Operating In Near Secrecy For 30 Years |last= Love |first= Dylan |website= [[Business Insider]] |date= July 2, 2014 |access-date= October 7, 2020}}</ref>
+<ref name="Visions">{{Cite book |last=Kaku |first=Michio |url=https://books.google.com/books?id=g2bnNHiFZXsC&q=Manhattan&pg=PA64 |title=Visions: How Science Will Revolutionize the 21st Century |date=1999-03-04 |publisher=OUP Oxford |isbn=978-0-19-288018-5 |pages=64 |language=en}}</ref>
+<ref name="Expert">{{Cite journal|last1=Lenat|first1=Douglas B.|last2=Clarkson|first2=Albert|last3=Kircmidjian|first3=Garo|date=1983|title=An Expert System for Indications & Warning Analysis|url=https://dl.acm.org/citation.cfm?id=1623373.1623436|journal=Proceedings of the Eighth International Joint Conference on Artificial Intelligence - Volume 1|series=IJCAI'83|pages=259–262}}</ref>
+<ref name="Thresh">{{Cite journal|last1=Lenat|first1=Douglas B.|last2=Feigenbaum|first2=Edward A.|date=February 1991|title=On the Thresholds of Knowledge|journal=Artif. Intell.|volume=47|issue=1–3|pages=185–250|doi=10.1016/0004-3702(91)90055-O|issn=0004-3702}}</ref>
+<ref name="Build">{{Cite book|title=Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project|last1=Lenat|first1=Douglas B.|last2=Guha|first2=R. V.|date=1990-01-01|publisher=Addison-Wesley|isbn=9780201517521|location=Reading, Mass.|language=en}}</ref>
+<ref name="HALb">{{Cite book|title=HAL's Legacy: 2001's Computer as Dream and Reality|last=Clarke|first=Arthur C.|date=1998-02-06|publisher=The MIT Press|isbn=9780262692113|editor-last=Stork|editor-first=David G.|edition=Reprint|location=Cambridge, Mass.|language=en}}</ref>
+<ref name="Turtle">{{Cite journal|last=Lenat|first=Douglas B.|date=2008-07-10|title=The Voice of the Turtle: Whatever Happened to AI?|url=https://www.aaai.org/ojs/index.php/aimagazine/article/viewArticle/2106|journal=AI Magazine|language=en|volume=29|issue=2|doi=10.1609/aimag.v29i2.2106|issn=0738-4602|access-date=November 7, 2017|archive-date=November 7, 2017|archive-url=https://web.archive.org/web/20171107221347/https://www.aaai.org/ojs/index.php/aimagazine/article/viewArticle/2106|url-status=dead}}</ref>
+<ref name="WWTS">{{Cite journal|last=Lenat|first=Douglas B.|date=2016-04-13|title=WWTS (What Would Turing Say?)|url=https://www.aaai.org/ojs/index.php/aimagazine/article/view/2644|journal=AI Magazine|language=en|volume=37|issue=1|pages=97–101|doi=10.1609/aimag.v37i1.2644|issn=0738-4602|doi-access=free}}</ref>
+<ref name=LAT>{{citation |url=https://web.cs.ucla.edu/~klinger/articles/thinking_la_times_6_21_01.html |newspaper=[[Los Angeles Times]] |date=21 June 2001 |title=Birth of a Thinking Machine |author=Michael A. Hiltzik}}</ref>
+
+</references>
+
+==Further reading==
+* {{cite journal| first=Stephen | last=Wolfram | author-link=Stephen Wolfram | url=https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/ | title=Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic | journal=Stephen Wolfram Writings | date=5 September 2023 | accessdate=7 September 2023 }}
+
+==External links==
+* [http://www.cyc.com/about/team/ Douglas Lenat bio page at Cyc.com] {{Webarchive|url=https://web.archive.org/web/20150523194544/http://www.cyc.com/about/team/ |date=2015-05-23 }}
+* [https://videolectures.net/bsciw08_lenat_bsw/ "Beyond the Semantic Web" video lecture] at [[Conference on Neural Information Processing Systems|NIPS]] 2008.
+* [https://www.newyorker.com/reporting/2009/05/11/090511fa_fact_gladwell "How David Beats Goliath" article] at The New Yorker.
+* [https://www.youtube.com/watch?v=3wMKoSRbGVs "Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI."] Lex Fridman Podcast #221, 2021.
+
+<!--- Use the DEFAULTSORT magic word to sort this article in all categories --->
+
+{{authority control}}
+
+{{DEFAULTSORT:Lenat, Douglas}}
+[[Category:1950 births]]
+[[Category:2023 deaths]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:American artificial intelligence researchers]]
+[[Category:Lisp (programming language) people]]
+[[Category:American businesspeople in the computer industry]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Stanford University School of Engineering alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Businesspeople from Philadelphia]]

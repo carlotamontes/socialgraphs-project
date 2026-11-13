@@ -1,0 +1,140 @@
+{{Short description|Russian-American physicist}}
+{{Infobox scientist
+| name              = Dmitry Budker
+| native_name       = Дмитрий Будкер
+| image             = 
+| caption           = 
+| birth_date        = {{Birth year and age|1963}}
+| birth_place       = Soviet Union
+| death_date        = 
+| death_place       = 
+| fields            = Atomic, molecular, and optical physics
+| workplaces        = [[Johannes Gutenberg University of Mainz]] <br /> Helmholtz Institute Mainz <br /> University of California, Berkeley <br /> [[Lawrence Berkeley National Laboratory]]
+| education         = [[Novosibirsk State University]] (MS equivalent) <br /> [[University of California, Berkeley]] (PhD)
+| doctoral_advisor  = [[Eugene D. Commins]]
+| known_for         = [[Parity violation|Atomic parity violation]] <br /> [[Magnetometer|Magnetometry]] <br /> [[Nuclear magnetic resonance|Zero- to ultra-low-field NMR]] <br /> [[Dark matter]] detection <br /> Gamma Factory project
+| awards            = Miller Research Professorship at UC Berkeley <br /> Fellow of the [[American Physical Society]] <br /> Norman F. Ramsey Prize (2021) 
+| doctoral_students = 
+}}
+
+'''Dmitry Budker''' (born 1963) is a Russian-American physicist known for his work in [[atomic, molecular, and optical physics]], as well as [[Metrology|precision measurements]] and [[Symmetry (physics)|fundamental symmetries]]. He is currently a Professor at the [[University of Mainz|Johannes Gutenberg University of Mainz]] and the Helmholtz Institute Mainz in Germany, as well as a Professor of the Graduate School at the [[University of California, Berkeley]].<ref name="BerkeleyProfile">{{cite web
+|url=https://physics.berkeley.edu/people/faculty/dmitry-budker
+|title=Faculty: Dmitry Budker
+|website=UC Berkeley Physics Department
+|access-date=2025-02-14
+}}</ref>
+
+== Early life and education ==
+Budker was born in 1963 in the former [[Soviet Union]].<ref name="MainzProfile">{{cite web
+|url=https://www.prisma.uni-mainz.de/professor-dmitry-budker/
+|title=Professor Dmitry Budker
+|website=PRISMA+ Cluster of Excellence
+|access-date=2025-02-14
+}}</ref> He attended [[Novosibirsk State University]] from 1980 to 1985, receiving a diploma (equivalent to an MS) with honors from its Department of Physics.<ref name="BerkeleyProfile" />
+
+After graduation, Budker worked as a junior researcher at the [[Budker Institute of Nuclear Physics]] in Novosibirsk, conducting research on laser spectroscopy of atoms. In 1989, he moved to the United States to pursue his doctoral studies at the University of California, Berkeley. He received his Ph.D. in physics from UC Berkeley in 1993 under the supervision of Eugene D. Commins.<ref name="BerkeleyProfile" />
+
+== Career and research ==
+Following his Ph.D., Budker held a postdoctoral position at [[UC Berkeley]] until 1995, when he was appointed to the faculty. He became a full professor in 2005.<ref name="BerkeleyProfile" /> From 1996 to 2015, he was also a Faculty Scientist at the [[Lawrence Berkeley National Laboratory]], where he developed tabletop experiments probing fundamental physics.<ref name="LBNL">{{cite web
+|url=https://newscenter.lbl.gov/2010/06/24/testing-best-yet-theory/
+|title=Testing the Best-Yet Theory of Nature
+|website=Lawrence Berkeley National Laboratory
+|date=24 June 2010
+|access-date=2025-02-14
+}}</ref> In 2014, Budker joined the [[University of Mainz|Johannes Gutenberg University of Mainz]] as Professor of Experimental Atomic Physics, leading the Matter-Antimatter Asymmetry section at the [[Helmholtz Institute Mainz]].<ref name="MainzProfile" /> Since 2016, he has held a dual appointment as a Professor of the Graduate School at UC Berkeley.<ref name="BerkeleyProfile" />
+
+=== Atomic parity violation ===
+Budker's team observed the largest [[Parity (physics)|parity violation]] in atoms using [[ytterbium]] isotopes in 2009, with a signal 100 times stronger than previous cesium-based experiments.<ref>{{cite journal
+|last1=Tsigutkin
+|first1=K.
+|display-authors=etal
+|title=Observation of a Large Atomic Parity Violation Effect in Ytterbium
+|journal=Physical Review Letters
+|date=2009
+|volume=103
+|article-number=071601
+|doi=10.1103/PhysRevLett.103.071601
+|arxiv=0906.3039
+}}</ref> By probing forbidden transitions in ytterbium-174, they revealed how the [[weak nuclear force]] mixes atomic states of opposite parity, enabling measurements of neutron distributions in nuclei.<ref name="SciDaily">{{cite web
+|url=https://www.sciencedaily.com/releases/2009/07/090722123755.htm
+|title=Ytterbium's Broken Symmetry: Largest Parity Violations Ever ...
+|website=ScienceDaily
+|date=2009-07-22
+|access-date=2025-02-14
+}}</ref> This work provided experimental constraints on the hypothetical "[[neutron skin]]" in heavy nuclei<ref name="PhysicsWorld">{{cite web
+|url=https://physicsworld.com/a/parity-violation-in-ytterbium-is-largest-ever-seen/
+|title=Parity violation in ytterbium is largest ever seen
+|website=Physics World
+|date=2018-01-15
+|access-date=2025-02-14
+}}</ref> and for testing [[anapole moment]]s predicted by the [[Standard Model]].
+
+=== Tests of fundamental symmetries ===
+In 2010, Budker's group conducted tests of the [[spin-statistics theorem]], confirming photons obey [[Bose-Einstein statistics]] with <1 violation per 100 billion interactions.<ref>{{cite journal
+|last1=English
+|first1=D.
+|last2=Yashchuk
+|first2=V. V.
+|last3=Budker
+|first3=D.
+|title=Spectroscopic Test of Bose-Einstein Statistics for Photons
+|journal=Physical Review Letters
+|date=2010
+|volume=104
+|article-number=253604
+|doi=10.1103/PhysRevLett.104.253604
+|arxiv=1001.1771
+}}</ref> Using [[barium]] atoms and counter-propagating lasers, they searched for forbidden two-photon transitions that would violate quantum statistics, achieving a 3,000-fold sensitivity improvement over prior work.<ref name="LBNL" /> This validated the [[microcausality]] principle in [[quantum field theory]].<ref name="DOEPulse">{{cite web
+|url=https://web.ornl.gov/info/news/pulse/no338/profile.shtml
+|title=Dima Budker, atom man
+|website=DOE Pulse
+|date=2011-05-30
+|access-date=2025-02-14
+}}</ref>
+
+=== Dark matter detection ===
+Budker developed atomic sensor techniques to search for [[axion]]s and other ultralight dark matter candidates. In 2015, his team used [[optical magnetometry]] to set limits on scalar dark matter coupling to electrons, achieving sub-femtotesla sensitivity.<ref>{{cite journal
+|last1=Van Tilburg
+|first1=K.
+|display-authors=etal
+|title=Search for ultralight scalar dark matter with atomic spectroscopy
+|journal=Physical Review Letters
+|date=2015
+|volume=115
+|article-number=011802
+|doi=10.1103/PhysRevLett.115.011802
+|arxiv=1503.06886
+}}</ref>
+
+=== NV quantum sensing ===
+Budker advanced [[nitrogen-vacancy center|NV-center]] magnetometry, demonstrating sub-picotesla sensitivity for applications in [[MRI]] and materials science.<ref>{{Cite journal |last=Taylor |first=J. M. |last2=Cappellaro |first2=P. |last3=Childress |first3=L. |last4=Jiang |first4=L. |last5=Budker |first5=D. |last6=Hemmer |first6=P. R. |last7=Yacoby |first7=A. |last8=Walsworth |first8=R. |last9=Lukin |first9=M. D. |date=October 2008 |title=High-sensitivity diamond magnetometer with nanoscale resolution |url=https://www.nature.com/articles/nphys1075 |journal=Nature Physics |language=en |volume=4 |issue=10 |pages=810–816 |doi=10.1038/nphys1075 |issn=1745-2481|url-access=subscription |arxiv=0805.1367 }}</ref><ref>{{Cite journal |last=Acosta |first=V. M. |last2=Bauch |first2=E. |last3=Ledbetter |first3=M. P. |last4=Santori |first4=C. |last5=Fu |first5=K.-M. C. |last6=Barclay |first6=P. E. |last7=Beausoleil |first7=R. G. |last8=Linget |first8=H. |last9=Roch |first9=J. F. |last10=Treussart |first10=F. |last11=Chemerisov |first11=S. |last12=Gawlik |first12=W. |last13=Budker |first13=D. |date=2009-09-09 |title=Diamonds with a high density of nitrogen-vacancy centers for magnetometry applications |url=https://journals.aps.org/prb/abstract/10.1103/PhysRevB.80.115202 |journal=Physical Review B |volume=80 |issue=11 |article-number=115202 |doi=10.1103/PhysRevB.80.115202|arxiv=0903.3277 }}</ref><ref>{{Cite journal |last=Bar-Gill |first=N. |last2=Pham |first2=L. M. |last3=Jarmola |first3=A. |last4=Budker |first4=D. |last5=Walsworth |first5=R. L. |date=2013-04-23 |title=Solid-state electronic spin coherence time approaching one second |url=https://www.nature.com/articles/ncomms2771 |journal=Nature Communications |language=en |volume=4 |issue=1 |page=1743 |doi=10.1038/ncomms2771  |doi-access=free|issn=2041-1723|arxiv=1211.7094 }}</ref><ref>{{cite web |last=Wogan |first=Tim |date=2017-09-05 |title=Putting a new spin on things |url=https://www.chemistryworld.com/news/putting-a-new-spin-on-things/3007939.article |access-date=2025-02-15 |website=Chemistry World }}</ref> His 2006 prototype atomic gradiometer used [[nonlinear magneto-optical rotation]] in antirelaxation-coated cells, enabling biomagnetic imaging without cryogenics.<ref>{{cite journal |last1=Xu |first1=S. |display-authors=etal |title=Construction and applications of an atomic magnetic gradiometer |journal=Review of Scientific Instruments |date=2006 |volume=77 |page=083106 |doi=10.1063/1.2234855}}</ref> In 2015, he co-developed zero-field [[NMR]] techniques using NV centers to detect [[J-coupling]] in chemicals, enabling portable spectroscopy.<ref name="DOEPulse" /> This work has been applied to study [[superfluid helium]]'s optical properties<ref>{{cite journal |last1=Sushkov |first1=A. O. |display-authors=etal |title=Kerr effect in liquid helium below the superfluid transition |journal=Physical Review Letters |date=2004 |volume=93 |article-number=153003 |doi=10.1103/PhysRevLett.93.153003|arxiv=physics/0403143 }}</ref> and map cardiac magnetism in humans.<ref>{{cite journal |last1=Budker |first1=D. |last2=Kimball |first2=D. F. |title=Optical Magnetometry |journal=[[Nature Physics]] |date=2013 |volume=9 |pages=227–234 |doi=10.1038/nphys2513|arxiv=1209.2610 }}</ref>
+
+== Awards and honors ==
+* [[American Physical Society]] Award for Outstanding Doctoral Thesis Research in AMO Physics (1994)<ref name="BerkeleyProfile" />
+* Miller Research Professorship at UC Berkeley<ref name="BerkeleyProfile" />
+* Fellow of the American Physical Society (2005)<ref name="BerkeleyProfile" /><ref>[https://www.aps.org/funding-recognition/aps-fellowship/gpmfc-fellowship APS Fellowship: Topical Group on Precision Measurement and Fundamental Constants Fellowship]</ref>
+* [[Norman F. Ramsey Prize]] of the APS (2021)<ref>{{cite web
+|url=https://www.aps.org/programs/honors/prizes/ramsey.cfm
+|title=Norman F. Ramsey Prize
+|website=American Physical Society
+|access-date=2025-02-14
+}}</ref>
+* [[European Research Council]] Advanced Grant (2015)<ref>{{cite web
+|url=https://erc.europa.eu/news-events/magazine/erc-2015-advanced-grants-results
+|title=ERC Advanced Grants 2015 Results
+|website=European Research Council
+|access-date=2025-02-14
+}}</ref>
+
+== References ==
+{{reflist}}
+
+
+{{DEFAULTSORT:Budker, Dmitry}}
+[[Category:1963 births]]
+[[Category:Russian physicists]]
+[[Category:American physicists]]
+[[Category:Living people]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:University of California, Berkeley faculty]]

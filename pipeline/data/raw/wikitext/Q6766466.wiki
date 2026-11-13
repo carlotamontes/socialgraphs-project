@@ -1,0 +1,121 @@
+{{Short description|English computational biologist}}
+{{Other people|Mark O'Neill|Mark O'Neill (disambiguation)}}
+{{Use dmy dates|date=April 2018}}
+{{Use British English|date=April 2018}}
+
+{{Infobox scientist
+| name              = Mark A. O'Neill
+| image             = Mark_A_ONeill.JPG
+| image_size        =
+| alt               = <!-- description of image, see WP:ALT -->
+| caption           = O'Neill in 2011
+| birth_place       = [[Grantham]], Lincolnshire, United Kingdom
+| death_date        = 
+| death_place       = 
+| ethnicity         = 
+| fields            = [[ecological modelling]], [[computational neuroscience]], [[complex systems]], [[machine vision]]
+| workplaces        = [[Cambridge University]], [[University College London]], [[Oxford University]]
+| education    = [[University of London]], [[University of Sheffield]]
+| doctoral_advisor  = Ian Dowman
+| academic_advisors = G. Paul Otto, Peter Rounce
+| doctoral_students = 
+| notable_students  = Claus C. Hilgetag, Sarah E. Barlow, Daniel T. Reed
+| known_for         = [[Digital Automated Identification SYstem (DAISY)]], [[PUPS P3]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         =  
+}}
+
+'''Mark A. O'Neill''' is an English [[computational biology|computational biologist]] with interests in [[artificial intelligence]], [[systems biology]], [[complex systems]] and [[image analysis]]. He is the creator and lead programmer on a number of computational projects including the [[Digital Automated Identification SYstem (DAISY)]] for [[automated species identification]] and [[PUPS P3]], an [[organic computing]] environment for [[Linux]].
+
+==Education==
+O'Neill was educated at [[The King's School, Grantham]], [[Sheffield University]] and [[University College London]].<ref>{{cite thesis
+|last=O'Neill
+|first=Mark A.
+|year=1992
+|title=Kinematic Model of the SPOT-1 Sensor
+|publisher=University College London
+}}</ref>
+
+==Research interests==
+O'Neill's interests lie at the interface of biology and computing. He has worked in the areas of [[artificial life]] and [[biologically inspired computing]]. In particular, he has attempted to answer the question "can one create [[software agents]] which are capable of carrying a useful computational payload which respond to their environment with the flexibility of a living [[organism]]?"
+
+He has also investigated how computational methods may be used to analyze biological and quasi biological systems for example: [[ecosystem]]s and [[economies]].
+
+O'Neill is also interested in [[ethology]], especially the emergent social ecosystems which occur as a result of [[social networking]] on the [[internet]]. His recent projects include the use of artificial intelligence techniques to look at complex socio-economic data.<ref>{{cite journal
+|first1=Elizabeth |last1=Lloyd Parkes
+|first2=Robert I. W. |last2=Lang
+|first3=Mark A. |last3=O'Neill
+|title=Understanding Tweens" Identity as Expressed through Conspicuous Consumption: an Adaptive Neural Net Approach to the Analysis of a Complex Socio-Economic Dataset
+|url=https://www.tumblingdice.co.uk/documents/ComplexApproach.pdf
+|date=24 April 2008
+|publisher=Tumbling Dice
+|journal=Child and Teen Consumption – Conference on Multidisciplinary Perspectives on Child and Teen Consumption
+|location=Trondheim, Norway
+}}</ref>
+
+On the computer science front, O'Neill continues to develop and contribute to a number of other [[Open-source model|open source]] and commercial software projects and is involved in the design of cluster/parallel computer hardware via his company, [https://www.tumblingdice.co.uk  Tumbling Dice Ltd]. Long-running projects include DAISY;<ref>{{cite journal
+|last1=Reed
+|first1=Sarah
+|date=25 June 2010
+|title=Pushing Daisy
+|journal=Science
+|volume=328
+|pages=1628–1629
+|doi=10.1126/science.328.5986.1628
+|pmid=20576867
+|issue=5986
+}}</ref>
+PUPS P3 an organic computing environment for Linux; [[Cryopid]], a Linux process freezer; the [https://www.tumblingdice.co.uk/mensor &#91;Mensor digital terrain model generation system&#93;]; and [[RanaVision]], a vision based motion detection system. He has also worked with public domain agent based social interaction models such as [[Sugarscape]] and artificial life simulators, for example physis, which is a development of [[Tierra (computer simulation)|Tierra]].
+
+O'Neill has been a keen naturalist since childhood. In addition to his interests in complex systems and computer science, he is a member of the [[Royal Entomological Society]] and an expert in the rearing and ecology of [[hawk moth]]s. He is also currently convenor of the [https://www.royensoc.co.uk/special-interest-groups/electronic-computing-technology &#91;Electronic and Computing Technology Special Interest Group&#93;] (SIG) for the Royal Entomological Society.
+
+He is also interested in the use of [[precision agriculture]] methodologies to monitor agri-[[ecosystems]],<ref>{{cite web|url=https://www.tumblingdice.co.uk/documents/ctrap.pdf|title=Camera Traps|publisher=Tumbling Dice|date=19 September 2010|accessdate=19 December 2010}}</ref> and has been an active participant in a series of projects looking at the automatic tracking of [[Bombus terrestris|bumblebees]],<ref name="BBC">{{cite news |url=http://news.bbc.co.uk/1/hi/sci/tech/5215022.stm |title=Homing instinct of bees surprises |work=BBC News |date=2006-07-26 |first=Louisa | last=Cheung|accessdate=19 December 2010}}</ref><ref>{{cite news |first=Ian |last=Sample |url=https://www.theguardian.com/environment/2006/jul/26/conservationandendangeredspecies.uknews |title=The flight of the bumblebee is measured at record eight miles |newspaper=The Guardian |date=26 July 2006 |accessdate=14 June 2012}}</ref> and other insects<ref name="ITV">{{cite video|url=https://www.tumblingdice.co.uk/movies/tracking.html|title=Tracking Bombus terrestris (ITV Tyne Tees)
+|accessdate=19 December 2010}}</ref><ref>{{cite journal
+|last1=O’Neill
+|first1=M.A.
+|last2=Barlow
+|first2=S
+|last3=Port
+|first3=G. P. 
+|year=2010
+|title=Recording pollinator visitation to ''Rhinanthus minor'' (Hay rattle) using an automated motion sensitive detection system 
+|journal=Entomology 2010
+|publisher=University of Swansea
+}}</ref> using vision, and using both [[Network theory|network analysis]] and [[remote sensing]] techniques to monitor ecosystem health. Latterly, he has become interested in applying these techniques in the commercial sphere to look at issues of [[corporate responsibility]] and [[sustainability]] in industries like mining and agriculture which have significant ecological footprints.
+
+He has also been involved in both [[computational neuroscience]] and [[systems biology]], the former association resulting in many papers while working at [[Oxford University]]. Work in the latter area led to the successful flotation in 2007 of a systems biology company, e-Therapeutics, where O'Neill was a senior scientist, assisted with the establishment of the company, and was named in a number of seminal [[patent]]s.
+
+O'Neill is a fellow of the [[British Computer Society]], the [[Institute of Engineering and Technology]], and the [[Royal Astronomical Society]]. He is also a [[Chartered Engineer (UK)|chartered engineer]], a [[Chartered IT Professional|chartered IT professional]] and a member of the [[Institute of Directors]]. He was one of the recipients of the ''BCS Award for Computing Technology'' in 1992.
+
+==Publications==
+* {{Google Scholar id | id= dL53QvgAAAAJ | name= Mark A. O'Neill }}
+* {{ORCID|0000-0002-7042-690X}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.tumblingdice.co.uk/ Tumbling Dice]
+* [https://www.etherapeutics.co.uk e-Therapeutics]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Oneill, Mark A.}}
+[[Category:20th-century English biologists]]
+[[Category:21st-century English biologists]]
+[[Category:British artificial intelligence researchers]]
+[[Category:English computer scientists]]
+[[Category:Systems biologists]]
+[[Category:Computational biologists]]
+[[Category:Fellows of the Royal Entomological Society]]
+[[Category:Fellows of the Royal Astronomical Society]]
+[[Category:Fellows of the British Computer Society]]
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:People educated at The King's School, Grantham]]

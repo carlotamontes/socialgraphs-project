@@ -1,0 +1,27 @@
+{{short description|American theoretical physicist}}
+'''Francis Harvey Harlow''' (22 January 1928 – 1 July 2016)<ref name="LAPost obit">{{cite web |url=http://www.ladailypost.com/content/obituary-francis-harvey-harlow-jan-22-1928-%E2%80%93-july-1-2016 |title=Obituary: Francis H. Harlow |publisher=Los Alamos Daily Post |date=12 July 2016 |access-date=12 July 2016 |archive-date=1 October 2017 |archive-url=https://web.archive.org/web/20171001052901/http://www.ladailypost.com/content/obituary-francis-harvey-harlow-jan-22-1928-%E2%80%93-july-1-2016 |url-status=dead }}</ref> was an American theoretical physicist known for his work in the field of [[fluid dynamics]].<ref name="lanl">{{cite press release |url=http://www.lanl.gov/news/releases/archive/03-159.shtml |title=Eight Los Alamos physicists honored as Fellows of the American Physical Society |date=11 December 2003 |publisher=[[Los Alamos National Laboratory]] |access-date=31 October 2010}}</ref> He was a researcher at [[Los Alamos National Laboratory]], [[Los Alamos, New Mexico]]. Harlow is credited with establishing the science of [[computational fluid dynamics]] (CFD) as an important discipline.<ref name="lanl_news">{{cite web |url=http://www.lanl.gov/news/newsletter/062005.pdf |title=Los Alamos News Letter |date=20 June 2005|access-date=31 October 2010}}</ref>
+
+He is known for his fundamental contributions to the development of several CFD [[algorithms]] for computer simulation of fluid flows, including [[Particle-in-cell|Particle-In-Cell]] (PIC), Fluid-In-Cell (FLIC), and [[Marker-and-Cell method|Marker-and-Cell]] (MAC) methods. Harlow was a Fellow of the [[American Physical Society]].  He was also a noted expert on the [[pottery]] of the [[Puebloan peoples]] of New Mexico, publishing in this field as well as in physics, and donated his extensive and significant collection of Puebloan pottery to the [[Museum of Indian Arts and Culture]] several years before his death.<ref name="LAPost obit" /> In 2016, Harlow's autobiography was published in the collection ''Adventures in Physics and Pueblo Pottery: Memoirs of a Los Alamos Scientist.''
+
+==Awards and honors==
+Harlow was a fellow of the American Physical Society since 2003. He was selected "For his contributions to our understanding of low-speed, free-surface, and turbulent flow through computational modeling, and his invention of completely original methods to address these issues."<ref>{{cite web|url=http://www.aps.org/units/dfd/fellowship/index.cfm?year=2003|title=APS Fellowship|publisher=[[American Physical Society]]|access-date=31 October 2010}}</ref> In 2004, he received ''Los Alamos Medal'', the highest honor given to an individual or small group by LANL.<ref name="lanl_news" />
+
+==Selected publications==
+*{{cite journal|last=Harlow|first=Francis H.|year=1964|title=The particle-in-cell computing method for fluid dynamics|journal=Methods Comput. Phys.|volume=3|issue=3|pages=319–343|doi=10.1007/BF00230516|bibcode=1964SSRv....3..319B|s2cid=121512234 }}
+*{{cite journal|last=Harlow|first=Francis H.|author2=J. Eddie Welch|year=1965|title=Numerical Calculation of Time-dependent Viscous Incompressible Flow of Fluid with Free Surface|journal=[[Physics of Fluids|Phys. Fluids]]|publisher=[[American Institute of Physics]]|volume=8|issue=12|pages=2182–2189|url=http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S09/papers/harlow_welch.pdf|bibcode = 1965PhFl....8.2182H |doi = 10.1063/1.1761178 }}
+*{{cite journal|last=Harlow|first=Francis H.|author2=John P. Shannon|year=1967|title=The Splash of a Liquid Drop|journal=J. Appl. Phys.|volume=38|issue=10|pages=3855–3866|url=https://ieeexplore.ieee.org/document/5091260|bibcode = 1967JAP....38.3855H |doi = 10.1063/1.1709031 |url-access=subscription}}{{dead link|date=January 2025|bot=medic}}{{cbignore|bot=medic}}
+*{{cite journal|last=Daly|first=Bart J.|author2=Francis H. Harlow|year=1970|title=Transport Equations in Turbulence|journal=Phys. Fluids|publisher=American Institute of Physics|volume=13|issue=11|pages=2634|url=http://pof.aip.org/resource/1/pfldas/v13/i11/p2634_s1?isAuthorized=no|bibcode=1970PhFl...13.2634D|doi=10.1063/1.1692845|url-status=dead|archive-url=https://web.archive.org/web/20110928035453/http://pof.aip.org/resource/1/pfldas/v13/i11/p2634_s1?isAuthorized=no|archive-date=2011-09-28|url-access=subscription}}
+*{{cite journal|last=Harlow|first=Francis H.|author2=Anthony A. Amsden|year=1971|title=A numerical fluid dynamics calculation method for all flow speeds|journal=[[Journal of Computational Physics|J. Comput. Phys.]]|publisher=[[Academic Press]]|volume=8|issue=2|pages=197–213|bibcode = 1971JCoPh...8..197H |doi = 10.1016/0021-9991(71)90002-7 }}
+*{{cite book|last=Frank|first=Larry|author2=Francis H. Harlow|author3=Bernard Lopez|title=Historic Pottery of the Pueblo Indians, 1600-1880|publisher=Schiffer Publishing|year=2007|isbn=978-0887402272}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Harlow, Francis H.}}
+[[Category:American physicists]]
+[[Category:Computational fluid dynamicists]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:1928 births]]
+[[Category:2016 deaths]]

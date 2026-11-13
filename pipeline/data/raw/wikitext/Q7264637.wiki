@@ -1,0 +1,61 @@
+{{Short description|Norwegian computer scientist}}
+{{Cleanup rewrite|date=March 2025}}
+{{infobox academic
+| image        = File:Pål_Spilling_(Internet_30_years_anniversary,_2007).jpg
+| caption      = Pål Spilling in 2007.
+| birth_date   = 29 October 1934
+| death_date   = 16 January 2018
+| institutions = [[University of Oslo]]
+| discipline   = [[computer science]]<br/>[[physics]]
+| education    = [[University of Oslo]]<br/>[[Utrecht University]]
+| known_for    = role in the development of the [[Internet]]
+}}
+
+'''Pål Spilling''' (29 October 1934 – 16 January 2018<ref name="passed" />) was a Norwegian [[Internet]] pioneer and professor at the [[University of Oslo]] and the UNIK Graduate Center at [[Kjeller]] in Norway.
+
+== Biography ==
+He obtained his [[Candidatus realium|cand.real.]] degree in physics from the University of Oslo in 1963. In January 1964, he started on a PhD program at [[Utrecht University]] in The Netherlands, and finished his degree in summer 1968 in experimental low-energy neutron physics. Subsequently he joined the nuclear physics group at [[Eindhoven University of Technology]] in The Netherlands.
+
+In January 1972, Spilling joined the [[Norwegian Defence Research Establishment]] (NDRE) at Kjeller in Norway, and in 1974 started working on computer networks under the leadership of [[Yngvar G. Lundh|Yngvar Lundh]] at NDRE in collaboration with the [[DARPA]]-funded research program on packet switching and Internet technology in the US.
+
+The first [[ARPANET]] node outside the US was established at Kjeller, Norway in June 1973 for the NDRE researchers, and by the end of July 1973, an ARPANET node was also set up in the U.K. at the [[University College London]].
+
+Spilling visited Professor [[Peter T. Kirstein|Peter Kirstein]]'s research group at UCL in 1974 (other sources,<ref name="Internett.no">{{Cite web|url=https://www.usit.uio.no/om/organisasjon/sst/stab/ansatte/bness/tilkoplet/web/7/src/internet.no-historie.pdf
+|title=Internett.no/historie - Unn Kristin Daling og Øyvind Thomassen|publisher=NTNU|date=2006}}</ref> including Pål Spillings own, say that this was in 1975) and worked with [[Vint Cerf]], then junior assistant professor at [[Stanford University]], on the then proposed [[Transmission Control Protocol]] conducting the first TCP tests between different implementations. Peter Kirstein writes:
+
+{{blockquote|One of the most significant activities at the time, seen from the 25 years on, were the early protocol experiments in late 1974 between a junior Assistant Professor at Stanford (Vint Cerf), and a visiting scholar from Norway at UCL (Paal Spilling) of the proposed Transmission Control Protocol. This international experiment, was the first test anywhere of the protocol suite now called the "Internet suite", which has made possible the current development of the Internet.<ref>{{Cite web|url=https://ban.ai/multics/doc/kirstein-arpanet.pdf|title=Early Experiences with the ARPANET and INTERNET in the UK - Peter T. Kirstein|publisher= University College London (UCL)|date=1998-07-28}}</ref>}}[[File:Birth of Internet plaque at Stanford University July 28, 2005.jpg|thumb|Birth of Internet plaque at Stanford University ceremony 28 July 2005]]
+
+During the next few years Spilling also participated in the development of the [[Internet Protocol]] and other early computer network protocols. He was visiting scientist at [[SRI International]] at Stanford University in 1979/80, where he worked on the Packet Radio program.
+
+Spilling left NDRE in August 1982 to join the former Research Department of the [[Norwegian Telecommunications Administration]] (NTA-RD), also at Kjeller. The NDRE ARPANET node followed Spilling to NTA-RD, and became a dooropener to packet switching and real time international communications for Norwegian research and academic communities. At NTA-RD Spilling also worked on communications security and the combination of Internet technology and fiber-optic transmission networks.<ref>{{cite book|last1=Næss|first1=Bjørn|title=Tilkoblet ('Connected')|date=2013|publisher=Akademika|location=Trondheim|isbn=9788232102815}}</ref>
+
+In 1988, ARPANET saw its first widespread infection by self-replicating code: Morris, a worm that could install multiple copies of itself on the same computer, causing infected systems to grind to a halt. As the Morris worm began to spread in the United States, Spilling's American colleagues called to warn him. Faced with a threat to his nation's entire network of computers, he acted quickly and disconnected Norway from the rest of the Internet, which at the time could be done by unplugging a single cable.<ref>{{Cite web |date=7 November 2015 |title=14 strange but true tech facts you (Probably) don't know |url=http://www.infoworld.com/article/3002366/technology-business/14-strange-but-true-tech-facts-you-probably-dont-know.html#slide7}}</ref><ref name=":0">{{Cite web |last=Kjeller |first=Universitetssenteret på |last2=Røsjø |first2=Bjarne |date=2012-02-05 |title=Den norske Internett-pioneren |url=https://www.forskning.no/store-vitenskapsfolk-data-elektronikk/den-norske-internett-pioneren/727697 |access-date=2025-12-06 |website=www.forskning.no |language=nb-NO}}</ref>
+
+In 1993 Spilling became professor at [[Department of Informatics, University of Oslo|Department of informatics]], University of Oslo and [[UNIK]], the University Graduate Center at Kjeller. Pål Spilling was internationally recognised for his role in the development of the Internet. His name is engraved in a bronze plaque roll of honour of [[List of Internet pioneers|Internet pioneer]]s at [[Stanford University]].
+
+Spilling was also a local politician for the [[Conservative Party (Norway)|Conservative Party]] in [[Gjerdrum]].<ref name=":0" />
+
+In 2021, Spilling was posthumously inducted to the [[Internet Hall of Fame]].<ref>{{Cite web |title=Pål Spilling |url=https://www.internethalloffame.org/inductee/pal-spilling/ |access-date=2024-01-16 |website=Internet Hall of Fame |language=en-US}}</ref>
+
+==References==
+{{Reflist|
+refs = <ref name="passed">{{cite web |url= http://www.tv2.no/a/9617207|title=Internett-pionér Pål Spilling (83) er død |author=<!--Not stated--> |date=January 16, 2018 |website=tv2.no |publisher= |access-date=January 17, 2018 |language=Norwegian}}</ref>
+}}
+
+==External links==
+* [https://web.archive.org/web/20131124053725/http://www.unik.no/ UNIK University Graduate Center at Kjeller, Norway]
+* [https://www.ffi.no/ Norwegian Defence Research Establishment]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spilling, Paal}}
+[[Category:1934 births]]
+[[Category:2018 deaths]]
+[[Category:Norwegian computer scientists]]
+[[Category:Norwegian expatriates in the Netherlands]]
+[[Category:Utrecht University alumni]]
+[[Category:People from Harstad Municipality]]
+[[Category:Conservative Party (Norway) politicians]]
+[[Category:Politicians from Akershus]]
+[[Category:20th-century Norwegian scientists]]
+[[Category:21st-century Norwegian scientists]]

@@ -1,0 +1,69 @@
+{{Short description|Italian physicist}}
+{{Infobox scientist
+| name               = Giancarlo Rossi
+| image              = giancarlo_Rossi.jpg
+| birth_date         = {{Birth date|1943|01|04}}
+| birth_place        = Rome, Italy
+| death_date         = {{Death date and age|2025|02|24|1943|01|04}}
+| death_place        = Rocca di Papa, Italy
+| education          = [[University of Rome "La Sapienza"]]
+| known_for          = {{plainlist|
+* [[Lattice QCD]]
+* [[Chiral gauge theory]]
+* [[Supersymmetry]]
+* [[AdS/CFT correspondence]]}}
+| fields             = Theoretical physics
+| workplaces         = University of Rome "Tor Vergata", University of L'Aquila, CERN, CNRS, University of Washington, DESY
+| doctoral_advisor   = [[Bruno Touschek]]
+}}
+
+'''Giancarlo Rossi''' (4 January 1943 – 24 February 2025) was an Italian physicist.
+
+== Biography ==
+Giancarlo Rossi was an Italian theoretical physicist working in theoretical [[Particle physics|elementary particle physics]]. He authored more than 200 publications<ref>{{Cite web |title=INSPIRE |url=https://inspirehep.net/authors/991188?ui-citation-summary=true |access-date=2025-06-24 |website=inspirehep.net}}</ref> contributing to a broad array of fields, including [[lattice field theory]], [[string theory]], [[Instanton|non-perturbative effects]] in [[quantum field theory]], and [[biophysics]].
+
+The core of Rossi's scientific career lays in [[lattice field theory]], including a perturbative proof of the continuum limit of renormalised [[Lattice QCD|quantum chromodynamics]] (QCD), the development of formulations for [[Chiral gauge theory|chiral gauge theories]] and [[supersymmetry]], and studies of the spin structure of hadrons on the lattice.
+
+Rossi was born in Rome and earned his degree in physics in 1966 from the [[Sapienza University of Rome|University of Rome "La Sapienza"]], under the supervision of [[Bruno Touschek]]. His thesis was entitled "''Annihilation e<sup>+</sup>e<sup>-</sup> → μ<sup>+</sup>μ<sup>-</sup> + γ and the Bloch–Nordsieck Method"''.<ref>{{Citation |last=Rossi |first=Giancarlo |chapter=Bruno Touschek and Statistical Mechanics |date=2023 |title=Bruno Touschek 100 Years |volume=287 |pages=45–57 |editor-last=Bonolis |editor-first=Luisa |chapter-url=https://link.springer.com/10.1007/978-3-031-23042-4_4 |access-date=2025-06-24 |place=Cham |publisher=Springer International Publishing |language=en |doi=10.1007/978-3-031-23042-4_4 |isbn=978-3-031-23041-7 |editor2-last=Maiani |editor2-first=Luciano |editor3-last=Pancheri |editor3-first=Giulia|doi-access=free }}</ref>
+
+He began his academic career at the Universities of Rome "La Sapienza" and of L'Aquila, serving first as assistant professor. In 1982, he became associate professor, and in 1987, he was appointed full professor of theoretical physics at the University of L'Aquila. From 1990 onward, he held the chair of mathematical methods in physics at the [[University of Rome Tor Vergata|University of Rome "Tor Vergata"]].<ref>{{Cite web |title=rossig - Università degli Studi di Roma Tor Vergata - it-IT |url=https://www.fisica.uniroma2.it/elenco-telefonico/rossig/ |access-date=2025-06-24 |website=www.fisica.uniroma2.it}}</ref>
+
+Giancarlo Rossi carried out research at several institutions. Between 1975 and 1977, he worked at the Theory Division of [[CERN]] in Geneva. From 1979 to 1980, he was ''Associé Scientifique'' at the Centre d'Études Nucléaires (CEN) in Saclay, France. In 1980–81, he was a ''Chargé de Recherche'' at the [[French National Centre for Scientific Research|CNRS]] at the University of Paris-Sud. He returned to CERN multiple times as a ''Scientific Associate'', including in the academic years 1982–83 and 2000–01. He also collaborated regularly with the [[University of Washington]] in Seattle, and in 2004 and 2005 he was an ''Invited Scientist'' at the [https://nic.desy.de NIC laboratory] of [[DESY]] in Zeuthen, Germany.
+
+== Scientific contributions ==
+Among Rossi's scientific contributions are:
+
+* The quantisation of non-Abelian gauge theories in the [[temporal gauge]] using the [[Path integral formulation|path integral formalism]] (with Massimo Testa).<ref>{{Cite journal |last=Rossi |first=G. C. |last2=Testa |first2=M. |date=1980-01-01 |title=The structure of Yang-Mills theories in the temporal gauge: (I). General formulation |url=https://www.sciencedirect.com/science/article/pii/0550321380903934 |journal=Nuclear Physics B |volume=163 |pages=109–132 |doi=10.1016/0550-3213(80)90393-4 |issn=0550-3213|url-access=subscription }}</ref>
+* The extension of duality concepts to meson–baryon and baryon–baryon amplitudes, introducing baryonium states and the junction model for baryons,<ref>{{Cite journal |last=Rossi |first=G. C. |last2=Veneziano |first2=G. |date=1977-05-30 |title=A possible description of baryon dynamics in dual and gauge theories |url=https://www.sciencedirect.com/science/article/pii/055032137790178X |journal=Nuclear Physics B |volume=123 |issue=3 |pages=507–545 |doi=10.1016/0550-3213(77)90178-X |issn=0550-3213|url-access=subscription }}</ref> in collaboration with [[Gabriele Veneziano]].
+* The development of a non-perturbative method to recover chiral invariance of QCD in the continuum from [[Wilson fermion]]s, analysing [[Ward–Takahashi identity|Ward identities]] and operator mixing.<ref>{{Cite journal |last=Bochicchio |first=Marco |last2=Maiani |first2=Luciano |last3=Martinelli |first3=Guido |last4=Rossi |first4=Giancarlo |last5=Testa |first5=Massimo |date=1985-12-16 |title=Chiral symmetry on the lattice with Wilson fermions |url=https://www.sciencedirect.com/science/article/pii/0550321385902901 |journal=Nuclear Physics B |volume=262 |issue=2 |pages=331–355 |doi=10.1016/0550-3213(85)90290-1 |issn=0550-3213|url-access=subscription }}</ref>
+* A formulation of [[Chiral gauge theory|chiral gauge theories]] on the lattice, enforcing [[Slavnov–Taylor identities]] at leading order based on [[BRST quantization|BRST]] symmetry.<ref>{{Cite journal |last=Borrelli |first=A |last2=Maiani |first2=L. |last3=Rossi |first3=G. C. |last4=Sisto |first4=R. |last5=Testa |first5=M. |date=1990-03-26 |title=Neutrinos on the lattice. The regularization of a chiral gauge theory |url=https://www.sciencedirect.com/science/article/pii/055032139090041B |journal=Nuclear Physics B |volume=333 |issue=2 |pages=335–356 |doi=10.1016/0550-3213(90)90041-B |issn=0550-3213|url-access=subscription }}</ref>
+* The exact, non-perturbative calculation of correlators in supersymmetric theories (notably with [[N = 1 supersymmetric Yang–Mills theory|N=1 supersymmetry)]], revealing novel non-perturbative mechanisms of [[Supersymmetry breaking|dynamical supersymmetry breaking]].<ref>{{Cite journal |last=Amati |first=D. |last2=Konishi |first2=K. |last3=Meurice |first3=Y. |last4=Rossi |first4=G. C. |last5=Veneziano |first5=G. |date=1988-05-01 |title=Non-perturbative aspects in supersymmetric gauge theories |url=https://www.sciencedirect.com/science/article/pii/0370157388901822 |journal=Physics Reports |volume=162 |issue=4 |pages=169–248 |doi=10.1016/0370-1573(88)90182-2 |issn=0370-1573|url-access=subscription }}</ref>
+* The introduction of twisted mass lattice QCD, improving observables at order ''a'', preserving positivity of the fermion determinant, and reducing operator mixing.<ref>{{Cite journal |last=Frezzotti |first=R |last2=Rossi |first2=G.C |date=2004-08-03 |title=Chirally improving Wilson fermions I. O(a) improvement |url=http://stacks.iop.org/1126-6708/2004/i=08/a=007?key=crossref.abfecaf3336ecdb2bc2f1432d468ec2f |journal=Journal of High Energy Physics |volume=2004 |issue=08 |pages=007–007 |doi=10.1088/1126-6708/2004/08/007 |issn=1029-8479|arxiv=hep-lat/0306014 }}</ref>
+* The application of twisted mass QCD in the [https://www-zeuthen.desy.de/~kjansen/etmc/ European Twisted Mass Collaboration] to calculate masses, decay constants, form factors, and B meson properties via heavy-quark simulations.<ref>{{Cite journal |last=Boucaud |first=Ph. |last2=Dimopoulos |first2=P. |last3=Farchioni |first3=F. |last4=Frezzotti |first4=R. |last5=Gimenez |first5=V. |last6=Herdoiza |first6=G. |last7=Jansen |first7=K. |last8=Lubicz |first8=V. |last9=Michael |first9=C. |last10=Münster |first10=G. |last11=Palao |first11=D. |last12=Rossi |first12=G. C. |last13=Scorzato |first13=L. |last14=Shindler |first14=A. |last15=Simula |first15=S. |date=2008-11-15 |title=Dynamical twisted mass fermions with light quarks: simulation and analysis details |url=https://www.sciencedirect.com/science/article/pii/S0010465508002270 |journal=Computer Physics Communications |volume=179 |issue=10 |pages=695–715 |doi=10.1016/j.cpc.2008.06.013 |issn=0010-4655|arxiv=0803.0224 }}</ref>
+* One of the first non-perturbative verifications of the [[AdS/CFT correspondence]], showing quantitative agreement between instantons in N=4 supersymmetric field theory and D-instantons in type IIB supergravity on AdS<sub>5</sub>×S<sup>5</sup>.<ref>{{Cite journal |last=Bianchi |first=Massimo |last2=Kovacs |first2=Stefano |last3=Rossi |first3=Giancarlo |last4=Green |first4=Michael B |date=1998-08-30 |title=Instantons in supersymmetric Yang-Mills and D-instantons in IIB superstring theory |url=http://stacks.iop.org/1126-6708/1998/i=08/a=013?key=crossref.849b682fcb9e0b4b95039f71f8aca99f |journal=Journal of High Energy Physics |volume=1998 |issue=08 |pages=013–013 |doi=10.1088/1126-6708/1998/08/013 |issn=1029-8479|arxiv=hep-th/9807033 }}</ref>
+* The derivation of a general formula for the stress tensor in molecular systems, valid in all statistical ensembles.<ref>{{Cite journal |last=Rossi |first=G. C. |last2=Testa |first2=M. |date=2010-02-16 |title=The stress tensor in thermodynamics and statistical mechanics |url=https://doi.org/10.1063/1.3316134 |journal=The Journal of Chemical Physics |volume=132 |issue=7 |pages=074902 |doi=10.1063/1.3316134 |issn=0021-9606|arxiv=0904.2283 }}</ref>
+* Studies on biological macromolecules using ''ab initio'' methods and predictive models to identify active sites in proteins and DNA, with a focus on metalloproteins such as prions and beta-amyloids.<ref>{{Cite journal |last=Furlan |first=Sara |last2=La Penna |first2=Giovanni |last3=Guerrieri |first3=Francesco |last4=Morante |first4=Silvia |last5=Rossi |first5=Gian Carlo |date=2007-05-01 |title=Ab initio simulations of Cu binding sites on the N-terminal region of prion protein |url=https://doi.org/10.1007/s00775-007-0218-x |journal=Journal of Biological Inorganic Chemistry |language=en |volume=12 |issue=4 |pages=571–583 |doi=10.1007/s00775-007-0218-x |issn=1432-1327|url-access=subscription |arxiv=q-bio/0606015 }}</ref>
+
+== Award ==
+In 2004, Rossi was awarded a [[Humboldt Research Award]] by the [[Alexander von Humboldt Foundation]].<ref>{{Cite web |title=Prof. Dr. Giancarlo Rossi |url=https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1113779/prof-dr-giancarlo-rossi |access-date=2025-06-23 |website=Humboldt Foundation |language=en}}</ref>
+
+== Selected works ==
+
+* ''Bruno Touschek, Giancarlo Rossi'', ''Meccanica Statistica'', Boringhieri, 1970. {{ISBN|978-88-339-5373-1}}
+
+==References==
+{{Reflist|25em}}
+
+== External links ==
+
+* [https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship/feodor-lynen-search-for-a-host/singleview/1113779/prof-dr-giancarlo-rossi Profile at the Alexander von Humboldt Foundation]
+* [https://www.fisica.uniroma2.it/elenco-telefonico/rossig/ Profile at the University of Rome "Tor Vergata"]
+*[https://inspirehep.net/authors/991188 Scientific publications of Giancarlo Rossi] on [[INSPIRE-HEP]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rossi, Giancarlo}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:People from Rome]]
+[[Category:Italian physicists]]

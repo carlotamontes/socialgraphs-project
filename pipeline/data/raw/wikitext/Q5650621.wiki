@@ -1,0 +1,41 @@
+{{short description|German physicist}}
+'''Hans-Christian Pfeiffer''' (January 7, 1937 - November 15, 2022) was a German [[physicist]] best known for his contribution to the development of [[electron beam lithography]]. He is the original inventor of variable-shaped beam (VSB) electron-beam projection system<ref>'''Pfeiffer, H. C.,''' “Electron beam lithography for integrated circuit fabrication,” ''IBM Journal of Research and Development'', 19(5), 410–421 (1975).</ref><ref>'''Pfeiffer, H. C., et al.''' “Electron beam apparatus for forming variable rectangular patterns,” U.S. Patent 3,900,737, issued August 19, 1975, assigned to International Business Machines Corporation.</ref> while at IBM.  He remained active in the mask making community through consulting after retirement, most notably with VISTEC, a electron beam projection company based in Jena, Germany. He continued to be active in the mask making community most notably the annual BACUS conference, most recently as SPIE PUV Symposium in Monterey, California in the fall.  
+
+== Impact of Variable-Shaped Beam (VSB) mask writing ==
+Dr. Pfeiffer is recognized for building the industry's first ''shaped beam'' lithography systems. He is the lead inventor of the foundational patent {{cite patent
+ | country = US
+ | number = 4243866
+ | title = Method and apparatus for forming a variable size electron beam
+ | inventor = Hans C. Pfeiffer; Philip M. Ryan; Edward V. Weber
+ | fdate = 1979-01-11
+ | pubdate = 1981-01-06
+ | assignee = International Business Machines Corporation
+}}. The VSB writing method, as it became known after commercialization in the mid-1980s by JEOL and Toshiba Machines (now NuFlare), became the dominant photomask writing technology.  Even after multibeam mask writing technology became available starting about 2018 through IMS Nanotechnology and NuFlare Technology, VSB writing is still the dominant mask writing technology in the world as of 2026.
+
+== Life ==
+Hans-Christian Pfeiffer was born on January 7, 1937 in Krumhermsdorf, [[Saxony]], [[Germany]].<ref name=":0">{{Cite web |title=Hans-Christian Pfeiffer Obituary (1937 - 2022) - Carmel Valley, CA - Monterey Herald |url=https://www.legacy.com/us/obituaries/montereyherald/name/hans-christian-pfeiffer-obituary?id=38250705 |access-date=2025-08-28 |website=Legacy.com}}</ref>
+
+Dr. Pfeiffer received his Ph.D. from [[Technische Universität Berlin]] in 1967 and joined IBM the following year. During his career he established a world class team and led the development of several generations of IBM's electron-beam lithography systems. 
+
+Dr. Pfeiffer was elected [[IBM Fellow]] in 1985.
+
+He lived in Carmel Valley, California and was a fixture at the annual BACUS conference in Monterey, California.  
+
+He died on November 15, 2022.<ref name=":0" />
+
+== References ==
+*[http://www.research.ibm.com/journal/rd/324/ibmrd3204F.pdf  Biography in IBM Journal of Research and Development]
+*[https://web.archive.org/web/20061014224333/http://www.cei.se/instructors/pfeiffer_hans.htm  Biography at CEI-Europe]
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pfeiffer, Hans}}
+[[Category:1937 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century German physicists]]
+[[Category:IBM Fellows]]
+[[Category:People from Sächsische Schweiz-Osterzgebirge]]
+[[Category:Technische Universität Berlin alumni]]
+
+{{Germany-physicist-stub}}

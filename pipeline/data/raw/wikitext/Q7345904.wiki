@@ -1,0 +1,66 @@
+{{short description|American computer scientist}}
+
+{{multiple issues|
+{{BLP one source|date=August 2013}}
+{{third-party|date=August 2013}}
+}}
+{{Infobox scientist
+| name              = Robert J. Harrison
+| image             = 
+| image_size        = 
+| caption           = Robert J. Harrison
+| birth_date        = {{birth-date and age|June 19, 1960}}
+| birth_place       = Birmingham, England
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[Chemistry]], [[Applied Mathematics]], and [[Computer Science]]
+| workplaces        = 
+| education         = [[University of Cambridge]]
+| doctoral_advisor  = [[Nicholas Handy]]
+| doctoral_students = 
+| known_for         = [[MADNESS]], [[NWChem]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| notable awards    = 
+| religion          = 
+| footnotes         = 
+}}
+'''Robert J. Harrison''' (born June 19, 1960) is a distinguished expert in high-performance computing. He is a professor in the Applied Mathematics and Statistics department and Interim Executive Director of Empire AI <ref>{{Cite web | url=https://www.ams.sunysb.edu |title = Home &#124; Applied Mathematics & Statistics}}</ref> and founding Director of the Institute for Advanced Computational Science at [[Stony Brook University]]<ref>{{Cite web | url=https://iacs.stonybrook.edu |title = Home &#124; Institute for Advanced Computational Science}}</ref> with a $20M endowment.<ref>{{Cite web | url=https://www.newsday.com/long-island/education/20m-to-stony-brook-for-supercomputer-institute-c40750 | archive-url=https://web.archive.org/web/20150711060344/http://www.newsday.com/long-island/education/20m-to-stony-brook-for-supercomputer-institute-1.3887276 | url-status=live | archive-date=July 11, 2015 |title = Newsday &#124; Long Island's & NYC's News Source &#124; Newsday}}</ref> Through a joint appointment with [[Brookhaven National Laboratory]], Professor Harrison has also been named Director of the Computational Science Center <ref>{{Cite web | url=http://www.bnl.gov/csc/ |title = BNL &#124; Computational Science Initiative}}</ref> and New York Center for Computational Sciences <ref>{{Cite web | url=http://www.bnl.gov/nyccs/ |title = NYCCS &#124; New York Center for Computational Sciences}}</ref> at Brookhaven. Dr. Harrison comes to Stony Brook from the [[University of Tennessee]] and [[Oak Ridge National Laboratory]], where he was Director of the Joint Institute of Computational Science,<ref>{{cite web |url=http://www.csm.ornl.gov/ccsg/html/staff/harrison.html |title=Robert J. Harrison |publisher=csm.ornl.gov |accessdate=2013-06-06 |url-status=dead |archiveurl=https://web.archive.org/web/20130220084201/http://www.csm.ornl.gov/ccsg/html/staff/harrison.html |archivedate=2013-02-20 }}</ref> Professor of Chemistry and Corporate Fellow. He has a prolific career in high-performance computing with over one hundred publications on the subject, as well as extensive service on national advisory committees.
+
+He has many publications in peer-reviewed journals in the areas of theoretical and computational chemistry, and high-performance computing. His undergraduate (1981) and post-graduate (1984) degrees were obtained at [[Cambridge University]], [[England]].  Subsequently, he worked as a postdoctoral research fellow at the Quantum Theory Project, [[University of Florida]], and the [[Daresbury Laboratory]], England, before joining the staff of the theoretical chemistry group at [[Argonne National Laboratory]] in 1988.  In 1992, he moved to the [[Environmental Molecular Sciences Laboratory]] of [[Pacific Northwest National Laboratory]], conducting research in [[theoretical chemistry]] and leading the development of [[NWChem]], a computational chemistry code for massively parallel computers. In August 2002, he started the joint faculty appointment with UT/ORNL, and became director of JICS in 2011.
+
+In addition to his DOE Scientific Discovery through Advanced Computing (SciDAC) research into efficient and accurate calculations on large systems, he has been pursuing applications in molecular electronics and chemistry at the nanoscale. In 1999, the NWChem team received an R&D Magazine R&D100 award,<ref>{{Cite web | url=http://www.pnnl.gov/about/rd100awards.asp#1999 |title = PNNL: About PNNL - Achievements and Awards}}</ref> in 2002, he received the [[IEEE Computer Society]] [[Sidney Fernbach Award]],<ref>{{cite web |url=http://www.computer.org/portal/web/awards/fernbach-harrison |title=Robert Harrison |website=www.computer.org |url-status=dead |archive-url=https://web.archive.org/web/20110815212939/http://www.computer.org/portal/web/awards/fernbach-harrison |archive-date=2011-08-15}}</ref> and in 2011 another R&D Magazine R&D100 award for the development of [[MADNESS]].<ref>{{Cite web | url=http://www.rdmag.com/award-winners/2011/08/free-framework-scientific-simulation |title = Home Page}}</ref> In 2015-2016, Dr. Harrison co-chaired with [[Bill Gropp]] the [[National Academies of Sciences, Engineering, and Medicine]] committee on [[Future Directions for NSF Advanced Computing Infrastructure to Support U.S. Science in 2017-2020.]]<ref>{{Cite book | url=https://www.nap.edu/catalog/21886/future-directions-for-nsf-advanced-computing-infrastructure-to-support-us-science-and-engineering-in-2017-2020 |doi = 10.17226/21886|title = Future Directions for NSF Advanced Computing Infrastructure to Support U.S. Science and Engineering in 2017-2020|year = 2016|publisher = The National Academies Press|isbn = 978-0-309-38961-7}}</ref>
+
+His interests and expertise are in theoretical and [[computational chemistry]], [[high-performance computing]], [[electron correlation]], [[electron transport]], [[relativistic quantum chemistry]], and [[response theory]].
+
+==Bibliography==
+
+#{{Cite journal|doi=10.1016/j.acha.2011.10.001|title=Multiresolution representation of operators with boundary conditions on simple domains|year=2012|last1=Beylkin|first1=Gregory|last2=Fann|first2=George|last3=Harrison|first3=Robert J.|last4=Kurcz|first4=Christopher|last5=Monzón|first5=Lucas|journal=Applied and Computational Harmonic Analysis|volume=33|page=109|url=https://amath.colorado.edu/faculty/beylkin/papers/B-F-H-K-M-2012net.pdf|doi-access=free}}
+#{{Cite journal|doi=10.1016/j.parco.2008.01.009|title=FPGA acceleration of a quantum Monte Carlo application|year=2008|last1=Gothandaraman|first1=Akila|last2=Peterson|first2=Gregory D.|last3=Warren|first3=G.L.|last4=Hinde|first4=Robert J.|last5=Harrison|first5=Robert J.|journal=Parallel Computing|volume=34|issue=4–5|page=278}}
+#{{Cite journal|doi=10.1063/1.2955730|title=Basis set limit Hartree–Fock and density functional theory response property evaluation by multiresolution multiwavelet basis|year=2008|last1=Sekino|first1=Hideo|last2=Maeda|first2=Yasuyuki|last3=Yanai|first3=Takeshi|last4=Harrison|first4=Robert J.|journal=The Journal of Chemical Physics|volume=129|issue=3|page=034111|pmid=18647020|bibcode=2008JChPh.129c4111S}}
+#{{Cite journal|doi=10.1063/1.2905219|title=Electron transport in open systems from finite-size calculations: Examination of the principal layer method applied to linear gold chains|year=2008|last1=Beste|first1=Ariana|last2=Meunier|first2=Vincent|last3=Harrison|first3=Robert J.|journal=The Journal of Chemical Physics|volume=128|issue=15|page=154713|pmid=18433264|url=https://zenodo.org/record/1232031|bibcode=2008JChPh.128o4713B}}
+#{{Cite journal|doi=10.1063/1.2423005|title=High-order electron-correlation methods with scalar relativistic and spin-orbit corrections|year=2007|last1=Hirata|first1=So|last2=Yanai|first2=Takeshi|last3=Harrison|first3=Robert J.|last4=Kamiya|first4=Muneaki|last5=Fan|first5=Peng-Dong|journal=The Journal of Chemical Physics|volume=126|issue=2|page=024104|pmid=17228940|bibcode=2007JChPh.126b4104H}}
+#{{Cite journal|doi=10.1063/1.2335446|title=The lowest energy states of the group-IIIA–group-VA heteronuclear diatomics: BN, BP, AlN, and AlP from full configuration interaction calculations|year=2006|last1=Gan|first1=Zhengting|last2=Grant|first2=Daniel J.|last3=Harrison|first3=Robert J.|last4=Dixon|first4=David A.|journal=The Journal of Chemical Physics|volume=125|issue=12|page=124311|pmid=17014178|url=https://zenodo.org/record/1231957|bibcode=2006JChPh.125l4311G}}
+#{{Cite journal|doi=10.1063/1.1791051|title=Multiresolution quantum chemistry: Basic theory and initial applications|year=2004|last1=Harrison|first1=Robert J.|last2=Fann|first2=George I.|last3=Yanai|first3=Takeshi|last4=Gan|first4=Zhengting|last5=Beylkin|first5=Gregory|journal=The Journal of Chemical Physics|volume=121|issue=23|pages=11587–98|pmid=15634124|url=https://zenodo.org/record/1231905|bibcode=2004JChPh.12111587H}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://academic.research.microsoft.com/Author/259613/robert-j-harrison?query=robert%20j%20harrison Microsoft Research Paper Search]{{Dead link|date=February 2026 |bot=InternetArchiveBot }}
+
+{{authority control}}
+
+{{DEFAULTSORT:Harrison, Robert J.}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:University of Tennessee faculty]]
+[[Category:21st-century American chemists]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Scientists from Birmingham, West Midlands]]
+[[Category:American computer scientists]]
+[[Category:American computational chemists]]

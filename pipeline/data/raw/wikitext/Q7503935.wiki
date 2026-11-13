@@ -1,0 +1,74 @@
+{{Short description|Indian scientist}}
+{{Use British English|date=September 2014}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox scientist
+| image       = S R Gadre 2019.jpg
+| caption     = Professor Gadre at Pune, (MH, India) (2019)
+| name        = Shridhar Gadre
+| birth_date  = {{birth date and age|df=yes|1950|05|20}}
+| birth_place = [[Akola]], Maharashtra
+| field       = [[Chemistry]], [[Computational Chemistry]], [[Theoretical Chemistry]], [[Quantum Chemistry]]
+| workplaces  = [[University of Pune]] [[Indian Institute of Technology, Kanpur]]
+| education   = [[Indian Institute of Technology, Kanpur]], [[University of Pune]], [[University of North Carolina at Chapel Hill]]
+| known_for   = Molecular Scalar Fields, Molecular Clusters, Ab initio treatment for large molecules
+| footnotes   = 
+}}
+
+'''Shridhar Ramachandra Gadre''' (born 20 May 1950) is an Indian scientist working in [[Quantum chemistry|computational quantum and theoretical chemistry]].
+
+==Education and early work==
+
+Professor Gadre got his undergraduate and master's degrees at the [[University of Pune]]. He did his PhD with Professor [[P. T. Narasimhan]] at the [[Indian Institute of Technology Kanpur]], India. Following his PhD he did post-doctoral work with Professor [[Robert Parr]] at the University of North Carolina and Robert Matcha at the [[University of Houston]]. During his post-doctoral work, Gadre carried out research in [[density functional theory]] and on rigorous inequalities in [[quantum chemistry]].
+
+==Career==
+
+After returning to India, Gadre joined as a lecturer at the Department of Chemistry of University of Pune and became a Professor of Physical Chemistry<ref>{{Cite web |url=http://chem.unipune.ernet.in/faculty.html |title=Faculty at the Department of Chemistry, University of Pune |access-date=12 February 2009 |archive-date=17 June 2008 |archive-url=https://web.archive.org/web/20080617162211/http://chem.unipune.ernet.in/faculty.html |url-status=dead }}</ref>  in 1988. Since joining the University of Pune, Gadre's work has focused on the study of molecular scalar fields and their topographical characteristics. In 1985 he proposed a new maximum entropy principle which has been since investigated by other researchers. Gadre has been at the forefront of investigating chemical reactivity and weak interactions through the use of molecular electrostatics potentials and momentum densities. Gadre has also contributed to algorithms and codes for efficiently parallelising quantum chemical ab inito calculations. Recently he has pioneered a technique called the Molecular Tailoring Approach that seeks to calculate accurate one-electron properties for large molecules by breaking down the molecules into fragments and then combining calculations on individual fragments. This approach is now extended to perform geometry optimisation as well as Hessian (vibrational frequency) calculation of large molecules in an efficient manner even on a common personal computer.
+
+In 1995 Professor Gadre founded the [[Interdisciplinary school of scientific computing]] at the University of Pune and has since served as its director. He has authored and co-authored over 220 articles in high-impact journals. He has mentored 26 PhD students and 46 Master's degree students. Professor Gadre has also authored, co-authored several book chapters.<ref>{{cite book| title =Interconnection between electron densities in position and momentum spaces S. R. Gadre and R. K. Pathak Ed. D. Mukherjee |url=https://openlibrary.org/b/OL7446092M|volume = 50| date= 1989 |publisher=Springer}}</ref><ref>{{cite book| title =Parallelization of two electron integrals in molecular orbital programs S. R. Gadre et al. Ed. Vijay bhatkar Advanced Computing| year = 1991| pages = 388–391, Tata McGraw Hill}}</ref><ref>{{cite book| title =Molecular Recognition via Molecular Electrostatic Potential Topography, S. R. Gadre et al. |url=https://www.elsevier.com/wps/find/bookdescription.cws_home/525649/description#description| year = 1996| volume = 3| pages = 219–522, Elsevier, Amsterdam}}</ref><ref>{{cite book| title =Topography of Atomic and Molecular Scalar Fields, S. R. Gadre |url=http://www.worldscibooks.com/chemistry/4163.html| year = 1999| volume = 4| pages = 1–53, World Scientific, Singapore}}</ref><ref>{{cite book| title = Information Theoretical Approaches to Quantum Chemistry,\ |url=http://www.worldscibooks.com/chemistry/4910.html| year = 2003| volume = 1| pages = 108–147, World Scientific, Singapore}}</ref>
+
+He is known for his contributions to the growth of computational technologies in Chemistry, Physics and scientific computing in India.<ref>[http://www.biomedexperts.com/Profile.bme/434889/Shridhar_R_Gadre Biomed Experts]</ref><ref>{{Cite web |url=http://www.vlifesciences.com/aboutus/scientificadvisoryboard.htm |title=Vlife Technologies |access-date=12 February 2009 |archive-date=8 March 2009 |archive-url=https://web.archive.org/web/20090308011050/http://www.vlifesciences.com/aboutus/scientificadvisoryboard.htm |url-status=dead }}</ref>
+
+He moved to the [[Indian Institute of Technology Kanpur]], [[India]] on 22 July 2010.
+
+He returned to University of Pune in 2016 as a Distinguished Professor in Interdisciplinary School of Scientific Computing.
+
+==Awards and honours==
+
+For his contributions, Professor S. R. Gadre was elected a fellow of the [[Indian Academy of Sciences]] in 1992 and the Indian National Science Academy in 1996 and received the prestigious [http://pib.nic.in/release/release.asp?relid=20386 Shantiswarup Bhatnagar Award] in Chemistry (1993), awarded every year by the President of India to select scientist below the age of 40 who have made notable contributions to science. Since 2000 Professor Gadre has also been closely associated with the Indian and International Chemistry Olympiads.
+
+Professor Gadre is a recipient of various awards and honours.
+* "Young Scientist" Medal and Award in Chemical Science, of the Indian National Science Academy, New Delhi, (1982).
+* "Young Associate" of the Indian Academy of Sciences, Bangalore, (1983)
+* "INSA Research Fellow" ( 1988–1991 ).
+* "UGC Research Scientist – C" equivalent to full Professorship (1988).
+* Fellow of the Maharashtra Academy of Sciences (1989).
+* Fellow of the Indian Academy of Sciences, Bangalore (1990).
+* The team of Professor S. R. Gadre and co-workers was awarded the Second 100 MFLOP PARAM Award by Center for Development of Advanced Computing (C-DAC), Pune (1991).
+* Life Member of The Agharkar Institute for the Cultivation of Science, Pune (1992).
+* Golden Jubilee Visiting Fellowship of the Department of Chemical Technology, Matunga, Mumbai (1993).
+* Sir Shanti Swarup Bhatnagar Prize in Chemical Sciences (1993).
+* Prin. V. K. Joag prize for excellence in teaching and research, University of Pune (1994).
+* Honorary Senior Fellow of the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bangalore (1994).
+* Fellow of the Indian National Science Academy, New Delhi (1995).
+* Platinum Jubilee lecture at the Indian Science Congress, Pune, January (2000).
+* J. C. Bose National Fellowship by the Department of Science and Technology (DST), New Delhi (2007).
+
+==References==
+{{Reflist}}
+
+{{SSBPST recipients in Chemical Science}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gadre, Shridhar Ramachandra}}
+[[Category:Living people]]
+[[Category:Academic staff of Savitribai Phule Pune University]]
+[[Category:Savitribai Phule Pune University alumni]]
+[[Category:IIT Kanpur alumni]]
+[[Category:Academic staff of IIT Kanpur]]
+[[Category:Scientists from Maharashtra]]
+[[Category:20th-century Indian chemists]]
+[[Category:Indian theoretical chemists]]
+[[Category:Fellows of the Indian Academy of Sciences]]
+[[Category:Recipients of the Shanti Swarup Bhatnagar Award in Chemical Science]]
+[[Category:1950 births]]
+[[Category:Indian computational chemists]]

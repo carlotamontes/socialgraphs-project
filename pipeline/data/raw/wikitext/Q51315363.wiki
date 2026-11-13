@@ -1,0 +1,117 @@
+{{Short description|Austrian physicist}}
+{{Expand German|topic=bio|Matthias Troyer|date=March 2026}}
+{{Infobox scientist
+| name       = Matthias Troyer
+| birth_name = Matthias Troyer
+| image      = ETH-BIB-Troyer, Matthias (1968-)-Portr 19588.jpg|mini|Matthias Troyer (ca. 2020)
+
+| image_size       = 
+| caption          = 
+| birth_place      = [[Linz]], [[Austria]]
+| death_date       = 
+| death_place      = 
+| field            = [[Quantum computing]]
+| workplaces       = [[Microsoft Azure Quantum|Microsoft]]
+| education        = {{Plainlist|
+* [[ETH Zürich]] Swiss Federal Institute of Technology Zurich
+* [[Johannes Kepler Universität Linz]]}}
+| thesis_title     = Simulation of Constrained Fermions in Low-Dimensional Systems
+| thesis_year      = 1994
+| doctoral_advisor = Diethelm Wurtz and
+[[Thomas Maurice Rice]]
+
+| awards = {{Plainlist|
+* [[American Physical Society Fellows|APS Fellow]] (2011)
+*[[Aneesur Rahman Prize|Rahman Prize]] for Computational Physics of the [[American Physical Society]] (2015){{r|Rahman}}
+*Gold medal at the [[International Chemistry Olympiad]] (1986)
+*[[Hamburg Prize for Theoretical Physics]] (2019)
+*[[ERC Advanced Grant]] (2011){{r|ERC}}
+}}
+}}
+
+'''Matthias Troyer''' (born 1968) is an Austrian [[physicist]] and computer scientist specializing in [[quantum computing]]. He is also Technical Fellow and Corporate Vice President of Quantum at [[Microsoft]].{{r|Hype}}{{r|XPrize}}
+
+==Education and career==
+Troyer was born April 18, 1968, in Linz, Austria. He completed University Studies in Technical Physics at the [[Johannes Kepler Universität Linz]], Austria, in 1991 as well as Diploma in Physics and Interdisciplinary PhD thesis at the [[ETH Zürich]] Swiss Federal Institute of Technology Zurich in 1994.{{r|Dissertation}}{{r|MIRI}}
+
+His PhD on "Simulation of Constrained Fermions in Low-Dimensional Systems" was completed under Diethelm Wurtz and [[Thomas Maurice Rice]], earning the [[ETH medal]] for outstanding doctoral thesis {{r|Hamburg}}
+
+Following earning his PhD he spent three years as a fellow of the Japanese Society for the Promotion of Sciences at the Institute for Solid State Physics. In 2000, he was awarded an assistant professorship of the [[Swiss National Science Foundation]].{{r|Hamburg}}
+
+In June 2002 he became associate professor at the ETH Zurich and in 2005 Full Professor of Computational Physics before joining [[Microsoft]]'s quantum computing program in 2017.{{r|CHM}} He is also an Affiliate Professor at the [[University of Washington]].{{r|UW}}
+
+He initiated the open-source project ALPS (Algorithms and Libraries for Physics Simulations), to make algorithms in many-body systems accessible to the scientific public.{{r|ALPS}}
+
+Troyer develops practical algorithms and applications for quantum computing with high performance computing, including library design, simulations of quantum devices, chemical reactions, neural networks and AI.{{r|ISC}}{{r|Promise}}{{r|Nature}}{{r|MIRI}}{{r|CHM}}{{r|NewScientist}} He also studies simulation algorithms for quantum many body systems, quantum phase transitions, strongly correlated materials, and ultracold quantum gases.{{r|Rahman}}{{r|Hamburg}}
+
+==Honors and awards==
+
+In 2019, Troyer received the [[Hamburg Prize for Theoretical Physics]].{{r|Hamburg}}
+
+In 2015, he was awarded the [[Aneesur Rahman Prize]] for Computational Physics of the American Physical Society for pioneering work in several seemingly inaccessible areas of the quantum mechanical many-body problem and for making efficient, sophisticated computer programs accessible to the scientific community.{{r|Rahman}}{{r|CHM}}
+
+Troyer has been a Fellow of the [[American Physical Society]]  since 2011.{{r|Rahman}}
+
+He is also the president of the [[Aspen Center for Physics]] and has been a member since 2004. He is also a board member of the Washington State Academy of Sciences.{{r|Aspen}}{{r|WashAcad}}
+Troyer received the gold medal at the International Chemistry Olympiad in 1986 and the silver medal in 1985.{{r|Rahman}}{{r|ICHO1}}{{r|ICHO2}}
+
+== Selected work==
+*Matthias Troyer and Uwe-Jens Wiese. "Computational complexity and fundamental limitations to fermionic simulations." Phys. Rev. Lett. 94, 170201 (2005).
+*Philipp Werner, Armin Comanac, Luca de' Medici, Matthias Troyer, and Andrew J. Millis. "Continuous-Time Solver for Quantum Impurity Models." Phys. Rev. Lett. 97, 076405 (2006)
+*Emanuel Gull, Andrew J. Millis, Alexander I. Lichtenstein, Alexey N. Rubtsov, Matthias Troyer, and Philipp Werner. "Continuous-time Monte Carlo methods for quantum impurity models." Phys. Rev. Mod. Phys. 83, 349 (2011).
+*Troels F. Rønnow, Zhihui Wang, Joshua Job, Sergio Boixo, Sergei V. Isakov, David Wecker, John M. Martinis, Daniel A. Lidar, Matthias Troyer. "Defining and detecting quantum speedup." Science 345, 420 (2014)
+*Bettina Heim, Troels F. Rønnow, Sergei V. Isakov, and Matthias Troyer. "Quantum versus Classical Annealing of Ising Spin Glasses." Science 348, 215 (2015)
+*A.A. Soluyanov, D. Gresch, Z. Wang, Q.S., Wu, M. Troyer, Xi Dai, and B. A. Bernevig. "A new type of Weyl semimetal." Nature 527, 495 (2015)
+*Giuseppe Carleo, Matthias Troyer. "Solving the Quantum Many-Body Problem with Artificial Neural Networks." Science 355, 580 (2017)
+*Giacomo Torlai, Guglielmo Mazzola, Juan Carrasquilla, Matthias Troyer, Roger Melko & Giuseppe Carleo. "Neural-network quantum state tomography." Nature Physics 14, 447–450 (2018)
+*Torsten Hoefler, Thomas Häner, and Matthias Troyer. "Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage." Communications of the ACM 66, 5, 82-87 (2023)
+
+== References ==
+
+<references>
+
+<ref name="Dissertation">{{Cite web |title=Simulation of Constrained Fermions in Low-Dimensional Systems |url=https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/141812/eth-39566-02.pdf?sequence=2 |date=1994 |last1=Troyer |first1=Matthias |access-date=2024-10-03 |website=
+ETH Zürich Research Collection |language=en-US}}</ref>
+
+<ref name="MIRI">{{Cite web |title=Matthias Troyer on Quantum Computers |url=https://intelligence.org/2015/01/07/matthias-troyer-quantum-computers/ |date=7 Jan 2015 |last1=Muehlhauser |first1=Luke |access-date=2024-10-03 |website=Machine Intelligence Research Institute |language=en-US}}</ref>
+
+<ref name="Rahman">{{Cite web |title=Aneesur Rahman Prize for ETH-Zurich professor Matthias Troyer |url=https://www.cscs.ch/science/physics/2015/aneesur-rahman-prize-for-eth-zurich-professor-matthias-troyer#:~:text=Troyer%20won%20a%20gold%20medal%20at%20the,his%20doctoral%20thesis%20in%201994%2C%20and%20was |date=25 Nov 2015 |last1=Ulmer |first1=Simone |access-date=2024-10-03 |website=Swiss National Supercomputing Centre |language=en-US}}</ref>
+
+<ref name="CHM">{{Cite web |title=Matthias Troyer, Principal Researcher, Microsoft Research |url=https://computerhistory.org/profile/matthias-troyer/ |access-date=2024-10-03 |website=Computer History Museum |language=en-US}}</ref>
+
+<ref name="Hamburg">{{Cite web |title=Hamburg Prize for Theoretical Physics to Matthias Troyer |url=https://www.phys.ethz.ch/news-and-events/d-phys-news/2019/04/hamburg-prize-for-theoretical-physics-to-matthias-troyer.html |date=29 April 2019 |last1=Trabesinger |first1=Andreas |access-date=2024-10-03 |website=ETH Zurich Department of Physics |language=en-US}}</ref>
+
+<ref name="ERC">{{Cite web |title=ERC Advanced Grant 2011 - Physical Sciences and Engineering |url=https://erc.europa.eu/sites/default/files/document/file/erc_2011_adg_results_pe.pdf |date=2011 |access-date=2024-10-03 |website=ERC Europe |language=en-US}}</ref>
+
+<ref name="Hype">{{Cite web |title=Quantum Computing's Hard, Cold Reality Check |url=https://spectrum.ieee.org/quantum-computing-skeptics |date=22 Dec 2023 |last1=Gent |first1=Edd |access-date=2024-10-03 |website=IEEE Spectrum |language=en-US}}</ref>
+
+<ref name="XPrize">{{Cite web |title=Here Are 6 Actual Uses for Near-Term Quantum Computers |url=https://spectrum.ieee.org/what-are-quantum-computers-used-for |date=21 Mar 2024 |last1=Genkina |first1=Dina |access-date=2024-10-03 |website=IEEE Spectrum |language=en-US}}</ref>
+
+<ref name="UW">{{Cite web |title=Matthias Troyer, Affiliate Professor |url=https://phys.washington.edu/people/matthias-troyer |date=2024 |access-date=2024-10-03 |website=University of Washington Department of Physics |language=en-US}}</ref>
+
+<ref name="ALPS">{{cite journal |last1=Bauer |first1=Bela |last2=Gukelberger |first2=Jan |last3=Hehn |first3=Andreas |last4=Isakov |first4=Sergei |last5=Ma |first5=Peiyue |last6=Mates |first6=P |last7=Pollet |first7=Lode |last8=Surer |first8=Brigitte |last9=Troyer |first9=Matthias |last10=Werner |first10=Philipp |title=The ALPS project release 2.0: open source software for strongly correlated systems |url=https://iopscience.iop.org/article/10.1088/1742-5468/2011/05/P05001 |date=13 January 2011 |journal=Journal of Statistical Mechanics: Theory and Experiment |volume=2011 |issue=5 |article-number=P05001 |doi=10.1088/1742-5468/2011/05/P05001 |arxiv=1101.2646 |bibcode=2011JSMTE..05..001B |access-date=4 October 2024}}</ref>
+
+<ref name="ISC">{{Cite web |title=ISC Keynote: Why Quantum Computing Matters and the Race for Practical Uses |url=https://www.hpcwire.com/2021/06/29/isc-keynote-why-quantum-computing-matters-and-the-race-for-practical-uses/ |date=29 Jun 2021 |last1=Russell |first1=John |access-date=2024-10-03 |website=HPCwire |language=en-US}}</ref>
+
+<ref name="Promise">{{Cite web |title=Microsoft and ETH Take Aim at Quantum Computing's Hype (and Promise) |url=https://www.hpcwire.com/2023/05/02/microsoft-eth-take-aim-at-quantum-computings-hype-and-promise/ |date=2 May 2023 |last1=Russell |first1=John |access-date=2024-10-03 |website=HPCwire |language=en-US}}</ref>
+
+<ref name="Nature">{{cite journal |last1=Graziano |first1=Gabriella |title=Reaction mechanisms: Computing reactions in a qubit |url=https://www.nature.com/articles/s41570-017-0064 |date=26 July 2017 |journal=Nature Reviews Chemistry |volume=1 |issue=64 |doi=10.1038/s41570-017-0064 |access-date=4 October 2024|url-access=subscription }}</ref>
+
+<ref name="NewScientist">{{Cite web |title=AI physicists: The machines cracking the quantum code |url=https://www.newscientist.com/article/mg23631490-400-ai-physicists-the-machines-cracking-the-quantum-code/ |date=25 Oct 2017 |last1=Pavlus |first1=John |access-date=2024-10-03 |website=NewScientist |language=en-US}}</ref>
+
+<ref name="Aspen">{{Cite web |title=General Members |url=https://aspenphys.org/home/governance/general-members/ |date=2024 |access-date=2024-10-03 |website=Aspen Center for Physics |language=en-US}}</ref>
+
+<ref name="WashAcad">{{Cite web |title=Members |url=https://washacad.org/members/ |date=2024 |access-date=2024-10-03 |website=Washington State Academy of Sciences |language=en-US}}</ref>
+
+<ref name="ICHO1">{{Cite web |title=18th ICHO, 1986 |url=http://www.icho-official.org/results/results.php?id=18&year=1986 |access-date=2024-10-03 |website=The International Chemistry Olympiad |language=en-US}}</ref>
+
+<ref name="ICHO2">{{Cite web |title=17th ICHO, 1985 |url=http://www.icho-official.org/results/results.php?id=17&year=1985 |access-date=2024-10-03 |website=The International Chemistry Olympiad |language=en-US}}</ref>
+
+</references>
+
+{{DEFAULTSORT:Troyer, Matthias}}
+[[Category:Austrian physicists]]
+[[Category:Microsoft people]]
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Academic staff of ETH Zurich]]

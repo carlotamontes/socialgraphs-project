@@ -1,0 +1,281 @@
+{{Short description|American biologist and computer scientist}}
+{{Infobox scientist
+| name              = Steven Salzberg
+| birth_name        = Steven Lloyd Salzberg
+| image             = Steven_Salzberg_at_CSHL_Nov2018.jpg
+| image_size        = 
+| alt               = 
+| caption           = Steven Salzberg at the Biological Data Science conference (CSHL) in 2018
+| birth_date        = {{Birth year and age|1960}}
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[University of Maryland, College Park]]<br />[[The Institute for Genomic Research]]<br />[[Johns Hopkins University]]
+| education        = [[Yale University]]<br />[[Harvard University]]
+| thesis_title = Learning with nested generalized exemplars
+| thesis_url = https://www.proquest.com/docview/303755625
+| thesis_year = 1989
+| doctoral_advisor  = [[William Aaron Woods]]<ref name="mathgene">{{MathGenealogy|id=106737}}</ref>
+| academic_advisors = 
+| doctoral_students = {{Plainlist|
+*[[Cole Trapnell]]<ref name=mathgene/>
+*[[Ben Langmead|Benjamin Langmead]]
+*[[Adam M. Phillippy]]
+*Michael Schatz}}
+| notable_students  = [[Olga Troyanskaya]]<ref>{{Cite journal | last1 = Mullins | first1 = J. | last2 = Morrison Mckay | first2 = B. | doi = 10.1371/journal.pcbi.1002081 | title = International Society for Computational Biology Honors Michael Ashburner and Olga Troyanskaya with Top Bioinformatics/Computational Biology Awards for 2011 | journal = [[PLOS Computational Biology]] | volume = 7 | issue = 6 | article-number = e1002081 | year = 2011 | pmc = 3107244| bibcode = 2011PLSCB...7E2081M | doi-access = free }}</ref>
+| known_for         = [[GLIMMER]]<ref name="glimmer">{{Cite journal 
+| last1 = Salzberg | first1 = S. L. 
+| last2 = Delcher | first2 = A. L. 
+| last3 = Kasif | first3 = S. 
+| last4 = White | first4 = O. 
+| title = Microbial gene identification using interpolated Markov models 
+| journal = Nucleic Acids Research 
+| volume = 26 
+| issue = 2 
+| pages = 544–548 
+| year = 1998 
+| pmid = 9421513 
+| pmc = 147303 | doi=10.1093/nar/26.2.544
+}}</ref><br />[[MUMmer]]<ref name="mummer">{{Cite journal 
+| doi = 10.1093/nar/27.11.2369 
+| last1 = Delcher | first1 = A. L. 
+| last2 = Kasif | first2 = S. 
+| last3 = Fleischmann | first3 = R. D. 
+| last4 = Peterson | first4 = J. 
+| last5 = White | first5 = O. 
+| last6 = Salzberg | first6 = S. L. 
+| title = Alignment of whole genomes 
+| journal = Nucleic Acids Research 
+| volume = 27 
+| issue = 11 
+| pages = 2369–2376 
+| year = 1999 
+| pmid = 10325427 
+| pmc = 148804
+}}</ref><br />AMOS assembler<ref name="amos assembler">{{Cite journal 
+| last1 = Sommer | first1 = D. D. 
+| last2 = Delcher | first2 = A. L. 
+| last3 = Salzberg | first3 = S. L. 
+| last4 = Pop | first4 = M. 
+| title = Minimus: A fast, lightweight genome assembler 
+| doi = 10.1186/1471-2105-8-64 
+| journal = BMC Bioinformatics 
+| volume = 8 
+| article-number = 64 
+| year = 2007 
+| pmid = 17324286 
+| pmc =1821043 
+| doi-access = free 
+}}</ref><br />[[Bowtie (sequence analysis)|Bowtie]]<ref name="bowtie aligner">{{Cite journal 
+| last1 = Langmead | first1 = B. 
+| last2 = Trapnell | first2 = C. 
+| last3 = Pop | first3 = M. 
+| last4 = Salzberg | first4 = S. L. 
+| title = Ultrafast and memory-efficient alignment of short DNA sequences to the human genome 
+| doi = 10.1186/gb-2009-10-3-r25 
+| journal = Genome Biology 
+| volume = 10 
+| issue = 3 
+| pages = R25 
+| year = 2009 
+| pmid = 19261174 
+| pmc =2690996 
+| doi-access = free 
+}}</ref><br />[[TopHat (bioinformatics)|TopHat]]<ref name="tophat">{{Cite journal 
+| last1 = Trapnell | first1 = C. 
+| last2 = Pachter | first2 = L. | author2-link = Lior Pachter
+| last3 = Salzberg | first3 = S. L. 
+| doi = 10.1093/bioinformatics/btp120 
+| title = TopHat: Discovering splice junctions with RNA-Seq 
+| journal = Bioinformatics 
+| volume = 25 
+| issue = 9 
+| pages = 1105–1111 
+| year = 2009 
+| pmid = 19289445 
+| pmc =2672628 
+}}</ref>
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Benjamin Franklin Award (Bioinformatics)|Ben Franklin Award]] (2013)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| website = {{URL|salzberg-lab.org/}}
+}}
+'''Steven Lloyd Salzberg''' (born 1960) is an American [[Computational biology|computational biologist]] and [[computer scientist]] who is a [[Bloomberg Distinguished Professorships|Bloomberg Distinguished Professor]] of Biomedical Engineering, Computer Science, and Biostatistics at [[Johns Hopkins University]], where he is also Director of the Center for Computational Biology.
+
+== Early life and education ==
+Salzberg was born in 1960 as one of four children to Herman Salzberg, a Distinguished Professor Emeritus of Psychology, and Adele Salzberg, a retired school teacher.<ref>{{Cite web|date=2015-02-21|title=Steven Salzberg: brief biography|url=https://salzberg-lab.org/in-the-news/about-me/|access-date=2021-06-03|website=Salzberg Lab|language=en}}</ref> Salzberg did his undergraduate studies at [[Yale University]] where he received his [[Bachelor of Arts]] degree in English in 1980. In 1981 he returned to Yale, and he received his [[Master of Science]] and [[Master of Philosophy]] degrees in Computer Science in 1982 and 1984, respectively. After several years in a startup company, he enrolled at [[Harvard University]], where he earned a [[Ph.D.]] in [[Computer Science]] in 1989.<ref name="salzbergphd">{{cite thesis |degree=PhD |first=Steven Lloyd|last=Salzberg |title=Learning with nested generalized exemplars |publisher=Harvard University |date=1989 |author-link=Steven Salzberg|id={{ProQuest|303755625}}}}</ref>
+
+== Career ==
+
+After obtaining his undergraduate degree, he worked for a local power company in [[South Carolina]], where he gained programming experience on an [[IBM mainframe]],<ref name=":0">{{Cite journal |last1=Fogg |first1=Christina |last2=Kovats |first2=Diane |last3=Shamir |first3=Ron |date=October 29, 2021 |title=2020 ISCB accomplishments by a Senior Scientist Award: Steven Salzberg |url=https://academic.oup.com/bioinformatics/article/37/21/3699/6421863 |access-date=2023-07-26 |journal=Bioinformatics|volume=37 |issue=21 |pages=3699–3700 |doi=10.1093/bioinformatics/btaa508 |url-access=subscription }}</ref> programming in [[COBOL]] and IBM assembly language. He then joined a [[Boston]]-based [[Artificial intelligence|AI]] startup upon completion of his master's degree in computer science.<ref name=":0" /> 
+
+After earning his Ph.D., Salzberg joined Johns Hopkins University as an assistant professor in the Department of Computer Science, and was promoted to associate professor in 1997. From 1998 to 2005, he was the head of the [[Bioinformatics]] department at [[The Institute for Genomic Research]], one of the world's largest genome sequencing centers. Salzberg then joined the Department of Computer Science at the [[University of Maryland, College Park]], where he was the Horvitz Professor of [[Computer Science]] as well as the Director of the Center for Bioinformatics and Computational Biology. In 2011, Salzberg returned to Johns Hopkins University as a professor in the McKusick-Nathans Institute of Genetic Medicine and in the Department of Medicine.<ref name="biosketch">[http://ccb.jhu.edu/people/salzberg/biosketch.html ccb.jhu.edu] Brief biosketch</ref><ref>[http://ccb.jhu.edu/people/salzberg/docs/Phila-Inquirer-Editorial.htm Editorial on evolution and the flu, Philadelphia Inquirer]</ref><ref>{{Cite web|title=Bloomberg Distinguished Professorships {{!}} Steven Salzberg|url=https://research.jhu.edu/bloomberg-professors/steven-salzberg/|website=Johns Hopkins Office of Research|date=9 September 2016 }}</ref>
+
+In 2013, Salzberg won the [[Benjamin Franklin Award (Bioinformatics)|Benjamin Franklin award]]<ref name="bioit">{{cite web |url=http://www.bio-itworld.com/2013/3/14/microbial-genomes-open-access-flu-shots-gene-patents.html |title=Steven Salzberg on Microbial Genomes, Open Access, Flu Shots and Gene Patents}}</ref> in [[bioinformatics]].{{verification needed| reason = should that be at the end of the sentence?? |date=July 2025}}
+
+In 2014, he was named a [[Bloomberg Distinguished Professorships|Bloomberg Distinguished Professor]] at [[Johns Hopkins University]] for his accomplishments as an interdisciplinary researcher and excellence in teaching the next generation of scholars.<ref>{{cite web|title=With Bloomberg Distinguished Professorships, Johns Hopkins aims to foster cross-specialty collaboration 2014|url= http://hub.jhu.edu/2014/02/17/bloomberg-distinguished-professors|date= 2014-02-17}}</ref> The Bloomberg Distinguished Professorships were established in 2013 by a gift from [[Michael Bloomberg]].<ref>{{cite web|title=Michael R. Bloomberg Commits $350 Million to Johns Hopkins for Transformational Academic Initiative 2013|url= http://releases.jhu.edu/2013/01/26/michael-r-bloomberg-commits-350-million-to-johns-hopkins/}}</ref> Salzberg holds joint appointments in the Johns Hopkins [[Whiting School of Engineering]], [[Johns Hopkins School of Medicine]], and the [[Johns Hopkins Bloomberg School of Public Health]].{{citation needed|date=July 2025}}
+
+== Research ==
+Salzberg has been a prominent scientist in the field of [[bioinformatics]] and [[computational biology]] since the 1990s. He has made many contributions to [[gene finding]] algorithms, notably the [[GLIMMER]]<ref>{{Cite journal 
+| last1 = Delcher | first1 = A. 
+| last2 = Harmon | first2 = D. 
+| last3 = Kasif | first3 = S. 
+| last4 = White | first4 = O. 
+| last5 = Salzberg | first5 = S. 
+| title = Improved microbial gene identification with GLIMMER 
+| journal = Nucleic Acids Research 
+| volume = 27 
+| issue = 23 
+| pages = 4636–4641 
+| year = 1999 
+| pmid = 10556321 
+| pmc = 148753 | doi=10.1093/nar/27.23.4636
+}}</ref> program for bacterial gene finding as well as several related programs for finding genes in animals, plants, and other organisms. He has also been a leader in [[genome assembly]] research and has led the assembly of dozens of genomes, both large and small. He was a participant in the [[Human Genome Project]]<ref>{{Cite journal | last1 = Venter | first1 = J. C. | author-link1 = Craig Venter| last2 = Adams | first2 = M. | last3 = Myers | first3 = E. | last4 = Li | first4 = P. | last5 = Mural | first5 = R. | last6 = Sutton | first6 = G. | last7 = Smith | first7 = H. | last8 = Yandell | first8 = M. | last9 = Evans | first9 = C. | last10 = Holt | first10 = R. A. | last11 = Gocayne | first11 = J. D. | last12 = Amanatides | first12 = P. | last13 = Ballew | first13 = R. M. | last14 = Huson | first14 = D. H. | last15 = Wortman | first15 = J. R. | last16 = Zhang | first16 = Q. | last17 = Kodira | first17 = C. D. | last18 = Zheng | first18 = X. H. | last19 = Chen | first19 = L. | last20 = Skupski | first20 = M. | last21 = Subramanian | first21 = G. | last22 = Thomas | first22 = P. D. | last23 = Zhang | first23 = J. | last24 = Gabor Miklos | first24 = G. L. | last25 = Nelson | first25 = C. | last26 = Broder | first26 = S. | last27 = Clark | first27 = A. G. | last28 = Nadeau | first28 = J. | last29 = McKusick | first29 = V. A. | last30 = Zinder | first30 = N. | title = The Sequence of the Human Genome | doi = 10.1126/science.1058040 | journal = Science | volume = 291 | issue = 5507 | pages = 1304–1351 | year = 2001 | pmid =  11181995| bibcode = 2001Sci...291.1304V | display-authors = 29 | doi-access = free }}</ref> as well as many other genome projects, including the [[malaria]] genome (''[[Plasmodium falciparum]]'') and the genome of the model plant ''[[Arabidopsis thaliana]]''. In 2001–2002, he and his colleagues sequenced the [[anthrax]] that was used in the [[2001 anthrax attacks]]. They published their results in the journal [[Science (journal)|Science]] in 2002.<ref>{{Cite journal 
+| last1 = Read | first1 = T. D. 
+| last2 = Salzberg | first2 = S. 
+| last3 = Pop | first3 = M. 
+| last4 = Shumway | first4 = M. 
+| last5 = Umayam | first5 = L. 
+| last6 = Jiang | first6 = L. 
+| last7 = Holtzapple | first7 = E. 
+| last8 = Busch | first8 = J. 
+| last9 = Smith | first9 = K. 
+| last10 = Schupp | first10 = J. M. 
+| last11 = Solomon | first11 = D. 
+| last12 = Keim | first12 = P. 
+| last13 = Fraser | first13 = C. M. 
+| title = Comparative Genome Sequencing for Discovery of Novel Polymorphisms in Bacillus anthracis 
+| doi = 10.1126/science.1071837 
+| journal = Science 
+| volume = 296 
+| issue = 5575 
+| pages = 2028–2033 
+| year = 2002 
+| pmid = 12004073 
+| bibcode = 2002Sci...296.2028R| s2cid = 15470665 
+| doi-access = free 
+}}</ref> These findings helped the FBI track the source of the attacks to a single vial at Ft. Detrick in Frederick, Maryland.
+
+Salzberg together with [[David Lipman]] and Lone Simonsen started the [[Influenza Genome Sequencing Project]] in 2003, a project to sequence and make available the genomes of thousands of influenza virus isolates.<ref>{{Cite journal 
+| last1 = Ghedin | first1 = E. 
+| last2 = Sengamalay | first2 = N. A. 
+| last3 = Shumway | first3 = M. 
+| last4 = Zaborsky | first4 = J. 
+| last5 = Feldblyum | first5 = T. 
+| last6 = Subbu | first6 = V. 
+| last7 = Spiro | first7 = D. J. 
+| last8 = Sitz | first8 = J. 
+| last9 = Koo | first9 = H. 
+| last10 = Bolotov 
+| doi = 10.1038/nature04239 | first10 = P. 
+| last11 = Dernovoy | first11 = D. 
+| last12 = Tatusova | first12 = T. 
+| last13 = Bao | first13 = Y. 
+| last14 = St George | first14 = K. 
+| last15 = Taylor | first15 = J. 
+| last16 = Lipman | first16 = D. J. 
+| last17 = Fraser | first17 = C. M. 
+| last18 = Taubenberger | first18 = J. K. 
+| last19 = Salzberg | first19 = S. L. 
+| title = Large-scale sequencing of human influenza reveals the dynamic nature of viral genome evolution 
+| journal = Nature 
+| volume = 437 
+| issue = 7062 
+| pages = 1162–1166 
+| year = 2005 
+| pmid =  16208317
+|bibcode = 2005Natur.437.1162G | doi-access = free 
+}}</ref><ref>{{Cite journal 
+| last1 = Holmes | first1 = E. C. 
+| last2 = Ghedin | first2 = E. 
+| last3 = Miller | first3 = N. 
+| last4 = Taylor | first4 = J. 
+| last5 = Bao | first5 = Y. 
+| last6 = St George | first6 = K. 
+| last7 = Grenfell | first7 = B. T. 
+| last8 = Salzberg | first8 = S. L. 
+| last9 = Fraser | first9 = C. M. 
+| last10 = Lipman 
+| doi = 10.1371/journal.pbio.0030300 | first10 = D. J. 
+| last11 = Taubenberger | first11 = J. K. 
+| title = Whole-Genome Analysis of Human Influenza A Virus Reveals Multiple Persistent Lineages and Reassortment among Recent H3N2 Viruses 
+| journal = PLOS Biology 
+| volume = 3 
+| issue = 9 
+| article-number = e300 
+| year = 2005 
+| pmid = 16026181 
+| pmc =1180517 
+| doi-access = free 
+}}</ref>
+
+Soon after the advent of [[next-generation sequencing]] (NGS) in the mid-2000s, Salzberg's research lab and his collaborators developed a suite of highly efficient, accurate programs for alignment of NGS sequences to large genomes and for assembly of sequences from [[RNA-Seq]] experiments. These became known as the "Tuxedo" suite, including the [[Bowtie (sequence analysis)|Bowtie]] and [[TopHat (bioinformatics)|TopHat]] programs, which have been cited tens of thousands of times in the years since their publication.
+
+Salzberg has also been a vocal advocate against [[pseudoscience]] and has authored editorials and appeared in print media on this topic.  From 2010-2024, he wrote a column at ''Forbes'' magazine<ref>[https://www.forbes.com/sites/stevensalzberg/ Salzberg's column at Forbes]</ref> on science, medicine, and pseudoscience, where he published over 300 articles that collectively received tens of millions of views. His work at Forbes won the [[Committee for Skeptical Inquiry#Robert P. Balles Prize|2012 Robert P. Balles Prize]] in Critical Thinking.<ref name="ballesprize">{{cite web|url=http://www.csicop.org/news/show/skeptic_authors_steven_salzberg_and_joe_nickell_to_receive_balles_prize|title=Skeptic Authors Steven Salzberg and Joe Nickell to Receive Balles Prize in Critical Thinking|date=14 June 2013 }}</ref> Since 2025, his columns have appeared on Substack at https://stevensalzberg.substack.com/, which includes all of his ''Forbes'' columns and others, nearly 500 articles in all.
+
+Salzberg was a charter member of the [[Cambridge Working Group]] in 2014, which was created to express alarm in the scientific community over the creation of highly transmissible and contagious viruses (also called [[Gain-of-function research]]) and the likelihood of an accidental lab release.<ref>Baker, Nicholson. (4 January 2021). "The Lab-Leak Hypothesis For decades, scientists have been hot-wiring viruses in hopes of preventing a pandemic, not causing one. But what if …?". [https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html New York magazine] Retrieved 18 January 2021.</ref>
+
+== Publications ==
+Salzberg has authored or co-authored over 350 scientific publications.<ref>{{Cite web|title=Steven Salzberg, Ph.D., Professor of Biomedical Engineering|url=https://www.hopkinsmedicine.org/profiles/details/steven-salzberg|access-date=2021-06-03|website=Johns Hopkins Medicine|language=en}}</ref> He has more than 400,000 citations in Google Scholar and an h-index of 170.<ref>{{Cite web|title=Steven Salzberg|url=https://scholar.google.com/citations?user=sUVeH-4AAAAJ&hl=en|access-date=2025-06-03|website=scholar.google.com}}</ref> In 2014 Salzberg was selected for inclusion in HighlyCited.com, a ranking compiled by the [[Institute for Scientific Information]] of scientists who are among the top 1% most cited for their subject field during the previous ten years. He was also chosen for this list when it was first created in 2001. This list of highly cited researchers continues under [[Clarivate]], and Salzberg was included in the list every year since 2014, through at least 2025.<ref>{{Cite web|title=Highly Cited Researchers|url=https://publons.com/awards/highly-cited/2020/|access-date=2021-06-03|website=publons.com}}</ref>
+
+=== Highly cited articles (more than 10,000 citations) ===
+
+* 2012 with B Langmead, ''Fast gapped-read alignment with Bowtie 2'', in: ''[[Nature Methods]]''. Vol. 9, nº 4; 357.
+* 2009 With B Langmead, C Trapnell, M Pop, ''Ultrafast and memory-efficient alignment of short DNA sequences to the human genome'', in: ''[[Genome Biology]]''. Vol. 10, nº 3; 1–10.
+* 2001 with JC Venter, MD Adams, EW Myers, PW Li, RJ Mural, et al., ''The sequence of the human genome'', in: ''[[Science (journal)|Science]]''. Vol. 291, nº 5507; 1304–1351.
+* 2015 with D Kim, B Langmead, ''HISAT: a fast spliced aligner with low memory requirements'', in: ''[[Nature Methods]]'' Vol. 12, 357–360. (2015)
+* 2010 with C Trapnell, BA Williams, G Pertea, A Mortazavi, G Kwan, MJ Van Baren, BJ Wold, L Pachter, ''Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation'', in: ''[[Nature Biotechnology]]''. Vol. 28, nº 5; 511–515.
+* 2009 with C Trapnell, L Pachter, ''TopHat: discovering splice junctions with RNA-Seq'', in: ''[[Bioinformatics (journal)|Bioinformatics]]''. Vol. 25, nº 9; 1105–1111.
+* 2013 with D Kim, G Pertea, C Trapnell, H Pimentel, R Kelley, ''TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions'', in: ''[[Genome Biology]]''. Vol. 14, nº 4; 1–13.
+* 2012 with C Trapnell, A Roberts, L Goff, G Pertea, D Kim, DR Kelley, H Pimentel, JL Rinn, L Pachter. ''Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks'', in: ''Nature Protocols''. Vol. 7, nº 3; 562-578.
+* 2011 with T Magoč. ''FLASH: fast length adjustment of short reads to improve genome assemblies'', in: ''[[Bioinformatics (journal)|Bioinformatics]]''. Vol. 27, nº 21; 2957-2963.
+* 2000 with The Arabidopsis Genome Initiative. ''Analysis of the genome sequence of the flowering plant Arabidopsis thaliana'', in: ''[[Nature (journal)|Nature]]''. Vol. 408, nº 6814; 796-815.
+
+== Awards ==
+
+* 2020 Accomplishments by a Senior Scientist Award, [[International Society for Computational Biology]]
+* 2014-2024 Named Highly Cited Researcher, Thomson Reuters/Clarivate
+* 2018 Elected member of the [[American Academy of Arts and Sciences]]
+* 2020 Elected Fellow, [[Association for Computing Machinery]] (ACM)
+* 2013 Elected Fellow, [[International Society for Computational Biology]] 
+* 2013 Robert G. Balles Prize in Critical Thinking
+* 2013 [[Benjamin Franklin Award (Bioinformatics)]] for Open Access in the Life Sciences
+* 2007 Hot 100 Authors, BioMed Central
+* 2004 Fellow, American Association for the Advancement of Science
+* 1996 NIH Career Award<ref>{{Cite web|title=Steven Salzberg, Ph.D., Professor of Biomedical Engineering|url=https://www.hopkinsmedicine.org/profiles/details/steven-salzberg|access-date=2021-05-04|website=Johns Hopkins Medicine|language=en}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [https://stevensalzberg.substack.com/ stevensalzberg.substack.com] Salzberg's science column including all content from 2010-2024 at Forbes
+* [https://www.forbes.com/sites/stevensalzberg Salzberg's column at Forbes magazine]
+* [https://scholar.google.com/citations?user=sUVeH-4AAAAJ&hl=en Salzberg's Google Scholar page] List of scientific publications with citation counts
+* [http://ccb.jhu.edu/software/ Open source software from the Salzberg lab and other groups in the Hopkins Center for Computational Biology]
+
+{{Commons category|Steven Salzberg}}
+{{ISCB Fellows}}
+{{Authority control}}
+
+{{DEFAULTSORT:Salzberg, Steven L}}
+[[Category:Living people]]
+[[Category:Yale University alumni]]
+[[Category:Harvard John A. Paulson School of Engineering and Applied Sciences alumni]]
+[[Category:Johns Hopkins University Department of Biomedical Engineering faculty]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:21st-century American biologists]]
+[[Category:American bioinformaticians]]
+[[Category:Influenza researchers]]
+[[Category:Jewish American scientists]]
+[[Category:1960 births]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the International Society for Computational Biology]]

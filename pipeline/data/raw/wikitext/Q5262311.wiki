@@ -1,0 +1,79 @@
+{{Short description|British physicist (1941–2002)}}
+{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+'''Derek Charles Robinson''' [[Fellow of the Royal Society|FRS]]<ref>{{Cite journal | last1 = Connor | first1 = J. | last2 = Windsor | first2 = C. | title = Derek Robinson. 27 May 1941 -- 2 December 2002 | doi = 10.1098/rsbm.2011.0012  | doi-access = free| journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 57 | pages = 395–422 | year = 2011 }}</ref> (27 May 1941 – 2 December 2002) was a [[physicist]] who worked in the UK [[fusion power]] programme for most of his professional career.<ref>{{cite journal|author=Briscoe, Frank|title=Obituary: Derek Charles Robinson|journal=Physics Today|date=March 2004|volume=57|issue=3|pages=98–99|doi=10.1063/1.1712512|doi-access=free}}</ref> Studying turbulence in the UK's [[ZETA]] reactor, he helped develop the [[reversed field pinch]] concept, an area of study to this day. He is best known for his role in taking a critical measurement on the [[T-3 (tokamak)|T-3]] device in the [[USSR]] in 1969 that established the [[tokamak]] as the primary [[magnetic fusion energy]] device to this day. He was also instrumental in the development of the [[spherical tokamak]] design though the construction of the [[Small Tight Aspect Ratio Tokamak|START]] device, and its follow-on, [[Mega Ampere Spherical Tokamak|MAST]]. Robinson was in charge of portions of the [[UK Atomic Energy Authority]]'s fusion programme from 1979 until he took over the entire programme in 1996 before his death in 2002.
+
+==Early years==
+Robinson was born in Douglas on the [[Isle of Man]]. As his father was in the [[Royal Air Force]], Robinson often moved and spent an average of eighteen months at any one primary school. At secondary school he shone at science and mathematics and decided to follow a career in [[physics]]. His love of church and particularly organ music also stemmed from this period, when he sang in his local church choir.<ref name=Devoted>''The Sunday Times''</ref>
+
+He entered the [[Victoria University of Manchester]]  and graduated as the top-of-the-year student in physics.<ref name=Shafranov>Shafranov</ref><ref name=Pease/> Robinson's professor [[Brian Flowers, Baron Flowers|Brian Flowers]] introduced him to the researchers at the [[Atomic Energy Research Establishment]], better known simply as "Harwell".<ref name=Pease>Pease</ref> He was taken on to complete his PhD in Physics under the direction of [[Sam Edwards (physicist)|Sam Edwards]].<ref name=Devoted/>
+
+==ZETA's neutrons==
+Harwell operated the largest, most powerful and most sophisticated fusion device, the [[ZETA (fusion reactor)]] machine. When ZETA first started operation in the summer of 1957, it gave off large bursts of [[neutron]]s, the most obvious sign of [[nuclear fusion]] reactions. Measurements of the [[plasma (physics)|plasma]] temperature supported this result; the machine appeared to reach 5 million degrees, hot enough to be generating fusion at a low rate, within an order of two of the number of neutrons one would expect to generate at that temperature.
+
+When the first results from ZETA were being publicly released at a press event in January 1958, [[John Cockcroft]] was first evasive on the issue, but eventually stated he was 90% sure they came from fusion events. This turned out to be incorrect. The actual temperature of the reactor was much lower than the measurements suggested, far too low for fusion to be taking place. The claims of fusion had to be retracted in May, a major humiliation.
+
+Over time the nature of the neutrons was explored and came to be understood as isolated events caused by instabilities inside the plasma. Earlier "gross" instabilities had been successfully dealt with in ZETA, but correcting these had simply turned up another set to be fixed. The new ones were being caused by [[turbulence]] within the plasma. Some progress on suppressing these had been made by E. P. Butt and others, but they were not well understood.<ref name=Pease/>
+
+Robinson was put on the task of better understanding the nature of the turbulence, running a series of experiments to characterize it. These experiments led to a better understanding of the theoretical nature of the problem, which in turn led to major work by [[John Bryan Taylor]] on a general theory of high-current electric discharges in magnetic fields.<ref name=Pease/> This work was a major advance in plasma physics, and through it introduced the concept of [[reversed field pinch]], a field of study to this day.
+
+As the nature of these problems became clear, the ZETA team turned from attempting fusion to developing dramatically improved diagnostic tools for characterizing the plasma. Instead of measuring the spectroscopy of the ions, it is possible to directly measure the velocity of electrons through [[Thomson scattering]]. However, this requires a bright and highly monochromatic light source to be effective. The introduction of the [[laser]] in the 1960s provided just such a source, and beginning in 1964 the Harwell team became experts in this system.
+
+==Novosibirsk and T-3==
+From the mid-1950s the Soviets had been quietly developing the [[tokamak]] device. In configuration, the tokamak is largely identical to the [[z-pinch]] devices like ZETA, consisting of a ring of magnets surrounding a toroidal vacuum tube, with a large transformer used to induce current into the plasma. The magnetic field of the two sources mixed to produce a single helical field that winds around the plasma. Where the two systems differed was primarily in the ratio of the power of the fields; ZETA's field was generated almost entirely by the transformer current, while the tokamak used more powerful ring magnets to balance the two more closely. This seemingly minor change has enormous effects on the dynamics of the plasma; ZETA's helix wound slowly around the plasma, the tokamak's was fairly "twisty". This is measured by the "[[Safety factor (plasma physics)|safety factor]]".
+
+By the mid-1960s, experimental machines demonstrated that the tokamak concept was a dramatic improvement over older designs. However, the Soviets waited, perhaps wanting to avoid another ZETA debacle, until they were absolutely sure their machines were producing the numbers the measurements suggested they were. This work carried on into 1967 and 68, which happened to correspond with the 3rd International Conference on Plasma Physics and Controlled Fusion Research, being held in Novosibirsk in August 1968.<ref name=Arnoux>Arnoux</ref>
+
+When the numbers from the latest [[T-3 (tokamak)|T-3]] reactor were announced at the meeting - plasma temperatures of 10 million degrees, confinement times over 10 milliseconds and clear signs of fusion - the fusion community was stunned. The machines were at least an order of magnitude better than anyone else's device, including ones of much greater size and theoretical performance. The question then became whether or not the results were real, and scepticism abounded.<ref name=Arnoux/>
+
+[[Lev Artsimovitch]] addressed this concern, inviting [[Bas Pease|"Bas" Pease]] to bring the ZETA team to the T-3 at the [[Kurchatov Institute]] in [[Moscow]]. Coming at the height of the [[Cold War]], this was a unique opportunity. But British concerns about possible defection meant that UK subjects with valuable knowledge could only travel to the USSR if "properly accompanied by a reliable person". Robinson solved this problem by marrying Marion Quarmby in 1968, while taking a crash course in Russian.<ref name=Pease/>
+
+The "Culham Five" team, led by Nicol Peacock, arrived in 1969. Their experiments did not go well, initially being unable to see the light over the background. Robinson led the effort to improve the power of the [[ruby laser]], eventually increasing it by 100 times. Now the signal was clear, validating the Soviet results with measurements on the order of 20 million degrees.<ref name=Pease/> Their paper, published in ''Nature'' in November 1969, led to a revolution in fusion research, as practically every other design concept was dumped in favour of tokamaks.
+
+:"Derek Robinson was highly respected in Russia ever since his visit in 1968, his measurements of the electron temperature profiles in the T-3 plasma led to the beginning of active research on tokamaks all over the world. Derek was known for his brilliant scientific research and bright personality. He was an extremely friendly, charming, clever and intelligent person, who will be remembered by all who met him." - Evgeny Velikhov, president of the Kurchatov Institute<ref name=Durrani>Durrani</ref>
+
+==COMPASS and STs==
+On his return to the UK in 1970, Robinson moved to the UKAEA laboratory in Culham, which was gathering together the previously spread-out fusion efforts. He led the effort to build the UK's own tokamak, [[COMPASS (tokamak)|COMPASS]].<ref name=Pease/> When experiments suggested that non-circular confinement areas would have better performance, Robinson led the effort to convert COMPASS to COMPASS-D, which featured a tear-drop shaped confinement area. COMPASS-D validated the concept. The D-shaped plasma area is a feature of all modern tokamak designs.
+
+His search for alternate solutions meant he was particularly receptive to Martin Peng of the [[Oak Ridge National Laboratory]] (ORNL) in the US, who was trying to drum up interest in the [[spherical tokamak]] (STs) concept. ST's were essentially small tokamaks, but a combination of features suggested they would offer greatly improved performance over conventional designs. ORNL had designed a machine to test the concept, the "STX",<ref>[http://www.osti.gov/bridge/servlets/purl/6282652-cbvAKd/6282652.pdf "Presentation by John Sheffield"], OFE Germantown, 25 March 1987</ref> but were unable to secure funding to build the machine.
+
+Robinson was able to secure £10 million, enough to build the vacuum chamber and most of the support equipment. Other equipment, including a neutral beam injector, were "loaned" from ORLN to keep to the budget. The machine, [[Small Tight Aspect Ratio Tokamak|START]], went into operation in 1991 and immediately turned in results that met or beat practically every other machine in the world, including ones that cost many times more. START's success led to similar machines around the world, including Culham's own [[Mega Ampere Spherical Tokamak|MAST]].
+
+==JET and UKAEA directorship==
+In 1990 Robinson was appointed UK member to the [[Joint European Torus]] (JET) project, after Culham was selected as the site for its construction. Six years later he was appointed a member of its board. He was elected fellow of the [[Royal Society]] in 1994, and became fusion director at UKAEA in 1996. Robinson, who was a fellow of the Institute of Physics, was also actively involved in the design of the [[International Thermonuclear Experimental Reactor]] (ITER).<ref name=Pease/>
+
+Robinson died of [[cancer]] at the [[Sobell House Hospice]] in Oxford.<ref>Martin O'Brien, [http://goliath.ecnext.com/coms2/gi_0199-934627/UK-fusion-expert-Derek-Robinson.html "UK fusion expert Derek Robinson passes away"], ''Fusion Power Report'', 1 January 2003</ref> He was survived by his wife Marion and daughter Nicola.
+
+==Notes==
+Various sources appear to disagree on the specific years of Robinson's educational milestones. ''The Sunday Times'' states he graduated in 1962, which would make him 21 years old at the time. All of the sources that mention it agree that he started work at Harwell in 1965. Thus, the nature of his work between 1962 and 1965 is not clearly stated in any of the available sources.
+
+Pease, and most others, can be read to suggest that during this time he was carrying out his PhD under Edwards, a PhD that included experiments run on ZETA. Edwards was at Manchester between 1958 and 1972,<ref>[https://books.google.com/books?id=0j5BwK6YigYC&pg=PA538 "A man for difficult problems"], ''New Scientist'', 22 November 1973, pg. 538-539</ref> which does not help pin this down.
+
+However, Shafranov states that Robinson graduated from Manchester in 1965 and went to work at Harwell immediately. The meaning of "graduate" is unclear in context. If this is his PhD the timelines agree.
+
+Professor Robin Marshall FRS was in the same undergraduate year as Derek Robinson (1959 entry) and confirms that both he and Robinson were awarded BSc in 1962 and that the university records confirm this.  Both Marshall and Robinson then did their PhDs, registered at Manchester University, in one case commuting to the Rutherford Appleton Laboratory on the "open" side of the security fence (Marshall) and in the other, to the "secure" side of the fence in Harwell itself (Robinson).  At this time, the director of the Physical Laboratories at Manchester was Brian Hilton Flowers, who had been head of theory at Harwell from 1952 to 1958. He easily arranged such things.  Sam Edwards was also in the Manchester Department during the period of Robinson's PhD research, which, like Marshall's, began in 1962 and ended in 1965 with the award of the degree by Manchester.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* [http://www.timesonline.co.uk/tol/comment/obituaries/article800614.ece "Derek Robinson: Physicist devoted to creating a safe form of energy from fusion"]{{dead link|date=January 2025|bot=medic}}{{cbignore|bot=medic}} ''The Sunday Times'', 11 December 2002
+* Vitalii Dmitrievich Shafranov, "Derek Robinson and historical experiment in magnetic fusion research", ''Fizika Plazmy'', Volume 29 Number 11 (2003), pg. 1070–1072
+* Robert Arnoux, [http://www.iter.org/newsline/102/1401 "Off to Russia with a thermometer"], iter newsline, #102 (9 October 2009)
+* Bas Pease, [https://www.independent.co.uk/news/obituaries/derek-robinson-610366.html "Derek Robinson, Leader of UK nuclear-fusion research"]{{dead link|date=January 2025|bot=medic}}{{cbignore|bot=medic}}, ''The Independent'', 9 December 2002
+* Matin Durrani, [http://physicsworld.com/cws/article/news/16513 "Derek Robinson 1941-2002"] {{Webarchive|url=https://web.archive.org/web/20101128163431/http://physicsworld.com/cws/article/news/16513 |date=28 November 2010 }}, ''Physics World'', 4 December 2002
+* [http://www.oxfordmail.co.uk/archive/2002/12/14/Oxfordshire+Archive/6583074.Derek_Robinson/ "Derek Robinson"], ''Oxford Mail'', 14 December 2002
+{{refend}}
+
+{{FRS 1994}}
+{{Authority control}}
+
+{{DEFAULTSORT:Robinson, Derek}}
+[[Category:1941 births]]
+[[Category:2002 deaths]]
+[[Category:People from Douglas, Isle of Man]]
+[[Category:British nuclear physicists]]
+[[Category:Deaths from cancer in England]]
+[[Category:British fellows of the Royal Society]]
+[[Category:United Kingdom Atomic Energy Authority people]]

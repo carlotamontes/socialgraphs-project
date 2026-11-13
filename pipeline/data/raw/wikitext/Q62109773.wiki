@@ -1,0 +1,73 @@
+{{Short description|Mexican-American chemist (born 1976)}}
+{{Use mdy dates|date=October 2025}}
+{{Infobox scientist
+| name              = Alán Aspuru-Guzik
+| image             = 
+| caption           = 
+| birth_date        = {{Birth date and age|1976|7|4}}
+| birth_place       = United States
+| death_date        = 
+| death_place       = 
+| citizenship       = [[Mexico]], United States
+| workplaces        = [[University of Toronto]]<br />[[Harvard University]]
+| education         = [[University of California, Berkeley]]<br />[[National Autonomous University of Mexico]]
+| doctoral_advisor  = [[William A. Lester Jr.]]
+| academic_advisors = [[Martin Head-Gordon]]
+| known_for         = [[Variational quantum eigensolver]], [[Self-driving Labs]]
+| field             = [[Quantum chemistry]]<br /> [[Quantum computing]]
+| website           = {{URL|https://matter.toronto.edu/}}
+| thesis1_title     = Solving Schroedinger's equation using random walks
+| thesis1_url       = https://www.researchgate.net/publication/234396593_Solving_Schroedinger%27s_equation_using_random_walks
+| thesis1_year      = 2004
+}}
+
+'''Alán Aspuru-Guzik''' is a professor of [[chemistry]], [[computer science]], [[chemical engineering]] and [[materials science]] at the [[University of Toronto Faculty of Arts and Science]].<ref>{{Cite web |date=January 23, 2019 |title=Alán Aspuru-Guzik |url=https://www.chemistry.utoronto.ca/people/directories/all-faculty/al%C3%A1n-aspuru-guzik |access-date=March 31, 2023 |website=www.chemistry.utoronto.ca |language=en}}</ref> He is also Senior Director of Quantum Chemistry, [[NVIDIA]].<ref>{{cite web | title=Alán Aspuru-Guzik &#124; Research | url=https://research.nvidia.com/person/alan-aspuru-guzik }}</ref>  His research group, the matter lab, studies quantum chemistry, [[AI]] for chemical and materials discovery, [[quantum computing]] and self-driving chemical.<ref>{{Cite web |title=Research |url=https://www.matter.toronto.edu/basic-content-page/research |access-date=March 31, 2023 |website=www.matter.toronto.edu}}</ref> He is the co-founder of Kebotix, a company focused on automated chemical and material discovery.<ref>{{Cite web |title=A robot scientist will dream up new materials to advance computing and fight pollution |url=https://www.technologyreview.com/2018/11/07/103819/a-robot-scientist-will-dream-up-new-materials-to-advance-computing-and-fight-pollution/ |access-date=December 13, 2024 |website=MIT Technology Review |language=en}}</ref>  He previously cofounded  Zapata Computing, which temporarily closed in 2024,<ref>{{Cite web |title=Zapata Computing Holdings Inc. Ceases Operations|date=October 12, 2024 |url=https://thequantuminsider.com/2024/10/12/zapata-computing-holdings-inc-ceases-operations/}}</ref> and has since undergone restructuring and emerged as Zapata Quantum.<ref>{{Cite web |title=Zapata Quantum Completes First Phase of Strategic Restructure|date=September 4, 2025 |url=https://quantumcomputingreport.com/zapata-quantum-completes-first-phase-of-strategic-restructure/}}</ref><ref>{{Cite web |last=Swayne |first=Matt |date=2025-09-03 |title=Viva Zapata -- Zapata Quantum Reemerges After Bankruptcy Filing With Restructuring and New Financing |url=https://thequantuminsider.com/2025/09/03/viva-zapata-zapata-quantum-reemerges-after-bankruptcy-filing-with-restructuring-and-new-financing/ |access-date=2026-10-06 |website=The Quantum Insider |language=en-US}}</ref>
+
+==Early life==
+Aspuru-Guzik was raised in [[Mexico City]], Mexico.<ref name=chem>{{cite web|url=http://www.chem.utoronto.ca/edistillations/2018/03/aspuru-guzik-joins-chemistry.html|author=Haves, Dan|title=Professor Alán Aspuru-Guzik joins Chemistry as Canada 150 Research Chair|publisher=University of Toronto|date=March 29, 2018|access-date=May 21, 2019|archive-url=https://web.archive.org/web/20190420165708/http://www.chem.utoronto.ca/edistillations/2018/03/aspuru-guzik-joins-chemistry.html|archive-date=April 20, 2019}}</ref> When he was in junior high, he represented Mexico at the [[International Chemistry Olympiad]], after which his passion for science, particularly chemistry, grew.<ref>{{cite journal|url=https://cen.acs.org/articles/93/i25/Conversation-Aln-Aspuru-Guzik.html|title=A Conversation With Alán Aspuru-Guzik|author=Neil Savage|journal=[[Chemical & Engineering News]]|year=2015|volume=93|issue=25|page=39|doi=10.1021/cen-09325-scitech2 |url-access=subscription}}</ref>
+
+Aspuru-Guzik had obtained his [[Bachelor of Science]] degree in [[chemistry]] from the [[National Autonomous University of Mexico]] in 1999.<ref name=uu>{{cite web|url=https://www.kemi.uu.se/research/organic-chemistry/research-groups/the-quantum-chemistry-group/the-lowdin-lectures/former-lowdin-lectures/2015-2016/|title=Section of Chemistry|publisher=Uppsala University|access-date=October 23, 2019}}{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In 2004, he was awarded a Ph.D. in [[physical chemistry]] from the [[University of California, Berkeley]].<ref>{{cite web|url=https://www.benefunder.com/environment-causes/alan-aspuru-guzik/designing-the-materials-for-the-sustainable-age-of-humanity|title=Developing computer programs for simulating molecules exactly using quantum computers|publisher=Benefunder|access-date=October 23, 2019}}</ref> He continued at Berkeley as a postdoctoral fellow between 2005 and 2006, working with [[Martin Head-Gordon]].{{Citation needed|date=October 2026}}
+
+==Career==
+From 2006 to 2010, Aspuru-Guzik was an assistant professor at [[Harvard University]], before becoming associate professor in 2010, and professor in 2013.<ref>{{cite web|url=https://matter.toronto.edu/about-us/|title=Alán Aspuru-Guzik|access-date=October 23, 2019|archive-date=October 21, 2019|archive-url=https://web.archive.org/web/20191021181841/http://matter.toronto.edu/about-us/}}</ref> In 2018, Professor Aspuru-Guzik moved to the [[University of Toronto]] as a Canada 150 Research Chair.<ref name=chem/><ref>{{cite news|url=https://www.thecrimson.com/article/2018/3/30/chem-prof-to-canada/|title=Chemistry Professor Aspuru-Guzik to Leave Harvard|author=Amy L. Jia and Sanjana L. Narayanan|work=[[The Harvard Crimson]]|date=March 30, 2018|access-date=October 23, 2019}}</ref>
+
+From 2012 to 2014, Aspuru-Guzik had worked with [[Michael Aziz]] and [[Roy Gordon (Canadian chemist)|Roy Gordon]] with funding from the [[United States Department of Energy]] to develop grid-scale, metal-free flow batteries.<ref>{{cite news|title=Battery offers renewable energy breakthrough|url=https://news.harvard.edu/gazette/story/2014/01/renewable-energy-breakthrough/|author=Karoff, Paul|work=[[Harvard Gazette]]|date=January 8, 2014|access-date=October 23, 2019}}</ref> In 2016, Aspuru-Guzik had worked with Ryan Babbush, a quantum engineer at [[Google]] to develop a new algorithm for a [[quantum computer]] which will be able to detect various molecules, such as [[cholesterol]].<ref>{{cite news|title=New way to model molecules|work=[[Harvard Gazette]]|url=https://news.harvard.edu/gazette/story/2016/08/new-way-to-model-molecules/|author=Reuell, Peter|date=August 4, 2016|access-date=October 23, 2019}}</ref> Generalizing such research efforts, he has substantially contributed to developing ideas of hybrid quantum classical algorithms.<ref>{{cite journal|author=Jarrod R. McClean, Jonathan Romero, Ryan Babbush, Alán Aspuru-Guzik|title=The theory of variational hybrid quantum-classical algorithms|journal=[[New Journal of Physics]]|year=2016|volume=18|issue=2 |article-number=023023|doi=10.1088/1367-2630/18/2/023023|arxiv=1509.04279 |bibcode=2016NJPh...18b3023M |s2cid=92988541 }}</ref>
+
+== Business endeavors and Zapata Computing closure ==
+Aspuru-Guzik co-founded Zapata Computing, a company initially positioned as a pioneer in quantum computing solutions for various industries.<ref>{{Cite web |title=Zapata Co-Founder|work=Zapata AI |url=https://zapata.ai/team/alan-aspuru-guzik/}}</ref> The company aimed to leverage quantum machine learning to accelerate the discovery of new materials and optimize complex tasks, such as predicting car race outcomes and enhancing aerodynamic design for energy efficiency in sectors like aviation and automotive.<ref>{{Cite web |title=Zapata Chief Says Quantum Machine Learning Is a When, Not an If|date=July 16, 2020 |url=https://thequantuminsider.com/2020/07/16/zapata-chief-says-quantum-machine-learning-is-a-when-not-an-if/}}</ref> In 2023, Zapata Computing went public via a special-purpose acquisition company (SPAC) merger, listing on Nasdaq. In October 2024, Zapata announced it would cease operations.<ref>{{Cite web |title=Zapata Computing Holdings Inc. has Ceased Business Operations|url=https://zapata.ai/}}</ref> In September 2025, Zapata returned as Zapata Quantum after a strategic restructuring, with a renewed focus on hardware-agnostic quantum software.<ref>{{cite web | last=Swayne | first=Matt | title=Viva Zapata -- Zapata Quantum Reemerges After Bankruptcy Filing With Restructuring and New Financing | website=The Quantum Insider | date=2025-09-03 | url=https://thequantuminsider.com/2025/09/03/viva-zapata-zapata-quantum-reemerges-after-bankruptcy-filing-with-restructuring-and-new-financing/ | access-date=2025-11-25}}</ref>
+
+== Selected publications ==
+* {{Cite journal |last1=Duvenaud |first1=David K |last2=Maclaurin |first2=Dougal |last3=Iparraguirre |first3=Jorge |last4=Bombarell |first4=Rafael |last5=Hirzel |first5=Timothy |last6=Aspuru-Guzik |first6=Alan |last7=Adams |first7=Ryan P |date=2015 |title=Convolutional Networks on Graphs for Learning Molecular Fingerprints |url=https://proceedings.neurips.cc/paper/2015/hash/f9be311e65d81a9ad8150a60844bb94c-Abstract.html |journal=Advances in Neural Information Processing Systems |publisher=Curran Associates, Inc. |volume=28|arxiv=1509.09292 }}
+* {{Cite journal |last1=Peruzzo |first1=Alberto |last2=McClean |first2=Jarrod |last3=Shadbolt |first3=Peter |last4=Yung |first4=Man-Hong |last5=Zhou |first5=Xiao-Qi |last6=Love |first6=Peter J. |last7=Aspuru-Guzik |first7=Alán |last8=O'Brien |first8=Jeremy L. |date=July 23, 2014 |title=A variational eigenvalue solver on a photonic quantum processor |journal=Nature Communications |language=en |volume=5 |issue=1 |page=4213 |doi=10.1038/ncomms5213  |doi-access=free|pmid=25055053 |issn=2041-1723|pmc=4124861 |arxiv=1304.3061 |bibcode=2014NatCo...5.4213P }}
+* {{Cite journal |last1=Gómez-Bombarelli |first1=Rafael |last2=Wei |first2=Jennifer N. |last3=Duvenaud |first3=David |last4=Hernández-Lobato |first4=José Miguel |last5=Sánchez-Lengeling |first5=Benjamín |last6=Sheberla |first6=Dennis |last7=Aguilera-Iparraguirre |first7=Jorge |last8=Hirzel |first8=Timothy D. |last9=Adams |first9=Ryan P. |last10=Aspuru-Guzik |first10=Alán |date=February 28, 2018 |title=Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules |journal=ACS Central Science |language=en |volume=4 |issue=2 |pages=268–276 |doi=10.1021/acscentsci.7b00572  |doi-access=free|issn=2374-7943 |pmc=5833007 |pmid=29532027}}
+
+==Honors and awards==
+
+* 2011 Big Think Delphi Fellow<ref>{{cite web |url=https://bigthink.com/u/alanaspuruguzik |title=Alan Aspuru-Guzik |website=runner |access-date=October 23, 2019 |archive-date=July 6, 2019 |archive-url=https://web.archive.org/web/20190706222721/https://bigthink.com/u/alanaspuruguzik}}</ref> 
+* 2012 Elected Fellow of the [[American Physical Society]]<ref>{{cite news|title=New U.S. National Security Faculty Fellows Announced|date=July 28, 2015|publisher=American Physical Society|url=https://www.aps.org/publications/apsnews/updates/security.cfm|access-date=October 23, 2019}}</ref> 
+* 2015  Senior Fellow of the [[Canadian Institute for Advanced Research]] (CIFAR)<ref name="cifar">{{cite web|url=https://www.cifar.ca/bio/al%C3%A1n-aspuru-guzik|title=Alán Aspuru-Guzik|publisher=CIFAR|access-date=October 23, 2019}}</ref> 
+* 2017  Elected [[Fellow of the American Association for the Advancement of Science]] (AAAS)<ref>{{cite web|url=https://chemistry.harvard.edu/news/alan-aspuru-guzik-elected-fellow-american-association-advancement-science|title=Alan Aspuru-Guzik named a Fellow of the American Association for the Advancement of Science|publisher=Harvard University|date=November 20, 2017|access-date=October 23, 2019}}</ref>
+
+*2013  Computer World Data+ Award<ref>{{cite web|url=https://www.computerworld.com/article/2483967/data--awards--harvard-s-clean-energy-project-gets-a-massive-speed-boost.html|title=Data+ Awards: Harvard's Clean Energy Project gets a massive speed boost|author=Pratt, Mary K.|date=August 26, 2013|website=Computerworld|access-date=October 23, 2019}}</ref>
+*2023 John C. Polanyi Award, [[Chemical Institute of Canada]]{{Citation needed|date=October 2026}}
+* 2025 Fellow of the [[Royal Society of Canada]]<ref>{{Cite web |last=Science |first=Department of Computer |date=September 4, 2025 |title=Alán Aspuru-Guzik named Fellow of the Royal Society of Canada |url=https://web.cs.toronto.edu/news-events/news/professor-alan-aspuru-guzik-named-fellow-of-the-royal-society-of-canada |access-date=September 9, 2025 |website=Department of Computer Science, University of Toronto |language=en-US}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://matter.toronto.edu/ Research group website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aspuru-Guzik, Alan}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:National Autonomous University of Mexico alumni]]
+[[Category:UC Berkeley College of Chemistry alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Academic staff of the University of Toronto Faculty of Arts and Science]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Scientists from Mexico City]]
+[[Category:Chemists of the University of Toronto]]
+[[Category:Computer scientists of the University of Toronto]]

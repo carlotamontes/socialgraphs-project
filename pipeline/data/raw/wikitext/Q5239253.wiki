@@ -1,0 +1,49 @@
+{{Short description|American physicist}}
+{{Use mdy dates|date=July 2025}}
+{{BLP sources|date=November 2024}}
+{{Infobox scientist
+| image             = <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| image_size        = 150px
+| name              = David Roundy
+| birth_date        = {{birth date and age|1973|08|24}}
+| birth_place       = United States
+| death_date        = 
+| death_place       = 
+| residence         = 
+| field             = [[Physics]]
+| workplaces        = [[Oregon State University]]
+| education         = [[U.C. Berkeley]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = Creator of [[Darcs]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = 
+| footnotes         = 
+}}
+
+'''David Roundy''' is a [[physicist]], known also as the author of the [[Darcs]] version control system.<ref>{{cite web |title=Interview with David Roundy of Darcs on Source Control :: OSDir.com :: Open Source, Linux News & Software |url=https://osdir.com/Article2571.phtml |access-date=13 November 2024 |date=27 November 2004|archive-url=https://web.archive.org/web/20041127020808/https://osdir.com/Article2571.phtml |archive-date=2004-11-27 }}</ref>
+
+He obtained a B.A. in Physics and Chemistry in 1995 and a Ph.D. in physics from Berkeley in 2001. Between 2001 and 2006 he did postdoctoral work at [[MIT]] and [[Cornell]]. He was an assistant professor in Physics at Oregon State University from 2006 to 2014, and an associate professor from 2014 to 2022.<ref>{{cite web |title=David Roundy - Curriculum Vitae |url=https://ib.oregonstate.edu/sites/ib.oregonstate.edu/files/2019-08/CV_davidroundy.pdf |website=Oregon State University |access-date=22 January 2025}}</ref>
+
+==Notable publications==
+* 2002 - The origin of the anomalous superconducting properties of [[Magnesium diboride|MgB<sub>2</sub>]]<ref>{{cite journal |last1=Choi |first1=Hyoung Joon |last2=Roundy |first2=David |last3=Sun |first3=Hong |last4=Cohen |first4=Marvin L. |last5=Louie |first5=Steven G. |title=The origin of the anomalous superconducting properties of MgB2 |journal=Nature |date=August 2002 |volume=418 |issue=6899 |pages=758–760 |doi=10.1038/nature00898 |pmid=12181561 |url=https://www2.lbl.gov/Science-Articles/Archive/assets/images/2002/Aug-14-2002/MgB2Nature.pdf |access-date=13 November 2024}}</ref>
+* 2010 - [[Meep (software)|Meep]]: A flexible free-software package for electromagnetic simulations by the FDTD method<ref>{{cite journal |last1=Oskooi |first1=Ardavan F. |last2=Roundy |first2=David |last3=Ibanescu |first3=Mihai |last4=Bermel |first4=Peter |last5=Joannopoulos |first5=J.D. |last6=Johnson |first6=Steven G. |title=Meep: A flexible free-software package for electromagnetic simulations by the FDTD method |journal=Computer Physics Communications |date=March 2010 |volume=181 |issue=3 |pages=687–702 |doi=10.1016/j.cpc.2009.11.008 |bibcode=2010CoPhC.181..687O |url=https://www.sciencedirect.com/science/article/abs/pii/S001046550900383X |access-date=13 November 2024|hdl=1721.1/60946 |hdl-access=free |url-access=subscription }}</ref>
+* 2004 - A tunable carbon nanotube electromechanical oscillator<ref>{{cite journal |last1=Sazonova |first1=Vera |last2=Yaish |first2=Yuval |last3=Üstünel |first3=Hande |last4=Roundy |first4=David |last5=Arias |first5=Tomás A. |last6=McEuen |first6=Paul L. |title=A tunable carbon nanotube electromechanical oscillator |journal=Nature |date=September 2004 |volume=431 |issue=7006 |pages=284–287 |doi=10.1038/nature02905 |pmid=15372026 |arxiv=cond-mat/0409407 |bibcode=2004Natur.431..284S |url=https://www.nature.com/articles/nature02905 |access-date=13 November 2024 |language=en |issn=1476-4687}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{Haskell programming}}
+{{Authority control}}
+
+{{DEFAULTSORT:Roundy, David}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:Oregon State University faculty]]
+[[Category:American physicists]]
+
+
+{{US-physicist-stub}}

@@ -1,0 +1,109 @@
+{{Short description|American computer scientist (b. 1948)}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox scientist
+| name                      = Larry Smarr
+| birth_name                = Larry Lee Smarr
+| native_name               =
+| native_name_lang          = 
+| image                     = Larry Smarr - Alliance98.jpg
+| image_size                = 
+| alt                       = 
+| caption                   = Larry Smarr viewing an [[Cave Automatic Virtual Environment|ImmersaDesk]]
+| birth_date                = {{Birth date|1948|10|16}}
+| birth_place               = 
+| death_date                = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place               = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names               = 
+| residence                 = 
+| citizenship               = 
+| nationality               = 
+| fields                    = 
+| workplaces                = [[Princeton University]]<br />[[Yale University]]<br />[[Harvard University]]<br />[[University of Illinois at Urbana-Champaign]]<br />[[University of California, San Diego]].
+| education                 = [[University of Missouri]] ([[Bachelor of Arts|BA]], [[Master of Science|MS]])<br />[[University of Texas at Austin]] ([[Doctor of Philosophy|PhD]])
+| thesis_title              = The Structure of General Relativity with a Numerical Illustration: The Collision of Two Black Holes
+| thesis_url                = https://hdl.handle.net/2152/72872
+| thesis_year               = 1975
+| doctoral_advisor          = 
+| academic_advisors         = 
+| doctoral_students         = 
+| notable_students          = 
+| known_for                 = [[Quantified Self]]<ref name="measuredman"/><ref name="horizon"/><br />[[Metacomputing]]<ref name="metacomputing">{{Cite journal | last1 = Smarr | first1 = Larry| authorlink1 = Larry Smarr| last2 = Catlett | first2 = Charles E.| authorlink2 = Charlie Catlett | doi = 10.1145/129888.129890 | title = Metacomputing | journal = Communications of the ACM | volume = 35 | issue = 6 | pages = 44 | year = 1992 | doi-access = free }}</ref>
+| author_abbrev_bot         = 
+| author_abbrev_zoo         = 
+| awards                    = Member of the [[National Academy of Engineering]]<br />Fellow of the [[American Physical Society]]<br />Fellow of the [[American Academy of Arts and Sciences]]<br />[[Franklin Institute#Awards|Delmer S. Fahrney Medal]] (1990)<br />[[Golden Goose Award]] (2014)
+| signature                 = <!--(filename only)-->
+| signature_alt             = 
+| website                   = {{URL|http://lsmarr.calit2.net}}
+| footnotes                 = 
+| spouse                    = 
+| children                  = 
+}}
+'''Larry Lee Smarr''' is a [[physicist]] and leading pioneer in [[scientific computing]], [[supercomputer]] applications, and [[Internet]] infrastructure.<ref name=":4">{{Cite web |last=Fisher |first=Lawrence M. |title=Why Larry Smarr Is Pioneering Collaborative Innovation |url=https://www.strategy-business.com/article/Why-Larry-Smarr-Is-Pioneering-Collaborative-Innovation |access-date=2024-07-10 |website=Strategy+business |language=en-us}}</ref> He is a Distinguished Professor Emeritus at the [[University of California, San Diego]], and was the founding director of the [[California Institute for Telecommunications and Information Technology]], as well as the Harry E. Gruber Endowed Chair of Computer Science and Information Technologies at the [[Jacobs School of Engineering]].<ref>{{Cite web |title=Pioneering Scientist and Innovator Larry Smarr Retires |url=https://today.ucsd.edu/story/pioneering-scientist-and-innovator-larry-smarr-retires |access-date=2024-07-10 |website=today.ucsd.edu |language=en}}</ref><ref>"Grids in Context" in {{cite book |author1=Carl Kesselman |author2=Foster, Ian |title=The Grid 2: Blueprint for a New Computing Infrastructure |publisher=Morgan Kaufmann |location=San Diego |year=2003 |isbn=978-1-55860-933-4 }}</ref><ref>Members of the President’s Information Technology Advisory Committee. ''Information Technology Research: Investing in Our Future'', a Report to the President of the United States, 1999.</ref><ref>"Extraterrestrial Computing: Exploring the Universe with a Supercomputer". Chapter 8 of ''Very large Scale Computation in the 21st Century'', [[Jill P. Mesirov]], ed., [[Society for Industrial and Applied Mathematics]] (SIAM), 1991.</ref><ref>Larry Smarr. "How Supercomputers are Transforming Science," ''Encyclopædia Britannica Yearbook'', 1991.</ref><ref>{{cite book |author1=Smarr, Larry L. |author2=Kaufmann, William J. |title=Supercomputing and the transformation of science |publisher=Scientific American Library |location=New York |year=1993 |isbn=978-0-7167-5038-3 |url-access=registration |url=https://archive.org/details/supercomputingtr00kauf }}</ref><ref name="acm">{{ACMPortal|id=81100268376}}</ref><ref name="dblp">{{DBLP|name=Larry Smarr}}</ref><ref name=":1">[http://vimeo.com/6982439 Internet Pioneers: Dr. Larry Smarr - How the Internet Happened]</ref><ref name="googlescholar">[https://scholar.google.com/scholar?q=larry+smarr Larry Smarr's publications in Google Scholar]</ref><ref name="scopus">{{Scopus|id=22964200100}}</ref>
+
+Smarr has been among the most important synthesizers and conductors of innovation, discovery, and commercialization of new technologies–including areas as disparate as the Web browser and personalized medicine.<ref name=":4" /> In his career, Smarr has made pioneering breakthroughs in research on black holes, spearheaded the use of supercomputers for academic research, and presided over some of the major innovations which created the modern Internet, including overseeing the development of [[NCSA Telnet]],<ref name=":2">{{Cite web |last=Meek |first=Dina |date=2022-02-02 |title=NCSA Reflects on 35 Years as a Supercomputing Powerhouse |url=https://www.ncsa.illinois.edu/ncsa-reflects-on-35-years-as-a-supercomputing-powerhouse/ |access-date=2024-07-10 |website=NCSA |language=en-US}}</ref> [[NCSA Mosaic]],<ref name=":4" /><ref name=":1" /><ref name=":2" /><ref name=":3">{{Cite journal |last=Severance |first=Charles |date=2013 |title=Larry Smarr: Building Mosaic |journal=Computer |volume=46 |issue=4 |pages=6–8 |doi=10.1109/MC.2013.140 |bibcode=2013Compr..46d...6S |issn=0018-9162|doi-access=free }}</ref> and [[NCSA HTTPd]],<ref name=":2" /> while he was the founding director of the [[National Center for Supercomputing Applications]], one of the five first national [[Supercomputer|supercomputing]] centers in the United States. For nearly 20 years, he has been building a new model for academic research based on interdisciplinary collaboration.<ref name=":4" />
+
+==Education==
+Larry Smarr received his [[Bachelor of Arts]] and [[Master of Science]] degrees from the [[University of Missouri]] in [[Columbia, Missouri]], and received a [[PhD]] in physics from the [[University of Texas at Austin]] in 1975.
+
+==Research==
+After graduating, Smarr performed research at [[Princeton University|Princeton]], [[Yale University|Yale]], and [[Harvard University|Harvard]].<ref>{{Cite journal | last1 = Smarr | first1 = L. | title = Kinematical conditions in the construction of spacetime | doi = 10.1103/PhysRevD.17.2529 | journal = Physical Review D | volume = 17 | issue = 10 | pages = 2529–2551 | year = 1978 |bibcode = 1978PhRvD..17.2529S }}</ref><ref>{{Cite journal | last1 = Eardley | first1 = D. | last2 = Smarr | first2 = L. | doi = 10.1103/PhysRevD.19.2239 | title = Time functions in numerical relativity: Marginally bound dust collapse | journal = Physical Review D | volume = 19 | issue = 8 | pages = 2239 | year = 1979 |bibcode = 1979PhRvD..19.2239E }}</ref> Then joined the faculty of the [[University of Illinois at Urbana-Champaign]] in 1979. He is a professor of Computer Science and Information Technologies at the [[University of California, San Diego]].
+
+While at Illinois, Smarr wrote an ambitious proposal to address the future needs of scientific research. Seven other University of Illinois professors joined as co-[[Principal investigator|principal investigators]], and many others provided descriptions of what would be accomplished if the proposal were accepted. Formally titled ''A Center for Scientific and Engineering Supercomputing '' but known as the ''Black Proposal'' (after the color of its cover), it was submitted to the [[National Science Foundation]] in 1983.<ref>{{Citation
+|last1=Smarr
+|first1=Larry
+|author-link1=Larry Smarr
+|year=1983
+|title=A Center for Scientific and Engineering Supercomputing
+|url=http://www.ncsa.illinois.edu/20years/timeline/entries/831.swf
+|display-authors=etal}}</ref> A scant 10 pages, it was the first unsolicited proposal accepted and approved by the NSF, and resulted in the charter of four supercomputer centers (Cornell, Illinois, Princeton, and San Diego), with a fifth (Pittsburgh) added later. In 1985 Smarr became the first director of the Illinois center, the [[National Center for Supercomputing Applications]].
+
+Under Smarr's leadership, the [[National Center for Supercomputing Applications]] paved the foundations of the modern internet. [[NCSA Telnet]] became popularized as the first [[Telnet]] implementation which is able to connect to multiple hosts simultaneously, and [[NCSA Mosaic]], created by [[Marc Andreessen]] and [[Eric Bina]], became the first massively popularized graphical [[web browser]], leading to the direct foundations of [[Netscape Navigator]] and [[Internet Explorer]].<ref name=":4" /><ref name=":2" /><ref name=":3" /> [[NCSA HTTPd]] was massively popularized as one of the earliest [[Web server|web servers]] developed, introduced the [[Common Gateway Interface]], and has been forked as the starting point of the [[Apache HTTP Server]].<ref name=":2" /> Smarr continued to promote the benefits of technological innovation to scientific research, such as his advocacy of a high-speed network linking the national centers, which became the [[NSFNET]], one of the significant predecessors of today's Internet. When the NSF revised its funding of supercomputer centers in 1997, he became director of the National Computational Science Alliance,<ref>{{Cite web |title=NSF: NSB 50th Anniversary |url=https://www.nsf.gov/nsb/documents/2000/nsb00215/nsb50/1990/info_tech.html |access-date=2024-07-10 |website=www.nsf.gov}}</ref> linking dozens of universities and research labs with NCSA to prototype the concept of [[grid computing]].
+
+In 2000, Larry Smarr moved to California and proposed the creation of the [[Calit2|California Institute for Telecommunications and Information Technology]] (Calit2), linking departments and researchers at UC San Diego and [[University of California, Irvine|UC Irvine]]. He was the Institute Director of Calit2 from its founding until his retirement in 2020. As part of the work of Calit2, he is the principal investigator on the NSF OptIPuter<ref>{{Cite journal | last1 = Smarr | first1 = L. L. | last2 = Chien | first2 = A. A. | last3 = Defanti | first3 = T. | last4 = Leigh | first4 = J. | last5 = Papadopoulos | first5 = P. M. | title = The OptIPuter | doi = 10.1145/948383.948410 | journal = Communications of the ACM | volume = 46 | issue = 11 | pages = 58 | year = 2003 | s2cid = 14157550 }}</ref> LambdaGrid project, an "optical backplane for planetary scale distributed computing" and the [[Community Cyberinfrastructure for Advanced Marine Microbial Ecology Research and Analysis|CAMERA Project]],<ref name="camera">{{Cite journal | last1 = Seshadri | first1 = R. | last2 = Kravitz | first2 = S. A. | last3 = Smarr | first3 = L. | last4 = Gilna | first4 = P. | last5 = Frazier | first5 = M. | title = CAMERA: A Community Resource for Metagenomics | doi = 10.1371/journal.pbio.0050075 | journal = PLOS Biology | volume = 5 | issue = 3 | pages = e75 | year = 2007 | pmid =  17355175| pmc =1821059 | doi-access = free }}</ref> a high-performance computing resource for genomic research.<ref>[http://www.optiputer.net/people.html Optiputer: People]</ref><ref>{{Cite web |url=http://camera.calit2.net/people/index.shtm |title=CAMERA: People |access-date=8 April 2012 |archive-url=https://web.archive.org/web/20121229083015/http://camera.calit2.net/people/index.shtm |archive-date=29 December 2012 |url-status=dead }}</ref>
+
+He attended the [[Beyond Belief: Science, Religion, Reason and Survival|Beyond Belief]] symposium in November 2006{{Citation needed|date=October 2010}} and presented at the 2010 and 2012 Life Extension Conferences.<ref>{{cite web|title=Personalized Life Extension Conference 2010 - Program|url=http://lifeextensionconference.com/program/ |accessdate=11 October 2010 |archiveurl = https://web.archive.org/web/20101021002014/http://lifeextensionconference.com/program/ |url-status=live|archivedate = 21 October 2010}}</ref> Since 2012, Smarr has been working on a computer-aided study of his own body, in collaboration with [[Rob Knight (biologist)|Rob Knight]].<ref name="measuredman">{{cite web |title=The Measured Man |date=13 June 2012 |website=[[The Atlantic]] |archive-url=https://web.archive.org/web/20120725010957/https://www.theatlantic.com/magazine/archive/2012/07/the-measured-man/9018/? |archive-date=25 July 2012 |url-status=live |url=https://www.theatlantic.com/magazine/archive/2012/07/the-measured-man/9018/}}</ref><ref name="horizon">{{cite web |url=http://www.bbc.co.uk/programmes/b038p1pm |title=BBC Two - Horizon, 2013-2014, Monitor Me |website= }}</ref><ref>{{Cite journal
+| last1 = Smarr | first1 = L.
+| title = Quantifying your body: A how-to guide from a systems biology perspective
+| doi = 10.1002/biot.201100495
+| journal = Biotechnology Journal
+| volume = 7
+| issue = 8
+| pages = 980–991
+| year = 2012
+| pmid = 22887886
+| doi-access = free
+}}</ref><ref name="shit">{{cite news |url=https://www.bbc.co.uk/news/av/health-23621357 |title=BBC News - Why Professor Larry Smarr freezes his own faeces |work=BBC News }}</ref>
+
+==Awards and honors==
+Larry Smarr has received numerous honors and awards, including:
+
+* Member of the [[National Academy of Engineering]]
+* Fellow of the [[American Physical Society]]
+* Fellow of the [[American Academy of Arts and Sciences]]
+* Fellow of the [[IEEE Computer Society]]<ref>{{Cite web |date=2024-12-19 |title=IEEE Computer Society Announces 2025 Class of Fellow |url=https://www.computer.org/press-room/2025-class-fellows |access-date=2026-10-18 |website=IEEE Computer Society |language=en}}</ref>
+* [[Franklin Institute]]'s [[The Franklin Institute Awards|Delmer S. Fahrney Medal]] for Leadership in Science or Technology (1990)
+* [[Telluride, Colorado|Telluride]] Tech Festival Award of Technology (2005)
+* [[IEEE Computer Society]]'s [[Tsutomu Kanai Award]] (2006)<ref>{{Cite web |date=2018-04-06 |title=Tsutomu Kanai Award |url=https://www.computer.org/volunteering/awards/kanai |access-date=2026-10-18 |website=IEEE Computer Society |language=en}}</ref>
+* [[Golden Goose Award]] for his work involving black holes and supercomputing (2014)<ref>{{cite web | title=Black Holes and Supercomputing | url=http://www.goldengooseaward.org/awardees/gsrgsw4mo8ekc8kvok64rxoxv4in0d | publisher=The Golden Goose Award | accessdate=27 May 2015}}</ref>
+* Member of the San Diego Science Festival's Nifty Fifty,<ref>{{cite web |url=http://www.sdsciencefestival.org/ |title=Home |website=sdsciencefestival.org}}</ref> a collection of the most influential scientists in the [[San Diego]] area<ref>{{cite web|url=http://www.sdsciencefestival.com/school-programs/nifty-fifty.html?sobi2Task=sobi2Details&catid=0&sobi2Id=7 |archive-url=https://web.archive.org/web/20091108132258/http://www.sdsciencefestival.com/school-programs/nifty-fifty.html?sobi2Task=sobi2Details&catid=0&sobi2Id=7 |url-status=dead |archive-date= 8 November 2009 |title=San Diego Science Festival Nifty Fifty |accessdate=18 February 2009 |publisher=San Diego Science Festival }}</ref>
+
+== References ==
+{{reflist}}
+
+{{Commons category|Larry Smarr}}
+{{Authority control}}
+
+{{DEFAULTSORT:Smarr, Larry}}
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:Physicists from Missouri]]
+[[Category:Scientists from Missouri]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:University of Missouri alumni]]
+[[Category:University of Texas at Austin College of Natural Sciences alumni]]
+[[Category:Harvard University staff]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:1948 births]]

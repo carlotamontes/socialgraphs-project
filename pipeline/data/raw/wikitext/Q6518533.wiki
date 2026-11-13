@@ -1,0 +1,108 @@
+{{Short description|American mathematician (1928–2026)}}{{Use mdy dates|date=October 2026}}
+
+{{Infobox scientist
+| name              = 
+| image             = Mary Tsingou-Menzel at Los Alamos.jpg
+| birth_name        = Mary Tsingou
+| image_size        = 
+| alt               = 
+| caption           = Tsingou-Menzel at the [[Los Alamos National Laboratory]] in 1955
+| birth_date        = {{Birth date|1928|10|14}}
+| birth_place       = [[Milwaukee, Wisconsin]], U.S.
+| death_date        = {{Death date and age|2026|08|27|1928|10|14}}
+| death_place       = [[Los Alamos, New Mexico]], U.S.
+| residence         = 
+| citizenship       = United States
+| nationality       = 
+| field             = [[Physics]]<br>[[Scientific computing]]
+| workplaces        = [[Los Alamos National Laboratory]]
+| education         = [[University of Wisconsin]]<br>[[University of Michigan]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Fermi–Pasta–Ulam–Tsingou problem]]
+| influences        = 
+| awards            = 
+}}
+
+'''Mary Tsingou-Menzel''' (October 14, 1928 – August 27, 2026) was an American physicist and mathematician of [[Greek people|Greek-Bulgarian]] descent.<ref name=oral>{{Cite interview |last=Menzel |first=Mary Tsingou |interviewer-last=Abbate |interviewer-first=Janet |interviewer-link=Janet Abbate|date=January 26, 2021 |title=Oral-History: Mary Tsingou Menzel |url=https://ethw.org/Oral-History:Mary_Tsingou_Menzel |access-date=October 10, 2026 |website=Engineering and Technology History Wiki |language=en}}</ref> She was one of the first programmers on the [[MANIAC]] computer at [[Los Alamos National Laboratory]] and is best known for programming the simulations for the [[Fermi–Pasta–Ulam–Tsingou problem|celebrated computer experiment]] with [[Enrico Fermi]], [[John Pasta]], and [[Stanisław Ulam]]. This experiment became an inspiration for the fields of [[chaos theory]] and [[scientific computing]], and was a turning point in [[soliton]] theory.
+
+==Background==
+Mary Tsingou was born in [[Milwaukee, Wisconsin]], on October 14, 1928, her Greek parents having moved to the United States from [[Bulgaria]]. In the aftermath of the Great Depression, the family left the U.S. to spend several years in Bulgaria. In 1940, they returned to the States, where Tsingou attended high school and college. She graduated with a bachelor's degree in mathematics and education in 1951 from the [[University of Wisconsin]]. She then studied at the [[University of Michigan]], receiving a master's degree in mathematics in 1955. In 1958, she married Joseph Menzel.<ref name=daux/> She had two daughters, Ann and Carol,<ref name=sarpomaa>{{Cite news |last=Sarpomaa |first=Ama |date=October 10, 2026 |title=Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died |url=https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html |access-date=October 10, 2026 |work=The New York Times}}</ref> who grew up to be medical doctors.<ref name="oral" />
+
+Tsingou died at her home in [[Los Alamos, New Mexico]], on August 27, 2026, at the age of 97.<ref name="sarpomaa" />
+==Career==
+Tsingou joined the theoretical division of the [[Los Alamos National Laboratory]], where she became one of the first programmers on the [[MANIAC]]. Besides working on weapons, the group also studied fundamental physics. Following Fermi's suggestion to analyze numerically the predictions of a statistical model of solids, Tsingou came up with an algorithm to simulate the relaxation of energy in a model crystal, which she implemented on the MANIAC.<ref name=daux/> The analysis became known in the computational physics community as the [[Fermi–Pasta–Ulam problem]] (FPU). In 2008, Tsingou's contributions were recognized and the analysis was renamed as the Fermi–Pasta–Ulam–Tsingou problem (FPUT).<ref>{{cite web
+ | last1 = Fermi |first1=E.
+ | last2 = Pasta |first2=J.
+ | last3 = Ulam |first3=S.
+ | date = May 1955
+ | title = Studies of Nonlinear Problems
+ | doi=10.2172/4376203
+ | osti=4376203
+ | url = https://www.osti.gov/servlets/purl/4376203 |id=Document LA-1940|access-date=2024-04-11}} Also appeared in ''Collected Works of Enrico Fermi'', [[University of Chicago Press]], Vol.&nbsp;II, 978–988 (1965). 
+</ref><ref>Fermi, E. et al. (1955). _______ . Front page: "Work done by: E. Fermi J. Pasta S. Ulam M. Tsingou"; and footnote: "We wish to thank Miss Mary Tsingou ... for running the computations on the Los Alamos MANIAC machine, ..."
+</ref> The result was an important stepping stone for [[chaos theory]].<ref name="Waldvogel">{{cite news |last=Waldvogel |first=Miriam |title=Her work was key to a landmark experiment. She was credited in a footnote. |newspaper=The Washington Post |date=2026-09-05 |url=https://www.washingtonpost.com/obituaries/2026/09/05/mary-tsingou-menzel-overlooked-contributor-landmark-experiment-dies-97/ |access-date=2026-09-05}}</ref>
+
+[[File:The MANIAC’s arithmetic unit nearing completion in 1952.jpg|thumb|The MANIAC’s arithmetic unit nearing completion in 1952.]]
+
+After Fermi's death, [[James L. Tuck]] and Tsingou-Menzel repeated the original FPUT results and provided strong indication that the nonlinear FPUT problem might be integrable.<ref>{{cite journal |first1=J. L.|last1=Tuck |first2=M. T.|last2=Menzel |date=1972 |title=The Superperiod of the Nonlinear Weighted String (FPU) Problem |journal=[[Advances in Mathematics]] |volume=9 |issue=3 |pages=399–407 |doi=10.1016/0001-8708(72)90024-2 |doi-access=free}}</ref>
+
+Tsingou-Menzel continued her computational career at Los Alamos. She was an early expert on [[Fortran]]. In the 1980s, she worked on calculations for the "proton storage ring" in the [[Strategic Defense Initiative|Star Wars program]] (the Strategic Defense Initiative), which was one of President Ronald Reagan's projects.<ref name="oral" /><ref name=":0" /> She retired in 1991.<ref name=daux/>
+
+==Recognition==
+The 1955 Los Alamos report named Fermi, Pasta, and Ulam as its authors, but separately stated that the work had been done by Fermi, Pasta, Ulam, and Tsingou; it also thanked Tsingou for coding the problems and running the computations on the MANIAC.<ref>{{cite report
+ |last1=Fermi
+ |first1=Enrico
+ |last2=Pasta
+ |first2=John
+ |last3=Ulam
+ |first3=Stanisław
+ |title=Studies of Nonlinear Problems
+ |institution=Los Alamos Scientific Laboratory
+ |date=May 1955
+ |doi=10.2172/4376203
+}}</ref> Despite that explicit credit, the experiment was known for more than half a century as the Fermi–Pasta–Ulam (FPU) problem. It was not until 2008, when an article published in ''[[Physics Today]]'' by physicist Thierry Dauxois drew renewed attention to Tsingou's role and called for the problem to be renamed FPUT; the expanded name has since entered scientific usage.<ref name="daux"/><ref name="Waldvogel" /> Subsequent publications referencing the FPUT problem reflect this change.<ref>{{cite journal |last1=Dauxois |first1=T. |last2=Ruffo |first2=S. |title=Fermi-Pasta-Ulam nonlinear lattice oscillations |journal=Scholarpedia |date=2008 |volume=3 |issue=8 |pages=5538 |doi=10.4249/scholarpedia.5538|bibcode=2008SchpJ...3.5538D |doi-access=free }}</ref><ref name=daux>{{cite journal |first=T.|last=Dauxois |date=January 2008 |title=Fermi, Pasta, Ulam, and a ''mysterious'' lady |url=http://perso.ens-lyon.fr/thierry.dauxois/PAPERS/pt61_55.2008.pdf |journal=Physics Today |volume=61 |issue=1 |page=55 |arxiv=0801.1590 |doi=10.1063/1.2835154 |bibcode=2008PhT....61a..55D |s2cid=118607235 }}</ref> In 2020, ''[[National Security Science]]'' magazine, published by Los Alamos National Laboratory, featured an article on Tsingou that included her commentary and historical reflections on the FPUT problem. The article was titled "We thank Miss Mary Tsingou" in reference to the acknowledgement that appeared on the title page of the original FPUT technical report from 1955.<ref name=":0">{{Cite journal |last=Grant |first=Virginia |year=2020 |title=We thank Miss Mary Tsingou |url=https://discover.lanl.gov/publications/national-security-science/2020-winter/we-thank-miss-mary-tsingou/ |journal=National Security Science |archive-url=https://web.archive.org/web/20240929141604/https://discover.lanl.gov/publications/national-security-science/2020-winter/we-thank-miss-mary-tsingou/ |archive-date=29 September 2024 }}</ref>
+
+==Publications==
+* {{cite journal |author1=J. L. Tuck |author2=M. T. Menzel |date=December 1972 |title=The superperiod of the nonlinear weighted string (FPU) problem |journal=[[Advances in Mathematics]] |volume=9 |issue=3 |pages=399–407 |doi=10.1016/0001-8708(72)90024-2 |doi-access=free |ref=none |oclc=4922300485}}
+* {{cite book |first1=Joseph J. |last1=Devaney |first2=Albert G. |last2=Petschek |first3=Mary |last3=Tsingou Menzel |title=On the Production of Heavy Uranium Isotopes in a Very High Density Fast Neutron Flux |publisher=Los Alamos Scientific Laboratory of the University of California |year=1958 |oclc=696158179 |id={{osti|id=4291017}}}}
+
+==See also==
+* [[Kathleen Antonelli]]
+* [[Jean Bartik]]
+* [[Adele Goldstine]]
+* [[Mary Ann Mansigh]]
+* [[Marlyn Meltzer]]
+* [[Betty Holberton]]
+* [[Frances Spence]]
+* [[Ruth Teitelbaum]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://arxiv.org/abs/0903.2671 Pioneer Women in Chaos Theory.] Frank Y. Wang.
+* [http://www.physics.udel.edu/~bnikolic/teaching/phys660/PDF/fpu_history.pdf The Fermi–Pasta–Ulam “numerical experiment”: history and pedagogical perspectives.]  Dauxois, Peyrard and Ruffo.
+* [http://www.lamonitor.com/content/not-so-mysterious-woman A not-so-mysterious woman], ''Los Alamos Monitor'' online.
+* [http://philosophyofscienceportal.blogspot.co.uk/2008/04/wrong-righted.html A wrong righted], Philosophy of Science Portal, A Venue for Discussions of Science, Philosophy and the Arts
+* [http://ethw.org/Oral-History:Mary_Tsingou_Menzel Mary Tsingou-Menzel Oral History]
+* {{INSPIRE-HEP author}}
+{{Chaos theory}}
+{{Authority control}}
+
+{{DEFAULTSORT:Tsingou, Mary}}
+[[Category:1928 births]]
+[[Category:2026 deaths]]
+[[Category:Scientific computing researchers]]
+[[Category:Los Alamos National Laboratory personnel]]
+[[Category:Numerical analysts]]
+[[Category:20th-century American physicists]]
+[[Category:20th-century American mathematicians]]
+[[Category:American people of Greek descent]]
+[[Category:Scientists from Milwaukee]]
+[[Category:Mathematicians from Wisconsin]]
+[[Category:20th-century American women mathematicians]]
+[[Category:American expatriates in Bulgaria]]
+[[Category:University of Wisconsin alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:20th-century American women physicists]]

@@ -1,0 +1,41 @@
+'''John Michael Fitzpatrick''' is an American [[physicist]] and [[computer scientist]] and is a professor emeritus at [[Vanderbilt University]].<ref name="Reference-1">“Fitzpatrick named Fellow of the IEEE.” ''Vanderbilt University School of Engineering'', November 29, 2010. <nowiki>https://engineering.vanderbilt.edu/2010/11/29/fitzpatrick-named-fellow-of-the-ieee/</nowiki></ref> His research on [[medical image]] registration and [[image-guided surgery]] contributed to the world's first FDA-cleared [[surgical navigation]] system based on bone-implanted [[fiducial marker]]s, according to [[Vanderbilt University Medical Center]].<ref name="Reference-2">Pankake, Missy. “Graduation 2011: Service Defines New Emeritus Faculty.” ''VUMC Reporter'' (Vanderbilt University Medical Center), May 19, 2011. <nowiki>https://news.vumc.org/reporter-archive/graduation-2011-service-defines-new-emeritus-faculty/</nowiki></ref>
+
+== Early life and education ==
+He was born in [[Topeka, Kansas]] and raised in [[Charlotte, North Carolina]]. Fitzpatrick received a Bachelor of Science degree in physics from the [[University of North Carolina at Chapel Hill]] in 1967 and a Doctor of Philosophy in physics from [[Florida State University]] in 1972.<ref name="Reference-3">“J. Michael Fitzpatrick, PhD.” ''Plural Publishing'', author profile. <nowiki>https://www.pluralpublishing.com/author/j-michael-fitzpatrick-phd</nowiki></ref> He later earned a Master of Science in computer science from the University of North Carolina at Chapel Hill in 1982.
+
+== Career     ==
+Before joining Vanderbilt, Fitzpatrick held postdoctoral and teaching positions in physics and chemistry at Florida State University, the [[University of British Columbia]], and [[Clemson University]], and was a professor of physics and chair of the mathematics and physics department at [[Newberry College]].<ref name="Reference-3" />
+
+He joined Vanderbilt University in 1982 as an assistant professor of computer science and subsequently held joint faculty appointments in [[radiology]], neurological surgery, computer engineering, and electrical engineering. He was named full professor in each of these departments in 1999 and retired with the title of professor emeritus in December 2010.<ref name="Reference-4">“Vanderbilt engineering professor named SPIE fellow.” ''Vanderbilt University News'', January 28, 2008. <nowiki>https://news.vanderbilt.edu/2008/01/28/vanderbilt-engineering-professor-named-spie-fellow-58302/</nowiki></ref>
+
+Fitzpatrick's research focused on the registration of medical images, the alignment of scans from different imaging modalities or time points, and its application to image-guided neurosurgery and image-guided cochlear implantation. From 1988 to 1995, he was co-principal investigator and director of software development at Vanderbilt for a bone-implanted fiducial marker system for surgical navigation, which, according to Vanderbilt University Medical Center, was the world's first such system to receive U.S. [[Food and Drug Administration]] clearance (FDA 510(k) clearance K944612, December 11, 1995).<ref name="Reference-2" />
+
+With his graduate students, he developed statistical methods for predicting and assessing the accuracy of image registration, including measures of fiducial registration error and target registration error, which became widely used benchmarks for evaluating surgical guidance systems. He is the holder or co-holder of 20 U.S. patents related to image registration, fiducial markers, and surgical instrumentation, including the Microtable, a frame-less neurosurgical system for probe guidance used in procedures such as deep-brain stimulation for Parkinson’s disease. The ''Microtable System'' received [FDA 510(k) clearance K132611, Mar. 6, 2014]<ref>“510(k) Premarket Notification: K132611, Microtable System.” U.S. Food and Drug Administration, decision date March 6, 2014. <nowiki>https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K132611</nowiki></ref>
+
+== Honors and awards ==
+
+* 1997 Giovanni Di Chiro Award for Outstanding Scientific Research, ''Journal of Computer Assisted Tomography.''     
+*  Fellow'', [[SPIE]]'' (International Society for Optical Engineering), elected 2007<ref name="Reference-4" />
+* Fellow, ''[[IEEE]]'' (Institute of Electrical and Electronics Engineers), effective January 1, 2011, “for contributions to medical image registration and surgical navigation”<ref name="Reference-1" />
+
+== Selected publications       ==
+
+* Fitzpatrick, J. Michael; West, Jay B.; Maurer, Calvin R. Jr. “Predicting Error in Rigid-Body, Point-Based Image Registration.” ''IEEE Transactions on Medical Imaging'', vol. 17, no. 5, 1998, pp.&nbsp;694–702.<ref name="Reference-1" />
+* Sonka, Milan; Fitzpatrick, J. Michael, eds. ''Medical Image Processing and Analysis'', Volume II of the ''Handbook of Medical Imaging''. SPIE Press, 2000. ISBN 978-0819477606.
+* Fitzpatrick, J. Michael; Lédeczi, Ákos. ''Computer Programming with MATLAB''. Fitzle LLC, 2013. ISBN 978-0-615-75113-9.
+* Labadie, Robert F.; Fitzpatrick, J. Michael. ''Image-Guided Surgery: Fundamentals and Clinical Applications in Otolaryngology''. Plural Publishing, 2016. ISBN 978-1597567190.<ref name="Reference-3" />
+
+== Personal life  ==
+Fitzpatrick is married to retired pediatrician Patricia F. Robinson. They have two children and three grandchildren and live in [[Nashville, Tennessee]].<ref>https://www.vanderbilt.edu/CAOS/personnel/</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fitzpatrick, John Michael}}
+[[Category:Living people]]
+[[Category:American physicists]]
+[[Category:American computer scientists]]
+[[Category:Vanderbilt University faculty]]
+[[Category:University of North Carolina at Chapel Hill alumni]]

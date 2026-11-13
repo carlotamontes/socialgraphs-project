@@ -1,0 +1,95 @@
+{{short description|American research scientist and computer programmer}}
+{{for multi|the fictional character|Jim Kent (The Strain)|the New Zealand politician|Jim Kent (politician)}}
+{{Infobox scientist
+| name              = Jim Kent
+| image             = Jim Kent.JPG
+| image_size        = 
+| alt               = 
+| caption           = Photo courtesy of Jim Kent.
+| birth_date        = {{birth date and age|1960|2|10}}
+| birth_place       = [[Hawaii]]
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| 
+| fields            = 
+| workplaces        = 
+| education         = [[University of California, Santa Cruz]]
+| thesis_title      = Patching and painting the working draft of the human genome
+| thesis_url        = https://www.proquest.com/docview/252090457/
+| thesis_year       = 2002
+| doctoral_advisor  = Alan M Zahler
+| academic_advisors = [[David Haussler]]<ref>{{Cite journal | last1 = Gitschier | first1 = J. | title = Life, the Universe, and Everything: An Interview with David Haussler | doi = 10.1371/journal.pgen.1003282 | journal = PLOS Genetics | volume = 9 | issue = 1 | article-number = e1003282 | year = 2013 | pmid = 23382705 | pmc = 3561096 | doi-access = free }}</ref>
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Overton Prize]]<br />[[Benjamin Franklin Award (Bioinformatics)]]
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://users.soe.ucsc.edu/~kent/}}
+| footnotes         = 
+| spouse            = 
+}}
+'''William James Kent''' (born February 10, 1960) is an American [[research scientist]] and [[computer programmer]]. He has been a contributor to [[genome]] database projects and the 2003 winner of the [[Benjamin Franklin Award (Bioinformatics)|Benjamin Franklin Award]].
+
+== Early life ==
+Kent was born in [[Hawaii]] and grew up in [[San Francisco, California]], [[United States]].
+
+== Computer animation ==
+Kent began his programming career in 1983 with Island Graphics Inc. where he wrote the Aegis Animator program for the [[Amiga]] home computer. This program combined polygon tweening in 3D with simple 2D cel-based animation. In 1985 he founded and ran a software company, Dancing Flame, which adapted the Aegis Animator to the [[Atari ST]],<ref>{{cite web|url=http://www.atarimagazines.com/v6n2/AEGIS.html |title=Aegis Animator ST and Art Pak ST |website=Atarimagazines.com |date= |access-date=2016-10-21}}</ref> and created Cyber Paint<ref>{{cite web |url=http://www.ataricq.org/index.php?option=com_content&view=article&id=198:cyber-paint&catid=56:paintdraw&Itemid=88 |title=Cyber Paint |website=Ataricq.org |date=2009-05-23 |access-date=2016-10-21 |archive-date=2016-10-21 |archive-url=https://web.archive.org/web/20161021194105/http://www.ataricq.org/index.php?option=com_content&view=article&id=198:cyber-paint&catid=56:paintdraw&Itemid=88 |url-status=dead }}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=EjKnUOZ7ZN8 |title=Cyber Paint |website=youtube.com |date=2012-11-08 |access-date=2025-04-03}}</ref> for that machine. Cyber Paint was a 2D animation program that brought together a wide variety of animation and paint functionality and the delta-compressed animation format developed for CAD-3D. The user could move freely between animation frames and paint arbitrarily, or utilize various animation tools for automatic tweening movement across frames. Cyber Paint was one of the first, if not the first, consumer program that enabled the user to paint across time in a compressed digital video format.  Later he developed a similar program, the [[Autodesk Animator]] for [[PC compatible]]s, where the image compression improved to the point it could play off of hard disk, and one could paint using "inks" that performed algorithmic transformations such as smoothing, transparency, and tiled patterns. The Autodesk Animator was used to create artwork for a wide variety of video games.<ref>{{cite web|author=Breton Slivka |url=https://bustingseams.blogspot.com/2009/05/autodesk-animator.html |title=Busting at the Seams: Autodesk Animator |website=Bustingseams.blogspot.com |date=2009-05-08 |access-date=2016-10-21}}</ref>
+
+== Involvement with the Human Genome Project ==
+
+In 2000, he wrote a program, GigAssembler,<ref name="pmid11544197">{{cite journal |vauthors=Kent WJ, Haussler D |title=Assembly of the Working Draft of the Human Genome with GigAssembler |journal=Genome Research |volume=11 |issue=9 |pages=1461–2 |year=2001 |pmid=11544197 |pmc=311095 |doi=10.1101/gr.183201}}</ref>  that allowed the publicly funded [[Human Genome Project]] to assemble and publish the first human genome sequence. His efforts were motivated by the research needs of himself and his colleagues, but also out of concern that the data might be made proprietary via patents by [[Celera Genomics]].<ref>{{cite web|url=http://www.freesoftwaremagazine.com/node/2074 |title=Jim Kent, hero of free and open source software |access-date=2010-09-19 |archive-url=https://web.archive.org/web/20120320110631/http://www.freesoftwaremagazine.com/node/2074 |archive-date=2012-03-20 }}</ref> In their close race with Celera, Kent and the UCSC Professor [[David Haussler]] quickly built a modest cluster of 50 commodity [[personal computer]]s running a [[Linux-based operating system]] to run the software. In contrast, Celera was using what was thought then to be one of the most powerful civilian supercomputers in the world. Kent's first assembly on the human genome was released on June 22. Celera finished its assembly three days later on June 25, and the dual results were announced at the [[White House]] on June 26. On July 7, 2000, the Santa Cruz data was made publicly available on the World Wide Web while the research paper describing this publicly funded genome was published in February 2001 special issue of ''[[Nature (journal)|Nature]]'',<ref name="IHGSC">{{cite journal |author=International Human Genome Sequencing Consortium |title=Initial sequencing and analysis of the human genome |journal=Nature |volume=409 |pages=860–921 |year=2001 |url=http://www.nature.com/nature/journal/v409/n6822/pdf/409860a0.pdf |doi=10.1038/35057062 |pmid=11237011 |issue=6822|bibcode=2001Natur.409..860L |doi-access=free }}</ref> in parallel with Celera's results in the journal ''[[Science (journal)|Science]]''.<ref name="Venter">{{cite journal |author=Venter, JC |title=The sequence of the human genome |journal=Science |volume=291 |pages=1304–1351 |year=2001 |url=http://www.sciencemag.org/cgi/reprint/291/5507/1304.pdf |doi=10.1126/science.1058040 |pmid=11181995 |issue=5507 |display-authors=1 |last2=Adams |first2=MD |last3=Myers |first3=EW |last4=Li |first4=PW |last5=Mural |first5=RJ |last6=Sutton |first6=GG |last7=Smith |first7=HO |last8=Yandell |first8=M |last9=Evans |first9=CA|bibcode = 2001Sci...291.1304V |s2cid=85981305 |doi-access=free }}</ref> In 2002 [[Tim O'Reilly]] described Kent's work as "the most significant work of open source development in the past year".  While all of Kent's genomics software is [[Open-source model|open source]] in the sense that the [[source code]] can be downloaded and read for free, and all of the software can be freely used for academic, nonprofit, and personal use, some of it requires a [[Software license|license]], either from UCSC or from Kent Informatics Inc., for commercial use.<ref>{{cite web|url=http://hgwdev.cse.ucsc.edu/~kent/src/ |title=Index of /~kent/src |website=Hgwdev.cse.ucsc.edu |date= |access-date=2016-10-21}}</ref>
+
+After GigAssembler, Kent went on to write [[BLAT (bioinformatics)|BLAT]] (BLAST-like alignment tool)<ref name="pmid11932250">{{Cite journal | last1 = Kent | first1 = W. J. | title = BLAT---The BLAST-Like Alignment Tool | doi = 10.1101/gr.229202 | journal = Genome Research | volume = 12 | issue = 4 | pages = 656–664 | year = 2002 | pmid =  11932250| pmc =187518 }}</ref> and the UCSC Genome Browser <ref>{{Cite journal 
+| last1 = Kent | first1 = W. J. 
+| author-link1 = Jim Kent
+| last2 = Sugnet | first2 = C. W. 
+| last3 = Furey | first3 = T. S. 
+| last4 = Roskin | first4 = K. M. 
+| last5 = Pringle | first5 = T. H. 
+| last6 = Zahler | first6 = A. M. 
+| last7 = Haussler | first7 = A. D. 
+| author-link7 = David Haussler
+| doi = 10.1101/gr.229102 
+| title = The Human Genome Browser at UCSC 
+| journal = Genome Research 
+| volume = 12 
+| issue = 6 
+| pages = 996–1006 
+| year = 2002 
+| pmid = 12045153 
+| pmc =186604 
+}}</ref> to help analyze important genome data. Kent continues to work at UCSC primarily on web tools to help understand the human genome. He helps maintain and upgrade the browser, and has worked on [[comparative genomics]],<ref name="pmid14992493">{{cite journal |doi=10.1073/pnas.1932072100 |vauthors=Kent WJ, Baertsch R, Hinrichs A, Miller W, Haussler D |title=Evolution's cauldron: Duplication, deletion, and rearrangement in the mouse and human genomes |journal=Proc Natl Acad Sci U S A |volume=100 |issue=20 |pages=11484–9 |year=2003 |pmid= 14500911 |pmc=208784|bibcode = 2003PNAS..10011484K |doi-access=free }}</ref> Parasol, a job control management software for the UCSC kilocluster, and the [[ENCODE]] Project.
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+*[http://www.oreillynet.com/pub/a/network/2002/12/10/kent.html O'Reilly Interview with Jim Kent]
+*[https://www.wired.com/2001/08/kent-the-genome-superman/ Wired article on Jim Kent]
+
+{{Commons category|Jim Kent}}
+{{Overton Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kent, Jim}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:American bioinformaticians]]
+[[Category:21st-century American biologists]]
+[[Category:American computer programmers]]
+[[Category:University of California, Santa Cruz alumni]]
+[[Category:University of California, Santa Cruz faculty]]
+[[Category:People in the computer animation industry]]
+[[Category:Overton Prize winners]]
+[[Category:Human Genome Project scientists]]
+[[Category:Biologists from Hawaii]]

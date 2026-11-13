@@ -1,0 +1,61 @@
+{{Short description|Australian physicist}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox scientist
+| name              = Jay Gambetta
+| image             = Jay_Gambetta_-_IBM_Fellow.jpg
+| image_size        = 
+| caption           = 
+| birth_date        = 
+| birth_place       = {{Birth date and age|1979|1|29|mf=yes}}
+| death_date        = 
+| death_place       = 
+| citizenship       = United States
+| ethnicity         = 
+| fields            = [[Physics]], [[Quantum Computing]]
+| workplaces        = {{plainlist|
+*[[IBM Research]]
+*[[Institute for Quantum Computing]]
+*[[Yale University]]
+}}
+| education         = [[Griffith University]] <small>([[Bachelor of Science|B.S.]])</small>,<br />[[Griffith University]] <small>([[Doctor of Philosophy|Ph.D.]])</small>
+| doctoral_advisor  = [[Howard Wiseman]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| spouse            = 
+| awards            = 
+| religion          = 
+| signature         = 
+| footnotes         = 
+}}'''Jay Michael Gambetta''' is a scientist and Director of Research at [[Thomas J. Watson Research Center|IBM Thomas J Watson Research Center]] working to build a [[quantum computer]].<ref>{{cite web|url=https://researcher.watson.ibm.com/researcher/view.php?person=us-jay.gambetta|title=Jay M. Gambetta - IBM|date=25 July 2016|website=researcher.watson.ibm.com}}</ref><ref>{{cite web|url=https://www.quantamagazine.org/the-era-of-quantum-computing-is-here-outlook-cloudy-20180124/ |title=The Era of Quantum Computing Is Here. Outlook: Cloudy |last=Ball |first=Philip |website=[[Quanta Magazine]] |date=24 January 2018 |access-date=24 May 2018}}</ref>
+
+==Education==
+Following his Bachelor of Science and Honours degree at [[Griffith University]] in 1999 (gaining four awards, including a University medal), Gambetta began a PhD under the supervision of [[Howard Wiseman]] in quantum foundations and non-Markovian open quantum systems.<ref name="afr">{{cite web|url=http://www.afr.com/technology/how-gold-coast-surfer-jay-gambetta-became-one-of-ibms-top-quantum-physicists-20180410-h0yk27 |title=How Gold Coast surfer Jay Gambetta became one of IBM's top quantum physicists |website=[[Australian Financial Review]] |date=16 April 2018 |access-date=24 May 2018 |last=Redrup |first=Yolanda}}</ref> After graduating in 2004, Gambetta turned his research to the then-nascent field of superconducting [[quantum computing]]. He gained a post-doctorate post at [[Yale]] working for [[Steven Girvin]]. In 2007, he moved to the Institute for Quantum Computing in Waterloo, where he worked as a postdoc working for [[Raymond Laflamme]] and gained in 2009 a Junior Fellowship from the [[Canadian Institute for Advanced Research]] (CIFAR).
+
+==Career==
+In 2011 he moved to private industry, joining the IBM effort to build a quantum computer based on superconducting qubits.<ref name="afr"/> He was appointed Vice President of quantum computing in 2019. As a scientist he has done work on quantum validation techniques, quantum codes, improved gates and coherence, error mitigation and near-term applications of quantum computing. In addition, he was a leader of the team to create the "[[IBM Quantum Experience]]",<ref>{{cite web|url=https://www.top500.org/news/google-and-ibm-battle-for-quantum-supremacy/|title=Google and IBM Battle for Quantum Supremacy - TOP500 Supercomputer Sites|website=www.top500.org}}</ref> "[[Qiskit]]", the "[[IBM Quantum System One]], and the "[[IBM Quantum System Two]]". Since October 2025 he holds the position of Director of IBM Research.<ref>{{cite web|url=https://newsroom.ibm.com/blog-ibm-names-new-director-of-ibm-research|title=IBM Names New Director of IBM Research|website=IBM|access-date=1 Oct 2025|date=1 Oct 2025}}</ref>
+
+Gambetta's honours include being elected as a Fellow of the [[American Physical Society]] in 2014 and being named an IBM Fellow in 2018.<ref name="aps.org">{{cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=G&year=2014&unit_id=&institution=|title=APS Fellow Archive|website=www.aps.org}}</ref><ref>{{cite web|url=https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/2018/ibm-fellow-jay-gambetta.html |title=2018 Fellow Jay Gambetta |website=IBM |access-date=25 May 2018|date=12 April 2018 }}</ref>
+
+==Honors==
+* [[IBM Fellow]] (2018)<ref>{{cite web|url=https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/2018/ibm-fellow-jay-gambetta.html |title=2018 Fellow Jay Gambetta |website=IBM |access-date=25 May 2018|date=12 April 2018 }}</ref>
+* [[Fellow of the American Physical Society]] (2014)<ref name="aps.org"/>
+
+== Gambetta's Law ==
+The observation that [[Quantum Volume]] is doubling every year is called "Gambetta's law."<ref name="gamlaw">{{cite web|url=https://www.techradar.com/news/will-intels-moores-law-be-replaced-by-googles-neven-or-ibms-gambetta/|title=Will Intel's Moore's Law be replaced by Google's Neven or IBM's Gambetta?|last=Cherrayil|first=Naushad K.|date=24 November 2019|work=TechRadar|access-date=24 March 2021|archive-date=29 February 2020|archive-url=https://web.archive.org/web/20200229151156/https://www.techradar.com/news/will-intels-moores-law-be-replaced-by-googles-neven-or-ibms-gambetta|url-status=dead}}</ref>
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gambetta, Jay M.}}
+[[Category:Living people]]
+[[Category:Australian physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:IBM Fellows]]
+[[Category:1979 births]]
+[[Category:Griffith University alumni]]

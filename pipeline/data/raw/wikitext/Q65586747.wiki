@@ -1,0 +1,96 @@
+{{Short description|Austrian-born American scientist (1933–2023)}}
+{{Infobox scientist
+|image             = File:Kopelman.png
+|name              = Raoul Kopelman
+|birth_date        = {{birth date|1933|10|21|df=y}}
+|birth_place       = [[Vienna]], Austria
+|death_date        = {{death date and age|2023|07|20|1933|10|21|df=y}}
+|death_place       = Ann Arbor, Michigan
+|nationality       = 
+|ethnicity         = 
+|field             = [[Analytical chemistry]]<br> [[Physical chemistry]]<br> [[Nanoscience]]
+|workplaces        = [[University of Michigan]]
+|education         = [[Technion]]<br>[[Columbia University]]
+|doctoral_advisor  = 
+|doctoral_students = [[Weihong Tan]]
+|notable_students  = {{plainlist|
+*[[Richard Smalley]] (undergraduate)
+[[Paras N. Prasad]] (postdoc)
+}}
+|known_for         = [[Hoshen-Kopelman algorithm]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|footnotes         = 
+}}
+
+'''Raoul Kopelman''' (October 21, 1933 – July 20, 2023<ref>{{Cite web |url=https://www.avelim.co.il/%d7%a4%d7%a8%d7%95%d7%a4-%d7%a8%d7%90%d7%95%d7%9c-%d7%a7%d7%95%d7%a4%d7%9c%d7%9e%d7%9f-%d7%96%d7%9c/ |title=פרופ' ראול קופלמן ז"ל |access-date=2023-07-24 |archive-date=2023-09-02 |archive-url=https://web.archive.org/web/20230902061241/https://www.avelim.co.il/%D7%A4%D7%A8%D7%95%D7%A4-%D7%A8%D7%90%D7%95%D7%9C-%D7%A7%D7%95%D7%A4%D7%9C%D7%9E%D7%9F-%D7%96%D7%9C/ |url-status=dead }}</ref>) was a scientist, inventor, and the [[Richard Smalley]] Distinguished University Professor of Chemistry, Physics, Applied Physics, Biophysics, Biomedical Engineering and Chemical Biology at the [[University of Michigan]]. Amongst other accomplishments, he was well known for developing the [[Hoshen–Kopelman algorithm|Hoshen-Kopelman algorithm]]. He was also amongst the first scientists pushing to establish the field of nanotechnology.<ref name=":0" /><ref>{{cite web |title=RAOUL KOPELMAN |url=https://www.hebrewmemorial.org/obituaries/Raoul-Kopelman/#!/TributeWall |publisher=Hebrew Memorial Chapel |access-date=16 September 2023}}</ref>
+
+==Birth, education, and early career==
+
+Kopelman was born in Vienna, Austria, and on April 1, 1939, at the age of 5, he fled with his parents (Josef and Klara-Chaja) from Austria to Jerusalem during the [[World War II|Second World War]].
+
+Later, while living in Tel Aviv and in the sixth grade, his science teacher loaned him a German booklet on chemical experiments. With several other friends he formed a chemistry club, where they performed numerous experiments. The club included Assa Lifshitz (who went on to become a professor at the department of physical chemistry at the [[Hebrew University of Jerusalem]]) and [[Joshua Jortner]] (who went on to become a professor at the school of chemistry, [[Tel Aviv University]] in Tel Aviv, Israel).
+
+With a desire of helping society, he later attended the [[Technion – Israel Institute of Technology|Israel Institute of Technology]] to earn his bachelor's degree in chemical engineering and his master's degree in chemistry. He took classes on quantum mechanics with [[David Bohm]] and group theory with David Fox.
+
+Kopelman studied under Ralph Halford to earn his PhD in chemistry at Columbia University. He also worked at Harvard as the first postdoctoral researcher of [[William Klemperer]]. After this, he worked as a lecturer in chemistry at the Israel Institute of Technology and a senior research fellow at the California Institute of Technology with Wilse Robinson.<ref>{{Cite journal|last1=Kopelman|first1=Raoul|last2=Lindenberg|first2=Katja|author2-link= Katja Lindenberg |last3=Prasad|first3=Paras|last4=Klafter|first4=Joseph|date=July 1994|title=Raoul Kopelman Festschrift|journal=The Journal of Physical Chemistry|volume=98|issue=30|pages=7219–7238|doi=10.1021/j100081a600|issn=0022-3654}}</ref>
+
+==Educator and scientific researcher==
+
+In 1966, Kopelman accepted a professorship position in chemistry at the [[University of Michigan]], where he served for 57 years.
+
+As an educator, Kopelman successfully trained many active scientists in the fields of chemistry, biomedical engineering, applied physics and others. Students of his included [[Tan Weihong|Weihong Tan]] (PhD), [[Paras N. Prasad]] (postdoc), and Nobel laureate [[Richard Smalley]] (undergraduate researcher).<ref name=":0">{{Cite web|url=https://record.umich.edu/articles/chemistry-professor-recounts-50-years-university|title=Chemistry professor recounts 50 years at the university|last=Record|first=Ben Bugajski The University|website=The University Record|access-date=2019-07-16}}</ref>
+
+In his scientific work, he authored over 600 publications, including scientific papers, patents, and books with nearly 30,000 citations.<ref>{{Cite web|url=https://scholar.google.com/citations?user=Y9j9bpoAAAAJ&hl=en|title=Raoul Kopelman – Google Scholar Citations|website=scholar.google.com|access-date=2019-07-16}}</ref> His publications had an h-index of over 80 (h-indexes of over 60 are considered to be "truly exceptional"<ref>{{Cite web|url=https://bitesizebio.com/13614/does-your-h-index-measure-up/|title=Does Your h-index Measure Up?|date=2009-04-02|website=Bitesize Bio|access-date=2019-07-16}}</ref>).
+
+Kopelman's work spanned many disciplines and collaborators. Some of his notable accomplishments included:
+
+* [[Hoshen–Kopelman algorithm]] – "a simple and efficient algorithm for labeling clusters on a grid, where the grid is a regular network of cells, with the cells being either occupied or unoccupied"<ref>{{Cite journal|title=Hoshen–Kopelman algorithm – Percolation and cluster distribution|doi=10.1103/PhysRevB.14.3438}}</ref>
+
+[[File:H-K algorithm output.png|thumb|Example output from the Hoshen-Kopelman algorithm. Each number in the image represents a differentiable cluster.]]
+
+* Pioneering [[nanotechnology]] – Kopelman was publishing so early in the field that journals forced him to remove "nano" from articles as it was not yet an accepted term (e.g. [[Nanophotonics|Nano-optics]])<ref name=":0"/>
+* Using pulled fiber optics for [[near-field optics]] (including published work with [[Eric Betzig]]) and for intracellular measurements
+* Light sources smaller than the optical wavelength
+* Multiple discoveries in nanosensors and nanomedicine<ref>{{Cite web|url=https://www.nanowerk.com/spotlight/spotid=1240.php|title=Nanotechnology could offer an alternative to brain surgery|website=Nanowerk|access-date=2019-07-16}}</ref><ref>{{Cite web|url=https://news.umich.edu/nanotechnology-could-spur-new-heart-treatment/|title=Nanotechnology could spur new heart treatment|date=2015-10-28|website=University of Michigan News|access-date=2019-07-16}}</ref><ref>{{Cite web|url=https://www.news-medical.net/whitepaper/20170106/Nanotechnology-advances-for-cancer-diagnostics-and-nanotherapy.aspx|title=Nanotechnology Advances for Cancer Diagnostics and Nanotherapy|date=2017-01-06|website=News-Medical.net|access-date=2019-07-16}}</ref>
+* Discovery of the largest ever electric fields in cells<ref>{{Cite web|url=http://discovermagazine.com/2008/mar/14-mighty-electric-fields-found-inside-cells|title=Mighty Electric Fields Found Inside Cells {{!}} DiscoverMagazine.com|website=Discover Magazine|access-date=2019-07-16}}</ref>
+
+==Awards==
+
+Kopelman's awards include<ref>{{Cite web|url=http://www.umich.edu/~koplab/groupmembers.html|title=KopLab – University of Michigan|website=www.umich.edu|access-date=2019-07-16}}</ref>
+
+* Etter Memorial Lecture in Materials Chemistry, University of Minnesota
+* Pittsburgh Analytical Chemistry Award, 2011<ref>{{Cite web |url=https://www.nanowerk.com/news/newsid=19384.php |title=Pittcon 2011 honors scientists for outstanding contributions |date=10 December 2010 |website=Nanowerk |access-date=2019-07-16}}</ref>
+* Richard Smalley Distinguished University Professorship of Chemistry, Physics and Applied Physics, 2006
+* ACS Division of Analytical Chemistry Award in Spectrochemical Analysis, 2005
+* American Chemical Society Morley Award, 1997<ref>{{Cite web |url=http://www.csuohio.edu/sciences/dept/cleveland_acs/Morley_winners_2018.pdf |title=The Morley Medal |website=Cleveland Section of the American Chemical Society}}</ref>
+* American Physical Society Lady Davis Fellowship
+* Fellow of the American Association for the Advancement of Science
+* [[Guggenheim Fellowship|Guggenheim Fellow]], 1995<ref>{{Cite web |url=https://www.gf.org/fellows/all-fellows/raoul-kopelman/ |title=Raoul Kopelman |website=John Simon Guggenheim Foundation |language=en-US |access-date=2019-07-16}}</ref>
+* J. William Fulbright Research Award
+* National Institutes of Health National Research Service Award
+* National Science Foundation Creativity Award
+* Collegiate Inventors Grand Prize (together with Ph.D. student, [[Jeffrey Anker]]), 2002
+
+==Personal life==
+
+Kopelman married his wife Chava Blodek on September 15, 1955. Together they had three children Orion, Leeron, and Shirli.
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kopelman, Raoul}}
+[[Category:1933 births]]
+[[Category:2023 deaths]]
+[[Category:University of Michigan faculty]]
+[[Category:Columbia Graduate School of Arts and Sciences alumni]]
+[[Category:American chemists]]
+[[Category:American nanotechnologists]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:Fellows of the American Physical Society]]

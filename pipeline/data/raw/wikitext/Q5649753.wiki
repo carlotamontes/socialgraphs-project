@@ -1,0 +1,80 @@
+{{Short description|Dutch automotive engineer}}
+'''Hans Bastiaan Pacejka''' (12 September 1934 – 17 September 2017)<ref>{{Cite web|url=https://www.tiretechnologyinternational.com/news/people-news/tribute-hans-pacejka-1934-2017.html|title=Tribute: Hans Pacejka 1934-2017|last=Evans|first=Rachel|date=September 20, 2017|website=Tire Technology International|language=en-GB|access-date=2020-01-25}}</ref> was an expert in [[vehicle system dynamics]] and particularly in [[tire dynamics]], fields in which his works are now standard references.<ref>{{cite web
+| url = http://www.racer.nl/reference/pacejka.htm
+| title = Pacejka's Magic Formula
+| author = Ruud van Gaal
+| publisher = [[Racer (simulator)|Racer]]
+| date = December 23, 2010
+| access-date = 2011-03-19}}</ref><ref name="Cossalter">{{cite book
+| title = Motorcycle Dynamics
+| url=https://books.google.com/books?id=rJTQxITnkbgC&q=motorcycle+dynamics
+| edition = 2nd
+| last = Cossalter
+| first = Vittore
+| year = 2006
+| publisher = Lulu.com
+| isbn = 978-1-4303-0861-4
+| pages = 39}}</ref> He was [[Professor emeritus]] at [[Delft University of Technology]] in [[Delft]], [[Netherlands]].<ref name="Pacejka">{{cite book
+| title = Tyre and vehicle dynamics
+| url = https://books.google.com/books?id=ddQeAQAAIAAJ&q=Tire%20dynamics
+| last = Pacejka
+| first = Hans B.
+| year = 2006
+| edition = 2nd
+| pages = back cover
+| publisher = [[SAE International]]
+| isbn = 978-0-7680-1702-1}}</ref>
+
+== Magic Formula tire models==
+[[File:Magic Formula Curve.png|thumb|right|Magic Formula curve]]
+Pacejka developed a series of [[tire model|tire design model]]s during his career. They were named the "Magic Formula" because there is no particular physical basis for the structure of the equations chosen, but they fit a wide variety of tire constructions and operating conditions.  Each tire is characterized by 10–20 [[coefficient]]s for each important force that it can produce at the [[contact patch]], typically lateral and longitudinal force, and [[self aligning torque|self-aligning torque]], as the best fit between [[experimental data]] and the model. These coefficients are then used to generate equations showing how much force is generated for a given vertical load on the tire, [[camber angle]] and [[slip angle]].<ref>{{cite web
+| url = http://phors.locost7.info/phors21.htm
+| title = The Physics of Racing, Part 21: The Magic Formula: Longitudinal Version
+| author = Brian Beckman
+| year = 2001
+| access-date = 2011-03-26
+| archive-url = https://web.archive.org/web/20110226113608/http://phors.locost7.info/phors21.htm
+| archive-date = 2011-02-26
+| url-status = dead
+}}</ref>
+
+The Pacejka tire models are widely used in professional vehicle dynamics simulations, and racing car games, as they are reasonably accurate, easy to program, and solve quickly. A problem with Pacejka's model is that when implemented into computer code, it doesn't work for low speeds (from around the pit-entry speed), because a velocity term in the denominator makes the formula diverge.<ref>Beckman, Brian (2007) [http://channel9.msdn.com/Blogs/Charles/Brian-Beckman-The-Physics-in-Games-Real-Time-Simulation-Explained ''Brian Beckman: The Physics in Games - Real-Time Simulation Explained''], at ''channel9.msdn.com'', Jun 08, 2007, [http://mschnlnine.vo.llnwd.net/d1/ch9/4/7/8/4/1/3/Beckman_GamePhysics.wmv min. 29:53-33:45] {{Webarchive|url=https://web.archive.org/web/20120324222403/http://mschnlnine.vo.llnwd.net/d1/ch9/4/7/8/4/1/3/Beckman_GamePhysics.wmv |date=2012-03-24 }} quotation:</ref> An alternative to Pacejka tire models are brush tire models, which can be analytically derived, although empirical curve fitting is still required for good correlation, and they tend to be less accurate than the MF models.<ref>Jacob Svendenius, Björn Wittenmark (2003) [http://www.nt.ntnu.no/users/skoge/prost/proceedings/ecc03/pdfs/317.pdf ''Brush Tire Model with increased Flexibility''], In ''European Control Conference'', September 2003.</ref>
+
+Solving a model based on the Magic curve with high frequency can also be a problem, determined by how the input of the Pacejka curve is computed. The slipping velocity (difference between the velocity of the car and the velocity of the tire in the contact point) will change very quickly and the model becomes a [[Stiff equation|stiff system]] (a system whose [[eigenvalues]] differ a lot), which may require a special solver.
+
+The general form of the Magic Formula, given by Pacejka, is:<ref>{{Cite book|title=Tire and vehicle dynamics|last=Pacejka|first=H. B.|date=2012|publisher=Butterworth-Heinemann|others=Besselink, Igo|isbn=978-0-08-097016-5|edition=3rd|location=Oxford|pages=165|oclc=785829133}}</ref>
+
+:<math>y = D \cdot \sin \left\{ C \cdot \arctan \left[ Bx - E \cdot (Bx-\arctan\left(Bx)\right)\right]\right\} \,</math>
+
+where ''B'', ''C'', ''D'' and ''E'' represent fitting constants and ''y'' is a force or moment resulting from a slip parameter ''x''. The formula may be translated away from the origin of the ''x''–''y'' axes. The Magic Model became the basis for many variants.<ref name=":0">{{Cite web|url=http://viewer.zmags.com/publication/b0fed879#/b0fed879/58|title=The Magic Man|last=Walter|first=Joe|date=July 2009|website=Tire Technology International July 2009|page=56|language=en|access-date=2020-01-25}}</ref>
+
+== Professional activities ==
+Pacejka was a co-founder in 1972 and editor-in-chief of ''Vehicle System Dynamics–International Journal of Vehicle Mechanics and Mobility'' until 1989. At the time of the founding of the journal, Pacejka had been an associate professor at Delft University, specializing in vehicle dynamics. His 1966 doctoral thesis addressed the "wheel shimmy problem".<ref>{{Cite journal|last=Plasterk|first=Klaus J.|date=1989-01-01|title=The End of the First Era: A Farewell to Hans Pacejka as Editor-in Chief|journal=Vehicle System Dynamics|volume=18|issue=6|pages=381–382|doi=10.1080/00423118908968929|issn=0042-3114}}</ref> He published approximately 90 academic papers and was advisor to 15 PhD and 170 M.Sc. graduate students.<ref name=":0" />
+
+==See also==
+*[[Vehicle dynamics#Further reading|Important publications in vehicle dynamics]]
+*[[Bicycle and motorcycle dynamics]]
+
+==Bibliography==
+*Pacejka, H. B., ''[https://web.archive.org/web/20090303113917/http://md1.csa.com/partners/viewrecord.php?requester=gs&collection=TRD&recid=N7325515AH&q=%22The+wheel+shimmy+phenomenom%22&uid=789853885&setcookie=yes The wheel shimmy phenomenom: A theoretical and experimental investigation with particular reference to the nonlinear problem (Analysis of shimmy in pneumatic tires due to lateral flexibility for stationary and nonstationary conditions)]'', Ph.D. Thesis, Delft University of Technology, Delft, 1966.
+*Bakker, E.; Nyborg, L.; Hans B. Pacejka ''[http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=6514971 Tyre modelling for use in vehicle dynamics studies]'' 1987 Jan. Society of Automotive Engineers, Warrendale, PA.
+*{{Cite journal|last1=Zegelaar|first1=P.W.A.|last2=Pacejka|first2=H.B.|date=January 1996|title=The In-Plane Dynamics of Tyres on Uneven Roads|journal=Vehicle System Dynamics|language=en|volume=25|issue=sup1|pages=714–730|doi=10.1080/00423119608969231|issn=0042-3114}}
+*Pacejka, H. B. ''[https://www.elsevier.com/books/tire-and-vehicle-dynamics/pacejka/978-0-08-097016-5 Tire and Vehicle Dynamics]'', Butterworth-Heinemann, Oxford, 2002.
+
+==References==
+
+{{reflist}}
+
+==External links==
+*[https://scholar.google.com/scholar?as_q=&num=10&btnG=Ricerca+Google+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Hans+Pacejka%22&as_publication=&as_ylo=&as_yhi=&hl=en&lr=&safe=active Pacejka's works]
+
+{{Tires|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pacejka, Hans B.}}
+[[Category:Automotive engineers]]
+[[Category:Academic staff of the Delft University of Technology]]
+[[Category:Tire industry people]]
+[[Category:1934 births]]
+[[Category:2017 deaths]]

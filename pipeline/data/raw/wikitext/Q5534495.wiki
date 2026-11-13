@@ -1,0 +1,73 @@
+{{Short description|British computer scientist and physicist}}
+{{Use mdy dates|date=February 2012}}
+{{Infobox scientist
+| birth_name        = Geoffrey C. Fox
+| name              = Geoffrey Fox
+| image             = Geoffrey C Fox.JPG
+| image_size        = 200px
+| caption           = Geoffrey Fox at Indiana in 2004
+| birth_date        = {{birth date and age|1944|6|7}}
+| birth_place       = [[Dunfermline, Scotland]]
+| field             = [[Computer science]], [[physics]]
+| workplaces        = [[California Institute of Technology]], [[Syracuse University]], [[Florida State University]], [[Indiana University]], [[University of Virginia]]
+| thesis_title      = Scattering of Particles with Spin And Electromagnetic Interactions<ref>{{cite web |url=https://www.mathgenealogy.org/id.php?id=145026 |website=mathgeneology.org |publisher=Mathematics Genealogy Project |access-date=19 March 2024
+| title=Geoffrey Charles Fox}}</ref>
+| thesis_year       = 1967
+| doctoral_advisor  = [[Richard J. Eden]]
+| academic_advisors = [[Richard Feynman]]<ref>{{cite book |last1=C Fox |first1=Geoffrey |last2=Feynman |first2=Richard |title=Feynman and Computation |chapter=Internetics: Technologies, Applications and Academic Fields |date=2018 |pages=241–256 |doi=10.1201/9780429500459-16 |isbn=9780429500459 |chapter-url=https://www.taylorfrancis.com/chapters/edit/10.1201/9780429500459-16/internetics-technologies-applications-academic-fields-geoffrey-fox-richard-feynman}}</ref>
+| education         = [[Cambridge University]]
+| known_for         = [[Cyberinfrastructure]], [[E-Science]], [[High Performance Computing]], [[Matrix Multiplication]]
+| awards            = [[ACM Fellow]]<br />Fellow of the [[American Physical Society]]<br />[[Mayhew Prize]] <small>(1964)</small>
+}}
+
+'''Geoffrey Charles Fox''' (born 7 June 1944) is a British-born American theoretical physicist and computer scientist known for his contributions to [[parallel computing]], [[data-intensive computing]], and [[high-performance computing]]  (HPC).<ref>{{Cite web |title=Geoffrey C. Fox Named Recipient of 2019 ACM-IEEE CS Ken Kennedy Award |url=https://www.hpcwire.com/off-the-wire/geoffrey-c-fox-named-recipient-of-2019-acm-ieee-cs-ken-kennedy-award/ |access-date=2024-12-19 |website=HPCwire |language=en-US}}</ref>
+
+He is a professor at the Computer Science Biocomplexity Institute at the [[University of Virginia]] and also served<ref>{{Cite web |title=Geoffrey C. Fox {{!}} University of Virginia School of Engineering and Applied Science |url=https://engineering.virginia.edu/faculty/geoffrey-c-fox |access-date=2024-03-19 |website=engineering.virginia.edu |language=en}}</ref> as the Director of the Digital Science Center.<ref>{{Cite web |title=NSF awards IU $4 million to advance medical nanotechnology |url=https://news.iu.edu/live/news/24167-nsf-awards-iu-4-million-to-advance-medical |access-date=2024-12-19 |website=news.iu.edu |language=en}}</ref>
+
+He has authored over 1200 publications in physics and computer science, including his book ''Parallel Computing Works!''.<ref>{{cite book |last=Fox |first=Geoffrey |title=Parallel Computing Works! |publisher=Morgan Kaufmann |year=1994 |isbn=1-55860-253-4}}</ref> He was awarded [[Ken Kennedy Award]] in 2019 by [[Association for Computing Machinery]] and the [[IEEE Computer Society]].<ref>{{cite web |title=Geoffrey C. Fox is the recipient of the 2019 ACM-IEEE CS Ken Kennedy Award |url=https://www.acm.org/articles/bulletins/2019/october/ken-kennedy-award-2019 |website=www.acm.org |language=en}}</ref>
+
+== Biography ==
+He was born in Scotland and demonstrated early aptitude in [[mathematics]] and [[science]].<ref>{{Cite web |title=Geoffrey C. Fox |url=https://luddy.indiana.edu/contact/profile/?profile_id=203 |access-date=2024-12-19 |website=Luddy School of Informatics, Computing, and Engineering: Profile |language=en-US}}</ref>
+
+Fox was educated at the [[Leys School]] and [[Trinity College, Cambridge]]. In 1964, he was the [[Senior Wrangler]] at Cambridge, the highest scorer in the mathematics tripos.<ref>'Cambridge Tripos Examination Results', ''Times'', 20 June 1964, p. 5.</ref> That same year, he played in the [[Oxford University Chess Club#Varsity match|annual chess match]] against Oxford University<ref>{{Cite web |title=BritBase Chess: 82nd Varsity Match, Oxford v Cambridge, 1964 |url=https://www.saund.co.uk/britbase/pgn/196403vars-viewer.html |access-date=2024-03-19 |website=www.saund.co.uk}}</ref> and received the [[Mayhew Prize]] for Applied Mathematics.<ref name=":0">{{Cite web |title=World-Renowned Computational Scientist Geoffrey Fox Joins UVA Faculty {{!}} University of Virginia School of Engineering and Applied Science |url=https://engineering.virginia.edu/news-events/news/world-renowned-computational-scientist-geoffrey-fox-joins-uva-faculty |access-date=2024-12-19 |website=engineering.virginia.edu}}</ref> He earned a [[Ph.D.]] in [[theoretical physics]] from [[Cambridge University]] in 1967.<ref name="Geoffrey C. Fox">{{Cite web |date=2022-06-25 |title=Geoffrey C. Fox |url=https://engineering.virginia.edu/faculty/geoffrey-c-fox |access-date=2022-11-18 |website=University of Virginia School of Engineering and Applied Science |language=en}}</ref> As an undergraduate research student, he worked in the laboratory of [[Francis Crick]], co-discoverer of the [[DNA double helix]].<ref name=":0" />
+
+=== Academic career ===
+Fox's academic career began at [[Caltech]],<ref>{{cite magazine |url=http://calteches.library.caltech.edu/3419/1/Cubism.pdf |title=Cosmic Cubism |magazine=Engineering & Science |date=March 1984 |publisher=[[California Institute of Technology]]}}</ref> where he worked from 1970 to 1990. He then joined [[Syracuse University]] from 1990 to 2000<ref>{{Cite web | url=https://surface.syr.edu/npac/ |title = Northeast Parallel Architectures Center}}</ref> and [[Florida State University]] from 2000 to 2001.<ref>{{cite web |url=https://www.researchgate.net/profile/Geoffrey_Fox |title=Profile: Geoffrey Charles Fox |website=[[ResearchGate]]}}</ref> In July 2001, Fox became a professor at [[Indiana University]]., where he served as the director of the Digital Science Center and [[Associate Dean|associate dean]] for research and graduate studies at the School of Informatics and Computing. As of March 2024, he holds the position of professor at the University of Virginia's Computer Science Biocomplexity Institute.
+
+In 1989, Fox was elected a [[Fellow of the American Physical Society]] for contributions to the use of computers in particle physics.<ref>{{cite web |title=APS Fellows Archive |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=1989&unit_id=&institution= |accessdate=3 October 2020 |publisher=APS}}</ref> He is also a [[Fellow of the Association for Computing Machinery]] for contributions to parallel computing.<ref>{{Cite web |title=ACM Fellows |url=https://awards.acm.org/xpages/fellows/award-recipients |access-date=2024-03-19 |website=awards.acm.org |language=en}}</ref><ref>{{Cite web |title=Geoffrey Fox - Home |url=https://dl.acm.org/profile/81100501616 |access-date=2025-01-14 |website=Author DO Series |language=en}}</ref>
+
+Fox received the High-Performance Parallel and Distributed Computing (HPDC) Achievement Award<ref>{{Cite web |date=2019 |title=HPDC 2019 Achievement Award |url=https://www.hpdc.org/2019/awards/achievement-award/ |access-date=19 March 2024 |website=HPDC.org}}</ref>
+
+=== Research ===
+Fox was the director of FutureSystems, a [[cyberinfrastructure]] project active until December, 2021.<ref>{{cite web |title=FutureSystems Staff |url=https://portal.futuresystems.org/staff.html}}</ref> He is involved in projects aimed at enhancing the capabilities of minority serving institutions. His research interests include applications of computer science in bioinformatics, defense, earthquake and ice-sheet science, particle physics, and chemical informatics. He focuses on network systems science, [[high-performance computing]] and clouds, AI for science, deep learning for data analytics and simulation surrogates, and the interface of data engineering and data science with data systems.<ref name="Geoffrey C. Fox"/>
+
+== Selected bibliography ==
+===Books===
+* {{Cite book |url=https://dl.acm.org/doi/proceedings/10.1145/62297 |title=Proceedings of the third conference on Hypercube concurrent computers and applications Architecture, software, computer systems, and general issues - |date=1988 |volume=1 |publisher=ACM Press |isbn=0-89791-278-0 |editor-last=Fox |editor-first=Geoffrey |location=New York, New York, USA |language=en |doi=10.1145/62297}}
+*{{Cite book |url=https://www.researchgate.net/publication/272487856 |title=Solving problems on concurrent processors. 1: General techniques and regular problems / Geoffrey C. Fox |date=1988 |publisher=Prentice-Hall |isbn=978-0-13-823022-7 |editor-last=Fox |editor-first=Geoffrey C. |location=Englewood Cliffs, NJ}}
+* {{Cite book |url=https://dl.acm.org/doi/abs/10.5555/83774 |title=Solving problems on concurrent processors |date=1988 |publisher=Prentice Hall |isbn=978-0-13-823022-7 |editor-last=Fox |editor-first=Geoffrey C. |location=Englewood Cliffs, N.J |editor-last2=Angus |editor-first2=Ian G.}}
+* {{Citation |last1=Fox |first1=Geoffrey C. |chapter=Parallel Computing in Industry |date=1994 |title=Parallel Computing Works! |pages=787–793 |chapter-url=https://doi.org/10.1016/b978-0-08-051351-5.50023-3 |access-date=2025-01-06 |publisher=Elsevier |isbn=978-0-08-051351-5 |last2=Williams |first2=Roy D. |last3=Messina |first3=Paul C.|doi=10.1016/b978-0-08-051351-5.50023-3 |chapter-url-access=subscription }}
+*{{Cite book |title=Sourcebook of parallel computing |date=2009 |publisher=Morgan Kaufmann |isbn=978-1-55860-871-9 |editor-last=Dongarra |editor-first=Jack |edition=Nachdr. |location=San Francisco, Calif.}}
+* {{Cite book |url=https://www.wiley.com/en-us/Grid+Computing%3A+Making+the+Global+Infrastructure+a+Reality-p-9780470853191 |title=Grid computing: making the global infrastructure a reality |date=2005 |publisher=Wiley |isbn=978-0-470-85319-1 |editor-last=Berman |editor-first=Francine |edition=Repr |series=Wiley series in communications networking & distributed systems |location=Chichester Weinheim |editor-last2=Fox |editor-first2=Geoffrey |editor-last3=Hey |editor-first3=Anthony J. G. |editor-last4=Berman |editor-first4=Francine}}
+* {{Cite book |last1=Hwang |first1=Kai |title=Distributed and cloud computing: from parallel processing to the Internet of things |last2=Fox |first2=Geoffrey C. |last3=Dongarra |first3=J. J. |date=2012 |publisher=Morgan Kaufmann |isbn=978-0-12-385880-1 |location=Amsterdam; Boston}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fox, Geoffrey}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:People from Dunfermline]]
+[[Category:Free software programmers]]
+[[Category:Indiana University faculty]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:American computer science educators]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Syracuse University faculty]]
+[[Category:Florida State University faculty]]
+[[Category:California Institute of Technology faculty]]
+
+{{UK-scientist-stub}}

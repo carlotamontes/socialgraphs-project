@@ -1,0 +1,343 @@
+{{BLP primary sources|date=March 2014}}
+{{Use mdy dates|date=February 2025}}
+{{Infobox scientist
+| name              = John Wikswo
+| image             = 
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date and age|1949|10|6|mf=y}}
+| birth_place       = [[Lynchburg, Virginia]], [[United States]]
+| death_date        = 
+| death_place       = 
+| residence         = 
+| field             = [[Biological Physics]]
+| workplaces        = [[Vanderbilt University]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = 
+| footnotes         = 
+}}
+'''John Peter Wikswo, Jr.''' (born October 6, 1949) is a biological physicist at [[Vanderbilt University]].  He was born in [[Lynchburg, Virginia]], [[United States]].
+
+Wikswo is noted for his work on [[biomagnetism]] and [[cardiac electrophysiology]].
+
+==Graduate school==
+
+In the 1970s, Wikswo was a graduate student at [[Stanford University]], where he worked under physicist [[William M. Fairbank]], studying [[magnetocardiography]].
+
+==Biomagnetism==
+
+In 1977 he became an assistant professor in the Department of Physics and Astronomy at [[Vanderbilt University]], where he set up a laboratory to study living state physics. In 1980, he made the first measurement of the magnetic field of an isolated nerve, by threading the a frog sciatic nerve through a wire-wound, ferrite-core toroid and detecting the induced current using a [[SQUID]] [[magnetometer]].
+<ref name=Science1980>{{cite journal
+ | doi = 10.1126/science.7361105
+ | author1=Wikswo JP Jr |author2=Barach JP |author3=Freeman JA | year = 1980
+ | title =  Magnetic field of a nerve impulse: First measurements.
+ | journal = Science
+ | volume = 208
+ | pages = 53–55
+ | pmid = 7361105
+ | issue = 4439
+ | bibcode = 1980Sci...208...53W }}</ref>   
+At the same time, Wikswo and Ken Swinney calculated the magnetic field of a nerve axon. 
+<ref name=BiophysJ1990>{{cite journal
+ | doi = 10.1016/S0006-3495(80)85012-0
+ | vauthors=Swinney KR, ((Wikswo JP Jr)) | year = 1980
+ | title =  A calculation of the magnetic field of a nerve action potential.
+ | journal = Biophysical Journal
+ | volume = 32
+ | issue = 2
+ | pages = 719–732
+ | bibcode = 1980BpJ....32..719S
+ | pmid=7260298
+ | pmc=1327234}}</ref>
+This work was followed a few years later by the first detailed comparison of the measured and calculated magnetic field produced by a single nerve axon.
+<ref name=BiophysJ1985>{{cite journal
+ | vauthors=Roth BJ, ((Wikswo JP Jr)) | year = 1985
+ | title =  The magnetic field of a single axon: A comparison of theory and experiment.
+ | journal = Biophysical Journal
+ | volume = 48
+ | pages = 93–109
+ | pmid = 4016213
+ | issue = 1
+ | pmc = 1329380
+ | doi = 10.1016/S0006-3495(85)83763-2
+ | bibcode = 1985BpJ....48...93R }}</ref>
+
+In a related line of study, Wikswo collaborated with Vanderbilt Professor John Barach to analyze the information content of biomagnetic versus bioelectric signals.
+<ref name=JTheorBiol1982>{{cite journal
+ | doi = 10.1016/0022-5193(82)90350-2
+ | author1=Wikswo JP Jr |author2=Barach JP | year = 1982
+ | title =  Possible sources of new information in the magnetocardiogram.
+ | journal = Journal of Theoretical Biology
+ | volume = 95
+ | pages = 721–729
+ | pmid = 7109652
+ | issue = 4
+ | bibcode=1982JThBi..95..721W }}</ref>
+<ref name=BiophysJ1986>{{cite journal
+ | vauthors=Roth BJ, ((Wikswo JP Jr)) | year = 1986
+ | title =  Electrically-silent magnetic fields.
+ | journal = Biophysical Journal
+ | volume = 50
+ | pages = 739–745
+ | pmid = 3779008
+ | issue = 4
+ | pmc = 1329851
+ | doi = 10.1016/S0006-3495(86)83513-5
+ | bibcode = 1986BpJ....50..739R }}</ref>
+<ref name=MathBiosci1988>{{cite journal
+ | doi = 10.1016/0025-5564(88)90042-9
+ | vauthors=Roth BJ, Guo WQ, ((Wikswo JP Jr)) | year = 1988
+ | title =  The effects of spiral anisotropy on the electric potential and the magnetic field at the apex of the heart.
+ | journal = Mathematical Biosciences
+ | volume = 88
+ | issue = 2
+ | pages = 191–221
+ }}</ref>
+
+==Cardiac electrophysiology==
+
+One of Wikswo's most important contributions to science is his work in cardiac electrophysiology. In 1987 he began collaborating with doctors at the Vanderbilt Medical School, including Dan Roden, to study electrical propagation in the dog heart.
+<ref name=Circ1987>{{cite journal
+ | author = Bajaj AK, Kopelman HA, ((Wikswo JP Jr)), Cassidy F, [[Raymond L. Woosley, M.D., Ph.D.|Woosley RL]], Roden DM
+ | year = 1987
+ | title =  Frequency- and orientation-dependent effects of mexiletine and quinidine on conduction in the intact dog heart.
+ | journal = Circulation
+ | volume = 75
+ | pages = 1065–1073
+ | pmid = 2436827
+ | issue = 5
+ | doi=10.1161/01.cir.75.5.1065
+ | doi-access = free
+ }}</ref>
+These studies led to the discovery of the virtual cathode effect in cardiac tissue: during electrical stimulation, the action potential wave front originated farther from the electrode in the direction perpendicular to the myocardial fibers than in the direction parallel to them.
+<ref name=CircRes1991>{{cite journal
+ | author1=Wikswo JP Jr |author2=Altemeier W |author3=Balser JR |author4=Kopelman HA |author5=Wisialowski T |author6=Roden DM | year = 1991
+ | title =  Virtual cathode effects during stimulation of cardiac muscle: Two-dimensional in vivo measurements.
+ | journal = Circulation Research
+ | volume = 68
+ | pages = 513–530
+ | pmid = 1991354
+ | issue = 2
+ | doi=10.1161/01.res.68.2.513
+ | doi-access=free
+ }}</ref>
+
+In parallel with these experimental studies, Wikswo analyzed the virtual cathode effect theoretically using the [[bidomain]] model, a mathematical model of the electrical properties of cardiac tissue that takes into account the anisotropic properties of both the intracellular and extracellular spaces. He first used the bidomain model to interpret biomagnetic measurements from strands of cardiac tissue.
+<ref name=IEEETBME1986>{{cite journal
+ | vauthors=Roth BJ, ((Wikswo JP Jr)) | year = 1986
+ | title =  A bi-domain model for the extracellular potential and magnetic field of cardiac tissue.
+ | journal = IEEE Transactions on Biomedical Engineering
+ | volume = 33
+ | pages = 467–469
+ | pmid = 3957401
+ | issue = 4
+ | doi = 10.1109/TBME.1986.325804
+ | bibcode = 1986ITBE...33..467R
+ | s2cid = 30462160
+ }}</ref>
+Wikswo realized that the property of unequal anisotropy ratios in cardiac tissue (the ratio of electrical conductivity in the directions parallel and perpendicular to the myocardial fibers is different in the intracellular and extracellular spaces) has important implications for the magnetic field associated with a propagating action potential wave front in the heart. With Nestor Sepulveda, Wikswo use the [[finite element method]] to calculate the distinctive fourfold symmetric magnetic field pattern produced by an outwardly propagating wave front.
+<ref name=BiophysJ1987>{{cite journal
+ | vauthors=Sepulveda NG, ((Wikswo JP Jr)) | year = 1987
+ | title =  Electric and magnetic fields from two-dimensional anisotropic bisyncytia.
+ | journal = Biophysical Journal
+ | volume = 51
+ | pages = 557–568
+ | pmid = 3580484
+ | issue = 4
+ | pmc = 1329928
+ | doi = 10.1016/S0006-3495(87)83381-7
+ | bibcode = 1987BpJ....51..557S }}</ref>
+
+Unequal anisotropy ratios has even an even greater impact during electrical stimulation of the heart. Again using the finite element model, Wikswo, Roth and Sepulveda predicted the [[transmembrane potential]] distribution around a unipolar electrode passing current into a passive, two-dimensional sheet of cardiac tissue.
+<ref name=BiophysJ1989>{{cite journal
+ | vauthors=Sepulveda NG, Roth BJ, ((Wikswo JP Jr)) | year = 1989
+ | title =  Current injection into a two-dimensional anisotropic bidomain.
+ | journal = Biophysical Journal
+ | volume = 55
+ | pages = 987–999
+ | pmid = 2720084
+ | issue = 5
+ | pmc = 1330535
+ | doi = 10.1016/S0006-3495(89)82897-8
+ | bibcode = 1989BpJ....55..987S }}</ref>
+They found that the region of [[depolarization]] under a [[cathode]] extends farther in the direction perpendicular to the fibers than parallel to the fibers, a shape that Wikswo named the dog-bone. This prediction immediately explained the virtual cathode effect found experimentally in the dog heart; they were observing the dog-bone shaped virtual cathode. Later simulations using an active, time-dependent bidomain model confirmed this conclusion.
+<ref name=IEEETBME1994>{{cite journal
+ | doi = 10.1109/10.284941
+ | vauthors=Roth BJ, ((Wikswo JP Jr)) | year = 1994
+ | title =  Electrical stimulation of cardiac tissue: A bidomain model with active membrane properties.
+ | journal = IEEE Transactions on Biomedical Engineering
+ | volume = 41
+ | pages = 232–240
+ | pmid = 8045575
+ | issue = 3
+ | bibcode=1994ITBE...41..232R |s2cid=12706791 }}</ref>
+
+The calculation of the transmembrane potential by a unipolar electrode resulted in another prediction: regions of hyperpolarization adjacent to the cathode in the direction parallel to the myocardial fibers. Reversal of the stimulus polarization provided a mechanism for anodal stimulation of cardiac tissue. In order to test this prediction experimentally, Wikswo mastered the technique of optical mapping using [[voltage sensitive dyes]], allowing the measurement of transmembrane potential using optical methods. With Marc Lin, Wikswo made high resolution measurements of excitation following stimulation through a unipolar electrode in a rabbit heart, and confirmed four mechanisms of electrical stimulation—cathode make, cathode break, anode make, and anode break—that had been predicted by bidomain calculations.
+<ref name=BiophysJ1995>{{cite journal
+ | author1=Wikswo JP Jr |author2=Lin S-F |author3=Abbas RA | year = 1995
+ | title =  Virtual electrodes in cardiac tissue: A common mechanism for anodal and cathodal stimulation.
+ | journal = Biophysical Journal
+ | volume = 69
+ | pages = 2195–2210
+ | pmid = 8599628
+ | issue = 6
+ | pmc = 1236459
+ | doi = 10.1016/S0006-3495(95)80115-3
+ | bibcode = 1995BpJ....69.2195W }}</ref>
+(Cathode and anode refer to the polarity of the stimulus, and make and break indicate if the excitation occurred following the start or end of the stimulus pulse.) Later experiments using this technique led to the prediction of a new type of [[cardiac arrhythmia]], which Wikswo named [[quatrefoil reentry]]. 
+<ref name=JCE1999>{{cite journal
+ | doi = 10.1111/j.1540-8167.1999.tb00715.x
+ | vauthors=Lin SF, Roth BJ, ((Wikswo JP Jr)) | year = 1999
+ | title =  Quatrefoil reentry in myocardium: An optical imaging study of the induction mechanism.
+ | journal = Journal of Cardiovascular Electrophysiology
+ | volume = 10
+ | pages = 574–586
+ | pmid = 10355700
+ | issue = 4
+ | s2cid=8440276 }}</ref>
+
+==SQUID magnetometers==
+
+In the 1990s, Wikswo began developing high spatial resolution SQUID magnetometers for mapping the magnetic field, to use in both biomagnetic studies and in non-destructive testing.
+<ref name=IEEETMag1991>{{cite journal
+ | doi = 10.1109/20.133901
+ | vauthors=Staton DJ, Ma YP, Sepulveda NG, Wikswo JP | year = 1991
+ | title =  High-resolution magnetic mapping using a SQUID magnetometer array.
+ | journal = IEEE Transactions on Magnetics
+ | volume = 27
+ | issue = 2
+ | pages = 3237–3240
+ | bibcode = 1991ITM....27.3237S }}</ref>
+<ref name=IEEETAS1995>{{cite journal
+ | doi = 10.1109/77.402511
+ | author = Wikswo JP Jr
+ | year = 1995
+ | title =  SQUID magnetometers for biomagnetism and non-destructive testing: Important questions and initial answers.
+ | journal = IEEE Transactions on Applied Superconductivity
+ | volume = 5
+ | issue = 2
+ | pages = 74–120
+ | bibcode = 1995ITAS....5...74W
+ | s2cid = 13145015
+ }}</ref>
+<ref name=JPhysicsD1997>{{cite journal
+ | doi = 10.1088/0022-3727/30/3/002
+ | vauthors=Jenks WG, Sadeghi SS, ((Wikswo JP Jr)) | year = 1997
+ | title =  SQUIDs for non-destructive evaluation.
+ | journal = Journal of Physics D: Applied Physics
+ | volume = 30
+ | issue = 3
+ | pages = 293–323
+ | bibcode = 1997JPhD...30..293J |s2cid=250886288 }}</ref>
+As is characteristic of Wikswo's work, he simultaneously developed theoretical methods to image a two-dimensional current density distribution from magnetic field measurements.
+<ref name=JAP1989>{{cite journal
+ | doi = 10.1063/1.342549
+ | vauthors=Roth BJ, Sepulveda NG, ((Wikswo JP Jr)) | year = 1989
+ | title =  Using a magnetometer to image a two-dimensional current distribution.
+ | journal = Journal of Applied Physics
+ | volume = 65
+ | issue = 1
+ | pages = 361–372
+ | bibcode = 1989JAP....65..361R }}</ref>
+
+==VIIBRE==
+
+In the first two decades of the 21st century, Wikswo's research has emphasized the development and application of micro- and nano-scale devices for instrumenting and controlling single cells.
+<ref name=LabOnAChip2005>{{cite journal
+ | vauthors=Walker GM, Sai JG, Richmond A, Chung CY, Stremler MA, Wikswo JP | year = 2005
+ | title =  Effects of flow and diffusion on chemotaxis studies in a microfabricated gradient generator.
+ | journal = Lab on a Chip
+ | volume = 5
+ | pages = 611–618
+ | pmid = 15915253
+ | issue = 6
+ | doi = 10.1039/b417245k
+ | pmc = 2665276
+ }}</ref>
+In 2001 he founded the Vanderbilt Institute for Integrative Biosystems Research and Education (VIIBRE) to foster and enhance interdisciplinary research in the biophysical sciences and bioengineering at Vanderbilt. Wikswo refocused his research on [[systems biology]], building microfabricated devices for measuring cellular properties and developing mathematical models of cellular signaling. He has designed [[organ-on-a-chip]] devices containing small populations of cells to fill the gaps between cell cultures and animals models, for use in [[pharmacology]] and [[toxicology]]. This work led to a second R&D 100 Award for the MultiWell MicroFormulator, which delivers and removes cell culture media to each of the 96 wells of a [[microwell plate]] for toxicology research.
+
+==Other positions==
+He also serves on the scientific advisory boards of Hypres Inc. and CardioMag Imaging Inc.<ref>[http://investing.businessweek.com/research/stocks/private/person.asp?personId=20855759&privcapId=4181794&previousCapId=795881&previousTitle=Indaver%20NV "Executive Profile: John P. Wikswo Ph.D."]{{dead link|date=April 2023|bot=medic}}{{cbignore|bot=medic}}, Bloomberg Businessweek, accessed January 21, 2014.</ref>
+
+==Brief curriculum vitae==
+
+* 1970 B.A., Physics, [[University of Virginia]]
+* 1973 M.S., Physics, [[Stanford University]]
+* 1975 Ph.D., Physics, [[Stanford University]]
+* 1975-1977 Research Fellow in Cardiology, [[Stanford University School of Medicine]]
+* 1977-1982 Assistant Professor of Physics, [[Vanderbilt University]]
+* 1982-1988 Associate Professor of Physics, [[Vanderbilt University]]
+* 1988–present Professor of Physics, [[Vanderbilt University]]
+* 2001–present Gordon A. Cain University Professor, [[Vanderbilt University]]
+* 2001–present Professor of Biomedical Engineering, [[Vanderbilt University]]
+* 2001–present  Professor of Molecular Physiology and [[Biophysics]], [[Vanderbilt University]]
+* 2001–present Director, Vanderbilt Institute for Integrative Biosystems Research and Education
+* 2005–present A.B. Learned Professor in Living State Physics, [[Vanderbilt University]]
+
+===Awards===
+
+{| class="wikitable"
+|-
+! Year
+! Award
+|-
+|1980–1982
+| Alfred P. Sloan Research Fellow
+|-
+| 1984
+| IR-100 Award for Neuromagnetic Current Probe
+|-
+| 1989
+| Fellow, [[American Physical Society]]
+|-
+| 1999
+| Fellow, [[American Institute for Medical and Biological Engineering]]
+|- 
+| 2001
+| Fellow, [[American Heart Association]]
+|-
+| 2005
+| Fellow, [[Biomedical Engineering Society]]
+|-
+| 2006
+| Fellow, [[Heart Rhythm Society]]
+|-
+| 2008
+| Fellow, [[IEEE]]
+|-
+| 2017
+| R&D 100 Award for the MultiWell MicroFormulator
+|}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+{{Refbegin}}
+*{{cite news|last=Bluestein|first=Adam|title=From Organs to Whole Humans|url=http://protomag.com/assets/from-organs-to-whole-humans|access-date=March 14, 2014|newspaper=proto|date=Summer 2013|url-status=dead|archive-url=https://archive.today/20140314164847/http://protomag.com/assets/from-organs-to-whole-humans|archive-date=March 14, 2014}}
+*{{cite news|last=Gorman|first=Jessica|title=SQUID can catch concealed corrosion|url=https://www.sciencenews.org/article/squid-can-catch-concealed-corrosion?mode=magazine&context=4547|access-date=March 14, 2014|newspaper=ScienceNews|date=March 13, 2013}} 
+*{{cite news|last=Grohol|first=John M.|title=Development of portable infectious disease detector|url=http://psychcentral.com/news/archives/2005-01/vu-dop011005.html|access-date=March 14, 2014|newspaper=Psych Central|date=October 1, 2005|url-status=dead|archive-url=https://web.archive.org/web/20150910001740/http://psychcentral.com/news/archives/2005-01/vu-dop011005.html|archive-date=September 10, 2015}} 
+*{{cite news|last1=Schewe|first1=Phillip F.|first2=Benjamin P. |last2=Stein |title=Squid Detectives Could Save US Billions|url=http://www.aps.org/publications/apsnews/200105/squid.cfm|access-date=March 14, 2014|newspaper=APS News|date=May 2001}} 
+*{{cite news|last=Vanderbilt University|title=Little-studied Waves In The Heart May Be Cause Of Defibrillation Failure|url=https://www.sciencedaily.com/releases/2003/12/031209075035.htm|access-date=March 14, 2014|newspaper=ScienceDaily|date=December 9, 2003}} 
+*{{cite news|title=Little-studied Waves In The Heart May Be Cause Of Defibrillation Failure|url=https://engineering.vanderbilt.edu/news/2017/vanderbilt-researchers-win-an-rd100-award-for-multiwell-microformulator}} 
+{{Refend}}
+
+==External links==
+*[https://web.archive.org/web/20090812041316/http://www.vanderbilt.edu/viibre/index.html VIIBRE website]
+*[https://web.archive.org/web/20090430161739/http://www.vanderbilt.edu/viibre/wikswo-pubs.php List of Wikswo's publications]
+*[https://www.youtube.com/watch?v=4ht3m6p8iZ0 TEDx talk about Systems Biology]
+
+{{authority control}}
+
+{{DEFAULTSORT:Wikswo, John Peter}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Stanford University alumni]]
+[[Category:21st-century American physicists]]
+[[Category:Vanderbilt University faculty]]
+[[Category:University of Virginia alumni]]
+[[Category:Fellows of the American Physical Society]]

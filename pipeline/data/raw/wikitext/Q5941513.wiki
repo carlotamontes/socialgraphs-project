@@ -1,0 +1,97 @@
+{{Short description|Physicist (1939–2025)}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = <!-- defaults to article title when left blank -->
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth_date |1939|4|25}}
+| birth_place       = [[Ipswich]], England
+| death_date        = {{death date and age |2025|07|28|1939|4|25}}
+| death_place       = [[Rhode Island]]
+| death_cause       = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = 
+| workplaces        = Brown University
+| patrons           = 
+| education         = Imperial College London
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_type    = <!--(defaults to "Signature")-->
+| signature_alt     = 
+| website           = {{URL|https://vivo.brown.edu/display/hmaris}}
+| footnotes         = <ref name="Duke"/><ref name="Biography"/><ref name="obituary"/>
+}}
+'''Humphrey John Maris''' (April 25, 1939 – July 28, 2025) was an American-British physicist and a professor at [[Brown University]] from 1965 to 2014. He specialized in research on low-temperature physics and ultrafast ultrasonics.<ref name="Innovation"/> 
+
+He attended [[Imperial College London]] receiving a B.Sc. degree in 1960 and a Ph.D. in 1963.<ref name="Duke"/> He was a postdoctoral fellow at [[Case Western Reserve University|Case Institute of Technology]] from 1963 to 1965.<ref name="Duke"/> In 1965 he became a professor at Brown.<ref name="Brown"/> In 1991 he was made the George Chase Professor of Natural Science.<ref name="Brown"/> He led experiments into the nature of the [[quantum state]] of the [[electron]].<ref name="electron"/> His patent on a method of nondestructive evaluation of semiconductors is widely used.<ref name="Innovation"/> He retired in 2014.<ref name="Brown"/> He died of complications of Parkinson's Disease in 2025.<ref name="obituary"/>
+
+== Honors and awards ==
+Maris has received the following honors and awards.<ref name="Researcher"/><ref name="Brown"/>
+* UK Science Research Council Fellowship, 1972
+* Japanese Society for Promotion of Science Senior Fellowship, 1982
+* Senior Alexander Von Humboldt Award,1989
+* Japanese Society for Promotion of Science Senior Fellowship, 2003
+* Brown University Award for Technical Innovation and Commercialization, 2005
+* Prize for Phonon Physics, (Klemens award) 2007
+* Phillip J. Bray Award for Excellence in Teaching in the physical sciences, 2009
+* [[Fritz London Memorial Prize|Fritz London Memorial Award]] for Low Temperature Physics, 2011
+* Brown Technology Innovation Impact Award, 2023
+
+==References==
+{{Reflist|refs=
+<ref name="electron">{{cite web |last=Stacey |first=Kevin |date=2014-10-28 |title=Can the wave function of an electron be divided and trapped? |url=https://news.brown.edu/articles/2014/10/electron |website=News deom Brown |publisher=Brown University |access-date=19 August 2025}}</ref>
+<ref name="Brown">{{cite web |author=<!-- not stated --> |date=August 19, 2025 |title=Passages: Professor Humphrey Maris |url=https://physics.brown.edu/news/2025-08-19/maris-passages |website=Brown Physics |location= |publisher=Brown University |access-date=19 August 2025}}</ref>
+<ref name="Duke">{{cite web |author=<!-- not stated --> |date=2011 |title=The 2011 Fritz London Memorial Prize Winners |url=https://physics.duke.edu/sites/physics.duke.edu/files/documents/Maris2011.pdf |website=Duke Department of Physics |location= |publisher=Duke, Trinity College of Arts and Sciences |access-date=19 August 2025}}</ref>
+<ref name="obituary">{{cite web |author=<!-- not stated --> |date=Aug 18, 2025 |title=Humphrey Maris Obituary |url=https://www.legacy.com/us/obituaries/eastbayri/name/humphrey-maris-obituary?id=59223698 |website=EastBayRI |location= |publisher=Legacy |access-date=19 August 2025}}</ref>
+<ref name="Researcher">{{cite web |author=<!-- not stated --> |date= |title=Humphrey J Maris |url=https://vivo.brown.edu/display/hmaris#Background |website=Researchers@Brown |location= |publisher=Brown University |access-date=19 August 2025}}</ref>
+<ref name="Innovation">{{cite web |last=DeLaCámara |first=Valerie |date=May 11, 2023 |title=Professor Emeritus of Physics and Professor of Physics Humphrey J. Maris Receives Inaugural Brown Technology Innovation Impact Award |url=https://physics.brown.edu/news/2023-05-11/maris |website=Brown Physics |location= |publisher=Brown University |access-date=19 August 2025}}</ref>
+<ref name="Biography">{{cite book |last=Gale |first=Thomson |date=2004 |title=American Men and Women of Science |url= |location= |publisher= |page= |isbn= |access-date=}}</ref>
+}}
+
+{{Brown University|state=collapsed}}
+{{authority control}}
+
+{{DEFAULTSORT:Maris, Humphrey}}
+
+[[Category:Brown University faculty]]
+[[Category:20th-century English physicists]]
+[[Category:2025 deaths]]
+[[Category:1939 births]]
+[[Category:Scientists from Ipswich]]
+[[Category:21st-century English physicists]]
+[[Category:Alumni of Imperial College London]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+
+{{US-physicist-stub}}

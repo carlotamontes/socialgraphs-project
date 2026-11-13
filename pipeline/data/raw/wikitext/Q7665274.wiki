@@ -1,0 +1,59 @@
+[[File:SandorJKovacsMD.jpg|thumb|right|Sándor J. Kovács (2012 photo)]]
+'''Sándor J. Kovács''' (born August 17, 1947) is a Hungarian-American academic [[cardiology|cardiologist]] and cardiovascular physiologist, best known for his work on the physiological dynamics of the human heart.  He is a professor of medicine, physics, physiology, and biomedical engineering at [[Washington University in St. Louis]].
+
+==Early life and education==
+Born in [[Budapest]], [[Republic of Hungary (1946–1949)|Hungary]], Kovács, with his parents and sister, fled Hungary at the time of the [[Hungarian Revolution of 1956]].  The family was interned in Austrian refugee camps until 1959, when they were allowed to immigrate to [[Brooklyn]], New York.  As Kovács recalled in an interview,
+
+{{Blockquote|text=I remember there were no refrigerators, just iceboxes. And if you wanted chicken for dinner, you went to the market and brought home a live chicken, holding it by its feet.<ref name="wunews">Gwen Ericson, [http://news.wustl.edu/news/Pages/11681.aspx "Man of heart: Kovács uses nature's language, math, to solve the body's mysteries"], Washington University in St. Louis Newsroom, Apr. 30, 2008.</ref>}}
+
+Kovács graduated from [[Brooklyn Technical High School]] and earned a B.S. in engineering at [[Cornell University]] in 1969.  He then went to [[California Institute of Technology|Caltech]], where he initially studied theoretical and [[applied mechanics]], transferred to physics and worked with [[Kip S. Thorne]], receiving a Ph.D. in theoretical physics in 1977. The title of his thesis was "The Generation of [[Gravitational Waves]]".<ref name="cv">Washington University in St. Louis School of Medicine, [http://cardiology.wustl.edu/details.aspx?NavID=565 "Sandor J. Kovacs"]</ref> While at Caltech, he was influenced by many interactions with [[Richard Feynman]] and [[George Zweig]], when the latter was interested in the physics and physiology of human hearing.
+
+Determined to change from theoretical physics to medicine, Kovács entered an accelerated Ph.D. to M.D. program at the [[University of Miami]] that awarded him a medical degree after 22 months of concentrated study, in 1979.
+
+==Career==
+Kovács' subsequent career has been entirely at Washington University in St. Louis.  After an internship and residency at [[Barnes-Jewish Hospital|Barnes Hospital]], he became an instructor in medicine in 1985, served as director of the [[cardiac catheterization]] laboratory at the St Louis VA Medical Center (1985-1990) advancing through the ranks to professor of medicine, with also appointments in physiology, biomedical engineering, and physics, in 2007.<ref name="cv" />
+
+The Kovács research group is primarily a theory group which has pioneered conceptual frameworks for analyzing [[diastole]] by incorporating and kinematically modeling the suction pump role of the heart,  and the dynamics of the [[heart|four-chambered heart]] in the space of coordinates spanned by P (pressure), V (volume), and their time rates of change dP/dt and dV/dt. They then seek to validate the model predictions using human, [[in vivo]] physiologic measurements of pressures (high fidelity transducers) and flows ([[echocardiography]]) of masses and volumes of heart chambers (cardiac [[MRI]]).<ref>Gwen Ericson, [http://news.wustl.edu/news/Pages/7655.aspx "How do you measure a broken heart? Researchers find long-sought answer"], Washington University in St. Louis Newsroom, Sept. 14, 2006</ref>
+
+Among the results from this work is that the so-called [[third heart sound]], "S3", formerly taught to be pathological, is actually produced by all hearts, but is merely below the threshold of hearing of most physicians.<ref>Manson AL. Nudelman SP, Hagley MT, Hall AF, Kovács SJ, Jr.: Relationship of the third heart sound transmitral flow velocity deceleration. Circulation 1995;92:388-394.</ref><ref>Manson McGuire A, Hagley MT, Hall AF, Kovács SJ, Jr.:  Relationship of the fourth heart sound to atrial systolic transmitral flow decel.  Am. J.  Physiology (Modeling in Physiology) 1997:H1527-H1536.</ref>
+
+Additional advances include  the 'Parametrized Diastolic Filling (PDF) Formalism' wherein the early, mechanical suction-initiated rapid filling portion of diastole (the echocardiographic Doppler E-wave) is modeled kinematically in analogy to the recoil, from rest, of a damped simple harmonic oscillator. The linearity of the model allows solution of the [[inverse problem]] of diastole, using the digitized clinical Doppler E-wave contour as input, and obtaining unique values of the PDF parameters, that characterize load, viscosity/relaxation and chamber stiffness for each E-wave analyzed as output.<ref>Kovács SJ, Jr., Barzilai B, Perez J. Evaluation of diastolic function with Doppler echocardiography: the PDF formalism. Am. J. Physiol., 252, H178-H187, 1987.</ref> Investigators at the [[Karolinska Institutet]] have made free software available, called Echo E-waves at www.echoewaves.org <ref>Sundqvist MG, Salman K, Tornvall P, [[Martin_Ugander|Ugander M]]. Kinematic analysis of diastolic function using the freely available software Echo E-waves – feasibility and reproducibility. BMC Medical Imaging  (2016) 16:60.</ref> that facilitates rapid PDF formalism based assessment of [[diastolic function]]. Furthermore, the Echo E-waves program computes the load independent index of diastolic function (LIIDF).
+
+Among its many applications the PDF formalism led to solution of the long sought 'load-independent index of diastolic function' (LIIDF) problem,<ref>Shmuylovich L, Kovács SJ. A load-independent index of diastolic filling: model-based derivation with in-vivo validation in control and diastolic dysfunction subjects. J. Appl. Physiology, 2006;101: 92-101.</ref> and to the realization that left ventricular volume at [[diastasis (physiology)|diastasis]] is the in vivo equilibrium volume of the [[left ventricle]].
+<ref>Shmuylovich L, Chung CS, Kovács SJ. Point:Left ventricular volume during diastasis is the physiological in vivo equilibrium volume and is related to diastolic suction. J. . Appl. Physiology, 2010;109: 606-608.</ref> In addition, kinematic characterization of diastolic function has advanced understanding of form and function via the relationship of vortex formation and endocardial motion to achieve optimal volume pumping in diastole.<ref>Arvidsson PM, Kovács SJ, Töger J, Bergquist R, Heiberg E, Carlsson M, Arheden H. Vortex ring behavior provides the epigenetic blueprint for the human heart. Nature; Scientific Reports | 6:22021 | DOI: 10.1038/srep22021</ref> Additional insight into the physiology of diastole has been achieved by the recognition that hydraulic forces, generated by the  time varying cross sectional area difference between the left atrium and left ventricle, play a role in longitudinal volume accommodation by the  ventricle.<ref>Maksuti E, Carlsson M, Arheden H, Kovács SJ, Broomé M, and [[Martin_Ugander|Ugander M]]. Hydraulic forces contribute to left ventricular diastolic filling. Nature;Scientific Reports | 7:43505 | DOI: 10.1038/srep43505</ref>
+
+Kovács spends about half of his time on clinical activities, including performing diagnostic cardiac catheterizations involving simultaneous echocardiography complemented by related cardiac MRI techniques.
+In addition, he has taught a one semester, BME department, junior level course on Quantitative Cardiovascular Physiology.
+
+==Selected publications==
+
+*Chung C, Shmuylovich L, Kovács SJ. "What global diastolic function is, what it is not, and how to measure it." American Journal of Physiology Heart and Circulatory Physiology  doi:10.1152/ajpheart.00436.2015.
+*Shmuylovich L, Chung CS, Kovács SJ, Yellin E, Nikolic SD. Point-Counterpoint: Left ventricular volume during diastasis IS/IS NOT the physiologic in-vivo equilibrium volume and IS/IS NOT related to diastolic suction? Journal of Applied Physiology 2009 Dec 24. (JAPPL-01399-2009).
+*Shmuylovich L, Kovács SJ. Stiffness and relaxation components of the exponential and logistic time-constants may be used to derive a load-independent index of isovolumic pressure decay. American Journal of Physiology Heart and Circulatory Physiology 2008 Dec 295(6):H2551-9. Epub 2008 Oct 24.
+*Zhang W, Kovács SJ. The Diastatic Pressure-Volume Relationship Is Not the Same as the End-Diastolic Pressure-Volume Relationship. American Journal of PhysiologyHeart and Circulatory Physiology 2008doi:10.1152/ajpheart.00200.
+*Riordan MM, Weiss EP, Meyer TE, Ehsani AA, Racette SB, Villareal D, Fontana L, Holloszy JO, Kovács SJ. The Effects of Caloric Restriction- and Exercise-Induced Weight Loss on Left Ventricular Diastolic Function. American Journal of Physiology Heart and Circulatory Physiology 2008 294:H1174-82.
+*Chung CS, Kovács SJ. The Physical Determinants of Left Ventricular Isovolumic Pressure Decline: Model Prediction with in-vivo Validation. American Journal of Physiology, Heart and Circulatory Physiology 2008 294:1589-1596.
+
+==Honors==
+Kovács received the Sjöstrand Medal in Physiology from the Swedish Society of Clinical Physiology and Medicine in 2007.  He was elected President of the Cardiovascular System Dynamics Society (CSDS) in 2006 and served until 2008.  He is a recipient of the Öcsi Bácsi Award of Caltech's TAPIR Group.<ref>Caltech TAPIR Group, [http://www.tapir.caltech.edu/ocsi-bacsi.html "Öcsi Bácsi Award"]</ref> He is a distinguished foreign member of the Hungarian Society of Cardiology.<ref name="cv" /> He has been elected twice as president of the Barnes-Jewish Hospital Medical Staff Association (2003-2004 and 2015–2016) and served as a member of the Board of Barnes-Jewish Hospital (2015-2016). He is the recipient of Barnes-Jewish Hospital Medical Association's Lifetime Achievement "Master Physician" Award, April 2017.
+In May 2018, for his contributions to quantitative cardiovascular physiology and mathematical modeling of heart pumping function, Kovács received an honorary degree from [[Lund University]], Faculty of Medicine. For his contributions to elucidating the physiology of diastole he was elected Honorary Member of the [[Hungarian Academy of Sciences]] in 2022.<ref>https://source.wustl.edu/2022/07/kovacs-elected-to-hungarian-academy-of-sciences/#:~:text=S%C3%A1ndor%20J.,the%20Hungarian%20Academy%20of%20Sciences.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://cbl1.wustl.edu/ Cardiovascular Biophysics Laboratory, Washington University, School of Medicine]
+*[https://www.lunduniversity.lu.se/article/new-honorary-doctors-at-the-faculty-of-medicine-in-2018]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kovacs, Sandor J.}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Hungarian emigrants to the United States]]
+[[Category:American cardiologists]]
+[[Category:Washington University in St. Louis physicists]]
+[[Category:Washington University School of Medicine faculty]]
+[[Category:Cornell University College of Engineering alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of Miami alumni]]

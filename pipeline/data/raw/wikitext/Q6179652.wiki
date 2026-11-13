@@ -1,0 +1,74 @@
+{{Use dmy dates|date=May 2023}}
+{{Short description|German physicist (born 1970)}}
+{{Infobox scientist
+|name              = Jens Eisert
+|image             = 8eJCHm5K 400x400.jpg
+|image_size        = 150 px
+|caption           = 
+|birth_date        = {{b-da|9 October 1970}}
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|fields            = [[Physics]]
+|workplaces        = [[Free University of Berlin]]
+|education         = [[Imperial College London]]<br />[[University of Potsdam]]<br />[[University of Freiburg]]<br />[[University of Connecticut]]
+|doctoral_advisor  = Martin Wilkens
+|known_for         = [[Quantum information theory]]
+|awards            = [[European Research Council|ERC]] Advanced Grant (2023),
+ Google NISQ Award (2019), [[European Research Council|ERC]] Consolidator Grant (2012), [[Berlin Institute for Advanced Study]] Fellowship (2009–2010), [[EURYI|EURYI Award]] (2004),  Michelson Prize (2001),  [[Fulbright Program|Fulbright Scholarship]] (1994)
+}}
+
+'''Jens Eisert''' (born 9 October 1970) is a German [[physicist]], [[European Research Council|ERC]] fellow, and professor at the [[Free University of Berlin]]. He is also affiliated with the [[Helmholtz Association]] and the [[Fraunhofer Society]]. 
+
+==Scientific work==
+
+He is known for his research in [[quantum information]] science and quantum many-body theory in [[condensed matter physics]]. He has made significant contributions to [[Quantum_entanglement|entanglement]] theory and the study of [[quantum computing]], as well as to the development of protocols in the [[Quantum_technology|quantum technologies]] and to the study of complex quantum systems. 
+
+Work on [[compressed sensing]] [[Quantum_tomography|quantum state tomography]]<ref>{{cite journal|author=D. Gross, Y. K. Liu, S. T. Flammia, S. Becker, J. Eisert|title=Quantum state tomography via compressed sensing|journal=[[Physical Review Letters]]|year=2010|volume=105|issue=15 |article-number=150401|doi=10.1103/PhysRevLett.105.150401|pmid=21230876 |arxiv=0909.3304 |bibcode=2010PhRvL.105o0401G |s2cid=19029700 }}</ref> he has contributed to has been influential for developing notions of benchmarking and the verification of quantum devices to ensure their proper functioning.<ref>{{cite journal|author=J. Eisert, D. Hangleiter, N. Walk, I. Roth, D. Markham, R. Parekh, U. Chabaud, E. Kashefi|title=Quantum certification and benchmarking|journal=[[List_of_Nature_Research_journals|Nature Reviews Physics]]|year=2020|volume=2|issue=7 |pages=382–390|doi=10.1038/s42254-020-0186-4|arxiv=1910.06343|bibcode=2020NatRP...2..382E |s2cid=204576135 }}</ref> The concept of a [[graph state]]<ref>{{cite journal|author=M. Hein, J. Eisert, H.J. Briegel|title=Multi-party entanglement in graph states|journal=[[Physical_Review|Physical Review A]]|year=2004|volume=69|issue=6 |article-number=062311|arxiv=quant-ph/0307130 |doi=10.1103/PhysRevA.69.062311|bibcode=2004PhRvA..69f2311H |s2cid=108290803 }}</ref> has become a relevant class of multi-[[qubit]] quantum states with a number of applications in quantum computing. He has also contributed to understanding how non-[[Markov chain|Markovian]] quantum dynamics can be quantified.<ref>{{Cite journal |last1=Wolf |first1=M.-M. |last2=Cubitt |first2=T.|last3=Eisert |first3=J.|last4=Cirac |first4=J. I.|year=2008 |issue= 15 |title=Assessing non-Markovian quantum dynamics |journal=[[Physical Review Letters]] |volume=101 |article-number= 150402 |doi=10.1103/PhysRevLett.101.150402 |pmid=18999575 |arxiv=0711.3172 |bibcode=2008PhRvL.101o0402W }}</ref>
+
+In the field of [[quantum computing]], he has been interested in precisely identifying the potential<ref>{{Cite journal |last1=Liu |first1=J. |last2=Liu |first2=M.|last3=Liu |first3=J.-P.|last4=Ye |first4=Z.|last5=Wang |first5=Y.|last6=Alexeev |first6=Y.|last7=Eisert |first7=J.|last8=Jiang |first8=L.|year=2024 |title=Towards provably efficient quantum algorithms for large-scale machine-learning models |journal=[[Nature Communications]] |volume=15 |issue=1 |page=434 |doi=10.1038/s41467-023-43957-x  |doi-access=free|pmid=38199993 |pmc=10781664 |arxiv=2303.03428 |bibcode=2024NatCo..15..434L }}</ref>
+<ref>{{Cite journal |last1=Sweke |first1=R. |last2=Seifert |first2=J.-P.|last3=Hangleiter |first3=D.|last4=Eisert |first4=J.|year=2024 |
+title=On the quantum versus classical learnability of discrete distributions |journal=[[Quantum_(journal)|Quantum]]|volume=5 |issue=1 |page= 417 |doi=10.1038/s41467-023-43957-x |doi-access=free|pmid=38199993 |pmc=10781664 | arxiv=2007.14451v2 |bibcode=2024NatCo..15..434L }}</ref> and limitations<ref>{{Cite journal |last1=Quek |first1=Y. |last2=Stilck Franca |first2=D.|last3=Khatri |first3=S.|last4=Meyer |first4=J. J.|last5=Eisert |first5=J. |year=2024 |
+title=Exponentially tighter bounds on limitations of quantum error mitigation |journal=[[Nature Physics]]|volume=20 |issue=10 |pages= 1648–1658|doi=10.1038/s41567-024-02536-7|pmid=39416853 |arxiv=2007.14451v2 |bibcode=2024NatPh..20.1648Q }}</ref> of [[Noisy_intermediate-scale_quantum_era|near-term]] and [[Quantum_error_correction|fault tolerant quantum computing]], including steps towards achieving an understanding of the impact of noise.
+
+He has contributed to realizing a first dynamical [[quantum simulator]],<ref>{{cite journal|author=S. Trotzky, Y.-A. Chen, A. Flesch, I. P. McCulloch, U. Schollwöck, J. Eisert, I. Bloch|title=Probing the relaxation towards equilibrium in an isolated strongly correlated 1D Bose gas|journal=[[Nature Physics]]|year=2012|volume=8|page=325|doi=10.1038/nphys2232|arxiv=1101.2659 |s2cid=54788369 }}</ref> in joint work with [[Immanuel Bloch]], Ulrich Schollwöck and others, building on his work on non-equilibrium quantum physics.<ref>{{cite journal|author=J. Eisert, M. Friesdorf, C. Gogolin |title=Quantum many-body systems out of equilibrium|journal=[[Nature Physics]]|year=2015|volume=11|issue=2 |pages=124–130|doi=10.1038/nphys3215|arxiv=1408.5148 |bibcode=2015NatPh..11..124E |s2cid=118389378 }}</ref><ref>{{cite journal|author=M. Cramer, C. M. Dawson, J. Eisert, T. J. Osborne |title=Exact relaxation in a class of nonequilibrium quantum lattice systems |journal=[[Physical Review Letters]]| year=2008|volume=100|issue=3 |article-number=030602|doi=10.1103/PhysRevLett.100.030602 |pmid=18232957 |arxiv=cond-mat/0703314|bibcode=2008PhRvL.100c0602C |s2cid=18628654}}</ref> This work has also introduced the idea of benchmarking the performance of quantum devices against that of state-of-the-art classical tensor network methods for classical simulation, an idea that is still much pursued in the quest for achieving a quantum advantage<ref>{{Cite journal |last1=Hangleiter |first1=D. |last2=Eisert |first2=J.|date=2023 |title=Computational advantage of quantum random sampling |journal=[[Reviews of Modern Physics]]|volume=95 |article-number=035001 |issue=3 |doi=10.1103/RevModPhys.95.035001|arxiv=2206.04079 |bibcode=2023RvMP...95c5001H }}</ref> or [[quantum supremacy]], as the situation of quantum devices computationally outperforming classical devices is also referred to. Recent work on [[machine learning in physics|Hamiltonian learning]] for analog quantum simulators has been inspired by similar thoughts on equipping quantum simulators with stronger predictive power.<ref>{{cite journal|author=D. Hangleiter, I. Roth, J. Fuksa, J. Eisert, P. Roushan|title=Robustly learning the Hamiltonian dynamics of a superconducting quantum processor|journal=[[Nature Communications]]|year=2024|volume=15|issue=1 |page=9595|doi=10.1038/s41467-024-52629-3|doi-access=free|pmid=39505860 |arxiv=2108.08319|bibcode=2024NatCo..15.9595H }}</ref>
+
+In quantum [[many-body theory]], he has helped understanding the role of area laws for [[Entropy_of_entanglement|entanglement entropies]] in quantum physics that are at the root of the functioning of [[tensor network]] methods.<ref>{{cite journal|author=J. Eisert, M. Cramer, M.B. Plenio|title=Area laws for the entanglement entropy|journal=[[Reviews of Modern Physics]]|year=2010|volume=82|page=277|doi=10.1103/RevModPhys.82.277|arxiv=0808.3773 }}</ref> He is also notable as one of the co-pioneers of [[quantum game theory]]<ref>{{cite journal|author=E. Klarreich|title=Playing by quantum rules|journal=[[Nature (journal)|Nature]]|year=2001|volume=414|issue=6861|pages=244–245|doi=10.1038/35104702|pmid=11713495|bibcode=2001Natur.414..244K|s2cid=4332077|doi-access=free}}</ref><ref>{{cite journal|author=J. Eisert, M. Wilkens, M. Lewenstein|title=Quantum games and quantum strategies|journal=[[Physical Review Letters]]|year=1999|volume=83|issue=15 |pages=3077–3080|arxiv=quant-ph/9806088|  doi=10.1103/PhysRevLett.83.3077|bibcode=1999PhRvL..83.3077E |s2cid=30550760 }}</ref> with [[Maciej Lewenstein]] and PhD advisor Martin Wilkens.
+
+==Education==
+He attended high school at the [[:de:Ludwigshafen#Gymnasien|Wilhelm von Humboldt Gymnasium]], [[Ludwigshafen]], Germany. He
+obtained his first degree in [[physics]] from the [[University of Freiburg]] and his master's degree in mathematics and physics from the [[University of Connecticut]] under a [[Fulbright Program|Fulbright scholarship]]. In 2001, he obtained his PhD from [[University of Potsdam]] under Martin Wilkens with a thesis entitled ''Entanglement in Quantum Information Theory''.
+
+==Career==
+In 2001–2002, he was a [[Alexander von Humboldt Foundation|Feodor Lynen Fellow]] at [[Imperial College London]]. In 2002–2003, he was a visiting scholar at [[California Institute of Technology|Caltech]]. During 2002–2005, he was a junior professor at the [[University of Potsdam]]. During the 2005–2008 period he was a lecturer at [[Imperial College London]]. In 2008, he became a full professor at the [[University of Potsdam]] and in 2011 a full professor at the [[Free University of Berlin]]. In 2009–2010, he was a fellow at the [[Institute for Advanced Study, Berlin]].
+
+He is a ''divisional associate editor'' of the ''[[Physical Review Letters]]''<ref>{{Cite web|date=20 September 2022|title=PRL Editorial Team|url=https://journals.aps.org/prl/staff|access-date=6 May 2023|website=Physical Review Letters|language=en}}</ref> and ''steering board member'' of
+''[[Quantum_(journal)|Quantum]]''.<ref>{{Cite web|date=2 August 2024|title=Steering board of Quantum|url=https://quantum-journal.org/about/people/#steering-board|access-date=2 August 2024|language=en}}</ref> He is leading the ''Einstein Research Unit on Quantum Devices''<ref>{{Cite web|date=2 August 2024|title=Einstein Research Unit on Quantum Devices|url=https://einsteinresearchunitquantum.de|website=Einstein Research Unit Quantum|language=en}}</ref> in the [[Berlin]] research landscape funded by the [[Einstein Foundation Berlin]] and set up by the 
+[[Berlin University Alliance]] dedicated to near-term [[quantum computing]]. He is also known for consistent contributions to the scientific community, such as being a coauthor of the European quantum technologies roadmap,<ref>{{cite journal |author=A. Acín, I. Bloch, H. Buhrman, T. Calarco, C. Eichler, J. Eisert, D. Esteve, N. Gisin, S. J. Glaser, F. Jelezko|title=The quantum technologies roadmap: a European community view|journal=[[New Journal of Physics]]| year=2018| volume=20|issue=8 | page=080201| doi=10.1088/1367-2630/aad1ea|arxiv=1712.03773|bibcode=1991PhRvL..67..661E|s2cid=59417223 }}</ref> being a member of the Agenda Quantensysteme<ref>{{Cite web|date=2 August 2024|title=Agenda Quantensysteme|url=https://www.quantentechnologien.de/fileadmin/public/Redaktion/Dokumente/PDF/Publikationen/Agenda_Quantensysteme_2030_bf_C1.pdf|language=de}}</ref> consulting the [[Germany|German]] government, and contributing to [[outreach]] activities.<ref>{{Cite web|date=2 August 2024|title=Outreach talks|url=https://www.youtube.com/playlist?list=PL2JxqBWxuxEOisgwEGjEx_ERisQDP3U3w|website=Outreach talks|language=en}}</ref>
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+*[http://www.physik.fu-berlin.de/einrichtungen/ag/ag-eisert/ German Homepage of AG Eisert – QMIO at FU Berlin, Germany]
+*[http://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/ English Homepage of AG Eisert – QMIO at FU Berlin, Germany]
+*[http://de.scientificcommons.org/jens_eisert Eisert's Scientific Commons profile] {{Webarchive|url=https://web.archive.org/web/20110721022302/http://de.scientificcommons.org/jens_eisert |date=21 July 2011 }}
+*[http://inspirehep.net/search?p=find+a+eisert,+jens,+Jens Eisert on INSPIRE-HEP]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Eisert, Jens}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:21st-century German physicists]]
+[[Category:German quantum physicists]]
+[[Category:University of Connecticut alumni]]
+[[Category:University of Freiburg alumni]]
+[[Category:University of Potsdam alumni]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Academic staff of the University of Potsdam]]
+[[Category:Academic staff of the Free University of Berlin]]
+[[Category:People from Ludwigshafen]]
+[[Category:Academics of Imperial College London]]
+[[Category:European Research Council grantees]]
+[[Category:Quantum game theory]]

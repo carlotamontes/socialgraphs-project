@@ -1,0 +1,62 @@
+{{short description|American neuroscientist}}
+{{For|the American criminal lawyer|Jeffrey Lichtman}}
+{{Infobox scientist
+| name              = Jeff W. Lichtman
+| birth_date        = 1951
+| birth_place       = [[Salt Lake City]], [[Utah]]
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| fields            = [[Molecular neuroscience|Molecular]] & [[Cellular neuroscience|cellular]] neuroscience
+| education         = {{ublist|[[Bowdoin College]]|[[Washington University in St. Louis]]}}
+| doctoral_advisor  = [[Dale Purves]]
+| workplaces        = {{ublist|[[Washington University in St. Louis]]|[[Harvard University]]}}
+| known_for         = [[Brainbow]]
+| awards            = Member, [[National Academy of Sciences]] (2014)
+| website           = https://lichtmanlab.fas.harvard.edu/
+}}
+'''Jeff William Lichtman''' (born 1951) is an American [[neuroscientist]].<ref name=nas14/> He is the [[Jeremy R. Knowles]] Professor of Molecular and Cellular Biology and [[Santiago Ramón y Cajal]] Professor of Arts and Sciences at [[Harvard University]]. He is best known for his pioneering work developing  the [[neuroimaging]] [[Connectomics|connectomic]] technique known as [[Brainbow]].<ref name="Brouillette">{{cite journal |last1=Brouillette |first1=Monique |title=Mapping the brain to understand the mind |journal=Knowable Magazine |date=21 April 2022 |doi=10.1146/knowable-042122-1 |url=https://knowablemagazine.org/article/mind/2022/mapping-brain-understand-mind|doi-access=free |language=en}}</ref>
+
+==Education and career==
+Lichtman was born in [[Salt Lake City]], [[Utah]] in 1951. He grew up in the [[Northeastern United States]].<ref name=nas14/> Lichtman received a BA from [[Bowdoin College]] in 1973. In 1980, he received both MD and PhD from [[Washington University in St. Louis]], where he was advised by [[Dale Purves]]. After completing postdoctoral work at [[Harvard Medical School]], he established his lab at [[Washington University School of Medicine]] and conducted research there for 30 years.<ref name=labbio>{{cite web|url=https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman|title=Jeff W. Lichtman, MD, PhD|publisher=Harvard University|access-date=9 May 2019}}</ref><ref name=nas14/>
+
+In 2004, he was appointed [[Jeremy R. Knowles]] Professor of Molecular and Cellular Biology  at [[Harvard University]]. In 2013, he was named the inaugural [[Santiago Ramón y Cajal]] Professor, a five-year appointment intended to recognize outstanding research and teaching.<ref name=gazette2013>{{cite web|url=https://news.harvard.edu/gazette/story/2013/03/first-santiago-ramon-y-cajal-professor-of-arts-and-sciences/|title=First Santiago Ramón y Cajal Professor is named|author=Reuell P|date=11 March 2013|publisher=Harvard Gazette|access-date=9 May 2019}}</ref> Lichtman is a faculty member within the Harvard Center for Brain Science and the Conte Center at Harvard University.<ref name=conte>{{cite web|url=http://www.conte.harvard.edu/investigators/jeff-lichtman-md-phd/|title=Jeff Lichtman, MD, PhD|publisher=Conte Center|access-date=9 May 2019}}</ref> From 2013 to 2016, he was a Grass Foundation Trustee.<ref name=grass13>{{cite web|url=https://www.grassfoundation.org/people/jeff-w-lichtman|title=Jeff W. Lichtman|publisher=Grass Foundation|access-date=9 May 2019}}</ref>
+
+==Research==
+[[File:Brainbow_(Lichtman_2008).jpg|thumb|500px|alt=Three Brainbow images|Up to ~160 colours were observed in the first Brainbow mice. (a) A [[motor nerve]] innervating ear muscle. (b) An axon tract in the [[brainstem]]. c) The [[dentate gyrus]]. From Lichtman and Sanes, 2008.<ref name=brainbow>{{cite journal|author=Lichtman JW, Livet J, Sanes JR|title=A technicolour approach to the connectome.|journal=Nat Rev Neurosci|year=2008|volume=9|issue=6|pages=417–22|pmid=18446160|doi=10.1038/nrn2391|pmc=2577038}}</ref>]]
+The Lichtman lab studies [[activity-dependent plasticity]] in [[motor system|motor]] and [[autonomic nervous system|autonomic]] circuits of living animals. Lichtman hypothesizes that [[axon]]s undergo [[synaptic pruning]] and strengthening in response to experiences, and these experiences cause neurons which co-innervate the same cell to compete for dominance, thereby driving [[synaptic plasticity]]. The lab uses [[genetically modified mouse|genetically modified mice]] and automated imaging tools to identify [[neural circuit]] motifs throughout the nervous system.<ref name=labbio/>
+
+In 2007, Lichtman and [[Joshua R. Sanes]] first published the [[Brainbow]] '''mouse''' method, in which different fluorescent proteins are expressed stochastically in neighboring neurons within a mouse's [[nervous system]], thereby allowing neighboring neuronal processes to be distinguishable by [[fluorescence microscopy]]. Subsequently, this technique has been adapted and used to map neural circuits in mice, ''[[Caenorhabditis elegans]]'', and ''[[Drosophila melanogaster]]''.<ref name=labbio/><ref name=spectrum15>{{cite web|url=https://www.spectrumnews.org/news/toolbox/rainbow-of-dyes-maps-neurons-tangled-paths-in-brain/|title=Rainbow of dyes maps neurons' tangled paths in brain|author=Yandell K|date=13 May 2015|website=Spectrum News|publisher=Simons Foundation|access-date=9 May 2019}}</ref>
+
+Additionally, the Lichtman lab developed a  device called the Automatic Tape-Collecting Lathe Ultramicrotome (ATLUM),<ref name=labbio/><ref name=cbsatlum>{{cite web|url=http://cbs.fas.harvard.edu/science/connectome-project/atlum|archive-url=https://web.archive.org/web/20100412115223/http://cbs.fas.harvard.edu/science/connectome-project/atlum|url-status=dead|archive-date=April 12, 2010|title=ATLUM|website=Center for Brain Science|publisher=Harvard University|access-date=9 May 2019}}</ref> which can be used for automated [[electron microscopy]] in [[neural circuit reconstruction]]. Data from the Lichtman lab has been used in the [[citizen science]] game [[EyeWire]], developed in collaboration with [[Sebastian Seung]] and [[Winfried Denk]], to construct a full [[connectome]] of the mouse [[retina]].<ref name=nyt2014>{{cite news|url=https://www.nytimes.com/2014/05/27/science/all-circuits-are-busy.html|title=All Circuits Are Busy|author=Gorman J|date=26 May 2014|work=The New York Times|access-date=9 May 2019}}</ref><ref name=guardian2012>{{cite web|url=https://www.theguardian.com/science/2012/may/07/quest-connectome-mapping-brain|title=Quest for the connectome: scientists investigate ways of mapping the brain|author=Sample I|date=7 May 2012|work=The Guardian|access-date=9 May 2019}}</ref>
+
+The  lab is also interested in [[Inhibitory postsynaptic potential|inhibitory]] [[interneuron]]s in the [[prefrontal cortex]], which are thought to be selectively vulnerable in [[mental disorder]]s such as [[autism]] or [[schizophrenia]].<ref name=labbio/><ref name=conte/>
+
+==Awards and honors==
+
+* Member, [[National Academy of Sciences]] (2014)<ref name=nas14>{{cite web|url=https://www.nasonline.org/directory-entry/jeff-w-lichtman-4ss8as/|title=Jeff W. Lichtman|publisher=National Academy of Sciences|access-date=9 May 2019}}</ref>
+* Transformative Research R01 Award,  [[National Institutes of Health]] (2011)<ref name=nih11>{{cite web|url=https://news.harvard.edu/gazette/story/2011/09/funding-innovation/|title=Funding innovation|author=Reuell P|date=28 November 2011|publisher=Harvard Gazette|access-date=9 May 2019}}</ref>
+
+==Selected publications==
+* {{cite journal |last1=Sanes |first1=Joshua R. |last2=Lichtman |first2=Jeff W. |title=Development of the vertebrate neuromuscular junction |journal=Annual Review of Neuroscience |date=March 1999 |volume=22 |issue=1 |pages=389–442 |doi=10.1146/annurev.neuro.22.1.389 |pmid=10202544 |url=https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.22.1.389 |language=en |issn=0147-006X|url-access=subscription }}
+* {{cite journal |last1=Feng |first1=Guoping |last2=Mellor |first2=Rebecca H. |last3=Bernstein |first3=Michael |last4=Keller-Peck |first4=Cynthia |last5=Nguyen |first5=Quyen T. |last6=Wallace |first6=Mia |last7=Nerbonne |first7=Jeanne M. |last8=Lichtman |first8=Jeff W. |last9=Sanes |first9=Joshua R. |title=Imaging Neuronal Subsets in Transgenic Mice Expressing Multiple Spectral Variants of GFP |journal=Neuron |date=October 2000 |volume=28 |issue=1 |pages=41–51 |doi=10.1016/s0896-6273(00)00084-2 |issn=0896-6273|doi-access=free |pmid=11086982 }}
+* {{cite journal |last1=Sanes |first1=Joshua R. |last2=Lichtman |first2=Jeff W. |title=Induction, assembly, maturation and maintenance of a postsynaptic apparatus |journal=Nature Reviews Neuroscience |date=November 2001 |volume=2 |issue=11 |pages=791–805 |doi=10.1038/35097557 |pmid=11715056 |url=https://www.nature.com/articles/35097557 |language=en |issn=1471-0048|url-access=subscription }}
+* {{cite journal |last1=Lichtman |first1=Jeff W. |last2=Conchello |first2=José-Angel |title=Fluorescence microscopy |journal=Nature Methods |date=December 2005 |volume=2 |issue=12 |pages=910–919 |doi=10.1038/nmeth817 |pmid=16299476 |url=https://www.nature.com/articles/nmeth817 |language=en |issn=1548-7105|url-access=subscription }}
+* {{cite journal |last1=Livet |first1=Jean |last2=Weissman |first2=Tamily A. |last3=Kang |first3=Hyuno |last4=Draft |first4=Ryan W. |last5=Lu |first5=Ju |last6=Bennis |first6=Robyn A. |last7=Sanes |first7=Joshua R. |last8=Lichtman |first8=Jeff W. |title=Transgenic strategies for combinatorial expression of fluorescent proteins in the nervous system |journal=Nature |date=November 2007 |volume=450 |issue=7166 |pages=56–62 |doi=10.1038/nature06293 |pmid=17972876 |bibcode=2007Natur.450...56L |url=https://www.nature.com/articles/nature06293 |language=en |issn=1476-4687|url-access=subscription }}
+* {{cite journal |last1=Witvliet |first1=Daniel |last2=Mulcahy |first2=Ben |last3=Mitchell |first3=James K. |last4=Meirovitch |first4=Yaron |last5=Berger |first5=Daniel R. |last6=Wu |first6=Yuelong |last7=Liu |first7=Yufang |last8=Koh |first8=Wan Xian |last9=Parvathala |first9=Rajeev |last10=Holmyard |first10=Douglas |last11=Schalek |first11=Richard L. |last12=Shavit |first12=Nir |last13=Chisholm |first13=Andrew D. |last14=Lichtman |first14=Jeff W. |last15=Samuel |first15=Aravinthan D. T. |last16=Zhen |first16=Mei |title=Connectomes across development reveal principles of brain maturation |journal=Nature |date=August 2021 |volume=596 |issue=7871 |pages=257–261 |doi=10.1038/s41586-021-03778-8 |pmid=34349261 |language=en |issn=1476-4687|pmc=8756380 |bibcode=2021Natur.596..257W }}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lichtman, Jeff W.}}
+[[Category:Living people]]
+[[Category:1951 births]]
+[[Category:Date of birth missing (living people)]]
+[[Category:American neuroscientists]]
+[[Category:21st-century American scientists]]
+[[Category:Bowdoin College alumni]]
+[[Category:Washington University School of Medicine alumni]]
+[[Category:Harvard Faculty of Arts and Sciences faculty]]
+[[Category:Washington University School of Medicine faculty]]
+[[Category:Washington University in St. Louis alumni]]

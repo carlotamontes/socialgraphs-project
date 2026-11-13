@@ -1,0 +1,36 @@
+{{Short description|American physicist}}
+{{Infobox scientist
+| name               = William Kent Wootters
+| known_for          = Founding [[quantum information theory]]<br />[[Quantum teleportation]]<br />[[Monogamy of entanglement| Coffman–Kundu–Wootters inequality]]<br />[[Schrödinger–HJW theorem]]<br />[[Concurrence (quantum computing)|Concurrence]]<br />[[Entanglement distillation]]<br />[[Entanglement of formation]]<br />[[No-cloning theorem]]<br />[[Problem of time]]<br />[[U-bit]]<br />Coining word "qubit"
+|fields= [[Theoretical physics]]
+}}
+
+'''William "Bill" Kent Wootters''' is an American theoretical [[physicist]], and one of the founders of the field of [[quantum information theory]]. In a 1982 joint paper with [[Wojciech H. Zurek]], Wootters proved the [[no-cloning theorem]],<ref>{{Cite journal |last1=Wootters |first1=W. K. |last2=Zurek |first2=W. H. |date=1982-10-28 |title=A single quantum cannot be cloned |url=https://www.nature.com/articles/299802a0 |journal=Nature |language=en |volume=299 |issue=5886 |pages=802–803 |doi=10.1038/299802a0 |bibcode=1982Natur.299..802W |s2cid=4339227 |issn=1476-4687|url-access=subscription }}</ref> at the same time as [[Dennis Dieks]], and independently of [[James L. Park]]<ref>{{Cite web |title=James L. Park Main Scientific Publications |url=https://quantum-thermodynamics.unibs.it/james_l_park_publications.htm }}</ref> who had formulated the no-cloning theorem in 1970.<ref>D. Dieks, "Communication by EPR devices", ''[[Physics Letters A]]'' 92 (1982) 271–272.</ref><ref name="park">{{cite journal |last1=Park |first1=James L. |year=1970 |title=The concept of transition in quantum mechanics |url=https://link.springer.com/article/10.1007/BF00708652 |journal=[[Foundations of Physics (journal)|Foundations of Physics]] |volume=1|issue=1 |pages=23–33 |bibcode=1970FoPh....1...23P |doi=10.1007/BF00708652 |s2cid=55890485|url-access=subscription }}</ref> He is known for his contributions to the theory of [[quantum entanglement]] including quantitative measures of it, entanglement-assisted communication (notably [[quantum teleportation]], discovered by Wootters and collaborators in 1993<ref name="BBCJPW93">{{cite journal |author=[[Charles H. Bennett (computer scientist)|C. H. Bennett]] |author2=[[Gilles Brassard|G. Brassard]] |author3=[[Claude Crépeau|C. Crépeau]] |author4=[[Richard Jozsa|R. Jozsa]] |author5=[[Asher Peres|A. Peres]] |author6=W. K. Wootters |title=Teleporting an Unknown Quantum State via Dual Classical and Einstein–Podolsky–Rosen Channels |journal=[[Phys. Rev. Lett.]] |volume=70 |issue=13 |pages=1895–1899 |date=1993 |doi=10.1103/PhysRevLett.70.1895 |pmid=10053414 |bibcode=1993PhRvL..70.1895B }}</ref>) and [[entanglement distillation]]. The term ''[[qubit]],'' denoting the basic unit of quantum information, originated in a conversation between Wootters and [[Benjamin Schumacher]] in 1992.<ref>{{cite arXiv |last1=Fuchs |first1=Christopher A. |last2=Schlosshauer |first2=Maximilian |last3=Stacey |first3=Blake C. |title=My Struggles with the Block Universe |eprint=1405.2390 |class=quant-ph |date=2015-05-10}}</ref>
+
+He earned a B.S. from [[Stanford University]] in 1973, and his Ph.D. from the [[University of Texas at Austin]] in 1980. His thesis was titled ''The Acquisition of Information from Quantum Measurements,'' and [[Linda Reichl]] was his doctoral advisor, while [[John A. Wheeler]] also served as a mentor.<ref>{{cite web |url=https://science.williams.edu/wp-content/blogs.dir/82/files/WKW-15.pdf |title=William K. Wootters CV |website=Science Center |publisher=[[Williams College]] |access-date=2019-03-24}}</ref> He was a member of the physics department at [[Williams College]] from 1982 to 2017, receiving the title of Barclay Jermain Professor of Natural Philosophy. He was elected a fellow of the [[American Physical Society]] in 1999, for "contributions on the foundations of quantum mechanics and groundbreaking work in quantum information and communications theory."<ref>{{cite web |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=W |title=APS Fellow Archive |website=[[American Physical Society]] |access-date=2019-03-24}}</ref>
+
+With [[Susan Loepp]], he is the co-author of the book ''Protecting Information: From Classical Error Correction to Quantum Cryptography'' (Cambridge University Press, 2006).<ref>[https://www.iacr.org/books/2012_ca_LoeppWootters_ProtectingInfo.pdf Review of ''Protecting Information''] by Fan Junjie (March 29, 2012), [[International Association for Cryptologic Research]].</ref><ref>[http://www.maa.org/publications/maa-reviews/protecting-information-from-classical-error-correction-to-quantum-cryptography maa.org], review of ''Protecting Information'' by Darren Glass (April 5, 2007), MAA Reviews, [[Mathematical Association of America]].</ref>
+
+He is married to Adrienne Wootters, a professor of physics at the [[Massachusetts College of Liberal Arts]].<ref name="d020">{{cite web | title=Adrienne Wootters | website=Home | url=https://www.mcla.edu/about-mcla/faculty/adrienne-wootters.php }}</ref> His daughter, [[Mary Wootters]], is a professor of computer science at [[Stanford University]].<ref name="n392">{{cite web | title=Mary Harding Obituary (1938 | website=Legacy.com | date=2015-06-16 | url=https://www.legacy.com/us/obituaries/kystandard/name/mary-harding-obituary?id=18648613 }}</ref>
+
+==See also==
+*[[Monogamy of entanglement]]
+*[[Problem of time]]
+*[[Schrödinger–HJW theorem]]
+*[[U-bit]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://physics.williams.edu/profile/wwootter/ Bill Wootters' homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wootters, William Kent}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:Williams College faculty]]
+[[Category:American quantum information scientists]]
+{{US-physicist-stub}}

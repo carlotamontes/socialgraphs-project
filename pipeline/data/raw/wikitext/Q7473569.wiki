@@ -1,0 +1,84 @@
+{{short description|British computer scientist}}
+{{Use dmy dates|date=September 2017}}
+{{Use Australian English|date=September 2017}}
+{{Infobox scientist
+| name              = Toby Walsh
+| image             = Toby_Walsh,_portrait.jpg
+| caption           = Walsh in 2008
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| ethnicity         = 
+| fields            = [[Artificial Intelligence]], [[Automated reasoning]]
+| workplaces        = [[University of New South Wales]] and Data61, (formerly [[NICTA]])
+| education         = [[University of Cambridge]]<br />[[University of Edinburgh]]
+| doctoral_advisor  = [[Alan Bundy]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| religion          = 
+| signature         = <!--(filename only)-->
+| footnotes         = 
+}}
+
+'''Toby Walsh''' is a British computer scientist who is Chief Scientist at UNSW.ai, the AI Institute of [[UNSW Sydney]].<ref>{{cite web |url=https://www.inside.unsw.edu.au/innovation-and-engagement/unsw-launches-artificial-intelligence-ai-institute| title=UNSW.ai announcement|publisher=[[University of New South Wales]]}}</ref> He is a [[Australian Laureate Fellowship|Laureate fellow]], and [[professor]] of [[artificial intelligence]] in the [[UNSW School of Computer Science and Engineering]]<ref>{{cite web |url=http://www.cse.unsw.edu.au| title=CSE UNSW Webpage|publisher=[[University of New South Wales]]}}</ref> at the [[University of New South Wales]]<ref>{{cite web |url=http://www.cse.unsw.edu.au/db/staff/staff_details.php?ID=tw| title=UNSW webpage|publisher=[[University of New South Wales]]}}</ref> and [[Data61]] (formerly [[NICTA]]<ref>{{cite web |url=http://www.nicta.com.au/people/walshtoby| title=NICTA personal webpage|publisher=[[NICTA]]}}</ref>). He has served as Scientific Director of [[NICTA]], Australia's centre of excellence for ICT research. He is noted for his work in artificial intelligence, especially in the areas of [[Social choice theory|social choice]], [[constraint programming]] and [[propositional satisfiability]]. He has served on the Executive Council of the [[Association for the Advancement of Artificial Intelligence]].<ref>{{cite web |url=http://www.aaai.org/Organization/officers.php| title=AAAI Officials|publisher=[[Association for the Advancement of Artificial Intelligence]]}}</ref>
+
+== Career ==
+He received an [[Master of Arts|M.A.]] degree in theoretical physics and mathematics from the [[University of Cambridge]] and a [[M.Sc.]] and [[Ph.D.]] degree in artificial intelligence from the [[University of Edinburgh]]. He has held research positions in Australia, England, Ireland, Italy, France, Germany, Scotland, and Sweden. He has been Editor-in-Chief<ref>{{cite web |url=http://www.jair.org/vol/mast34.html|title=Masthead|publisher=[[Journal of Artificial Intelligence Research]]}}</ref>
+of the ''[[Journal of Artificial Intelligence Research]]'', and of ''AI Communications''. He was chaired several conferences in the area of [[artificial intelligence]]
+including the [[International Joint Conference on Artificial Intelligence]].<ref>{{cite web |url=http://videolectures.net/ijcai2011_walsh_opening/| title=Opening Ceremony|publisher=[[VideoLectures.net]]}}</ref> He is Editor of the Handbook of Constraint Programming,<ref>{{cite web |url=http://www.elsevier.com/wps/find/bookbibliographicinfo.cws_home/708863/description| title=Handbook of Constraint Programming|publisher=[[Elsevier]]}}</ref> and of the Handbook of Satisfiability.<ref>{{cite web |url=http://www.iospress.nl/book/handbook-of-satisfiability/| title=Handbook of Satisfiability| work=IOS Press| date=February 2009|publisher=[[IOS Press]]}}</ref> He proposed the idea of Turing red flag laws, which require any AI system to identify itself as a computer program to prevent human confusion.<ref>{{cite web |url=https://cacm.acm.org/magazines/2016/7/204019-turings-red-flag/fulltext| title=Turing's Red Flag| date=July 2016|publisher=[[Communications of the ACM]]}}</ref>
+
+[[File:AAAI 2025 - David Chalmers and Toby Walsh - 2025-03-02 (2).jpg|thumb|Toby Walsh (on the right) with [[David Chalmers]] at AAAI Conference 2025, Philadelphia]]
+In 2015, he helped release an open letter<ref>{{cite web |url=http://futureoflife.org/AI/open_letter_autonomous_weapons| title=Open letter hosted by Future of Life Institute}}</ref> calling for a ban on offensive autonomous weapons that attracted over 20,000 signatures. He later gave a talk at TEDxBerlin on this topic.<ref>{{cite web |url=https://www.youtube.com/watch?v=c277ynyRPgs |archive-url=https://ghostarchive.org/varchive/youtube/20211221/c277ynyRPgs |archive-date=2021-12-21 |url-status=live| title=Video from TEDxBerlin|website=[[YouTube]] |date=8 October 2015 }}{{cbignore}}</ref> In 2017, he organized an open letter calling for a ban signed by over 100 founders of AI and Robotics companies. Also in 2017, he organized a letter<ref>{{Cite web|url=https://www.theguardian.com/science/2017/nov/06/ban-killer-robots-experts-urge-australian-and-canadian-leaders-malcolm-turnbull-justin-trudeau|title=Ban killer robots, experts urge Australian and Canadian leaders|last=Sample|first=Ian|date=2017-11-06|website=the Guardian|language=en|access-date=2018-09-18}}</ref> to the Prime Minister of Australia calling for Australia to negotiate towards a ban signed by over one hundred researchers from Australia working on artificial intelligence. In 2022, he was one of 121 prominent Australians banned from travelling to Russia indefinitely <ref>{{cite web |url=https://www.news.com.au/world/russia-hits-121-aussies-with-sanctions-for-russophobic-agenda/news-story/14bea9414c692f0d5fe812256c468181| title=Russian sanctions of prominent Australians}}</ref> for his outspoken criticism of the use of AI by the Russian military.
+
+In 2018, he chaired the Expert Working Group of the [[National Academies Forum|Australian Council of Learned Academies]] (ACOLA) preparing a Horizon Scanning Report on the "''Deployment of Artificial Intelligence and what it presents for Australia"'' at the request of Australia’s Chief Scientist, [[Alan Finkel|Dr Alan Finkel]], and on behalf of the [[Office of the Chief Scientist (Australia)#Commonwealth Science Council|Commonwealth Science Council]]. Additionally, he was interviewed on [[ABC Comedy]] by [[Tom Ballard (comedian)|Tom Ballard]], discussing the "robot revolution".<ref>{{Cite web|title=An interview with Toby Walsh on the robot revolution.|url=https://www.youtube.com/watch?v=DNfe5UAFEC0|website=YouTube}}{{cbignore}}{{Dead YouTube link|date=February 2022}}</ref>
+
+He is the author of four books on artificial intelligence for a general audience: ''"It's Alive!: Artificial Intelligence from the Logic Piano to Killer Robots"'',<ref>{{Cite book|url=https://www.blackincbooks.com.au/books/its-alive|title=It's Alive! by Toby Walsh|date=6 July 2016|language=en}}</ref> which looks at the history and present of AI, ''"2062: The World that AI Made"'',<ref>{{Cite book|url=https://www.blackincbooks.com.au/books/2062|title=2062 by Toby Walsh|date=4 March 2018|language=en}}</ref> which looks at the potential impact AI will have on our society, and ''"Machines Behaving Badly: the Morality of AI"'',<ref>{{Cite book|url=https://www.blackincbooks.com.au/books/machines-behaving-badly|title=Machines Behaving Badly|date=3 May 2022|language=en}}</ref> which looks at the ethical challenges of AI. 
+His latest book is ''Faking It: Artificial intelligence in a Human World'',<ref>{{Cite web |last=Tonkin |first=Casey |date=2023-10-05 |url=https://ia.acs.org.au/article/2023/review--faking-it-by-toby-walsh.html |title=Review=Faking it by Toby Walsh |work=InformationAge |access-date=2025-12-07}}</ref> was published in 2023. All four books are published by Black Inc. The books are available in ten different languages: Chinese, English, German, Korean, Polish, Romanian, Russian, Taiwanese, Turkish and Vietnamese.
+
+==Honors and awards==
+
+In 2023, Walsh won the Celestino [[Eureka Prizes|Eureka Prize]] for Promoting Understanding of Science for his work on artificial intelligence.<ref>{{Cite web |last=Plant |first=Elizabeth |date=2023-08-23 |title=2023 Australian Museum Eureka Prize winners |url=https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/ |access-date=2023-08-23 |website=The Australian Museum |language=en}}</ref>
+
+In 2020, he was elected a [[Fellow of the ACM]] and a [[Fellow of the American Association for the Advancement of Science]].
+
+In 2018, he was runner up in the Arms Control Association's annual Person/s of the Year Award.<ref>{{Cite news|url=https://newsroom.unsw.edu.au/news/science-tech/unsws-toby-walsh-voted-runner-global-award|title=UNSW's Toby Walsh voted as runner-up for global award|date=2018-01-10|work=UNSW Newsroom|access-date=2018-09-18}}</ref>
+
+In 2016, he was elected a Fellow of the [[Australian Academy of Science]],<ref>{{cite web |url=https://www.science.org.au/news-and-events/news-and-media-releases/academy-announces-2016-fellows|title=Australian Academy of Science announces 2016 Fellows}}</ref> won the NSW Premier's Prize for Excellence in Engineering and ICT,<ref>{{Cite web|url=http://www.chiefscientist.nsw.gov.au/premiersprizes/2016-Premiers-Prizes-Category-Prize-Winners|title=2016 Category Prize Winners - NSW Chief Scientist & Engineer|website=www.chiefscientist.nsw.gov.au|language=en|access-date=2018-09-18}}</ref> and was made Scientia Professor at UNSW.<ref>{{Cite news|url=https://newsroom.unsw.edu.au/news/general/unsw-appoints-16-new-scientia-professors|title=UNSW appoints 16 new Scientia Professors|date=2016-12-16|work=UNSW Newsroom|access-date=2018-09-18}}</ref>
+
+In 2015, the Association for Constraint Programming presented him with their Research Excellence Award,<ref>{{Cite web|url=https://www.a4cp.org/awards/research-excellence-award|title=Research Excellence Award {{!}} Association for Constraint Programming|website=www.a4cp.org|language=en|access-date=2018-09-18}}</ref> which identifies and honours the most influential people in the field.
+
+In 2014, he won a [[Humboldt Prize]].<ref>{{cite web |url=http://org.nicta.com.au/2014/05/toby-walsh-humboldt-research-award/|title=Announcement at NICTA's Optimisation Research Group website|date=15 February 2015 }}</ref>
+
+In 2008, he was elected a Fellow of the [[Association for the Advancement of Artificial Intelligence]]<ref>{{cite web |url=http://www.aaai.org/Awards/fellows-list.php |title=AAAI Fellow |publisher=[[Association for the Advancement of Artificial Intelligence|AAAI]]}}</ref>
+for "significant and sustained contributions to automated deduction and constraint programming, and for extraordinary service to the AI community".
+
+In 2003, he was elected a Fellow of the [[European Coordinating Committee for Artificial Intelligence|European Association for Artificial Intelligence]] 
+<ref>{{cite web |url=http://www.eccai.org/fellow.php?sort=year |title=ECCAI Fellow |url-status=dead |archive-url=https://web.archive.org/web/20110123075833/http://www.eccai.org/fellow.php?sort=year |archive-date=23 January 2011 |df=dmy-all }}</ref> in recognition of "significant, sustained contributions to the field of artificial intelligence".
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+*[http://www.cse.unsw.edu.au/~tw/ Toby Walsh's homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Walsh, Toby}}
+[[Category:Artificial intelligence researchers]]
+[[Category:British computer scientists]]
+[[Category:Australian computer scientists]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Living people]]
+[[Category:Fellows of the European Association for Artificial Intelligence]]
+[[Category:Year of birth missing (living people)]]

@@ -1,0 +1,118 @@
+{{Short description|American nuclear theorist, researcher and educator}}
+{{Infobox academic
+| honorific_prefix  = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name              = Dean Lee
+| honorific_suffix  =
+| image             = Wiki_dlee_2023.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name        = <!-- use only if different from full/othernames -->
+| birth_date        = 1971
+| birth_place       = 
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| death_cause       = 
+| region            = 
+| nationality       = 
+| citizenship       = 
+| residence         = 
+| other_names       = 
+| occupation        = Nuclear physicist, researcher and educator
+| years_active      = 
+| known_for         = 
+| home_town         = 
+| title             = 
+| boards            = <!--board or similar positions extraneous to main occupation-->
+| spouse            = 
+| partner           = 
+| children          = 
+| parents           = 
+| relatives         = 
+| awards            = <!--notable national-level awards only-->
+| website           = 
+| education         = Harvard University
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| school_tradition  = 
+| doctoral_advisor  = [[Howard Georgi]]
+| academic_advisors = 
+| influences        = <!--must be referenced from a third-party source-->
+| era               = 
+| discipline        = <!--major academic discipline – e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist-->
+| sub_discipline    = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| institutions      = Michigan State University<br/> North Carolina State University<br/>University of Massachusetts Amherst
+| doctoral_students = <!--only those with WP articles-->
+| notable_students  = <!--only those with WP articles-->
+| main_interests    = 
+| notable_works     = 
+| notable_ideas     = 
+| influenced        = <!--must be referenced from a third-party source-->
+| signature         = 
+| signature_alt     = 
+| signature_size    = 
+| footnotes         =  
+}}
+
+'''Dean Lee''' (born 1971) is an American nuclear theorist, researcher and educator. He is a professor of physics at the Facility for Rare Isotope Beams (FRIB) and the Department of Physics and Astronomy at [[Michigan State University]] and department head of Theoretical Nuclear Science at FRIB.<ref>{{cite web|url=https://www.nscl.msu.edu/misc/directory/leed.html|title=Dean Lee}}</ref>
+
+Lee's research interests include [[superfluidity]], nuclear clustering, nuclear structure from [[first principle]]s calculations, ab initio scattering and inelastic reactions, and properties of nuclei as seen through electroweak probes. He also works on new technologies and computational paradigms such as [[Eigenvalues and eigenvectors|eigenvector]] continuation, machine learning tools to find correlations, and [[quantum computing]] algorithms for the nuclear [[many-body problem]].<ref name=GS>{{cite web|url=https://scholar.google.com/citations?user=nN9Pp3kAAAAJ&hl=en|title=Dean Lee - Google Scholar}}</ref>
+
+Lee is a fellow of the [[American Physical Society]].<ref name=APS>{{cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=L&year=2019&unit_id=&institution=|title=APS Fellows}}</ref>
+
+== Education ==
+Lee received an A.B. in Physics in 1992 and a Ph.D. in Theoretical [[Particle physics|Particle Physics]] in 1998, both from [[Harvard University]].<ref>{{cite web|url=https://hertzfoundation.org/fellows/fellow-profile/10946/Dean-Lee|title=Dean Lee}}</ref> His Ph.D. advisor was [[Howard Georgi]]. From 1998–2001, he joined the nuclear, particle, and gravitational theory group at the [[University of Massachusetts Amherst]] for his postdoctoral research under the supervision of John Donoghue, Eugene Golowich, and [[Barry Holstein]].<ref>{{cite web|url=https://physics.sciences.ncsu.edu/people/djlee3/|title=Dean Lee|date=2018-05-24}}</ref>
+
+== Career ==
+Lee joined the [[North Carolina State University]] as an assistant professor in 2001, becoming associate professor in 2007, and full professor in 2012. In 2017, he moved to the Facility for Rare Isotope Beams (FRIB) at Michigan State University as a professor, jointly appointed in the MSU Department of Physics and Astronomy.<ref>{{cite web|url=https://www.wkar.org/post/msu-frib-researcher-dean-lee-works-understand-nature-and-origins-matter#stream/0|title=MSU FRIB researcher Dean Lee works to understand the nature and origins of matter|date=25 October 2018 }}</ref>
+
+In 2018, Lee served as the chair of the Topical Group on Few-Body Systems and Multiparticle Dynamics of the American Physical Society (APS).<ref>{{cite web|url=https://engage.aps.org/gfb/governance/executive-committee/past-officers|title=GFB Executive Committee}}</ref>  He was elected to the Chair Line of the Division of Nuclear Physics in 2022.<ref>{{cite web|url=https://engage.aps.org/dnp/governance/executive-committee/committee-members?Execute=1|title=DNP Executive Committee}}</ref> Since 2018 he has been involved in the establishment of the Advanced Studies Gateway at FRIB, an initiative that brings together researchers, innovators, creative thinkers, artists, and performers from all fields.<ref>{{cite web|url=https://frib.msu.edu/gateway/index.html|title=Advanced Studies Gateway at FRIB}}</ref>
+
+In 1991, Lee shared the [[LeRoy Apker Award]] of the APS with [[Stephen Quake]].<ref>{{cite web|url=https://www.aps.org/programs/honors/prizes/apker.cfm|title=LeRoy Apker Award}}</ref> In 2014, he was inducted as a fellow of the APS "for the development of lattice effective field theory as a novel approach to the nuclear few- and many-body problem, and for applications of this technique to the structure of the Hoyle state".<ref name=APS/>
+
+== Research and work ==
+Lee's research group develops and applies methods such as lattice effective field theory to study superfluidity, nuclear clustering, nuclear structure from first principles, and quantum scattering and reactions. Some of the techniques include spherical wall methods for scattering on a lattice, impurity lattice Monte Carlo for quantum impurities,<ref>{{cite web|url=http://www.ectstar.eu/sites/www.ectstar.eu/files/talks/DeanLee.pdf|title=Lattice Effective Field Theory and Impurity Lattice Monte Carlo|access-date=2019-10-16|archive-date=2019-10-16|archive-url=https://web.archive.org/web/20191016113815/http://www.ectstar.eu/sites/www.ectstar.eu/files/talks/DeanLee.pdf|url-status=dead}}</ref> adiabatic projection method for nuclear scattering and reactions,<ref>{{cite web|url=https://www.researchgate.net/publication/256477515|title=Adiabatic projection method for scattering and reactions on the lattice}}</ref> pinhole algorithm for nuclear structure,<ref>{{cite web|url=http://www.int.washington.edu/talks/WorkShops/int_17_64W/People/Lee_D/Lee.pdf|title=The pinhole algorithm and nuclear structure calculations|access-date=2019-10-16|archive-date=2017-05-19|archive-url=https://web.archive.org/web/20170519044241/http://www.int.washington.edu/talks/WorkShops/int_17_64W/People/Lee_D/Lee.pdf|url-status=dead}}</ref> pinhole trace algorithm for thermodynamics, and eigenvector continuation method for quantum correlations beyond perturbation theory.<ref>{{cite journal|title=Eigenvector continuation with subspace learning|year=2018|doi=10.1103/PhysRevLett.121.032501|s2cid=51942319|last1=Frame|first1=Dillon|last2=He|first2=Rongzheng|last3=Ipsen|first3=Ilse|last4=Lee|first4=Daniel|last5=Lee|first5=Dean|last6=Rrapaj|first6=Ermal|journal=Physical Review Letters|volume=121|issue=3|article-number=032501|pmid=30085798|arxiv=1711.07090 |bibcode=2018PhRvL.121c2501F |doi-access=free}}</ref>
+
+Lee worked with collaborators Evgeny Epelbaum, Hermann Krebs, and Ulf-G. Meißner, to perform the first ab initio calculations of the Hoyle state of carbon-12.<ref>{{cite web|url= https://www.scientificamerican.com/article/hoyle-state-primordial-nucleus-behind-elements-life/|title=The Hoyle State: A Primordial Nucleus behind the Elements of Life|website=[[Scientific American]] }}</ref> He also worked with collaborators Serdar Elhatisari, Gautam Rupak, Epelbaum, Krebs, Timo Lähde, Thomas Luu, and Meißner, on the first ab initio calculation of alpha-alpha scattering.<ref>{{cite web|url=https://www.researchgate.net/publication/278048157|title=Ab initio alpha-alpha scattering}}</ref>
+
+His research group also works on new technologies and computational paradigms such as eigenvector continuation, machine learning tools to find correlations, and quantum computing algorithms for the nuclear many-body problem.<ref name=GS/>
+
+=== Lattice effective field theory ===
+Lee and collaborators developed lattice effective field theory. Effective field theory (EFT) is an organizing principle for the interactions of a [[complex system]] at low energies. When applied to low-energy protons and neutrons in a formulation called chiral EFT, it functions as an expansion in powers of the [[nucleon]] momenta and the pion mass. Lattice EFT combines this theoretical framework with lattice methods and Monte Carlo algorithms that are applicable to few-body systems, heavier nuclei, and infinite matter.<ref>{{cite journal|title=Lattice simulations for few-and many-body systems|journal = Progress in Particle and Nuclear Physics|volume = 63|issue = 1|pages = 117–154|arxiv = 0804.3501|doi = 10.1016/j.ppnp.2008.12.001|year = 2009|last1 = Lee|first1 = Dean|bibcode = 2009PrPNP..63..117L|s2cid = 118522848}}</ref> The Lee research group is part of the Nuclear Lattice EFT Collaboration, which has pioneered many of the theoretical ideas and methods now being used in lattice EFT calculations.<ref>{{cite web|url=https://www.jlab.org/indico/event/246/session/2/contribution/14/material/slides/0.pdf|title=Overview from Nuclear Lattice Effective Field Theory}}</ref>
+
+== Awards and honors ==
+*2025 - Fellow, American Association for the Advancement of Science
+*2014 - Fellow, American Physical Society
+*2012 - 2013 - Alumni Distinguished Undergraduate Professor Award
+*2006 - 2007 - Outstanding Teaching Award, NC State University
+*1996 - Robbins Prize, Harvard University
+*1991 - Apker Award, National Co-Winner, American Physical Society
+
+== Selected publications ==
+*D. Lee, B. Borasoy, T. Schaefer, "Nuclear Lattice Simulations with Chiral Effective Field Theory", ''Physical Review C'' '''70''', 014007 (2004).
+*B. Borasoy, E. Epelbaum, H. Krebs, D. Lee, & U.-G. Meißner, "Lattice simulations for light nuclei: Chiral effective field theory at leading order", ''European Physical Journal A'' '''31''', 1, 105–123 (2007).
+*E. Epelbaum, H. Krebs, D. Lee, & U.-G. Meißner, "Ab initio calculation of the Hoyle state", ''Physical Review Letters'' '''106''', 192501 (2011).
+*E. Epelbaum, H. Krebs, T. A. Lähde, D. Lee, & U.-G. Meißner, "Structure and Rotations of the Hoyle State", ''Physical Review Letters'' '''109''', 252501 (2012).
+*E. Epelbaum, H. Krebs, T. A. Lähde, D. Lee, & U.-G. Meißner, "Viability of Carbon-Based Life as a Function of the Light Quark Mass", ''Physical Review Letters'' '''110''', 112502 (2013).
+*S. Elhatisari, D. Lee, G. Rupak, E. Epelbaum, H. Krebs, H., T. A. Lähde, T. Luu, & U.-G. Meißner, "Ab initio alpha–alpha scattering", ''Nature'' '''528''', 111–114 (2015).
+*S. Elhatisari, N. Li, A. Rokash, J. M. Alarcón, D. Du, N. Klein, B.-N. Lu, U.-G. Meißner, E. Epelbaum, H. Krebs, T. A. Lähde, D. Lee, G. Rupak, "Nuclear binding near a quantum phase transition", ''Physical Review Letters'' '''117''', 132501 (2016).
+*D. Frame, R. He, I. Ipsen, Da. Lee, De. Lee, E. Rrapaj, "Eigenvector continuation with subspace learning", ''Physical Review Letters'' '''121''', 032501 (2018).
+*S. Elhatisari, L. Bovermann, Y.-Z. Ma, E. Epelbaum, D. Frame, F. Hildenbrand, M. Kim, Y. Kim, H. Krebs, T.A. Lähde, D. Lee, N. Li, B.-N. Lu, U.-G. Meißner, G. Rupak, S. Shen, Y.-H. Song, & G. Stellin, "Wavefunction matching for solving quantum many-body problems", ''Nature'' '''630''', 59-63 (2024).
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lee, Dean}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:American physicists]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Harvard University alumni]]
+[[Category:Michigan State University faculty]]
+[[Category:North Carolina State University faculty]]
+[[Category:University of Massachusetts Amherst alumni]]

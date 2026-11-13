@@ -1,0 +1,107 @@
+{{short description|American NASA engineer (born 1943)}}
+{{about||the American poet|Jonathan Aaron|the Finnish singer|Jonne Aaron}}
+{{Infobox scientist
+| name              = John W. Aaron
+| image             = JAaron.jpg
+| image_size        = 
+| alt               = 
+| caption           = John Aaron during the Gemini 5 mission.
+| birth_date        = {{birth year and age|1943}}
+| birth_place       = [[Wellington, Texas]], U.S.
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| residence         = 
+| fields            = [[Physics]], [[Engineering]]
+| workplaces        = [[NASA]] (1964–2000)
+| education         = [[Southwestern Oklahoma State University]], B.S. 1964
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Work on the [[Apollo 12]] and [[Apollo 13]] missions
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+
+'''John W. Aaron''' (born 1943) is a former [[NASA]] engineer and was a [[flight controller]] during the [[Apollo program]]. He is widely credited with saving the [[Apollo 12]] mission when it was struck by lightning soon after launch, and also played an important role during the [[Apollo 13]] crisis.<ref name="Lost Moon 1994">''Lost Moon'' by Jeffrey Kluger and James Lovell, Houghton Mifflin (T) (October 1994) {{ISBN|0-395-67029-2}}</ref>
+
+== Early life ==
+John Aaron was born in [[Wellington, Texas]], and grew up in rural Western Oklahoma near [[Vinson, Oklahoma|Vinson]], one of the youngest of a family of seven children. His mother was a minister, and his father was a cattle rancher. After spending a year attending [[Bethany Nazarene College]], he transferred to [[Southwestern Oklahoma State University]], from which he graduated in 1964 with a [[Bachelor of Science]] degree in [[Physics]]. Although he had intended to teach and ranch after graduating from college, he applied for a job with [[NASA]] on the recommendation of a friend.
+
+== NASA career ==
+
+=== Gemini ===
+When he arrived at NASA, Aaron was trained as an [[EECOM]], a [[flight controller]] with specific responsibility for the electrical, environmental and communications systems on board the spacecraft. By January 19, 1965, when the unmanned [[Gemini 2]] was launched, he was already working in [[Mission Control]] as Chief EECOM Officer, which he did through 1967.<ref name=":0">{{Cite web|url=https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/AaronJW/JWA_Bio.pdf|title=NASA JOHNSON SPACE CENTER ORAL HISTORY PROJECT BIOGRAPHICAL DATA SHEET John Aaron|access-date=2019-09-17|archive-date=2019-08-22|archive-url=https://web.archive.org/web/20190822001634/https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/AaronJW/JWA_Bio.pdf|url-status=live}}</ref>
+
+=== Apollo ===
+In 1967, Aaron became Chief EECOM Officer of the [[Command and Service Module]] in the Apollo program.  In 1969, he moved on to serve as Section Head, Electrical Power, Electrical & Instrumentation Systems Section, a position he would hold for four years.
+
+==== Apollo 12 ====
+On November 14, 1969, Aaron was on shift for the launch of [[Apollo 12]]. Thirty-six seconds after liftoff, the spacecraft was struck by lightning, causing a power surge. Instruments began to malfunction and [[telemetry]] data became garbled. The flight director, [[Gerry Griffin]], expected that he would have to abort the mission. However, Aaron realized that he had previously seen this odd pattern of telemetry.
+
+A year before the flight, Aaron observed a test at [[Kennedy Space Center]] and noticed some unusual telemetry readings. On his own initiative, he traced this anomaly back to the obscure Signal Conditioning Electronics (SCE) system, and became one of the few flight controllers who was familiar with the system and its operations. For the case that first drew his attention to the system, normal readings could be restored by putting the SCE on its auxiliary setting, which meant that it would operate even with low-voltage conditions.
+
+Aaron surmised that this setting would also return the Apollo 12 telemetry to normal. When he made the call to the Flight Director, "Flight, EECOM. Try SCE to Aux", most of his mission control colleagues had no idea what he was talking about. Both the flight director and the [[Flight controller#CAPCOM|CAPCOM]] [[Gerald P. Carr]] asked him to repeat the recommendation. Aaron repeated himself and Carr responded "What the hell's that?" Yet he relayed the order to the crew: "Apollo 12, Houston. Try SCE to auxiliary." [[Richard F. Gordon Jr.|Dick Gordon]], a ground expert on the CSM as well as the Apollo 12 command module pilot, was familiar with both the location and the function of the SCE switch, and instructed [[Alan Bean]] to flip it to aux. Telemetry was immediately restored, allowing the mission to continue. This earned Aaron the lasting respect of his colleagues, who declared that he was a "steely-eyed missile man".<ref name="Lost Moon 1994"/><ref>{{cite report
+ | author = NASA Johnson Space Center
+ | date = November 24, 1969
+ | title = Apollo 12 Spacecraft Commentary
+ | url = https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/mission_trans/AS12_PAO.PDF
+ | publisher = NASA Johnson Space Center Mission Transcript History Portal
+ | page = 14
+ | access-date = August 3, 2019
+ | archive-date = August 3, 2019
+ | archive-url = https://web.archive.org/web/20190803110242/https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/mission_trans/AS12_PAO.PDF
+ | url-status = live
+ }}</ref>
+
+==== Apollo 13 ====
+Aaron was off duty when the [[Apollo 13]] explosion occurred, but was quickly called to Mission Control to assist in the rescue and recovery effort. Flight Director [[Gene Kranz]] put Aaron in charge of the power supply budget. He was allowed to veto the ideas of other engineers, particularly when they affected the power usage of the modules. He was in charge of rationing the spacecraft's power during the return flight and, with help from grounded Apollo 13 crew member [[Ken Mattingly]], devised an innovative power up sequence that allowed the Command Module to re-enter safely while operating on limited battery power.
+
+Contrary to existing procedures, he ordered the instrumentation system, which included telemetry, visibility, and the transmitters for communications, to be turned on last, just before reentry, rather than first. The call was a calculated risk. Without the instrumentation system, the crew and controllers would not know for certain if the cold startup had been successful until the last possible moment before reentry. However without the change, the capsule would have exhausted its battery supply before splashdown. The procedure was a success, and the crew was recovered safely.
+
+=== Later career ===
+After the Apollo Lunar Surface program ended, Aaron remained at NASA in the Spacecraft Software Division. He became technical assistant to the chief in 1973, assistant chief in 1979, and chief in 1981.<ref name=":0" />
+
+Beginning in 1984, he worked on the [[Space Station Freedom]] project becoming manager of Johnson Space Center's space station projects office during 1989. On February 12, 1993, he was forced to resign from the job after Texas [[United States Senate|Senator]] [[Robert Krueger]] blamed him for $500 million of overspending on the station project.<ref name = "JSC Station">
+{{cite news 
+  | last  = Leary
+  | first = Warren E.
+  | title = President is Expected to Request Full Financing for Space Station
+  | work  = New York Times
+  | page  = 7
+  | date  = February 13, 1993
+  | url   = https://www.nytimes.com/1993/02/13/us/president-is-expected-to-request-full-financing-for-space-station.html
+}}</ref>
+
+Aaron became a manager in [[Johnson Space Center]]'s Engineering Directorate in 1993, and stayed in the directorate until he retired from NASA in 2000.
+
+== In film ==
+Aaron was portrayed by actor [[Loren Dean]] in the 1995 movie ''[[Apollo 13 (film)|Apollo 13]]''. Aaron was also played by [[John Travis (actor)|John Travis]] in the 1998 mini-series ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]''. He was interviewed in the [[PBS]] documentary ''Apollo 13: To the Edge and Back'', and in two [[History (U.S. TV channel)|History Channel]] documentaries about [[Mission Control]], ''[[Failure Is Not an Option]]'' and ''[[Beyond the Moon: Failure Is Not an Option 2]]''.
+
+The movie ''[[Apollo 13 (film)|Apollo 13]]'' takes a bit of literary license with the identity of NASA's "steely-eyed missile man".  While Aaron's work on power management to help bring the spacecraft back to Earth is celebrated in the film, the moniker of the "steely-eyed missile man" is instead bestowed upon the head of the engineering team that devises a makeshift carbon dioxide filter to "fit a square peg in a round hole".  That engineer was [[Ed Smylie]], who was portrayed in the film as “Ted” by actor James Ritz.
+
+The 2015 science fiction film ''[[The Martian (film)|The Martian]]'' also contains a reference to a "steely-eyed missile man" at NASA (bestowed in that film upon the character Rich Purnell).  The ''[[Legends of Tomorrow]]'' second-season episode "Moonshot" also includes a reference to that moniker, as does Season 5 Episode 8 of ''[[For All Mankind (TV series)]]''.
+
+In 2017, Aaron appeared in David Fairhead's documentary ''Mission Control: The Unsung Heroes of Apollo.''
+
+==References==
+{{Reflist}}
+
+{{Use American English|date=January 2014}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aaron, John}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:Mayors of places in Texas]]
+[[Category:NASA flight controllers]]
+[[Category:People from Wellington, Texas]]
+[[Category:Southwestern Oklahoma State University alumni]]

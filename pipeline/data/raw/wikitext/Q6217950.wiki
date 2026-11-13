@@ -1,0 +1,56 @@
+{{Short description|American physicist (born 1967)}}
+{{Infobox scientist
+|name              = John A. Smolin
+|image             = JohnSmolin2009.jpg
+|image_size        = 
+|alt               = face front head shot of Smolin who has a beard
+|caption           = 
+|birth_date        = {{birth year and age|1967}}
+|birth_place       = [[New York City]]
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = 
+|ethnicity         = 
+|fields            = [[Quantum information|Quantum information theory]]
+|workplaces        = [[Thomas J. Watson Research Center]]
+|education         = [[Massachusetts Institute of Technology]] (S.B., Physics, 1989)<br>[[University of California, Los Angeles]] (Ph.D., Physics, 1996)<ref name="APSPROFILE">[https://physics.aps.org/authors/john_smolin "Profile: John Smolin""], ''American Physical Society''</ref>
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = [[Quantum cryptography]], [[The Smolin Spiral]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|signature         =  <!--(filename only)-->
+|signature_alt     = 
+|footnotes         = 
+}}
+'''John A. Smolin''' (born 1967) is an American [[physicist]] and Fellow of the [[American Physical Society]] at [[IBM]]'s [[Thomas J. Watson Research Center]].
+
+Smolin is best known for his work in [[quantum information]] theory, where, with collaborators, he introduced several important techniques,<ref>Bennett, Charles H.; DiVincenzo, David P.; Smolin, John A.; Wooters, William K. (1996), [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.54.3824 "Mixed State Entanglement and Quantum Error Correction"], Phys. Rev. A 54: 3824-3851</ref> including [[entanglement distillation]], for quantum error-correction and the faithful transmission of quantum information through noisy [[quantum channel]]s, as well as for entanglement-assisted transmission of classical information.  He helped elucidate the complex relations between classical and quantum capacities of various channels<ref>D.P. DiVincenzo, P.W. Shor, and J. A. Smolin, [https://arxiv.org/abs/quant-ph/9706061 "Quantum-channel capacity for very noisy channels"], Phys. Rev. A, 1717 (1999)</ref> as well as phenomena such as data hiding and data unlocking that have no analog in classical information theory.
+
+Together with [[Charles H. Bennett (computer scientist)|Charles H. Bennett]] he built the world's first working demonstration of [[quantum cryptography]] in 1989,<ref>Bennett, Bessette, Brassard Salvial, and Smolin [http://portal.acm.org/citation.cfm?id=1014626 "Experimental Quantum Cryptography"], J. of Cryptology 5, 3-28 (1992)</ref> driven by software written by Francois Bessette, [[Gilles Brassard]] and Louis Salvail and implementing the [[BB84]] quantum key distribution protocol.
+
+Smolin coined the term "Church of the Larger Hilbert Space" to describe the habit of regarding every [[Mixed state (physics)|mixed state]] of a quantum system as a pure entangled state of a larger system, and every irreversible evolution as a reversible ([[unitary transformation|unitary]]) evolution of a larger system.<ref name="Church of the Larger Hilbert Space">{{Cite journal |last1=Gottesman |first1=Daniel |last2=Lo |first2=Hoi‐Kwong |date=Nov 2000 |title=From Quantum Cheating to Quantum Security |journal=Physics Today |language=en |volume=53 |issue=11 |pages=22–27 |doi=10.1063/1.1333282 |arxiv=quant-ph/0111100 |bibcode=2000PhT....53k..22G |issn=0031-9228|doi-access=free }}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://john.kangry.com John Smolin's blog]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smolin, John A.}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:MIT School of Science alumni]]
+[[Category:21st-century American physicists]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Fellows of the American Physical Society]]

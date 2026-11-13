@@ -1,0 +1,70 @@
+{{short description|American theoretical physicist (1928–2008)}}
+
+{{Infobox scientist
+| name              = Robert H. Kraichnan
+| image             =
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date |1928|01|15}}
+| birth_place       = [[Philadelphia]], [[Pennsylvania]], U.S.
+| death_date        = {{death date and age |2008|02|26 |1928|01|15}}
+| death_place       = [[Santa Fe, New Mexico]], U.S.
+| fields            = [[Fluid mechanics]] <br/> [[Field theory (physics)]]
+| workplaces        = [[Los Alamos National Laboratory]], [[NASA]]
+| education         = [[Massachusetts Institute of Technology]] (B.S. and Ph.D.)
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Herman Feshbach]]
+| doctoral_students = 
+| known_for         = [[Turbulence]]
+| awards            = 
+| spouse            = <!--(or | spouses = )--> 
+}}
+
+'''Robert Harry Kraichnan''' ({{respell|KRAYSH-nan}}; January 15, 1928 – February 26, 2008<ref name="obit">[https://www.nytimes.com/2008/03/08/us/08kraichnan.html?_r=1&ref=obituaries Obituary: Robert Kraichnan, Physicist Who Studied Turbulence, Is Dead at 80], By JEREMY PEARCE, MARCH 8, 2008, The New York Times</ref>), a resident of [[Santa Fe, New Mexico|Santa Fe]], [[New Mexico]], was an American [[theoretical physics|theoretical physicist]] (fluid dynamicist) best known for his work on the theory of [[Turbulence|fluid turbulence]].
+
+== Life ==
+Kraichnan received his B.S. and Ph.D. in physics from [[MIT]], graduating in 1949. He became a member of the [[Institute for Advanced Study]] in [[Princeton, New Jersey|Princeton]] in 1949/50, and was one of the last assistants to [[Albert Einstein]].<ref name="aip">{{cite journal |last1=Chen |first1=Shiyi |last2=Eyink |first2=Gregory |last3=Falkovich |first3=Gregory |last4=Frisch |first4=Uriel |last5=Orszag |first5=Steven |last6=Sreenivasan |first6=Katepalli |title=Robert Harry Kraichnan |journal=Physics Today |date=1 May 2008 |volume=61 |issue=5 |pages=70–71 |doi=10.1063/1.2930746 |bibcode=2008PhT....61e..70C |url=https://pubs.aip.org/physicstoday/article/61/5/70/914957/Robert-Harry-Kraichnan |issn=0031-9228|url-access=subscription }}</ref>
+
+After his appointment at Princeton, he worked in [[Columbia University]] and the [[Courant Institute of Mathematical Sciences]] at [[New York University]]. From 1962 on, he was supported by research grants and worked as a freelance consultant for the [[Los Alamos National Laboratory]], [[Princeton University]], the [[Office of Naval Research]], the [[Woods Hole Oceanographic Institution]] and [[NASA]]. He had a keen passion for hiking, so he lived in the [[List of mountains in New Hampshire|mountains]] of [[New Hampshire]] and later in [[White Rock, New Mexico]] and eventually to [[Santa Fe, New Mexico]] near [[Los Alamos, New Mexico|Los Alamos]]. In 2003, he returned to academia when he was appointed Homewood Professor in the [[Whiting School of Engineering]] at [[Johns Hopkins University]], but by this time he had already fallen ill.<ref name="aip"/>
+
+He was the recipient of the [[Lars Onsager Prize]] and the 1993 [[Otto Laporte Award]] of the [[American Physical Society]],<ref>[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Robert%20Kraichnan&year=1993 Prize Recipient]</ref> and the 2003 [[Dirac Medal (ICTP)|Dirac Medal]].<ref>{{Cite web |url=http://users.ictp.it/~sci_info/awards/Dirac/DiracMedallists/DiracMedal03.html |title=Dirac Medallists 2003 |access-date=2008-03-09 |archive-date=2008-03-15 |archive-url=https://web.archive.org/web/20080315231611/http://users.ictp.it/~sci_info/awards/Dirac/DiracMedallists/DiracMedal03.html |url-status=dead }}</ref> He was also a member of the [[United States National Academy of Sciences|National Academy of Sciences]].<ref name="aip"/>
+
+Kraichnan married twice and has a son, John Kraichnan, by his first wife, Carol Gebhardt. He is also survived by his second wife, Judy Moore-Kraichnan, an artist and photographer who lives in Santa Fe, New Mexico.<ref name="obit"/>
+
+== Work ==
+In the 1950s, his work was focused on [[quantum field theory]] and the [[quantum mechanics|quantum mechanical]] [[many-body problem]], developing starting in 1957 a method for finding a self-consistent formulation for many-body field theories, ''N-random-coupling-models'', in which N copies of a microscopic theory are coupled together in a random way.<ref name="aip"/>
+
+Following earlier work of [[Andrei Kolmogorov]] (1941), [[Lars Onsager]] (1945), [[Werner Heisenberg]] (1948), [[Carl Friedrich von Weizsäcker]] and others on the statistical theory of turbulence, Kraichnan developed a field-theoretic approach to fluid flow in 1957 derived from approaches to the quantum many-body problem—the ''Direct Interaction Approximation''.<ref>{{cite journal |last=Kraichnan |title=Higher Order Interactions in Homogeneous Turbulence Theory |journal=Physics of Fluids |volume=1 |issue=4 |year=1958 |pages=358–359 |doi=10.1063/1.1705897 |bibcode=1958PhFl....1..358K }}</ref><ref>{{cite journal |last=Kraichnan |title=Irreversible statistical mechanics of incompressible hydromagnetic turbulence |journal=Physical Review |volume=109 |issue=5 |year=1958 |pages=1407–1422 |doi=10.1103/PhysRev.109.1407 |bibcode=1958PhRv..109.1407K }}</ref><ref>{{cite journal |last=Kraichnan |title=The structure of isotropic turbulence at very high Reynolds number |journal=Journal of Fluid Mechanics |volume=5 |issue=4 |year=1959 |pages=497–543 |doi=10.1017/S0022112059000362 |bibcode=1959JFM.....5..497K |s2cid=2118477 }}</ref> In 1964/5, he recast this approach in the [[Lagrangian picture]],<ref>{{cite journal |last=Kraichnan |title=Decay of isotropic turbulence in the Direct Interaction Approximation |journal=Physics of Fluids |volume=7 |issue=7 |year=1964 |pages=1030–1048 |doi=10.1063/1.1711319 |bibcode=1964PhFl....7.1030K }}</ref><ref>{{cite journal |last=Kraichnan |title=Kolmogorovs Hypotheses and Eulerian Turbulence Theory |journal=Physics of Fluids |year=1964 |volume=7 |issue=11 |pages=1723–1734 |doi=10.1063/1.2746572 |bibcode=1964PhFl....7.1723K }}</ref><ref>{{cite journal |last=Kraichnan |title=Lagrangian-history closure approximation for turbulence |journal=Physics of Fluids |volume=8 |issue=4 |year=1965 |pages=575–598 |doi=10.1063/1.1761271 |bibcode=1965PhFl....8..575K }}</ref><ref>{{cite journal |last=Kraichnan |title=Isotropic Turbulence and inertial range structure |journal=Physics of Fluids |volume=9 |issue=9 |year=1966 |pages=1728–1752 |doi=10.1063/1.1761928 |bibcode=1966PhFl....9.1728K }}</ref><ref>{{cite journal |last=Kraichnan |title=Inertial-range transfer in two- and three-dimensional turbulence |journal=Journal of Fluid Mechanics |volume=47 |issue=3 |year=1971 |pages=525–535 |doi=10.1017/S0022112071001216 |bibcode=1971JFM....47..525K |s2cid=73614864 }}</ref> discovering a scaling correction which he had earlier incorrectly ignored. The statistical theory of turbulence in viscous liquids describes the fluid flow by a scale-invariant distribution of the velocity field, which means that the typical size of the velocity as a function of wavenumber is a [[power-law]]. In steady state, larger scale eddies at long wavelengths disintegrate into smaller ones, dissipating their energy into smaller length scales. This type of dissipation is not caused by friction on the molecular level, but by the nonlinear effects of the [[Navier–Stokes equations]]. In the final stages of the [[energy cascade]], at the smallest length scales, the viscosity becomes important and the energy dissipates into heat.
+
+Kraichnan developed his turbulence theories over many decades and was one of the prominent American theorists in this area. From 1967 onwards, he maintained that for two-dimensional turbulence energy does not cascade from large scales (determined by the size of obstacles in the flow) to smaller ones, as it does in three dimensions, but instead cascades from small to large scales.<ref>{{cite journal |last=Kraichnan |title=Inertial Ranges in Two-Dimensional Turbulence |journal=Physics of Fluids |volume=10 |issue=7 |year=1967 |pages=1417–1423 |doi=10.1063/1.1762301 |bibcode=1967PhFl...10.1417K }}</ref> This theory is called the ''inverse Energy Cascade'', and it is especially applicable to oceanography and meteorology, since flows on the surface of the earth are approximately two-dimensional. The theory was tested and confirmed in the 1980s by data gathered from weather balloons.<ref>{{cite journal |first1=George |last1=Boer |first2=Theodore |last2=Shepherd |title=Large-scale two-dimensional turbulence in the atmosphere |journal=Journal of the Atmospheric Sciences |volume=40 |year=1983 |issue= 1|pages=164–184 |doi=10.1175/1520-0469(1983)040<0164:LSTDTI>2.0.CO;2 |bibcode=1983JAtS...40..164B |doi-access=free }}</ref>
+
+Also influential was a 1994 paper which presented an exactly solvable turbulence model, now called the ''Kraichnan model''. This model predicts exactly computable anomalous scaling exponents for the [[advection]] of a passive scalar field, like the concentration of a dye injected into the fluid which does not diffuse but moves with the fluid along the flow lines.<ref>{{cite journal |last=Kraichnan |title=Anomalous scaling of a randomly advected passive scalar |journal=Physical Review Letters |volume=72 |issue=7 |year=1994 |pages=1016–1019 |doi=10.1103/PhysRevLett.72.1016 |pmid=10056596 |bibcode=1994PhRvL..72.1016K }}</ref>
+
+Even as a high school student, Kraichnan was busily investigating the [[general relativity|general theory of relativity]], and his research won the prestigious Westinghouse Science Competition for students. He rewrote this work for his Bachelor thesis at MIT in 1947, titled "Quantum Theory of the Linear Gravitational Field".<ref>Preskill, Thorne, Foreword to [[Richard Feynman]]'s, "Feynman Lectures on Gravitation“. They report that at the time, Einstein was unenthusiastic about the proposal, because Kraichnan's procedure circumvented Einstein's hard-won geometrical insights about the gravitational field. Preskill and Thorne also compare similar work by Gupta, Feynman, Kraichnan, Deser, Wald, and Weinberg: [http://theory.caltech.edu/~preskill/pubs/preskill-1995-feynman.pdf pdf-file] {{Webarchive|url=https://web.archive.org/web/20180127081941/http://www.theory.caltech.edu/~preskill/pubs/preskill-1995-feynman.pdf |date=2018-01-27 }}</ref> Following an approach that was echoed by [[Suraj N. Gupta]], [[Richard Feynman]] and [[Steven Weinberg]], Kraichnan showed that, under some mild secondary assumptions, the full nonlinear equations of general relativity follow from its linearized form: the [[quantum field theory]] of a massless spin-2 particle, the graviton, coupled to the stress-energy tensor.<ref>{{cite journal |last=Kraichnan |title=Special-Relativistic Derivation of Generally Covariant Gravitation Theory |journal=Physical Review |volume=98 |issue=4 |year=1955 |pages=1118–1122 |doi=10.1103/PhysRev.98.1118 |bibcode=1955PhRv...98.1118K }}</ref><ref>{{cite journal |last=Kraichnan |title=Possibility of unequal gravitational and inertial masses |journal=Physical Review |volume=101 |issue=1 |year=1956 |pages=482–488 |doi=10.1103/PhysRev.101.482 |bibcode=1956PhRv..101..482K }}</ref> The full nonlinear equations emerge when the energy-momentum of the gravitons themselves are included in the stress-energy tensor in a unique self-consistent way.
+
+== References ==
+{{Reflist|30em}}
+
+===General references===
+* P.A. Davidson, Y. Kaneda, K. Moffatt, and [[K.R. Sreenivasan]] (eds, 2011).  ''A Voyage Through Turbulence'', chapter 10, pp 229–72, [[Cambridge University Press]]  {{ISBN|978-0-521-19868-4}}
+
+== External links ==
+* [https://web.archive.org/web/20110720215303/http://gdr-turbulence.pmmh.espci.fr/Mars2008/obitPT10.pdf Obituary] by [[Uriel Frisch]], pdf file
+* [https://web.archive.org/web/20110321043741/http://etc13.fuw.edu.pl/historical-turbulence Video recording of the U. Frisch's lecture on life and work of R.H. Kraichnan]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kraichnan, Robert}}
+[[Category:1928 births]]
+[[Category:2008 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:American fluid dynamicists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:MIT School of Science alumni]]
+[[Category:Independent scientists]]
+[[Category:Scientists from Santa Fe, New Mexico]]
+[[Category:Physicists from New Mexico]]

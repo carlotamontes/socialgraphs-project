@@ -1,0 +1,69 @@
+{{Short description|American computational biologist}}
+{{Infobox scientist
+| name              = Bob Murphy
+| birth_name        = 
+| native_name_lang  = 
+| image             = Bob Murphy.png
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Computational biology]]
+* [[Machine learning]]}}
+| workplaces        = {{Plainlist|
+* [[Carnegie Mellon University]]
+* [[Albert Ludwig University of Freiburg]]}}
+| education         = {{Plainlist|
+* [[Columbia University]] ([[B. A.|BA]])
+* [[California Institute of Technology]] ([[PhD]])}}
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = [[James F. Bonner]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://www.andrew.cmu.edu/user/murphy/}}
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+
+'''Robert F. Murphy''' is an American [[computational biologist]]. He is the Ray and Stephanie Lane Professor of Computational Biology Emeritus at [[Carnegie Mellon University]], where he is the director of the M.S. Program in Automated Science. He was previously a professor of biological sciences, biomedical engineering, and machine learning. He co-founded the Center for Bioimage Informatics at Carnegie Mellon with [[Jelena Kovacevic]] and founded the [[Joint CMU-Pitt Ph.D. Program in Computational Biology]]. He also founded the Computational Biology Department at Carnegie Mellon University (originally the Lane Center for Computational Biology) and served as its head from 2009 to 2020.
+
+== Biography ==
+Prior to arriving at Carnegie Mellon, Murphy was a [[Damon Runyon Cancer Research Foundation]] postdoctoral fellow with [[Charles Cantor|Charles R. Cantor]] at [[Columbia University]] from 1979 through 1983. Murphy earned a [[B.A.]] in biochemistry from [[Columbia College (New York)|Columbia College]] in 1974 and a Ph.D. in biochemistry from the [[California Institute of Technology]] in 1980.  He received a [[Presidential Young Investigator Award]]<ref>{{Cite web|url=https://www.nsf.gov/awardsearch/showAward?AWD_ID=8351364&HistoricalAwards=false|title=NSF Award Search: Award#8351364 - Presidential Young Investigator Award|website=www.nsf.gov|access-date=2016-03-29}}</ref> from the [[National Science Foundation]] shortly after joining the faculty at Carnegie Mellon in 1983. In 2005, NIH selected him as the first full-term chair of its new Biodata Management and Analysis Study Section.<ref>{{Cite web|url=http://www.cmu.edu/PR/releases05/050303_nih.html|title=Carnegie Mellon Press Release: March 3, 2005|website=www.cmu.edu|access-date=2016-03-04|archive-date=2016-03-07|archive-url=https://web.archive.org/web/20160307075104/http://www.cmu.edu/PR/releases05/050303_nih.html}}</ref> In 2006, he was named a Fellow of the [[American Institute for Medical and Biological Engineering]].<ref>{{Cite web|url=http://aimbe.org/college-of-fellows/directory/|title=Fellow Directory - AIMBE|website=aimbe.org|access-date=2016-03-04}}</ref> In 2019, he was elected as a [[Fellow of the IEEE]] for his contributions to machine learning algorithms for biological images.<ref>{{Cite web|url=https://www.ieee.org/membership/fellows/index.html|title=About the IEEE Fellow Program|website=[[IEEE]]|access-date=2019-12-09}}</ref> Murphy has received research grants from the [[National Institutes of Health]], the [[National Science Foundation]], the [[American Cancer Society]], the [[American Heart Association]], the [[Arthritis Foundation]], and the [[Rockefeller Brothers Fund]]. He has co-edited two books and two special journal issues on "Cell and Molecular Imaging," and published over 200 research papers.<ref>{{Cite web|url=https://scholar.google.com/citations?user=qQLlBH4AAAAJ&hl=en|title=Robert F. Murphy - Google Scholar Citations|website=scholar.google.com|access-date=2016-03-04}}</ref> He served as President of the International Society for the Advancement of Cytometry,<ref>[http://isac-net.org/ISAC-Cytometry/History/Past-Presidents.aspx International Society for the Advancement of Cytometry Past Presidents]</ref> was named as the first External Senior Fellow of the School of Life Sciences in the [[Freiburg Institute for Advanced Studies|Freiburg (Germany) Institute for Advanced Studies]], and has been named as an Honorary Professor at the [[University of Freiburg]].  He was a member of the National Advisory General Medical Sciences Council and the [[National Institutes of Health]] Council of Councils.<ref>[https://web.archive.org/web/20120123141932/http://www.nih.gov/news/health/dec2011/od-19.htm New NIH Council of Councils members named, December 10, 2011]</ref>
+
+Murphy's career has centered on combining fluorescence-based cell measurement methods with quantitative and computational methods. He and his collaborators did extensive work on the application of [[flow cytometry]] to analyze endocytic membrane traffic beginning in the early 1980s<ref>{{Cite journal|last1=Murphy|first1=R. F.|last2=Jorgensen|first2=E. D.|last3=Cantor|first3=C. R.|date=1982-02-25|title=Kinetics of histone endocytosis in Chinese hamster ovary cells. A flow cytofluorometric analysis.|url=http://www.jbc.org/content/257/4/1695|journal=Journal of Biological Chemistry|language=en|volume=257|issue=4|pages=1695–1701|doi=10.1016/S0021-9258(19)68093-2|issn=0021-9258|pmid=7056738|doi-access=free}}</ref><ref>{{Cite journal|last1=Murphy|first1=R. F.|last2=Powers|first2=S.|last3=Cantor|first3=C. R.|date=1984-05-01|title=Endosome pH measured in single cells by dual fluorescence flow cytometry: rapid acidification of insulin to pH 6|journal=The Journal of Cell Biology|volume=98|issue=5|pages=1757–1762|issn=0021-9525|pmc=2113196|pmid=6144684|doi=10.1083/jcb.98.5.1757}}</ref><ref>{{Cite journal|last1=Cain|first1=C. C.|last2=Sipe|first2=D. M.|last3=Murphy|first3=R. F.|date=1989-01-01|title=Regulation of endocytic pH by the Na+,K+-ATPase in living cells|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=86|issue=2|pages=544–548|issn=0027-8424|pmc=286508|pmid=2536168|doi=10.1073/pnas.86.2.544|bibcode=1989PNAS...86..544C|doi-access=free}}</ref> and pioneered the application of [[machine learning]] methods to high-resolution [[fluorescence microscopy|fluorescence microscope]] images depicting [[subcellular location]] patterns in the mid-1990s.<ref>{{Cite book|last1=Boland|first1=M. V.|last2=Markey|first2=M. K.|last3=Murphy|first3=R. F.|title=Proceedings of the 19th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 'Magnificent Milestones and Emerging Opportunities in Medical Engineering' (Cat. No.97CH36136) |chapter=Classification of protein localization patterns obtained via fluorescence light microscopy |date=1997-10-01|volume=2|pages=594–597 vol.2|doi=10.1109/IEMBS.1997.757680|isbn=978-0-7803-4262-0|s2cid=13518296}}</ref><ref>{{Cite journal|last=Baker|first=Monya|date=2012-07-01|title=The author file: Robert F. Murphy|journal=Nature Methods|language=en|volume=9|issue=7|page=629|doi=10.1038/nmeth.2088|issn=1548-7091|doi-access=free}}</ref> This work led to the development of the first systems for automatically recognizing all major organelle patterns in 2D and 3D images.<ref>{{Cite journal|last1=Boland|first1=M. V.|last2=Murphy|first2=R. F.|date=2001-12-01|title=A neural network classifier capable of recognizing the patterns of all major subcellular structures in fluorescence microscope images of HeLa cells|journal=Bioinformatics|volume=17|issue=12|pages=1213–1223|issn=1367-4803|pmid=11751230|doi=10.1093/bioinformatics/17.12.1213|doi-access=}}</ref><ref>{{Cite journal|last1=Glory|first1=Estelle|last2=Murphy|first2=Robert F.|date=2007-01-01|title=Automated subcellular location determination and high-throughput microscopy|journal=Developmental Cell|volume=12|issue=1|pages=7–16|doi=10.1016/j.devcel.2006.12.007|issn=1534-5807|pmid=17199037|doi-access=free}}</ref><ref>{{Cite book|last1=Velliste|first1=M.|last2=Murphy|first2=R. F.|title=Proceedings IEEE International Symposium on Biomedical Imaging |chapter=Automated determination of protein subcellular locations from 3D fluorescence microscope images |date=2002-01-01|pages=867–870|doi=10.1109/ISBI.2002.1029397|isbn=978-0-7803-7584-0|s2cid=2730192}}</ref>
+
+Murphy's leadership experience includes developing the first formal undergraduate program in [[computational biology]] in 1987 and founding the [[Merck & Co.|Merck]] Computational Biology and Chemistry program at Carnegie Mellon in 1999. These programs were important forerunners to the 2005 establishment of a Ph.D. program in computational biology in partnership with the [[University of Pittsburgh]]. Murphy cofounded Quantitative Medicine, LLC based upon work from his research group.{{citation needed|date=February 2022}} The company was sold to Predictive Oncology, Inc.<ref>{{Cite news|title=Predictive Oncology Completes Acquisition of Quantitative Medicine|work=GlobeNewsWire|url=https://www.globenewswire.com/news-release/2020/07/07/2058562/37244/en/Predictive-Oncology-Completes-Acquisition-of-Quantitative-Medicine.html}}</ref> in 2020.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Murphy, Robert F}}
+[[Category:Living people]]
+[[Category:American bioinformaticians]]
+[[Category:21st-century American biologists]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:University of Michigan people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Fellows of the American Institute for Medical and Biological Engineering]]
+[[Category:Columbia College, Columbia University alumni]]
+[[Category:California Institute of Technology alumni]]

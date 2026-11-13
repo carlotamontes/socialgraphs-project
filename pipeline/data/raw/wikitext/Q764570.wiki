@@ -1,0 +1,94 @@
+{{Use dmy dates|date=July 2023}}
+{{short description|Italian applied physicist}}
+{{BLP sources|date=February 2013}}
+{{Infobox scientist
+| name              = Federico Capasso
+| image             = {{CSS image crop
+|Image = Premio Balzan 2016 - Federico Capasso.jpg
+|bSize = 500
+|cWidth = 250
+|cHeight = 300
+|oTop = 50
+|oLeft = 220
+}}
+| caption           = Capasso in 2016
+| birth_date        = 1949
+| birth_place       = [[Rome]], Italy
+| education         = [[University of Rome La Sapienza|University of Rome]]
+| doctoral_students = 
+| known_for         = [[Quantum cascade laser]]; [[band gap engineering]]; repulsive [[Casimir forces]]; [[Wavefront]] engineering using [[plasmonics]]
+| field             = [[Applied physics]]
+| workplaces        = [[Fondazione Ugo Bordoni]]<br />[[Bell Laboratories]]<br />[[Harvard University]]
+| Undergraduate RAs = 
+| awards            = [[IEEE David Sarnoff Award]] {{small|(1993)}}<br>[[Newcomb Cleveland Prize]] {{small|(1993)}}<br>[[John Price Wetherill Medal]] {{small|(1997)}}<br>[[Rank Prizes|Rank Prize for Optoelectronics]] {{small|(1998)}}<br>[[R. W. Wood Prize]] {{small|(2001)}}<br>[[Duddell Medal and Prize]] {{small|(2002)}}<br>[[Arthur L. Schawlow Prize in Laser Science|Arthur L- Schawlow Prize]] {{small|(2004)}}<br>[[Edison Medal]] {{small|(2004)}}<br>[[King Faisal Foundation#King Faisal International Prize|King Faisal Prize]] {{small|(2004)}}<br>[[Tomassoni award]] {{small|(2004)}}<br>[[Berthold Leibinger Zukunftspreis]] {{small|(2010)}}<br>[[SPIE Gold Medal]] {{small|(2013)}} <br>[[Balzan Prize]] {{small|(2016)}} <br> [[Enrico Fermi Prize]] {{small|(2018)}} <br> [[Matteucci Medal]] {{small|(2019)}}<br>[[Frederic Ives Medal]] {{small|(2019)}}
+}}
+
+'''Federico Capasso''' (born 1949) is an Italian-American [[Applied physics|applied physicist]] and is one of the inventors of the [[quantum cascade laser]] during his work at [[Bell Laboratories]].<ref>{{cite web |url=http://www.ieeeghn.org/wiki/index.php/Federico_Capasso |title=Federico Capasso |author= |date= |work=IEEE Global History Network |publisher=IEEE |access-date=25 July 2011}}</ref> He is currently on the faculty of [[Harvard University]]. 
+
+==Biography==
+Federico Capasso received the [[Doctor (title)|Doctor]] of Physics degree, [[summa cum laude]], from the [[University of Rome La Sapienza|University of Rome]], Italy, in 1973 and after doing research in [[fiber optics]] at [[Fondazione Ugo Bordoni]] in Rome, joined [[Bell Labs]] in 1976. 
+
+In 1984, he was made a distinguished member of technical staff and in 1997 a Bell Labs Fellow. In addition to his research activity, Capasso has held several management positions at Bell Labs, including head of the quantum phenomena and device research department and the semiconductor physics research department (1987–2000) and vice president of physical research (2000–2002). He joined [[Harvard]] on 1 January 2003.
+
+He and his collaborators made many wide-ranging contributions to semiconductor devices, pioneering the design technique known as [[band-structure]] engineering. He applied it to novel low noise [[quantum well]] [[avalanche photodiode]]s, [[heterojunction]] transistors, memory devices and lasers.  He and his collaborators invented and demonstrated the [[quantum cascade laser]] (QCL).<ref>{{Cite journal |last1=Faist |first1=Jerome |last2=Capasso |first2=Federico |last3=Sivco |first3=Deborah L. |last4=Sirtori |first4=Carlo |last5=Hutchinson |first5=Albert L. |last6=Cho |first6=Alfred Y. |date=1994-04-22 |title=Quantum Cascade Laser |url=https://www.science.org/doi/10.1126/science.264.5158.553 |journal=Science |language=en |volume=264 |issue=5158 |pages=553–556 |doi=10.1126/science.264.5158.553 |pmid=17732739 |bibcode=1994Sci...264..553F |issn=0036-8075|url-access=subscription }}</ref> Unlike conventional semiconductor lasers, known as [[diode lasers]], which rely on the band gap of the semiconductor to emit light, the wavelength of QCLs is determined by the energy separation between conduction band quantized states in quantum wells. In 1971 researchers postulated that such an emission process could be used for laser amplification in a superlattice.<ref>{{Cite journal |last1=Kazarinov, RF |first1=R.F |last2=Suris |first2=RA |date=1971 |title=Possible amplification of electromagnetic waves in a semiconductor with a superlattice |journal=Fiz. Tekh. Poluprovodn |volume=5 |pages=797–800}}</ref>  The QCL wavelength can be tailored across a wide range from the mid-infrared to the far infrared by changing the quantum well thickness.  The mature technology of the QCL is now finding commercial applications.<ref>{{cite journal|title=Video interview: Federico Capasso on the quantum cascade laser | doi=10.1117/2.3201004.02 | journal=SPIE Newsroom| year=2010 | last1=Donnelly }}</ref> QCLs have become the most widely used sources of mid-infrared radiation for chemical sensing and spectroscopy and are commercially available.  They operate at temperatures in excess of 100°C and emit up to several watts of power in continuous wave.
+
+Capasso's current research in quantum electronics deals with very high power continuous-wave QCLs, the design of new light sources based on giant optical nonlinearities in quantum wells such as widely tunable sources of terahertz radiation based on difference frequency generation and with plasmonics. He and his group at Harvard have demonstrated a new class of optical antennas and plasmonic [[collimators]] that they have used to design the near-field and far-field of semiconductor lasers, achieving ultrahigh intensity deep subwavelength size laser spots, laser beams with greatly reduced divergence and multibeam lasers. His group showed that suitably designed plasmonic interfaces consisting of optically thin arrays of optical nano-antennas lead to a powerful generalization of the centuries-old [[laws of reflection]] and [[Snell's law|refraction]]. They form the basis of "flat optics" based on [[Electromagnetic metasurface|metasurfaces]].
+
+Federico Capasso has made major contributions to the study of quantum electrodynamical forces known as Casimir forces. He used the [[Casimir effect]] (the attraction between metal surfaces in vacuum due to its zero point energy) to control the motion of [[MicroElectroMechanical Systems]] (MEMS).  He demonstrated novel devices (Casimir actuators and oscillators),  setting limits to the scaling of MEMs technology and with his collaborators Jeremy Munday and Adrian Parsegian was the first to measure a repulsive Casimir force.<ref>{{Cite news|url=https://www.economist.com/science-and-technology/2008/05/22/much-ado-about-nothing|title=Much ado about nothing|newspaper=The Economist}}</ref>
+
+==Awards and honors==
+His honors include membership in the [[United States National Academy of Sciences|National Academy of Sciences]], the [[American Academy of Arts and Sciences]], the European Academy of Sciences and honorary membership in the [[Franklin Institute]]. He was also elected a member of the [[National Academy of Engineering]] (1995) for contributions to solid-state electronics and optoelectronics through semiconductor 'bandgap engineering.'
+
+In 2004, he received the [[Tomassoni awards|Chisesi-Tomassoni award]] for his pioneering work on the quantum-cascade laser. In 2005 he received, jointly with [[Nobel Laureates]] [[Frank Wilczek]] ([[MIT]]) and [[Anton Zeilinger]] ([[University of Vienna]]), the [[King Faisal International Prize for Science]] for his research on quantum cascade lasers. The citation called him "one of the most creative and influential physicists in the world."<ref>{{cite web|url=http://www.kff.com/EN01/KFIP/1425H2005G/KFIPWinners5SCI1425H2005G.html|title=Winners 2005 – Science|publisher=[[King Faisal Foundation]]|access-date=24 November 2011|archive-date=25 March 2012|archive-url=https://web.archive.org/web/20120325024556/http://www.kff.com/EN01/KFIP/1425H2005G/KFIPWinners5SCI1425H2005G.html|url-status=dead}}</ref>
+
+On behalf of the [[American Physical Society]], he was awarded the 2004 [[Arthur L. Schawlow Prize]] in Laser Science, endowed by the [[NEC Corporation]], for "seminal contributions to the invention and demonstration of the quantum cascade laser and the elucidation of its physics, which bridges quantum electronics, solid-state physics, and materials science."
+
+SPIE, the international society of optics and photonics, selected Capasso to receive the 2013 SPIE Gold Medal,<ref>{{cite web |url=http://spie.org/Documents/AboutSPIE/Awards/2013/Gold%20Medal_Capasso-2013.pdf |title=Award listing |website=spie.org |access-date=7 February 2021}}</ref> the highest honor the society bestows.
+
+In addition, the IEEE ([[Institute of Electrical and Electronics Engineers]]), the world's largest technical professional organization, named Capasso the recipient of the 2004 IEEE [[Edison Medal]] with the following citation, "For a career of highly creative and influential contributions to [[heterostructure]] devices and materials."
+
+He is also recipient of the [[John Price Wetherill Medal]] of the [[Franklin Institute]], the [[R. W. Wood Prize]] of the [[Optical Society of America]], the [[IEEE Lasers and Electro-Optics Society]] W. Streifer Award for Scientific Achievement, the Materials Research Society Medal, the [[Rank Prize in Optoelectronics]] (UK), the [[Duddell Medal and Prize]] of the [[Institute of Physics]] (UK), The [[Willis Lamb]] Medal for Laser Science and Quantum Optics, the [[Newcomb Cleveland Prize]] of the [[American Association for the Advancement of Science]], the 1995 [[Moet Hennessy-Louis Vuitton]] "Leonardo da Vinci" Prize (France), the [[Welker Memorial Medal]] (Germany), the [[New York Academy of Sciences]] Award, the [[IEEE David Sarnoff Award]] in Electronics, and the Goff Smith prize of the [[University of Michigan]]. In 2010 he received the [[Berthold Leibinger Zukunftspreis]] for research in applied laser technology and the [[Julius Springer]] Prize in Applied Physics. In 2011 he received the [[Jan Czochralski]] Medal of the European Materials Research society for his lifetime achievements in Materials Science.
+
+In 2016 he was awarded the [[Balzan Prize]] for Applied Photonics "For his pioneering work in the quantum design of new materials with specific electronic and optical features, which led to the realization of a fundamentally new class of laser, the Quantum Cascade Laser; for his major contributions in plasmonics and metamaterials at the forefront of photonics science and technology". He received the [[Matteucci Medal]] in 2019 from the [[Accademia nazionale delle scienze|Italian National Academy of Sciences]] for his invention of the [[quantum cascade laser]].<ref>{{cite web|url=http://www.accademiaxl.it/medaglia-matteucci/|title=Medaglia Matteucci|publisher=Accademia Nazionale delle Scienze|access-date=22 October 2019}}</ref>
+
+He is a Fellow of the [[American Physical Society]], the [[Institute of Physics]] (UK), the [[Optical Society of America]], the [[American Association for the Advancement of Science]], [[IEEE]] and [[SPIE]]. He holds honorary doctorates from [[Lund University]], Sweden, the [[Paris Diderot University|Diderot University (Paris VII)]], France,  the [[University of Bologna]], Italy and the [[University of Rome Tor Vergata|University of Torvergata (Roma II)]], Italy.
+
+I󠄲󠅀󠄢󠄪󠅞󠄣󠅥󠄣󠅚󠄧󠅜󠅓󠅑󠅞󠅠󠅪󠅒󠄧󠅨󠅑︋󠄗󠆞󠆨󠇔󠅫󠇪󠆐️󠄑󠄛󠆺󠄄󠄺󠅄󠅎󠄏󠄢󠄓󠄁󠄲󠇎󠅼︆︎󠄣󠇔󠅌󠆃︈󠆱󠆄󠄆󠇈󠄱󠇖󠅂󠄑󠅙󠄒󠆱󠄼󠅊󠇌󠆒︌󠅇󠄢󠆣󠇒󠄶󠆌󠅚󠄩󠅐󠆃󠇙󠆜︆󠅦󠄍󠇡︈󠇢n 2022, Capasso received the [[Frederic Ives Medal|Frederic Ives Medal/Jarus W. Quinn Prize]] from the Optical Society of America for seminal and wide-ranging contributions to optical physics, quantum electronics and nanophotonics.<ref>{{Cite web|title=Frederic Ives Medal / Jarus W. Quinn Prize|url=https://www.osa.org/en-us/awards_and_grants/awards/award_description/ivesquinn/|website=OSA}}</ref>{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=July 2026}}
+
+== Bibliography ==
+* {{cite book | last=Capasso | first=Federico | title=Avventure di un designer quantico | date=2005 | publisher=Di Renzo | isbn=978-88-8323-105-6 | language=it}}
+* {{cite journal|last1=Yu|first1=Nanfang|last2=Capasso|first2=Federico|title=Flat optics with designer metasurfaces|journal=Nat. Mater.|date=2014|volume=13|issue=2|pages=139–50|doi=10.1038/nmat3839|pmid=24452357|bibcode=2014NatMa..13..139Y}}
+
+== References ==
+<references />
+
+== External links ==
+* [http://www.seas.harvard.edu/directory/capasso Federico Capasso] Federico Capasso at [[Harvard School of Engineering and Applied Sciences]]
+* [http://spie.org/x95049.xml "Gold Medal Award for World-Changing Science,"] in SPIE Professional magazine
+
+{{IEEE Edison Medal Laureates 2001-2025}}
+{{Matteucci Medalists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Capasso, Federico}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Scientists at Bell Labs]]
+[[Category:Harvard University faculty]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:IEEE Edison Medal recipients]]
+[[Category:Fellows of the IEEE]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Italian emigrants to the United States]]
+[[Category:Scientists from Rome]]
+[[Category:American optical physicists]]
+[[Category:American metamaterials scientists]]
+[[Category:21st-century American physicists]]
+[[Category:20th-century Italian physicists]]
+[[Category:Laser researchers]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Recipients of the Matteucci Medal]]
+[[Category:21st-century Italian physicists]]
+[[Category:Sapienza University of Rome alumni]]

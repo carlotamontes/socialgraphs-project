@@ -1,0 +1,67 @@
+{{short description|Taiwanese-American biochemist and bioengineer}}
+{{Infobox scientist
+| name              = Michael Z. Lin
+| image_size        = 
+| alt               = 
+| birth_date        = {{Birth year and age|1973}}
+| birth_place       = [[Taipei]], [[Taiwan]]
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| fields            = [[Biochemistry]]
+| workplaces        = [[Stanford University]]
+| education         = [[Harvard University]] ([[Bachelor of Arts|BA]], [[PhD]])<br />[[University of California, Los Angeles]] ([[M. D.|MD]])
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = [[Michael E. Greenberg]]
+| academic_advisors = [[Roger Y. Tsien]]
+| known_for         = [[Genetically encoded voltage indicator]], [[optogenetics]], [[chemogenetics]]
+}}
+'''Michael Z. Lin''' (born 1973) is a Taiwanese-American biochemist and bioengineer. He is a professor of [[neurobiology]] and [[bioengineering]] at [[Stanford University]]. He is best known for his work on engineering optically and chemically controllable proteins.
+
+==Education and career==
+Lin graduated from [[Harvard University]] in 1994 with a degree in biochemical sciences ''summa cum laude''.<ref>{{cite web |title=Michael Lin's Profile {{!}} Stanford Profiles |url=https://profiles.stanford.edu/michael-lin |website=profiles.stanford.edu |language=en}}</ref> He subsequently trained as a PhD student studying neuronal signal transduction with [[Michael E. Greenberg]] at [[Harvard Medical School]], graduating in 2002,<ref>{{cite web |title=Chemistry Tree - Michael Z. Lin |url=https://academictree.org/chemistry/peopleinfo.php?pid=15821 |website=academictree.org}}</ref> and obtained a [[M.D.]] at [[UCLA]] in 2004.<ref>{{cite web |title=Michael Lin's Profile {{!}} Stanford Profiles |url=https://profiles.stanford.edu/michael-lin |website=profiles.stanford.edu |language=en}}</ref> Lin then performed postdoctoral research with Chemistry [[Nobel Prize]] Laureate [[Roger Y. Tsien]] at [[UCSD]].<ref>{{cite web |title=Chemistry Tree - Michael Z. Lin |url=https://academictree.org/chemistry/peopleinfo.php?pid=15821 |website=academictree.org}}</ref> Since 2009, he has been a member of the faculty at the [[Stanford University School of Medicine]].
+
+==Research==
+During postdoctoral training with [[Roger Y. Tsien]], Lin developed improved red fluorescent proteins<ref>{{cite journal |pmid=18454154|year=2008|last1=Shaner|first1=N. C.|last2=Lin|first2=M. Z.|last3=McKeown|first3=M. R.|last4=Steinbach|first4=P. A.|last5=Hazelwood|first5=K. L.|last6=Davidson|first6=M. W.|last7=Tsien|first7=R. Y.|title=Improving the photostability of bright monomeric orange and red fluorescent proteins|journal=Nature Methods|volume=5|issue=6|pages=545–51|doi=10.1038/nmeth.1209|pmc=2853173 |bibcode=2008NatCB...5..545S }}</ref><ref>{{cite journal |pmid=19942140|year=2009|last1=Lin|first1=M. Z.|last2=McKeown|first2=M. R.|last3=Ng|first3=H. L.|last4=Aguilera|first4=T. A.|last5=Shaner|first5=N. C.|last6=Campbell|first6=R. E.|last7=Adams|first7=S. R.|last8=Gross|first8=L. A.|last9=Ma|first9=W.|last10=Alber|first10=T.|last11=Tsien|first11=R. Y.|title=Autofluorescent proteins with excitation in the optical window for intravital imaging in mammals|journal=Chemistry & Biology|volume=16|issue=11|pages=1169–79|doi=10.1016/j.chembiol.2009.10.009|pmc=2814181}}</ref> and channelrhodopsins,<ref>{{cite journal |pmid=19254539|year=2009|last1=Lin|first1=J. Y.|last2=Lin|first2=M. Z.|last3=Steinbach|first3=P.|last4=Tsien|first4=R. Y.|title=Characterization of engineered channelrhodopsin variants with improved properties and kinetics|journal=Biophysical Journal|volume=96|issue=5|pages=1803–14|doi=10.1016/j.bpj.2008.11.034|pmc=2717302|bibcode=2009BpJ....96.1803L}}</ref> and pioneered the use of drug-regulated proteases for protein modification in the [[TimeSTAMP protein labelling]] method. 
+Lin's group at [[Stanford University]] has engineered proteins with novel functions for [[optogenetics]], [[chemogenetics]], and [[synthetic biology]]. Notable inventions include:
+* Red fluorescent and bioluminescent proteins<ref>{{cite journal |pmid=27240196|year=2016|last1=Chu|first1=J.|last2=Oh|first2=Y.|last3=Sens|first3=A.|last4=Ataie|first4=N.|last5=Dana|first5=H.|last6=MacKlin|first6=J. J.|last7=Laviv|first7=T.|last8=Welf|first8=E. S.|last9=Dean|first9=K. M.|last10=Zhang|first10=F.|last11=Kim|first11=B. B.|last12=Tang|first12=C. T.|last13=Hu|first13=M.|last14=Baird|first14=M. A.|last15=Davidson|first15=M. W.|last16=Kay|first16=M. A.|last17=Fiolka|first17=R.|last18=Yasuda|first18=R.|last19=Kim|first19=D. S.|last20=Ng|first20=H. L.|last21=Lin|first21=M. Z.|title=A bright cyan-excitable orange fluorescent protein facilitates dual-emission microscopy and enhances bioluminescence imaging in vivo|journal=Nature Biotechnology|volume=34|issue=7|pages=760–7|doi=10.1038/nbt.3550|pmc=4942401}}</ref><ref>{{cite web |last1=Gitig |first1=Diana |title=Watching a cell cycle |url=https://arstechnica.com/science/2016/11/watching-a-cell-cycle/ |website=Ars Technica |language=en-us |date=9 November 2016}}</ref>
+* Optically switchable proteins using an engineered [[green fluorescent protein]]<ref>{{cite web |title=Phosphorylation at the Flick of a Switch |url=https://www.the-scientist.com/modus-operandi/phosphorylation-at-the-flick-of-a-switch-31588 |website=The Scientist Magazine |language=en}}</ref><ref>{{cite journal |last1=Zhou |first1=XX |last2=Fan |first2=LZ |last3=Li |first3=P |last4=Shen |first4=K |last5=Lin |first5=MZ |title=Optical control of cell signaling by single-chain photoswitchable kinases. |journal=Science |date=24 February 2017 |volume=355 |issue=6327 |pages=836–842 |doi=10.1126/science.aah3605 |pmid=28232577|pmc=5589340 |bibcode=2017Sci...355..836Z }}</ref>
+* The ASAP [[genetically encoded voltage indicator]] family<ref>{{cite journal |last1=Vogt |first1=Nina |title=RAMPing up voltage indicator imaging |journal=Nature Methods |date=January 2020 |volume=17 |issue=1 |page=25 |doi=10.1038/s41592-019-0720-4 |pmid=31907465 |s2cid=209897141 |doi-access=free }}</ref><ref>{{cite journal |last1=Villette |first1=V |last2=Chavarha |first2=M |last3=Dimov |first3=IK |last4=Bradley |first4=J |last5=Pradhan |first5=L |last6=Mathieu |first6=B |last7=Evans |first7=SW |last8=Chamberland |first8=S |last9=Shi |first9=D |last10=Yang |first10=R |last11=Kim |first11=BB |last12=Ayon |first12=A |last13=Jalil |first13=A |last14=St-Pierre |first14=F |last15=Schnitzer |first15=MJ |last16=Bi |first16=G |last17=Toth |first17=K |last18=Ding |first18=J |last19=Dieudonné |first19=S |last20=Lin |first20=MZ |title=Ultrafast Two-Photon Imaging of a High-Gain Voltage Indicator in Awake Behaving Mice. |journal=Cell |date=12 December 2019 |volume=179 |issue=7 |pages=1590–1608.e23 |doi=10.1016/j.cell.2019.11.004 |pmid=31835034|pmc=6941988 }}</ref>
+* Chemical control of protein expression by proteases of RNA viruses<ref>{{cite journal |pmid=26214256|year=2015|last1=Chung|first1=H. K.|last2=Jacobs|first2=C. L.|last3=Huo|first3=Y.|last4=Yang|first4=J.|last5=Krumm|first5=S. A.|last6=Plemper|first6=R. K.|last7=Tsien|first7=R. Y.|last8=Lin|first8=M. Z.|title=Tunable and reversible drug control of protein production via a self-excising degron|journal=Nature Chemical Biology|volume=11|issue=9|pages=713–20|doi=10.1038/nchembio.1869|pmc=4543534}}</ref><ref>{{cite journal |pmid=29967496|year=2018|last1=Jacobs|first1=C. L.|last2=Badiee|first2=R. K.|last3=Lin|first3=M. Z.|title=StaPLs: Versatile genetically encoded modules for engineering drug-inducible proteins|journal=Nature Methods|volume=15|issue=7|pages=523–526|doi=10.1038/s41592-018-0041-z|pmc=6456726}}</ref>
+* Synthetic proteins that rewire cancer signals to therapeutic activation<ref>{{cite web |title=Synthetic Protein for Targeted Cancer Therapy |url=https://www.biotechniques.com/whole-genome-studies/tumor-targeting-protein-could-be-future-of-personalized-cancer-therapy |website=BioTechniques |date=14 May 2019}}</ref><ref>{{cite journal |last1=Chung |first1=HK |last2=Zou |first2=X |last3=Bajar |first3=BT |last4=Brand |first4=VR |last5=Huo |first5=Y |last6=Alcudia |first6=JF |last7=Ferrell JE |first7=Jr |last8=Lin |first8=MZ |title=A compact synthetic pathway rewires cancer signaling to therapeutic effector release. |journal=Science |date=3 May 2019 |volume=364 |issue=6439 |article-number=eaat6982 |doi=10.1126/science.aat6982 |pmid=31048459|pmc=7053279 }}</ref>
+*SARS-CoV-2 protease inhibitors based on modifying HCV protease inhibitors<ref>{{Cite journal|last1=Westberg|first1=Michael|last2=Su|first2=Yichi|last3=Zou|first3=Xinzhi|last4=Ning|first4=Lin|last5=Hurst|first5=Brett|last6=Tarbet|first6=Bart|last7=Lin|first7=Michael Z.|title=An orally bioavailable SARS-CoV-2 main protease inhibitor exhibits improved affinity and reduced sensitivity to mutations |journal=Science Translational Medicine |date=2024 |volume=16 |issue=738 |article-number=eadi0979 |doi=10.1126/scitranslmed.adi0979 |language=en|biorxiv=10.1101/2020.09.15.275891|url=https://www.osti.gov/servlets/purl/2560464|pmc=11193659}}</ref>
+
+==Awards and honors==
+* [[Burroughs Wellcome Fund]] Career Award in Medical Sciences (2007)<ref>{{cite web |title=2011-2007 Awardees {{!}} Burroughs Wellcome Fund |url=https://www.bwfund.org/2011-2007-awardees |website=www.bwfund.org}}</ref>
+* [[National Institutes of Health Director's Pioneer Award]] (2013)
+* Rita Allen Foundation Scholar (2016)<ref>{{cite web |title=Michael Lin |url=https://ritaallen.org/all-scholars/michael-lin |website=Rita Allen Foundation}}</ref>
+* World Molecular Imaging Society Roger Tsien Awardee for Excellence in Chemical Biology (2019)<ref>{{cite web |title=World Molecular Imaging Society Announces Early Stage Awardees for 2019 |url=https://www.wmis.org/world-molecular-imaging-society-announces-early-stage-awardees-for-2019 |website=World Molecular Imaging Society |date=12 September 2019}}</ref>
+
+==See also==
+* [[Genetically encoded voltage indicator]]
+* [[Optogenetics]]
+* [[Chemogenetics]]
+* [[Chemical biology]]
+* [[Synthetic biology]]
+*[[Medicinal chemistry]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lin, Michael Z.}}
+[[Category:Living people]]
+[[Category:1973 births]]
+[[Category:21st-century American biochemists]]
+[[Category:21st-century Taiwanese scientists]]
+[[Category:American people of Taiwanese descent]]
+[[Category:Stanford University faculty]]
+[[Category:Harvard Medical School alumni]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Harvard College alumni]]

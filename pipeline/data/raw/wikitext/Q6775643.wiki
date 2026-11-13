@@ -1,0 +1,68 @@
+{{Short description|Australian quantum chemist (born 1962)}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox scientist
+| name              = Martin Head-Gordon
+| image             = 
+| caption           = 
+| birth_name        = Martin Paul Head
+| honorific_suffix  = {{post-nominals|country=GBR|FRS|size=100%}}
+| birth_date        = {{birth date and age|1962|3|17|df=y}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| spouse            = [[Teresa Head-Gordon]]
+| fields            = [[Theoretical chemistry]]<br>[[Quantum chemistry]]<br>[[Computational chemistry]]<ref name=gs/>
+| workplaces        = [[University of California, Berkeley]]
+| education         = [[Monash University]] (BSc, MSc)<br>[[Carnegie Mellon University]] (PhD)
+| thesis_title      = Direct ab initio molecular orbital methods for the study of large molecules
+| thesis_url        = https://www.proquest.com/docview/303682558/
+| thesis_year       = 1989
+| doctoral_advisor  = [[John Pople]]
+| doctoral_students = [[Troy Van Voorhis]]
+| influences        = 
+| influenced        = 
+| awards            = [[Member of the National Academy of Sciences]] (2015)<ref name=nas/>
+| notable_students  = ''Post-docs:''
+| known_for         = [[Q-Chem]]
+| footnotes         = 
+| website           = {{URL|http://www.cchem.berkeley.edu/mhggrp}}
+}}
+
+'''Martin Paul Head-Gordon''' (''né'' '''Martin Paul Head''') {{post-nominals|country=GBR|FRS}} is a professor of [[chemistry]] at the [[University of California, Berkeley]], and [[Lawrence Berkeley National Laboratory]] working in the area of computational [[quantum chemistry]].<ref name=gs/>  He is a member of the [[International Academy of Quantum Molecular Science]].<ref name="IAQMS">{{cite web|url=http://www.iaqms.org/members/headgordon.php|title=International Academy of Quantum Molecular Science|website=www.iaqms.org}}</ref><ref name=nas>{{cite journal|last1=Gabrielsen|first1=Paul|title=QnAs with Martin Head-Gordon|journal=Proceedings of the National Academy of Sciences|volume=115|issue=8|year=2018|pages=1670–1671|issn=0027-8424|doi=10.1073/pnas.1721205115|pmid=29432150 |pmc=5828634 |bibcode=2018PNAS..115.1670G |doi-access=free}}</ref><ref name=gs>{{Google scholar id}}</ref>
+
+==Education==
+A native of Australia, Head-Gordon received his Bachelor of Science and Master of Science degrees from [[Monash University]],{{when|date=August 2018}} followed by a PhD from [[Carnegie Mellon University]]<ref name="IAQMS"/> working under the supervision of [[John Pople]] developing a number of useful techniques including the Head-Gordon-Pople scheme for the evaluation of [[integral]]s,<ref name="Head‐GordonPople1988">{{cite journal|last1=Head-Gordon|first1=Martin|last2=Pople|first2=John A.|title=A method for two-electron Gaussian integral and integral derivative evaluation using recurrence relations|journal=The Journal of Chemical Physics|volume=89|issue=9|year=1988|pages=5777–5786|issn=0021-9606|doi=10.1063/1.455553|bibcode=1988JChPh..89.5777H}}</ref> and the orbital rotation picture of orbital optimization.
+
+==Career and research==
+At Berkeley,<ref>{{cite web|url=http://www.cchem.berkeley.edu/mhggrp/|website=berkeley.edu|title=The Head-Gordon Group|publisher=The Head-Gordon Group}}</ref> Head-Gordon supervises a group interested in pairing methods, local correlation methods, dual-basis methods, scaled MP2 methods, new efficient algorithms, and very recently corrections to the [[Walter Kohn|Kohn]]-Sham density functional framework. Head-Gordon is one of the founders of [[Q-Chem]] Inc.{{citation needed|date=August 2018}}
+
+===Awards and honors===
+* 2011 Fellow of the [[American Academy of Arts and Sciences]]<ref>{{cite web |url=https://www.amacad.org/person/martin-p-head-gordon |title=Martin P. Head-Gordon |work=amacad.org |access-date=2026-09-02}}</ref>
+* 2012 Fellow of the [[American Chemical Society]]<ref>{{cite web |url=https://news.berkeley.edu/2012/08/28/head-gordon-honored-by-chemistry-society/ |title=Head-Gordon honored by chemistry society |date=2012-08-20 |work=berkeley.edu |access-date=2026-09-02}}</ref>
+* 2015 [[Member of the National Academy of Sciences]]<ref>{{cite web|url=https://www.nasonline.org/directory-entry/martin-head-gordon-wyaljb/|title=Martin Head-Gordon|author=Anon|website=nasonline.org|year=2013}}</ref>
+* 2019 Fellow of the [[Royal Society]]<ref>{{cite web |url=https://royalsociety.org/people/martin-head-gordon-14099/ |title=Professor Martin Head-Gordon FRS |work=royalsociety.org |access-date=2026-09-02}}</ref>
+* 2020 Schrödinger Medal of the [[World Association of Theoretical and Computational Chemists]]<ref>{{cite web |url=https://www.watoc.net/watoc.schroedinger.html |title=Schrödinger Medal winners |work=watoc.net |date=2020-02-15 |access-date=2026-09-02}}</ref>
+
+== References ==
+<references/>
+{{FRS 2019}}
+{{Authority control}}
+
+{{DEFAULTSORT:Head-Gordon, Martin}}
+[[Category:Living people]]
+[[Category:Australian emigrants to the United States]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:UC Berkeley College of Chemistry faculty]]
+[[Category:Computational chemists]]
+[[Category:Theoretical chemists]]
+[[Category:Schrödinger Medal recipients]]
+[[Category:Members of the International Academy of Quantum Molecular Science]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Chemical Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the Royal Society]]
+[[Category:1962 births]]
+
+
+{{australia-scientist-stub}}
+{{chemist-stub}}
