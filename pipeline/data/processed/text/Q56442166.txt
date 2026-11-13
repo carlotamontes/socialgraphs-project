@@ -1,0 +1,19 @@
+Charles David Sherrill is a professor of chemistry and computational science and engineering at Georgia Tech working in the areas of theoretical chemistry, computational quantum chemistry, and scientific computing.  His research focuses on the development and application of theoretical methods for non-covalent interactions between molecules.  He is the lead principal investigator of the Psi open-source quantum chemistry program.
+
+ Life and education 
+Born in Chattanooga, Tennessee (April 5, 1970), Sherrill received his S.B. in chemistry from MIT.  He received his Ph.D. in 1996 from the University of Georgia, working with Professor Henry F. Schefer, III on highly correlated configuration interaction methods.  He was an NSF Postdoctoral Fellow in the laboratory of Martin Head-Gordon at the University of California, Berkeley.
+
+ Career 
+In 1999, Sherrill joined the faculty of the school of chemistry and biochemistry at Georgia Tech. He joined the school of computational science and engineering as a joint faculty member in 2006.  He became associate director of Georgia Tech's Institute for Data Engineering and Science (IDEaS) in 2017.  He has been an associate editor of The Journal of Chemical Physics since 2009.
+
+ Research 
+Sherrill develops methods, algorithms, and software for quantum chemistry.  He has introduced efficient density-fitting techniques into several quantum chemistry methods, speeding up computations.  His research group obtains highly-accurate results for important prototype chemical systems, and uses these results to develop computational protocols that are faster yet still accurate.  Sherrill focuses on intermolecular interactions, and has published definitive studies of the strength, geometric dependence, and substituent effects in prototype interactions including π-π, CH/π, S/π, and cation-π interactions.  He has developed extensions of symmetry-adapted perturbation theory (SAPT) to analyze these interactions in terms of their fundamental physical forces (electrostatics, exchange/steric repulsion, induction/polarization, and London dispersion forces).  A fragment-based partitioning of SAPT allows analyses of which non-bonded contacts are most important for binding, and has been used to understand substituent effects in protein-drug binding.
+Sherrill has published over 200 peer-reviewed articles on these topics, and presented over 130 invited lectures, including the 2011 Robert S. Mulliken Lecture at the University of Georgia, the keynote talk for the 2015 Workshop on Control of London Dispersion Interactions in Molecular Chemistry in Göttingen, and keynote talks at the 2015 and 2016 meetings of the Southeast Theoretical Chemistry Association.
+
+Sherrill's methods and algorithms are made publicly available to the quantum chemistry community through the open-source quantum chemistry program Psi, developed by his group and collaborators worldwide.
+
+ Awards 
+Sherrill is a Fellow of the American Physical Society, the American Chemical Society, and the American Association for the Advancement of Science.
+
+ Education 
+Sherrill is active in promoting education in chemistry, quantum chemistry, and data science.  He has published an extensive set of notes and lectures on fundamentals of quantum chemistry.  His educational efforts have been recognized by his being named the Outreach Volunteer of the Year by the Georgia Section of the American Chemical Society in 2017, and the Class of 1940 W. Howard Ector Outstanding Teacher at Georgia Tech in 2006.

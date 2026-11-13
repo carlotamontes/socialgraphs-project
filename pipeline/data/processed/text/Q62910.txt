@@ -1,0 +1,99 @@
+Carver Andress Mead (born 1 May 1934) is an American scientist and engineer. He is the Gordon and Betty Moore Professor Emeritus of Engineering and Applied Science at the California Institute of Technology (Caltech), having taught there for over 40 years. 
+
+A pioneer of modern microelectronics, Mead has made contributions to the development and design of semiconductors, digital chips, and silicon compilers, technologies which form the foundations of modern very-large-scale integration chip design. Mead has also been involved in the founding of more than 20 companies.  
+
+In the 1980s, Mead focused on electronic modeling of human neurology and biology, creating "neuromorphic electronic systems." He has called for the reconceptualization of modern physics, revisiting the theoretical debates of Niels Bohr, Albert Einstein and others in light of later experiments and developments in instrumentation.
+
+Mead's contributions as a teacher include the classic textbook Introduction to VLSI Systems (1980), which he coauthored with Lynn Conway. He also taught Deborah Chung, the first female engineering graduate of Caltech, and advised Louise Kirkbride, the school's first female electrical engineering student. 
+
+ Early life and education 
+Carver Andress Mead was born in Bakersfield, California, and grew up in Kernville, California. His father worked in a power plant at the Big Creek Hydroelectric Project, owned by Southern California Edison Company. Carver attended a tiny local school for some years, then moved to Fresno, California to live with his grandmother so that he could attend a larger high school. He became interested in electricity and electronics while very young, seeing the work at the power plant, experimenting with electrical equipment, qualifying for an amateur radio license and in high school working at local radio stations.
+
+Mead studied electrical engineering at Caltech, getting his BS in 1956, his MS in 1957, and his PhD degree in 1960.
+
+Microelectronics
+
+Mead's contributions have arisen from the application of basic physics to the development of electronic devices, often in novel ways. During the 1960s, he carried out systematic investigations into the energy behavior of electrons in insulators and semiconductors, developing a deep understanding of electron tunneling, barrier behavior and hot electron transport. In 1960, he was the first person to describe and demonstrate a three-terminal solid-state device based on the operating principles of electron tunneling and hot-electron transport. In 1962 he demonstrated that using tunnel emission, hot electrons retained energy when traveling nanometer distances in gold. His studies of III-V compounds (with W. G. Spitzer) established the importance of interface states, laying the groundwork for band-gap engineering and the development of heterojunction devices.
+
+ GaAs MESFET 
+In 1966, Mead designed the first gallium arsenide gate field-effect transistor using a Schottky barrier diode to isolate the gate from the channel. As a material, GaAs offers much higher electron mobility and higher saturation velocity than silicon. The GaAs MESFET became the dominant microwave semiconductor device, used in a variety of high-frequency Wireless electronics, including microwave communication systems in radio telescopes, satellite dishes and cellular phones. Carver's work on MESFETs also became the basis for the later development of HEMTs by Fujitsu in 1980. HEMTs, like MESFETs, are accumulation-mode devices used in microwave receivers and telecommunication systems.
+
+Moore's law
+Mead is credited by Gordon Moore with coining the term Moore's law, to denote the prediction Moore made in 1965 about the growth rate of the component count, "a component being a transistor, resistor, diode or capacitor," fitting on a single integrated circuit. Moore and Mead began collaborating around 1959 when Moore gave Mead "cosmetic reject" transistors from Fairchild Semiconductor for his students to use in his classes. During the 1960s Mead made weekly visits to Fairchild, visiting the research and development labs and discussing their work with Moore.  During one of their discussions, Moore asked Mead whether electron tunneling might limit the size of a workable transistor.  When told that it would, he asked what the limit would be.
+
+Stimulated by Moore's question, Mead and his students began a physics-based analysis of possible materials, trying to determine a lower bound for Moore's Law.  In 1968, Mead demonstrated, contrary to common assumptions, that as transistors decreased in size, they would not become more fragile or hotter or more expensive or slower. Rather, he argued that transistors would get faster, better, cooler and cheaper as they were miniaturized. His results were initially met with considerable skepticism, but as designers experimented, results supported his assertion. In 1972, Mead and graduate student Bruce Hoeneisen predicted that transistors could be made as small as 0.15 microns.  This lower limit to transistor size was considerably smaller than had been generally expected. Despite initial doubts, Mead's prediction influenced the computer industry's development of submicron technology. When Mead's predicted target was achieved in actual transistor development in 2000, the transistor was highly similar to the one Mead had originally described.
+
+Mead–Conway VLSI design
+Mead was the first to predict the possibility of creating millions of transistors on a chip.  His prediction implied that substantial changes in technology would have to occur to achieve such scalability. Mead was one of the first researchers to investigate techniques for very-large-scale integration, designing and creating high-complexity microchips.
+
+He taught the world's first LSI design course, at Caltech in 1970. Throughout the 1970s, with involvement and feedback from a succession of classes, Mead developed his ideas of integrated circuit and system design. He worked with Ivan Sutherland and Frederick B. Thompson to establish computer science as a department at Caltech, which formally occurred in 1976. Also in 1976, Mead co-authored a DARPA report with Ivan Sutherland and Thomas Eugene Everhart, assessing the limitations of current microelectronics fabrication and recommending research into the system design implications of "very-large-scale integrated circuits".
+
+Beginning in 1975, Carver Mead collaborated with Lynn Conway from Xerox PARC. They developed the landmark text Introduction to VLSI systems, published in 1979, an important spearhead of the Mead and Conway revolution. A pioneering textbook, it has been used in VLSI integrated circuit education all over the world for decades. The circulation of early preprint chapters in classes and among other researchers attracted widespread interest and created a community of people interested in the approach. They also demonstrated the feasibility of multi-project shared-wafer methodology, creating chips for students in their classes.
+
+Their work caused a paradigm shift, a "fundamental reassessment" of the development of integrated circuits, and "revolutionized the world of computers". In 1981, Mead and Conway received the Award for Achievement from Electronics Magazine in recognition of their contributions. More than 30 years later, the impact of their work is still being assessed.
+
+Building on the ideas of VLSI design, Mead and his PhD student David L. Johannsen created the first silicon compiler, capable of taking a user's specifications and automatically generating an integrated circuit. Mead, Johannsen, Edmund K. Cheng and others formed Silicon Compilers Inc. (SCI) in 1981. SCI designed one of the key chips for Digital Equipment Corporation's MicroVAX minicomputer.
+  
+Mead and Conway laid the groundwork for the development of the MOSIS (Metal Oxide Semiconductor Implementation Service) and the fabrication of the first CMOS chip. Mead advocated for the idea of fabless manufacturing in which customers specify their design needs to fabless semiconductor companies. The companies then design special-purpose chips and outsource the chip fabrication to less expensive overseas semiconductor foundries.
+
+Neural models of computing
+Next Mead began to explore the potential for modelling biological systems of computation: animal and human brains. His interest in biological models dated back at least to 1967, when he met biophysicist Max Delbrück. Delbrück had stimulated Mead's interest in transducer physiology, the transformations that occur between the physical input initiating a perceptual process and eventual perceptual phenomena.
+
+Observing graded synaptic transmission in the retina, Mead became interested in the potential to treat transistors as analog devices rather than digital switches. He noted parallels between charges moving in MOS transistors operated in weak inversion and charges flowing across the membranes of neurons. He worked with Nobelist John Hopfield and Nobelist Richard Feynman, helping to create three new fields: neural networks, neuromorphic engineering, and the physics of computation. Mead, considered a founder of neuromorphic engineering, is credited with coining the term "neuromorphic processors".
+
+Mead was then successful in finding venture capital funding to support the start of a number of companies, in part due to an early connection with Arnold Beckman, chairman of the Caltech Board of Trustees. Mead has said that his preferred approach to development is "technology push", exploring something interesting and then developing useful applications for it.
+
+ Touch 
+In 1986, Mead and Federico Faggin founded Synaptics Inc. to develop analog circuits based in neural networking theories, suitable for use in vision and speech recognition. The first product Synaptics brought to market was a pressure-sensitive computer touchpad, a form of sensing technology that rapidly replaced the trackball and mouse in laptop computers. The Synaptics touchpad was extremely successful, at one point capturing 70% of the touchpad market.
+
+ Hearing 
+In 1988, Richard F. Lyon and Carver Mead described the creation of an analog cochlea, modelling the fluid-dynamic traveling-wave system of the auditory portion of the inner ear. Lyon had previously described a computational model for the work of the cochlea. Such technology had potential applications in hearing aids, cochlear implants, and a variety of speech-recognition devices. Their work has inspired ongoing research attempting to create a silicon analog that can emulate the signal processing capacities of a biological cochlea.
+
+In 1991, Mead helped to form Sonix Technologies, Inc. (later Sonic Innovations Inc.).  Mead designed the computer chip for their hearing aids. In addition to being small, the chip was said to be the most powerful used in a hearing aid. Release of the company's first product, the Natura hearing aid, took place in September 1998.
+
+ Vision 
+In the late 1980s, Mead advised Misha Mahowald, a PhD student in computation and neural systems, to develop the silicon retina, using analog electrical circuits to mimic the biological functions of rod cells, cone cells, and other excitable cells in the retina of the eye. Mahowald's 1992 thesis received Caltech's Milton and Francis Clauser Doctoral Prize for its originality and "potential for opening up new avenues of human thought and endeavor".  her work was considered "the best attempt to date" to develop a stereoscopic vision system. Mead went on to describe an adaptive silicon retina, using a two-dimensional resistive network to model the first layer of visual processing in the outer plexiform layer of the retina.
+
+Around 1999, Mead and others established Foveon, Inc. in Santa Clara, California to develop new digital camera technology based on neurally-inspired CMOS image sensor/processing chips. The image sensors in the Foveon X3 digital camera captured multiple colors for each pixel, detecting red, green and blue at different levels in the silicon sensor.  This provided more complete information and better quality photos compared to standard cameras, which detect one color per pixel. It has been hailed as revolutionary. In 2005, Carver Mead, Richard B. Merrill and Richard Lyon of Foveon were awarded the Progress Medal of the Royal Photographic Society, for the development of the Foveon X3 sensor.
+
+ Synapses 
+Mead's work underlies the development of computer processors whose electronic components are connected in ways that resemble biological synapses.
+In 1995 and 1996 Mead, Hasler, Diorio, and Minch presented single-transistor silicon synapses capable of analog learning applications and long-term memory storage. Mead pioneered the use of floating-gate transistors as a means of non-volatile storage for neuromorphic and other analog circuits.
+
+Mead and Diorio went on to found the radio-frequency identification (RFID) provider Impinj, based on their work with floating-gate transistors (FGMOS)s. Using low-power methods of storing charges on FGMOSs, Impinj developed applications for flash memory storage and radio frequency identity tags.
+
+ Reconceptualizing physics 
+
+Carver Mead has developed an approach he calls Collective Electrodynamics, in which electromagnetic effects, including quantized energy transfer, are derived from the interactions of the wavefunctions of electrons behaving collectively. In this formulation, the photon is a non-entity, and Planck's energy–frequency relationship comes from the interactions of electron eigenstates.  The approach is related to John Cramer's transactional interpretation of quantum mechanics, to the Wheeler–Feynman absorber theory of electrodynamics, and to Gilbert N. Lewis's early description of electromagnetic energy exchange at zero interval in spacetime.
+
+Although this reconceptualization does not pertain to gravitation, a gravitational extension of it makes predictions that differ from general relativity. For instance, gravitational waves should have a different polarization under "G4v", the name given to this new theory of gravity.  Moreover, this difference in polarization can be detected by advanced LIGO.
+
+ Companies 
+Mead has been involved in the founding of at least 20 companies.  The following list indicates some of the most significant, and their main contributions.
+
+Lexitron, videotype word processing
+Actel, field programmable gate arrays
+Foveon, silicon sensors for photographic imaging
+Impinj, self-adaptive microchips for flash memory and RFID
+Silicon Compilers, integrated circuit design
+Sonic Innovations, computer chips for hearing aids
+Synaptics, touch pads for computers
+Silerity, automated chip design software
+
+ Awards 
+2022 Kyoto Prize in Advanced Technology
+2011 BBVA Foundation Frontiers of Knowledge Award of Information and Communication Technologies "... for his influential thinking in silicon technology. His work has enabled the development of the microchips that drive the electronic devices (laptops, tablets, smartphones, DVD players) ubiquitous in our daily lives."
+ 2005, Progress Medal of the Royal Photographic Society 
+ 2002, National Medal of Technology
+ 2002, Fellow of the Computer History Museum "for his contributions in pioneering the automation, methodology and teaching of integrated circuit design". 
+ 2001, Dickson Prize in Science, award announced 2001, lecture March 19, 2002
+ 1999, Lemelson-MIT Prize
+ 1997, Allen Newell Award, Association for Computing Machinery
+ 1996, John Von Neumann Medal, Institute of Electrical and Electronics Engineers
+ 1996, Phil Kaufman Award for his impact on electronic design industry
+ 1992, Award for Outstanding Research, International Neural Network Society
+ 1985, John Price Wetherill Medal from The Franklin Institute, with Lynn Conway
+ 1985, Harry H. Goode Memorial Award, American Federation of Information Processing Societies
+ 1984, Elected a member of the National Academy of Engineering for great insight into the problems and potentialities of VLSI, and for helping to advance the art.
+ 1984, Harold Pender Award, with Lynn Conway
+ 1981, Award for Achievement from Electronics Magazine, with Lynn Conway

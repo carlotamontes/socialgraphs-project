@@ -1,0 +1,17 @@
+Johan Paulsson  is a Swedish mathematician and systems biologist at Harvard Medical School. He is a  researcher in systems biology and stochastic processes, specializing in stochasticity in gene networks and plasmid reproduction.
+
+ Biography 
+Johan Paulsson was born in 1973, in Kristinehamn, a small city in the Swedish province of Värmland. He studied at Uppsala University, where he obtained a BSc in mathematics in 1996, a Masters of Science in Molecular Biology in 1996, and a Ph.D. in Molecular Biology in 2000 on stochasticity in intracellular circuits, in particular in plasmid copy control, under the supervision of Profs. Mans Ehrenberg and Kurt Nordström. In 2000 he moved to Princeton University, where he was a Lewis-Thomas Fellow in Biophysics, where he did the research for his paper "Summing up the noise in genetic networks", which received wide attention because it gave a firm theoretical footing to the budding field of genetic noise. In 2003 he joined the Dept. of Applied Mathematics and Theoretical Physics at the University of Cambridge and was tenured the following year. In 2005 he moved to the recently created Department of Systems Biology at Harvard University, where he focused on the development of experimental techniques for counting plasmids in single cells and on theoretical results on control of fluctuations in gene expression.
+
+He is married with two children.
+
+ Work 
+Paulsson's lab has made contributions to the development of experimental techniques for counting plasmids, to extend his previous work on the mathematical aspects of plasmid replication
+as well as theoretical work on the stochastic processes on gene expression and copy number control
+and work on multi-level selection by using experimental evolution.
+
+A publication is the analysis of all previous noise data and interpretations in one unified framework, which later guided many experimental approaches.
+
+More recent results include the effects of partition in phenotypic variability, 
+the details of the stochastic processes that underlie gene expression noise and the limitations of the usual experimental approaches
+and the fundamental limits of feedback as a noise control mechanism.  This set of interests led Paulsson to examine the repressilator, a synthetic gene regulatory network that was designed from scratch to oscillate and reported in 2000 by Michael Elowitz and Stanislas Leibler.  Although the repressilator oscillated, and therefore demonstrated the potential of synthetic biology, the oscillations were noisy and quickly became incoherent on the single cell level.  Using an understanding of the causes of noise in cellular networks, Paulsson's team was able to redesign the repressilator, retaining the basic design, to produce a new synthetic circuit that oscillated with some accuracy.

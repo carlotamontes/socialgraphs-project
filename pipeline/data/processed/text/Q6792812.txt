@@ -1,0 +1,26 @@
+Maurice A. de Gosson (born 13 March 1948), (also known as Maurice Alexis de Gosson de Varennes) is an  Austrian mathematician and mathematical physicist, born in Berlin. He is currently a Senior Researcher at the Numerical Harmonic Analysis Group (NuHAG) of the University of Vienna.
+
+ Work 
+After completing his PhD in microlocal analysis  at the University of Nice in 1978 under the supervision of Jacques Chazarain, de Gosson soon became fascinated by Jean Leray's Lagrangian analysis. Under Leray's tutorship de Gosson completed a Habilitation à Diriger des Recherches en Mathématiques at the University of Paris 6 (1992). During this period he specialized in the study of the Leray–Maslov index and in the theory of the metaplectic group, and their applications to mathematical physics. In 1998 de Gosson met Basil Hiley, who triggered his interest in conceptual questions in quantum mechanics. Basil Hiley wrote a foreword to de Gosson's book The Principles of Newtonian and Quantum Mechanics (Imperial College Press, London).
+After having spent several years in Sweden as Associate Professor and Professor in Sweden, de Gosson was appointed in 2006 to the Numerical Harmonic Analysis Group of the University of Vienna, created by Hans Georg Feichtinger (see www.nuhag.eu). He currently works in symplectic methods in harmonic analysis, and on conceptual questions in quantum mechanics, often in collaboration with Basil Hiley.
+
+ Visiting positions 
+Maurice de Gosson has held longer visiting positions at Yale University, University of Colorado in Boulder (Ulam Visiting professor),  University of Potsdam, Albert-Einstein-Institut (Golm), Max-Planck-Institut für Mathematik (Bonn), Université Paul Sabatier (Toulouse), Jacobs Universität (Bremen)
+
+ Symplectic camel 
+Maurice de Gosson was the first to prove that Mikhail Gromov's symplectic non-squeezing theorem (also called the Principle of "the Symplectic Camel") allowed the derivation of a classical uncertainty principle formally totally similar to the Robertson–Schrödinger uncertainty relations (i.e. the Heisenberg inequalities in a stronger form where the covariances are taken into account).  This rather unexpected result was discussed in the media.
+
+ Quantum blobs 
+In 2003, Gosson introduced the notion of quantum blobs, which are defined in terms of symplectic capacities and are invariant under canonical transformations. Shortly after, he showed that Gromov's non-squeezing theorem allows a coarse-graining of phase space by such quantum blobs (or symplectic quantum cells), each described by a mean momentum and a mean position:
+ The quantum blob is the image of a phase space ball with radius  by a (linear) symplectic transformation.
+and
+ "Quantum blobs are the smallest phase space units of phase space compatible with the uncertainty principle of quantum mechanics and having the symplectic group as group of symmetries. Quantum blobs are in a bijective correspondence with the squeezed coherent states from standard quantum mechanics, of which they are a phase space picture."
+
+Their invariance property distinguishes de Gosson's quantum blobs from the "quantum cells" known in thermodynamics, which are units of phase space with a volume of the size of the Planck constant h to the power of 3.
+
+Together with G. Dennis and Basil Hiley, de Gosson laid out examples of how the quantum blob can be seen as a "blow-up" of a particle in phase space. To demonstrate this, they picked up on "Fermi's trick" which allows identifying an arbitrary wavefunction as a stationary state for some Hamiltonian operator. They showed that this blow-up requires internal energy that comes from the particle itself, involving the kinetic energy and David Bohm's quantum potential.
+
+In the classical limit, the quantum blob becomes a point particle.
+
+ Influence 
+De Gosson's notion of quantum blobs has given rise to a proposal for a new formulation of quantum mechanics, which is derived from postulates on quantum-blob-related limits to the extent and localization of quantum particles in phase space; this proposal is strengthened by the development of a phase space approach that applies to both quantum and classical physics, where a quantum-like evolution law for observables can be recovered from the classical Hamiltonian in a non-commutative phase space, where x and p are (non-commutative) c-numbers, not operators.

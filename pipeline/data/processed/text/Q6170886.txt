@@ -1,0 +1,22 @@
+Jean Jacques Moreau (31 July 1923 – 9 January 2014) was a French mathematician and mechanician. He normally published under the name J. J. Moreau.
+
+Moreau was born in Blaye. He received his doctorate in mathematics from the University of Paris, then became a researcher at the Centre National de la Recherche Scientifique.  He was appointed Professor of Mathematical Models in Physics at Poitiers University and later Professor of General Mechanics at University of Montpellier II.  He was emeritus professor in the Laboratoire de Mécanique et Génie Civil, a joint research unit of the university and the CNRS.
+
+Moreau's principal works have been in non-smooth mechanics and convex analysis. He is considered one of the founders of convex analysis, where several fundamental and now classical results have his name (Moreau's lemma of the two cones, Moreau's envelopes, Moreau-Yosida's approximations, Fenchel-Moreau's theorem, etc.). He founded the Convex Analysis Group in the 1970s at Montpellier University (France).
+
+He may also be considered one of the founders of non-smooth mechanics, a field of Solid Mechanics dealing with mechanical systems subjected to unilateral and bilateral constraints, impacts and set-valued friction laws (like Coulomb's friction law and its variations). He introduced complementarity conditions in Lagrangian systems, and proved that the Gauss' principle of mechanics extends to the case of non-smooth mechanics (one C.R.A.S. Paris paper in 1963 and a SIAM Control J. article in 1966). He invented in 1971/1972  the so-called sweeping process, which is a specific differential inclusion whose right-hand side is the normal cone to a time or state-dependent set (that may be convex or not). Sweeping processes represent a neat and powerful mathematical framework for many non-smooth mechanical systems, including Lagrangian systems, with applications in plasticity, fluid mechanics, electrical circuits with non-smooth components. The mathematical literature on various kinds of sweeping processes has become abundant, with extensions towards, for example, non-convex sets (especially prox-regular sets), state-dependent sets, higher-order processes with distributional solutions, and relationships with complementarity dynamical systems.
+
+After retiring in the 1980s, he started an intense research activity in Granular Matter, and contributed to settle the so-called Moreau-Jean event-capturing (or time-stepping) numerical scheme. The Moreau-Jean scheme may be seen as an extension of the implicit Euler method, originating from the (second order) sweeping process formalism of the Lagrange dynamics with unilateral constraints and impacts, which is a specific Measure Differential Inclusion (i.e., a differential inclusion whose solutions are measures). The Moreau-Jean scheme has inspired several groups of researchers in Europe and the USA for the simulation of non-smooth mechanical systems, and is available in open-source software packages like the INRIA SICONOS platform or the LMGC90 platform.
+
+He discovered the helicity invariant in the fluid dynamics of ideal fluids in 1962.
+
+Moreau received many prizes, including the Grand Prix Joannidès of the Académie des Sciences.
+
+ Links 
+
+Some of J.J. Moreau's publications
+
+Category:1923 births
+Category:2014 deaths
+Category:20th-century French mathematicians
+Category:University of Paris alumni

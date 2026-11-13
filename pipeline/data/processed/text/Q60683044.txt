@@ -1,0 +1,23 @@
+Hans Lischka (born July 26, 1943) is an Austrian computational theoretical chemist specialized on development and application of multireference methods for the study of molecular excited states. He is the main developer of the software package Columbus for ab initio multireference calculations and co-developer of the Newton-X program.
+
+ Biography, education and career
+
+Hans Lischka was born in Vienna, in 1943, and studied chemistry at the University of Vienna, where he earned a Ph.D. in 1969, being supervised by Gerhard Derflinger. He was a postdoc with Werner Kutzelnigg at the University of Karlsruhe in 1972-1973 and got his habilitation in theoretical chemistry in 1976.
+
+In 1980, he was a visiting professor with Isaiah Shavitt at the Ohio State University, where he started the development of a set of codes for multireference calculations in collaboration with Ron Shepard, Frank Brown, and Russell M. Pitzer. This set of programs later became the Columbus system. Hans Lischka became a professor of theoretical chemistry at the University of Vienna also in 1980.
+
+Between 2011 and 2015, Hans Lischka was a research professor at Texas Tech University in Lubbock, Texas. In 2015, he took a position as professor at the School of Pharmaceutical Sciences, Tianjin University in Tianjin, China.
+
+In addition to his academic work, Lischka has served as the director of the Institute for Theoretical Chemistry and Radiation Chemistry of the University of Vienna (1992–1996), head of the section Vienna, Lower Austria and Burgenland of the Austrian Chemical Society (1993–1995) and vice director of the Institute for Theoretical Chemistry and Structural Biology (2000–2004).
+
+ Honors and awards 
+
+ 1980 Sandoz Prize for Chemistry
+ 2008 Festschrift in Chemical Physics.
+ 2008 International Symposium on “Electron Correlation and Molecular Dynamics for Excited States and Photochemistry”, International Symposium in honor of Hans Lischka's 65th birthday, July 4, 2008
+
+ Scientific contributions, interests and achievements 
+
+Lischka is responsible for the development and implementation of highly parallelized MRCI, with analytical energy gradients and analytical nonadiabatic couplings. These methods later became the heart of the Newton-X program. In 2010, Lischka's group published the first ab initio mapping of the deactivation mechanism of UV-excited canonical nucleobases.
+
+His current research interests include method developments in multireference theory and computational photodynamics. His work is also concerned with applications of computational chemistry to graphene defects, polyradicloid systems, organic photovoltaics, interacting nucleobases, and non-covalent interactions. To date, Lischka has published over 500 scientific papers.

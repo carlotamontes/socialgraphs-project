@@ -1,0 +1,69 @@
+Sergei Anatolyevich Tretyakov (; born in 1956) is a Russian-Finnish scientist, focused in electromagnetic field theory, complex media electromagnetics and microwave engineering. He is currently a professor at Department of Electronics and Nanoengineering, Aalto University (former Helsinki University of Technology), Finland. His main research area in recent years is metamaterials and metasurfaces from fundamentals to applications. He was the president of the European Virtual Institute for Artificial Electromagnetic Materials and Metamaterials ("Metamorphose VI") and general chair of the Metamaterials Congresses from 2007 to 2013. He is a fellow/member of many scientific associations such as IEEE, URSI, the Electromagnetics Academy, and OSA. He is also an Honorary Doctor of Francisk Skorina Gomel State University.
+
+ Education 
+Sergei Tretyakov has received the Engineer's degree and the Candidate of Sciences (PhD) degree in radiophysics from the Leningrad Polytechnic Institute, 
+USSR in 1980 and 1987, respectively. In 1994 he was granted a Docent Diploma by the Ministry of Education of Russian Federation and in the following year he received Doctor of Sciences degree from St. Petersburg State Technical University, Russia. 
+Tretyakov obtained his Full Professor Diploma in 1997 granted by the Ministry of Education, Russia.
+
+Career
+Professional career of Sergei Tretyakov started in 1980 at Radiophysics Department of Leningrad Polytechnic Institute, where he had been an engineer and junior researcher until 1986.
+In 1986 he was promoted to the position of assistant professor and in 1989 to the position of associate professor.
+In October 1988, Tretyakov had a 10-months-long research visit to Helsinki University of Technology (from 2010, Aalto University) according to the exchange program between 
+the Ministries of Education in Finland and Soviet Union. 
+During following 8 years, Tretyakov was affiliated with both Electromagnetics Laboratory of Helsinki University of Technology where he worked with Ismo Lindell and Ari Sihvola and 
+St. Petersburg State Technical University where he worked with Constantin Simovski. 
+Tretyakov visited CEA Cesta (French Alternative Energies and Atomic Energy Commission research centre), also affiliated with the Laboratory of Wave-Material Interactions in University of Bordeaux, for 6 months in 1994 as a visiting scientist. 
+In 1996, he was promoted to full professor position in St. Petersburg State Technical University, where he also became a director of Complex Media Electromagnetics Laboratory.
+From January 1999 until July 2000 Tretyakov was a visiting professor in Electromagnetics Laboratory of Helsinki University of Technology and in August 2000, he moved to the Helsinki University of Technology as a full professor of Radio Engineering.
+Later on, as a visiting professor, he visited the Abbe Center of Photonics in Friedrich Schiller University Jena, Germany during June – July 2013, and the Department of Photonics Engineering in Technical University of Denmark during January - April 2013. He educated 13 doctors of science.
+
+Research
+
+Tretyakov has authored or co-authored more than 280 papers in refereed journals, 5 books, and 17 book chapters.  Tretyakov's research career started with his diploma thesis under supervision of Prof. V.A. Rozov. The thesis was devoted to the problem of diffraction at an edge of dense planar arrays of metal wires, what is now referred as metasurfaces or two-dimensional metamaterials. During the doctoral studies, Tretyakov worked on ferrite-based anisotropic layered structures under supervision of Prof. M.I. Kontorovich. The first research visit to Helsinki University of Technology profoundly influenced his research interest, shifting it towards a novel and very promising direction of complex electromagnetic materials (now called metamaterials). From this time forth Tretyakov actively works in this research direction with the main contributions listed below.
+
+ Electromagnetics of chiral and general bianisotropic media 
+Tretyakov made important contributions to research of bianisotropic media. Together with co-authors, he developed the general theory of electromagnetic waves interactions with bianisotropic materials and layers. Moreover, Tretyakov proposed and experimentally characterized first non-reciprocal bianisotropic scatterers of two types: so-called Tellegen scatterer (named after Bernard D. H. Tellegen who suggested gyrator as a circuit element with equivalent electromagnetic response) and artificial "moving" scatterer (a composite based on such scatterers emulate response of a truly moving medium). In 1997, Tretyakov and his colleagues demonstrated that chiral effects (optical rotation and circular dichroism) can be achieved even with an infinitely thin composite layer without broken mirror symmetry. This effect was subsequently named as planar chirality and independently discovered by the team of Nikolay I. Zheludev in 2003.
+
+ Chiral nihility and negative refractive index 
+
+Possibility of existence of a backward wave medium, where electromagnetic waves propagate with anti-parallel phase and group velocities, was suggested by several scientists throughout the twentieth century: Arthur Schuster, Horace Lamb, Leonid Mandelstam, Victor Veselago, and others. However, due to the absence of materials with such properties in nature, wide interest to the backward wave media was generated only in the early 2000s, when the team of David R. Smith experimentally demonstrated first negative-index metamaterial. In 2003, Tretyakov and colleagues suggested an alternative way to achieve backward waves by using bianisotropic chiral materials. In this case, it is not required to engineer negative permittivity and permeability, instead, one should just ensure proper chiral response of the material. In the extreme case of so-called chiral nihility (when both relative permittivity and permeability are much smaller than the chirality parameter), two eigenwaves represent "forward" and "backward" circularly polarized waves with equal phase velocities. The existence of backward waves in chiral media was independently suggested by John Pendry in 2004.
+
+ Broadband cloaking of cylindrical objects 
+Inspired by the idea of transformation-optics based electromagnetic cloaking, Tretyakov's team developed an alternative realization of the same effect for cylindrical objects. In contrast to the previous designs, Tretyakov's cloaking device exhibits significantly increased bandwidth and lower amount of dissipation loss. Moreover, it does not require the use of exotic metamaterials with gradient permittivity and permeability, but, instead, is based on conducting plates with a simple geometry.
+
+ Strong spatial dispersion in wire media 
+In 2003, Tretyakov's group demonstrated that a dense array of metal wires (wire medium), generally, exhibits strong nonlocal response (spatial dispersion), i.e. cannot be described by usual material parameters such as permittivity. The property of strong spatial dispersion enables the use of wire media for subwavelength imaging and transmission of images over long distances.
+
+ Superlensing 
+The concept of the superlens, introduced by John Pendry in 2000 as an extension of the work done by Victor Veselago, showed a theoretical possibility to achieve optical resolution well below the wavelength. In 2003, Stanislav Maslovski and Sergei Tretyakov showed that an alternative to Pendry's device can be constructed using layers that impose the necessary boundary conditions at two parallel planes in free space. Later in 2004, Tretyakov with co-authors explored the necessary electromagnetic properties of the layers and confirmed the effect with experiments.
+
+ Constitutive parameters of metamaterials 
+By definition, metamaterials are realized as lattices whose periodicity is assumed to be much smaller than the wavelength. However, it is important that, though small, the periodicity is not negligible with respect to the wavelength. For this reason, if one formally introduces constitutive parameters for such regime, they will not be measurable response functions, and it will not be possible to use them for a sample of other dimensions or for a sample excited in another way. In other words, such formally introduced material parameters cannot satisfy the conditions of locality. In 2007, Tretyakov and colleagues explained the physical meaning of calculated material parameters, different from the meaning of the local constitutive parameters
+
+ High-impedance surfaces and metasurfaces 
+High impedance surfaces (HIS), also known as artificial magnetic conductors (AMC), are artificial structures designed by applying special textures to a conducting surface. In a narrow band of frequencies, these structures have very high impendences which can be used as ground planes for novel low profile antennas and other electromagnetic structures. In 2008, Tretyakov and colleagues developed analytical formulas for the calculation of the grid impedance of electrically dense arrays of strips and square patches and their applications for HIS. Tretyakov also made an important contribution to clarify the role of spatial dispersion in the mushroom structure in 2009. This work demonstrated that, under some conditions, spatial dispersion is suppressed. More recently, he worked on modelling and applications of thin composite layers with engineered electromagnetic properties (metasurfaces), in particular, developing approaches to full control of reflected and transmitted waves.
+
+Awards and recognition
+ Honorable Doctor, Francisk Skorina Gomel State University (Belarus) 
+ President, European Virtual Institute for Artificial Electromagnetic Materials and Metamaterials ("Metamorphose VI"), International Association of European universities, 2007 – 2013 
+ General chair, International Congress Series on Advanced Electromagnetic Materials in Microwaves and Optics (Metamaterials), 2007-2013 
+ Founder and Chairman, St. Petersburg IEEE ED/MTT/AP Chapter, 1995-1998 
+ Deputy Member, URSI (International Union of Radio Science) Finnish National Committee, from 2006; Individual member of URSI since 2018
+
+ Coordinator, FP6 Network of Excellence Metamorphose, 2004-2008 
+ Fellow, the Institute of Electrical and Electronics Engineers (IEEE) 
+ Fellow, the Electromagnetics Academy (USA) 
+ Senior member, Optical Society of America (OSA)
+ Member, European Microwave Association 
+ Member, Finnish Academy of Technical Sciences (Teknillisten Tieteiden Akatemia)
+ Member, Tenure-track Committee, Aalto University School of Electrical Engineering, since 2011 
+ Member, Expert Advisory Group for Nanosciences, Nanotechnologies, Materials and New Production Technologies (European Commission, 7th Framework Programme), 2007 – 2011 
+ Member, European Microwave Conferences Management Committee, 2000-2002 
+ Steering Committee Member, European Doctoral Degree Programmes on Metamaterials EUPROMETA
+
+Important monographs
+
+ "Analytical Modeling in Applied Electromagnetics" 
+ "Electromagnetics of bi-anisotropic materials: Theory and applications"
+ "Modern Electromagnetic Scattering Theory with Applications"
+ "Electromagnetic waves in chiral and bi-isotropic media"

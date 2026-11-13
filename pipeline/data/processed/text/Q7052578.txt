@@ -1,0 +1,13 @@
+Norman H. Margolus (born 1955) is a Canadian-American physicist and computer scientist, known for his work on cellular automata and reversible computing. He is a research affiliate with the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology.
+
+ Education and career 
+Margolus received his Ph.D. in physics in 1987 from the Massachusetts Institute of Technology (MIT) under the supervision of Edward Fredkin. He founded and was chief scientist for Permabit, an information storage device company.
+
+ Research contributions 
+Margolus was one of the organizers of a seminal research meeting on the connections between physics and computation theory, held on Mosquito Island in 1982. He is known for inventing the block cellular automaton and the Margolus neighborhood for block cellular automata, which he used to develop cellular automaton simulations of billiard-ball computers. 
+
+In the same work, Margolus also showed that the billiard ball model could be simulated by a second-order cellular automaton, a different type of cellular automaton invented by his thesis advisor, Edward Fredkin. These two simulations were among the first cellular automata that were both reversible (able to be run backwards as well as forwards for any number of time steps, without ambiguity) and universal (able to simulate the operations of any computer program); this combination of properties is important in low-energy computing, as it has been shown that the energy dissipation of computing devices may be made arbitrarily small if and only if they are reversible. 
+
+In connection with this issue, Margolus and his co-author  Lev B. Levitin proved the Margolus–Levitin theorem showing that the speed of any computer is limited by the fundamental laws of physics to be at most proportional to its energy use; this implies that ultra-low-energy computers must run more slowly than conventional computers.
+
+With Tommaso Toffoli, Margolus developed the CAM-6 cellular automaton simulation hardware, which he extensively described in his book with Toffoli, Cellular Automata Machines (MIT Press, 1987), and with Tom Knight he developed the "Flattop" integrated circuit implementation of billiard-ball computation. He has also done pioneering research on the reversible quantum gate logic needed to support quantum computers.

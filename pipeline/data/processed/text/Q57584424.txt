@@ -1,0 +1,18 @@
+Charles Rudolf Legéndy (Hungarian: Legéndy Károly Rudolf, born November 2, 1936), is a Hungarian-born American engineer, theoretical physicist, and neuroscientist.
+
+In physics, Legéndy is known for his theoretical work on the helicon phenomenon, In neuroscience, he is known for introducing the "Poisson surprise" test used for burst detection in neuronal spike trains, and for his calculations of brain capacity.
+
+ Biography 
+Legéndy began his university studies at the Budapest University of Technology (Műegyetem). After emigrating to the United States in 1956, he obtained a bachelor's degree in engineering physics from Princeton University (1959) and a PhD in theoretical physics from Cornell University (1964).
+
+In his postdoctoral years, Legéndy switched from physics to neuroscience and took a series of research positions in the US and overseas, publishing both theoretical and experimental papers.  In 1985 he lost his research funding and returned to engineering, working in aerospace design (ITT Avionics, Singer-Kearfott), and in database management, until his retirement (2001).  In retirement, Legéndy joined the Psychology Department at Columbia University in an unpaid position as an adjunct researcher, and (after a 26-year hiatus in publications) resumed work in theoretical neuroscience.
+
+While in Germany, Legéndy met his future wife Annemarie; they married in 1977, and settled down to raise their children in New York City.
+
+ Physics: helicon waves 
+As a graduate student at Cornell, Legéndy joined an experimental team which had just discovered an electromagnetic resonance phenomenon at unexpectedly low frequencies (32 Hz and below) inside a metal sample in a magnetic field.  Legéndy showed that the resonance was the manifestation of solid-state plasma wave propagation inside the metal, mathematically comparable to radio whistlers  in the ionosphere.
+
+ Neuroscience: general design of data processing in the brain 
+Legéndy's theory of the brain develops certain additions to the Hebbian theory; in particular, to the theory of cell assemblies.  He estimated the maximum number of stable cell assemblies that could fit into the network. Under the most optimistic set of assumptions available at the time, the brain model could contain up to 109 "mental entities," the figure later used by Hebb in illustrating the large capacity of the brain.  (Recent data shows that the estimate must be greatly reduced; and Legéndy now believes that the large capacity of brains cannot be explained in terms of synaptic weights alone; synapse-based memory must be supplemented by a molecular backup system.)
+
+Legéndy's work on brain circuitry and ignitions led to the “Poisson surprise” analysis of neuronal spike trains a method of burst detection.  (Poisson surprise is defined as –log P, where P is the probability of a spike pattern under the assumed baseline distribution of spiking — in this case the Poisson distribution.)  The test can quickly detect and quantify bursts in neuronal spike trains; and it is used, for instance, as a way to detect loss of functionality in certain brain regions. The critique of the Poisson surprise test is that actual spike distributions differ from the Poisson distribution to varying degrees (for instance for interspike intervals smaller than the refractory period); the critique generally suggests changing the underlying probability distribution, not the principle of surprise-based burst detection.  The concept of surprising events in neuronal spike trains was originally introduced on theoretical grounds, in view of the large number of unplanned contacts present in the brain which necessitate statistical methods for distinguishing the useful signals from random firing.

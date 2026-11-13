@@ -1,0 +1,38 @@
+Gene Myron Amdahl (November 16, 1922 – November 10, 2015) was an American computer architect and high-tech entrepreneur, known for his work on mainframe computers at IBM and later his own companies, especially Amdahl Corporation. He formulated Amdahl's law, which states a fundamental limitation of parallel computing.
+
+Childhood and education
+Amdahl was born to immigrant parents of Norwegian and Swedish descent in Flandreau, South Dakota. After serving in the Navy during World War II he completed a degree in engineering physics at South Dakota State University in 1948.
+
+He went on to study theoretical physics at the University of Wisconsin–Madison under Robert G. Sachs. However, in 1950, Amdahl and Charles H. "Charlie" Davidson, a fellow PhD student in the Department of Physics, approached Prof. Harold A. Peterson with the idea of a digital computer. Amdahl and Davidson gained the support of Peterson and fellow electrical engineering professor Vincent C. Rideout, who encouraged them to build a computer of their unique design. Amdahl completed his doctorate at UW–Madison in 1952 with a thesis titled A Logical Design of an Intermediate Speed Digital Computer and created his first computer, the Wisconsin Integrally Synchronized Computer (WISC). He then went straight from Wisconsin to a position at IBM in June 1952.
+
+IBM
+At IBM, Amdahl worked on the IBM 704, the IBM 709, and then the Stretch project, the basis for the IBM 7030. He left IBM in December 1955, but returned in September 1960 (after working at Ramo-Wooldridge and at Aeronutronic). He had quit out of frustration with the bureaucratic structure of the organization. In an interview conducted in 1989 for the Charles Babbage Institute, he addressed this:
+
+On his return, he became the chief architect of IBM System/360 and was named an IBM Fellow in 1965, and head of the Advanced Computing Systems Laboratory (ACS) in Menlo Park, California.
+
+ Amdahl Corporation 
+He left IBM again in September 1970, after his ideas for computer development were rejected, and set up Amdahl Corporation in Sunnyvale, California with major financing from Fujitsu.
+
+Competing with IBM in the mainframe market, the company manufactured "plug-compatible" mainframes, shipping its first machine in 1975: the Amdahl 470V/6, a less expensive, more reliable and faster replacement for the System 370/168. By purchasing an Amdahl 470 and plug-compatible peripheral devices from third-party manufacturers, customers could now run S/360 and S/370 applications without buying IBM's hardware. Amdahl's software team developed VM/PE (Virtual Machine/Performance Enhancement), software designed to optimize the performance of IBM's MVS operating system when running under IBM's VM operating system.
+
+By 1979, Amdahl Corporation had sold over US$1 billion of V6 and V7 mainframes and had over 6,000 employees worldwide. The corporation went on to distribute an IBM-plug-compatible front-end processor (the 4705) as well as high-performance disk drives, both jointly developed with Fujitsu engineers.
+
+At the 1967 Spring Joint Computer Conference, Amdahl, along with three other computer architects, most notably ILLIAC IV architect Daniel Slotnick, engaged in a discussion on future architectural trends. Amdahl articulated his arguments, both orally and in three written pages, on the fundamental physical limitations that he theorized would govern the performance of any special feature or mode introduced to new machines. This set of arguments resulted in two, major and lesser, "laws" of computer performance regarding sequential versus parallel processing.
+
+1979 onwards: entrepreneur
+Amdahl left his eponymous company in August 1979 to set up Trilogy Systems, together with his son Carl, and Clifford Madden. Trilogy aimed to design a wafer-scale microprocessor for even cheaper mainframes. In contrast to the trouble he had raising development funds for Amdahl Corp, this time there was no issue raising $200 million. The chip development failed within months of the company's $60 million public offering, but the investors told him to keep the money and come up with a new concept. The company then focused on developing its VLSI technology. That effort also failed, but he was again told to keep the money and in 1985, Trilogy merged into Elxsi, a computer maker with its own CPU design. Elxsi also did poorly and Amdahl left in 1989, having already founded his next venture, Andor International, in 1987. Andor hoped to compete in the mid-sized mainframe market, using improved manufacturing techniques developed by one of the company's employees, Robert F. Brown, to make smaller, more efficient machines. Production problems and strong competition led the company into bankruptcy by 1995.
+
+Amdahl co-founded Commercial Data Servers in 1996, again in Sunnyvale, and again developing mainframe-like machines but this time with new super-cooled processor designs and aimed at physically smaller systems. One such machine, from 1997, was the ESP/490 (Enterprise Server Platform/490), an enhancement of IBM's P/390 of the System/390 family. Since then, CDS has changed its name and narrowed its focus. As Xbridge Systems, the company now sells software to scan mainframe datasets and database tables for sensitive information such as credit card numbers, social security and other government identification numbers, sensitive medical diagnosis information that can be linked to an individual, and other information such as that needed for electronic discovery.
+
+In November 2004, Amdahl was appointed to the board of advisors of Massively Parallel Technologies.
+
+He died on November 10, 2015, in Palo Alto, California, from pneumonia, six days shy of his 93rd birthday. He had Alzheimer's disease in the last years of his life.
+
+Awards and recognition
+Amdahl was named an IBM Fellow in 1965, became a member of the National Academy of Engineering in 1967 and was recognized as the Centennial Alumnus of South Dakota State University in 1986. He has numerous awards and patents to his credit and has received Honorary Doctorates from his two alma maters and two other institutions as well.
+
+Amdahl was elected Distinguished Fellow of the British Computer Society (DFBCS) in 1979, and in 1983 he was awarded the Harry H. Goode Memorial Award by the IEEE Computer Society "in recognition of his outstanding contributions to the design, applications and manufacture of large-scale high-performance computers."
+
+In 1998, he was made a Fellow of the Computer History Museum "for his fundamental work in computer architecture and design, project management, and leadership."
+
+In November 2007, Amdahl was recognized with the SIGDA Pioneering Achievement Award. A banquet dinner in his honor featured a short talk by Amdahl on his career, and a panel debate on the future of parallel processing. Panelists included John Gustafson (known for Gustafson's law). The talk and debate were both videotaped, and are available through the SIGDA Web page, and the ACM Digital Library.

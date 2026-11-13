@@ -1,0 +1,63 @@
+Ziheng Yang FRS (; born 1 November 1964) is a British biologist.  He holds the R.A. Fisher Chair of Statistical Genetics at University College London, and is the Director of R.A. Fisher Centre for Computational Biology at UCL.  He was elected a Fellow of the Royal Society in 2006.
+
+Academic career
+Yang graduated from Gansu Agricultural University with a BSc in 1984, and from Beijing Agricultural University with a MSc in 1987, and PhD in 1992.
+
+After the PhD, he worked as a postdoctoral researcher in Department of Zoology, University of Cambridge (1992–93), The Natural History Museum (London) (1993–94), Pennsylvania State University (1994–95), and University of California at Berkeley (1995–97), before taking up a faculty position in Department of Biology, University College London.  He was a Lecturer (1997), Reader (2000), and then Professor (2001) in the same department.  He was appointed to the R.A. Fisher Chair in Statistical Genetics in UCL in 2010.
+
+Yang held a number of visiting appointments.  He was a Visiting Associate Professor at
+Institute of Statistical Mathematics (Tokyo, 1997–8), a visiting professor at University of
+Tokyo (2007–08), Institute of Zoology in Beijing (2010–1), Peking
+University (2010), National Institute of Genetics, Mishima, Japan
+(2011), and Swiss Institute of Technology (ETH), Zurich (2011).  In 2008–2011, he was the Changjiang Chair Professor at Sun Yat-sen University, with an award from the Ministry of Education of China.  From 2016 to 2019, he was a visiting professor at National Institute of Genetics, Japan.  In 2017–8, he was a Radcliffe Fellow at Harvard University's Radcliffe Institute for Advanced Study.
+
+Work in molecular evolution and phylogenetics
+Yang developed a number of statistical models and methods in the 1990s, which have been implemented in maximum likelihood and Bayesian software programs for phylogenetic analysis of DNA and protein sequence data.  Two decades ago, Felsenstein had described the pruning algorithm for calculating the likelihood on a phylogeny.  However, the assumed model of character change was simple and, for example, does not account for variable rates among sites in the sequence.  By illustrating the power of statistical models to accommodate major features of the evolutionary process and to address important evolutionary questions using molecular sequence data, the models and methods Yang developed had a major impact on the cladistic-statistical controversy at the time and played a major role in the transformation of molecular phylogenetics.
+
+Yang developed a maximum likelihood model of gamma-distributed evolutionary rate variation among sites in the sequence in 1993–4.  The models he developed for combined analysis of heterogeneous data  are later known as partition models and mixture models.
+
+Together with Nick Goldman, Yang developed the codon model of nucleotide substitution in 1994.  This formed the basis for phylogenetic analysis of protein-coding genes to detect molecular adaptation or Darwinian evolution at the molecular level.  A stream of papers followed this to extend the original model to accommodate variable selection pressures (measured by the dN/dS ratio) among evolutionary lineages or among sites in the protein sequence.  The branch models allow different branches to have different dN/dS ratios among branches on the tree and can be used to test for positive selection affecting particular lineages.  The site models allow different selective pressures on different amino acids in the protein and can be used to test for positive selection affecting only a few amino acid sites.  And the branch-site models attempt to detect positive selection that affects only a few amino acid sites along pre-specific lineages.  A recent book reviews the recent developments in this area.
+
+Yang developed the statistical (empirical Bayes) method for reconstructing ancestral sequences in 1995. Compared with the parsimony method of ancestral sequence reconstruction (that is, the Fitch–Hartigan algorithm), this has the advantages of using branch-length information and of providing a probabilistic assessment of the reconstruction uncertainties.
+
+Together with Bruce Rannala, Yang introduced Bayesian statistics into molecular phylogenetics in 1996.  The Bayesian is now one of the most popular statistical methodologies used in modeling and inference in molecular phylogenetics.  Recent exciting developments in Bayesian phylogenetics are summarized in an edited book and in chapter 8 of Yang's book.
+
+Yang and Rannala also developed the multispecies coalescent model, which has emerged as the natural framework for comparative analysis of genomic sequence data from multiple species, incorporating the coalescent process in both modern species and extinct ancestors.  The model has been used to estimate the species tree despite gene tree heterogeneity among genomic regions, and to delimit/identify species.  Yang champions Bayesian parametric inference under full likelihood models, using Markov chain Monte Carlo to average over gene trees (gene genealogies), accommodating phylogenetic uncertainties.
+
+Yang maintains the program package PAML (for Phylogenetic Analysis by Maximum Likelihood) and the Bayesian Markov chain Monte Carlo program BPP (for Bayesian Phylogenetics and Phylogeography).
+
+Work in principles of statistical inference and computational statistics
+Yang studied the star tree paradox, which is that Bayesian model selection produces spuriously high posterior probabilities for the binary trees if the data are simulated under the star tree.   A simpler case showing similar behaviours is the fair-coin paradox.  The work suggests that Bayesian model selection may produce unpleasant polarized behavior supporting one model with full force while rejecting the others, when the competing models are all misspecified and equally wrong.
+
+Yang has worked extensively on Markov chain Monte Carlo algorithms, deriving many Metropolis-Hastings algorithms in Bayesian phylogenetics.  A study examining the efficiency of simple MCMC proposals revealed that the well-studied Gaussian random-walk move is less efficient than the simple uniform random-walk move, which is in turn less efficient than the Bactrian moves, bimodal moves that suppress values very close to the current state.
+
+Professional activities
+Yang taught in Woods Hole Workshop on Molecular Evolution.
+
+He was a co-organizer of the Royal Society Discussion Meeting on "Statistical and computational challenges in molecular phylogenetics and evolution" on 28–29 April 2008, and the Royal Society Discussion Meeting on "Dating species divergence using rocks and clocks", on 9–10 November 2015.
+
+Since 2009, he has been a co-organizer of an annual workshop on Computational Molecular Evolution (CoME), which has been running in Sanger/Hinxton in odd years and in Hiraklion, Crete in even years.
+
+He also organized and taught in a number of workshops in Beijing, China.
+
+Awards and honours
+
+2026, Balzan Prize
+
+2024-2026, President, Society for Molecular Biology and Evolution
+
+2023, Darwin–Wallace Medal, Linnean Society of London
+
+2017-2018, Radcliffe Fellow, Harvard University
+
+2010, Frink Medal for British Zoologists, Zoological Society of London
+
+2009, Royal Society Wolfson Research Merit Award
+
+2008, President's Award for Lifetime Achievement, Society for Systematic Biology 
+
+2006, Fellow of the Royal Society, The Royal Society of London
+
+1995, Young Investigator’s Prize, American Society of Naturalists
+
+Books

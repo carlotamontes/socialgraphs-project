@@ -1,0 +1,51 @@
+Michael Bonitz (born 9 July 1960) is a German theoretical physicist and professor, holding the Chair of Statistical Physics at Kiel University's Institute for Theoretical Physics and Astrophysics.
+
+He is known for advancing nonequilibrium quantum many‑body theory, most notably the nonequilibrium Green's function approach and path integral Monte Carlo methods. Among his research topics are strongly coupled classical systems, such as complex plasmas, strongly coupled quantum systems, including Wigner crystals and warm dense matter, as well as laser excitation of atoms, solids, and two-dimensional nanomaterials.
+
+For his research results he received the Gustav Hertz Prize of the German Physical Society (2002)  and the John Dawson Award for Excellence in Plasma Physics Research of the American Physical Society (2021).
+
+ Education and academic career 
+Michael Bonitz studied physics at M. V. Lomonosov Moscow State University from 1981 to 1987, earning a Diploma with distinction under Yuri L. Klimontovich.
+He then moved to the University of Rostock, where he obtained his doctoral degree in theoretical physics in 1991 under Dietrich Kremp.
+After two post‑doctoral fellowships at the Optical Sciences Center of the University of Arizona (1992–1993 with Stephan W. Koch and 1995-1996),
+he completed his habilitation at the University of Rostock in 1998 with the thesis Quantum Kinetic Theory of Ultrafast Relaxation Processes: From Density Operators to Kadanoff–Baym Equations; the first edition of his monograph Quantum Kinetic Theory appeared the same year.
+
+Since 2003 Bonitz has been professor and Chair of Statistical Physics at the Institute for Theoretical Physics and Astrophysics, Kiel University.
+He has also held visiting appointments at the University of Florida (2003, 2009, 2014), the Kavli Institute for Theoretical Physics (2010), and Lawrence Livermore National Laboratory (2014, 2019). As of June 2025 he has supervised more than 20 doctoral theses.
+
+ Research 
+According to his public Google Scholar profile, Michael Bonitz's publications have been cited more than 17 000 times, giving him an h‑index of 72 as of June 2025.
+
+Quantum kinetic theory Bonitz co‑developed the real‑time Kadanoff–Baym approach for correlated quantum systems out of equilibrium, including the electron gas, electron-hole plasmas, and dense quantum plasmas, a method that laid the groundwork for modern simulations of plasma oscillations in correlated systems and ultrafast dynamics following laser excitation or potential quenches. More recently, his group introduced a linear‑scaling algorithm — the G1-G2 scheme — that extends nonequilibrium Green's functions calculations to systems with thousands of orbitals and long simulation times.
+
+Warm dense matter and the uniform electron gas To avoid the fermion sign problem in path integral Monte Carlo (PIMC) simulations of high density electrons, Bonitz and collaborators developed the configurational PIMC (CPIMC), which is the PIMC in Slater determinant space. By combining CPIMC and real-space PIMC, Bonitz and collaborators produced the first ab initio thermodynamic tables for the warm dense electron gas. The methodology underpins simulations of dense hydrogen and other high‑energy‑density systems, and was cited by the American Physical Society in awarding him the 2021 John Dawson Award for Excellence in Plasma Physics Research.
+
+Complex plasmas and Coulomb crystallization Bonitz and collaborators have explored strongly correlated Coulomb systems ranging from mesoscopic electron clusters to dusty (complex) plasmas. His 2001 prediction of Wigner crystallization in two‑dimensional quantum dots, together with A. Filinov and Yu. Lozovik, and subsequent prediction of crystallization in two‑component Coulomb plasmas helped to understand the physical mechanisms of the phase transition and establish the critical parameters. His subsequent work on finite complex plasmas (Coulomb and Yukawa balls) helped establish complex plasmas as tunable laboratories for many‑body physics, a perspective summarised in his 2010 Reports on Progress in Physics article. 
+
+ Service and outreach 
+ Conferences and scientific committees  
+Since 1999 Bonitz has organized or co-organized a dozen international meetings, including the Progress in Nonequilibrium Green Functions series (Rostock 1999, Dresden 2002, Kiel 2005, Glasgow 2009, 
+Jyväskylä 2012, Lund 2015, Frascati 2018, Örebro 2023), the Kinetic Theory of Non-Ideal Plasmas workshop (Kiel 2004), and the 2017 Strongly Coupled Coulomb Systems conference in Kiel. He organized international graduate summer schools on complex plasmas (Hoboken 2008, Greisfwald 2010, South Orange 2012 and 2014, and Kiel 2016). He chaired program committees for the ongoing conference series Physics of Non-Ideal Plasmas and Progress in Nonequilibrium Green Functions, and served as chair of the executive committee of the Strongly Coupled Coulomb Systems series. He also was a member of the 2015 U.S. Panel on Frontiers of Plasma Science.
+
+ Editorial work and peer review  
+Bonitz was editor-in-chief of the journal Contributions to Plasma Physics from 2014 to 2023, and since 2016 has edited the Springer book series Plasma Science and Technology. He acts as referee for more than 30 journals as well as national and international funding agencies, including the German Research Foundation (DFG), the U.S. National Science Foundation (NSF), and the Austrian Science Fund (FWF).
+
+ University service
+At Kiel University, Bonitz chaired the Physics Department from 2006 to 2008 and was an elected member of the University Senate during 2008–2012 and 2016–2018.
+
+ Popularization of Max Planck and quantum theory  
+Bonitz has long promoted the scientific legacy of Max Planck, who was born in Kiel and was a professor of theoretical physics at Kiel University from 1885 to 1889. He initiated and organized the Max Planck museum at Kiel University in 2013 and has since given public lectures and written popular articles on Planck's life and work. In 2023 he launched a digital Max Planck museum as an interactive online resource. To deepen public engagement, Bonitz and historian Oliver Auge founded the book series Kieler Beiträge zu Max Planck in 2024 and the first two volumes appeared that year. Bonitz and co-workers explore the historic Planck estate and work on its digitization, making it publicly freely accessible. 
+
+ Science advocacy
+
+In 2017 Bonitz organized the opening of the international March for Science in Kiel, an event to highlight academic freedom and the societal value of science. that was repeated in 2018 and 2019. Since then he regularly organizes a lecture series "Science and Alternative Facts," which invites scholars to discuss controversial topics of broad interest with a general audience. By 2025 the series had hosted more than 60 talks and produced nearly 50 videos.
+
+ Science outreach for children
+
+Bonitz has offered computer experiments for female high school students to introduce them to quantum physics as part of the Physik Projekt Tage at Kiel University. He is also an author of science-based science fiction novels for children published with ifub-Verlag.
+
+ Honours 
+ 2002 – Gustav Hertz Prize of the German Physical Society, for his work on correlation effects in plasmas, optically excited semiconductors and low-dimensional systems.
+ 2011 – Fellow of the American Physical Society, for "pioneering contributions to the field of strongly correlated classical and quantum plasmas."
+ 2012 – Honorary doctorate (Doctor honoris causa) of the Russian Academy of Sciences; Bonitz refrained from holding the title in 2022 following the Russian invasion of Ukraine.
+ 2021 – John Dawson Award for Excellence in Plasma Physics Research of the American Physical Society, for "developing Monte Carlo methods that overcome the fermion sign problem."

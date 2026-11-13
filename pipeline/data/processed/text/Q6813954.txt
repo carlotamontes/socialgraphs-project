@@ -1,0 +1,30 @@
+Melvin Edward Conway is an American computer scientist, computer programmer, and hacker who coined what is now known as Conway's law: "Organizations, who design systems, are constrained to produce designs which are copies of the communication structures of these organizations." Conway developed the concept of coroutines.
+
+Biography
+Coroutines
+Conway developed the concept of coroutines, having coined the term coroutine in 1958 and he was the first to apply the concept to an assembly program. He later authored a seminal paper on the subject of coroutines, titled "Design of a Separable Transition-diagram Compiler", which included the first published explanation of the concept. In this paper, he proposed organizing a compiler as a set of coroutines, which allows using separate passes while debugging and then running a single pass compiler in production. Another famous paper is his 1958 proposal of an UNCOL (Universal Computer Oriented Language), which attempted to provide a solution to economically produce compilers for new programming languages and computer architectures.
+
+Conway's law
+
+The adage remains relevant in modern software engineering and is still being referenced and investigated.
+
+SAVE
+Conway wrote an assembler for the Burroughs model 220 computer called SAVE. The name SAVE was not an acronym, but a feature: programmers lost fewer punched card decks because they all had "SAVE" written on them.
+
+MUMPS
+In the 1970s, he was involved with the MUMPS (Massachusetts General Hospital Utility Multi-Programming System) medical programming language standard specification for the National Bureau of Standards. He also wrote a reference book on MUMPS in 1983.
+
+Pascal
+His work on Pascal compiler for Rockwell Semiconductor (an immediate-turnaround Pascal trainer for the Rockwell AIM-65) led to an arrangement between Apple and Think Technologies (where he served as a principal) under which the latter produced the Apple II Instant Pascal and the 1984 original Macintosh Pascal.
+
+Other work
+Conway was granted a US patent in 2001 on "Dataflow processing with events", concerned with programming using graphical user interfaces. The patent expired in 2019.
+
+In 2002, Conway obtained a teacher license for high school math and physics in Massachusetts. He taught at Chelsea High School from 2002 to 2006.
+
+In 2024, Conway published an article called NEEDED: SYSTEMS THINKING IN PUBLIC AFFAIRS which summarizes his view that in order to understand human systems, one must focus on networks first, rather than actors. He posits that this is the barrier to building systems that are in alignment with human needs at scale.
+
+ Education 
+ Ph.D. Mathematics, Case Western Reserve University (1961). Dissertation: "A Set-Theoretic Model For Logical Systems", Advisor: Raymond John Nelson
+ M.S. Physics, California Institute of Technology
+ B.S. Physics, Case Western Reserve University

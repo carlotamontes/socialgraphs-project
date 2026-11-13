@@ -1,0 +1,51 @@
+Mark Burgess (born 19 February 1966) is an English independent researcher and writer, formerly professor at Oslo University College in Norway and creator of the CFEngine software and company, who is known for work in computer science in the field of policy-based configuration management.
+
+Early life and education
+Burgess was born in Maghull in the United Kingdom to English parents. He grew up in Bloxham, a small village in Oxfordshire from the age of 5–18, attending Bloxham Primary School, Warriner Secondary School and Banbury Upper School. He studied astrophysics at the (then) School of Physics at the University of Newcastle upon Tyne, where he later switched to pure Physics and then Theoretical Physics for his bachelor's degree. He stayed on to obtain a Doctor of Philosophy in Theoretical Physics (Quantum Field Theory) in Newcastle, in the field of Spontaneous Symmetry Breaking in Non-Abelian Gauge Theories, for which he received the Keith Runcorn Prize.
+
+Burgess was invited to Norway for a two year Royal Society Post Doctoral fellowship in January 1991 by Professor Finn Ravndal of the University of Oslo, and stayed on for another two years funded by the Norwegian Research Council. While at the University of Oslo he developed an interest in the behaviour of computers as dynamic systems and began to apply ideas from physics to describe computer behaviour. He subsequently became the first professor with a title in Network and System administration at the same university. In 2023, in response to Brexit, Burgess applied for and became a citizen of Norway, following the acceptance of dual citizenship in Norway.
+
+Burgess is perhaps best known as the author of the popular configuration management software package CFEngine, but has also made important contributions to the theory of the field of automation and policy based management, including the idea of operator convergence and promise theory.
+
+ Career 
+Burgess has made contributions to theoretical and empirical computer science, mainly in the area of the behaviour of computing infrastructure and services. In the early 1990s, Burgess asserted that programmatic models of computer programs could not describe observed behaviour at the macroscopic scale, and that statistical physics could be used instead, thus likening artificial systems to a quasi-natural phenomenon. With the increasing interest in the role of information in physics, Burgess has argued that computer science and physics can be bridged using the concepts of promise theory, through the notion of semantic spacetime, a description of functional aspects of spacetime at multiple scales, which offers an alternative to Robin Milner's theory of bigraphs.
+
+ Configuration 
+In 1993, Burgess introduced the software CFEngine based in intuitions and practice, focusing on the idea of repeatable desired end-state 'convergence', to manage system configuration. The term convergence, used by Burgess, is now often inaccurately just called idempotence, as convergence in his meaning implied both desired end-state and idempotence of an error correction operator at the desired end-state.  Shifting interest from Theoretical Physics to Computer Science, Burgess then began to explore the ad hoc choices initially made, and set out to find a scientific method for understanding such choices in computing systems.
+
+ Computer immunology, anomaly detection, and machine learning 
+Following a position paper 'manifesto' pointing out the research challenges needed to make self-repairing systems, Burgess undertook to study computer systems as a number of empirical phenomena, taking an approach based on physics to learn first about the scales and patterns. The idea of self-healing, or self-maintaining systems was originally referred to as Computer Immunology, as it was inspired by research into the Danger model of human immune systems. The empirical studies were published in various formats between 1999 and 2003, culminating in a journal summary review, and a more practical method for automated machine learning of system behavioural characters. This incorporated the idea of so-called exponential smoothing (which was called a geometric average) for fast learning, along with a two-dimensional, cylindrical time model which was based on the result that network client-server traffic would be expected to behave like a quasi-periodic stochastic function (a characteristic of a system driven close to equilibrium).
+
+The notion of an equilibrium or steady state operation thus became the baseline, replacing arbitrary thresholds used in the monitoring software of the day. The software CFEngine became the proof of concept platform using these methods for system state anomaly detection, from 2002 to the present, and received widespread use.
+
+ Theoretical models 
+Based on these fundamental empirical studies, Burgess argued for two kinds of theoretical model to describe systems, which he called type 1 and type 2. Type 1 models were dynamical performance models that described machines as changing phenomena. Type 2 were semantic models, concerning the efficacy and influence of human decisions on behaviour, called policy, or desired-state computing. He later developed these further and made connection with Claude Shannon's work on error correction in a paper discussing how separation of timescales plays an important role in computer science, by analogy with physics. With Trond Reitan, Burgess showed that the question of when was the optimal time to backup data could be answered scientifically.
+
+The studies carried out between 1998 and 2002 led to a monograph Analytical Network and System Administration: Managing Human-Computer Systems. Although quite comprehensive about some aspects of systems, Burgess identified a missing piece to the story, namely how to describe distributed co-operation between computers in networks. This prompted later work, which became Promise Theory, proposed at the Distributed Systems, Operations and Management
+conference in Barcelona in 2005.
+
+The computer science community has had a mixed response to the hybrid nature of the infrastructure work, which seemed to view as being somewhere between traditional computing and physics. However, by now it has become almost ubiquitous, and its approaches and results are in general use.
+
+ Promise theory 
+Promise theory was introduced as a model of voluntary co-operation between agents, in 2004, for understanding human-computer systems with complex interactions, and was later developed with Dutch computer scientist and friend Jan Bergstra into a book. Interest in promise theory has grown in the IT industry, with several products citing it.
+
+ Semantic spacetime 
+As an application of promise theory, which makes contact with knowledge representation and artificial reasoning, Burgess introduced the concept of semantic spacetime, which applies semantics to graph theoretical models of connected regions, from computer networks to smart cities.
+
+Semantic spacetime is a theoretical framework for agent-based modelling of spacetime, based on Promise theory. It is relevant both as a model of Computer Science and of Physics.
+Semantic Spacetime was introduced by Mark Burgess, in a series of papers, as an alternative to describing space and time, initially for Computer Science, after finding earlier models by Milner and others to be wanting.  It attempts to unify both quantitative and qualitative aspects of spacetime processes into a single model. This is referred to by Burgess as covering both “dynamics and semantics”.
+
+In 2019, Burgess wrote a book called ‘’Smart Spacetime’’ to explain the vision behind Semantic Spacetime, as well as point out `deep connections’ to other fields. Commentators have likened the idea to other graph theoretic models of spacetime, such as Quantum Graphity and the Wolfram Physics Project.
+
+In physics, spacetime is a purely quantitative description of metric coordinates to map out a region or a volume; but in Information Sciences spacetime may also have semantics, or ‘’qualitative’’ functional aspects that also need to be included in descriptions of phenomena.
+
+Graph theoretical ideas
+Another recurring theme of Burgess's work has been graph theory. Working with search engine researchers Geoffrey Canright and Knut Engø Monsen, Burgess developed a page ranking algorithm similar to PageRank eigenvalue sink remedies in directed graphs. This work also met with resistance from the American journal establishment, and was delayed before final publication. With PhD Student Kyrre Begnum, he explored the related technique of Principal Component Analysis for analysing correlations in the machine-learned anomalies described above. Graphs as a model of security made another connection with physics, through the idea of percolation, or path criticality.
+
+Knowledge management
+Since 2007, Burgess has turned his attention to the matter of knowledge representations and knowledge management, often using Promise Theory as an agency model.
+
+ Music and media 
+Burgess is an accomplished guitarist, and a composer of various styles of music from orchestral to jazz, rock and pop, which he has published amateur music freely and released a number of albums on streaming platforms. He is also an amateur oil painter and occasional digital artist.
+
+During the 2020 pandemic, Burgess produced a “zero budget” series of three documentary films called Bigger, Faster, Smarter in which he interviewed a number of industry luminaries about the nature of processes in space and time, networks, and the future of technology. The series was written, filmed, narrated and edited entirely by Burgess. He also composed and performed the music for the series.

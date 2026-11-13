@@ -1,0 +1,37 @@
+Michele Mosca is co-founder and deputy director of the Institute for Quantum Computing at the University of Waterloo, researcher and founding member of the Perimeter Institute for Theoretical Physics, and professor of mathematics in the department of Combinatorics & Optimization at the University of Waterloo. He has held a Tier 2 Canada Research Chair in Quantum Computation since January 2002, and has been a scholar for the Canadian Institute for Advanced Research since September 2003.  Mosca's principal research interests concern the design of quantum algorithms, but he is also known for his early work on NMR quantum computation together with Jonathan A. Jones.
+
+ Graduate and post-graduate education 
+Mosca received a B.Math degree from the University of Waterloo in 1995.  In 1996 he received a Commonwealth Scholarship to attend Wolfson College, Oxford University, where he received his M.Sc. degree in mathematics and foundations of computer science.  On another scholarship (and while holding a fellowship), Mosca received his D.Phil degree on the topic of quantum computer algorithms, also at the University of Oxford.
+
+Mosca's theorem
+In the field of cryptography, Mosca's theorem addresses the question of how soon an organization needs to act in order to protect its data from the threat of quantum computers. A quantum computer, once developed, would have the capacity to break the types of cryptography that have been widely used throughout the world, such as RSA. Although this is a known risk, no one knows exactly when a quantum computer will be created. Mosca's theorem provides a risk assessment framework that can help organizations identify how quickly they need to start migrating to new methods of quantum-safe cryptography.
+
+Mosca's theorem was first proposed in the 2018 paper "Cybersecurity in an era with quantum computers: will we be ready?" by Mosca. They proposed that if X + Y > Z, then organizations need to worry about the impact of quantum computers on their data. In this formula, X is the amount of time a given piece of data needs to be secure (shelf life); Y is how long it will take your organization to implement post-quantum cryptographic solutions (migration time) and Z is how long it will be before a sufficiently strong quantum computer exists (threat timeline).
+
+While the value of Z is unknown, many national information technology organizations predict the year 2030 or 2035. Given the complexity of migrating to post-quantum cryptography, Mosca's theorem suggests that most organizations need to be transitioning soon, or are perhaps behind schedule.
+
+Mosca's theorem helped justify the National Institute of Standards and Technology’s 2016 strategy to establish a handful of PQC algorithms with the international community.
+
+Awards and honors
+ 2010 Canada's Top 40 under 40 from The Globe and Mail.
+ Fellow of the Canadian Institute for Advanced Research program in Quantum Information since 2010. Scholar since 2003.
+ 2010 Waterloo Region 40 under 40: "Honouring those making a difference in our region".
+ Invited Speaker, AAAS Science and Technology Workshop "Plug into Canada", organized by the Canadian Embassy, January 2005 (with National Science Advisor, the NSERC President, and 2 other Canadian researchers).
+ One of fifteen PAGSE Symposium "Leaders of Tomorrow", Ottawa, Canada, 2004. The Partnership Group for Science and Engineering was formed in June 1995 at the invitation of the Academy of Science of the Royal Society of Canada to represent the Canadian science and engineering community to the Government of Canada.
+ Invited article in inno'va-tion and inno'v@-tion2: Essays by Leading Canadian Researchers, a Canada Foundation for Innovation project "Showcasing some of the country's most cutting-edge researchers".
+ Visiting Fellow at King's College, University of Cambridge, October 2005.
+ Canada Research Chair, 2002–present.
+ Premier's Research Excellence Award, Ontario, 2000-2005.
+ Fellow of the Institute for Combinatorics and its Applications, 2000–present.
+ Robin Gandy Junior Research Fellowship, Wolfson College, Oxford, 1998-1999.
+ Communications and Electronic-Security Group Scholar, 1996-1999.
+ Awarded Distinction for M.Sc., Oxford, 1996.
+ UK Commonwealth Scholar, 1995-1996.
+ Valedictorian and Alumni Gold Medal winner, Faculty of Mathematics, University of Waterloo, 1995.
+ Bronze Medal (3rd in Canada), Descartes Mathematics Competition, 1990.
+
+ Select publications 
+
+ M. Mosca, "Cybersecurity in an Era with Quantum Computers: Will We Be Ready?," in IEEE Security & Privacy, vol. 16, no. 5, pp. 38-41, September/October 2018, doi: 10.1109/MSP.2018.3761723.
+ An Introduction to Quantum Computing. (2007). Phillip Kaye, Raymond Laflamme, and Michele Mosca. New York City: Oxford University Press. 
+ Algorithmica: Special Issue on Quantum Computation and Cryptography. (2002). Michele Mosca and Alain Tapp, Eds. Algorithmica 34 (4).

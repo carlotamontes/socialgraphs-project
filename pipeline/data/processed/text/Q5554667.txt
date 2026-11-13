@@ -1,0 +1,67 @@
+thumbnail|upright=0.8|Göran Andersson
+Claes Göran Andersson (born 1951) is a Swedish academic. He was a full Professor of Power Systems in the Department of Information Technology, Swiss Federal Institute of Technology in Zürich, Switzerland, in 2010–2016 and is now emeritus. He is a Fellow of the Royal Swedish Academy of Engineering Sciences (since 1992), Royal Swedish Academy of Sciences (since 1994), and the Swiss Academy of Engineering Sciences (since 2015). He was also elected as an International Member of the US National Academy of Engineering in 2016 for contributions to the development of high-voltage direct current (HVDC) technology and methods of power system voltage stability analysis.
+
+As of February 2019, he has earned more than 25,000 citations and his h-index is 72 (Google Scholar).
+
+ Biography 
+Göran Andersson earned his master's degree from Lund University in 1975 in the field of engineering physics. He finished his PhD studies at the same institute in mathematical physics, namely on the theory of rotational excitations in nuclei, in 1980. After his PhD studies, he worked as a research engineer at ASEA, now ABB, in the HVDC division from 1980 to 1985. In 1985, he became the Section Manager for Systems Engineering in the same division until 1986. During these years he was mostly researching on dynamics and control of power systems with a main focus on HVDC. After his time at ASEA, he became a professor at the Royal Institute of Technology at Stockholm. He was the head of the Institute for Electric Power Systems group from 1986 to 2000. His main research focus there was on dynamic stability issues in power systems. He graduated a total of 14 PhD students during his time at KTH, including Prof. Antonio Conejo (Ohio State University). In 2000, he moved to Switzerland where he became a professor at the Swiss Federal Institute of Technology, where he is heading the Power Systems Laboratory.
+
+Göran Andersson is married to Anne since 1975, and they have three children.
+
+ Research 
+His most recent research work can be divided into three major topics within the field of electric power systems:
+ Power System Dynamics and Control: he and his PhD students have studied how VSC-HVDC can be used in the European grid in order to enhance the stability. Other work aimed at investigating the pros and cons of HVDC grids. In this case the European grid was also used as test system. An important aspect considered in this work is the need of communication. As the European system connects a large number of countries, further work within this area focused on the operation of multi-area systems. The interaction between several transmission system operators, each with limited information of the status of neighboring systems, has been studied, and his group has proposed methods aiming at increasing the overall system security through exchange of selected pieces of information. Another important topic that has been covered by multiple PhD theses is the topic of demand response. His group has developed methods and tools to enable thermal loads to offer regulating and balancing power. This has resulted in the spin-off Adaptricity. A key reason why demand response has gained attention is because it can support the integration of variable renewable generation. Prof. Göran Andersson's group has also looked at how in the situation with increased uncertainty, security assessment can be done and formulated as a stochastic program with chance constraints. But the work on security is not just purely focused on the physical aspects, he has also done work on cyber-security of SCADA systems.
+ Power Markets: The aim of the work in this field is to develop realistic models for liberalized power markets, particularly the ones in Europe. An important aspect is the modeling of energy prices, with the aim of forecasting these. The Hourly Price Forward Curve (HPFC) is an important tool in this context, and much work is devoted to this topic. An approach, combining statistical and fundamental models, has been implemented. The original HPFC was usable only for a single price area. His group has been developing it for several areas through the incorporation of market coupling mechanisms. Another application is the valuation of pumped hydro storage plants in the new market conditions. Non-linear learning techniques are used to better capture seasonal variations.
+ Future Energy Systems: Prof. Andersson's group initiated the development the Energy Hub concept around 2003. It is now used by many researchers and planners worldwide. The Energy Hub has been the basis for many projects concerning future energy systems, and the concept has been further developed and adapted for new applications. Additionally, the group has worked in a number of projects regarding the integration of electrical vehicles (EV) in power systems. Together with research groups in mechanical engineering and traffic planning, the researchers at the Power Systems Laboratory have developed a model that incorporates traffic flow simulation and energy consumption while driving, so that the state-of-charge for the individual vehicles can be determined. From this, control schemes for the charging of vehicles taking into account grid constraints, power prices, and the preferences of the vehicle owners have been designed. As another line of research which falls into the topic of future energy systems, the work on developing an expansion plan taking into account corrective control that can be accomplished by HVDC links should be mentioned. It was shown that this possibility could result in substantial savings. Another main contribution of the group concerned operational flexibility, which has gained in interest due to the integration of photovoltaic and wind power, which are fluctuating. A special modeling framework, the Power Node model, was developed for this purpose. The Power Node is related to the Energy Hub and can be seen as a complement.
+
+ Advised PhD Theses 
+ Line Roald, "Optimization methods to manage uncertainty and risk in power systems operation", 2016
+ Theodor Sebastian Borsche, " Impact of Demand and Storage Control on Power System Operation and Dynamics", 2016
+ Raffael La Fauci, "Cost-Based Design of an Electric Reserve Grid Focusing on Reliability", 2015
+ Marina González Vayá, "Optimizing the electricity demand of electric vehicles: creating value through flexibility", 2015
+ Markus Christian Imhof, "Voltage Source Converter Based HVDC - Modelling and Coordinated Control to Enhance Power System Stability", 2015
+ Hubert Abgottspon, "Hydro power planning: Multi-horizon modeling and its applications", 2015
+ Tobias Winfried Haring, "On Incentive-Based Ancillary Service Markets for Incorporation of Renewable Energy Sources and Demand Response", 2015
+ Marcus Christoph Hildmann, "Quantitative methods for the economic analysis of liberalized power markets", 2014
+ Emil Iggland, "Methods for the secure and economical operation of inter-connected electrical power systems", 2014
+ Christof Bucher, "Analysis and Simulation of Distribution Grids with Photovoltaics", 2014
+ Andreas Ulbig, "Operational Flexibility in Electric Power Systems", 2014
+ Maria Vrakopoulou, "Optimal decision making for secure and economic operation of power systems under uncertainty", 2013
+ Olli Mäkelä, "Methods to assess and manage security in interconnected electrical power systems", 2013
+ Spyros Chatzivasileiadis, "Power System Planning and Operation Methods Integrating the Controllability of HVDC", 2013
+ Stephan Koch, "Demand Response Methods for Ancillary Services and Renewable Energy Integration in Electric Power Systems", 2012
+ Matthias David Galus, "Agent-based modeling and simulation of large scale electric mobility in power systems", 2012
+ Michèle Arnold, "On Predictive Control for Coordination in Multi-Carrier Energy Systems", 2011
+ Antonios Papaemmanouil, "Coordinated transmission expansion planning of future interconnected power systems", 2011
+ Marija Zima-Bockarjova, "On Security and Economy Enhancements in Power Systems by Decision Support", 2010
+ Florian Kienzle, "Evaluation of Investments in Multi-Carrier Energy Systems under Uncertainty", 2010
+ Monika Esther Ruh, "New Concepts and Algorithms for Fully Transparent Distribution Management Systems", 2010
+ Martin Kurzidem, "Analysis of flow-based market coupling in oligopolistic power markets", 2010
+ Turhan Demiray, "Simulation of Power System Dynamics using Dynamic Phasor Models", 2008
+ Gabriela Hug-Glanzmann, "Coordinated Power Flow Control to Enhance Steady-State Security in Power Systems", 2008
+ Mirjana Milosevic, "On the Control of Distributed Generation in Power Systems", 2007
+ Malte Thoma, "Optimierte Betriebsführung von Niederspannungsnetzen mit einem hohen Anteil an dezentraler Erzeugung", 2007
+ Martin Geidl, "Integrated Modeling and Optimization of Multi-Carrier Energy Systems", 2007
+ Gaudenz Koeppel, "Reliability Considerations of Future Energy Systems: Multi-Carrier Systems and the Effect of Energy Storage", 2007
+ Thilo Krause, "Evaluating Congestion Management Schemes in Liberalized Electricity Markets Applying Agent-based Computational Economics", 2006
+ Rusejla Sadikovic, "Use of FACTS Devices for Power Flow Control and Damping of Oscillations in Power Systems", 2006
+ Marek Zima, "Contributions to security of electric power systems", 2006
+ Christian Schaffner, "Valuation of Controllable Devices in Liberalized Electricity Markets", 2004
+ Wolfgang Hammer, "Dynamic Modeling of Line and Capacitor Commutated Converters for HVDC Power Transmission", 2003
+ Andrei Karpatchev, "Increased Transmission Capacity by Forced Symmetrization", 2003
+ Gunthard Orglmeister, "Ein Symmetrierkompensator für Hochspannungsleitungen", 2002
+ Jost Allmeling, "Schnelle Regelung eines Aktivfilters mit niedriger Taktfrequenz für das Mittelspannungsnetz", 2001
+ Tina Orfanogianni, "A flexible software environment for steady-state power flow optimization with series FACTS devices", 2000
+
+ Teaching 
+Professor Andersson was very active in developing and restructuring courses in the field of electric power systems at ETH Zurich. Courses that he has taught at ETH include:
+ Introduction to Electric Power Systems: This course is co-taught with the High Voltage Laboratory and introduces the student into basic concepts and components in the electric power system.
+ Power System Analysis: The focus of this class is the modeling of power systems components, the computation of the flows and voltages in the system and gives a first introduction into the dynamics and stability in power systems.
+ Energy System Analysis: The aim of the course is to give an introduction to the methods and tools for analyzing energy consumption, energy conversion, and energy flows. Environmental aspects are included as well as economic considerations. This course is co-taught with a variety of other faculty members.
+ Power System Dynamics and Control: Dynamic properties of electrical machines, networks, loads and interconnected systems are modeled and studied. Topics such as SCADA and state estimation are discussed. This course is co-taught with an external lecturer.
+
+ Awards 
+
+He has received numerous awards including the IEEE PES Outstanding Power Educator Award (2007) and of the George Montefiore International Award (2010).
+
+Göran Andersson is also a member of the Royal Swedish Academy of Sciences (1994), Fellow of the IEEE (1997), Member of the Swiss Academy of Engineering Sciences (2015) and International Member of the US National Academy of Engineering (2016).

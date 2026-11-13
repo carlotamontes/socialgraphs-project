@@ -1,0 +1,16 @@
+Hans Bastiaan Pacejka (12 September 1934 – 17 September 2017) was an expert in vehicle system dynamics and particularly in tire dynamics, fields in which his works are now standard references. He was Professor emeritus at Delft University of Technology in Delft, Netherlands.
+
+ Magic Formula tire models
+
+Pacejka developed a series of tire design models during his career. They were named the "Magic Formula" because there is no particular physical basis for the structure of the equations chosen, but they fit a wide variety of tire constructions and operating conditions.  Each tire is characterized by 10–20 coefficients for each important force that it can produce at the contact patch, typically lateral and longitudinal force, and self-aligning torque, as the best fit between experimental data and the model. These coefficients are then used to generate equations showing how much force is generated for a given vertical load on the tire, camber angle and slip angle.
+
+The Pacejka tire models are widely used in professional vehicle dynamics simulations, and racing car games, as they are reasonably accurate, easy to program, and solve quickly. A problem with Pacejka's model is that when implemented into computer code, it doesn't work for low speeds (from around the pit-entry speed), because a velocity term in the denominator makes the formula diverge. An alternative to Pacejka tire models are brush tire models, which can be analytically derived, although empirical curve fitting is still required for good correlation, and they tend to be less accurate than the MF models.
+
+Solving a model based on the Magic curve with high frequency can also be a problem, determined by how the input of the Pacejka curve is computed. The slipping velocity (difference between the velocity of the car and the velocity of the tire in the contact point) will change very quickly and the model becomes a stiff system (a system whose eigenvalues differ a lot), which may require a special solver.
+
+The general form of the Magic Formula, given by Pacejka, is:
+
+where B, C, D and E represent fitting constants and y is a force or moment resulting from a slip parameter x. The formula may be translated away from the origin of the x–y axes. The Magic Model became the basis for many variants.
+
+ Professional activities 
+Pacejka was a co-founder in 1972 and editor-in-chief of Vehicle System Dynamics–International Journal of Vehicle Mechanics and Mobility until 1989. At the time of the founding of the journal, Pacejka had been an associate professor at Delft University, specializing in vehicle dynamics. His 1966 doctoral thesis addressed the "wheel shimmy problem". He published approximately 90 academic papers and was advisor to 15 PhD and 170 M.Sc. graduate students.

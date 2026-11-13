@@ -1,0 +1,15 @@
+Theodore Frankel (June 17, 1929 – August 5, 2017) was a mathematician who introduced the Andreotti–Frankel theorem and the Frankel conjecture.
+
+Frankel received his Ph.D. from the University of California, Berkeley in 1955. His doctoral advisor was Harley Flanders. A professor emeritus of mathematics at University of California, San Diego, Frankel was a longtime member of the Institute for Advanced Study in Princeton, New Jersey. He is known for his work in global differential geometry, Morse theory, and relativity theory. He joined the UC San Diego mathematics department in 1965, after serving on the faculties at Stanford University and Brown University.
+
+Research
+In the 1930s, John Synge established what is now known as Synge's theorem, by applying the second variation formula for arclength to a minimal loop. Frankel adapted Synge's method to higher-dimensional objects. As a consequence, he was able to prove that, when given a positively curved Riemannian metric on a closed manifold, any two totally geodesic compact submanifolds must intersect if their dimensions are large enough. The idea is to apply Synge's method to a minimizing geodesic between the two submanifolds. By  the same approach, Frankel proved that complex submanifolds of positively curved Kähler manifolds must intersect if their dimensions are sufficiently large. These results were later extended by Samuel Goldberg and Shoshichi Kobayashi to allow positivity of the holomorphic bisectional curvature.
+
+Inspired by work of René Thom, Frankel and Aldo Andreotti gave a new proof of the Lefschetz hyperplane theorem using Morse theory. The crux of the argument is the algebraic fact that the eigenvalues of the real part of a complex quadratic form must occur in pairs of the form . This becomes relevant in the context of Lefschetz's theorem, by considering a Morse function given by the distance to a fixed point. The second-order analysis at critical points is immediately aided by the above algebraic analysis, and the homology vanishing phenomena follows via the Morse inequalities.
+
+Given a Killing vector field for which the corresponding one-parameter group of isometries acts by holomorphic mappings, Frankel used the Cartan formula to show that the interior product of the vector field with the Kähler form is closed. Assuming that the first Betti number is zero, the de Rham theorem applies to construct a function whose critical points coincide with the zeros of the vector field. A second-order analysis at the critical  points shows that the set of zeros of the vector field is a nondegenerate critical manifold for the function. Following Raoul Bott's development of Morse theory for critical manifolds, Frankel was able to establish that the Betti numbers of the manifold are fully encoded by the Betti numbers of the critical manifolds, together with the index of his Morse function along these manifolds. These ideas of Frankel were later important for works of Michael Atiyah and Nigel Hitchin, among others.
+
+Major publications
+Articles
+
+Textbooks

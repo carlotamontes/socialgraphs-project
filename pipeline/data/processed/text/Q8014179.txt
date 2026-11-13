@@ -1,0 +1,179 @@
+William L. Jorgensen (born October 5, 1949) is an American chemist specializing in computational and medicinal chemistry, serving as the Sterling Professor of Chemistry at Yale University since 2009, having joined the Yale faculty in 1990.
+
+He is renowned for pioneering computational studies of organic and biomolecular systems in aqueous solution, including the development of the influential OPLS (Optimized Potentials for Liquid Simulations) force fields and TIPnP water models that have enabled widespread modeling of biomolecular processes since the 1980s.
+
+Jorgensen's research integrates free-energy perturbation methods for studying reaction mechanisms, host-guest binding, and equilibria; mixed quantum and molecular mechanics (QM/MM) simulations for organic and enzymatic reactions; and computer-aided drug design targeting proteins involved in infectious, inflammatory, and hyperproliferative diseases.
+
+His approaches have facilitated the discovery of potent inhibitors, such as anti-HIV agents targeting reverse transcriptase and CXCR4, anti-inflammatory compounds against MIF and JAK2 kinase, and anti-cancer drugs for parasitic enzymes like TS-DHFR.
+
+He has also developed key molecular modeling software, including BOSS for simulations, MCPRO for protein folding, and BOMB for generating combinatorial libraries in virtual screening.
+
+Educated with an A.B. from Princeton University in 1970 and a Ph.D. from Harvard University in 1975, Jorgensen previously held positions at Purdue University before joining Yale.
+
+He served as Director of Yale's Division of Physical Sciences & Engineering from 2009 to 2012 and was elected to the National Academy of Sciences in 2011 for his contributions to chemistry and computational biology.
+
+Among his numerous honors are the ACS Award for Computers in Chemical and Pharmaceutical Research (1998), the Joel H. Hildebrand Award in the Theoretical and Experimental Chemistry of Liquids (2012), the Tetrahedron Prize (2015), and the Arthur C. Cope Award (2024).
+
+ Early life and education 
+ Early life 
+William L. Jorgensen was born on October 5, 1949, in New York City.
+
+His father, Axel V. Jorgensen (1912–1996), had immigrated to the United States from Denmark in 1935 and worked his entire career as an engineer for the Danish firm F. L. Smidth, primarily in midtown Manhattan; he was multilingual, speaking six languages, and earned a B.A. in economics from New York University while attending night classes.
+
+Jorgensen's mother, Alice Lane Jorgensen (1911–1990), grew up in Spokane, Washington, and obtained B.A. and M.A. degrees from the University of Montana and Columbia Teachers College, respectively; many of her relatives had been homesteaders in Montana during the 1920s.
+
+He had one sibling, an older brother named Lane, who later graduated from Lehigh University as an engineer.
+
+The family environment, influenced by his parents' professional pursuits and intellectual discussions, fostered an early curiosity in Jorgensen about scientific and technical subjects.
+
+In 1950, the family relocated from Manhattan to Port Washington on Long Island, where Jorgensen attended St. Peter of Alcantara School through fifth grade.
+
+Following his brother's departure for college in 1960, they moved again to Sherman, Connecticut, and he completed sixth through eighth grade at the local public school, graduating in 1963 as part of a class of 12 students.
+
+During his childhood in these settings, Jorgensen's interest in science was notably sparked in the early 1960s when his parents gifted him a Gilbert Chemistry Set, enabling hands-on experiments with readily available chemicals from local stores, such as potassium nitrate.
+
+He described himself as an adventurous child and directed his path toward chemistry without a singular, predefined ambition.
+
+ Education 
+William L. Jorgensen earned an A.B. degree in chemistry from Princeton University in 1970, completing the program in three years thanks to advanced placement credits that allowed him to accelerate his studies.
+
+He initially enrolled in the chemical engineering sequence but switched to chemistry after his first semester, taking key courses in physical chemistry under Professor Walter J. Kauzmann, organic chemistry with Professors Paul von Ragué Schleyer and Ted Taylor, and inorganic chemistry with Neil Bartlett.
+
+During his undergraduate years, Jorgensen joined Professor Leland C. Allen's research group, where he gained early exposure to computational methods through ab initio quantum mechanics and semiempirical molecular orbital calculations using programs like CNDO and NDDO on IBM computers; this work led to his first publication in the Journal of the American Chemical Society in 1970, evaluating these methods for hydrocarbons.
+
+Jorgensen pursued graduate studies at Harvard University, earning a Ph.D. in chemical physics in 1975 under the advisory of Nobel laureate Elias J. Corey.
+
+His doctoral thesis focused on computational aspects of organic chemistry, particularly the development of the LHASA (Logic and Heuristics Applied to Synthetic Analysis) program for computer-assisted retrosynthetic analysis, which built on earlier systems like OCSS and included modules for disconnections, functional group interchanges, symmetry recognition, and synthetic strategies.
+
+This work, conducted initially in assembly language on a DEC PDP-1 and later in FORTRAN on a PDP-10, resulted in two publications in the Journal of the American Chemical Society.
+
+Throughout his graduate studies, Jorgensen maintained interests in quantum mechanics, modifying CNDO codes for MINDO and extended Hückel theory, and collaborating on molecular orbital calculations and 3D plotting techniques, which further honed his computational expertise.
+
+His thesis committee included Corey, William Lipscomb, and R. B. Woodward.
+
+ Professional career 
+ Positions at Purdue University 
+William L. Jorgensen joined the faculty of Purdue University in August 1975 as an assistant professor in the Department of Chemistry, shortly after completing his postdoctoral work at Harvard University.
+
+This appointment marked his entry into academia, where he received a modest start-up package of $15,000 and a Dreyfus Teacher-Scholar Award, enabling initial investments in computational equipment such as a Texas Instruments minicomputer and a Tektronix graphics display.
+
+At Purdue, Jorgensen established his research program in computational chemistry, focusing on quantum mechanical studies and statistical mechanical simulations of organic and biomolecular systems, while benefiting from the university's access to mainframe computers like the CDC/6500.
+
+Jorgensen was promoted to associate professor in 1979 and to full Professor in 1982, positions he held until his departure in 1990.
+
+During this period, he also served as the Herbert C. Brown Professor of Chemistry and headed the Organic Chemistry Division from 1984 to 1987, roles that positioned him to influence departmental direction and foster interdisciplinary collaborations.
+
+These leadership responsibilities supported the growth of his group, which expanded to include graduate students, postdocs, and collaborators working on projects like the Computer-Aided Mechanistic Evaluation of Organic Reactions (CAMEO) program and early Monte Carlo simulations of liquids.
+
+Notable interactions included serving as an intermediary between Purdue's H. C. Brown and external researchers like Paul Schleyer on carbocation solvation debates, which helped integrate experimental and computational approaches within the department.
+
+Through these positions, Jorgensen built a foundational research program that trained over a dozen coworkers at Purdue, many of whom later advanced to roles in academia and the pharmaceutical industry, laying the groundwork for his subsequent career at Yale.
+
+His tenure at Purdue, spanning 15 years, emphasized the development of computational tools and methods, supported by grants from the National Science Foundation and the National Institutes of Health starting in the late 1970s.
+
+ Career at Yale University 
+William L. Jorgensen joined the Yale University faculty in July 1990 as a professor in the Department of Chemistry, bringing with him a research group of 14 members from his prior position at Purdue University, where he had built foundational expertise in computational chemistry.
+
+This transition allowed him to expand his work at Yale, leveraging his established reputation to foster interdisciplinary collaborations within the university's organic and biophysical chemistry communities.
+
+In 2009, Jorgensen was appointed Sterling Professor of Chemistry, Yale's highest faculty honor, recognizing his sustained contributions to the field and leadership in advancing molecular simulations and design methodologies.
+
+Under his direction, he established and led a prominent research group centered on computational and medicinal chemistry, which grew significantly over the decades to incorporate both theoretical modeling and experimental synthesis components.
+
+The group, supported by key personnel such as Senior Research Scientist Julian Tirado-Rives and long-term assistant Paty Morales, emphasized the integration of simulation techniques with practical applications in molecular design.
+
+Jorgensen's leadership extended to extensive student mentoring, guiding approximately 150 researchers, including his first Yale graduate students Erin Duffy and Heather Carlson in 1990 and 1991, respectively.
+
+Many of these mentees pursued successful careers in academia and industry, particularly in pharmaceuticals, reflecting the group's emphasis on training in computational tools, cheminformatics, and synthetic methods.
+
+By the mid-2000s, the lab had expanded to include dedicated synthetic facilities, enabling a seamless workflow from computational predictions to experimental validation.
+
+Post-2020, Jorgensen has continued to direct ongoing drug design projects through his research group, focusing on structure-based approaches to therapeutic targets in areas such as antivirals and infectious diseases, in collaboration with Yale colleagues.
+
+These efforts underscore his support molecular research.
+
+ Administrative and editorial roles 
+In addition to his academic positions, Jorgensen held significant administrative leadership at Yale University. From 2009 to 2012, he served as Director of the Division of Physical Sciences and Engineering, overseeing strategic initiatives and resource allocation across departments in chemistry, physics, engineering, and related fields.
+
+Jorgensen played a pivotal role in scientific publishing, particularly as the founding Editor-in-Chief of the Journal of Chemical Theory and Computation (JCTC), an American Chemical Society publication launched in 2005. He led the journal through its formative years, establishing editorial standards and fostering growth in the field of computational chemistry until stepping down in 2022, when Laura Gagliardi succeeded him.
+
+Beyond Yale and JCTC, Jorgensen contributed to governance in professional societies. He chaired the Computers in Chemistry Division of the American Chemical Society in 2002, following as chairman-elect in 2001, and served on the ACS Executive Director's Committee starting in 2004. Internationally, he was president of the International Society for Quantum Biology and Pharmacology from 2001 to 2002. These roles underscored his influence in shaping organizational priorities for computational and theoretical chemistry.
+
+ Research contributions 
+ Development of computational methods 
+William L. Jorgensen pioneered the application of Metropolis Monte Carlo (MC) methods in the late 1970s for simulating liquid systems, developing the foundational code that evolved into the BOSS (Biomolecular and Organic Simulation System) program. This work, initiated in 1978 at Purdue University, focused on statistical mechanics simulations using ab initio-derived potentials to model structural and thermodynamic properties of fluids like water, hydrogen fluoride, ammonia, and methanol, with early computations requiring over 50 hours on CDC/6500 computers for 125 water molecules across 500,000 configurations.
+
+By the early 1980s, Jorgensen integrated quantum mechanics (QM) with these MC simulations to compute free-energy changes for reactions in solution, addressing limitations of gas-phase QM by incorporating thermal averaging and solvation effects through statistical perturbation techniques. A seminal 1985 study demonstrated the use of MC with QM-derived parameters to calculate hydration free-energy differences, such as mutating ethane to methanol in water, achieving precision within ±0.2 kcal/mol using single-topology perturbations and double-wide sampling on a Harris 80 minicomputer over six weeks.
+
+Jorgensen's development of free-energy perturbation (FEP) theory in the 1980s represented a major advance for modeling protein-ligand binding affinities and solution-phase reactions, enabling the computation of relative free energies via alchemical transformations within MC simulations. The 1985 ethane-to-methanol mutation marked the first FEP application to a molecular system in aqueous solution, inspiring rapid adoption in molecular dynamics codes like AMBER and facilitating quantitative predictions of conformational equilibria, such as the anti/gauche preferences in n-butane driven by hydrophobic effects.
+
+Further refinements in the mid-1980s included umbrella sampling for bond-making/breaking reactions, exemplified by the 1984 SN2 profile for Cl⁻ + CH₃Cl in water, which revealed solvent stabilization of the transition state by 35 kcal/mol compared to the gas phase, computed on a Cyber 205 supercomputer. His 1989 review synthesized these methods, highlighting FEP's utility for pKa shifts, partition coefficients, and host-guest binding, with applications extending to protein-ligand interactions as a basis for later drug design efforts.
+
+Recent work as of 2024 continues advancements in MC simulations for computing enthalpies, entropies, and free energies of hydration, building on FEP foundations.
+
+From the 1980s onward, Jorgensen advanced hybrid quantum mechanics/molecular mechanics (QM/MM) simulations for organic and enzymatic reactions, initially using decoupled approaches to combine QM reaction paths with MM solvation free energies. Early decoupled QM/MM studies in 1984 applied to pericyclic reactions like Diels-Alder rearrangements, elucidating hydrogen-bond catalysis in aqueous solution through free-energy profiles.
+
+By 1998, on-the-fly QM/MM was implemented in BOSS with semiempirical methods like AM1 and PM3, allowing dynamic QM evaluations during MC sampling for reactions such as the chorismate Claisen rearrangement, which confirmed near-attack conformer stabilization. Methodological improvements in the 2000s included the PDDG/PM3 semiempirical Hamiltonian, optimized for activation free energies in solvents, reducing errors to 1-2 kcal/mol for SN2, SNAr, and decarboxylation reactions compared to higher-level QM benchmarks. These advances extended to enzymatic systems, such as 2005 QM/MM simulations of macrophomate synthase resolving a tandem Michael-aldol mechanism via FEP-MC free-energy surfaces. A 2010 review underscored the efficiency of these QM/MM frameworks for large-scale simulations of reaction mechanisms in proteins and solutions.
+
+ Force fields and water models 
+William L. Jorgensen developed the Optimized Potentials for Liquid Simulations (OPLS) force field in the 1980s, initially focusing on intermolecular potential functions for organic liquids such as hydrocarbons, alcohols, and ethers to accurately reproduce experimental thermodynamic properties like densities and heats of vaporization.
+
+These early OPLS parameters emphasized fitting nonbonded interactions, including Lennard-Jones and electrostatic terms, through Monte Carlo simulations of pure liquids, achieving errors typically below 5% compared to experimental data for liquid properties.
+
+The approach prioritized liquid-phase accuracy over gas-phase geometries, distinguishing OPLS from earlier force fields and enabling reliable simulations of organic systems in solution.
+
+In 1996, Jorgensen and co-workers extended OPLS to an all-atom version (OPLS-AA) tailored for organic molecules and peptides, incorporating torsional parameters fitted to ab initio quantum mechanical calculations (RHF/6-31G*) on over 50 compounds, with average conformational energy errors under 0.2 kcal/mol.
+
+Bond stretching and angle bending terms were largely adopted from the AMBER force field, while nonbonded parameters were refined via Monte Carlo simulations of 34 organic liquids, yielding average errors of 2% for densities and heats of vaporization.
+
+This OPLS-AA framework enhanced simulation accuracy for biomolecular systems by providing a balanced representation of intramolecular energetics and intermolecular interactions in condensed phases.
+
+Jorgensen's contributions to water modeling began in 1983 with the introduction of the TIP3P and TIP4P potentials, simple three- and four-site models designed for efficient Monte Carlo and molecular dynamics simulations of liquid water.
+
+TIP3P uses partial charges on hydrogen and oxygen atoms with a single Lennard-Jones site on oxygen to capture hydrogen bonding, while TIP4P adds a massless charge site on the bisector of the H-O-H angle for improved electrostatics, both reproducing experimental densities, potential energies, and oxygen-oxygen structure functions from neutron diffraction with reasonable fidelity.
+
+These models, evaluated against alternatives like SPC and ST2, offered computational simplicity and broad utility for aqueous biomolecular simulations without explicit polarization.
+
+Building on this, Jorgensen co-developed the TIP5P model in 2000 as a five-site, nonpolarizable potential with two negative charge sites positioned along lone-pair directions to better mimic hydrogen bonding and polarization effects in liquid water.
+
+Optimized via extensive Monte Carlo simulations (over 1 billion configurations for low temperatures), TIP5P accurately reproduces the density maximum at 4 °C, with an average density error of 0.006 g/cm3 from -37.5 to 62.5 °C at 1 atm, and a dielectric constant of 81.5 at 25 °C matching experimental trends up to 100 °C.
+
+It also performs well under pressure, with ~2% density error up to 10,000 atm, capturing the shift in maximum density temperature.
+
+Ongoing refinements to OPLS-AA included targeted reparametrization for proteins in 2001, where torsional parameters for peptides were refitted against high-level ab initio data (LMP2/cc-pVTZ), reducing root-mean-square energy deviations from 0.81 to 0.47 kcal/mol for uncharged dipeptides and extending applicability to charged side chains like those in aspartate and lysine.
+
+These updates, validated on alanine tetrapeptides and model liquids, improved conformational sampling and liquid property predictions, significantly enhancing the force field's accuracy for protein simulations in aqueous environments.
+
+Overall, Jorgensen's force fields and water models have become staples in computational chemistry, enabling precise predictions of solvation and liquid behaviors critical to biomolecular studies.
+
+ Applications in drug design 
+Jorgensen's research has significantly advanced the application of computational chemistry to drug discovery, particularly through structure-based design of small-molecule inhibitors for therapeutic targets in infectious, inflammatory, and proliferative diseases. His approach integrates virtual screening, de novo library generation using the BOMB program for combinatorial exploration in binding sites, protein-ligand docking, and Monte Carlo free-energy perturbation (FEP) simulations for lead optimization, often leveraging OPLS force fields to predict binding affinities. This pipeline has facilitated the synthesis and validation of potent agents, with crystallography confirming binding modes and guiding further iterations.
+
+A prominent application is the de novo design of non-nucleoside reverse transcriptase inhibitors (NNRTIs) for HIV-1 reverse transcriptase (RT), addressing challenges like resistance in variants such as Y181C. Starting from docking-identified hits, BOMB was employed to grow focused libraries placing hydrophobic groups in the aromatic π-box (Tyr181, Tyr188, Trp229, Phe227) and hydrogen-bond donors near Lys101, yielding templates like Het-NH-3/4Ph-U (Het = heterocycle; U = unsaturated hydrophobic). FEP calculations optimized substituents, leading to picomolar inhibitors against wild-type HIV-1 (e.g., JLJ494 with EC50 = 0.055 nM) and low-nanomolar activity against mutants, surpassing FDA-approved NNRTIs in potency and solubility. Crystal structures (e.g., PDB 4KKO for inhibitor 31) validated poses, including hydrogen bonds to Lys103 and morpholinylethoxy chains enhancing aqueous properties.
+
+For the chemokine receptor CXCR4, implicated in HIV entry and inflammation, Jorgensen's group used virtual high-throughput screening and FEP-guided optimization to develop amide-sulfamide modulators and piperidinylethanamine analogs as inhibitors. These agents exhibit nanomolar binding affinities, with computational modeling predicting partial allosteric agonism and synthesis confirming anti-inflammatory potential in assays. Docking and Monte Carlo simulations targeted the binding pocket, prioritizing synthesizable leads for anti-HIV and anti-cancer applications.
+
+In kinase-targeted therapies, Jorgensen applied similar methods to JAK2 inhibitors for anti-cancer and anti-inflammatory uses, focusing on the pseudokinase (JH2) domain to enhance selectivity over full kinase activity. BOMB-facilitated library growth and FEP scans identified diaminotriazoles that inhibit STAT5 phosphorylation (IC50 < 10 nM) and show cell-active potency against hyperproliferative models, with crystal structures elucidating covalent modifications at Cys940. This work has produced leads with improved pharmacokinetics compared to clinical JAK inhibitors.
+
+Responding to the COVID-19 pandemic, Jorgensen's team rapidly designed noncovalent inhibitors of SARS-CoV-2 main protease (Mpro) in 2020, sculpting from the approved drug perampanel (initial IC50 >100 μM) via FEP predictions of relative binding free energies (ΔΔG_b up to -4.7 kcal/mol for key substitutions). Modifications in the S1-S4 pockets, including uracil or cyanophenyl heterocycles and alkoxy chains, yielded low-nanomolar enzymatic inhibitors (IC50 ≈ 20 nM) and micromolar antiviral EC50 (≈1 μM in Vero E6 cells), synergistic with remdesivir. High-resolution crystal structures (1.6-2.2 Å, e.g., PDB 7L10-7L12) confirmed cloverleaf binding motifs with hydrogen bonds to His163, Glu166, and Cys145, highlighting nonpeptidic, drug-like scaffolds.
+
+Synthesis and structural validation have been integral, exemplified by biaryltriazoles as inhibitors of macrophage migration inhibitory factor (MIF), a pro-inflammatory target. Computational design optimized tautomerase inhibition (IC50 ≈ 50 nM), with X-ray crystallography (2.0 Å resolution) revealing binding at the active site interface, including π-stacking with Phe3 and hydrogen bonds to Pro2. These agents show promise for anti-inflammatory therapies. For anti-parasitic applications, virtual screening and BOMB identified allosteric covalent inhibitors of bifunctional thymidylate synthase-dihydrofolate reductase (TS-DHFR) in protozoa like Cryptosporidium hominis (IC50 < 1 μM), advancing leads against neglected tropical diseases. Anti-cancer efforts, including JAK2-targeted agents, have similarly integrated synthesis of focused libraries with crystallographic feedback to achieve selective proliferation inhibition.
+
+ Awards and honors 
+ Major scientific awards 
+William L. Jorgensen received the ACS Award for Computers in Chemical and Pharmaceutical Research in 1998, recognizing his pioneering contributions to computational methods in organic and pharmaceutical chemistry, particularly the development of Monte Carlo simulations and force fields for molecular modeling.
+
+In 2004, he was awarded the Sato Memorial International Award by the Pharmaceutical Society of Japan for his innovative applications of computational chemistry to drug design and molecular recognition processes.
+
+Jorgensen earned the ACS Joel Henry Hildebrand Award in the Theoretical and Experimental Chemistry of Liquids in 2012, honoring his foundational work on water models and solvation effects that have advanced understanding of liquid-state chemistry.
+
+The Tetrahedron Prize for Creativity in Bioorganic and Medicinal Chemistry was bestowed upon him in 2015 by Elsevier, celebrating his transformative impact on computational approaches to organic synthesis and drug discovery.
+
+In 2024, Jorgensen became the first Yale University faculty member since 1988 to receive the Arthur C. Cope Award from the American Chemical Society, acknowledging his lifetime achievements in organic chemistry, including the creation of widely used OPLS force fields and their role in accelerating pharmaceutical development.
+
+ Academy memberships and fellowships 
+William L. Jorgensen was elected to the National Academy of Sciences in 2011, recognizing his pioneering contributions to computational chemistry, particularly in molecular simulations and force field development. This honor underscores his status among the world's leading scientists in physical and theoretical chemistry.
+
+In 2007, Jorgensen was inducted as a member of the American Academy of Arts and Sciences, an elite interdisciplinary society that elects individuals for distinguished achievements in scholarly and artistic pursuits. He further joined the International Academy of Quantum Molecular Science in 2010, a prestigious body dedicated to advancing quantum methods in molecular science, highlighting his expertise in quantum mechanical calculations for chemical systems.
+
+Jorgensen has also received several notable fellowships. He was elected a Fellow of the American Association for the Advancement of Science in 1994 for his meritorious contributions to the field of computational organic chemistry. In 2009, he became a Fellow of the American Chemical Society, acknowledging his impactful work in theoretical and computational chemistry. Additionally, the International Society of Quantum Biology and Pharmacology awarded him the ISQBP Award in Computational Biology in 2004, which serves as a fellowship-equivalent honor for excellence in computational approaches to biological systems.

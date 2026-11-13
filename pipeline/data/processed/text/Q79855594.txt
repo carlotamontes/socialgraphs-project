@@ -1,0 +1,37 @@
+Ottar Nordal Bjørnstad (born 24 October 1969 in Uppsala, Sweden) is a Norwegian–American theoretical ecologist and mathematical epidemiologist. He holds the position of Distinguished Professor of Entomology and Biology at Pennsylvania State University (Penn State), where he also holds the J. Lloyd & Dorothy Foehr Huck Chair of Epidemiology. He is affiliated with Penn State's Center for Infectious Disease Dynamics (CIDD) and has held visiting and research appointments at institutions in Norway, the United States, and Australia.
+
+Bjørnstad's research lies at the intersection of ecology, mathematical biology, and statistics. He is best known for his contributions to the study of spatiotemporal population dynamics, the analysis of epidemic and outbreak cycles, and the development of computational tools for ecological data analysis. 
+
+ Education 
+
+Bjørnstad received his education from the University of Oslo, Norway. He was awarded a Bachelor of Science in Biology in 1991, a Master of Science in Zoology in 1993, and a Doctor of Philosophy in Ecology in 1997, co-supervised by Nils Chr. Stenseth and Rolf Anker Ims. Following his doctorate, he undertook postdoctoral research at the University of Oslo and the University of Cambridge (1997–1998), and subsequently at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California, Santa Barbara (1998–2000).
+
+ Career 
+
+Bjørnstad joined Pennsylvania State University in 2001 as a faculty member in the Department of Entomology. He was appointed Professor in the Departments of Entomology and Biology and Adjunct Professor in the Department of Statistics in 2007. Since 2014 he has held the J. Lloyd & Dorothy Foehr Huck Chair of Epidemiology. From 2004 to 2009, Bjørnstad served as co-director of the Center for Infectious Disease Dynamics (CIDD) at Penn State.
+
+Bjørnstad has held several visiting and research positions alongside his primary Penn State appointment. He was a Senior Research Fellow in the Division of International Epidemiology and Population Studies at the NIH Fogarty International Center (2004–2014), and co-director of Penn State's CIDD (2004–2009). Visiting professorships include the Department of Biostatistics at the University of Oslo (2008–2009), the Department of Arctic and Marine Biology at the University of Tromsø (2015–2018), and the Marshall Centre for Infectious Diseases Research and Training at the University of Western Australia(2017). 
+
+ Research 
+
+Bjørnstad's research spans population dynamics, infectious disease epidemiology, insect pest outbreaks, and the development of statistical methods for ecological data.
+
+With Bryan Grenfell (Princeton University) and others, he developed time-series approaches to estimating transmission rates for childhood infections such as measles and whooping cough. Their time-series SIR (TSIR) model became a widely adopted framework for reconstructing epidemic dynamics from case-report data. Notable findings from this programme include the demonstration that measles epidemics in pre-vaccination England and Wales propagated as travelling waves from large cities to smaller settlements, and that persistent epidemic chaos in US pre-vaccination measles arose from small changes in seasonal transmission (with Dalziel and colleagues).
+
+Bjørnstad has contributed to understanding of how temperature affects insect outbreaks and the dynamics of influenza, pertussis (whooping cough), Rubella, Hantavirus, Dengue virus, Ebola, and SARS-CoV-2. During the COVID-19 pandemic, his paper (with Lavine and Antia) on immunological conditions for the transition of COVID-19 to endemicity attracted wide attention.
+
+ Software  and teaching 
+
+Bjørnstad has contributed to the development of statistical methods for analysing spatiotemporal ecological data. He developed the ncf (nonparametric covariance functions) R package, used in ecology, epidemiology, and related fields, and is the author or co-author of several other R packages. His textbook Epidemics: Models and Data Using R (Springer, 2018; 2nd edition 2022) provides a practical introduction to infectious disease modelling using R.
+
+ Awards and honours 
+
+ Fellow of the American Association for the Advancement of Science (AAAS), elected 2013.
+ Fellow of the Ecological Society of America (ESA), elected 2019.
+ Elected Fellow of the Norwegian Academy of Science and Letters.
+ J. Lloyd & Dorothy Foehr Huck Chair of Epidemiology, Penn State (2014–present).
+
+ Books 
+
+ Bjørnstad, O. N. (2018). Epidemics: Models and Data Using R. Springer (Use R! series). .
+ Bjørnstad, O. N. (2022). Epidemics: Models and Data Using R (2nd ed.). Springer (Use R! series). .

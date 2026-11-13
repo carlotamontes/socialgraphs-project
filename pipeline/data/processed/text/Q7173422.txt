@@ -1,0 +1,34 @@
+Peter V. Coveney is a British chemist who is Professor of Physical Chemistry, Honorary Professor of Computer Science, and the Director of the Centre for Computational Science (CCS) and Associate Director of the Advanced Research Computing Centre at University College London (UCL).  He is also a Professor of Applied High Performance Computing at University of Amsterdam (UvA) and Professor Adjunct at the Yale School of Medicine, Yale University. He is a Fellow of the Royal Academy of Engineering and Member of Academia Europaea.
+
+Education
+Coveney was awarded a Doctor of Philosophy degree from  the  University of Oxford in 1985 for his work on Semiclassical methods in scattering and spectroscopy.
+
+Career
+Coveney has held positions at University of Oxford, Princeton University, Schlumberger and QMUL, and currently holds positions at UCL, UvA and Yale, as well as acting as a Member of several academic councils in the UK and EU.
+
+Research
+Coveney worked with Ilya Prigogine at the Free University of Brussels (1985-87) and went on to publish work with the mathematician Oliver Penrose on rigorous foundations of irreversibility and the derivation of kinetic equations based on chaotic dynamical systems. 
+
+He collaborated with Jonathan Wattis on extensions and generalisations of the Becker-Döring and Smoluchowski equations for the kinetics of aggregation-fragmentation processes which they applied to a wide range of phenomena, from self-reproducing micelles and vesicles to a scenario for the origin of the RNA world in which they showed that self-reproducing sequences of RNA can spontaneously arise from an aqueous mixture of the RNA nucleotide bases.
+
+At Schlumberger Cambridge Research (SCR), Coveney initiated new lines of research in which advanced computational methods played a central role. Some parts of this work, to develop highly scalable lattice-gas and, later, lattice-Boltzmann models of complex fluids, was done in collaboration with Bruce M. Boghosian, following Schlumberger's acquisition of a Connection Machine, the CM-5, from the company.
+
+At the same time, using methods from nonlinear dynamics, he was able to identify the rate-determining processes that enable one to design new compounds which inhibit the crystallisation of the mineral ettringite by molecular modelling.
+
+From 2006, Coveney moved away from studying oilfield fluids to investigate blood flow in the human body, including the brain. Working with a PhD student, Marco Mazzeo, he developed a new code, named HemeLB, which simulates blood flow in the complex geometries of the human vasculature, as derived from a variety of medical imaging modalities. The algorithm, based on indirect addressing, scales to very large core counts on CPU-based supercomputers. Most recently, he and his team have developed a GPU-accelerated version of the code which scales to around 20,000 GPUs on the Summit supercomputer and will soon be deployed on the world's first exascale machine, Frontier.
+
+Coveney works in the domain of multiscale modelling and simulation. Working initially with Eirik Flekkøy on foundations of the dissipative particle dynamics method and then with Rafael Delgado-Buscalioni, he was among the first to develop theoretical schemes which couple molecular dynamics and continuum fluid dynamics representations of fluids in a single simulation. His work covers numerous applications of these methods in advanced materials and biomedical domains.
+
+Coveney's recent work is on the rapid, accurate, precise and reliable prediction of free energies of binding of ligands to proteins, a major topic in drug discovery. Coveney has noted that classical molecular dynamics is chaotic and to make robust predictions from it requires the use of ensembles at all times. This is a practical manifestation of his earlier work on simpler dynamical systems, for which a thermodynamic description is possible using a probabilistic formulation. It has only become possible in the era of petascale computing, when supercomputers have grown to sufficient size to make calculations of ensemble averages feasible.
+
+Working with Bruce M. Boghosian and Hongyan Wang, Coveney showed that there are a variety of problems which arise when simulating even the simplest of all dynamical systems — the generalised Bernoulli map — on a computer. The IEEE floating point numbers can produce errors which are extremely large as well others of more modest scale, but they are each wrong when compared with the known exact mathematical description of the dynamics.
+
+In recent years, Coveney has been a leading player in the development and application of validation, verification and uncertainty quantification (VVUQ) to computer simulation codes across a wide range of domains. The VECAM Toolkit and later SEAVEA Toolkit provide a set of open-source, open-development software components which can be used to instrument any code so as to study its VVUQ characteristics. The methods his team has developed are aimed at the analysis of real-world codes of substantial complexity which run on high performance computers.
+
+Coveney has become active in quantum computing, where he is specifically concerned with seeking to assess the feasibility of realising quantum advantage from its application to the solution of molecular electronic structure problems. He and his team are currently dealing with noise reduction and implementing error mitigation as extensively as possible on a range of quantum device architectures.
+
+Coveney led the EPSRC RealityGrid e-Science Pilot Project and its extension project, and the EU FP7 Virtual Physiological Human (VPH) Network of Excellence.  He is the Principal Investigator on the EU Horizon 2020 projects Verified Exascale Computing for Multiscale Applications, "VECMA" and Centre of Excellence in Computational Biomedicine,"CompBioMed2".  The original CompBioMed initiative was launched after Coveney and his team successfully challenged the EU  following a rejected grant proposal.
+
+Coveney has been the recipient of US NSF and DoE, and European DEISA and PRACE supercomputing awards.
+
+Coveney has chaired the UK Collaborative Computational Projects Steering Panel and served on the programme committee of the 2002 Nobel Symposium on self-organization.  He is a founding member of the UK Government's e-Infrastructure Leadership Council and a Medical Academy Nominated Expert to the UK Prime Minister's Council for Science and Technology on Data, Algorithms and Modelling, which has led to the creation of the London-based Alan Turing Institute.

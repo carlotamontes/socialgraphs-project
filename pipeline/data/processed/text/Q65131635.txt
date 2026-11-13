@@ -1,0 +1,30 @@
+Éric Moulines (born in Bordeaux on 24 January 1963) is a French researcher in statistical learning and signal processing. He received the silver medal from the CNRS in 2010, and was appointed a Fellow of the European Association for Signal Processing in 2012 and of the Institute of Mathematical Statistics in 2016, and was elected a member of the French Academy of Sciences in 2017. He is General Engineer of the Corps des Mines (X81).
+
+ Biography 
+Éric Moulines entered the École polytechnique in 1981, then went to study at Télécom ParisTech.
+
+He began his career at the Centre national d'études des télécommunications where he worked on speech synthesis from text. He is involved in the development of new waveform synthesis methods called PSOLA (pitch synchronous overlap and add).
+
+After defending his thesis in 1990, he joined the École Nationale Supérieure des Télécommunications (now Télécom ParisTech). He then became interested in different problems of statistical signal processing. In particular, it contributes to the development of subspaces methods for the identification of multivariate linear systems and source separation and develops new algorithms for adaptive system estimation.
+
+He became a full professor at Télécom ParisTech in 1996. He received his Habilitation à diriger des recherches (authorisation to direct research) in 2006. He then devoted himself mainly to the application of Bayesian methods with applications in signal processing and statistics. In 2025 he joined the faculty of Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi.
+
+ Scientific work 
+He is interested in the inference of latent variable models and in particular hidden Markov chains, and non-linear state models (non-linear filtering) In particular, it contributes to filtering methods using interacting particle systems. He was more generally interested in the inference of partially observed Markovian models, coupling estimation and simulation problems with Monte Carlo Markov Chain Methods (MCMC). He has also developed numerous theoretical tools for the convergence analysis of MCMC algorithms, obtaining fundamental results on the long time behaviour of Markov chains.
+
+Since 2005, he has been working on statistical learning problems, including the analysis of stochastic optimization algorithms.
+
+He joined the Centre de mathématiques appliquées de l'École polytechnique as a professor in 2015. He is interested in Bayesian inference from large scale models, with applications in uncertainty quantification in statistical learning.
+
+Since 2022, Moulines has led the OCEAN (On IntelligenCE And Networks) project, a six-year ERC Synergy Grant on federated learning and decentralised artificial intelligence, jointly with Michael I. Jordan (UC Berkeley), Christian P. Robert (Université Paris Dauphine-PSL) and Gareth Roberts (University of Warwick).
+
+ Honours and awards 
+ ERC Synergy Grant in 2022, with Michael Jordan (UC Berkeley), Christian Robert (Université Paris Dauphine-PSL) and Gareth Roberts (University of Warwick), for the OCEAN (On IntelligenCE And Networks) project on federated learning
+ Chevalier (Knight) of the National Order of Merit (24 November 2021)
+ Technical Achievement Award of the European Association for Signal Processing (EURASIP) in 2020
+ Elected member of the French Academy of Sciences on 5 December 2017, in the Mechanical and Computer Sciences section
+ Fellow of the Institute of Mathematical Statistics in 2016
+ Fellow of the European Association for Signal Processing (EURASIP) in 2012
+ CNRS Silver Medal in 2010
+ IEEE Signal Processing Magazine Best Paper Award in 2005, with Olivier Cappé, Jean-Christophe Pesquet, Athina Petropulu and Xueshi Yang, for "Long-Range Dependence and Heavy-Tail Modeling for Teletraffic Data"
+ IEEE Signal Processing Society Best Paper Award in 1997, with Pierre Duhamel, Jean-François Cardoso and Sylvie Mayrargue, for "Subspace Methods for the Blind Identification of Multichannel FIR Filters"

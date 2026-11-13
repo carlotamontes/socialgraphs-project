@@ -1,0 +1,18 @@
+Ville Topias Pulkki (born May 10, 1969) is a Finnish acoustics researcher and professor at Aalto University 2015–.   
+
+ Education 
+Pulkki studied at the Helsinki University of Technology (TKK), now Aalto University. He obtained a Master of Science in Technology in 1994 studying in the Dept. of Physics under the supervision of Prof. Teuvo Kohonen, best known for inventing the Kohonen Self-Organizing Map. He obtained and a Doctor of Science in Technology in 2001, from the Acoustics Laboratory of TKK under the supervision of Prof. Matti Karjalainen.
+
+Career
+During the period of his Master's degree at TKK, Pulkki was also studying for a music Master’s degree at the Sibelius Academy, where he undertook technical duties, assisting with a system for panning signals to the multiple loudspeakers of the Chamber music hall. After unsuccessful attempts to apply a pair-wise panning approach based on the sine/tangent principles he adopted a vector-based approach, leading to the development of Vector Base Amplitude Panning method  which was formalized during his Doctoral thesis research (1994-2001). Initially, open-access VBAP implementations were provided for C language, Max/MSP, CSound and PureData platforms (http://legacy.spa.aalto.fi/software/vbap/) and a have attracted significant interest within the audio research and academic community. The VBAP method was subsequently adopted by many widely used 3D multi-channel formats, systems and platforms (e.g. the ISO MPEG-H standard / DTS / Sony Playstation VR / 3GPP IVAS). After completing his PhD in 2001, Pulkki and his co-workers at the Acoustics Laboratory developed the DirAC method for spatial audio coding and synthesis . 
+
+Pulkki was appointed docent of spatial sound at Aalto University in 2007–2012, an assistant professor in 2012–2015 and a professor in 2015. 
+
+Pulkki has received funding for his research from, for example, European Research Council (ERC), Fraunhofer institut and Academy of Finland.  Pulkki is a fellow member of the Audio Engineering Society.  In 2014, Pulkki was awarded the Samuel L. Warner Memorial Medal for his significant research work surround and multichannel audio.
+
+Pulkki has co-authored Communication Acoustics with Matti Karjalainen textbook Communication Acoustics: An Introduction to Speech, Audio and Psychoacoustics (2015), published by John Wiley & Sons. 
+
+ Awards and honors 
+ Audio Engineering Society Fellow (2010) 
+ Samuel L. Warner Memorial Medal (2014). Society of Motion Picture and Television Engineers (SMPTE) The award is given of outstanding contributions in the field of spatial sound reproduction and multi-channel audio rendering 
+ AES Silver Medal (2017) Exceptional contributions in the understanding and development of spatial audio techniques
