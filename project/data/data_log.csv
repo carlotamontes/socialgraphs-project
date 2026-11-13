@@ -4,3 +4,8 @@ timestamp_utc,source,description,n_records,notes
 2026-11-11T12:38:05+00:00,Wikipedia API,wikitext (prop=revisions) for scientists' pages,9857,9857 requested this run
 2026-11-11T12:40:31+00:00,Wikipedia API,redirects pointing to scientists' pages (prop=redirects),11993,
 2026-11-11T15:04:42+00:00,Wikipedia API,wikitext (prop=revisions) for scientists' pages,9857,0 requested this run
+2026-11-11T15:07:41+00:00,Wikipedia API,wikitext (prop=revisions) for scientists' pages,9857,0 requested this run
+2026-11-11T15:12:46+00:00,Wikipedia API,wikitext (prop=revisions) for scientists' pages,9857,0 requested this run
+2026-11-11T15:18:26+00:00,derived,nodes.csv / edges.csv from wikitext links,10645,9857 nodes
+2026-11-11T16:13:03+00:00,OpenAlex API,authors by Wikidata OpenAlex ID / ORCID (+ first work year),3060,3161 people looked up this run
+2026-11-11T16:54:50+00:00,OpenAlex API,authors by Wikidata OpenAlex ID / ORCID (+ first work year),3060,0 people looked up this run

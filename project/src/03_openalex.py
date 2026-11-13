@@ -64,8 +64,14 @@ def plain_name(title: str) -> str:
 def name_similarity(a: str, b: str) -> float:
     def norm(s):
         s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
-        return re.sub(r"[^a-z ]", "", s.lower())
-    return round(difflib.SequenceMatcher(None, norm(a), norm(b)).ratio(), 3)
+        return re.sub(r"[^a-z -]", "", s.lower())
+    # word order ignored, so 'Noh Tae-won' == 'Tae Won Noh'
+    def tokens(s):
+        return " ".join(sorted(norm(s).replace("-", " ").split()))
+    a2, b2 = tokens(a), tokens(b)
+    if not b2:          # e.g. name only in Cyrillic: can't compare
+        return None
+    return round(difflib.SequenceMatcher(None, a2, b2).ratio(), 3)
 
 
 def get_author(session, key: str) -> dict | None:
@@ -216,9 +222,9 @@ def main():
     print(matched.qid.map(g).value_counts().to_string())
     n_women = (matched.qid.map(g) == "female").sum()
     print(f"\nM1 check - women matched: {n_women} (need >= 100)")
-    low = matched[matched.name_similarity < 0.6]
+    low = matched[(matched.name_similarity < 0.6) | matched.name_similarity.isna()]
     if len(low):
-        print(f"{len(low)} matches have a low name similarity (<0.6) - check them by hand in Phase 2")
+        print(f"{len(low)} matches have a low or unknown name similarity (<0.6) - check them by hand in Phase 2")
 
 
 if __name__ == "__main__":
