@@ -1,0 +1,24 @@
+Charles Havice Moore II (born 9 September 1938), better known as Chuck Moore, is an American computer engineer and programmer who invented the Forth programming language in 1968. He cofounded FORTH, Inc., with Elizabeth Rather in 1971 and continued to evolve the language with an emphasis on simplicity.
+
+Beginning in the early 1980s, Moore shifted focus to designing stack machines in hardware conjoined with Forth-like languages to run on them. He developed the Novix NC4000 and ShBoom (which  evolved into the Ignite processor), then the minimal instruction set MuP21, and i21. He distanced himself from Forth proper, which by then had an official standard, and built ever more minimalist stack languages to support his own needs, particularly processor design. In the early 1990s, he implemented a system called OK for direct editing of x86 machine code without a compiler or assembler. He changed direction with colorForth, which uses internal tokens in the source code to guide a tiny compiler. He chose to visualize these tokens as different colors in a program, so code to be compiled and code to be interpreted are displayed distinctly.
+
+In the 2000s he created a series of low-power chips, marketed by GreenArrays, containing up to 144 individual stack processors.
+
+ Early career 
+Moore began programming at the Smithsonian Astrophysical Observatory by the late 1950s. He attended the Massachusetts Institute of Technology, where he studied under John McCarthy and received a bachelors in physics in 1961. He entered Stanford University for graduate school to study mathematics but in 1965 he left to move to New York City to become a freelance programmer.
+
+ Forth 
+In 1968, while employed at the United States National Radio Astronomy Observatory (NRAO), Moore invented the initial version of the Forth language to help control radio telescopes. In 1971 he co-founded (with Elizabeth Rather) FORTH, Inc., the first, and still one of the leading, purveyors of Forth solutions.  During the 1970s he ported Forth to dozens of computer architectures.
+
+ Hardware design
+In the 1980s, Moore turned his attention and Forth development techniques to CPU design, developing several stack machine microprocessors and gaining several microprocessor-related patents along the way. His designs have all emphasized high performance at low power usage. He also explored alternate Forth architectures such as cmForth and machine Forth, which more closely matched his chips' machine languages.
+
+In 1983 Moore founded Novix, Inc., where he developed the NC4000 processor. This design was licensed to Harris Semiconductor which marketed an enhanced version as the RTX2000, a radiation hardened stack processor which has been used in numerous NASA missions.  In 1985 at his consulting firm Computer Cowboys, he developed the Sh-Boom processor.  Starting in 1990, he developed his own VLSI CAD system, OKAD, to overcome limitations in existing CAD software. He used these tools to develop several multi-core minimal instruction set computer (MISC) chips: the MuP21 in 1990 and the F21 in 1993.
+
+Moore was a founder of iTv Corp, one of the first companies to work on internet appliances. In 1996 he designed another custom chip for this system, the i21.
+
+Moore developed the colorForth dialect of Forth, a language derived from the scripting language for his custom VLSI CAD system, OKAD.  In 2001, he rewrote OKAD in colorForth and designed the c18 processor.
+
+In 2005, Moore co-founded and became Chief Technology Officer of IntellaSys, which develops and markets his chip designs, such as the seaForth-24 multi-core processor.
+
+In 2009, he co-founded and became CTO of GreenArrays, Inc which is marketing the GA4 and GA144 multi-computer chips.
