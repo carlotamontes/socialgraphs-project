@@ -1,0 +1,134 @@
+Vladimir Igorevich Arnold (or Arnol'd; , ; 12 June 1937 – 3 June 2010) was a Soviet and Russian mathematician. He is best known for the Kolmogorov–Arnold–Moser theorem regarding the stability of integrable systems, and contributed to several areas, including geometrical theory of dynamical systems, algebra, catastrophe theory, topology, real algebraic geometry, symplectic geometry, differential equations, classical mechanics, differential-geometric approach to hydrodynamics, geometric analysis and singularity theory, including posing the ADE classification problem. In his later years he shifted his research interests, investigating discrete mathematics.
+
+His first main result was the solution of Hilbert's thirteenth problem in 1957 when he was 19. He co-founded three new branches of mathematics: topological Galois theory (with his student Askold Khovanskii), KAM theory (with Andrey Kolmogorov and Jürgen Moser) and symplectic topology.
+
+Arnold was also a populariser of mathematics. Through his lectures, seminars, and as the author of several textbooks (such as Mathematical Methods of Classical Mechanics and Ordinary Differential Equations) and popular mathematics books, he influenced many mathematicians and physicists. Many of his books were translated into English. His views on education were opposed to those of Bourbaki.
+
+A controversial and often quoted dictum of his is "Mathematics is the part of physics where experiments are cheap". The Arnold principle: "Discoveries are rarely attributed to the correct person" is also named after him.
+
+Arnold worked at the Moscow State University from 1961 to 1986, at the Steklov Mathematical Institute since 1986, and at the Paris Dauphine University since 1993. He was one of the founders of the Independent University of Moscow.
+
+Arnold received many major prizes, including the inaugural Crafoord Prize in 1982 (with Louis Nirenberg), the Wolf Prize in Mathematics in 2001 and the Shaw Prize in 2008 (with Ludwig Faddeev).
+
+Early life
+
+Vladimir Igorevich Arnold was born on 12 June 1937 in Odessa, Ukrainian SSR, Soviet Union (now Odesa, Ukraine). His father was  (1900–1948), a mathematician known for his work in mathematical education and who learned algebra from Emmy Noether in the late 1920s. His mother was Nina Alexandrovna Arnold (1909–1986,  Isakovich), a Jewish art historian.
+
+While a school student, Arnold once asked his father why the multiplication of two negative numbers yielded a positive number, and his father provided an answer involving the field properties of real numbers and the preservation of the distributive property. Arnold was deeply disappointed with this answer, and developed an aversion to the axiomatic method that lasted his whole life. When Arnold was thirteen, his uncle Nikolai B. Zhitkov, who was an engineer, told him about calculus and how it could be used to understand some physical phenomena. This contributed to sparking his interest in mathematics, and he started to study the mathematics books his father had left him, which included some works by Leonhard Euler and Charles Hermite.
+
+Arnold entered Moscow State University in 1954. Among his teachers there were A. N. Kolmogorov, I. M. Gelfand, L. S. Pontriagin and Pavel Alexandrov. While a student of Andrey Kolmogorov at Moscow State University and still a teenager, Arnold showed in 1957 that any continuous function of several variables can be constructed with a finite number of two-variable functions, thereby solving Hilbert's thirteenth problem. This is the Kolmogorov–Arnold representation theorem.
+
+Mathematical work
+
+Arnold obtained his PhD in 1961, with Andrey Kolmogorov as his advisor (thesis: On The Representation of Continuous Functions of 3 Variables By The Superpositions of Continuous Functions of 2 Variables).
+
+He became an academician of the Academy of Sciences of the Soviet Union (Russian Academy of Science since 1991) in 1990. Arnold can be considered to have initiated the theory of symplectic topology as a distinct discipline. The Arnold conjecture on the number of fixed points of Hamiltonian symplectomorphisms and Lagrangian intersections was also a motivation in the development of Floer homology.
+
+Arnold worked at the Steklov Mathematical Institute in Moscow and at Paris Dauphine University until his death. He supervised 46 PhD students, including Rifkat Bogdanov, Alexander Givental, Victor Goryunov, Sabir Gusein-Zade, Emil Horozov, Yulij Ilyashenko, Boris Khesin, Askold Khovanskii, Nikolay Nekhoroshev, Boris Shapiro, Alexander Varchenko, Victor Vassiliev and Vladimir Zakalyukin.
+
+Arnold worked on dynamical systems theory, catastrophe theory, topology, algebraic geometry, symplectic geometry, differential equations, classical mechanics, hydrodynamics and singularity theory. Michèle Audin described him as "a geometer in the widest possible sense of the word" and said that "he was very fast to make connections between different fields".
+
+ Hilbert's thirteenth problem 
+
+Hilbert's thirteenth problem asks whether every continuous function of three variables can be expressed as a composition of finitely many continuous functions of two variables. The affirmative answer to this question was given in 1957 by Arnold, then nineteen years old and a student of Andrey Kolmogorov. Kolmogorov had shown the previous year that any function of several variables can be constructed with a finite number of three-variable functions. Arnold then expanded on this work to show that only two-variable functions were required, thus answering Hilbert's question for the class of continuous functions.
+
+ Dynamical systems 
+
+Jürgen Moser and Arnold expanded the ideas of Kolmogorov (who was inspired by questions of Henri Poincaré) and gave rise to what is now known as Kolmogorov–Arnold–Moser theorem (or "KAM theory"), which concerns the persistence of some quasi-periodic motions (nearly integrable Hamiltonian systems) when they are perturbed. KAM theory shows that, despite the perturbations, such systems can be stable over an infinite period, and specifies what the conditions for this are.
+
+In 1961, he introduced Arnold tongues. They are observed in a large variety of natural phenomena that involve oscillating quantities, such as concentration of enzymes and substrates in biological processes.
+
+In 1964, he discovered Arnold diffusion, which he would later consider as his most important contribution to KAM theory.
+
+In 1964, Arnold introduced the Arnold web, the first example of a stochastic web.
+
+In 1974, Arnold proved the Liouville–Arnold theorem, now a classic result deeply geometric in character.
+
+In the 1980s, Arnold reformulated Hilbert's sixteenth problem, proposing its infinitesimal version (the Hilbert–Arnold problem) that inspired many deep works in dynamical systems theory by mathematicians seeking its solution.
+
+Singularity theory
+
+In 1965, Arnold attended René Thom's seminar on catastrophe theory. He later said of it: "I am deeply indebted to Thom, whose singularity seminar at the Institut des Hautes Etudes Scientifiques, which I frequented throughout the year 1965, profoundly changed my mathematical universe." After this event, singularity theory became one of the major interests of Arnold and his students. Among his most famous results in this area is his classification of simple singularities, contained in his paper "Normal forms of functions near degenerate critical points, the Weyl groups of Ak,Dk,Ek and Lagrangian singularities".
+
+Fluid dynamics and Euler–Arnold theory
+
+In 1966, Arnold published the paper "" ('On the differential geometry of infinite-dimensional Lie groups and its applications to the hydrodynamics of perfect fluids'), in which he presented a common geometric interpretation for both the Euler's equations for rotating rigid bodies and the Euler's equations of fluid dynamics; this linked topics previously thought to be unrelated, and enabled mathematical solutions to many questions related to flows and turbulence. Arnold's geometric approach extended beyond hydrodynamics: it also encompassed many other nonlinear equations from mathematical physics (see: Euler–Arnold equation).
+
+Real algebraic geometry
+In 1971, Arnold published "On the arrangement of ovals of real plane algebraic curves, involutions of four-dimensional smooth manifolds, and the arithmetic of integral quadratic forms", which gave new life to real algebraic geometry. In it, he made major advances in towards a solution to Gudkov's conjecture, by finding a connection between it and four-dimensional topology. The conjecture was later fully solved by V. A. Rokhlin building on Arnold's work.
+
+ Symplectic geometry 
+The Arnold conjecture, linking the number of fixed points of Hamiltonian symplectomorphisms and the topology of the subjacent manifolds, was the motivating source of many of the pioneer studies in symplectic topology. He also proposed the nearby Lagrangian conjecture, a still open problem in mathematics.
+
+According to Michèle Audin, the birth-date of symplectic topology was 27 October 1965, which is the day Arnold's paper "Sur une propriété topologique des applications globalement canoniques de la mécanique classique" was presented to the Paris Academy of Sciences.
+
+Also, the Arnold chord conjecture was proposed by him.
+
+Topology
+According to Victor Vassiliev, Arnold "worked comparatively little on topology for topology's sake", being motivated by problems on other areas of mathematics where topology could be of use. His contributions include the invention of a topological form of the Abel–Ruffini theorem and the initial development of some of the consequent ideas, a work which resulted in the creation of the field of topological Galois theory in the 1960s.
+
+ Theory of plane curves 
+According to Marcel Berger, Arnold revolutionised plane curves theory. He developed the theory of smooth closed plane curves in the 1990s. Among his contributions are the introduction of the three Arnold invariants of plane curves: J+, J− and St.
+
+ Discrete mathematics 
+In the last years of his life, Arnold's interests shifted to discrete mathematics. He investigated number theory and combinatorics, producing around twenty papers on these topics, according to Anatoly Vershik. Arnold's conjecture of a matrix generalization of Fermat's little theorem dates from this period.
+
+ Other 
+In 1995, Arnold conjectured the existence of the gömböc, a body with one stable and one unstable point of equilibrium when resting on a flat surface. This conjecture was proved by Gábor Domokos in 2006.
+
+In classical mechanics, Arnold generalised the results of Isaac Newton, Pierre-Simon Laplace, and James Ivory on the shell theorem, showing it to be applicable to algebraic hypersurfaces.
+
+In algebraic geometry, Arnold's strange duality was one of the first examples of mirror symmetry (for K3 surfaces).
+
+In magnetohydrodynamics, Arnold and E. I. Korkina investigated in 1983 the dynamo property of the ABC flow.
+
+The Arnold complexity in dynamical systems theory, and the Arnold's stability theorems in analysis of PDEs are named after him.
+
+Books, anti-Bourbakism, history of mathematics and influences
+
+Arnold is well known for his lucid writing style, combining mathematical rigour with physical intuition, and an easy conversational style of teaching and education. His writings present a fresh, often geometric approach to traditional mathematical topics like ordinary differential equations, and his many textbooks have been influential in the development of new areas of mathematics. The standard criticism about Arnold's pedagogy is that his books "are beautiful treatments of their subjects that are appreciated by experts, but too many details are omitted for students to learn the mathematics required to prove the statements that he so effortlessly justifies." His defence was that his books are meant to teach the subject to "those who truly wish to understand it".
+
+Arnold was an outspoken critic of the trend towards high levels of abstraction in mathematics during the middle of the 20th century. He strongly believed that this approach—popularly implemented by the Bourbaki school in France—initially had a negative impact on French mathematical education and later in other countries. Arnold viewed "Bourbakism" as a self-destructive trend where mathematics was presented as "a formal derivation of consequences from unmotivated axioms". He considered Bourbakism to be an epidemic illness, "dangerous to all of humanity" and always looked for approaches that were both intuitive and geometric in his explanations. He was very concerned about what he saw as the divorce of mathematics from the natural sciences in the 20th century. Arnold was very interested in the history of mathematics, and in an interview, remarked that he had learned much of what he knew about mathematics through the study of Felix Klein's book Development of Mathematics in the 19th Century a book he often recommended to his students. He studied the works of Christiaan Huygens, Isaac Newton and Henri Poincaré, and reported finding ideas that had yet to be explored in the works of Newton and Poincaré.
+
+Arnold compared mathematics to mycology. He said:
+
+Later life and death
+In 1999 Arnold suffered a serious bicycle accident in Paris, resulting in a traumatic brain injury. He regained consciousness after a few weeks but had amnesia and for some time could not even recognise his own wife at the hospital. He went on to make a good recovery.
+
+To his students and colleagues Arnold was known also for his sense of humour. For example, once at his seminar in Moscow, at the beginning of the school year, when he usually was formulating new problems, he said:
+
+Arnold died of acute pancreatitis on 3 June 2010 in Paris, nine days before his 73rd birthday. He was buried on 15 June in Moscow, at the Novodevichy Monastery.
+
+At Arnold's tombstone are engraved a quote by him and mathematical formulae from his discoveries.
+
+In a telegram to Arnold's family, Russian president Dmitry Medvedev stated:
+
+Honours and awards
+ Moscow Mathematical Society Prize for Young Mathematicians (1958).
+ Lenin Prize (1965, with Andrey Kolmogorov), "for work on celestial mechanics."
+ Crafoord Prize (1982, with Louis Nirenberg), "for their outstanding achievements in the theory of non-linear differential equations."
+ Elected member of the United States National Academy of Sciences in 1983.
+ Foreign Honorary Member of the American Academy of Arts and Sciences (1987)
+ Member of the French Academy of Sciences.
+ Elected a Foreign Member of the Royal Society (ForMemRS) of London in 1988.
+ Elected member of the American Philosophical Society in 1990.
+ Lobachevsky Prize of the Russian Academy of Sciences (1992)
+ Harvey Prize (1994), "In recognition of his basic contribution to the stability theory of Dynamical Systems, his pioneering work on singularity theory and seminal contributions to analysis and geometry."
+ Dannie Heineman Prize for Mathematical Physics (2001), "for his fundamental contributions to our understanding of dynamics and of singularities of maps with profound consequences for mechanics, astrophysics, statistical mechanics, hydrodynamics and optics."
+ Wolf Prize in Mathematics (2001), "for his deep and influential work in a multitude of areas of mathematics, including dynamical systems, differential equations, and singularity theory."
+ State Prize of the Russian Federation (2007), "for outstanding contribution to development of mathematics."
+ Shaw Prize in mathematical sciences (2008, with Ludwig Faddeev), "for their widespread and influential contributions to Mathematical Physics."
+
+The minor planet 10031 Vladarnolda was named after him in 1981 by Lyudmila Georgievna Karachkina.
+
+The Arnold Mathematical Journal, published for the first time in 2015, is named after him.
+
+The Arnold Fellowships, of the London Institute are named after him.
+
+He was a plenary speaker at both the 1974 and 1983 International Congress of Mathematicians in Vancouver and Warsaw, respectively.
+
+Fields Medal omission
+Arnold was nominated for the 1974 Fields Medal, one of the highest honours a mathematician could receive, but interference from the Soviet government led to it being withdrawn. Arnold's public opposition to the persecution of dissidents had led him into direct conflict with influential Soviet officials, and he suffered persecution himself, including not being allowed to leave the Soviet Union during most of the 1970s and 1980s.
+
+Personal life
+Arnold was married to Eleonora Arnold. They had two children, Igor Arnold and Dmitry Arnold.

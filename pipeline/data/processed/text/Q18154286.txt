@@ -1,0 +1,54 @@
+David Hilton Wolpert is an American physicist and computer scientist. He is a professor at Santa Fe Institute. He is the author of three books, three patents, over one hundred refereed papers, and has received two awards. His name is particularly associated with a theorem in computer science known as "no free lunch".
+
+Career
+
+David Wolpert took a B.A. in physics at Princeton University (1984), then attended the University of California, Santa Barbara, where he took the degrees of M.A. (1987) and Ph.D. (1989).
+
+Between 1989 and 1997 he pursued a research career at Los Alamos National Laboratory, IBM, TXN Inc. and Santa Fe Institute.
+
+From 1997 to 2011 he worked as senior computer scientist at NASA Ames Research Center, and became visiting scholar at the Max Planck Institute. He spent the year 2010-11 as Ulam Scholar at the Center for Nonlinear Studies at Los Alamos.
+
+He joined the faculty of Santa Fe Institute in 2011 and became a professor there in September 2013. His research interests have included statistics, game theory, machine learning applications, information theory, optimization methods and complex systems theory.
+
+"No free lunch"
+
+One of Wolpert's most discussed achievements is known as No free lunch in search and optimization. By this theorem, all algorithms for search and optimization perform equally well averaged over all problems in the class with which they are designed to deal. However, in a machine learning context, the theorem makes an implicit artificial assumption regarding the lack of overlap between training and test data that is rarely true in practice. More generally, the theorem holds only under certain conditions that are not often encountered precisely in real life, although it has been claimed that the conditions can be met approximately. The theorem lies within the domain of computer science, but a weaker version known as the "folkloric no free lunch theorem" has been drawn upon by William A. Dembski in support of intelligent design. This use of the theorem has been rejected by Wolpert himself and others.
+
+Limitation on knowledge
+
+Wolpert has formalized an argument to show that it is in principle impossible for any intellect to know everything about the universe of which it forms a part, in other words disproving "Laplace's demon". This has been seen as an extension of the limitative theorems of the twentieth century such as those of Heisenberg and Gödel. In 2018 Wolpert published a proof revealing the fundamental limits of scientific knowledge.
+
+Machine learning
+Wolpert made many contributions to the early work on machine learning. These include a Bayesian estimator of the entropy of a distribution based on samples of the distribution, disproving formal claims that the "evidence procedure" is equivalent to hierarchical Bayes, a Bayesian alternative to the chi-squared test, a proof that there is no prior for which the bootstrap procedure is Bayes-optimal, and Bayesian extensions of the bias-plus-variance decomposition. Most prominently, he introduced "stacked generalization", a more sophisticated version of cross-validation that uses held-in / held-out partitions of a data set to combine learning algorithms rather than just choose one of them. This work was developed further by Breiman, Smyth, Clarke and many others, and in particular the top two winners of 2009 Netflix competition made use of stacked generalization (rebranded as "blending").
+
+Academic memberships
+
+Fellow of IEEE
+Member of FQXi
+Research Associate of Infometrics Institute, American University
+Associate Editor (as of January 2017)
+Advances in Complex Systems
+IEEE Transactions on Evolutionary Computation
+ACM Transactions on Autonomous and Adaptive Systems
+Member of editorial board (as of January 2017)
+Journal of Artificial Intelligence Research
+Theory in Biosciences
+Journal of Economic Interaction and Coordination
+Reviews of Behavioral Economics
+Entropy
+Cancer Convergence
+Member on one NSF panel
+
+Awards
+
+Princeton University Physics Department Kusaka Prize
+Best Paper Award for IEEE Transactions on Evolutionary Computation, Vols .1 & 2
+Superior Accomplishment Award for NASA Code IC for 1999
+
+Publications (books only)
+Wolpert, D.H., Kempes, C., Stadler, P. F., Grochow, J.A. (eds.), The Energetics of Computing in Life and Machines, Santa Fe Institute Press, 2019. 
+Wolpert, D.H. (ed.), The Mathematics of Generalization, Addison-Wesley, 1994. 
+Wolpert, D.H. An Incompleteness Theorem for Calculating the Future, SFI Economics Program, Santa Fe Institute, 1996.
+Tumer, K. and Wolpert, D.H. (ed.), Collectives And The Design Of Complex Systems, Springer, 2004. 
+Guy, T.V., Karny M., Wolpert D.H. (eds.), Decision making with imperfect decision makers, Springer, 2012. 
+Wolpert, D.H. Theory of Collective Intelligence, NASA Technical Reports Server, 2003.

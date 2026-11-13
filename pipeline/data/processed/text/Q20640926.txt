@@ -1,0 +1,42 @@
+Hitoshi Okamura (born December 2, 1952) is a Japanese scientist who specializes in chronobiology. He is currently a professor of Systems Biology at Kyoto University Graduate School of Pharmaceutical Sciences and the Research Director of the Japan Science Technology Institute, CREST. Okamura's research group cloned mammalian Period genes, visualized clock oscillation at the single cell level in the central clock of the SCN, and proposed a time-signal neuronal pathway to the adrenal gland. He received a Medal of Honor with Purple Ribbon in 2007 for his research and was awarded Aschoff's Ruler for his work on circadian rhythms in rodents. His lab recently revealed the effects of m6A mRNA methylation on the circadian clock, neuronal communications in jet lag, and the role of dysregulated clocks in salt-induced hypertension.
+
+Education
+Hitoshi Okamura received his undergraduate, medical, and doctorate in science degrees from the Kyoto Prefectural University of Medicine. After training as a pediatrician at the Children's Medical Center of the Okayama National Hospital (1979-1981), he worked on neuroanatomy at the Kyoto Prefectural University of Medicine (1981-1995). He was then a professor of Brain Sciences at the Kobe University School of Medicine from 1995 to 2008. Since 2007, he has worked as a professor of Systems Biology at the Kyoto University Graduate School of Pharmaceutical Sciences. Since 2014, he has worked as the Research Director of the Japan Science Technology Institute, CREST. His work has focused on understanding mammalian circadian rhythms.
+
+Awards and honors
+ Recipient of Medal of Honor with Purple Ribbon in 2007
+ Recipient of Aschoff's Ruler in 2009
+
+Scientific contributions
+
+Suprachiasmatic Nucleus research
+Okamura began his study of circadian rhythms in 1982 with the peptide work in the suprachiasmatic nucleus (SCN) using the technique of histochemistry in Yasuhiko Ibata's laboratory in the Kyoto Prefectural University of Medicine. He established quantitative histochemistry of the suprachiasmatic nucleus (SCN) in the 1980s, and together with Shin-Ichi Inouye, established in vitro slice cultures of the SCN in the early 1990s.
+
+Discovery of Mammalian Period Genes
+In 1997, Hajime Tei, Yoshiyuki Sakaki, and Hitoshi Okamura discovered the mammalian period gene PER1 in mice and humans. They also discovered PER2, PER3, and the mammalian homolog of the Drosophila gene timeless. They found that Per1 is light-inducible and can phase shift the circadian clock by light. Okamura worked with Jay Dunlap, a chronobiologist specializing in circadian rhythms in Neurospora, to show that mammalian clocks are similar to neurospora clocks in their use of induction to phase shift. This is in contrast to the drosophila clock, which phase shift via protein degradation rather than induction.
+
+Protein Level Regulation of Mammalian Per
+Okamura's team discovered that mammalian PER proteins made in the cytoplasm translocate into the nucleus of the cell and form a complex composed of CRY1, CRY2, PER1, PER2, PER3, and TIM. This negative complex suppresses the transcription of mRNA activated by CLOCK and BMAL1. Okamura has also done research on mPER1 and mPER2 degradation. They found that PER and CRY form a dimer that inhibits PER degradation and that the inhibition of PER degradation suppresses Per1 and Per2 transcription. This negative feedback loop appears to be found in all clocks.
+
+Core clock loop of clock genes is universal among mammalian cells
+Okamura became interested in the possible differences of autonomously rhythmic clock genes in fibroblast cell lines and those in the SCN. His team discovered that in mice, both types of cells showed temporal expression of profiles of all known clock genes, the phases of various mRNA rhythms, the delay between maximum mRNA levels and appearance of nuclear PER1 and PER2 protein, the inability to produce circadian oscillations in the absence of functional Cry genes, and the control of period length by CRY proteins.
+
+Total Loss of Oscillation in mCry1/mCry2-double knockout mice
+Okamura collaborated with Gijsbertus T.J. van der Horst and found that both peripheral and central clocks are stopped in Cry deficient mice. Okamura also collaborated with Shin-Ichi Inouye to find that behavioral circadian rhythmicity was recovered when the SCN from wild-type mice was transplanted into Cry deficient mice. This suggests that the suprachiasmatic nucleus (SCN) synchronizes and generates behavioral rhythms.
+
+Restoration of Circadian Rhythms Using Mammalian Per
+Okamura collaborated with Amita Sehgal to determine if the mPer1 and mPer2 genes were able to generate circadian oscillations. They transplanted Per1 and Per2 genes from mice into arrhythmic per0 mutants of Drosophila and found that transplantation restored circadian rhythms.
+
+SCN as the Central Clock
+Okamura's team also analyzed the SCN at the cellular level. They succeeded in monitoring the rhythmic transcription of genes at the single cell level in real-time. This work was achieved by combining the SCN slice-culture technique, transgenic mice carrying the luciferase gene driven by the Per1 promoter (Per1-luc), and the cryogenic high resolution CCD camera. They have demonstrated that a stable ensemble SCN rhythm is orchestrated within an assembly of cellular clocks that are differentially phased and that sit in a distinct topographic order in the SCN. Tetrodotoxin, which blocks action potentials, not only desynchronizes the cell population, but also suppresses the level of clock gene expression, demonstrating that neuronal networks play a dominant role in oscillation of rhythms in the SCN. Using the same Per-luc mice with the optical fiber inserted to the brain, Okamura's team succeeded in monitoring the rhythmic gene expression of the clock gene in real-time in freely moving mice, demonstrating that the Per gene is activated in the daytime and rests in the nighttime in the SCN. Okamura discovered that flashing NMDA, which is analogous to light stimuli, instantly altered the phase of the core clock oscillation of a slice of SCN. This proved that there is rhythmic transcription of genes at the single cell level.
+It has been shown that the SCN regulates peripheral clocks by regulating melatonin in the sympathetic nervous system. Okamura's team also demonstrated that the light can activate genes and corticosterone secretion in the adrenal gland through the SCN-sympathetic nerve routes. So, the sympathetic nerve conveys the time signal of the core central clock (SCN) to peripheral organs, and the adrenal gland is the key organ in transforming circadian signals from nerve signals to the endocrine signals.
+
+Cell Clock and Cell Cycle
+Okamura's team has also looked into the relationship between the circadian clock and the cell cycle. They performed DNA arrays and Northern blots to characterize the molecular differences in M-phase entry and found that  cyclin B1 and cdc2 were positively correlated. They also found that wee1, the gene for a kinase that inhibits mitosis by inactivating CDC2/cyclin B, was negatively correlated to M-phase. Their research showed that mouse hepatocyte proliferation is under circadian control.
+
+Current research pursuits
+In more recent years, Okamura and his team extended their molecular clock work to posttranscriptional, intercellular, and systemic levels. They found the mRNA methylation alters the speed of circadian rhythms  and heterogeneity of G protein signaling is necessary for time-keeping in the SCN. Moreover, they found the dysregulated clock induces salt-sensitive hypertension through the inappropriate secretion of aldosterone. Another discovery was that clock regulation of gap junction protein in the urinary bladder was a cause of abnormal urination. Very recently, they found that vasopressin signaling in the SCN is crucial for jet lag.
+
+Now, Okamura continues investigations of biological clocks, fascinated with the integrational characteristics of "time" in a vertical arrangement, providing a bridge between single genes and the living organism as a whole.
+
+Comprehensive timeline

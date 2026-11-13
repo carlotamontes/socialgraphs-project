@@ -1,0 +1,88 @@
+Donald Watts Davies,  (7 June 1924 – 28 May 2000) was a British computer scientist and Internet pioneer who was employed at the National Physical Laboratory (NPL) in the United Kingdom.
+
+During 1965-1967, he and his team at the NPL invented modern data communications, including packet switching, high-speed routers, layered communication protocols, hierarchical computer networks and the essence of the end-to-end principle, concepts that are used today in computer networks worldwide. He envisioned, in 1966, that there would be a single network for data and telephone communications. Davies proposed and studied a commercial national data network in the United Kingdom and designed and built the first implementation of packet switching in the local-area NPL network in 1969 to demonstrate the technology. Many of the wide-area packet-switched networks built in the late 1960s and 1970s were similar in nearly all respects to his original 1965 design. Davies' work influenced the ARPANET in the United States and the CYCLADES project in France, and was key to the development of the data communications technology used in Internet, which is a network of networks.
+
+Davies' work was independent of the work of Paul Baran in the United States who had some similar ideas in the early 1960s, and who also provided input to the ARPANET project, after his work was highlighted by Davies' team.
+
+Early life
+Davies was born in Treorchy in the Rhondda Valley, Wales. His father, a clerk at a coalmine, died a few months later, and his mother took Donald and his twin sister back to her home town of Portsmouth, England where he went to school. He attended the Southern Grammar School for Boys.
+
+He received a BSc degree in physics (1943) at Imperial College London, and then joined the war effort working as an assistant to Klaus Fuchs on the nuclear weapons Tube Alloys project at Birmingham University. He then returned to Imperial taking a first class degree in mathematics (1947); he was also awarded the Lubbock memorial Prize as the outstanding mathematician of his year.
+
+In 1955, he married Diane Burton; they had a daughter and two sons.
+
+National Physical Laboratory
+
+ Automatic Computing Engine 
+From 1947, Davies worked at the National Physical Laboratory (NPL) at Teddington, just outside London, where Alan Turing was designing the Automatic Computing Engine (ACE) computer. Davies spotted mistakes in Turing's seminal 1936 paper On Computable Numbers, much to Turing's annoyance, which were perhaps some of the first programming bugs in existence, even if they were for a theoretical computer, the universal Turing machine. The ACE project was overambitious and floundered, leading to Turing's departure. Davies took over the project and concentrated on delivering the less ambitious Pilot ACE computer, which first worked in May 1950. A commercial spin-off, DEUCE was manufactured by English Electric Computers and became one of the best-selling machines of the 1950s.
+
+Davies also worked on applications of traffic simulation and machine translation. In the early 1960s, he worked on government technology initiatives designed to stimulate the British computer industry.
+
+Packet switching
+
+In 1965, Davies became interested in data communications after attending the International Federation for Information Processing (IFIP) Congress in New York City in 1965 and then visiting the Massachusetts Institute of Technology (MIT) where he had a number of conversations about the communication issues involved with time-sharing. After this, he organised a seminar at the NPL with some of the MIT scientists, including J. C. R. Licklider, to discuss Project MAC. Davies saw that a significant problem with the new time-sharing computer systems was the cost of keeping a phone connection open for each user. Davies' key insight came in the realisation that computer network traffic was inherently bursty in nature with periods of silence, compared with relatively constant telephone traffic. He applied the principle of time-sharing to the data communications line as well as the computer to invent the concept of what he called packet switching. In his first paper on the topic, he forecast today's killer app for his new communication service:
+
+Davies proposed dividing computer messages into very short messages in fixed format that are routed independently across a network, with differing routes allowed for related packets, which are reassembled at the destination. Davies used the word packet after consulting with a linguist because it was capable of being translated into languages other than English without compromise.
+
+The following year, he returned to work at the NPL, where he became Superintendent of the Computer Science Division and transformed its computing activity. He designed and proposed a commercial national data network based on packet switching in his 1966 Proposal for the Development of a National Communications Service for On-line Data Processing. This work was the first to describe the concept of high-speed switching nodes, today known as routers as well as interface computers. Davies applied queueing theory to show that there could be a satisfactory response time for a human user. This addressed a key question about the viability of computer networking. In this paper, he predicted there would be a single network for data and telephone communications:
+
+Davies and his team were the first to write communication protocols in a modern data-commutation context in an April 1967 memorandum A Protocol for Use in the NPL Data Communications Network written by Roger Scantlebury and Keith Bartlett.
+
+His work on packet switching, presented by Scantlebury, initially caught the attention of the developers of the ARPANET, a U.S. Department of Defense (DoD) network, at the Symposium on Operating Systems Principles in October 1967. The proposed network design was based on a hierarchical structure, with local networks communicating with a high level network. To deal with packet permutations (due to dynamically updated route preferences) and datagram losses (unavoidable when fast sources send to a slow destinations), he assumed that error control would be provided by end users of the network, capturing the essence of what came to be known as the end-to-end principle. In Scantlebury's report following the conference, he noted "It would appear that the ideas in the NPL paper at the moment are more advanced than any proposed in the USA". Larry Roberts, of the Advanced Research Projects Agency (ARPA) of the United States Department of Defense (DoD), applied Davies' concepts of packet switching for the ARPANET, which went on to become a predecessor to the Internet. 
+
+In July 1968, NPL put on a demonstration of real and simulated networks at an event organised by the Real Time Club at the Royal Festival Hall in London. Davies first presented his own ideas on packet switching at a conference in Edinburgh on 5 August 1968.  In 1969, Davies was invited to Japan to lecture on packet switching. He gave a series of nine three-hour lectures, concluding with an intense discussion with around 80 people. 
+
+During 1968-9, Davies directed the construction of the network, elements of which went live in early 1969, the first implementation of packet switching in the world. The local-area Mark I NPL network, became fully operational in January 1970. It was upgraded to the Mark II in 1973 with a layered protocol architecture, and remained in operation until 1986. The NPL team also carried out simulation work on packet networks, studying datagrams and network congestion in wide-area networks of a scale to facilitate data communications across the United Kingdom. These early years of computer resource sharing were documented in the 1972 film Computer Networks: The Heralds of Resource Sharing. Davies' original ideas influenced other research around the world, including Louis Pouzin's CYCLADES project in France. 
+
+In a 1978 special edition of the Proceedings of the IEEE on packet switching, Bob Kahn, the guest editor, quoted Davies' reflections on ten years of experience with packet communication networks:
+
+ Internetworking 
+Davies, along with Derek Barber, his deputy, and Roger Scantlebury, conducted research into protocols for internetworking. They participated in the International Network Working Group from 1972, initially chaired by Vint Cerf and later by Barber. Davies and Scantlebury were acknowledged by Cerf and Bob Kahn in their seminal 1974 paper on internetworking, A Protocol for Packet Network Intercommunication.
+
+Davies and Barber published Communication networks for computers in 1973. They spoke at the Data Communications Symposium in 1975 about the "battle for access standards" between datagrams and virtual circuits, with Barber saying the "lack of standard access interfaces for emerging public packet-switched communication networks is creating 'some kind of monster' for users".
+
+Internetworking experiments at NPL under Davies included connecting with the European Informatics Network (EIN) by translating between two different host protocols and connecting with the Post Office Experimental Packet Switched Service (EPSS) using a common host protocol in both networks. Their research confirmed establishing a common host protocol would be more reliable and efficient than translating between different host protocols using a gateway. Davies published Computer networks and their protocols in 1979, in which he notes:
+
+For a long period of time, the network engineering community was polarized over the implementation of competing protocol suites, a debate commonly called the Protocol Wars. It was unclear which type of protocol would result in the best and most robust computer networks.
+
+Computer network security
+Davies relinquished his management responsibilities in 1979 to return to research. He became particularly interested in computer network security and his research on cryptography led to a number of patents, including methods for providing secure communication to enable the use of smart cards.
+
+He retired from NPL in 1984, becoming a leading consultant on data security to the banking industry and publishing a book on the topic that year. Together with David O. Clayden, he designed the Message Authenticator Algorithm (MAA) in 1983, one of the first message authentication code algorithms to gain widespread acceptance. It was adopted as international standard ISO 8731-2 in 1987.
+
+ Later career 
+In 1987, Davies became a visiting professor at Royal Holloway and Bedford New College.
+
+ Epilogue 
+Unbeknown to Davies at first, Paul Baran of the RAND Corporation in the United States had also worked on a similar concept in the early 1960s, although designed for voice communication using low-cost electronics without software in the switches. When Davies became aware of Baran's work in 1966, Davies acknowledged that they both had equally discovered the concept of packet switching and Davies and his team referenced Baran's earlier published work. 
+
+Baran remained happy to acknowledge that Davies had come up with the same idea as him independently and that Davies was the first to implement it.
+
+Leonard Kleinrock, a contemporary working on analysing message delays using queueing theory, developed a mathematical model for the operation of message switching networks in his PhD thesis during 1961-2, published as a book in 1964. However, Kleinrock's claim since the late 1990s to have developed the theoretical basis of packet switching networks is disputed by other Internet pioneers, including by Robert Taylor, Baran and Davies.
+
+ Legacy 
+Donald Davies and Paul Baran are recognized by historians and the U.S. National Inventors Hall of Fame for independently inventing the concept of digital packet switching used in modern computer networking including the Internet.
+
+Larry Roberts said the computer networks built in the 1970s were similar in nearly all respects to Davies' original 1965 design. Davies' work on data communications and computer network design has been described as the cornerstone technology used in the development of the Internet, which is a global system of connected computer networks; that is, a network of networks.
+
+Awards and honours
+
+Davies was appointed a Distinguished Fellow of the British Computer Society (BCS) in 1975 and was made a CBE in 1983, and later a Fellow of the Royal Society in 1987.
+
+He received the John Player Award from the BCS in 1974. and was awarded a medal by the John von Neumann Computer Society in Hungary in 1985.
+
+In 2000, Davies shared the inaugural IEEE Internet Award. In 2007, he was inducted into the National Inventors Hall of Fame, and in 2012 Davies was inducted into the Internet Hall of Fame by the Internet Society.
+
+Davies received a lifetime achievement award in 2001 for his research into secure communications for smart cards.
+
+NPL sponsors a gallery, opened in 2009, about the development of packet switching and "Technology of the Internet" at The National Museum of Computing.
+
+A blue plaque commemorating Davies was unveiled in Treorchy in July 2013.
+
+ Family 
+Davies was survived by his wife Diane, a daughter, two sons and four grandchildren.
+
+Books
+ 
+ 
+  with W. Price, D. Barber, C. Solomonides

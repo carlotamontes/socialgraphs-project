@@ -1,0 +1,23 @@
+Juan Carlos Simo (1952 – September 26, 1994) was a professor of mechanical engineering at Stanford who worked in the field of computational mechanics. His work focused on engineering analysis, particularly in the area of finite element analysis of inelastic solids and structures.
+
+Career
+Simo studied the mathematical formulation of mechanical models and the development and analysis of numerical methods for simulating them. He co-authored a textbook with Thomas J.R. Hughes on computational inelasticity. With his graduate students, he published works demonstrating convergence for algorithms used in the field.   
+
+Simo's work was advanced nonlinear mechanical theories for beams and shells. His work on the subject emerged in the wake of Clifford Truesdell's reformation of mechanics, which paved the way for generalized models of these classical theories, such as Paul Naghdi's treatment of shells and Stuart Antman's special Cosserat rod. However, these models were not suitable for finite element methods because they were posed over solution spaces lacking a vectorial structure. Simo's approach, shaped by his interest in differential geometry and his collaborations with mathematicians like Jerrold Marsden, overcame these limitations and represented an advancement in applying finite element methods to these complex nonlinear systems.
+
+Simo also made contributions to the mathematical foundations of finite element analysis. His investigation of the patch test illuminated the mathematical basis for the procedure and his perspective on mixed finite element methods contributed to their use as a variational technique.
+
+Throughout the course of his career, he published about 80 papers and three books.
+
+Death
+Simo died in 1994 at the age of 42.
+
+Awards and honors
+Simo received the Presidential Young Investigator Award in 1987, was promoted to associate professor with tenure in 1990, and became a full professor in 1993. Shortly after, he was appointed Chairman of the Applied Mechanics Division. In 1994, Juan was honored with the Humboldt Research Award from the Alexander von Humboldt Foundation.
+
+In 2010, the annual Juan C. Simo Thesis award was established by the Mechanics and Computation Division at Stanford to commemorate the life and contributions of Simo.
+
+The Spanish Society on Numerical Methods in Engineering (SEMNI) also presents a yearly award named in honor of Simo, which recognizes "young researchers in the field of numerical methods and their applications."
+
+Books
+Juan C. Simo and Thomas J.R. Hughes, Computational Inelasticity. Springer (1998).

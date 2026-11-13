@@ -1,0 +1,25 @@
+Paul de Casteljau (19 November 1930 – 24 March 2022) was a French physicist and mathematician. In 1959, while working at Citroën, he developed an algorithm for evaluating  calculations on a certain family of curves, which would later be formalized and popularized by engineer Pierre Bézier, leading to the curves widely known as Bézier curves.
+
+He studied at École Normale Supérieure, and worked at Citroën from 1958 until his retirement in 1992. When he arrived there, "Specialists admitted that all electrical, electronic and mechanical problems had more or less been solved. All—except for one single formality which made up for 5%, but certainly not for 20% of the problem; in other words, how to express component parts by equations." 
+A short autobiographic sketch goes back to the early 1990s, a longer autobiography talks about his education and life at Citroën until his retirement.
+
+He continued publishing in retirement, which led to three monographs and ten academic papers, most of his publications written in French.
+
+ De Casteljau curves 
+De Casteljau's algorithm is widely used, with some modifications, as it is the most robust and numerically stable method for evaluating polynomials. Other methods, such as Horner's method and forward differencing, are faster for calculating single points but are less robust. De Casteljau's algorithm is still very fast for subdividing a De Casteljau curve or Bézier curve into two curve segments at an arbitrary parametric location.
+
+ Further contributions 
+Noteworthy are his contributions beyond geometric modeling, which only became known internationally posthumously
+
+ a generalization of the Euclidean algorithm to several variables, with numerous applications in number theory
+ a generalization of the golden ratio for use with regular polygons and thus for solving polynomial equations
+ a generalization of the 9-point circle to the 14-point strophoid
+ a representation of the relativistic Lorentz transformation as a quaternion
+ a view of geometric optics that complements the Abbe sine condition
+
+ Awards 
+Paul de Casteljau received the 1987 Seymour Cray Prize from the French National Center for Scientific Research, the 1993 John Gregory Memorial Award, and the 2012 Bézier Award from the Solid Modeling Association (SMA). The SMA's announcement highlights de Casteljau's eponymous algorithm:
+Paul de Casteljau's contributions are less widely known than should be the case because he was not able to publish them until equivalent ideas had been reinvented independently by others, sometimes in a rather different form but now recognisably related. Because he was not permitted to publish his early work, we now call polynomials with a Bernstein basis "Bézier polynomials", although Bézier himself did not use control points but their first difference vectors as the coefficients. We also call the multilinear polynomials "blossoming", following Lyle Ramshaw who in turn credited de Casteljau with the underlying "polar approach" to the mathematical theory of splines. We do call the algorithm for the stable evaluation of the Bernstein-Bézier form for polynomials "de Casteljau algorithm" although it is Carl de Boor's more general result applying it to B-splines which is now widely used in CAD/CAM systems.
+ 
+The SMA also quotes Pierre Bézier on de Casteljau's contributions:
+There is no doubt that Citroën was the first company in France that paid attention to CAD, as early as 1958. Paul de Casteljau, a highly gifted mathematician, devised a system based on the use of Bernstein polynomials. ... the system devised by de Casteljau was oriented towards translating already existing shapes into patches, defined in terms of numerical data. ... Due to Citroën's policy, the results obtained by de Casteljau were not published until 1974, and this excellent mathematician was deprived of part of the well deserved fame that his discoveries and inventions should have earned him.

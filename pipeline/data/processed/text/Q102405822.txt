@@ -1,0 +1,45 @@
+Christopher Alan Fuchs (born in Cuero, Texas) is an American theoretical physicist whose work focuses on quantum information theory and the foundations of quantum mechanics. He is a  Distinguished Professor of Physics at the University of Massachusetts Boston. Fuchs is known for technical work in quantum information theory and for co-developing QBism, an interpretation of quantum mechanics that radically departs from conventional approaches. In QBism, individual agents' actions and experiences are the central concerns of the theory, not what the universe is doing without the agent.
+
+Fuchs's current work includes research into symmetric informationally complete measurements (SIC-POVMs), which QBism uses to represent quantum states as probability distributions in a framework where the Born rule appears as a modification of the classical law of total probability.
+
+He is a Fellow of the American Physical Society.
+
+ Education and career 
+Fuchs was born in Cuero, Texas. He received two Bachelor of Science degrees, in physics and mathematics, both with high honors, from the University of Texas at Austin in 1987, where he studied under John Archibald Wheeler. In 1996 he completed his Ph.D. in physics at the University of New Mexico under the supervision of Carlton M. Caves. Michael Nielsen and Isaac Chuang's textbook Quantum Computation and Quantum Information would later recommend Fuchs's PhD thesis as providing "a wealth of material on distance measures for quantum information".
+
+After completing his doctorate, Fuchs held several postdoctoral positions, including the Lee A. DuBridge Prize Postdoctoral Fellowship at the California Institute of Technology (Caltech). He later worked as a member of the technical staff at Bell Laboratories in Murray Hill, New Jersey. From 2007 to 2013 Fuchs was a senior researcher at Perimeter Institute for Theoretical Physics in Waterloo, Canada, a center devoted to research in theoretical physics, particularly in areas such as cosmology and quantum foundations. From 2013 to 2014 he was a senior scientist at Raytheon BBN Technologies in Cambridge, Massachusetts.
+
+Since 2015 he has been a professor of physics at the University of Massachusetts Boston, where he leads a research group dedicated to quantum foundations and quantum information theory. The group works on the development and study of QBism and on the analysis of related mathematical structures, such as SIC-POVMs, used in probabilistic formulations of quantum mechanics.
+
+ Early contributions to quantum information 
+In the field of quantum information theory, Fuchs has worked on measures of fidelity and distinguishability for quantum states, bounds on accessible information, and relations between disturbance and information in quantum measurements. Some of these results appear in his doctoral thesis and in later work on quantum cryptography and quantum communication.
+
+Fuchs and Jeroen van de Graaf introduced two-sided bounds connecting trace distance and fidelity, now called the Fuchs–van de Graaf inequalities. They are widely used in literature for converting error and fidelity bounds in the analysis of quantum protocols.
+
+He was one of the originators of the concept "nonlocality without entanglement".
+This refers to sets of product quantum states that are perfectly distinguishable globally, but only imperfectly so with local measurements and classical communication (LOCC).  The same paper also implicitly introduces the notion of an "unextendible product basis," which was later instrumental in establishing that the Peres–Horodecki criterion for entanglement is necessary but not sufficient. Together with Charles H. Bennett and John A. Smolin, he questioned whether the classical capacity of a noisy quantum channel might be increased by entangled codings, a result eventually established in the positive by Matthew Hastings.
+
+Fuchs also collaborated in proving the no-broadcasting theorem, a generalization of the no-cloning theorem. Together with Carlton Caves and Rüdiger Schack, he developed a quantum version of de Finetti's theorem.
+
+In May 2000, when Fuchs was a postdoc at the Los Alamos National Laboratory, his home and most of his family's possessions were destroyed in the Cerro Grande Fire. Fuchs had been actively corresponding over email with many prominent figures in the then-nascent field of quantum information. In an example of what he called "backing up my hard drive", he posted an edited collection of this correspondence to the arXiv preprint server, with a foreword by N. David Mermin. Later, Växjö University Press printed a limited edition of this collection, and in 2011, Cambridge University Press printed it (with a new introduction) under the title Coming of Age with Quantum Information.
+
+ QBism 
+
+QBism is an interpretation of quantum mechanics that regards the theory as a tool for each agent to evaluate and update their expectations about the outcomes of their own actions on the world. In this view, the quantum state is not understood as an objective property of a system, but as a mathematical expression of an agent's beliefs about that system. From this perspective, quantum mechanics does not describe a reality independent of the observer; instead, it provides a normative framework for decision-making. In QBism, measurement is conceived as an action carried out by an agent upon the external world, with the outcome identified as the experience that action elicits for that agent. The outcome is not regarded as the disclosure of a pre-existing, observer-independent value, but as the product of a particular interaction between the agent and the system. Within QBism, probability is treated in a subjectivist, personalist sense, in the tradition of de Finetti, with Dutch-book coherence used as a criterion of rationality. Coherence justifies the standard rules of probability as normative constraints on an agent's gambling commitments, while quantum theory adds further normative structure tailored to a quantum world.
+
+From the QBist point of view, a formalism was developed that allows standard quantum states to be replaced by the distributions associated with the outcomes of reference devices defined by informationally complete measurements. Under this approach, quantum states are interpreted as expressions of belief. Within this framework, the Born rule is not interpreted as a law of nature that determines which outcomes occur, but as a normative rule: a constraint that an agent adopts in order to maintain internal coherence among their personal probability assignments. The rule links an agent's probability assignments for the outcomes of an informationally complete reference measurement with their assignments for the outcomes of any other possible measurement.
+
+This constraint takes its simplest form when the reference measurement is a symmetric informationally complete measurement (SIC-POVM), a type of POVM first studied by Gerhard Zauner. This makes SIC-POVMs of interest to the QBist program.
+
+ Honors and awards 
+
+ Fellow of the American Physical Society (2012), "for powerful theorems and lucid expositions" culminating in the vision of quantum theory known as QBism.
+ QCMC International Quantum Communication Award (2010)
+ The article "Unconditional Quantum Teleportation", co-authored with the group of H. J. Kimble, was listed among the "Top Ten Breakthroughs of 1998" by the editors of Science.
+ Chancellor's Award for Distinguished Scholarship, University of Massachusetts Boston, November 2021.
+ Named to Vox's Future Perfect 50 in 2023, recognizing individuals whose work is helping shape the future.
+
+ Media coverage 
+Christopher Fuchs's work on the foundations of quantum mechanics and quantum information theory has attracted sustained attention in both scientific and general-interest media. His research and interpretive views have been discussed in outlets such as The Wall Street Journal, Aeon, and National Public Radio. Extended profiles, interviews, and feature articles examining his contributions and their implications for the interpretation of quantum mechanics have appeared in Vox, Scientific American, Quanta, Discover Magazine, Nautilus, Science, the Frankfurter Allgemeine Sonntagszeitung, and other publications.
+
+Fuchs and QBism were profiled in a 2014 episode of Morgan Freeman's documentary series Through the Wormhole.

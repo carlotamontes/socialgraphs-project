@@ -1,0 +1,49 @@
+was a Japanese organic chemist. One of the most prolific chemists of the 20th century in the field of organic synthesis, Mukaiyama helped establish the field of organic chemistry in Japan after World War II.
+
+Education
+Mukaiyama studied chemistry at the Tokyo Institute of Technology, earning his BSc in synthetic organic chemistry in 1948. He became assistant professor at Gakushuin University in 1953, where he stayed until he received his Ph.D. in synthetic organic chemistry from the University of Tokyo in 1957.
+
+Research and career
+Early work
+Mukaiyama became an assistant professor at the Tokyo Institute of Technology in 1958 and earned his full professorship in 1963. During this time, his main focus was on organophosphorus chemistry. While examining deoxygenation reactions involving phosphines, Mukaiyama found that the mercury(II) acetate employed as a catalyst would react with phosphorus(III) compounds to produce acetic anhydride. This initial example expanded into the concept of the redox condensation reaction, in which a weak acid and weak base catalyze a condensation by means of a redox reaction – this would become a primary research focus for Mukaiyama for much of his career. In the original reaction, the phosphine served as the reducing agent by accepting oxygen, while the mercury(II) was the oxidation agent that accepted hydrogens, resulting in the condensation of carboxylic acids with the loss of a molecule of water.
+
+This framework was expanded to include the formation of a variety of other functional groups, including esters and amides, but the most significant was the synthesis of phosphoric esters using DEAD and an alcohol in 1967. The same year that paper was published, Mukaiyama's co-author and former student Oyo Mitsunobu attacked the products of the reaction with a carboxylic acid in the presence of triphenylphosphine to yield an ester, creating what is now known as the Mitsunobu reaction.
+
+Modifications to the aldol reaction
+The aldol reaction is an essential tool for synthetic chemists. At its simplest, the aldol reaction involves two carbonyl compounds which join, forming a carbon-carbon bond. Depending on whether it is performed in acidic or basic conditions, the reaction proceeds by one of the carbonyls attacking the other, which has tautomerized into either an enol or enolate. However, when both carbonyls are similar in pKa they may both function as either the nucleophile or the electrophile, meaning the reaction may form either cross-products or self-products.
+
+While investigating sulfur-boron compounds in 1971, Mukaiyama reported that the reaction of ketene with thioboronite produced a beta-hydroxyalkanethioate via a vinyloxyborane intermediate that would perform an aldol reaction with formaldehyde leftover from the synthesis of ketene. These vinyloxyboranes proved straightforward to synthesize directly from the desired ketones using DBBT, which has a more electron-withdrawing triflate group in place of the sulfur. Boron enolates provide an alternative to metal enolates for performing cross-aldol reactions.
+
+As an extension of his earlier research with trivalent phosphorus as an oxygen acceptor, Mukaiyama began to examine the role of metallic catalysts for the dehydrative Friedel-Crafts alkylation and in particular titanium(IV) tetrachloride. In 1973, he reported that titanium(IV) chloride treated with zinc powder catalyzed a pinacol coupling of carbonyls in THF which formed an alkene after reflux with 1,4-dioxane. This is what is now known as the McMurry reaction - McMurry published a year later and cited both Mukaiyama and the group of Tyrlik in Poland in his paper, but Japan's position in the international organic chemistry community was not yet fully developed and the naming persists.
+
+Mukaiyama again turned to titanium(IV) chloride while seeking an appropriate Lewis acid to activate aldehydes for reaction with silyl enol ethers in what became known as the Mukaiyama aldol reaction. Published in 1973 as Mukaiyama was in the process of migrating to the University of Tokyo, it is a cross-aldol reaction between a silyl enol ether (typically derived from a carbonyl of choice using the method of Stork) and an aldehyde of choice in the presence of a Lewis acid like titanium(IV) chloride. The reaction is a landmark case on how activating aldehydes can allow even electronically neutral and weakly nucleophilic compounds like silyl enol ethers to be used as reagents.
+
+A Lewis acid must be added to use silyl enol ethers but not boron enolates because boron has an empty orbital but silicon does not, allowing boron to act as an electron acceptor. Tin(II) goes a step further by having multiple empty orbitals, allowing it to coordinate chiral ligands and induce enantioselectivity. In 1982 Mukaiyama showed that tin(II) enolates formed from tin(II) triflate could produce aldol products that were over 95% stereospecific. In a time when asymmetric reactions largely relied on chiral auxiliaries to be covalently bound to the reactants, tin(II) enolates formed from chiral diamine ligands derived from L-proline could achieve over 90% ee.
+
+Namesake reagent
+In 1975, Mukaiyama reported that N-methyl-2-chloropyridinium iodide (also called 2-chloro-1-methylpyridinium iodide) allowed for a dehydration condensation between a carboxylic acid and an alcohol or similar functional groups to form an ester linkage. In the initial stage of the process, the carboxyl displaces the halogen atom on the reagent in the presence of a base. The resulting pyridyl ester is an activated electrophile and also serves as a good leaving group in a subsequent nucleophilic acyl substitution reaction with the alcohol reactant as nucleophile. Thus, the family of 2-halo-N-alkylpyridinium salts are named the Mukaiyama reagents. The reaction gives low yields if there are sterically large groups adjacent to the site of the reaction, such as tertiary carbons, but can be improved by using bromine as the halogen. In the years since its discovery, a number of different onium salts of aza-arenes have been used to catalyze a number of different dehydration reactions, including a macrolactonization. In 1994, Isamu Shiina developed his namesake macrolactonization in the Mukaiyama lab, making use of an aromatic carboxylic acid anhydride in the presence of a Lewis acid catalyst.
+
+Taxol synthesis
+In the early 1990s, at least thirty separate groups were working on the total synthesis of the chemotherapy medicine paclitaxel (Taxol), culminating with the groups of Robert A. Holton and K. C. Nicolaou publishing nearly simultaneously in 1994. By then, Mukaiyama had retired from the University of Tokyo after reaching the mandatory age of 60 and set up an academic lab at the Tokyo University of Science. The Mukaiyama taxol total synthesis was published between the years of 1997 and 1999 after five years of research, making the Mukaiyama lab the sixth group to report results.
+
+This total synthesis is largely a linear synthesis which forms the four rings of taxol in the order C, B, A, D. It is differentiated from the others from its use of L-serine as a starting material and for being the only total synthesis not to use the Ojima lactam to create the amide tail. Instead, the tail is created from scratch by converting benzyloxyacetic acid into a silyl enol ether, joining it with benzaldehyde with a Mukaiyama aldol addition, and creating the amide from the alcohol via a Mitsunobu reaction followed by benzoylation.
+
+The synthesis also made use of three Swern oxidations during the synthesis of the C ring. This reaction is typically performed at very low temperatures (< -50 °C) to stabilize its activated DMSO intermediate and constantly evolves the strong-smelling DMS, making it very difficult to work with at large scales. The difficulties encountered during their total synthesis prompted Mukaiyama to pursue an alternative method, and in 2001 a room-temperature oxidation involving N-chlorosuccinimide and a catalytic amount of N-t-butylbenzenesulfenamide was developed. The more electronegative nitrogen adjacent to the sulfur in the sulfenamide increased the stability of the intermediate relative to that formed from the sulfur-carbon bond of DMSO and was inspired by his earlier work with sulfenamides while still at the Tokyo Institute of Technology.
+
+Legacy
+Mukaiyama had a scientific career spanning over sixty years, during which he published over 900 papers. After its founding in 1972, Mukaiyama only published in the Japanese journal Chemistry Letters, citing a belief that "the results of one's chemistry should be published in journals of one's country." The combination of the high quality of his work and the over 600 papers that he published in Chemistry Letters played an important role in its spread to other nations.
+
+A total of 145 people earned their doctorates under Mukaiyama, with 54 eventually becoming professors in various institutions.
+
+Honors and awards
+Mukaiyama has been recognized for his achievements in the form of seven honorary degrees and membership in the national academies of four nations. He is the namesake of the Mukaiyama Award, awarded by the Society of Synthetic Organic Chemistry, Japan since 2005. His major awards include:
+
+ Chemical Society of Japan Award in 1973
+ Imperial Prize and Academy Prize from the Japan Academy in 1983
+ Nicholaus Copernicus Medal from the Polish Academy of Sciences in 1986
+ Person of Cultural Merit from Japan in 1992
+ Chevalier de l’Ordre National du Mérite from France in 1994
+ ACS Award for Creative work in Synthetic Organic Chemistry from the American Chemical Society in 1996
+ Order of Culture from Japan in 1997
+ Tetrahedron Prize for Creativity in Organic Chemistry from Elsevier in 1998
+ Sir Derek Barton Gold Medal from the Royal Society of Chemistry in 1998

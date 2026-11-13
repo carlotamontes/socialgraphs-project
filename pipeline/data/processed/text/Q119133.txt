@@ -1,0 +1,38 @@
+Nicolas Gisin (born 29 May 1952) is a Swiss physicist and professor at the University of Geneva, working on the foundations of quantum mechanics, information, and communication. His work includes both experimental and theoretical physics. He has contributed work in the fields of experimental quantum cryptography and long-distance quantum communication over standard telecom optical fibers. He also co-founded ID Quantique, a company that provides quantum-based technologies.
+
+Biography
+Nicolas Gisin was born in Geneva, Switzerland, on 29 May 1952. He received a degree in mathematics and a master's degree in physics before receiving his Ph.D. in Physics from the University of Geneva in 1981. His dissertation concerned quantum and statistical physics. After several years in the software and optical communication industries, Gisin joined the Group of Applied Physics at the University of Geneva in 1994, where he started working in optics. Since 2000, he has been the Director of the Department of Applied Physics, leading a research group in Quantum information and quantum communication. The European Research Council awarded him with two successive ERC Advanced Grants. In 2009, he received the first biennial John Stewart Bell Prize and, in 2011, he received the prize of the Geneva City. In 2014, Switzerland awarded him the Swiss Science prize sponsored by the Foundation Marcel Benoist and delivered by the National Government.
+
+On 17 July 2014, Gisin published his book, Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels, in which he explains modern quantum physics and its applications without using mathematics or difficult concepts. The text has been translated from French into English, German, Chinese, Korean, and Russian.
+
+Gisin played field hockey at the highest Swiss level and was president of Servette HC from 2000 to 2015, furthering his club to become the largest in Switzerland. In 2010 Servette HC was awarded the title "Club of the Year" by the European Hockey Federation. In 2014, the team won the Swiss championship for the first time in its century-long history.
+
+Research
+ In 1995, Gisin transmitted a quantum cryptographic signal at a distance of 23 km over a commercial optical fiber under Lake Geneva. Later, his group extended this record to 67 km  and 307 km  using Plug-&-Play and Coherent One Way configurations for quantum key distribution.
+ In 1997, Nicolas Gisin and his group demonstrated Bell inequality violations at a distance of over 10 km. This was the first time when quantum non-locality was demonstrated outside the lab; the distance was increased by about three orders of magnitude with respect to all previous experiments. This was followed by further experiments, ever strengthening the conclusion by excluding more and more sophisticated alternative models to quantum theory.
+ In the early 2000s he was the first in demonstrating quantum teleportation over long distances. In the latter experiment the receiving photon was hundreds of meters away when the Bell state measurement that triggers the teleportation process was performed.
+ The previous breakthroughs would not have been possible without single-photon detectors compatible with telecommunication optical fibers. When Gisin entered the field such detectors did not exist. Today, thanks to Gisin and his group at the University of Geneva, single-photon detectors at telecom wavelengths are commercially available.
+ Nicolas Gisin's work pushed optical fiber quantum communication almost to its limits. To go further one needs quantum memories and repeaters. His group invented an original quantum memory protocol using rare earth doped crystals and used it to demonstrate the first solid state quantum memory. Recently they entangled: first a photon with such a crystal, next two such crystals and finally teleported a photonic qubit into a solid-state quantum memory over a distance of 25 km.
+ Schrödinger's equation is a basic law of nature. Yet one may envisage that at a certain moment in the future novel discoveries may lead to its modification. The most natural such modification is introduction of non-linear terms. Another "Gisin theorem" states however that all deterministic nonlinear modifications of the Schrödinger equation necessarily activate quantum non-locality, leading to true violations of relativity.
+ One of the most important characteristics of quantum information is the no-cloning theorem. Nicolas Gisin derived a bound on the fidelity of approximate quantum cloning from the relativistic no-signaling constraint.
+ Nicolas Gisin contributed to relating non-locality to the security of quantum key distribution, notably with Antonio Acín, Valério Scarani, Nicolas Brunner and Stephano Pironio. This opened an entirely new field of research known as Device Independent Quantum Information Processing (DI-QIP).
+ In 1984, Nicolas Gisin's proposed stochastic Schrödinger equations and his subsequent work with Ian C. Percival is now widely used in the study of the dynamics of open quantum systems.
+ Gisin invented a technique to measure Polarization Mode Dispersion (PMD) in optical fibers. This turned out to be an extremely important parameter of telecom fibers whose importance was initially underestimated. The technique was adopted as an international standard and was transferred to industry (first to a spin-off, next to the Canadian company EXFO). Still today it is the most used technique to characterize PMD. Being both a classical and quantum engineer, he applied the abstract concepts of quantum weak values to the field of classical telecommunication networks.
+ In 2019, Nicolas Gisin demonstrated the existence of a new form of nonlocality in quantum networks
+ In 2021, Nicolas Gisin proved that Real Quantum Theory, the theory obtained from quantum theory when complex numbers are replaced with real ones, cannot explain all the correlations which can be obtained in quantum networks, notably with Antonio Acín.
+
+Awards
+ Prize Dina Surdin, awarded by the Fondation Louis de Broglie, Paris, for his PhD thesis (1982)
+ Product Performance Award, granted by Magazine PC Publishing for his work at the software company CPI (1988)
+ Selected by the MIT Technology Review as representative of one of the 10 technologies that should "change the world"! (2003)
+ Descartes Prize for the European IST-QuCom project for "excellence in collaborative research" awarded by the European Commission (2004)
+ Doctor Honoris Causa, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne (2004)
+ Prix Science de la Ville de Genève. (2007)
+ Fellow of the European Optical Society for "contribution to the foundation of quantum mechanics and its application" (2008)
+ ERC Advanced Grant on "Quantum Correlations" (2008)
+ John Stewart Bell Prize  for Research on Fundamental Issues in Quantum Mechanics and their Applications (2009)
+ ERC Advanced Grant on "Macroscopic Entanglement in Crystals" (2013)
+ Selected as a Thomson-Reuters Highly Cited Researcher (2014)
+ Swiss Science Prize 2014 awarded by the foundation Marcel Benoist. This is the highest Swiss prize for all sciences, awarded once per year to a single person (2014)
+ Quantum Communication , Measurement and Computing award, QCMC'14 (2014)
+ Volta Medal from the University of Pavia, Italy (2015)

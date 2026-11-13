@@ -1,0 +1,31 @@
+Matthias Scheffler (born June 25, 1951, in Berlin) is a German theoretical physicist whose research focuses on condensed matter theory, materials science, and artificial intelligence. He is particularly known for his contributions to density-functional theory and many-electron quantum mechanics and for his development of multiscale approaches. In the latter, he combines electronic-structure theory with thermodynamics and statistical mechanics, and also employs numerical methods from engineering. As summarized by his appeal "Get Real!" he introduced environmental factors (e. g. partial pressures, deposition rates, and temperature) into ab initio calculations. In recent years, he has increasingly focused on data-centric scientific concepts and methods (the 4th paradigm of materials science) and on the goal that materials-science data must become "Findable and Artificial Intelligence Ready".
+
+ Academic career 
+Scheffler studied physics at Technische Universität (TU) Berlin. He carried out his doctoral work in the field of theoretical solid-state physics at the Fritz Haber Institute of the Max Planck Society (FHI) and received his Ph.D. from the TU Berlin in 1978. He then moved to the Physikalisch-Technische Bundesanstalt in Braunschweig, where he was employed as a research associate from 1978 to 1987. From 1979 to 1980, he was also a visiting scientist at the IBM T.J. Watson Research Center, Yorktown Heights, USA. He received his habilitation in 1984 from the TU Berlin.
+
+In 1988, he was appointed as a scientific member of the Max Planck Society and founding director of the Theory Department of the Fritz Haber Institute of the Max Planck Society in Berlin. The following year he received an honorary professorship at the TU Berlin. This was followed by further honorary professorships at Freie Universität Berlin (2006), Humboldt-Universität zu Berlin (2016), and in Hokkaido, Japan (2016). He is also Distinguished Visiting Professor of Computational Materials Science and Engineering at the University of California, Santa Barbara since 2005. 
+
+In 2014 Scheffler established The NOMAD Laboratory as part of the NOMAD European Center of Excellence. Initially hosted by the Fritz Haber Institute of the Max Planck Society in Berlin, it transitioned to the Berlin Institute for the Foundations of Learning and Data (BIFOLD) at Technische Universität Berlin in 2026, where Scheffler continues to direct it. Scheffler is also a BIFOLD Fellow.
+
+ Research focus 
+Since the beginning of his career, Scheffler has been working on fundamental aspects of the chemical and physical properties of surfaces, interfaces, clusters, and nanostructures. Current research activities include studies of heterogeneous catalysis, thermal conductivity, electrical conductivity, thermoelectric materials, defects in semiconductors, inorganic/organic hybrid materials, and biophysics. These are studies that combine quantum mechanics, ab initio calculations of the electron structure and molecular dynamics with methods from thermodynamics, statistical mechanics, and engineering. In this way, the understanding of meso- and macroscopic phenomena can be developed or deepened under realistic conditions (T, p). Scheffler is also working on the development of theoretical models for the calculation of excited states and electron correlations. The software package FHI-aims developed for this purpose by Scheffler, together with Volker Blum and many others, was specifically designed for large-scale calculations on high-performance computers. Scheffler has investigated many different classes of materials with high application relevance (e.g. compound semiconductors, metals, oxides, two-dimensional materials, organic materials, surfaces), as well as successfully developing a wide range of phenomena with direct practical relevance (e.g. crystal structure and growth, electronic material properties, metastability of impurities in semiconductors, electrical and thermal conductivity, heterogeneous catalysis).
+
+More than 116 of his former employees now hold professorships or alike positions. Scheffler is one of the most highly cited scientists in his field.
+
+ Data science and development of the NOMAD database 
+Since 2003, Scheffler and his group have been developing artificial intelligence methods and are increasingly engaged in scientific data-sharing activities. Worldwide, vast amounts of scientific data are generated on materials, but only a fraction of it is actually used and published. Often, data are not adequately characterized and described, and most data are not considered further because they are not useful for the ongoing, focused research project. However, they may contain valuable information for other topics ("recycle the waste!"). For computational materials science, Scheffler, together with Claudia Draxl, designed and set up a database where research data can be stored in a well-documented manner and where the research data are also available to other researchers.
+
+With the detailed description and availability of data, artificial intelligence methods can be applied and materials with novel and advantageous properties can be identified. The previously often very lengthy value creation process in the development of new materials, from basic research to market-ready product, can thus be significantly shortened.
+
+ Awards and honors 
+ 2001: Max Planck Research Award jointly awarded by the Alexander von Humboldt Foundation and the Max Planck Society
+ 2003: Medard W. Welch Award of the AVS (association for science and technology of materials, interfaces and processing)
+ 2004: Max Born Medal and Prize jointly awarded by the British Institute of Physics (IOP) and the German Physical Society (DPG)
+ 2007: Honorary doctorate from the Lund University, Sweden
+ 2010: Rudolf Jaeckel Prize of the German Vacuum Society (DVG)
+ Since 1998: Fellow of the American Physical Society
+ Since 2002: Member of the Berlin-Brandenburg Academy of Sciences and Humanities
+ Since 2017: Member of the German National Academy of Sciences Leopoldina
+ 2023: Daniel C. Tsui Lecture, IOP CAS, Beijing
+ 2024: MBA Award of the Japan Society of Vacuum and Surface Science
+ 2025: Zhongguancun Award for International Cooperation of the City of Beijing

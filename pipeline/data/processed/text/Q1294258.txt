@@ -1,0 +1,56 @@
+Alex Szalay is a Bloomberg Distinguished Professor of physics and astronomy and computer science at the Johns Hopkins University School of Arts and Sciences and Whiting School of Engineering. Szalay is an international leader in astronomy, cosmology, the science of big data, and data-intensive computing. In 2023, he was elected to the National Academy of Sciences.
+
+Biography
+Alexander Sándor Szalay, Jr. was born in Hungary. His father is Sándor Szalay, who is considered “the father of nuclear physics in Hungary” for his discovery of a natural enrichment mechanism of uranium and neutrinos.  Szalay graduated with a Bachelor of Science degree in Physics in 1969 from Kossuth University, now University of Debrecen, in Hungary. He then received a Master of Science in Theoretical Physics 1972 and a Ph.D in Astrophysics in 1975 from the Eötvös Loránd University in Budapest. During this period, from 1974 to 1982, Szalay also played guitar in the Hungarian rock band Panta Rhei (band). After graduation Szalay spent postdoctoral periods at the University of California, Berkeley, University of Chicago, and Fermilab, before accepting an assistant professorship at Eötvös Loránd University in 1982. After rising to the rank of full professor at Eötvös, he joined Johns Hopkins University in 1989. Subsequently, he was named the Alumni Centennial Chair in 1998 and earned a secondary appointment in the Department of Computer Science in 2001. In 2008, he became Doctor Honoris Causa of the Eötvös Loránd University.
+
+In March 2015, Szalay was named a Bloomberg Distinguished Professor at Johns Hopkins University for his accomplishments as an interdisciplinary researcher and excellence in teaching. The Bloomberg Distinguished Professorship program was established in 2013 by a gift from Michael Bloomberg. Szalay holds joint appointments in the Johns Hopkins University Zanvyl Krieger School of Arts and Sciences’s Department of Physics and Astronomy and the Whiting School of Engineering’s Department of Computer Science. Through the Bloomberg Distinguished Professorship, Szalay also will be teaching a new undergraduate class in data science, using a synthesis of statistics, computer science, and basic sciences that he thinks “will become the fundamental language used by the next generation of scientists.”
+
+Since 2009, Szalay has been the founding director of the Institute for Data Intensive Engineering and Science (IDIES) at Johns Hopkins, an interdisciplinary institute fostering “education and research in applying data-intensive technologies to problems of national interest in physical and biological sciences and engineering.” At the time of its founding, IDIES was the “first interdisciplinary big data center of its type […] and has since inspired similar efforts at other universities.” IDIES is supported by the National Science Foundation, NASA, Intel, Microsoft, Nokia, Nvidia, the Gordon and Betty Moore Foundation, and the W. M. Keck Foundation.
+
+ Awards and distinctions 
+In 1990, Szalay was elected to the Hungarian Academy of Sciences as a Corresponding Member and awarded the E.W. Fullam Prize of the Dudley Observatory. The following year, he received Hungary's Széchenyi Prize, which recognizes “those who have made an outstanding contribution to academic life in Hungary.” Szalay was recognized in particular for his “discovery of the large scale (400 million light years) distribution pattern of galaxies.” In 2003, he was elected as a Fellow of the American Academy of Arts and Sciences. In 2004, he received an Alexander Von Humboldt Research Award in Physical Sciences. In 2007, Szalay received the Jim Gray eScience Award in recognition for his “foundational contributions to interdisciplinary advances in the field of astronomy and groundbreaking work with Jim Gray.” The IEEE Computer Society awarded Szalay with the 2015 Sidney Fernbach Award for "his outstanding contributions to the development of data-intensive computing systems and on the application of such systems in many scientific areas including astrophysics, turbulence, and genomics.”. In 2023 he has been elected to the National Academy of Sciences. In 2024, he became a Fellow of the ACM.
+
+Research
+Szalay is an astrophysicist who has made significant contribution to our understanding of the structure formation and on the nature of the dark matter in the universe. Distinguished in the area of the cosmology, he works on the statistical measures of the spatial distribution of galaxies and galaxy formation. He has contributed much to the field of theoretical astrophysics and large scale structure. Szalay has developed several novel statistical techniques about optimal estimators for galaxy correlations, power spectra, photometric redshifts for galaxies, optimal co-adding of multicolor images, PCA-based spectral classification of galaxies and Bayesian techniques applied to spatial cross-matching of different astronomical catalogs. He has also led the development of data-intensive computer architectures covering all aspects of this process from design to implementation.
+
+Particular accomplishments include:
+ Biased galaxy formation in a cold dark matter dominated universe
+ Structure formation in a neutrino-dominated universe
+ Computing the power spectrum in hot, cold and warm dark matter dominated universes (Szalay also defined the terms hot/cold/warm dark matter)
+ Various measurements of the large scale galaxy power spectrum
+
+ Sloan Digital Sky Survey 
+Professor Szalay is the Architect for the Science Archive and Chair of the Science Council of the Sloan Digital Sky Survey, the most used astronomy facility in the world today. He collaborated with Jim Gray to design an efficient system to perform data mining on the SDSS Terabyte sized archive, based on innovative spatial indexing techniques, that represented a “thousand-fold increase in the total amount of data that astronomers have collected to date.” The SDSS Science Archive has attracted an unprecedented number of users, and is considered to be an example for online archives of the future. Currently, he is on the Science Advisory Council of the Large Synoptic Survey Telescope.
+
+A minor planet discovered by the Sloan Digital Sky Survey at Apache Point Observatory was named 170010 Szalay in his honor.
+
+ Virtual observatory and cosmological simulations 
+Szalay is a leader in the grass-roots standardization effort to bring the next generation petascale databases in astronomy to a common basis, so that they will be interoperable. In support of this goal, Szalay was Project Director of the National Virtual Observatory. In 2001, Jim Gray and Szalay wrote up a viewpoint article on the national virtual observatory project for Science, entitled "The World-Wide Telescope." He was also one of the founders of the International Virtual Observatory Alliance and part of the core team to build the Galaxy Zoo, one of the most visible citizen science projects today.
+
+Szalay collaborated with Simon White and Gerard Lemson to build a database similar to the SkyServer out of the Millennium Simulation, which became the reference cosmology simulation used by astronomers all over the world. In collaboration with Piero Madau, he is building the 1.2PB database, known as The Milky Way Laboratory, for the Silver River cosmology simulation, currently running at Oak Ridge National Laboratory.
+
+ Data-intensive computing 
+Szalay was involved in the early projects related to the Computational Grid, in particular the GriPhyN and iVDGL projects, creating testbed applications for high energy physics and astrophysics. He has collaborated on high-speed data analytics for more than a decade, and has been part of the TeraFlow project since 2004  and the Open Science Grid. He was also heavily involved in the Data Conservancy, researching the long-term curation and preservation of scientific data.
+
+He has coauthored several papers with Gordon Bell, one of the world's premier computer designers, arguing how Amdahl's law can be used to revisit data-intensive computing architectures from first principles. Applying these ideas, he built a low power system, GrayWulf, using Atom processors with extremely good IO performance per unit power (factor of 15 better than a typical rack server). GrayWulf was named in homage to and builds on the work of Szalay's collaborator legendary Microsoft computer scientist Jim Gray and Beowulf, the “original computer cluster developed at NASA using ‘off-the-shelf’ computer hardware.” Szalay led the team that won the Supercomputing Data Challenge in SC-08 - the International Conference for High Performance Computing, Networking, Storage and Analysis - with their entry "Storage Challenge GrayWulf: Scalable Clustered Architecture for Data-Intensive Computing." In 2010, Szalay began developing the Data-Scope, a 6.5PB system with 500Gbytes/s sequential throughput, utilizing a uniquely balanced system built out of hard disks, SSDs and GPUs, for maximal data flow across the system. The Data-Scope went online in 2013 and read “data 30 times faster than GrayWulf, making it the fastest data-processing system at any university in the world.”
+
+Szalay has more recently branched out in other scientific areas focusing on data-intensive computing. In collaboration with Randal Burns, Charles Meneveau, and Greg Eyink, he has built the 350TB turbulence database (JHTDB) providing immersive access to a large computational fluid dynamics simulation, where users can launch virtual sensors into the simulation that report back their velocity. A landmark paper using these resources appeared in Nature.
+
+With Andreas Terzis and Katalin Szlavecz, he has built an end-to-end wireless sensor system for in-situ monitoring of environmental parameters, including , and measuring the impact of the soil on the global carbon cycle. With sensors around Baltimore, Brazil, Ecuador and the Atacama Desert in Chile, the system has more than 200,000 sensor days of data and several hundred million data points.
+
+Szalay has also become heavily involved in applying modern data-intensive computational techniques to genomics, in collaboration with Steven Salzberg, Ben Langmead, Sarah Wheelan, and Richard Wilton. The collaboration has built a new alignment system for genomics, which is substantially faster than any other system today.
+
+ Awards 
+ 1967 First Prize International Physics Olympiad, Warsaw, Poland 
+ 1991 Szechenyi Prize of the Hungarian Republic
+2003 Fellow of the American Academy of Arts and Sciences
+ 2004 Alexander Von Humboldt Award in Physical Sciences
+ 2007 Jim Gray Award, Microsoft
+ 2015 Sidney Fernbach Award
+ 2015 Highly Cited Researcher, Thomson Reuters
+ 2016 Outstanding Collaborator Award, Microsoft Research
+ 2020 Viktor Ambartsumian International Science Prize
+ 2021 ACM SIGMOD Systems Award (part of the SDSS team)
+2021 One of 10 winners of Falling Walls Science Summit, Life Sciences (with Janis Taube)
+ 2023 Member, the National Academy of Science
+ 2024 Fellow of the ACM

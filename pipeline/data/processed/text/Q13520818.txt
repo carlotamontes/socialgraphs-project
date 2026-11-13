@@ -1,0 +1,32 @@
+Heinrich Magnus Manske (born 24May 1974) is a German biochemist who is a researcher on malaria. He is a senior staff scientist at the Wellcome Sanger Institute in Cambridge, UK and a software developer of one of the first versions of the MediaWiki software, which powers Wikipedia and a number of other wiki-based websites.
+
+Early life
+Magnus Manske was born on 24May 1974 in Cologne, Germany. He studied biochemistry at the University of Cologne and graduated in 2006 with a PhD; his dissertation was on an open source tool for molecular biology, GENtle.
+
+Career
+As a student, Manske was one of the first contributors to the Internet encyclopedia Nupedia, the precursor to Wikipedia, and later wrote one of the first versions of the MediaWiki software that Wikipedia runs on. Manske has worked in Cambridge with the Wellcome Sanger Institute since April 2007, but remains active in the development of tools for Wikipedia and its sister projects Wikidata and Wikimedia Commons.
+
+In 2012, Manske was co-author of a paper published in Nature that demonstrated new ways to identify areas where malaria parasites are evolving, and described techniques for mapping malarial drug resistance. The researchers developed a technique to extract the malaria parasite DNA directly from the blood, which minimizes errors in sequencing.
+
+Development of MediaWiki
+As a student, Manske was one of the most active contributors to the Nupedia project, submitting content on biology topics and developing tools and extensions for Nupedia. Later, unhappy with the existing software's limitations, Manske developed one of the first versions of what later became MediaWiki. His new version of the software was installed in 2002.
+
+The wiki software that was initially used for Wikipedia was called UseModWiki and was written in Perl. With issues of scale starting to present themselves as Wikipedia grew, in the summer of 2001, Manske started work on a replacement for UseModWiki that would be database-backed and would contain "wikipedia-specific features". On 25 January 2002, Manske released the first version of a MySQL-based PHP wiki engine, called Phase II. One innovation implemented by Manske in Phase II was the use of namespaces in order to separate different types of pages, such as the "Talk" or "User" namespace, which distinguished it from older wiki software which didn't have different namespaces. Phase II also introduced a number of other features which are still present, including file upload, watchlists, automatic signatures, and user contributions list. Manske's re-write also made it easier to integrate photographs in Wikipedia articles, and created a new user group: administrators, empowered to delete pages and block vandals.
+
+Manske was an adherent of open source and specifically, the GPL license, and his work on the early versions of MediaWiki was released under the GPL license.
+
+Manske's Phase II software encountered load issues as Wikipedia continued to grow, so Lee Daniel Crocker did another re-write, which led to phase III, which was used from June 2002 and from 2003 onwards was called "MediaWiki". The resultant MediaWiki software is now used as the core platform for both Wikipedia and many Wikimedia sister projects, as well as in many organizations and institutions.
+
+Manske continued to develop extensions for MediaWiki and tools used to build Wikipedia and its sister projects, including tools to map category membership, compute category intersections, and import images from Flickr to Commons.
+
+Tools
+As well as working on MediaWiki itself, Manske has made tools that work with it such as "wiki shoot me" that identifies on a map photos that are needed to be taken and allow them to be uploaded or Reasonator that take the raw information from Wikidata and presents it as if it were a Wikipedia article.
+
+Recognition
+Manske is recognized as the creator of the first article in the German Wikipedia, which was on the polymerase chain reaction, first written by him in 2001.
+
+Jimmy Wales in 2002 named 25 January as Magnus Manske day in honor of his contributions to Wikipedia, proclaiming that "Tonight at dinner, every Wikipedian should say a toast to Magnus and his many inventions."
+
+Larry Sanger, in his memoir on the early history of Wikipedia, highlighted the contributions of Manske to the project and attributes the eventual success of Wikipedia to a core group of actors, including Manske:
+
+Manske, along with others, was recognized as a major contributor to MediaWiki by the USENIX Advanced Computing Technical Association in 2010 when MediaWiki and the Wikimedia Foundation were honoured with a STUG award (Software Tools User Group).

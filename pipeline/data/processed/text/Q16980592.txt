@@ -1,0 +1,33 @@
+Stuart Samuel is a theoretical physicist known for his work on the speed of gravity and for his work with Alan Kostelecký on spontaneous Lorentz violation in string theory, now called the Bumblebee model. He also made significant contributions in field theory and particle physics.
+
+Samuel graduated from Princeton University with a Bachelor of Arts in mathematics in 1975, and in 1979, he graduated from the UC Berkeley, with a Doctor of Philosophy in physics. He was formerly a member of the Institute for Advanced Study at Princeton, a professor of physics at Columbia University, and a professor of physics at City College of New York.
+
+ Earlier work 
+
+In early work, Samuel used particle field theory methods to obtain results in statistical mechanics. In particular, Samuel uncovered a particularly simple way to solve the two-dimensional Ising model. It was shown to be equivalent to a non-interacting field theory of fermionic-like particles. This allowed a rapid computation of the partition function and correlation functions. Samuel went on to treat certain interacting statistical mechanics systems using perturbative field theory.
+
+ Scalar lattice QCD 
+
+In 1985, Samuel and co-worker K.J.M. Moriarty were among the first to obtain a reasonably accurate computation of the hadron mass spectrum using computer simulations of lattice quantum chromodynamics (QCD). They overcame the difficulties that other theorists were encountering at the time by making an approximation: They replaced the spin 1/2, fermionic quarks with spin zero scalar particles and corrected for this approximation by treating the spin degrees of freedom using perturbation theory. There were three advantages to doing this: (i) scalar quarks required less computer memory, (ii) simulations using scalar quarks required less computer time, and (iii) it avoided the  fermion doubling problem. Their lattice QCD computation of the meson mass spectrum agreed well with the one in nature with the exception of the pion mass, where it is known that treating spin perturbatively is not a good approximation due to approximate spontaneous breaking of chiral symmetry. The lattice computation of the baryon spectrum was equally impressive. Samuel and Moriarty went on to make mass predictions for hadrons involving the bottom quark that had not yet been produced in accelerators. These predictions were later confirmed except for the one for the  baryon.
+
+ Supersymmetry work 
+
+Samuel's most important work in supersymmetry arose in a collaboration with the theorist Julius Wess in a publication called "Secret Supersymmetery." In this work, the two physicists constructed an effective low-energy theory of the supersymmetric generalization of the Standard Model of particle physics for the situation in which supersymmetry is spontaneously broken. The main conclusion was: Although there may be few low-energy manifestations of spontaneously broken supersymmetry, there should be at least one charged Higgs field and two neutral Higgs fields beyond the usual neutral one of the Standard Model. All supersymmetric extensions of the Standard Model have these extra spin-0 boson particles. The important conclusion is that if additional Higgs particles are discovered in nature then it is suggestive of an underlying supersymmetric structure even if the supersymmetric partners of the particles in the Standard Model are not observed experimentally.
+
+ String theory work 
+
+Samuel's most important contribution in string theory was the development of off-shell conformal field theory. This allowed the computation of the scattering of string states when the on-shell condition E = mc + pc is analytically continued so that it no longer holds. The off-shell extension of string scattering amplitudes was thought to be impossible because of a no-go theorem. However, Samuel was able to use Witten's version of string field theory to achieve this result. One of the assumptions of the "no-go" theorem was avoided (the use of an infinite number of ghost states).
+
+ Bosonic technicolor 
+
+Samuel is the creator of bosonic technicolor. Two approaches to solving to the hierarchy problem are technicolor and supersymmetry. The former has difficulties with flavor-changing neutral currents and light pseudo-Goldstone bosons, while the latter predicts superpartner particles that have not been currently observed. Bosonic technicolor is a supersymmetric version of technicolor that eliminates the difficulties that technicolor and supersymmetry have separately. In this model, the masses of superpartners can be about two orders of magnitude higher than in usual supersymmetry extensions of the standard model.
+
+ Neutrino oscillations in dense neutrino gases 
+
+Because neutrinos have masses, the three flavors of neutrinos (electron neutrino , muon neutrino  and tau neutrino ) change into each other and back, a phenomenon called neutrino oscillations. When one has a dense gas of neutrinos, it is not straightforward to determine how neutrino oscillations behave. This is because the oscillation of a single neutrino in the gas depends on the flavors of the neutrinos nearby, and the oscillation of the nearby neutrinos depend on the flavor of that single neutrino (and of other individual nearby neutrinos). Samuel was the first to develop a self-consistent formalism to address this. He observed a number of interesting phenomena that can occur in such systems including a self-induced Mikheyev–Smirnov–Wolfenstein effect and a parametric resonant conversion.
+
+Samuel and colleague Alan Kostelecký have used Samuel's formalism to analyze neutrino oscillations in the early universe.
+
+ Awards and prizes 
+
+Samuel has received a number of awards for his research including a Control Data Corporation PACER Award (with Dr. K. M. Moriarty) for outstanding computer programming, an Alexander von Humboldt Fellowship, and the Chester–Davis Prize (from Indiana University). He was one of 90 scientists in 1984 to be honored as an Alfred P. Sloan Research Recipient.
