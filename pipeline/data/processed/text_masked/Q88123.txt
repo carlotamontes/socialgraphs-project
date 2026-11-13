@@ -1,0 +1,54 @@
+NAME (born 1947) is a German physicist and civil engineer who created three phase traffic theory.
+The three phase traffic theory is the framework for the description of empirical vehicular traffic states in three traffic phases: (i)  free traffic flow (F), (ii)  synchronized traffic flow (S), and (iii)  wide moving jam  (J).
+The synchronized traffic flow and wide moving jam phases belong to congested traffic.
+Biography  Kerner is an engineer and physicist.
+PRON was born in Moscow, Soviet Union in 1947 and graduated from the Moscow Technical University MIREA in 1972.
+NAME was received Ph.D. and Sc.
+D. (Doctor of Sciences) degrees in the Academy of Sciences of the Soviet Union, respectively, in 1979 and 1986.
+Between 1972 and 1992, PRON major interests include the physics of semiconductors, plasma and solid state physics.
+During this time, NAME together with NAME developed a theory of Autosolitons – solitary intrinsic states, which form in a broad class of physical, chemical and biological dissipative systems.
+After emigration from Russia to Germany in 1992, NAME worked for the Daimler company in Stuttgart.
+PRON major interest since then was the understanding of vehicular traffic.
+NAME was awarded with Daimler Research Award 1994.
+The empirical nucleation nature of traffic breakdown at highway bottlenecks understood by NAME is the basis for NAME's three phase traffic theory, which PRON introduced and developed in 1996–2002.
+Between 2000 and 2013 NAME was a head of a scientific research field Traffic at the   Daimler company.
+In 2011 NAME was awarded with the degree Professor at the University of Duisburg-Essen in Germany.
+After PRON retirement from the Daimler company on 31 January 2013  Prof. NAME works at the University Duisburg-Essen.
+Scientific work    Three phase traffic theory   In NAME's three phase traffic theory, in addition to the free flow traffic phase (F), there are two traffic phases in congested traffic: the synchronized flow traffic phase (S) and the wide moving jam phase (J).
+One of the main results of NAME's theory is that traffic breakdown at a highway bottleneck is a random (probabilistic) phase transition from free flow to synchronized flow (F → S transition) that occurs in a metastable state of free flow at a highway bottleneck.
+This means that traffic breakdown (F → S transition) exhibits the nucleation nature.
+The main reason for the NAME's three-phase theory is the explanation of the empirical nucleation nature of traffic breakdown (F → S transition) at highway bottlenecks observed in real field traffic data.
+The prediction of the NAME's three-phase theory is that this metastability of free flow with respect to the F → S phase transition is governed by the nucleation nature of an instability of synchronized flow with respect to the growth of a large enough local increase in speed in synchronized flow (called a S → F instability).
+The S → F instability is a growing speed wave of a local increase in speed in synchronized flow at the bottleneck.
+The development of Kerner's S → F instability leads to a local phase transition from synchronized flow to free flow at the bottleneck (S → F transition).
+In 2011–2014, NAME has expanded three phase traffic theory, which PRON developed initially for highway traffic, for the description of city traffic.
+Synchronized traffic flow   At the end of 1990's Kerner introduced a new traffic phase, called synchronized flow whose basic feature leads to the nucleation nature of the F → S transition at a highway bottleneck.
+Therefore, NAME's synchronized flow traffic phase can be used synonymously with the term three-phase traffic theory.
+In 1998 NAME found that the well-known empirical phenomenon moving jam "without obvious reason" occurs due to a sequence of F → S → J transitions.
+This study was conducted using empirical traffic data.
+The explanation for the sequence of F → S → J transitions is as follows: in the three-phase traffic theory it is assumed that the probability of a F → S transition in metastable free flow is considerably larger than the probability of a F → J transition.
+In NAME's three-phase traffic theory any phase transition between the three traffic phases exhibits the nucleation nature, as in accordance to the results of empirical observations.
+In 2011 Kerner introduced the breakdown minimization principle that is devoted to control and optimization of traffic and transportation networks while keeping the minimum of the probability of the occurrence of traffic congestion in a network.
+Rather than an explicit minimization of travel time that is the objective of System Optimum and User Equilibrium, the BM principle minimizes the probability of the occurrence of congestion in a traffic network.
+Mathematical models in the framework of three-phase traffic theory   Rather than a mathematical model of traffic flow, NAME's three-phase traffic theory is a qualitative traffic flow theory that consists of several hypotheses.
+The first mathematical model of traffic flow in the framework of Kerner's three-phase traffic theory that mathematical simulations can show and explain traffic breakdown by an F → S phase transition in the metastable free flow at the bottleneck was the NAME-Klenov stochastic microscopic traffic flow model introduced in 2002.
+Some months later, NAME, Klenov, and NAME developed a cellular automaton (CA) traffic flow model in the framework of Kerner's three-phase traffic theory.
+The Kerner-Klenov stochastic traffic flow model in the framework of NAME's theory has further been developed for different applications, in particular to simulate on-ramp metering, speed limit control, dynamic traffic assignment in traffic and transportation networks, traffic at heavy bottlenecks and on moving bottlenecks, features of heterogeneous traffic flow consisting of different vehicles and drivers, jam warning methods, vehicle-to-vehicle (V2V) communication for cooperative driving, the performance of self-driving vehicles in mixture traffic flow, traffic breakdown at traffic signals in city traffic, over-saturated city traffic, vehicle fuel consumption in traffic networks.
+Intelligent transportation systems in the framework of three-phase traffic theory    ASDA/FOTO methods for reconstruction of congested traffic patterns   Three phase traffic theory is a theoretical basis for applications in transportation engineering.
+One of the first applications of the three-phase traffic theory is ASDA/FOTO methods that are used in on-line applications for spatiotemporal reconstruction of congested traffic patterns in highway networks.
+Congested pattern control approach   In 2004 Kerner introduced congested pattern control approach.
+Contrarily to standard traffic control at a network bottleneck in which a controller (for example, through the use of on-ramp metering, speed limit, or other traffic control strategies) tries to maintain free flow conditions at the maximum possible flow rate at the bottleneck, in congested pattern control approach no control of traffic flow at the bottleneck is realized as long as free flow is realized at the bottleneck.
+Only when an F → S transition (traffic breakdown) has occurred at the bottleneck, the controller starts to work trying to return free flow at the bottleneck.
+Congested pattern control approach is consistent with the empirical nucleation nature of traffic breakdown.
+Due to the congested pattern control approach, either free flow recovers at the bottleneck or traffic congestion is localized at the bottleneck.
+In 2004 Kerner introduced a concept of an autonomous driving vehicle in the framework of the three-phase traffic theory.
+The autonomous driving vehicle in the framework of the three-phase traffic theory is a self-driving vehicle for which there is no fixed time headway to the preceding vehicle.
+Work after 2015 In 2015 Kerner found that before traffic breakdown occurs at a highway bottleneck, there can be a random sequence of F → S → F transitions at the bottleneck<: The development of a F → S transition is interrupted by a S → F instability that leads to synchronized flow dissolution resulting in a S → F transition at the bottleneck.
+The effect of NAME's F → S → F transitions is as follows: The F → S → F transitions determine a random time delay of traffic breakdown at the bottleneck.
+NAME argues there is a new paradigm of traffic and transportation science following from the empirical nucleation nature of traffic breakdown (F → S transition) and that three-phase traffic theory changes the meaning of stochastic highway capacity as follows.
+At any time instant there is a range of highway capacity values between a minimum and a maximum highway capacity, which are themselves stochastic values.
+When the flow rate at a bottleneck is inside this capacity range related to this time instant, traffic breakdown can occur at the bottleneck only with some probability, i.e., in some cases traffic breakdown occurs, in other cases it does not occur.
+In 2016 Kerner developed an application of the breakdown minimization principle called network throughput maximization approach.
+NAME's network throughput maximization approach is devoted to the maximization of the network throughput while keeping free flow conditions in the whole network.
+In 2016 Kerner introduced a measure (or "metric") of a traffic or transportation network called network capacity.
+In 2019 NAME found that there is a spatiotemporal competition between S → F and S → J instabilities.

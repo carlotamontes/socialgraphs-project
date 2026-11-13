@@ -1,0 +1,58 @@
+NAME (Hebrew: ניר בן-טל) is an Israeli computational biologist and professor in the School of Neurobiology, Biochemistry and Biophysics of the George S. Wise Faculty of Life Sciences, Tel Aviv University.
+PRON holds the NAME of Structural Biology, Tel Aviv University.
+PRON research focuses on computational structural biology, structural bioinformatics, protein evolution, and the relationships among protein sequence, structure, dynamics, and function.
+Education and academic career  NAME studied biology, chemistry, and physics at the Hebrew University of Jerusalem, receiving PRON bachelor's degree in 1988.
+PRON subsequently earned a D.Sc.
+in chemistry from the Technion – Israel Institute of Technology in 1993, under the supervision of Professor NAME.
+PRON completed postdoctoral training with Professor NAME in biophysical chemistry and computational biophysics at Columbia University in New York.
+In 1997, NAME joined the Department of Biochemistry and Molecular Biology at Tel Aviv University.
+PRON became a full professor in 2007.
+PRON is a member of the university's School of Neurobiology, Biochemistry and Biophysics and also serves as head of the Bioinformatics Master program within the Faculty of Life Sciences.
+In 2018, NAME was awarded the NAME of Structural Biology at Tel Aviv University.
+Research  NAME research is in computational structural biology, with an emphasis on developing computational methods to study protein structure, function, motion, and evolution.
+PRON laboratory investigates molecular systems for which computational approaches can provide information that is difficult to obtain experimentally.
+PRON research has included computational studies of membrane proteins and transporters, including the human copper transporter 1, the ATP7B copper-transporting ATPase, and sodium/proton exchangers.
+PRON group has also developed methods for predicting the structures and motions of membrane proteins and has applied computational approaches to questions in protein evolution and drug discovery.
+ConSurf  NAME has led the development of ConSurf, a computational method and web server that uses evolutionary information to identify potentially functionally important regions in proteins.
+The methodology maps evolutionary conservation scores onto three-dimensional molecular structures, allowing conserved regions of a protein to be visualized on its surface.
+The original ConSurf work was published in Bioinformatics in 2003 by a team that included NAME, NAME, NAME, NAME, NAME, Dalit Bechor-Shental, and NAME.
+The ConSurf project has subsequently been expanded through successive versions and databases.
+A 2016 paper described an updated methodology for estimating and visualizing evolutionary conservation in macromolecules, while later work produced ConSurf-DB, a repository containing precomputed evolutionary conservation profiles for proteins with known structures.
+NAME has continued to contribute to the development of ConSurf.
+A 2023 paper described a revised version of the system for using evolutionary information to analyze macromolecules.
+NAME evolution and origins of life  In addition to structural bioinformatics, NAME has worked on protein evolution and the emergence of protein architectures and functions.
+PRON laboratory describes this research as addressing how novel protein structures and functions arise during molecular evolution.
+To trace the evolutionary history of proteins, NAME, NAME of University of Haifa and coworkers searched among large representative sets of proteins for segments that are similar in sequence (and often also in structure).
+They presented the results as a similarity network, using a methodology that they tailor-made for this study, showing that many proteins share smaller segments with each other.
+For example, they observed the same amino acid both within a short theme shared by many proteins and within a longer theme shared only by few.
+Next, they searched for themes that appear in different sequence and structural contexts within proteins, calling these bridging themes.
+They found many bridging themes, with an average length of about 40 residues.
+Interestingly, only about half of these also share a similar structure; the different environment may have induced a conformational change.
+Some of the bridging themes bind ligands, which attests to their functional importance.
+Another testimony to the evolutionary importance of these themes is the fact that some of the most ancient protein folds (e.g. NAME, P-loop, and TIM-barrel) were found to share them.
+The bridging themes may offer hints to the emergence of earliest protein families.
+To further understand the evolutionary emergence of protein-ligand binding, NAME and colleagues studied how proteins recognize the adenine moieties of enzyme cofactors.
+These cofactors (e.g. ATP, NAD, and FAD) have been present on Earth since the beginning of life.
+NAME and coworkers superimposed the structures of around 1,000 proteins based on their bound adenine-containing cofactors, and compared the patterns of hydrogen bonds that mediate adenine binding.
+The analysis showed that evolution has fully exploited adenine’s functional groups.
+In agreement with previous observations, the team found that on the protein side, these interactions were mediated by linear sequence motifs.
+However, additional motifs, beyond previously recorded, have been found.
+They found some evolutionarily distinct proteins that nevertheless shared similar adenine-binding motifs.
+They also found that adenine recognition often involved specific protein themes, which contained the binding motifs.
+The analysis offers a possible scenario for the emergence of ligand binding, where primordial peptides with minimal binding activity have gradually evolved into contemporary proteins.
+In 2025, NAME co-authored a review in Current Opinion in Structural Biology examining protein emergence and evolution.
+In 2026, PRON co-authored an AI-based research on computational representations of protein sequence and structure, and a perspective on the future of computational biology for macromolecules in the context of AI.
+Applied research  NAME has participated in research addressing biological systems of medical and security significance.
+PRON work has included computational analysis of membrane transport proteins and studies related to molecular mechanisms underlying disease and drug discovery.
+In collaboration with researchers from Turkey and Israel, PRON co-led a NATO Science for Peace and Security Programme project on the NAME transporter of Bacillus anthracis.
+The project investigated the structure and functional dynamics of the transporter and sought potential compounds capable of inhibiting its activity.
+NAME, NAME, and NAME were the project's co-directors.
+The project received the 2018 NATO SPS Partnership Prize in the field of chemical, biological, radiological and nuclear defence, with the award presented at NATO headquarters in November 2018.
+Academic service  NAME has served on the editorial boards of scientific journals including eLife, Journal of Biological Chemistry, and BBA Biomembranes.
+At present PRON is Senior Editor with NAME (since 2021), and Associate Editor with PLoS Computational Biology (since 2013).
+PRON has also participated in scientific committees associated with international computational biology conferences, including the Intelligent Systems for Molecular Biology (ISMB) and the European Conference on Computational Biology (ECCB).
+PRON is a member of the Edmond J. Safra Center for Bioinformatics at Tel Aviv University, where PRON laboratory is part of the center's research community.
+Books  NAME has also collaborated with Dr. NAME on research and teaching concerning structural biology and the origin of life.
+They co-authored Introduction to Proteins: Structure, Function, and Motion, first published in 2010, with a second edition published in 2018.
+Awards and honors  NAME was awarded the NAME of Structural Biology at Tel Aviv University in 2018.
+PRON was also a recipient, with collaborators, of the 2018 NATO Science for Peace and Security Programme Partnership Prize for the project on the Bacillus NAME transporter.

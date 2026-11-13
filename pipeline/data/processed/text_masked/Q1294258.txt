@@ -1,0 +1,62 @@
+NAME is a Bloomberg Distinguished Professor of physics and astronomy and computer science at the Johns Hopkins University School of Arts and Sciences and Whiting School of Engineering.
+Szalay is an international leader in astronomy, cosmology, the science of big data, and data-intensive computing.
+In 2023, PRON was elected to the National Academy of Sciences.
+Biography NAME, NAME was born in Hungary.
+PRON parent is NAME, who is considered “the parent of nuclear physics in Hungary” for PRON discovery of a natural enrichment mechanism of uranium and neutrinos.
+Szalay graduated with a Bachelor of Science degree in Physics in 1969 from Kossuth University, now University of Debrecen, in Hungary.
+PRON then received a Master of Science in Theoretical Physics 1972 and a Ph.
+D in Astrophysics in 1975 from the Eötvös Loránd University in Budapest.
+During this period, from 1974 to 1982, Szalay also played guitar in the Hungarian rock band NAME (band).
+After graduation Szalay spent postdoctoral periods at the University of California, Berkeley, University of Chicago, and Fermilab, before accepting an assistant professorship at Eötvös Loránd University in 1982.
+After rising to the rank of full professor at Eötvös, PRON joined Johns Hopkins University in 1989.
+Subsequently, PRON was named the Alumni Centennial Chair in 1998 and earned a secondary appointment in the Department of Computer Science in 2001.
+In 2008, PRON became Doctor NAME of the Eötvös Loránd University.
+In March 2015, Szalay was named a Bloomberg Distinguished Professor at Johns Hopkins University for PRON accomplishments as an interdisciplinary researcher and excellence in teaching.
+The Bloomberg Distinguished Professorship program was established in 2013 by a gift from NAME.
+Szalay holds joint appointments in the Johns Hopkins University Zanvyl Krieger School of Arts and Sciences’s Department of Physics and Astronomy and the Whiting School of Engineering’s Department of Computer Science.
+Through the Bloomberg Distinguished Professorship, Szalay also will be teaching a new undergraduate class in data science, using a synthesis of statistics, computer science, and basic sciences that PRON thinks “will become the fundamental language used by the next generation of scientists.”
+Since 2009, Szalay has been the founding director of the Institute for Data Intensive Engineering and Science (IDIES) at Johns Hopkins, an interdisciplinary institute fostering “education and research in applying data-intensive technologies to problems of national interest in physical and biological sciences and engineering.”
+At the time of its founding, IDIES was the “first interdisciplinary big data center of its type […] and has since inspired similar efforts at other universities.”
+IDIES is supported by the National Science Foundation, NASA, Intel, Microsoft, Nokia, Nvidia, the NAME and Betty Moore Foundation, and the W. M. Keck Foundation.
+Awards and distinctions  In 1990, Szalay was elected to the Hungarian Academy of Sciences as a Corresponding Member and awarded the E.W. Fullam Prize of the Dudley Observatory.
+The following year, PRON received Hungary's Széchenyi Prize, which recognizes “those who have made an outstanding contribution to academic life in Hungary.”
+Szalay was recognized in particular for PRON “discovery of the large scale (400 million light years) distribution pattern of galaxies.”
+In 2003, PRON was elected as a Fellow of the American Academy of Arts and Sciences.
+In 2004, PRON received an Alexander Von Humboldt Research Award in Physical Sciences.
+In 2007, Szalay received the Jim Gray eScience Award in recognition for PRON “foundational contributions to interdisciplinary advances in the field of astronomy and groundbreaking work with NAME.”
+The IEEE Computer Society awarded Szalay with the 2015 Sidney Fernbach Award for "PRON outstanding contributions to the development of data-intensive computing systems and on the application of such systems in many scientific areas including astrophysics, turbulence, and genomics.”.
+In 2023 PRON has been elected to the National Academy of Sciences.
+In 2024, PRON became a Fellow of the ACM.
+Research Szalay is an astrophysicist who has made significant contribution to our understanding of the structure formation and on the nature of the dark matter in the universe.
+Distinguished in the area of the cosmology, PRON works on the statistical measures of the spatial distribution of galaxies and galaxy formation.
+PRON has contributed much to the field of theoretical astrophysics and large scale structure.
+Szalay has developed several novel statistical techniques about optimal estimators for galaxy correlations, power spectra, photometric redshifts for galaxies, optimal co-adding of multicolor images, PCA-based spectral classification of galaxies and Bayesian techniques applied to spatial cross-matching of different astronomical catalogs.
+PRON has also led the development of data-intensive computer architectures covering all aspects of this process from design to implementation.
+Particular accomplishments include:  Biased galaxy formation in a cold dark matter dominated universe  Structure formation in a neutrino-dominated universe  Computing the power spectrum in hot, cold and warm dark matter dominated universes (Szalay also defined the terms hot/cold/warm dark matter)  Various measurements of the large scale galaxy power spectrum   Sloan Digital Sky Survey  Professor NAME is the Architect for the Science Archive and Chair of the Science Council of the Sloan Digital Sky Survey, the most used astronomy facility in the world today.
+PRON collaborated with NAME to design an efficient system to perform data mining on the SDSS Terabyte sized archive, based on innovative spatial indexing techniques, that represented a “thousand-fold increase in the total amount of data that astronomers have collected to date.”
+The SDSS Science Archive has attracted an unprecedented number of users, and is considered to be an example for online archives of the future.
+Currently, PRON is on the Science Advisory Council of the Large Synoptic Survey Telescope.
+A minor planet discovered by the Sloan Digital Sky Survey at Apache Point Observatory was named 170010 Szalay in PRON honor.
+NAME observatory and cosmological simulations  Szalay is a leader in the grass-roots standardization effort to bring the next generation petascale databases in astronomy to a common basis, so that they will be interoperable.
+In support of this goal, Szalay was Project Director of the National Virtual Observatory.
+In 2001, NAME and Szalay wrote up a viewpoint article on the national virtual observatory project for Science, entitled "The World-Wide Telescope."
+PRON was also one of the founders of the International Virtual Observatory Alliance and part of the core team to build the Galaxy Zoo, one of the most visible citizen science projects today.
+Szalay collaborated with NAME and NAME to build a database similar to the SkyServer out of the Millennium Simulation, which became the reference cosmology simulation used by astronomers all over the world.
+In collaboration with NAME, PRON is building the 1.2PB database, known as The Milky Way Laboratory, for the Silver River cosmology simulation, currently running at Oak Ridge National Laboratory.
+Data-intensive computing  Szalay was involved in the early projects related to the Computational Grid, in particular the GriPhyN and iVDGL projects, creating testbed applications for high energy physics and astrophysics.
+PRON has collaborated on high-speed data analytics for more than a decade, and has been part of the TeraFlow project since 2004  and the Open Science Grid.
+PRON was also heavily involved in the Data Conservancy, researching the long-term curation and preservation of scientific data.
+PRON has coauthored several papers with NAME, one of the world's premier computer designers, arguing how Amdahl's law can be used to revisit data-intensive computing architectures from first principles.
+Applying these ideas, PRON built a low power system, GrayWulf, using Atom processors with extremely good IO performance per unit power (factor of 15 better than a typical rack server).
+GrayWulf was named in homage to and builds on the work of Szalay's collaborator legendary Microsoft computer scientist NAME and NAME, the “original computer cluster developed at NASA using ‘off-the-shelf’ computer hardware.”
+Szalay led the team that won the Supercomputing Data Challenge in SC-08 - the International Conference for High NAME, Networking, Storage and Analysis - with their entry "Storage Challenge GrayWulf: Scalable Clustered Architecture for Data-Intensive Computing."
+In 2010, Szalay began developing the Data-Scope, a 6.5PB system with 500Gbytes/s sequential throughput, utilizing a uniquely balanced system built out of hard disks, SSDs and GPUs, for maximal data flow across the system.
+The Data-Scope went online in 2013 and read “data 30 times faster than GrayWulf, making it the fastest data-processing system at any university in the world.”
+Szalay has more recently branched out in other scientific areas focusing on data-intensive computing.
+In collaboration with NAME, NAME, and NAME, PRON has built the 350TB turbulence database (JHTDB) providing immersive access to a large computational fluid dynamics simulation, where users can launch virtual sensors into the simulation that report back their velocity.
+A landmark paper using these resources appeared in Nature.
+With NAME and NAME, PRON has built an end-to-end wireless sensor system for in-situ monitoring of environmental parameters, including , and measuring the impact of the soil on the global carbon cycle.
+With sensors around Baltimore, Brazil, Ecuador and the Atacama Desert in Chile, the system has more than 200,000 sensor days of data and several hundred million data points.
+Szalay has also become heavily involved in applying modern data-intensive computational techniques to genomics, in collaboration with NAME, NAME, NAME, and NAME.
+The collaboration has built a new alignment system for genomics, which is substantially faster than any other system today.
+Awards   1967 First Prize International Physics Olympiad, Warsaw, Poland   1991 Szechenyi Prize of the Hungarian Republic 2003 Fellow of the American Academy of Arts and Sciences  2004 NAME in Physical Sciences  2007 NAME, Microsoft  2015 Sidney Fernbach Award  2015 Highly Cited Researcher, Thomson Reuters  2016 Outstanding Collaborator NAME, Microsoft Research  2020 Viktor Ambartsumian International Science Prize  2021 ACM SIGMOD Systems Award (part of the SDSS team) 2021 One of 10 winners of Falling Walls Science Summit, Life Sciences (with NAME)  2023 Member, the National Academy of Science  2024 Fellow of the ACM

@@ -1,0 +1,89 @@
+NAME (born 22 October 1954) is a French theoretician mechanic and research director at the CNRS.
+PRON is a member of the French Academy of Sciences.
+Biography   PRON did PRON preparatory classes in Grenoble (Maths Sup) then at Louis-Le Grand (NAME), to join the École Normale Supérieure (1973) to become an agrégé de Mathématiques in 1975, and Doctor in 1982.
+From 1983 to 1988 PRON was Professor at the University of Montpellier.
+Then CNRS Research Director, Mechanics and Acoustics Laboratory in Marseille, where PRON was Director from 1993 to 1999.
+From 2000 to 2001 PRON was Visiting Professor at the Clarke Millikan of the California Institute of Technology.
+NAME is a specialist in continuous media and the behaviour of solid materials.
+PRON main research interests are elastoplastic structures, homogenization of non-linear composites and numerical simulation in materials mechanics.
+Scientific work    NAME and regularity of elastic-plastic solutions  In 1978, NAME introduced the space of vector fields with bounded deformation and established certain properties (existence of internal and external traces on any surface, compact injection...).
+It shows that the evolution problem for a perfectly plastic elastic body admits a solution in speed (of displacement) in this space under a safe loading condition.
+It shows that there can be an infinite number of solutions, regular or non-regular.
+Homogenization of dissipative media  The framework of generalized standard environments, due to NAME and NAME, allows an easy writing of the laws of macroscopic behaviour.
+In 1982, NAME established homogenization results for environments characterized by 2 potentials (free energy and dissipation potentials) and showed in particular that the generalized standard structure is preserved by changing scales when geometric variations are neglected.
+PRON notes that the homogenization of short-memory viscoelastic composites can lead to the appearance of long memory effects (an effect already noted by J. & E. Sanchez-Palencia in 1978).
+More recently, properties of these long memories have been established in relation to order moments 1 and 2 of the local fields.
+Homogenization and limit loads  In 1983, NAME gave a first upper bound of the resistance domain of a heterogeneous medium by solving a boundary analysis problem on a base cell.
+This result is improved by NAME and NAME who show that the homogenized analysis problem is divided into two sub-problems, one purely volumetric for which the resistance domain is that given by the boundary analysis of a base cell, the second, surface area for which a surface homogenization problem (and not on unit cell) must be solved.
+Terminals for non-linear composites  In 1993, NAME proposed a series of bollards for non-linear phase composites, using a method different from those available at the time (NAME, 1988, NAME, 1991), then showed in 1995 that NAME (1991) variational method is a secant method using the second moment by phase of local fields.
+Digital method for heterogeneous media based on FFT.
+In 1994, NAME and NAME introduced a numerical method using massively the Fast Fourier Transform (FFT) using only a pixelized image of the study microstructure (without mesh size).
+By introducing a homogeneous reference medium, the heterogeneity of the medium is transformed into a polarization constraint.
+The Green operator of the reference medium, known explicitly in NAME space, can be used to iteratively update the polarization field.
+Several improvements and accelerations have been made to this method, which is now used internationally in dedicated codes.
+Homogenization and reduction of models.
+Since 2003, NAME and NAME have been developing a method to reduce the number of internal variables of homogenized behavioural laws.
+This Nonuniform Transformation Field Analysis (NTFA) model uses the structuring of microscopic plastic deformation fields.
+A mode base is first built by the "snapshot POD" method along learning paths.
+Then the reduced kinetic equations for the field components in these modes are constructed by approaching the effective potentials by techniques derived from non-linear homogenization.
+Books    Book publishing       1991 NAME, NAME NAME (eds.) :
+Mechanics, Numerical Modeling and Dynamics of Materials, Proceedings of the scientific meetings of the fiftieth anniversary of the LMA.
+1994 NAME, NAME, NAME (eds.) :
+Calculus of Variations, Homogenization and NAME, Series in Advances in Mathematics for Applied Sciences (vol 18).
+World Scientific, Singapore, ().
+NAME, CISM Lecture Notes N0 377.
+2000 NAME, NAME (eds) : The J.R. Willis 60th Anniversary Volume, NAME.
+Solids 48, 6/7, 200   Participation in synthesis works       1986 NAME : "A few mathematical aspects of incremental Plasticity".
+Course Notes at the International Centre for Pure and Applied Mathematics.
+In Applications of Mathematics to Mechanics.
+1987 Suquet P. : "Elements of Homogenization for Inelastic Solid Mechanics".
+Courses at the International Centre for Mechanical Sciences.
+In NAME, NAME (eds), Homogenization Techniques for Composite Media.
+Lecture Notes in Physics N0272.
+1988 Suquet P. : "Discontinuities and Plasticity".
+Course notes from the International Centre for Mechanical Sciences.
+In Non Smooth Mechanics and Applications.
+1991      1994 Bouchitte G., NAME : "Equi-coercivity of variational problems.
+The role of recession functions".
+NAME at the Collège de France.
+In NAME, NAME (eds.)
+Non-linear partial differential equations and their applications.
+College de France Seminar XII.
+Longman, NAME, 1994, 31–54.
+1997 a. Suquet P. : "Effective properties of nonlinear composites".
+CISM Reading Notes N0 377.
+1997 b. NAME, NAME : "Numerical simulation of the effective properties of a class of cell materials".
+in K.M. Golden, NAME, NAME, NAME, NAME (eds.)
+Mathematics of multiscale materials.
+IMA Reading Notes 99.
+NAME, New York, 1997, 277–287.
+2000 a. Michel J.C., NAME, NAME : "Constitutive relations involving internal variables based on a micromechanical analysis", in R. Drouot, NAME, NAME (eds) NAME : The Art and Science of Modeling Material Behaviour, Klüwer Acad.
+2000 b. NAME P : "Micromechanical models for anisotropic damage in creeping materials.
+NAME, Elsevier, 2000, pp.
+2001 NAME, NAME, NAME : "Composites with periodic microstructure".
+In NAME, T. Bretheau and NAME (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol.
+2001 b. NAME NAME: "Non-linear properties of composites: potential approaches."
+In NAME, T. Bretheau and NAME (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol.
+2001 v. Chaboche J.L., NAME, NAMEDamage and change of scale".
+In NAME, T. Bretheau and NAME (eds) Homogenization in Materials Mechanics, Hermes Science Publications, 2001, vol.
+2001 d. NAME : "Nonlinear composites : Secant methods and variational bounds".
+In J. Lemaître (ed.)
+Handbook of Materials Behavior Models.
+Academic Press, 2001, pp.
+968–98   Dissemination of knowledge       1988 Suquet P. : "Les milieux périodiques".
+in La Mécanique en 1988.
+Mail from the CNRS.
+1989 Sanchez-Palencia E., NAME: "Simpler materials through homogenization".
+NAME, 214, 1989, NAME.
+1990 Suquet P. : "L'homogénéisation et la Mécanique des Matériaux".
+1992 Guillemain P., NAME : "Waves and Structural Dynamics".
+Honours and awards     Henri de Parville Prize from the French Academy of Sciences (1982).
+NAME from the École des mines (1988).
+CNRS Silver medal (1991).
+Ampère Prize of the French Academy of Sciences (2000).
+Midwest Mechanics Distinguished Lecturer (2001).
+French Academy of Sciences: Elected correspondent on 6 June 1994, then member on 30 November 2004 (Section: Mechanical and Computer Sciences).
+Koiter Medals of ASME (2006).
+University of Pennsylvania (2009).
+Chevallier of the Palmes Académiques (2010)   NAME and Caltech Solid Mechanics Symposium (2014).
+National Academy of Engineering Member (2021)     NAME (2024).

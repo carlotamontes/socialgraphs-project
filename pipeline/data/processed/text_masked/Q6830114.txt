@@ -1,0 +1,62 @@
+NAME is a biologist and professor of Biology, Bioengineering, and Applied Physics at the California Institute of Technology, and investigator at the Howard Hughes Medical Institute.
+In 2007 PRON was the recipient of a MacArthur Fellowship for the design of a synthetic gene regulatory network, the Repressilator, which helped initiate the field of synthetic biology.
+PRON was the first to show how inherently random effects, or 'noise', in gene expression could be detected and quantified in living cells, leading to a growing recognition of the many roles that noise plays in living cells.
+PRON work in Synthetic Biology and NAME represent two foundations of the field of Systems Biology.
+Since then, PRON laboratory has contributed to the development of synthetic biological circuits that perform a range of functions inside cells, and revealed biological circuit design principles underlying epigenetic memory, cell fate control, cell-cell communication, and multicellular behaviors.
+Early life and education  Elowitz was born in Los Angeles, California, where PRON attended the Portola Highly Gifted Magnet School and the Hamilton Humanities Magnet High Schools.
+In 1992, PRON received PRON B.A. in physics from the University of California, Berkeley.
+In 1999, PRON completed PRON Ph.D. in physics at Princeton University.
+As a graduate student under the mentorship of NAME, PRON began designing synthetic genetic circuits .
+During PRON graduate studies, PRON spent a year at the European Molecular Biology Laboratory (EMBL) in Heidelberg, where PRON engineered parts of the Repressilator.
+Upon returning to Princeton, Elowitz showed that the circuit could successfully generate dynamic oscillations in gene expression, causing individual cells to "blink" on and off, and demonstrating that new dynamic behaviors could be programmed in living cells.
+Career PRON laboratory studies the dynamics of genetic circuits in individual living cells using synthetic biology, time-lapse microscopy, and mathematical modeling, with a particular focus on the way in which cells make use of noise to implement behaviors that would be difficult or impossible without it.
+Recently, PRON lab has expanded their approaches beyond bacteria to include eukaryotic and mammalian cells.
+Research  Elowitz's research seeks to learn how to program new behaviors in living cells through a "build to understand" approach.
+PRON laboratory integrates synthetic biology, quantitative systems biology, and single-cell analysis techniques.
+Lab research has focused on biological circuits that process and store information, allow cell-cell communication, generate differentiation and other dynamic cell behaviors, as well as circuits that can provide therapeutic capabilities.
+The repressilator  As a graduate student, Elowitz designed and constructed the repressilator, a synthetic genetic oscillator composed of three transcriptional repressors arranged in a cyclic inhibitory loop.
+This fully synthetic circuit, rationally designed using mathematical modeling, generated periodic fluorescence oscillations in individual cells, demonstrating that engineered gene networks can produce predictable dynamic behaviors.
+Together with a simultaneous demonstration of synthetic toggle switches, this work sparked the development of synthetic biology.
+Stochastic gene expression and its functional roles  A major theme of Elowitz's work has been quantifying how stochastic biochemical events lead to both useful and deleterious biological variation.
+In 2002, PRON group introduced two fluorescent reporters into the same cells, enabling them to quantify intrinsic stochastic noise in gene expression from other, extrinsic, sources of variation, such as fluctuations in upstream components.
+Subsequent time-lapse studies showed that intrinsic and extrinsic noise operate on distinct timescales, and showed that correlations in stochastic fluctuations can be used to infer molecular interactions in synthetic and natural circuits.
+Elowitz's lab also revealed functional roles for noise.
+For example, they showed how excitable gene-circuit architectures generate probabilistic, rather than deterministic, differentiation behaviors to enable bet-hedging in prokaryotes.
+In a different study, Elowitz and PRON team showed how noise in bacterial sporulation could facilitate developmental evolution by enabling partially penetrant mutant phenotypes.
+Extending this approach to mammalian cells, PRON worked with NAME to show that stochastic epigenetic events at a single gene could control T cell lineage commitment.
+Collectively, this and other work established that stochastic interactions can control cellular decision-making.
+Pulsing, dynamics, and time-based regulation  Building on these discoveries, Elowitz's group went on to discover an inherently dynamic mode of gene regulation, in which transcription factors regulate genes through dynamic pulsing rather than through steady activation levels.
+In these systems, cells control the frequency and relative timing of activity pulses rather than tune steady-state factor activities.
+In yeast, they showed that the Crz1 transcription factor undergoes frequency-modulated nuclear localization bursts whose rate encodes upstream input signals, enabling cells to coordinate the responses of many genes.
+They then demonstrated that cells use the relative timing of pulses to integrate information from multiple signaling pathways.
+Interestingly, pulsatile regulation was not limited to eukaryotes.
+Elowitz's team showed that bacteria generate dynamic pulses of the sigma factors regulating the general stress response.
+Collectively, this work revealed a pervasive, inherently dynamic mode of gene regulation, its mechanistic basis, and its functional roles.
+Discovery of eukaryotic circuit design principles  Moving from gene regulation to cell-cell communication, Elowitz's laboratory uncovered principles of important signaling pathways.
+PRON group discovered that interactions between Notch receptors and ligands in the same cell (cis interactions) can generate mutually exclusive "sender" and "receiver" states or allow autocrine signaling.
+They further discovered that different Notch ligands can activate distinct transcriptional programs through a single receptor by activating it with different dynamics, showing how signaling pathways use dynamics to encode and decode information.
+Extending this work to spatial patterning, Elowitz's team reconstituted and re-wired morphogen signaling pathways in spatial systems to understand what features of signaling pathways enable precise spatial patterning.
+This work revealed specific circuit design principles underlying patterning in the Sonic Hedgehog and Bone Morphogenetic Protein (BMP) pathways.
+Elowitz's laboratory also uncovered principles of combinatorial encoding.
+A ubiquitous feature of cell signaling systems is their use of many-to-many interactions among sets of ligand and receptor variants.
+The Elowitz team showed this feature allows information to be encoded in ligand combinations and contextually decoded in different ways by different cell types.
+They also worked out functional implications of this scheme in subsequent papers.
+The laboratory has extended this principle to systems of interacting transcription factors, showing that they could similarly provide contextual responses to combinatorial inputs.
+Elowitz and PRON team also applied synthetic biology and rewiring approaches to understand and engineer epigenetic memory, showing how cells write and maintain stable memory states at individual loci through a dynamic, stochastic system.
+Synthetic recording systems and differentiation dynamics  A major challenge in biology is to recover the dynamic histories of individual cells.
+With NAME and others, the Elowitz lab developed MEMOIR, a system for recording lineage and cellular event histories within cellular genomes.
+A distinguishing feature of these systems is their ability to recover lineage information from images, preserving spatial organization.
+Together with NAME and NAME, Elowitz co-directed the Allen Discovery Center for Cell Lineage Tracing to enable the engineering of synthetic recording systems.
+Alongside this work, they also created and demonstrated methods for inferring cell fate programs from lineage histories.
+Synthetic protein circuits and multicellular synthetic biology  The Elowitz laboratory focuses on extending synthetic biology approaches to the protein level and providing foundations for synthetic multicellular systems.
+For example, Elowitz and PRON group developed programmable protein circuits based on engineered proteases that can sense, process, and respond to signals in mammalian cells, or function as intracellular biochemical neural networks.
+The lab engineered other protein systems to function as RNA export systems, enabling non-destructive cell tracking, and allowing cell-to-cell transfer or delivery of mRNA.
+The Elowitz lab introduced "MultiFate", a synthetic circuit of engineered transcription factors that allows cells to exist in multiple stable states, and provides a foundation for engineering synthetic cell fate control.
+In related work, the lab engineered cells that could control their own population size in a mutationally robust fashion, a necessary step for synthetic multicellularity.
+Foundations for therapeutic circuits  A key promise of synthetic biology is the ability to rationally engineer new types of therapeutics with greater precision and specificity.
+To increase precision in gene therapy, the Elowitz lab developed synthetic miRNA circuits that make protein expression independent of uncontrollable variation in gene dosage.
+The Elowitz lab has introduced therapeutic circuits — sets of engineered proteins that can be delivered as mRNA in lipid nanoparticles to selectively kill cancer cells.
+By linking recognition of cancer cell state to cell killing, these circuits could help to overcome limitations with targeted therapies, such as resistance.
+Awards   Elected, Fellow of the Royal Society (2026)  IUBMB NAME (2025)  Clarivate Citation Laureate (2023)  Elected, United States National Academy of Sciences (2022)  NAME and Beverly Sackler International Prize in Biophysics (2019)  Elected, European Molecular Biology Organization (EMBO) associate member (2018)  Fellow, American Association for the Advancement of Science (AAAS) (2016)  Sackler Scholar, Tel Aviv University (2015–2016)  Elected, American Academy of Arts and Sciences (2015)  Allen Distinguished Investigator (2014)  Israel Pollak Distinguished Lecturer, Technion–Israel Institute of Technology (2014)  HFSP Nakasone Award (2011)  Presidential Early Career Award for Scientists and Engineers (PECASE) (2008)  Discover magazine "Top 20 under 40" (2008)  Investigator, Howard Hughes Medical Institute (HHMI) (2008–present)  NAME (2007)  Packard Fellow for Science and Engineering (2006)  Searle NAME (2004)  Technology Review magazine TR100 list of top innovators (2004)  Burroughs Wellcome Fund Career Award at the Scientific Interface (2002–2007)  Peer-reviewed publications Li P, NAME, NAME, NAME, Vachharajan V, Elowitz MB, "Morphogen gradient reconstitution reveals Hedgehog pathway design principles," Science (2018).
+NAME, Yong J, Antebi YE, NAME, NAME, Uno N, NAME, Elowitz MB, "Dynamics of epigenetic regulation at the single-cell level," Science (2016).
+NAME, NAME, Dalal CK, Cai L, NAME, Combinatorial gene regulation by modulation of relative pulse timing, Nature, 2015

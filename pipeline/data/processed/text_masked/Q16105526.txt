@@ -1,0 +1,78 @@
+NAME (or NAME) () is a Russian expert in the area of chemical kinetics and chemical engineering, particularly in catalytic technology of complete and selective oxidation, which is one of the main driving forces of sustainable development.
+PRON theory of complex steady-state and non-steady-state catalytic reactions is widely used by research teams in many countries of the world (the USA, UK, Belgium, Germany, France, Norway, and Thailand).
+NAME previously served as an associate research professor of chemistry at Saint Louis University's Parks College of Engineering, Aviation and Technology and college of arts and sciences.
+Since 2017, PRON has served as a Senior Researcher and NAME at the McKelvey School of Engineering at Washington University in St. Louis, as part of the Department of Energy, Environmental and Chemical Engineering.
+Since 2006, NAME has also been an editor of the Russian-American Middle West.
+Scientific contributions   Yablonsky, together with NAME, developed the general form of steady-state kinetic description (the kinetic polynomial'), which is a non-linear generalization of many theoretical expressions proposed previously (the Langmuir –Hinshelwood and Hougen–Watson equations).
+NAME also created a theory of precise catalyst characterization for the advanced worldwide experimental technique (temporal analysis of products) developed by NAME at Washington University in St. Louis.
+In 2008–2011, NAME, together with Constales and Marin (Ghent University, Belgium), and NAME (University of Leicester, UK), obtained new results on coincidences and intersections in kinetic dependences and found a new type of symmetry relation between the observable and initial kinetic data.
+Together with NAME, NAME developed the theory of chemical thermodynamics and detailed balance in the limit of irreversible reactions.
+NAME is a world recognized expert in chemical kinetics and chemical engineering, in particular Temporal analysis of products (TAP) studies.
+PRON has authored six monographs and more than 300 peer-reviewed papers on these topics.
+PRON research spans heterogeneous catalysis, kinetics of complex chemical reactions (see chemical kinetics), mathematical modeling of chemical reactors and technological processes (see chemical reactor), and the history and methodology of science.
+Catalytic trigger and catalytic oscillator   A simple scheme for the nonlinear kinetic oscillations in heterogeneous catalytic reactions has been proposed by NAME, NAME, and NAME in 1978.
+The authors have started with the catalytic trigger (1976), the simplest catalytic reaction without autocatalysis that allows multiplicity of steady states.
+Then they have supplemented this classical adsorption mechanism of catalytic oxidation by a "buffer" step  Here, A2, B, and AB  are gases (for example, O2, CO, and CO2), Z is the "adsorption place" on the surface of the solid catalyst (for example, Pt), AZ and BZ are the intermediates on the surface (adatoms, adsorbed molecules, or radicals), and (BZ) is an intermediate that does not participate in the main reaction.
+Let the concentration of the gaseous components be constant.
+Then the law of mass action gives for this reaction mechanism a system of three ordinary differential equations that describe kinetics on the surface.
+where  is the concentration of the free places of adsorption on the surface ("per one adsorption center"), x and y are the concentrations of AZ and BZ, correspondingly (also normalized "per one adsorption center").
+and s is the concentration of the buffer component (BZ).
+This three-dimensional system includes seven parameters.
+The detailed analysis shows that there are 23 different phase portraits for this system, including oscillations, multiplicity of steady states, and various types of bifurcations.
+Reactions without the interaction of different components   Let the reaction mechanism consist of reactions.
+where  are symbols of components, r is the number of the elementary reaction and  are the stoichiometric coefficients (usually they are integer numbers).
+(The components that are present in excess and the components with almost constant concentrations are not included.)
+The Eley–Rideal mechanism of CO oxidation on PT provides a simple example of such a reaction mechanism without interaction of different components on the surface: 2Pt(+O2) <=> 2Pt; \;\; {PtO} + CO <=> {Pt} + CO2\!\uparrow.
+Let the reaction mechanism have the conservation law  and let the reaction rate satisfy the mass action law:   where  is the concentration of .
+Then the dynamic of the kinetic system is very simple: the steady states are stable and all solutions  with the same value of the conservation law  monotonically converge in the weighted  norm: the distance between such solutions ,  monotonically decreases in time.
+This quasithermodynamic property of the systems without interaction of different components is important for the analysis of the dynamics of catalytic reactions: nonlinear steps with two (or more) different intermediate reagents are responsible for nontrivial dynamical effects like multiplicity of steady states, oscillations, or bifurcations.
+Without interaction between different components, the kinetic curves converge into a simple norm, even for open systems.
+The extended principle of detailed balance   The detailed mechanism of many real physico-chemical complex systems includes both reversible and irreversible reactions.
+Such mechanisms are typical in homogeneous combustion, heterogeneous catalytic oxidation, and complex enzyme reactions.
+The classical thermodynamics of perfect systems is defined for reversible kinetics and has no limit for irreversible reactions.
+On the contrary, the mass action law gives the possibility to write the chemical kinetic equations for any combination of reversible and irreversible reactions.
+Without additional restrictions, this class of equations is extremely wide and can approximate any dynamical system with preservation of positivity of concentrations and the linear conservation laws. (
+This general approximation theorem was proved in 1986.)
+The model of real systems should satisfy some restrictions.
+Under the standard microscopic reversibility requirement, these restrictions should be formulated as follows: A system with some irreversible reactions should be at the limit of the systems with all reversible reactions and the detailed balance conditions.
+Such systems have been completely described in 2011.
+The extended principle of detailed balance is the characteristic property of all systems that obey the generalized mass action law and is the limit of systems with detailed balance when some of the reaction rate constants tend to zero (the Gorban-Yablonsky theorem).
+The extended principle of detailed balance consists of two parts:   The algebraic condition: The principle of detailed balance is valid for the reversible part.
+This means that for the set of all reversible reactions, there exists a positive equilibrium where all the elementary reactions are equilibrated by their reverse reactions.
+The structural condition is that the convex hull of the stoichiometric vectors of the irreversible reactions has an empty intersection with the linear span of the stoichiometric vectors of the reversible reactions. (
+Physically, this means that the irreversible reactions cannot be included in oriented cyclic pathways.)
+The stoichiometric vector of the reaction  is the gain minus loss vector with coordinates .
+(It may be useful to recall the formal convention: the linear span of an empty set is 0; the convex hull of an empty set is empty.)
+The extended principle of detailed balance gives an ultimate and complete answer to the following problem: how to throw away some reverse reactions without violating thermodynamics and microscopic reversibility?
+The answer is that the convex hull of the stoichiometric vectors of the irreversible reactions should not intersect with the linear span of the stoichiometric vectors of the reversible reactions, and the reaction rate constants of the remaining reversible reactions should satisfy the NAME identities.
+Career Yablonsky started PRON career in the Siberian Branch of the Russian Academy of Sciences.
+In 1962, NAME began work as a Chemical Engineer at the Kyiv Chemical Plant in Kyiv.
+In 1964 until 1986, PRON worked at the Boreskov Institute of Catalysis, where PRON first served as a Junior and then Senior Research Associate.
+From 1986 to 1991, NAME worked as the Chief of Lab and Deputy Director of the Tuvinian Technological Institute, now Tuvan State University.
+PRON then began work as a Professor of Chemical engineering at the Kyiv Polytechnic Institute, where PRON resided until 1997.
+In 1995, NAME visited St. Louis to serve as a visiting professor at Washington University in St. Louis in the department of Chemical engineering.
+In 1997, the moved to the U.S. full time and began working as a research associate professor in the department of energy, environmental, and chemical engineering at the McKelvey School of Engineering at Washington University in St. Louis.
+In 2007, NAME became an associate professor at Saint Louis University's Parks College of Engineering, Aviation, and Technology as well as in the department of chemistry.
+In 2017, PRON moved back to Washington University in St. Louis, where PRON has since served as a Senior Researcher and NAME as part of the McKelvey School of Engineering  During PRON career, NAME has organized many conferences and workshops at national and international levels.
+Yablonsky frequently participates in interdisciplinary dialogues involving mathematicians, chemists, physicists, and chemical engineers.
+PRON also focuses on the ethics of science and technology as part of PRON studies.
+PRON has served as a visiting/honorary professor at many global institutions, including Kasetsart University (1999), National University of Singapore (2000-2001), Ghent University (2002-2019), Queen's University Belfast (2005), University of Oslo (2013, 2018), NAME of the Max Planck Society (2014-2015), and IIT Bombay (2017).
+Honors and awards  Distinguished Visiting Professor of IIT Bombay (2019/2020)  Sarton's NAME on history of chemical kinetics (Ghent University) (2014)  STAR's Award "10 years of service NSF research mentor program" (2013)  Lifetime Achievement Award, in recognition of outstanding contributions to the research field of chemical kinetics, Mathematics in Chemical Kinetics and Engineering, MaCKiE (2013)  Fellow of Academy of Sciences- St. Louis (2013)  NAME, Academy of Science of St. Louis Outstanding Scientist Award (2013).
+Member of the Scientific Council on Catalysis at the Russian Academy of Sciences (2011)  Chevron Chair Professorship at the Indian Institute of Technology (IIT), NAME (2011)  NAME of the Australian Institute of High Energetic Materials, Gladstone, Australia (2011)  Honorary Professor and Doctorate for Ghent University in Belgium (2010)  Honorary Professor of the Wuhan University of Technology in Chemical Technology, People's Republic of China (2001)  Two Silver Medals of the Exhibition of Nat.
+of the U.S.S.R. (1971-1973)  Professional memberships and associations NAME has numerous international designations as an honorary professor, fellow, doctor, and member of prestigious science academies and universities in Belgium, India, China, Russia, and Ukraine.
+1996–present: American Institute of Chemical Engineers  2011–present: American Chemical Society  2011–present: Member of the Scientific Council on Catalysis at the Russian Academy of Sciences  2013–present: Fellow, Academy of Science of St. Louis  Notable publications NAME is the author of seven books as of 2026, and more than 200 papers.
+PRON books include   Marin, G.B, NAME, and NAME, (2019) Kinetics of Chemical Reactions: Decoding Complexity, Wiley-VCH, 2019, 2nd ed, 442 pp G. Yablonsky, "Chemistry for Engineers", Kendall Hunt Publishing Company, p.115. (
+NAME, NAME, D.R. D'hooge and NAME "Advanced Data Analysis and Modeling in Chemical Engineering", Elsevier, p. 399 (2017) NAME, S.B. Tsybenova, NAME, "Chemical Complexity via Simple Models: MODELICS", NAME, Berlin (2018) 374 pp NAME, NAME, NAME (2021). "
+Kinetic Measurements in Heterogeneous Catalysis", in: Kirk‐Othmer Encyclopedia of Chemical Technology Notable publications by NAME include  NAME, NAME, and NAME (2013). "
+Numerical study of flame structure and soot inception interpreted in carbon-to-oxygen atom ratio space", Proceedings of the Combustion Institute, 34, 1 NAME, E. Mirkes, and NAME (2013). "
+Thermodynamics in the Limit of Irreversible Reactions", NAME A 392 1318–1335 K. Morgan, NAME, NAME, NAME, NAME, NAME, P.A. Ramachandran, NAME, and NAME (2014). "
+Elucidating complex catalytic mechanisms based on transient pulse-response kinetic data", Chemical Engineering Science 110 20-31 NAME, NAME, NAME, NAME, U. Menon, NAME, and NAME (2017). "
+Forty Years of Temporary Analysis of Products", Catalysis Science & Technology, 7, 2416-2439 NAME, NAME and NAME (2020). "
+NAME: a New Paradigm for Chemical Kinetics and Chemical Engineering", Current Opinion in Chemical Engineering, 29 (2020) 83–88 A. Fеdorоw, NAME (2024). "
+Critical Situations and Prevention of Accidents in Chemico-Technological Systems (Methodological Aspects)", 12(1), Processes 161 J Sachs, M Bui, J NAME, G Yablonsky (2025). "
+Conservatively Perturbed Equilibrium and Perturbation: Linear Case", Chem.
+NAME, 510 161284 NAME, NAME and NAME (2025).;Fermi based kinetic model for theSabatier reaction: NAME and beyond it", NAME.
+129 (16) (2025) 7730-7739 M.R. Kunz, NAME, NAME (2025). "
+Statistical distributions for transient transport", Chem.
+J, 519   Courses Taught Over PRON long teaching career NAME has taught many courses across the fields of Chemical engineering and Philosophy of science.
+Some notable ones include   Chemical Kinetics in Heterogeneous Catalysis, 1994 Ecole Polytechnique, 1997 Ecole Polytechnique Federale de Lausanne  Modeling in Chemical Technology, 1998 Kasetsart University  Chemical Sciences and Mathematics, 2002 National University of Singapore  Science as Adventure and Challenge, 2002-2003 Washington University in St. Louis  Chemical Technology in Everyday Life, 2003 National University of Singapore  Transport in the Environment, 2003 -2005 Washington University in St. Louis  Chemical Kinetics in Heterogeneous Catalysis, 2005 Queen's University Belfast  Chemistry I, 2006-2013 Saint Louis University  Engineering Chemistry, 2007-2014 Saint Louis University  Chemistry II, 2009-2015 Saint Louis University  Mathematic Models of Complex Catalytic Reactions, 2009 Åbo Akademi University  Kinetics of Complex Reactions, 2010-2026 Washington University in St. Louis  Sustainable Engineering, 2011 Saint Louis University  Chemical Kinetics of Complex Catalytic Reactions, 2012 University of Oslo  Kinetics of Chemical Reactions: Decoding Complexity (based on the book), 2012 Ghent University  Kinetics of Chemical Reactions, 2014 Fritz Haber Institute of the Max Planck Society  Kinetics of Complex Reactions: Decoding Complexity, 2015 Fritz Haber Institute of the Max Planck Society  Energy and Technology: From Industry to Daily Life, 2016 Saint Louis University  Kinetics of Chemical Reactions, 2019-2020 IIT Bombay  Historical and Philosophical Aspects of Science, Engineering and Technology, 2021-2026 Washington University in St. Louis

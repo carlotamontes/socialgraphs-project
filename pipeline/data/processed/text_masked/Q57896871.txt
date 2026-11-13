@@ -1,0 +1,29 @@
+NAME (; born 12 March 1962 in Innsbruck) is an Austrian quantum physicist and a professor of theoretical physics at the University of Innsbruck.
+NAME research concerns the fundamental aspects and applications of quantum optics and cavity quantum electrodynamics.
+Together with PRON theory group, PRON focuses on cavity cooling, self-organization, quantum thermodynamics, light forces, superradiant lasing and quantum metrology.
+PRON significant contributions in those fields have been honoured with prestigious awards and prizes, as the Ludwig Boltzmann Prize (1993) of the Austrian Physical Society and the Erwin Schrödinger Prize (2019) of the Austrian Academy of Sciences.
+Life and career  NAME grew up in Stubaital in the neighbourhood of Innsbruck.
+PRON graduated in 1980 from Akademischen Gymnasium in Innsbruck and studied physics at the University of Innsbruck, where PRON finished PRON diploma study in 1985 with a thesis about synchrotron radiation.
+PRON began PRON doctoral studies under NAME, which PRON finished in 1989 with the dissertation "Atomic Dynamics in Classical Stochastic and Quantum Light Fields".
+Afterwards PRON worked as a postdoc in Innsbruck, Konstanz, Milan, Boulder and Munich.
+In 1993 PRON was habilitated at the University of Innsbruck (venia docendi in theoretical physics).
+In 1996/97 Ritsch did research at the University of Milan as part of a NAME project.
+Beginning in 1998, PRON was associate professor, and since 2011 NAME is professor at the Institute for Theoretical Physics at the University of Innsbruck.
+PRON was the head of the institute from 2009 until 2013 and from 2017 until 2021.
+NAME is married to the physicist NAME, they have two children.
+Research    Cavity QED   NAME has made significant contributions to the field of cavity quantum electrodynamics (QED), in particular to many-body cavity QED.
+Along PRON colleagues, PRON has developed the notion of self-organization of atoms interacting strongly with quantized radiation fields of high-Q cavities, as a manifestation of the Dicke superradiant phase transition.
+This phenomenon has been observed in many experiments, ranging from NAME condensates to non-interacting and strongly interacting Fermi gases.
+The atomic self-organization in cavities is currently an active field of research, with the prospect to address some of the most challenging, open questions in nonequilibrium many-body physics in a controlled way.
+NAME wave function (MCWF) method   NAME wave function method, also known as quantum jump method, is a computational tool used in dissipative systems to approximate the density matrix of a quantum system.
+The method was developed in 1992 independently by NAME, NAME and NAME and Dalibard, NAME and NAME.
+QuantumOptics.jl  QuantumOptics.jl is a numerical framework written in the Julia that facilitates simulations of various kinds of open quantum systems.
+It is inspired by the Quantum Optics Toolbox for MATLAB and the NAME framework QuTiP. QuantumOptics.jl is being developed in Helmut Ritsch's CQED group at the Institute for Theoretical Physics of the University of Innsbruck since 2017, with the 1.0 version being released in July 2021.
+QuantumOptics.jl remains open-source and is hosted on GitHub.
+There are several Add-Ons related to and/or dependent on QuantumOptics.jl.
+For example, QuantumCumulants.jl is a package for the symbolic derivation of mean-field equations for quantum mechanical operators in Julia.
+NAME interactions  A significant part of PRON research also involves the investigation of collective effects of atoms with light-induced interactions, including the emergence of superadiance and subradiance in long-range interacting quantum emitters with dipole-dipole interactions.
+Honours and awards    2019 Erwin Schrödinger Prize of the Austrian Academy of Sciences for PRON outstanding research achievements in the field of quantum optics, in particular for PRON fundamental contributions to the theoretical understanding of light–matter interaction and cavity quantum electrodynamics (CQED).
+2019 JILA visiting fellow award  2008 Scottish Universities Physics Alliance (SUPA) Distinguished Visitor NAME, NAME.
+1993 Ludwig Boltzmann Prize of the Austrian Physical Society (jointly with M. Ritsch-Marte).
+1992 Research award of the city of Innsbruck.

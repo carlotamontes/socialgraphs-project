@@ -1,0 +1,142 @@
+NAME (, ; born 1 December 1941) is an Italian-American physicist, engineer, inventor and entrepreneur.
+PRON is best known for designing the first commercial microprocessor, the Intel 4004.
+PRON led the 4004 (NAME) project and the design group during the first five years of Intel's microprocessor effort.
+Faggin also created, while working at Fairchild Semiconductor in 1968, the self-aligned MOS (metal–oxide–semiconductor) silicon-gate technology (SGT), which made possible MOS semiconductor memory chips, CCD image sensors, and the microprocessor.
+After the 4004, PRON led development of the Intel 8008 and 8080, using PRON SGT methodology for random logic chip design, which was essential to the creation of early Intel microprocessors.
+PRON was co-founder (with NAME) and CEO of Zilog, the first company solely dedicated to microprocessors, and led the development of the Zilog Z80 and Z8 processors.
+PRON was later the co-founder and CEO of Cygnet Technologies, and then Synaptics.
+In 2010, PRON received the 2009 National Medal of Technology and Innovation, the highest honor the United States confers for achievements related to technological progress.
+In 2011, Faggin founded the Federico and Elvia Faggin Foundation to support the scientific study of consciousness at US universities and research institutes.
+In 2015, the Faggin Foundation helped to establish a $1 million endowment for the Faggin Family Presidential Chair in the Physics of Information at UC Santa Cruz to promote the study of "fundamental questions at the interface of physics and related fields including mathematics, complex systems, biophysics, and cognitive science, with the unifying theme of information in physics."
+Early life and education NAME was born on 1 December 1941 in Vicenza, Italy, and grew up in an intellectual environment.
+PRON parent, NAME, was a scholar who wrote many academic books and translated, with commentaries, the Enneads of Plotinus from the original Greek into modern Italian.
+NAME had a strong interest in technology from an early age.
+PRON attended a technical high school in Vicenza, I.T.I.S. Alessandro Rossi, and later earned a laurea degree in physics, NAME, from the University of Padua.
+Career Olivetti R&D Labs Faggin joined Olivetti at the age of 19.
+There PRON co-designed and led the implementation of a small digital transistor computer with 4 K × 12 bit of magnetic memory (1960).
+The Olivetti R&D department subsequently developed one of the world's first programmable desktop electronic calculators, the Olivetti Programma 101 (1964).
+After this first work experience, Faggin studied physics at the University of Padua and taught the electronics laboratory course for 3rd year physics students in the academic year 1965–1966.
+SGS-Fairchild In 1967, Faggin joined SGS-Fairchild, an Italy-based joint venture between the Italian company Società Generale Semiconduttori and the American firm NAME.
+There, PRON pioneered the MOS metal-gate process technology and designed the first two commercial MOS integrated circuits.
+Impressed by PRON achievements, the company transferred Faggin to NAME's Palo Alto, California offices in February 1968.
+When NAME exited the joint venture, PRON accepted a job offer to stay on with NAME.
+NAME In Palo Alto, Faggin led the development of silicon-gate technology (SGT), designing its unique process architecture.
+SGT, a MOSFET with a silicon self-aligned gate, became one of the most transformative advancements in microelectronics.
+SGT laid the foundation for all modern NMOS and CMOS integrated circuits.
+It enabled key innovations, including MOS semiconductor memory chips, the first microprocessor, and the first CCD and EPROM with floating silicon gates.
+Replacing the earlier metal-gate MOS technology, SGT was rapidly adopted worldwide, and within a decade, it rendered bipolar transistors-based integrated circuits obsolete.
+NAME 3708 At NAME, Faggin designed the first commercial integrated circuit using silicon-gate technology with self-aligned MOSFET transistors: the NAME 3708.
+The 3708 was an 8-bit analog multiplexer with decoding logic, replacing the equivalent NAME 3705 that used metal-gate technology.
+The 3708 was 5 times faster, had 100 times less junction leakage and was much more reliable than the 3705, demonstrating the superiority of SGT over metal-gate MOS.
+See also: Faggin, NAME, NAME (1969). "
+A Faster Generation of MOS Devices With Low Threshold Is Riding The Crest of the New Wave, Silicon-Gate IC's".
+Electronics, 29 Sep. 1969.
+Intel  NAME joined Intel from NAME in 1970 as the project leader and designer of the NAME family of microprocessors, which included the 4004, the world's first single-chip microprocessor.
+NAME was not taking advantage of the SGT and Faggin wanted to use PRON new technology to design advanced chips.
+The 4004 (1971) was made possible by the advanced capabilities of the silicon gate technology (SGT) being enhanced through the novel random logic chip design methodology that Faggin created at Intel.
+It was this new methodology, together with PRON several design innovations, that allowed PRON to fit the microprocessor in one small chip.
+A single-chip microprocessor – an idea that was expected to occur many years in the future – became possible in 1971 by using SGT with two additional innovations: (1) "buried contacts" that doubled the circuit density, and (2) the use of bootstrap loads with 2-phase clocks—previously considered impossible with SGT— that improved the speed 5 times, while reducing the chip area by half compared with metal-gate MOS.
+The design methodology created by Faggin was utilized for the implementation of all Intel's early microprocessors and later also for Zilog's Z80.
+The Intel 4004 – a 4-bit CPU (central processing unit) on a single chip – was a member of a family of 4 custom chips designed for NAME, a Japanese calculator manufacturer.
+The other members of the family (constituting the NAME family) were: the 4001, a 2k-bit metal-mask programmable ROM with programmable input-output lines; the 4002, a 320-bit dynamic RAM with a 4-bit output port; and the 4003, a 10-bit serial input and serial/parallel output, static shift register to use as an I/O expander.
+Faggin promoted the idea of broadly marketing the NAME to customers other than NAME by showing Intel management how customers could design a control system using the 4004.
+PRON designed and built a 4004 tester using the 4004 as the controller of the tester, thus convincing NAME to renegotiate the exclusivity clause with NAME that didn't allow Intel to sell the NAME line to other customers.
+In 2009, the four contributors to the 4004 were inducted as Fellows of the Computer History Museum.
+NAME, head of Application Research Department, formulated the architectural proposal and the instruction set with assistance from NAME and working in conjunction with NAME's NAME.
+However, none of them was a chip designer and none was familiar with the new Silicon Gate Technology (SGT).
+The silicon design was the essential missing ingredient to making a microprocessor since everything else was already known.
+NAME led the project in a different department without NAME's and NAME's involvement.
+Faggin had invented the original SGT at Fairchild Semiconductor in 1968 and provided additional refinements and inventions to make possible the implementation of the 4004 in a single chip.
+With routine help from Shima, Faggin completed the chip design in January 1971.
+The Intel 2102A is a redesign of the Intel 2102 static RAM, where Federico Faggin introduced to Intel, for the first time, the depletion load, combining the silicon gate technology with ionic implantation.
+The design was done toward the end of 1973 by NAME and NAME.
+The 2102A was 5 times faster than the 2102, opening a new direction for Intel.
+Early Intel microprocessors Faggin's silicon design methodology was used for implementing all Intel's early microprocessors.
+The Intel 8008 was the world's first single-chip 8-bit CPU and, like the 4004, was built with p-channel SGT.
+The 8008 development was originally assigned to NAME in March 1970 but was suspended until the 4004 was completed.
+It was resumed in January 1971 under Faggin's direction utilizing the basic circuits and methodology PRON had developed for the 4004, with NAME doing the chip design.
+The CPU architecture of the 8008 was originally created by CTC Inc. for the Datapoint 2200 intelligent terminal, in which it was implemented in discrete IC logic.
+The Intel 4040 microprocessor (1974) was a much improved, machine-code-compatible version of the 4004 CPU allowing it to interface directly with standard memories and I/O devices.
+NAME created the architecture of the 4040 and supervised NAME who did the design work.
+The 8080 microprocessor (1974) was the first high-performance 8-bit microprocessor in the market, using the faster n-channel SGT.
+The 8080 was conceived and architected by Faggin, and designed by NAME under NAME's supervision.
+The 8080 was a major improvement over the 8008 architecture, yet it retained software compatibility with it.
+It was much faster and easier to interface to external memory and I/O devices than the 8008.
+The high performance and low cost of the 8080 let developers use microprocessors for many new applications, including the forerunners of the personal computer.
+When Faggin left Intel at the end of 1974 to found NAME with NAME, PRON was R&D department manager responsible for all MOS products, except for dynamic memories.
+NAME The Zilog Z80 was the first microprocessor created by Zilog, the first company entirely dedicated to microprocessors.
+It was started by NAME and NAME in November 1974.
+Faggin was NAME's president and CEO until the end of 1980 and PRON conceived and designed the Z80 CPU and its family of programmable peripheral components.
+PRON also co-designed the CPU whose project leader was NAME.
+The Z80-CPU was a major improvement over the 8080, yet it retained software compatibility with it.
+Much faster and with more than twice as many registers and instructions of the 8080, it was part of a family of components that included several intelligent peripherals (the Z80-PIO, a programmable parallel input-output controller; the Z80-CTC, a programmable counter-timer; the Z80-SIO, programmable serial communications interface controller, and the Z80-DMA, programmable direct memory access controller).
+This chip family allowed the design of powerful and low-cost microcomputers with performance comparable to minicomputers.
+The Z80-CPU had a substantially better bus structure and interrupt structure than the 8080 and could interface directly with dynamic RAM, since it included an internal memory-refresh controller.
+The Z80 was used in many of early personal computers, as well as in video game systems such as the MSX, ColecoVision, Master System.
+The Z80 ceased production in 2024.
+The Zilog Z8 micro controller (1978) was one of the first single-chip microcontrollers in the market.
+It integrated an 8-bit CPU, RAM, ROM and I/O facilities, sufficient for many control applications.
+Faggin conceived the Z8 in 1974, soon after PRON founded Zilog, but then decided to give priority to the Z80.
+The Z8 was designed in 1976–78 and ended production in 2024.
+The Communication CoSystem The Communication CoSystem (1984).
+The Cosystem was conceived by Faggin and designed and produced by Cygnet Technologies, Inc., the second startup company of Faggin.
+Attached to a personal computer and to a standard phone line, the CoSystem could automatically handle all the personal voice and data communications of the user, including electronic mail, database access, computer screen transfers during a voice communication, call record keeping, etc.
+The patent covering the CoSystem is highly cited in the personal communication field.
+Synaptics In 1986 Faggin co-founded and was CEO of Synaptics until 1999, becoming GENDERWORD from 1999 to 2009.
+Synaptics was initially dedicated to R&D in artificial neural networks for pattern-recognition applications using analog VLSI.
+Synaptics introduced the I1000, the world's first single-chip optical character recognizer in 1991.
+In 1994, Synaptics introduced the touchpad to replace the cumbersome trackball then in use in laptop computers.
+The touchpad was broadly adopted by the industry.
+Synaptics also introduced the early touchscreens that were eventually adopted for intelligent phones and tablets; applications that now dominate the market.
+Faggin came up with the general product idea and led a group of engineers who further refined the idea through many brainstorming sessions.
+Faggin is a co-inventor of ten patents assigned to Synaptics.
+PRON is GENDERWORD emeritus of Synaptics.
+Foveon During PRON tenure as president and CEO of Foveon, from 2003 to 2008, Faggin revitalized the company and provided a new technological and business direction resulting in image sensors superior in all critical parameters to the best sensors of the competition, while using approximately half the chip size of competing devices.
+Faggin also oversaw the successful acquisition of Foveon by the Japanese Sigma Corporation in November 2008.
+NAME and Elvia Faggin Foundation Founded in 2011 the "Federico and Elvia Faggin Foundation" supports the scientific study of consciousness at US universities and research institutes.
+The purpose of the Foundation is to advance the understanding of consciousness through theoretical and experimental research.
+Faggin's interest in consciousness has PRON roots in the study of artificial neural networks at Synaptics, a company PRON started in 1986, that prompted PRON inquiry into whether or not it is possible to build a conscious computer.
+The theory of consciousness In the book Irreducible - Consciousness, life, computers, and human nature (Essentia Books, 2024), NAME proposed a theory of consciousness according to which consciousness is a purely quantum phenomenon, unique to each of us.
+This theory is supported by two quantum physics theorems: the no-cloning theorem and NAME's theorem.
+The first states that a pure quantum state is not reproducible; the second limits the amount of measurable information to one classical bit for each qubit that describes the state.
+Therefore, it is possible to postulate that a quantum system that is in a pure state is aware of its state, since conscious experiences (qualia) have all the essential properties of pure states, i.e., it is private knowledge only minimally knowable from the outside.
+However, the mathematical representation of the experience (the pure state) does not describe the experience, which remains private and knowable only from within by the system that is in that state.
+No classical machine can ever be conscious given that classical information is reproducible (program and data can be copied perfectly), while the quantum state is private.
+Consciousness is therefore not linked to the functioning of the body and can continue to exist even after the death of the body.
+The body behaves like a drone controlled "top down" by consciousness.
+The new D'Ariano-Faggin theory is based on the theoretical studies of Professor NAME, who derived quantum theory from  principles based on information theory, and on the experiential, philosophical and scientific studies of Federico Faggin on the nature of consciousness.
+Personal life NAME has a child, born 1970, and two children, born 1979 and 1980, respectively.
+Original documents On the MOS silicon-gate technology (SGT) for NAME and the NAME 3708 (the first application of SGT)  Faggin, NAME, Klein, NAME, and NAME, L.: Insulated Gate Field Effect Transistor Integrated Circuits with Silicon Gates.
+The Silicon Gate Technology with self-aligned gates was presented by its developer NAME at the IEEE International Electron Device Meeting on 23 October 1968, in Washington D.C. This new technology empowered the design of dynamic RAM memories, non-volatile memories, CCD sensors and the microprocessor.
+NAME and NAME.: "
+A Faster Generation of MOS Devices with Low Thresholds is Riding the Crest of the New Wave, Silicon-Gate IC's".
+The article published in Electronics (29 September 1969) introduces the NAME 3708, the world's first commercial integrated circuit using Silicon Gate Technology, designed by NAME at NAME in 1968.
+F. Faggin, NAME: Silicon-Gate Technology. "
+Solid State Electronics", 1970, NAME.
+1125–1144  On the Intel 4004 microprocessor  F. Faggin and NAME: "Standard Parts and Custom Design Merge in a Four-chip Processor Kit".
+Electronics, 24 April 1972  F. Faggin, et NAME.: "
+The MCS-4 An LSI Microcomputer System".
+IEEE 1972 Region Six Conference.
+Faggin, NAME; NAME, F. "A New Integrated MOS Shift Register", Proceedings XV International Electronics Scientific Congress, Rome, April 1968, pp.
+This paper describes a novel static MOS shift register, developed at SGS-Fairchild (now ST Micro) at the end of 1967, before NAME joined NAME's R&D in Palo Alto (Ca) in February 1968.
+Faggin later used this new shift register in the NAME chips, including the 4004.
+Initials F.F. (NAME) on the 4004 design (1971).
+The 4004 bears the initials F.F. of its designer, NAME, etched on one corner of the chip.
+Signing the chip was a spontaneous gesture of proud authorship and was also an original idea imitated after PRON by many Intel designers.
+Busicom 141-PF Printing Calculator Engineering Prototype (1971). (
+NAME of NAME to the Computer History Museum, Mountain View, CA).
+The CHM collection catalog shows pictures of the engineering prototype of the NAME 141-PF desktop calculator.
+The engineering prototype used the world's first microprocessor to have ever been produced.
+This one-of-a-kind prototype was a personal present by Busicom's president GENDERWORD NAME to NAME for PRON successful leadership of the design and development of the 4004 and three other memory and I/O chips (the NAME chipset).
+After keeping it in PRON home for 25 years, Faggin donated it to the CHM in 1996.
+Awards   1988: Marconi International Fellowship Award "for PRON pioneering contributions to the implementation of the microprocessor, a principal building block of modern telecommunications"  1988: Gold Medal for Science and Technology from the Italian Prime Minister  1988: title of "Grande Ufficiale" from the President of the Italian Republic  1994: NAME "For the development of the Silicon Gate Process, and the first commercial microprocessor."
+1994: NAME honoris causa in Computer Science from the University of Milan (Italy).
+1996: NAME American Innovator NAME, with NAME and NAME: a Lifetime Achievement Award by P.C. Magazine for "technical excellence".
+1996: inducted into National Inventors Hall of Fame, with NAME and NAME: NAME, with NAME, NAME and NAME: NAME Pioneer Award by the American Computer & Robotics Museum, with NAME and NAME.
+1997: NAME Veneta Prize  2001: Dr. NAME Memorial Award by the Semiconductor Industry Association, with NAME and NAME: Laurea honoris causa in Electronic Engineering from the University of Rome Tor Vergata (Italy)  2003: AeA/Stanford Executive Institute Award for Outstanding Achievement in the High Tech Industry by an Alumnus  2006: European Inventor of the Year Lifetime Achievement Award by EPO (European Patent Office)  2007: NAME honoris causa in Electronic Engineering from the University of Pavia (Italy)  2008: NAME honoris causa in Electronic Engineering from the University of Palermo (Italy)  2009: Laurea honoris causa in Computer Sciences from the University of Verona (Italy)  2009: Fellow of the Computer History Museum "for PRON work as part of the team that developed the Intel 4004, the world's first commercial microprocessor."
+2009: National Medal of Technology and Innovation from U.S. President NAME: The 2011 NAME by the American Computer Museum (Bozeman, MT): "For foundational contributions to the development of the modern technological world, including the MOS silicon gate technology that led to the realization of the world's first Microprocessor in 1971."
+2019: Knight Grand Cross of the Order of Merit of the Italian Republic from the President of the Italian Republic Sergio Mattarella  Source for the above-mentioned awards:   2012: Global Information Technology Award from the President of Armenia.
+2012: NAME from the Polytechnic University (Armenia)  2012: Premio NAME, given by Ministro Francesco Profumo and Prof. NAME.
+Patrizia NAME: NAME in science from Chapman University (CA)  2014: Enrico Fermi Award, given by the Italian Society of Physics: "For the invention of the MOS silicon gate technology that led PRON to the realization in 1971 of the first modern microprocessor."
+2018: 2018 IEEE Italy Section Honorary Award to NAME for PRON outstanding contributions to the self aligned MOS silicon gate theory & technology and to the development of the first microprocessor  2018: 2018 AAAS Fellow by the American Association for the Advancement of Science  2019: PhD (Dottorato di ricerca) honoris causa in computer engineering from the University of Pisa (Italy) Università di Pisa.
+2023: Sigillum Magnum from the University of Bologna

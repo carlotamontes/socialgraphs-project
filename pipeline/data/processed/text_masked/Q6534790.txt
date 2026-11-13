@@ -1,0 +1,29 @@
+NAME (; born 4 September 1955) is a Russian-Israeli physicist and professor at Tel Aviv University, Israel.
+PRON is noted for PRON theoretical work in the area of fundamentals of quantum mechanics, which includes quantum teleportation, the Elitzur–Vaidman bomb tester, and the weak values.
+PRON was a member of the Editorial Advisory Board of The American Journal of Physics from 2007 to 2009.
+In 2010, the Elitzur–Vaidman bomb tester was chosen as one of the "Seven Wonders of the Quantum World" by New Scientist Magazine.
+Personal life PRON attended 45th Physics-Mathematics School in Saint Petersburg and was twice among the winners of the All-Soviet high school students Physics Olympiad (first place in 1971 and second place in 1972), and in 1972 scored 26th in the International Physics Olympiad in Bucharest.
+Vaidman emigrated with PRON family to Israel at the age of 18.
+Prior to that, PRON studied for one year at Saint Petersburg University (then Leningrad University).
+The Elitzur–Vaidman bomb tester  This thought experiment, subsequently conducted in the lab, is an example of interaction-free measurement (IFM).
+IFM is the detection of the property of an object or its presence without any physical interaction between the observer and the object.
+Obtaining information from an object in such a manner is paradoxical.
+The bomb tester works by employing an interferometer.
+When a photon is fired into the device, it encounters a half-silvered mirror positioned so as to reflect the photon at a ninety-degree angle.
+There is a 50-50 chance it will be reflected or pass through.
+Due to the quantum properties of the photon, it both passes through the mirror and is reflected off of it.
+Now, the same photon is moving through two different parts of the device.
+The photon that passed through the mirror is now on the "lower path".
+It may or may not encounter a bomb, which is designed to explode if it encounters a single photon.
+The photon that was reflected off the mirror is now on the "upper path".
+Both photons next encounter a normal mirror.
+The lower-path photon is reflected ninety-degrees upward (if it did not detect a bomb).
+The upper-path photon is reflected back ninety degrees so that it is returned to its original trajectory.
+If the lower-path photon did not detect a bomb, it will arrive at a second half-silvered mirror at the same time as the upper-path photon.
+This will result in the single photon interfering with itself.
+A pair of detectors are positioned beyond the mirror in such a way that the photon's superposition collapses and the photon is observed to have either been on the upper path or the lower path, but not both.
+If the upper-path detector encounters the photon, then the photon "actually" took the upper path and no measurement was made of whether or not there was a bomb on the lower path.
+If, however, the lower-path detector encounters a photon, it can be determined that fifty percent of the time, there is a bomb on the lower path--without actually encountering it.
+Vaidman has argued that this lends support to the many-worlds interpretation of quantum mechanics.
+Teleportation of continuous variables  Vaidman is a pioneer in the area of quantum teleportation.
+PRON has demonstrated that non-local measurements can be used to teleport unknown quantum states of systems with continuous variables.

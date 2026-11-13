@@ -1,0 +1,21 @@
+NAME  is an American physicist and computer scientist working in quantum information theory and quantum computing.
+PRON is a professor in the Université du Québec system at the École de technologie supérieure (ÉTS), where PRON holds the Quebec Ministry (MEIE) Principal Research Chair in Quantum Computing.
+NAME is known for contributions to the theory of quantum computation, including results on universal models of adiabatic quantum computation and the universality of variational quantum computation.
+PRON work also includes contributions to quantum machine learning and the development of graphical and tensor-network formalisms for quantum computation.
+Research  Biamonte's research concerns the mathematical and physical structure of quantum computation, with results identifying universal computational models and their limitations.
+PRON work addresses how quantum processes are represented and compared, including graphical and categorical formalisms for quantum circuits and tensor networks, quantum simulation of physical systems, and information-theoretic analysis of quantum dynamics on complex networks.
+PRON early work established the experimentally relevant universal models of adiabatic quantum computation by proving the QMA-completeness of sparse, physically realizable Hamiltonians, helping clarify the relationship between ground state physics and computational universality.
+PRON later proved that feed-forward variational quantum algorithms can efficiently simulate universal quantum computation, establishing the variational model as computationally universal in the fault-tolerant setting.
+Related work analyzed limitations of variational training, including reachability deficits, parameter concentration and training saturation effects.
+In terms of circuit training, NAME has also contributed to the development of quantum machine learning, helping to connect quantum algorithms, learning theory and data-driven applications.
+Another major theme in PRON work is tensor network theory.
+PRON developed tensor-network formulations of Boolean satisfiability and counting problems, showing how computational complexity can be analyzed through tensor contraction structure and graphical methods.
+PRON also developed categorical and graphical tensor-network formalisms extending diagrammatic representations of quantum circuits to higher-dimensional systems, including qudits, and establishing algebraic normal forms for quantum states and processes.
+In addition to foundational models, NAME has contributed to quantum algorithms for the simulation of physical systems.
+PRON work on the computational complexity of electronic-structure simulation helped clarify resource requirements for quantum chemistry and materials applications.
+More broadly, PRON research links mathematical physics, theoretical computer science and quantum information through algebraic, graphical and computational representations of quantum processes.
+Education  Biamonte received a Ph.D. in Computer Science from the University of Oxford in 2010.
+In 2022, PRON defended a Doctor of Physical and Mathematical Sciences (D.Sc.)
+dissertation in Mathematical Physics at the Moscow Institute of Physics and Technology.
+Honors and awards  NAME was awarded the USERN Medal in Formal Sciences in 2018.
+PRON was elected a Fellow of the Institute of Physics in 2023.

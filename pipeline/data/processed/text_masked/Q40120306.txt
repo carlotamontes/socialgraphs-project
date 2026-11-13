@@ -1,0 +1,40 @@
+NAME (born 27 June 1968) is a Czech-German physicist and computational neuroscientist whose work links large-scale brain modelling with brain imaging.
+PRON is Director of Research (DRCE) at the Centre national de la recherche scientifique (CNRS) and heads the Institut de Neuroscience des Systèmes (INS UMR1106) at Inserm Aix-Marseille University.
+Since 2022 PRON serves as Chief Science Officer of the European digital neuroscience infrastructure EBRAINS.
+Since the late 1990s, Jirsa's research focuses on how the human brain's function relates to network dynamics.
+PRON pioneered the integration of biologically realistic connectivity into human and rodent brain network models.
+Clinical applications of PRON large-scale brain modelling approach are widespread in diagnosis, understanding and therapy of epilepsy and psychiatry.
+Throughout PRON academic career Jirsa has played leading roles in personalized medicine and translational computational neuroscience within the Human Brain Project (HBP) and other large European initiatives.
+PRON is lead scientist of the open source neuroinformatics platform The Virtual Brain.
+Early life and education  Jirsa was born in Prague, Czechia and grew up in Stuttgart, Germany.
+PRON studied elementary particle physics at the University of Manchester, United Kingdom where PRON obtained PRON Master of Science (M.Sc.)
+PRON then combined philosophy with theoretical physics at the University of Stuttgart, Germany, earning a NAME (Master's degree) in 1993, followed by a doctorate (Dr. rer.
+in applied mathematics/theoretical physics in 1996, under Hermann Haken.
+PRON postdoctoral work with NAME at the Florida Atlantic University (FAU) focused on brain and behavioral dynamics (1997-1998).
+Academic career  In 1999 Jirsa started as assistant professor at the Florida Atlantic University and founded the Theoretical Neuroscience Group (TNG).
+From 2004 to 2005 PRON held the role of tenured Associate Professor of Physics of Complex Systems & Brain Sciences.
+In 2006 NAME was recruited as Director of Research for the French Centre National de la Recherche Scientifique (CNRS) in Marseille, France.
+In 2012 PRON co-founded the Institut de Neuroscience des Systèmes (INS, Aix-Marseille University) with neurologist NAME, becoming its director in 2014.
+NAME was a work package leader and member of the Science and Infrastructure Board of the Human Brain Project before joining the management board of the non-profit successor organization EBRAINS as Chief Science Officer in 2022.
+In this role PRON guides the European efforts in digital neuroscience to translate multiscale brain models into clinical and industrial applications.
+Research contributions The Virtual Brain  "The Virtual Brain" (TVB) is an open source software platform which turns brain connectomes derived from MRI into personalized whole-brain simulations, allowing researchers and clinicians to test interventions on virtualized patient brains.
+Jirsa led the work package building The Virtual Brain within the "Brain Network Recovery Group", a consortium of 16 international scientists from computational, cognitive and clinical neuroscience, coordinated by NAME from 2005 to 2015.
+In 2018, TVB was integrated as neuroinformatics platform into the Human Brain Project (HBP), a €607 million EU scientific research project.
+Since 2023 TVB is the principal full-brain simulator of the successor organization of HBP, the European Brain Research Infrastructures (EBRAINS).
+It underpins international training programs and clinical trials, including the 400-patient clinical trial EPINOV ("Improving epilepsy surgery management and prognosis using virtual brain technology") for drug-resistant epilepsy where Jirsa serves as scientific director.
+Connectome-based brain models  In the early 2000s, Jirsa was among the first to show that realistic white matter topology and conduction delays in the brain are essential for reproducing fMRI resting state patterns, opening a field which is now central to network neuroscience.
+Structured flows on manifolds (SFM) Structured flows on manifolds are mathematical objects that underlie the evolution of brain activity.
+Jirsa and colleagues showed that the brain's high-dimensional activity collapses onto low-dimensional spaces, where it follows emergent rule-based behavior ("flows").
+SFM explain how connectome-driven breaking of symmetry yields a set of trajectories that reproduce resting state cascades and fast switching seen in fMRI and MEG scans.
+This SFM framework delivers guidelines for interventions that aim to bring the brain back onto healthy trajectories in ageing, epilepsy and psychiatric disorders.
+Epileptor and seizure taxonomy  Epilepsy is characterized by the onset and offset of high-frequency discharges visible in EEG scans of patients undergoing a seizure.
+Nonlinear dynamical system theory suggests that there is only a finite number of ways to start and stop an oscillation.
+Applying bifurcation theory, Jirsa and colleagues derived a canonical model called "Epileptor" that reproduces 16 seizure "dynamotypes".
+The Epileptor explains stereotyped onsets and offsets across different species and predicts therapeutic windows, some of them validated clinically.
+The respective publication in Brain (Oxford University Press) was marked as "Editor's choice".
+In a commentary to Jirsa et NAME
+'s publication, neuroscientist and theoretician NAME underlined the significant breakthrough of Jirsa's findings for the entire field of epilepsy.
+Digital twin medicine Since 2015 Jirsa is evolving PRON fundamental models into a personalized digital twin of the human brain with a focus on clinical application in precision neurology.
+PRON holds leading roles in European research projects (Virtual Brain Twin, EBRAINS 2.0) and French projects (Nautilus) to extend the applicability of PRON models to psychiatric drug response and non-invasive neurostimulation.
+Awards and recognition  Jirsa is invited regularly to major international conferences and has given more than 200 invited lectures, including various keynote addresses and plenary lectures, e.g. for OHBM, INCF or NIH.
+PRON has been awarded several international and national awards for PRON research, including:   2025 Change the World – Rise Partners Innovation Award  2021 First Human Brain Project Innovation Prize  2018 Elected member of the Academia Scientiarium et Artium Europaea  2018 Grand Prix de Recherche de Provence  2004 NASPSPA EarlyCareer Distinguished Scholar NAME2001 NAME at the conference "Information Processing in Medical Imaging" (IPMI)

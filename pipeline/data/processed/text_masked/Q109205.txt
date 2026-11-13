@@ -1,0 +1,16 @@
+NAME (7 March 1949 in Treysa, Hesse – 23 August 2019) was a German theoretical chemist.
+PRON was the president of the World Association of Theoretical and Computational Chemists (WATOC) from 2011.
+Academic career  NAME studied chemistry at the University of Marburg (West Germany) from 1966 to 1971, where PRON subsequently obtained PRON doctorate with NAME in 1973.
+After a post-doctoral stint at the University of Texas at Austin with NAME (1973–1975), PRON obtained PRON habilitation from the University of Marburg in 1981.
+PRON was appointed Professor of Theoretical Chemistry at the University of Wuppertal (West Germany) in 1983 and Professor of Chemistry at the University of Zurich (Switzerland) in 1992.
+In 1987 PRON was a visiting professor at the University of California at Berkeley.
+Since 1999, PRON was a director at the Max Planck Institute for Coal Research in Mülheim an der Ruhr (Germany) and an honorary professor at the neighboring University of Düsseldorf (Germany) since 2001.
+Fellowships and awards  1975 Liebig Fellowship of the Fonds der NAME 1982 Heisenberg Fellowship of the Deutsche Forschungsgemeinschaft 1988 Award of the Alfried Krupp von Bohlen und Halbach Foundation 2002 Schrödinger medal of the World Association of Theoretically Oriented Chemists (NAME) 2007 Member of the Deutsche Akademie der NAME 2007 Member of the International Academy of Quantum Molecular Science   Research  Thiel's research interests included the broad areas of theoretical chemistry, in particular quantum chemistry, and computational chemistry, with a focus on large molecules, spectroscopy, and catalysis.
+PRON group was involved in the development of new theoretical methods, in particular for the treatment of large molecules, and applied theoretical calculations to concrete chemical problems, usually in close collaboration with experimentalists.
+Selected methodological contributions Development and implementation of semi-empirical quantum-chemical methods: Development of MNDO-type approaches (orthogonalization-corrected OMx methods, MNDO/d for transition metals); computation of NMR-chemical shifts; semi-empirical multireference configuration interaction (MRCI) methods.
+Semi-empirical method developments are implemented in the MNDO program.
+Development of combined quantum mechanics/molecular mechanics (QM/MM) methods: Coupling approaches, boundary method, QM/MM structure optimization.
+Developments in this area are implemented within the ChemShell package.
+Selected application areas Highly accurate correlated QM calculations for smaller molecules; theoretical rovibrational spectroscopy.
+Transition-metal chemistry, homogeneous catalysis (typically applying density-functional theory methods).
+Mechanisms of enzymatic reactions (using QM/MM methods).

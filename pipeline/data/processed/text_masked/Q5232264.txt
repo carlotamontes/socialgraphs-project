@@ -1,0 +1,28 @@
+NAME (born 1949) is a theoretical physicist in the physics department at the University of Illinois Urbana-Champaign or UIUC.
+PRON is a world expert in the area of Quantum Monte Carlo computations, a method of calculation that is generally recognised to provide accurate quantitative results for many-body problems described by quantum mechanics.
+Life, education and career Ceperley was born in Charleston, West Virginia USA in 1949, and attended NAME there.
+PRON was a student at Atlantic College in Wales UK, received a BS degree in physics and mathematics from the University of Michigan, Ann Arbor in 1971 and a PhD in theoretical physics at Cornell University in 1976.
+PRON advisors were NAME at Cornell University and NAME at the Courant Institute at New York University.
+PRON had postdoctoral appointments in Orsay, France, New York University and Rutgers University, where PRON worked with NAME on the simulation of polymers.
+PRON was a staff scientist at the National Resource for Computational Chemistry at Lawrence Berkeley National Laboratory and Lawrence Livermore National Laboratory from 1978 to 1987.
+Since 1987, PRON has been a professor at the University of Illinois Urbana-Champaign and a staff member at the National Center for Supercomputing Applications from 1987 to 2012.
+In PRON development as a leading mathematical and computational physicist Ceperley had a number of acknowledged mentors, many of whom happen to be PRON former supervisors such as NAME, NAME, NAME and NAME.
+At UIUC PRON has been influenced by the physics Nobel Laureates NAME and NAME.
+Ceperley was married to NAME (1950–2015); they have three children.
+Major professional contributions Ceperley's methods have turned the path-integral formulation of the quantum mechanics of strongly interacting many-particle systems into a precise tool to elucidate quantitatively the properties of electrons in solids, superfluids, and other complex quantum systems.
+PRON calculation, with NAME, of the equation of state of the 3 dimensional electron gas using a stochastic method has provided basic and definitive input data for numerical applications of density functional theory to electron systems.
+Their joint publication is one of the most cited articles in Physical Review Letters.
+The Tanatar-Ceperley exchange-correlation functional is used for the 2 dimensional electron gas.
+Ceperley not only applied Feynman's exact mapping of superfluid 4He onto classical ring polymers but also created the algorithms to make path integration a precise calculational tool to compare theory with experiment.
+This method has enabled the elucidation of superfluid in terms of winding numbers and to reveal the deep relation between superfluidity and NAME condensation.
+PRON derived the exact expression for tunnelling splittings in complex systems and, by computing the exchange in quantum crystals, resolved the origin of magnetism in solid 3He.
+PRON introduced the restricted path integral method to treat Fermi statistics in finite-temperature many-body quantum systems and applied this method to the normal 3He liquid and to hydrogen under extreme conditions thus predicting the principal NAME of compressed deuterium in agreement with shock wave experiments.
+Ceperley has pioneered novel methods for stochastic computation of quantum systems: variational NAME techniques for fermions, the fixed-node approximation and nodal release methods, the use of NAME steps to enforce reversibility in approximate Green's functions, the development of importance-sampled Diffusion Monte Carlo (DMC) method that has largely superseded other methods, the use of twist-averaged boundary conditions to reduce systematic size errors, the extension of DMC to systems having broken time-reversal symmetry, the fixed phase method.
+These are essential ingredients to make the methods quantitative and accurate.
+Ceperley has also introduced and developed the Coupled Electron-Ion Monte Carlo, a first- principles simulation method to perform statistical calculations of finite temperature quantum nuclei using electronic energies and has established a first-order phase transition in the metal-insulator transition of liquid hydrogen.
+NAME and Ceperley started the annual workshop series, Recent Developments in Electronic Structure Methods in 1989.
+Ceperley has also been an organiser of Summer Schools in Computational Materials Science.
+Videos of Ceperley's lectures on Quantum Monte Carlo methods can be found on YouTube.
+Selected honours and awards  Ceperley's pioneering work on the development and application of the path integral NAME method for quantum many-body systems, such as superfluid helium and hydrogen under extreme conditions has been recognised by several organisations including Fellow of the American Physical Society (1992), NAME for many-body physics (1994), the Aneesur Rahman Prize for Computational Physics of the American Physical Society (1998), a fellow of the American Academy of Arts and Sciences (1999) and elected member of the US National Academy of Sciences (2005).
+PRON became the Founder Professor of Engineering (2006), a Center for Advanced Studies Professor (2009) and a Blue Waters Professor (2014) at the University of Illinois Urbana-Champaign.
+PRON was awarded the Berni Alder prize by CECAM (Lausanne, Switzerland) in 2016.
