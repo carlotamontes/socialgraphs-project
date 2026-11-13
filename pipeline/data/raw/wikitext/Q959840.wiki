@@ -1,0 +1,119 @@
+{{Short description|New Zealand mathematician}}
+{{For|the bootleg artist|The Freelance Hellraiser}}
+{{Use New Zealand English|date=December 2024}}
+
+{{Use dmy dates|date=June 2024}}
+{{Infobox scientist
+| name              = Roy P. Kerr
+| honorific_suffix  = {{post-nominals|country=NZL|CNZM|FRS|FRSNZ|size=100%}}
+| image             = Roy Kerr 2016 03.jpg
+| caption           = Kerr in 2016
+| birth_date        = {{birth date and age|df=yes|1934|05|16}}
+| birth_place       = [[Kurow]], New Zealand
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| ethnicity         = 
+| field             = Mathematics
+| workplaces        = [[University of Canterbury]]<br />[[Syracuse University]]
+| education         = [[St. Andrew's College, Christchurch]]
+| alma_mater        = {{Plainlist|
+* [[University of New Zealand]] (BSc)
+* [[University of Cambridge]] (PhD)
+}}
+| thesis_title      = Equations of Motion in General Relativity
+| thesis_url        = https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA21553629260003606
+| thesis_year       = 1960
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Kerr metric]]<br />[[Kerr–Newman metric]]<br />[[Kerr–Schild perturbations]]
+| influences        = 
+| influenced        = 
+| awards            = [[Hector Medal]] (1982)<br />[[Hughes Medal]] (1984)<br />[[Rutherford Medal (Royal Society of New Zealand)|Rutherford Medal]] (1993)<br />[[Albert Einstein Medal]] (2013)<br />[[Crafoord Prize]] (2016)<br />[[Oskar Klein Medal]] (2020)<br />[[Dirac Medal (ICTP)]] (2025)
+}}
+'''Roy Patrick Kerr''' {{post-nominals|country=NZL|CNZM|FRS|FRSNZ}} ({{IPAc-en|k|ɜr}}; born 16 May 1934) is a New Zealand mathematician who discovered the [[Kerr metric|Kerr geometry]], an [[exact solutions in general relativity|exact solution]] to the [[Einstein field equation]] of [[general relativity]]. His solution models the gravitational field outside an uncharged rotating massive object, including a [[rotating black hole]].<ref>{{cite journal | author=Kerr, R. P. | title=Gravitational field of a spinning mass as an example of algebraically special metrics | journal=[[Phys. Rev. Lett.]] | year=1963 | volume=11 | issue=5 | pages=237–238 | doi=10.1103/PhysRevLett.11.237 | bibcode=1963PhRvL..11..237K}}</ref><ref name=fulvio>[http://press.uchicago.edu/ucp/books/book/chicago/C/bo6817175.html ''Cracking the Einstein Code''] by [[Fulvio Melia]], 2009 {{ISBN|0226519546}}</ref> His solution to Einstein's equations predicted spinning black holes before they were discovered.<ref>[[Martin Rees]], ''Just Six Numbers – The Deep Forces that Shape the Universe'', Phoenix, 1999, {{ISBN|0 75381 022 0}}, page 41</ref><ref>{{Cite news |last=Falk |first=Dan |date=7 October 2009 |title=Review: Cracking the Einstein Code by Fulvio Melia |url=https://www.newscientist.com/article/mg20427295.900-review-cracking-the-einstein-code-by-fulvio-melia.html?DCMP=OTC-rss&nsref=physics-math |url-access=subscription |work=[[New Scientist]]}}</ref>
+
+==Early life and education==
+Kerr was born in 1934 in [[Kurow, New Zealand]].<ref  name=mactutor/> He was born into a dysfunctional family, and his mother was forced to leave when he was three. When his father went to war, he was sent to a farm. After his father's return from war, they moved to [[Christchurch]]. He was accepted to [[St Andrew's College, Christchurch|St Andrew's College]], a private school, as his father had served under a former headmaster.<ref name="Bright sparks">{{cite news |last=McCrone |first=John |title=Bright sparks and black holes |url= http://www.stuff.co.nz/the-press/christchurch-life/8372542/Bright-sparks-and-black-holes |access-date=2 March 2013 |archive-url=https://web.archive.org/web/20130304042336if_/http://www.stuff.co.nz:80/the-press/christchurch-life/8372542/Bright-sparks-and-black-holes|archive-date=2013-03-04|work=[[The Press]] |date=2 March 2013 |page=C2}}</ref> Kerr's mathematical talent was first recognised while he was still a student at St Andrew's College. Although there was no mathematics teacher there at the time, he was able in 1951 to go straight into the third year of mathematics at Canterbury University College, a constituent of the [[University of New Zealand]] and the precursor to the [[University of Canterbury]]. Their regulations did not permit him to graduate until 1954 and so it was not until September 1955 that he moved to the [[University of Cambridge]], where he earned his [[PhD]] in 1959.<ref name="mathgene">{{Cite web |title=Roy Kerr |url=https://mathgenealogy.org/id.php?id=45397 |website=[[Mathematics Genealogy Project]]}}</ref> His dissertation concerned the equations of motion in general relativity.<ref name=mactutor>{{MacTutor|id=Kerr_Roy|title=Roy Kerr}}</ref>
+
+==Career and research==
+After a [[postdoctoral researcher|postdoctoral fellowship]] at [[Syracuse University]], where Einstein's collaborator [[Peter Bergmann]] was a professor,<ref>{{Cite web |title=2003 Einstein Prize Recipient |url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Bergmann&first_nm=Peter&year=2003 |access-date=11 January 2024 |website=aps.org}}</ref><ref>{{Cite news |last=Overbye |first=Dennis |date=October 23, 2002 |title=Peter G. Bergmann, 87; Worked With Einstein |url=https://www.nytimes.com/2002/10/23/nyregion/peter-g-bergmann-87-worked-with-einstein.html |work=[[The New York Times]]}}</ref> he spent some time working for the [[United States Air Force]] at [[Wright-Patterson Air Force Base]]. Kerr speculated that the "main reason why the US Air Force had created a General Relativity section was probably to show the [[U.S. Navy]] that they could also do pure research."<ref>{{cite arXiv | title=Discovering the Kerr and Kerr–Schild metrics | eprint=0706.1109 | author1=Kerr | year=2007| class=gr-qc }}</ref>
+
+===Work at Texas and Canterbury===
+In 1962, Kerr joined [[Alfred Schild]] and his Relativity Group at the [[University of Texas at Austin]]. As Kerr wrote in 2009:
+:By the summer of 1963, [[Maarten Schmidt]] at Caltech had shown that certain starlike objects (now called [[quasar]]s) were actually distant objects emitting enormous amounts of energy. Nobody understood how they could be so bright. In an effort to unravel this mystery, several hundred astronomers, astrophysicists, and general relativists gathered for a conference in Dallas, held in early December that year. This would be the First (of what since then has become the biennial) [[Texas Symposium on Relativistic Astrophysics]].<ref>Roy Kerr (2009) Afterword, page 125 of ''Cracking the Einstein Code'' by Fulvio Melia</ref>
+
+Kerr presented to the Symposium his solution to the Einstein field equations.<ref>{{cite journal | last=Kerr | first=Roy P. | title=Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics | journal=Physical Review Letters | publisher=American Physical Society (APS) | volume=11 | issue=5 | date=1963-09-01 | issn=0031-9007 | doi=10.1103/physrevlett.11.237 | pages=237–238|bibcode=1963PhRvL..11..237K}}</ref> [[Subrahmanyan Chandrasekhar]] (Nobel laureate, 1983) is quoted as having said :
+
+: "In my entire scientific life, extending over forty-five years, the most shattering experience has been the realization that an exact solution of Einstein's equations of general relativity, discovered by the New Zealand mathematician, Roy Kerr, provides the absolutely exact representation of untold numbers of massive black holes that populate the universe" <ref>[https://nzmathsoc.org.nz/downloads/profiles/NZMSprofile58_Roy_Kerr.pdf?t=1262766416 New Zealand Mathematical Society Newsletter, No. 58, August 1993]</ref>
+
+In 1965, with Alfred Schild, he introduced the concept of [[Kerr–Schild perturbations]] and developed the [[Kerr–Newman metric]].<ref>{{cite journal |author1=Kerr, R. P. |author2=Schild, A. |name-list-style=amp | title=Some algebraically degenerate solutions of Einstein's gravitational field equations | journal=Proc. Symp. Appl. Math. | year=1965 | volume=17 | page=119}}</ref><ref>{{cite journal |author1=Debney, G.C. |author2=Kerr, R. P. |author3=Schild, A. |name-list-style=amp | title=Solutions of the Einstein and Einstein-Maxwell Equations | journal=[[J. Math. Phys.]]| year=1969 | volume=10 | issue=10 | page=1842 | doi=10.1063/1.1664769|bibcode = 1969JMP....10.1842D }}</ref><ref>{{cite journal | title=Extended Kerr–Schild spacetimes: General properties and some explicit examples | arxiv=1401.1060 | author1=Tomáš Málek | year=2014 | doi=10.1088/0264-9381/31/18/185013 | volume=31 | issue=18 | journal=Classical and Quantum Gravity | article-number=185013| bibcode=2014CQGra..31r5013M | s2cid=118690479 }}</ref> During his time in Texas, Kerr supervised four PhD students.
+
+In 1971, Kerr returned to the [[University of Canterbury]] in New Zealand. Kerr retired from his position as Professor of Mathematics at the University of Canterbury in 1993 after having been there for twenty-two years, including ten years as the head of the Mathematics department.
+
+===Awards and honours===
+[[File:Roy Kerr CNZM investiture.jpg|thumb|right|Kerr (left), after his investiture as a [[Companion of the New Zealand Order of Merit]] by the governor-general, [[Anand Satyanand|Sir Anand Satyanand]], at [[Government House, Wellington]], on 14 April 2011]]
+* [[Hector Memorial Medal|Hector Medal]] (1982) "for his work in theoretical physics. ... an exact solution of Einstein's equations of general relativity, ..."
+* [[Hughes Medal]] (1984) "for his distinguished work on relativity, especially for his discovery of the so-called Kerr Black Hole, which has been very influential."
+* [[Rutherford Medal (Royal Society of New Zealand)|Rutherford Medal]] (1993) "For his outstanding discoveries in the extra-terrestrial world of black holes."
+* [http://www.icra.it/MG/mg11/mg11awards-booklet.pdf Marcel Grossmann Award] (2006) "for his fundamental contribution to Einstein's theory of general relativity: ..."
+* [[New Zealand Order of Merit|Companion of the New Zealand Order of Merit]] for services to astrophysics ([[2011 New Year Honours (New Zealand)|2011]])<ref>{{cite web | url=https://www.dpmc.govt.nz/publications/new-year-honours-list-2011 | title=New Year honours list 2011 |date=31 December 2010| publisher=Department of the Prime Minister and Cabinet | access-date=5 January 2018}}</ref>
+* [[Albert Einstein Medal]] (2013) "for his 1963 discovery of a solution to Einstein's gravitational field equations."
+* [[Crafoord Prize]] in Astronomy (2016)<ref>{{cite web |url=http://www.crafoordprize.se/press/arkivpressreleases/thecrafoordprizesinmathematicsandastronomy2016.5.76308e0c152098549fa15a0.html |title= for fundamental work on rotating black holes and their astrophysical consequences |publisher=[[Royal Swedish Academy of Sciences]] |archive-url= https://web.archive.org/web/20201108171402/https://www.crafoordprize.se/press/arkivpressreleases/thecrafoordprizesinmathematicsandastronomy2016.5.76308e0c152098549fa15a0.html |archive-date=8 November 2020 |date=2016 |url-status=live}}</ref> 
+* [http://www.comsdev.canterbury.ac.nz/rss/news/?articleId=1894 Canterbury Distinguished Professor] (2016)
+* [[Oskar Klein Medal]] (2020)<ref>{{cite web |title=Earlier Lectures - Oskar Klein Centre |url=https://www.su.se/cmlink/2.48708/research/memorial-lecture/earlier-lectures |website=www.su.se |publisher=[[Stockholm University]] |date=30 May 2023}}</ref><ref>{{cite web |last1=Kerr |first1=Roy |author1-link=Roy Kerr |title=Oscar Klein Lecture: Roy P. Kerr - Kerr Black Holes have no Singularities |url=https://indico.fysik.su.se/event/7186/ |website=Agenda (Indico) |publisher=[[Stockholm University]] |date=17 December 2020}}</ref><ref>{{cite arXiv |title=Do Black Holes have Singularities? |date=5 December 2023|eprint=2312.00841 |last1=Kerr |first1=R. P. |class=gr-qc }}</ref>
+* [https://www.ieti.net/pro/memberdetail.aspx?ID=1073 Laureate Distinguished Fellow of IETI] (2024)
+
+In 2008 Kerr was appointed to the Yevgeny Lifshitz [[ICRANet]] Chair in [[Pescara]], Italy.
+
+[[Fulvio Melia]] interviewed Kerr about his work on the solution for the book ''Cracking the Einstein Code: Relativity and the Birth of Black Hole Physics'' published in 2009.<ref>Dan Falk (7 October 2009) [https://www.newscientist.com/article/mg20427295.900-review-cracking-the-einstein-code-by-fulvio-melia.html Review: Cracking the Einstein Code], [[New Scientist]]</ref> Kerr contributed an "Afterword" of two and a half pages.
+
+In 2012, it was announced that Kerr would be honoured by the [[Albert Einstein Society]] in Switzerland with the 2013 [[Albert Einstein Medal]]. He is the first New Zealander to receive the prestigious award.<ref>{{Cite news |last=Stewart |first=Ashleigh |date=20 December 2012 |title=Einstein Medal for NZ professor |url=https://www.stuff.co.nz/science/8101704/Einstein-Medal-for-NZ-professor |work=[[Stuff (website) | Stuff]]}}</ref>
+
+In December 2015, the [[University of Canterbury]] awarded Kerr an honorary [[Doctor of Science]].<ref>{{cite press release |url=http://www.comsdev.canterbury.ac.nz/rss/news/?articleId=1810 |title=Two Kiwi greats receive UC Honorary Doctorates |date=10 December 2015 |publisher=[[University of Canterbury]] |access-date=16 December 2015}}</ref>
+
+In 2025 he was awarded the [[Dirac Medal (ICTP)]].<ref>[https://www.ictp.it/news/2025/8/2025-ictp-dirac-medal-goes-gravity-explorers Dirac Medal (ICTP) 2025]</ref>
+
+==Personal life==
+Kerr is married to Margaret.<ref name="Bright sparks" /> In 2022, after 9 years in [[Tauranga]] they returned to [[Christchurch]], where they now reside. Kerr was a notable bridge player representing New Zealand internationally in the mid-1970s.<ref>{{WBFpeople|15464}}</ref> He was co-author of the Symmetric Relay System, a [[bidding system]] in [[contract bridge]].<ref>{{Cite web |last=Sharko |first=Andrei |date=2004 |title=Symmetric: The Symmetric Relay Contract Bridge Bidding System Made Easy |url=https://www.pagat.com/docs/SymmetricRelay.pdf |website=pagat.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20051215003113/http://ifs.massey.ac.nz/mathnews/centrefolds/58/Aug1993.shtml Professor Roy Kerr]
+* [https://web.archive.org/web/20130207181959/http://www.phys.canterbury.ac.nz/people/kerr.shtml University of Canterbury: Roy Kerr]
+* [https://web.archive.org/web/20060212025144/http://www.listener.co.nz/default,2629.sm Man of Mystery]
+* [http://scienceworld.wolfram.com/biography/KerrRoy.html Roy Kerr]
+* [http://www.icra.it/MG/ Marcel Grossmann meetings]
+* [http://www2.phys.canterbury.ac.nz/kerrfest/booklet.pdf ''Kerr Fest'' & CV]
+* {{Deprecated archive|url=https://archive.today/20130414101550/http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521885126|title=''The Kerr Spacetime''|sec=el}}
+* [http://trove.nla.gov.au/work/19766681?q=%22e.arnold%22+%2Bkerr&c=book Kerr family history]
+* {{WBF|15464|Roy P. Kerr}}
+* {{WBF Master Points|1323|Roy Kerr}}
+
+{{Recipients of the Rutherford Medal}}
+{{Recipients of the Hector Memorial Medal}}
+{{relativity}}
+{{FRS 2019}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kerr, Roy}}
+[[Category:1934 births]]
+[[Category:Living people]]
+[[Category:People from Kurow]]
+[[Category:20th-century New Zealand mathematicians]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Companions of the New Zealand Order of Merit]]
+[[Category:Relativity theorists]]
+[[Category:Fellows of the Royal Society of New Zealand]]
+[[Category:Syracuse University alumni]]
+[[Category:University of Canterbury alumni]]
+[[Category:Recipients of the Rutherford Medal]]
+[[Category:New Zealand contract bridge players]]
+[[Category:People educated at St Andrew's College, Christchurch]]
+[[Category:Donegall Lecturers of Mathematics at Trinity College Dublin]]
+[[Category:Albert Einstein Medal recipients]]
+[[Category:New Zealand fellows of the Royal Society]]

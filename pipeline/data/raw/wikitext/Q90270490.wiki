@@ -1,0 +1,97 @@
+{{Short description|German mathematical physicist (born 1945)}}
+
+[[File:Hajo Leschke.jpg|thumb|Hajo Leschke in 2023]]
+'''Hajo Leschke''' (born 11 February 1945 in [[Wentorf bei Hamburg]]) is a German [[Mathematical physics|mathematical physicist]] and (semi-)retired professor of [[theoretical physics]] at the Friedrich Alexander [[University of Erlangen–Nuremberg]] (FAU).{{r|fau}} He is known for rigorous results on model systems in [[Quantum statistical mechanics|quantum (statistical) mechanics]] obtained through [[Functional analysis|functional-analytic]] and [[Probability theory|probabilistic techniques]], jointly with his (former) students and other co-workers. His research topics include: [[Peierls transition|Peierls Transition]], Functional Formulations of Quantum and Stochastic Dynamics, Pekar–Fröhlich [[Polaron]], Quantum [[Spin chain|Spin Chains]], [[Feynman–Kac formula|Feynman–Kac Formulas]], (Random) [[Hamiltonian (quantum mechanics)|Schrödinger Operators]], Landau-Level Broadening, Lifschitz Tails, [[Anderson localization|Anderson Localization]], Fermionic Entanglement Entropies, Quantum [[Spin glass|Spin Glasses]].
+
+== Academic education ==
+Leschke studied physics and mathematics at the [[University of Hamburg]] and graduated with a [[diploma]] in physics (1970) under thesis advisor [[Wolfgang Kundt]] (born 1931). He received his [[doctorate]] in physics (1975) under dissertation advisor [[:de:Uwe Brandt (Physiker)|Uwe Brandt]] (1944–1997) from the [[Technical University of Dortmund]], where he also earned the [[habilitation]] in physics (1981). His studies were supported by the [[Studienstiftung]] des deutschen Volkes (German Academic Scholarship Foundation) and the [[:de:Kurt-Hartwig-Siemers-Wissenschaftspreis|Kurt-Hartwig-Siemers–Wissenschaftspreis]] on the recommendation of [[Werner Döring]] (1911–2006) and of [[Pascual Jordan]]{{r|PJ}} (1902–1980), respectively.{{r|cv}}
+
+== Career ==
+Leschke was a research (and teaching) assistant to Ludwig Tewordt (1926–2016) at the University of Hamburg, to Uwe Brandt at the Technical University of Dortmund, to [[Herbert Wagner (physicist)|Herbert Wagner]] (born 1935) at the [[Forschungszentrum Jülich]] (then: KFA Jülich), and to Richard Bausch (born 1935) at the [[Heinrich Heine University Düsseldorf]] (HHU) before he became a professor there in 1982 and at FAU in 1983. In 1987, he was a guest professor at the [[University of Georgia]], Athens (UGA) with host [[David P. Landau]] (born 1941). In 2004, he organized the workshop "Mathematics and physics of disordered systems" jointly with Michael Baake, [[:de:Werner Kirsch (Mathematiker)|Werner Kirsch]], and [[Leonid Pastur|Leonid A. Pastur]] at the [[Oberwolfach Research Institute for Mathematics]] (MFO), Germany.{{r|owr}} In 2017, he organized the workshop "Fisher–Hartwig asymptotics, Szegő expansions, and applications to statistical physics" jointly with Alexander V. Sobolev and Wolfgang Spitzer at the American Institute of Mathematics ([[American Institute of Mathematics|AIM]]), then located in San Jose, California.{{r|fha}} From 1998 to 2011, Leschke belonged to the advisory board of the [[Annalen der Physik]]{{r|AdP}}, then edited by Ulrich Eckern (born 1952) at the [[University of Augsburg]].{{r|cv}}
+
+== Notable students ==
+
+Notable doctoral students of Leschke include Peter Müller{{r|pm}} (born 1967) and [[Simone Warzel]] (born 1973). The first one is professor of mathematics at [[LMU Munich]] and [[Dean (education)|dean]] of the Faculty of Mathematics, Informatics, and Statistics (2021–2025). The second one is professor of mathematics at the [[Technical University of Munich]] (TUM) in Garching near Munich.{{r|mgp}}
+
+== Research achievements ==
+Leschke's research publications listed below all refer to properties of non-relativistic quantum systems which are modeled by some [[Hamiltonian (quantum mechanics)|Hamiltonian]], that is, by some [[self-adjoint operator]] on [[Hilbert space]] representing the total energy of the system, possibly depending on [[Random variable|random variables]] simulating disorder. In the publications from 2000 to 2017 the Hamiltonian is of [[Hamiltonian (quantum mechanics)#Schrödinger Hamiltonian|Schrödinger type]], that is, an operator for the sum of the kinetic and potential energy of "point-like" particles in [[Euclidean space]]. The two publications with Kurt Broderix (1962–2000) extend previously known continuity properties of the corresponding one-parameter Schrödinger [[C0-semigroup|semigroup]] (or Gibbs operator for different temperatures) to rather general magnetic fields and to (random) potential fields possibly leading to unbounded semigroups; by suitably extending the [[Feynman–Kac formula]] and using the [[diamagnetic inequality]].{{r|LHB}} The other three publications from 2000 to 2004 consider the case of a single particle subject to a constant magnetic field and a [[Random field|random potential field]]. For a Poissonian field with positive single-impurity potential U the low-energy behavior of the integrated (or cumulative) [[density of states]] is derived, depending on the range of U. For a Gaussian random field (without an underlying lattice structure) the first proofs are given for the existence of the density of states and of [[Anderson localization]] in multidimensional continuous space.{{r|CS}}{{r|AW}} The publications in 2014 and 2017 refer to the case of many non-interacting particles which obey [[Fermi–Dirac statistics]]. For the corresponding ideal [[Fermi gas]] in [[Thermodynamic equilibrium|thermodynamic equilibrium]] they contain the first rigorous results on the asymptotic growth of its quantum Rényi [[entropy of entanglement|entropies of (spatial) entanglement]] at arbitrary temperature.{{r|LSS}}{{r|LSS2}} These results have served as a standard of comparison for approximate arguments and/or numerical methods to better understand the correlations in many-fermion systems with interaction.{{r|PL}}{{r|JC}} The publications in 2021 are among the first ones providing rigorous results on quantum versions of the classic(al) [[Spin glass#Sherrington–Kirkpatrick model|Sherrington–Kirkpatrick spin-glass model]]. In particular, they prove for the first time the existence of a phase transition (related to [[Spontaneous symmetry breaking|spontaneous replica-symmetry breaking]]) if the temperature and the strength of the "transverse" magnetic field are low enough.{{r|LMRW}} The publication in 2023 illuminates this phase transition's relevance to the [[Quantum annealing|quantum-annealing]] algorithm in computer science.{{r|ach}}{{r|vczt}}{{r|kbpsmdd}}
+
+== Selected publications since 2000 ==
+
+* {{cite journal | last1=Chakrabarti| first1=B.K.|last2=Leschke|first2=H.|last3=Ray|first3=P.|last4=Shirai|first4=T.|last5=Tanaka|first5=S. |title=Quantum annealing and computation: challenges and perspectives (Editors' introduction to the Theme Issue 2241) | journal= Philosophical Transactions. Series A, Mathematical, Physical, and Engineering Sciences| volume=381| article-number=20210419 |pages=5pp| year=2023| issue=2241| doi=10.1098/rsta.2021.0419| pmid=36463926| pmc=9719792}}
+* {{cite journal | last1=Leschke | first1=H. | last2=Manai | first2=C. | last3=Ruder | first3=R. | last4=Warzel | first4=S. | title=Existence of replica-symmetry breaking in quantum glasses | journal=  Physical Review Letters| volume=127 | article-number=207204 | pages=6pp | year=2021 | issue=20 | doi=10.1103/PhysRevLett.127.207204| pmid=34860058 | arxiv=2106.00500 | bibcode=2021PhRvL.127t7204L }}
+* {{cite journal |  last1=Leschke | first1=H. | last2=Rothlauf | first2=S. |last3=Ruder | first3=R. | last4=Spitzer | first4=W. | title= The Free Energy of a Quantum Sherrington–Kirkpatrick Spin-Glass Model for Weak Disorder| journal=  Journal of Statistical Physics| volume=182 | article-number=55 | pages=41pp | year=2021 | issue=3 | doi=10.1007/s10955-020-02689-8| doi-access=free | arxiv=1912.06633 | bibcode=2021JSP...182...55L }}
+* {{cite journal |  last1=Leschke | first1=H. | last2=Sobolev | first2=A.V. | last3=Spitzer | first3=W. | title=Trace formulas for Wiener-Hopf operators with applications to entropies of free fermionic equilibrium states | journal= Journal of Functional Analysis| volume=273 | pages=1049–1094 | year=2017 | issue=3 | doi=10.1016/j.jfa.2017.04.005| arxiv=1605.04429 }}
+* {{cite journal |   last1=Leschke | first1=H. | last2=Sobolev | first2=A.V. | last3=Spitzer | first3=W. | title=Scaling of Rényi entanglement entropies of the free Fermi-gas ground state: a rigorous proof| journal=  Physical Review Letters| volume=112 | article-number=160403 | pages=5pp | year=2014 | issue=16 | doi=10.1103/PhysRevLett.112.160403| pmid=24815626 | arxiv=1312.6828 | bibcode=2014PhRvL.112p0403L }}
+* {{cite journal | last1=Broderix | first1=K. | last2=Leschke | first2=H. | last3=Müller | first3=P. | title=Continuous integral kernels for unbounded Schrödinger semigroups and their spectral projections| journal=  Journal of Functional Analysis| volume=212 | pages=287–323 | year=2004 | issue=2 |doi=10.1016/j.jfa.2004.01.009| arxiv=math-ph/0209020 }}
+* {{cite journal | last1=Leschke | first1=H. | last2=Warzel | first2=S. | title=Quantum-classical transitions in Lifshitz tails with magnetic fields | journal=  Physical Review Letters| volume=92 | article-number=086402 | pages=4pp | year=2004 | issue=8 | doi=10.1103/PhysRevLett.92.086402| pmid=14995799 | arxiv=cond-mat/0310389 | bibcode=2004PhRvL..92h6402L }}
+* {{cite journal | last1=Hupfer | first1=T. | last2=Leschke | first2=H.| last3=Müller | first3=P. | last4=Warzel | first4=S. | title= The Absolute Continuity of the Integrated Density of States for Magnetic Schrödinger Operators with Certain Unbounded Random Potentials| journal=  Communications in Mathematical Physics| volume=221 | pages=229–254 | year=2001 | issue=2 | doi=10.1007/s002200100467 | arxiv=math-ph/0105046 | bibcode=2001CMaPh.221..229H }}
+* {{cite journal | last1=Fischer | first1=W. | last2=Leschke | first2=H. | last3=Müller | first3=P. | title=Spectral localization by Gaussian random potentials in multi-dimensional continuous space | journal=  Journal of Statistical Physics| volume=101 | pages=935–985 | year=2000 | issue=5/6 | doi=10.1023/A:1026425621261| arxiv=math-ph/9912025 | bibcode=2000JSP...101..935F }}
+* {{cite journal | last1=Broderix | first1=K. |last2=Hundertmark | first2=D. |last3= Leschke | first3=H. | title=Continuity properties of Schrödinger semigroups with magnetic fields | journal=  Reviews in Mathematical Physics| volume=12 | pages=181–225 | year=2000 | issue=2 | doi=10.1142/S0129055X00000083| arxiv=math-ph/9808004 | bibcode=2000RvMaP..12..181B }}
+
+==References==
+<references>
+
+<ref name=fau>{{citation|url=https://www.emergent.physics.nat.fau.de/dr-hajo-leschke|title=Dr. Hajo Leschke|publisher=[[University of Erlangen-Nuremberg]]|accessdate=2024-12-19}}</ref>
+
+<ref name=cv>{{citation|url=https://www.emergent.physics.nat.fau.de/dr-hajo-leschke/hajo-leschke-curriculum-vitae/|title=Curriculum Vitae|publisher=[[University of Erlangen-Nuremberg]]|accessdate=2024-12-19}}</ref>
+
+<ref name=AdP>{{citation | url=https://myweb.rz.uni-augsburg.de/~eckern/adp/advisors.html|title=Advisory Board – Annalen der Physik|publisher=University of Augsburg|accessdate=2024-12-19}}</ref>
+
+<ref name=fha>{{citation|url=https://aimath.org/workshops/upcoming/fhszego/|title=Workshop "Fisher–Hartwig asymptotics, Szego expansions, and applications to statistical physics"}}</ref>
+
+<ref name=PJ>{{citation | url=https://mathshistory.st-andrews.ac.uk/Biographies/Jordan_Pascual | title=MacTudor-Biography: Pascual Jordan|accessdate=2024-12-19}}</ref>
+
+<ref name=LHB>{{cite book |last1=Lőrinczi |first1=J. | last2=Hiroshima | first2=F. | last3=Betz | first3=V. |date=2022 |title=Feynman–Kac-Type Theorems and Gibbs Measures on Path Space – Volume 1 |publisher=De Gruyter |page=532 |edition=2nd |isbn=978-3-11-033004-5}}</ref>
+
+<ref name=LMRW>{{citation | url=https://info.aps.org/webmail/640833/570123317/4ae382d2b57b6f654b04d935c57982c7363d9e9cd7bb23994457cb23d2bae520|title=Physical Review Journals, December 6, 2021|accessdate=2024-12-23}}</ref>
+
+<ref name=CS>{{cite book | last1=Chulaevsky | first1=V. | last2=Suhov | first2=Y. | date=2014 | title=Multi-scale Analysis for Random Quantum Systems with Interaction |publisher=Birkhäuser | page=249 | isbn=978-1-49-393952-7}}</ref>
+
+<ref name=LSS>{{cite journal|last1=Leschke | first1=H. | last2=Sobolev | first2=A.V.| last3=Spitzer | first3=W. | title=Large-scale behaviour of local and entanglement entropy of the free Fermi gas at any temperature|journal=Journal of Physics A |volume=49 | article-number=30LT04| pages=9pp| date=2016| issue=30 | doi=10.1088/1751-8113/49/30/30LT04 | arxiv=1501.03412 | bibcode=2016JPhA...49DLT04L }} </ref>
+
+<ref name=LSS2>{{cite conference|last1=Leschke | first1=H. | last2=Sobolev | first2=A.V.| last3=Spitzer | first3=W.| editor-last1=Basor| editor-first1=E.| editor-first2= A. | editor-last2=Böttcher| editor-first3=T.| editor-last3=Erhardt| editor-first4=C.A.| editor-last4=Tracy |book-title=Toeplitz Operators and Random Matrices – In Memory of Harold Widom|title=Rényi entropies of the free Fermi gas in multi-dimensional space at high temperature|pages=477–508|arxiv=2201.11087|publisher=Birkhäuser/Springer Nature| publication-place=Cham | date=2022 | doi=10.1007/978-3-031-13851-5_21}}</ref>
+
+<ref name=PL>{{cite journal|last1=Pan|first1=G.|last2=Da Liao|first2=Y.|last3=Jiang|first3=W.|last4=d'Emidio|first4=J.| last5=Qi|first5=Y.|last6=Yang Meng|first6=Z.|title=Stable computation of entanglement entropy for two-dimensional interacting fermion systems|journal= Physical Review B|volume=108|article-number=L081123|date=2023|issue=8 |pages=6pp|doi=10.1103/PhysRevB.108.L081123|arxiv=2303.14326 |bibcode=2023PhRvB.108h1123P }}</ref>
+
+<ref name=JC>{{cite journal|first1=W.|last1=Jiang|first2=B.-B.|last2=Chen|first3=Z.|last3=Hong Liu|first4=J.|last4=Rong|first5=F.|last5=Assaad|first6=M.|last6=Cheng|first7=K.|last7=Sun|first8=Z.|last8=Yang Meng|title=Many versus one: The disorder operator and entanglement entropy in fermionic quantum matter|journal= SciPost Physics|volume=15|article-number=082|pages=38pp|date=2023|issue=3 |doi=10.21468/SciPostPhys.15.3.082|doi-access=free |arxiv=2209.07103 |bibcode=2023ScPP...15...82J }}</ref>
+
+<ref name=owr>{{cite journal|first1=M.|last1=Baake|first2=W.|last2=Kirsch|first3=H.|last3=Leschke|first4=L.|last4=Pastur|title=Mathematics and physics of disordered systems|journal= Oberwolfach Reports|volume=1|pages=1167–1232|date=2004|issue=2|doi=10.4171/OWR/2004/22}}
+</ref>
+
+<ref name=pm>{{citation|url=https://www.mathematik.uni-muenchen.de/~mueller/|title=Homepage Peter Müller|accessdate=2025-01-14}}</ref>
+
+<ref name=mgp> Hajo Leschke at the {{citation|url=https://www.mathgenealogy.org/id.php?id=80146|title=Mathematics Genealogy Project|accessdate=2025-01-14}}</ref>
+
+
+<ref name=ach>{{cite journal | last1=Au-Yeung| first1=R. | last2=Chancellor | first2=N. | last3=Halffmann | first3=P. | title=NP-hard but no longer hard to solve? Using quantum computing to tackle optimization problems| journal=  Frontiers in Quantum Science and Technology| pages=9pp | date=2023 |volume=2|article-number=1128576|doi=10.3389/frqst.2023.1128576| doi-access=free | arxiv=2212.10990 }}</ref>
+
+
+<ref name=kbpsmdd>{{cite journal | last1=Kumar| first1=V.|last2=Baskaran | first2=N.|last3=Prasannaa | first3=V.S.|last4=Sugisaki | first4=K. |last5=Mukherjee | first5=D. |last6=Dyall | first6=K.G. |last7=Das | first7=B.P. |title=Computation of relativistic and many-body effects in atomic systems using quantum annealing| journal= Physical Review A| volume=109| pages=10pp | date=2024 | issue=4|article-number=042808|doi= 10.1103/PhysRevA.109.042808| bibcode=2024PhRvA.109d2808K| arxiv=2212.01801 }}</ref>
+
+
+<ref name=vczt>{{cite journal | last1=Volpe| first1=D.|last2=Cirillo | first2=G.A.|last3=Zamboni | first3=M.|last4=Turvani | first4=G. |title=Integration of simulated quantum annealing in parallel tempering and population annealing for heterogeneous-profile QUBO exploration| journal=IEEE Access| volume=11| pages=30390–30441|date=2023|doi=10.1109/ACCESS.2023.3260765| bibcode=2023IEEEA..1130390V| doi-access=free| hdl=11583/2977676| hdl-access=free}}</ref>
+
+<ref name=AW>{{cite book | last1=Aizenman|first1=M.| last2=Warzel|first2=S. |date=2015 |title=Random Operators–Disorder Effects on Quantum Spectra and Dynamics |publisher=American Mathematical Society |page=115| isbn=978-1-4704-1913-4}}</ref>
+
+</references>
+
+== External links ==
+* [https://www.emergent.physics.nat.fau.de/dr-hajo-leschke Homepage] at the FAU
+* [https://www.mathgenealogy.org/id.php?id=80146 Hajo Leschke] at the Mathematics Genealogy Project ([[Mathematics Genealogy Project|MGP]])
+
+{{Authority control}}
+{{DEFAULTSORT:Leschke, Hajo}}
+
+[[Category:Living people]]
+[[Category:1945 births]]
+[[Category:Studienstiftung alumni]]
+[[Category:20th-century German physicists]]
+[[Category:21st-century German physicists]]
+[[Category:German theoretical physicists]]
+[[Category:Theoretical physicists]]
+[[Category:German mathematical physicists]]
+[[Category:University of Hamburg alumni]]
+[[Category:Technical University of Dortmund alumni]]
+[[Category:Academic staff of Heinrich Heine University Düsseldorf]]
+[[Category:Academic staff of the University of Erlangen-Nuremberg]]

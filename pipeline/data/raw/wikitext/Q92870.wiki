@@ -1,0 +1,94 @@
+{{Short description|American software engineer}}
+{{for|the Canadian politician|Mark Adler (politician)}}
+{{Infobox scientist
+| name              = Mark Adler
+| image             = Mark Adler (cropped).jpg
+| image_size        = 
+| caption           = Adler in 2002
+| birth_date        = {{Birth date and age|1959|4|3}}
+| birth_place       = [[Miami, Florida]], U.S.
+| death_date        = 
+| death_place       = 
+| citizenship       = [[United States of America|American]]
+| ethnicity         = 
+| field             = [[Data compression]], [[Space exploration]]
+| workplaces        = [[Jet Propulsion Laboratory]]
+| education         = [[University of Florida]],<br />[[California Institute of Technology]]
+| doctoral_advisor  = [[Mark B. Wise|Mark Wise]]
+| doctoral_students = 
+| known_for         = [[Adler-32]], [[zlib]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| footnotes         = 
+| signature         = 
+| website           = {{URL|https://madler.net/madler}}
+}}
+'''Mark Adler''' (born 1959) is an American software engineer. He is best known for his work in the field of [[data compression]] as the author of the [[Adler-32]] [[checksum]] function, and a co-author, together with [[Jean-Loup Gailly]], of the [[zlib]] compression [[Library (computing)|library]]<ref name = "zlib">{{cite IETF |title=ZLIB Compressed Data Format Specification version 3.3 |rfc= 1950 |last=Gailly |first=Jean-Loup |authorlink=Jean-Loup Gailly |author2=L. Peter Deutsch |date=May 1996 |publisher=[[Internet Engineering Task Force|IETF]] |accessdate=June 29, 2015}}</ref> and [[gzip]].<ref name = "gzip">{{cite web |url=http://www.gzip.org/ |title=The gzip home page |date= July 27, 2003 |access-date= June 29, 2015|quote=gzip was written by Jean-Loup Gailly…and Mark Adler for the decompression code. }}</ref> He has contributed to [[Info-ZIP]], and has participated in developing the [[Portable Network Graphics]] (PNG) image format.<ref name = "PNG">{{cite web |url=http://www.libpng.org/pub/png/pnghist.html |title=History of the Portable Network Graphics (PNG) Format |last1= Roelofs |first1= Greg |date= March 14, 2009|access-date=June 29, 2015|quote=Within one week, most of the major features of PNG had been proposed, if not yet accepted: delta-filtering for improved compression (Scott Elliott and Mark Adler).…The true glory is really reserved for three people, however: Info-ZIP's Jean-Loup Gailly and Mark Adler (both also of gzip fame), who originally wrote Zip's deflate() and UnZip's inflate() routines and then, for PNG, rewrote them as a portable library called zlib; and Guy Eric Schalnat of Group 42, who almost single-handedly wrote the libpng reference implementation (originally ''pnglib'') from scratch.}}</ref><ref name = "Caltech">{{cite web
+| url= http://alumnus.caltech.edu/~madler/
+| title = About Mark Adler
+| last = Adler
+| first = Mark
+| date = 2008-08-09
+| publisher = [[California Institute of Technology|Caltech]] Alumni Web Server
+| access-date = 2013-03-14}}</ref>
+Adler was also the [[Spirit rover|Spirit]] Cruise Mission Manager for the [[Mars Exploration Rover]] mission.<ref name = "NASA-1">{{cite web |url=http://mars.nasa.gov/mer/spotlight/missioncontrol01.html |title= Mission Control: Who's at the Helm? |author=<!--Staff writer(s); no by-line.--> |date= January 3, 2004|website= Mars Exploration Rover|publisher= [[Jet Propulsion Laboratory]]|access-date= June 29, 2015}}</ref><ref name = "AdlerJPLContrib">{{cite web
+| url = http://mars.nasa.gov/people/info.cfm?id=269
+| archive-url = https://web.archive.org/web/20140808064512/http://mars.nasa.gov/people/info.cfm?id=269
+| url-status = dead
+| archive-date = 2014-08-08
+| title = Zip Code Mars Contribution: Contributions to Mars Exploration
+| date=February 2008
+| work = Mark Adler
+| publisher= [[NASA]]
+| access-date = 2013-03-14}}</ref>
+
+==Early life and education==
+Adler was born in [[Miami]], [[Florida]] and raised as the only child of David and Bertha Adler. Adler earned his [[Bachelor of Science]] in [[mathematics]] and [[Master of Science]] in [[electrical engineering]] degrees from the [[University of Florida]] in 1981 and 1985, respectively.  In 1990, Adler earned his [[Ph.D.]] in [[physics]] from the [[California Institute of Technology]].<ref name = "Caltech" />
+
+==Career==
+===Post-doctoral===
+After his doctorate, Adler worked for [[Hughes Aircraft]] in their Space and Communications Group, working on diverse projects including the analysis of the effects of [[X-ray bursts]] on satellite cables, development of new [[error-correcting codes]], designing an automobile anti-theft key, and digital image and video compression research ([[Wavelet compression|wavelets]] and [[MPEG-2]]).<ref name = "Caltech" />
+
+===Mars exploration===
+From 1992 through 1995, Adler was the Lead Mission Engineer on the [[Cassini–Huygens]] mission.<ref name = "Caltech" /> Afterwards, he became the [[Mars]] Exploration Program Architect at the [[Jet Propulsion Laboratory]] (JPL) from 1996 through 1998, which meant that Adler was responsible for planning the [[Mars]] exploration missions from 2001 on as well as handling inter-project engineering issues for missions in flight and in development during the time.<ref name = "AdlerJPLContrib" /> In 1999 and early 2000, Adler was the Mission and Systems Manager and Chief Engineer for the [[Mars Sample Return Mission|Mars Sample Return project]], which was to launch three missions in 2003 and 2005 to bring Martian samples back to Earth in 2008. The project was canceled after the failure of [[Mars Polar Lander]].<ref name = "AdlerJPLContrib" />
+
+===Mars Exploration Rover mission===
+Adler initiated and led a three-and-a-half-week study on the concept that was later selected as the [[Mars Exploration Rover]] (MER) mission for 2003. He has served as the Deputy Mission System Manager, the Acting Project Engineer, the Deputy [[ATLO|Assembly, Test, and Launch Operations]] Manager, the Landing Site Selection Engineer, and the [[Spirit rover|Spirit]] Mission Manager.<ref name = "AdlerJPLContrib" />
+
+===Low Density Supersonic Decelerator===
+Adler is currently the project chief of the [[Low Density Supersonic Decelerator]].<ref name="america20140701">{{cite news |url=http://www.americaspace.com/?p=63559 |title=NASA's Low-Density Supersonic Decelerator Test Flight Hailed as a Success |work=AmericaSpace |first=Emily |last=Carney |date=July 1, 2014 |access-date=August 12, 2014}}</ref>
+
+==Personal life and interests==
+Adler is an [[Instrument rating|instrument-rated]] private [[Aviator|pilot]], a certified [[Scuba set|scuba]] [[Scuba diving|diver]], and an [[amateur]] [[theater]] [[actor]].<ref name = "AdlerJPLPers">{{cite web
+| url = http://zipcodemars.jpl.nasa.gov/bio-contribution-personal.cfm?bid=269&cid=247&pid=245
+| title = Zip Code Mars Contribution: Personal Reflections
+| date=February 2008
+| work = Mark Adler
+| publisher = [[NASA]]
+| access-date = 2013-03-14}}{{dead link|date=June 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+He is married to Diana St. James. They live in [[La Cañada, California]]. They have two children, Joshua and Zachary. St. James works at the [[California Institute of Technology]] and acts in and directs theatrical performances.<ref name = "Caltech" />
+
+==Awards and recognition==
+Together with co-author [[Jean-Loup Gailly]], Adler received the 2009 [[USENIX]] Software Tools User Group (STUG) award for their contributions to open algorithms for data compression.<ref name = "STUG">{{cite web |url=https://www.usenix.org/about/stug |title=STUG Award |author=<!--Staff writer(s); no by-line.--> |year= 2015 |publisher=[[USENIX]] |access-date=June 29, 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Adler, Mark}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:People from Miami]]
+[[Category:American computer scientists]]
+[[Category:21st-century American physicists]]
+[[Category:GNU people]]
+[[Category:People from La Cañada Flintridge, California]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of Florida College of Engineering alumni]]
+[[Category:NASA engineers]]
+[[Category:Jet Propulsion Laboratory]]

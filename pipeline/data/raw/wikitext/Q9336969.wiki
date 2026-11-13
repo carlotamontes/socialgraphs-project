@@ -1,0 +1,201 @@
+{{Short description|American condensed-matter physicist}}
+{{Infobox scientist
+| image = Jaw Shen Tsai cropped Jaw Shen Tsai 202303.png
+| birth_date = {{Birth date and age|1952|2|8}}
+| birth_place = [[Taipei]], [[Taiwan]]
+| citizenship = [[United States]]<ref name="JapanTimes2002">{{cite news
+ | last = Kenrick
+ | first = Vivienne
+ | title = Jaw-Shen and Yoshiko Tsai
+ | url = https://www.japantimes.co.jp/life/2002/02/23/people/jaw-shen-and-yoshiko-tsai/
+ | work = The Japan Times
+ | date = 2002-02-23
+
+}}</ref><ref name="OberlinHonorary">{{cite web
+ | url = https://www.obirin.ac.jp/en/about/facts/honorary_degrees.html
+ | title = Recipients of Honorary Doctoral Degrees
+ | publisher = J. F. Oberlin University
+ | at = No. 26
+
+}}</ref>
+| fields = [[Condensed matter physics|Low-temperature solid-state physics]]<ref name="AcademiaSinica">{{cite web
+ | url = https://academicians.sinica.edu.tw/index.php?_lang=en&id=817&r=academician-n%2Fshow
+ | title = Jaw-Shen Tsai
+ | publisher = Academia Sinica
+
+}}</ref>
+| workplaces = {{plainlist|
+* [[NEC]]
+* [[RIKEN]]
+* [[Tokyo University of Science]]
+* [[National Yang Ming Chiao Tung University]]
+}}
+| education = {{plainlist|
+* [[University of California, Berkeley]] ([[Bachelor of Arts|BA]])
+* [[Stony Brook University]] ([[Doctor of Philosophy|PhD]])
+}}
+| known_for = Pioneering research on [[superconducting quantum computing|superconducting qubits]] and their quantum control<ref name="JapanAcademy2023">{{cite web
+ | url = https://www.japan-acad.go.jp/pdf/youshi/113en/nakamura_tsai.pdf
+ | title = Japan Academy Prize to Yasunobu Nakamura and Jaw-Shen Tsai
+ | publisher = The Japan Academy
+ | year = 2023
+ | format = PDF
+
+}}</ref>
+}}
+
+'''Jaw-Shen Tsai''' ({{lang-zh|t=蔡兆申}}; born February 8, 1952) is a Taiwan-born American [[physicist]] specializing in low-temperature solid-state physics.<ref name="JapanTimes2002" /><ref name="AcademiaSinica" /><ref name="Hattori2023" /> He is known for pioneering research on superconducting qubits and their quantum control. In 1999, he, [[Yasunobu Nakamura]], and their colleagues achieved the first demonstration of qubit operation in a superconducting circuit.<ref name="JapanAcademy2023" />
+
+He has conducted research at [[NEC]] and [[RIKEN]], and was appointed a professor at the [[Tokyo University of Science]] in 2015 and a chair professor at [[National Yang Ming Chiao Tung University]] in 2025.<ref name="NECProfile2023" /><ref name="AcademiaSinica" />
+
+== Early life and education ==
+Tsai was born in [[Taipei]], Taiwan, on February 8, 1952.<ref name="JapanTimes2002" /><ref name="Hattori2023">{{cite web
+ |url=https://www.hattori-hokokai.or.jp/pdf/press-release93.pdf
+ |title=2023年（第93回）服部報公会「報公賞」が決定
+ |publisher=Hattori Hokokai Foundation
+ |date=2023-09-05
+ |format=PDF
+ |language=ja
+ |access-date=2026-09-05
+}}</ref> He earned a [[Bachelor of Arts]] degree in physics from the [[University of California, Berkeley]], in 1975 and a [[PhD]] in physics from [[Stony Brook University]] in 1983.<ref name="AcademiaSinica" />
+
+== Career ==
+In 1983, Tsai became a research scientist at NEC's Microelectronics Research Laboratories. He subsequently held positions as a fellow at the company's Fundamental Research Laboratories and Nano Electronics Research Laboratories.<ref name="NECProfile2023">{{cite web
+ |url=https://www.nec.com/en/press/202310/images/1001-01-01.pdf
+ |title=Profile and Detailed Achievements of the Group A Recipients of the 2023 C&C Prize
+ |publisher=NEC
+ |year=2023
+ |format=PDF
+ |access-date=2026-09-05
+}}</ref>
+
+In 2001, he took on a concurrent appointment as team leader of RIKEN's Macroscopic Quantum Coherence Team.<ref name="AcademiaSinica" /> His later positions at RIKEN included group director of the Single Quantum Dynamics Research Group and team leader of the Superconducting Quantum Simulation Research Team.<ref name="NECProfile2023" />
+
+He was appointed a professor at the [[Tokyo University of Science]] in 2015 and a chair professor at [[National Yang Ming Chiao Tung University]] in 2025.<ref name="AcademiaSinica" />
+
+== Research ==
+In 1999, Tsai, [[Yasunobu Nakamura]], and Yu. A. Pashkin observed quantum oscillations in a small superconducting circuit known as a [[Cooper-pair box]], demonstrating electrical control of a qubit in a solid-state electronic device. The results were published in ''[[Nature (journal)|Nature]]''.<ref name="Nakamura1999">{{cite journal
+ |author1=Y. Nakamura
+ |author2=Yu. A. Pashkin
+ |author3=J. S. Tsai
+ |title=Coherent control of macroscopic quantum states in a single-Cooper-pair box
+ |journal=Nature
+ |volume=398
+ |pages=786–788
+ |date=1999-04-29
+ |doi=10.1038/19718
+ |arxiv=cond-mat/9904003
+}}</ref>
+
+In 2003, Tsai and collaborators observed quantum oscillations in two coupled superconducting charge qubits.<ref name="Pashkin2003">{{cite journal
+ |author1=Yu. A. Pashkin
+ |author2=T. Yamamoto
+ |author3=O. Astafiev
+ |author4=Y. Nakamura
+ |author5=D. V. Averin
+ |author6=J. S. Tsai
+ |title=Quantum oscillations in two coupled charge qubits
+ |journal=Nature
+ |volume=421
+ |pages=823–826
+ |date=2003-02-20
+ |doi=10.1038/nature01365
+ |arxiv=cond-mat/0212314
+}}</ref> In a separate study published that year, Tsai and collaborators demonstrated conditional gate operation using two superconducting charge qubits.<ref name="Yamamoto2003">{{cite journal
+ |author1=T. Yamamoto
+ |author2=Yu. A. Pashkin
+ |author3=O. Astafiev
+ |author4=Y. Nakamura
+ |author5=J. S. Tsai
+ |title=Demonstration of conditional gate operation using superconducting charge qubits
+ |journal=Nature
+ |volume=425
+ |pages=941–944
+ |date=2003-10-30
+ |doi=10.1038/nature02015
+ |arxiv=cond-mat/0311067
+}}</ref>
+
+His research has also included the generation and detection of single microwave photons using superconducting quantum circuits.<ref name="NECProfile2023" /> The Japan Academy has recognized Nakamura and Tsai's work as a pioneering contribution to the development of superconducting quantum computing.<ref name="JapanAcademy2023" />
+
+== Honors and awards ==
+* 2000: Fellow, [[American Physical Society]]<ref name="AcademiaSinica" />
+* 2004: [[Nishina Memorial Prize]]<ref name="AcademiaSinica" />
+* 2007: Honorary Professor, [[National Chiao Tung University]]<ref name="AcademiaSinica" />
+* 2008: [[Simon Memorial Prize]] (with [[Yasunobu Nakamura]])<ref name="NECProfile2023" />
+* 2010: Fellow, [[Japan Society of Applied Physics]]<ref name="JSAPFellow2010">{{cite web
+ |url=https://www.jsap.or.jp/jsap-fellow/recipients4
+ |title=第4回（2010年度） 応用物理学会フェロー表彰者
+ |publisher=Japan Society of Applied Physics
+ |language=ja
+ |access-date=2026-09-05
+}}</ref>
+* 2013: Quantum Innovator Award<ref name="NECProfile2023" />
+* 2014: The 11th {{ill|Leo Esaki Prize|ja|江崎玲於奈賞}} (with Yasunobu Nakamura)<ref name="EsakiPrize">{{cite web
+ |url=https://www.i-step.org/prize/esaki/laureates_en.html
+ |title=Past Leo Esaki Prize winners
+ |publisher=Science and Technology Promotion Foundation of Ibaraki
+ |access-date=2026-09-05
+}}</ref>
+* 2018: [[Medals of Honor (Japan)|Medal with Purple Ribbon]]<ref name="PurpleRibbon2018">{{cite web
+ |url=https://www.riken.jp/en/news_pubs/news/2018/20180518_1/index.html
+ |title=Researchers receive Medal with Purple Ribbon
+ |publisher=RIKEN
+ |date=2018-05-18
+ |access-date=2026-09-05
+}}</ref>
+* 2021: [[Asahi Prize]] (for fiscal year 2020, with Yasunobu Nakamura)<ref name="Asahi2020">{{cite web
+ |url=https://www.tus.ac.jp/today/archive/20210107_0234.html
+ |title=本学教員が朝日賞を受賞（3/3更新 受賞コメント動画掲載）
+ |publisher=Tokyo University of Science
+ |date=2021-03-03
+ |language=ja
+ |access-date=2026-09-05
+}}</ref>
+* 2023: [[Japan Academy Prize (academics)|Japan Academy Prize]] (with Yasunobu Nakamura)<ref name="JapanAcademy2023" />
+* 2023: {{ill|Hattori Hoko Award|ja|服部報公賞}} (with Yasunobu Nakamura)<ref name="NECProfile2023" /><ref name="Hattori2023" />
+* 2023: [[C&C Prize]] (with Yasunobu Nakamura)<ref name="CCPrize2023">{{cite web
+ |url=https://www.candc.or.jp/en/recipient.html
+ |title=Successive Recipients of C&C Prize
+ |publisher=NEC C&C Foundation
+ |at=2023 Recipients
+ |access-date=2026-09-05
+}}</ref>
+* 2024: [[Asian Scientist 100]], ''[[Asian Scientist]]''<ref>{{cite web
+ |url=https://www.asianscientist.com/as100/
+ |title=The Asian Scientist 100
+ |publisher=Asian Scientist
+ |at=Jaw Shen Tsai
+}}</ref>
+* 2024: Elected a member of [[Academia Sinica]]<ref name="AcademiaSinica" />
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+
+* [https://rqc.riken.jp/en/ RIKEN Center for Quantum Computing]
+* [https://www.rs.tus.ac.jp/tsai/ Tsai Laboratory at Tokyo University of Science]
+* [https://ep.nycu.edu.tw/en/faculty_info/%E8%94%A1%E5%85%86%E7%94%B3/ Faculty profile at National Yang Ming Chiao Tung University]
+
+{{authority control}}
+
+{{DEFAULTSORT:Tsai, Jaw-Shen}}
+[[Category:1952 births]]
+[[Category:20th-century Taiwanese physicists]]
+[[Category:Quantum physicists]]
+[[Category:Living people]]
+[[Category:NEC people]]
+[[Category:Riken personnel]]
+[[Category:Stony Brook University alumni]]
+[[Category:Academic staff of Tokyo University of Science]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:Taiwanese expatriates in Japan]]
+[[Category:Scientists from Taipei]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of Academia Sinica]]
+[[Category:21st-century Taiwanese physicists]]
+[[Category:Taiwanese expatriates in the United States]]
+[[Category:Recipients of the Medal with Purple Ribbon]]
+[[Category:Recipients of the Nishina Memorial Prize]]
+[[Category:Foreign educators in Japan]]

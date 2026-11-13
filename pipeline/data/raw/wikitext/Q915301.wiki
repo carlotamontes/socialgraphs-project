@@ -1,0 +1,66 @@
+{{short description|Russian mathematician}}
+{{ Infobox scientist
+| name              = Felix Berezin
+| image             = <!--(filename only)-->
+| image_size        = 
+| caption           = 
+| birth_date        = {{birth date|1931|04|25|df=y}}
+| birth_place       = [[Moscow]]
+| death_date        = {{death date and age|1980|07|14|1931|04|25|df=y}}
+| death_place       = in the region of [[Kolyma]]
+| fields            = [[Mathematics]]<br />[[Theoretical physics]]
+| workplaces        = [[Moscow State University]]
+| education         = Moscow State University
+| doctoral_advisor  = [[Israel Gelfand]]
+| doctoral_students = [[Anatoly Stepin]]
+| known_for         = [[Berezinian]]<br />[[Universal_enveloping_algebra#Algebra_of_symbols|Berezin formula]]<br />[[Berezin integral]]<br />[[Berezin transform]]<br />[[Zonal_spherical_function#Complex_case|Berezin–Harish–Chandra formula]]<br />[[Supermathematics]]
+| awards            = 
+}}
+'''Felix Alexandrovich Berezin''' ({{langx|ru|Фе́ликс Алекса́ндрович Бере́зин}}; 25 April 1931 – 14 July 1980) was a [[Soviet Union|Soviet]] [[Russians|Russian]] [[mathematician]] and [[physicist]] known for his contributions to the theory of [[supersymmetry]] and [[supermanifold]]s as well as to the [[path integral formulation]] of [[quantum field theory]].
+
+Berezin studied at the [[Moscow State University]], but was not allowed to do his graduate studies there on account of his [[Jew]]ish origin (his mother was Jewish). For the next three years Berezin taught at Moscow high schools.   He continued to study mathematical physics under direction of [[Israel Gelfand]].  After [[Nikita Khrushchev|Khrushchev]]'s liberalization, he joined the Department of Mathematics at the Moscow State University at the age of 25.
+
+The [[Berezin integral]] over anticommuting [[Grassmann variable]]s is named for him, as is the closely related construction of the [[Berezinian]] which may be regarded as the "[[Supermathematics|super]]"-analog of the [[determinant]].
+
+Berezin drowned during a summer trip in the region of [[Kolyma]].
+
+==Works==
+*''The Method of [[Second quantization|Second Quantization]]'', Academic Press (1966).
+*''Introduction to Superanalysis'', Springer (1987).
+
+==See also==
+*[[Oscillator representation]]
+
+== References ==
+
+* {{cite journal |title=Feliks Aleksandrovich Berezin |type=Obituary |author=[[Yuri Manin|Yu. I. Manin]] |author2=M. A. Markov |author3=[[Sergei Novikov (mathematician)|S. P. Novikov]] |author4=V. I. Ogievetsky |author5=V. Ya. Faynberg |author6=E. S. Fradkin |journal=[[Soviet Physics Uspekhi]] |year=1981 |volume=24 |pages=528–529 |doi=10.1070/PU1981v024n06ABEH004854|bibcode = 1981SvPhU..24..528M |issue=6 }} (also available [https://wayback.archive-it.org/all/20070614125820/http://ufn.ioc.ac.ru/ufn81/ufn81_6/Russian/r816g.pdf in Russian])
+* {{cite journal | author-link = Robert Adol'fovich Minlos | author = Robert A. Minlos | title = Felix Alexandrovich Berezin (A Brief Scientific Biography) | journal = Letters in Mathematical Physics | volume = 74 | issue = 1 | year = 2005 | pages = 5–19 | doi = 10.1007/s11005-005-0023-9|bibcode = 2005LMaPh..74....5M | s2cid = 121133609 }}
+* {{cite journal |title=Feliks Aleksandrovich Berezin. Obituary |language=ru |author=[[Nikolay Bogolyubov|N. N. Bogolyubov]] |author2=[[Israel Gelfand|I. M. Gelfand]] |author3=[[Roland Dobrushin|R. L. Dobrushin]] |author4=[[Alexandre Kirillov|A. A. Kirillov]] |author5=[[Mark Grigoryevich Krein|M. G. Krein]] |author6=D. A. Leites |author7=R. A. Minlos |author8=[[Yakov G. Sinai|Ya. G. Sinai]] |author9=M. A. Shubin |journal=Uspekhi Mat. Nauk |volume=36 |issue=4 |year=1981 |pages=185–190 |url=http://mi.mathnet.ru/eng/umn3009}}
+*{{cite book
+ |editor=[[Mikhail Shifman]]
+ |year=2007
+ |title=Felix Berezin, The Life and Death of the Mastermind of Supermathematics
+ |url=http://www.worldscibooks.com/mathematics/6365.html
+ |publisher=[[World Scientific]]
+ |location=Singapore
+ |isbn=978-981-270-532-7
+ |access-date=2007-01-09
+ |archive-url=https://web.archive.org/web/20070927004026/http://www.worldscibooks.com/mathematics/6365.html
+ |archive-date=2007-09-27
+ }}
+
+==External links==
+* {{MathGenealogy |id=85896}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Berezin, Felix}}
+[[Category:1931 births]]
+[[Category:1980 deaths]]
+[[Category:Soviet mathematicians]]
+[[Category:Jewish Soviet physicists]]
+[[Category:Soviet physicists]]
+[[Category:Soviet inventors]]
+[[Category:Deaths by drowning in Russia]]
+[[Category:Moscow State University alumni]]
+[[Category:Accidental deaths in the Soviet Union]]

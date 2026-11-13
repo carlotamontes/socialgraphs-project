@@ -1,0 +1,219 @@
+{{Short description|American scientist (1928–2016)}}
+{{Infobox scientist
+| name              = John W. Cahn
+| image             = John W. Cahn.jpg <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 240px
+| image_upright     = 
+| alt               = 
+| caption           = John W. Cahn
+| birth_name        = Hans Werner Cahn
+| birth_date        = {{birth date |1928|1|9|mf=y}}
+| birth_place       = [[Cologne]], [[Free State of Prussia|Prussia]]
+| death_date        = {{death date and age |2016|3|14 |1928|1|9|mf=y}}
+| death_place       = [[Seattle]], [[Washington (state)|Washington]]
+| fields            = [[Metallurgy]]
+| workplaces        = [[Massachusetts Institute of Technology]]<br />[[National Institute of Standards and Technology]]
+| education         = [[University of Michigan]]<br />[[University of California at Berkeley]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Richard Edward Powell]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = 
+| known_for         = [[Allen–Cahn equation]], [[Cahn–Hilliard equation]]
+| awards            = 
+| spouse            = [[Anne Hessing Cahn]]
+}}
+
+'''John Werner Cahn''' (January 9, 1928 – March 14, 2016) was an American scientist and recipient of the 1998 [[National Medal of Science]]. Born in [[Cologne]], [[Weimar Germany]],<ref>{{cite web|url=http://www.tms.org/pubs/Books/PDFs/01-416X/01-416X-0.pdf |title=The Selected Works of John W. Cahn }}</ref> he was a professor in the department of [[metallurgy]] at the [[Massachusetts Institute of Technology]] (MIT) from 1964 to 1978. From 1977, he held a position at the [[National Institute of Standards and Technology]] (formerly the National Bureau of Standards). Cahn had a profound influence on the course of materials research during his career. One of the foremost authorities on [[thermodynamics]], Cahn applied the basic laws of thermodynamics to describe and predict a wide range of physical phenomena.<ref>{{cite web|url=http://www.ctcms.nist.gov/~cahn|title=John W. Cahn}}</ref>
+
+== Biography ==
+'''Hans Werner Cahn''' was born in Cologne, Germany, to a Jewish family.<ref name=ST/> His father was an anti-Nazi lawyer and his mother an X-ray technician.<ref name=ST/>
+
+After the ''[[Machtergreifung]]'' in 1933, the elder Cahn escaped arrest only because he had been forewarned by a fellow lawyer. The family fled Germany and eventually ended up in [[Amsterdam]]. They immigrated to America in 1939, where Hans became John. Most of his family back in Europe was murdered in [[the Holocaust]].<ref name=ST/>
+
+The Cahns settled in [[New York City]]. John Cahn became an American citizen in 1945. Serving in the [[United States Army]], he was stationed in [[Occupation of Japan|Japan during its occupation by the Allies]].<ref name=ST/>
+
+Cahn received a bachelor's degree in chemistry in 1949 from the [[University of Michigan]]. He later earned a Ph.D in physical chemistry in 1953 from the [[University of California at Berkeley]]. His doctoral thesis was titled "The Oxidation of Isotopically Labelled Hydrazine" and his thesis advisor was [[Richard Edward Powell|R. E. Powell]].
+
+In 1954, Cahn joined the [[chemical metallurgy]] research effort at the [[General Electric]] laboratory in [[Schenectady]], New York, led by [[David Turnbull (materials scientist)|David Turnbull]]. Turnbull had done pioneering work on the [[chemical kinetics|kinetics]] of [[nucleation]], and there was a focus in the group on understanding the [[thermodynamics]] and kinetics of [[phase transformation]]s in solids.
+
+In 1964, Cahn became a professor in the Department of Metallurgy (now Materials Science) at the Massachusetts Institute of Technology.  He left MIT in 1978. In 1969, Cahn began a long professional relationship with his graduate student, Francis Larché, whose work focussed on the effect of mechanical stress on the thermodynamics of solids.  The Larche–Cahn approach is the cornerstone of the treatment of the thermodynamics of stressed materials. Good examples of this phenomenon are the regions near a coherent precipitate or the stress field around a dislocation.
+
+In 1972, Cahn worked with David W. Hoffman to formulate vector-based thermodynamics to describe the thermodynamics of interfaces, a formulation which is necessary to account for anisotropic materials. This is also known as the capillary vector formulation of interface energies. The mathematics of this treatment involves the concept of [[Norm (mathematics)|norms]], although Cahn and Hoffman were unaware of it at the time.
+
+In 1975, Cahn worked with his graduate student Sam Allen on [[phase transition]]s in iron alloys, including order-disorder transitions.  This work led to the [[Allen–Cahn equation]].
+
+From 1984, he was an affiliate professor at the [[University of Washington]].
+
+== Work ==
+[[Image:CahnHilliard Animation.gif|thumb|500px|Microstructural evolution under the [[Cahn–Hilliard equation]], demonstrating distinctive coarsening and [[phase separation]].]]
+
+=== The spinodal ===
+In 1957, Cahn worked with John E. Hilliard to develop the [[Cahn–Hilliard equation]] which describes the thermodynamic forces driving phase separation in many systems, and developed the joint theory of [[spinodal decomposition]].<ref>{{Cite journal|url=https://doi.org/10.1063/1.1744102|doi=10.1063/1.1744102|title=Free Energy of a Nonuniform System. I. Interfacial Free Energy|year=1958|last1=Cahn|first1=John W.|last2=Hilliard|first2=John E.|journal=The Journal of Chemical Physics|volume=28|issue=2|pages=258–267|bibcode=1958JChPh..28..258C|url-access=subscription}}</ref><ref>Cahn, J.W., ''Spinodal Decomposition'', 1967 Institute of Metals Lecture, Trans. Met. Soc. ASME, Vol. 242, p. 168 (1968)</ref><ref>Hilliard, J.E., ''Spinodal Decomposition'', in '''Phase Transformations''' p. 497 (American Society of Metals, Metals Park, 1970)</ref><ref>{{Cite journal|url=https://doi.org/10.1016/0001-6160(62)90114-1|doi = 10.1016/0001-6160(62)90114-1|title = On spinodal decomposition in cubic crystals|year = 1962|last1 = Cahn|first1 = John W.|journal = Acta Metallurgica|volume = 10|issue = 3|pages = 179–183|url-access = subscription}}</ref>
+
+=== Solidification ===
+In the theory of crystal growth, Cahn concluded that the distinguishing feature is the ability of the surface to reach an equilibrium state in the presence of a thermodynamic driving force (typically in the form of the degree of undercooling). He also concluded that for every surface or interface in a crystalline medium, there exists a critical driving force, which, if exceeded, will enable the surface or interface to advance normal to itself, and, if not exceeded, will require the lateral growth mechanism.
+
+Thus, for sufficiently large driving forces, the interface can move uniformly without the benefit of either a heterogeneous nucleation or screw dislocation mechanism. What constitutes a sufficiently large driving force depends upon the diffuseness of the interface, so that for extremely diffuse interfaces, this critical driving force will be so small that any measurable driving force will exceed it. Alternatively, for sharp interfaces, the critical driving force will be very large, and most growth will occur by the lateral step mechanism.<ref>{{Cite journal|url=https://doi.org/10.1016/0001-6160(58)90052-X|doi = 10.1016/0001-6160(58)90052-X|title = On the nature of the interface between a solid metal and its melt|year = 1958|last1 = Hilliard|first1 = J.E|last2 = Cahn|first2 = J.W|journal = Acta Metallurgica|volume = 6|issue = 12|pages = 772–774|url-access = subscription}}</ref><ref>{{Cite journal|url=https://doi.org/10.1016/0001-6160(60)90110-3|doi = 10.1016/0001-6160(60)90110-3|title = Theory of crystal growth and interface motion in crystalline materials|year = 1960|last1 = Cahn|first1 = John W.|journal = Acta Metallurgica|volume = 8|issue = 8|pages = 554–562|url-access = subscription}}</ref><ref>{{Cite journal|url=https://doi.org/10.1016/0001-6160(62)90140-2|doi = 10.1016/0001-6160(62)90140-2|title = Coherent fluctuations and nucleation in isotropic solids|year = 1962|last1 = Cahn|first1 = John W.|journal = Acta Metallurgica|volume = 10|issue = 10|pages = 907–913|url-access = subscription}}</ref><ref>{{Cite journal|url=https://doi.org/10.1016/0001-6160(64)90130-0|doi = 10.1016/0001-6160(64)90130-0|title = The molecular mechanism of solidification|year = 1964|last1 = Cahn|first1 = John W.|last2 = Hillig|first2 = W.B|last3 = Sears|first3 = G.W|journal = Acta Metallurgica|volume = 12|issue = 12|pages = 1421–1439|url-access = subscription}}</ref>
+
+=== Droplets and surfaces ===
+In 1977, Cahn published a simple mathematical treatment of the thermodynamics of [[wetting]]:  the interaction between a liquid in contact with a solid surface.  This paper laid out a simple formulation for describing the [[wetting transition]]—the point at which a liquid changes from forming a droplet on a surface to spreading out evenly as a liquid film over the surface.  This theory had wide-ranging implications for many materials processing techniques.
+
+=== Quasicrystals ===
+In 1982, [[Dan Shechtman]] observed a new crystalline structure with puzzling features.  Cahn contributed to the theory of how such a structure could be thermodynamically stable and became co-author of the seminal paper which introduced [[quasicrystals]].
+
+=== Glass transition ===
+In 2004, Cahn and Bendersky presented evidence that an "isotropic non-crystalline metallic phase" (dubbed "q-glass") can be grown from the melt. This is the "primary phase," to form in the Al-Fe-Si system during rapid cooling. Experimental evidence indicates that this phase forms by a first-order transition. TEM images show that the q-glass nucleates from the melt as discrete particles, which grow spherically with a uniform growth rate in all directions. The diffraction pattern shows it to be an isotropic glassy phase. Yet there is a nucleation barrier, which implies an interfacial discontinuity (or internal surface) between the glass and the melt.<ref>{{cite news|author1=Cahn, J.W.  |author2=Bendersky, L.A. |title =Formation of Glass by a First Order Transition| publisher = Metallurgy Division Publications – [[National Institute of Standards and Technology|NIST]]<span title="Interagency Report">IR</span> 7127|url=http://www.metallurgy.nist.gov/techactv2004/TechnicalHighlights.html#glass| access-date=2009-06-06}}</ref>
+
+== Research in retirement ==
+In his retirement, Cahn accepted a position at the [[University of Washington]] as an affiliate professor in the Departments of Materials Science and Engineering and Physics.
+
+== Personal life ==
+He had three children and six grandsons. In retirement, he lived in [[Seattle]], Washington, with his wife, [[Anne Hessing Cahn]].<ref name=ST>{{cite web|url=http://www.seattletimes.com/seattle-news/obituaries/john-w-cahn-foremost-metallurgist-fled-nazi-germany/|title=John W. Cahn: Foremost metallurgist fled Nazi Germany|date=15 March 2016|work=The Seattle Times}}</ref> He died from leukemia in Seattle on March 14, 2016.<ref>{{cite web|url=https://www.washingtonpost.com/local/obituaries/john-w-cahn-who-fled-nazi-germany-and-became-a-foremost-materials-scientist-dies-at-88/2016/03/15/890fe246-eac6-11e5-a6f3-21ccdbc5f74e_story.html|title=John W. Cahn, who fled Nazi Germany and became a foremost materials scientist, dies at 88|first=Emily|last=Langer|date=15 March 2016|via=www.washingtonpost.com}}</ref>
+
+== Honors and awards ==
+
+2011
+The Kyoto Prize, Inamori Foundation
+
+2002 
+[[The Franklin Institute Awards|Bower Prize]], Franklin Institute
+
+2001 
+Emil Heyn Medal, German Metallurgical Society
+
+2001 
+Honorary Life Member, American Ceramic Society
+
+1999 
+Bakhuys Roozeboon Lecturer and Gold medal, [[Netherlands Academy of Sciences]]
+
+1998 
+National Medal of Science<ref>{{cite web|url=https://www.nsf.gov/od/nms/recip_details.cfm?recip_id=66|title=The President's National Medal of Science: Recipient Details - NSF - National Science Foundation}}</ref>
+
+1998 
+Member, [[National Academy of Engineering]]
+
+1998 
+Distinguished GE Lecturer in Materials Science at RPI
+
+'69 & `98 
+MacDonald Lecturer, Canadian Metallurgical Society
+
+1996 
+Doctor Honoris Causis, Universite d'Évry, France
+
+1995 
+[[Harvey Prize]], [[Technion]].
+
+1994 
+Rockwell Medal; Hall of Fame for Engineering, Science and Technology, and Medal, International Technology Institute.
+
+1994 
+Gold Medal, Honorary Member, Japan Institute of Metals.
+
+1993 
+Inland Steel Lecture, Northwestern University.
+
+1993 
+Hume–Rothery Award, TMS.
+
+1993 
+Cyril Stanley Smith Lecturer, University of Chicago.
+
+1992 
+Honorary member, MRS-India.
+
+1991 
+[[Michelson–Morley Award]], Case Western University.<ref>{{Cite web |url=http://www.phys.cwru.edu/history/book%20pdfs/App%20D%20Events.pdf#page=3 |title=Archived copy |access-date=2018-10-30 |archive-date=2015-11-13 |archive-url=https://web.archive.org/web/20151113180148/http://www.phys.cwru.edu/history/book%20pdfs/App%20D%20Events.pdf#page=3 |url-status=dead }}</ref>
+
+1990 
+Honorary Sc. D., Northwestern University; Hilliard Lecturer.
+
+1989 
+Sauveur Award, ASM International.
+
+1987 
+Distinguished Physics Lecturer, Boston University.
+
+1986 
+Stratton Award, National Bureau of Standards.
+
+1985 
+[[Von Hippel Award]], [[Materials Research Society]].
+
+1984 
+Gold Medal, US Department of Commerce.
+
+1983 
+Distinguished Lecturer, University of Connecticut.
+
+1982 
+Golick Lecturer, University of Missouri, Rolla, MO.
+
+1981 
+Fellow, Japan Society for the Promotion of Science.
+
+1981 
+Dickson Prize, Carnegie–Mellon University.
+
+1980 
+Honorary Professor, Jiao Tong University, Shanghai, China.
+
+1979 
+Van Horn Lecturer, Case-Western University.
+
+1978 
+Dorn Lecturer, Northwestern University.
+
+1977 
+Acta Metallurgica Gold Medal.
+
+1974 
+Fellow, [[American Academy of Arts and Sciences]].
+
+1973 
+Member, [[National Academy of Sciences]].
+
+1968 
+Institute of Metals Lecturer, AIME.
+
+1966 
+S. B. Meyer Award, American Ceramic Society.
+
+1960–61 
+Guggenheim Fellowship spent at the University of Cambridge, Goldsmith Laboratory.
+
+1951 
+Allied Chemical and Dye Fellowship at University of California, Berkeley.
+
+== References ==
+{{reflist|2}}
+
+==External links==
+* [http://www.ctcms.nist.gov/~cahn Biography and Publications]
+* [http://mathworld.wolfram.com/Cahn-HilliardEquation.html The Cahn–Hilliard Equation]
+* [http://www.ctcms.nist.gov/~wcraig/variational/node10.html The Allen–Cahn Equation]
+*[https://web.archive.org/web/20101105175533/http://nvl.nist.gov/pub/nistpubs/jres/106/6/j66cah.pdf  Quasicrystals]
+*[http://www.metallurgy.nist.gov/techactv2004/TechnicalHighlights.html#glass|The Glass Transition]
+
+{{Winners of the National Medal of Science|chemistry}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cahn, John W.}}
+[[Category:1928 births]]
+[[Category:2016 deaths]]
+[[Category:American people of German-Jewish descent]]
+[[Category:Jewish American scientists]]
+[[Category:National Medal of Science laureates]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:Department of Commerce Gold Medal]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Emigrants from the Kingdom of Prussia to the United States]]
+[[Category:UC Berkeley College of Chemistry alumni]]
+[[Category:Fellows of the Minerals, Metals & Materials Society]]
+[[Category:21st-century American Jews]]
+[[Category:Kyoto laureates in Advanced Technology]]
+[[Category:Benjamin Franklin Medal (Franklin Institute) laureates]]

@@ -1,0 +1,96 @@
+{{Short description|American inventor and chemist (1930–2025)}}
+{{Infobox person
+| name               = Donald Klein
+| image              = Donald Klein.jpg
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_date         = {{birth date|1930|12|19}}
+| birth_place        = New York City, U.S.
+| death_date         = {{death date and age|2025|7|20|1930|12|19}}
+| death_place        = [[Albany, New York]], U.S.
+| occupation         = [[Chemist]]
+| awards             = {{Plainlist|
+*[[IBM]] Invention Award  <small>(1982)</small>
+*[[IEEE]] Jack A. Morton award <small>(1994)</small>
+*[[New Jersey Inventors Hall of Fame]] <small>(1994)</small>
+*[[Brooklyn Technical High School]] Alumni Hall of Fame <small>(1999)</small>}}
+| known_for          = Invention of [[MOSFET]] [[transistor]]
+| spouse             = Ruth Kintzburger (married 1952)
+| children           = 6
+}}
+
+'''Donald Lee Klein''' (December 19, 1930 – July 20, 2025) was an American inventor and chemist, most known for inventing the process to [[Semiconductor device fabrication|fabricate]] the [[self-aligned gate]] [[MOSFET]] along with Robert E. Kerwin and John C. Sarace in 1967 at [[Bell Labs]].<ref>{{Cite web|title=1968: Silicon Gate Technology Developed for ICs {{!}} The Silicon Engine {{!}} Computer History Museum|url=https://www.computerhistory.org/siliconengine/silicon-gate-technology-developed-for-ics/|access-date=2020-08-14|website=www.computerhistory.org}}</ref>
+
+In 1994, together with Kerwin and Sarace, Klein received the [[Institute of Electrical and Electronics Engineers|IEEE]] Jack A. Morton award (renamed in 2000 to the [[IEEE Andrew S. Grove Award]]) "For pioneering work and the basic [[patent]] on the self-aligned silicon-gate process, a key element in fabrication of [[Very Large Scale Integration|very large scale integrated circuits]]."<ref>{{Cite web|title=IEEE Jack A. Morton Award - Engineering and Technology History Wiki|url=https://ethw.org/IEEE_Jack_A._Morton_Award|access-date=2020-08-14|website=ethw.org |date=19 February 2019 }}</ref>
+
+That same year, Klein, Kerwin and Sarace were declared "Inventors of the Year" by the [[New Jersey Inventors Hall of Fame]].<ref>{{Cite web|title=1994 Awardees|url=http://www.njinvent.org/1994-awardees.html|access-date=2020-08-14|website=NJ Inventors Hall of Fame 2018|language=en}}</ref>
+
+== Early life ==
+Klein was born in [[Brooklyn|Brooklyn, New York]] to Kalman Klein, a [[Hungary|Hungarian]] [[Jews|Jew]] who immigrated to the [[United States]] at age 16, and Emily Vogel, an American born [[Austria-Hungary|Austro-Hungarian]] Jew.
+
+Donald's brother Herbert, who was 7 years older, was a [[Amateur radio operator|radio amateur]] from a young age. He served in [[World War II|WWII]] as a [[radio operator]] on a ship for the [[United States Navy|Navy]].
+
+For Donald's 13th birthday, Herbert gave him his first [[chemistry set]] (which he obtained through his [[Electrical engineering|Electrical Engineering]] studies).
+
+Klein began experimenting with the chemicals, while collecting more from family members and buying his own. Eventually he had built his own laboratory in his parents' basement.
+
+After high school, Donald followed in his brother's footsteps, becoming a licensed radio amateur.
+
+== Education ==
+In 1945, Klein attended [[Brooklyn Technical High School]] where he took many chemistry courses including [[Inorganic chemistry|inorganic]], [[Qualitative inorganic analysis|qualitative]] and [[Quantitative analysis (chemistry)|quantitative analysis]], [[organic chemistry]], [[physical chemistry]] and [[chemical engineering]].<ref>{{Cite web|title=3DI_ADD_FACEBOOK_TITLE_3DI|url=https://cloud.3dissue.com/1846/2379/5035/HallofFameBooklet2015/html5/index.html?page=1&noflash|access-date=2020-08-14|website=cloud.3dissue.com}}</ref>
+
+After high school, Klein attended Polytechnic Institute of Brooklyn (now [[New York University Tandon School of Engineering]]). After briefly debating between [[Metallurgy]] and [[inorganic chemistry]], Klein decided to major in inorganic chemistry. Eager to combine his passions of chemistry and electronics, Klein decided to research [[radio frequency]] [[titrimetry]] for his undergraduate thesis, a new field at the time.
+
+Upon graduation, Klein began working at [[Sylvania Electric Products|Sylvania Electric Products Inc]]. in [[Boston|Boston, Massachusetts]] to support his new family (he got married one week after graduating). Klein enjoyed his time at Sylvania where he was able to combine his passions for electronics and chemistry, working on [[solid-state electronics]]. During his time at Sylvania, Klein wrote numerous articles for [[QST]] about [[semiconductor]] device applications.
+
+After 2 years at Sylvania (which Klein refers to as his "post-graduate education"), Klein decided to pursue a graduate degree at the [[University of Connecticut]] working with Dr. Roland Ward who he'd met during his undergraduate studies. Ward, often considered the father of solid-state chemistry,<ref>{{Cite book|last1=Wold|first1=Aaron|url=https://www.springer.com/gp/book/9780412036217|title=Solid State Chemistry: Synthesis, Structure, and Properties of Selected Oxides and Sulfides|last2=Dwight|first2=Kirby|date=1993|publisher=Springer Netherlands|isbn=978-0-412-03621-7|language=en}}</ref> had moved from the Polytechnic Institute of Brooklyn to the University of Connecticut. Klein's research with Ward, which focused on [[photochemistry]] was published in the ''[[Journal of the American Chemical Society]]''.<ref>{{Cite journal|last1=Klein|first1=Donald|last2=Moeller|first2=Carl W.|last3=Ward|first3=Roland|date=January 1958|title=The Photochemical Decomposition of the Halides of Tris-(ethylenediamine)-cobalt(III) in the Solid State1|url=https://pubs.acs.org/doi/pdf/10.1021/ja01535a003|journal=Journal of the American Chemical Society|volume=80|issue=2|pages=265–269|doi=10.1021/ja01535a003|bibcode=1958JAChS..80..265K |issn=0002-7863|url-access=subscription}}</ref>
+
+In 1958, Klein graduated from the University of Connecticut with a PhD in inorganic chemistry.
+
+== Career ==
+[[File:Kerwin's lab notes, signed by Gordon Moore and Robert Noyce.pdf|thumb|In 1989, [[Intel]] founders [[Gordon Moore]] and [[Robert Noyce]] signed a page from Kerwin's lab notes describing the invention. <br>
+"A $30 billion+ industry with this today!"- Moore <br>
+"This is the invention which made [[Very Large Scale Integration|VLSI]] a practical reality!"- Noyce]]
+[[File:Letter written by Gordon Moore.pdf|thumb|[[Gordon Moore]] showing his support for Donald Klein, Robert Kerwin and John Sarace winning the Jack Morton Award.]]
+In 1958, Dr. Ward introduced Klein to a headhunter from Bell Labs who was eager to recruit Klein. Klein Joined Bell Labs in November, 1958.
+Although he was originally recruited to join the chemistry research department, Klein began working in the chemistry development department where he worked on the development of semiconductors.
+
+Klein was thrilled to be working along some of the brightest chemists in the world. As Klein said during an interview with the Chemical Heritage Foundation, "There were more experts under that one roof at [[Murray Hill, New Jersey|Murray Hill]], than at any university that I had ever been to, or have been in since. You could always find an expert in every single field you could think of."<ref>{{Cite web|title=Donald L. Klein {{!}} Science History Institute {{!}} Center for Oral History|url=https://oh.sciencehistory.org/oral-histories/klein-donald-l|access-date=2020-08-14|website=oh.sciencehistory.org}}</ref> Klein referred to his time at Bell Labs as "the greatest post graduate education I ever had."
+
+Along with his colleagues, Klein worked to develop [[Etching (microfabrication)|etching]] techniques and ways to prevent [[contamination]] in the process of semiconductor production.
+
+In February 1966, [[Willard Boyle]], a high level manager at Bell Labs, posed a problem to Klein. At the time, the production process of [[integrated circuit]]s required 6 or 7 steps, each with a yield rate of below 90%, resulting in unacceptably low yield rates. What was desired was a process that would be go/no-go, meaning a process in which an entire batch of [[Wafer (semiconductor)|wafers]] can be eliminated early on in the production process. Following his discussion with Dr. Boyle, Klein led a brainstorming session with several other Bell scientists to design a better process for building [[Field-effect transistor|FET]] devices. Out of that meeting came the idea of using a heavily [[Doping (semiconductor)|doped]] [[polycrystalline]] [[silicon]] layer as the gate of an FET. The gate was to be supported on dual layers of a [[silicon nitride]] and [[silicon dioxide]] serving as the gate [[Insulator (electricity)|insulator]]. Using the FET as a model for integrated circuits, they [[Fabrication (semiconductor)|fabricated]] and characterized hundreds of FET devices at high yield that exhibited close electrical tolerances.<ref>{{Cite journal|last=Engelson|first=Irving|date=Fall 2010|title=[Letters]|journal=IEEE Solid-State Circuits Magazine|volume=2|issue=4|pages=5–9|doi=10.1109/MSSC.2010.938308|issn=1943-0590}}</ref>
+
+Klein and his group published numerous papers on this new technology and also patented the process.<ref name="MISpatent" />
+
+Klein remained at Bell Labs until 1967, when he joined [[IBM]]. Before joining IBM, an agreement was made between Bell Labs and IBM that Klein would not be allowed to work intimately on the problems that he had been working on at Bell Labs, for at least a period of time.
+
+Unable to work directly on MOSFET technology, Klein was asked to set up a group to advance the technology of [[lithography]]. More specifically, Klein's group worked on developing new [[photoresist]] technologies.
+
+While at IBM, Klein worked as a senior engineer, manager, and technical staff consultant.<ref>{{Cite web|title=Donald L. Klein - Engineering and Technology History Wiki|url=https://ethw.org/Donald_L._Klein#:~:text=Morton%20Award%20%22For%20pioneering%20work,up%20in%20Brooklyn,%20New%20York.|access-date=2020-08-14|website=ethw.org | date=21 January 2016 }}</ref>
+
+In 1987, Klein retired from IBM and began teaching chemistry at the department of physical sciences at [[Dutchess Community College]] in his hometown [[Poughkeepsie, New York]].
+
+== Patents ==
+*Method of fabricating semiconductor contacts, (1965).<ref>{{cite patent|country=US|number=3209450|pubdate=1965-10-05|assign=[[Bell Labs|Bell Telephone Laboratories Inc.]]|inventor1-last=Klein|inventor1-first=Donald L.|inventor2-last=MacDonald|inventor2-first=Robert W.
+|title=Method of fabricating semiconductor contacts}}</ref>
+*Semiconductor surface cleaning, (1965).<ref>{{cite patent|country=US|number=3224904|pubdate=1965-12-21|assign=[[Bell Labs|Bell Telephone Laboratories Inc.]]|inventor1-last=Klein|inventor1-first=Donald L.|title=Semiconductor surface cleaning}}</ref>
+*Method for the preparation of atomically clean silicon, (1969).<ref>{{cite patent|country=US|number=3436284|pubdate=1969-04-01|assign=[[Bell Labs|Bell Telephone Laboratories Inc.]]|inventor1-last=Klein|inventor1-first=Donald L.|title=Method for the preparation of atomically clean silicon}}</ref>
+*Silicon oxide tunnel diode structure and method of making same, (1969).<ref>{{cite patent|country=US|number=3424954|pubdate=1969-01-28|assign=[[Bell Labs|Bell Telephone Laboratories Inc.]]|inventor1-last=Klein|inventor1-first=Donald L.|inventor2-last=Lawley|inventor2-first=Kenneth L.|title=Silicon oxide tunnel diode structure and method of making same}}</ref>
+*Method for making MIS structures, (1969).<ref name="MISpatent">{{Cite patent|title=Method for making MIS structures|pubdate=1969-10-28|country=US|number=3475234|assign=[[Bell Labs|Bell Telephone Laboratories Inc.]]|inventor1-last=Kerwin|inventor1-first=Robert E.|inventor2-last=Klein|inventor2-first=Donald L.|inventor3-last=Sarace|inventor3-first=John C.}}</ref>
+*Cyclic polyisoprene photoresist compositions, (1972).<ref>{{cite patent|country=US|number=3669669|pubdate=1972-06-13|assign=[[IBM]]|inventor1-last=Klein|inventor1-first=Donald L.|inventor2-last=MacIntyre|inventor2-first=Michael W.|inventor3-last=Rothman|inventor3-first=Lawrence J.|title=Cyclic polyisoprene photoresist compositions}}</ref>
+*Device for removing low level contaminants from a liquid, (1977).<ref>{{cite patent|country=US|number=4053942|pubdate=1977-10-11|assign=[[IBM]]|inventor1-last=Dougherty, Jr.|inventor1-first=William E.|inventor2-last=Gregor|inventor2-first=Lawrence V.|inventor3-last=Klein|inventor3-first=Donald L.|inventor4=Thomas F. Redmond;Morton D. Reeber|title=Device for removing low level contaminants from a liquid}}</ref>
+
+== Personal life and death ==
+In 1952, Klein married Ruth Kintzburger (also a chemist and radio amateur), a childhood friend from Brooklyn. Together they had 6 children and 21 grandchildren.
+
+Klein died in [[Albany, New York]] on July 20, 2025, at the age of 94.<ref>{{cite web |title=Oral history interview with Donald L. Klein |url=https://digital.sciencehistory.org/works/tl6vagj |website=Science History Institute |access-date=21 March 2026}}</ref>
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Klein, Donald Lee}}
+[[Category:1930 births]]
+[[Category:2025 deaths]]
+[[Category:American chemists]]
+[[Category:American inventors]]

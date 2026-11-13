@@ -1,0 +1,134 @@
+{{Short description|German physicist and author}}
+'''Hans Grassmann''' (Bamberg, 21 May 1960) is a German [[physicist]], writer and entrepreneur, who teaches and works in [[Italy]]. Grassmann is the author of four books and more than 250 scientific publications, and is the founder and managing director of the research company Isomorph srl.
+
+His main contributions to physics include the development of a (Tl) [[calorimeter]] with a [[photodiode]]; developing the analysis of asymmetry in the production of the [[W and Z bosons|W particle]]; a contribution to the discovery of the [[top quark]], the development of a physics theory of information; the design and development of a [[wind turbine]] with an external duct; and the realization of the [[linear mirror]] for the concentration of solar energy. Grassmann has worked in Italy since 1988.
+
+==Life and work==
+
+===Study of physics===
+From 1979 to 1984, Grassmann studied physics at the [[University of Erlangen]] and the [[University of Hamburg]]. For his [[laurea]] thesis, he developed a detection method for high energy photons using a [[Scintillator|scintillating crystal]] (CsI(Tl)) [[calorimeter]] with [[photodiode]] readout. Advanced scientific experiments make use of this technology, including the [[Crystal-Barrel]], the [[BaBar]], the [[CLEO (particle detector)|CLEO]], the [[Belle experiment]]s and the [[Fermi Gamma-ray Space Telescope|Glast]] satellite.
+
+From 1984 to 1988, Grassmann was part of the [[UA1 experiment]] at [[CERN]] in Geneva, where he wrote his PhD thesis.
+
+From 1987 to 1999, Grassmann worked with the [[CDF collaboration]] at the [[Tevatron collider]] in the Fermi National Laboratory ([[Fermilab]]), close to Chicago and at the [[Superconducting Super Collider]] laboratory (Dallas).
+
+In 1988 with his student, [[S. Leone (person)|S. Leone]], he developed the study of the asymmetry in production and decay of the [[W-boson]] at the [[Tevatron]] [[proton]]–[[antiproton]] collider. [[W boson]]s are predominantly produced in collisions of [[valence quark]]s; therefore, one can determine the kinematic properties of the [[up quark|up]] and [[down quarks]] in the [[proton]] and [[antiproton]] from the observation of W production. By analyzing the relative difference in the production of W<sup>+</sup> and W<sup>&minus;</sup> particles, one can substantially reduce the effects of systematic uncertainties in the experimental device.<ref>
+{{cite web
+ |author=S. Leone
+ |year=1994
+ |title=Lepton charge asymmetry from ''W''<sup>±</sup>&nbsp;→ ''l''<sup>±</sup>''ν'' at the Tevatron collider
+ |url=http://www-spires.slac.stanford.edu/spires/find/hep/www?r=FERMILAB-THESIS-1994-30
+ |accessdate=2009-02-10
+ }}{{Dead link|date=May 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+</ref><ref>
+{{cite journal
+ |author=F. Abe|year=1992
+ |title=Lepton asymmetry in ''W''-boson decays from ''{{overline|p}}p'' collisions at {{radical|s}}&nbsp;=&nbsp;1.8&nbsp;TeV
+ |journal=[[Physical Review Letters]]
+ |volume=68 |issue=10 |pages=1458–1462
+ |doi=10.1103/PhysRevLett.68.1458
+|pmid=10045137
+ |bibcode=1992PhRvL..68.1458A
+|display-authors=etal|url=https://zenodo.org/record/1233891}}</ref>
+
+Since 1988, Grassmann has developed a method for detecting the [[top quark]].<ref>
+{{cite journal
+ |author1=M. Cobal |author2=H. Grassmann |author3=S. Leone |year=1994
+ |title=On exploiting the single-lepton event structure for the top search
+ |journal=[[Il Nuovo Cimento A]]
+ |volume=107 |issue=1 |page=75
+ |doi=10.1007/BF02813074
+|bibcode = 1994NCimA.107...75C |s2cid=119549777 }}</ref> The method makes use of the different kinematic properties of production and decay of top quark particles and background events, such as the production of W particles together with [[Jet (particle physics)|hadronic jets]]. In 1994, this analysis was successfully applied by Grassmann, G. Bellettini and M. Cobal. The top quark was observed in Tevatron collider data.<ref>
+{{cite web
+ |author1=M. Cobal |author2=H. Grassmann |author3=G. Bellettini |year=1994
+ |title=Search for the top quark at CDF: Studying the structure of events with one lepton, a neutrino and jets
+ |url=http://www-spires.fnal.gov/spires/find/hep/www?r=fermilab-thesis-1994-31
+ |accessdate=2009-02-10
+}}</ref> These results were confirmed when the analysis was repeated on a larger data sample.<ref>
+{{cite journal
+ |author=F. Abe|year=1995
+ |title=Identification of Top Quark using kinematic variables
+ |journal=[[Physical Review D]]
+ |volume=52 |issue= 5|pages=R2605–R2609
+ |doi=10.1103/PhysRevD.52.R2605
+|pmid=10019541
+ |bibcode = 1995PhRvD..52.2605A |display-authors=etal}}</ref>
+
+After the top quark discovery, Grassmann worked on a connection between the classic [[Information Theory|information theory]] of [[Claude Shannon]], [[Chaitin|Gregory Chaitin]] and [[Kolmogorov|Andrey Kolmogorov]] et al. and physics.<ref>
+{{cite web
+ |author=H. Grassmann
+ |title=On the mathematical structure of messages and message processing systems
+ |url=http://www.isomorph.it/letters/available-articles/resolveUid/fa69f10e1aacdcd3d4cc1f09f70bfb7f
+ |accessdate=2009-02-10
+}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> From work done by [[Leó Szilárd]], [[Rolf Landauer]] and [[Charles H. Bennett (computer scientist)|Charles H. Bennett]], there is a connection between physics and [[information theory]]. Storing or deleting one bit of information dissipates energy;<ref>
+{{cite journal
+ |author=L. Szilárd
+ |year=1929
+ |title=Über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen
+ |journal=[[Zeitschrift für Physik]]
+ |volume=53 |pages=840–856
+ |doi=10.1007/BF01341281
+|bibcode = 1929ZPhy...53..840S
+ |issue=11–12 |s2cid=122038206
+ |author-link=Leó Szilárd
+ }}</ref><ref>
+{{cite journal
+ |author=R. Landauer
+ |year=1961
+ |title=Irreversibility and heat generation in the computing process
+ |journal=[[IBM Journal of Research and Development]]
+ |volume=5 |pages=183–191
+ |doi=10.1147/rd.53.0183
+ |issue=3
+}}</ref><ref>
+{{cite journal
+ |author=C. H. Bennett
+ |year=1982
+ |title=The Thermodynamics of Computation – A Review
+ |journal=[[International Journal of Theoretical Physics]]
+ |volume=21 |issue=12 |pages=905–940
+ |doi=10.1007/BF02084158
+|bibcode = 1982IJTP...21..905B |s2cid=17471991
+ }}</ref> however, neither classic information theory nor [[algorithmic information theory]] contain any physics variables. The variable entropy used in information theory is not a state function; therefore, it is not the thermodynamic entropy used in physics. Grassmann made use of existing and established concepts, such as message, amount of information or complexity, but set them in a new mathematical framework. His approach is based on vector algebra or on [[Boolean algebra (introduction)|Boolean algebra]] instead of probability theory.
+
+===Renewable Energies===
+
+Grassmann also developed an approach for studying shrouded [[wind turbines]].<ref>{{cite journal|title=Upgrading conventional wind turbines |author1=F. Bet |author2=H. Grassmann|doi=10.1016/S0960-1481(01)00187-2|volume=28|journal=Renewable Energy|pages=71–78|year=2003 |issue=1 |bibcode=2003REne...28...71B }}</ref><ref>{{cite journal|title=A partially static turbine—first experimental results|author1=H. Grassmann |author2=F. Bet |author3=G. Cabras |author4=M. Ceschia |author5=D. Cobai |author6=C. DelPapa |doi=10.1016/S0960-1481(03)00061-2 |volume=28 |issue=11|journal=Renewable Energy |pages=1779–1785|year=2003|bibcode=2003REne...28.1779G }}</ref><ref>{{cite journal|title=On the physics of partially static turbines |author1=H. Grassmann |author2=F. Bet |author3=M. Ceschia |author4=M. L. Ganis |doi=10.1016/j.renene.2003.07.008 |volume=29 |issue=4 |journal=Renewable Energy |pages=491–499|year=2004 |bibcode=2004REne...29..491G |citeseerx=10.1.1.542.5161 }}</ref>
+
+[[File:LinearMirror.jpg|thumbnail|right|The Linear mirror]]
+
+In 2006 Isomorph undertook the development of a system of mirrors - the so-called [[Linear mirror]] - for the concentration of solar energy. This system is a  very simple and therefore inexpensive structure, which allows to create a full-scale prototype without the need of outside partners. In 'October 2008, the Linear mirror received its first award from the [[Italian Physical Society]], which honors [[Alessandro Prest]], an employee of the Isomorph, for the presentation of the project.<ref>{{cite web |url=http://www.sif.it/attivita/congresso/xciv/comunicazioni |title=Migliori comunicazioni 2008 |author=Società Italiana di Fisica |accessdate=10 January 2013}}</ref>
+
+The mirror came into operation for the first time in autumn 2008, fulfilling all the expectations.<ref>{{cite web |url=http://www.isomorph.it/solutions/renewable-energies/solar-thermal/power-measurement |title=Measurement of the power transfer in a Linear mirror with 20 mirror elements |author=Isomorph srl |access-date=10 January 2013 |archive-url=https://web.archive.org/web/20110722040412/http://www.isomorph.it/solutions/renewable-energies/solar-thermal/power-measurement |archive-date=22 July 2011 |url-status=dead |df=dmy-all }}</ref> In July 2010 the first [[Linear mirror]] was installed by the town of Pontebba<ref>http://www.comune.pontebba.ud.it/Progetto-specchio-lineare.3774.0.html?&L=0|titolo=Progetto specchio lineare)</ref> to provide thermal energy to the local kindergarten. In the same year the town of Pontebba  successfully participated to the National contest for the election of the most virtuous municipalities.<ref>{{cite web|url=http://www.comunivirtuosi.org |title=Ass. dei Comuni Virtuosi |publisher=Comunivirtuosi.org |date= |accessdate=2013-09-14}}</ref> In April 2011 Hans Grassmann has received the "[[Nuclear-Free Future Award]], with the motivation that the [[Linear mirror]] can be able to contribute to the replacement of nuclear power.<ref>{{cite web |url=http://www.nuclear-free.com/eng/release.htm |title=Nuclear-Free Future Award Announcements |publisher=Nuclear-free.com |date= |access-date=2013-09-14 |archive-url=https://web.archive.org/web/20130724092322/http://www.nuclear-free.com/eng/release.htm |archive-date=2013-07-24 |url-status=dead }}</ref>
+
+In May 2012 the [[Linear mirror]] received the [[Solar keymark]] certificate by CERTCO DIN (DIN EN 12795-1:2006-06 and DIN EN 12795-2:2006-06).<ref>{{Cite web |url=http://www.isomorph.it/solutions/renewable-energies/solar-thermal/Linear%20Mirror/certco |title=Archived copy |access-date=2013-01-02 |archive-url=https://web.archive.org/web/20130817081931/http://www.isomorph.it/solutions/renewable-energies/solar-thermal/Linear%20Mirror/certco |archive-date=2013-08-17 |url-status=dead }}</ref> Tests for the Solar Keymark were carried out by the Fraunhofer Institute ISE Freiburg.<ref>http://www.isomorph.it/solutions/renewable-energies/solar-thermal/resolveuid/1da56c7c5ff66e2ca6b054dd73d937e0{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Entrepreneurship===
+In 2004, Grassmann founded Isomorph, which creates scientific concepts, procedures and devices based on physics research. Isomorph's research is independent of the scientific-administrative complex.
+
+Isomorph developed an innovative [[Concentrating solar power|concentrating mirror]] system to make economic use of [[solar energy]]. It is a simple system and cheap to produce.<ref>{{cite web|url=http://www.isomorph.it/solutions/renewable-energies/solar-thermal/power-measurement|title=Measurement of the power transfer in a Linear mirror with 20 mirror elements|access-date=2009-02-10|author=Isomorph srl|archive-url=https://web.archive.org/web/20110722040412/http://www.isomorph.it/solutions/renewable-energies/solar-thermal/power-measurement|archive-date=2011-07-22|url-status=dead}}</ref><ref>A. Prest, H. Grassmann, "The linear mirror for solar energy exploitation", submitted to Nuovo Cimento Letters on 30-12-2008</ref>
+
+===Books===
+Grassmann has explained physics to the general public in books and newspaper articles, noting that "everybody can understand physics. What cannot be understood is not physics."<ref>Grassmann, H.: ''Ahnung von der Materie – Physik für alle.'', Dumont, 2008, {{ISBN|978-3-8321-8082-9}}</ref> His books about the relationship between science and society are available in several translations.
+
+* Grassmann, H.: ''Das Top Quark, Picasso und Mercedes Benz – oder Was ist Physik?'', Rowohlt Berlin, 1997, {{ISBN|3-87134-328-5}}.
+* Grassmann, H.: ''Alles Quark? Ein Physikbuch'', Rowohlt Berlin, Berlin, 2000, {{ISBN|3-87134-362-5}}.
+* Grassmann, H.: ''Das Denken und seine Zukunft – von der Eigenart des Menschen'', Hoffman und Campe, Hamburg, 2001, {{ISBN|3-455-09333-7}}.
+* Grassmann, H.: ''Ahnung von der Materie – Physik für alle.'', Dumont, 2008, {{ISBN|978-3-8321-8082-9}}.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.uniud.it/ University of Udine] {{in lang|it}}
+* [http://www.fisica.uniud.it/~grassmann/contr_physics.htm Contributions to physics]
+* [https://web.archive.org/web/20110828122609/http://www.nuclear-free.com/eng/Grassmann.htm#lark Grassman receives the Nuclear Free Future Award]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grassmann, Hans}}
+[[Category:21st-century German physicists]]
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:People associated with renewable energy]]
+[[Category:People associated with CERN]]

@@ -1,0 +1,56 @@
+{{Short description|Theoretical Physicist}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox scientist
+| name              = Franz Wegner
+| birth_date        = {{birth date and age|df=yes|1940|06|15}}
+| birth_place       = 
+| fields            = [[Statistical Physics]]
+| workplaces        = [[University of Heidelberg]]<br />[[Brown University]]
+| education         = [[Forschungszentrum Jülich]]<br>[[Technical University of Munich]]
+| thesis_title      = Zum Heisenberg-Modell im paramagnetischen Bereich und am kritischen Punkt
+| thesis_year       = 1968
+| doctoral_advisor  = Wilhelm Brenig
+| academic_advisors = [[Leo Kadanoff]]<br>[[Herbert Wagner (physicist)|Herbert Wagner]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Lattice gauge theory]]<br>[[Variational perturbation theory|Wegner exponent]]<br>Wegner estimate<br>Wegner orbital model
+| awards            = [[Lars Onsager Prize]] (2015)<br>[[Max Planck medal]] (1986)<br>{{no wrap|[[Walter Schottky Prize]] (1976)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+}}
+'''Franz Joachim Wegner''' (born 15 June 1940) is emeritus professor for [[theoretical physics]] at the [[University of Heidelberg]].
+
+==Education==
+Franz Wegner attained a doctorate in 1968 with thesis advisor Wilhelm Brenig at the [[Technical University of Munich]] with the thesis, "Zum Heisenberg-Modell im paramagnetischen Bereich und am kritischen Punkt" ("On the [[Heisenberg model (quantum)|Heisenberg model]] within the paramagnetic range and at the critical point").
+
+Subsequently, he did research with a post-doctoral position at [[Forschungszentrum Jülich]], in the group of [[Herbert Wagner (physicist)|Herbert Wagner]] and at [[Brown University]] with [[Leo Kadanoff]].<ref>{{cite journal|author1=Kadanoff, L. P.|author2=Wegner, F. J.|title=Some Critical Properties of the Eight-Vertex Model|journal=Phys. Rev. B|year=1971|volume=4|issue=11|pages=3989–93|doi=10.1103/PhysRevB.4.3989|bibcode = 1971PhRvB...4.3989K }}</ref> Since 1974 he is a professor at Heidelberg University.<ref name="pt76">{{citation|title=German Physical Society gives theoretical-physics awards|journal=[[Physics Today]]|volume=29|issue=9|year=1976|doi=10.1063/1.3023914|page=69|bibcode = 1976PhT....29i..69. }}.</ref>
+
+==Research==
+The emphasis of Wegner's scientific work is [[statistical physics]], in particular the theory of [[phase transition]]s and the [[renormalization group]].<ref>{{citation|title=From order to chaos II: essays, critical, chaotic, and otherwise|volume=32|series=Series on Nonlinear Science|first=Leo P.|last=Kadanoff|publisher=World Scientific|year=1999|isbn=978-981-02-3434-8|page=161|bibcode=1999fotc.book.....K |url=https://books.google.com/books?id=uFsnv27G5M8C&pg=PA161}}.</ref><ref>{{citation|title=Conceptual Foundations of Quantum Field Theory|first=Tian Yu|last=Cao|publisher=Cambridge University Press|year=2004|isbn=978-0-521-60272-3|page=93|url=https://books.google.com/books?id=d0wS0EJHZ3MC&pg=PA93}}.</ref> The eponymous "Wegner exponent" is of fundamental importance for the purpose of describing corrections to asymptotic scale invariance in close proximity to phase transitions. Wegner also "invented"  the foundational [[Lattice gauge theory|lattice gauge theoretical]] models. The method developed from Wegner's foundational work is nowadays intensively used in simulations of [[quantum chromodynamics]].
+
+==Accolades==
+Wegner won the [[Walter Schottky Prize|Walter Schottky prize]] in 1976 for his work on phase transitions and elementary particles.<ref name="pt76"/> He has also been elected to the Heidelberger Academy of Sciences and won the [[Max Planck medal]] among other awards and recognitions. He won the [[Lars Onsager Prize|Lars Onsager prize]] from [[American Physical Society]] in 2015 for his contributions to Statistical mechanics.<ref>{{Cite web|url=https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Wegner&first_nm=Franz&year=2015|title=Prize Recipient|website=aps.org|language=en|access-date=2018-01-30}}</ref>
+
+== Selected works of Wegner ==
+* {{cite journal | last1 = Wegner | first1 = F. J. | year = 1972 | title = Corrections to scaling laws | journal = Physical Review B | volume = 5 | issue = 11| page = 4529 | doi = 10.1103/PhysRevB.5.4529 |bibcode = 1972PhRvB...5.4529W }}
+* {{cite journal | last1 = Wegner | first1 = F. | year = 1979 | title = Mobility edge problem – continuous symmetry and a conjecture | journal = Zeitschrift für Physik B | volume = 35 | issue = 3| page = 207 | doi = 10.1007/BF01319839 |bibcode = 1979ZPhyB..35..207W | s2cid = 119653249 }}
+* {{cite journal | last1 = Wegner | first1 = F. | year = 1971 | title = Duality in Generalized Ising Models and Phase Transitions without Local Order Parameter | journal =  J. Math. Phys. | volume = 12 | issue = 10| pages = 2259–2272 | doi=10.1063/1.1665530|bibcode = 1971JMP....12.2259W }}
+:Reprinted in [[Claudio Rebbi]] (ed.), ''Lattice Gauge Theories and Monte Carlo Simulations'', World Scientific, Singapore (1983), p. 60–73. ([http://www.tphys.uni-heidelberg.de/~wegner/Abstracts.html#12 Abstract.] {{Webarchive|url=https://web.archive.org/web/20110504173247/http://www.tphys.uni-heidelberg.de/~wegner/Abstracts.html#12 |date=4 May 2011 }})
+
+==See also==
+*[[Renormalization_group#Beginnings|Wegner's scaling function]]
+
+== References ==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wegner, Franz}}
+[[Category:Technical University of Munich alumni]]
+[[Category:Theoretical physicists]]
+[[Category:German theoretical physicists]]
+[[Category:20th-century German physicists]]
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:Winners of the Max Planck Medal]]

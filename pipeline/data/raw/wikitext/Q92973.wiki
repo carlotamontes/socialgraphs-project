@@ -1,0 +1,88 @@
+{{short description|American computer scientist (born 1951)}}
+
+{{Infobox scientist
+| name              = Wietse Venema
+| image             = Wietse Venema (cropped).jpg
+| image_size        =
+| alt               =
+| caption           = Venema in 2004
+| birth_date        = {{Birth year and age|1951}}
+| birth_place       = [[Jakarta]]
+| death_date        = 
+| death_place       =
+| fields            = [[Computer science]]
+| workplaces        = [[Google, Inc.]]<br/>[[Thomas J. Watson Research Center]]<br/>[[Eindhoven University of Technology]]
+| education        = [[University of Groningen]]
+| doctoral_advisor  =
+| doctoral_students =
+| known_for         = [[Postfix (software)|Postfix MTA]], [[TCP Wrappers]], [[Security Administrator Tool for Analyzing Networks]], [[The Coroner's Toolkit]]
+| awards            =
+| module            = {{Listen| embed=yes |filename = Wietse Venema - voice - en.flac
+ |title = Wietse Venema demonstrating the pronunciation of his name |type = speech |description = }}
+}}
+
+'''Wietse Zweitze Venema''' (born 1951) is a [[Kingdom of the Netherlands|Dutch]] [[programmer]] and [[physicist]] best known for writing the [[Postfix (software)|Postfix]] email system. He also wrote [[TCP Wrapper]] and collaborated with [[Dan Farmer]] to produce the computer security tools [[Security Administrator Tool for Analyzing Networks|SATAN]] and [[The Coroner's Toolkit]].<ref>{{Cite web|url=http://www.facesofopensource.com/wietse-venema/|title=Wietse Venema|work=Faces of Open Source|date=2018-10-01}}</ref><ref>{{Cite web|url=https://linuxsecurity.com/features/features/catching-up-with-wietse-venema-creator-of-postfix-and-tcp-wrapper|title=Catching up with Wietse Venema, creator of Postfix and TCP Wrapper|first1=Duane|last1=Dunston|first2=Brittany|last2=Day|date=2004-07-08|website=LinuxSecurity.com}}</ref><ref>{{cite web
+| url=http://www.safemode.org/WietseVenema.html
+| title=The Wietse Venema Interview
+| date=2002
+| website=safemode.org
+| access-date=2020-07-14
+| archive-date=2012-02-16
+| archive-url=https://web.archive.org/web/20120216111045/http://www.safemode.org/WietseVenema.html
+| url-status=dead
+}}</ref>
+
+==Biography==
+He studied physics at the [[University of Groningen]], continuing there to get a [[PhD]] in 1984 with the dissertation ''Left-right symmetry in nuclear beta decay''.<ref>{{cite thesis
+| url=http://hdl.handle.net/11370/b087d2cd-512c-4338-b870-275d221147c4
+| title=Left-right symmetry in nuclear beta decay.
+| first=Wietse Zweitze
+| last=Venema
+| publisher=[[University of Groningen]]
+| year=1984| hdl=11370/b087d2cd-512c-4338-b870-275d221147c4
+| type=Thesis fully internal (DIV)
+}}</ref> He spent 12 years at [[Eindhoven University of Technology|Eindhoven University]] as a [[systems architect]] in the Mathematics and Computer Science department, and spent part of this time writing tools for [[Electronic Data Interchange]]. Since emigrating to the U.S. in 1996 he worked for the [[IBM]] [[Thomas J. Watson Research Center]] in [[New York State]]<ref>{{cite web
+| url=https://researcher.watson.ibm.com/researcher/view.php?person=us-wietse
+| title=Wietse Z. Venema: UNIX/Internet Security
+| publisher=[[IBM]]
+| archive-url=https://web.archive.org/web/20140808041508/http://researcher.watson.ibm.com/researcher/view.php?person=us-wietse
+| archive-date=2014-08-08
+| url-status=dead}}</ref> until 2015. On March 24, 2015, he announced he was leaving IBM for [[Google]].<ref>{{cite web
+| url=https://marc.info/?l=postfix-users&m=142722724802286
+| title=Goodbye IBM, Hello Google
+| first=Wietse Zweitze
+| last=Venema
+| date=2015-03-24
+| work=postfix-users mailing list}}</ref> He retired at the end of January, 2023, but continues to actively support the open-source Postfix mail system and the DFRWS digital forensics research conferences.
+
+==Awards==
+Awards Venema has received for his work:<ref>{{cite web|url=http://www.porcupine.org/wietse/awards/|title=Wietse's Awards|publisher=porcupine.org}}</ref>
+
+* Security Summit Hall of Fame Award (July 1998)
+* [[SAGE (organization)|SAGE]] Outstanding Achievement Award (November 1999)<ref>{{cite web|url=https://www.usenix.org/about/outstanding|title=LISA (formerly SAGE) Outstanding Achievement Award}}</ref>
+* [[NLUUG]] Award (November 2000)<ref>{{cite web|url=https://nluug.nl/organisatie/nluug-award/wietse-venema/|title=NLUUG Award voor Wietse Venema}}</ref>
+* [[Sendmail]] [[Milter]] Innovation Award (November 2006)<ref>{{cite web|url=https://web.archive.org/web/20080724112448/http://www.sendmail.com/pdfs/pressreleases/Sendmail%20Innovation%20Awards_10%2025%2006_FINAL.pdf|title=Sendmail Announces Winners of Its First Annual Innovation Awards}}</ref>
+* The 2008 [[Free Software Foundation]] [[FSF Free Software Awards#Advancement of Free Software award|Award for the Advancement of Free Software]] (March 2009)
+* [[Information Systems Security Association|ISSA]] Hall of Fame Award (October 2012)<ref>{{cite web|url=https://issa.org/issa-international-awards-winners/|title=ISSA International Awards Winners}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Venema, Wietse}}
+[[Category:Dutch computer scientists]]
+[[Category:20th-century Dutch physicists]]
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:American computer scientists]]
+[[Category:Computer security specialists]]
+[[Category:Dutch emigrants to the United States]] <!-- or expatriate? -->
+[[Category:Google employees]]
+[[Category:Academic staff of the Eindhoven University of Technology]]
+[[Category:University of Groningen alumni]]
+[[Category:21st-century Dutch physicists]]
+[[Category:Google people]]

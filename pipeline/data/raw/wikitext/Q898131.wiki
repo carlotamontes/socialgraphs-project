@@ -1,0 +1,66 @@
+{{Short description|Australian physicist (born 1942)}}
+{{About|the physicist|the American football player|Brandon Carter (American football)}}
+{{Use dmy dates|date=April 2022}}
+{{More footnotes|date=May 2023}}
+{{Infobox scientist
+| name              = Brandon Carter
+| honorific_suffix  = {{postnominals|FRS}}
+| image             = BrandonCarter.jpg
+| caption           = 
+| birth_date        = {{birth year and age|1942}}
+| birth_place       = Australia
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| fields            = [[General relativity]]
+| workplaces        = [[CNRS]]
+| education         = [[University of Cambridge]]
+| doctoral_advisor  = [[Dennis William Sciama|Dennis Sciama]]
+| academic_advisors = 
+| doctoral_students = [[Douglas N. C. Lin]]
+| notable_students  = 
+| known_for         = [[Anthropic principle]]<br />[[Carter constant]]<br />[[No-hair theorem]]<br />[[Penrose diagram|Carter–Penrose diagrams]]<br />[[Doomsday argument]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| religion          = 
+| signature         = 
+| footnotes         = 
+}}
+
+'''Brandon Carter''', {{postnominals|FRS}} (born 1942) is an Australian [[theoretical physics|theoretical physicist]] who explores the properties of [[black holes]], and was the first to name and employ the [[anthropic principle]] in its contemporary form. He is a researcher at the [[Meudon]] campus of the Laboratoire Univers et Théories, part of the French [[CNRS]].
+
+==Biography==
+Carter studied at the [[University of Cambridge]] under [[Dennis William Sciama|Dennis Sciama]].  He found the exact solution of the [[geodesic equation]]s for the [[Kerr–Newman metric|Kerr/Newman electrovacuum solution]], and the [[Analytic continuation|maximal analytic extension]] of this solution. In the process, he discovered the extraordinary [[Carter constant|''fourth constant of motion'']] and the Killing–Yano tensor. Together with [[Werner Israel]] and [[Stephen Hawking]], he partially proved the [[no-hair theorem]] in [[general relativity]], stating that all stationary [[black hole]]s are completely characterized by [[mass]], [[charge (physics)|charge]], and [[angular momentum]]. In 1982 with astrophysicist [[Jean-Pierre Luminet]], he invented the concept of [[Tidal disruption event|tidal disruption event (TDE)]], namely the destruction of a star passing in the vicinity of a supermassive black hole. They showed that this phenomenon could result in the violent destruction of the star in the form of a  "stellar pancake", causing a reactivation of nuclear reactions in the core of the star in the stage of its maximum compression. 
+
+More recently, Carter, Chachoua, and Chamel (2005) have formulated a relativistic theory of elastic deformations in [[neutron star]]s.<ref>{{Cite journal |date=2008-11-03 |title=Bulletin on General Relativity and Gravitation |url=https://doi.org/10.1007/bf02983128 |journal=Bulletin on General Relativity and Gravitation |volume=1 |issue=1 |pages=3–38 |doi=10.1007/bf02983128 |issn=1662-5390|url-access=subscription }}</ref>
+
+==References==
+{{Reflist}}
+* {{cite journal | author=Carter, B. | title=Global structure of the Kerr family of gravitational fields | journal=Phys. Rev. | year=1968 | volume=174 | pages=1559–1571 | doi=10.1103/PhysRev.174.1559|bibcode = 1968PhRv..174.1559C | issue=5 }}
+* {{cite journal | author=Carter, B. | title=Hamilton-Jacobi and Schrödinger separable solutions of Einstein's equations| journal=Commun. Math. Phys. | year=1968 | volume=10 | issue=4 | pages=280–310 | url=http://projecteuclid.org/euclid.cmp/1103841118| doi=10.1007/BF03399503| bibcode=1968CMaPh..10..280C| s2cid=122098509}}
+* {{cite journal | author=Carter, B. | title=An axisymmetric black hole has only two degrees of freedom | journal=Phys. Rev. Lett. | year=1970 | volume=26 | pages=331–333 | doi=10.1103/PhysRevLett.26.331 | bibcode=1971PhRvL..26..331C | issue=6}}
+* {{cite book | editor=Carter, B. |editor2=Hartle, J. B. | title=Gravitation in astrophysics, Cargese, 1986 |  location=New York  | publisher=Plenum Press | year=1987 | isbn=0-306-42590-4}}
+* {{cite journal |author1=Carter, B. |author2=Luminet, J.- P. |date=1982 |title=Pancake Detonation of Stars by Black Holes in Galactic Nuclei |journal=Nature |volume=296 |number=211}}
+*{{cite journal |author1=Carter, B. |author2=Chachoua, Elie |author3=Chamel, Nicolas |name-list-style=amp | title= Covariant Newtonian and Relativistic dynamics of (magneto)-elastic solid model for neutron star crust | doi= 10.1007/s10714-005-0210-0 | year= 2006 | journal= General Relativity and Gravitation | volume= 38 |issue=1 | pages= 83–119 | arxiv=gr-qc/0507006 |bibcode = 2006GReGr..38...83C |s2cid=1860044 }}
+
+==External links==
+* [http://luth2.obspm.fr/LuThE.html Laboratoire ''Univers et Théories'' (LUTH)] {{Webarchive|url=https://web.archive.org/web/20070901165646/http://luth2.obspm.fr/LuThE.html |date=1 September 2007 }}
+** [http://luth2.obspm.fr/~luthier/carter/ Brandon Carter] at the LUTH {{inlang|fr}}
+
+{{FRS 1981}}
+{{Authority control}}
+
+{{DEFAULTSORT:Carter, Brandon}}
+[[Category:1942 births]]
+[[Category:20th-century Australian physicists]]
+[[Category:21st-century Australian physicists]]
+[[Category:French National Centre for Scientific Research scientists]]
+[[Category:Living people]]
+[[Category:French fellows of the Royal Society]]
+[[Category:Australian fellows of the Royal Society]]

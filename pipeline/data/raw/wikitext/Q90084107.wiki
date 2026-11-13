@@ -1,0 +1,40 @@
+{{Short description|Greek engineer and researcher}}
+{{Infobox scientist
+| name              = Eleni Diamanti
+| image             = File:Eleni Diamanti.jpg
+| caption           = Diamanti in 2020
+| birth_place       = [[Greece]]
+| workplaces        = [[French National Centre for Scientific Research]]
+| education         = [[National Technical University of Athens]] <br> [[Stanford University]]
+| thesis_title      = Security and implementation of differential phase shift quantum key distribution systems
+| thesis_url        = http://www.worldcat.org/oclc/71209094
+| thesis_year       = 2006
+| website           = [http://www-soc.lip6.fr/~ediamanti/index.html Eleni Diamanti]
+}}
+
+'''Eleni Diamanti''' is a Greek engineer who is a researcher at the [[French National Centre for Scientific Research]] (CNRS). Diamanti serves as Director of the Paris Centre for Quantum Computing. She was awarded a [[European Research Council]] Starting Grant in 2018.
+
+== Early life and education ==
+Diamanti is from Greece. She was an undergraduate student at the [[National Technical University of Athens]], where she majored in electrical and computer engineering.<ref>{{Cite web|title=Lead Scientists {{!}} QCALL|url=http://www.qcall-itn.eu/people/lead-scientists/|access-date=2021-06-27|language=en-GB}}</ref> She moved to the [[United States]] for graduate studies, joining [[Stanford University]] as a Master's student. She remained at Stanford for her doctoral research, where she looked at the implementation of phase shift quantum key distribution systems.<ref>{{Cite web|title=Physics - Eleni Diamanti|url=https://physics.aps.org/authors/eleni_diamanti|access-date=2021-06-27|website=physics.aps.org}}</ref> After graduating, Diamanti returned to [[Europe]], where she joined [[Institut d'Optique]] as a [[Marie Skłodowska-Curie Actions]] Fellow.<ref>{{Cite web|title=Eleni Diamanti's Home Page|url=http://www-soc.lip6.fr/~ediamanti/cv.html|access-date=2021-06-27|website=www-soc.lip6.fr}}</ref> She completed her habilitation at the [[Paris Diderot University]] in 2014. 
+
+== Research and career ==
+Diamanti was appointed to the faculty at the [[French National Centre for Scientific Research]] (CNRS) in 2009. Her research considers experimental quantum cryptography and the development of photonics sources for quantum networks.<ref>{{Cite web|title=Speaker Details: CyberSecure|url=https://emtech.technologyreview.com/cyber-secure-2020/speaker/164170/eleni-diamanti|access-date=2021-06-27|website=emtech.technologyreview.com|language=en-AG|archive-date=2021-06-27|archive-url=https://web.archive.org/web/20210627202301/https://emtech.technologyreview.com/cyber-secure-2020/speaker/164170/eleni-diamanti|url-status=dead}}</ref><ref>{{Cite web|title=QUSCO|url=https://issuu.com/euresearcher/docs/eu_research_23_digital_magazine/s/10728922|access-date=2021-06-27|website=issuu}}</ref> Alongside developing encryption software using quantum technology, Diamanti was made Vice Director of the Paris Center for Quantum Computing. In this capacity she takes part in the [[European Union]] Quantum Flagship.<ref>{{Cite web|last=Wills|first=Stewart|title=EuroQuantum|url=https://www.osa-opn.org/home/articles/volume_29/september_2018/features/euroquantum/|url-status=live|access-date=2021-06-27|archive-url=https://web.archive.org/web/20190125030237/https://www.osa-opn.org/home/articles/volume_29/september_2018/features/euroquantum/ |archive-date=2019-01-25 }}</ref> She was awarded a Prime d'Excellence Scientifique from the CNRS in 2013. In 2018 Diamanti was awarded a [[European Research Council]] Starting Grant.<ref>{{Cite web|title=Quantum superiority with coherent states|url=https://cordis.europa.eu/project/id/758911|url-status=live|access-date=2021-06-27|website=European Research Council|archive-url=https://web.archive.org/web/20210627202302/https://cordis.europa.eu/project/id/758911 |archive-date=2021-06-27 }}</ref> In 2024 she received the Innovation Medal by the CNRS.<ref>{{Cite web |date=Jul 2024 |title=Trio gagnant pour l'innovation |url=https://lejournal.cnrs.fr/nos-blogs/de-la-decouverte-a-linnovation/trio-gagnant-pour-linnovation |access-date=2024-07-19 |website=CNRS Le journal |language=fr}}</ref>
+
+== Selected publications ==
+*{{Cite journal |author-link8=Eleni Diamanti |author-link16=Nicolas Gisin |author-link58=Anton Zeilinger |author1=M Peev |author2=C Pacher |author3=R Alléaume |author4=C Barreiro |author5=J Bouda |author6=W Boxleitner |author7=T Debuisschert |author8=E Diamanti |author9=M Dianati |author10=J F Dynes |author11=S Fasel |author12=S Fossier |author13=M Fürst |author14=J-D Gautier |author15=O Gay |author16=N Gisin |author17=P Grangier |author18=A Happe |author19=Y Hasani |author20=M Hentschel |author21=H Hübel |author22=G Humer |author23=T Länger |author24=M Legré |author25=R Lieger |author26=J Lodewyck |author27=T Lorünser |author28=N Lütkenhaus |author29=A Marhold |author30=T Matyus |author31=O Maurhart |author32=L Monat |author33=S Nauerth |author34=J-B Page |author35=A Poppe |author36=E Querasser |author37=G Ribordy |author38=S Robyr |author39=L Salvail |author40=A W Sharpe |author41=A J Shields |author42=D Stucki |author43=M Suda |author44=C Tamas |author45=T Themel |author46=R T Thew |author47=Y Thoma |author48=A Treiber |author49=P Trinkler |author50=R Tualle-Brouri |author51=F Vannel |author52=N Walenta |author53=H Weier |author54=H Weinfurter |author55=I Wimberger |author56=Z L Yuan |author57=H Zbinden |author58=A Zeilinger |bibcode=2009NJPh...11g5001P |display-authors=3 |doi=10.1088/1367-2630/11/7/075001 |issn=1367-2630 |issue=7 |journal=[[New Journal of Physics]] |language=en |article-number=075001 |date=2 July 2009 |title=The SECOQC quantum key distribution network in Vienna |volume=11}}
+*{{Cite journal |arxiv=1210.6216 |author-link5=Eleni Diamanti |author1=Paul Jouguet |author2=Sébastien Kunz-Jacques |author3=Anthony Leverrier |author4=Philippe Grangier |author5=Eleni Diamanti |doi=10.1038/NPHOTON.2013.63 |issn=1749-4885 |issue=5 |journal=[[Nature Photonics]] |language=en |pages=378-381 |date=14 April 2013 |title=Experimental demonstration of long-distance continuous-variable quantum key distribution |volume=7}}
+*{{Cite journal |author-link2=Eleni Diamanti |author1=Carsten Langrock |author2=Eleni Diamanti |author3=Rostislav V Roussev |author4=Yoshihisa Yamamoto |author5=M M Fejer |author6=Hiroki Takesue |doi=10.1364/OL.30.001725 |issn=0146-9592 |issue=13 |journal=[[Optics Letters]] |language=en |pages=1725-1727 |pmid=16075551 |date=1 July 2005 |title=Highly efficient single-photon detection at communication wavelengths by use of upconversion in reverse-proton-exchanged periodically poled LiNbO3 waveguides. |volume=30}}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Diamanti, Eleni}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Greek women engineers]]
+[[Category:Greek computer scientists]]
+[[Category:National Technical University of Athens alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Research directors of the French National Centre for Scientific Research]]

@@ -1,0 +1,89 @@
+{{Short description|Mathematician and physicist}}
+{{About|the 20th century mathematician|other people named James Yorke|James Yorke (disambiguation)}}
+{{Infobox scientist
+| name              = James Alan Yorke
+| image             = James A Yorke.jpg
+| birth_name        = James Alan Yorke
+| birth_date        = {{birth date and age|1941|8|3|mf=yes}}
+| birth_place       = [[Plainfield, New Jersey]]
+| death_date        = 
+| death_place       = 
+| fields            = [[Math]] and [[Physics]] ([[Theoretical physics|theoretical]])
+| workplaces        = [[University of Maryland, College Park]]
+| education         = {{Plainlist|
+ * [[Columbia University]] ([[Bachelor of Arts|BA]])<br />[[University of Maryland, College Park]] ([[PhD]])
+}}
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = {{plainlist|1=
+*[[Tien-Yien Li]]
+*[[Suzanne Sindi]]
+}}
+| notable_students  = 
+| known_for         = [[Kaplan–Yorke conjecture]]
+| awards            = [[Japan Prize]] (2003)
+| religion          = 
+| footnotes         = 
+}}
+
+'''James Alan Yorke''' (born August 3, 1941) is an American mathematician who is a Distinguished University Research Professor of [[Mathematics]] and [[Physics]] and former chair of the Mathematics Department at the [[University of Maryland, College Park]].
+
+== Life and career ==
+{{missing information|section|Yorke's career between school and his Distinguished University Professorship|date=June 2025}}
+Born in [[Plainfield, New Jersey]], [[United States]], Yorke attended [[The Pingry School]], then located in Hillside, New Jersey. He received his PhD at the [[University of Maryland College Park]] in 1966, under the supervision of Aaron Strauss. in Yorke is now a [[Distinguished University Research Professor]] of Mathematics and Physics with the Institute for Physical Science and Technology at the University of Maryland. In June 2013, Yorke retired as chair of the University of Maryland's Math department. He devotes his university efforts to collaborative research in chaos theory and genomics.
+
+He and [[Benoit Mandelbrot]] were the recipients of the 2003 [[Japan Prize]] in Science and Technology: Yorke was selected for his work in [[chaotic system]]s. In 2003 he was elected a [[Fellow of the American Physical Society]],<ref>{{cite web|url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2003&unit_id=&institution=|title=APS Fellow Archive|publisher=APS|access-date=17 September 2020}}</ref> and in 2012 became a fellow of the [[American Mathematical Society]].<ref>{{citation|title= List of Fellows of the American Mathematical Society|url=http://www.ams.org/profession/fellows-list|access-date=2013-09-01}}</ref>
+
+He received the Doctor Honoris Causa degree from the [[Universidad Rey Juan Carlos]], Madrid, Spain, in January 2014.<ref>{{citation|title= Doctor Honoris Causa degree from the Universidad Rey Juan Carlos, Madrid, Spain|url= http://www.ucci.urjc.es/james-yorke-investido-doctor-honoris-causa-por-la-urjc/|access-date= 2017-07-25|archive-date= 2018-06-15|archive-url= https://web.archive.org/web/20180615215851/http://www.ucci.urjc.es/james-yorke-investido-doctor-honoris-causa-por-la-urjc/|url-status= dead}}</ref> In June 2014, he received the Doctor Honoris Causa degree from Le Havre University, Le Havre, France.<ref>{{citation|title= Doctor Honoris Causa degree from Le Havre University, Le Havre, France|url=http://pournormandie.blogspot.com/2014/07/la-ceremonie-de-docteur-honoris-causa.html}}</ref> He was a 2016 [[Thomson Reuters Citation Laureate|Thomson Reuters Citations Laureate]] in Physics.<ref>{{citation|title=Thomson Reuters Citations Laureate in Physics |date=7 February 2024 |url=http://stateofinnovation.com/2016-citation-laureates}}</ref>
+
+==Contributions==
+
+===Period three implies chaos===
+He and his co-author [[T.Y. Li]] coined the mathematical term ''[[chaos (mathematics)|chaos]]'' in a paper they published in 1975 entitled '''''Period three implies chaos''''',<ref>T.Y. Li, and J.A. Yorke, ''Period Three Implies Chaos'', [[American Mathematical Monthly]] 82, 985 (1975).</ref> in which it was proved that every one-dimensional continuous map
+
+:''F'': '''''R''''' → '''''R'''''
+
+that has a period-3 orbit must have two properties:
+
+(1) For each positive integer ''p'', there is a point in '''''R''''' that returns to where it started after ''p'' applications of the map and not before.
+
+This means there are infinitely many periodic points (any of which may or may not be stable): different sets of points for each period ''p''. This turned out to be a special case of [[Sharkovskii's theorem]].<ref>{{cite journal |first=A. N. |last=Sharkovskii |title=Co-existence of cycles of a continuous mapping of the line into itself |journal=Ukrainian Math. J. |volume=16 |pages=61–71 |year=1964 }}</ref>
+
+The second property requires some definitions. A pair of points ''x'' and ''y'' is called “scrambled” if as the map is applied repeatedly to the pair, they get closer together and later move apart and then get closer together and move apart, etc., so that they get arbitrarily close together without staying close together. The analogy is to an egg being scrambled forever, or to typical pairs of atoms behaving in this way. A set ''S'' is called a '''scrambled set''' if every pair of distinct points in ''S'' is scrambled. Scrambling is a kind of [[mixing (mathematics)|mixing]].
+
+(2) There is an [[uncountable set|uncountably infinite set]] ''S'' that is scrambled.
+
+A map satisfying Property 2 is sometimes called "chaotic in the sense of Li and Yorke".<ref>{{cite journal |first1=F. |last1=Blanchard |first2=E. |last2=Glasner |first3=S. |last3=Kolyada |first4=A. |last4=Maass |title=On Li–Yorke pairs |journal=[[Journal für die reine und angewandte Mathematik]] |volume=547 |year=2002 |pages=51–68 }}</ref><ref>{{cite journal |first1=E. |last1=Akin |first2=S. |last2=Kolyada |title=Li–Yorke sensitivity |journal=[[Nonlinearity (journal)|Nonlinearity]] |volume=16 |issue=4 |year=2003 |pages=1421–1433 |doi=10.1088/0951-7715/16/4/313 |bibcode=2003Nonli..16.1421A |s2cid=250751553 |url=https://polipapers.upv.es/index.php/AGT/article/view/1645 }}</ref> Property 2 is often stated succinctly as their article's title phrase "Period three implies chaos". The uncountable set of chaotic points may, however, be of [[Measure (mathematics)|measure]] zero (see for example the article [[Logistic map]]), in which case the map is said to have '''unobservable nonperiodicity'''<ref>{{cite book |last1=Collet |first1=Pierre |last2=Eckmann |first2=Jean-Pierre |title=Iterated Maps on the Interval as Dynamical Systems |url=https://archive.org/details/iteratedmapsonin0000coll |url-access=registration |publisher=Birkhäuser |year=1980 |isbn=3-7643-3510-6 }}</ref>{{rp|p. 18}} or '''unobservable chaos'''.
+
+===O.G.Y. control method===
+He and his colleagues ([[Edward Ott]] and [[Celso Grebogi]]) had shown with a numerical example that one can convert a chaotic motion into a periodic one by a proper time-dependent perturbation of the parameter. This article is considered a classic among the works in the control theory of chaos, and their control method is known as the [[Control of chaos#OGY method|O.G.Y. method]].
+
+===Books===
+Together with [[Kathleen T. Alligood]] and [[Tim D. Sauer]], he was the author of the book [https://www.amazon.com/Chaos-Introduction-Dynamical-Textbooks-Mathematical/dp/0387946772 Chaos: An Introduction to Dynamical Systems].
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20050306021657/http://yorke.umd.edu/ Website at the University of Maryland]
+* {{MathGenealogy|id=41974}}
+
+{{chaos theory}}
+{{Japan Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Yorke, James A.}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Chaos theorists]]
+[[Category:Columbia University alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Theoretical physicists]]
+[[Category:University of Maryland, College Park alumni]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Fellows of the Society for Industrial and Applied Mathematics]]
+[[Category:People from Plainfield, New Jersey]]
+[[Category:Mathematicians from New Jersey]]

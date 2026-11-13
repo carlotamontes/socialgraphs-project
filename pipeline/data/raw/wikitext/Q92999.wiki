@@ -1,0 +1,73 @@
+{{Short description|American computer engineer (born 1938)}}
+{{other people|Charles Moore}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox person
+| name               = Chuck Moore
+| image              = ChuckMoore.jpg
+| caption            = Moore {{circa|2006}} or earlier
+| birth_name         = Charles Havice Moore II
+| birth_date         = {{birth date and age|df=yes|1938|9|9}}<ref name=:0>Bergin, Thomas J. and Gibson, Richard G., ''History of Programming Languages'', Volume ., Addison Wesley, 1996, p. 670.</ref>
+| birth_place        = [[McKeesport, Pennsylvania]]<ref name=:0/>
+| death_date         = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place        = 
+| other_names        = 
+| known_for          = [[Forth (programming language)|Forth programming language]]<br>[[Stack machine]] processors
+| occupation         = Computer chip designer
+| spouse             = Winifred Bellis <small>(m. 1967–2005, her death)</small><ref>[http://www.colorforth.com/min.htm Winifred Bellis Moore] {{webarchive|url=https://web.archive.org/web/20090401160924/http://www.colorforth.com/min.htm |date=1 April 2009 }}, 10 October 1932 – 11 January 2005</ref>
+| children           = Eric O. Moore<ref>[http://www.colorforth.com/eric.htm Eric O. Moore] {{webarchive|url=https://web.archive.org/web/20090513005032/http://colorforth.com/eric.htm |date=13 May 2009 }}, born 1969 in Amsterdam NY</ref>
+| citizenship        = American
+| website            = {{url|https://colorforth.github.io}}
+}}
+
+'''Charles Havice Moore II'''<ref name=:0/> (born 9 September 1938), better known as '''Chuck Moore''', is an American [[computer engineering|computer engineer]] and programmer who invented the [[Forth (programming language)|Forth programming language]] in 1968. He cofounded FORTH, Inc., with [[Elizabeth Rather]] in 1971 and continued to evolve the language with an emphasis on simplicity.
+
+Beginning in the early 1980s, Moore shifted focus to designing [[stack machine]]s in hardware conjoined with Forth-like languages to run on them. He developed the Novix NC4000 and ShBoom (which  evolved into the [[Ignite (microprocessor)|Ignite]] processor), then the minimal instruction set MuP21, and i21. He distanced himself from Forth proper, which by then had an official standard, and built ever more minimalist stack languages to support his own needs, particularly [[processor design]]. In the early 1990s, he implemented a system called OK for direct editing of [[x86]] machine code without a [[compiler]] or [[Assembler (computing)|assembler]]. He changed direction with [[colorForth]], which uses internal tokens in the source code to guide a tiny compiler. He chose to visualize these tokens as different colors in a program, so code to be compiled and code to be interpreted are displayed distinctly.
+
+In the 2000s he created a series of low-power chips, marketed by GreenArrays, containing up to 144 individual stack processors.
+
+== Early career ==
+Moore began programming at the Smithsonian Astrophysical Observatory by the late 1950s. He attended the [[Massachusetts Institute of Technology]], where he studied under [[John McCarthy (computer scientist)|John McCarthy]]<ref name="ColorFORTH">{{cite web |last1=Moore |first1=Charles H. |title=Chuck Moore's Biography |url=https://colorforth.github.io/bio.html |website=Colorfoth home page |publisher=GreenArrays Inc. |access-date=24 August 2026}}</ref> and received a bachelors in physics in 1961. He entered [[Stanford University]] for graduate school to study mathematics but in 1965 he left to move to [[New York City]] to become a freelance programmer.<ref name="evolution">{{Cite book |last1=Rather |first1=Elizabeth |last2=Colburn |first2=Donald |last3=Moore |first3=Charles |title=History of programming languages---II |chapter=The evolution of Forth |date=1 January 1996 |pages=625–670 |doi=10.1145/234286.1057832 |isbn=9780201895025 |access-date=17 October 2022 |chapter-url= https://dl.acm.org/doi/abs/10.1145/234286.1057832 }}</ref>
+
+== Forth ==
+In 1968, while employed at the United States [[National Radio Astronomy Observatory]] (NRAO), Moore invented the initial version of the Forth language to help control [[radio telescope]]s. In 1971 he co-founded (with [[Elizabeth Rather]]) FORTH, Inc., the first, and still one of the leading, purveyors of Forth solutions.  During the 1970s he [[porting|ported]] Forth to dozens of computer architectures.<ref name="evolution"/>
+
+== Hardware design==
+In the 1980s, Moore turned his attention and Forth development techniques to [[CPU design]], developing several [[stack machine]] microprocessors and gaining several [[microprocessor]]-related patents<ref>{{Citation | url = http://www.linuxelectrons.com/article.php/20060123220907467 | title = Hewlett-Packard Licenses Moore Microprocessor Patent Portfolio | date = 23 January 2006 | publisher = LinuxElectrons | archivedate = 2007-12-26 | archiveurl = https://web.archive.org/web/20071226155608/http://www.linuxelectrons.com/news/hardware/hewlett-packard-licenses-moore-microprocessor-patent-portfolio}}.</ref> along the way. His designs have all emphasized high performance at low power usage. He also explored alternate Forth architectures such as cmForth and machine Forth, which more closely matched his chips' machine languages.
+
+In 1983 Moore founded Novix, Inc., where he developed the NC4000 processor. This design was licensed to [[Harris Semiconductor]] which marketed an enhanced version as the [[RTX2010|RTX2000]], a [[radiation hardened]] stack processor which has been used in numerous [[NASA]] missions.  In 1985 at his consulting firm Computer Cowboys, he developed the Sh-Boom processor.  Starting in 1990, he developed his own [[Very-large-scale integration|VLSI]] [[Computer-aided design|CAD]] system, OKAD, to overcome limitations in existing CAD software. He used these tools to develop several [[multi-core]] [[minimal instruction set computer]] (MISC) chips: the MuP21 in 1990 and the F21 in 1993.
+
+Moore was a founder of iTv Corp,<ref>{{Citation | title = iTV Corp. Develops New Low-Cost, High-Speed Computer Chip | journal = Business Wire | date = 3 June 1996}}.</ref><ref>{{Citation | url = http://www.itvcorp.com/ | title = The iTV Corporation | archivedate = 22 September 2001 | archiveurl = https://web.archive.org/web/20010922100249/http://itvcorp.com/}}</ref> one of the first companies to work on [[internet appliance]]s. In 1996 he designed another custom chip for this system, the i21.<ref>{{cite web|url=http://www.itvc.com/Technology/i21.html |title=i21 Processor |accessdate=2017-03-24 |url-status=bot: unknown |archiveurl=https://web.archive.org/web/19990423061233/http://www.itvc.com/Technology/i21.html |archivedate=23 April 1999 }}, High-performance low-cost Internet access multiprocessor, iTv Corp</ref><ref>[https://web.archive.org/web/20110710181448/http://www.elilabs.com/miscarc/11-96/archive/0005.html Mailing List: fire-side-chat], From:Jeff Fox, Sun, 17 November 1996 02:22:00 -0800, "...This box will contain iTV's i21 chip designed by Chuck Moore."</ref>
+
+Moore developed the [[colorForth]] dialect of Forth, a language derived from the scripting language for his custom [[Very-large-scale integration|VLSI]] [[Computer-aided design|CAD]] system, OKAD.  In 2001, he rewrote OKAD in colorForth and designed the c18 processor.
+
+In 2005, Moore co-founded and became Chief Technology Officer of IntellaSys, which develops and markets his chip designs, such as the seaForth-24 [[multi-core processor]].
+
+In 2009, he co-founded and became CTO of GreenArrays, Inc which is marketing the [[GA4 (microprocessor)|GA4]] and [[GA144]] multi-computer chips.
+
+==Publications==
+*{{cite book |author1-link=Elizabeth Rather |first1=Elizabeth D. |last1=Rather |first2=Donald R. |last2=Colburn |first3=Charles H. |last3=Moore |title=History of programming languages---II |chapter=The evolution of Forth |chapter-url=https://dl.acm.org/doi/10.1145/234286.1057832 |doi=10.1145/234286.1057832 |editor1-first=Thomas J. |editor1-last=Bergin |editor2-first=Richard |editor2-last=G. Gibson |volume=II |publisher=ACM Press, Addison-Wesley |location= |date=1996 |isbn=978-0-201-89502-5 |pages=625–670 |url=https://dl.acm.org/doi/book/10.1145/234286}}
+
+==See also==
+* [[List of pioneers in computer science]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+*[https://web.archive.org/web/20160414102635/http://colorforth.com/ Chuck Moore's homepage] archived, last updated 2013
+*[http://www.greenarrays.com/ GreenArrays] his current venture
+*[http://www.forth.com/ FORTH, Inc.]
+*[http://www.simple-talk.com/opinion/geek-of-the-week/chuck-moore-geek-of-the-week/ Interview] at Simple-Talk (2009)
+*[http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US6598148&F=0 Chuck Moore patent on processor timing]
+*[http://www.techworld.com.au/article/250530/-z_programming_languages_forth Computerworld Interview]
+*[http://forth.org/  Forth Interest Group] (FIG)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Moore, Charles H.}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:American computer programmers]]
+[[Category:Programming language designers]]
+[[Category:Massachusetts Institute of Technology alumni]]

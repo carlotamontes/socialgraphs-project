@@ -1,0 +1,83 @@
+{{Short description|Iranian-american physicist}}
+{{orphan|date=December 2023}}
+{{Infobox scientist
+| name              = Pedram Roushan
+| native_name_lang  = 
+| image             = Pedram_Roushan_Madrid_2023.png
+| caption           = Roushan in QUANTMatter 2023, Madrid
+| image_upright     = 
+| alt               = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = 1978
+| birth_place       = [[Sari, Iran|Sari]], Iran 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Quantum physics]], [[quantum information science]]
+| workplaces        = [[Princeton University]], [[University of California, Santa Barbara]], [[Google AI]]
+| patrons           = 
+| education         = [[University of Pittsburgh]], [[Princeton University]] (Ph.D.)
+| thesis_title      = Visualizing Surface States of Topological Insulators with Scanning Tunneling Microscopy
+| thesis_url        = https://www.proquest.com/docview/879747210?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+| thesis_year       = 2011
+| doctoral_advisor  = [[Ali Yazdani]]<ref name="phystree">{{cite web|url=https://academictree.org/physics/peopleinfo.php?pid=457364 |title=Pedram Roushan, Ph.D.  |work=Physics Tree |access-date=2023-12-13}}</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://research.google/people/108435/}}
+| footnotes         = 
+}}
+
+'''Pedram Roushan''' is a research scientist working at [[Google AI]] on [[quantum computing]] and [[quantum simulation]].
+
+==Biography==
+Pedram Roushan was born in [[Sari, Iran|Sari]], Iran in 1978 and raised in Iran. His family belonged to the [[Baháʼí Faith]] and suffered prosecution and discrimination after the [[Islamic Revolution]]. Roushan's parents were laid-off from their jobs due to their beliefs, and his father had to spend several years in hiding. In 1984, to escape persecution, he and his family lived in a small village close to [[Gilan province]], where Roushan attended elementary school. In 1996, Roushan was denied access to Iranian universities. He enrolled at the ''Baháʼí Institute for Higher Education'', where he obtained a degree in civil engineering.<ref>{{cite web |url=https://iranpresswatch.org/post/20544/google-quantum-scientist-banned-attending-university-iran/ |title=The Google Quantum Scientist Was Banned from Attending University in Iran |date=October 29, 2019  |author=Kian Sabeti |access-date=2023-11-24}}</ref>
+
+In 2001 and with the help of the Hebrew Immigration Aid Society (HIAS),<ref>{{cite web |url=https://hias.org/ |title=Hebrew Immigration Aid Society. |author=HIAS |date=2024|access-date=2024-01-20}}</ref>  he moved to the US as a religious refugee and attended the [[University of Pittsburgh]],<ref>{{cite web |url=https://www.pittmag.pitt.edu/news/shades-good-will-hunting |title=Shades of Good Will Hunting. Tackling quantum computing, one problem at a time. |author=Nick Keppler |work=Pitt Magazine |date=2019 |access-date=2023-11-24}}</ref> where he graduated ''summa cum laude'' in 2005. He completed his PhD in the group of [[Ali Yazdani]] at [[Princeton University]] in 2011, where he studies diluted magnetic semiconductors <ref>{{cite journal |url=https://www.science.org/doi/10.1126/science.1183640|title=Visualizing Critical Correlations Near the Metal-Insulator Transition in Ga_{1-x}Mn_xAs|date=February 5, 2010|author= Science|journal=Science |volume=327 |issue=5966 |pages=665–669 |doi=10.1126/science.1183640 |pmid=20133566 |arxiv=1002.1037 |access-date=2024-01-18}}</ref> and also performed the first <ref>{{cite journal |url=https://www.nature.com/articles/nature08308|title=Topological surface states protected from backscattering by chiral spin texture|date=August 9, 2009|author= Nature|journal=Nature |volume=460 |issue=7259 |pages=1106–1109 |doi=10.1038/nature08308 |pmid=19668187 |arxiv=0908.1247 |bibcode=2009Natur.460.1106R |access-date=2024-01-18}}</ref> [[scanning tunneling microscope|scanning tunneling microscopy]] on the surface of [[topological insulators]]. He then moved to the [[University of California, Santa Barbara]] as a postdoc, where he worked in [[John M. Martinis|John Martinis]]' group on building a [[quantum computer]] based on [[superconducting qubit]]s. In 2014 he joined [[Google]] together with the Martinis team<ref>{{cite web |url=https://ieeexplore.ieee.org/author/37086701976 |title=Author info: Pedram Roushan |work=[[IEEE]] |date=2019-10-14 |access-date=2023-12-13}}</ref> and was part of the group performing the first claimed [[quantum supremacy]] demonstration on Google's [[Sycamore processor]].<ref>{{cite journal |title=Quantum supremacy using a programmable superconducting processor |first1=Frank |last1=Arute |first2=Kunal |last2=Arya |first3=Ryan |last3=Babbush |first4=Dave |last4=Bacon |first63=Pedram |last63=Roushan |first76=Hartmut |last77=Neven |first23=John M. |last23=Martinis |display-authors=3 |journal=Nature |volume=574 |pages=505–510 |date=2019 |issue=7779 |doi=10.1038/s41586-019-1666-5 |pmid=31645734 |arxiv=1910.11333|bibcode=2019Natur.574..505A }}</ref>
+
+Roushan is a Principal Research Scientist at Google Quantum AI and leads the experimental effort on [[Noisy intermediate-scale quantum era|noisy intermediate scale quantum]] (NISQ) algorithms, focusing on simulating quantum phenomena on NISQ processors.<ref>{{cite web |url=https://research.google/people/108435/ |title=About Pedram Roushan |work=google.com |access-date=2023-11-24}}</ref> With his team and their collaborators, they have studied information scrambling in quantum circuits,<ref>{{cite journal |url=https://www.science.org/doi/10.1126/science.abg5029|title=Information scrambling in quantum circuits|date=October 28, 2021|author= Science|journal=Science |volume=374 |issue=6574 |pages=1479–1483 |doi=10.1126/science.abg5029 |pmid=34709938 |arxiv=2101.08870 |bibcode=2021Sci...374.1479M |access-date=2024-01-18}}</ref> non-equilibrium dynamics and [[universality class]]es in [[Spin model#Quantum|quantum spin models]],<ref>{{cite journal |title=Formation of robust bound states of interacting microwave photons|date=December 7, 2022|author= Nature|journal=Nature |volume=612 |issue=7939 |pages=240–245 |doi=10.1038/s41586-022-05348-y |pmid=36477133 |pmc=9729104 |arxiv=2206.05254 |bibcode=2022Natur.612..240M }}</ref><ref>{{cite journal |title=Dynamics of magnetization at infinite temperature in a Heisenberg spin chain|date=April 4, 2024|author= Science|journal=Science|volume=384|issue=6691|pages=48–53 |doi=10.1126/science.adi7877 |pmid=38574139|pmc=|arxiv=2306.09333 |bibcode=2024Sci...384...48R }}</ref> phases of matter away from equilibrium, e.g. [[time crystal]]s <ref>{{cite journal |title=Time-crystalline eigenstate order on a quantum processor|date=2022|author= Nature |journal=Nature |volume=601 |issue=7894 |pages=531–536 |doi=10.1038/s41586-021-04257-w |pmid=34847568 |pmc=8791837 |arxiv=2107.13571 |bibcode=2022Natur.601..531M }}</ref> and measurement-induced entanglement phases,<ref>{{cite journal |title=Measurement-induced entanglement and teleportation on a noisy quantum processor|date=October 18, 2023|author= Nature |journal=Nature |volume=622 |issue=7983 |pages=481–486 |doi=10.1038/s41586-023-06505-7 |pmid=37853150 |pmc=10584681 |arxiv=2303.04792 |bibcode=2023Natur.622..481G }}</ref> quantum statistics of abelian <ref>{{cite journal |author=Science |date=December 2, 2021 |title=Realizing topologically ordered states on a quantum processor |url=https://www.science.org/doi/10.1126/science.abi8378 |journal=Science |volume=374 |issue=6572 |pages=1237–1241 |arxiv=2104.01180 |bibcode=2021Sci...374.1237S |doi=10.1126/science.abi8378 |pmid=34855491 |access-date=2024-01-17}}</ref> and non-abelian excitations of the Kitaev [[toric code]] model.<ref>{{cite journal |title=Non-Abelian braiding of graph vertices in a superconducting processor|date=May 11, 2023|author= Nature |journal=Nature |volume=618 |issue=7964 |pages=264–269 |doi=10.1038/s41586-023-05954-4 |pmid=37169834 |pmc=10247379 |arxiv=2210.10255 |bibcode=2023Natur.618..264G }}</ref>  At the 18th Capri Spring School in 2024,<ref>{{cite web |url=http://capri-school.eu/ |title= 18th Capri Spring School. |date=2024|access-date=2024-07-22}}</ref> he coined the term "discoverino" to refer to small discoveries first made by NISQ devices, but could also be made in theory or by using substantial classical computing resources.<ref>{{Cite journal |last=Roushan |first=Pedram |last2=Martin |first2=Leigh |date=2025-12-04 |title=Dawn of quantum simulators |url=https://www.science.org/doi/10.1126/science.adt1732 |journal=Science |publisher=American Association for the Advancement of Science |volume=390 |issue=6777 |pages=1000–1002 |doi=10.1126/science.adt1732|url-access=subscription }}</ref>
+
+== Publications (selected) ==
+* {{cite journal |title=Resolving catastrophic error bursts from cosmic rays in large arrays of superconducting qubits |first1=M |last1=McEwen |first2=L |last2=Faoro |first3=K |last3=Arya |first4=A |last4=Dunsworth |first5=T |last5=Huang |first6=S |last6=Kim |first7=B |last7=Burkett |display-authors=3 |journal=Nature Physics |volume=18 |issue=1 |pages=107–111 |date=2022 |doi=10.1038/s41567-021-01432-8|arxiv=2104.05219 |bibcode=2022NatPh..18..107M }}
+* {{cite journal |title=Time-crystalline eigenstate order on a quantum processor |first1=X |last1=Mi |first2=M |last2=Ippoliti |first3=C |last3=Quintana |first4=A |last4=Greene |first5=Z |last5=Chen |first6=J |last6=Gross |first7=F |last7=Arute |first8=K |last8=Arya |display-authors=3 |journal=Nature |volume=601 |issue=7894 |pages=531–536 |date=2021 |doi=10.1038/s41586-021-04257-w|doi-access=free |pmid=34847568 |pmc=8791837 |arxiv=2107.13571 |bibcode=2022Natur.601..531M }}
+* {{cite journal |title=Information scrambling in quantum circuits |first1=X |last1=Mi |first2=P |last2=Roushan |first3=C |last3=Quintana |first4=S |last4=Mandra |first5=J |last5=Marshall |first6=C |last6=Neill |first7=F |last7=Arute |display-authors=3 |journal=Science |volume=374 |issue=6574 |pages=1479–1483 |date=2021 |doi=10.1126/science.abg5029|pmid=34709938 |arxiv=2101.08870 |bibcode=2021Sci...374.1479M }}
+* {{cite journal |title=Realizing topologically ordered states on a quantum processor |first1=K |last1=Satzinger |first2=Y.-J. |last2=Liu |first3=A |last3=Smith |first4=C |last4=Knapp |first14=P |last14=Roushan |display-authors=3 |journal=Science |volume=374 |issue=6572 |pages=1237–1241 |date=2021 |doi=10.1126/science.abi8378|pmid=34855491 |arxiv=2104.01180 |bibcode=2021Sci...374.1237S }}
+* {{cite journal |title=Quantum supremacy using a programmable superconducting processor |first1=Frank |last1=Arute |first2=Kunal |last2=Arya |first3=Ryan |last3=Babbush |first4=Dave |last4=Bacon |first63=Pedram |last63=Roushan |first76=Hartmut |last77=Neven |first23=John M. |last23=Martinis |display-authors=3 |journal=Nature |volume=574 |pages=505–510 |date=2019 |issue=7779 |doi=10.1038/s41586-019-1666-5 |pmid=31645734 |arxiv=1910.11333|bibcode=2019Natur.574..505A }}
+* {{cite journal |title=Spectroscopic signatures of localization with interacting photons in superconducting qubits |first1=P. |last1=Roushan  |first2=C. |last2=Neill |first3=J. |last3=Tangpanitanon |first4=V. M. |last4=Bastidas |first5=A. |last5=Megrant |first6=R. |last6=Barends |first7=Y. |last7=Chen |first8=Z. |last8=Chen |first9=B. |last9=Chiaro |display-authors=3 |journal=Science |date=2017 |volume=358 |issue=6367 |pages=1175–1179 |doi=10.1126/science.aao1401|doi-access=free |pmid=29191906 |bibcode=2017Sci...358.1175R |arxiv=1709.07108 }}
+* {{cite journal |title=Scalable quantum simulation of molecular energies |first1=PJJ |last1=O'Malley |first2=R |last2=Babbush |first3=ID |last3=Kivlichan |first4=J |last4=Romero |first5=JR |last5=McClean<!--et al.--> |display-authors=3 |journal=Physical Review X |volume=6 |issue=3 |article-number=031007 |date=2016 |doi=10.1103/PhysRevX.6.031007|doi-access=free |arxiv=1512.06860 |bibcode=2016PhRvX...6c1007O }}
+* {{cite journal |title=State preservation by repetitive error detection in a superconducting quantum circuit |first1=J |last1=Kelly |first2=R |last2=Barends |first3=A G |last3=Fowler |first4=A |last4=Megrant |first5=E |last5=Jeffrey |first6=T C |last6=White <!--et al.--> |display-authors=3 |journal=Nature |volume=519 |issue=7541 |pages=66–69 |date=2015 |doi=10.1038/nature14270|pmid=25739628 |arxiv=1411.7403 |bibcode=2015Natur.519...66K }}
+* {{cite journal |title=Superconducting quantum circuits at the surface code threshold for fault tolerance |first1=R |last1=Barends |first2=J |last2=Kelly |first3=A |last3=Megrant |first4=A |last4=Veitia <!-- et al.--> |display-authors=3 |journal=Nature |volume=508 |issue=7497 |pages=500–503 |date=2014 |doi=10.1038/nature13171|pmid=24759412 |arxiv=1402.4848 |bibcode=2014Natur.508..500B }}
+* {{cite journal |title=Superconductivity in Cu<sub>x</sub>Bi<sub>2</sub>Se<sub>3</sub> and its Implications for Pairing in the Undoped Topological Insulator |first1=YS |last1=Hor |first2=AJ |last2=Williams |first3=JG |last3=Checkelsky |first4=P |last4=Roushan |first5=J |last5=Seo |first6=Q |last6=Xu<!--et al.--> |display-authors=3 |journal=Physical Review Letters |volume=104 |issue=5 |article-number=057001 |date=2010 |doi=10.1103/PhysRevLett.104.057001|pmid=20366785 |arxiv=0909.2890 |bibcode=2010PhRvL.104e7001H }}
+* {{cite journal |title=Development of ferromagnetism in the doped topological insulator Bi<sub>2−x</sub>Mn<sub>x</sub>Te<sub>3</sub>|first1=Y S |last1=Hor |first2=P |last2=Roushan |first3=H |last3=Beidenkopf |first4=J |last4=Seo |first5=D |last5=Qu |first6=J G |last6=Checkelsky |first7=L A |last7=Wray |display-authors=3 |journal=Physical Review B |volume=81 |issue=19 |article-number=195203 |date=2010 |doi=10.1103/PhysRevB.81.195203|s2cid=11760202 |url=https://resolver.caltech.edu/CaltechAUTHORS:20140815-144158820 |arxiv=1001.4834 }}
+* {{cite journal |title=Topological surface states protected from backscattering by chiral spin texture |first1=P |last1=Roushan |first2=J |last2=Seo |first3=CV |last3=Parker |first4=YS |last4=Hor |first5=D |last5=Hsieh |first6=D |last6=Qian <!--et al.--> |display-authors=3 |journal=Nature |volume=460 |issue=7259 |pages=1106–1109 |date=2009 |doi=10.1038/nature08308|pmid=19668187 |arxiv=0908.1247 |bibcode=2009Natur.460.1106R |s2cid=205217990 }}
+* {{cite journal |title=''p''-type Bi<sub>2</sub>Se<sub>3</sub> for topological insulator and low-temperature thermoelectric applications |first1=Y S |last1=Hor |first2=A |last2=Richardella |first3=P |last3=Roushan |first4=Y |last4=Xia |first5=J G |last5=Checkelsky |first6=A |last6=Yazdani |display-authors=3 |journal=Physical Review B |volume=79 |issue=19 |article-number=195208 |date=2009 |doi=10.1103/PhysRevB.79.195208|arxiv=0903.4406 |bibcode=2009PhRvB..79s5208H }}
+
+== References ==
+<references/>
+
+== External links ==
+* {{cite web |author=Kian Sabeti |date=October 29, 2019 |title=The Google Quantum Scientist Was Banned from Attending University in Iran |url=https://iranpresswatch.org/post/20544/google-quantum-scientist-banned-attending-university-iran/ |access-date=2023-11-24}}
+* {{google scholar id|wEwDG2cAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Roushan, Pedram}}
+[[Category:21st-century American physicists]]
+[[Category:Quantum physicists]]
+[[Category:Quantum information scientists]]
+[[Category:21st-century Iranian physicists]]
+[[Category:Google employees]]
+[[Category:University of Pittsburgh alumni]]
+[[Category:Princeton University alumni]]
+[[Category:1978 births]]
+[[Category:Living people]]

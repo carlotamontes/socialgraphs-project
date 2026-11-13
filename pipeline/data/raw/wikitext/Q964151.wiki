@@ -1,0 +1,132 @@
+{{Short description|Japanese-American geneticist (1931–2023)}}
+{{primary sources|date=May 2023}}
+{{Use American English|date=May 2023}}
+{{Use mdy dates|date=May 2023}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Masatoshi Nei
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Masatoshi Nei - 2013.jpg
+| caption           = Masatoshi in 2013
+| birth_date        = {{birth date|1931|01|02}}
+| birth_place       = [[Miyazaki Prefecture]], [[Empire of Japan|Japan]]
+| death_date        = {{death date and age|2023|05|18|1931|01|02}}
+| death_place       = [[Morristown, New Jersey]], U.S.
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         = 
+| other_names       = 
+| pronounce         = 
+| residence         = 
+| citizenship       = 
+| fields            = [[Evolutionary biology]]
+| workplaces        = {{ublist|[[Temple University]]|[[Pennsylvania State University]]|[[University of Texas Health Science Center at Houston]]|[[Brown University]]|[[National Institute of Radiological Sciences]]|[[Kyoto University]]}}
+| education         = {{ublist|[[Kyoto University]]|[[University of Miyazaki]]}}
+| doctoral_advisor  = Katsumi Akato
+| thesis_title      = 統計遺伝学の育種への応用に関する研究 (Studies on the Application of Biometrical Genetics to Plant Breeding)
+| thesis_url        = https://m.kulib.kyoto-u.ac.jp/webopac/TD00023859
+| thesis_year       = 1959
+| doctoral_students = [[Dan Graur]]<br />[[Margaret Kidwell]]<br />[[Aravinda Chakravarti]]
+| known_for         = Statistical theories of molecular evolution and development of the theory of mutation-driven evolution
+| awards            = {{no wrap|[[John Scott Medal]] (2017)<br />[[Kyoto Prize]] (2013)<br />[[Thomas Hunt Morgan Medal]] (2006)<br />[[International Prize for Biology]] (2002)}}
+| website           = {{URL|http://igem.temple.edu/labs/nei}}
+}}
+
+{{nihongo|'''Masatoshi Nei'''|根井正利|Nei Masatoshi|January 2, 1931 – May 18, 2023}} was a Japanese-born American [[evolutionary biologist]].
+
+== Professional life ==
+Masatoshi Nei was born in 1931 in [[Miyazaki Prefecture]], on [[Kyūshū]] Island, Japan.
+
+He received a Bachelor of Science degree from the University of Miyazaki in 1953, and published his first article, on the mathematics of plant breeding, that same year.<ref name=":0">{{Cite journal |last1=Kumar |first1=Sudhir |last2=Gojobori |first2=Takashi |date=2023-06-01 |title=Obituary: Masatoshi Nei (1931–2023) |url=https://www.wikidata.org/wiki/Q120272919 |journal=Molecular Biology and Evolution |volume=40 |issue=6 |article-number=msad149 |doi=10.1093/MOLBEV/MSAD149|pmc=10306398 }}</ref> In 1959, he completed his doctoral degree at Kyoto University on [[quantitative genetics]] for crop improvement.<ref name=":0" />
+
+For the next decade, Nei worked in Japan, including as a research scientist at the National Institute of Radiological Sciences, before emigrating to the United States in 1969.<ref name=":0" />
+
+Nei was associate professor and professor of biology at Brown University from 1969 to 1972 and professor of [[population genetics]] at the Center for Demographic and Population Genetics, University of Texas Health Science Center at Houston (UTHealth), from 1972 to 1990.
+
+He was later an [[Evan Pugh Professor]] of Biology at [[Pennsylvania State University]] and Director of the Institute of Molecular Evolutionary Genetics, working there from 1990 to 2015.
+
+From 2015, Nei was affiliated with the Department of Biology at [[Temple University]] as an adjunct Laura H. Carnell Professor.
+
+Acting alone or working with his students, he has continuously developed statistical methods for studying [[molecular evolution]] taking into account discoveries in [[molecular biology]]. He has also developed concepts in evolutionary theory and advanced the theory of [[Neutral theory of molecular evolution|mutation-driven evolution]].<ref name=":0" />
+
+Together with [[Walter M. Fitch|Walter Fitch]], Nei co-founded the journal ''[[Molecular Biology and Evolution]]'' in 1983 and the [[Society for Molecular Biology and Evolution]] in 1993.<ref>{{Cite journal |last=Nei |first=Masatoshi |date=June 1, 2014 |title=My memory of Walter Fitch (1929-2011) and starting molecular biology and evolution |journal=Molecular Biology and Evolution |volume=31 |issue=6 |pages=1329–1332 |doi=10.1093/molbev/msu133 |pmc=4032136 |pmid=24723418}}</ref>
+
+==Work in population genetics==
+===Theoretical studies===
+Nei was the first to show mathematically that, in the presence of [[gene]] interaction, [[natural selection]] always tends to enhance the linkage intensity between genetic loci or maintain the same linkage relationship.<ref>{{cite journal | last=Nei | first=Masatoshi | year=1967 | title=Modification of linkage intensity by natural selection | journal=Genetics | volume=57 | pages=625–641 | pmid=5583732 | issue=3 | doi=10.1093/genetics/57.3.625 | pmc=1211753}}</ref> He then observed that the average recombination value per genome is generally lower in higher organisms than in lower organisms and attributed this observation to his theory of linkage modification.<ref>{{cite journal | last=Nei | first=Masatoshi | year=1968 | title=Evolutionary change of linkage intensity | journal=Nature | volume=218 | pages=1160–1161 | doi=10.1038/2181160a0 | pmid=5656638 | bibcode=1968Natur.218.1160N | issue=5147 | s2cid=4166761 }}</ref> Recent molecular data indicate that many sets of interacting genes such as the Hox genes, immunoglobulin genes, and histone genes have often existed as gene clusters for a long evolutionary time. This observation can also be explained by his theory of linkage modification. He also showed that, unlike [[R.A. Fisher|R. A. Fisher's]] argument, deleterious mutations can accumulate rather quickly on the [[Y chromosome]] or duplicate genes in finite populations.<ref>{{cite journal | last1 = Nei | first1 = M | year = 1970 | title = Accumulation of nonfunctional genes on sheltered chromosomes | journal = Am. Nat. | volume = 104 | issue = 938 | pages = 311–322 | doi = 10.1086/282665 | bibcode = 1970ANat..104..311N | s2cid = 85138712 }}</ref><ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Roychoudhury | first2 = A. K. | year = 1973 | title = Probability of fixation of nonfunctional genes at duplicate loci | journal = Am. Nat. | volume = 107 | issue = 955 | pages = 362–372 | doi = 10.1086/282840 | bibcode = 1973ANat..107..362N | s2cid = 84684761 }}</ref>
+
+In 1969, considering the rates of amino acid substitution, gene duplication, and gene inactivation, he predicted that higher organisms contain a large number of duplicate genes and nonfunctional genes (now called [[pseudogenes]]).<ref>{{cite journal | last1 = Nei | first1 = M | year = 1969 | title = Gene duplication and nucleotide substitution in evolution | journal = Nature | volume = 221 | issue = 5175 | pages = 40–42 | doi = 10.1038/221040a0 | pmid = 5782607 | bibcode = 1969Natur.221...40N | s2cid = 4180639 }}</ref> This prediction was shown to be correct when many multigene families and pseudogenes were discovered in the 1980s and 1990s.
+
+His notable contribution in the early 1970s is the proposal of a new measure of [[genetic distance]] (Nei's distance) between populations and its use for studying evolutionary relationships of populations or closely related species.<ref>{{cite journal | last1 = Nei | first1 = M | year = 1972 | title = Genetic distance between populations | journal = Am. Nat. | volume = 106 | issue = 949 | pages = 283–292 | doi = 10.1086/282771 | bibcode = 1972ANat..106..283N | s2cid = 55212907 }}</ref> He later developed another distance measure called D<sub>A</sub>, which is appropriate for finding the topology of a phylogenetic tree of populations.<ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Tajima | first2 = F. | last3 = Tateno | first3 = Y. | year = 1983 | title = Accuracy of estimated phylogenetic trees from molecular data. II. Gene frequency data | journal = J. Mol. Evol. | volume = 19 | issue = 2 | pages = 153–170 | doi = 10.1007/bf02300753 | pmid = 6571220 | s2cid = 19567426 }}</ref> He also developed statistics of measuring the extent of population differentiation for any types of mating system using the ''[[Fixation index|G]]''<sub>[[Fixation index|ST]]</sub> measure.<ref>{{cite journal | last1 = Nei | first1 = M | year = 1973 | title = Analysis of gene diversity in subdivided populations | journal = Proc. Natl. Acad. Sci. USA | volume = 70 | issue = 12 | pages = 3321–3323 | doi = 10.1073/pnas.70.12.3321 | pmid = 4519626 | pmc = 427228 | bibcode = 1973PNAS...70.3321N | doi-access = free }}</ref> In 1975, he and collaborators presented a mathematical formulation of population bottleneck effects and clarified the genetic meaning of bottleneck effects.<ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Maruyama | first2 = T. | last3 = Chakraborty | first3 = R. | year = 1975 | title = The bottleneck effect and genetic variability in populations | journal = Evolution | volume = 29 | issue = 1 | pages = 1–10 | doi = 10.1111/j.1558-5646.1975.tb00807.x | pmid = 28563291 | bibcode = 1975Evolu..29....1N | doi-access = free }}</ref> In 1979, he proposed a statistical measure called [[nucleotide diversity]],<ref>{{cite journal | last1 = Nei | first1 = Masatoshi | last2 = Li | first2 = Wen-Hsiung | year = 1979 | title = Mathematical model for studying genetic variation in terms of restriction endonucleases | journal = Proc. Natl. Acad. Sci. USA | volume = 76 | issue = 10| pages = 5269–5273 | pmid = 291943 | pmc = 413122 | doi = 10.1073/pnas.76.10.5269 | bibcode = 1979PNAS...76.5269N | doi-access = free }}</ref> which is now widely used for measuring the extent of nucleotide polymorphism. He also developed several different models of speciation and concluded that the reproductive isolation between species occurs as a passive process of accumulation of interspecific incompatibility mutations<ref>{{cite journal | last1 = Nei | first1 = M. T. Maruyama | last2 = Wu | first2 = C. I. | year = 1983 | title = Models of evolution of reproductive isolation | journal = Genetics | volume = 103 | issue = 3 | pages = 557–579 | doi = 10.1093/genetics/103.3.557 | pmid = 6840540 | pmc = 1202040 }}</ref><ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Nozawa | first2 = M. | year = 2011 | title = Roles of Mutation and Selection in Speciation: From Hugo de Vries to the modern genomic era | journal = Genome Biol Evol | volume = 3 | pages = 812–829 | doi = 10.1093/gbe/evr028 | pmid = 21903731 | pmc = 3227404 | doi-access = free }}</ref>
+
+===Protein polymorphism and neutral theory===
+In the early 1960s and 1970s, there was a great controversy over the mechanism of protein evolution and the maintenance of protein polymorphism. Nei and his collaborators developed various statistical methods for testing the [[neutral theory of molecular evolution]] using polymorphism data. Their analysis of the allele frequency distribution, the relationship between average heterozygosity and protein divergence between species, etc., showed that a large portion of protein polymorphism can be explained by neutral theory.<ref name="Nei83">Nei, M. (1983) Genetic polymorphism and the role of mutation in evolution (M. Nei and P. K. Koehn, eds.) ''Evolution of Genes and Proteins.'' Sinauer Assoc., Sunderland, MA, pp. 165-190.</ref><ref name=Nei87>Nei, M. (1987) ''Molecular Evolutionary Genetics.'' Columbia University Press, New York.</ref> The only exception was the major histocompatibility complex (MHC) loci, which show an extraordinarily high degree of polymorphism. For these reasons, he accepted the neutral theory of evolution.<ref name=Nei87/><ref>{{cite journal | last1 = Li | first1 = W. H. | last2 = Gojobori | first2 = T. | last3 = Nei | first3 = M. | year = 1981 | title = Pseudogenes as a paradigm of neutral evolution | journal = Nature | volume = 292 | issue = 5820 | pages = 237–239 | doi = 10.1038/292237a0 | pmid = 7254315 | bibcode = 1981Natur.292..237L | s2cid = 23519275 }}</ref>
+
+==Human evolution==
+Using his genetic distance theory, he and A. K. Roychoudhury showed that the genetic variation between Europeans, Asians, and Africans is only about 11 percent of the total genetic variation of the human population. They then estimated that Europeans and Asians diverged about 55,000 years ago and these two populations diverged from Africans about 115,000 years ago.<ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Roychoudhury | first2 = A. K. | year = 1974 | title = Genic variation within and between the three major races of man, Caucasoids, Negroids, and Mongoloids | journal = Am. J. Hum. Genet. | volume = 26 | issue = 4 | pages = 421–443 | pmid = 4841634 | pmc = 1762596 }}</ref><ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Roychoudhury | first2 = A. K. | year = 1982 | title = Genetic relationship and evolution of human races | journal = Evol. Biol. | volume = 14 | pages = 1–59 }}</ref> This conclusion was supported by many later studies using larger numbers of genes and populations, and the estimates appear to be still roughly correct. This finding could be considered an early indication of the [[out of Africa theory|out-of-Africa theory]] of human origins.{{Citation needed|date=December 2019}}
+
+==Molecular phylogenetics==
+Around 1980, Nei and his students initiated a study of inference of phylogenetic trees based on distance data. In 1985, they developed a statistical method for testing the accuracy of a phylogenetic tree by examining the statistical significance of interior branch lengths. They then developed the [[neighbor joining]] and minimum-evolution methods of tree inference.<ref>{{cite journal | last1 = Saitou | first1 = N. | last2 = Nei | first2 = M. | year = 1987 | title = The neighbor-joining method: a new method for reconstructing phylogenetic trees | journal = Mol. Biol. Evol. | volume = 4 | issue = 4 | pages = 406–425 | doi = 10.1093/oxfordjournals.molbev.a040454 | pmid = 3447015 | doi-access = free }}</ref><ref>{{cite journal | last1 = Rzhetsky | first1 = A. | last2 = Nei | first2 = M. | year = 1993 | title = Theoretical foundation of the minimum-evolution method of phylogenetic inference | journal = Mol. Biol. Evol. | volume = 10 | issue = 5 | pages = 1073–1095 | doi = 10.1093/oxfordjournals.molbev.a040056 | pmid = 8412650 | doi-access = free }}</ref>  They also developed statistical methods for estimating evolutionary times from molecular phylogenies. In collaboration with Sudhir Kumar and Koichiro Tamura, he developed a widely used computer program package for phylogenetic analysis called [[MEGA, Molecular Evolutionary Genetics Analysis|MEGA]].<ref>Kumar, S., K. Tamura, and M. Nei (1993) MEGA: Molecular Evolutionary Genetics Analysis. Ver. 1.02, The Pennsylvania State University, University Park, PA.</ref>
+
+==MHC loci and positive Darwinian selection==
+Nei's group invented a [[Ka/Ks ratio|simple statistical method]] for detecting positive Darwinian selection by comparing the numbers of synonymous nucleotide substitutions and nonsynonymous nucleotide substitutions.<ref>{{cite journal | last1 = Nei | first1 = M. | last2 = Gojobori | first2 = T. | year = 1986 | title = Simple methods for estimating the numbers of synonymous and nonsynonymous nucleotide substitutions | journal = Mol. Biol. Evol. | volume = 3 | issue = 5 | pages = 418–426 | doi = 10.1093/oxfordjournals.molbev.a040410 | pmid = 3444411 | doi-access = free }}</ref> Applying this method, they showed that the exceptionally high degree of sequence polymorphism at MHC loci is caused by overdominant selection.<ref>{{cite journal | last1 = Hughes | first1 = A. L. | last2 = Nei | first2 = M. | year = 1988 | title = Pattern of nucleotide substitution at major histocompatibility complex class I loci reveals overdominant selection | journal = Nature | volume = 335 | issue = 6186 | pages = 167–170 | doi = 10.1038/335167a0 | pmid = 3412472 | bibcode = 1988Natur.335..167H | s2cid = 4352981 }}</ref> Although various statistical methods for this test have been developed later, their original methods are still widely used.<ref name=Nei2013>Nei, M. (2013) ''Mutation-Driven Evolution.'' Oxford University Press, Oxford.</ref>
+
+==New evolutionary concepts==
+{{further|Mutationism}}
+
+Nei and his students studied the evolutionary patterns of a large number of multigene families and showed that they generally evolve following the model of a [[birth–death process]].<ref>Nei, M. and A. P. Rooney (2005) Concerted and birth-and-death evolution of multigene families.</ref> In some gene families, this process is very fast, caused by random events of gene duplication and gene deletion and generates genomic drift of gene copy number. Nei has long maintained the view that the driving force of evolution is mutation, including any types of DNA changes (nucleotide changes, chromosomal changes, and genome duplication), and that natural selection is primarily a force eliminating less fit genotypes (i.e., theory of mutation-driven evolution).<ref name=Nei87/><ref name=Nei2013/> He conducted statistical analyzes of evolution of genes controlling phenotypic characters such as immunity and olfactory reception and obtained evidence supporting this theory.<ref name=Nei2013/>
+
+== Personal life ==
+Masatoshi Nei was born in 1931 Japan, and his lifelong interest in biology and genetics may have its roots in his upbringing on a farm, in a family of farmers.<ref name=":0" /> After completing his undergraduate and doctorate degrees in Japan, Nei emigrated to the United States in 1969.<ref name=":0" /> Nei was married with two children and two grandchildren, and enjoyed listening to classical music and sculpting topiary.<ref name=":0" /> In 2014, Nei suffered a stroke and moved to New Jersey after retiring from Pennsylvania State University.<ref name=":0" /> Nei died in [[Morristown, New Jersey]] on May 18, 2023, at the age of 92.<ref>{{cite web |title=Masatoshi Nei, Kyoto prize-winning evolutionary geneticist, dies at 92 |url=https://cst.temple.edu/news/2023/05/masatoshi-nei-kyoto-prize-winning-evolutionary-geneticist-dies-92 |access-date=May 19, 2023 |website=Temple University |date=May 19, 2023 |archive-date=May 22, 2023 |archive-url=https://web.archive.org/web/20230522071703/https://cst.temple.edu/news/2023/05/masatoshi-nei-kyoto-prize-winning-evolutionary-geneticist-dies-92 |url-status=dead }}</ref><ref>[https://www.mountlaurelfuneralhome.com/memorials/masatoshi-nei/5195709/index.php Masatoshi Nei]</ref><ref name=":0" />
+
+==Select awards and honors==
+* 2017: [[John Scott Medal]]<ref>{{cite web |title=Professor Nei named John Scott Award winner |url=https://cst.temple.edu/about/news/professor-nei-named-john-scott-award-winner |publisher=Temple University |access-date=January 11, 2022}}</ref>
+* 2013: [[Kyoto Prize in Basic Sciences]]<ref>{{cite web |title=2013 Kyoto Prize Laureates {{!}} Masatoshi Nei |url=https://www.kyotoprize.org/en/laureates/masatoshi_nei/ |publisher=Kyoto Prize |date=2013}}</ref>
+* 2006: [[Thomas Hunt Morgan Medal]]
+* 2002: Honorary Doctorate, University of Miyazaki
+* 2002: [[International Prize for Biology]], Japan Society for the Promotion of Science
+* 1997: Member, [[National Academy of Sciences]]
+
+== Books ==
+* Nei, M. (2020) ''My Life as a Molecular Evolutionist.'' Blurb, self-published.
+* Nei, M.(2013) ''Mutation-Driven Evolution.'' Oxford University Press, Oxford.
+* Nei, M., and S. Kumar (2000) ''Molecular Evolution and Phylogenetics.'' Oxford University Press, Oxford.
+* National Research Council, (1996) ''The Evaluation of DNA Forensic Evidence''. National Academies Press, Washington D.C. 
+* Roychoudhury, A. K., and M. Nei (1988) ''Human Polymorphic Genes: World Distribution.'' Oxford University Press, Oxford and New York.
+* Nei, M. (1987) ''Molecular Evolutionary Genetics.'' Columbia University Press, New York.
+* Nei, M., and R. K. Koehn (eds). (1983) ''Evolution of Genes and Proteins.'' Sinauer Assoc., Sunderland, MA.
+* Nei, M. (1975) ''Molecular Population Genetics and Evolution.'' North-Holland, Amsterdam and New York.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Scholia|author}}
+* {{official website|http://igem.temple.edu/labs/nei}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nei, Masatoshi}}
+[[Category:1931 births]]
+[[Category:2023 deaths]]
+[[Category:Japanese geneticists]]
+[[Category:Japanese molecular biologists]]
+[[Category:Statistical geneticists]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Brown University faculty]]
+[[Category:University of Texas Health Science Center at Houston faculty]]
+[[Category:Scientists from Miyazaki Prefecture]]
+[[Category:University of Miyazaki alumni]]
+[[Category:Kyoto University alumni]]
+[[Category:Kyoto laureates in Basic Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Mutationism]]
+[[Category:American population geneticists]]
+[[Category:Japanese emigrants to the United States]]
+[[Category:American academics of Japanese descent]]
+[[Category:American scientists of Asian descent]]
+[[Category:Temple University faculty]]
+[[Category:Neutral theory]]

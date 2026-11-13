@@ -1,0 +1,390 @@
+{{short description|American physicist}}
+{{Infobox scientist
+| name              = Robert Boyd
+| birth_name        = Robert William Boyd
+| image             = Robert Boyd-portrait-2010.jpg
+| image_size        = 250px
+| caption           = Boyd in 2010
+| birth_date        = {{birth date and age |1948|03|08}}<ref>''American Men and Women of Science'', Thomson Gale, 2004.</ref>
+| birth_place       = [[Buffalo, New York|Buffalo]], [[New York (state)|New York]], U.S.
+| death_date        = 
+| death_place       = 
+| field             = {{Plainlist|
+* [[Physics]]
+* [[Nonlinear optics]]
+* [[Photonics]]
+* [[Optical physics]]
+* [[Nanophotonics]]
+* [[Quantum optics]]<ref name=googlescholar/>}}
+| workplaces        = {{Plainlist|
+* [[University of Rochester]]
+* [[University of Ottawa]]}}
+| education         = {{Plainlist|
+* [[Massachusetts Institute of Technology|MIT]] (BS)
+* [[University of California, Berkeley]] (PhD)}}
+| doctoral_advisor  = [[Charles H. Townes]]<ref name=natureobit/><ref name=phd2/>
+| thesis_title      = An Infrared Upconverter for Astronomical Imaging
+| thesis_year       = 1977
+| thesis_url        = https://www.proquest.com/docview/302864239
+| doctoral_students = 
+| awards            = {{Plainlist|
+* [[Charles Hard Townes Award]] (2016)
+* [[Arthur L. Schawlow Prize in Laser Science]] (2016)
+* [[Humboldt Prize]] (2010)
+* [[Willis E. Lamb]] Award (2009)}}
+| footnotes         = 
+| website           = {{Plainlist|
+* {{URL|http://www.boydnlo.ca/}}
+* {{URL|http://www.hajim.rochester.edu/optics/sites/boyd/}}
+}}
+}}
+
+'''Robert William Boyd''' (born 8 March 1948) is an American physicist noted for his work in [[optical physics]] and especially in [[nonlinear optics]]. He is currently the [[Canada Research Chair|Canada Excellence Research Chair Laureate]] in Quantum Nonlinear Optics based at the University of Ottawa, professor of physics cross-appointed to the school of electrical engineering and computer science at the [[University of Ottawa]], and professor of optics and professor of physics at the [[University of Rochester]].<ref name="ottawa">{{cite web|url=https://science.uottawa.ca/physics/people/boyd-robert|title=Department of Physics, University of Ottawa|last=|first=|date=|website=|publisher=University of Ottawa}}</ref><ref name="rochester">{{cite web|url=http://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html|title=The Institute of Optics, University of Rochester|last=|first=|date=|website=|publisher=University of Rochester}}</ref><ref name="cerchome">{{cite web|url=https://www.cerc.gc.ca/chairholders-titulaires/former-ancien-eng.aspx|title=List of Canada Excellence Research Chairs Laureates|last=|first=|date=29 November 2012|website=|publisher=CERC}}</ref><ref name=scopus>{{Scopus|id=55601936700}}</ref><ref>{{Cite web|url=https://engineering.uottawa.ca/people/boyd-robert|title=uOttawa Faculty of Engineering, list of cross-appointed faculty members|last=|first=|date=|website=Engineering|language=en|access-date=2019-11-01}}</ref>
+
+==Education and career==
+Boyd was born in [[Buffalo, New York|Buffalo]], [[New York (state)|New York]]. He received a [[Bachelor of Science]] degree in physics from the [[Massachusetts Institute of Technology|Massachusetts Institute of Technology (MIT)]] and a [[Doctor of Philosophy|Ph.D.]] in physics from the [[University of California, Berkeley]]. His doctoral thesis was supervised by [[Charles H. Townes|Charles Townes]]<ref name=natureobit>{{Cite journal |pmid = 25788091 |year = 2015 |last1 = Boyd |first1 = Robert |author-link1 = Robert W. Boyd |title = Charles H. Townes (1915-2015) Laser co-inventor, astrophysicist and US presidential adviser |journal = [[Nature (journal)|Nature]] |volume = 519 |issue = 7543 |page = 292 |doi = 10.1038/519292a |bibcode = 2015Natur.519..292B |doi-access = free }}</ref><ref name=phd2>{{Cite journal |doi = 10.1063/1.89733 |title = An infrared upconverter for astronomical imaging |journal = Applied Physics Letters |volume = 31 |issue = 7 |page = 440 |year = 1977 |last1 = Boyd |first1 = R. W. |last2 = Townes |first2 = C. H. |bibcode = 1977ApPhL..31..440B }}</ref><ref name=phd>{{cite thesis |degree = PhD |first = Robert William |last = Boyd |title = An Infrared Upconverter for Astronomical Imaging |publisher = University of California, Berkeley |date = 1977 |oclc = 21059058 |id = {{ProQuest|302864239}} }}</ref> and involves the use of nonlinear optical techniques in infrared detection for astronomy. Boyd joined the faculty of the [[University of Rochester]] in 1977, and in 2001 became the [[M. Parker Givens]] Professor of Optics and professor of physics. In 2010 he became professor of physics and [[Canada Research Chair|Canada Excellence Research Chair]] in [[quantum nonlinear optics]] at the [[University of Ottawa]]. His research interests include studies of [[slow light|"slow" and "fast" light propagation]], [[quantum imaging]] techniques, [[nonlinear optics|nonlinear optical]] interactions, studies of the nonlinear optical properties of materials, and the development of photonic devices including [[biosensor|photonic biosensors]]. Boyd has written two books, co-edited two anthologies, published over 500 research papers, and been awarded five patents. He is the 2009 recipient of the [[Willis E. Lamb]] Award for Laser Science and Quantum Optics and the 2016 recipient of the Charles H Townes Award. He is a fellow of the [[American Physical Society]] (APS), the [[Optical Society of America]] (OSA), the Institute of Electrical and Electronics Engineers (IEEE) and [[SPIE]].  He has chaired the Division of Laser Science of APS and has been a director of OSA. Boyd has served as a member of the board of editors of [[Physical Review Letters]] and of the board of reviewing editors of [[Science (journal)|''Science'' magazine]]. His [[h-index]] is over 100 (according to [[Google Scholar]]<ref name=googlescholar>{{GoogleScholar|vJMu-20AAAAJ}}</ref>).
+
+==Research==
+[[Image:Robert-Boyd slowlight.jpg|thumb|upright|right|200px|Boyd with his slow light in ruby experiment]]
+Boyd's research interests are in [[nonlinear optics]], [[photonics]], [[optical physics]], [[nanophotonics]], and [[quantum optics]].<ref name=googlescholar/>
+
+===Slow and fast light===
+Boyd has made significant contributions to the research field known colloquially as [[slow light|slow and fast light]]. Shortly after the development of great interest in this field in 2000, he realized that it is possible to produce slow and fast-light effects in room-temperature solids.<ref name="ref1">{{Cite journal | doi = 10.1103/PhysRevLett.90.113903| title = Observation of Ultraslow Light Propagation in a Ruby Crystal at Room Temperature| journal = Physical Review Letters| volume = 90| issue = 11| year = 2003| last1 = Bigelow | first1 = M. | last2 = Lepeshkin | first2 = N. | last3 = Boyd | first3 = R. | bibcode=2003PhRvL..90k3903B | pmid=12688928 | article-number=113903}}</ref><ref name="ref2"/><ref name="ref3"/> Until that time, most workers had made use of systems of free atoms such as atomic vapors and Bose-Einstein condensates to control the [[group velocity]] of light. The realization that slow light effects can be obtained in room temperature solids has allowed the development of many applications of these effects in the field of photonics. In particular, with his students he pioneered the use of coherent population oscillations as a mechanism for producing slow and fast light in room temperature solids.<ref name="ref1"/><ref name="ref2"/><ref name="ref3"/> His work has led to an appreciation of the wide variety of exotic effects that can occur in the propagation of light through such structures, including the observation of "backwards" light propagation.<ref name="ref4">{{Cite journal | doi = 10.1209/epl/i2005-10371-0| title = Observation of superluminal and slow light propagation in erbium-doped optical fiber| journal = Europhysics Letters| volume = 73| issue = 2| pages = 218–224| year = 2006| last1 = Schweinsberg | first1 = A. | last2 = Lepeshkin | first2 = N. N. | last3 = Bigelow | first3 = M. S. | last4 = Boyd | first4 = R. W. | last5 = Jarabo | first5 = S. |bibcode = 2006EL.....73..218S | citeseerx = 10.1.1.205.5564| s2cid = 250852270}}</ref> Boyd has also been instrumental in developing other slow light methods such as stimulated [[Brillouin scattering]].<ref name="ref5"/> More recently, he has moved on to the investigation of applications of slow light for buffering<ref name="ref6">{{Cite journal | doi = 10.1103/PhysRevA.71.023801| title = Maximum time delay achievable on propagation through a slow-light medium| journal = Physical Review A| volume = 71| issue = 2| article-number = 023801| year = 2005| last1 = Boyd | first1 = R. | last2 = Gauthier | first2 = D. | last3 = Gaeta | first3 = A.|author3-link=Alexander Gaeta | last4 = Willner | first4 = A. |bibcode = 2005PhRvA..71b3801B | s2cid = 16894355}}</ref> and signal regeneration.<ref name="ref7">{{Cite journal | doi = 10.1016/j.physleta.2010.08.012| title = Low distortion, continuously tunable, positive and negative time delays by slow and fast light using stimulated Brillouin scattering| journal = Physics Letters A| volume = 374| issue = 39| pages = 4071–4074| year = 2010| last1 = Shi | first1 = Z. | last2 = Schweinsberg | first2 = A. | last3 = Vornehm | first3 = J. E. | last4 = Martínez Gámez | first4 = M. A. | last5 = Boyd | first5 = R. W. |bibcode = 2010PhLA..374.4071S }}</ref> He also came to the realization that slow light methods can be used to obtain enormous enhancements in the resolution of interferometric spectrometers,<ref name="ref8">{{Cite journal | doi = 10.1364/OL.32.000915| pmid = 17375152| title = Enhancing the spectral sensitivity of interferometers using slow-light media| journal = Optics Letters| volume = 32| issue = 8| pages = 915–7| year = 2007| last1 = Shi | first1 = Z. | last2 = Boyd | first2 = R. W. | last3 = Gauthier | first3 = D. J. | last4 = Dudley | first4 = C. C.|bibcode = 2007OptL...32..915S | s2cid = 34188673}}</ref><ref name="ref9">{{Cite journal | doi = 10.1103/PhysRevLett.99.240801| pmid = 18233433| title = Slow-Light Fourier Transform Interferometer| journal = Physical Review Letters| volume = 99| issue = 24| article-number = 240801| year = 2007| last1 = Shi | first1 = Z. | last2 = Boyd | first2 = R. | last3 = Camacho | first3 = R. | last4 = Vudyasetu | first4 = P. | last5 = Howell | first5 = J. | bibcode=2007PhRvL..99x0801S| url = https://digitalcommons.chapman.edu/scs_articles/835}}</ref> and he is currently working on the development of spectrometers based on this principle.  As just one indication of the impact of Robert's work on slow and fast light, his Science paper<ref name="ref2"/> has been cited 1080 times.
+
+===Quantum imaging===
+Boyd has been instrumental in the creation and development of the field of quantum imaging. This field utilizes quantum features of light, such as squeezing and entanglement, to perform image formation with higher resolution or sensitivity than can be achieved through use of classical light sources.  His research contributions in this area have included studies of the nature of position and momentum entanglement,<ref name="ref10">{{Cite journal | doi = 10.1103/PhysRevLett.92.210403| title = Realization of the Einstein-Podolsky-Rosen Paradox Using Momentum- and Position-Entangled Photons from Spontaneous Parametric Down Conversion| journal = Physical Review Letters| volume = 92| issue = 21| year = 2004| last1 = Howell | first1 = J. C. | last2 = Bennink | first2 = R. S. | last3 = Bentley | first3 = S. J. | last4 = Boyd | first4 = R. W. | bibcode=2004PhRvL..92u0403H | pmid=15245267 | article-number=210403| s2cid = 1945549| url = http://pdfs.semanticscholar.org/23c7/02dc64233842eb030a31961958cd1900c570.pdf| archive-url = https://web.archive.org/web/20191223052703/http://pdfs.semanticscholar.org/23c7/02dc64233842eb030a31961958cd1900c570.pdf| archive-date = 2019-12-23}}</ref> the ability to impress many bits of information onto a single photon,<ref name="ref11">{{Cite journal | doi = 10.1103/PhysRevA.79.033802| title = Discriminating orthogonal single-photon images| journal = Physical Review A| volume = 79| issue = 3| article-number = 033802| year = 2009| last1 = Broadbent | first1 = C. J. | last2 = Zerom | first2 = P. | last3 = Shin | first3 = H. | last4 = Howell | first4 = J. C. | last5 = Boyd | first5 = R. W. |bibcode = 2009PhRvA..79c3802B | s2cid = 17137829| url = https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1855&context=scs_articles| url-access = subscription }}</ref> and studies to identify the quantum or classical nature of coincidence imaging.<ref name="ref12">{{Cite journal | doi = 10.1103/PhysRevLett.89.113601| title = "Two-Photon" Coincidence Imaging with a Classical Source| journal = Physical Review Letters| volume = 89| issue = 11| year = 2002| last1 = Bennink | first1 = R. | last2 = Bentley | first2 = S. | last3 = Boyd | first3 = R. | bibcode=2002PhRvL..89k3601B | pmid=12225140 | article-number=113601}}</ref><ref name="ref13">{{Cite journal | doi = 10.1103/PhysRevLett.92.033601| pmid = 14753874| title = Quantum and Classical Coincidence Imaging| journal = Physical Review Letters| volume = 92| issue = 3| article-number = 033601| year = 2004| last1 = Bennink | first1 = R. | last2 = Bentley | first2 = S. | last3 = Boyd | first3 = R. | last4 = Howell | first4 = J. | bibcode=2004PhRvL..92c3601B| url = https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1826&context=scs_articles}}</ref> This latter work has led the community to realize that classical correlations can at times be used to mimic effects that appear to be of a quantum origin, but using much simpler laboratory implementations.
+
+===Local field effects and the measurement of the Lorentz red shift===
+Boyd has performed fundamental studies of the nature of local field effects in optical materials including dense atomic vapors. A key result of this work was the first measurement<ref name="ref14">{{Cite journal | doi = 10.1103/PhysRevLett.67.972| pmid = 10045037| title = Linear and nonlinear optical measurements of the Lorentz local field| journal = Physical Review Letters| volume = 67| issue = 8| pages = 972–975| year = 1991| last1 = Maki | first1 = J. | last2 = Malcuit | first2 = M. | last3 = Sipe | first3 = J.| last4 = Boyd | first4 = R. | bibcode=1991PhRvL..67..972M}}</ref> of the Lorentz red shift, a shift of the atomic absorption line as a consequence of local field effects. This red shift had been predicted by Lorentz in the latter part of the nineteenth century, but had never previously been observed experimentally. In addition to confirming this century-old prediction, this work is significant in confirming the validity of the Lorentz local-field formalism even under conditions associated with the resonance response of atomic vapors.
+
+===Development of composite nonlinear optical materials===
+Boyd has taken a leading role in exploiting local field effects to tailor the nonlinear optical response of composite optical materials and structures.  Along with John Sipe, he predicted that composite materials could possess a nonlinear response exceeding those of their constituents<ref name="ref15">{{Cite journal
+| pmid = 9908285
+| year = 1992
+| last1 = Sipe
+| first1 = J. E.
+| title = Nonlinear susceptibility of composite optical materials in the Maxwell Garnett model
+| journal = Physical Review A
+| volume = 46
+| issue = 3
+| pages = 1614–1629
+| last2 = Boyd
+| first2 = R. W.
+| doi=10.1103/physreva.46.1614
+| bibcode = 1992PhRvA..46.1614S }}</ref> and demonstrated this enhanced nonlinear optical response in materials including nonlinear optical materials,<ref name="ref16">{{Cite journal | doi = 10.1103/PhysRevLett.74.1871| pmid = 10057778| title = Enhanced Nonlinear Optical Response of Composite Materials| journal = Physical Review Letters| volume = 74| issue = 10| pages = 1871–1874| year = 1995| last1 = Fischer | first1 = G. | last2 = Boyd | first2 = R. | last3 = Gehr | first3 = R. | last4 = Jenekhe | first4 = S. | last5 = Osaheni | first5 = J. | last6 = Sipe | first6 = J.| last7 = Weller-Brophy | first7 = L. | bibcode=1995PhRvL..74.1871F}}</ref> electrooptic materials,<ref name="ref17">{{Cite journal | doi = 10.1063/1.123866| title = Enhanced electro-optic response of layered composite materials| journal = Applied Physics Letters| volume = 74| issue = 17| page = 2417| year = 1999| last1 = Nelson | first1 = R. L. | last2 = Boyd | first2 = R. W. |bibcode = 1999ApPhL..74.2417N | s2cid = 119546622| url = http://pdfs.semanticscholar.org/1c2b/5c7d463d8d0fccd81a77379b62fa53714bd7.pdf| archive-url = https://web.archive.org/web/20210210113814/http://pdfs.semanticscholar.org/1c2b/5c7d463d8d0fccd81a77379b62fa53714bd7.pdf| archive-date = 2021-02-10}}</ref> and photonic bandgap structures.<ref name="ref18">{{Cite journal | doi = 10.1103/PhysRevLett.93.123902| title = Enhanced Nonlinear Optical Response of One-Dimensional Metal-Dielectric Photonic Crystals| journal = Physical Review Letters| volume = 93| issue = 12| year = 2004| last1 = Lepeshkin | first1 = N. | last2 = Schweinsberg | first2 = A. | last3 = Piredda | first3 = G. | last4 = Bennink | first4 = R. | last5 = Boyd | first5 = R. | bibcode=2004PhRvL..93l3902L | pmid=15447264 | article-number=123902| s2cid = 373742}}</ref> Similar types of enhancement can occur for fiber and nanofabricated ring-resonator systems,<ref name="ref19">{{Cite journal
+| pmid = 18073873
+| year = 1999
+| last1 = Heebner
+| first1 = J. E.
+| title = Enhanced all-optical switching by use of a nonlinear fiber ring resonator
+| journal = Optics Letters
+| volume = 24
+| issue = 12
+| pages = 847–9
+| last2 = Boyd
+| first2 = R. W.
+| doi=10.1364/ol.24.000847
+| bibcode = 1999OptL...24..847H | s2cid = 8732333
+| url = http://pdfs.semanticscholar.org/5124/4da0647de716245a3d70fb2ba05e007d29bc.pdf
+| archive-url = https://web.archive.org/web/20200623044033/http://pdfs.semanticscholar.org/5124/4da0647de716245a3d70fb2ba05e007d29bc.pdf
+| archive-date = 2020-06-23
+}}</ref> with important applications in photonic switching<ref name="ref20">{{Cite journal
+| pmid = 15072386
+| year = 2004
+| last1 = Heebner
+| first1 = J. E.
+| title = Enhanced linear and nonlinear optical phase response of Al ''Ga'' ''As'' microring resonators
+| journal = Optics Letters
+| volume = 29
+| issue = 7
+| pages = 769–71
+| last2 = Lepeshkin
+| first2 = N. N.
+| last3 = Schweinsberg
+| first3 = A
+| last4 = Wicks
+| first4 = G. W.
+| last5 = Boyd
+| first5 = R. W.
+| last6 = Grover
+| first6 = R
+| last7 = Ho
+| first7 = P. T.
+| doi=10.1364/ol.29.000769
+| bibcode = 2004OptL...29..769H | s2cid = 6681651
+}}</ref> and sensing of biological pathogens.<ref name="ref21">{{Cite journal | doi = 10.1364/AO.40.005742| title = Sensitive Disk Resonator Photonic Biosensor| journal = Applied Optics| volume = 40| issue = 31| pages = 5742–7| year = 2001| last1 = Boyd | first1 = R. W. | last2 = Heebner | first2 = J. E. | pmid=18364865|bibcode = 2001ApOpt..40.5742B }}</ref>
+
+===Foundations of nonlinear optics===
+Boyd has also made contributions to the overall growth of the field of nonlinear optics.<ref>{{cite web|last1=Boyd|first1=Robert|title=Quantum Nonlinear Optics: Nonlinear Optics Meets the Quantum World|url=http://spie.org/newsroom/technical-articles/videos/pw16_plenaries-landing/pw16_plenary_boyd|publisher=SPIE Newsroom|access-date=29 February 2016}}</ref> Perhaps his single largest contribution has been in terms of his textbook ''Nonlinear Optics''.<ref name="ref22">{{cite book|title=Nonlinear Optics|edition=Third |author=R. W. Boyd|publisher=Academic Press|location=Orlando|date=2008}}</ref> The book has been commended for its pedagogical clarity.  It has become the standard reference work in this area, and thus far has sold over 12,000 copies. Moreover, in the 1980s he performed laboratory and theoretical studies of the role of [[Rabi oscillation]]s in determining the nature of [[four-wave mixing]] processing in strongly driven atomic vapors.<ref name="ref23">{{Cite journal | doi = 10.1103/PhysRevA.24.411| title = Four-wave parametric interactions in a strongly driven two-level system| journal = Physical Review A| volume = 24| issue = 1| pages = 411–423| year = 1981| last1 = Boyd | first1 = R. | last2 = Raymer | first2 = M. | last3 = Narum | first3 = P. | last4 = Harter | first4 = D. |bibcode = 1981PhRvA..24..411B }}</ref><ref name="ref24">{{Cite journal | doi = 10.1103/PhysRevLett.46.1192| title = Four-Wave Parametric Amplification of Rabi Sidebands in Sodium| journal = Physical Review Letters| volume = 46| issue = 18| pages = 1192–1195| year = 1981| last1 = Harter | first1 = D. | last2 = Narum | first2 = P. | last3 = Raymer | first3 = M. | last4 = Boyd | first4 = R. | bibcode=1981PhRvL..46.1192H}}</ref> This work has had lasting impact on the field with one particular paper having been cited 531 times.<ref name="ref23"/>
+
+==Awards and honors==
+* Blythe Lecturer, department of physics, [[University of Toronto]], 1987–1988.
+* Fellow, [[Optical Society of America]], 1998.
+* Fellow, [[American Physical Society]], 2001.
+* Herta Leng Memorial Lecture, [[Rensselaer Polytechnic Institute]], April 13, 2005.
+* Lecturer in the Frontiers In Spectroscopy series at [[Ohio State University]], January, 2006.
+* Research chosen by ''[[Discover (magazine)|Discover]]'' magazine to be one of the top 100 research stories of 2006 (of which only six were in physics).
+* Research described in ''[[The New York Times]]'', May 16, 2006.
+* [[Willis E. Lamb]] Award for Laser Science and Quantum Optics, 2009.
+* [[Humboldt Prize]] for Physics, 2010.
+* Canada Excellence Research Chair in Quantum Nonlinear Optics, 2010.
+* Fellow, [[SPIE]], 2014.
+* Quantum Electronics Award, [[IEEE Photonics Society]], 2014.
+* Honorary doctorate, [[University of Glasgow]], 2014.
+* [[IEEE Photonics Society]] Distinguished Lecturer, 2015–2016.
+* [[Arthur L. Schawlow Prize in Laser Science]], [[American Physical Society]], 2016.
+* [[Charles Hard Townes Award]], [[Optical Society]], 2016.
+* Fellow of the [[Royal Society of Canada]], 2019.<ref>{{cite web |title=The Royal Society of Canada welcomes 11 uOttawa researchers |url=https://research.uottawa.ca/news/royal-society-canada-welcomes-11-uottawa-researchers |publisher=University of Ottawa |access-date=15 September 2019}}</ref>
+* [[Frederic Ives Medal]]/Jarus W. Quinn Prize, [[Optica (society)|Optica]], 2023.<ref>{{Cite web |title=Optica awards Robert Boyd the 2023 Frederic Ives Medal/Jarus W. Quinn Prize {{!}} Optica |url=https://www.optica.org/about/newsroom/news_releases/2023/february/optica_awards_robert_boyd_the_2023_frederic_ives_m/ |access-date=2023-10-23 |website=www.optica.org}}</ref>
+
+==Publications==
+{{Scholia}}
+Boyd's work has been widely published in books and [[peer-review]]ed [[scientific journal]]s, including ''[[Science (journal)|Science]]'',<ref name="ref2">{{Cite journal
+| pmid = 12855803
+| year = 2003
+| last1 = Bigelow
+| first1 = M. S.
+| title = Superluminal and slow light propagation in a room-temperature solid
+| journal = Science
+| volume = 301
+| issue = 5630
+| pages = 200–2
+| last2 = Lepeshkin
+| first2 = N. N.
+| last3 = Boyd
+| first3 = R. W.
+| doi = 10.1126/science.1084429
+| bibcode = 2003Sci...301..200B | s2cid = 45212156
+}}</ref><ref name="ref3">{{Cite journal
+| pmid = 16690861
+| year = 2006
+| last1 = Gehring
+| first1 = G. M.
+| title = Observation of backward pulse propagation through a medium with a negative group velocity
+| journal = Science
+| volume = 312
+| issue = 5775
+| pages = 895–7
+| last2 = Schweinsberg
+| first2 = A
+| last3 = Barsi
+| first3 = C
+| last4 = Kostinski
+| first4 = N
+| last5 = Boyd
+| first5 = R. W.
+| doi = 10.1126/science.1124524
+| bibcode = 2006Sci...312..895G | s2cid = 28800603
+}}</ref><ref>{{Cite journal
+| pmid = 25636796
+| year = 2015
+| last1 = Bauer
+| first1 = T
+| title = Optics. Observation of optical polarization Möbius strips
+| journal = Science
+| volume = 347
+| issue = 6225
+| pages = 964–6
+| last2 = Banzer
+| first2 = P
+| last3 = Karimi
+| first3 = E
+| last4 = Orlov
+| first4 = S
+| last5 = Rubano
+| first5 = A
+| last6 = Marrucci
+| first6 = L
+| last7 = Santamato
+| first7 = E
+| last8 = Boyd
+| first8 = R. W.
+| last9 = Leuchs
+| first9 = G
+| doi = 10.1126/science.1260635
+| bibcode = 2015Sci...347..964B | s2cid = 206562350
+}}</ref><ref>{{Cite journal
+| pmid = 21719672
+| year = 2011
+| last1 = Franke-Arnold
+| first1 = S|author1-link=Sonja Franke-Arnold
+| title = Rotary photon drag enhanced by a slow-light medium
+| journal = [[Science (journal)|Science]]
+| volume = 333
+| issue = 6038
+| pages = 65–7
+| last2 = Gibson
+| first2 = G
+| last3 = Boyd
+| first3 = R. W.
+| author-link3 = Robert W. Boyd
+| last4 = Padgett
+| first4 = M. J.
+| author-link4 = Miles J. Padgett
+| doi = 10.1126/science.1203984
+| bibcode = 2011Sci...333...65F | s2cid = 206533289
+}}</ref><ref>{{Cite journal
+| pmid = 20689014
+| year = 2010
+| last1 = Leach
+| first1 = J
+| title = Quantum correlations in optical angle-orbital angular momentum variables
+| journal = [[Science (journal)|Science]]
+| volume = 329
+| issue = 5992
+| pages = 662–5
+| last2 = Jack
+| first2 = B
+| last3 = Romero
+| first3 = J
+| last4 = Jha
+| first4 = A. K.
+| last5 = Yao
+| first5 = A. M.
+| last6 = Franke-Arnold
+| first6 = S|author6-link=Sonja Franke-Arnold
+| last7 = Ireland
+| first7 = D. G.
+| last8 = Boyd
+| first8 = R. W.
+| author-link8 = Robert W. Boyd
+| last9 = Barnett
+| first9 = S. M.
+| last10 = Padgett
+| first10 = M. J.
+| author-link10 = Miles J. Padgett
+| doi = 10.1126/science.1190523
+| bibcode = 2010Sci...329..662L | s2cid = 206526900
+}}</ref><ref>{{Cite journal
+| pmid = 19965419
+| year = 2009
+| last1 = Boyd
+| first1 = R. W.
+| title = Controlling the velocity of light pulses
+| journal = Science
+| volume = 326
+| issue = 5956
+| pages = 1074–7
+| last2 = Gauthier
+| first2 = D. J.
+| doi = 10.1126/science.1170885
+| bibcode = 2009Sci...326.1074B | citeseerx = 10.1.1.630.2223
+| s2cid = 2370109
+| url = http://www.phy.duke.edu/~qelectron/pubs/Science326_1074_2009.pdf
+}}</ref><ref>{{Cite journal
+| pmid = 18653872
+| year = 2008
+| last1 = Boyd
+| first1 = R. W.
+| title = Physics. Let quantum mechanics improve your images
+| journal = Science
+| volume = 321
+| issue = 5888
+| pages = 501–2
+| doi = 10.1126/science.1161439
+| s2cid = 206514485
+}}</ref><ref>{{Cite journal
+| pmid = 18079395
+| year = 2007
+| last1 = Zhu
+| first1 = Z
+| title = Stored light in an optical fiber via stimulated Brillouin scattering
+| journal = Science
+| volume = 318
+| issue = 5857
+| pages = 1748–50
+| last2 = Gauthier
+| first2 = D. J.
+| last3 = Boyd
+| first3 = R. W.
+| doi = 10.1126/science.1149066
+| bibcode = 2007Sci...318.1748Z | s2cid = 23181383
+}}</ref><ref>{{Cite journal
+| pmid = 18033871
+| year = 2007
+| last1 = Ralph
+| first1 = T. C.
+| title = PHYSICS. Better computing with photons
+| journal = Science
+| volume = 318
+| issue = 5854
+| pages = 1251–2
+| last2 = Boyd
+| first2 = R. W.
+| doi = 10.1126/science.1150968
+| s2cid = 120573039
+| url = https://zenodo.org/record/893149
+}}</ref><ref>{{Cite journal
+| pmid = 17901320
+| year = 2007
+| last1 = Boyd
+| first1 = R. W.
+| title = Physics. Quantum weirdness in the lab
+| journal = Science
+| volume = 317
+| issue = 5846
+| pages = 1874–5
+| last2 = Chan
+| first2 = K. W.
+| last3 = O'Sullivan
+| first3 = M. N.
+| doi = 10.1126/science.1148947
+| s2cid = 117013423
+}}</ref> ''[[Nature (journal)|Nature]]'',<ref>{{Cite journal
+| pmid = 22222745
+| year = 2012
+| last1 = Boyd
+| first1 = R. W.
+| title = Optical physics: How to hide in time
+| journal = Nature
+| volume = 481
+| issue = 7379
+| pages = 35–6
+| last2 = Shi
+| first2 = Z
+| doi = 10.1038/481035a
+| bibcode = 2012Natur.481...35B | s2cid = 205069364
+| doi-access = free
+}}</ref><ref>{{Cite journal
+| pmid = 16760963
+| year = 2006
+| last1 = Boyd
+| first1 = R. W.
+| title = Photonics: Transparency on an optical chip
+| journal = Nature
+| volume = 441
+| issue = 7094
+| pages = 701–2
+| last2 = Gauthier
+| first2 = D. J.
+| doi = 10.1038/441701a
+| bibcode = 2006Natur.441..701B | s2cid = 4414188
+| doi-access = free
+}}</ref> and ''[[Physical Review Letters]]''.<ref name="ref5">{{Cite journal | doi = 10.1103/PhysRevLett.94.153902| title = Tunable All-Optical Delays via Brillouin Slow Light in an Optical Fiber| journal = Physical Review Letters| volume = 94| issue = 15| year = 2005| last1 = Okawachi | first1 = Y. | last2 = Bigelow | first2 = M. | last3 = Sharping | first3 = J. | last4 = Zhu | first4 = Z. | last5 = Schweinsberg | first5 = A. | last6 = Gauthier | first6 = D. | last7 = Boyd | first7 = R. | last8 = Gaeta | first8 = A. | bibcode=2005PhRvL..94o3902O | pmid=15904146 | article-number=153902| s2cid = 11083380}}</ref>
+
+===Books===
+* [https://books.google.com/books?id=tzRRAAAAMAAJ Radiometry and the Detection of Optical Radiation] By R.W. Boyd (1983).
+* [https://books.google.com/books?id=3Xx0QgAACAAJ&q=optical+instabilities Optical Instabilities] Edited by R.W. Boyd, M. G. Raymer, and L. M. Narducci (1986).
+* [https://books.google.com/books?id=3vHb7WGXmSQC&q=nonlinear+optics Nonlinear Optics] By R.W. Boyd, Nonlinear Optics (1991, 2002, and 2008).<ref name="ref22"/>
+* [https://books.google.com/books?id=aLRmQgAACAAJ&q=contemporary+nonlinear+optics Contemporary Nonlinear Optics] Edited by G.P. Agrawal and R.W. Boyd (1991).
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+
+* {{Google Scholar ID|id=vJMu-20AAAAJ}}
+{{Authority control}}
+
+{{DEFAULTSORT:Boyd, Robert William}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:21st-century American physicists]]
+[[Category:American experimental physicists]]
+[[Category:American optical physicists]]
+[[Category:American quantum physicists]]
+[[Category:Fellows of Optica (society)]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:University of Rochester faculty]]
+[[Category:Academic staff of the University of Ottawa]]

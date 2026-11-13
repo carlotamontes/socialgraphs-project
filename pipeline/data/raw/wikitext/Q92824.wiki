@@ -1,0 +1,269 @@
+{{Short description|American computer scientist (born 1936)}}
+{{Use American English|date=October 2026}}
+{{Use mdy dates|date=January 2026}}
+{{Infobox scientist
+| name              = Judea Pearl
+| native_name       = יהודה פרל
+| native_name_lang  = he
+| image             = Judea Pearl at NIPS 2013 (11781981594).jpg
+| caption           = Pearl at [[Conference on Neural Information Processing Systems|NIPS]] 2013
+| birth_date        = {{birth date and age|1936|9|4}}
+| birth_place       = [[Tel Aviv]], [[Mandatory Palestine]]<br />(present day Israel)
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| education         = [[Technion – Israel Institute of Technology|Israel Institute of Technology]] ([[Bachelor of Science|BS]])<br />[[New Jersey Institute of Technology]] ([[Master of Science|MS]])<br />[[Rutgers University–New Brunswick|Rutgers University, New Brunswick]] ([[Master of Science|MS]])<br />[[New York University]] ([[Doctor of Philosophy|PhD]])
+| thesis_title      = Vortex Theory of Superconductive Memories
+| thesis_url        = https://www.proquest.com/openview/0da7bfb9207086e30e2e633b7ae3c907/1?pq-origsite=gscholar&cbl=18750&diss=y
+| thesis_year       = 1965
+| doctoral_advisor  = Leonard Strauss<br />Leonard Bergstein
+| doctoral_students = [[Rina Dechter]], [[Hector Geffner]], Elias Bareinboim, Karthika Mohan
+| known_for         = [[Artificial Intelligence]]<br />[[Causality]]<br />[[Bayesian Network]]s<br />[[Structural Equation Modeling]]<br>[[Pearl vortex]]
+| website           = {{URL|https://bayes.cs.ucla.edu/jp_home.html}}
+| footnotes         = 
+| spouse            = {{marriage|[[Ruth Pearl]] (née Eveline Rejwan)|1960|2021|end=d.}}
+| children          = 3, including [[Daniel Pearl|Daniel]]
+| ethnicity         = 
+| field             = [[Computer science]], [[statistics]]
+| workplaces        = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = [[IJCAI Award for Research Excellence]] {{small|(1999)}}<br> [[Turing Award]] {{small|(2011)}}<ref name="acm-turing">[http://amturing.acm.org/award_winners/pearl_2658896.cfm Judea Pearl – A. M. Turing Award winner], ACM, retrieved March 14, 2012.</ref><br>[[Rumelhart Prize]] {{small|(2011)}}<br>[[Harvey Prize]]  {{small|(2011)}}<br>[[BBVA Foundation Frontiers of Knowledge Award]] {{small|(2021)}}<ref name="bbva">BBVA Foundation Frontiers of Knowledge Award (2021). Judea Pearl – [https://www.frontiersofknowledgeawards-fbbva.es/noticias/the-frontiers-of-knowledge-award-goes-to-judea-pearl-for-laying-the-foundations-of-modern-artificial-intelligence-so-computer-systems-can-process-uncertainty-and-associate-causes-and-effects/ Announcement] [https://www.youtube.com/watch?v=uaq389ckd5o Speech], June 2022.</ref>
+}}
+
+'''Judea Pearl''' ({{Langx|he|יהודה פרל}}; born September 4, 1936) is an Israeli-American [[Electrical engineering|electrical engineer]], [[computer scientist]] and [[philosopher]], best known for championing the probabilistic approach to [[artificial intelligence]] and the development of [[Bayesian networks]] (see the article on [[belief propagation]]). He is also credited for developing a theory of causal and counterfactual inference based on structural models (see article on [[causality]]). In 2011, the [[Association for Computing Machinery]] (ACM) awarded Pearl with the [[Turing Award]], the highest distinction in computer science, "for fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning".<ref name="acm-turing"/><ref name="acm_2011_Turing_award_ Judea_Pearl_press_release">{{cite web
+ |author       = Gold, Virginia
+ |title        = Judea Pearl Wins ACM A.M. Turing Award for Contributions that Transformed Artificial Intelligence
+ |publisher    = The [[Association for Computing Machinery]]
+ |date         = March 15, 2012
+ |url          = http://www.acm.org/press-room/news-releases/2012/turing-award-11
+ |access-date  = March 15, 2012
+ |archive-url  = https://web.archive.org/web/20120317233913/http://www.acm.org/press-room/news-releases/2012/turing-award-11
+ |archive-date = March 17, 2012
+ |quote        = [[Association for Computing Machinery|ACM]], the [[Association for Computing Machinery]] today named Judea Pearl of the [[University of California, Los Angeles]] the winner of the 2011 ACM [[A.M. Turing Award]] for innovations that enabled remarkable advances in the partnership between humans and machines that is the foundation of [[Artificial Intelligence]] (AI).
+ |url-status   = dead
+}}</ref><ref name="acm">{{ACMPortal|id= 81548012093}}</ref><ref>{{Cite journal | doi = 10.1109/MIC.2006.107| title = Judea Pearl Interview: A Giant of Artificial Intelligence Takes on All-Too-Real Hatred| journal = IEEE Internet Computing| volume = 10| issue = 5| pages = 6–8| year = 2006| last1 = Goth | first1 = G.| bibcode = 2006IIC....10e...6G| s2cid = 9932352}}</ref> He is the author of several books, including the technical ''[[Causality (book)|Causality: Models, Reasoning and Inference]]'', and ''[[The Book of Why]]'', a book on causality aimed at the general public.
+
+Judea Pearl is the father of journalist [[Daniel Pearl]], who was kidnapped and murdered by terrorists in [[Pakistan]] connected with Al-Qaeda and the International Islamic Front in 2002.<ref name = "Time">{{cite magazine
+| last1        = Fonda
+| first1       = Daren
+| date         = September 27, 2003
+| title        = On the Trail of Daniel Pearl
+| magazine     = [[Time (magazine)|TIME]]
+| access-date  = July 20, 2011
+| url          = http://www.time.com/time/arts/article/0,8599,490640,00.html
+| archive-url  = https://web.archive.org/web/20031001222839/http://www.time.com/time/arts/article/0,8599,490640,00.html
+| url-status   = dead
+| archive-date = October 1, 2003
+}}</ref><ref name = "ATO">{{cite web
+|url          = http://www.atimes.com/atimes/South_Asia/EF28Df02.html
+|archive-url  = https://web.archive.org/web/20030629230648/http://www.atimes.com/atimes/South_Asia/EF28Df02.html
+|url-status   = unfit
+|archive-date = June 29, 2003
+|title        = Who killed Daniel Pearl?
+|first        = Pepe
+|last         = Escobar
+|author-link  = Pepe Escobar
+|publisher    = [[Asia Times Online]]
+|date         = June 28, 2003
+|work         = Book Review
+|access-date  = July 20, 2011
+}}</ref>
+
+==Biography==
+Judea Pearl was born in [[Tel Aviv]], [[Israel]], in 1936 to Eliezer and Tova Pearl, who were [[History of Jews in Poland|Polish Jewish]] immigrants, grew up in [[Bnei Brak]]. His grandfather Chaim Pearl was one of Bnei Brak's founders.<ref>[https://jewishjournal.com/cover_story/341299/judea-pearl-reflections-on-loss-artificial-intelligence-and-zionophobia/ Judea Pearl: Reflections on Loss, Artificial Intelligence, and “Zionophobia”]</ref><ref>{{Cite news|url=https://www.haaretz.com/jewish/2015-02-01/ty-article/.premium/this-day-in-history-daniel-pearl-murdered/0000017f-eb32-d639-af7f-ebf7a9040000|title = This Day in Jewish History / Journalist Daniel Pearl murdered in Pakistan by Islamic terrorists|newspaper = Haaretz}}</ref><ref>[https://jewishjournal.com/commentary/columnist/372736/the-audacious-joy-of-judea-pearl/ The Audacious Joy of Judea Pearl]</ref> He is a descendant of [[Menachem Mendel of Kotzk]] on his mother's side. After serving in the [[Israel Defense Forces]] and joining a [[kibbutz]], Pearl decided to study engineering in 1956. He received a B.S. in electrical engineering from the [[Technion]] 1960. That same year, he emigrated to the United States and pursued graduate studies. He received an M.S. in electrical engineering from the Newark College of Engineering (now [[New Jersey Institute of Technology]]) in 1961, and went on to receive an M.S. in physics from [[Rutgers University]] and a PhD in electrical engineering from the Polytechnic Institute of Brooklyn (now the [[New York University Tandon School of Engineering]]) in 1965.<ref name=amturing>{{Cite web|url=https://amturing.acm.org/award_winners/pearl_2658896.cfm|title=Judea Pearl – A.M. Turing Award Laureate|website=amturing.acm.org}}</ref> He worked at [[RCA Corporation#Diversification|RCA]] Research Laboratories (now [[SRI International]]) in [[Princeton, New Jersey]] on superconductive [[parametric amplifier]]s and storage devices and at Electronic Memories, Inc., on advanced memory systems.<ref name=amturing/> When [[semiconductor]]s "wiped out" Pearl's work, as he later expressed it,<ref name="cacm">{{cite journal |title=Q&A: A Sure Thing |author=Leah Hoffmann |journal=[[Communications of the ACM]] |volume=55 |number=6 |pages=135–136 |doi=10.1145/2184319.2184347 |year=2012|doi-access=free }}</ref> he joined [[UCLA]]'s [[Henry Samueli School of Engineering and Applied Science|School of Engineering]] in 1970 and started work on probabilistic [[artificial intelligence]]. He is one of the founding editors of the ''Journal of Causal Inference''.
+
+Pearl is currently a professor of computer science and statistics and director of the Cognitive Systems Laboratory at UCLA. He and his wife, [[Ruth Pearl|Ruth]], had three children. In addition, {{As of|2011|lc=y}}, he is a member of the International Advisory Board of [[NGO Monitor]].<ref name = "NGO">{{cite web
+|url         = http://www.ngo-monitor.org/article.php?viewall=yes&id=2028
+|title       = International Advisory Board Profiles
+|year        = 2011
+|publisher   = [[NGO Monitor]]
+|access-date = July 20, 2011
+}}</ref>
+
+Former Israeli Chief Rabbi, Rabbi [[Yisrael Meir Lau]], partnered with Judea Pearl in the documentary ''With My Whole Broken Heart''.<ref>{{cite news|last1=Wilkinson|first1=Phaedra|title=From the community: With My Whole Broken Heart|url=http://www.chicagotribune.com/suburbs/deerfield/community/chi-ugc-article-with-my-whole-broken-heart-2015-07-10-story.html|agency=[[Chicago Tribune]]|date=July 10, 2015}}</ref><ref>{{YouTube|VoEjCnrppdw|With My Whole Broken Heart trailer}}</ref>
+
+==Murder of Daniel Pearl==
+In 2002, his son, [[Daniel Pearl]], a journalist working for the ''[[Wall Street Journal]]'' was kidnapped and murdered in [[Pakistan]], leading Judea and the other members of the family and friends to create the [[Daniel Pearl Foundation]].<ref name="DPF">{{cite web
+ |url          = http://www.danielpearl.org/about_us/Judea_Pearl.html
+ |title        = Biography of Dr. Judea Pearl
+ |year         = 2011
+ |publisher    = [[Daniel Pearl Foundation]]
+ |access-date  = July 20, 2011
+ |url-status   = dead
+ |archive-url  = https://web.archive.org/web/20110630070829/http://www.danielpearl.org/about_us/Judea_Pearl.html
+ |archive-date = June 30, 2011
+}}</ref> On the seventh anniversary of Daniel's death, Judea wrote an article in the ''Wall Street Journal'' titled ''Daniel Pearl and the Normalization of Evil: When will our luminaries stop making excuses for terror?''.<ref name = "WSJ">{{cite news
+| title       = Daniel Pearl and the Normalization of Evil
+| first       = Judea
+| last        = Pearl
+| author-link = Judea Pearl
+| url         = https://www.wsj.com/articles/SB123362422088941893
+| newspaper   = [[The Wall Street Journal]]
+| date        = February 3, 2009
+| page        = A15
+| access-date = July 20, 2011
+}}</ref>
+
+Emeritus [[Chief Rabbi of the United Hebrew Congregations of Great Britain and the Commonwealth|Chief Rabbi]] [[Jonathan Sacks]] quoted Judea Pearl's beliefs in a lesson on [[Judaism]]: "I asked Judea Pearl, father of the murdered journalist Daniel Pearl, why he was working for reconciliation between Jews and Muslims...he replied with heartbreaking lucidity, "Hate killed my son. Therefore I am determined to fight hate."<ref>{{cite web|author1=Jonathan Sacks|title=Judaism: Covenant & Conversation: Against Hate|url=http://www.israelnationalnews.com/Articles/Article.aspx/15622|work=[[Israel National News]]|date=September 5, 2014}}</ref>
+
+==Views==
+On his religious views, Pearl states that he is a "practicing disbeliever."<ref>{{cite web|url=http://www.greatertalent.com/speaker-news/judea-pearl-history-has-given-us-both-a-tragedy-and-an-opportunity/|title=Tragedy and Opportunity: The parents of slain journalist Danny Pearl have devoted their lives to improving Muslim-Jewish relations.|access-date=July 12, 2013|author=Mathew Philips|quote=I turned secular at the age of 11, by divine revelation. [Laughs.] I was standing on the roof of the house my father built, looking down on the street and suddenly it became very clear to me that there is no God.}}</ref><ref>{{cite web|title=Robots and the Illusion of Free Will – Conversation with Judea Pearl, Rumelhart Prize Winner|work=The Science Network |url=http://thesciencenetwork.org/programs/cogsci-2011/interview-with-judea-pearl|location=|date=July 22, 2011|quote=I'm, of course, prisoner of my upbringing, which means my store of metaphors comes from the Bible and comes from history of the Jewish people. But I don't believe in God. Actually, I know there isn't [a] God.}}</ref> He is very connected to Jewish traditions such as holidays and [[kiddush]] on Friday night.<ref>{{cite news|last1=Fishman Orlins|first1=Susan|title=The Price of Being Jewish: An Interview with Judea Pearl|url=http://www.momentmag.com/the-price-of-being-jewish-an-interview-with-judea-pearl/|agency=Moment|date=November 2006|quote=Did you pray for Danny’s safe return? No, I don't believe in a God [that] would listen to me. But I do pray every morning. I lay tefillin. I started a year ago. But aren’t you a secular Jew? I'll give you the same answer I gave 10 Muslims who joined me for dinner one Friday night. I said, 'Oh, it's Friday night. I have to do Kiddush.'}}</ref>
+
+Pearl sits on the [[NGO Monitor]] international advisory board<ref>{{Cite web |title=International Advisory Board |url=https://ngo-monitor.org/about/boards/#IAB |access-date=June 27, 2025 |website=NGO Monitor}}</ref>, a right-wing organization based in Jerusalem that reports on [[non-governmental organization]] activity from a pro-Israel perspective.
+
+==Research==
+Pearl is credited for "laying the foundations of modern artificial intelligence, so computer systems can process  uncertainty and relate causes to effects."
+<ref name="bbva" />
+He is one of the pioneers of [[Bayesian networks]] and the [[probability|probabilistic]] approach to [[artificial intelligence]], and one of the first to mathematize causal modeling in the empirical sciences. His work is also intended as a high-level [[cognitive model]]. He is interested in the [[philosophy of science]], [[knowledge representation]], [[nonclassical logic|nonstandard logic]]s, and learning. Pearl is described as "one of the giants in the field of artificial intelligence" by UCLA computer science professor [[Richard E. Korf]].<ref name ="Korf">{{cite journal
+| last1       = Amundson
+| first1      = Marlys
+| date        = Fall 2004
+| title       = A Profile of Judea Pearl – Computer Science Pioneer, Visionary
+| journal     = UCLA Engineer
+| issue       = 12
+| pages       = 16–17
+| access-date = July 20, 2011
+| url         = http://ftp.cs.ucla.edu/pub/stat_ser/pearl-engineer-fall04.pdf
+}}</ref> His work on [[causality#Causal calculus|causality]] has "revolutionized the understanding of causality in statistics, psychology, medicine and the social sciences" according to the [[Association for Computing Machinery]].<ref name = "ACM">{{cite web
+|url         = http://bayes.cs.ucla.edu/Newell_2003.htm
+|title       = ACM HONORS INNOVATORS WHO CHANGED THE SCIENTIFIC WORLD
+|date        = April 27, 2004 |publisher = [[Association for Computing Machinery]]
+|location    = [[New York City|New York]]
+|access-date = July 20, 2011
+}}</ref>
+
+===Notable contributions===
+* A summary of Pearl's scientific contributions is available in a chronological [http://amturing.acm.org/award_winners/pearl_2658896.cfm account] authored by [[Stuart J. Russell]] (2012). 
+* An [http://amturing.acm.org/bib/pearl_2658896.cfm annotated bibliography] of Pearl's contributions was compiled by the ACM in 2012.
+* A video describing Pearl's major contributions to AI is available [https://www.youtube.com/watch?v=uaq389ckd5o here].
+* Pearl's opinion pieces, touching on Jewish identity, the war on terrorism, and the Middle East conflict can be accessed [http://bayes.cs.ucla.edu/Judea-Pearl-Op-eds.pdf here].
+
+===Books===
+* ''Heuristics'', Addison-Wesley, 1984
+* ''Probabilistic Reasoning in Intelligent Systems'', Morgan-Kaufmann, 1988
+* {{cite book|title-link=Causality (book)|title=Causality: Models, Reasoning, and Inference|author-link=Judea Pearl|author-first=Judea|author-last=Pearl|publisher=Cambridge University Press|date=2000}}
+* [http://www.jewishlights.com/page/product/978-1-58023-259-3 ''I Am Jewish: Personal Reflections Inspired by the Last Words of Daniel Pearl''], Jewish Lights, 2004. (Winner of a 2004 [[National Jewish Book Award]])
+* ''Causal Inference in Statistics: A Primer'', (with Madelyn Glymour and Nicholas Jewell), Wiley, 2016. {{ISBN|978-1-119-18684-7}}
+** A previous survey: [https://projecteuclid.org/euclid.ssu/1255440554 Causal inference in statistics: An overview], Statistics Surveys,  3:96–146, 2009.
+* {{cite journal|author-link=Judea Pearl|author1-first=Judea|author1-last=Pearl|title-link=The Book of Why|title=The Book of Why: The New Science of Cause and Effect|date=2018|author2=Dana Mackenzie|journal=Science |volume=361 |issue=6405 |page=855 |doi=10.1126/science.aau9731 |bibcode=2018Sci...361..855. }}
+
+===Awards===
+{{Div col|colwidth=30em}}
+*Foreign Member of the [[Royal Society]] (2025)<ref>{{Cite web |date=May 20, 2025 |title=Exceptional scientists elected as Fellows of the Royal Society |url=https://royalsociety.org/news/2025/05/new-fellows/ |access-date=May 22, 2025 |website=Royal Society |language=en}}</ref>
+* [http://ipmu.lip6.fr/?KampeDeFerietAward Kampe De Feriet Award] from the Conference on Information Processing and Management of Uncertainty (IPMU) (2024)
+* [https://kr.org/KR2023/prizes-awards/ Test of Time Award] from International Conference on Principles of Knowledge Representation and Reasoning (2023)
+* [[BBVA Foundation Frontiers of Knowledge Award]]<ref name="bbva" /> (2021)
+* [[Carnegie Corporation of New York]] as an honoree of the [[Great Immigrants Award|Great Immigrants Awards]]<ref>{{Cite web |title=AI pioneer named to Carnegie Corporation's annual great immigrants list &#124; UCLA |url=https://newsroom.ucla.edu/dept/faculty/judea-pearl-ai-pioneer-named-to-carnegie-great-immigrants-list |access-date=June 25, 2024 |website=UCLA}}</ref>
+* Classic Paper Award, Artificial Intelligence Journal [https://aij.ijcai.org/aij-awards/ AIJ Awards] (2020)
+* Honorary Fellow, Royal Statistical Society [https://newsroom.ucla.edu/dept/faculty/ai-pioneer-judea-pearl-named-royal-statistical-society-honorary-fellow AI pioneer named Royal Statistical Society Honorary Fellow] (2020)
+* [[Fellow of the American Statistical Association]].<ref>{{cite web|url=https://www.amstat.org/asa/files/pdfs/2019-ASAFellowAnnouncement.pdf|title=ASA Fellow Announcement|publisher=American Statistical Association|access-date=May 12, 2019}}</ref> (2019)
+* Honorary Doctorate, Hebrew University of Jerusalem [http://bayes.cs.ucla.edu/pearl-hebrew-univ-jerusalem-dec2018.pdf ] (2018)
+* Honorary Doctorate, [[Yale University]] [http://newsroom.ucla.edu/dept/faculty/judea-pearl-honorary-doctorate-yale Judea Pearl receives honorary doctorate from Yale], (2018)
+* Edward A. Dickson Award, UCLA [https://www.cs.ucla.edu/judea-pearl-wins-ucla-edward-a-dickson-emeritus-professorship-award/ Judea Pearl Wins UCLA Edward A. Dickson Emeritus Professorship Award | CS](2018)
+* Ulf Grenander Prize, American Mathematical Society [http://www.ams.org/news?news_id=3856 News from the AMS] (2018)
+* Sells Award for Distinguished Lifetime Achievement, Society for Multivariate Experimental Psychology [https://www.smep.org/awards/sells Sells Award for Distinguished Multivariate Research | SMEP] (2016)
+* Fellow, [[Association for Computing Machinery|ACM]] [http://newsroom.ucla.edu/dept/faculty/judea-pearl-named-association-for-computing-machinery-fellow Judea Pearl named Association for Computing Machinery Fellow] (2015)
+* Dickson Prize, Carnegie Mellon University [http://newsroom.ucla.edu/dept/faculty/pearl-wins-dickson-prize-from-carnegie-mellon Pearl wins Dickson Prize from Carnegie Mellon] (2015)
+* Classic Paper Award, Artificial Intelligence Journal [http://bayes.cs.ucla.edu/aij-award2015.html 2015 AIJ CLASSIC PAPER AWARD] (2015)
+* Honorary Doctorate, Carnegie Mellon University [http://newsroom.ucla.edu/dept/faculty/judea-pearl-to-receive-honorary-doctorate-from-carnegie-mellon-university Judea Pearl to receive honorary doctorate from Carnegie Mellon University] (2015)
+* Member, [[National Academy of Sciences]].<ref>[http://www.nasonline.org/news-and-multimedia/news/april-29-2014-NAS-Election.html National Academy of Sciences Members and Foreign Associates Elected] {{webarchive|url=https://web.archive.org/web/20150818062140/http://www.nasonline.org/news-and-multimedia/news/april-29-2014-NAS-Election.html |date=August 18, 2015 }}, [[National Academy of Sciences]], April 29, 2014.</ref> [http://newsroom.ucla.edu/releases/ucla-artificial-intelligence-pioneer-elected-to-the-national-academy-of-sciences UCLA artificial intelligence pioneer elected to the National Academy of Sciences](2014)
+* Honorary Doctorate, Texas A&M [https://graduation.tamu.edu/Home/Ceremonial-Symbols-History/Honorary-Degrees Graduation – Honorary Degrees] (2014)
+* Lynford Lecture and Distinguished Alumni Award, NYU-Polytechnic [http://engineering.nyu.edu/news/2013/11/08/computer-scientist-and-philosopher-judea-pearl-delivers-15th-annual-lynford-lecture- Computer Scientist and Philosopher Judea Pearl Delivers 15th Annual Lynford Lecture on Science of Cause and Effect | NYU Tandon School of Engineering] (2013)
+* Medallion Lecture, Institute of Mathematical Statistics, JSM-2013 [https://imstat.org/2013/05/16/medallion-lecture-yaacov-ritov/ Institute of Mathematical Statistics | Medallion Lecture: Judea Pearl](2013)
+* Special Issue honoring Judea Pearl, Cognitive Science Journal [http://onlinelibrary.wiley.com/doi/10.1111/cogs.2013.37.issue-6/issuetoc] (2013)
+* [[Association for Computing Machinery|ACM]] [[Turing Award]],<ref name="acm-turing"/><ref name="acm_2011_Turing_award_ Judea_Pearl_press_release"/> Association for Computing Machinery [https://cacm.acm.org/blogs/blog-cacm/147103-judea-pearl-wins-2011-acm-turing-award/fulltext Judea Pearl Wins 2011 ACM Turing Award] (2012) 
+* Fellow, American Academy of Arts and Sciences [https://www.amacad.org/person/judea-pearl Judea Pearl] (2012)
+* Harvey Prize, Technion, Israel Institute of Technology [https://www.technion.ac.il/en/2011/12/professor-sir-richard-friend-and-professor-judea-pearl-winners-of-the-2011-harvey-prize/] (2012)
+* Fellow, Cognitive Science Society [https://cognitivesciencesociety.org/society-awards/ Fellows of the Society] {{Webarchive|url=https://web.archive.org/web/20220404064001/https://cognitivesciencesociety.org/society-awards/ |date=April 4, 2022 }} (2011)
+* David E. Rumelhart Prize, Cognitive Science Society [https://cognitivesciencesociety.org/rumelhart-prize/ Rumelhart Prize] (2011)
+* [[IEEE Intelligent Systems]]' AI's Hall of Fame<ref>{{Cite journal | last1 = Zeng | first1 = Daniel | doi = 10.1109/MIS.2011.64 | title = AI's Hall of Fame | url = http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2011/0811/rW_IS_AIsHallofFame.pdf | journal = [[IEEE Intelligent Systems]] | volume = 26 | issue = 4 | pages = 5–15 | year = 2011 | bibcode = 2011IISys..26d...5Z | access-date = September 4, 2015 | archive-date = December 16, 2011 | archive-url = https://web.archive.org/web/20111216235804/http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2011/0811/rW_IS_AIsHallofFame.pdf | url-status = dead }}</ref> (2011)
+* Otis Dudley Duncan Memorial Lecture, American Sociological Society (2010)
+* Festschrift and symposium in honor of Judea Pearl [http://bayes.cs.ucla.edu/TRIBUTE/pearl-tribute2010.htm TRIBUTE TO JUDEA PEARL] (2010)
+* Heuristics, Probability and Causality: A Tribute to Judea Pearl, R. Dechter, H. Geffner, and J.Y. Halpern (Eds.), College Publication [http://bayes.cs.ucla.edu/TRIBUTE/festschrift-complete.pdf] (2010)
+* Honorary Doctorate, Chapman University [http://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1178&context=press_releases] (2008)
+* Benjamin Franklin Medal in Computers and Cognitive Science, The Franklin Institute [https://samueli.ucla.edu/computer-science-professor-wins-2008-benjamin-franklin-medal/] (2008)
+* Honorary Doctorate of Science, University of Toronto [http://bayes.cs.ucla.edu/honorary-doctorate-utoronto-june2007.html ] (2007)
+* Purpose Prize [http://encore.org/purpose-prize/judea-pearl/ Judea Pearl and Akbar Ahmed] (2006)
+* Classic Paper Award, AAAI [http://bayes.cs.ucla.edu/aaai-award2006.html 2006 AAAI CLASSIC PAPER AWARD] (2006)
+* Allen Newell Award, Association for Computing Machinery [https://awards.acm.org/award_winners/pearl_2658896 Judea Pearl](2004)
+* Pekeris Memorial Lecture, The Weizmann Institute of Science [http://bayes.cs.ucla.edu/pekeris03.html lect82-net] (2003)
+* Corresponding Member, [[Royal Academy of Engineering (Spain)|Royal Academy of Engineering of Spain]] (2002)
+* [[Lakatos Award]], The London School of Economics and Political Science [https://www.lse.ac.uk/philosophy/blog/2002/04/09/2001-lakatos-award-judea-pearl/] (2001)
+* Classic Paper Award, AAAI [http://bayes.cs.ucla.edu/aaai-award2k.html 2000 AAAI CLASSIC PAPER AWARD] (2000)
+* IJCAI Research Excellence Award in Artificial Intelligence, International Joint Conference in Artificial Intelligence [http://bayes.cs.ucla.edu/IJCAI99/index.html IJCAI-99] (1999)
+* UCLA 81st Faculty Research Lecturer [http://bayes.cs.ucla.edu/LECTURE/lecture_sec1.htm NOTES – UCLA 81st FACULTY RESEARCH LECTURE SERIES] (1996)
+* Member, [[National Academy of Engineering]] (NAE) (1995)
+* Fellow, American Association of Artificial Intelligence ([[AAAI]]) (1990),
+* Fellow, Institute of Electrical and Electronics Engineers ([[IEEE]]) (1988),
+* [[RCA Laboratories]]  Achievement Award (1965)
+{{div col end}}
+
+==See also==
+{{Portal|Biography|Greater Los Angeles|Israel}}
+* [[History of the Jews in Los Angeles]]
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book |editor-last1= Geffner|editor-first1= Hector |editor-last2= Dechter|editor-first2= Rita |editor-last3= Halpern |editor-first3= Joseph |date= 2022|title= Probabilistic and Causal Inference : The Works of Judea Pearl|publisher= Association for Computing Machinery|isbn= 978-1-4503-9589-2}}
+
+==External links==
+{{Wikiquote}}
+* {{official website}}
+* [http://www.danielpearl.org Daniel Pearl Foundation]
+* {{MathGenealogy |id=70481 |title=Judea Pearl}}
+* {{AIGenealogy |id=595 |title=Judea Pearl}}
+* {{citation |url= https://www.ushmm.org/confront-antisemitism/antisemitism-podcast/judea-pearl |title= Interview with Judea Pearl |website= U.S. Holocaust Memorial Museum |first= Daniel |last= Greene |date= September 27, 2007 |series= Voices on antisemitism }}
+* {{cite web |url= http://thesciencenetwork.org/programs/cogsci-2011/interview-with-judea-pearl |title= Robots and the Illusion of Free Will |work= The Science Network |publisher= [[The Science Network]] |date= July 22, 2011 }}
+* {{cite web |url= https://www.youtube.com/watch?v=pEBI0vF45ic |title= Interview with Judea Pearl |date= Dec 2019 |first= Lex |last= Fridman |website= [[YouTube]] |authorlink= Lex Fridman |series= Podcast #56 }}
+
+{{Turing award}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pearl, Judea}}
+[[Category:American computer scientists]]
+[[Category:Israeli computer scientists]]
+[[Category:Israeli emigrants to the United States]]
+[[Category:Artificial intelligence researchers]]
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:Fellows of the IEEE]]
+[[Category:Fellows of the Association for the Advancement of Artificial Intelligence]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Rumelhart Prize laureates]]
+[[Category:Turing Award laureates]]
+[[Category:Israeli philosophers]]
+[[Category:Epistemologists]]
+[[Category:Israeli people of Polish-Jewish descent]]
+[[Category:Israeli atheists]]
+[[Category:American people of Polish-Jewish descent]]
+[[Category:Scientists from California]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish American atheists]]
+[[Category:American atheists]]
+[[Category:Jewish philosophers]]
+[[Category:Rutgers University alumni]]
+[[Category:Polytechnic Institute of New York University alumni]]
+[[Category:UCLA Henry Samueli School of Engineering and Applied Science faculty]]
+[[Category:Scientists from Tel Aviv]]
+[[Category:20th-century American scientists]]
+[[Category:21st-century American scientists]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Lakatos Award winners]]
+[[Category:Harvey Prize winners]]
+[[Category:Mathematical statisticians]]
+[[Category:Israeli Ashkenazi Jews]]
+[[Category:Machine learning researchers]]
+[[Category:The Benjamin Franklin Medal in Computer and Cognitive Science laureates]]
+[[Category:American founders]]
+[[Category:Foreign members of the Royal Society]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:American fellows of the Royal Society]]

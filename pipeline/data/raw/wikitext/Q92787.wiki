@@ -1,0 +1,117 @@
+{{short description|American computer scientist (1924–2022)}}{{Multiple issues|
+{{More citations needed|date=July 2023}}
+{{Unreliable sources|date=July 2023}}
+{{COI|date=July 2024}}
+}}
+{{Use dmy dates|date=August 2019|cs1-dates=y}}
+{{Use list-defined references|date=January 2022}}
+{{Infobox scientist
+| name                      = Maurice Karnaugh
+| native_name               =
+| native_name_lang          = 
+| image                     = <!-- (filename only, i.e. without "File:" prefix) -->
+| imagesize                 = 
+| alt                       = 
+| caption                   = 
+| birth_date                = {{birth date|1924|10|04}}
+| birth_place               = New York City, U.S.
+| death_date                = {{death date and age|2022|11|08|1924|10|04}}
+| death_place               = <!-- No boroughs -->New York City, U.S.
+| death_cause               = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names               = 
+| citizenship               = 
+| nationality               = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields                    = 
+| workplaces                = 
+| patrons                   = 
+| education                 = 
+| alma_mater                = 
+| doctoral_advisor          = 
+| academic_advisors         = 
+| doctoral_students         = 
+| notable_students          = 
+| known_for                 = [[Karnaugh map]]
+| influences                = 
+| influenced                = 
+| awards                    = 
+| author_abbrev_bot         = 
+| author_abbrev_zoo         = 
+| spouse                    = {{marriage|Linn Blank|1970}}
+| partner                   = <!-- (or | partners = ) -->
+| children                  = <!-- Robert, Paul -->
+| signature                 = <!-- (filename only) -->
+| signature_alt             = 
+| website                   = <!-- {{URL|www.example.com}} -->
+| footnotes                 =  
+}}
+
+'''Maurice Karnaugh''' ({{IPAc-en|ˈ|k|ɑːr|n|ɔː}}; October 4, 1924 – November 8, 2022) was an American physicist, mathematician, computer scientist, and inventor known for the [[Karnaugh map]] used in [[Boolean algebra]].
+
+==Early life and education==
+Karnaugh earned a B.A in physics from the City College of New York in 1948 and a PhD. in physics from Yale in 1952.<ref name=":0">{{Cite book |last1=Harris |first1=Sarah |url=https://books.google.com/books?id=muCcBAAAQBAJ&dq=%22Maurice+Karnaugh%22&pg=PA75 |title=Digital Design and Computer Architecture, ARM Edition |last2=Harris |first2=David |date=2015-04-09 |publisher=Morgan Kaufmann |isbn=978-0-12-800911-6 |language=en}}</ref>
+
+He later studied mathematics and physics at [[City College of New York]] (1944 to 1948) and transferred to [[Yale University]] to complete his [[B.Sc.]] (1949), [[M.Sc.]] (1950) and [[Ph.D.]] in physics with a thesis on ''The Theory of Magnetic Resonance and Lambda-Type Doubling in Nitric-Oxide'' (1952).
+
+== Career ==
+Karnaugh worked at [[Bell Labs]] and IBM from 1952 to 1993.<ref name=":0" />
+
+From 1980 until 1999 Karnaugh taught computer science at Polytechnic University of New York.<ref name=":0" />
+
+At Bell Labs, (1952 to 1966), developing the [[PLC (aura) map]] (1954) as well as patents for [[Pulse-code modulation|PCM]] encoding<ref name="R1" /> and magnetic logic circuits and coding.<ref name="R2" /><ref name="R3" /><ref name="R4" /><ref name="R5" /> He later worked at [[IBM]]'s Federal Systems Division in [[Gaithersburg, Maryland|Gaithersburg]] (1966 to 1970) and at the IBM [[Thomas J. Watson Research Center]] (1970 to 1994), studying [[multistage interconnection networks]].<ref name="R6" />
+
+Karnaugh was elected an [[IEEE Fellow]] in 1976, and held an adjunct position at [[Polytechnic University of New York]] (now [[New York University Tandon School of Engineering]]) at the Westchester campus from 1980 to 1999.
+
+== Karnaugh Map ==
+While at Bell Labs, in 1953 Karnaugh invented a form of logic diagram which provides an alternative technique for representing Boolean functions. The diagram is known as the  [[Karnaugh map|Karnaugh Map]].<ref>{{Cite web |last=Maxfield |first=Max |date=August 8, 2011 |title=Karnaugh Maps 101 |url=https://www.eetimes.com/karnaugh-maps-101/ |website=IEEE Times}}</ref>
+
+==Personal life and death==
+{{Section citations needed|date=July 2024}}
+Karnaugh was married to the former Linn Blank Weil from 1970 until his death in 2022. He had two sons, Robert Victor Karnaugh and Paul Joseph Karnaugh, from his first marriage.
+
+Karnaugh died in [[The Bronx, New York|The Bronx]] on November 8, 2022, at the age of 98.
+
+==Publications==
+* {{cite journal |author-last=Karnaugh |author-first=Maurice |author-link=Maurice Karnaugh |title=The Map Method for Synthesis of Combinational Logic Circuits |journal=[[Transactions of the American Institute of Electrical Engineers, Part I: Communication and Electronics]] |volume=72 |issue=5 |pages=593–599 |date=November 1953 |orig-date=1953-04-23, 1953-03-17 |id=Paper 53-217 |doi=10.1109/TCE.1953.6371932 |s2cid=51636736 |url=http://philectrosophy.com/documents/The%20Map%20Method%20For%20Synthesis%20of.pdf |access-date=2017-04-16 |url-status=dead |archive-url=https://web.archive.org/web/20170416232229/http://philectrosophy.com/documents/The%20Map%20Method%20For%20Synthesis%20of.pdf |archive-date=2017-04-16}}
+* {{cite journal |author-last=Karnaugh |author-first=Maurice |author-link=Maurice Karnaugh |title=Issues in Computer Communications |journal=IEEE Transactions on Communications |volume=20 |issue=3 |date=June 1972 |pages=495–498 |doi=10.1109/TCOM.1972.1091197|s2cid=51640082 }}
+* {{cite journal |author-last=Karnaugh |author-first=Maurice |author-link=Maurice Karnaugh |title=A New Class of Algorithms for Multipoint Network Optimization |journal=IEEE Transactions on Communications |volume=24 |issue=5 |date=May 1976 |pages=500–505 |doi=10.1109/TCOM.1976.1093334}}
+* {{cite conference |author-last=Karnaugh |author-first=Maurice |author-link=Maurice Karnaugh |title=Generalized quicksearch for expert systems |conference=Eighth Conference on Artificial Intelligence for Applications |pages=30–34 |date=March 1992 |doi=10.1109/CAIA.1992.200007}}
+* {{cite web |author-last=Karnaugh |author-first=Maurice |author-link=Maurice Karnaugh |url=http://symbolicsets.com/symbolicsettheory.pdf |title=Symbolic Sets and the Real Line |website=symbolicsets.com |date=2017-01-17 |orig-date=2015-07-05 |access-date=2019-08-07 |url-status=live |archive-url=https://web.archive.org/web/20180815114201/http://symbolicsets.com/symbolicsettheory.pdf |archive-date=2018-08-15}} (61 pages)
+
+==See also==
+* [[List of pioneers in computer science]]
+
+==References==
+<references>
+
+<ref name="R1">{{US patent|3093815}}</ref>
+<ref name="R2">[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1089269 ComSoc Profile]</ref>
+<ref name="R3">{{US patent|3094611}}</ref>
+<ref name="R4">{{US patent|3764914}}</ref>
+<ref name="R5">{{US patent|3214749}}</ref>
+<ref name="R6">{{US patent|4114143}}</ref>
+
+</references>
+
+==External links==
+* {{DBLP}}
+* List of publications at [https://dl.acm.org/profile/81100204594 ACM Digital Library]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Karnaugh, Maurice}}
+[[Category:1924 births]]
+[[Category:2022 deaths]]
+[[Category:21st-century American physicists]]
+[[Category:American telecommunications engineers]]
+[[Category:Scientists at Bell Labs]]
+[[Category:Fellows of the IEEE]]
+[[Category:Yale University alumni]]
+[[Category:IBM employees]]
+[[Category:Polytechnic Institute of New York University faculty]]
+[[Category:Scientists from New York City]]
+
+
+{{US-mathematician-stub}}
+{{US-physicist-stub}}

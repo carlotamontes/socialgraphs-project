@@ -1,0 +1,86 @@
+{{short description|American X-ray crystallographer}}
+{{for multi|the founder of Sayre Female Institute|David Austin Sayre|the American pioneer|David F. Sayre}}
+{{Infobox scientist
+| name              = David Sayre
+| image_size        = 100px
+| caption           = 
+| birth_date        = {{Birth date|mf=yes|1924|3|2}}
+| birth_place       = [[New York, New York]]
+| death_date        = {{Death date and age|mf=yes|2012|2|23|1924|3|2}}
+| death_place       = [[Bridgewater_Township,_New_Jersey|Bridgewater, New Jersey]]<ref>{{cite journal
+| last1 = Kirz
+| first1 = Janos
+| last2 = Jacobsen
+| first2 = Chris
+| last3 = Miao
+| first3 = Jianwei
+| author-link = 
+| title = Obituary of David Sayre (1924-2012)
+| journal = Physics Today
+| volume = 65
+| issue = 6
+| pages = 65–66
+| publisher = 
+| location = 
+| date = 2012
+| language = English
+| url = https://doi.org/10.1063/PT.3.1614
+| doi = 10.1063/PT.3.1614
+| access-date = August 8, 2025| url-access = subscription
+}}</ref>
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[X-ray crystallography]]<br />[[X-ray microscopy]]
+| workplaces        = [[IBM]]<br />[[Stony Brook University]]
+| education         = [[Yale University]] <br /> [[Oxford University]]
+| doctoral_advisor  = [[Dorothy Hodgkin]]
+| doctoral_students = [[Jianwei Miao|Jianwei (John) Miao]]
+| notable_students  = [[Henry N. Chapman]]
+| known_for         = [[Sayre equation]]<br/>[[X-ray microscopy]]<br />[[Coherent diffraction imaging]]<br />[[Fortran|FORTRAN]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| awards            = [[Ewald Prize]]
+| religion          = 
+| footnotes         = 
+}}
+
+'''David Sayre''' (March 2, 1924 – February 23, 2012) was an American scientist, credited with the early development of [[direct methods (crystallography)|direct methods]] for [[X-ray crystallography#Protein crystallography|protein crystallography]] and of diffraction microscopy (also called [[coherent diffraction imaging]]). While working at IBM he was part of the initial team of ten programmers who created [[FORTRAN]], and later suggested the use of [[electron beam lithography]] for the fabrication of X-ray [[Zone plate|Fresnel zone plates]].
+
+The [[International Union of Crystallography]] awarded Sayre the [[Ewald Prize]] in 2008 for  
+the "unique breadth of his contributions to crystallography, which range from seminal contributions to the solving of the phase problem to the complex physics of imaging generic objects by X-ray diffraction and microscopy(...)".<ref name="Ewald">{{cite web| title=Ewald Prize|url=http://www.iucr.org/iucr/ewald-prize/8th-ewald-prize | accessdate=June 3, 2012}}</ref>
+
+==Life and career==
+
+Sayre was born in [[New York City]]. He completed his bachelor's degree in physics at [[Yale University]] at the age of 19. After working on radar at the wartime [[MIT Radiation Laboratory|Radiation Laboratory]] at [[MIT]], he earned his MS degree at [[Auburn University]] in 1948. In 1949, he moved to Oxford with his wife [[Anne Sayre|Anne Colquhoun]], whom he had married in 1947. Sayre completed his doctoral studies in [[Dorothy Hodgkin]]'s group in 1951. It is at this time that Sayre discovered the [[Sayre equation|equation now named after him]], based on the concept of atomicity. Although the key to most [[direct methods (crystallography)|direct methods]] still in use today, Sayre did not share the 1985 chemistry Nobel prize awarded for their discovery. It is also around this time that Sayre, inspired by [[Claude Shannon]]'s recent work, suggested in a short paper that the crystallographic phase problem could be solved more easily if one could measure intensities at a higher density than imposed by Bragg's law. This insight is widely seen as the initial spark that lead to recent [[coherent diffraction imaging|lensless imaging techniques]].
+
+Back in United States, David Sayre worked on structure determination of a carcinogen molecule in the lab of Peter Friedlander at the [[University of Pennsylvania]] in [[Philadelphia]]. The structure determination program he wrote for the IBM 701 attracted the attention of [[John Backus]], who hired him to be part of the initial team of 10 programmers that developed the high-level programming language FORTRAN at IBM for the IBM 704 mainframe. Sayre remained at IBM until his retirement in 1990. In the early 1970s, Sayre became interested in X-ray microscopy. He suggested to use the newly developed [[electron beam lithography]] apparatus at IBM to produce [[Zone plate|Fresnel zone plates]], a type of X-ray lens now widely used in Synchrotron facilities. In the '80s, he came back to the goal of achieving lensless imaging, which he pursued the rest of his life.
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.nature.com/nature/journal/v484/n7392/full/484038a.html Obituary: David Sayre (1924–2012) Crystallographer who pioneered methods of X-ray imaging and modern computing], by Janos Kirz and Jianwei Miao, [[Nature (journal)|Nature]] journal, Volume 484 Number 7392, p.&nbsp;34, April 2012.
+* [http://journals.iucr.org/a/issues/2012/04/00/es0396/index.html Obituary: David Sayre (1924–2012)], by [[Jenny P. Glusker]], [[Acta Crystallographica A|Acta Crystallographica]], Volume 68, p.&nbsp;1–2, May 2012.
+* [http://physicstoday.scitation.org/do/10.1063/PT.4.1769/full/ Obituary of David Sayre (1924-2012)], by Janos Kirz, [[Physics Today]] DOI:10.1063/PT.4.1769
+* David Sayre's Memoir written by himself in 1998 [https://sdrive.cnrs.fr/s/R4B5SRsNjpqcs5n]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sayre, David}}
+[[Category:1924 births]]
+[[Category:2012 deaths]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:American physicists]]
+[[Category:Fortran]]
+[[Category:Scientists from New York City]]
+[[Category:Programming language designers]]
+[[Category:Programming language researchers]]
+[[Category:Yale University alumni]]
+[[Category:Mathematicians from New York (state)]]
+[[Category:Presidents of the American Crystallographic Association]]
+[[Category:MIT Radiation Laboratory people]]

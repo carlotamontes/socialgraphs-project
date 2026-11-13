@@ -1,0 +1,304 @@
+{{short description|Israeli physicist}}
+{{Infobox scientist
+| name              = Yoav Shechtman
+| native_name       = יואב שכטמן
+| image             = Yoav Shechtman.jpg
+| caption           = Shechtman in 2018
+| birth_date        = {{birth date and age|1980|3|17|df=y}}
+| birth_place       = [[Haifa, Israel]]
+| death_date        = 
+| death_place       = 
+| education         = {{hlist|[[Technion – Israel Institute of Technology|Technion]]|[[Stanford University]]}}
+| field             = [[Biomedical Engineering]]
+| workplaces        = {{hlist|[[Technion – Israel Institute of Technology|Technion]]|[[University of Texas at Austin|University of Texas]]}}
+| known_for         = {{hlist|[[Nanobiotechnology]]|[[super-resolution microscopy]]}}
+| awards            = 
+| doctoral_advisors = Mordechai Segev<br />[[Yonina Eldar]]
+| academic_advisors = [[William E. Moerner]]
+| spouse            = Tamar Navrotsky Shechtman
+}}
+'''Yoav Shechtman''' ({{langx|he|יואב שכטמן}}; born March 17, 1980) is an Israeli physicist and engineer. He heads the Nano-Bio-Optics lab at the [[Technion – Israel Institute of Technology]].
+
+==Early life and education==
+Yoav Shechtman was born on March 17, 1980, to Zipora and [[Dan Shechtman]] and spent his childhood growing up in [[Haifa]].
+
+Shechtman holds a BSc in physics and electrical engineering (2007) and a PhD in physics (2013) from the [[Technion]]. He later completed a postdoc at [[Stanford University]] (2016), developing [[super-resolution microscopy]] methods with [[W.E. Moerner]].<ref>{{cite web|url=https://biomed.faculty-ms.technion.ac.il/members/yoav-shechtman/|title=Yoav Shechtman - Technion Faculty of Biomedical Engineering|access-date=16 April 2020|archive-date=27 October 2017|archive-url=https://web.archive.org/web/20171027053704/http://biomed.faculty-ms.technion.ac.il/members/yoav-shechtman/}}</ref>
+
+==Academic career==
+Since October 2016, Shechtman is a faculty member in the [[Technion-Israel Institute of Technology]] where he currently heads the Nano-Bio-Optics lab.<ref name="makor-rishon">{{cite web |last= |first= |date=29 November 2024 |title=Nano Bio Optics lab at the Technion |url=https://www.clever-microscopy.com/ |access-date=29 November 2024 |website=www.clever-microscopy.com |publisher= |language=}}</ref><ref name="ismbe">{{cite web|url=https://ismbe.org.il/announcements/|title=Israel Society for Medical and Biological Engineering - Announcements|access-date=16 April 2020|archive-date=26 December 2020|archive-url=https://web.archive.org/web/20201226125811/http://ismbe.org.il/announcements/}}</ref>
+
+In 2018, Shechtman and his team at the Technion developed an efficient method for bio imaging in super resolution.<ref name="hayadan">{{cite web|language=he|url=https://www.hayadan.org.il/life-in-super-resolution-0206182|title=Life in Super Resolution|publisher=HaYadan|date=2 June 2018|access-date=16 April 2020}}</ref>
+
+In 2021, Shechtman, in collaboration with Reut Orange-Kedem, developed a cheap and more efficient method for the production of more precise optical components.<ref name="ynet-june-2021">{{cite news |title=Research: The "Trick" That Helps to Develop Precise Optical Components |url=https://www.ynet.co.il/environment-science/article/HyouIbIod |newspaper=[[Ynet]] |access-date=23 April 2022 |language=he |date=15 June 2021}}</ref>
+
+From September 2023 – 2024, Shechtman was a Harrington Faculty Fellow at [[University of Texas at Austin|The University of Texas]]<ref name="university-of-texas">{{cite web |title=Faculty Directory |url=https://www.me.utexas.edu/people/faculty-directory/adjunct-faculty |publisher=[[University of Texas at Austin]] |access-date=7 September 2023}}</ref> at Austin.
+
+In May 2025, Shechtman was selected as a member of the Israel Young Academy.<ref name="israel-young-academy">{{cite web |title=Nine leading scientists elected to membership in the Young Israeli Academy |url=https://young.academy.ac.il/News/NewsItem.aspx?nodeId=658&id=688 |publisher=Israel Young Academy |access-date=18 May 2025 |language=he |date=14 May 2025}}</ref>
+
+==Awards==
+* 2016 Technion Career Advancement Chair
+* 2017 Zuckerman Faculty Scholar
+* 2018 Early Career Award of the International Association for Medical and Biological Engineering (IAMBE)
+* 2018 [[European Research Council]] starting grant
+* 2019 Uzi and Michal Halevy Award for Innovative Applied Engineering
+* 2020 IUPAB Young Investigator Medal and Prize<ref name="iupab">{{cite web |date=4 April 2020 |title=The first Edition of the IUPAB Young Investigator Medal and Prize has been awarded to Dr Yoav Shechtman |url=http://iupab.org/2020/04/04/the-first-edition-of-the-iupab-young-investigator-prize-has-been-awarded-to-dr-yoav-shechtman/ |access-date=16 April 2020 |archive-date=11 August 2020 |archive-url=https://web.archive.org/web/20200811131657/http://iupab.org/2020/04/04/the-first-edition-of-the-iupab-young-investigator-prize-has-been-awarded-to-dr-yoav-shechtman/ }}</ref>
+* 2021 Krill Prize
+* 2024 [[European Research Council]] Proof of Concept (ERC PoC) grants [https://bme.technion.ac.il/en/news/congratulations-to-prof-yoav-shechtman-and-prof-netanel-korin-on-recieving-the-european-research-council-proof-of-concept-erc-poc-grants/ .2]
+
+==Published works==
+* {{Cite journal
+ | author = Boris Ferdman, Elias Nehme, Lucien E. Weiss, Reut Orange, Onit Alalouf & Yoav Shechtman
+ | title = VIPR: vectorial implementation of phase retrieval for fast and accurate microscopic pixel-wise pupil estimation
+ | journal = [[Optics Express]]
+ | year = 2020
+ | volume = 28
+ | issue = 7
+ | page = 10179
+ | doi = 10.1364/OE.388248
+ | bibcode = 2020OExpr..2810179F
+ | s2cid = 214731058
+ | doi-access = free
+ }}
+* {{Cite journal
+ | author = Naor Granik, Lucien E. Weiss, Elias Nehme, Maayan Levin, Michael Chein, Eran Perlson, Yael Roichman & Yoav Shechtman
+ | title = Single-Particle Diffusion Characterization by Deep Learning
+ | journal = [[Biophysical Journal]]
+ | year = 2019
+ | volume = 117
+ | issue = 2
+ | page = 185
+ | doi = 10.1016/j.bpj.2019.06.015
+ | bibcode = 2019BpJ...117..185G
+ | pmc = 6701009
+ }}
+*{{Cite journal
+ | author = Eran Hershko, Lucien E. Weiss, Tomer Michaeli & Yoav Shechtman
+ | title = Multicolor localization microscopy and point-spread-function engineering by deep learning
+ | journal = [[Optics Express]]
+ }}
+*{{Cite journal
+ | author = Boris Ferdman, Lucien E. Weiss, Onit Alalouf, Yonathan Haimovich & Yoav Shechtman
+ | title = Ultrasensitive Refractometry via Supercritical Angle Fluorescence
+ | journal = [[ACS Nano]]
+}}
+*{{Cite journal
+ | author = Mikael P. Backlund, Yoav Shechtman & Ronald L. Walsworth
+ | title = Fundamental Precision Bounds for Three-Dimensional Optical Localization Microscopy with Poisson Statistics
+ | journal = [[Physical Review Letters]]
+ | year = 2018
+ | volume = 121
+ | issue = 2
+ | article-number = 023904
+ | doi = 10.1103/PhysRevLett.121.023904
+ | arxiv = 1803.01776
+ | bibcode = 2018PhRvL.121b3904B
+ | s2cid = 13671480
+ }}
+*{{Cite journal
+ | author = Anna-Karin Gustavsson, Petar N. Petrov, Maurice Y. Lee, Yoav Shechtman & W. E. Moerner
+ | editor5-first = Jörg
+ | editor5-last = Enderlein
+ | editor4-first = Ingo
+ | editor4-last = Gregor
+ | editor3-first = Zygmunt K
+ | editor3-last = Gryczynski
+ | editor2-first = Rainer
+ | editor2-last = Erdmann
+ | editor1-first = Felix
+ | editor1-last = Koberling
+ | title = Tilted Light Sheet Microscopy with 3D Point Spread Functions for Single-Molecule Super-Resolution Imaging in Mammalian Cells
+ | journal = [[Proceedings of SPIE]]
+ | year = 2018
+ | volume = 10500
+ | pages = 105000M
+ | doi = 10.1117/12.2288443
+ | pmid = 29681676
+ | pmc = 5906058
+ | bibcode = 2018SPIE10500E..0MG
+ | isbn = 978-1-5106-1485-7
+ }}
+*{{Cite journal
+ | author = Anna-Karin Gustavsson, Petar N. Petrov, Maurice Y. Lee, Yoav Shechtman & W. E. Moerner
+ | title = 3D single-molecule super-resolution microscopy with a tilted light sheet
+ | journal = [[Nature Communications]]
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Anna-Karin Gustavsson, Petar N. Petrov, Elisa Dultz, Maurice Y. Lee, Karsten Weis & W. E. Moerner
+ | title = Observation of live chromatin dynamics in cells via 3D localization microscopy using Tetrapod point spread functions
+ | journal = [[Biomedical Optics Express]]
+ }}
+*{{Cite journal
+ | author = Petar N. Petrov, Yoav Shechtman & W. E. Moerner
+ | title = Measurement-based estimation of global pupil functions in 3D localization microscopy
+ | journal = [[Optics Express]]
+ | year = 2017
+ | volume = 25
+ | issue = 7
+ | page = 7945
+ | doi = 10.1364/OE.25.007945
+ | arxiv = 1705.09694
+ | bibcode = 2017OExpr..25.7945P
+ | s2cid = 4417690
+ }}
+*{{Cite journal
+ | author = Alex von Diezmann, Yoav Shechtman & W. E. Moerner
+ | title = Three-Dimensional Localization of Single Molecules for Super-Resolution Imaging and Single-Particle Tracking
+ | journal = [[Chemical Reviews]]
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Lucien E. Weiss, Adam S. Backer, Maurice Y. Lee & W. E. Moerner
+ | title = Multicolour localization microscopy by point-spread-function engineering
+ | journal = [[Nature Photonics]]
+ }}
+*{{Cite journal
+ | author = W. E. Moerner, Yoav Shechtman & Quan Wang (physicist)
+ | title = Single-molecule spectroscopy and imaging over the decades
+ | journal = [[Faraday Discussions]]
+ | year = 2015
+ | volume = 184
+ | pages = 9–36
+ | doi = 10.1039/c5fd00149h
+ | pmid = 26616210
+ | pmc = 4782608
+ | bibcode = 2015FaDi..184....9M
+ }}
+*{{Cite journal
+ | author = Pavel Sidorenko, Ofer Kfir, Yoav Shechtman, Avner Fleischer, [[Yonina Eldar|Yonina C. Eldar]], Mordechai Segev & Oren Cohen
+ | title = Sparsity-based super-resolved coherent diffraction imaging of one-dimensional objects
+ | journal = [[Nature Communications]]
+ | year = 2015
+ | volume = 6
+ | page = 8209
+ | doi = 10.1038/ncomms9209
+ | doi-access = free| bibcode = 2015NatCo...6.8209S
+ | s2cid = 10141754
+ | pmc = 4569841
+ }}
+*{{Cite journal
+ | author = Maor Mutzafi, Yoav Shechtman, Yonina C. Eldar, Oren Cohen & Mordechai Segev
+ | title = Sparsity-based Ankylography for Recovering 3D molecular structures from single-shot 2D scattered light intensity
+ | journal = [[Nature Communications]]
+ | year = 2015
+ | volume = 6
+ | page = 7950
+ | doi = 10.1038/ncomms8950
+ | doi-access = free| bibcode = 2015NatCo...6.7950M
+ | s2cid = 15420365
+ | pmc = 4560757
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Lucien E. Weiss, Adam S. Backer, Steffen J. Sahl & W. E. Moerner
+ | title = Precise Three-Dimensional Scan-Free Multiple-Particle Tracking over Large Axial Ranges with Tetrapod Point Spread Functions
+ | journal = [[Nano Letters]]
+ | year = 2015
+ | volume = 15
+ | issue = 6
+ | page = 4194
+ | doi = 10.1021/acs.nanolett.5b01396
+ | bibcode = 2015NanoL..15.4194S
+ | s2cid = 18140666
+ | pmc = 4462996
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Steffen J. Sahl, Adam S. Backer & W. E. Moerner
+ | title = Optimal point spread function design for 3D imaging
+ | journal = [[Physical Review Letters]]
+ | year = 2014
+ | volume = 113
+ | issue = 13
+ | article-number = 133902
+ | doi = 10.1103/PhysRevLett.113.133902
+ | pmid = 25302889
+ | pmc = 4381866
+ | bibcode = 2014PhRvL.113m3902S
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Eran Small, oav Lahini, Mor Verbin, Yonina C. Eldar, Yaron Silberberg & [[Mordechai Segev]]
+ | title = Sparsity-based super-resolution and phase-retrieval in waveguide arrays
+ | journal = [[Optics Express]]
+ | year = 2013
+ | volume = 21
+ | issue = 20
+ | article-number = 24015
+ | doi = 10.1364/OE.21.024015
+ | bibcode = 2013OExpr..2124015S
+ | s2cid = 17744465
+ | doi-access = free
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Yonina C. Eldar, Oren Cohen & Mordechai Segev
+ | title = Efficient coherent diffractive imaging for sparsely varying objects
+ | journal = [[Optics Express]]
+ | year = 2013
+ | volume = 21
+ | issue = 5
+ | page = 6327
+ | doi = 10.1364/OE.21.006327
+ | bibcode = 2013OExpr..21.6327S
+ | doi-access = free
+ }}
+*{{Cite journal
+ | author = Robert Keil, Yoav Lahini, Yoav Shechtman, Matthias Heinrich, ami Pugatch, Felix Dreisow, Andreas Tunnermann, Stefan Nolte & Alexander Szameit
+ | title = Perfect imaging through a disordered waveguide lattice
+ | journal = [[Optics Letters]]
+ | year = 2012
+ | volume = 37
+ | issue = 5
+ | page = 809
+ | doi = 10.1364/OL.37.000809
+ | bibcode = 2012OptL...37..809K
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, Yonina C. Eldar, Alexander Szameit & Mordechai Segev
+ | title = Sparsity based sub-wavelength imaging with partially incoherent light via quadratic compressed sensing
+ | journal = [[Optics Express]]
+ | year = 2011
+ | volume = 19
+ | issue = 16
+ | article-number = 14807
+ | doi = 10.1364/OE.19.014807
+ | arxiv = 1104.4406
+ | bibcode = 2011OExpr..1914807S
+ | s2cid = 2132771
+ }}
+*{{Cite journal
+ | author = Yoav Shechtman, nir Gazit, Alexander Szameit, Yonina C. Eldar & Mordechai Segev
+ | title = Super-resolution and reconstruction of sparse images carried by incoherent light
+ | journal = [[Optics Letters]]
+ | year = 2010
+ | volume = 35
+ | issue = 8
+ | page = 1148
+ | doi = 10.1364/OL.35.001148
+ | bibcode = 2010OptL...35.1148S
+ }}
+
+==See also==
+*[[Science and technology in Israel]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{Commons category-inline}}
+*[https://nanobiooptics.net.technion.ac.il/ Nano-bio-optics lab – Yoav Shechtman]
+*{{YouTube|xgE7XXPP3J4|Dr. Yoav Shechtman - Zuckerman STEM Leadership Faculty Program}}
+*{{google scholar id|xe1fzB0AAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shechtman, Yoav}}
+[[Category:Living people]]
+[[Category:1980 births]]
+[[Category:Jewish physicists]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:Academic staff of Technion – Israel Institute of Technology]]
+[[Category:Stanford University alumni]]
+[[Category:Scientists from Haifa]]
+[[Category:21st-century Israeli physicists]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:Optical physicists]]
+[[Category:Israeli nanotechnologists]]
+[[Category:21st-century Israeli engineers]]
+[[Category:Israeli electrical engineers]]
+[[Category:Biomedical engineers]]

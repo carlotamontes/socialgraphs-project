@@ -1,0 +1,146 @@
+{{Short description|American quantum information scientist}}
+{{Use American English|date=January 2019}}
+{{Infobox scientist
+|name              = Seth Lloyd
+|image             = Seth Lloyd.jpg
+|caption           = Seth Lloyd in 2013
+|birth_date        = {{Birth date and age|1960|08|02}}
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|citizenship       = 
+|fields            = [[Quantum information science]]
+|workplaces        = [[Massachusetts Institute of Technology|MIT]]<br />[[California Institute of Technology|Caltech]]<br />[[Los Alamos National Laboratory|Los Alamos]]<br />[[Santa Fe Institute]]
+|education         = [[Phillips Academy]]<br />[[Harvard College]]<br />[[Cambridge University]]<br />[[Rockefeller University]]
+|doctoral_advisor  = [[Heinz Pagels]]
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = [[Coherent information]]<br />[[Continuous-variable quantum information]]<br />[[Dynamical decoupling]]<br />[[Effective complexity]]<br />[[HHL algorithm]]<br />[[Quantum capacity]]<br />[[Quantum illumination]]
+|influences        = 
+|influenced        = 
+|awards            = 
+|signature         = <!--(filename only)-->
+|footnotes         = 
+}}
+'''Seth Lloyd''' (born August 2, 1960) is an American [[quantum information science|quantum information scientist]] and professor in the [[Massachusetts Institute of Technology]] Department of [[Mechanical Engineering]].
+
+He is known for work in [[quantum information science]], including work on designs for a [[quantum computer]], quantum analog computation, quantum analogs of [[Shannon's theorem]], and methods for [[quantum error correction]] and noise reduction.<ref>{{Cite web|url = https://news.mit.edu/2015/seth-lloyd-appointed-nam-suh-professor-mechanical-engineering-0831 |title=Seth Lloyd, leading quantum mechanics expert, appointed Nam P. Suh Professor|last=MIT News Office|date=2015-08-31|language=en|access-date=2020-10-07}}</ref>
+
+==Biography==
+Lloyd was born on August 2, 1960. Lloyd's mother was Susan Lloyd, a history teacher at Phillips Andover.<ref name="marriage">{{cite web | title=WEDDINGS; Eve Zimmerman and Seth Lloyd | website=The New York Times | date=1994-05-29 | url=https://www.nytimes.com/1994/05/29/style/weddings-eve-zimmerman-and-seth-lloyd.html | access-date=2025-06-28}}</ref><ref name="x789">{{cite web | last=Lloyd | first=Robert | title=From Abbot to Andover, an education icon—Susan McIntosh Lloyd | website=Andover | date=2018-09-06 | url=https://www.andover.edu/news/2018/susan-mcintosh-lloyd | access-date=2025-06-28}}</ref> His maternal grandparents were [[Rustin McIntosh]], a pediatrician, and [[Millicent Carey McIntosh]], an educational administrator.<ref name="marriage" /> His father, Robert Lloyd, was an art teacher at Phillips Andover.<ref name="marriage" /><ref name="c901">{{cite web | title=Remembering Robert A. Lloyd | website=Andover | date=2024-11-14 | url=https://www.andover.edu/news/2024/mourning-the-loss-of-robert-a-lloyd | access-date=2025-06-28}}</ref> His paternal grandparents were teachers of history and dance at [[Phillips Exeter]].<ref name="c901" />
+
+Lloyd graduated from [[Phillips Academy]] in 1978 and received a BA from [[Harvard College]] in 1982. He completed [[Part III of the Mathematical Tripos|Part III]] and an MPhil from [[Cambridge University]] in 1983 and 1984 while on a [[Marshall Scholarship]].<ref>{{Cite web |title=OYSI |url=http://oysi.org/people/entry/seth-lloyd |access-date=2022-05-23 |website=oysi.org}}</ref> Lloyd completed a PhD in physics at [[Rockefeller University]] in 1988 advised by [[Heinz Pagels]].
+
+From 1988 to 1991, Lloyd was a postdoctoral researcher at [[California Institute of Technology|Caltech]] working with [[Murray Gell-Mann]] on applications of information to quantum systems, and from 1991 to 1994 he was a postdoctoral researcher at [[Los Alamos National Laboratory]] working on quantum computation. In 1994 he joined the mechanical engineering department at [[MIT]]. Lloyd has also been an external faculty member at the [[Santa Fe Institute]].
+
+In 2007 he was named a Fellow of the [[American Physical Society]].<ref name="aps">{{cite news|title=2007 Fellows of the American Physical Society|url=http://www.aps.org/units/gqi/fellowship/index.cfm?year=2007}}</ref> In 2012 he was given the International Quantum Communication Award.<ref name="qcmc">{{cite news|title=2012 QCMC |url=http://www.qcmc2012.org}}</ref>
+
+==Work==
+Lloyd directs the ''Center for Extreme Quantum Information Theory'' (xQIT) at MIT.<ref>{{cite web |url=http://www.rle.mit.edu/xqit |title=People: xQIT: Leadership |work=mit.edu |access-date=2023-07-20}}</ref> He has made several contributions to [[quantum information science]], including a proposal for a digital [[quantum simulator]],<ref name="science-1996">{{cite journal |last=Lloyd |first=Seth |title=Universal Quantum Simulators |journal=Science |volume=273 |issue=5278 |pages=1073–1078 |date=1996-08-23 |doi=10.1126/science.273.5278.1073}}</ref> a framework for [[quantum metrology]],<ref>{{cite journal |title=Quantum Metrology |first1=Vittorio |last1=Giovannetti |first2=Seth |last2=Lloyd |first3=Lorenzo |last3=Maccone |journal=Phys. Rev. Lett. |year=2006 |volume=96 |issue=1 |article-number=010401 |doi=10.1103/PhysRevLett.96.010401 |pmid=16486424 |arxiv=quant-ph/0509179|bibcode=2006PhRvL..96a0401G |s2cid=32512151 }}</ref> a treatment of [[continuous-variable quantum information]],<ref>{{cite journal |title=Quantum Computation over Continuous Variables |first1=Seth |last1=Lloyd |first2=Samuel L. |last2=Braunstein |journal=Phys. Rev. Lett. |volume=82 |pages=1784–1787 |year=1999 |issue=8 |doi= 10.1103/PhysRevLett.82.1784|arxiv=quant-ph/9810082|bibcode=1999PhRvL..82.1784L |s2cid=921320 }}</ref> [[dynamical decoupling]] as a method of quantum error mitigation,<ref>{{cite journal |title=Dynamical Decoupling of Open Quantum Systems |first1=Lorenza |last1=Viola |first2=Emanuel |last2=Knill |first3=Seth |last3=Lloyd |journal=Phys. Rev. Lett. |volume=82 |pages=2417–2421 |year=1999 |issue=12 |doi=10.1103/PhysRevLett.82.2417 |arxiv=quant-ph/9809071|bibcode=1999PhRvL..82.2417V }}</ref> and research on the possible relevance of quantum effects in biological phenomena, such as [[photosynthesis]].<ref>{{cite journal |title=Environment-assisted quantum walks in photosynthetic energy transfer |first1=Masoud |last1=Mohseni |first2=Patrick |last2=Rebentrost |first3=Seth |last3=Lloyd |first4=Alán |last4=Aspuru-Guzik |journal=J. Chem. Phys. |volume=129 |page=174106 |year=2008 |issue=17 |doi=10.1063/1.3002335 |pmid=19045332 |arxiv=0805.2741|bibcode=2008JChPh.129q4106M |s2cid=938902 }}</ref><ref>{{Cite journal |last=Lloyd |first=Seth |date=2011|title=Quantum coherence in biological systems|journal=Journal of Physics: Conference Series |language=en |volume=302 |issue=1 |article-number=012037 |doi=10.1088/1742-6596/302/1/012037|issn=1742-6596|bibcode=2011JPhCS.302a2037L|doi-access=free}}</ref> 
+
+Lloyd's 1996 ''Science'' paper showed that a [[quantum computer]] can efficiently simulate quantum systems with local interactions, providing a proof of [[Richard Feynman|Feynman]]'s earlier conjecture for that class of systems and helping establish the quantum computer as a universal quantum simulator.<ref name="science-1996" /><ref>{{cite journal |last1=Georgescu |first1=Iulia M. |last2=Ashhab |first2=Sahel |last3=Nori |first3=Franco |title=Quantum simulation |journal=Reviews of Modern Physics |volume=86 |issue=1 |pages=153–185 |date=2014 |doi=10.1103/RevModPhys.86.153|arxiv=1308.6253 }}</ref>
+
+With [[Aram Harrow]] and Avinatan Hassidim he introduced the [[HHL algorithm]]<ref>{{cite journal |first1=Aram W. |last1=Harrow |first2=Avinatan |last2=Hassidim |first3=Seth |last3=Lloyd |title=Quantum Algorithm for Linear Systems of Equations |journal=Phys. Rev. Lett. |volume=103 |year=2009 |issue=15 |article-number=150502 |arxiv=0811.3171 |doi=10.1103/PhysRevLett.103.150502|pmid=19905613 |bibcode=2009PhRvL.103o0502H }}</ref> for solving systems of linear equations, and later several quantum machine learning algorithms based on it.<ref>{{cite journal |first1=S. |last1=Lloyd |first2=M. |last2=Mohseni |first3=P. |last3=Rebentrost |title=Quantum principal component analysis |journal=Nature Physics |volume=10 |pages=631–633 |year=2014 |issue=9 |doi=10.1038/nphys3029 |arxiv=1307.0401|bibcode=2014NatPh..10..631L }}</ref><ref>{{cite journal |title=Quantum Support Vector Machine for Big Data Classification |first1=Patrick |last1=Rebentrost |first2=Masoud |last2=Mohseni |first3=Seth |last3=Lloyd |journal=Phys. Rev. Lett. |volume=113 |article-number=130503 |year=2014 |issue=13 |doi=10.1103/PhysRevLett.113.130503 |pmid=25302877 |arxiv=1307.0471|bibcode=2014PhRvL.113m0503R |s2cid=5503025 }}</ref> These algorithms were widely thought to give an exponential speedup relative to the best classical algorithms, until the discovery by [[Ewin Tang]] of classical algorithms achieving the same exponential speedup.<ref name="Tang18b">{{Cite journal|last=Tang|first=Ewin|title=Quantum Principal Component Analysis Only Achieves an Exponential Speedup Because of Its State Preparation Assumptions|journal=Physical Review Letters|year=2021|volume=127|issue=6|article-number=060503|doi=10.1103/PhysRevLett.127.060503|pmid=34420330|arxiv=1811.00414|bibcode=2021PhRvL.127f0503T|s2cid=236956378}}</ref>
+
+In his 2006 book ''Programming the Universe'', Lloyd argues that the universe can be understood as a quantum computer, with physical systems storing and processing information as they evolve according to the laws of physics.<ref>{{cite web |url=https://www.edge.org/conversation/seth_lloyd-the-computational-universe |title=THE COMPUTATIONAL UNIVERSE |last=Lloyd |first=Seth |date=2002-10-20 |website=Edge.org |publisher=Edge Foundation |access-date=2026-04-15}}</ref><ref>{{cite magazine |url=https://www.wired.com/2006/03/life-the-universe-and-everything/ |title=Life, the Universe, and Everything |last=Kelly |first=Kevin |magazine=Wired |date=2006-03-01 |access-date=2026-04-15}}</ref> Reviewing the book in ''The New York Times Book Review'', Corey S. Powell wrote that Lloyd presents the universe "as a majestic whole: an enormous computer".<ref>{{cite news |title=Welcome to the Machine |last=Powell |first=Corey S. |work=The New York Times Book Review |date=2006-04-02}}</ref> Lloyd also argued that, if computational power continued to increase according to [[Moore's law]], it would reach the physical limits of the universe within roughly 600 years.<ref>{{cite web |url=https://www.edge.org/conversation/seth_lloyd-the-computational-universe |title=THE COMPUTATIONAL UNIVERSE |last=Lloyd |first=Seth |date=2002-10-20 |website=Edge.org |publisher=Edge Foundation |access-date=2026-04-15}}</ref>
+
+==Association with Jeffrey Epstein==
+Lloyd was introduced to [[Jeffrey Epstein]] by his literary agent [[John Brockman (literary agent)|John Brockman]] at the Edge Billionaires' Dinner in 2004.<ref name="Chronicle2026Brockman">{{cite news |title=Jeffrey Epstein’s Academic Fixer |work=The Chronicle of Higher Education |date=2026-02-23 |url=https://www.chronicle.com/article/jeffrey-epsteins-academic-fixer}}</ref>
+
+Lloyd's ties to Epstein became a subject of public controversy in 2019, when reporting on Epstein's donations to MIT and other scientific institutions prompted an institutional inquiry.<ref name="Nature2019MIT">{{cite news |last=Morello |first=Lauren |title=Epstein’s $800,000 MIT donations prompt resignations and investigation |work=Nature |date=2019-08-23 |url=https://www.nature.com/articles/d41586-019-01805-3}}</ref> In 2019, Lloyd apologized for accepting $225,000 in research funding from Epstein.<ref name="Nature2020MIT">{{cite news |last=Subbaraman |first=Nidhi |title=MIT review of Epstein donations finds “significant mistakes of judgment” |work=Nature |date=2020-01-10 |url=https://www.nature.com/articles/d41586-020-00072-x}}</ref> In a public statement, Lloyd said that he had visited Epstein during his prison term and had participated in discussions among scientists convened by Epstein after his release.<ref name="Lloyd2019">{{cite web |last=Lloyd |first=Seth |title=I am writing to apologize to Jeffrey Epstein's victims |website=Medium |date=2019-08-22 |url=https://medium.com/@sqlloyd/i-am-writing-to-apologize-to-jeffrey-epsteins-victims-eee805c4f13}}</ref>
+
+In January 2020, an extramural report commissioned by the [[MIT Corporation]] said that Epstein had made two $50,000 donations connected to Lloyd and claimed that Lloyd had taken steps "to obscure the fact that Epstein was the donor and to hinder any possible due diligence or vetting by MIT".<ref name="MITReport2020">{{cite web |title=Report concerning Jeffrey Epstein's interactions with the Massachusetts Institute of Technology |website=MIT |date=2020-01-10 |url=https://factfindingjan2020.mit.edu/files/MIT-report.pdf}}</ref>{{rp|pp=13, 20}} Lloyd disputed that characterization.<ref name="LloydMediumResponse">{{cite web |last=Lloyd |first=Seth |title=What I told MIT about Epstein's donations |website=Medium |date=2020-01-16 |url=https://medium.com/@sqlloyd/what-i-told-mit-about-epsteins-donations-feec0beb26a}}</ref>
+
+In December 2020, MIT announced the conclusions of an internal faculty review. The review found that Lloyd had not attempted to circumvent MIT's donor-vetting process. However, a majority of the review committee concluded Lloyd had violated MIT policy by failing to disclose "crucial information about Epstein’s background".<ref name="MITDecision2020">{{cite web |title=Decision on Professor Seth Lloyd |website=MIT |date=2020-12-18 |url=https://orgchart.mit.edu/letters/decision-professor-seth-lloyd}}</ref> MIT imposed disciplinary restrictions, including temporary limits on fundraising and student advising.<ref name="MITDecision2020" /> These restrictions have now been lifted.<ref name="MITDecision2020" />
+
+==Selected publications==
+*{{cite thesis
+ |degree      = Ph.D.
+ |first       = Seth
+ |last        = Lloyd
+ |title       = Black Holes, Demons and the Loss of Coherence: How complex systems get information, and what they do with it.
+ |url         = http://meche.mit.edu/documents/slloyd_thesis.pdf
+ |publisher   = [[The Rockefeller University]]
+ |date        = 1988
+ |archive-url  = https://web.archive.org/web/20120607195224/http://meche.mit.edu/documents/slloyd_thesis.pdf
+ |archive-date = 2012-06-07
+}}
+*{{cite journal
+ |  author = Lloyd, S.
+ |    date = 2000-08-31
+ |   title = Ultimate physical limits to computation
+ | journal = [[Nature (journal)|Nature]]
+ |  volume = 406
+ |   pages = 1047&ndash;1054
+ |   doi = 10.1038/35023282
+ |  pmid = 10984064
+ |  issue = 6799
+ |     arxiv = quant-ph/9908043v3
+ | bibcode = 2000Natur.406.1047L
+ | s2cid = 75923
+ }}
+*{{cite journal
+ |  author = Lloyd
+ |    date = 2001-10-24
+ |   title = Computational capacity of the universe
+ | journal = Physical Review Letters
+ |  volume = 88
+ |   article-number = 237901
+ |   doi = 10.1103/PhysRevLett.88.237901
+ |  pmid = 12059399
+ |  issue = 23
+ |     arxiv = quant-ph/0110141
+ | bibcode = 
+ | s2cid = 6341263
+ |first=Seth}}
+* Lloyd, S., ''[[Programming the Universe|Programming the Universe: A Quantum Computer Scientist Takes On the Cosmos]]'', [[Alfred A. Knopf|Knopf]], March 14, 2006, 240 p., {{ISBN|1-4000-4092-2}}
+*{{cite book
+|last1 = Lloyd
+|first1 = Seth
+|date = 2008
+|chapter = Quantum Mechanics and Emergence
+|title = [[Quantum Aspects of Life]]
+|publisher = [[Imperial College Press]]
+|isbn = 978-1-84816-253-2
+|editor-last1 = Abbott
+|editor-first1 = Derek
+|editor-last2 = Davies
+|editor-first2 = Paul C. W.
+|editor-last3 = Pati
+|editor-first3 = Arun K.
+}}
+* Movie: In 2022 Lloyd starred in the [[short film]] ''Steeplechase'' directed by [[Andrey Kezzyn]],<ref>{{IMDb title|qid=Q127870933}}</ref> which thematizes [[closed timelike curves]],  a topic Lloyd has also addressed in his scientific work.<ref>{{cite journal |first1=Seth |last1=Lloyd |first2=Lorenzo |last2=Maccone |first3=Raul |last3=Garcia-Patron |first4=Vittorio |last4=Giovannetti |first5=Yutaka |last5=Shikano |first6=Stefano |last6=Pirandola |first7=Lee A. |last7=Rozema |first8=Ardavan |last8=Darabi |first9=Yasaman |last9=Soudagar |first10=Lynden K. |last10=Shalm |first11=Aephraim M. |last11=Steinberg |title=Closed Timelike Curves via Postselection: Theory and Experimental Test of Consistency |journal=Phys. Rev. Lett. |volume=106 |year=2011 |issue=4 |article-number=040403 |arxiv=1005.2219 |doi=10.1103/PhysRevLett.106.040403|pmid=21405310 |bibcode=2011PhRvL.106d0403L |s2cid=18442086 }}</ref>
+
+== See also ==
+
+* [[Quantum complexity theory]]
+* [[Quantum Turing machine]]
+* [[Quantum supremacy]]
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{commons category|Seth Lloyd}}
+{{wikiquote}}
+*[https://scholar.google.com/citations?hl=en&user=lyMGnwIAAAAJ Google Scholar page]
+*[http://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU Personal web page]
+*{{MathGenealogy|id=123909}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lloyd, Seth}}
+[[Category:American mechanical engineers]]
+[[Category:Complex systems scientists]]
+[[Category:Harvard College alumni]]
+[[Category:Rockefeller University alumni]]
+[[Category:MIT School of Engineering faculty]]
+[[Category:Living people]]
+[[Category:1960 births]]
+[[Category:Santa Fe Institute people]]
+[[Category:New England Complex Systems Institute]]
+[[Category:American quantum information scientists]]
+[[Category:Quantum biology]]
+[[Category:Marshall Scholars]]
+[[Category:Fellows of the American Physical Society]]

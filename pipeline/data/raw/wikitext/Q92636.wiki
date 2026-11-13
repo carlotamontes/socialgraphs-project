@@ -1,0 +1,90 @@
+{{short description|American computer scientist}}
+{{Infobox scientist
+| name              = John Ousterhout
+| image             = Ouster face.png
+| caption           = 
+| birth_name        = 
+| birth_date        = {{Birth date and age|1954|10|15}}
+| birth_place       = [[Solano County, California]], U.S.
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place       = 
+| body_discovered   = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|display=inline,title}} -->
+| nationality       = 
+| fields            = [[Computer science]]
+| citizenship       = 
+| other_names       = 
+| known_for         = [[Tcl (programming language)|Tcl]], [[Tk (framework)|Tk]] <br> [[Magic (software)|Magic]] <br> [[Raft (algorithm)]]
+| education         = [[Yale University]] ([[Bachelor of Science|BS]])<br />[[Carnegie Mellon University]] ([[PhD]])
+| workplaces        = [[Stanford University]]
+| alma_mater        = 
+| employer          = 
+| occupation        = 
+| years_active      = 
+| height            = 
+| title             = 
+| term              = 
+| predecessor       = 
+| successor         = 
+| party             = 
+| opponents         = 
+| boards            = 
+| spouse            = 
+| partner           = 
+| children          = 
+| parents           = 
+| relations         = 
+| callsign          = 
+| awards            = [[Grace Murray Hopper Award]] (1987)<br>[[ACM Software System Award]] (1997)
+| signature         = 
+| website           = {{URL|https://web.stanford.edu/~ouster/cgi-bin/home.php}}
+| footnotes         = 
+}}
+
+'''John Kenneth Ousterhout''' ({{IPAc-en|ˈ|oʊ|s|t|ər|h|aʊ|t}}, born October 15, 1954) is an American computer scientist. He is a professor of [[computer science]] at [[Stanford University]]. He founded [[Electric Cloud]] with [[John Graham-Cumming]].
+
+Ousterhout was previously a professor of computer science at [[University of California, Berkeley]], where he created the [[Tcl (programming language)|Tcl]] [[scripting language]] and the [[Tk (framework)|Tk]] platform-independent [[widget toolkit]], and proposed the idea of [[coscheduling]].<ref name="Ousterhout Jones 2009 p. 30">{{cite book | last1=Ousterhout | first1=J.K. | last2=Jones | first2=K. | title=Tcl and the Tk Toolkit | publisher=Pearson Education | series=Addison-Wesley Professional Computing Series | year=2009 | isbn=978-0-321-67086-1 | url=https://books.google.com/books?id=BWf6mdwHjDMC&pg=PT30 | access-date=2017-10-05 | page=30}}</ref> Ousterhout led the research group that designed the experimental [[Sprite operating system]] and the first [[log-structured file system]].<ref name="RosenblumOusterhout1992">{{cite journal|last1=Rosenblum|first1=Mendel|last2=Ousterhout|first2=John K.|title=The design and implementation of a log-structured file system|journal=ACM Transactions on Computer Systems|volume=10|issue=1|year=1992|pages=26–52|issn=0734-2071|doi=10.1145/146941.146943|s2cid=28452863|url=https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf |archive-url=https://ghostarchive.org/archive/20221009/https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf |archive-date=2022-10-09 |url-status=live}}</ref>
+Ousterhout also led the team that developed the [[Magic (software)|Magic]] [[VLSI]] [[computer-aided design]] (CAD) program.<ref name="OusterhoutHamachi1985">{{cite journal|last1=Ousterhout|first1=John|last2=Hamachi|first2=Gordon|last3=Mayo|first3=Robert|last4=Scott|first4=Walter|last5=Taylor|first5=George|title=The Magic VLSI Layout System|journal=IEEE Design & Test of Computers|volume=2|issue=1|year=1985|pages=19–30|issn=0740-7475|doi=10.1109/MDT.1985.294681}}</ref>
+
+== Education and career ==
+He received a [[Bachelor of Science]] (B.S.) in physics from [[Yale University]] in 1975, and his [[Doctor of Philosophy|Ph.D.]] in computer science from [[Carnegie Mellon University]] in 1980.<ref name="ousterhoutwebsite">{{cite web |url=https://web.stanford.edu/~ouster/cgi-bin/home.php |title=John Ousterhout }}</ref>
+
+Ousterhout received the [[Grace Murray Hopper Award]] in 1987 for his work on [[electronic design automation]] CAD systems for [[very-large-scale integration|very-large-scale integrated circuits]].<ref>[http://awards.acm.org/citation.cfm?id=1957745&srt=all&aw=145&ao=GMHOPPER&yr=1987 Grace Murray Hopper Award citation] {{webarchive|url=https://web.archive.org/web/20120402211950/http://awards.acm.org/citation.cfm?id=1957745&srt=all&aw=145&ao=GMHOPPER&yr=1987 |date=2012-04-02 }}, retrieved 2010-04-21.</ref>  For the same work, he was inducted in 1994 as a [[Fellow]] of the [[Association for Computing Machinery]].<ref>[[List of Fellows of the Association for Computing Machinery|ACM Fellow]] [http://fellows.acm.org/fellow_citation.cfm?id=1957745&srt=all citation], retrieved 2010-04-21.</ref> Ousterhout was elected a member of the [[National Academy of Engineering]] in 2001 for improving our ability to program computers by raising the level of abstraction.
+
+In 1994, Ousterhout left Berkeley to join [[Sun Microsystems]] Laboratories, which hired a team to join him in Tcl development. After several years at Sun, he left and co-founded Scriptics, Inc. (later renamed Ajuba Solutions) in January 1998 to provide professional Tcl development tools.<ref name="ousterhoutwebsite"/> Most of the Tcl team followed him from Sun. Ajuba was purchased by Interwoven in October 2000. He joined the faculty of Stanford University in 2008.<ref name="ousterhoutwebsite"/>
+
+==Selected works==
+*{{cite journal |last1=Michael Stonebraker |last2=[[Randy Katz]], [[David Patterson (computer scientist)|David Patterson]], John Ousterhout |date=1988 |title=THE DESIGN OF XPRS |url=https://dsf.berkeley.edu/papers/ERL-M88-19.pdf |archive-url=https://ghostarchive.org/archive/20221009/https://dsf.berkeley.edu/papers/ERL-M88-19.pdf |archive-date=2022-10-09 |url-status=live |journal=VLDB |pages=318–330 |access-date=25 March 2015|author1-link=Michael Stonebraker }}
+* ''A Philosophy of Software Design,'' (Yaknyam Press, 2018, {{ISBN|1732102201}})
+
+==See also==
+* [[Ousterhout's dichotomy]]
+* [[Raft (computer science)]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.tcl.tk/advocacy/tclHistory.html John's recounting of Tcl's early days]
+* [http://www.stanford.edu/~ouster/ Ousterhout's web page at Stanford University]
+{{Hopper winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ousterhout, John}}
+[[Category:American computer programmers]]
+[[Category:Stanford University School of Engineering faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:Grace Murray Hopper Award laureates]]
+[[Category:Yale University alumni]]
+[[Category:Living people]]
+[[Category:1954 births]]
+[[Category:Programming language designers]]
+[[Category:Place of birth missing (living people)]]
+[[Category:American computer scientists]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Sun Microsystems people]]

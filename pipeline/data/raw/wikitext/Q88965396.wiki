@@ -1,0 +1,55 @@
+{{Short description|Israeli theoretical chemist (born 1944)}}
+{{Infobox scientist
+| name              = Robert Benny Gerber
+| image             = Benny Gerber.jpg
+| birth_date        = {{birth year and age|1944|07}}
+| birth_place       = USSR
+| education         = [[Hebrew University of Jerusalem]] (BSc, 1965)<br />[[University of Oxford]] (DPhil, 1968)
+| doctoral_advisor  = [[Charles Coulson|Charles Alfred Coulson]]
+| workplaces        = [[Hebrew University of Jerusalem]]<br />[[University of California, Irvine]]<br />[[University of Helsinki]]
+| known_for         = VSCF method for vibrational spectroscopy; prediction of new noble gas compounds; establishing mechanisms of chemical reactions in the atmosphere
+| awards            = [[Max Planck Research Award]]<br />Member of the [[Finnish Academy of Science and Letters]]<br />Fellow, [[Royal Society of Chemistry]]<br />Member of the [[American Academy of Arts and Sciences]]<br />Gold Medal, [[Israel Chemical Society]]
+}}
+
+'''Robert Benny Gerber''' (born 1944) is an Israeli [[theoretical chemistry|theoretical chemist]], professor emeritus of chemistry at the [[Hebrew University of Jerusalem]] and Distinguished Professor Emeritus at the [[University of California, Irvine]].<ref name="r1">{{cite web | title=Robert Benny Gerber | url=https://scholar.google.com/citations?user=ln1v8lgAAAAJ&hl=en|website=Scholar.google.com }}</ref><ref name="r2">{{cite web | title=R. Benny Gerber – UC Irvine School of Physical Sciences | url=https://ps.uci.edu/fprofile/r-benny-gerber/ |website=Ps.uci.edu}}</ref> He is known for developing the Vibrational Self-Consistent Field (VSCF) method, for predicting new [[noble gas compound]]s ahead of their experimental discovery, and for computationally determining mechanisms of chemical reactions in the atmosphere.<ref name="r3">{{cite journal | last1=Roy | first1=T. K. | last2=Gerber | first2=R. B. | title=Vibrational self-consistent field calculations for spectroscopy of biological molecules: New algorithmic developments and applications | journal=Physical Chemistry Chemical Physics : PCCP | date=2013 | volume=15 | issue=24 | pages=9468–9492 | doi=10.1039/c3cp50739d | pmid=23677257 | bibcode=2013PCCP...15.9468R }}</ref>
+
+== Early life, education and training ==
+Gerber was born in the Turkmen region of the former [[Soviet Union|USSR]] in July 1944, and emigrated with his parents to Israel after the [[World War II|Second World War]].<ref name="r4">{{cite journal | last1=Gerber | first1=Robert Benny | title=Autobiography of Robert Benny Gerber | journal=The Journal of Physical Chemistry A | date=2009 | volume=113 | issue=26 | pages=7163–7170 | doi=10.1021/jp902506j | pmid=19552470 | bibcode=2009JPCA..113.7163G | url=https://pubs.acs.org/jpcafh/article/113/26/7163/869320/Autobiography-of-Robert-Benny-Gerber }}</ref> He received a BSc (with Excellence) from the Hebrew University of Jerusalem in 1965 and a DPhil from the [[University of Oxford]] in 1968, supervised by C.A. Coulson. He got a prize for his thesis research. He then spent a year as a Postdoctoral Research Associate of [[Martin Karplus]] at [[Harvard University]].<ref name="r2" /><ref name="r4" />
+
+== Career ==
+Gerber was a Senior Scientist at the [[Weizmann Institute of Science]] from 1969 to 1975, then joined the Hebrew University of Jerusalem as associate professor, becoming full Professor in 1980, and holding the Saerree K. and Louis P. Fiedler Chair in Chemistry from 1989 until his retirement in 2012.<ref name="r2" /><ref name="r6">{{cite journal | last1=Roy | first1=Tapta Kanchan | last2=Gerber | first2=R. Benny | title=Vibrational self-consistent field calculations for spectroscopy of biological molecules: New algorithmic developments and applications | journal=Physical Chemistry Chemical Physics | date=2013 | volume=15 | issue=24 | pages=9468–9492 | doi=10.1039/c3cp50739d | pmid=23677257 | bibcode=2013PCCP...15.9468R | url=https://www.researchgate.net/publication/236911979 }}</ref> From 1990 he held a concurrent professorship at the University of California, Irvine, retiring in 2014 as Distinguished Professor Emeritus. From 2011 to 2015 he also held the position of Finland Distinguished Professor at the [[University of Helsinki]].<ref name="r2" /><ref name="r14">{{cite web | title=Prof. R. Benny Gerber – Atmospheric Integrated Research at UCI | url=https://airuci.uci.edu/prof-r-benny-gerber/|website=Airuci.uci.edu }}</ref>
+
+== Research ==
+One of Gerber's principal contributions is the Vibrational Self-Consistent Field (VSCF) method, developed with [[Mark Ratner|Mark A. Ratner]], for computing the vibrational spectra of large molecules beyond the [[harmonic oscillator|harmonic approximation]]. The method was extensively applied by Gerber and coworkers and by other researchers to systems including biological molecules and clusters. The method is still in use.<ref name="r3" /><ref name="r6" />
+
+His group predicted new noble gas compounds including HXeCCH and HXeOXeH, before their experimental preparation in Finland and in Russia. Gerber collaborated with groundbreaking experiments of [[Markku Räsänen]] and his group; the discovery of a substantial class of organoxenon and organokrypton molecules significantly expanded noble-gas chemistry. A related prediction by Gerber and coworkers was of a stable crystal of [[octanitrogen]] (N<sub>8</sub>), a candidate for high-energy material.<ref name="r7">{{Cite web|url=https://fhrc.huji.ac.il/people/robert-benny-gerber|title=Something went wrong...|website=Fhrc.huji.ac.il|access-date=November 9, 2026}}</ref><ref name="r8">{{cite web | title=R. Benny Gerber &#124; American Academy of Arts and Sciences | date=29 September 2026 | url=https://www.amacad.org/person/r-benny-gerber |website=Amacad.org}}</ref>
+
+He also contributed to approximate quantum dynamics methods, including the Time-Dependent Self-Consistent Field (TDSCF) and Classical Separable Potentials (CSP) approaches.<ref name="r9">{{Cite web|url=https://robert-benny-gerber.huji.ac.il/publications/quantum-dynamics-large-polyatomic-systems-using-classical-separable|title=Something went wrong...|website=Robert-benny-gerber.huji.ac.il|access-date=November 9, 2026}}</ref><ref name="r10">{{cite journal | last1=Eslava | first1=L.A. | last2=Gerber | first2=R.B. | last3=Ratner | first3=M.A. | title=Relaxation of vibrationally highly excited diatomics in van der Waals clusters | journal=Molecular Physics | date=1985 | volume=56 | issue=1 | pages=47–64 | doi=10.1080/00268978500102151 | bibcode=1985MolPh..56...47E | url=https://www.researchgate.net/publication/253875165 }}</ref>
+
+Gerber found the mechanisms of several chemical reactions in the atmosphere by computer simulations of the process at the molecular level. He collaborated on this with [[Barbara Finlayson-Pitts]] and her experimental group.<ref name="r7" /><ref name="r8" /><ref name="r11">{{cite journal | last1=Varner | first1=M. E. | last2=Finlayson-Pitts | first2=B. J. | last3=Gerber | first3=R. B. | title=Reaction of a charge-separated ONONO2 species with water in the formation of HONO: An MP2 Molecular Dynamics study | journal=Physical Chemistry Chemical Physics : PCCP | date=2014 | volume=16 | issue=10 | pages=4483–4487 | doi=10.1039/c3cp55024a | pmid=24473238 | bibcode=2014PCCP...16.4483V }}</ref>
+
+== Awards and honors ==
+* [[Max Planck Research Award]] (1991)<ref name="r12">{{cite web|url=https://pubs.acs.org/jpcafh/article-pdf/113/26/7172/9288786/jp9025078.pdf|format=PDF|title=Honors and Awards for Robert Benny Gerber|website=Pubs.acs.org|access-date=9 November 2026}}</ref>
+* Foreign Member, [[Finnish Academy of Science and Letters]] (2007)<ref name="r12" /><ref name="r14" />
+* Fellow, [[Royal Society of Chemistry]] (FRSC) (2013)
+* International Honorary Member, [[American Academy of Arts and Sciences]] (2016)<ref name="r8" />
+* Gold Medal, [[Israel Chemical Society]] (2020)<ref name="r13">{{cite web | title=ICSThe Israel Chemical Society | url=https://www.chemistry.org.il/prizes-page/?data=6|website=Chemistry.org.il }}</ref><ref name="r14" />
+* Finland Distinguished Professor (2011–2015)<ref name="r14" />
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Gerber, Robert Benny}}
+[[Category:Living people]]
+[[Category:Israeli chemists]]
+[[Category:Theoretical chemists]]
+[[Category:Soviet emigrants to Israel]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:University of California, Irvine faculty]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]
+[[Category:1944 births]]
+[[Category:University of Helsinki]]
+[[Category:Weizmann Institute of Science]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]

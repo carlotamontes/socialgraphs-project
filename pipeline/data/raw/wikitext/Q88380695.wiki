@@ -1,0 +1,83 @@
+{{Short description|Israeli scientist (born 1971)}}
+{{Third-party|date=January 2023}}
+{{Infobox scientist
+| name              = Liran Carmel
+| native_name       = לירן כרמל
+| image             = Liran Carmel.jpg
+| caption           = 
+| birth_date        = {{birth-date and age|August 7, 1971}}
+| fields            = [[Molecular evolution]]
+| workplaces        = [[Hebrew University of Jerusalem]]
+| education         = [[Tel-Aviv University]], [[The Technion]] - Israel Institute of Technology, the [[Weizmann Institute of Science]]
+| known_for         = Research in molecular evolution, human evolution, molecular history and ancient DNA.
+| awards            = [[Massry Prize]] (2021), Snyder Granadar chair in Genetics
+| website           = {{URL|carmelab.huji.ac.il}}
+}}
+'''Liran Carmel''' ({{Langx|he|לירן כרמל}}; born August 7, 1971) is an Israeli scientist, [[professor]] of [[computational biology]] at [[Alexander Silberman Institute of Life Sciences|the Alexander Silberman Institute of Life Sciences]], the [[Hebrew University of Jerusalem]]. Carmel is the Snyder Granadar Chair for Genetics, and is the 2021 [[Massry Prize]] laureate for his studies in the field of ancient DNA.
+
+==Biography==
+{{BLP unreferenced section|date=July 2023}}
+Carmel was born and raised in Israel. He studied for a [[B.Sc]]. in physics in the [[Atuda|Academic Atuda]], and served in the military as a physicist in [[Rafael Advanced Defense Systems|Rafael Advanced Defense Systems Ltd]]. During his military service, he obtained his [[M.Sc]]. degree in quantum mechanics at the [[Technion – Israel Institute of Technology|Technion - Israel institute of technology]], under the supervision of Ady Mann. After his military service, Carmel completed his [[Ph.D]]. degree in mathematics and computer science at the [[Weizmann Institute of Science]], under the supervision of [[David Harel]]. In his Ph.D. Carmel developed algorithms for odor coding and digitization, and was head of the algorithms team in a company that developed means for computerized odor transmission. In 2004, Carmel went to the United States for postdoctoral studies at the [[National Institutes of Health]] (NIH) in [[Bethesda, Maryland]], where he specialized in [[molecular evolution]] in the research group of [[Eugene Koonin]].
+
+Carmel returned to Israel in 2008, and established a computational biology research group at the department of Genetics, the Alexander Silberman Institute of Life Sciences, [[Hebrew University of Jerusalem|the Hebrew University of Jerusalem]]. In 2016 he was invited as a senior visiting professor to the [[University of New South Wales]] in [[Sydney]], Australia, where he spent a year.
+
+== Research ==
+Carmel is studying computational [[molecular evolution]], and is particularly interested in [[human evolution]] and [[ancient DNA]]. He published dozens of research papers in these fields.
+
+In 2014, together with Professor [[Eran Meshorer]], he developed a computational technique to reconstruct genome-wide maps of [[DNA methylation]] (a key [[Epigenetics|epigenetic]] mechanism) from ancient DNA sequences. He applied this technique to ancient DNA from [[Neanderthal]] and [[Denisovan]], and thus was the first to reconstruct epigenetic patterns of archaic humans, and to identify genes that are differentially methylated between archaic and modern humans.<ref name="Gokhman Lavi Prüfer et al 2014"/> These genes include many that are expressed in the brain, and are associated with neurological disorders such as [[Alzheimer's disease]], [[autism]] and [[schizophrenia]]. This work was selected among the top ten discoveries of 2014 by ''Archaeology'' magazine.<ref name="Top 10 Discoveries of 2014"/>
+
+In 2017, Carmel developed a tool that identifies organs and body parts that are preferentially enriched within a set of genes.<ref name="Gokhman Kelman Amartely et al 2017"/> This tool helps in understanding how the human body is affected by changes in the expression levels of genes. Combining this tool with his studies on DNA methylation patterns in archaic humans, and together with Professor Eran Meshorer, Carmel showed in 2020 that the vocal and facial anatomy of modern humans differs from that of Neanderthals and Denisovans,<ref name="Gokhman Nissim-Rafinia Agranat-Tamir et al 2020"/> which points at fascinating evolutionary processes during the past hundreds of thousands of years that affected the modern human voice box.
+
+Very little is known about the anatomy of the [[Denisovan]], as its confirmed physical remains include a finger, a few teeth and a lower jaw.<ref name="Chen Welker Shen et al 2019"/> In 2019, Carmel developed a computational technique which uses reconstructed DNA methylation maps in archaic humans together with medical information on the phenotypic effects of genes that underlie monogenic diseases, to generate an anatomical profile of archaic human groups.<ref name="Gokhman Mishol Manuel et al 2019"/> He applied this technique to the ancient DNA of a Denisovan girl to generate a first anatomical profile of these archaic humans. This work was selected among the scientific breakthroughs of 2019 by ''Science'' magazine,<ref name="Breakthrough of the Year 2019"/> won 1st People's Choice of Science's breakthrough of 2019,<ref name="Breakthrough of the Year 2019"/> and was selected among the 10 top stories of the year by Science News.<ref name="Top 10 stories of 2019"/>
+
+In 2020 Carmel published a study on the genetics of the [[Canaan]]ites.<ref name="Agranat-Tamir Waldman Martin et al 2020"/> In this work, he sequenced DNA from dozens of Canaanite individuals that used to live in the [[Southern Levant]] during the [[Bronze Age]], in sites such as [[Tel Megiddo|Megiddo]] and [[Tel Hazor|Hazor]]. Carmel found that the Canaanites formed as an admixture of local populations with people that arrived from the north-east, from regions that today include western Iran and the [[Caucasus]], and that the process continued for hundreds of years. Carmel also found that the different Canaanite populations across the Southern Levant belonged to the same genetic population. In this study Carmel developed a method<ref name="Agranat-Tamir Waldman Rosen et al 2021"/> which he used to show that the ancient Bronze Age populations from the Southern Levant, Caucasus and western Iran substantially contributed to the genetics of present-day Levantine populations such as Jewish groups and Arabic-speaking groups.
+
+== Awards and honors ==
+* Carmel is the 2021 laureate of the [[Massry Prize]], which he won together with Professors [[Svante Pääbo]] and [[David Reich (geneticist)|David Reich]], for his contributions to the field of ancient DNA.
+* The 2019  Michael Milken prize.<ref name="Michael Milken Prize"/>
+
+== References ==
+<references>
+
+<ref name="Gokhman Lavi Prüfer et al 2014">{{cite journal |last1=Gokhman |first1=David |last2=Lavi |first2=Eitan |last3=Prüfer |first3=Kay |last4=Fraga |first4=Mario F. |last5=Riancho |first5=José A. |last6=Kelso |first6=Janet |last7=Pääbo |first7=Svante |last8=Meshorer |first8=Eran |last9=Carmel |first9=Liran |title=Reconstructing the DNA Methylation Maps of the Neandertal and the Denisovan |journal=Science |date=2 May 2014 |volume=344 |issue=6183 |pages=523–527 |doi=10.1126/science.1250368 |pmid=24786081 |bibcode=2014Sci...344..523G |s2cid=28665590 |doi-access=free |hdl=10651/28133 |hdl-access=free }}</ref>
+
+<ref name="Top 10 Discoveries of 2014">{{cite news |title=Top 10 Discoveries of 2014 |url=https://www.archaeology.org/issues/161-1501/features/2828-top-10-archaeological-discoveries-of-2014 |archive-url=https://web.archive.org/web/20141219091944/http://www.archaeology.org/issues/161-1501/features/2828-top-10-archaeological-discoveries-of-2014 |url-status=dead |archive-date=December 19, 2014 |work=Archaeology Magazine }}</ref>
+
+<ref name="Gokhman Kelman Amartely et al 2017">{{cite journal |last1=Gokhman |first1=David |last2=Kelman |first2=Guy |last3=Amartely |first3=Adir |last4=Gershon |first4=Guy |last5=Tsur |first5=Shira |last6=Carmel |first6=Liran |title=Gene ORGANizer: linking genes to the organs they affect |journal=Nucleic Acids Research |date=21 April 2017 |volume=45 |issue=W1 |pages=W138–W145 |doi=10.1093/nar/gkx302 |pmid=28444223 |pmc=5570240 }}</ref>
+
+<ref name="Gokhman Nissim-Rafinia Agranat-Tamir et al 2020">{{cite journal |last1=Gokhman |first1=David |last2=Nissim-Rafinia |first2=Malka |last3=Agranat-Tamir |first3=Lily |last4=Housman |first4=Genevieve |last5=García-Pérez |first5=Raquel |last6=Lizano |first6=Esther |last7=Cheronet |first7=Olivia |last8=Mallick |first8=Swapan |last9=Nieves-Colón |first9=Maria A. |last10=Li |first10=Heng |last11=Alpaslan-Roodenberg |first11=Songül |last12=Novak |first12=Mario |last13=Gu |first13=Hongcang |last14=Osinski |first14=Jason M. |last15=Ferrando-Bernal |first15=Manuel |last16=Gelabert |first16=Pere |last17=Lipende |first17=Iddi |last18=Mjungu |first18=Deus |last19=Kondova |first19=Ivanela |last20=Bontrop |first20=Ronald |last21=Kullmer |first21=Ottmar |last22=Weber |first22=Gerhard |last23=Shahar |first23=Tal |last24=Dvir-Ginzberg |first24=Mona |last25=Faerman |first25=Marina |last26=Quillen |first26=Ellen E. |last27=Meissner |first27=Alexander |last28=Lahav |first28=Yonatan |last29=Kandel |first29=Leonid |last30=Liebergall |first30=Meir |last31=Prada |first31=María E. |last32=Vidal |first32=Julio M. |last33=Gronostajski |first33=Richard M. |last34=Stone |first34=Anne C. |last35=Yakir |first35=Benjamin |last36=Lalueza-Fox |first36=Carles |last37=Pinhasi |first37=Ron |last38=Reich |first38=David |last39=Marques-Bonet |first39=Tomas |last40=Meshorer |first40=Eran |last41=Carmel |first41=Liran |title=Differential DNA methylation of vocal and facial anatomy genes in modern humans |journal=Nature Communications |date=4 March 2020 |volume=11 |issue=1 |pages=1189 |doi=10.1038/s41467-020-15020-6  |doi-access=free|pmid=32132541 |pmc=7055320 |bibcode=2020NatCo..11.1189G }}</ref>
+
+<ref name="Chen Welker Shen et al 2019">{{cite journal |last1=Chen |first1=Fahu |last2=Welker |first2=Frido |last3=Shen |first3=Chuan-Chou |last4=Bailey |first4=Shara E. |last5=Bergmann |first5=Inga |last6=Davis |first6=Simon |last7=Xia |first7=Huan |last8=Wang |first8=Hui |last9=Fischer |first9=Roman |last10=Freidline |first10=Sarah E. |last11=Yu |first11=Tsai-Luen |last12=Skinner |first12=Matthew M. |last13=Stelzer |first13=Stefanie |last14=Dong |first14=Guangrong |last15=Fu |first15=Qiaomei |last16=Dong |first16=Guanghui |last17=Wang |first17=Jian |last18=Zhang |first18=Dongju |last19=Hublin |first19=Jean-Jacques |title=A late Middle Pleistocene Denisovan mandible from the Tibetan Plateau |journal=Nature |date=May 2019 |volume=569 |issue=7756 |pages=409–412 |doi=10.1038/s41586-019-1139-x |pmid=31043746 |bibcode=2019Natur.569..409C |s2cid=141503768 |url=https://kar.kent.ac.uk/74280/1/Xiahe_Main.pdf }}</ref>
+
+<ref name="Gokhman Mishol Manuel et al 2019">{{cite journal |last1=Gokhman |first1=David |last2=Mishol |first2=Nadav |last3=Manuel |first3=Marc de |last4=Juan |first4=David de |last5=Shuqrun |first5=Jonathan |last6=Meshorer |first6=Eran |last7=Marques-Bonet |first7=Tomas |last8=Rak |first8=Yoel |last9=Carmel |first9=Liran |title=Reconstructing Denisovan Anatomy Using DNA Methylation Maps |journal=Cell |date=19 September 2019 |volume=179 |issue=1 |pages=180–192.e10 |doi=10.1016/j.cell.2019.08.035 |pmid=31539495 |s2cid=202676502 |doi-access=free }}</ref>
+
+<ref name="Breakthrough of the Year 2019">{{cite news |title=Breakthrough of the Year 2019 |url=https://vis.sciencemag.org/breakthrough2019/ |work=Science }}</ref>
+
+<ref name="Top 10 stories of 2019">{{cite news |title=Top 10 stories of 2019: A black hole picture, measles outbreaks, climate protests and more |url=https://www.sciencenews.org/article/top-science-news-stories-2019-yir |work=Science News |date=16 December 2019 }}</ref>
+
+<ref name="Agranat-Tamir Waldman Martin et al 2020">{{cite journal |last1=Agranat-Tamir |first1=Lily |last2=Waldman |first2=Shamam |last3=Martin |first3=Mario A. S. |last4=Gokhman |first4=David |last5=Mishol |first5=Nadav |last6=Eshel |first6=Tzilla |last7=Cheronet |first7=Olivia |last8=Rohland |first8=Nadin |last9=Mallick |first9=Swapan |last10=Adamski |first10=Nicole |last11=Lawson |first11=Ann Marie |last12=Mah |first12=Matthew |last13=Michel |first13=Megan |last14=Oppenheimer |first14=Jonas |last15=Stewardson |first15=Kristin |last16=Candilio |first16=Francesca |last17=Keating |first17=Denise |last18=Gamarra |first18=Beatriz |last19=Tzur |first19=Shay |last20=Novak |first20=Mario |last21=Kalisher |first21=Rachel |last22=Bechar |first22=Shlomit |last23=Eshed |first23=Vered |last24=Kennett |first24=Douglas J. |last25=Faerman |first25=Marina |last26=Yahalom-Mack |first26=Naama |last27=Monge |first27=Janet M. |last28=Govrin |first28=Yehuda |last29=Erel |first29=Yigal |last30=Yakir |first30=Benjamin |last31=Pinhasi |first31=Ron |last32=Carmi |first32=Shai |last33=Finkelstein |first33=Israel |last34=Carmel |first34=Liran |last35=Reich |first35=David |title=The Genomic History of the Bronze Age Southern Levant |journal=Cell |date=28 May 2020 |volume=181 |issue=5 |pages=1146–1157.e11 |doi=10.1016/j.cell.2020.04.024 |pmid=32470400 |s2cid=219105441 |doi-access=free |pmc=10212583 }}</ref>
+
+<ref name="Agranat-Tamir Waldman Rosen et al 2021">{{cite journal |last1=Agranat-Tamir |first1=Lily |last2=Waldman |first2=Shamam |last3=Rosen |first3=Naomi |last4=Yakir |first4=Benjamin |last5=Carmi |first5=Shai |last6=Carmel |first6=Liran |title=LINADMIX: evaluating the effect of ancient admixture events on modern populations |journal=Bioinformatics |date=11 December 2021 |volume=37 |issue=24 |pages=4744–4755 |doi=10.1093/bioinformatics/btab531 |pmid=34270685 }}</ref>
+
+<ref name="Michael Milken Prize">{{cite web |title=פרס ע"ש מיכאל מילקן למורים מצטיינים |url=https://www.bio.huji.ac.il/he/content/%D7%A4%D7%A8%D7%A1-%D7%9E%D7%99%D7%9C%D7%A7%D7%9F-2019-%D7%A4%D7%A8%D7%A1-%D7%94%D7%A8%D7%A7%D7%98%D7%95%D7%A8-%D7%9C%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%A0%D7%95%D7%AA-%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%94-%D7%9C%D7%A4%D7%A8%D7%95%D7%A4-%D7%9C%D7%99%D7%A8%D7%9F-%D7%9B%D7%A8%D7%9E%D7%9C |website=המכון למדעי החיים ע"ש אלכסנדר סילברמן }}</ref>
+
+</references>
+
+== External links ==
+* [http://carmelab.huji.ac.il/home.html Carmel's homepage at the Hebrew University.]
+* [https://www.bio.huji.ac.il/en/content/carmel-liran Liran Carmel at The Alexander Silberman Institute of Life Science]
+* [https://scholars.huji.ac.il/jbc/people/liran-carmel Liran Carmel at the Jerusalem Brain Community.]
+* [https://scholar.google.co.il/citations?user=arkXgJsAAAAJ&hl=en Liran Carmel at Google Scholar.]
+* [https://labnavigator.net/Liran-Carmel-lab/991/ The laboratory of Liran Carmel.]
+{{authority control}}
+
+{{DEFAULTSORT:Carmel, Liran}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Israeli physicists]]
+[[Category:Israeli biologists]]
+[[Category:Weizmann Institute of Science alumni]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]
+[[Category:Technion – Israel Institute of Technology alumni]]
+[[Category:Computational biologists]]
+[[Category:Tel Aviv University alumni]]

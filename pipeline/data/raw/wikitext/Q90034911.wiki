@@ -1,0 +1,93 @@
+{{short description|American physicist (born 1955)}}
+{{infobox scientist
+| name              = John Toner
+| native_name       = 
+| native_name_lang  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date|1955|10|12}}
+| birth_place       = [[Mineola, New York]], United States
+| death_date        = <!--{{death date and age |2011|06|28|1955|10|12}}-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| fields            = [[Condensed matter physics]]
+| workplaces        = {{ublist |[[University of Chicago]] (postdoc)| [[Thomas J. Watson Research Center]]| [[University of Oregon]]}}
+| patrons           = 
+| education         = {{ublist |[[Massachusetts Institute of Technology|MIT]]|[[Harvard University]] }}
+| thesis_title      = Defects and Other Topological Effects on Phase Transitions in Solids, Liquid Crystals, He3 Films, and Magnetic Systems
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = [[David Robert Nelson]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = {{ublist |[[Lars Onsager Prize]] |[[Simons Foundation|Simons Fellow]] in Theoretical Physics|Gutzwiller Fellow at [[Max Planck Institute for the Physics of Complex Systems|Max Planck Institute]]}}
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = 
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = https://cas.uoregon.edu/directory/physics/all/jjt
+| footnotes         = 
+}}
+
+'''John Joseph Toner''' (born October 12, 1955)<ref>{{cite book |last1=Toner |first1=John |title=American Men and Women in Science |date=2005 |publisher=Gale Thomson |chapter=Birth and career dates}}</ref> is an American physicist and professor emeritus at the [[University of Oregon]] in [[Eugene, Oregon]]. Toner's broad interests in [[condensed matter physics]] span the gamut from topics in "[[Statistical mechanics|statistical physics]] and the hydrodynamics of systems ranging from hard to [[Soft matter|soft condensed matter]] and from passive to active systems".<ref name="Gutzwiller">{{cite web | title=L a u d a t i o: Prof. Dr. John Toner | url=https://www.pks.mpg.de/fileadmin/user_upload/MPIPKS/Research/Gutzwiller_Fellows/laudatio_Toner.pdf | ref={{sfnref | Anon.}} | access-date=2024-03-20}}</ref>
+
+==Education and career==
+Toner earned a bachelor's degree in mathematics from [[Massachusetts Institute of Technology]] in 1977. He did post-baccalaureate work in physics at [[Harvard University]] earning a master's degree in 1979 and a doctorate in 1981.<ref>{{cite web | title=John Toner | website=The Mathematics Genealogy Project | url=https://www.mathgenealogy.org/id.php?id=117680 | ref={{sfnref | The Mathematics Genealogy Project}} | access-date=2024-03-20}}</ref> After his PhD Toner was the James Franck Postdoctoral Fellow at the [[James Franck Institute]], [[University of Chicago]], 1981–-1983. From 1983 he was at IBM's [[Thomas J. Watson Research Center]]. In 1985 and 1993 he was a visiting researcher at the [[University of Bordeaux]], [[French National Centre for Scientific Research|CNRS]], in Bordeaux, France. He has been researching and teaching at the University of Oregon since 1995. He retired from full-time teaching in December 2023.<ref>{{cite web | title=College of Arts and Sciences | website=John Toner | url=https://cas.uoregon.edu/directory/physics/all/jjt | ref={{sfnref | John Toner}} | access-date=2024-03-20}}</ref>
+
+==Research and innovation==
+In 1995, with {{Ill|Yuhai Tu|de}}, he created what are known as the Toner–Tu equations for swarm behavior (more precisely for [[collective behavior]] of self-propelled objects that follow the behavior of their neighbors as they move).<ref name="WPblog">{{cite web | title=John Toner | website=University of Oregon WordPress Hosting – Educational blogs from our community | url=https://blogs.uoregon.edu/johntoner/ | ref={{sfnref | University of Oregon WordPress Hosting – Educational blogs from our community}} | access-date=2024-03-19}}</ref><ref name= "onsager">{{cite web | title=A short equation delivers a big award for a UO physicist | website=Around the O | date=2019-11-12 | url=https://around.uoregon.edu/content/short-equation-delivers-big-award-uo-physicist | ref={{sfnref | Around the O | 2019}} | access-date=2024-03-19}}</ref> They combined properties of the [[Navier–Stokes equations]] of the hydrodynamics of compressible fluids with simple spin models of [[ferromagnets]] and found a failure of the linearized hydrodynamic equations triggered by strong fluctuations. In contrast, their equation was able to predict the scaling exponents in the limiting case of long wavelengths. An important point is the movement of the individual objects. If one asks a large collection of people arranged in two dimensions, each of whom can only see a few nearest neighbors, to all ''point in'' the same direction, they could not do so (this is the [[Mermin-Wagner theorem]]). However, they can all ''walk'' in the same direction. The Toner–Tu equations are applicable, for example, to swarms of birds and fish, bacteria, molecular motors in cells, cancer cells and, as a model demonstration, collections of small plastic rods moving in the same direction on a vibrating table.<ref name="WPblog"/>
+
+In addition to this phase described by the Toner–Tu equation, there are other phases of active matter that Toner studies theoretically (for example, a phase corresponding to [[liquid crystal]] layers, smectic P).<ref name="smecticp">{{cite journal |last1=Ngo |first1=S. |last2=Romanczuk |first2=P. |last3=Chen |first3=L. |last4=Toner |first4=J. |last5=Chaté |first5=H. |title=Emergent smectic order in simple active particle models |journal=New Journal of Physics |date=2016 |volume=18 |issue=071001}}</ref> In the incompressible case (constant density) this corresponds to a smectic liquid crystal in equilibrium, which in turn can be described by the [[Kardar–Parisi–Zhang equation|KPZ equation]] (which is mostly used to describe interfaces). He also dealt with the reaction of swarms (herds) to external influences and on disordered surfaces and in disordered media.<ref name="WPblog"/>
+
+With Niladri Sarkar and Abhik Basu, Toner developed the hydrodynamic theory of flocking at a solid-liquid interface.<ref>{{cite journal | last=Sarkar | first=Niladri | last2=Basu | first2=Abhik | last3=Toner | first3=John | title=Hydrodynamic theory of flocking at a solid-liquid interface: Long-range order and giant number fluctuations | journal=Physical Review E | volume=104 | issue=6 | date=2021-12-23 | issn=2470-0045 | doi=10.1103/PhysRevE.104.064611| arxiv=2102.02534 }}</ref> This theory has many applications to crucial movements inside the body including how carpets of cilia lining the interior of fallopian tubes give sperm a boost swimming up the tubes and how mucus is removed from the lungs.<ref>{{cite web | title=Physics of cilia explain sperm’s successful swimming | website=Around the O | date=2022-01-18 | url=https://around.uoregon.edu/content/physics-cilia-explain-sperms-successful-swimming | ref={{sfnref | Around the O | 2022}} | access-date=2024-03-19}}</ref>
+
+In addition to formulating the Toner–Tu equations, Toner has made contributions to a wide range of areas of condensed matter physics, including the theory of melting,<ref name="boosdna">{{cite journal |last1=Logan |first1=Jack |last2=Michelson |first2=Aaron |last3=Paattammattel |first3=Ajith |last4=Yen |first4=Hanfei |last5=Gang |first5=Oleg |last6=Tkachenko |first6=Alexei |title=Symmetry-specific characterization of bond orientation order in DNA-assembled nanoparticle lattices |journal=The Journal of Chemical Physics |date=2023 |volume=159 |page=154905}}</ref> quasicrystals,<ref name="Widom">{{cite journal | last=Widom | first=Michael | last2=Mihalkovič | first2=Marek | title=Quasicrystal Structure Prediction: A Review | journal=Israel Journal of Chemistry | date=2023-10-16 | issn=0021-2148 | doi=10.1002/ijch.202300122| arxiv=2308.09192 }}</ref> fluctuating membranes,<ref name="memb1">{{cite journal |last1=Toner |first1=J. |title=Elastic anisotropies and long ranged interactions in solid membranes |journal=Phys. Rev. Lett. |date=1989 |volume=62 |page=905}}</ref> and disordered superconductors.<ref name="=led">{{cite journal | last=Le Doussal | first=Pierre | title=NOVEL PHASES OF VORTICES IN SUPERCONDUCTORS | journal=International Journal of Modern Physics B | volume=24 | issue=20n21 | date=2010-08-30 | issn=0217-9792 | doi=10.1142/S0217979210056384 | pages=3855–3914}}</ref>
+
+==Recognition==
+In 2006 Toner was elected a Fellow of the [[American Physical Society]] "for a wealth of contributions to the theory of correlations, fluctuations, topological defects, and anomalous elasticity and hydrodynamics of partially ordered phases."<ref>{{cite web |title=APS Fellow Archive |url=https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=T&year=2023&unit_id=&institution= |publisher=American Physical Society |access-date=19 March 2024}}</ref>
+
+In 2021 Toner was chosen a Simons Fellow in Theoretical Physics by the [[Simons Foundation]].<ref name="Simons">{{cite web | title=Simons Fellows in Theoretical Physics | website=Simons Foundation | date=2017-07-18 | url=https://www.simonsfoundation.org/grant/simons-fellows-in-theoretical-physics/?tab=awardees | ref={{sfnref | Simons Foundation | 2017}} | access-date=2024-03-20}}</ref>
+
+In 2020 he received the [[Lars Onsager Prize]] with Yuhai Tu and [[Tamás Vicsek]].<ref name= "onsager"/>
+
+In 2019–-20 he was a Gutzwiller Fellow at the [[Max Planck Institute for the Physics of Complex Systems]] in Dresden.<ref>{{cite web | title=Martin Gutzwiller Fellow | website=Welcome to the Max Planck Institute for the Physics of Complex Systems | date=2023-12-11 | url=https://www.pks.mpg.de/research/divisions-and-groups/martin-gutzwiller-fellow | ref={{sfnref | Welcome to the Max Planck Institute for the Physics of Complex Systems | 2023}} | access-date=2024-03-12}}</ref>
+
+==Selected publications==
+* Toner, J.,''Long-Range Order in a Two-Dimensional Dynamical Model: How Birds Fly Together'', Phys. Rev. Lett., Vol. 75, 1995, p.&nbsp;4326
+* Toner, J. and Tu, Y. ''Flocks, herds, and schools: A quantitative theory of flocking'', Phys. Rev. E, Vol. 58, 1998, p.&nbsp;4828, [https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.4828]
+* Toner, J. and Ramaswamy, S., ''Hydrodynamics and phases of flocks'', [[Annals of Physics]], Vol. 318, 2005, S. 170–244
+* Toner, J. ''The Physics of Flocking: Birth, Death, and Flight in Active Matter'', [[Cambridge University Press]]; 2024.[https://www.cambridge.org/core/books/physics-of-flocking/7156611CA514710F371ECCCB07558976]
+
+==References==
+
+<references />
+
+==External links==
+* University of Oregon departmental website [https://cas.uoregon.edu/directory/physics/all/jjt]
+* John Toner's website [https://blogs.uoregon.edu/johntoner/]
+* John Toner on Google Scholar [https://scholar.google.com/citations?hl=en&user=oMTZsbQAAAAJ]
+* John Toner's page on German Wikipedia [https://de.wikipedia.org/wiki/John_Toner_(Physiker)]
+* John Toner's profile on MathSciNet [https://mathscinet.ams.org/mathscinet/MRAuthorID/305940]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Toner, John}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Harvard University alumni]]
+[[Category:University of Oregon faculty]]
+[[Category:21st-century American physicists]]
+[[Category:20th-century American physicists]]
+[[Category:Fellows of the American Physical Society]]

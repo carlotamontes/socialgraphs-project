@@ -1,0 +1,105 @@
+{{Short description|Russian–American mathematician (born 1935)}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox scientist
+| name              = Yakov Sinai
+| native_name       = Яков Синай
+| native_name_lang  = ru
+| image             = Yakov G Sinai photo.jpg
+| caption           = Sinai in 2007
+| birth_name        = Yakov Grigorevich Sinai
+| birth_date        = {{Birth date and age|1935|9|21|mf=y}}
+| birth_place       = Moscow, [[Russian SFSR]], [[Soviet Union]]
+| education         = [[Moscow State University]] ([[Bachelor of Science|BS]], [[Master of Science|MS]], [[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[Andrey Kolmogorov]]
+| doctoral_students = [[Leonid Bunimovich]]<br />[[Nikolai Chernov]]<br /> [[Dmitry Dolgopyat]]<br />[[Svetlana Jitomirskaya]]<br />[[Anatole Katok]]<br />[[Konstantin Khanin]]<br/>[[Grigory Margulis]]<br />[[Valeriy Oseledets]]<br />[[Leonid Polterovich]]<br />[[Marina Ratner]]<br />[[Corinna Ulcigrai]]
+| known_for         = [[Measure-preserving dynamical system]]s, various works on [[dynamical system]]s, mathematical and statistical physics, [[probability theory]], mathematical [[fluid dynamics]]
+| footnotes         = 
+| spouse            = Elena B. Vul
+| field             = Mathematics
+| workplaces        = [[Moscow State University]], [[Landau Institute for Theoretical Physics]], [[Princeton University]]
+| awards            = [[Boltzmann Medal]] (1986)<br />[[Dannie Heineman Prize for Mathematical Physics|Dannie Heineman Prize]] (1990)<br />[[Dirac Medal (ICTP)|Dirac Prize]] (1992)<br />[[Wolf Prize in Mathematics|Wolf Prize]] (1997)<br />[[Nemmers Prize in Mathematics|Nemmers Prize]] (2002)<br />[[Lagrange Prize]] (2008) <br />[[Henri Poincaré Prize]] (2009) <br />Foreign Member of the [[Royal Society]] (2009)<br />[[Leroy P. Steele Prize]] (2013)<br /> [[Abel Prize]] (2014)<br />[[Marcel Grossmann Award]] (2015)
+}}
+
+'''Yakov Grigorevich Sinai''' ({{langx|ru|link=no|Я́ков Григо́рьевич Сина́й}}; born September 21, 1935) is a Russian–American mathematician known for his work on [[dynamical system]]s.   He contributed to the modern metric theory of dynamical systems and connected the world of deterministic (dynamical) systems with the world of probabilistic (stochastic) systems.<ref name=Nature />  He has also worked on [[mathematical physics]] and [[probability theory]].<ref name=Nemmers />  His efforts have provided the groundwork for advances in the physical sciences.<ref name=Nature>{{cite news|title=Chaos-theory pioneer nabs Abel Prize|first=Philip|last=Ball|work=Nature|url=http://www.nature.com/news/chaos-theory-pioneer-nabs-abel-prize-1.14935|date=March 26, 2014|access-date=March 29, 2014}}</ref>
+
+Sinai has won several awards, including the [[Nemmers Prize in Mathematics|Nemmers Prize]], the [[Wolf Prize in Mathematics]] and the [[Abel Prize]]. He has served as professor of mathematics at [[Princeton University]] since 1993 and holds the position of Senior Researcher at the [[Landau Institute for Theoretical Physics]] in Moscow, Russia.
+
+== Biography ==
+Yakov Grigorevich Sinai was born into a [[Russian Jewish]] academic family on September 21, 1935, in Moscow, [[Soviet Union]] (now Russia).<ref name=Abel /> His parents, Nadezda Kagan and Gregory Sinai, were both microbiologists. His grandfather, [[Veniamin Kagan]], headed the Department of
+Differential Geometry at [[Moscow State University]] and was a major influence on Sinai's life.<ref name="Abel">{{cite web |title=Yakov G. Sinai |url=https://abelprize.no/sites/default/files/2021-05/Abel%20prize%202014%20Yakov%20G.%20Sina%20Biography_eng.pdf |access-date=August 2, 2022 |publisher=Abel Prize}}</ref>
+
+Sinai received his bachelor's and master's degrees from [[Moscow State University]].<ref name=Nemmers />  In 1960, he earned his Ph.D., also from Moscow State; his adviser was [[Andrey Kolmogorov]]. Together with Kolmogorov, he showed that even for "unpredictable" dynamic systems, the level of unpredictability of motion can be described mathematically.  In their idea, which became known as [[Measure-preserving dynamical system#Measure-theoretic entropy|Kolmogorov–Sinai entropy]], a system with zero entropy is entirely predictable, while a system with non-zero entropy has an unpredictability factor directly related to the amount of entropy.<ref name=Nature />
+
+In 1963, Sinai introduced the idea of [[dynamical billiards]], also known as "Sinai Billiards".  In this idealized system, a particle bounces around inside a square boundary without loss of energy.  Inside the square is a circular wall, of which the particle also bounces off.  He then proved that for most initial trajectories of the ball, this system is [[ergodic]], that is, after a long time, the amount of that time the ball will have spent in any given region on the surface of the table is approximately proportional to the area of that region.  It was the first time anyone proved such a dynamical system was ergodic.<ref name=Nature />
+
+Also in 1963, Sinai announced a proof of the [[ergodic hypothesis]] for a gas consisting of ''n'' hard spheres confined to a box. The complete proof, however, was never published, and in 1987 Sinai declared that the announcement was premature. The problem remains open to this day.<ref>{{Cite book|url=http://philsci-archive.pitt.edu/2691/1/UffinkFinal.pdf|title=Compendium of the foundations of classical statistical physics|last=Uffink|first=Jos|year=2006|pages=91}}</ref>
+
+Other contributions in mathematics and mathematical physics include the rigorous foundations of [[Kenneth G. Wilson|Kenneth Wilson]]'s renormalization group-method, which led to Wilson's [[Nobel Prize for Physics]] in 1982, Gibbs measures in ergodic theory, hyperbolic [[Markov partition|Markov]] partitions, proof of the existence of [[Hamiltonian dynamics]] for infinite particle systems by the idea of "cluster dynamics", description of the discrete [[Schrödinger operator]]s by the localization of eigenfunctions, Markov partitions for billiards and Lorenz map (with Bunimovich and Chernov), a rigorous treatment of subdiffusions in dynamics, verification of asymptotic [[Poisson distribution]] of energy level gaps for a class of integrable dynamical systems, and his version of the [[Navier–Stokes equations]] together with Khanin, Mattingly and Li.
+
+From 1960 to 1971, Sinai was a researcher in the Laboratory of Probabilistic and Statistical Methods at Moscow State University.  In 1971 he accepted a position as senior researcher at the [[Landau Institute for Theoretical Physics]] in Russia, while continuing to teach at Moscow State. He had to wait until 1981 to become a professor at Moscow State, likely because he had supported the dissident poet, mathematician and human rights activist [[Alexander Esenin-Volpin]] in 1968.<ref>{{Cite web|url=http://www-history.mcs.st-andrews.ac.uk/Biographies/Sinai.html|title=Sinai biography|website=www-history.mcs.st-andrews.ac.uk|access-date=June 28, 2017}}</ref>
+
+Since 1993, Sinai has been a professor of mathematics at [[Princeton University]], while maintaining his position at the Landau Institute.  For the 1997–98 academic year, he was the Thomas Jones Professor at Princeton, and in 2005, the Moore Distinguished Scholar at the [[California Institute of Technology]].<ref name="Abel" />
+
+In 2002, Sinai won the [[Nemmers Prize in Mathematics|Nemmers Prize]] for his "revolutionizing" work on dynamical systems, statistical mechanics, probability theory, and statistical physics.<ref name=Nemmers>{{cite web|title=2002 Frederic Esser Nemmers Mathematics Prize Recipient|publisher=Northwestern University|url=http://www.nemmers.northwestern.edu/prizes/2002sinai.html|access-date=March 30, 2014}}</ref>  In 2005, the ''[[Moscow Mathematical Journal]]'' dedicated an issue to Sinai writing "Yakov Sinai is one of the greatest mathematicians of our time&nbsp;... his exceptional scientific enthusiasm inspire[d] several generations of scientists all over the world."<ref name=Abel />
+
+In 2013, Sinai received the [[Leroy P. Steele Prize]] for Lifetime Achievement.<ref name=Abel /> In 2014, the [[Norwegian Academy of Science and Letters]] awarded him the [[Abel Prize]], for his contributions to dynamical systems, [[ergodic theory]], and mathematical physics.<ref>{{cite web |title=2014: Yakov G. Sinai |url=https://abelprize.no/abel-prize-laureates/2014 |access-date=August 2, 2022 |website=www.abelprize.no |publisher=}}</ref>  Presenting the award, [[Jordan Ellenberg]] said Sinai had solved real world physical problems "with the soul of a mathematician".<ref name=Nature />  He praised the tools developed by Sinai which demonstrate how systems that look different may in fact have fundamental similarities.  The prize comes with 6 million [[Norwegian krone]],<ref name=Nature /> equivalent at the time to $US 1 million or £600,000. He was also inducted into the Norwegian Academy of Science and Letters.<ref>{{cite web|url=http://www.dnva.no/c26849/artikkel/vis.html?tid=40116|title=Gruppe 1: Matematiske fag|publisher=Norwegian Academy of Science and Letters|access-date=March 30, 2016|language=no|archive-date=November 10, 2013|archive-url=https://web.archive.org/web/20131110152102/http://www.dnva.no/c26849/artikkel/vis.html?tid=40116|url-status=dead}}</ref>
+
+Other awards won by Sinai include the [[Boltzmann Medal]] (1986), the [[Dannie Heineman Prize for Mathematical Physics]] (1990), the [[Dirac Medal (ICTP)|Dirac Prize]] (1992), the [[Wolf Prize in Mathematics]] (1997),  the [[Lagrange Prize]] (2008) and the [[Henri Poincaré Prize]] (2009).<ref name=Nemmers /><ref name=Abel /> He is a member of the United States [[National Academy of Sciences]], the [[Russian Academy of Sciences]], and the [[Hungarian Academy of Sciences]].<ref name=Nemmers />  He is an honorary member of the [[London Mathematical Society]] (1992) and, in 2012, he became a fellow of the [[American Mathematical Society]].<ref name=Nemmers /><ref>{{cite web|url=http://www.ams.org/profession/fellows-list|title=List of Fellows of the American Mathematical Society|access-date=July 20, 2013|archive-date=August 25, 2018|archive-url=https://web.archive.org/web/20180825194636/http://www.ams.org/profession/fellows-list|url-status=dead}}</ref>  Sinai has been selected an honorary member of the [[American Academy of Arts and Sciences]] (1983), [[Brazilian Academy of Sciences]] (2000), the [[Academia Europaea]], the [[Polish Academy of Sciences]], and the [[Royal Society]] of London.  He holds honorary degrees from the [[Budapest University of Technology and Economics]], the [[Hebrew University of Jerusalem]], [[Warwick University]], and [[Warsaw University]].<ref name=Abel />
+
+Sinai has authored more than 250 papers and books. Concepts in mathematics named after him include Minlos–Sinai theory of phase separation, Sinai's random walk, [[Sinai–Ruelle–Bowen measure]]s, and Pirogov–Sinai theory, Bleher–Sinai renormalization theory.  Sinai has overseen more than 50 PhD candidates.<ref name=Abel />  He has spoken at the [[International Congress of Mathematicians]] four times.<ref name=Nemmers />  In 2000, he was a plenary speaker at the First Latin American Congress in Mathematics.<ref name=Abel />
+
+Sinai is married to mathematician and physicist Elena B. Vul. The couple have written several joint papers.<ref name=Abel />
+
+==Selected works==
+* ''Introduction to Ergodic Theory''. Princeton 1976.<ref>{{cite journal|author=Chacon, R. V.|title=Review: ''Introduction to ergodic theory'', by Ya. G. Sinai|journal=Bull. Amer. Math. Soc.|year=1978|volume=84|issue=4|pages=656–660|url=http://www.ams.org/journals/bull/1978-84-04/S0002-9904-1978-14515-7/S0002-9904-1978-14515-7.pdf|doi=10.1090/s0002-9904-1978-14515-7|doi-access=free|archive-date=March 28, 2014|access-date=March 28, 2014|archive-url=https://web.archive.org/web/20140328231711/http://www.ams.org/journals/bull/1978-84-04/S0002-9904-1978-14515-7/S0002-9904-1978-14515-7.pdf|url-status=dead}}</ref>
+* ''Topics in Ergodic Theory''. Princeton 1977, 1994.<ref name=Biblio>{{cite web|title=Yakov Bibliography|url=https://web.math.princeton.edu/WebCV/SinaiBIB.pdf|publisher=Princeton University|access-date=March 30, 2014}}</ref>
+* ''Probability Theory – an Introductory Course''. Springer, 1992.<ref name=Biblio />
+* ''Theory of probability and Random Processes'' (with Koralov). 2nd edition, Springer, 2007.<ref name=Biblio />
+* ''Theory of Phase Transitions – Rigorous Results''. Pergamon, Oxford 1982.<ref name=Biblio />
+* ''Ergodic Theory'' (with {{ill|Isaac Kornfeld|de|Issaak Pawlowitsch Kornfeld}} and [[Sergei Fomin]]). Springer, Grundlehren der mathematischen Wissenschaften 1982.<ref name=Biblio />
+* [http://www.ams.org/notices/200404/what-is.pdf "What is a Billiard?"], Notices AMS 2004.<ref name=Biblio />
+* [http://www.ams.org/bull/2006-43-04/S0273-0979-06-01127-X/S0273-0979-06-01127-X.pdf "Mathematicians and physicists = Cats and Dogs?"] in ''Bulletin of the AMS''. 2006, vol. 4.<ref name=Biblio />
+* "How mathematicians and physicists found each other in the theory of dynamical systems and in statistical mechanics", in ''Mathematical Events of the Twentieth Century'' (editors: Bolibruch, Osipov, & Sinai). Springer 2006, p.&nbsp;399.<ref name=Biblio />
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{commons category|Yakov Grigorevich Sinai}}
+*[http://www.scholarpedia.org/article/User:Sinai Sinai] on scholarpedia
+* {{MacTutor Biography|id=Sinai}}
+* {{MathGenealogy|id=10481}}
+* [http://www.itp.ac.ru/en/persons/sinai-yakov-grigorevich/ List of publications] on the website of the [[Landau Institute for Theoretical Physics]]
+
+{{Wolf Prize in Mathematics}}
+{{Abel Prize laureates}}
+{{FRS 2009}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sinai, Yakov G.}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Foreign members of the Royal Society]]
+[[Category:Full Members of the Russian Academy of Sciences]]
+[[Category:International members of the National Academy of Sciences]]
+[[Category:Moscow State University alumni]]
+[[Category:Academic staff of Moscow State University]]
+[[Category:Princeton University faculty]]
+[[Category:Recipients of the Great Cross of the National Order of Scientific Merit (Brazil)]]
+[[Category:Soviet emigrants to the United States]]
+[[Category:Soviet Jews]]
+[[Category:Soviet mathematicians]]
+[[Category:Wolf Prize in Mathematics laureates]]
+[[Category:Abel Prize laureates]]
+[[Category:Dynamical systems theorists]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:20th-century Russian mathematicians]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Statistical physicists]]
+[[Category:Mathematical physicists]]
+[[Category:Russian scientists]]
+[[Category:Recipients of the Boltzmann Medal]]
+[[Category:American fellows of the Royal Society]]

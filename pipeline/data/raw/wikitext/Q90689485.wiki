@@ -1,0 +1,129 @@
+{{Short description|American computer scientist}}
+{{Infobox scientist
+| image            = ChetanNK.jpg
+| image_size       = 
+| caption          = 
+| birth_place      = [[New York City]], [[New York (state)|NY]], United States
+| death_date       = 
+| death_place      = 
+| field            = [[Quantum computing]], [[Computer Science]]
+| workplaces       = [[Microsoft]]
+| education        = {{Plainlist|
+* [[Princeton University]]
+* [[Harvard University]]
+* [[Stuyvesant High School]]}}
+| thesis_title     = Theories of the half-filled Landau level {{r|Dissertation}}
+| thesis_year      = 1996
+| doctoral_advisor = [[Frank Wilczek]] {{r|Dissertation}}
+| awards           = {{Plainlist|
+* [[American Physical Society Fellows|APS Fellow]] (2011){{r|APS}}
+* [[Alfred P. Sloan Foundation]] Fellowship {{r|Report}}
+* [[NSF Career Award|NSF Early Career Award]]
+* Outstanding Young Physicist Award
+}}
+}}
+{{Use dmy dates|cs1-dates=ly|date=January 2022}}
+{{Use list-defined references|date=January 2022}}
+'''Chetan Nayak''' (born 1971) is an Indian-American [[physicist]] and computer scientist specializing in [[quantum computing]]. He is a professor at the [[University of California, Santa Barbara]] and a technical fellow and distinguished engineer on the [[Microsoft Azure Quantum]] hardware team.{{r|DARPA}} He joined [[Microsoft]] in 2005 and became director and general manager of Quantum Hardware at Microsoft Station Q at [[Microsoft Research]] in 2014.{{r|NYT}}{{r|Wired}}{{r|Ghostly}}
+
+==Education and career==
+Nayak was born in New York City in 1971. He earned a bachelor's degree from [[Harvard University]] in 1992 and a Ph.D. in physics from [[Princeton University]] in 1996.{{r|NYT}}{{r|Dissertation}} His dissertation on "Theories of the half-filled Landau level" was completed under [[Frank Wilczek]].{{r|Dissertation}}
+
+In 1996, he was a post-doctoral fellow at the Institute for Theoretical Physics at the [[University of California, Berkeley]] (UCSB) and a professor of physics at the [[University of California, Los Angeles]] from 1997 to 2006.{{r|NYT}}{{r|Haldane}}{{r|Invariant}}
+
+He joined Microsoft in 2005 as a visiting researcher in Redmond, Washington, and the faculty of UCSB in 2007 where he has served as a technical fellow and professor of [[Condensed matter physics|condensed matter theory]] through 2024.{{r|NYT}}{{r|Ghostly}}{{r|UCSB}}{{r|Anyons}}
+
+Nayak has contributed to the theory of [[topological order|topological phases]], [[high-temperature superconductivity]], the [[quantum Hall effect]], and phases of periodically driven quantum systems.{{r|Landmark}}{{r|Quasiparticles}}{{r|Breakthrough}}{{r|Crystals}}{{r|2n}}{{r|Anyons}}{{r|TQC}}{{r|Floquet}}
+
+==Scientific work==
+In 1996, Nayak and Wilczek discovered the type of non-Abelian statistics in paired quantum Hall states associated with [[Majorana fermion|Majorana zero modes]].{{r|2n}}
+
+In 2005, with [[Michael Freedman]] and [[Sankar Das Sarma]], Nayak authored a proposal for a topological [[qubit]] using the 5/2 [[Fractional quantum Hall effect|fractional quantum Hall state]] as the non-Abelian topological state.{{r|Breakthrough}}{{r|Topologically}} In 2006 and 2008, Das Sarma, Freedman and Nayak developed theoretical proposals for [[topological quantum computing]] based on non-abelian [[Anyon|anyons]].{{r|TQC}}{{r|Anyons}}
+
+In 2011, Nayak, Parsa Bonderson and Victor Gurarie proved that quasiparticles in certain quantized Hall states are non-Abelian anyons, firmly establishing the mathematical foundation of these particles.{{r|Landmark}}
+
+In 2016, with Dominic Else and Bela Bauer, he developed Floquet [[Time crystal|time crystals]] and predicted its occurrence in periodically driven systems.{{r|Crystals}}{{r|Floquet}}
+
+Nayak also led research teams in inducing a phase of matter characterized by Majorana zero modes with low enough disorder to pass the topological gap protocol, demonstrating the viability of topological quantum computing. {{r|Practical}} 
+
+In February 2025, the Microsoft Quantum team announced the creation of a chip powered by a topological architecture.{{r|Majorana1}} The claim has been met with skepticism by many in the quantum scientific and engineering community, who question the lack of data supporting the existence of the proposed qubits.{{r|Majorana1NS}}{{r|Majorana1Preskill}} Nayak has clarified that the supporting data, namely measurements on the native operations in a measurement-based topological qubit, do exist. Results were presented to a closed group at a Station Q meeting and are anticipated at the 2025 APS March Meeting.{{r|Majorana1CNSA}}
+
+==Recognition==
+Nayak is a Fellow of the [[American Physical Society]], a recipient of the Outstanding Young Physicist Award from the American Chapter of the Indian Physics Association, an [[Alfred P. Sloan Foundation]] Fellowship, and an NSF Early Career Award.{{r|APS}}{{r|Report}}{{r|Sloan}}{{r|Aspen}}
+
+==References==
+<references>
+
+<ref name="DARPA">{{Cite web |title=Microsoft Quantum Coming Getting DARPA Funding |url=https://rcpmag.com/articles/2024/02/08/microsoft-quantum-computing-darpa.aspx |date=8 Feb 2024 |last1=Kelley |first1=Alexandra |access-date=2024-10-04 |website=Redmond Channel Partner Magazine}}</ref>
+
+<ref name="NYT">{{Cite web |title=Shelly Gable, Chetan Nayak |url=https://www.nytimes.com/2005/03/20/fashion/weddings/shelly-gable-chetan-nayak.html |date=20 Mar 2005 |access-date=2024-10-04 |website= [[The New York Times]]}}</ref>
+
+<ref name="Wired">{{Cite magazine |title=Microsoft is Taking Quantum Computers to the Cloud |url=https://www.wired.com/story/microsoft-taking-quantum-computers-cloud/ |date=4 Nov 2019 |last1=Simonite |first1=Tom |access-date=2024-10-04 |magazine=Wired}}</ref>
+
+<ref name="Ghostly">{{Cite web |title=A ghostly quasiparticle rooted in a century-old Italian mystery could unlock quantum computing's potential—if only it could be pinned down |url=https://www.science.org/content/article/ghostly-quasiparticle-rooted-century-old-mystery-unlock-quantum-computings-potential |date=20 Dec 2023 |last1=Savitsky |first1=Zach |access-date=2024-10-04 |website=Science.org}}</ref>
+
+<ref name="Dissertation">{{Cite web |title=Theories of the Half-Filled Landau Level |url=https://www.proquest.com/openview/1a9c466c9686bab0ca0f5588641a7104/1?pq-origsite=gscholar&cbl=18750&diss=y |date=Nov 1996 |last1=Nayak |first1=Chetan |access-date=2024-10-04 |website=ProQuest}}</ref>
+
+<ref name="Haldane">{{cite journal |last1=Gurarie |first1=Victor |last2=Flohr |first2=Michael |last3=Nayak |first3=Chetan |title=The Haldane-Rezayi quantum Hall state and conformal field theory |url=https://www.sciencedirect.com/science/article/abs/pii/S0550321397003519 |date=11 August 1997 |journal=Nuclear Physics B |volume=498 |issue=13 |pages=513–538 |doi=10.1016/S0550-3213(97)00351-9 |arxiv=cond-mat/9701212 |bibcode=1997NuPhB.498..513G |access-date=4 October 2024}}</ref>
+
+<ref name="Invariant">{{cite journal |last1=Freedman |first1=Michael |last2=Nayak |first2=Chetan |last3=Walker | first3=Kevin |last4=Wang |first4=Zhenghan |title=A class of P,T-invariant topological phases of interacting electrons |url=https://boulderschool.yale.edu/sites/default/files/files/Nayak-P_%20T-invariant.pdf |date=11 August 1997 |journal=Annals of Physics |volume=310 |issue=2004 |pages=428–492 |doi=10.1016/j.aop.2004.01.006 |arxiv=cond-mat/0307511 |access-date=4 October 2024}}</ref>
+
+<ref name="Anyons">{{cite journal |last1=Nayak |first1=Chetan |last2=Simon |first2=Steven |last3=Stern |first3=Ady |last4=Freedman |first4=Michael |last5=Das Sarma |first5=Sankar |title=Non-Abelian anyons and topological quantum computation |url=https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.80.1083 |date= 2008|journal=Reviews of Modern Physics |volume=80 |issue=3 |page=1083 |doi=10.1103/RevModPhys.80.1083 |arxiv=0707.1889 |bibcode=2008RvMP...80.1083N |access-date=4 October 2024}}</ref>
+
+<ref name="UCSB">{{Cite web |title=Condensed Matter Theory |url=https://www.physics.ucsb.edu/research/condensed-matter-theory |access-date=2024-10-04 |website=University of California Santa Barbara}}</ref>
+
+<ref name="Landmark">{{Cite journal |title=A landmark proof |url=https://physics.aps.org/articles/v4/10#c1 |date=11 Feb 2011 |last1=Wilczek |first1=Frank |access-date=2024-10-04 |journal=Physics |volume=4 |page=10 |doi=10.1103/PhysRevB.83.075303 |arxiv=1008.5194}}</ref>
+
+<ref name="Quasiparticles">{{Cite journal |title=Quasiparticles do the twist |url=https://physics.aps.org/articles/v2/82 |date=5 Oct 2009 |last1=Moore |first1=Joel |access-date=2024-10-04 |journal= Physics|volume=2 |page=82 |doi=10.1103/PhysRevB.80.155303|arxiv=0903.3108 }}</ref>
+
+<ref name="Breakthrough">{{Cite web |title=Microsoft Makes Bet Quantum Computing is Next Breakthrough |url=https://www.nytimes.com/2014/06/24/technology/microsoft-makes-a-bet-on-quantum-computing-research.html |date=23 Jun 2014 |last1=Markoff |first1=John |access-date=2024-10-04 |website=The New York Times}}</ref>
+
+<ref name="Crystals">{{Cite web |title=Time crystals might exist after all |url=https://phys.org/news/2016-09-crystals.html#google_vignette |date=9 Sep 2016 |last1=Zyga |first1=Lisa |access-date=2024-10-04 |website=Phys.org}}</ref>
+
+<ref name="2n">{{cite journal |last1=Nayak |first1=Chetan |last2=Wilczek |first2=Frank |title=2n-quasihole states realize 2n−1-dimensional spinor braiding statistics in paired quantum Hall states |url=https://www.sciencedirect.com/science/article/abs/pii/0550321396004300 |date=18 November 1996 |journal=Nuclear Physics B |volume=479 |issue=3 |pages=529–553 |doi=10.1016/0550-3213(96)00430-0 |arxiv=cond-mat/9605145 |access-date=4 October 2024}}</ref>
+
+<ref name="TQC">{{cite journal |last1=Das Sarma |first1=Sankar |last2=Freedman |first2=Michael |last3=Nayak |first3=Chetan |title=Topological Quantum Computation |url=https://pubs.aip.org/physicstoday/article-abstract/59/7/32/1040851/Topological-quantum-computationThe-search-for-a?redirectedFrom=fulltext |date=1 July 2006 |journal=Physics Today |volume=59 |issue=7 |page=32-28 |doi=10.1063/1.2337825 |bibcode=2006PhT....59g..32S |access-date=4 October 2024|url-access=subscription }}</ref>
+
+<ref name="Topologically">{{cite journal |last1=Das Sarma |first1=Sankar |last2=Freedman |first2=Michael |last3=Nayak |first3=Chetan |title=Topologically Protected Qubits from a Possible Non-Abelian Fractional Quantum Hall State |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.090402 |date=27 April 2005 |journal=Physical Review Letters |volume=94 |issue=16 |page=166802 |doi=10.1103/PhysRevLett.117.090402 |pmid=27610834 |arxiv=cond-mat/0412343 |access-date=4 October 2024}}</ref>
+
+<ref name="Floquet">{{cite journal |last1=Else |first1=Dominic |last2=Bauer |first2=Bela |last3=Nayak |first3=Chetan |title=Floquet Time Crystals |url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.090402 |date=26 August 2016 |journal=Physical Review Letters |volume=117 |issue=9 |article-number=090402 |doi=10.1103/PhysRevLett.117.090402 |pmid=27610834 |arxiv=1603.08001 |bibcode=2016PhRvL.117i0402E |access-date=4 October 2024}}</ref>
+
+<ref name="Practical">{{Cite web |title=Microsoft claims to have achieved first milestone in creating a reliable and practical quantum computer |url=https://phys.org/news/2023-06-microsoft-milestone-reliable-quantum.html |date=24 Jun 2023 |last1=Yirka |first1=Bob |access-date=2024-10-04 |website=Phys.org}}</ref>
+
+<ref name="APS">{{Cite web |title=APS Fellowship Division of Condensed Matter Physics Fellowship |url=https://www.aps.org/funding-recognition/aps-fellowship/dcmp-fellowship |date=2011 |access-date=2024-10-04 |website=American Physical Society}}</ref>
+
+<ref name="Report">{{Cite web |title=2000 Annual Report |url=https://sloan.org/storage/app/media/files/annual_reports/2000_annual_report.pdf |date=2000 |access-date=2024-10-04 |website=Sloan.org}}</ref>
+
+<ref name="Sloan">{{Cite web |title=Alfred P. Sloan Foundation Fellows Database |url=https://sloan.org/fellows-database |date=2000 |access-date=2024-10-04 |website=Alfred P. Sloan Foundation}}</ref>
+
+<ref name="Aspen">{{Cite web |title=Chetan Nayak |url=https://aspenphys.org/people/chetan-nayak/ |access-date=2024-10-04 |website=Aspen Center for Physics}}</ref>
+
+<ref name="Majorana1">{{Cite web |title=Microsoft's Majorana 1 chip carves new path for quantum computing |url=https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/ |access-date=2025-02-19 |website=Microsoft}}</ref>
+
+<ref name="Majorana1NS">{{Cite web |title=Microsoft has a new quantum computer – but does it actually work? |url=https://www.newscientist.com/article/2469079-microsoft-has-a-new-quantum-computer-but-does-it-actually-work/ |access-date=2025-02-20 |website=New Scientist}}</ref>
+
+<ref name="Majorana1Preskill">{{Cite web |title=Preskill's comment on Microsoft's PR claim |url=https://www.linkedin.com/posts/john-preskill-154abab3_roadmap-to-fault-tolerant-quantum-computation-activity-7298045316707061761-euN0 |access-date=2025-02-20 |website=LinkedIn}}</ref>
+
+<ref name="Majorana1CNSA">{{Cite web |title=Chetan Nayak's comment on Shtetl-Optimized |url=https://scottaaronson.blog/?p=8669#comment-2003328 |website=Shtetl-Optimized, the Blog of Scott Aaronson}}</ref>
+
+</references>
+
+==External links==
+*{{Google Scholar id|WRL78vEAAAAJ}}
+
+{{Microsoft Research}}
+{{Navboxes
+|title = Awards for Chetan Nayak
+|list =
+{{Regeneron Science Talent Search}}
+}}
+{{Authority control|state=collapsed}}
+
+{{DEFAULTSORT:Nayak, Chetan}}
+[[Category:Living people]]
+[[Category:American computer scientists]]
+[[Category:Princeton University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Microsoft Research people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:1971 births]]

@@ -1,0 +1,112 @@
+{{Short description|American physicist, information theorist, and IBM Research fellow}}
+{{Use mdy dates|date=March 2026}}
+{{more citations needed|date=March 2026}}
+{{Infobox scientist
+| name              = Charles H. Bennett
+| image             = Dr. Charles Bennett IBM Fellow.jpg
+| alt               = Charles H. Bennett
+| birth_name        = Charles Henry Bennett
+| birth_date        = {{birth year and age|1943}}
+| birth_place       = [[New York City]], [[New York (state)|New York]], U.S.
+| death_date        = 
+| death_place       = 
+| education         = {{ubl |[[Brandeis University]] ([[Bachelor of Science|BS]]) |[[Harvard University]] ([[Doctor of Philosophy|PhD]])}}
+| known_for         = {{plainlist|
+*[[Quantum teleportation]]
+*[[Quantum cryptography]]
+*[[Quantum computing]]
+*[[Entanglement distillation]]
+*[[Reversible computing]]
+*[[Overlapping distribution method]]
+*[[Logical depth]]
+*[[Superdense coding]]
+*[[BB84]]
+*[[Bennett's laws]]
+*[[Bennett acceptance ratio]]}}
+| awards            = {{plainlist|
+*[[American Physical Society|APS Fellow]]
+*[[IBM Fellow]] (1995)
+*[[National Academy of Sciences]]
+*[[Harvey Prize]] (2006)
+*[[Dirac Medal (ICTP)|Dirac Medal]] (2017)
+*[[Wolf Prize in Physics]] (2018)
+*[[BBVA Foundation Frontiers of Knowledge Award]] (2019)
+*[[Claude E. Shannon Award]] (2020)
+*[[Breakthrough Prize in Fundamental Physics]] (2023)
+*[[Turing Award]] (2025)}}
+| fields            = {{ubl |[[Computer science]] |[[Quantum information]]}}
+| workplaces        = [[Thomas J. Watson Research Center]]
+| doctoral_advisor  = {{ubl |[[David Turnbull (materials scientist)|David Turnbull]] |[[Berni Alder]]}}
+| website           = {{url |1=https://researcher.watson.ibm.com/researcher/view.php?person=us-bennetc |2=researcher.watson.ibm.com}}
+}}
+'''Charles Henry Bennett''' (born 1943<ref name="IBM bio">{{Cite web |date=July 25, 2016 |title=Charles H. Bennett biography |url=https://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=2861}}</ref>) is an American [[physicist]], [[information theorist]] and [[IBM Fellow]] at [[IBM Research]]. Bennett's recent work at IBM has concentrated on a re-examination of the physical basis of information, applying [[quantum physics]] to the problems surrounding information exchange. He has played a major role in elucidating the interconnections between physics and information, particularly in the realm of [[quantum computation]], but also in [[cellular automata]]<ref>[http://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=us-bennetc&t=1 Charles H. Bennett Bibliography].</ref> and [[reversible computing]].
+
+He co-developed the first practical quantum cryptography protocol (BB84) with Gilles Brassard and is one of the founding fathers of modern [[quantum information theory]] (see [[Bennett's laws|Bennett's four laws of quantum information]]). He shared the 2025 [[Turing Award]] with Brassard for their work in quantum information science.
+
+==Early career==
+Born in 1943 in New York City, Bennett earned a BS in chemistry from [[Brandeis University]] in 1964 and received his PhD from [[Harvard]] in 1970 for molecular-dynamics studies (computer simulation of molecular motion) under [[David Turnbull (materials scientist)|David Turnbull]] and [[Berni Alder]]. At Harvard, he also worked for [[James Watson]] one year as a teaching assistant about the genetic code. For the next two years he continued this research under [[Aneesur Rahman]] at [[Argonne National Laboratory]] (operated by the [[University of Chicago]]).{{cn|date=March 2026}}
+
+After joining IBM Research in 1972, he built on the work of IBM's [[Rolf Landauer]] to show that general-purpose computation can be performed by a logically and thermodynamically reversible apparatus; and in 1982 he proposed a re-interpretation of [[Maxwell's demon]], attributing its inability to break the second law to the [[thermodynamics|thermodynamic]] cost of destroying, rather than acquiring, information.<ref name="Bennett82">{{Cite journal |last=Bennett |first=C. H. |year=1982 |title=The thermodynamics of computation—a review |journal=International Journal of Theoretical Physics |volume=21 |issue=12 |pages=905–940 |bibcode=1982IJTP...21..905B |doi=10.1007/BF02084158 |s2cid=17471991}}</ref> He also published an important paper on the estimation of free-energy differences between two systems, the [[Bennett acceptance ratio]] method.{{cn|date=March 2026}}
+
+==Quantum cryptography==
+{{uncited section|date=March 2026}}
+In collaboration with [[Gilles Brassard]] of the [[Université de Montréal]], Bennett developed a system of [[quantum cryptography]], building on an idea of [[Stephen Wiesner]].  Known as [[BB84]], the system takes advantage of the [[uncertainty principle]] to allow secure communication between parties who share no secret information initially. With the help of [[John A. Smolin|John Smolin]], he built the world's first working demonstration of quantum cryptography in 1989.
+
+His other research interests include [[algorithmic information theory]], in which the concepts of information and randomness are developed in terms of the input/output relation of universal computers, and the analogous use of universal computers to define the intrinsic complexity or "logical depth" of a physical state as the time required by a universal computer to simulate the evolution of the state from a random initial state.
+
+==Teleportation==
+{{uncited section|date=March 2026}}
+In 1993 Bennett and Brassard, in collaboration with others, discovered "[[quantum teleportation]]", an effect in which the complete information in an unknown quantum state is decomposed into purely classical information and purely non-classical Einstein–Podolsky–Rosen ([[EPR paradox]]) correlations, sent through two separate channels, and later reassembled in a new location to produce an exact replica of the original [[quantum state]] that was destroyed in the sending process.
+
+==Later work==
+{{cn span|date=March 2026|In 1995–1997, working with [[John A. Smolin|Smolin]], [[William Wootters|Wootters]], [[David DiVincenzo|DiVincenzo]], and other collaborators, he introduced several techniques for faithful transmission of classical and quantum information through noisy channels, part of the larger field of quantum information and computation theory. Together with others he also introduced the concept of [[entanglement distillation]].}}
+
+Bennett is a Fellow of the [[American Physical Society]] and a member of the [[National Academy of Sciences]]. He was awarded the 2008 [[Harvey Prize]] by the [[Technion]]<ref>[http://www.admin.technion.ac.il/harvey/winners.html LIST OF HARVEY PRIZE WINNERS] {{webarchive|url=https://web.archive.org/web/20081030082625/http://www.admin.technion.ac.il/harvey/winners.html |date=October 30, 2008 }}</ref> and the 2006 Rank Prize in opto-electronics. In 2017 he received the [[Dirac Medal (ICTP)|Dirac Medal]] of the [[ICTP]] and in 2018 the [[Wolf Prize in Physics]].<ref>[https://www.jpost.com/Israel-News/Culture/Paul-McCartney-among-9-Wolf-Prize-recipients-542404 Wolf Prize 2018]</ref> In June 2019, he received the [[Claude E. Shannon Award|Shannon Award]] and for 2019 the [[BBVA Foundation Frontiers of Knowledge Award]] in Basic Sciences.<ref>[https://www.frontiersofknowledgeawards-fbbva.es/noticias/the-bbva-foundation-recognizes-charles-h-bennett-gilles-brassard-and-peter-shor-for-their-fundamental-role-in-the-development-of-quantum-computation-and-cryptography/ BBVA Foundation Frontiers of Knowledge Award]</ref> In 2023 he was awarded the [[Breakthrough Prize in Fundamental Physics]]<ref>[https://breakthroughprize.org/Laureates/1/P1/Y2023 Breakthrough Prize in Fundamental Physics 2023]</ref> and also in 2023 the [[Eduard Rhein Foundation|Eduard Rhein Foundation Prize]] in Technology.<ref>[https://www.eduard-rhein-stiftung.de/en/awardees/ Eduard Rhein Foundation Prize 2023]</ref>
+
+Bennett also co-runs a blog, ''The Quantum Pontiff'', with Steve Flammia and [[Aram Harrow]] and hosted by Dave Bacon.{{cn|date=March 2026}}
+
+In March 2026, Bennett was named, along with [[Gilles Brassard]], as recipient of the 2025 ACM Turing Award, for work on the foundations of quantum information science and secure communication and computing.<ref>{{cite web |title=A.M. Turing Award Winners |url=https://amturing.acm.org/byyear.cfm |website=acm.org |access-date=March 18, 2026}}</ref>
+
+==Private life==
+Bennett identifies himself as an atheist. Recalling a fond memory of the physicist [[Asher Peres]], he writes:<ref>Charles H. Bennett's letter written to the family of Israeli physicist Asher Peres, from [https://web.archive.org/web/20111126142719/http://tx.technion.ac.il/~peres/letters.html a selection of the many letters of condolence sent to the Peres family during January 2005].</ref>
+{{quote|[Asher] often pretended to consult me, a fellow atheist, on matters of religious protocol. As we waited in line to eat the hors d'oeuvres at a conference in Evanston, he said, "There is a prayer Jews traditionally say when they do something new that they have never done before. I am about to eat a new kind of non-Kosher food. Do you think I should say the prayer?"}}
+
+== References ==
+{{reflist}}
+
+==External links==
+{{Wikiquote|Charles Henry Bennett}}
+* [http://www.infoamerica.org/teoria/bennett1.htm Academic biography at Infoamerica.org]
+* [http://www.research.ibm.com/people/b/bennetc/ Charles Bennett's page at IBM site]
+* [http://dabacon.org/pontiff/ ''The Quantum Pontiff'' blog]
+* {{INSPIRE-HEP author}} 
+
+{{Wolf Prize in Physics}}
+{{Claude E. Shannon Award recipients}}
+{{Turing Award laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bennett, Charles H.}}
+[[Category:American theoretical physicists]]
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:IBM Fellows]]
+[[Category:IBM Research computer scientists]]
+[[Category:Brandeis University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:American atheists]]
+[[Category:Scientists from New York City]]
+[[Category:20th-century American engineers]]
+[[Category:21st-century American engineers]]
+[[Category:20th-century American physicists]]
+[[Category:21st-century American physicists]]
+[[Category:American science bloggers]]
+[[Category:21st-century American science writers]]
+[[Category:American quantum information scientists]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:20th-century American science writers]]
+[[Category:Harvey Prize winners]]
+[[Category:Turing Award laureates]]

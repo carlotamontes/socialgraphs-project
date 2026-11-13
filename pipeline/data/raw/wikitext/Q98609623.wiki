@@ -1,0 +1,55 @@
+{{short description|American physicist}}
+{{Infobox scientist
+| name              = Ana Claudia Arias
+| image             = Ana Claudia Arias at World Economic Forum.jpg
+| caption           = Arias at the [[World Economic Forum]] in 2015
+| thesis_title      = Conjugated polymer phase separation and three-dimensional thin-film structure for photovoltaics
+| thesis_url        = https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.596144
+| thesis_year       = 2001
+| education         = [[University of Cambridge]] (PhD) <br> [[Federal University of Paraná]] (BSc, MSc)
+| birth_place       = [[Londrina, Paraná]]
+| doctoral_advisor  = [[Richard Friend]]
+| workplaces        = [[Plastic Logic]] <br> [[Palo Alto Research Center]] <br> [[University of California, Berkeley]]
+| website           = [https://arias.berkeley.edu/ Arias Research Group]
+| birth_date        = {{Birth year and age|1973}}
+}}
+
+'''Ana Claudia Arias''' (born 1973) is a Brazilian American physicist who is a professor of Electrical Engineering and Computer Sciences at the [[University of California, Berkeley]]. Her research considers printed electronic materials and their application in flexible electronics and wearable medical devices.
+
+== Early life and education ==
+Arias was born in [[Londrina]], [[Brazil]].<ref name=":2">{{Cite book|title=Ana Claudia Arias|language=English|oclc=4780146834}}</ref> She studied physics at the [[Federal University of Paraná]] in [[Brazil]], where she earned her master's degree in 1997. Arias moved to the [[United Kingdom]] as a graduate student, where she worked in the research group of [[Richard Friend]].<ref>{{Cite web|title=Ana Claudia Arias|url=https://www.escavador.com/sobre/1923387/ana-claudia-arias|access-date=2020-08-24|website=Escavador|language=pt-br}}</ref> Her doctoral research involved investigations into phase-separation within conjugated polymer thin films used in solar cell and OLEDs.<ref>{{Cite thesis|title=Conjugated polymer phase separation and three-dimensional thin-film structure for photovoltaics|url=https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.596144|publisher=University of Cambridge|date=2001|degree=Ph.D.|first=A. C.|last=Arias}}</ref> Friend and Arias filed several patents on printed electronic devices and materials.<ref>{{Cite web|title=Arias Research Group - Publications|url=https://arias.berkeley.edu/publications/|access-date=2020-08-24|website=arias.berkeley.edu}}</ref>
+
+== Research and career ==
+Arias worked as a postdoc in the Optoelectronics group at the [[University of Cambridge]], where she helped with the formation of the spin-off company [[Plastic Logic]].<ref name=":2" /><ref>{{Cite web|title=Ana Claudia Arias {{!}} EECS at UC Berkeley|url=https://www2.eecs.berkeley.edu/Faculty/Homepages/acarias.html|access-date=2020-08-25|website=www2.eecs.berkeley.edu}}</ref> At [[Plastic Logic]] Arias was responsible for the semiconductor group.<ref name=":2" /> Arias left Plastic Logic in 2003, and joined the research team at the [[Palo Alto Research Center]] (PARC).<ref>{{Cite web|last=|first=|date=|title=Ana C. Arias|url=https://ieeexplore.ieee.org/author/37085591248|access-date=2020-08-24|website=[[IEEE]]}}</ref> At PARC, Arias was responsible for flexible and printed electronics.<ref>{{Cite web|title=Ana Claudia Arias {{!}} Research UC Berkeley|url=https://vcresearch.berkeley.edu/faculty/ana-claudia-arias|access-date=2020-08-24|website=vcresearch.berkeley.edu}}</ref> She worked on the fabrication of wearable sensors, including devices capable of preventing brain injuries in the battlefield. These devices worked by wirelessly monitoring of pressure and acoustic levels.<ref name=":0">{{Cite web|title=Welcome to the World of Wearable Electronics {{!}} Research UC Berkeley|url=https://vcresearch.berkeley.edu/bakarfellows/profile/ana_claudia_arias|access-date=2020-08-24|website=vcresearch.berkeley.edu}}</ref>
+
+In 2011 Arias joined the [[University of California, Berkeley]] as a Professor of Flexible and Printed Electronics, where she serves as Faculty Director of the Berkeley Wireless Research Center.<ref>{{Cite web|title=Ana Claudia Arias {{!}} EECS at UC Berkeley|url=https://www2.eecs.berkeley.edu/Faculty/Homepages/acarias.html|access-date=2020-08-24|website=www2.eecs.berkeley.edu}}</ref><ref>{{Cite journal|last1=Lechêne|first1=Balthazar P.|last2=Cowell|first2=Martin|last3=Pierre|first3=Adrien|last4=Evans|first4=James W.|last5=Wright|first5=Paul K.|last6=Arias|first6=Ana C.|date=2016-08-01|title=Organic solar cells and fully printed super-capacitors optimized for indoor light energy harvesting|journal=Nano Energy|language=en|volume=26|pages=631–640|doi=10.1016/j.nanoen.2016.06.017|issn=2211-2855|doi-access=free}}</ref> At Berkeley, she started to develop sensing systems that look track a patient's vital signs, and provide instant feedback to healthcare professionals.<ref name=":0" /> As part of these efforts, she created a wearable system for [[magnetic resonance imaging]] (MRI) scanning of babies. Conventional MRI systems make use of hard, bulky metal radio frequency coils to receive the MRI signals.<ref name=":0" /> The coils are heavier than the babies being scanned, which means that babies must be anaesthetised to obtain clear images.<ref name=":0" /> In an attempt to mitigate this, Arias created a flexible, lightweight [[radiofrequency coil]] that could be embedded within a [[Swaddling|swaddle]] blanket.<ref name=":0" /> The flexible MRI receivers entered clinical trials in 2016.<ref name=":0" /><ref>{{Cite web|first=Monica|last=Chavez|date=2017-11-15|title=Electronics 'like a second skin' making MRIs safer and easier for children|url=https://www.statnews.com/2017/11/15/safer-mri-printable-electronics/|access-date=2020-08-24|website=STAT|language=en-US}}</ref>
+
+Arias worked with [[Cambridge Display Technology]] to develop lightweight skin-like [[Pulse oximetry|pulse oximeters]].<ref name=":1">{{Cite web|last1=Yang|first1=Sarah|date=2014-12-10|title=Organic electronics could lead to cheap, wearable medical sensors|url=https://news.berkeley.edu/2014/12/10/organic-electronics-cheap-wearable-medical-sensors/|access-date=2020-08-24|website=Berkeley News|language=en-US}}</ref> The oximeters make use of carbon-based (organic) semiconductors, which allow for the fabrication of low-cost electronic devices on flexible substrates.<ref name=":1" /> The sensor makes use of an array of red and near-infrared [[OLED]]s and photodetectors to detect [[Oxygen saturation (medicine)|blood-oxygen levels]].<ref>{{Cite web|title=Berkeley EE Researchers Develops New Skin-like Sensor {{!}} Swarm Lab|url=https://swarmlab.berkeley.edu/news/berkeley-ee-researchers-develops-new-skin-sensor|access-date=2020-08-24|website=swarmlab.berkeley.edu}}</ref> Beyond the measurement of blood oxygen, Arias has developed a multi-sensor platform capable of [[Photoplethysmogram|photoplethysmography]] and biomarker detection from human sweat. These sensing platforms allow insight into the physiological state of the human body.<ref name=":3">{{Cite web|title=Tutorial: Ana Claudia Arias, University of California–Berkeley {{!}} BioCas 2018|url=http://biocas2018.org/pages/tutorial-ana-claudia-arias-university-california-berkeley|access-date=2020-08-24|website=biocas2018.org|archive-date=2020-02-23|archive-url=https://web.archive.org/web/20200223110203/http://www.biocas2018.org/pages/tutorial-ana-claudia-arias-university-california-berkeley|url-status=dead}}</ref> The sweat sensors developed by Arias consist of lactate, sodium and ammonium sensors.<ref name=":3" /> Arias has also investigated materials and devices that can harvest and store energy.<ref>{{Cite web|title=Arias Research Group - Research|url=https://arias.berkeley.edu/research/|access-date=2020-08-24|website=arias.berkeley.edu}}</ref>
+
+== Awards and honours ==
+* 2017 FlexTech R&D Achievement Award<ref>{{Cite web|title=Ana Received FlexTech R&D Achievement Award at 2017FLEX. Congrats!!!|url=https://arias.berkeley.edu/news/2017-06-22_Ana_FlexTech/|access-date=2020-08-24|website=arias.berkeley.edu}}</ref>
+* 2025 class of [[IEEE Fellow]]s<ref>{{cite web|url=https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/fellows/fellow-committee/2025-fellows-class-announcement.pdf|title=IEEE Fellow Class of 2025|publisher=IEEE|access-date=2024-12-07}}</ref>
+
+== Select publications ==
+*{{Cite journal|last1=Granström|first1=M.|last2=Petritsch|first2=K.|last3=Arias|first3=A. C.|last4=Lux|first4=A.|last5=Andersson|first5=M. R.|last6=Friend|first6=R. H.|date=1998|title=Laminated fabrication of polymeric photovoltaic diodes|journal=Nature|volume=395|issue=6699|pages=257–260|doi=10.1038/26183|bibcode=1998Natur.395..257G |s2cid=4361418|issn=0028-0836}}
+*{{Cite journal|last1=Arias|first1=Ana Claudia|last2=MacKenzie|first2=J. Devin|last3=McCulloch|first3=Iain|last4=Rivnay|first4=Jonathan|last5=Salleo|first5=Alberto|date=2010-01-13|title=Materials and Applications for Large Area Electronics: Solution-Based Approaches|journal=Chemical Reviews|volume=110|issue=1|pages=3–24|doi=10.1021/cr900150b|pmid=20070114|issn=0009-2665}}
+*{{Cite journal|last1=Khan|first1=Yasser|last2=Ostfeld|first2=Aminy E.|last3=Lochner|first3=Claire M.|last4=Pierre|first4=Adrien|last5=Arias|first5=Ana C.|date=2016|title=Monitoring of Vital Signs with Flexible and Wearable Medical Devices|journal=Advanced Materials|language=en|volume=28|issue=22|pages=4373–4395|doi=10.1002/adma.201504366|pmid=26867696|bibcode=2016AdM....28.4373K |s2cid=2119933 |issn=1521-4095}}
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Arias, Ana Claudia}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:Scientists from Palo Alto, California]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Federal University of Paraná alumni]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:American women physicists]]
+[[Category:American physicists]]
+[[Category:21st-century American women physicists]]
+[[Category:Fellows of the IEEE]]
+[[Category:American people of Brazilian descent]]
+[[Category:People from Londrina]]

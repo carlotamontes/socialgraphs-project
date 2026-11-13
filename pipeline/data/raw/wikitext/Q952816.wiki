@@ -1,0 +1,116 @@
+{{short description|Swiss–American physicist (1924–1997)}}
+{{Use mdy dates|date=November 2026}}
+{{Infobox scientist
+| name             = Jean Hoerni
+| birth_name       = Jean Amédée Hoerni
+| birth_date       = {{Birth date|1924|09|26}}
+| birth_place      = [[Geneva]], Switzerland
+| death_date       = {{Death date and age|1997|01|12|1924|09|26}}
+| death_place      = [[Seattle, Washington]], U.S.
+| education        =
+{{Collapsible list|bullets=on|title={{nobold|[[University of Geneva]]}}
+ |''[[Licentiate|Licence]]'', Mathematics
+ |[[Doctor of Science|D.Sc.]], Physics
+}}
+{{Collapsible list|bullets=on|title={{nobold|[[University of Cambridge]]}}
+ |[[Doctor of Philosophy|PhD]], Physics
+}}
+| known_for        = Invention of the [[planar process]]
+| spouses          = {{Plainlist|
+* Anne Marie Hoerni
+* Ruth Carmona
+* Jennifer Wilson}}
+| children         = 3
+| awards           = {{Plainlist|
+* [[John Scott Award]] (1966)
+* [[W. Wallace McDowell Award]] (1972)}}
+| fields           = [[Physics]]
+| workplaces       = {{Indented plainlist|
+* [[Shockley Semiconductor Laboratory]]
+* [[Fairchild Semiconductor]]
+* [[Teledyne]]
+* [[Intersil]]}}
+| thesis_title     = Application de la diffraction électronique à l'étude de la structure du graphite
+| thesis_url       = https://reperio.usi.ch/permalink/41SLSP_USI/ok38c5/alma991042548859705501
+| thesis_year      = 1950
+| doctoral_advisor = Richard Charles Extermann<ref>{{Cite web|title=Jean Hoerni |url=https://mathgenealogy.org/id.php?id=337289|publisher=Mathematics Genealogy Project|access-date=November 8, 2026}}</ref>
+}}
+
+'''Jean Amédée Hoerni''' (September 26, 1924 – January 12, 1997) was a Swiss–American [[physicist]]. He was a silicon [[transistor]] pioneer and a member of the "[[traitorous eight]]". He developed the [[planar process]], an important technology for reliably [[Semiconductor device fabrication|fabricating]] and manufacturing [[semiconductor device]]s, such as transistors and [[integrated circuit]]s.
+
+== Biography ==
+Jean Amédée Hoerni was born on September 26, 1924, in [[Geneva]], Switzerland.<ref name="TME">{{Cite web |title=Jean Hoerni – thin layer of silicon dioxide as a bridge for modern electronics |url=https://www.tme.eu/en/news/library-articles/inventors/page/81242/jean-hoerni-thin-layer-of-silicon-dioxide-as-a-bridge-for-modern-electronics/|publisher=Transfer Multisort Elektronik|date=September 26, 2026|access-date= November 8, 2026}}</ref> He attended the [[University of Geneva]], where he received a ''[[Licentiate|licence]]'' in Mathematics in 1947 and a [[doctorate]] in Physics in 1950. He earned a second doctorate in Physics in 1952 from the [[University of Cambridge]].<ref name="Computer Society">{{Cite web|title=Jean A. Hoerni |url=http://www.computer.org/portal/web/awards/hoerni|url-status=dead|publisher=IEEE Computer Society|archive-url= https://web.archive.org/web/20121011130234/http://www.computer.org/portal/web/awards/hoerni |archive-date=October 11, 2012|access-date=March 7, 2011}}</ref>
+
+In 1952, Hoerni moved to the United States and became a postdoctoral fellow at the [[California Institute of Technology]], where he worked within a research group led by [[Linus Pauling]]. In 1956, [[William Shockley]] recruited Hoerni to work with him at the newly-founded [[Shockley Semiconductor Laboratory]]. But Shockley's strange behavior compelled the so-called "[[traitorous eight]]" (Hoerni, [[Julius Blank]], [[Victor Grinich]], [[Eugene Kleiner]], [[Jay Last]], [[Gordon Moore]], [[Robert Noyce]], and [[Sheldon Roberts]]) to leave his laboratory the following year and form [[Fairchild Semiconductor]].<ref name="TME"/>
+
+In 1961, Hoerni left Fairchild to co-found Amelco Semiconductor, a division of [[Teledyne]]. Between 1964 and 1966, he worked as an engineering consultant for the [[Hughes Aircraft Company]] and Union Carbide Electronics.<ref name="Computer Society"/> In 1967, he founded [[Intersil]], a company that specialized in [[CMOS]] circuits for battery-powered devices, including electronic watches.<ref name="TME"/>
+
+== Research ==
+In 1955, [[Carl Frosch]] and Lincoln Derrick discovered and patented [[surface passivation]] by silicon dioxide.<ref name=":02">{{Cite journal |last1=Huff |first1=Howard |last2=Riordan |first2=Michael |date=2007-09-01 |title=Frosch and Derick: Fifty Years Later (Foreword) |url=https://iopscience.iop.org/article/10.1149/2.F02073IF |journal=The Electrochemical Society Interface |volume=16 |issue=3 |pages=29 |doi=10.1149/2.F02073IF |issn=1064-8208|url-access=subscription }}</ref><ref>{{Cite patent|number=US2802760A|title=Oxidation of semiconductive surfaces for controlled diffusion|gdate=1957-08-13|invent1=Lincoln|invent2=Frosch|inventor1-first=Derick|inventor2-first=Carl J.|url=https://patents.google.com/patent/US2802760A}}</ref> Frosch and Derrick were able to manufacture the first silicon dioxide field effect transistors, the first transistors in which drain and source were adjacent at the surface.<ref>{{Cite journal |last1=Frosch |first1=C. J. |last2=Derick |first2=L |date=1957 |title=Surface Protection and Selective Masking during Diffusion in Silicon |url=https://iopscience.iop.org/article/10.1149/1.2428650 |journal=Journal of the Electrochemical Society |language=en |volume=104 |issue=9 |pages=547 |doi=10.1149/1.2428650|url-access=subscription }}</ref> At Shockley Semiconductor, Shockley had circulated the preprint of their article in December 1956 to all his senior staff, including Jean Hoerni. Later, Hoerni attended a meeting where [[Mohamed M. Atalla|Atalla]] presented a paper about passivation based on the previous results at Bell Labs.<ref name="Lojek1202">{{cite book |last1=Lojek |first1=Bo |title=History of Semiconductor Engineering |date=2007 |publisher=[[Springer Science & Business Media]] |isbn=9783540342588 |page=120}}</ref>
+
+The [[planar process]] was invented by Jean Hoerni, with his first patent filed in May 1959, while working at [[Fairchild Semiconductor]].<ref>{{patent|US|3025589|Hoerni, J. A.: "Method of Manufacturing Semiconductor Devices” filed May 1, 1959}}</ref><ref>{{patent|US|3064167|Hoerni, J. A.: "Semiconductor device" filed May 15, 1960}}</ref> The planar process was critical in the invention of [[silicon]] integrated circuit by [[Robert Noyce]].<ref name=Entrepreneur>{{cite web|accessdate=March 16, 2025
+|url=https://calteches.library.caltech.edu/3777/1/Moore.pdf|publisher=[[Caltech]]
+|title=The Accidental Entrepreneur|first=Gordon E. |last=Moore |date=Summer 1994|work=Engineering & Science}}</ref> Noyce built on Hoerni's work with his conception of an integrated circuit, which added a layer of metal to the top of Hoerni's basic structure to connect different components, such as transistors, [[capacitors]], or [[resistors]], located on the same piece of silicon. The planar process provided a powerful way of implementing an integrated circuit that was superior to earlier conceptions of the device.<ref name="Bassett46">{{cite book |last1=Bassett |first1=Ross Knox |url=https://books.google.com/books?id=UUbB3d2UnaAC&pg=PA46 |title=To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology |date=2007 |publisher=[[Johns Hopkins University Press]] |isbn=9780801886393 |page=46}}</ref> With Noyce, [[Jack Kilby]] from [[Texas Instruments]] is usually credited with the invention of the integrated circuit, but Kilby's IC was based on [[germanium]].
+
+== Personal life and death ==
+He was married to Anne Marie Hoerni and had three children: Annie Blackwell, Susan Killham, and Michael Hoerni. He had one brother, Marc Hoerni.<ref name=sfgate-1997-02-05/>   His second marriage to Ruth Carmona also ended in divorce.<ref>{{Cite web|url=http://archives.bitterrootstar.com/backissues/2_17_10/valleyinfo.html|title=Plum Loco owner finds her niche |last=Howell |first=Victoria |website=archives.bitterrootstar.com|access-date=2016-12-13|archive-date=2012-12-03|archive-url=https://web.archive.org/web/20121203060757/http://archives.bitterrootstar.com/backissues/2_17_10/valleyinfo.html|url-status=dead}}</ref> Hoerni married Jennifer Wilson in 1993.
+
+Hoerni died of [[myelofibrosis]] on January 12, 1997, in [[Seattle, Washington]].<ref name=spectrum-12-07/><ref name=sfgate-1997-02-05>{{cite web|url=http://www.sfgate.com/news/article/Jean-A-Hoerni-2855207.php |title= Jean A. Hoerni| publisher=SFGate.com | date= February 5, 1997| accessdate= November 27, 2012}}</ref> He was 72.
+
+== Philanthropy ==
+An avid mountain climber, Hoerni often visited the [[Karakoram Mountains]] in [[Pakistan]] and was moved by the poverty of the Balti [[mountain people]] who lived there. He contributed $12,000, to [[Greg Mortenson]]'s project to build a school in the remote village of Korphe, and later founded the [[Central Asia Institute]] with an endowment of $1 million to continue providing services for them after his death.<ref>[[Three Cups of Tea]], chapter 5. (disk 2, tracks 16-18 of the audiobook version)</ref><ref name=philanthropist>[http://www.gregmortenson.com/Articles/FeaturedArticles/09-12-06ChristianScienceMonitor.htm "A gift for an entire village-- A failed mountaineer becomes a philanthropist after a village without a school saves his life"] {{webarchive|url=https://web.archive.org/web/20080405210519/http://www.gregmortenson.com/Articles/FeaturedArticles/09-12-06ChristianScienceMonitor.htm |date=2008-04-05 }}, Marilyn Gardner, ''Christian Science Monitor'', September 12, 2006</ref> Hoerni named Greg Mortenson as the first Executive Director of the organization, which continues to build schools in Pakistan and Afghanistan.<ref name="Central Asia Institute">[https://www.ikat.org/about-cai/history/ "Central Asia Institute History"] {{webarchive|url=https://web.archive.org/web/20141224210629/https://www.ikat.org/about-cai/history/ |date=2014-12-24 }}, Central Asia Institute</ref>
+
+In December 2007, an article was published by Michael Riordan on Hoerni and his planar process in ''[[IEEE Spectrum]]''. The author claimed that Jay Last pointed out that Hoerni had incredible stamina and could hike for hours on little food or water.<ref name=spectrum-12-07>{{cite web| url=https://spectrum.ieee.org/semiconductors/design/the-silicon-dioxide-solution| archive-url=https://archive.today/20120713202125/http://spectrum.ieee.org/semiconductors/design/the-silicon-dioxide-solution| url-status=dead| archive-date=July 13, 2012| title=The Silicon Dioxide Solution: How physicist Jean Hoerni built the bridge from the transistor to the integrated circuit| author=Michael, Riordan | work=IEEE Spectrum | date= December 2007 | accessdate= November 27, 2012| publisher=IEEE}}</ref>
+
+== Awards ==
+{| class="wikitable"
+! Year
+! Organization
+! Award
+! Citation
+! {{Reference column heading}}
+|-
+| 1966
+| {{Indented plainlist|
+* [[Franklin Institute]]
+* [[Philadelphia City Council]]}}
+| [[John Scott Award]]
+| "[For the] method of achieving true dimensional surface passivation of semi-conductor devices as an integral part of the basic manufacturing process."
+| <ref>{{Cite web|title=Full List of Award Recipients: 1951-2000 |url=https://thejohnscottaward.org/1951-2010.html |publisher=The John Scott Award|access-date=November 2, 2025}}</ref>
+|-
+| 1969
+| Franklin Institute
+| Edward Longstreth Medal 
+| align=center | —
+| <ref>{{Cite web|title=Jean A. Hoerni |url=https://fi.edu/en/awards/laureates/jean-hoerni|publisher=Franklin Institute|access-date= November 8, 2026}}</ref>
+|-
+| 1972
+| [[IEEE Computer Society]]
+| [[W. Wallace McDowell Award]]
+| "For significantly influencing the architecture and design of data processing systems by inventing the planar process of semi-conductor circuit fabrication -- the development that made possible the economical mass production of reliable integrated circuits and semi-conductor memories."
+| <ref name="Computer Society"/>
+|}
+
+== Patents ==
+
+* 1962, U.S. Patent 3,025,589 A ''«Method of manufacturing semiconductor devices»'', assigned to [[Fairchild Camera and Instrument|Fairchild Camera and Instrument Corp.]]
+* 1962, U.S. Patent 3,064,167 A ''«Semiconductor device»,'' assigned to Fairchild Camera and Instrument Corp.
+* 1963, U.S. Patent 3,108,914 A ''«Transistor manufacturing process»'', assigned to Fairchild Camera and Instrument Corp.
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hoerni, Jean}}
+[[Category:1924 births]]
+[[Category:1997 deaths]]
+[[Category:Swiss emigrants to the United States]]
+[[Category:Silicon Valley people]]
+[[Category:American businesspeople in the computer industry]]
+[[Category:American mountain climbers]]
+[[Category:20th-century American businesspeople]]
+[[Category:Swiss expatriates in England]]
+[[Category:Scientists at Shockley Semiconductor Laboratory]]
+[[Category:Businesspeople from Geneva]]
+[[Category:Fairchild Semiconductor people]]

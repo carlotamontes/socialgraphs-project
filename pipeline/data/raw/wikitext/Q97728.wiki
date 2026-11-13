@@ -1,0 +1,94 @@
+{{short description|German physicist}}
+{{Use Oxford spelling |date=November 2024}}
+{{Use dmy dates |date=November 2024}}
+{{Infobox scientist
+|name       = Walter Selke
+|image      = 
+|image_size = 
+
+|
+|birth_date        = {{birth date|1947|5|11|df=y}}
+|birth_place       = [[Hanover|Hannover]], [[Allied-occupied Germany|Germany]]
+|death_date        = {{death date and age|2023|12|22|1947|5|11|df=y}}
+|death_place       = [[Burgwedel]], [[Germany]]
+|residence         = 
+|citizenship       = 
+|nationality       = 
+|ethnicity         = 
+|field             = [[Theoretical Physics]]
+|workplaces        = [[RWTH Aachen]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|footnotes         = 
+|signature         = 
+}}
+'''Walter Selke''' (11 May 1947 – 22 December 2023<ref>{{cite web|url=https://www.aachen-gedenkt.de/traueranzeige/walter-selke|title=Traueranzeigen von Walter Selke, Aachen gedenkt|language=de|access-date=2024-04-16|publisher=www.aachen-gedenkt.de}}</ref>) was a German  professor for [[Theoretical Physics]] at the [[RWTH Aachen]].
+
+==Career==
+After receiving his doctoral degree at the [[Leibniz University Hannover]], followed by postdoctoral positions at the [[Saarland University]], [[Cornell University]], and [[Boston University]], he became a permanent scientific staff member of [[Forschungszentrum Jülich]] in 1981. He held a similar position at the [[Rüschlikon|IBM Research Center (Zürich)]] in 1985–1986. In 1996 Selke became a university professor at the [[RWTH Aachen]], and from 2008 was engaged in the ''Jülich Aachen Research Alliance'' ([[RWTH Aachen|JARA]]). He retired from his teaching duties in 2012.
+
+Selke's main field of expertise was [[statistical physics]], with applications especially, to [[magnetism]] and [[surface physics]]. 
+He was best known for his work on
+[[commensurability (mathematics)|commensurate]] and incommensurate [[ANNNI model|spatially modulated superstructures]] in [[solid-state physics|solids]], with realizations in [[magnet]]s, [[ferroelectric]]s, [[alloy]]s and [[adsorbate]] systems.
+
+Selke published about 150 scientific papers in journals, conference proceedings, [[monograph]]s and books, including many [[review article]]s. Among his coauthors are [[Kurt Binder]], [[Michael E. Fisher]], and [[Valery Pokrovsky]]. He organized and co-organized several workshops and conferences, such as a series of meetings in the years 1988 to 1997 with physicists from the [[Landau Institute for Theoretical Physics]], which took place alternately in Germany and Russia.
+
+From 1997 to 2000 he was member of the editorial board of the [[Journal of Statistical Physics]]. In the inaugural year 2008 he was named an 'Outstanding Referee' by the [[American Physical Society]].<ref>{{cite web|url=https://journals.aps.org/OutstandingReferees|title=Physical Review Journals - Outstanding Referees|language=en|access-date=2024-04-16|publisher=journals.aps.org}}</ref> In 2009, he held a guest professorship at the [[University of New South Wales]].
+
+==Publications==
+{{refbegin}}
+*{{cite journal
+  |author = [[Michael E. Fisher|M.E. Fisher]] and W. Selke
+  |year = 1980
+  |title = Infinitely many commensurate phases in a simple Ising model
+  |journal = Phys. Rev. Lett.
+  |volume = 44
+  |pages = 1502&ndash;1505
+  |doi = 10.1103/PhysRevLett.44.1502
+  |bibcode=1980PhRvL..44.1502F
+  |issue = 23}}
+*{{cite journal
+  |author = W. Selke
+  |year = 1988
+  |title = The ANNNI model—Theoretical analysis and experimental application
+  |journal = Physics Reports
+  |volume = 170
+  |pages = 213&ndash;264
+  |doi = 10.1016/0370-1573(88)90140-8
+  |bibcode = 1988PhR...170..213S
+  |issue = 4 }}
+*{{cite journal
+  |author = [[Swendsen-Wang algorithm|J.-S. Wang]], W. Selke, Vl.S. Dotsenko, and V.B. Andreichenko
+  |year = 1990
+  |title = The critical behaviour of the two-dimensional dilute Ising magnet
+  |journal = Physica A
+  |volume = 164
+  |pages = 221&ndash;239
+  |doi = 10.1016/0378-4371(90)90196-Y
+  |issue = 2
+  |bibcode = 1990PhyA..164..221W}}
+* {{cite journal |first=W. |last=Selke |title=Spatially Modulated Structures in Systems with Competing Interactions" |journal=[[Phase Transitions and Critical Phenomena]] |editor1-first=C. |editor1-last=Domb |editor1-link=Cyril Domb |editor2-first=J.L. |editor2-last=Lebowitz |editor2-link=Joel Lebowitz |volume=15 |pages=1–72 |year=1992 |isbn=0122203151 }}
+{{refend}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.statphys.rwth-aachen.de/cms/Statphys/Forschung/Emeriti/~onsm/Prof-Selke/lidx/1/ Homepage at RWTH Aachen]
+*[http://publish.aps.org/OutstandingReferees Outstanding APS referees]
+
+{{subject bar |auto=0 |portal1=Germany |portal2=Biography }}
+{{Authority control}}
+{{DEFAULTSORT:Selke, Walter}}
+[[Category:1947 births]]
+[[Category:20th-century German physicists]]
+[[Category:2023 deaths]]
+[[Category:21st-century German physicists]]
+[[Category:Academic staff of RWTH Aachen University]]

@@ -1,0 +1,79 @@
+{{short description|Israeli computer scientist}}
+{{Infobox scientist
+| name              = Dorit Aharonov
+| native_name       = דורית אהרונוב
+| native_name_lang  = he
+| image             = דורית אהרונוב - צילום גרשון וויסרפירר.jpg
+| caption           = 
+| birth_date        = {{Birth year and age|1970}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[Quantum computing]]
+| workplaces        = [[Hebrew University]]
+| education         = {{Plainlist|
+* [[Hebrew University]] ([[B.Sc.]], [[Ph.D.]])
+* [[Weizmann Institute of Science]] ([[M.Sc.]])
+* [[Princeton University]] (post-doctorate)
+* [[University of California Berkeley]] (post-doctorate)
+}}
+| doctoral_advisor  = [[Avi Wigderson]]<br />[[Michael Ben-Or]]
+| doctoral_students = 
+| thesis_title      = Noisy Quantum Computation
+| thesis_year       = 1998
+| thesis_url        = http://www.cs.huji.ac.il/~doria/thesis.ps
+| known_for         = [[Aharonov–Jones–Landau algorithm]]<br>[[Quantum threshold theorem]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = Krill Prize for Excellence in Scientific Research
+| religion          = 
+| footnotes         = 
+| signature         = 
+}}
+'''Dorit Aharonov''' ({{langx|he|דורית אהרונוב}}; born 1970) is an [[Israelis|Israeli]] [[computer scientist]] specializing in [[quantum computing]]. She is known for her works on [[Quantum algorithm|quantum algorithms]]. The [[Aharonov–Jones–Landau algorithm]] is named after her.
+
+==Biography==
+Aharonov was born in [[Washington, D.C.]] and grew up in [[Haifa]], the daughter of the mathematician [[Dov Aharonov]] and the niece of the physicist [[Yakir Aharonov]].<ref name="r718">{{cite journal | last=Watzman | first=Haim | title=A theorist of errors | journal=Nature | volume=433 | issue=7021 | date=2005-01-06 | issn=0028-0836 | doi=10.1038/433009a | pages=9–9 | url=https://www.nature.com/articles/433009a }}</ref>{{Citation needed|date=October 2025}}
+
+Aharonov graduated from [[Weizmann Institute of Science]] with an MSc in physics. She received her [[doctorate]] for [[Computer Science]] in 1999 from the Hebrew University of Jerusalem, and her [[thesis]] was entitled ''Noisy Quantum Computation''.<ref name="thesis">{{cite web|title=Noisy Quantum Computation|url=http://www.cs.huji.ac.il/~doria/thesis.ps}}</ref> She also did her post-doctorate in the mathematics department of Princeton University and in the computer science department of University of California Berkeley.<ref name="iqc">{{cite web | title = Institute for Quantum Computing | url = http://www.iqc.ca/people/person.php?id=144 | accessdate = 2011-02-16}}</ref> She was a visiting scholar at the [[Institute for Advanced Study]] in 1998–99.<ref>[http://www.ias.edu/people/cos/frontpage?page=1 Institute for Advanced Study: A Community of Scholars] {{webarchive|url=https://web.archive.org/web/20130106144307/http://www.ias.edu/people/cos/frontpage?page=1 |date=2013-01-06 }}.</ref>
+
+Aharonov has won several awards for her research work. In 2005 she was chosen by Nature magazine as one of the four "most prominent young theorists in their field", and the following year she was awarded the Creel Prize for excellence in scientific research.<ref>{{Cite news |title=כתב העת "נייצ'ר" בחר בד"ר דורית אהרונוב כאחת מארבעת מדעני הפיסיקה המבטיחים בעולם |url=https://www.haaretz.co.il/misc/2005-01-09/ty-article/0000017f-ec65-d639-af7f-edf724360000 |access-date=2024-01-25 |work=הארץ |language=he}}</ref>
+
+Aharonov was an invited speaker in [[International Congress of Mathematicians]] 2010, [[Hyderabad, India|Hyderabad]] on the topic of "Mathematical Aspects of Computer Science".<ref>{{cite web|title=ICM Plenary and Invited Speakers since 1897|url=http://www.mathunion.org/db/ICM/Speakers/SortedByCongress.php|publisher=[[International Congress of Mathematicians]]|access-date=2013-08-14|archive-date=2017-11-08|archive-url=https://web.archive.org/web/20171108012153/http://www.mathunion.org/db/ICM/Speakers/SortedByCongress.php|url-status=dead}}</ref>
+
+She was elected a Member of the [[National Academy of Sciences]] in 2024.<ref>{{cite web | url=https://www.nasonline.org/news-and-multimedia/news/2024-nas-election.html | archive-url=https://web.archive.org/web/20240430193331/https://www.nasonline.org/news-and-multimedia/news/2024-nas-election.html | url-status=dead | archive-date=April 30, 2024 | title=News - NAS }}</ref>
+
+== Honors and awards ==
+* 2006 - Krill Prize for Excellence in Scientific Research<ref>{{Cite web |last=מיכל |date=2020-01-07 |title=Dorit Aharonov |url=https://wolffund.org.il/dorit-aharonov/ |access-date=2024-05-17 |website=Wolf Foundation |language=en-US}}</ref>
+* 2014 - the Michael Bruno Memorial Award<ref>{{Cite web |date=2016-01-22 |title=Dorit Aharonov |url=https://www.simonsfoundation.org/people/dorit-aharonov/ |access-date=2024-05-17 |website=Simons Foundation |language=en-US}}</ref><ref>{{Cite web |title=Bruno Laureates |url=https://iias.huji.ac.il/brunolaureates |access-date=2024-05-17 |website=iias.huji.ac.il}}</ref>
+* 2024 - elected Member of the [[National Academy of Sciences]]{{Citation needed|date=October 2025}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+{{external media | width = 210px | float = right | headerimage=  | video1 = [https://www.youtube.com/watch?v=0FUlRjBcGGE “A Feldenkrais Lesson for the Beginner Scientist: Professor Dorit Aharonov at TEDxJaffa”] }}
+* [http://www.cs.huji.ac.il/~doria/ Aharonov's home page at the Hebrew University of Jerusalem]
+* [http://www.nature.com/nature/journal/v433/n7021/full/433009a.html Profile in ''Nature'']
+* [https://web.archive.org/web/20091027215540/http://www.q2cfestival.com/play.php?lecture_id=7757 Dorit Aharonov in panel discussion, "Harnessing Quantum Physics"] with [[Michele Mosca]], [[Avi Wigderson]], [[Daniel Gottesman]], [[Peter Shor]], and [[Ignacio Cirac]].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aharonov, Dorit}}
+[[Category:Israeli computer scientists]]
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Israeli women computer scientists]]
+[[Category:Israeli women mathematicians]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Weizmann Institute of Science alumni]]
+[[Category:Quantum information scientists]]
+[[Category:Israeli women physicists]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]

@@ -1,0 +1,42 @@
+{{Short description|American particle physicist and software developer (1942–2018)}}
+{{For|the Dutch Olympic fencer|Paul Kunze}}
+{{Infobox person
+| name          = Paul Kunze
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    =  {{Birth date |1942|12|20}}
+| birth_place   = 
+| death_date    = {{Death date and age|2018|09|12|1942|12|20}}<!-- (DEATH date then BIRTH date) -->
+| death_place   = 
+| other_names   = 
+| education     = [[Princeton University]] ([[Doctor of Philosophy|PhD]])<ref name="CERNCourrier2018" />
+| occupation    = [[Particle physicist]] and [[software developer]]
+| employer      = SLAC
+| organization  = [[SLAC National Accelerator Laboratory|Stanford Linear Accelerator Center]] (SLAC)
+| years_active  = 35 years
+| known_for     = The first active [[Web server]] deployed outside of Europe;<ref name="CERNCourrier2018" /> [[GNUstep]] implementation of the [[NeXTSTEP]] framework, and objcX idea.<ref name="CERNCourrier2018" />
+| notable_works = [[HippoDraw]] [[statistical analysis]] software;<ref name="CERNCourrier2018" /> parallel computing on the first server farms installed near [[particle accelerator]]s (SLAC and [[CERN]]).<ref name="CERNCourrier2018"/>
+}}
+'''Paul Kunz''' (December 20, 1942 – September 12, 2018)<ref name="CERNCourrier2018">{{cite journal |last1=Storr |first1=Mick |last2=Fucci |first2=Adolf |last3=Sphicas |first3=Paris |title=Paul Kunz 1942–2018 |url=https://cds.cern.ch/record/2649360/ |journal=CERN Courier |volume=58 |issue=10 |pages=44 |access-date= 3 December 2018}}</ref> was an American [[particle physics|particle physicist]] and [[software developer]], who initiated the deployment of the first [[web server]] outside of [[Europe]]. After a meeting in September 1991 with [[Tim Berners-Lee]] of [[CERN]], he returned to the [[SLAC National Accelerator Laboratory|Stanford Linear Accelerator Center]] (SLAC) with word of the [[World Wide Web]]. By Thursday, December 12, 1991, there was an active [[Web server]] installed and operational at SLAC, establishing the first Web server in the US, the [[Stanford Physics Information Retrieval System#SPIRES High Energy Physics database (SPIRES-HEP)|SPIRES HEP]], connected to the [[Stanford Physics Information Retrieval System|SPIRES]] [[High Energy Physics]] [[database]], thanks to the efforts of Kunz, [[Louise Addis]], and [[Terry Hung]].<ref name="Arxiv2002">{{cite arXiv | eprint=physics/0208059 | last1=Deken | first1=Jean M. | title=First in the Web, but Where are the Pieces? | date=2002 }}</ref>
+
+He was also the originator of the free/open source [[GNUstep]] implementation of the [[NeXTSTEP]] framework and also at the basis of the idea for [[objcX]] ([[objective-C]] for the [[X Window System]]). He was the chief developer of [[HippoDraw]], a [[statistical analysis]] software, primarily intended for the analysis and presentation of [[particle physics]] and [[astrophysics]] data at SLAC.
+
+== External links ==
+* [http://www.gnustep.org/developers/whoiswho.html "GNUstep: Who's Who Developers"]
+* [http://www.slac.stanford.edu/history/earlyweb/history.shtml "Early World Wide Web at SLAC"]
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kunz, Paul}}
+[[Category:1942 births]]
+[[Category:2018 deaths]]
+[[Category:American particle physicists]]
+
+
+{{compu-bio-stub}}
+{{US-physicist-stub}}

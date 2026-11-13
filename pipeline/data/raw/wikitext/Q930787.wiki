@@ -1,0 +1,93 @@
+{{Short description|American physicist (1927–2003)}}
+{{Infobox scientist
+| name              = Marshall Rosenbluth
+| image             = Marshall Rosenbluth.jpg
+| caption           = Rosenbluth in 1994
+| birth_date        = {{Birth date|1927|2|5|mf=y}}
+| birth_place       = [[Albany, New York]], US
+| death_date        = {{death date and age|2003|9|28|1927|2|5|mf=y}}
+| death_place       = [[San Diego, California]], US
+| spouse            = [[Arianna W. Rosenbluth|Arianna Rosenbluth]]<br> Sara Rosenbluth
+| field             = [[Physics]]
+| workplaces        = [[General Atomics]]<br>[[UC San Diego]]<br>[[Princeton University]]<br>[[University of Texas at Austin]]
+| education         = [[Harvard University]] ([[Bachelor of Science|BS]])<br>[[University of Chicago]] ([[PhD]])
+| doctoral_advisor  = [[Edward Teller]]
+| doctoral_students = Michael E. Glinsky
+| known_for         = [[Plasma Physics]]<br> Rosenbluth potentials <br>[[Metropolis algorithm]] <br>Rosenbluth formula
+| awards            = {{plainlist|
+* E.O. Lawrence Prize <small>(1964)</small>
+* [[Albert Einstein Award]] <small>(1967)</small>
+* [[James Clerk Maxwell Prize for Plasma Physics]] <small>(1976)</small>
+* [[Enrico Fermi Award]] <small>(1985)</small>
+* [[Hannes Alfvén Prize]] <small>(2002)</small>
+}}
+| footnotes         = 
+}}
+
+'''Marshall Nicholas Rosenbluth''' (5 February 1927 – 28 September 2003) was an [[Americans|American]] [[Plasma Physics|plasma physicist]] and member of the [[United States National Academy of Sciences|National Academy of Sciences]],<ref>{{Cite web|title=M. N. Rosenbluth|url=https://www.nasonline.org/directory-entry/m-n-rosenbluth-bwlxna/|access-date=2021-12-06|website=www.nasonline.org}}</ref> and member of the [[American Philosophical Society]].<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=Marshall+N.+Rosenbluth&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|access-date=2021-12-06|website=search.amphilsoc.org}}</ref> In 1997 he was awarded the [[National Medal of Science]] for discoveries in controlled thermonuclear fusion, contributions to [[plasma physics]], and work in computational [[statistical mechanics]]. He was also a recipient of the [[Ernest Orlando Lawrence Award|E.O. Lawrence Prize]] (1964), the [[Albert Einstein Award]] (1967), the [[James Clerk Maxwell Prize for Plasma Physics]] (1976), the [[Enrico Fermi Award]] (1985), and the [[Hannes Alfvén Prize]] (2002).
+
+==Early life and education==
+Rosenbluth was born into a Jewish family<ref>{{Cite web|url=http://www.jinfo.org/Physicists.html|title=Jewish Physicists}}</ref> and graduated from [[Stuyvesant High School]] in 1942.<ref>{{cite web |url=http://www.utexas.edu/faculty/council/2004-2005/memorials/rosenbluth/rosenbluth.html |title=In Memoriam - Marshall N. Rosenbluth |date=2004-09-24 |publisher=[[UT Austin]] |author=Larry R. Faulkner|author2=Sue Alexander Greninger |access-date=2007-10-31}}</ref>  He did his undergraduate study at Harvard, graduating in 1946 (B.S., [[Phi Beta Kappa]]), while also serving in the [[U.S. Navy]] (1944–46).  He received his Ph.D. in 1949 from the [[University of Chicago]].<ref>G. Segrè and B. Hoerlin, ''The Pope of Physics'', Picador 2016, p. 268</ref>
+
+==Career==
+During his first post-doctoral position at [[Stanford University]] (1949–1950), he derived the ''Rosenbluth formula'', which was the basis of the analysis used by [[Robert Hofstadter]] in his Nobel prize-winning experimental investigation of [[electron scattering]].  Hofstadter refers to this in his 1961 [[Nobel Lecture]]: "This behavior can be understood in terms of the theoretical scattering law developed by M. Rosenbluth in 1950".
+
+In 1950 his doctoral advisor [[Edward Teller]],<ref>{{Cite web |title=Rosenbluth, M.N. |url=https://history.aip.org/phn/11608036.html |access-date=2023-04-28 |website=history.aip.org}}</ref> who is considered the father of the [[hydrogen bomb]], recruited Rosenbluth to work at [[Los Alamos National Laboratory|Los Alamos]].<ref>Teller, Edward, The Work of Many People, Science, New Series, Vol. 121, No. 3139 (Feb. 25, 1955), pp. 267–275 [271]</ref> Rosenbluth maintained this position until 1956. The research he conducted at Los Alamos led to the development of the H-bomb.
+
+{{blockquote|... Rosenbluth went to the [[Ivy Mike|South Pacific to prepare for the first H-bomb test]]. He had trouble sleeping, and was pondering the bomb design when he realised the scientists had made a calculating error that could result in a dud. The flaw was remedied by modifying the detonator, and the bomb vaporised a [[mile]]-wide island with a power 700 times greater than that of the [[Atomic bombings of Hiroshima and Nagasaki|atom bomb dropped on Hiroshima]] in 1945.<ref>{{cite news|author=Wright, Pearce|author-link=Pearce Wright|newspaper=The Guardian|title=Obituary. Marshall Rosenbluth|date=4 October 2003|url=https://www.theguardian.com/news/2003/oct/04/guardianobituaries.highereducation1}}</ref>}}
+
+In 1953, Rosenbluth derived the [[Metropolis algorithm]],<ref>{{cite journal |author=J.E. Gubernatis |year=2005 |title=Marshall Rosenbluth and the Metropolis Algorithm |url=https://zenodo.org/record/1231899 |journal=[[Physics of Plasmas]] |volume=12 |issue=5 |pages=057303 |bibcode=2005PhPl...12e7303G |doi=10.1063/1.1887186}}</ref> based on generating a [[Markov chain]] which sampled fluid configurations according to the [[Boltzmann distribution]]. This algorithm was first presented in the paper "[[Equation of State Calculations by Fast Computing Machines]]",<ref>{{cite journal |last1=Metropolis |first1=N. |last2=Rosenbluth |first2=A.W. |last3=Rosenbluth |first3=M.N. |last4=Teller |first4=A.H. |last5=Teller |first5=E. |year=1953 |title=Equation of State Calculations by Fast Computing Machines |journal=[[Journal of Chemical Physics]] |volume=21 |issue=6 |pages=1087&ndash;1092 |bibcode=1953JChPh..21.1087M |doi=10.1063/1.1699114 |osti=4390578 |s2cid=1046577 |authorlink1=Nicholas Metropolis |authorlink2=Arianna W. Rosenbluth |authorlink3=Marshall N. Rosenbluth |authorlink4=Augusta H. Teller |authorlink5=Edward Teller |title-link=Equation of State Calculations by Fast Computing Machines}}</ref> coauthored with his wife [[Arianna Rosenbluth]] (who wrote the first computer program to implement the method), [[Nicholas Metropolis]], [[Augusta H. Teller]] and [[Edward Teller]]. This now-famous paper was cited in ''Computing in Science and Engineering'' as being among the top 10 algorithms having the "greatest influence on the development and practice of science and engineering in the 20th century."<ref>{{cite journal |author=I. Beichl and F. Sullivan |year=2000 |title=The Metropolis Algorithm |url=https://zenodo.org/record/1232185 |journal=Computing in Science and Engineering |volume=2 |issue=1 |pages=65–69 |bibcode=2000CSE.....2a..65B |doi=10.1109/5992.814660 |s2cid=42433198}}</ref> He and Arianna subsequently introduced the configurational-bias Monte Carlo method for simulating polymers.<ref>{{Cite journal |last1=Rosenbluth |first1=Marshall N. |last2=Rosenbluth |first2=Arianna W. |date=1955-02-01 |title=Monte Carlo Calculation of the Average Extension of Molecular Chains |journal=The Journal of Chemical Physics |volume=23 |issue=2 |pages=356–359 |bibcode=1955JChPh..23..356R |doi=10.1063/1.1741967 |issn=0021-9606 |doi-access=free}}</ref>
+
+By the late 1950s, Rosenbluth turned his attention to the burgeoning discipline of plasma physics and quickly laid the foundation for many avenues of research in the field, particularly the theory of [[plasma instabilities]]. Although he continued to work on plasma physics for the remainder of his career, he often made forays into other fields.  For example, around 1980, he and coworkers produced a detailed analysis of the [[free electron laser]], indicating how its spectral intensity can be optimized.
+
+In 1956, Rosenbluth left Los Alamos to join an atomic energy firm, General Atomics. In 1960, while still employed with General Atomics he joined the faculty of the [[University of California, San Diego|University of California at San Diego]]. Later, he joined the [[Institute for Advanced Study]] in [[Princeton, New Jersey]] (1967). In 1980, he went to the [[University of Texas at Austin]]. He then went back to University of California at San Diego in 1987. In 1993, he retired from UCSD became the chief scientist of the central team for the International Tokamak Experimental Reactor, where he worked until 1999.<ref>{{Cite web |date=2017-08-12 |title=UTPhysicsHistorySite: Letter from Larry S. Faulkner, President of University of Texas-Austin |url=http://server16.websitehostserver.net/~patandme/UTPhysicsHistoryDW/MarshallNRosenbluth.html |access-date=2024-07-21 |archive-url=https://web.archive.org/web/20170812142140/http://server16.websitehostserver.net/~patandme/UTPhysicsHistoryDW/MarshallNRosenbluth.html |archive-date=2017-08-12 }}</ref><ref>{{Cite journal |last1=Diamond |first1=Patrick H. |last2=Goldberger |first2=Marvin L. |last3=Sagdeev |first3=Roald Z. |last4=Berk |first4=Herbert L. |date=2004 |title=Marshall Nicholas Rosenbluth |url=https://pubs.aip.org/physicstoday/article/57/11/81/1016719/Marshall-Nicholas-Rosenbluth |journal=[[Physics Today]] |volume=57 |issue=11 |pages=81–82|doi=10.1063/1.1839386 |bibcode=2004PhT....57k..81D |url-access=subscription }}</ref> He maintained a high productivity rate throughout his entire career.  Indeed, only a few years before his death, Rosenbluth discovered the existence of residual flows (so-called ''Rosenbluth-Hinton flows''), a key result for understanding turbulence in [[tokamak]]s.<ref>{{Cite journal |last1=Rosenbluth |first1=M. N. |last2=Hinton |first2=F. L. |date=1998-01-26 |title=Poloidal Flow Driven by Ion-Temperature-Gradient Turbulence in Tokamaks |url=https://link.aps.org/doi/10.1103/PhysRevLett.80.724 |journal=Physical Review Letters |volume=80 |issue=4 |pages=724–727 |doi=10.1103/PhysRevLett.80.724|bibcode=1998PhRvL..80..724R |url-access=subscription }}</ref>
+
+==Additional information==
+Upon his retirement, he took on the responsibility of chief scientist of the Central Team for the [[ITER|International Thermonuclear Experimental Reactor]] (ITER) until 1999.  Rosenbluth also served as a member of the [[JASON Defense Advisory Group]].
+
+Rosenbluth was affectionately known as the ''Pope of Plasma Physics'' in reference to his deep understanding of the field.<ref>Kim A. McDonald, [http://www.universityofcalifornia.edu/news/article/5780 Nuclear Fusion Pioneer At UC San Diego Dies At 76] {{webarchive|url=https://web.archive.org/web/20110323120425/http://www.universityofcalifornia.edu/news/article/5780 |date=2011-03-23 }}, obituary at the [[University of California]] website. Retrieved 2008-07-08.</ref>
+
+==Personal life==
+
+[[Arianna W. Rosenbluth|Arianna Rosenbluth]] was his first wife; they were married in 1951, while he was at Stanford. They had four children together. They later divorced; he married Sara Rosenbluth (formerly Sara Unger), an artist and educator in 1980, and they were together until his death.<ref>{{Cite journal |last=Dyson |first=Freeman |date=Jun 2006 |title=Marshall N. Rosenbluth |url=https://www.proquest.com/docview/220909545 |journal=Proceedings of the American Philosophical Society |volume=150 |issue=2 |pages=403–407 |id={{ProQuest|220909545}} }}</ref><ref>{{Cite web |date=2017-08-12 |title=UTPhysicsHistorySite |url=http://server16.websitehostserver.net/~patandme/UTPhysicsHistoryDW/MarshallNRosenbluth.html |access-date=2024-07-21 |archive-url=https://web.archive.org/web/20170812142140/http://server16.websitehostserver.net/~patandme/UTPhysicsHistoryDW/MarshallNRosenbluth.html |archive-date=2017-08-12 }}</ref>
+
+==Notes==
+<references/>
+
+==References==
+* J.W. Van Dam (Ed), ''From Particles to Plasmas: Lectures Honoring Marshall N. Rosenbluth'', [[Addison Wesley]] (1989) {{ISBN|0-201-15680-6}}.
+
+==External links==
+*[http://manhattanprojectvoices.org/oral-histories/marshall-rosenbluths-interview 1994 Audio Interview with Marshall Rosenbluth by Richard Rhodes] Voices of the Manhattan Project
+*[http://www.utexas.edu/faculty/council/2004-2005/memorials/rosenbluth/rosenbluth.html University of Texas Memorial Text]
+*[http://libraries.ucsd.edu/speccoll/findingaids/mss0670.html Marshall N. Rosenbluth Papers] MSS 670. [http://libraries.ucsd.edu/collections/sca/ Special Collections & Archives], UC San Diego Library.
+*[https://web.archive.org/web/20050407184709/http://web.gat.com/awards/rosenbluth_award/rosenbluth.html Rosenbluth Award]
+
+{{Hannes Alfvén Prize recipients}}
+{{James Clerk Maxwell Prize for Plasma Physics recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rosenbluth, Marshall}}
+[[Category:1927 births]]
+[[Category:2003 deaths]]
+[[Category:American nuclear physicists]]
+[[Category:Enrico Fermi Award recipients]]
+[[Category:Harvard University alumni]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:Jewish American physicists]]
+[[Category:American people of German-Jewish descent]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Monte Carlo methodologists]]
+[[Category:National Medal of Science laureates]]
+[[Category:Princeton University faculty]]
+[[Category:University of Chicago alumni]]
+[[Category:Stanford University faculty]]
+[[Category:Stuyvesant High School alumni]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Members of JASON (advisory group)]]
+[[Category:American plasma physicists]]
+[[Category:Scientists from New York (state)]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:20th-century American Jews]]
+[[Category:21st-century American Jews]]
+[[Category:Members of the American Philosophical Society]]
